@@ -59,7 +59,7 @@ peligrosos, tratamiento de riles, aseo y ornato.
 •
 Además genera electricidad por medio de biogás y abono agrícola. 
 
-===== p.4 =====
+===== p.4 · sin texto =====
 Contexto
 
 ===== p.5 =====
@@ -78,11 +78,11 @@ Quebrada Verde, Valparaíso y a la
 falta de alternativas para la 
 disposición final de residuos.
 
-===== p.7 =====
+===== p.7 · sin texto =====
 
-===== p.8 =====
+===== p.8 · sin texto =====
 
-===== p.9 =====
+===== p.9 · sin texto =====
 
 ===== p.10 =====
 Global Methan HUB + Carbon Mapper, una organización sin fines de lucro sita en EE.UU. cuyo objetivo es lograr
@@ -102,9 +102,9 @@ MILLONES DE HABITANTES
 RECIBE LOS DESECHOS DE 
 967.000 HABITANTES
 
-===== p.12 =====
+===== p.12 · sin texto =====
 
-===== p.13 =====
+===== p.13 · sin texto =====
 Acceso: 3,76 
 km
 
@@ -190,7 +190,7 @@ ETAPA 1
 ETAPA 2
 ETAPA 3
 
-===== p.16 =====
+===== p.16 · sin texto =====
 
 ===== p.17 =====
 18
@@ -214,7 +214,7 @@ Esta zona dará además cumplimiento al
 Artículo N°9 del Reglamento N°189 para 
 rellenos sanitarios
 
-===== p.18 =====
+===== p.18 · sin texto =====
 
 ===== p.19 =====
 Valorización de residuos

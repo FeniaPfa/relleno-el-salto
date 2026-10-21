@@ -1,22 +1,69 @@
 """Convierte todo lo descargado a texto plano. Los contenedores (.rar/.zip) se abren
 en un directorio propio y se recorre lo que traigan dentro."""
-import os,io,re,sys,json,html,zipfile,subprocess,shutil,tempfile
+import os,io,re,sys,json,html,zipfile,subprocess,shutil,tempfile,multiprocessing
 import fitz   # PyMuPDF
 
 SAL='sitio/expediente'
 os.makedirs(SAL+'/texto',exist_ok=True); os.makedirs(SAL+'/paginas',exist_ok=True)
 limpia=lambda s: re.sub(r'[^\w.\- ]','_',s)[:120].strip()
 
+TESS=shutil.which('tesseract') or '/opt/homebrew/bin/tesseract'
+VACIA=20       # menos de 20 caracteres no blancos = la pagina no tiene capa de texto
+DPI=150        # 150 da el mismo texto que 300 y tarda la mitad (medido)
+MAXPX=3500     # tope del lado largo: un plano A0 a 300 dpi son 70 MP y ahoga el OCR
+NUCLEOS=max(1,(os.cpu_count() or 2)-2)
+OCR=os.environ.get('OCR')=='1'   # apagado por defecto: ver LEEME.md
+
+def _ocr_pagina(arg):
+    """Rasteriza una pagina y se la pasa a tesseract. Buena parte del expediente
+    -- oficios de servicios, consentimientos firmados, certificados -- esta
+    escaneada: sin esto esas paginas salen en blanco."""
+    ruta,i=arg
+    f=None
+    try:
+        d=fitz.open(ruta); pg=d[i]; r=pg.rect
+        dpi=min(DPI, MAXPX*72.0/max(r.width,r.height,1))
+        f=tempfile.mktemp(suffix='.png')
+        pg.get_pixmap(dpi=int(dpi)).save(f)
+        d.close()
+        t=subprocess.run([TESS,f,'stdout','-l','spa','--psm','3'],
+                         capture_output=True,text=True,timeout=240).stdout.strip()
+        return i,(t if len(re.sub(r'\s','',t))>=VACIA else None)
+    except Exception:
+        return i,None
+    finally:
+        if f and os.path.exists(f):
+            try: os.remove(f)
+            except OSError: pass
+
 def pdf_txt(p):
     try: d=fitz.open(p)
     except Exception as e: return None,'no abre: %s'%e
+    bruto=[pg.get_text() for pg in d]
+    faltan=[i for i,t in enumerate(bruto) if len(re.sub(r'\s','',t))<VACIA]
+    d.close()
+    recuperadas={}
+    if OCR and faltan and os.path.exists(TESS):
+        if len(faltan)>1 and NUCLEOS>1:
+            with multiprocessing.Pool(min(NUCLEOS,len(faltan))) as pool:
+                for i,t in pool.imap_unordered(_ocr_pagina,[(p,i) for i in faltan]):
+                    if t: recuperadas[i]=t
+        else:
+            for i in faltan:
+                _,t=_ocr_pagina((p,i))
+                if t: recuperadas[i]=t
     out=[]
-    for i,pg in enumerate(d):
-        t=pg.get_text()
-        out.append('\n===== p.%d =====\n%s'%(i,t))
+    for i,t in enumerate(bruto):
+        marca=''
+        if i in recuperadas: t=recuperadas[i]; marca=' · OCR'
+        elif i in faltan:    marca=' · sin texto'
+        out.append('\n===== p.%d%s =====\n%s'%(i,marca,t))
     txt=''.join(out)
-    vacio = len(re.sub(r'\s','',txt))<60*d.page_count/10   # casi sin texto -> escaneado
-    return txt,('escaneado o sin capa de texto (%d pag)'%d.page_count if vacio else None)
+    nota='%d KB'%(len(txt)//1024)
+    if recuperadas: nota+=' · %d pag por OCR'%len(recuperadas)
+    sin=len(faltan)-len(recuperadas)
+    if sin: nota+=' · %d de %d pag escaneadas (sin capa de texto)'%(sin,len(bruto))
+    return txt,nota
 
 def html_md(p):
     s=io.open(p,encoding='utf-8',errors='replace').read()
@@ -49,7 +96,7 @@ def procesa(src,etiqueta,prof=0):
         t,nota=pdf_txt(src)
         if t is None: informe.append((etiqueta,'PDF ILEGIBLE',nota)); return
         io.open('%s/texto/%s.txt'%(SAL,limpia(etiqueta)),'w',encoding='utf-8').write(t)
-        informe.append((etiqueta,'pdf',nota or '%d KB de texto'%(len(t)//1024)))
+        informe.append((etiqueta,'pdf-escaneado' if 'escaneadas' in nota else 'pdf',nota))
     elif e in ('rar','zip'):
         if prof>2: return
         tmp=tempfile.mkdtemp(prefix='exp_')

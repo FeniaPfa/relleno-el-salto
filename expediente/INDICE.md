@@ -15,8 +15,31 @@ y comprobar que son los mismos.
 |---|---|
 | Documentos del expediente | **60** |
 | Archivos adjuntos | **97** (1.6 GB) |
-| Piezas con texto extraído | **341** |
-| PDF que necesitan OCR | **0** |
+| Piezas con texto extraído | **315** |
+| Páginas de PDF | **4335** |
+| De ellas, escaneadas (sin capa de texto) | **268** (6.2 %) |
+
+> **Las páginas escaneadas salen vacías, y están marcadas así.** En `texto/` aparecen
+> como `===== p.N · sin texto =====`. Son imágenes: oficios de servicios firmados,
+> consentimientos de entrevistas, certificados, planos. El texto se puede recuperar con
+> OCR —`OCR=1 python3 archivo/extraer.py`— pero eso no está hecho todavía.
+
+### Los más afectados
+
+| archivo | escaneadas / total |
+|---|---|
+| `CAPITULO_12_ACCIONES_PREVIAS __ Anexos_ANEXOS VCT.pdf.txt` | 42 / 45 |
+| `0f2_Capitulo_12_Acciones_Previas __ Capítulo 12. Acciones Previas_Anexos_ANEXO` | 42 / 45 |
+| `CAPITULO_12_ACCIONES_PREVIAS __ Anexos_PDF 1º CICLO.pdf.txt` | 37 / 44 |
+| `0f2_Capitulo_12_Acciones_Previas __ Capítulo 12. Acciones Previas_Anexos_PDF 1` | 37 / 44 |
+| `Cap_319_Medio_Humano __ Ape_ndice A_Consentimientos de uso de entrevista.pdf.t` | 16 / 16 · **entero** |
+| `Anexo_44_Modelacion_de_olores __ Anexos_AnexoA.Normativa_Anexo A. Norma de Lom` | 13 / 13 · **entero** |
+| `Anexo_11_14 __ Anexo 1.1 Antecedentes Legales_Certificados  Vialidad_5. Person` | 12 / 12 · **entero** |
+| `Anexo_11_14 __ Anexo 1.1 Antecedentes Legales_Certificados  Vialidad_2. CIP Pa` | 12 / 12 · **entero** |
+| `Cap_38_Ruido_y_Vibraciones __ Cap 3.8 Estudio y linea de base de Ruido y Vibra` | 11 / 132 |
+| `CAPITULO_12_ACCIONES_PREVIAS __ Anexos_PDF 2_ CICLO .pdf.txt` | 8 / 29 |
+| `0f2_Capitulo_12_Acciones_Previas __ Capítulo 12. Acciones Previas_Anexos_PDF 2` | 8 / 29 |
+| `CAR_COSEMAR_SPA_ENTREGA_EXPFISICO.txt` | 5 / 6 |
 
 `texto/` — un archivo por PDF, incluidos los que venían dentro de un .rar o .zip.
 El nombre es `contenedor __ ruta_interna`.
