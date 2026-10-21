@@ -32,7 +32,8 @@ python3 build.py        # src/ → index.html (valida sintaxis con node si está
 | `src/v3d2.js` | visor del corte del subsuelo, con plano de recorte y secciones geofísicas |
 | `src/shader.js` | GLSL: tinte hipsométrico, sombreado de dos luces, fbm, curvas de nivel por `fwidth`, bilineal manual sobre el heightmap empaquetado |
 | `src/datos.json` | el bundle completo (~255 KB), se inyecta en el marcador |
-| `src/social.html` | etiquetas Open Graph; `{url}` lo reemplaza build.py |
+| `src/social.html` | etiquetas Open Graph, Twitter y JSON-LD; `{url}` lo reemplaza build.py |
+| `src/social-img.html` | plantilla de `social.jpg` (1200×630). Se renderiza con Chrome headless, ver abajo |
 
 `proyecciones.py` regenera las series de masa, metano y camiones desde la tabla de producción
 anual del Capítulo 1. **No está conectado al build**: escribe `data/proyecciones.json` y sus
@@ -71,6 +72,38 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   La tapa de la masa de residuos estuvo invisible así durante semanas sin que nada fallara.
   Hay que invertir el índice (ver `dibujarMasa`) o usar `DoubleSide`.
 - **`reordenar.py` apunta a `web/plantilla.html`**, ruta que ya no existe: hoy es `src/`.
+- **El pie tiene un placeholder de firma** (`.firma` en `plantilla.html`): nombre o colectivo y
+  contacto van ahí antes de publicar. La fecha de actualización la inyecta `build.py` desde git.
+
+## Imagen social
+
+`social.jpg` se genera desde `src/social-img.html`, no se edita a mano. Cuando cambie una cifra
+de la portada o el estado del plazo, hay que regenerarla y **cambiar la versión** en
+`src/social.html` (`social.jpg?v=N`), porque WhatsApp y Facebook cachean la previsualización por URL:
+
+```bash
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu \
+  --hide-scrollbars --window-size=1200,630 --timeout=15000 --screenshot=/tmp/social.png \
+  "file://$PWD/src/social-img.html"
+sips -s format jpeg -s formatOptions 82 /tmp/social.png --out social.jpg
+```
+
+## Rásters: variantes WebP
+
+`build.py` no las genera; se hacen con `cwebp` (Homebrew) y se versionan. El script elige WebP
+si el navegador lo decodifica (`WEBP` en `plantilla.html`) y si no, el PNG/JPG original:
+
+```bash
+cwebp -q 75 -resize 1024 1024 textura.jpg -o textura-1024.webp   # satélite para celular
+sips -z 1024 1024 -s format jpeg -s formatOptions 75 textura.jpg --out textura-1024.jpg
+cwebp -q 70 fondo.jpg -o fondo.webp
+cwebp -lossless -exact cicatriz.png -o cicatriz.webp              # con alfa: sin pérdida
+cwebp -lossless -exact cuenca.png -o cuenca.webp
+for f in ert/ert*_c.png; do cwebp -q 80 "$f" -o "${f%.png}.webp"; done
+```
+
+`cicatriz`, `cuenca` y la primera sección ERT se piden recién cuando su figura se acerca a la
+pantalla (`difiere()`); `textura` se carga a 1024 px salvo en lienzos de más de 1200 px reales.
 
 ## Verificación visual sin abrir el navegador
 
@@ -87,6 +120,15 @@ paralelo contra `python3 -m http.server`, `altura.png` puede no cargar y el terr
 
 El envoltorio es un HTML con un `<iframe src="index.html">` que, tras cargar, hace
 `scrollIntoView` sobre `#cv`, y puede pulsar `#b-sat` o mover `#tl` desde `contentDocument`.
+
+**Para ver la página a ancho de celular, fija el ancho del iframe (390 px) dentro de una ventana
+de 600.** Chrome no abre ventanas de menos de ~500 px: con `--window-size=390` el viewport real
+queda más ancho y la captura sale recortada por la derecha, lo que parece un desborde de la
+página sin serlo.
+
+Los rótulos de los mapas y gráficos SVG se reescalan en pantallas chicas (`escalaTexto`): ningún
+texto baja de 12 px reales, y los que al crecer chocan entre sí o se salen del lienzo se ocultan.
+En escritorio no interviene.
 
 ## Rendimiento: el pendiente más importante
 

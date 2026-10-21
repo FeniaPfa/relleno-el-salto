@@ -28,7 +28,7 @@
 @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
   --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
   --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
-  --line:#30353a; --line2:#262a2e; --lctl:#5b646e;
+  --line:#30353a; --line2:#262a2e; --lctl:#8a949c;
   --acc:#e1676b; --acc-s:#e1676b22;
   --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
   --grid:#ffffff2e;
@@ -36,7 +36,7 @@
 :root[data-theme="dark"]{
   --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
   --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
-  --line:#30353a; --line2:#262a2e; --lctl:#5b646e;
+  --line:#30353a; --line2:#262a2e; --lctl:#8a949c;
   --acc:#e1676b; --acc-s:#e1676b22;
   --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
   --grid:#ffffff2e;
@@ -49,7 +49,7 @@ body{background:var(--bg);color:var(--ink);font-family:var(--txt);
 h1,h2,h3{font-family:var(--doc);margin:0;text-wrap:balance;font-variant-numeric:lining-nums}
 p{margin:0}
 a{color:var(--acc)}
-a:focus-visible,button:focus-visible,input:focus-visible,
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,
 summary:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
 
 /* versalitas reales: reemplazan todo el uppercase+letter-spacing anterior */
@@ -82,7 +82,7 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
 .plazo .d{margin-top:16px;font-family:var(--cifra);font-size:clamp(38px,5.4vw,50px);font-weight:600;
   line-height:.95;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums;
   color:var(--surf)}
-.plazo .d span{font-size:.40em;font-weight:400;margin-left:.35em;opacity:.85}
+.plazo .d span{font-size:.40em;font-weight:400;margin-left:.35em}
 .plazo .t{font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.02em;
   margin-top:8px;color:var(--surf);opacity:.92}
 .plazo .cta{font-family:var(--cart);font-size:14px;font-weight:600;margin-top:12px;
@@ -178,7 +178,7 @@ td b{font-weight:600}
 .mx .o{border-left-color:var(--acc)}
 .mx .c{border-left-color:var(--green)}
 .mx .m{border-left-color:var(--warn)}
-.mx .x{border-left-color:var(--line);opacity:.62}
+.mx .x{border-left-color:var(--line)}
 .mx .nm{font-size:15px;line-height:1.3;font-weight:600}
 .mx .fo{font-family:var(--cart);font-size:12.5px;color:var(--ink3)}
 details.plegado{margin-top:14px}
@@ -271,7 +271,20 @@ footer .imprimir{display:inline-block;margin-top:10px}
   section{break-inside:avoid-page}
   .shd{break-after:avoid}
 }
+.orb{display:inline-flex;gap:4px}
+.orb .tg{min-width:40px;padding:8px 10px;font-size:16px;line-height:1}
+.v3 .cv canvas:focus-visible{outline:3px solid var(--blue);outline-offset:-3px}
 /* ---------- barra fija de acción en móvil ---------- */
+.barra-cta{display:none}
+@media(max-width:720px){
+  .barra-cta{display:flex;gap:8px;position:fixed;left:0;right:0;bottom:0;z-index:20;padding:10px 12px;
+    padding-bottom:max(10px,env(safe-area-inset-bottom));background:var(--surf);border-top:1px solid var(--line)}
+  .barra-cta a{flex:1;display:flex;align-items:center;justify-content:center;min-height:44px;font-family:var(--cart);
+    font-size:15px;font-weight:600;text-decoration:none;border-radius:2px}
+  .barra-cta .como{color:var(--ink);border:1px solid var(--lctl)}
+  .barra-cta .ir{background:var(--acc);color:var(--surf)}
+  body{padding-bottom:72px}
+}
 /* cinta de peligro: decorativa, nunca porta información */
 .cinta{display:block;height:5px;
   background:repeating-linear-gradient(45deg,#f7be1d,#f7be1d 9px,#14161a 9px,#14161a 18px)}
@@ -280,6 +293,8 @@ footer .imprimir{display:inline-block;margin-top:10px}
 /* ---------- móvil ---------- */
 @media(max-width:720px){
   body{font-size:16.5px;line-height:1.62}
+  .vhint{max-width:calc(100% - 150px);font-size:12px;padding:5px 8px;line-height:1.35}
+  .vhint .ancho{display:none}
   .wrap{padding:0 18px 40px}
   section{padding-top:40px}
   .shd{margin-bottom:18px}
@@ -326,6 +341,7 @@ footer .imprimir{display:inline-block;margin-top:10px}
   font-size:14px;color:#e2e6e0;padding:5px 0;cursor:pointer;min-height:28px}
 .panel input{accent-color:#e1676b;width:15px;height:15px;margin:0;flex-shrink:0}
 .panel .sw{width:10px;height:10px;flex-shrink:0;border-radius:1px}
+.vhint .angosto{display:none}
 .vhint{position:absolute;left:12px;bottom:12px;max-width:calc(100% - 200px);font-family:var(--cart);
   font-size:13px;color:#aab4ac;background:rgba(13,16,20,.85);padding:7px 10px;border:1px solid #39413c;z-index:3}
 /* mobiliario cartográfico: norte que gira con la cámara, escala a la distancia del foco, atribución */
@@ -334,11 +350,11 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .mob .fila{display:flex;align-items:flex-end;gap:12px}
 .mob .norte{width:40px;height:40px;display:block;filter:drop-shadow(0 0 2px #14161a) drop-shadow(0 0 1px #14161a)}
 .mob .norte text{font-family:var(--cart)}
-.escala{display:flex;flex-direction:column;align-items:flex-end;font-size:11.5px;line-height:1;
+.escala{display:flex;flex-direction:column;align-items:flex-end;font-size:12.5px;line-height:1;
   padding-bottom:4px;text-shadow:0 0 3px #14161a,0 0 3px #14161a}
 .escala .esb{height:6px;width:80px;border:1.5px solid #e2e6e0;border-top:0;margin-bottom:4px;
   filter:drop-shadow(0 0 1px #14161a)}
-.atrib{font-size:10.5px;color:#b4bcb3;letter-spacing:.01em;text-align:right;
+.atrib{font-size:12px;color:#d8dcd4;background:rgba(13,16,20,.6);padding:2px 6px;border-radius:2px;letter-spacing:.01em;text-align:right;
   text-shadow:0 0 3px #14161a,0 0 3px #14161a,0 0 5px #14161a}
 .marca{position:absolute;left:0;top:0;width:0;height:0;pointer-events:none;z-index:2;
   opacity:0;transition:opacity .18s;will-change:transform}
@@ -517,16 +533,16 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .corte,.membrana{margin:0}
 .corte h3,.membrana h3{font-family:var(--doc);font-size:21px;font-weight:600;
   margin:0 0 14px;color:var(--ink);letter-spacing:-.01em}
-.pila{display:flex;flex-direction:column;height:420px;border:1px solid var(--line);
+.pila{display:flex;flex-direction:column;min-height:420px;border:1px solid var(--line);
   overflow:hidden;background:var(--surf)}
 .seg{position:relative;display:flex;flex-direction:column;justify-content:center;
-  padding:10px 14px;color:#fbf7ec;overflow:hidden}
+  padding:10px 14px;color:#fbf7ec;overflow:visible}
 .seg b{font-family:var(--cifra);font-size:29px;font-weight:600;line-height:1.05;
   letter-spacing:-.01em;font-variant-numeric:tabular-nums}
 .seg i{font-family:var(--cart);font-size:13px;font-style:normal;line-height:1.3;
-  margin-top:5px;opacity:.9;max-width:30ch}
+  margin-top:5px;max-width:30ch}
 .seg.basura{background:repeating-linear-gradient(135deg,#b8431f,#b8431f 9px,#a93c1b 9px,#a93c1b 18px)}
-.seg.mai{background:#a8823f}
+.seg.mai{background:#8d6a2c}
 .seg.roca{background:#4f4b45}
 .corte figcaption{font-family:var(--txt);font-size:14.5px;color:var(--ink2);
   line-height:1.6;margin-top:14px}
@@ -540,7 +556,7 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 #tbl-barrera td:first-child{color:var(--ink)}
 #tbl-barrera td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
 #tbl-barrera tr.clave td{background:var(--acc-s)}
-#tbl-barrera tr.clave td:first-child{font-weight:600;color:var(--acc)}
+#tbl-barrera tr.clave td:first-child{font-weight:600;color:var(--ink);box-shadow:inset 3px 0 0 var(--acc)}
 
 /* ---- fotomontaje ---- */
 .foto{margin:30px 0 0;border:1px solid var(--line);background:var(--surf)}
@@ -575,9 +591,9 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
   grid-row:1/3;align-self:center}
 .rej .ld{font-family:var(--cart);font-size:13.5px;line-height:1.25;color:var(--ink)}
 .rej .lv{font-family:var(--cart);font-size:11.5px;letter-spacing:.02em;color:var(--ink3)}
-.rej .lit.sig{background:var(--acc);border-color:var(--acc)}
-.rej .lit.sig .le,.rej .lit.sig .ld{color:#fff}
-.rej .lit.sig .lv{color:#ffd9d4;font-weight:600}
+.rej .lit.sig{background:#9c1f28;border-color:#9c1f28}
+.rej .lit.sig .le,.rej .lit.sig .ld{color:#fff;font-weight:600}
+.rej .lit.sig .lv{color:#fff;font-weight:600}
 .cascada{display:grid;gap:12px;margin-top:26px}
 @media(min-width:800px){.cascada{grid-template-columns:repeat(3,1fr)}}
 .paso{border-left:3px solid var(--acc);padding:14px 0 14px 17px;position:relative}
@@ -631,7 +647,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
 /* enlaces a los documentos del expediente, en la línea de fuente */
 .src a{color:inherit;text-decoration:none;border-bottom:1px solid var(--lctl);
-  padding-bottom:1px;transition:color .12s,border-color .12s}
+  display:inline-block;padding:4px 0 2px;line-height:1.2;transition:color .12s,border-color .12s}
 .src a:hover{color:var(--acc);border-bottom-color:var(--acc)}
 .src a:focus-visible{outline:2px solid var(--acc);outline-offset:3px;border-radius:1px}
 @media(hover:none){.src a{border-bottom-color:var(--lctl)}}
@@ -820,11 +836,18 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
         <button class="tg" id="b-curv" aria-pressed="true">Curvas</button>
         <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
-        <button class="tg" id="b-tour">▶ Recorrido</button>
+        <button class="tg" id="b-tour" aria-pressed="false"><span aria-hidden="true">▶</span> Recorrido</button>
+        <button class="tg" id="b-sim" aria-pressed="true"><span aria-hidden="true">❚❚</span> Pausar simulación</button>
+        <span class="orb" role="group" aria-label="Mover la cámara">
+          <button class="tg" data-orb="izq" aria-label="Girar a la izquierda">↺</button>
+          <button class="tg" data-orb="der" aria-label="Girar a la derecha">↻</button>
+          <button class="tg" data-orb="mas" aria-label="Acercar">+</button>
+          <button class="tg" data-orb="menos" aria-label="Alejar">−</button>
+        </span>
       </div>
     </div>
     <div class="cv" id="cv">
-      <div class="vhint">Arrastra para girar · acerca para ver más nombres · pasa el cursor por un punto</div>
+      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y − · toca un punto para ver su nombre</span><span class="angosto">Arrastra para girar · + y − acercan · toca un punto</span></div>
       <div class="mob" id="mob" aria-hidden="true">
         <div class="fila">
           <div class="escala"><div class="esb" id="esb"></div><span id="est">1 km</span></div>
@@ -871,7 +894,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="tlh">
         <div><div class="yr" id="tl-yr">Año 25</div>
           <div class="yl">de 25 de vida útil · cierre y post-cierre</div></div>
-        <button class="play" id="tl-play">▶ Animar llenado</button>
+        <button class="play" id="tl-play"><span aria-hidden="true">▶</span> Animar llenado</button>
       </div>
       <input type="range" id="tl" min="0" max="25" value="25" step="1" aria-label="Año de operación">
       <div class="tlg">
@@ -912,13 +935,13 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="leg">
         <span><i style="background:var(--acc)"></i>Zona de disposición</span>
         <span><i style="background:transparent;border:1px solid var(--ink2)"></i>Predio 206 ha</span>
-        <span><i style="background:var(--ink3);opacity:.45"></i>Suelo residencial</span>
+        <span><i style="background:var(--ink3);opacity:.45;border:1px solid var(--ink2)"></i>Suelo residencial</span>
         <span><i style="background:#6fd3f5;border-radius:50%"></i>Colegio o jardín infantil</span>
         <span><i style="background:#ffd166;border-radius:2px"></i>Centro de salud</span>
-        <span><i style="background:#7ad68a;opacity:.6"></i>Sitio Prioritario Palmar 7 Hermanas</span>
-        <span><i style="background:#b79cf0;opacity:.6"></i>Jardín Botánico Nacional</span>
-        <span><i style="background:#6fd3f5;opacity:.6"></i>Humedal urbano protegido</span>
-        <span><i style="background:#2fb7c4;opacity:.65"></i>Reserva Nacional Lago Peñuelas</span>
+        <span><i style="background:#7ad68a;opacity:.6;border:1px solid var(--ink2)"></i>Sitio Prioritario Palmar 7 Hermanas</span>
+        <span><i style="background:#b79cf0;opacity:.6;border:1px solid var(--ink2)"></i>Jardín Botánico Nacional</span>
+        <span><i style="background:#6fd3f5;opacity:.6;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
+        <span><i style="background:#2fb7c4;opacity:.65;border:1px solid var(--ink2)"></i>Reserva Nacional Lago Peñuelas</span>
         <span><i style="border:2px dashed #ffd166;background:transparent"></i>Área de influencia declarada</span>
       </div>
       <div class="tip" id="tip1"></div>
@@ -1080,9 +1103,15 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <div class="v3bar">
       <span class="lbl">Bloque del predio · cotas reales · perfil geofísico</span>
       <div class="toggles" id="ert-btns"></div>
+      <span class="orb toggles" role="group" aria-label="Mover la cámara del corte">
+        <button class="tg" data-orb2="izq" aria-label="Girar a la izquierda">↺</button>
+        <button class="tg" data-orb2="der" aria-label="Girar a la derecha">↻</button>
+        <button class="tg" data-orb2="mas" aria-label="Acercar">+</button>
+        <button class="tg" data-orb2="menos" aria-label="Alejar">−</button>
+      </span>
     </div>
     <div class="cv" id="cv2">
-      <div class="vhint">Arrastra para girar · rueda para acercar</div>
+      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y −</span><span class="angosto">Arrastra para girar · + y − acercan</span></div>
       <div class="panel p2">
         <div class="ph">Capas</div>
         <label><input type="checkbox" id="L2-vaso" checked><span class="sw" style="background:#ff7a45"></span>Vaso del relleno</label>
@@ -1209,7 +1238,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <div class="leg">
       <span><i style="background:#5ad7f5"></i>Recorrido de escorrentía</span>
       <span><i style="background:#2fb7c4"></i>Estero Marga-Marga y Quilpué</span>
-      <span><i style="background:#6fd3f5;opacity:.6"></i>Humedal urbano protegido</span>
+      <span><i style="background:#6fd3f5;opacity:.6;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
       <span><i style="background:var(--acc)"></i>Zona de disposición</span>
     </div>
   </div>
@@ -1486,7 +1515,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <svg id="m5" viewBox="0 0 980 620" role="img"
       aria-label="Cuenca visual del macizo de residuos: las laderas naranjas tienen línea de vista directa al relleno; las quebradas oscuras quedan tapadas por el relieve."></svg>
     <div class="leg">
-      <span><i style="background:#e8784a;opacity:.75"></i>Tiene vista directa al macizo</span>
+      <span><i style="background:#e8784a;opacity:.75;border:1px solid var(--ink2)"></i>Tiene vista directa al macizo</span>
       <span><i style="background:transparent;border:1px solid #fbf7ec"></i>Predio 206 ha</span>
       <span><i style="background:var(--acc)"></i>Zona de disposición</span>
       <span><i style="background:#fbf7ec;border-radius:50%"></i>Población</span>
@@ -1595,6 +1624,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <a class="imprimir" href="#" onclick="window.print();return false">Imprimir esta página</a>
 </footer>
 </main>
+<div class="barra-cta" role="region" aria-label="Ingresar una observación">
+  <a class="como" href="#observar">¿Cómo observar?</a>
+  <a class="ir" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación →</a>
+</div>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
@@ -1604,6 +1637,17 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 "use strict";
 var D = JSON.parse(document.getElementById('D').textContent);
 var $ = function(s){return document.querySelector(s)};
+/* WebP si el navegador lo decodifica; si no, el PNG/JPG original */
+var WEBP=(function(){try{var c=document.createElement('canvas');
+  return c.toDataURL('image/webp').indexOf('data:image/webp')===0}catch(e){return false}})();
+function ras(n){return WEBP?n.replace(/\.(png|jpg)$/,'.webp'):n}
+/* ejecuta fn cuando el elemento está a una pantalla de distancia */
+function difiere(e,fn){
+  if(!('IntersectionObserver' in window)){fn();return}
+  var io=new IntersectionObserver(function(es){ if(es[0].isIntersecting){io.disconnect();fn()} },{rootMargin:'500px'});
+  io.observe(e);
+}
+var RM=!!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches);
 
 /* ---- plazo ---- */
 /* el plazo cierra el 3 de noviembre inclusive: el límite es la medianoche del 4 */
@@ -1617,6 +1661,7 @@ else { document.body.classList.add('cerrado');
   $('.plazo .t').textContent='la participación ciudadana cerró el 3 de noviembre';
   $('.plazo .cta').textContent='Seguir el expediente →';
   $('.plazo').href='https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026';
+  var bi=$('.barra-cta .ir'); if(bi){ bi.textContent='Seguir el expediente →'; bi.href=$('.plazo').href; }
   var bo=$('#observar .btn'); if(bo){ bo.textContent='El plazo cerró: seguir el expediente en el SEA →'; bo.href=$('.plazo').href; }
   var no=$('#observar .note'); if(no) no.innerHTML='<b>El plazo cerró el 3 de noviembre de 2026.</b> Las observaciones '+
     'ingresadas se responden en la Adenda del titular y en la Resolución de Calificación Ambiental. Si la Adenda '+
@@ -1656,6 +1701,39 @@ Array.prototype.forEach.call(document.querySelectorAll('.copiar'),function(b){
     }
   });
 })();
+
+/* ---- rótulos legibles en pantallas chicas: ningún texto SVG bajo 12 px reales ----
+   Los SVG escalan con el viewBox; a 375 px un rótulo de 12 unidades mide 4,6 px.
+   Se guarda el tamaño original y se sube al mínimo cuando el lienzo es chico. */
+function escalaTexto(svg){
+  var vb=svg.viewBox&&svg.viewBox.baseVal, w=svg.clientWidth; if(!vb||!vb.width||!w) return;
+  var k=vb.width/w, MIN=12, subio=false;
+  var textos=Array.prototype.slice.call(svg.querySelectorAll('text'));
+  textos.forEach(function(t){
+    var fs=t.getAttribute('data-fs');
+    if(fs==null){ fs=t.getAttribute('font-size')||'16'; t.setAttribute('data-fs',fs) }
+    var real=parseFloat(fs)/k;
+    if(real<MIN){ t.setAttribute('font-size',(MIN*k).toFixed(2)); subio=true }
+    else t.setAttribute('font-size',fs);
+  });
+  /* al agrandar, los rótulos se pisan: se dejan los primeros que caben y se ocultan los que chocan */
+  var cajas=[];
+  textos.forEach(function(t){
+    if(!subio){ if(t.getAttribute('data-oc')){ t.style.visibility=''; t.removeAttribute('data-oc') } return }
+    var b; try{ b=t.getBBox() }catch(e){ return }
+    var choca=b.x+b.width>vb.x+vb.width||b.x<vb.x||
+      cajas.some(function(c){ return b.x<c.x+c.width+2&&b.x+b.width+2>c.x&&b.y<c.y+c.height+1&&b.y+b.height+1>c.y });
+    if(choca){ t.setAttribute('data-oc','1'); t.style.visibility='hidden' }
+    else { cajas.push(b); if(t.getAttribute('data-oc')){ t.style.visibility=''; t.removeAttribute('data-oc') } }
+  });
+}
+function escalaTodo(){
+  ['m1','m2','m3','m4','m5','c-tres','c-polar','c-filo','c-ch4','c-masa','fsvg'].forEach(function(id){
+    var e=document.getElementById(id); if(e) escalaTexto(e);
+  });
+}
+setTimeout(escalaTodo,0);
+addEventListener('resize',function(){clearTimeout(escalaTodo._t);escalaTodo._t=setTimeout(escalaTodo,120)});
 
 /* ---- proyección mercator ---- */
 function merc(lon,lat){
@@ -1739,7 +1817,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   /* fondo cartográfico, mismo lenguaje que el visor 3D */
   if(D.fondo){
     var F=D.fondo, tl2=P(F.lon0,F.lat1), br=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:tl2[0].toFixed(1), y:tl2[1].toFixed(1),
       width:(br[0]-tl2[0]).toFixed(1), height:(br[1]-tl2[1]).toFixed(1),
       preserveAspectRatio:'none'}));
@@ -1899,7 +1977,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 
   if(D.fondo){
     var F=D.fondo, a=P(F.lon0,F.lat1), b=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:a[0].toFixed(1),y:a[1].toFixed(1),width:(b[0]-a[0]).toFixed(1),
       height:(b[1]-a[1]).toFixed(1),preserveAspectRatio:'none'}));
     svg.appendChild(el('rect',{x:0,y:0,width:W,height:H,fill:'#0d1014','fill-opacity':.42}));
@@ -1992,19 +2070,24 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   /* fondo: relieve + cicatriz encima */
   var tl=P(T.lon0,T.lat1), br=P(T.lon1,T.lat0);
   function img(href,op,grupo){
-    var e=el('image',{href:href,'xlink:href':href,x:tl[0].toFixed(1),y:tl[1].toFixed(1),
+    var a={x:tl[0].toFixed(1),y:tl[1].toFixed(1),
       width:(br[0]-tl[0]).toFixed(1),height:(br[1]-tl[1]).toFixed(1),
-      preserveAspectRatio:'none',opacity:op});
+      preserveAspectRatio:'none',opacity:op};
+    if(href){a.href=href;a['xlink:href']=href}
+    var e=el('image',a);
     (grupo||svg).appendChild(e); return e;
   }
   if(D.fondo){
     var F=D.fondo, a=P(F.lon0,F.lat1), b=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:a[0].toFixed(1),y:a[1].toFixed(1),width:(b[0]-a[0]).toFixed(1),
       height:(b[1]-a[1]).toFixed(1),preserveAspectRatio:'none',opacity:.5}));
   }
   svg.appendChild(el('rect',{x:0,y:0,width:W,height:H,fill:'#0d1014','fill-opacity':.45}));
-  var gCic=el('g',{}); svg.appendChild(gCic); img('cicatriz.png',.95,gCic);
+  var gCic=el('g',{}); svg.appendChild(gCic);
+  /* la cicatriz se pide recién cuando el mapa se acerca a la pantalla */
+  var eCic=img(null,.95,gCic);
+  difiere(svg,function(){var h=ras('cicatriz.png');eCic.setAttribute('href',h);eCic.setAttribute('xlink:href',h)});
 
   /* obras */
   var gPr=el('g',{});
@@ -2311,6 +2394,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 /* ===== simulación de tránsito en la Ruta 60 ===== */
 (function(){
   var cv=document.getElementById('t-canvas'); if(!cv||!D.vial) return;
+  /* el lienzo mide 1000 px pero se muestra más chico: las fuentes se compensan */
+  function fk(){ return Math.max(1, cv.width/Math.max(1,cv.getBoundingClientRect().width)*0.75) }
   var V=D.vial, E=V.eiv, cx=cv.getContext('2d');
   var sel=document.getElementById('t-carga'), rng=document.getElementById('t-anio');
   V.cargas.forEach(function(c,i){
@@ -2355,12 +2440,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     cx.moveTo(0,y+34); cx.lineTo(W,y+34); cx.stroke();
     cx.setLineDash([16,16]); cx.strokeStyle=css('--line');
     cx.beginPath(); cx.moveTo(0,y+22); cx.lineTo(W,y+22); cx.stroke(); cx.setLineDash([]);
-    cx.fillStyle=css('--ink'); cx.font='600 16px '+css('--cart');
+    cx.fillStyle=css('--ink'); cx.font='600 '+Math.round(16*fk())+'px '+css('--cart');
     cx.fillText(etq,14,y-44);
-    cx.fillStyle=css('--ink2'); cx.font='15px '+css('--cart');
+    cx.fillStyle=css('--ink2'); cx.font=Math.round(15*fk())+'px '+css('--cart');
     cx.fillText(sub,14,y-26+54);
     cx.textAlign='right';
-    cx.fillStyle=tono; cx.font='600 26px '+css('--cart');
+    cx.fillStyle=tono; cx.font='600 '+Math.round(26*fk())+'px '+css('--cart');
     cx.fillText(n,W-14,y-40); cx.textAlign='left';
   }
   function dibujar(){
@@ -2378,7 +2463,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     document.getElementById('t-fac').textContent='×'+(s.real/s.eiv).toFixed(1).replace('.',',');
     document.getElementById('t-anio-v').textContent=s.anio;
   }
-  var corre=true, ult=performance.now(), visible=true;
+  var corre=!RM, ult=performance.now(), visible=true;
+  if(RM) document.getElementById('t-play').textContent='▶ Reanudar';
   function bucle(){
     requestAnimationFrame(bucle);
     var t=performance.now(), dt=Math.min((t-ult)/1000,.05); ult=t;
@@ -2419,9 +2505,9 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       svg.appendChild(E('text',{x:ml+w+10,y:y+h2*.78,'font-size':15,'font-weight':600,
         fill:'var(--acc)'},x.borde+' m'));
     });
-    svg.appendChild(E('line',{x1:ml,x2:ml,y1:mt,y2:H-mb+4,stroke:'#ffd166',
+    svg.appendChild(E('line',{x1:ml,x2:ml,y1:mt,y2:H-mb+4,stroke:'var(--warn)',
       'stroke-width':2.4,'stroke-dasharray':'8 5'}));
-    svg.appendChild(E('text',{x:ml,y:H-mb+20,'font-size':12.5,fill:'#c9a243',
+    svg.appendChild(E('text',{x:ml,y:H-mb+20,'font-size':12.5,fill:'var(--warn)',
       'text-anchor':'middle'},'límite del área de influencia'));
     svg.setAttribute('role','img');
     svg.setAttribute('aria-label','Metros que separan a cada población excluida del borde del '+
@@ -2466,16 +2552,17 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var P=fitter([T.lon0,mYi(cyM-hhM),T.lon1,mYi(cyM+hhM)],W,H,0);
   if(D.fondo){
     var F=D.fondo, a=P(F.lon0,F.lat1), b=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:a[0].toFixed(1),y:a[1].toFixed(1),width:(b[0]-a[0]).toFixed(1),
       height:(b[1]-a[1]).toFixed(1),preserveAspectRatio:'none'}));
     svg.appendChild(el('rect',{x:0,y:0,width:W,height:H,fill:'#0d1014','fill-opacity':.5}));
   }
   var gC=el('g',{});
   var tl=P(T.lon0,T.lat1), br=P(T.lon1,T.lat0);
-  gC.appendChild(el('image',{href:'cuenca.png','xlink:href':'cuenca.png',
-    x:tl[0].toFixed(1),y:tl[1].toFixed(1),width:(br[0]-tl[0]).toFixed(1),
-    height:(br[1]-tl[1]).toFixed(1),preserveAspectRatio:'none',opacity:.95}));
+  var eCue=el('image',{x:tl[0].toFixed(1),y:tl[1].toFixed(1),width:(br[0]-tl[0]).toFixed(1),
+    height:(br[1]-tl[1]).toFixed(1),preserveAspectRatio:'none',opacity:.95});
+  gC.appendChild(eCue);
+  difiere(svg,function(){var h=ras('cuenca.png');eCue.setAttribute('href',h);eCue.setAttribute('xlink:href',h)});
   svg.appendChild(gC);
   svg.appendChild(el('path',{d:pathOf(L.predio.g,P),fill:'none',stroke:'#fbf7ec','stroke-width':1.8}));
   svg.appendChild(el('path',{d:pathOf(L.residuos.g,P),fill:'var(--acc)','fill-opacity':.9,

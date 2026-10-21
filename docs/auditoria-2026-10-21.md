@@ -5,6 +5,18 @@ Fecha: 21 de octubre de 2026, sobre `main` en `c06bc9c`. Cuatro revisiones indep
 robustez), cruzadas y deduplicadas. Toda referencia `plantilla:N` es a `src/plantilla.html`.
 Los hallazgos marcados **[verificado]** se comprobaron dos veces, por el agente y por separado.
 
+## Estado al 21 de octubre (rama `auditoria-2026-10-21`)
+
+**Hecho:** 1, 3, 5, 6 (primer corte: pan-y, nombre, teclado, botones), 7 (variantes WebP y
+diferido; faltan fuentes autohospedadas y three.js local), 8 (formato y peso en enlaces;
+faltan los 21 `href` de las tarjetas), 9, 10 (parcial: botadero, falla, polar, contador del
+visor; faltan espesores y universos de poblaciones), textos modelo (2), glosario, pausa de
+animaciones, contraste, barra fija en móvil, impresión, noscript, JSON-LD, robots y sitemap.
+
+**Pendiente:** firma real en el pie (4, placeholder), petición explícita en cada sección y
+reorden de secciones, incorporar Cap. 3.8 y PREMVAL, 21 citas sin enlace, fuentes
+autohospedadas, three.js local, `visores.js` diferido, OG por sección.
+
 ## Diez cosas primero
 
 Ordenadas por impacto sobre el objetivo de la página: que una vecina entienda y presente una
