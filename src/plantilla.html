@@ -627,18 +627,23 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 <div class="wrap">
 
 <section id="hallazgos" style="padding-top:38px">
-  <p class="intro">Hay casas a <b>820 metros</b> del predio donde se construiría el relleno.
-  El viento sopla desde ahí hacia ellas casi todo el año. Y <b>19 de los 25 organismos del
-  Estado</b> que se pronunciaron sobre el estudio lo objetaron. El estudio, en cambio, reconoce
-  <b>un solo impacto significativo</b> en veintitrés evaluados.</p>
+  <p class="intro">El propio titular ubica <b>21 unidades habitacionales</b> alrededor del predio
+  para modelar sus olores. La más cercana queda a <b>676 metros</b> del perímetro. El viento sopla
+  desde el relleno hacia ellas casi todo el año. Y <b>19 de los 25 organismos del Estado</b> que se
+  pronunciaron sobre el estudio lo objetaron. El estudio, en cambio, reconoce <b>un solo impacto
+  significativo</b> en veintitrés evaluados.</p>
   <p class="intro">Nada de esto es opinión de los vecinos: todo sale de la cartografía y las
   modelaciones que el propio titular presentó al expediente.</p>
   <div class="find">
     <div>
-      <div class="v c-acc">820<span class="u">m</span></div>
-      <div class="k">Separan el suelo residencial más cercano del <b>deslinde del predio</b>.
-      Hasta la pila de basura hay 1,32 km, pero las obras empiezan en el deslinde.</div>
-      <div class="s">Medido borde a borde contra polígonos de uso residencial.</div>
+      <div class="v c-acc">676<span class="u">m</span></div>
+      <div class="k">Del perímetro del proyecto a la <b>unidad habitacional más cercana</b>, según la
+      tabla de receptores que el <b>propio titular</b> usó para modelar olores. Las 21 que lista están
+      entre 676 m y 2,1 km, y <b>todas al norte</b>: ninguna queda al otro lado del predio.</div>
+      <div class="s">Anexo 8.1 Plan de Gestión de Olor, Tabla 11 (dentro del
+      <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar">Capítulo 8</a>).
+      La cartografía abierta da 820 m al suelo residencial más cercano; recalculada contra el
+      deslinde, la tabla del titular cuadra dentro de 16 m.</div>
     </div>
     <div>
       <div class="v c-warn">96,6<span class="u">%</span></div>
@@ -2020,8 +2025,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 (function(){
   var nom=['Pompeya Sur','Botania','Cumbres de Quilpué','Canal Chacao','El Salto'];
   var por={}; D.barrios.forEach(function(b){ if(!(b.n in por)) por[b.n]=b });
-  var filas=[{n:'Suelo residencial más cercano',d:D.min_resid_predio_km,
-              dp:D.min_resid_km,m:'borde'}];
+  var filas=[];
+  /* la fila que más pesa: la declara el titular, no la calculamos nosotros */
+  if(D.rolor) filas.push({n:'Unidad habitacional R1 <i>(la declara el titular)</i>',
+              d:D.rolor.pts[0].d, dp:D.rolor.pts[0].dres, m:'borde'});
+  filas.push({n:'Suelo residencial más cercano',d:D.min_resid_predio_km,
+              dp:D.min_resid_km,m:'borde'});
   if(D.edificacion) filas.push({n:'Construcción más cercana',d:D.edificacion.d_predio,
               dp:D.edificacion.d_res,m:'borde'});
   nom.forEach(function(k){ var b=por[k];
