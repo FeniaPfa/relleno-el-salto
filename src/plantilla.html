@@ -550,15 +550,19 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
   /* En estrecho los controles bajan debajo del mapa, asi que al mover el rumbo
      no se ve la pluma: justo lo que el control existe para mostrar. Este duplicado
      flota sobre el lienzo y solo aparece en modo Manual. */
-  .vflot{position:absolute;left:10px;right:10px;bottom:10px;z-index:4;
-    display:flex;align-items:center;gap:10px;
-    background:rgba(13,16,20,.92);border:1px solid #39413c;border-radius:3px;
-    padding:9px 12px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+  .vflot{position:absolute;left:8px;right:8px;bottom:8px;z-index:4;
+    display:flex;flex-direction:column;gap:7px;
+    background:rgba(13,16,20,.93);border:1px solid #39413c;border-radius:3px;
+    padding:9px 10px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+  .vflot .fila{display:flex;align-items:center;gap:6px}
+  .vflot .modos .tg{flex:1;min-width:0;padding:7px 4px;font-size:12.5px;min-height:36px;
+    color:#c6cec7;border-color:#4a5450;text-align:center;white-space:nowrap}
+  .vflot .modos .tg[aria-pressed="true"]{background:#f0b26a;color:#17120a;border-color:#f0b26a}
+  .vflot .modos #w-man2[aria-pressed="true"]{background:#8fb8d4;color:#0d1620;border-color:#8fb8d4}
   .vflot .et{font-family:var(--cart);font-size:14px;font-weight:600;color:#8fb8d4;
-    min-width:46px;font-variant-numeric:tabular-nums}
-  .vflot input[type=range]{flex:1;min-width:0;accent-color:#8fb8d4;height:34px}
-  .vflot .nm{font-family:var(--cart);font-size:12.5px;color:#c6cec7;
-    max-width:40%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    min-width:44px;font-variant-numeric:tabular-nums}
+  .vflot input[type=range]{flex:1;min-width:0;accent-color:#8fb8d4;height:32px}
+  .vflot .nm{font-family:var(--cart);font-size:12.5px;color:#aeb6ae;text-align:center}
 }
 @media(min-width:901px){ .vflot{display:none} }
 @media(max-width:720px){
@@ -1046,10 +1050,17 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     </div>
     <div class="cv" id="cv">
       <div class="vflot" id="vflot" hidden>
-        <span class="et" id="vflot-et">30°</span>
-        <input type="range" id="w-dir2" min="0" max="355" step="5" value="10"
-               aria-label="Dirección del viento, en grados">
-        <span class="nm" id="vflot-n"></span>
+        <div class="fila modos">
+          <button class="tg" id="w-pri2" aria-pressed="true">Predominante</button>
+          <button class="tg" id="w-sec2" aria-pressed="false">Secundario</button>
+          <button class="tg" id="w-man2" aria-pressed="false">Manual</button>
+        </div>
+        <div class="fila mando" id="vflot-mando" hidden>
+          <span class="et" id="vflot-et">10°</span>
+          <input type="range" id="w-dir2" min="0" max="355" step="5" value="10"
+                 aria-label="Dirección del viento, en grados">
+        </div>
+        <div class="nm" id="vflot-n"></div>
       </div>
       <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y − · toca un punto para ver su nombre</span><span class="angosto">Arrastra para girar · + y − acercan · toca un punto</span></div>
       <div class="mob" id="mob" aria-hidden="true">

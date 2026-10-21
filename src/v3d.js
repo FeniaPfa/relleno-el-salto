@@ -940,7 +940,13 @@ function fijarViento(m,rumbo){
      contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
      reflui­a y el deslizador saltaba bajo el cursor. */
   var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho', m==='man');
-  var fl=$('#vflot'); if(fl) fl.hidden = m!=='man';
+  /* el mando flotante existe en los tres modos: sirve para cambiar de modo sin
+     bajar a los controles, que en estrecho están debajo del mapa */
+  var fl=$('#vflot'); if(fl) fl.hidden=false;
+  var md=$('#vflot-mando'); if(md) md.hidden = m!=='man';
+  ['pri','sec','man'].forEach(function(k){
+    var b=$('#w-'+k+'2'); if(b) b.setAttribute('aria-pressed',String(k===m));
+  });
   var s2=$('#w-dir2'); if(s2 && +s2.value!==rumbo) s2.value=rumbo;
   marcarPluma(); ecoFlotante();
   ['pri','sec','man'].forEach(function(k){
@@ -963,15 +969,24 @@ $('#w-man').addEventListener('click',function(){
   });
 })();
 function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); ecoFlotante(); }
+(function(){ var fl=$('#vflot'); if(fl) fl.hidden=false; ecoFlotante(); })();
 /* el duplicado que flota sobre el mapa en pantallas estrechas */
 function ecoFlotante(){
   var et=$('#vflot-et'), nm=$('#vflot-n');
   if(et) et.textContent=vientoHacia+'°';
   if(nm){
     var li=(typeof aSotavento==='function') ? aSotavento(vientoHacia) : [];
-    nm.textContent = li.length ? li.length+' a sotavento' : 'nadie a sotavento';
+    nm.innerHTML = (li.length ? '<b>'+li.length+'</b> comunidades a sotavento'
+                              : 'nadie a sotavento') +
+                   (modoViento==='man' ? ' · supuesto tuyo' : '');
   }
 }
+(function(){
+  var b;
+  if((b=$('#w-pri2'))) b.addEventListener('click',function(){ fijarViento('pri',V.hacia) });
+  if((b=$('#w-sec2'))) b.addEventListener('click',function(){ fijarViento('sec',V.sec_hacia) });
+  if((b=$('#w-man2'))) b.addEventListener('click',function(){ fijarViento('man',vientoHacia) });
+})();
 (function(){
   var s2=$('#w-dir2'); if(!s2) return;
   s2.addEventListener('input',function(){
