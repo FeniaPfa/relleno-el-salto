@@ -124,6 +124,19 @@ def procesa(src,etiqueta,prof=0):
                     informe.append((etiqueta,'kmz','kml extraido'))
         except Exception as ex: informe.append((etiqueta,'KMZ ILEGIBLE',str(ex)))
         finally: shutil.rmtree(tmp,ignore_errors=True)
+    elif e in ('docx','dotx'):
+        # un .docx es un zip; el texto vive en word/document.xml
+        try:
+            with zipfile.ZipFile(src) as z:
+                x=z.read('word/document.xml').decode('utf-8','replace')
+            x=re.sub(r'</w:p>','\n',x)
+            x=re.sub(r'<w:tab[^>]*/>','\t',x)
+            t=html.unescape(re.sub(r'<[^>]+>','',x))
+            t=re.sub(r'\n{3,}','\n\n',t).strip()
+            io.open('%s/texto/%s.txt'%(SAL,limpia(etiqueta)),'w',encoding='utf-8').write(t)
+            informe.append((etiqueta,'docx','%d caracteres'%len(t)))
+        except Exception as ex:
+            informe.append((etiqueta,'DOCX ILEGIBLE',str(ex)))
     elif e in ('kml','txt','csv','xml'):
         io.open('%s/texto/%s.%s'%(SAL,limpia(etiqueta),e),'w',encoding='utf-8').write(
             io.open(src,encoding='utf-8',errors='replace').read())
