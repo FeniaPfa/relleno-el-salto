@@ -827,19 +827,19 @@ function aSotavento(rumbo){
 function listaSotavento(li){
   var bt=$('#w-mas'), ul=$('#vlist');
   if(!bt||!ul) return;
-  if(!li || !li.length){
-    bt.hidden=true; ul.hidden=true; ul.innerHTML='';
-    var p0=$('#vbox'); if(p0) p0.classList.remove('ancho');
-    return;
-  }
-  bt.hidden=false;
+  /* Nada aquí puede cambiar el alto del panel: si lo cambia, el panel scrollea
+     y el deslizador salta bajo el dedo. Por eso el botón sigue presente aunque
+     no haya nadie (deshabilitado) y la lista conserva su caja aunque esté vacía. */
+  var n = li ? li.length : 0;
   var abierta = bt.getAttribute('aria-expanded')==='true';
-  bt.textContent = abierta ? 'ocultar la lista' : 'ver las '+li.length+' completas';
+  bt.hidden=false; bt.disabled = n===0;
+  bt.textContent = n===0 ? 'nadie a sotavento aquí'
+                 : abierta ? 'ocultar la lista' : 'ver las '+n+' completas';
   ul.hidden = !abierta;
-  var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho',abierta);
-  ul.innerHTML = li.map(function(b){
-    return '<li>'+b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km</span></li>';
-  }).join('');
+  ul.innerHTML = n ? li.map(function(b){
+      return '<li>'+b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km</span></li>';
+    }).join('')
+    : '<li class="vacia">ninguna en este rumbo</li>';
 }
 $('#w-mas') && $('#w-mas').addEventListener('click',function(){
   var abierta=this.getAttribute('aria-expanded')==='true';
@@ -849,17 +849,23 @@ $('#w-mas') && $('#w-mas').addEventListener('click',function(){
 
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
+  var bt0=$('#w-mas'), ul0=$('#vlist');
+  if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
   if(modoViento==='man'){
     var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
-    e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b> · <i>supuesto tuyo, no del expediente</i>'+
-      '<br>'+(n ? 'A sotavento: <b>'+n+'</b> de '+T+' comunidades<br><span class="vq">'+
-                  li.slice(0,3).map(function(b){return b.n}).join(' · ')+(n>3?' …':'')+'</span>'
-            : 'Ninguna de las '+T+' comunidades queda a sotavento') +
+    /* Un dato por línea: junto en un párrafo, el ancho del rumbo (5° frente a
+       355°) hacía saltar el salto de línea y el bloque crecía 20 px. */
+    e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b><br><i>supuesto tuyo, no del expediente</i>'+
+      /* Sin la antesala de tres nombres: variaba de alto según lo largos que
+         fueran y movía los controles de abajo. Los nombres van en la lista.
+         Las dos frases van en paralelo —misma forma, mismo número de líneas—
+         porque si una ocupa más que la otra, el deslizador salta al cruzar un
+         rumbo donde el conteo cae a cero. */
+      '<br>A sotavento: <b>'+(n || 'ninguna')+'</b> de '+T+' comunidades' +
       '<br><span class="vq">catastro abierto, radio de 6 km</span>';
     listaSotavento(li);
     return;
   }
-  listaSotavento(null);
   e.innerHTML = modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
@@ -872,6 +878,10 @@ function fijarViento(m,rumbo){
   /* El deslizador sigue siempre al rumbo vigente: así «Manual» arranca donde
      quedó lo último que se miró, en vez de saltar a un valor viejo. */
   var sl=$('#w-dir'); if(sl && +sl.value!==rumbo) sl.value=rumbo;
+  /* El ancho depende del MODO, no de si hay alguien a sotavento: atado al
+     contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
+     reflui­a y el deslizador saltaba bajo el cursor. */
+  var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho', m==='man');
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
