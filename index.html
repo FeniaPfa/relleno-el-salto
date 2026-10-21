@@ -681,6 +681,8 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 @media(min-width:720px){.faltan{grid-template-columns:1fr 1fr}}
 .falta{border-left:3px solid var(--acc);padding:12px 0 12px 15px}
 .falta .ft{font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
+.falta .fn{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;
+  background:#ff7a45;color:#0d1014;font-family:var(--cifra);font-size:13px;font-weight:600;margin-right:9px;vertical-align:1px}
 .falta .fd{font-family:var(--txt);font-size:14.5px;color:var(--ink2);line-height:1.55;margin-top:4px}
 .falta .fd b{color:var(--ink);font-weight:600}
 
@@ -1624,8 +1626,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <svg id="fsvg" viewBox="0 0 1342 753" preserveAspectRatio="none" aria-hidden="true"></svg>
     </div>
     <div class="fbtns">
-      <button class="tg" id="f-lo" aria-pressed="true">Lo que muestra</button>
-      <button class="tg" id="f-no" aria-pressed="false">Lo que no muestra</button>
+      <button class="tg" id="f-no" aria-pressed="true">Lo que no muestra</button>
+      <button class="tg" id="f-lo" aria-pressed="false">Lo que muestra, según el titular</button>
     </div>
     <figcaption>
       <span class="cit">«El fotomontaje muestra el escenario durante la <b>etapa de cierro</b> <i>[sic]</i> con
@@ -1877,6 +1879,7 @@ function escalaTexto(svg){
   var k=vb.width/w, MIN=12, subio=false;
   var textos=Array.prototype.slice.call(svg.querySelectorAll('text'));
   textos.forEach(function(t){
+    if(t.getAttribute('data-fijo')) return;
     var fs=t.getAttribute('data-fs');
     if(fs==null){ fs=t.getAttribute('font-size')||'16'; t.setAttribute('data-fs',fs) }
     var real=parseFloat(fs)/k;
@@ -1886,6 +1889,7 @@ function escalaTexto(svg){
   /* al agrandar, los rótulos se pisan: se dejan los primeros que caben y se ocultan los que chocan */
   var cajas=[];
   textos.forEach(function(t){
+    if(t.getAttribute('data-fijo')) return;
     if(!subio){ if(t.getAttribute('data-oc')){ t.style.visibility=''; t.removeAttribute('data-oc') } return }
     var b; try{ b=t.getBBox() }catch(e){ return }
     var choca=b.x+b.width>vb.x+vb.width||b.x<vb.x||
@@ -3076,6 +3080,28 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   gNo.appendChild(t(726,374,'antorcha de biogás','#ffd9c7','middle',15));
   gNo.appendChild(linea(1246,372,1246,440,'#ff7a45',2));
   gNo.appendChild(t(1246,462,'entre 65 y 319 camiones al día','#ffd9c7','middle',15));
+  /* marcadores numerados: los mismos números de la lista de abajo, legibles también en celular */
+  var gNum=el('g',{});
+  gNo.appendChild(gNum);
+  var MARCAS=[[1,560,283],[2,660,283],[3,500,322],[4,1246,396],[5,60,690],[6,726,316]];
+  function numeros(){
+    while(gNum.firstChild) gNum.removeChild(gNum.firstChild);
+    var k=W/Math.max(1,svg.clientWidth||W), r=Math.max(13,12*k);
+    /* en pantallas angostas los círculos crecen: se separan para no encimarse */
+    var ang=k>2.2;
+    var M=ang?[[1,470,200],[2,640,200],[3,470,400],[4,1246,396],[5,70,680],[6,790,390]]:MARCAS;
+    /* en angosto, los rótulos de texto de esta capa se apagan: la lista numerada los reemplaza */
+    Array.prototype.forEach.call(gNo.querySelectorAll('text:not([data-fijo]),line'),function(e){
+      e.style.display=ang?'none':''; });
+    M.forEach(function(m){
+      gNum.appendChild(el('circle',{cx:m[1],cy:m[2],r:r,fill:'#ff7a45',stroke:'#0d1014','stroke-width':Math.max(2,1.5*k)}));
+      var n=el('text',{x:m[1],y:m[2]+r*.36,'font-family':'var(--cifra)','font-size':r*1.05,'font-weight':600,
+        fill:'#0d1014','text-anchor':'middle'});
+      n.textContent=m[0]; n.setAttribute('data-fijo','1'); gNum.appendChild(n);
+    });
+  }
+  numeros();
+  addEventListener('resize',function(){ clearTimeout(numeros._t); numeros._t=setTimeout(numeros,150) });
   svg.appendChild(gNo);
 
   var si=document.getElementById('f-lo'), no=document.getElementById('f-no');
@@ -3101,11 +3127,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   if(c){
     F.forEach(function(f){
       var d=document.createElement('div'); d.className='falta';
-      d.innerHTML='<div class="ft">'+f[0]+'</div><div class="fd">'+f[1]+'</div>';
+      d.innerHTML='<div class="ft"><span class="fn">'+(F.indexOf(f)+1)+'</span>'+f[0]+'</div><div class="fd">'+f[1]+'</div>';
       c.appendChild(d);
     });
-    c.style.display='none';
   }
+  /* se abre en lo que el fotomontaje omite: la versión del titular queda a un toque */
+  modo(false);
 })();
 
 
