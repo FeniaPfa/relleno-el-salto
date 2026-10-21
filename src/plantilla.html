@@ -62,7 +62,8 @@ body{background:var(--bg);color:var(--ink);font-family:var(--txt);
 .wrap{max-width:1180px;margin:0 auto;padding:0 24px 96px}
 h1,h2,h3{font-family:var(--doc);margin:0;text-wrap:balance;font-variant-numeric:lining-nums}
 p{margin:0}
-a{color:var(--acc)}
+a{color:inherit;text-decoration-color:var(--bistre);text-underline-offset:3px;text-decoration-thickness:1px}
+a:hover{color:var(--acc);text-decoration-color:var(--acc)}
 a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,
 summary:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
 
@@ -87,20 +88,22 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
 .hd .sub .num{font-size:14.5px;color:var(--ink)}
 
 /* el plazo es la acción, no un adorno */
-.plazo{display:block;text-decoration:none;border:1px solid var(--acc);
-  background:var(--acc);color:var(--surf);padding:0 0 16px;min-width:208px;
+.plazo{display:block;text-decoration:none;border:1px solid #9c1f28;
+  background:#9c1f28;color:#fbf7ec;padding:0 0 16px;min-width:208px;
   overflow:hidden;
   transition:filter .15s}
 .plazo:hover{filter:brightness(1.12)}
 .plazo>*:not(.cinta){margin-left:20px;margin-right:20px}
 .plazo .d{margin-top:16px;font-family:var(--cifra);font-size:clamp(38px,5.4vw,50px);font-weight:600;
   line-height:.95;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums;
-  color:var(--surf)}
+  color:#fbf7ec}
 .plazo .d span{font-size:.40em;font-weight:400;margin-left:.35em}
 .plazo .t{font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.02em;
-  margin-top:8px;color:var(--surf);opacity:.92}
+  margin-top:8px;color:#fbf7ec}
 .plazo .cta{font-family:var(--cart);font-size:14px;font-weight:600;margin-top:12px;
-  padding-top:10px;border-top:1px solid rgba(255,255,255,.3);color:var(--surf)}
+  padding-top:10px;border-top:1px solid rgba(255,255,255,.3);color:#fbf7ec}
+.plazo .cu{font-family:var(--cart);font-size:13px;margin-top:3px;color:#fbf7ec;opacity:.88}
+body.cerrado .plazo .cu{display:none}
 
 /* ---------- secciones: folio colgado, como un expediente ---------- */
 section{padding-top:64px;position:relative}
@@ -133,17 +136,42 @@ section{padding-top:64px;position:relative}
 .find .k{margin-top:14px;font-size:16.5px;line-height:1.52}
 .find .k b{font-weight:600}
 .find .s{margin-top:10px;font-size:14.5px;color:var(--ink3);line-height:1.6}
+/* portada: tres arriba y dos abajo, sin huérfana; la cifra manda y el detalle se pliega */
+.find.portada{grid-template-columns:repeat(6,1fr);gap:22px 24px}
+.find.portada>div{grid-column:span 2;padding:24px 24px 18px}
+.find.portada>div:nth-last-child(-n+2){grid-column:span 3}
+.find.portada .v{font-size:clamp(46px,5.4vw,60px)}
+.find.portada .k{margin-top:10px;font-size:17px;line-height:1.42;font-weight:500;max-width:26ch;color:var(--ink)}
+.find.portada .k b{font-weight:700}
+.find.portada details.plegado{margin-top:12px;border-top:1px solid var(--line2);padding-top:2px}
+.find.portada details.plegado>summary{font-size:12.5px;padding:6px 0;min-height:30px;color:var(--ink3)}
+.find.portada .s{margin-top:4px;font-size:14px}
+@media(max-width:900px){
+  .find.portada{grid-template-columns:1fr 1fr}
+  .find.portada>div,.find.portada>div:nth-last-child(-n+2){grid-column:auto}
+  .find.portada>div:last-child{grid-column:1/-1}
+}
+@media(max-width:600px){
+  .find.portada{grid-template-columns:1fr;gap:10px}
+  .find.portada>div,.find.portada>div:last-child{grid-column:auto;display:grid;
+    grid-template-columns:5.2em 1fr;column-gap:14px;align-items:baseline;padding:16px 16px 10px}
+  .find.portada .v{font-size:38px;grid-row:1/2}
+  .find.portada .v .u{display:block;margin:4px 0 0;font-size:13px}
+  .find.portada .k{margin-top:0;font-size:15.5px;max-width:none}
+  .find.portada .umbral,.find.portada details{grid-column:1/-1}
+}
 .c-acc{color:var(--acc)} .c-blue{color:var(--blue)}
 .c-warn{color:var(--warn)} .c-green{color:var(--green)}
+.calc{margin-top:30px;font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.03em;color:var(--blue)}
 
 /* barra de umbral: un número solo no dice si 96,6 % es mucho */
 .umbral{margin-top:14px}
-.umbral .riel{position:relative;height:12px;background:var(--surf2);
-  border:1px solid var(--line)}
+.umbral .riel{position:relative;height:12px;background:var(--sunk);
+  border:1px solid var(--lctl)}
 .umbral .fill{position:absolute;top:0;bottom:0;left:0;background:var(--warn)}
 .umbral .tope{position:absolute;top:-4px;bottom:-4px;right:0;width:2px;background:var(--acc)}
 .umbral .pie{display:flex;justify-content:space-between;margin-top:6px;
-  font-family:var(--cart);font-size:12.5px;color:var(--ink2)}
+  font-family:var(--cart);font-size:13px;color:var(--ink2)}
 
 /* ---------- mapas y visor ---------- */
 .mapbox{border:1px solid var(--line);background:var(--sunk);position:relative;overflow:hidden}
@@ -200,7 +228,13 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-weight:600;letter-spacing:.02em;color:var(--ink2);padding:8px 0;min-height:34px}
 .tally{display:flex;flex-wrap:wrap;gap:30px;margin-bottom:24px;align-items:baseline}
 .tally>span{display:flex;align-items:baseline;gap:9px;font-size:16px;color:var(--ink2)}
-.tally b{font-family:var(--cifra);font-size:38px;font-weight:600;line-height:1;
+.tally>span.mayor b{font-size:56px}
+.tally>span.mayor{color:var(--ink);font-size:17px;font-weight:600}
+.reparto{display:flex;gap:2px;height:14px;margin:-8px 0 22px}
+.reparto i{display:block}
+.reparto .o{background:var(--acc)} .reparto .c{background:var(--green)}
+.reparto .m{background:var(--warn)} .reparto .x{background:var(--line)}
+.tally b{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1;
   letter-spacing:-.01em;font-variant-numeric:lining-nums tabular-nums}
 
 /* ---------- gráficos ---------- */
@@ -242,7 +276,12 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-family:var(--doc);font-weight:300;font-size:30px;color:var(--ink3);
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
-.pide{border-left:3px solid var(--acc);padding-left:14px;margin-top:22px}
+.pide{border-left:3px solid var(--acc);background:var(--surf);padding:16px 20px 16px 18px;margin-top:26px;
+  font-size:16px;line-height:1.62;color:var(--ink);max-width:68ch}
+.pide>b:first-child{display:block;font-family:var(--sc);font-size:13.5px;font-weight:600;
+  letter-spacing:.03em;color:var(--acc);margin-bottom:6px}
+.pide .usar{display:inline-block;margin-top:10px;font-family:var(--cart);font-size:14px;font-weight:600;
+  color:var(--ink);text-decoration:none;border-bottom:1px solid var(--acc)}
 .modh{font-family:var(--doc);font-size:21px;font-weight:600;margin:34px 0 8px}
 .modp{color:var(--ink2);font-size:16px;line-height:1.6;max-width:68ch;margin-bottom:18px}
 .modelos{display:grid;gap:18px;grid-template-columns:1fr}
@@ -256,7 +295,7 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
 .copiar:hover{background:var(--surf2)}
 .copiar[data-ok]{border-color:var(--green);color:var(--green)}
 .fmt{font-family:var(--cart);font-size:.82em;font-weight:400;color:var(--ink3);letter-spacing:0}
-.btn{display:inline-block;background:var(--acc);color:var(--surf);
+.btn{display:inline-block;background:#9c1f28;color:#fbf7ec;
   font-family:var(--cart);font-size:16px;font-weight:600;text-decoration:none;
   padding:13px 22px;margin-top:22px;min-height:48px;border-radius:2px}
 .btn:hover{filter:brightness(1.12)}
@@ -268,7 +307,15 @@ footer b{color:var(--ink);font-weight:600}
 /* ---------- utilidades de accesibilidad ---------- */
 abbr[title]{text-decoration:underline dotted;text-underline-offset:3px;text-decoration-color:var(--lctl);cursor:help}
 .vh{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;padding:0;margin:-1px}
-.indice{display:flex;flex-wrap:wrap;gap:6px 14px;margin:26px 0 0;font-family:var(--cart);font-size:14px;line-height:1.5}
+.indice{margin:26px 0 0;font-family:var(--cart);font-size:14px;line-height:1.5}
+.indice .il{display:flex;flex-wrap:wrap;gap:6px 14px}
+.indice summary{display:none}
+.indice .ni{font-variant-numeric:tabular-nums;color:var(--ink3);margin-right:4px}
+@media(max-width:720px){
+  .indice summary{display:block;cursor:pointer;font-weight:600;color:var(--ink2);padding:8px 0;min-height:40px}
+  .indice .il{flex-direction:column;gap:2px;padding:4px 0 8px}
+  .indice .il a{padding:6px 0;border-bottom:0}
+}
 .indice a{color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--line)}
 .indice a:hover,.indice a:focus-visible{color:var(--acc);border-bottom-color:var(--acc)}
 .indice a b{color:var(--acc)}
@@ -297,12 +344,11 @@ footer .imprimir{display:inline-block;margin-top:10px}
   .barra-cta a{flex:1;display:flex;align-items:center;justify-content:center;min-height:44px;font-family:var(--cart);
     font-size:15px;font-weight:600;text-decoration:none;border-radius:2px}
   .barra-cta .como{color:var(--ink);border:1px solid var(--lctl)}
-  .barra-cta .ir{background:var(--acc);color:var(--surf)}
+  .barra-cta .ir{background:#9c1f28;color:#fbf7ec}
   body{padding-bottom:72px}
 }
-/* cinta de peligro: decorativa, nunca porta información */
-.cinta{display:block;height:5px;
-  background:repeating-linear-gradient(45deg,#f7be1d,#f7be1d 9px,#14161a 9px,#14161a 18px)}
+/* filete de alerta: decorativo, nunca porta información */
+.cinta{display:block;height:4px;background:var(--warn)}
 
 
 /* ---------- móvil ---------- */
@@ -413,15 +459,15 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .tl{padding:16px 18px 18px;border-top:1px solid var(--line);background:var(--surf)}
 .tlh{display:flex;flex-wrap:wrap;gap:12px;align-items:baseline;justify-content:space-between;
   margin-bottom:12px}
-.tlh .yr{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1;color:var(--acc);
+.tlh .yr{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1;color:var(--ink);
   letter-spacing:-.01em;font-variant-numeric:lining-nums}
 .tlh .yl{font-size:14.5px;color:var(--ink2);margin-top:4px}
 input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .tlg{display:grid;grid-template-columns:repeat(auto-fit,minmax(132px,1fr));gap:16px;margin-top:15px}
 .tlg>div{border-left:1px solid var(--line);padding-left:12px}
-.tlg .n{font-family:var(--cart);font-size:19px;font-weight:600;line-height:1.15;
+.tlg .n{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1.05;
   font-variant-numeric:lining-nums tabular-nums}
-.tlg .l{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
+.tlg .l{font-family:var(--cart);font-size:13.5px;font-weight:400;letter-spacing:0;
   color:var(--ink2);margin-top:4px;line-height:1.35}
 .play{font-family:var(--cart);font-size:14px;font-weight:600;
   border:1px solid var(--lctl);background:transparent;color:var(--ink);padding:9px 16px;
@@ -548,7 +594,7 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .corte,.membrana{margin:0}
 .corte h3,.membrana h3{font-family:var(--doc);font-size:21px;font-weight:600;
   margin:0 0 14px;color:var(--ink);letter-spacing:-.01em}
-.pila{display:flex;flex-direction:column;min-height:420px;border:1px solid var(--line);
+.pila{display:flex;flex-direction:column;height:440px;border:1px solid var(--line);
   overflow:hidden;background:var(--surf)}
 .seg{position:relative;display:flex;flex-direction:column;justify-content:center;
   padding:10px 14px;color:#fbf7ec;overflow:visible}
@@ -559,6 +605,10 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .seg.basura{background:repeating-linear-gradient(135deg,#b8431f,#b8431f 9px,#a93c1b 9px,#a93c1b 18px)}
 .seg.mai{background:#8d6a2c}
 .seg.roca{background:#4f4b45}
+/* la lámina: una línea clara entre la basura y la capa permeable */
+.memb{position:relative;flex:0 0 3px;background:#fbf7ec;box-shadow:0 0 0 1px #14161a;z-index:2}
+.memb i{position:absolute;left:10px;right:10px;bottom:7px;font-family:var(--cart);font-size:12.5px;font-style:normal;
+  font-weight:600;line-height:1.3;color:#fbf7ec;background:rgba(20,22,26,.8);padding:3px 7px}
 .corte figcaption{font-family:var(--txt);font-size:14.5px;color:var(--ink2);
   line-height:1.6;margin-top:14px}
 .corte figcaption b{color:var(--ink);font-weight:600}
@@ -611,9 +661,14 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .rej .lit.sig .lv{color:#fff;font-weight:600}
 .cascada{display:grid;gap:12px;margin-top:26px}
 @media(min-width:800px){.cascada{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:799px){
+  .paso{display:grid;grid-template-columns:auto 1fr;column-gap:16px;padding:12px 0 12px 15px}
+  .paso .pn{grid-row:1/4;font-size:46px;margin:0}
+  .paso .pd{font-size:13.5px;margin-top:4px}
+}
 .paso{border-left:3px solid var(--acc);padding:14px 0 14px 17px;position:relative}
 .paso .pc{font-family:var(--sc);font-size:12.5px;letter-spacing:.03em;color:var(--ink3)}
-.paso .pn{font-family:var(--cifra);font-size:58px;font-weight:600;line-height:1;color:var(--acc);
+.paso .pn{font-family:var(--cifra);font-size:clamp(40px,5vw,52px);font-weight:600;line-height:1;color:var(--acc);
   margin:6px 0 2px;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums}
 .paso .pt{font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
 .paso .pd{font-family:var(--txt);font-size:14.5px;line-height:1.55;color:var(--ink2);margin-top:7px}
@@ -638,9 +693,13 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 .dn .k{font-family:var(--txt);font-size:16px;line-height:1.55;color:var(--ink);margin-top:12px;
   max-width:40ch}
 .dn .s{font-family:var(--sc);font-size:12.5px;letter-spacing:.02em;color:var(--ink3);margin-top:9px}
-.dvs{font-family:var(--sc);font-size:13px;letter-spacing:.04em;color:var(--ink3);
-  text-align:center;white-space:nowrap}
-@media(min-width:800px){.dvs{writing-mode:vertical-rl;transform:rotate(180deg);padding:0 4px}}
+.dn.dato .v{color:var(--ink)}
+.dvs{font-family:var(--doc);font-style:italic;font-size:19px;color:var(--ink2);
+  text-align:center;white-space:nowrap;display:flex;align-items:center;gap:12px}
+.dvs::before,.dvs::after{content:'';flex:1;height:1px;background:var(--line);min-width:24px}
+@media(min-width:800px){.dvs{flex-direction:column;height:100%;min-height:120px}
+  .dvs::before,.dvs::after{width:1px;height:auto;min-width:0;min-height:24px}}
+@media(max-width:799px){.duelo .dn:not(.dato){order:-1}.duelo .dvs{order:0}.duelo .dn.dato{order:1}}
 .busca{margin-top:22px;border:1px solid var(--line);background:var(--surf)}
 .bq{display:flex;align-items:center;gap:11px;padding:13px 16px;border-bottom:1px solid var(--line2);
   background:var(--sunk)}
@@ -699,15 +758,17 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="d" id="dias">—<span>días</span></div>
       <div class="t">para observar · cierra el 3 de noviembre</div>
       <div class="cta">Ingresar mi observación →</div>
+      <div class="cu">con tu ClaveÚnica · sin costo</div>
     </a>
   </div>
 </header>
 
 <main class="wrap">
 
-<nav class="indice" aria-label="Contenido de la página">
-  <a href="#observar"><b>Cómo ingresar una observación</b></a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a>
-</nav>
+<nav class="indice" aria-label="Contenido de la página"><details id="indice-d">
+  <summary>Contenido · 15 secciones</summary>
+  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
+</details></nav>
 <noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
 
 <section id="hallazgos" style="padding-top:38px" aria-labelledby="t-hallazgos">
@@ -719,44 +780,47 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   significativo</b> en veintitrés evaluados.</p>
   <p class="intro">Nada de esto es opinión de los vecinos: todo sale de la cartografía y las
   modelaciones que el propio titular presentó al expediente.</p>
-  <div class="find">
+  <div class="find portada">
     <div>
       <div class="v c-acc">676<span class="u">m</span></div>
-      <div class="k">Del perímetro del proyecto a la <b>unidad habitacional más cercana</b>, según la
-      tabla de receptores que el <b>propio titular</b> usó para modelar olores. Las 21 que lista están
-      entre 676 m y 2,1 km, y <b>todas al norte</b>: ninguna queda al otro lado del predio.</div>
-      <div class="s">Anexo 8.1 Plan de Gestión de Olor, Tabla 11 (dentro del
-      <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Capítulo 8</a>).
-      La cartografía abierta da 820 m al suelo residencial más cercano; recalculada contra el
-      deslinde, la tabla del titular cuadra dentro de 16 m.</div>
+      <div class="k">del perímetro a la <b>unidad habitacional más cercana</b>, según la tabla del propio titular.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">Las 21 unidades que lista el titular para modelar olores están entre 676 m y 2,1 km,
+        y <b>todas al norte</b>: ninguna queda al otro lado del predio. Anexo 8.1 Plan de Gestión de Olor,
+        Tabla 11 (dentro del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Capítulo 8</a>).
+        La cartografía abierta da 820 m al suelo residencial más cercano; recalculada contra el
+        deslinde, la tabla del titular cuadra dentro de 16 m.</p></details>
     </div>
     <div>
       <div class="v c-warn">96,6<span class="u">%</span></div>
-      <div class="k">Del límite legal de polvo fino respirable, según la modelación del <b>propio titular</b>.</div>
+      <div class="k">del <b>límite legal de polvo fino</b> respirable, según la modelación del propio titular.</div>
       <div class="umbral"><div class="riel"><div class="fill" style="width:96.6%"></div>
         <div class="tope"></div></div>
         <div class="pie"><span>aire ya ocupado</span><span>límite legal</span></div></div>
-      <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a>, análisis del artículo 11.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a>, análisis del artículo 11.</p></details>
     </div>
     <div>
-      <div class="v c-acc">1<span class="u">/ 23</span></div>
-      <div class="k">De las veintitrés causales del Artículo 11 que el estudio evalúa,
-      <b>uno solo da efecto adverso significativo</b>: la pérdida de ejemplares de tres plantas.
-      Todo lo demás queda sin medida y sin seguimiento.</div>
-      <div class="s">Capítulos <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">5</a>, <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">6</a> y <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">7</a> del EIA.</div>
+      <div class="v c-acc">1<span class="u">de 23</span></div>
+      <div class="k">causales del Artículo 11 con <b>efecto significativo</b>, según el propio estudio.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">La única es la pérdida de ejemplares de tres plantas. Todo lo demás queda sin medida
+        y sin seguimiento. Capítulos <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">5</a>, <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">6</a> y <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">7</a> del EIA.</p></details>
     </div>
     <div>
-      <div class="v c-acc">19<span class="u">/ 25</span></div>
-      <div class="k">Organismos del Estado que se pronunciaron <b>con observaciones</b> al EIA. Solo dos lo hicieron conformes.</div>
-      <div class="s">Oficios ingresados entre el 2 y el 15 de septiembre de 2026 · <a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>.</div>
+      <div class="v c-acc">19<span class="u">de 25</span></div>
+      <div class="k">organismos del Estado se pronunciaron <b>con observaciones</b>; solo dos, conformes.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">Oficios ingresados entre el 2 y el 15 de septiembre de 2026 · <a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>.
+        La lista completa, oficio por oficio, está en la sección 14.</p></details>
     </div>
     <div>
-      <div class="v c-acc">99,7<span class="u">%</span></div>
-      <div class="k">Del predio del proyecto <b>se quemó en el megaincendio de febrero de 2024</b>.
-      Ahí se proyectan 30,7 millones de toneladas de basura y 2,79 ha de cortafuegos.</div>
-      <div class="umbral"><div class="riel"><div class="fill" style="width:99.7%;background:var(--acc)"></div></div>
-        <div class="pie"><span>superficie quemada</span><span>predio completo</span></div></div>
-      <div class="s">Sentinel-2, índice <abbr title="Comparación de dos imágenes satelitales, antes y después, que mide cuánto se quemó cada punto">dNBR</abbr>, enero vs. febrero de 2024 · <a href="https://github.com/FeniaPfa/seia-data/blob/main/docs/fuentes.md" target="_blank" rel="noopener">método y escenas</a>.</div>
+      <div class="v c-blue">99,7<span class="u">%</span></div>
+      <div class="k">del predio <b>se quemó</b> en el megaincendio de febrero de 2024.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">Ahí se proyectan 30,7 millones de toneladas de basura y 2,79 ha de cortafuegos.
+        Medición de esta página: Sentinel-2, índice <abbr title="Comparación de dos imágenes satelitales, antes y después, que mide cuánto se quemó cada punto">dNBR</abbr>, enero vs. febrero de 2024 ·
+        <a href="https://github.com/FeniaPfa/seia-data/blob/main/docs/fuentes.md" target="_blank" rel="noopener">método y escenas</a>.</p></details>
     </div>
   </div>
 </section>
@@ -839,12 +903,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       formalmente</b> mediante solicitud de informe a la SEREMI MINVU».</p>
       <div class="src">Cap. 9 y Cap. 14 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · la compatibilidad territorial se ingresó sin resolver</div></div>
   </div>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: que el titular explique por qué su Capítulo 3.8
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que el titular explique por qué su Capítulo 3.8
   califica como significativo el ruido sobre reptiles y aves y su Capítulo 5 declara no significativo ese
   mismo literal; que informe el resultado de la consulta a la SEREMI MINVU sobre el Plan Regulador
   Metropolitano antes de la calificación; y que comprometa un plan de monitoreo de aire, olor, ruido,
   aguas y biogás con resultados públicos durante la operación y el post-cierre, porque hoy el
-  Capítulo 7 solo sigue tres especies de flora.</p>
+  Capítulo 7 solo sigue tres especies de flora.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="terreno" aria-labelledby="t-terreno">
@@ -942,7 +1006,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>La masa crece con espesor uniforme sobre toda la huella</b>: el expediente declara tres etapas
   de excavación pero no georreferencia la secuencia de llenado, así que no se simula un orden
   que el titular no publicó.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: cuál es el espesor y la cota final de la masa de residuos —80 m según la Tabla 40 o 54 m según la capacidad dividida por la superficie que declara—, y con qué secuencia de llenado georreferenciada, porque el Capítulo 1 declara tres etapas de excavación pero no dónde ni cuándo.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuál es el espesor y la cota final de la masa de residuos —80 m según la Tabla 40 o 54 m según la capacidad dividida por la superficie que declara—, y con qué secuencia de llenado georreferenciada, porque el Capítulo 1 declara tres etapas de excavación pero no dónde ni cuándo.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="mapa" aria-labelledby="t-mapa">
@@ -1027,7 +1091,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   contra el punto de etiqueta de OpenStreetMap —el centro nominal, no la casa más cercana—, así que
   <b>la distancia real a la primera vivienda es menor</b>. Las marcadas
   <span class="flag f-ok">borde a borde</span> son las defendibles.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: que el titular reconozca en el área de influencia la superposición con el Sitio Prioritario Palmar Las Siete Hermanas – El Salto que su propio Capítulo 5 admite en el camino de acceso, con sus medidas y seguimiento, en vez de excluirlo por no ser una categoría reconocida; y que toda distancia del expediente declare si se mide al deslinde o a la zona de disposición.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que el titular reconozca en el área de influencia la superposición con el Sitio Prioritario Palmar Las Siete Hermanas – El Salto que su propio Capítulo 5 admite en el camino de acceso, con sus medidas y seguimiento, en vez de excluirlo por no ser una categoría reconocida; y que toda distancia del expediente declare si se mide al deslinde o a la zona de disposición.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="incendio" aria-labelledby="t-incendio">
@@ -1115,7 +1179,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   ambos capítulos. Un conteo en cero no prueba que la obra no vaya a tener ese elemento: prueba
   que <b>el expediente sometido a evaluación no lo compromete</b>. Si existe, debería aparecer
   en la Adenda.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024, y por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024, y por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="subsuelo" aria-labelledby="t-subsuelo">
@@ -1163,7 +1227,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <figure class="corte">
       <h3>La obra, en vertical</h3>
       <div class="pila">
-        <span class="seg basura" style="flex:58 1 0"><b>cotas 200 a 350</b><i>el vaso, en once niveles de 10 m de plataforma</i></span>
+        <span class="seg basura" style="flex:58 1 0"><b>cotas 200 a 350</b><i>24.331.032 m³ de residuos, en once niveles de 10 m</i></span>
+        <span class="memb"><i>geomembrana de 1,5 mm · aquí, unas 800 veces más gruesa de lo que mide</i></span>
         <span class="seg mai" style="flex:17 1 0"><b>15 a 40 m</b><i>de maicillo permeable, por donde el titular dice que escurre el agua</i></span>
         <span class="seg roca" style="flex:25 1 0"><b>roca</b><i>granito compacto, impermeable</i></span>
       </div>
@@ -1193,7 +1258,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   2,7 metros</b>, lo que confirma a la vez la georreferencia y el modelo. El espesor del maicillo se dibuja como dos
   bandas —los primeros 15 m y la franja variable hasta los 40— porque el informe entrega un rango,
   no un mapa. La exageración vertical del bloque es ×1,8 y las secciones van a esa misma escala.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: qué monitoreo de aguas subterráneas compromete bajo el vaso —pozos, frecuencia y parámetros— dado que el informe hidrogeológico reconoce que el agua podría infiltrarse en 15 a 40 m de maicillo permeable y el Capítulo 7 no compromete ninguno.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué monitoreo de aguas subterráneas compromete bajo el vaso —pozos, frecuencia y parámetros— dado que el informe hidrogeológico reconoce que el agua podría infiltrarse en 15 a 40 m de maicillo permeable y el Capítulo 7 no compromete ninguno.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="falla" aria-labelledby="t-falla">
@@ -1217,14 +1282,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   al sello del relleno cuando el suelo se mueve a medio g.</p>
 
   <div class="duelo">
-    <div class="dn"><div class="v">1,5 <span>mm</span></div>
+    <div class="dn dato"><div class="v">1,5 <span>mm</span></div>
       <div class="k">El espesor de la geomembrana que contiene 24,3 millones de metros cúbicos
       de residuos.</div>
       <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> · sistema de impermeabilización basal</div></div>
     <div class="dvs">frente a</div>
     <div class="dn"><div class="v">0,495 <span>g</span></div>
       <div class="k">La aceleración que su propio informe atribuye a la Zona de Fallas
-      Marga-Marga. El PAS 141 y la línea de base geológica sitúan la traza a unos 600 metros.</div>
+      Marga-Marga. El PAS 141 y la línea de base geológica sitúan la traza a 500 o 600 metros.</div>
       <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023</a>, citando a Sabaj (2008)</div></div>
   </div>
 
@@ -1275,17 +1340,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <span><i style="background:var(--acc)"></i>Zona de disposición</span>
     </div>
   </div>
-  <div class="find" style="margin-top:30px">
+  <div class="calc">Cálculo de esta página sobre el modelo de elevación, no del titular</div>
+  <div class="find" style="margin-top:10px">
     <div><div class="v c-blue">1,5<span class="u">km</span></div>
       <div class="k">Separan el relleno del <b>Estero Marga-Marga</b> siguiendo el recorrido del agua, no la línea recta.</div>
       <div class="s">Las 120 rutas trazadas llegan al mismo cauce.</div></div>
-    <div><div class="v c-acc">90<span class="u">m</span></div>
+    <div><div class="v c-blue">90<span class="u">m</span></div>
       <div class="k">Es lo que separa el recorrido del <b>Estero Quilpué</b>. Hasta el humedal protegido, 120 metros.</div>
       <div class="s">Quilpué y Marga-Marga son el mismo sistema hídrico.</div></div>
-    <div><div class="v c-blue">12,4<span class="u">km</span></div>
-      <div class="k">Recorre en promedio cada ruta hasta su desembocadura, atravesando la cuenca del Marga-Marga.</div>
-      <div class="s">Cuenca acumulada aguas abajo: 200 km² dentro de la ventana del modelo
-      (18,4 km de lado). La cuenca real del Marga-Marga la excede.</div></div>
   </div>
   <p class="note"><b>Esto no es un modelo hidrogeológico.</b> Es el recorrido que seguiría el
   agua superficial por gravedad, calculado con el método D8 sobre un modelo de elevación de
@@ -1294,7 +1356,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   lo que habría que modelar, y está en los capítulos 3.3 y 3.4 del expediente.</p>
   <p class="note">Lo que sí establece es la <b>dirección</b>: cualquier escurrimiento desde el
   predio baja hacia el sistema Marga-Marga – Quilpué. No hacia otro lado.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: que la línea de base de calidad de agua incluya más de un día de muestreo, la estación húmeda y aguas subterráneas, y que el titular explique cómo capta y trata la escorrentía del predio antes de que llegue al Estero Marga-Marga, a 1,5 km cauce abajo, pasando a 90 m del Estero Quilpué y a 120 m del humedal protegido.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la línea de base de calidad de agua incluya más de un día de muestreo, la estación húmeda y aguas subterráneas, y que el titular explique cómo capta y trata la escorrentía del predio antes de que llegue al Estero Marga-Marga, a 1,5 km cauce abajo, pasando a 90 m del Estero Quilpué y a 120 m del humedal protegido.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="vial" aria-labelledby="t-vial">
@@ -1368,7 +1430,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>46,6</b> si son ida y vuelta — muy por encima de lo que transporta un compactador recolector,
   que mueve entre 10 y 14 toneladas. <b>Esta es una inconsistencia entre dos capítulos del mismo
   estudio</b>, no un cálculo externo: el tonelaje sale del Capítulo 1 y los viajes del Capítulo 3.18.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado, porque el Capítulo 3.18 modela 182 viajes solo para 2027 y 2028 sin indicar la carga, y la losa de lavado del Anexo 9.6 está dimensionada para 65 camiones al día.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado, porque el Capítulo 3.18 modela 182 viajes solo para 2027 y 2028 sin indicar la carga, y la losa de lavado del Anexo 9.6 está dimensionada para 65 camiones al día.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="pluma" aria-labelledby="t-pluma">
@@ -1406,7 +1468,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   rotado 180°. <b>Esto no reemplaza una modelación de dispersión</b>: la concentración real depende
   de estabilidad atmosférica, topografía y tasa de emisión, y está en el Anexo 4.3 y 4.4 del
   expediente. Lo que esta tabla muestra es la geometría del problema, que es condición necesaria.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: qué concentración de olor modela el Anexo 4.4 en cada una de las 21 unidades habitacionales de la Tabla 11 del Anexo 8.1, con qué norma de referencia, y qué resultado da en las poblaciones que quedan sobre el eje del viento predominante que el propio Anexo 4.2 declara.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué concentración de olor modela el Anexo 4.4 en cada una de las 21 unidades habitacionales de la Tabla 11 del Anexo 8.1, con qué norma de referencia, y qué resultado da en las poblaciones que quedan sobre el eje del viento predominante que el propio Anexo 4.2 declara.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="influencia" aria-labelledby="t-influencia">
@@ -1440,7 +1502,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="note">Polígono oficial: <span class="sc">ai_mediohumano.shp</span>, Datum WGS84 UTM 19S,
   acompañado por el titular al Capítulo 3.19. Las poblaciones se evalúan por su punto de
   referencia; para las que tienen polígono residencial, por su borde.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: que las poblaciones que quedan a menos de 150 m del borde del área de influencia —Botania, Cumbres de Quilpué, Nuevo Horizonte, Los Fundadores 2, Pompeya Norte y Pompeya Sur— se incluyan como parte afectada, y que los impactos del medio humano se evalúen también sobre ellas, con medidas y seguimiento.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que las poblaciones que quedan a menos de 150 m del borde del área de influencia —Botania, Cumbres de Quilpué, Nuevo Horizonte, Los Fundadores 2, Pompeya Norte y Pompeya Sur— se incluyan como parte afectada, y que los impactos del medio humano se evalúen también sobre ellas, con medidas y seguimiento.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="proyecciones" aria-labelledby="t-proyecciones">
@@ -1465,11 +1527,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="cfoot" id="f-masa"></div>
     </div>
   </div>
-  <div class="find" style="margin-top:28px">
+  <div class="calc">Cálculo de esta página con LandGEM y el tonelaje del titular</div>
+  <div class="find" style="margin-top:10px">
     <div><div class="v c-blue" id="v-esp">—</div>
       <div class="k">Espesor medio de masa de residuos al cierre, sobre la huella de disposición.</div>
       <div class="s">No es altura sobre terreno natural: 45,02 ha se excavan antes de rellenar (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a>).</div></div>
-    <div><div class="v c-warn" id="v-pico">—</div>
+    <div><div class="v c-blue" id="v-pico">—</div>
       <div class="k">Generación bruta de metano en el año peak, equivalente a <b id="v-co2">—</b> de CO₂e si no se captara nada.</div>
       <div class="s">El titular declara 81 chimeneas y antorcha con 99 % de destrucción (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a>).</div></div>
   </div>
@@ -1528,7 +1591,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   cierre. Las anotaciones de «lo que no muestra» son elementos del propio proyecto descritos en el
   Capítulo 1 y en los PAS, ubicados de forma aproximada sobre la foto: señalan qué falta, no dónde
   exactamente estará cada cosa.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: fotomontajes de la etapa de operación —años 5, 15 y 25— desde las poblaciones con línea de vista, y no solo el escenario posterior al cierre, para que la evaluación de paisaje del Capítulo 3.15 y la calificación del Capítulo 5 se apoyen en lo que se verá durante 25 años.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Fotomontajes de la etapa de operación —años 5, 15 y 25— desde las poblaciones con línea de vista, y no solo el escenario posterior al cierre, para que la evaluación de paisaje del Capítulo 3.15 y la calificación del Capítulo 5 se apoyen en lo que se verá durante 25 años.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="cuenca" aria-labelledby="t-cuenca">
@@ -1565,7 +1628,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>Es una cota superior</b>: el modelo representa el terreno desnudo, así que no descuenta
   árboles ni edificios que puedan interponerse. El espesor de 60 m es el promedio sobre la
   huella; la forma final de la corona la define el Plan de Cierre, no analizado aquí.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: que la calificación «no obstruye vistas relevantes» del Capítulo 5 se fundamente con una cuenca visual calculada sobre el modelo de elevación con la cota final de la masa, y no con un único fotomontaje de la etapa de cierre.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la calificación «no obstruye vistas relevantes» del Capítulo 5 se fundamente con una cuenca visual calculada sobre el modelo de elevación con la cota final de la masa, y no con un único fotomontaje de la etapa de cierre.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="pronunciamientos" aria-labelledby="t-pronunciamientos">
@@ -1574,16 +1637,17 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   sin reparos. <b>Esto no lo dicen los vecinos: lo dice el Estado</b>, oficio por oficio,
   en el expediente electrónico.</p>
   <div class="tally" style="margin-top:24px">
-    <span><b class="c-acc">19</b> con observaciones</span>
+    <span class="mayor"><b class="c-acc">19</b> con observaciones</span>
     <span><b class="c-green">2</b> conformes</span>
     <span><b class="c-warn">1</b> pronunciamiento municipal</span>
     <span><b style="color:var(--ink3)">3</b> no participan</span>
   </div>
+  <div class="reparto" aria-hidden="true"><i class="o" style="flex:19"></i><i class="c" style="flex:2"></i><i class="m" style="flex:1"></i><i class="x" style="flex:3"></i></div>
   <div class="mx" id="mx"></div>
   <p class="note">El oficio 1337 de la Municipalidad de Viña del Mar figura como
   «Oficio pronunciamiento Municipalidad», sin la etiqueta «con observaciones» que llevan los
   otros diecinueve. Su contenido no fue verificado en este análisis: conviene leerlo antes de citarlo.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>: que la Adenda responda una por una las observaciones de los diecinueve organismos y cite el oficio en cada respuesta; una observación ciudadana puede pedir expresamente que se acoja lo observado por un servicio, por ejemplo SERNAGEOMIN, la SEREMI de Salud o la Dirección General de Aguas.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la Adenda responda una por una las observaciones de los diecinueve organismos y cite el oficio en cada respuesta; una observación ciudadana puede pedir expresamente que se acoja lo observado por un servicio, por ejemplo SERNAGEOMIN, la SEREMI de Salud o la Dirección General de Aguas.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="observar" aria-labelledby="t-observar">
@@ -1706,6 +1770,17 @@ else { document.body.classList.add('cerrado');
   var no=$('#observar .note'); if(no) no.innerHTML='<b>El plazo cerró el 3 de noviembre de 2026.</b> Las observaciones '+
     'ingresadas se responden en la Adenda del titular y en la Resolución de Calificación Ambiental. Si la Adenda '+
     'modifica sustantivamente el proyecto, se abre un nuevo período de participación (art. 92 del D.S. 40).'; }
+
+/* ---- índice: abierto en pantallas anchas, plegado en celular, numerado como las secciones ---- */
+(function(){
+  var d=document.getElementById('indice-d'); if(!d) return;
+  if(!(window.matchMedia&&matchMedia('(max-width:720px)').matches)) d.open=true;
+  Array.prototype.forEach.call(d.querySelectorAll('.il a'),function(a){
+    var sec=document.querySelector(a.getAttribute('href')), n=sec&&sec.querySelector('.shd .n');
+    if(n&&a.getAttribute('href')!=='#observar'){ var e=document.createElement('span'); e.className='ni';
+      e.textContent=n.textContent.trim(); a.insertBefore(e,a.firstChild); }
+  });
+})();
 
 /* ---- textos modelo: copiar al portapapeles ---- */
 Array.prototype.forEach.call(document.querySelectorAll('.copiar'),function(b){
@@ -2379,7 +2454,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     'millones de toneladas, con un espesor medio final de unos 60 metros.');
 
   $('#v-esp').innerHTML=p.espesor_m['1.0'].toString().replace('.',',')+'<span class="u">m</span>';
-  $('#v-pico').innerHTML=(p.pico.ch4_m3/1e6).toFixed(0)+'<span class="u">M m³/año</span>';
+  $('#v-pico').innerHTML=(p.pico.ch4_m3/1e6).toFixed(0)+'<span class="u">millones de m³ al año</span>';
   $('#v-co2').textContent=(p.co2e.bruto_t_anio/1e6).toFixed(1).replace('.',',')+' millones de t';
   $('#v-fuga').textContent=(p.co2e.fuga_t_co2e['75']/1e3).toFixed(0)+' mil t';
 })();

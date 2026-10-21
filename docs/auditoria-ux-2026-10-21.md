@@ -55,6 +55,13 @@ del expediente.
 
 ### Tanda A: una mañana, todo CSS y marcado, sin decisiones editoriales
 
+**Hecha el 21 de octubre.** Decisiones tomadas al aplicarla: el 99,7 % de la portada va en azul
+porque es medición satelital de esta página (regla 3), con «Medición de esta página» en su
+detalle; la caja del plazo, el botón de la sección 15 y la barra fija comparten el carmín fijo
+`#9c1f28`; la tarjeta de 12,4 km de escorrentía se quitó; los bloques «Qué pediría» llevan un
+enlace «Cómo ingresarla →» en vez de botón de copiar, porque su redacción no siempre arranca
+como solicitud.
+
 | # | Qué | Dónde | Esfuerzo |
 |---|---|---|---|
 | A1 | Enlaces fuera del rojo; el rojo interactivo queda en `.btn`, `.plazo`, `.barra-cta .ir` | `a{}` en plantilla | 20 min |
