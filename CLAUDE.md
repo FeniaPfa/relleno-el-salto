@@ -34,6 +34,11 @@ python3 build.py        # src/ → index.html (valida sintaxis con node si está
 | `src/datos.json` | el bundle completo (~255 KB), se inyecta en el marcador |
 | `src/social.html` | etiquetas Open Graph; `{url}` lo reemplaza build.py |
 
+`proyecciones.py` regenera las series de masa, metano y camiones desde la tabla de producción
+anual del Capítulo 1. **No está conectado al build**: escribe `data/proyecciones.json` y sus
+valores se copiaron a mano a las claves `proy` y `vial` de `src/datos.json`. Si lo vuelves a
+correr, propaga el resultado a esas dos claves o la página seguirá mostrando lo anterior.
+
 `reordenar.py` cambia el orden de las secciones y renumera en una pasada:
 
 ```bash
@@ -102,3 +107,23 @@ están en `docs/fuentes.md`.
 
 **Antes de publicar cualquier cifra nueva, verifícala contra el texto original, no contra un
 resumen.** Varias afirmaciones plausibles no sobrevivieron ese paso.
+
+### Dos trampas que ya mordieron
+
+**1. Medir distancias vértice a vértice.** Varios polígonos del expediente y de la SMA son muy
+gruesos: el Sitio Prioritario trae **35 vértices** de origen, a escala 1:50.000. Comparar sólo
+los vértices de dos polígonos sobreestima la distancia — en ese caso daba 337 m donde la
+distancia real borde a borde es **255 m**, un 32 % de más. Usa siempre `shapely`:
+`a.buffer(0).distance(b.buffer(0))`. Con receptores, que son puntos, la diferencia es menor
+(3–15 m), pero entre polígonos cambia la conclusión.
+
+**2. Series derivadas de una rampa inventada.** `proyecciones.py` calibraba una **rampa lineal**
+para integrar las 30.741.988 t declaradas. El total salía exacto, así que nada fallaba a la
+vista — pero los extremos no: daba 4.238 t/día en el año 25 donde la tabla de producción anual
+del **Capítulo 1, p.71** declara **4.460** (y 2.466, no 2.500, en el año 1; las 2.500 son la
+tasa de *diseño*). De ahí salían mal los camiones, los viajes/hora y el porcentaje de la losa de
+lavado, mientras el texto de al lado ya citaba el 4.460 correcto. La tabla real crece ~2,5 %
+anual y está ahora escrita en `proyecciones.py`.
+
+**La lección común:** cuando una cifra agregada cuadra, no asumas que la serie que la produce
+cuadra. Verifica los extremos.
