@@ -1448,8 +1448,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   </figure>
 
   <figure class="tres">
-    <h3>Tres capítulos del mismo estudio, tres cifras distintas</h3>
-    <svg id="c-tres" viewBox="0 0 700 250"></svg>
+    <h3>Tres capítulos, tres cifras: 65, 91 y hasta 319 camiones al día</h3>
+    <svg id="c-tres" viewBox="0 0 700 300"></svg>
     <figcaption>El titular dimensionó la losa de lavado para <b>65 camiones diarios</b>, modeló
     el tránsito con <b>91</b>, y declaró un tonelaje que exige <b>entre 176 y 319</b>.
     Ninguna de las tres cifras conversa con las otras.</figcaption>
@@ -2559,25 +2559,44 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 (function(){
   var svg=document.getElementById('c-tres'); if(!svg||!D.vial||!D.vial.tres_cifras) return;
   var T=D.vial.tres_cifras, NS='http://www.w3.org/2000/svg';
-  var W=700,H=250,ml=230,mr=70,mt=12,mb=16;
   function E(t,a,x){var n=document.createElementNS(NS,t);for(var k in a)n.setAttribute(k,a[k]);
     if(x!=null)n.textContent=x;return n}
-  var max=Math.max.apply(null,T.map(function(t){return t.n}));
-  var bh=(H-mt-mb)/T.length;
   var tonos=['var(--blue)','var(--blue)','var(--acc)','var(--acc)'];
-  T.forEach(function(t,i){
-    var y=mt+i*bh+bh*.16, h2=bh*.42;
-    var w=(W-ml-mr)*t.n/max;
-    svg.appendChild(E('rect',{x:ml,y:y,width:(W-ml-mr),height:h2,fill:'var(--surf2)'}));
-    svg.appendChild(E('rect',{x:ml,y:y,width:w.toFixed(1),height:h2,fill:tonos[i],
-      'fill-opacity':i<2?.55:1}));
-    svg.appendChild(E('text',{x:ml-12,y:y+h2*.55,'font-size':13.5,'font-weight':600,
-      fill:'var(--ink)','text-anchor':'end'},t.cap));
-    svg.appendChild(E('text',{x:ml-12,y:y+h2*.55+16,'font-size':12.5,
-      fill:'var(--ink3)','text-anchor':'end'},t.nota));
-    svg.appendChild(E('text',{x:ml+w+9,y:y+h2*.72,'font-size':17,'font-weight':600,
-      fill:tonos[i]},t.n));
-  });
+  /* rótulo encima de cada barra: resiste el ancho de un celular sin ocultar nada */
+  function dibuja(){
+    while(svg.firstChild) svg.removeChild(svg.firstChild);
+    var ang=svg.clientWidth&&svg.clientWidth<560;
+    /* en angosto el viewBox se iguala al ancho real: el texto no necesita crecer */
+    var W=ang?Math.max(280,svg.clientWidth):700, x0=ang?2:16, x1=W-(ang?40:70), RH=ang?70:68, top=34;
+    var H=top+T.length*RH+34, MAX=Math.ceil(Math.max.apply(null,T.map(function(t){return t.n}))/50)*50;
+    svg.setAttribute('viewBox','0 0 '+W+' '+H);
+    var X=function(v){return x0+(x1-x0)*v/MAX};
+    for(var v=0;v<=MAX;v+=(MAX>300?100:50)){ if(v%100&&MAX>300) continue;
+      svg.appendChild(E('line',{x1:X(v),x2:X(v),y1:top-6,y2:top+T.length*RH-8,stroke:'var(--grid)','stroke-width':1}));
+      svg.appendChild(E('text',{x:X(v),y:top+T.length*RH+10,'font-size':12,fill:'var(--ink3)','text-anchor':'middle'},v));
+    }
+    if(!ang) svg.appendChild(E('text',{x:x1,y:top+T.length*RH+28,'font-size':12,fill:'var(--ink3)','text-anchor':'end'},'camiones al día'));
+    T.forEach(function(t,i){
+      var y=top+i*RH, yb=y+(ang?34:30), h2=ang?16:18;
+      svg.appendChild(E('text',{x:x0,y:y+6,'font-size':14,'font-weight':600,fill:'var(--ink)'},t.cap));
+      /* la nota de cálculo va en una segunda línea; en celular, abreviada */
+      var nota=ang?t.nota.replace(/ \(cálculo propio\)/,' *').replace(' por compactador',''):t.nota;
+      svg.appendChild(E('text',{x:x0,y:y+(ang?23:21),'font-size':12,fill:'var(--ink3)'},nota));
+      svg.appendChild(E('rect',{x:x0,y:yb,width:(X(t.n)-x0).toFixed(1),height:h2,fill:tonos[i],'fill-opacity':i<2?.6:1}));
+      svg.appendChild(E('text',{x:X(t.n)+8,y:yb+h2-3,'font-size':17,'font-weight':600,fill:tonos[i]},t.n));
+    });
+    /* referencia: lo que la losa puede lavar */
+    var l=T[0].n;
+    T.forEach(function(t,i){ var yb=top+i*RH+(ang?34:30);
+      svg.appendChild(E('line',{x1:X(l),x2:X(l),y1:yb-4,y2:yb+(ang?20:22),stroke:'var(--ink)','stroke-width':1.6,'stroke-dasharray':'3 3'})); });
+    svg.appendChild(E('text',{x:ang?x0:x1,y:top-18,'font-size':12.5,fill:'var(--ink2)','text-anchor':ang?'start':'end'},
+      ang?'┆ = la losa lava '+l+' al día':'┆ = lo que la losa de lavado da para lavar: '+l));
+    if(ang) svg.appendChild(E('text',{x:x0,y:H-4,'font-size':12,fill:'var(--ink3)'},'* cálculo propio, 14 t por camión'));
+  }
+  dibuja();
+  var anchoT=svg.clientWidth;
+  addEventListener('resize',function(){ if(Math.abs(svg.clientWidth-anchoT)>40){ anchoT=svg.clientWidth; dibuja();
+    if(typeof escalaTodo==='function') escalaTodo(); } });
   svg.setAttribute('role','img');
   svg.setAttribute('aria-label','Comparación de camiones diarios según tres capítulos del mismo '+
     'estudio: 65 para la losa de lavado, 91 para el estudio vial, y entre 176 y 319 según el '+
@@ -2694,7 +2713,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     function dibujaFilo(){
     while(svg.firstChild) svg.removeChild(svg.firstChild);
     var ang=svg.clientWidth&&svg.clientWidth<560;
-    var W=ang?400:700, RH=ang?54:50, top=ang?78:58, bx=ang?96:170, x1=W-(ang?58:70), MAXM=150;
+    var W=ang?Math.max(280,svg.clientWidth):700, RH=ang?54:50, top=ang?86:58, bx=ang?80:170, x1=W-(ang?50:70), MAXM=150;
     var H=top+filas.length*RH+44;
     svg.setAttribute('viewBox','0 0 '+W+' '+H);
     var X=function(m){return bx+(x1-bx)*m/MAXM};
@@ -2719,8 +2738,11 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     svg.appendChild(E('text',{x:bx,y:top+filas.length*RH+34,'font-size':12.5,fill:'var(--warn)',
       'text-anchor':'middle','font-weight':600},'borde del área de influencia'));
     /* la cifra de la alarma, escrita en el gráfico */
-    svg.appendChild(E('text',{x:ang?20:W-20,y:24,'font-size':17,'font-weight':600,fill:'var(--ink)',
-      'text-anchor':ang?'start':'end'},cerca+' poblaciones a menos de '+MAXM+' m del borde'));
+    if(ang){
+      svg.appendChild(E('text',{x:4,y:22,'font-size':17,'font-weight':600,fill:'var(--ink)'},cerca+' poblaciones a menos'));
+      svg.appendChild(E('text',{x:4,y:44,'font-size':17,'font-weight':600,fill:'var(--ink)'},'de '+MAXM+' m del borde'));
+    } else svg.appendChild(E('text',{x:W-20,y:24,'font-size':17,'font-weight':600,fill:'var(--ink)',
+      'text-anchor':'end'},cerca+' poblaciones a menos de '+MAXM+' m del borde'));
     filas.forEach(function(f,i){
       var y=top+i*RH, yl=y+22;
       var col=f.dentro?'var(--green)':(rojas.indexOf(f.n)>=0?'var(--acc)':'var(--ink3)');
