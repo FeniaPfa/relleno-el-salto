@@ -81,6 +81,10 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   vuelta completa comparando los `getBoundingClientRect()` de los `.tx` entre sí. El
   ancho del rótulo se mide una vez por marca (`m.wtx`) porque suponerlo fijo en 210 px
   dejaba pisarse los nombres largos.
+- **Al cambiar la clase de una marca hay que invalidar `m.wtx`.** El ancho del rótulo se
+  mide una vez y se cachea; `sot` y `fondo` cambian el cuerpo de letra, así que sin
+  invalidarlo la caja queda obsoleta y los textos se pisan. Y `ALTO_TX` es 23, no el
+  cuerpo de letra: la caja real mide algo más y dos filas contiguas se tocaban por un píxel.
 - **Variables de ámbito en `ubicarMarcas()`:** un `var` declarado dentro de un callback de
   `forEach` no existe en el siguiente. Ya rompió los rótulos del 3D una vez.
 - **Dos secciones remiten al visor del terreno** («actívalo como capa en el visor 3D del

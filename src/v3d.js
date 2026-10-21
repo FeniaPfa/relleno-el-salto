@@ -76,7 +76,9 @@ function mobiliario(){
   var n=target.clone().add(new THREE.Vector3(0,0,-1000)).project(cam);
   var e=target.clone().add(new THREE.Vector3(1000,0,0)).project(cam);
   var nx=(n.x-o.x)*w/2, ny=-(n.y-o.y)*h/2;
-  _mobN.setAttribute('transform','rotate('+(Math.atan2(nx,-ny)*180/Math.PI).toFixed(1)+' 22 22)');
+  var ang=Math.atan2(nx,-ny)*180/Math.PI;
+  if(isFinite(ang))   /* antes del primer cuadro la cámara aún no proyecta: daba NaN */
+    _mobN.setAttribute('transform','rotate('+ang.toFixed(1)+' 22 22)');
   var px=Math.hypot((e.x-o.x)*w/2,-(e.y-o.y)*h/2);
   if(px>0){
     var mpp=1000/px, L=100, opciones=[100,200,500,1000,2000,5000];
@@ -311,6 +313,35 @@ var dl=new THREE.DirectionalLight(0xfff2e2,.62); dl.position.set(-1,1.5,.7); sc.
 /* desvíos que se prueban para el rótulo, en orden: pegado al punto y luego
    alejándose arriba y abajo, con la línea guía uniéndolo. */
 var DESVIOS=[0,-20,20,-40,40,-62,62,-86,86];
+/* Las que quedan bajo la pluma con el viento vigente. Es el mismo conjunto que
+   lista el panel: así lo que se lee en la lista es lo que se nombra en el mapa,
+   y el resto se queda en punto. */
+var bajoPluma={}, conMarca=null;
+/* De las 168 del catastro solo 115 caen dentro del recuadro de terreno que se
+   dibuja; el resto queda fuera del mapa aunque esté a sotavento. Hay que decirlo:
+   si no, la lista promete 44 y el mapa enseña 7, y parece que falta algo. */
+var conMarcaN=-1;
+function tieneMarca(n){
+  /* se reconstruye si cambió el número de marcas: cacheado a secas, la primera
+     llamada ocurría antes de construirMarcas() y dejaba el mapa vacío para siempre,
+     con lo que TODAS salían como «fuera del recuadro» */
+  if(!conMarca || conMarcaN!==marcas.length){
+    conMarca={}; conMarcaN=marcas.length;
+    marcas.forEach(function(m){ conMarca[m.n]=1 });
+  }
+  return !!conMarca[n];
+}
+function marcarPluma(){
+  bajoPluma={};
+  (typeof aSotavento==='function' ? aSotavento(vientoHacia) : []).forEach(function(b){ bajoPluma[b.n]=1 });
+  marcas.forEach(function(m){
+    var antes=!!m.sot; m.sot=!!bajoPluma[m.n];
+    if(antes!==m.sot){
+      m.el.classList.toggle('sot',m.sot);
+      m.wtx=null;   /* «sot» cambia el cuerpo de letra: el ancho cacheado ya no vale */
+    }
+  });
+}
 var marcas=[], CERCANAS=16, CORREDOR=10;
 /* el corredor norte, 350°–20°, es el eje del viento que declara el titular:
    ahí viven Paso Hondo, Estrella Polar y Angamos, lejos pero a sotavento directo */
@@ -339,11 +370,12 @@ function construirMarcas(){
     var el=document.createElement('div');
     el.className='marca'+(b.d<2.6?' cerca':'')+(orden>=6?' lejos':'')+
                  (corr?' eje':'')+(fondo?' fondo':'');
-    el.innerHTML='<i class="ln"></i><i class="pt"></i><span class="tx">'+b.n+
+    el.innerHTML='<i class="ln"></i><i class="lnh"></i><i class="pt"></i><span class="tx">'+b.n+
       ' <span class="km">'+b.d.toFixed(2).replace('.',',')+' km</span></span>';
     cv.appendChild(el);
     marcas.push({el:el,u:p,d:b.d,n:b.n,orden:orden,corr:corr,fondo:fondo,
-                 v3:new THREE.Vector3(), ln:el.querySelector('.ln')});
+                 v3:new THREE.Vector3(), ln:el.querySelector('.ln'),
+                 lnh:el.querySelector('.lnh')});
   });
 }
 /* cuántos rótulos caben: más cerca la cámara, más nombres */
@@ -395,7 +427,9 @@ function ubicarMarcas(){
   var cupo=cupoRotulos(w);
   var cand=enPantalla.filter(function(m){ return m.x<w-reserva })
                      .sort(function(a,b){
-                       var pa=a.orden-(a.corr?6:0), pb=b.orden-(b.corr?6:0);
+                       /* bajo la pluma primero: es lo que el panel está listando */
+                       var pa=a.orden-(a.corr?6:0)-(a.sot?400:0),
+                           pb=b.orden-(b.corr?6:0)-(b.sot?400:0);
                        return pa-pb;
                      }).slice(0,cupo);
   /* Colocación por cajas reales. Antes esto apilaba por «y» y empujaba hacia
@@ -404,33 +438,47 @@ function ubicarMarcas(){
      rótulo propone su caja, se prueba contra las ya aceptadas y contra los
      huecos del mobiliario, y si choca se descarta. El límite deja de ser una
      heurística y pasa a ser el espacio que de verdad hay. */
-  var ALTO_TX=19, cajas=[], conRotulo={};
+  /* 23 px, no 19: la caja real del texto mide algo más que el cuerpo de letra y
+     dos filas contiguas se tocaban por un píxel. Deja además un respiro visible. */
+  var ALTO_TX=23, cajas=[], conRotulo={};
   function libre(x0,x1,y0,y1){
     if(choca(x0,x1,(y0+y1)/2)) return false;
     for(var i=0;i<cajas.length;i++){ var c=cajas[i];
       if(x1>c[0]&&x0<c[2]&&y1>c[1]&&y0<c[3]) return false }
     return true;
   }
+  /* bordes a los que puede saltar un rótulo que cae debajo del mobiliario */
+  var escapes=huecos.map(function(q){ return q[2]+12 }).sort(function(a,b){return a-b});
+  function pone(it,iz,dx,dy){
+    var an=it.wtx||ANCHO, bx=it.x+dx;
+    var x0=iz?bx-an:bx, x1=iz?bx:bx+an, ty=it.y+dy;
+    if(x0<4||x1>w-4||ty<14||ty>h-10) return false;
+    if(!libre(x0,x1,ty-ALTO_TX/2,ty+ALTO_TX/2)) return false;
+    cajas.push([x0,ty-ALTO_TX/2,x1,ty+ALTO_TX/2]);
+    conRotulo[it.n]=1;
+    it.el.classList.toggle('izq',iz);
+    it.el.classList.add('rot');
+    it.el.style.setProperty('--dy',dy.toFixed(0)+'px');
+    it.el.style.setProperty('--dx',dx.toFixed(0)+'px');
+    if(it.ln){ it.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
+               it.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px' }
+    if(it.lnh){ it.lnh.style.width=Math.max(0,Math.abs(dx)-4).toFixed(0)+'px';
+                it.lnh.style.left=(dx<0?dx+4:0).toFixed(0)+'px' }
+    return true;
+  }
   cand.forEach(function(it){
-    /* se intenta pegado al punto y, si no cabe, a un palmo arriba o abajo */
+    /* 1) pegado al punto, a un lado o al otro, subiendo o bajando */
     var lados = it.izq ? [true,false] : [false,true];
-    for(var li=0; li<lados.length; li++){
-      var iz=lados[li];
-      var an=it.wtx||ANCHO, x0=iz?it.x-an:it.x, x1=iz?it.x:it.x+an;
-      if(x0<4||x1>w-4) continue;
-      for(var k=0;k<DESVIOS.length;k++){
-        var dy=DESVIOS[k], ty=it.y+dy;
-        if(ty<14||ty>h-10) continue;
-        if(!libre(x0,x1,ty-ALTO_TX/2,ty+ALTO_TX/2)) continue;
-        cajas.push([x0,ty-ALTO_TX/2,x1,ty+ALTO_TX/2]);
-        conRotulo[it.n]=1;
-        it.el.classList.toggle('izq',iz);
-        it.el.classList.add('rot');
-        it.el.style.setProperty('--dy',dy.toFixed(0)+'px');
-        if(it.ln){ it.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
-                   it.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px' }
-        return;
-      }
+    for(var li=0; li<lados.length; li++)
+      for(var k=0;k<DESVIOS.length;k++)
+        if(pone(it,lados[li],0,DESVIOS[k])) return;
+    /* 2) si no cupo, suele ser porque el punto está debajo de un panel: el
+       rótulo salta al borde de ese panel y la guía horizontal lo ata */
+    for(var e=0;e<escapes.length;e++){
+      var dx=escapes[e]-it.x;
+      if(dx<=12||dx>460) continue;
+      for(var k2=0;k2<DESVIOS.length;k2++)
+        if(pone(it,false,dx,DESVIOS[k2])) return;
     }
   });
   enPantalla.forEach(function(m){ if(!conRotulo[m.n]) m.el.classList.remove('rot') });
@@ -863,7 +911,9 @@ function listaSotavento(li){
                  : abierta ? 'ocultar la lista' : 'ver las '+n+' completas';
   ul.hidden = !abierta;
   ul.innerHTML = n ? li.map(function(b){
-      return '<li>'+b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km</span></li>';
+      var en=tieneMarca(b.n);
+      return '<li'+(en?'':' class="afuera" title="queda fuera del recuadro del mapa"')+'>'+
+             b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km'+(en?'':' ·')+'</span></li>';
     }).join('')
     : '<li class="vacia">ninguna en este rumbo</li>';
 }
@@ -879,6 +929,7 @@ function textoViento(){
   if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
   if(modoViento==='man'){
     var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
+    var fuera=li.filter(function(b){ return !tieneMarca(b.n) }).length;
     /* Un dato por línea: junto en un párrafo, el ancho del rumbo (5° frente a
        355°) hacía saltar el salto de línea y el bloque crecía 20 px. */
     e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b><br><i>supuesto tuyo, no del expediente</i>'+
@@ -888,6 +939,7 @@ function textoViento(){
          porque si una ocupa más que la otra, el deslizador salta al cruzar un
          rumbo donde el conteo cae a cero. */
       '<br>A sotavento: <b>'+(n || 'ninguna')+'</b> de '+T+' comunidades' +
+      (fuera ? '<br><span class="vq">'+fuera+' quedan fuera del recuadro del mapa</span>' : '') +
       '<br><span class="vq">catastro abierto, radio de 6 km</span>';
     listaSotavento(li);
     return;
@@ -908,6 +960,15 @@ function fijarViento(m,rumbo){
      contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
      reflui­a y el deslizador saltaba bajo el cursor. */
   var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho', m==='man');
+  /* el mando flotante existe en los tres modos: sirve para cambiar de modo sin
+     bajar a los controles, que en estrecho están debajo del mapa */
+  var fl=$('#vflot'); if(fl) fl.hidden=false;
+  var md=$('#vflot-mando'); if(md) md.hidden = m!=='man';
+  ['pri','sec','man'].forEach(function(k){
+    var b=$('#w-'+k+'2'); if(b) b.setAttribute('aria-pressed',String(k===m));
+  });
+  var s2=$('#w-dir2'); if(s2 && +s2.value!==rumbo) s2.value=rumbo;
+  marcarPluma(); ecoFlotante();
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
@@ -923,10 +984,39 @@ $('#w-man').addEventListener('click',function(){
   var sl=$('#w-dir'); if(!sl) return;
   sl.addEventListener('input',function(){
     if(modoViento!=='man') fijarViento('man',+this.value);
-    else { vientoHacia=+this.value; redibujarRosa(); }
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+    var s2=$('#w-dir2'); if(s2) s2.value=this.value;
   });
 })();
-function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); }
+function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); ecoFlotante(); }
+(function(){ var fl=$('#vflot'); if(fl) fl.hidden=false; ecoFlotante(); })();
+/* el duplicado que flota sobre el mapa en pantallas estrechas */
+function ecoFlotante(){
+  var et=$('#vflot-et'), nm=$('#vflot-n');
+  if(et) et.textContent=vientoHacia+'°';
+  if(nm){
+    var li=(typeof aSotavento==='function') ? aSotavento(vientoHacia) : [];
+    var enMapa=li.filter(function(b){ return tieneMarca(b.n) }).length;
+    nm.innerHTML = (li.length ? '<b>'+li.length+'</b> a sotavento'+
+                                (enMapa<li.length ? ' · '+enMapa+' en el mapa' : '')
+                              : 'nadie a sotavento') +
+                   (modoViento==='man' ? ' · supuesto tuyo' : '');
+  }
+}
+(function(){
+  var b;
+  if((b=$('#w-pri2'))) b.addEventListener('click',function(){ fijarViento('pri',V.hacia) });
+  if((b=$('#w-sec2'))) b.addEventListener('click',function(){ fijarViento('sec',V.sec_hacia) });
+  if((b=$('#w-man2'))) b.addEventListener('click',function(){ fijarViento('man',vientoHacia) });
+})();
+(function(){
+  var s2=$('#w-dir2'); if(!s2) return;
+  s2.addEventListener('input',function(){
+    var sl=$('#w-dir'); if(sl) sl.value=this.value;
+    if(modoViento!=='man') fijarViento('man',+this.value);
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+  });
+})();
 
 /* ---------- recorrido de cámara ---------- */
 var TOUR=[

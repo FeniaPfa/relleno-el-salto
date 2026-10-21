@@ -429,10 +429,16 @@ footer .imprimir{display:inline-block;margin-top:10px}
   background:#fbf7ec;box-shadow:0 0 0 1.5px #14161a,0 0 6px rgba(0,0,0,.75)}
 .marca .ln{position:absolute;left:-.75px;width:1.5px;height:0;background:#fbf7ec;
   opacity:.5;box-shadow:0 0 2px #14161a}
-.marca .tx{position:absolute;left:11px;top:var(--dy,0px);transform:translateY(-50%);
+.marca .tx{position:absolute;left:calc(11px + var(--dx,0px));top:var(--dy,0px);transform:translateY(-50%);
   white-space:nowrap;font-family:var(--cart);font-size:13px;font-weight:600;color:#fbf7ec;
   text-shadow:0 0 3px #14161a,0 0 3px #14161a,0 1px 4px #14161a,0 0 8px rgba(0,0,0,.9)}
 .marca.izq .tx{left:auto;right:11px}
+/* Guía horizontal: cuando el rótulo tiene que apartarse de debajo del panel de
+   viento, se aleja del punto y esta línea los mantiene unidos. */
+.marca .lnh{position:absolute;left:0;top:var(--dy,0px);height:1.5px;width:0;
+  background:#fbf7ec;opacity:.45;box-shadow:0 0 2px #14161a}
+.marca.cerca .lnh{background:#ff7a45}
+.marca.sot .lnh{background:#ff9d4d}
 .marca .km{font-weight:500;color:#d8dcd4}
 .marca.cerca .pt{background:#ff7a45}
 .marca.cerca .ln{background:#ff7a45}
@@ -474,6 +480,9 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .vlist li{display:flex;justify-content:space-between;gap:8px;padding:2px 6px 2px 0}
 .vlist li span{color:#8d9890;font-variant-numeric:tabular-nums;flex:none}
 .vlist li.vacia{color:#8d9890;font-style:italic;padding-top:6px}
+/* las que estan a sotavento pero caen fuera del recuadro del terreno dibujado */
+.vlist li.afuera{color:#8d9890}
+.vlist li.afuera span{color:#78827a}
 .vmas:disabled{color:#6d7a83;border-color:#333c44;cursor:default}
 .vd b{color:#f0b26a;font-weight:600}
 /* Los dos del titular caben en una fila; «Manual» no (los tres piden 215 px en un
@@ -541,7 +550,24 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
     border-color:var(--ink)}
   .ctrl .rosa svg{width:110px;height:110px}
   .ctrl .rosa svg text{fill:var(--ink2)}
+  /* En estrecho los controles bajan debajo del mapa, asi que al mover el rumbo
+     no se ve la pluma: justo lo que el control existe para mostrar. Este duplicado
+     flota sobre el lienzo y solo aparece en modo Manual. */
+  .vflot{position:absolute;left:8px;right:8px;bottom:8px;z-index:4;
+    display:flex;flex-direction:column;gap:7px;
+    background:rgba(13,16,20,.93);border:1px solid #39413c;border-radius:3px;
+    padding:9px 10px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+  .vflot .fila{display:flex;align-items:center;gap:6px}
+  .vflot .modos .tg{flex:1;min-width:0;padding:7px 4px;font-size:12.5px;min-height:36px;
+    color:#c6cec7;border-color:#4a5450;text-align:center;white-space:nowrap}
+  .vflot .modos .tg[aria-pressed="true"]{background:#f0b26a;color:#17120a;border-color:#f0b26a}
+  .vflot .modos #w-man2[aria-pressed="true"]{background:#8fb8d4;color:#0d1620;border-color:#8fb8d4}
+  .vflot .et{font-family:var(--cart);font-size:14px;font-weight:600;color:#8fb8d4;
+    min-width:44px;font-variant-numeric:tabular-nums}
+  .vflot input[type=range]{flex:1;min-width:0;accent-color:#8fb8d4;height:32px}
+  .vflot .nm{font-family:var(--cart);font-size:12.5px;color:#aeb6ae;text-align:center}
 }
+@media(min-width:901px){ .vflot{display:none} }
 @media(max-width:720px){
   .v3 .cv{aspect-ratio:1/1}
   .tlg{grid-template-columns:1fr 1fr}
@@ -815,6 +841,13 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 .marca.fondo.rot .pt,.marca.fondo.hov .pt{opacity:1;background:#cfd6cf}
 .marca.fondo .tx{font-size:12px;color:#cdd3cc}
 .marca.fondo .km{color:#aeb6ae}
+/* Bajo la pluma del viento vigente: lo que el panel está listando se reconoce
+   en el mapa. Sube de nivel aunque sea «fondo». */
+.marca.sot .pt{width:9px;height:9px;left:-4.5px;top:-4.5px;opacity:1;
+  background:#ff9d4d;box-shadow:0 0 0 1.5px #14161a,0 0 7px rgba(255,120,40,.55)}
+.marca.sot .tx{color:#ffd0a8;font-size:12.5px}
+.marca.sot .km{color:#f0b98e}
+.marca.sot .ln{background:#ff9d4d}
 .marca.hov{z-index:5}
 .marca.hov .pt{background:#ffd166;box-shadow:0 0 0 1.6px #14161a,0 0 10px rgba(255,209,102,.6)}
 
@@ -1019,6 +1052,19 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       </div>
     </div>
     <div class="cv" id="cv">
+      <div class="vflot" id="vflot" hidden>
+        <div class="fila modos">
+          <button class="tg" id="w-pri2" aria-pressed="true">Predominante</button>
+          <button class="tg" id="w-sec2" aria-pressed="false">Secundario</button>
+          <button class="tg" id="w-man2" aria-pressed="false">Manual</button>
+        </div>
+        <div class="fila mando" id="vflot-mando" hidden>
+          <span class="et" id="vflot-et">10°</span>
+          <input type="range" id="w-dir2" min="0" max="355" step="5" value="10"
+                 aria-label="Dirección del viento, en grados">
+        </div>
+        <div class="nm" id="vflot-n"></div>
+      </div>
       <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y − · toca un punto para ver su nombre</span><span class="angosto">Arrastra para girar · + y − acercan · toca un punto</span></div>
       <div class="mob" id="mob" aria-hidden="true">
         <div class="fila">
@@ -2183,8 +2229,9 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
   bind($('#t-res'),gRes); bind($('#t-edu'),gEdu); bind($('#t-sal'),gSal);
   bind($('#t-ani'),gAni); bind($('#t-area'),gAre); bind($('#t-ai'),gAI);
-  /* arranca con lo esencial: equipamientos y área de influencia a un toque (esta última tiene su sección) */
-  ['#t-edu','#t-sal','#t-ai'].forEach(function(id){ var b=$(id); if(b) b.click() });
+  /* las seis capas encendidas: la sección se titula «quién vive alrededor», así que
+     los colegios, los centros de salud y el área de influencia son parte de la respuesta,
+     no un extra que haya que ir a buscar */
 })();
 
 /* ===== mapa de escorrentía hasta el Marga-Marga ===== */
