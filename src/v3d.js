@@ -800,11 +800,23 @@ function rosaViento(){
   svg.appendChild(E('circle',{cx:cx+Math.cos(a)*(R-4),cy:cy+Math.sin(a)*(R-4),r:2.6,fill:'#fff'}));
   textoViento();
 }
-/* Cuantas de las catorce poblaciones caen en la pluma de ±35° para un rumbo dado.
-   El ancho es el mismo supuesto que declara la sección «Quién queda a sotavento». */
+/* Todas las comunidades del catastro, una por nombre y quedándose con la más cercana.
+   OJO: aquí NO sirve D.rumbos. Esas son sólo las catorce más próximas, y están todas
+   al norte; contando sobre ellas el panel decía «ninguna población» mirando al este,
+   donde en realidad hay 44. Al oeste y al noroeste pasaba lo mismo con 6 y 19. */
+var COMUNIDADES=(function(){
+  var por={};
+  (D.barrios||[]).forEach(function(b){
+    if(!(b.n in por) || b.d<por[b.n].d) por[b.n]=b;
+  });
+  return Object.keys(por).map(function(k){return por[k]});
+})();
+
+/* Cuántas caen en la pluma de ±35° para un rumbo dado. El ancho es el mismo
+   supuesto que declara la sección «Quién queda a sotavento». */
 function aSotavento(rumbo){
-  var dentro=(D.rumbos||[]).filter(function(r){
-    var d=Math.abs(((r.rumbo-rumbo+540)%360)-180);   /* separación angular, 0..180 */
+  var dentro=COMUNIDADES.filter(function(b){
+    var d=Math.abs(((b.rb-rumbo+540)%360)-180);   /* separación angular, 0..180 */
     return d<=35;
   });
   dentro.sort(function(a,b){return a.d-b.d});
@@ -813,12 +825,12 @@ function aSotavento(rumbo){
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
   if(modoViento==='man'){
-    var li=aSotavento(vientoHacia), n=li.length;
+    var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
     e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b> · <i>supuesto tuyo, no del expediente</i>'+
-      '<br>'+(n ? 'A sotavento: <b>'+n+'</b> de '+(D.rumbos||[]).length+
-                  ' poblaciones<br><span class="vq">'+li.slice(0,3).map(function(r){return r.n}).join(' · ')+
-                  (n>3?' …':'')+'</span>'
-            : 'Ninguna población queda a sotavento');
+      '<br>'+(n ? 'A sotavento: <b>'+n+'</b> de '+T+' comunidades<br><span class="vq">'+
+                  li.slice(0,3).map(function(b){return b.n}).join(' · ')+(n>3?' …':'')+'</span>'
+            : 'Ninguna de las '+T+' comunidades queda a sotavento') +
+      '<br><span class="vq">catastro abierto, radio de 6 km</span>';
     return;
   }
   e.innerHTML = modoViento==='pri'
