@@ -487,12 +487,15 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .vd i{color:#8fb8d4;font-style:normal;font-size:12px}
 .vd .vq{color:#9aa49c;font-size:12px}
 .vd b{color:#f0b26a;font-weight:600}
-.vbtns{display:flex;gap:5px;margin-top:10px}
+/* Los dos del titular caben en una fila; «Manual» no (los tres piden 215 px en un
+   panel de 176) y además es de otra naturaleza: va en su propia fila, a lo ancho. */
+.vbtns{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}
 .vbtns .tg{flex:1;padding:6px 5px;font-size:12.5px;min-height:32px;
   border-color:#4a5450;color:#c6cec7;text-align:center}
 .vbtns .tg[aria-pressed="true"]{background:#f0b26a;color:#17120a;border-color:#f0b26a}
 /* el tercer modo: el lector fija el rumbo. Va con otro color para que no se
    confunda con los dos que declara el titular. */
+.vbtns #w-man{flex:1 0 100%}
 .vbtns #w-man[aria-pressed="true"]{background:#8fb8d4;color:#0d1620;border-color:#8fb8d4}
 .vman{margin-top:9px}
 .vman label{display:block;font-family:var(--cart);font-size:11.5px;letter-spacing:.04em;
@@ -4260,6 +4263,9 @@ function textoViento(){
    los tres scripts se empalman en un solo IIFE y comparten variables. */
 function fijarViento(m,rumbo){
   modoViento=m; vientoHacia=rumbo;
+  /* El deslizador sigue siempre al rumbo vigente: así «Manual» arranca donde
+     quedó lo último que se miró, en vez de saltar a un valor viejo. */
+  var sl=$('#w-dir'); if(sl && +sl.value!==rumbo) sl.value=rumbo;
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
@@ -4269,7 +4275,7 @@ function fijarViento(m,rumbo){
 $('#w-pri').addEventListener('click',function(){ fijarViento('pri',V.hacia) });
 $('#w-sec').addEventListener('click',function(){ fijarViento('sec',V.sec_hacia) });
 $('#w-man').addEventListener('click',function(){
-  var sl=$('#w-dir'); fijarViento('man', sl ? +sl.value : V.hacia);
+  fijarViento('man', vientoHacia);   /* parte del rumbo que se está viendo */
 });
 (function(){
   var sl=$('#w-dir'); if(!sl) return;

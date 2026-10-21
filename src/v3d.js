@@ -830,6 +830,9 @@ function textoViento(){
    los tres scripts se empalman en un solo IIFE y comparten variables. */
 function fijarViento(m,rumbo){
   modoViento=m; vientoHacia=rumbo;
+  /* El deslizador sigue siempre al rumbo vigente: así «Manual» arranca donde
+     quedó lo último que se miró, en vez de saltar a un valor viejo. */
+  var sl=$('#w-dir'); if(sl && +sl.value!==rumbo) sl.value=rumbo;
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
@@ -839,7 +842,7 @@ function fijarViento(m,rumbo){
 $('#w-pri').addEventListener('click',function(){ fijarViento('pri',V.hacia) });
 $('#w-sec').addEventListener('click',function(){ fijarViento('sec',V.sec_hacia) });
 $('#w-man').addEventListener('click',function(){
-  var sl=$('#w-dir'); fijarViento('man', sl ? +sl.value : V.hacia);
+  fijarViento('man', vientoHacia);   /* parte del rumbo que se está viendo */
 });
 (function(){
   var sl=$('#w-dir'); if(!sl) return;
