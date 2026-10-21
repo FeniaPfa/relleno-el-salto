@@ -1250,21 +1250,6 @@ img{max-width:100%}
     un camión real pasando por el acceso en la Ruta 60. El tiempo corre acelerado sesenta veces.</figcaption>
   </figure>
 
-  <div class="charts" style="margin-top:34px">
-    <div class="chart">
-      <h3>Los camiones que harían falta, año a año</h3>
-      <div class="cs">Ingresos diarios necesarios para recibir el tonelaje que el proyecto declara</div>
-      <svg id="c-vial" viewBox="0 0 470 280"></svg>
-      <div class="cfoot" id="f-vial"></div>
-    </div>
-    <div class="chart">
-      <h3>La Ruta 60 en la hora punta</h3>
-      <div class="cs">Flujo medido por el propio estudio en el punto de control PC1</div>
-      <svg id="c-sat" viewBox="0 0 470 280"></svg>
-      <div class="cfoot" id="f-sat"></div>
-    </div>
-  </div>
-
   <figure class="tres">
     <h3>Tres capítulos del mismo estudio, tres cifras distintas</h3>
     <svg id="c-tres" viewBox="0 0 700 250"></svg>
@@ -2303,89 +2288,6 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       {rootMargin:'150px'}).observe(cv);
   bucle();
 
-  /* ---- gráfico: camiones necesarios por año ---- */
-  (function(){
-    var svg=document.getElementById('c-vial'); if(!svg) return;
-    var NS='http://www.w3.org/2000/svg',W=470,H=280,ml=46,mr=14,mt=16,mb=40;
-    function E2(t,a,x){var n=document.createElementNS(NS,t);for(var k in a)n.setAttribute(k,a[k]);
-      if(x!=null)n.textContent=x;return n}
-    var max=Math.max.apply(null,V.serie['10']); max=Math.ceil(max/50)*50;
-    var X=function(a){return ml+(W-ml-mr)*(a-1)/24};
-    var Y=function(v){return mt+(H-mt-mb)*(1-v/max)};
-    [0,.25,.5,.75,1].forEach(function(f){
-      var y=Y(max*f);
-      svg.appendChild(E2('line',{x1:ml,x2:W-mr,y1:y,y2:y,stroke:'var(--grid)','stroke-width':1}));
-      svg.appendChild(E2('text',{x:ml-8,y:y+4,'font-size':11.5,fill:'var(--ink3)',
-        'text-anchor':'end'},Math.round(max*f)));
-    });
-    [1,5,10,15,20,25].forEach(function(a){
-      svg.appendChild(E2('text',{x:X(a),y:H-mb+18,'font-size':11.5,fill:'var(--ink3)',
-        'text-anchor':'middle'},a));
-    });
-    svg.appendChild(E2('text',{x:(ml+W-mr)/2,y:H-mb+34,'font-size':11.5,fill:'var(--ink3)',
-      'text-anchor':'middle'},'año de operación'));
-    var tonos={'10':'var(--acc)','14':'#c86a3c','22':'var(--warn)','28':'var(--ink3)'};
-    V.cargas.forEach(function(c){
-      var s=V.serie[String(c.carga)], d='';
-      s.forEach(function(v,i){d+=(i?'L':'M')+X(i+1).toFixed(1)+' '+Y(v).toFixed(1)});
-      svg.appendChild(E2('path',{d:d,fill:'none',stroke:tonos[String(c.carga)],
-        'stroke-width':c.carga===14?2.6:1.8,'stroke-opacity':c.carga===14?1:.75}));
-      svg.appendChild(E2('text',{x:W-mr-2,y:Y(s[24])-6,'font-size':12,'font-weight':600,
-        fill:tonos[String(c.carga)],'text-anchor':'end'},c.carga+' t'));
-    });
-    var ye=Y(E.viajes_dia/2);
-    svg.appendChild(E2('line',{x1:ml,x2:W-mr,y1:ye,y2:ye,stroke:'var(--blue)',
-      'stroke-width':2,'stroke-dasharray':'6 4'}));
-    svg.appendChild(E2('text',{x:ml+6,y:ye-7,'font-size':12,'font-weight':600,
-      fill:'var(--blue)'},'91 ingresos/día: lo que modela el estudio'));
-    svg.appendChild(E2('line',{x1:ml,x2:W-mr,y1:Y(0),y2:Y(0),stroke:'var(--line)','stroke-width':1}));
-    document.getElementById('f-vial').innerHTML='Cada línea es una capacidad de carga distinta. '+
-      'Incluso con el <b>tren de carga máximo legal de 28 t</b> —que no es un camión recolector— '+
-      'el año 25 necesita 151 ingresos diarios: <b>66 % más</b> de los modelados.';
-    svg.setAttribute('role','img');
-    svg.setAttribute('aria-label','Camiones necesarios por día durante 25 años según capacidad de '+
-      'carga. Todas las curvas superan la línea de 91 ingresos diarios que modela el estudio.');
-  })();
-
-  /* ---- gráfico: saturación de la Ruta 60 ---- */
-  (function(){
-    var svg=document.getElementById('c-sat'); if(!svg) return;
-    var NS='http://www.w3.org/2000/svg',W=470,H=280,ml=120,mr=56,mt=28,mb=46;
-    function E2(t,a,x){var n=document.createElementNS(NS,t);for(var k in a)n.setAttribute(k,a[k]);
-      if(x!=null)n.textContent=x;return n}
-    var s=estado();
-    var barras=[
-      {n:'Medido hoy',v:E.flujo_actual,c:'var(--ink3)'},
-      {n:'Base 2027',v:E.flujo_base_2027,c:'var(--ink2)'},
-      {n:'Con el proyecto,\nsegún el estudio',v:E.flujo_base_2027+E.veh_hr_proyecto,c:'var(--blue)'},
-      {n:'Con el proyecto,\nsegún el tonelaje',v:E.flujo_base_2027+s.real+3,c:'var(--acc)'}
-    ];
-    var cap=E.cap_2027, bw=(H-mt-mb)/barras.length;
-    var X=function(v){return ml+(W-ml-mr)*v/cap};
-    barras.forEach(function(b,i){
-      var y=mt+i*bw+bw*.18, h=bw*.56;
-      svg.appendChild(E2('rect',{x:ml,y:y,width:(W-ml-mr),height:h,fill:'var(--surf2)'}));
-      svg.appendChild(E2('rect',{x:ml,y:y,width:(X(b.v)-ml).toFixed(1),height:h,fill:b.c}));
-      b.n.split('\n').forEach(function(ln,k){
-        svg.appendChild(E2('text',{x:ml-10,y:y+h/2+4+(k-((b.n.split('\n').length-1)/2))*13,
-          'font-size':12,fill:'var(--ink2)','text-anchor':'end'},ln));
-      });
-      svg.appendChild(E2('text',{x:W-mr+6,y:y+h/2+4,'font-size':12.5,'font-weight':600,
-        fill:b.c},(b.v/cap*100).toFixed(0)+'%'));
-    });
-    var yc=mt-10;
-    svg.appendChild(E2('line',{x1:W-mr,x2:W-mr,y1:yc,y2:H-mb+4,stroke:'var(--acc)',
-      'stroke-width':1.5,'stroke-dasharray':'4 3'}));
-    svg.appendChild(E2('text',{x:W-mr,y:yc-4,'font-size':11.5,fill:'var(--acc)',
-      'text-anchor':'end'},'capacidad '+cap+' veh/h'));
-    document.getElementById('f-sat').innerHTML='La Ruta 60 tiene holgura: incluso con el tránsito '+
-      'real del proyecto la saturación queda <b>bajo el 85 %</b> donde empieza la congestión. '+
-      '<b>El problema no es el atochamiento</b>, son los camiones en sí: ruido, olor del percolado '+
-      'y riesgo en una vía que además es ruta de evacuación.';
-    svg.setAttribute('role','img');
-    svg.setAttribute('aria-label','Saturación de la Ruta 60 en la hora punta. Incluso con el '+
-      'tránsito real del proyecto se mantiene por debajo del umbral de congestión.');
-  })();
 })();
 
 /* ===== las poblaciones excluidas del área de influencia ===== */
