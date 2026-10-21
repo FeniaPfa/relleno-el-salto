@@ -429,10 +429,16 @@ footer .imprimir{display:inline-block;margin-top:10px}
   background:#fbf7ec;box-shadow:0 0 0 1.5px #14161a,0 0 6px rgba(0,0,0,.75)}
 .marca .ln{position:absolute;left:-.75px;width:1.5px;height:0;background:#fbf7ec;
   opacity:.5;box-shadow:0 0 2px #14161a}
-.marca .tx{position:absolute;left:11px;top:var(--dy,0px);transform:translateY(-50%);
+.marca .tx{position:absolute;left:calc(11px + var(--dx,0px));top:var(--dy,0px);transform:translateY(-50%);
   white-space:nowrap;font-family:var(--cart);font-size:13px;font-weight:600;color:#fbf7ec;
   text-shadow:0 0 3px #14161a,0 0 3px #14161a,0 1px 4px #14161a,0 0 8px rgba(0,0,0,.9)}
 .marca.izq .tx{left:auto;right:11px}
+/* Guía horizontal: cuando el rótulo tiene que apartarse de debajo del panel de
+   viento, se aleja del punto y esta línea los mantiene unidos. */
+.marca .lnh{position:absolute;left:0;top:var(--dy,0px);height:1.5px;width:0;
+  background:#fbf7ec;opacity:.45;box-shadow:0 0 2px #14161a}
+.marca.cerca .lnh{background:#ff7a45}
+.marca.sot .lnh{background:#ff9d4d}
 .marca .km{font-weight:500;color:#d8dcd4}
 .marca.cerca .pt{background:#ff7a45}
 .marca.cerca .ln{background:#ff7a45}
@@ -541,7 +547,20 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
     border-color:var(--ink)}
   .ctrl .rosa svg{width:110px;height:110px}
   .ctrl .rosa svg text{fill:var(--ink2)}
+  /* En estrecho los controles bajan debajo del mapa, asi que al mover el rumbo
+     no se ve la pluma: justo lo que el control existe para mostrar. Este duplicado
+     flota sobre el lienzo y solo aparece en modo Manual. */
+  .vflot{position:absolute;left:10px;right:10px;bottom:10px;z-index:4;
+    display:flex;align-items:center;gap:10px;
+    background:rgba(13,16,20,.92);border:1px solid #39413c;border-radius:3px;
+    padding:9px 12px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+  .vflot .et{font-family:var(--cart);font-size:14px;font-weight:600;color:#8fb8d4;
+    min-width:46px;font-variant-numeric:tabular-nums}
+  .vflot input[type=range]{flex:1;min-width:0;accent-color:#8fb8d4;height:34px}
+  .vflot .nm{font-family:var(--cart);font-size:12.5px;color:#c6cec7;
+    max-width:40%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 }
+@media(min-width:901px){ .vflot{display:none} }
 @media(max-width:720px){
   .v3 .cv{aspect-ratio:1/1}
   .tlg{grid-template-columns:1fr 1fr}
@@ -1026,6 +1045,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       </div>
     </div>
     <div class="cv" id="cv">
+      <div class="vflot" id="vflot" hidden>
+        <span class="et" id="vflot-et">30°</span>
+        <input type="range" id="w-dir2" min="0" max="355" step="5" value="10"
+               aria-label="Dirección del viento, en grados">
+        <span class="nm" id="vflot-n"></span>
+      </div>
       <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y − · toca un punto para ver su nombre</span><span class="angosto">Arrastra para girar · + y − acercan · toca un punto</span></div>
       <div class="mob" id="mob" aria-hidden="true">
         <div class="fila">

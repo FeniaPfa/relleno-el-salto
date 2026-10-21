@@ -354,11 +354,12 @@ function construirMarcas(){
     var el=document.createElement('div');
     el.className='marca'+(b.d<2.6?' cerca':'')+(orden>=6?' lejos':'')+
                  (corr?' eje':'')+(fondo?' fondo':'');
-    el.innerHTML='<i class="ln"></i><i class="pt"></i><span class="tx">'+b.n+
+    el.innerHTML='<i class="ln"></i><i class="lnh"></i><i class="pt"></i><span class="tx">'+b.n+
       ' <span class="km">'+b.d.toFixed(2).replace('.',',')+' km</span></span>';
     cv.appendChild(el);
     marcas.push({el:el,u:p,d:b.d,n:b.n,orden:orden,corr:corr,fondo:fondo,
-                 v3:new THREE.Vector3(), ln:el.querySelector('.ln')});
+                 v3:new THREE.Vector3(), ln:el.querySelector('.ln'),
+                 lnh:el.querySelector('.lnh')});
   });
 }
 /* cuántos rótulos caben: más cerca la cámara, más nombres */
@@ -430,26 +431,38 @@ function ubicarMarcas(){
       if(x1>c[0]&&x0<c[2]&&y1>c[1]&&y0<c[3]) return false }
     return true;
   }
+  /* bordes a los que puede saltar un rótulo que cae debajo del mobiliario */
+  var escapes=huecos.map(function(q){ return q[2]+12 }).sort(function(a,b){return a-b});
+  function pone(it,iz,dx,dy){
+    var an=it.wtx||ANCHO, bx=it.x+dx;
+    var x0=iz?bx-an:bx, x1=iz?bx:bx+an, ty=it.y+dy;
+    if(x0<4||x1>w-4||ty<14||ty>h-10) return false;
+    if(!libre(x0,x1,ty-ALTO_TX/2,ty+ALTO_TX/2)) return false;
+    cajas.push([x0,ty-ALTO_TX/2,x1,ty+ALTO_TX/2]);
+    conRotulo[it.n]=1;
+    it.el.classList.toggle('izq',iz);
+    it.el.classList.add('rot');
+    it.el.style.setProperty('--dy',dy.toFixed(0)+'px');
+    it.el.style.setProperty('--dx',dx.toFixed(0)+'px');
+    if(it.ln){ it.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
+               it.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px' }
+    if(it.lnh){ it.lnh.style.width=Math.max(0,Math.abs(dx)-4).toFixed(0)+'px';
+                it.lnh.style.left=(dx<0?dx+4:0).toFixed(0)+'px' }
+    return true;
+  }
   cand.forEach(function(it){
-    /* se intenta pegado al punto y, si no cabe, a un palmo arriba o abajo */
+    /* 1) pegado al punto, a un lado o al otro, subiendo o bajando */
     var lados = it.izq ? [true,false] : [false,true];
-    for(var li=0; li<lados.length; li++){
-      var iz=lados[li];
-      var an=it.wtx||ANCHO, x0=iz?it.x-an:it.x, x1=iz?it.x:it.x+an;
-      if(x0<4||x1>w-4) continue;
-      for(var k=0;k<DESVIOS.length;k++){
-        var dy=DESVIOS[k], ty=it.y+dy;
-        if(ty<14||ty>h-10) continue;
-        if(!libre(x0,x1,ty-ALTO_TX/2,ty+ALTO_TX/2)) continue;
-        cajas.push([x0,ty-ALTO_TX/2,x1,ty+ALTO_TX/2]);
-        conRotulo[it.n]=1;
-        it.el.classList.toggle('izq',iz);
-        it.el.classList.add('rot');
-        it.el.style.setProperty('--dy',dy.toFixed(0)+'px');
-        if(it.ln){ it.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
-                   it.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px' }
-        return;
-      }
+    for(var li=0; li<lados.length; li++)
+      for(var k=0;k<DESVIOS.length;k++)
+        if(pone(it,lados[li],0,DESVIOS[k])) return;
+    /* 2) si no cupo, suele ser porque el punto está debajo de un panel: el
+       rótulo salta al borde de ese panel y la guía horizontal lo ata */
+    for(var e=0;e<escapes.length;e++){
+      var dx=escapes[e]-it.x;
+      if(dx<=12||dx>460) continue;
+      for(var k2=0;k2<DESVIOS.length;k2++)
+        if(pone(it,false,dx,DESVIOS[k2])) return;
     }
   });
   enPantalla.forEach(function(m){ if(!conRotulo[m.n]) m.el.classList.remove('rot') });
@@ -927,7 +940,9 @@ function fijarViento(m,rumbo){
      contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
      reflui­a y el deslizador saltaba bajo el cursor. */
   var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho', m==='man');
-  marcarPluma();
+  var fl=$('#vflot'); if(fl) fl.hidden = m!=='man';
+  var s2=$('#w-dir2'); if(s2 && +s2.value!==rumbo) s2.value=rumbo;
+  marcarPluma(); ecoFlotante();
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
@@ -944,9 +959,27 @@ $('#w-man').addEventListener('click',function(){
   sl.addEventListener('input',function(){
     if(modoViento!=='man') fijarViento('man',+this.value);
     else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+    var s2=$('#w-dir2'); if(s2) s2.value=this.value;
   });
 })();
-function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); }
+function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); ecoFlotante(); }
+/* el duplicado que flota sobre el mapa en pantallas estrechas */
+function ecoFlotante(){
+  var et=$('#vflot-et'), nm=$('#vflot-n');
+  if(et) et.textContent=vientoHacia+'°';
+  if(nm){
+    var li=(typeof aSotavento==='function') ? aSotavento(vientoHacia) : [];
+    nm.textContent = li.length ? li.length+' a sotavento' : 'nadie a sotavento';
+  }
+}
+(function(){
+  var s2=$('#w-dir2'); if(!s2) return;
+  s2.addEventListener('input',function(){
+    var sl=$('#w-dir'); if(sl) sl.value=this.value;
+    if(modoViento!=='man') fijarViento('man',+this.value);
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+  });
+})();
 
 /* ---------- recorrido de cámara ---------- */
 var TOUR=[
