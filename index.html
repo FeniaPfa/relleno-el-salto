@@ -280,7 +280,7 @@ footer b{color:var(--ink);font-weight:600}
 
 /* ---------- visor 3D: panel oscuro propio, no sigue el tema ---------- */
 .v3{border:1px solid var(--line);background:#0f1115;position:relative;margin-top:30px}
-.v3 .cv{position:relative;width:100%;aspect-ratio:16/10;min-height:320px}
+.v3 .cv{position:relative;width:100%;aspect-ratio:16/10;min-height:320px;overflow:hidden}
 .v3 canvas{display:block;width:100%;height:100%}
 .v3bar{display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;align-items:center;
   padding:12px 16px;border-bottom:1px solid var(--line);background:var(--surf)}
@@ -295,8 +295,8 @@ footer b{color:var(--ink);font-weight:600}
 .panel .sw{width:10px;height:10px;flex-shrink:0;border-radius:1px}
 .vhint{position:absolute;left:12px;bottom:12px;font-family:var(--cart);font-size:13px;
   color:#aab4ac;background:rgba(13,16,20,.85);padding:7px 10px;border:1px solid #39413c;z-index:3}
-.marca{position:absolute;width:0;height:0;pointer-events:none;z-index:2;opacity:0;
-  transition:opacity .18s}
+.marca{position:absolute;left:0;top:0;width:0;height:0;pointer-events:none;z-index:2;
+  opacity:0;transition:opacity .18s;will-change:transform}
 /* el punto se queda clavado donde está el lugar; solo el texto se aparta */
 .marca .pt{position:absolute;left:-4.5px;top:-4.5px;width:9px;height:9px;border-radius:50%;
   background:#fbf7ec;box-shadow:0 0 0 1.5px #14161a,0 0 6px rgba(0,0,0,.75)}
@@ -591,6 +591,19 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 .src a:focus-visible{outline:2px solid var(--acc);outline-offset:3px;border-radius:1px}
 @media(hover:none){.src a{border-bottom-color:var(--lctl)}}
 
+/* puntos secundarios: visibles pero sin competir con los seis más cercanos */
+.marca{opacity:0}
+.marca.vis{opacity:1}
+.marca .tx{opacity:0;transition:opacity .14s}
+.marca.rot .tx,.marca.hov .tx{opacity:1}
+.marca .ln{opacity:0}
+.marca.rot .ln{opacity:.5}
+.marca.lejos .pt{width:7px;height:7px;left:-3.5px;top:-3.5px;background:#cfd6cf;
+  box-shadow:0 0 0 1.2px #14161a,0 0 5px rgba(0,0,0,.7)}
+.marca.lejos .tx{font-size:12.5px;color:#d8dcd4}
+.marca.hov{z-index:5}
+.marca.hov .pt{background:#ffd166;box-shadow:0 0 0 1.6px #14161a,0 0 10px rgba(255,209,102,.6)}
+
 </style>
 <meta name="description" content="Análisis geoespacial independiente del Estudio de Impacto Ambiental del relleno sanitario COSEMAR en El Salto, Viña del Mar. Expediente SEIA 2168892026. La participación ciudadana cierra el 3 de noviembre de 2026.">
 <meta name="author" content="Análisis independiente">
@@ -780,7 +793,7 @@ img{max-width:100%}
       </div>
     </div>
     <div class="cv" id="cv">
-      <div class="vhint">Arrastra para girar · rueda para acercar</div>
+      <div class="vhint">Arrastra para girar · acerca para ver más nombres · pasa el cursor por un punto</div>
     </div>
     <details class="ctrl" id="ctrl3d" open>
       <summary>Capas, simulación y viento</summary>
@@ -3080,96 +3093,122 @@ function chkOn(id){var e=document.getElementById(id);return !e||e.checked}
 sc.add(new THREE.AmbientLight(0xffffff,.74));
 var dl=new THREE.DirectionalLight(0xfff2e2,.62); dl.position.set(-1,1.5,.7); sc.add(dl);
 
-/* ---------- marcas ---------- */
-var marcas=[];
+/* ---------- marcas: un punto por comunidad, rótulo para las que quepan ---------- */
+var marcas=[], CUANTAS=16;
 function construirMarcas(){
-  var quiero=['Comunidad Alto Valencia','Población Esperanza','Nuevo Horizonte',
-              'Los Fundadores 2','Pompeya Sur','Botania'];
-  quiero.forEach(function(nom){
-    var b=null;
-    for(var i=0;i<D.barrios.length;i++) if(D.barrios[i].n===nom){b=D.barrios[i];break}
-    if(!b) return;
+  var lista=(D.barrios||[]).slice().sort(function(a,b){return a.d-b.d});
+  var vistos={};
+  lista.forEach(function(b,orden){
+    if(marcas.length>=CUANTAS || vistos[b.n]) return;
     var p=uv(b.x,b.y);
-    if(p[0]<0.03||p[0]>0.97||p[1]<0.03||p[1]>0.97) return;
+    if(p[0]<0.02||p[0]>0.98||p[1]<0.02||p[1]>0.98) return;
+    vistos[b.n]=1;
     var el=document.createElement('div');
-    el.className='marca'+(b.d<2.6?' cerca':'');
-    /* b.d es la distancia al deslinde: lo que anuncia la barra del visor */
+    el.className='marca'+(b.d<2.6?' cerca':'')+(marcas.length>=6?' lejos':'');
     el.innerHTML='<i class="ln"></i><i class="pt"></i><span class="tx">'+b.n+
       ' <span class="km">'+b.d.toFixed(2).replace('.',',')+' km</span></span>';
     cv.appendChild(el);
-    marcas.push({el:el,u:p,v3:new THREE.Vector3(),ln:el.querySelector('.ln')});
+    marcas.push({el:el,u:p,d:b.d,n:b.n,orden:marcas.length,
+                 v3:new THREE.Vector3(), ln:el.querySelector('.ln')});
   });
 }
+/* cuántos rótulos caben: más cerca la cámara, más nombres */
+function cupoRotulos(w){
+  var z=Math.max(0,Math.min(1,(S*0.62-rad)/(S*0.5)));   /* 0 lejos · 1 cerca */
+  var base=w<560?4:7;
+  return Math.round(base + z*(w<560?4:9));
+}
 function ubicarMarcas(){
-  var w=cv.clientWidth,h=cv.clientHeight,on=chkOn('L-barrios'),lista=[];
-  /* los paneles solo flotan sobre el lienzo en pantallas anchas: el umbral
-     es el del @media, que mide la ventana y no el lienzo */
+  var w=cv.clientWidth,h=cv.clientHeight,on=chkOn('L-barrios');
   var flota = !(window.matchMedia&&window.matchMedia('(max-width:900px)').matches);
   var reserva = flota?226:10, ANCHO=210;
-  /* hueco que ocupa la rosa de los vientos, para no escribir encima */
   var hueco=null;
   if(flota){
     var vb=document.getElementById('vbox');
     if(vb){ var a=vb.getBoundingClientRect(), b=cv.getBoundingClientRect();
       hueco=[a.left-b.left-8,a.top-b.top-6,a.right-b.left+8,a.bottom-b.top+6] }
   }
+  var enPantalla=[];
   marcas.forEach(function(m){
-    if(!on){m.el.style.opacity=0;return}
-    /* el punto se posa casi en el suelo: el rótulo pertenece al mapa */
+    if(!on){ m.el.className=m.el.className.replace(/ (vis|rot)\b/g,''); return }
     m.v3.set(wx(m.u[0]),hAt(m.u[0],m.u[1])*K()+16,wz(m.u[1]));
     var q=m.v3.clone().project(cam);
     var x=(q.x*.5+.5)*w, y=(-q.y*.5+.5)*h;
-    if(q.z>=1||x<10||x>w-reserva||y<14||y>h-16){m.el.style.opacity=0;return}
-    /* cerca del borde derecho el texto se vuelca hacia la izquierda */
-    lista.push({m:m,x:x,y:y,izq:x > w-reserva-ANCHO});
+    if(q.z>=1||x<8||x>w-8||y<10||y>h-10){ apaga(m); return }
+    m.x=x; m.y=y; m.izq = x > w-reserva-ANCHO;
+    enPantalla.push(m);
   });
-  /* en pantallas chicas, menos rótulos: prioriza los más cercanos */
-  lista.sort(function(a,b){return a.y-b.y});
-  var tope = w<560?4:7;
-  if(lista.length>tope){
-    lista.slice(tope).forEach(function(it){it.m.el.style.opacity=0});
-    lista=lista.slice(0,tope);
-  }
-
-  /* el texto se aparta hacia abajo lo justo para no encimarse; si tuviera que
-     irse demasiado lejos de su punto se oculta, antes que mentir sobre el lugar */
-  var alto=19, DERIVA=52, prev=-1e9;
-  lista.forEach(function(it){
-    it.ty=Math.max(it.y,prev+alto); prev=it.ty;
+  if(!on) return;
+  /* el punto se muestra siempre que esté en pantalla */
+  enPantalla.forEach(function(m){
+    m.el.style.transform='translate('+m.x.toFixed(0)+'px,'+m.y.toFixed(0)+'px)';
+    m.el.classList.add('vis');
   });
-  /* el apilado empuja todo hacia abajo: se recentra cada racimo sobre sí mismo
-     para que ninguno quede arrastrado el doble de lo necesario */
-  var racimos=[], cur=lista.length?[lista[0]]:[];
-  for(var i=1;i<lista.length;i++){
-    if(lista[i].ty>lista[i].y+0.5) cur.push(lista[i]);
-    else { racimos.push(cur); cur=[lista[i]] }
+  /* los rótulos: por cercanía, los que quepan y no choquen */
+  var cupo=cupoRotulos(w);
+  var cand=enPantalla.filter(function(m){ return m.x<w-reserva })
+                     .sort(function(a,b){return a.orden-b.orden}).slice(0,cupo);
+  cand.sort(function(a,b){return a.y-b.y});
+  var alto=18, DERIVA=60, prev=-1e9;
+  cand.forEach(function(it){ it.ty=Math.max(it.y,prev+alto); prev=it.ty });
+  var racimos=[], cur=cand.length?[cand[0]]:[];
+  for(var i=1;i<cand.length;i++){
+    if(cand[i].ty>cand[i].y+0.5) cur.push(cand[i]);
+    else { racimos.push(cur); cur=[cand[i]] }
   }
   if(cur.length) racimos.push(cur);
   racimos.forEach(function(r){
     if(r.length<2) return;
-    var d=0; r.forEach(function(it){d+=it.ty-it.y}); d/=r.length;
-    r.forEach(function(it){it.ty-=d});
+    var dd=0; r.forEach(function(it){dd+=it.ty-it.y}); dd/=r.length;
+    r.forEach(function(it){it.ty-=dd});
   });
-
-  lista.forEach(function(it){
-    var x0=it.izq?it.x-ANCHO:it.x, x1=it.izq?it.x:it.x+ANCHO;
-    var dy=it.ty-it.y;
-    if(dy>DERIVA || it.ty<10 || it.ty>h-10 ||
-       (hueco && x1>hueco[0] && x0<hueco[2] && it.ty>hueco[1] && it.ty<hueco[3])){
-      it.m.el.style.opacity=0; return;
-    }
-    it.m.el.classList.toggle('izq',it.izq);
-    it.m.el.style.opacity=1;
-    it.m.el.style.left=it.x.toFixed(0)+'px';
-    it.m.el.style.top=it.y.toFixed(0)+'px';
-    it.m.el.style.setProperty('--dy',dy.toFixed(0)+'px');
-    /* guía del punto al texto cuando hubo que apartarlo */
-    if(it.m.ln){
-      it.m.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
-      it.m.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px';
-    }
+  var conRotulo={};
+  cand.forEach(function(it){
+    var x0=it.izq?it.x-ANCHO:it.x, x1=it.izq?it.x:it.x+ANCHO, dy=it.ty-it.y;
+    if(dy>DERIVA||it.ty<14||it.ty>h-10||
+       (hueco&&x1>hueco[0]&&x0<hueco[2]&&it.ty>hueco[1]&&it.ty<hueco[3])) return;
+    conRotulo[it.n]=1;
+    it.el.classList.toggle('izq',it.izq);
+    it.el.classList.add('rot');
+    it.el.style.setProperty('--dy',dy.toFixed(0)+'px');
+    if(it.ln){ it.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
+               it.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px' }
   });
+  enPantalla.forEach(function(m){ if(!conRotulo[m.n]) m.el.classList.remove('rot') });
 }
+function apaga(m){ m.el.classList.remove('vis'); m.el.classList.remove('rot') }
+
+/* al pasar el cursor, cualquier punto revela su nombre */
+(function(){
+  var dom=ren.domElement, ultimo=null;
+  dom.addEventListener('pointermove',function(e){
+    var r=dom.getBoundingClientRect(), px=e.clientX-r.left, py=e.clientY-r.top, mejor=null, md=16;
+    for(var i=0;i<marcas.length;i++){
+      var m=marcas[i];
+      if(!m.el.classList.contains('vis')||m.x==null) continue;
+      var d=Math.hypot(m.x-px,m.y-py);
+      if(d<md){ md=d; mejor=m }
+    }
+    if(ultimo&&ultimo!==mejor) ultimo.el.classList.remove('hov');
+    if(mejor) mejor.el.classList.add('hov');
+    ultimo=mejor;
+  });
+  dom.addEventListener('pointerdown',function(e){
+    var r=dom.getBoundingClientRect(), px=e.clientX-r.left, py=e.clientY-r.top, mejor=null, md=22;
+    for(var i=0;i<marcas.length;i++){
+      var m=marcas[i];
+      if(!m.el.classList.contains('vis')||m.x==null) continue;
+      var d=Math.hypot(m.x-px,m.y-py);
+      if(d<md){ md=d; mejor=m }
+    }
+    if(ultimo&&ultimo!==mejor) ultimo.el.classList.remove('hov');
+    if(mejor) mejor.el.classList.add('hov');
+    ultimo=mejor;
+  });
+  dom.addEventListener('pointerleave',function(){
+    if(ultimo){ ultimo.el.classList.remove('hov'); ultimo=null }
+  });
+})();
 
 /* ---------- capas ---------- */
 function construirCapas(){

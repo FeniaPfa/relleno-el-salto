@@ -277,7 +277,7 @@ footer b{color:var(--ink);font-weight:600}
 
 /* ---------- visor 3D: panel oscuro propio, no sigue el tema ---------- */
 .v3{border:1px solid var(--line);background:#0f1115;position:relative;margin-top:30px}
-.v3 .cv{position:relative;width:100%;aspect-ratio:16/10;min-height:320px}
+.v3 .cv{position:relative;width:100%;aspect-ratio:16/10;min-height:320px;overflow:hidden}
 .v3 canvas{display:block;width:100%;height:100%}
 .v3bar{display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;align-items:center;
   padding:12px 16px;border-bottom:1px solid var(--line);background:var(--surf)}
@@ -292,8 +292,8 @@ footer b{color:var(--ink);font-weight:600}
 .panel .sw{width:10px;height:10px;flex-shrink:0;border-radius:1px}
 .vhint{position:absolute;left:12px;bottom:12px;font-family:var(--cart);font-size:13px;
   color:#aab4ac;background:rgba(13,16,20,.85);padding:7px 10px;border:1px solid #39413c;z-index:3}
-.marca{position:absolute;width:0;height:0;pointer-events:none;z-index:2;opacity:0;
-  transition:opacity .18s}
+.marca{position:absolute;left:0;top:0;width:0;height:0;pointer-events:none;z-index:2;
+  opacity:0;transition:opacity .18s;will-change:transform}
 /* el punto se queda clavado donde está el lugar; solo el texto se aparta */
 .marca .pt{position:absolute;left:-4.5px;top:-4.5px;width:9px;height:9px;border-radius:50%;
   background:#fbf7ec;box-shadow:0 0 0 1.5px #14161a,0 0 6px rgba(0,0,0,.75)}
@@ -588,6 +588,19 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 .src a:focus-visible{outline:2px solid var(--acc);outline-offset:3px;border-radius:1px}
 @media(hover:none){.src a{border-bottom-color:var(--lctl)}}
 
+/* puntos secundarios: visibles pero sin competir con los seis más cercanos */
+.marca{opacity:0}
+.marca.vis{opacity:1}
+.marca .tx{opacity:0;transition:opacity .14s}
+.marca.rot .tx,.marca.hov .tx{opacity:1}
+.marca .ln{opacity:0}
+.marca.rot .ln{opacity:.5}
+.marca.lejos .pt{width:7px;height:7px;left:-3.5px;top:-3.5px;background:#cfd6cf;
+  box-shadow:0 0 0 1.2px #14161a,0 0 5px rgba(0,0,0,.7)}
+.marca.lejos .tx{font-size:12.5px;color:#d8dcd4}
+.marca.hov{z-index:5}
+.marca.hov .pt{background:#ffd166;box-shadow:0 0 0 1.6px #14161a,0 0 10px rgba(255,209,102,.6)}
+
 </style>
 
 <header>
@@ -752,7 +765,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       </div>
     </div>
     <div class="cv" id="cv">
-      <div class="vhint">Arrastra para girar · rueda para acercar</div>
+      <div class="vhint">Arrastra para girar · acerca para ver más nombres · pasa el cursor por un punto</div>
     </div>
     <details class="ctrl" id="ctrl3d" open>
       <summary>Capas, simulación y viento</summary>
