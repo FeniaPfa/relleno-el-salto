@@ -1,0 +1,304 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Qué puede pasar</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@400;500;600&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Spectral+SC:wght@500;600&family=Spectral:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap">
+<style>
+:root{
+  --bg:#f3f1ec; --surf:#faf9f5; --surf2:#e9e6de; --sunk:#e4e0d6;
+  --ink:#171a1d; --ink2:#565b5e; --ink3:#646764;
+  --line:#cdc8bc; --line2:#e0dcd2; --lctl:#948a70;
+  --acc:#9c1f28; --acc-s:#9c1f2819;
+  --blue:#1f5f7a; --green:#3f6b4a; --warn:#866112; --bistre:#7a6242;
+  --grid:#0000002e;
+  --doc:'Spectral',Georgia,'Times New Roman',serif;     /* titulares y cifras */
+  --txt:'Libre Franklin',system-ui,-apple-system,sans-serif; /* lectura */
+  --sc:'Spectral SC','Spectral',Georgia,serif;          /* versalitas reales */
+  --cart:'Fira Sans Condensed','Helvetica Neue',Arial,sans-serif; /* datos y mapa */
+  --cifra:'Fira Sans Condensed','Helvetica Neue',Arial,sans-serif; /* cifras de impacto */
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
+  --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
+  --line:#30353a; --line2:#262a2e; --lctl:#5b646e;
+  --acc:#e1676b; --acc-s:#e1676b22;
+  --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
+  --grid:#ffffff2e;
+}}
+:root[data-theme="dark"]{
+  --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
+  --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
+  --line:#30353a; --line2:#262a2e; --lctl:#5b646e;
+  --acc:#e1676b; --acc-s:#e1676b22;
+  --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
+  --grid:#ffffff2e;
+}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--txt)}
+.wrap{max-width:1180px;margin:0 auto;padding:34px 16px 80px}
+h1{font-family:var(--doc);font-weight:700;font-size:clamp(27px,4.2vw,40px);line-height:1.1;
+   margin:0 0 10px;text-wrap:balance;letter-spacing:-.012em}
+.bajada{color:var(--ink2);font-size:16px;line-height:1.6;max-width:64ch;margin:0 0 6px}
+.bajada b{color:var(--ink)}
+h2.sec{font-family:var(--sc);font-weight:600;font-size:15px;letter-spacing:.07em;
+  margin:52px 0 4px;color:var(--ink)}
+p.nota{margin:0 0 18px;font-size:13.5px;color:var(--ink2);max-width:72ch;line-height:1.55}
+.lienzo{overflow-x:auto;background:var(--sunk);border:1px solid var(--line2);border-radius:3px;padding:6px}
+svg{display:block}
+text{font-family:var(--cart);fill:var(--ink)}
+.t-est{font-size:12.5px;font-weight:600}
+.t-fec{font-size:10.5px;fill:var(--ink3);letter-spacing:.05em}
+.t-pl{font-size:10.5px;fill:var(--ink3)}
+.t-ram{font-size:11.5px;font-weight:500}
+.leyenda{display:flex;flex-wrap:wrap;gap:14px 26px;margin:14px 2px 0;font-size:12px;
+  color:var(--ink2);font-family:var(--cart)}
+.leyenda i{display:inline-block;width:24px;height:0;border-top:3px solid var(--ink2);
+  vertical-align:middle;margin-right:7px;border-radius:2px}
+.leyenda .pt{border-top-style:dashed;border-top-width:2px}
+.leyenda .ac{border-top-color:var(--acc)} .leyenda .bi{border-top-color:var(--bistre)}
+.leyenda .bl{border-top-color:var(--blue)}
+
+/* ── destinos ── */
+.destinos{display:grid;grid-template-columns:repeat(auto-fit,minmax(286px,1fr));gap:16px;margin-top:18px}
+.d{background:var(--surf);border:1px solid var(--line2);border-top:3px solid var(--c);
+   border-radius:3px;padding:16px 17px 18px;display:flex;flex-direction:column;gap:11px}
+.d-ap{--c:var(--green)} .d-co{--c:var(--warn)} .d-re{--c:var(--acc)} .d-ca{--c:var(--bistre)}
+.d h3{margin:0;font-family:var(--doc);font-weight:600;font-size:19px;line-height:1.2;color:var(--c)}
+.d .vive{font-family:var(--cart);font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--ink3);margin:-6px 0 0}
+.d blockquote{margin:0;padding:9px 0 9px 12px;border-left:2px solid var(--line);
+  font-family:var(--doc);font-style:italic;font-size:14px;line-height:1.5;color:var(--ink2)}
+.d blockquote b{font-style:normal;color:var(--ink)}
+.d p{margin:0;font-size:14px;line-height:1.55;color:var(--ink)}
+.d ul{margin:0;padding-left:17px;font-size:13.5px;line-height:1.6;color:var(--ink2)}
+.d li::marker{color:var(--c)}
+.d .pie{margin-top:auto;padding-top:9px;border-top:1px solid var(--line2);
+  font-family:var(--cart);font-size:11.5px;color:var(--ink3)}
+.volver{font-family:var(--cart);font-size:13px;margin:0 0 20px}
+.volver a{color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--line)}
+.volver a:hover,.volver a:focus-visible{color:var(--ink);border-bottom-color:var(--ink2)}
+.volver-pie{margin:40px 0 0}
+.fuentes{margin-top:26px;padding-top:18px;border-top:1px solid var(--line);
+  font-size:12.5px;color:var(--ink3);line-height:1.65;max-width:78ch}
+.fuentes a{color:var(--ink2)}
+@media(max-width:640px){ .wrap{padding:24px 14px 60px} }
+</style>
+
+<div class="wrap">
+
+<p class="volver"><a href="./">← Volver al análisis del proyecto</a></p>
+
+<h1>Qué puede pasar con el proyecto, y cuándo</h1>
+<p class="bajada">El recorrido completo del expediente, con los plazos que fija la ley.
+<b>Ninguna rama lleva probabilidad</b>: no existe ese dato y no se inventa. Lo único que se
+codifica es si algo está fijado por ley o depende de una decisión que aún no se toma.</p>
+
+<h2 class="sec">El recorrido</h2>
+<p class="nota">Cada tramo mide lo mismo: la distancia aquí no es tiempo. Las fechas van en
+las estaciones.</p>
+
+<div class="lienzo">
+<svg viewBox="0 0 1320 560" width="1320" height="560" role="img"
+     aria-label="El procedimiento de evaluación ambiental como un mapa de metro, con estaciones, desvíos y tres destinos finales">
+
+  <!-- ─────────── línea principal ─────────── -->
+  <path d="M78 118 H880" stroke="var(--ink2)" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M78 118 H236" stroke="var(--acc)" stroke-width="7" fill="none" stroke-linecap="round"/>
+
+  <!-- estaciones -->
+  <g>
+    <circle cx="78"  cy="118" r="8.5" fill="var(--bg)" stroke="var(--acc)"  stroke-width="3.6"/>
+    <circle cx="236" cy="118" r="8.5" fill="var(--bg)" stroke="var(--acc)"  stroke-width="3.6"/>
+    <circle cx="420" cy="118" r="8.5" fill="var(--bg)" stroke="var(--ink2)" stroke-width="3.6"/>
+    <circle cx="600" cy="118" r="8.5" fill="var(--bg)" stroke="var(--ink2)" stroke-width="3.6"/>
+    <circle cx="742" cy="118" r="8.5" fill="var(--bg)" stroke="var(--ink2)" stroke-width="3.6"/>
+    <circle cx="880" cy="118" r="11"  fill="var(--bg)" stroke="var(--ink)"  stroke-width="4.2"/>
+  </g>
+
+  <text class="t-fec" x="78"  y="80"  text-anchor="middle">27 JUL 2026</text>
+  <text class="t-est" x="78"  y="97"  text-anchor="middle">Ingreso del EIA</text>
+  <text class="t-fec" x="236" y="80"  text-anchor="middle">HASTA EL 3 NOV 2026</text>
+  <text class="t-est" x="236" y="97"  text-anchor="middle" fill="var(--acc)">Participación ciudadana</text>
+  <text class="t-fec" x="420" y="80"  text-anchor="middle">SIN FECHA</text>
+  <text class="t-est" x="420" y="97"  text-anchor="middle">ICSARA · Adenda</text>
+  <text class="t-fec" x="600" y="80"  text-anchor="middle">SI EL SEA LO PIDE</text>
+  <text class="t-est" x="600" y="97"  text-anchor="middle">Adenda complementaria</text>
+  <text class="t-fec" x="742" y="80"  text-anchor="middle">SIN FECHA</text>
+  <text class="t-est" x="742" y="97"  text-anchor="middle">Informe consolidado</text>
+  <text class="t-fec" x="880" y="80"  text-anchor="middle">PLAZO 15 ENE 2027</text>
+  <text class="t-est" x="880" y="97"  text-anchor="middle">Calificación · RCA</text>
+
+  <text class="t-pl" x="157" y="140" text-anchor="middle">60 días hábiles · Art. 29</text>
+  <text class="t-pl" x="328" y="140" text-anchor="middle">el titular responde</text>
+  <text class="t-pl" x="671" y="140" text-anchor="middle">120 días + 60 · Art. 15 y 16</text>
+
+  <!-- aviso de silencio positivo -->
+  <text class="t-pl" x="742" y="158" text-anchor="middle" fill="var(--warn)">si un servicio no responde en 15 días,</text>
+  <text class="t-pl" x="742" y="172" text-anchor="middle" fill="var(--warn)">su permiso se da por otorgado · Art. 15</text>
+
+  <!-- ─────────── desvío: nueva PAC ─────────── -->
+  <path d="M420 127 C 420 182, 428 198, 470 198 H650 C 694 198, 700 180, 700 127"
+        stroke="var(--bistre)" stroke-width="5" fill="none" stroke-dasharray="8 5" stroke-linecap="round"/>
+  <circle cx="560" cy="198" r="8" fill="var(--bg)" stroke="var(--bistre)" stroke-width="3.4"/>
+  <text class="t-ram" x="560" y="222" text-anchor="middle" fill="var(--bistre)">Nueva participación ciudadana</text>
+  <text class="t-pl"  x="560" y="237" text-anchor="middle">sólo si la Adenda trae cambios sustantivos</text>
+  <text class="t-pl"  x="560" y="251" text-anchor="middle">30 días · suspende el plazo de pleno derecho · Art. 29</text>
+
+  <!-- ─────────── tres destinos ─────────── -->
+  <path d="M891 110 C 906 110, 906 40, 950 40"   stroke="var(--green)" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M891 118 H950"                         stroke="var(--warn)"  stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M891 126 C 906 126, 906 196, 950 196" stroke="var(--acc)"   stroke-width="6" fill="none" stroke-linecap="round"/>
+
+  <circle cx="950" cy="40"  r="8.5" fill="var(--bg)" stroke="var(--green)" stroke-width="3.6"/>
+  <circle cx="950" cy="118" r="8.5" fill="var(--bg)" stroke="var(--warn)"  stroke-width="3.6"/>
+  <circle cx="950" cy="196" r="8.5" fill="var(--bg)" stroke="var(--acc)"   stroke-width="3.6"/>
+
+  <text class="t-est" x="966" y="37"  fill="var(--green)">Aprobado</text>
+  <text class="t-pl"  x="966" y="52">ningún organismo del Estado puede negar los permisos</text>
+  <text class="t-est" x="966" y="115" fill="var(--warn)">Aprobado con condiciones</text>
+  <text class="t-pl"  x="966" y="130">el titular puede reclamarlas en 30 días</text>
+  <text class="t-est" x="966" y="193" fill="var(--acc)">Rechazado</text>
+  <text class="t-pl"  x="966" y="208">los servicios quedan obligados a denegar los permisos</text>
+
+  <!-- caducidad, colgando de Aprobado, apartada de la zona de reclamos -->
+  <path d="M950 48 C 1150 90, 1258 110, 1258 232" stroke="var(--bistre)" stroke-width="3"
+        fill="none" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <circle cx="1258" cy="232" r="7" fill="var(--bg)" stroke="var(--bistre)" stroke-width="3"/>
+  <text class="t-ram" x="1300" y="256" text-anchor="end" fill="var(--bistre)">Caduca si no empiezan las obras</text>
+  <text class="t-pl"  x="1300" y="271" text-anchor="end">5 años desde la notificación · Art. 25 ter</text>
+
+  <!-- ─────────── línea de reclamaciones ─────────── -->
+  <path d="M950 206 C 950 380, 912 392, 860 392 H180"
+        stroke="var(--blue)" stroke-width="4.5" fill="none" stroke-dasharray="9 6" stroke-linecap="round"/>
+  <path d="M950 128 C 932 300, 908 386, 860 386"
+        stroke="var(--blue)" stroke-width="3" fill="none" stroke-dasharray="9 6" stroke-linecap="round"/>
+  <path d="M950 50 C 1010 60, 1000 400, 860 400"
+        stroke="var(--blue)" stroke-width="3" fill="none" stroke-dasharray="9 6" stroke-linecap="round"/>
+
+  <circle cx="740" cy="392" r="8" fill="var(--bg)" stroke="var(--blue)" stroke-width="3.4"/>
+  <circle cx="440" cy="392" r="8" fill="var(--bg)" stroke="var(--blue)" stroke-width="3.4"/>
+  <circle cx="180" cy="392" r="8" fill="var(--bg)" stroke="var(--blue)" stroke-width="3.4"/>
+
+  <text class="t-ram" x="740" y="418" text-anchor="middle" fill="var(--blue)">Comité de Ministros</text>
+  <text class="t-pl"  x="740" y="433" text-anchor="middle">seis ministros · resuelve en 60 días fatales</text>
+  <text class="t-pl"  x="740" y="447" text-anchor="middle">debe pedir informe a los servicios que evaluaron</text>
+
+  <text class="t-ram" x="440" y="418" text-anchor="middle" fill="var(--blue)">Tribunal Ambiental</text>
+  <text class="t-pl"  x="440" y="433" text-anchor="middle">30 días desde la notificación · Art. 20</text>
+
+  <text class="t-ram" x="180" y="418" text-anchor="middle" fill="var(--blue)">Sigue adelante</text>
+  <text class="t-pl"  x="180" y="433" text-anchor="middle">reclamar no suspende la RCA</text>
+  <text class="t-pl"  x="180" y="447" text-anchor="middle">las obras pueden avanzar mientras tanto</text>
+
+  <text class="t-ram" x="860" y="372" text-anchor="end" fill="var(--blue)">Quien reclama</text>
+  <text class="t-pl"  x="860" y="357" text-anchor="end">el titular, si lo rechazan o le ponen condiciones · Art. 20</text>
+  <text class="t-pl"  x="860" y="343" text-anchor="end">quien observó y no fue considerado · Art. 29 inc. final</text>
+
+  <!-- pie dentro del lienzo -->
+  <text class="t-pl" x="78" y="496">Sólido = recorrido obligado.  Punteado = ocurre sólo si alguien decide que ocurra.</text>
+  <text class="t-pl" x="78" y="512">Los días son hábiles salvo donde el texto de la ley dice otra cosa.</text>
+  <text class="t-pl" x="78" y="534" fill="var(--acc)">Hoy el expediente está entre el ingreso y el cierre de la participación ciudadana.</text>
+</svg>
+</div>
+
+<div class="leyenda">
+  <span><i class="ac"></i>abierto ahora</span>
+  <span><i></i>recorrido obligado</span>
+  <span><i class="pt bi"></i>desvío condicional</span>
+  <span><i class="pt bl"></i>reclamaciones</span>
+</div>
+
+
+<h2 class="sec">En qué termina cada camino</h2>
+<p class="nota">Lo entrecomillado es el texto de la Ley 19.300, no una interpretación.</p>
+
+<div class="destinos">
+
+  <article class="d d-ap">
+    <h3>Aprobado</h3>
+    <p class="vive">Resolución de calificación favorable</p>
+    <blockquote>certificará que se cumple con todos los requisitos ambientales aplicables […]
+      <b>no pudiendo ningún organismo del Estado negar las autorizaciones ambientales
+      pertinentes</b></blockquote>
+    <p>La RCA no es un permiso más: cierra la discusión ambiental. Los servicios que
+    objetaron quedan obligados a otorgar sus permisos sectoriales.</p>
+    <ul>
+      <li>Empiezan las obras, después <b>25 años</b> de operación</li>
+      <li>Cierre y <b>20 años</b> de post-cierre</li>
+      <li>Fiscaliza la Superintendencia del Medio Ambiente</li>
+      <li>Si no empiezan las obras en <b>5 años</b>, la RCA caduca</li>
+    </ul>
+    <p class="pie">Art. 24 · Art. 25 ter</p>
+  </article>
+
+  <article class="d d-co">
+    <h3>Aprobado con condiciones</h3>
+    <p class="vive">El desenlace más probable en la práctica</p>
+    <blockquote>En contra de la resolución que <b>rechace o establezca condiciones o
+      exigencias</b> a un Estudio de Impacto Ambiental, procederá la reclamación ante un
+      comité integrado por los Ministros…</blockquote>
+    <p>El proyecto se aprueba, pero con exigencias añadidas. <b>Aquí es donde pesan las
+    observaciones ciudadanas</b>: son el material del que salen esas condiciones.</p>
+    <ul>
+      <li>El titular puede reclamar las condiciones en <b>30 días</b></li>
+      <li>Si no reclama, quedan firmes y son fiscalizables</li>
+      <li>Las observaciones no respondidas abren el reclamo del Art. 29</li>
+    </ul>
+    <p class="pie">Art. 20 · Art. 29 inciso final</p>
+  </article>
+
+  <article class="d d-re">
+    <h3>Rechazado</h3>
+    <p class="vive">Resolución de calificación desfavorable</p>
+    <blockquote>estas autoridades <b>quedarán obligadas a denegar</b> las correspondientes
+      autorizaciones o permisos […] aunque se satisfagan los demás requisitos legales,
+      <b>en tanto no se les notifique de pronunciamiento en contrario</b></blockquote>
+    <p>Ningún servicio puede dar permisos. Pero <b>no es definitivo</b>: esa última frase
+    deja abierta la vía del reclamo, y el titular también puede volver a ingresar un
+    proyecto corregido.</p>
+    <ul>
+      <li>El titular reclama en <b>30 días</b> ante el Comité de Ministros</li>
+      <li>El Comité resuelve en <b>60 días fatales</b></li>
+      <li>Después, <b>30 días</b> para ir al Tribunal Ambiental</li>
+    </ul>
+    <p class="pie">Art. 24 · Art. 20</p>
+  </article>
+
+  <article class="d d-ca">
+    <h3>Lo que no termina</h3>
+    <p class="vive">Por qué ningún camino cierra el asunto</p>
+    <p>Reclamar <b>no suspende la RCA</b>: si se aprueba y alguien reclama, las obras pueden
+    avanzar mientras se tramita. Y el Comité de Ministros no tiene plazo de inicio, sólo de
+    resolución una vez interpuesto el recurso.</p>
+    <ul>
+      <li>La PAC puede reabrirse <b>30 días</b> si la Adenda cambia el proyecto</li>
+      <li>El plazo de evaluación se suspende cada vez que eso ocurre</li>
+      <li>Un servicio que no responde en <b>15 días</b> otorga su permiso por silencio</li>
+    </ul>
+    <p class="pie">Art. 29 · Art. 15 · Art. 16</p>
+  </article>
+
+</div>
+
+<p class="volver volver-pie"><a href="./">← Volver al análisis del proyecto</a>
+ &nbsp;·&nbsp; <a href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar una observación al SEA</a></p>
+
+<p class="fuentes">
+<b>De dónde sale cada dato.</b> Fechas del proyecto: ficha de plazos del
+<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026">expediente 2168892026</a>
+del SEIA — ingreso 27/07/2026, cierre de participación ciudadana 03/11/2026, plazo de
+evaluación 15/01/2027. Plazos y efectos: texto oficial de la
+<a href="https://www.bcn.cl/leychile/navegar?idNorma=30667">Ley 19.300</a> —
+<b>Art. 15</b> (120 días para calificar un EIA; el permiso de un servicio que no responde en
+15 días se tiene por otorgado), <b>Art. 16</b> (ampliación por una sola vez hasta 60 días y
+suspensiones a petición del titular), <b>Art. 20</b> (quién reclama y ante quién: 30 días para
+interponer, 60 días fatales para resolver, 30 días para ir al Tribunal Ambiental),
+<b>Art. 24</b> (qué obliga cada desenlace a los organismos del Estado), <b>Art. 25 ter</b>
+(caducidad a los cinco años sin inicio de obras) y <b>Art. 29</b> (60 días de participación
+ciudadana; nueva etapa de 30 días si hay cambios sustantivos, que suspende de pleno derecho la
+tramitación; y el reclamo de quien observó sin ser debidamente considerado, que no suspende los
+efectos de la resolución).
+</p>
+
+</div>

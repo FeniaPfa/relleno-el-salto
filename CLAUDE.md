@@ -23,7 +23,14 @@ propios documentos del titular. Cuidar eso vale más que cualquier cifra adicion
 python3 build.py        # src/ → index.html (valida sintaxis con node si está)
 ```
 
-`index.html` es **generado**: no lo edites a mano, se sobreescribe. Edita `src/`.
+`index.html` y `que-puede-pasar.html` son **generados**: no los edites a mano, se
+sobreescriben. Edita `src/`.
+
+La segunda página —el recorrido del expediente y sus desenlaces— sale de `src/plazos.html`.
+Es estática: no usa `datos.json` ni los visores, así que lo único que recibe del build es el
+bloque de variables de color, inyectado en el marcador `/*__TOKENS__*/` desde
+`src/plantilla.html`. **Eso existe para que la paleta no pueda divergir entre las dos
+páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 
 | archivo | qué es |
 |---|---|
@@ -33,6 +40,7 @@ python3 build.py        # src/ → index.html (valida sintaxis con node si está
 | `src/shader.js` | GLSL: tinte hipsométrico, sombreado de dos luces, fbm, curvas de nivel por `fwidth`, bilineal manual sobre el heightmap empaquetado |
 | `src/datos.json` | el bundle completo (~255 KB), se inyecta en el marcador |
 | `src/social.html` | etiquetas Open Graph; `{url}` lo reemplaza build.py |
+| `src/plazos.html` | la vista «Qué puede pasar»: mapa del procedimiento y sus desenlaces |
 
 `proyecciones.py` regenera las series de masa, metano y camiones desde la tabla de producción
 anual del Capítulo 1. **No está conectado al build**: escribe `data/proyecciones.json` y sus

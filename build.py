@@ -52,6 +52,29 @@ def main():
     kb = os.path.getsize(os.path.join(AQUI, 'index.html')) / 1024
     print('index.html  %.1f KB  ·  %d secciones' % (kb, pleno.count('<section id=')))
 
+    segunda(h)
+
+def tokens(h):
+    """El bloque de variables de color de plantilla.html: :root y sus dos variantes
+    oscuras. Las páginas secundarias lo reciben inyectado para que la paleta no
+    pueda divergir de la principal."""
+    i = h.index(':root{')
+    j = h.index(':root[data-theme="dark"]{')
+    k = h.index('}', h.index('--grid:', j)) + 1
+    blo = h[i:k]
+    assert blo.count('{') == blo.count('}'), 'bloque de tokens descuadrado'
+    return blo
+
+def segunda(h):
+    """que-puede-pasar.html: el recorrido del expediente y sus desenlaces.
+    Es estática — no usa datos.json ni los visores 3D — así que sólo hereda los tokens."""
+    pg = leer('plazos.html')
+    assert pg.count('/*__TOKENS__*/') == 1, 'marcador de tokens ausente en plazos.html'
+    pg = pg.replace('/*__TOKENS__*/', tokens(h))
+    destino = os.path.join(AQUI, 'que-puede-pasar.html')
+    io.open(destino, 'w', encoding='utf-8').write(pg)
+    print('que-puede-pasar.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+
 def envolver(s):
     """El fragmento se escribió para el envoltorio de los artifacts; aquí hay que ponerlo."""
     i = s.index('</style>') + len('</style>')
