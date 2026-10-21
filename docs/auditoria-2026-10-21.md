@@ -13,9 +13,14 @@ faltan los 21 `href` de las tarjetas), 9, 10 (parcial: botadero, falla, polar, c
 visor; faltan espesores y universos de poblaciones), textos modelo (2), glosario, pausa de
 animaciones, contraste, barra fija en móvil, impresión, noscript, JSON-LD, robots y sitemap.
 
-**Pendiente:** firma real en el pie (4, placeholder), petición explícita en cada sección y
-reorden de secciones, incorporar Cap. 3.8 y PREMVAL, 21 citas sin enlace, fuentes
-autohospedadas, three.js local, `visores.js` diferido, OG por sección.
+**Hecho después:** petición explícita en todas las secciones, Cap. 3.8 y PREMVAL en «admite»,
+citas enlazadas (las del Resumen Ejecutivo, Cap. 2, 3.8, 9 y 14 van a la ficha del expediente
+porque el listado del SEA es dinámico y no expone la URL del archivo), fuentes y Three.js en el
+repo, `reordenar.py` corregido.
+
+**Pendiente:** firma real en el pie (placeholder), reorden de secciones (decisión editorial;
+`reordenar.py` ya funciona), `visores.js` diferido, OG por sección, unificar espesores y
+universos de poblaciones en el texto.
 
 ## Diez cosas primero
 

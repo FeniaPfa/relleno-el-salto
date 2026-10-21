@@ -16,7 +16,7 @@ su fuente, su método y sus límites.
 python3 build.py        # src/ → index.html
 ```
 
-Sin dependencias ni build system. La única librería externa es Three.js, desde cdnjs.
+Sin dependencias ni build system. Three.js y las fuentes van en el repo; la página no se conecta a terceros.
 `index.html` es generado: edita `src/`.
 
 ## Estructura

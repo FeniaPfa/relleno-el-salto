@@ -1,11 +1,25 @@
 <title>Relleno sanitario COSEMAR en El Salto, Viña del Mar: lo que dice el expediente</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preconnect" href="https://cdnjs.cloudflare.com">
-<link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&family=Spectral+SC:wght@500;600&family=Fira+Sans+Condensed:wght@400;500;600&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&display=swap">
+<link rel="preload" as="font" type="font/woff2" href="fonts/libre-franklin-400-normal.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="fonts/spectral-600-normal.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="fonts/fira-sans-condensed-400-normal.woff2" crossorigin>
+<link rel="preload" as="script" href="lib/three.r128.min.js">
+<style>
+/* fuentes autohospedadas (SIL OFL), subconjunto latino: sin CSS externo que bloquee el render */
+@font-face{font-family:'Spectral';font-style:normal;font-weight:300;font-display:swap;src:url(fonts/spectral-300-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/spectral-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/spectral-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:italic;font-weight:400;font-display:swap;src:url(fonts/spectral-400-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:italic;font-weight:600;font-display:swap;src:url(fonts/spectral-600-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral SC';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/spectral-sc-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral SC';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/spectral-sc-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/fira-sans-condensed-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/fira-sans-condensed-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/fira-sans-condensed-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Libre Franklin';font-style:normal;font-weight:400 700;font-display:swap;src:url(fonts/libre-franklin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Libre Franklin';font-style:italic;font-weight:400 700;font-display:swap;src:url(fonts/libre-franklin-400-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+</style>
 <style>
 /* ===================================================================
    Sistema: hoja topográfica. Papel cálido, tinta fría, carmín de plano.
@@ -228,6 +242,7 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-family:var(--doc);font-weight:300;font-size:30px;color:var(--ink3);
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
+.pide{border-left:3px solid var(--acc);padding-left:14px;margin-top:22px}
 .modh{font-family:var(--doc);font-size:21px;font-weight:600;margin:34px 0 8px}
 .modp{color:var(--ink2);font-size:16px;line-height:1.6;max-width:68ch;margin-bottom:18px}
 .modelos{display:grid;gap:18px;grid-template-columns:1fr}
@@ -721,19 +736,19 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="umbral"><div class="riel"><div class="fill" style="width:96.6%"></div>
         <div class="tope"></div></div>
         <div class="pie"><span>aire ya ocupado</span><span>límite legal</span></div></div>
-      <div class="s">Capítulo 5, análisis del artículo 11.</div>
+      <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a>, análisis del artículo 11.</div>
     </div>
     <div>
       <div class="v c-acc">1<span class="u">/ 23</span></div>
       <div class="k">De las veintitrés causales del Artículo 11 que el estudio evalúa,
       <b>uno solo da efecto adverso significativo</b>: la pérdida de ejemplares de tres plantas.
       Todo lo demás queda sin medida y sin seguimiento.</div>
-      <div class="s">Capítulos 5, 6 y 7 del EIA.</div>
+      <div class="s">Capítulos <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">5</a>, <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">6</a> y <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">7</a> del EIA.</div>
     </div>
     <div>
       <div class="v c-acc">19<span class="u">/ 25</span></div>
       <div class="k">Organismos del Estado que se pronunciaron <b>con observaciones</b> al EIA. Solo dos lo hicieron conformes.</div>
-      <div class="s">Oficios ingresados entre el 2 y el 15 de septiembre de 2026.</div>
+      <div class="s">Oficios ingresados entre el 2 y el 15 de septiembre de 2026 · <a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>.</div>
     </div>
     <div>
       <div class="v c-acc">99,7<span class="u">%</span></div>
@@ -741,7 +756,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       Ahí se proyectan 30,7 millones de toneladas de basura y 2,79 ha de cortafuegos.</div>
       <div class="umbral"><div class="riel"><div class="fill" style="width:99.7%;background:var(--acc)"></div></div>
         <div class="pie"><span>superficie quemada</span><span>predio completo</span></div></div>
-      <div class="s">Sentinel-2, índice <abbr title="Comparación de dos imágenes satelitales, antes y después, que mide cuánto se quemó cada punto">dNBR</abbr>, enero vs. febrero de 2024.</div>
+      <div class="s">Sentinel-2, índice <abbr title="Comparación de dos imágenes satelitales, antes y después, que mide cuánto se quemó cada punto">dNBR</abbr>, enero vs. febrero de 2024 · <a href="https://github.com/FeniaPfa/seia-data/blob/main/docs/fuentes.md" target="_blank" rel="noopener">método y escenas</a>.</div>
     </div>
   </div>
 </section>
@@ -788,34 +803,48 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <div class="adm" style="margin-top:22px">
     <div><p class="q">El área de influencia <b>se superpone con el Humedal Urbano Estero Quilpué</b>,
       protegido por la Ley 21.202.</p>
-      <div class="src">Resumen Ejecutivo · análisis artículo 11</div></div>
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · análisis artículo 11</div></div>
     <div><p class="q">El proyecto afecta <b>3,85 ha del Sitio Prioritario</b> regional
       Palmar Las Siete Hermanas – El Salto.</p>
-      <div class="src">Resumen Ejecutivo · biodiversidad</div></div>
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · biodiversidad</div></div>
     <div><p class="q">La <b>Falla Marga-Marga pasa a 500 o 600 m</b> al norte de las instalaciones,
       donde se emplaza la zona de tratamiento de lixiviados sobre geomembrana.</p>
-      <div class="src">Anexo 9.6 <abbr title="Permiso Ambiental Sectorial 141: el permiso específico de rellenos sanitarios que se tramita dentro del estudio">PAS 141</abbr> · SERNAGEOMIN se pronunció con observaciones</div></div>
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6 <abbr title="Permiso Ambiental Sectorial 141: el permiso específico de rellenos sanitarios que se tramita dentro del estudio">PAS 141</abbr></a> · SERNAGEOMIN se pronunció con observaciones</div></div>
     <div><p class="q">Para olores se usó como referencia la <b>norma de la Región de Lombardía, Italia</b>,
       porque Chile no tiene norma de olor vigente.</p>
-      <div class="src">Resumen Ejecutivo · modelación de odorantes <abbr title="Programa que simula el viento del sitio y hacia dónde viaja lo que se emite">WRF</abbr>-CALPUFF</div></div>
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · modelación de odorantes <abbr title="Programa que simula el viento del sitio y hacia dónde viaja lo que se emite">WRF</abbr>-CALPUFF</div></div>
     <div><p class="q">El área de influencia declarada cubre <b>El Salto, Las Lomas y El Belloto</b>
       — no incluye Botania, Canal Chacao, Cumbres ni Pompeya.</p>
-      <div class="src">Capítulo 2 · determinación del área de influencia</div></div>
+      <div class="src">Capítulo 2 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · determinación del área de influencia</div></div>
     <div><p class="q">La inversión declarada es de <b>USD 40 millones</b>. La ficha pública del SEIA
       muestra «40.000 millones de dólares» por un error de carga del sistema.</p>
-      <div class="src">Resumen Ejecutivo · antecedentes generales</div></div>
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · antecedentes generales</div></div>
     <div><p class="q">El sitio prioritario <i>Palmar Las Siete Hermanas – El Salto</i>
       <b>se superpone con la superficie de intervención</b> del camino de acceso que
       construirá el proyecto.</p>
-      <div class="src">Cap. 5, p. 79 · el titular lo excluye del área de influencia porque los sitios
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf#page=79" target="_blank" rel="noopener">Cap. 5, p. 79</a> · el titular lo excluye del área de influencia porque los sitios
       prioritarios regionales no son una categoría reconocida por el <span class="sc">seia</span></div></div>
     <div><p class="q">El predio <b>se emplaza dentro de la zona de transición de la Reserva de
       la Biosfera La Campana – Peñuelas</b>, designación <span class="sc">unesco</span>.</p>
-      <div class="src">Cap. 3.16 · también excluido del área de influencia por el mismo argumento</div></div>
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · también excluido del área de influencia por el mismo argumento</div></div>
     <div><p class="q">El territorio está cubierto por el <b>Plan de Recuperación de las Ranitas
       de Darwin</b>, aprobado por Decreto 38/2026 del Ministerio del Medio Ambiente.</p>
-      <div class="src">Cap. 3.16 · <i>Rhinoderma darwinii</i> y <i>R. rufum</i>, ambas amenazadas</div></div>
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · <i>Rhinoderma darwinii</i> y <i>R. rufum</i>, ambas amenazadas</div></div>
+    <div><p class="q">Por ruido, «reptiles y aves se encuentran dentro del área de afectación conductual,
+      <b>por lo que se considera un impacto significativo</b>».</p>
+      <div class="src">Cap. 3.8, 8.1.2 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · el Cap. 5 declara no significativo ese mismo literal:
+      serían dos impactos significativos, no uno</div></div>
+    <div><p class="q">El proyecto está «<b>fuera del Plan Regulador Metropolitano</b> de Valparaíso»,
+      «quedando únicamente el camino de acceso dentro de su cobertura. Esta condición <b>será evaluada
+      formalmente</b> mediante solicitud de informe a la SEREMI MINVU».</p>
+      <div class="src">Cap. 9 y Cap. 14 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · la compatibilidad territorial se ingresó sin resolver</div></div>
   </div>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: que el titular explique por qué su Capítulo 3.8
+  califica como significativo el ruido sobre reptiles y aves y su Capítulo 5 declara no significativo ese
+  mismo literal; que informe el resultado de la consulta a la SEREMI MINVU sobre el Plan Regulador
+  Metropolitano antes de la calificación; y que comprometa un plan de monitoreo de aire, olor, ruido,
+  aguas y biogás con resultados públicos durante la operación y el post-cierre, porque hoy el
+  Capítulo 7 solo sigue tres especies de flora.</p>
 </section>
 
 <section id="terreno" aria-labelledby="t-terreno">
@@ -913,6 +942,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>La masa crece con espesor uniforme sobre toda la huella</b>: el expediente declara tres etapas
   de excavación pero no georreferencia la secuencia de llenado, así que no se simula un orden
   que el titular no publicó.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: cuál es el espesor y la cota final de la masa de residuos —80 m según la Tabla 40 o 54 m según la capacidad dividida por la superficie que declara—, y con qué secuencia de llenado georreferenciada, porque el Capítulo 1 declara tres etapas de excavación pero no dónde ni cuándo.</p>
 </section>
 
 <section id="mapa" aria-labelledby="t-mapa">
@@ -997,6 +1027,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   contra el punto de etiqueta de OpenStreetMap —el centro nominal, no la casa más cercana—, así que
   <b>la distancia real a la primera vivienda es menor</b>. Las marcadas
   <span class="flag f-ok">borde a borde</span> son las defendibles.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: que el titular reconozca en el área de influencia la superposición con el Sitio Prioritario Palmar Las Siete Hermanas – El Salto que su propio Capítulo 5 admite en el camino de acceso, con sus medidas y seguimiento, en vez de excluirlo por no ser una categoría reconocida; y que toda distancia del expediente declare si se mide al deslinde o a la zona de disposición.</p>
 </section>
 
 <section id="incendio" aria-labelledby="t-incendio">
@@ -1084,6 +1115,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   ambos capítulos. Un conteo en cero no prueba que la obra no vaya a tener ese elemento: prueba
   que <b>el expediente sometido a evaluación no lo compromete</b>. Si existe, debería aparecer
   en la Adenda.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024, y por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes.</p>
 </section>
 
 <section id="subsuelo" aria-labelledby="t-subsuelo">
@@ -1161,6 +1193,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   2,7 metros</b>, lo que confirma a la vez la georreferencia y el modelo. El espesor del maicillo se dibuja como dos
   bandas —los primeros 15 m y la franja variable hasta los 40— porque el informe entrega un rango,
   no un mapa. La exageración vertical del bloque es ×1,8 y las secciones van a esa misma escala.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: qué monitoreo de aguas subterráneas compromete bajo el vaso —pozos, frecuencia y parámetros— dado que el informe hidrogeológico reconoce que el agua podría infiltrarse en 15 a 40 m de maicillo permeable y el Capítulo 7 no compromete ninguno.</p>
 </section>
 
 <section id="falla" aria-labelledby="t-falla">
@@ -1187,12 +1220,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <div class="dn"><div class="v">1,5 <span>mm</span></div>
       <div class="k">El espesor de la geomembrana que contiene 24,3 millones de metros cúbicos
       de residuos.</div>
-      <div class="s">Capítulo 1 · sistema de impermeabilización basal</div></div>
+      <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> · sistema de impermeabilización basal</div></div>
     <div class="dvs">frente a</div>
     <div class="dn"><div class="v">0,495 <span>g</span></div>
       <div class="k">La aceleración que su propio informe atribuye a la Zona de Fallas
       Marga-Marga. El PAS 141 y la línea de base geológica sitúan la traza a unos 600 metros.</div>
-      <div class="s">Informe geológico-estructural 2023, citando a Sabaj (2008)</div></div>
+      <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023</a>, citando a Sabaj (2008)</div></div>
   </div>
 
   <h3 style="margin-top:42px">Las dos palabras, en el expediente</h3>
@@ -1261,6 +1294,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   lo que habría que modelar, y está en los capítulos 3.3 y 3.4 del expediente.</p>
   <p class="note">Lo que sí establece es la <b>dirección</b>: cualquier escurrimiento desde el
   predio baja hacia el sistema Marga-Marga – Quilpué. No hacia otro lado.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: que la línea de base de calidad de agua incluya más de un día de muestreo, la estación húmeda y aguas subterráneas, y que el titular explique cómo capta y trata la escorrentía del predio antes de que llegue al Estero Marga-Marga, a 1,5 km cauce abajo, pasando a 90 m del Estero Quilpué y a 120 m del humedal protegido.</p>
 </section>
 
 <section id="vial" aria-labelledby="t-vial">
@@ -1334,6 +1368,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>46,6</b> si son ida y vuelta — muy por encima de lo que transporta un compactador recolector,
   que mueve entre 10 y 14 toneladas. <b>Esta es una inconsistencia entre dos capítulos del mismo
   estudio</b>, no un cálculo externo: el tonelaje sale del Capítulo 1 y los viajes del Capítulo 3.18.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado, porque el Capítulo 3.18 modela 182 viajes solo para 2027 y 2028 sin indicar la carga, y la losa de lavado del Anexo 9.6 está dimensionada para 65 camiones al día.</p>
 </section>
 
 <section id="pluma" aria-labelledby="t-pluma">
@@ -1371,6 +1406,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   rotado 180°. <b>Esto no reemplaza una modelación de dispersión</b>: la concentración real depende
   de estabilidad atmosférica, topografía y tasa de emisión, y está en el Anexo 4.3 y 4.4 del
   expediente. Lo que esta tabla muestra es la geometría del problema, que es condición necesaria.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: qué concentración de olor modela el Anexo 4.4 en cada una de las 21 unidades habitacionales de la Tabla 11 del Anexo 8.1, con qué norma de referencia, y qué resultado da en las poblaciones que quedan sobre el eje del viento predominante que el propio Anexo 4.2 declara.</p>
 </section>
 
 <section id="influencia" aria-labelledby="t-influencia">
@@ -1404,6 +1440,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="note">Polígono oficial: <span class="sc">ai_mediohumano.shp</span>, Datum WGS84 UTM 19S,
   acompañado por el titular al Capítulo 3.19. Las poblaciones se evalúan por su punto de
   referencia; para las que tienen polígono residencial, por su borde.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: que las poblaciones que quedan a menos de 150 m del borde del área de influencia —Botania, Cumbres de Quilpué, Nuevo Horizonte, Los Fundadores 2, Pompeya Norte y Pompeya Sur— se incluyan como parte afectada, y que los impactos del medio humano se evalúen también sobre ellas, con medidas y seguimiento.</p>
 </section>
 
 <section id="proyecciones" aria-labelledby="t-proyecciones">
@@ -1431,10 +1468,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <div class="find" style="margin-top:28px">
     <div><div class="v c-blue" id="v-esp">—</div>
       <div class="k">Espesor medio de masa de residuos al cierre, sobre la huella de disposición.</div>
-      <div class="s">No es altura sobre terreno natural: 45,02 ha se excavan antes de rellenar.</div></div>
+      <div class="s">No es altura sobre terreno natural: 45,02 ha se excavan antes de rellenar (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a>).</div></div>
     <div><div class="v c-warn" id="v-pico">—</div>
       <div class="k">Generación bruta de metano en el año peak, equivalente a <b id="v-co2">—</b> de CO₂e si no se captara nada.</div>
-      <div class="s">El titular declara 81 chimeneas y antorcha con 99 % de destrucción.</div></div>
+      <div class="s">El titular declara 81 chimeneas y antorcha con 99 % de destrucción (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a>).</div></div>
   </div>
   <p class="note">Estas cifras son <b>generación, no emisión</b>, y <b>no son del titular</b>:
   están calculadas con LandGEM v3.02 de la US EPA usando sus parámetros por defecto
@@ -1491,6 +1528,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   cierre. Las anotaciones de «lo que no muestra» son elementos del propio proyecto descritos en el
   Capítulo 1 y en los PAS, ubicados de forma aproximada sobre la foto: señalan qué falta, no dónde
   exactamente estará cada cosa.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: fotomontajes de la etapa de operación —años 5, 15 y 25— desde las poblaciones con línea de vista, y no solo el escenario posterior al cierre, para que la evaluación de paisaje del Capítulo 3.15 y la calificación del Capítulo 5 se apoyen en lo que se verá durante 25 años.</p>
 </section>
 
 <section id="cuenca" aria-labelledby="t-cuenca">
@@ -1527,6 +1565,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>Es una cota superior</b>: el modelo representa el terreno desnudo, así que no descuenta
   árboles ni edificios que puedan interponerse. El espesor de 60 m es el promedio sobre la
   huella; la forma final de la corona la define el Plan de Cierre, no analizado aquí.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: que la calificación «no obstruye vistas relevantes» del Capítulo 5 se fundamente con una cuenca visual calculada sobre el modelo de elevación con la cota final de la masa, y no con un único fotomontaje de la etapa de cierre.</p>
 </section>
 
 <section id="pronunciamientos" aria-labelledby="t-pronunciamientos">
@@ -1544,6 +1583,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="note">El oficio 1337 de la Municipalidad de Viña del Mar figura como
   «Oficio pronunciamiento Municipalidad», sin la etiqueta «con observaciones» que llevan los
   otros diecinueve. Su contenido no fue verificado en este análisis: conviene leerlo antes de citarlo.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>: que la Adenda responda una por una las observaciones de los diecinueve organismos y cite el oficio en cada respuesta; una observación ciudadana puede pedir expresamente que se acoja lo observado por un servicio, por ejemplo SERNAGEOMIN, la SEREMI de Salud o la Dirección General de Aguas.</p>
 </section>
 
 <section id="observar" aria-labelledby="t-observar">
@@ -1620,7 +1660,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   Publicado el 20 de octubre de 2026 · última actualización el <b>{fecha}</b> ·
   Código, datos y método: <a href="https://github.com/FeniaPfa/seia-data" target="_blank" rel="noopener">github.com/FeniaPfa/seia-data</a> ·
   Texto y mapas bajo licencia CC BY 4.0; datos de OpenStreetMap bajo ODbL ·
-  Sin cookies ni analítica: las únicas conexiones externas son las fuentes tipográficas y la librería 3D.
+  Sin cookies, analítica ni conexiones a terceros: fuentes, librería 3D y datos se sirven desde esta misma página.
   <a class="imprimir" href="#" onclick="window.print();return false">Imprimir esta página</a>
 </footer>
 </main>
@@ -1630,7 +1670,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 </div>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="lib/three.r128.min.js"></script>
 <script id="D" type="application/json">/*__DATOS__*/</script>
 <script>
 (function(){

@@ -71,9 +71,16 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   al mapear (x,y)→(x,·,y) se invierte el giro de cada triángulo y el renderer descarta la cara.
   La tapa de la masa de residuos estuvo invisible así durante semanas sin que nada fallara.
   Hay que invertir el índice (ver `dibujarMasa`) o usar `DoubleSide`.
-- **`reordenar.py` apunta a `web/plantilla.html`**, ruta que ya no existe: hoy es `src/`.
 - **El pie tiene un placeholder de firma** (`.firma` en `plantilla.html`): nombre o colectivo y
   contacto van ahí antes de publicar. La fecha de actualización la inyecta `build.py` desde git.
+
+## Fuentes y Three.js, en el repo
+
+Las fuentes (`fonts/`, subconjunto latino, SIL OFL) y Three.js r128 (`lib/`) se sirven desde la
+misma página: no hay conexiones a terceros, el render no espera un CSS externo y el pie puede
+afirmar «sin conexiones a terceros». Si se agrega un peso tipográfico nuevo, hay que bajar el
+woff2 de Google Fonts con un User-Agent moderno (devuelve woff2 por rangos unicode) y declararlo
+en el `@font-face` del `<head>`. Libre Franklin es variable: un archivo cubre 400 a 700.
 
 ## Imagen social
 
