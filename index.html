@@ -337,6 +337,11 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-family:var(--cart);font-size:16px;font-weight:600;text-decoration:none;
   padding:13px 22px;margin-top:22px;min-height:48px;border-radius:2px}
 .btn:hover{filter:brightness(1.12)}
+.acciones{display:flex;flex-wrap:wrap;gap:12px 16px;align-items:center;margin-top:22px}
+.acciones .btn{margin-top:0}
+.btn2{display:inline-flex;align-items:center;min-height:48px;padding:12px 20px;border:1px solid var(--lctl);
+  border-radius:2px;font-family:var(--cart);font-size:16px;font-weight:600;color:var(--ink);text-decoration:none}
+.btn2:hover{background:var(--surf2);color:var(--ink)}
 
 footer{margin-top:76px;padding-top:30px;border-top:1px solid var(--bistre);
   font-size:15px;color:var(--ink2);line-height:1.75;max-width:70ch}
@@ -830,7 +835,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
 <nav class="indice" aria-label="Contenido de la página"><details id="indice-d">
   <summary>Contenido · 15 secciones</summary>
-  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
+  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
 </details></nav>
 <noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
 
@@ -1728,8 +1733,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   por el portal electrónico hace falta ClaveÚnica. La ley obliga a la <b>autoridad evaluadora</b>
   a hacerse cargo de cada observación y pronunciarse fundadamente sobre todas ellas en la
   Resolución de Calificación Ambiental, y esa respuesta
-  queda en el expediente — es lo que después permite reclamar.
-  <a href="que-puede-pasar.html">Ver qué pasa después, y en qué plazos →</a></p>
+  queda en el expediente — es lo que después permite reclamar.</p>
   <ol class="pasos">
     <li>Necesitas tu <b>ClaveÚnica</b>, la misma del Registro Civil.</li>
     <li>Entra al expediente <b class="num">2168892026</b> en el portal del <span class="sc">sea</span>.</li>
@@ -1763,7 +1767,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <button type="button" class="copiar">Copiar este texto</button>
     </figure>
   </div>
-  <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación al SEA →</a>
+  <div class="acciones">
+    <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación al SEA →</a>
+    <a class="btn2" href="que-puede-pasar.html">Qué pasa después, y en qué plazos →</a>
+  </div>
   <p class="note">Para ingresarla hace falta <b>ClaveÚnica</b>. El circuito es este: tu observación entra al expediente,
   el SEA la incluye en su informe consolidado al titular, el titular debe responderla en su <b>Adenda</b>, y la autoridad
   se pronuncia sobre ella en la <b>Resolución de Calificación Ambiental</b>. Sin observaciones, nada de eso ocurre.</p>
@@ -1836,10 +1843,11 @@ else if(dd===1){ $('#dias').innerHTML='<span class="ult">último día</span>';
 else { document.body.classList.add('cerrado');
   $('#dias').innerHTML='<span class="ult">plazo cerrado</span>';
   $('.plazo .t').textContent='la participación ciudadana cerró el 3 de noviembre';
-  $('.plazo .cta').textContent='Seguir el expediente →';
-  $('.plazo').href='https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026';
-  var bi=$('.barra-cta .ir'); if(bi){ bi.textContent='Seguir el expediente →'; bi.href=$('.plazo').href; }
-  var bo=$('#observar .btn'); if(bo){ bo.textContent='El plazo cerró: seguir el expediente en el SEA →'; bo.href=$('.plazo').href; }
+  $('.plazo .cta').textContent='Qué viene ahora →';
+  $('.plazo').href='que-puede-pasar.html'; $('.plazo').removeAttribute('target');
+  var bi=$('.barra-cta .ir'); if(bi){ bi.textContent='Qué viene ahora →'; bi.href='que-puede-pasar.html'; bi.removeAttribute('target'); }
+  var bo=$('#observar .btn'); if(bo){ bo.textContent='El plazo cerró: seguir el expediente en el SEA →';
+    bo.href='https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026'; }
   var no=$('#observar .note'); if(no) no.innerHTML='<b>El plazo cerró el 3 de noviembre de 2026.</b> Las observaciones '+
     'ingresadas se responden en la Adenda del titular y en la Resolución de Calificación Ambiental. Si la Adenda '+
     'modifica sustantivamente el proyecto, se abre un nuevo período de participación (art. 92 del D.S. 40).'; }

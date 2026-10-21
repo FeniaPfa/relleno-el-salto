@@ -67,12 +67,21 @@ def tokens(h):
     assert blo.count('{') == blo.count('}'), 'bloque de tokens descuadrado'
     return blo
 
+def fuentes(h):
+    """Los @font-face autohospedados de plantilla.html, para que la página secundaria
+    use las mismas fuentes locales y tampoco se conecte a terceros."""
+    i = h.index('<style>\n/* fuentes autohospedadas')
+    j = h.index('</style>', i) + len('</style>')
+    return h[i:j]
+
 def segunda(h):
     """que-puede-pasar.html: el recorrido del expediente y sus desenlaces.
     Es estática — no usa datos.json ni los visores 3D — así que sólo hereda los tokens."""
     pg = leer('plazos.html')
     assert pg.count('/*__TOKENS__*/') == 1, 'marcador de tokens ausente en plazos.html'
     pg = pg.replace('/*__TOKENS__*/', tokens(h))
+    assert pg.count('<!--__FUENTES__-->') == 1, 'marcador de fuentes ausente en plazos.html'
+    pg = pg.replace('<!--__FUENTES__-->', fuentes(h))
     destino = os.path.join(AQUI, 'que-puede-pasar.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('que-puede-pasar.html  %.1f KB' % (os.path.getsize(destino) / 1024))
