@@ -75,6 +75,12 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   `function nueva(){}` que choque con un `var` ya existente se pierde en silencio —el `var`
   la pisa al asignarse— y sólo falla al pulsar el control. Pasó con `modo`, que ya era el
   basemap carto/sat; el control de viento tuvo que llamarse `fijarViento`.
+- **Los rótulos del visor se colocan por cajas reales, no por apilado.** El código
+  anterior ordenaba por `y` y empujaba 18 px hacia abajo confiando en que no se
+  tocaran; con 26 marcas colaba, con 115 no. Si vuelves a tocarlo, mide: recorre una
+  vuelta completa comparando los `getBoundingClientRect()` de los `.tx` entre sí. El
+  ancho del rótulo se mide una vez por marca (`m.wtx`) porque suponerlo fijo en 210 px
+  dejaba pisarse los nombres largos.
 - **Variables de ámbito en `ubicarMarcas()`:** un `var` declarado dentro de un callback de
   `forEach` no existe en el siguiente. Ya rompió los rótulos del 3D una vez.
 - **Dos secciones remiten al visor del terreno** («actívalo como capa en el visor 3D del
