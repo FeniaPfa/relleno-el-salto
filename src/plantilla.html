@@ -2229,8 +2229,9 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
   bind($('#t-res'),gRes); bind($('#t-edu'),gEdu); bind($('#t-sal'),gSal);
   bind($('#t-ani'),gAni); bind($('#t-area'),gAre); bind($('#t-ai'),gAI);
-  /* arranca con lo esencial: equipamientos y área de influencia a un toque (esta última tiene su sección) */
-  ['#t-edu','#t-sal','#t-ai'].forEach(function(id){ var b=$(id); if(b) b.click() });
+  /* las seis capas encendidas: la sección se titula «quién vive alrededor», así que
+     los colegios, los centros de salud y el área de influencia son parte de la respuesta,
+     no un extra que haya que ir a buscar */
 })();
 
 /* ===== mapa de escorrentía hasta el Marga-Marga ===== */
