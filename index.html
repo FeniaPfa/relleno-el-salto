@@ -845,6 +845,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 .marca.lejos .pt{width:7px;height:7px;left:-3.5px;top:-3.5px;background:#cfd6cf;
   box-shadow:0 0 0 1.2px #14161a,0 0 5px rgba(0,0,0,.7)}
 .marca.lejos .tx{font-size:12.5px;color:#d8dcd4}
+/* Tercer nivel: las que aparecen al girar la cámara. Son unas noventa, así que
+   el punto va discreto —si todas pesaran igual, el mapa sería un alfiletero—.
+   Al recibir rótulo o al pasar el cursor recuperan el contraste. */
+.marca.fondo .pt{width:5.5px;height:5.5px;left:-2.75px;top:-2.75px;
+  background:#aeb6ae;opacity:.5;box-shadow:0 0 0 1px #14161a}
+.marca.fondo.rot .pt,.marca.fondo.hov .pt{opacity:1;background:#cfd6cf}
+.marca.fondo .tx{font-size:12px;color:#cdd3cc}
+.marca.fondo .km{color:#aeb6ae}
 .marca.hov{z-index:5}
 .marca.hov .pt{background:#ffd166;box-shadow:0 0 0 1.6px #14161a,0 0 10px rgba(255,209,102,.6)}
 
@@ -3770,6 +3778,9 @@ sc.add(new THREE.AmbientLight(0xffffff,.74));
 var dl=new THREE.DirectionalLight(0xfff2e2,.62); dl.position.set(-1,1.5,.7); sc.add(dl);
 
 /* ---------- marcas: un punto por comunidad, rótulo para las que quepan ---------- */
+/* desvíos que se prueban para el rótulo, en orden: pegado al punto y luego
+   alejándose arriba y abajo, con la línea guía uniéndolo. */
+var DESVIOS=[0,-20,20,-40,40,-62,62,-86,86];
 var marcas=[], CERCANAS=16, CORREDOR=10;
 /* el corredor norte, 350°–20°, es el eje del viento que declara el titular:
    ahí viven Paso Hondo, Estrella Polar y Angamos, lejos pero a sotavento directo */
@@ -3780,27 +3791,36 @@ function construirMarcas(){
   lista.forEach(function(b){
     if(vistos[b.n]) return;
     var p=uv(b.x,b.y);
-    if(p[0]<0.03||p[0]>0.97||p[1]<0.03||p[1]>0.97) return;
+    if(p[0]<0.03||p[0]>0.97||p[1]<0.03||p[1]>0.97) return;   /* fuera del terreno dibujado */
     var corr = b.rb!=null && enCorredor(b.rb);
-    if(nCerca<CERCANAS) nCerca++;              /* cupo por cercanía */
-    else if(corr && nCorr<CORREDOR) nCorr++;   /* cupo extra del eje del viento */
-    else return;
+    /* Antes aquí se descartaba todo lo que no entrara en los dos cupos, y el
+       conjunto quedaba en 26 marcas, todas al norte: al girar la cámara hacia
+       el noreste o el noroeste el terreno aparecía sin un solo nombre.
+       Ahora entran las 115 que caen dentro del recuadro, y lo que evita el
+       amontonamiento es el cupo de rótulos en pantalla, no el tamaño del
+       conjunto. Las que exceden los cupos originales son «fondo»: punto más
+       discreto y, por su orden, últimas en recibir rótulo. */
+    var fondo=false;
+    if(nCerca<CERCANAS) nCerca++;
+    else if(corr && nCorr<CORREDOR) nCorr++;
+    else fondo=true;
     vistos[b.n]=1;
     var orden=marcas.length;
     var el=document.createElement('div');
-    el.className='marca'+(b.d<2.6?' cerca':'')+(orden>=6?' lejos':'')+(corr?' eje':'');
+    el.className='marca'+(b.d<2.6?' cerca':'')+(orden>=6?' lejos':'')+
+                 (corr?' eje':'')+(fondo?' fondo':'');
     el.innerHTML='<i class="ln"></i><i class="pt"></i><span class="tx">'+b.n+
       ' <span class="km">'+b.d.toFixed(2).replace('.',',')+' km</span></span>';
     cv.appendChild(el);
-    marcas.push({el:el,u:p,d:b.d,n:b.n,orden:orden,corr:corr,
+    marcas.push({el:el,u:p,d:b.d,n:b.n,orden:orden,corr:corr,fondo:fondo,
                  v3:new THREE.Vector3(), ln:el.querySelector('.ln')});
   });
 }
 /* cuántos rótulos caben: más cerca la cámara, más nombres */
 function cupoRotulos(w){
   var z=Math.max(0,Math.min(1,(S*0.62-rad)/(S*0.5)));   /* 0 lejos · 1 cerca */
-  var base=w<560?4:8;
-  return Math.round(base + z*(w<560?5:11));
+  var base=w<560?6:14;
+  return Math.round(base + z*(w<560?6:14));
 }
 function ubicarMarcas(){
   var w=cv.clientWidth,h=cv.clientHeight,on=chkOn('L-barrios');
@@ -3828,7 +3848,11 @@ function ubicarMarcas(){
     var x=(q.x*.5+.5)*w, y=(-q.y*.5+.5)*h;
     if(q.z>=1||x<8||x>w-8||y<10||y>h-10){ apaga(m); return }
     /* el texto va al lado donde cabe; si no cabe en ninguno, al que tiene más espacio */
-    m.x=x; m.y=y; m.izq = (x > w-reserva-ANCHO) && (x-ANCHO > 0 || x > w/2);
+    /* el ancho real del rótulo, medido una vez: con 210 px supuestos para todos,
+       los nombres largos se pisaban aunque la prueba de cajas dijera que no */
+    if(m.wtx==null){ var tx=m.el.querySelector('.tx'); m.wtx=Math.ceil(tx.offsetWidth)+10 }
+    var an=m.wtx||ANCHO;
+    m.x=x; m.y=y; m.izq = (x > w-reserva-an) && (x-an > 0 || x > w/2);
     enPantalla.push(m);
   });
   if(!on) return;
@@ -3844,30 +3868,40 @@ function ubicarMarcas(){
                        var pa=a.orden-(a.corr?6:0), pb=b.orden-(b.corr?6:0);
                        return pa-pb;
                      }).slice(0,cupo);
-  cand.sort(function(a,b){return a.y-b.y});
-  var alto=18, DERIVA=60, prev=-1e9;
-  cand.forEach(function(it){ it.ty=Math.max(it.y,prev+alto); prev=it.ty });
-  var racimos=[], cur=cand.length?[cand[0]]:[];
-  for(var i=1;i<cand.length;i++){
-    if(cand[i].ty>cand[i].y+0.5) cur.push(cand[i]);
-    else { racimos.push(cur); cur=[cand[i]] }
+  /* Colocación por cajas reales. Antes esto apilaba por «y» y empujaba hacia
+     abajo de 18 en 18 confiando en que no se tocaran; con 26 marcas colaba, con
+     115 no: medido, aparecían 22 textos pisados al girar una vuelta. Ahora cada
+     rótulo propone su caja, se prueba contra las ya aceptadas y contra los
+     huecos del mobiliario, y si choca se descarta. El límite deja de ser una
+     heurística y pasa a ser el espacio que de verdad hay. */
+  var ALTO_TX=19, cajas=[], conRotulo={};
+  function libre(x0,x1,y0,y1){
+    if(choca(x0,x1,(y0+y1)/2)) return false;
+    for(var i=0;i<cajas.length;i++){ var c=cajas[i];
+      if(x1>c[0]&&x0<c[2]&&y1>c[1]&&y0<c[3]) return false }
+    return true;
   }
-  if(cur.length) racimos.push(cur);
-  racimos.forEach(function(r){
-    if(r.length<2) return;
-    var dd=0; r.forEach(function(it){dd+=it.ty-it.y}); dd/=r.length;
-    r.forEach(function(it){it.ty-=dd});
-  });
-  var conRotulo={};
   cand.forEach(function(it){
-    var x0=it.izq?it.x-ANCHO:it.x, x1=it.izq?it.x:it.x+ANCHO, dy=it.ty-it.y;
-    if(dy>DERIVA||it.ty<14||it.ty>h-10||choca(x0,x1,it.ty)) return;
-    conRotulo[it.n]=1;
-    it.el.classList.toggle('izq',it.izq);
-    it.el.classList.add('rot');
-    it.el.style.setProperty('--dy',dy.toFixed(0)+'px');
-    if(it.ln){ it.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
-               it.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px' }
+    /* se intenta pegado al punto y, si no cabe, a un palmo arriba o abajo */
+    var lados = it.izq ? [true,false] : [false,true];
+    for(var li=0; li<lados.length; li++){
+      var iz=lados[li];
+      var an=it.wtx||ANCHO, x0=iz?it.x-an:it.x, x1=iz?it.x:it.x+an;
+      if(x0<4||x1>w-4) continue;
+      for(var k=0;k<DESVIOS.length;k++){
+        var dy=DESVIOS[k], ty=it.y+dy;
+        if(ty<14||ty>h-10) continue;
+        if(!libre(x0,x1,ty-ALTO_TX/2,ty+ALTO_TX/2)) continue;
+        cajas.push([x0,ty-ALTO_TX/2,x1,ty+ALTO_TX/2]);
+        conRotulo[it.n]=1;
+        it.el.classList.toggle('izq',iz);
+        it.el.classList.add('rot');
+        it.el.style.setProperty('--dy',dy.toFixed(0)+'px');
+        if(it.ln){ it.ln.style.height=Math.max(0,Math.abs(dy)-5).toFixed(0)+'px';
+                   it.ln.style.top=(dy<0?dy+5:0).toFixed(0)+'px' }
+        return;
+      }
+    }
   });
   enPantalla.forEach(function(m){ if(!conRotulo[m.n]) m.el.classList.remove('rot') });
 }
