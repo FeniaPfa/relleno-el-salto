@@ -1,0 +1,269 @@
+
+===== p.0 =====
+  Informe N°
+:
+  Solicitante
+:
+  Mandante
+:
+  Dirección   
+:
+  Obra
+:
+  Atención Sr.
+:
+  Ubicación
+:
+  Fecha emisión :
+ANTECEDENTES GENERALES
+   Fecha de ensayo
+:
+   Método utilizado
+:
+Ensayado Por
+:
+RESULTADOS
+Fecha control
+Control N°
+Capa
+Cota
+Espesor capa     
+   (cm)
+Profundidad de ensayo    
+    (cm)
+D.C.H
+   (kg/m³)
+D.C.S
+    (kg/m³)
+D.M.C.S
+   (kg/m³)
+Humedad Optima    
+  (%)
+Densidad Mínima    
+Densidad Máxima    
+Humedad de ensayo    
+   (%)
+Compactación   
+  (%)
+UBICACIÓN 
+Control N°1
+Control N°2
+Control N°3
+Control N°4
+Control N°5
+Control N°6
+Control N°7
+Control N°8
+Control N°9
+Control N°10
+NOTAS
+NORMAS
+Número  de  SS   
+   :
+Equipo utilizado    
+   :
+OBSERVACIONES
+Correlativo Obra:
+FCV009-009 -Rev. 003    Fecha de aprobación 23-05-2024
+Para revisar que este informe NO es falso ingrese a http://www.plataformaingemars.cl/ValidarInforme.aspx 
+e ingrese el sgte codigo:
+  (g/cm³)
+  (g/cm³)
+DENSIDAD DE  TERRENO
+Referencia Normativa: NCh1516.Of79 o Método 8.502.1, Diciembre 2003, MC V8, Método 8.502.2, Diciembre 2003, MC V8
+INFORME DE ENSA
+ YO OF  I     CI
+ AL
+Resolución Exenta N° 638 Fecha 16.02.2024
+  Ministerio De Vivienda y Urbanismo MINVU
+Antofagasta      (55) 276 5063 
+ Viña del Mar 
+(2) 249 291 28
+ Calama     (55) 283 2677 
+ www.ingemars.cl
+ 
+ESPARZA & VEGA INGENIEROS LIMITADA-CENTRO DE TRATAMIENTO INTEGRAL DE RESIDUOS LOS RINCONES-VIÑA DEL MAR-Informe densidad en terreno-015-2025
+ESPARZA & VEGA INGENIEROS LIMITADA
+ESPARZA & VEGA
+AGUA SANTA 1400 T4 D 403
+CENTRO DE TRATAMIENTO INTEGRAL DE RESIDUOS LOS RINCONES
+CRISTIAN VEGA
+VIÑA DEL MAR
+13-01-2025
+03-12-2024
+Nuclear
+Rodolfo Galarce
+205G
+Troxler 3430 N° 61141
+015
+03-12-2024
+1
+-
+-
+30
+30
+1,761
+1,656
+2,020
+7,3
+-
+-
+6,3
+82
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Calicata N°14, coordenadas:   -33.077478;   -71.481470
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Densidad tomada en superficie indicada por el Cliente. Proctor modificado ensayado del acopio Calicata N°14. DMCS o densidad máxima y mínima trazable con el informe muestra
+de suelo - ESPARZA & VEGA INGENIEROS LIMITADA-CENTRO DE TRATAMIENTO INTEGRAL DE RESIDUOS LOS RINCONES-VIÑA DEL MAR-Informe análisis suelo-014-
+2025
+NCh 1515.Of1979 Mecánica de Suelos – Determinación de la humedad
+Manual de Carreteras Volumen Nº 8, Diciembre 2003. Capítulo 8.500 Sección 8.502.1 - 8.502.2
+(LNV 19) - Determinación de la densidad en terreno - Método Nuclear
+Plan Muestreo PC-019
+1. Los resultados corresponden únicamente a los ítems ensayados.
+2. La Información que esta subrayada fue suministrada por el cliente.
+3. Este informe no puede ser reproducido sin autorización escrita de la Gerencia INGEMARS
+4. Descargo de Responsabilidad: Laboratorio INGEMARS, no asume responsabilidad por el contenido y veracidad de la información en caso de haber sido proporcionada en su
+totalidad por el cliente y que pudiera afectar a la validez de los resultados en este informe.  Laboratorio INGEMARS no se responsabiliza del contenido y veracidad de la información
+suministrada por el cliente durante la etapa de muestreo (lugar, punto e identificación) y los resultados aplicarán a la muestra proporcionada tal como fue recibida.
+5. (*) Ensaye(s) y/o actividad(es) fuera del alcance de la acreditación.
+6. Realizado por G.M.R
+665-ds-001-015
+Firma electrónica avanzada
+MAURICIO ERNESTO VASQUEZ
+PINO
+2025.01.13 15:16:15 -0300
+Responsable de Area

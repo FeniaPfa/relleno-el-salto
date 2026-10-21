@@ -1,0 +1,2951 @@
+
+===== p.0 =====
+ANEXO 4.2
+MODELACIÓN METEOROLÓGICA
+ESTUDIO DE IMPACTO AMBIENTAL
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL 
+DE RESIDUOS”
+Mayo 2026
+
+===== p.1 =====
+Estudio de Impacto Ambiental
+Modelación Meteorológica
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 2 de 71
+Contenido
+1 Introducción..............................................................................................................4
+2 Objetivos...................................................................................................................5
+2.1 General...............................................................................................................5
+2.1.1 Objetivos Específicos......................................................................................5
+3 Metodología...............................................................................................................6
+3.1 Selección de las estaciones disponibles..................................................................6
+3.2 Modelación Meteorológica....................................................................................8
+3.2.1 Modelo Weather Research and Forecast (WRF)...............................................8
+3.2.2 Dominio de modelación..................................................................................8
+3.3 Presentación de datos meteorológicos modelados..................................................9
+3.3.1 Series de tiempo............................................................................................9
+3.3.2 Ciclo diario..................................................................................................10
+3.3.3 Ciclo mensual..............................................................................................10
+3.3.4 Rosas de los vientos.....................................................................................10
+3.4 Incertidumbre....................................................................................................11
+3.4.1 Análisis cuantitativo.....................................................................................11
+3.4.2 Análisis cualitativo........................................................................................14
+4 Resultados...............................................................................................................15
+4.1 Definición del año de modelación meteorológica..................................................15
+4.1.1 Descripción de la estación y variables analizadas...........................................15
+4.2 Caracterización de variables meteorológicas........................................................17
+4.2.1 Caracterización de la temperatura.................................................................18
+4.2.2 Caracterización de la velocidad y dirección del viento.....................................22
+4.2.3 Caracterización de la precipitación................................................................33
+4.2.4 Altura de la capa límite.................................................................................35
+4.3 Análisis de incertidumbre....................................................................................39
+4.3.1 Análisis cuantitativo.....................................................................................39
+4.3.2 Análisis cualitativo........................................................................................41
+5 Conclusión...............................................................................................................70
+6 Anexos....................................................................................................................71
+Índice de Figuras
+
+===== p.2 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 3 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Figura 1. Estaciones de calidad de aire y meteorológicas disponibles en las cercanías del 
+Proyecto.......................................................................................................................6
+Figura 2. Serie de tiempo de temperatura modelada.....................................................18
+Figura 3. Ciclo diario de la temperatura obtenido de los datos del modelo WRF 2025......19
+Figura 4. Análisis del ciclo promedio diario y mensual de la temperatura modelado por 
+WRF, para el año 2025................................................................................................21
+Figura 5. Serie de tiempo modelada de la velocidad del viento.......................................22
+Figura 6. Serie de tiempo modelada de la dirección del viento.......................................23
+Figura 7. Ciclo diario del viento obtenido de los datos del modelo WRF 2025..................24
+Figura 8. Ciclo de dirección del viento obtenido de los datos del modelo WRF 2025.........25
+Figura 9. Análisis del ciclo promedio diario y mensual de la velocidad y dirección del viento 
+modelado por WRF, para el año 2025...........................................................................27
+Figura 10. Serie de tiempo modelada de la precipitación, año 2025................................34
+Figura 11. Precipitación mensual para el año 2025, modelado por WRF..........................35
+Figura 12. Serie de tiempo de la altura de la capa ímite modelada por WRF, año 2025....36
+Figura 13. Ciclo diario modelado de la altura de la capa límite, año 2025........................37
+Figura 14. Ciclo diario de altura de la capa límite...........................................................39
+Índice de Tablas
+Tabla 1. Variables disponibles en las estaciones SINCA....................................................7
+Tabla 2. Ubicación y porcentaje de datos disponibles en las estaciones de monitoreo 
+utilizadas para evaluar la incertidumbre del modelo........................................................8
+Tabla 3. Características del modelo................................................................................8
+Tabla 4. Porcentaje de datos disponible por cada contaminante en la Estación SINCA 
+Quilpué......................................................................................................................16
+Tabla 5. Estadísticos calculados para cada variable a analizar durante el periodo 2023-
+2025..........................................................................................................................16
+Tabla 6. Rosa y distribución de la velocidad del viento, modeladas por WRF...................28
+Tabla 7. Resultados estadísticos obtenidos por la modelación........................................39
+Tabla 8. Temperatura modelada con WRF y observada en la estación Viña del Mar.........41
+Tabla 9. Velocidad del viento modelado por WRF y observado en la estación Viña del Mar
+..................................................................................................................................44
+Tabla 10. Temperatura modelada con WRF y observada en la estación Junta de Vecinos 50
+Tabla 11. Velocidad del viento modelado por WRF y observado en la estación Junta de 
+Vecinos......................................................................................................................54
+Tabla 12. Temperatura modelada con WRF y observada en la estación Concón..............60
+Tabla 13. Velocidad del viento modelado por WRF y observado en la estación Concón....64
+
+===== p.3 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 4 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+1 Introducción
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos” consiste en la 
+construcción y operación de una instalación destinada al tratamiento integral de residuos 
+sólidos domiciliarios y asimilables. Para ello, contempla procesos de compostaje, reciclaje y 
+disposición final de residuos.
+El Proyecto se emplaza en la comuna de Viña del Mar, provincia y Región de Valparaíso, 
+específicamente en el kilómetro 102,5 de la Ruta 60 Troncal Sur, vía que conecta las 
+comunas de Viña del Mar y Quilpué. El área de emplazamiento corresponde a 63,10 ha, 
+inserta dentro de un predio de 206 ha.
+La iniciativa considera diversas áreas funcionales para su operación, entre ellas una zona de 
+instalaciones  operacionales  y  administrativas,  una  zona  de compostaje,  una  zona  de 
+reciclaje, una zona de disposición de residuos, una zona de tratamiento de lixiviados y una 
+zona de tratamiento de biogás.
+Durante su operación, se proyecta recibir un total de 30.741.988 toneladas de residuos 
+sólidos  durante  una  vida  útil  estimada  de  25  años.  El  Proyecto  prestará  servicio 
+principalmente a la población de las comunas de la Región de Valparaíso, con una tasa inicial 
+de recepción de 2.500 ton/día.
+El objetivo del presente informe es presentar el análisis de las variables meteorológicas 
+modeladas mediante el modelo Weather Research and Forecasting, o modelo WRF, en la 
+zona de emplazamiento del Proyecto. Asimismo, se incluye el análisis de incertidumbre 
+asociado a dicha modelación.
+
+===== p.4 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 5 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+2 Objetivos
+2.1 General
+Los objetivos generales del informe:
+
+Caracterizar las variables meteorológicas modeladas mediante WRF en la ubicación 
+del Proyecto, considerando aquellas relevantes para la dispersión de contaminantes.
+
+Evaluar la incertidumbre del modelo a través de la comparación entre los resultados 
+modelados y los registros observados en estaciones meteorológicas ubicadas dentro 
+del dominio de modelación.
+2.1.1 Objetivos Específicos
+Los objetivos específicos son los siguientes:
+•
+Seleccionar el año de modelación mediante el análisis de mediciones de calidad del 
+aire, identificando aquel período que presenta las condiciones más críticas para la 
+dispersión de contaminantes.
+•
+Procesar los datos de monitoreo de las variables meteorológicas observadas y 
+modeladas, específicamente temperatura, velocidad y dirección del viento. Para los 
+resultados del modelo, se considerarán la precipitación y la altura de la capa límite.
+•
+Determinar  el  porcentaje  de  datos  válidos  disponibles  en  las  estaciones  de 
+monitoreo.
+•
+Elaborar y presentar gráficos de series de tiempo, ciclos diarios y ciclos mensuales de 
+las variables meteorológicas modeladas por WRF en la ubicación del Proyecto.
+•
+Calcular estadísticos de desempeño, tales como BIAS, MAE, RMSE y coeficiente de 
+correlación de Pearson, para evaluar cuantitativamente la incertidumbre del modelo.
+•
+Elaborar y presentar gráficos de series de tiempo y ciclos diarios de las variables 
+meteorológicas observadas en las estaciones, y compararlas con los resultados 
+modelados en puntos de grilla representativos.
+
+===== p.5 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 6 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+3 Metodología
+3.1 Selección de las estaciones disponibles
+En la Figura 1 se presenta la ubicación del Proyecto, la topografía del área de estudio y las 
+estaciones de monitoreo de calidad del aire y/o meteorológicas ubicadas dentro de un radio 
+de 18 km desde la zona de emplazamiento. Las estaciones disponibles pertenecen al Sistema 
+de Información Nacional de Calidad del Aire o red SINCA, y corresponden a Quilpué, Viña del 
+Mar, Valparaíso, Junta de vecinos y Concón.
+Figura 1. Estaciones de calidad de aire y meteorológicas disponibles en las 
+cercanías del Proyecto
+Como muestra la Tabla 1, las estaciones más cercanas al Proyecto son Quilpué, Viña del 
+Mar y Valparaíso, encontrándose a 6, 9 y 12 km respectivamente. Por otro lado, las 
+estaciones Junta de Vecinos y Concón se encuentran a más de 10 km. 
+
+===== p.6 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 7 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Tabla 1. Variables disponibles en las estaciones SINCA
+Estaciones
+Distancia 
+(km)
+Variables
+MP10
+MP2,5
+Temperatura
+Velocidad 
+del viento
+Dirección 
+del viento
+ Quilpué
+6
+Si
+Si
+No
+No
+No
+Viña del Mar
+9
+Si
+Si
+Si
+Si
+Si
+Valparaíso
+12
+Si
+Si
+No
+No
+No
+Junta de 
+vecinos
+16,5
+Si
+Si
+Si
+Si
+Si
+Concón
+17,5
+Si
+Si
+Si
+Si
+Si
+Las estaciones Viña del Mar y Valparaíso se ubican en sectores costeros y están influenciadas 
+por condiciones propias del borde litoral, las cuales difieren de las del emplazamiento del 
+Proyecto, situado a mayor distancia del mar y a una altitud aproximada entre 200 y 400 m. 
+Por su parte, las estaciones Junta de Vecinos y Concón se ubican a mayor distancia del área 
+de emplazamiento. 
+En este contexto, para el análisis de incertidumbre se consideraron las estaciones Viña del 
+Mar, Junta de Vecinos y Concón, debido a que cuentan con registros de temperatura, 
+velocidad del viento y dirección del viento. En cambio, la estación Quilpué se utilizará para 
+apoyar la selección del año de modelación, ya que corresponde a la estación más cercana al 
+área del Proyecto y cuenta con registros de MP10 y MP2,5 para el período analizado. Más 
+detalle de la estación Quilpué se entrega en el acápite 4.1 de este informe
+Cabe señalar que, tanto para la caracterización meteorológica de la zona de emplazamiento 
+del Proyecto como para el análisis de incertidumbre, se utilizó información correspondiente 
+al año 2025, debido a que dicho periodo corresponde al año modelado con WRF, según se 
+detalla en el 4.1 de este informe. Las estaciones de monitoreo seleccionadas para realizar el 
+análisis de incertidumbre cuentan con más del 75% de los datos, tal como se muestra en la 
+Tabla 2.
+
+===== p.7 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 8 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Tabla 2. Ubicación y porcentaje de datos disponibles en las estaciones de 
+monitoreo utilizadas para evaluar la incertidumbre del modelo.
+Estación 
+meteorológica
+Coordenadas UTM WGS 
+84, Huso 19 S
+Porcentaje de datos (%)
+Este (m)
+Norte 
+(m)
+Temperatura
+Velocidad del 
+viento
+Dirección del 
+viento
+Viña del Mar
+261,803
+6,343,569
+99,6
+99,6
+99,6
+Junta de 
+Vecinos
+263,944
+6,353,098
+99,8
+99,8
+99,8
+Concón
+264,784
+6,354,247
+99,7
+99,7
+99,7
+3.2 Modelación Meteorológica
+3.2.1 Modelo Weather Research and Forecast (WRF)
+El modelo Weather Research and Forecasting (WRF), es un modelo numérico de cuatro 
+dimensiones, recomendado para la generación de datos meteorológicos y es uno de los 
+modelos de pronóstico meteorológicos más avanzados. Debido a la falta de una red robusta 
+de estaciones meteorológicas, la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE 
+EN EL SEIA” (2023), recomienda emplear WRF por sobre el uso del CALMET. Además, el 
+mismo  documento,  sugiere  el  uso  del  WRF  para  la  modelación  de  dispersión  de 
+contaminantes con CALPUFF.
+Para realizar la modelación meteorológica WRF, se utilizaron como datos de entrada los 
+campos meteorológicos NCEP GDAS/FNL 0.25 Degree Global Tropospheric Analyses 
+and Forecast Grids, con resolución espacial de 0,25°. Esta información fue empleada para 
+la inicialización del modelo y la definición de sus condiciones de borde, permitiendo 
+representar la evolución meteorológica regional durante el año de modelación considerado 
+en el presente estudio.
+3.2.2 Dominio de modelación
+Para la modelación meteorológica, se utilizó un modelo WRF, construido con datos del año 
+2025 y resolución de 1 km, de extensión 84 km x 84 km. El modelo WRF es capaz de simular 
+el comportamiento meteorológico, a través de datos meteorológicos para el año de estudio, 
+
+===== p.8 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 9 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+el que posteriormente es interpolado dentro del área de estudio del modelo de acuerdo con 
+la topografía del lugar. En la Tabla 3 se resumen las características del modelo. 
+Tabla 3. Características del modelo
+Año de modelación
+2025
+Periodo de Modelación
+1 año calendario
+Resolución temporal
+1 hora
+Resolución espacial
+1 km
+Coordenadas del centroide
+Latitud
+-33,050°
+Longitud
+-71,477°
+Coordenadas del modelo
+LCC
+Dominio de modelación
+X
+84
+Y
+84
+Z
+50
+3.3 Presentación de datos meteorológicos modelados
+Con el objetivo de presentar la información meteorológica observada y realizar los distintos 
+análisis descritos en la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL  
+SEIA” (2023), se presentan, para las variables descritas en la Tabla 2, los análisis de series 
+de tiempo y ciclos diarios y ciclo mensual, con excepción de la variable precipitación, para la 
+cual se presenta su serie de tiempo y ciclo mensual. Asimismo, para las variables de 
+velocidad y dirección del viento, se incluyen las rosas de los vientos.
+3.3.1 Series de tiempo
+Una serie de tiempo puede definirse como una colección de observaciones de una variable 
+de forma secuencial y ordenada en el tiempo (instantes de tiempo equiespaciados). Las 
+series pueden tener periodicidad anual, semestral, trimestral, mensual, horarias, etc., según 
+los periodos de tiempo en los que están recogidos los datos que la componen. Este tipo de 
+análisis es crucial, ya que ayuda a identificar patrones, tendencias y ciclos que pueden 
+informar la toma de decisiones y la planificación estratégica. En meteorología, por ejemplo, 
+el análisis de series de tiempo de la velocidad del viento puede revelar ciclos diarios, 
+estacionales y anuales. Según la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE 
+EN EL SEIA” (2023) estos gráficos permiten un “análisis cualitativo de los datos en términos 
+
+===== p.9 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 10 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+de completitud de la serie y periodos con datos faltantes, valores fuera de rango y  
+problemas de equipo (datos constantes, tendencias, entre otros)”. 
+3.3.2 Ciclo diario 
+El ciclo diario es un patrón natural de variación que ocurre a lo largo de un periodo de 24 
+horas. Es decir, se muestra como las variables meteorológicas cambian a lo largo del día. 
+El cálculo del ciclo diario promedio, a partir de datos horarios, se realiza al tomar cada hora 
+del día y calcular el promedio de los valores registrados en dicha hora, durante un periodo 
+especifico. Además, la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL  
+SEIA” (2023) menciona que estos gráficos deben integrar la variabilidad en términos de 
+percentil 5 y 95 de los datos usado para calcular el promedio para cada hora con tal de 
+mostrar el 90% del rango de los datos.
+3.3.3 Ciclo mensual
+El ciclo mensual es un patrón de variación que ocurre a lo largo del año. En meteorología, el 
+análisis del ciclo mensual es crucial para entender cómo estas variables fluctúan de un mes a 
+otro. El cálculo del ciclo mensual de una variable, a partir de datos horarios, se realiza a 
+tomar cada dato asociado a un mes en particular, en un periodo especifico, y promediarlos. 
+Hay versiones de este análisis que calculan la variación mensual del ciclo diario, para lo cual 
+se realiza el mismo cálculo definido en el acápite 3.3.2, seccionando por mes.
+3.3.4 Rosas de los vientos
+Una rosa de los vientos es una representación gráfica que muestra la frecuencia o intensidad 
+de los vientos en un lugar específico, clasificados por su dirección. Se presenta como un 
+diagrama circular, donde cada segmento del círculo indica una dirección del viento (norte, 
+noreste, este, etc.). La longitud de cada segmento representa la frecuencia o velocidad del 
+viento desde esa dirección. Las rosas de los vientos se utilizan para comprender los patrones 
+de viento predominantes en un área determinada, lo cual es crucial en diversos campos 
+como la meteorología, la ingeniería civil, la planificación urbana y la aviación. Ayudan a 
+visualizar de manera clara y concisa la distribución de la velocidad y dirección del viento, 
+facilitando el análisis y la toma de decisiones basadas en condiciones meteorológicas locales.
+
+===== p.10 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 11 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+3.4 Incertidumbre
+Tal como se plantea en la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL 
+SEIA” (2023) de manera textual “cualquier modelo (meteorológico o de calidad del aire) 
+representa una aproximación a la realidad y, en consecuencia, sus resultados tienen  
+incertidumbres asociadas”. Ante lo cual, para cuantificar esta incertidumbre, se realiza un 
+análisis entre los valores entregados por el modelo WRF (valores meteorológicos) y valores 
+observados. En este caso los datos son extraídos de la estación Viña del Mar, Junta de 
+Vecinos y Concón, pertenecientes a la red SINCA. 
+El modelo WRF simuló las condiciones meteorológicas dentro de un rango de 84 x 84 km 
+celdas de una dimensión de 1 x 1 km. Para efectos del análisis del ajuste de los datos 
+meteorológicos modelados se seleccionó una celda en donde se ubica la estación a analizar, 
+de donde se extrajeron los datos y se compararon con los valores observados.
+El análisis de incertidumbre propuesto por la  “GUÍA PARA EL USO DE MODELOS DE 
+CALIDAD DEL AIRE EN EL SEIA” (2023), se compone por análisis cuantitativo y cualitativo, 
+cuyas características se presentan a continuación.
+3.4.1 Análisis cuantitativo
+De acuerdo con la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” 
+(2023)  el  análisis  de  incertidumbre  del  modelo  meteorológico  debe  considerar  una 
+comparación cuantitativa entre los datos observados y modelados, utilizando como mínimo 
+las variables temperatura y velocidad del viento. Para ello, la guía recomienda el uso de 
+estadísticos como BIAS, MAE, RMSE y coeficiente de correlación lineal (r), los cuales 
+permiten evaluar el grado de ajuste del modelo respecto de las observaciones.
+A continuación, se presentan los estadísticos utilizados en este análisis:
+
+===== p.11 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 12 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+3.4.1.1 Correlación de Pearson (r)
+La correlación de los datos se determinó a través del ajuste por mínimos cuadrados, método 
+en el que existen dos parámetros principales: el coeficiente de correlación lineal de Pearson 
+(r) y el coeficiente de determinación (R
+2).
+El coeficiente de correlación lineal es una medida de relación de Pearson entre dos variables 
+y se usa para medir el grado de relación entre ellas. El rango de valores va desde el -1 al 1 y 
+está representado por la siguiente ecuación:
+Ecuación 1
+r xy= σ xy
+σ x.σ y
+Donde,
+
+σ xy, es la covarianza entre x e y;
+
+σx, es la desviación estándar de x;
+
+σy, es la desviación estándar de y.
+3.4.1.2 Coeficiente de determinación (R2)
+El coeficiente de determinación se utiliza como medida de eficiencia de la cobertura de datos 
+midiendo el porcentaje de variación entre las variables observadas y modeladas, es decir, 
+evalua la capacidad predictiva del modelo e indica la proporción de la varianza de los 
+resultados  que  puede  ser  explicado  por  el  modelo.  Los  valores  del  coeficiente  de 
+determinación varían de 0 a 1, siendo este último el valor óptimo y está determinada por la 
+siguiente relación.
+Ecuación 2
+R
+2=r xy
+2 =(
+σ xy
+σ x.σ y)
+2
+Donde,
+
+σ xy, es la covarianza entre x e y;
+
+σ x, es la desviación estándar de x;
+
+===== p.12 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 13 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+
+σ y, es la desviación estándar de y.
+A pesar de no ser solicitado por la autoridad, se agrega al análisis para complementar los 
+resultados de la correlación.
+3.4.1.3 Sesgo (BIAS)
+Este estadístico presenta la tendencia de los valores modelados a estar sobredimensionados 
+o subdimensionados respecto de los observados, a través del BIAS, el valor óptimo es 0 y su 
+cálculo se realiza según la siguiente ecuación.
+Ecuación 3
+BIAS=1
+n∑
+i=1
+n
+(Si−Oi)
+Donde,
+
+Si, es el valor modelado;
+
+Oi, es el valor observado;
+
+n, es el número de mediciones, en este caso el número de horas en el año de 
+modelación.
+3.4.1.4 Error absoluto medio (MAE)
+Se presenta el Mean Absolute Error (MAE), el cual es una medida del error promedio 
+absoluto del modelo con respecto a las observaciones. Este estadístico se calcula mediante a 
+la siguiente fórmula.
+Ecuación 4
+MAE=1
+n∑
+i=1
+n
+¿ Si−Oi∨¿¿
+Donde,
+
+Si, es el valor modelado;
+
+Oi, es el valor observado;
+
+n, es el número de mediciones, en este caso el número de horas en el año de 
+modelación.
+
+===== p.13 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 14 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+3.4.1.5 Raiz del error cuadrático medio (RMSE)
+El Root Mean Square Error (RMSE) es una medida del desempeño promedio del modelo, el 
+cual, según él SEA, es un “estimador de la frecuencia de las diferencias entre los valores  
+observados y modelados, siendo especialmente sensible a los valores atípicos, por lo tanto, 
+a mayor diferencia entre estos valores menor será el grado de ajuste de este estadístico”. 
+Esta estadística toma valores de 0 al infinito, donde 0 es el valor de una modelación sin 
+errores y va creciendo a medida que decrece la capacidad del modelo de representar la 
+realidad.
+Ecuación 5
+RMSE=√
+1
+n∑
+i=1
+n
+(Si−Oi)
+2
+Donde,
+
+Si, es el valor modelado;
+
+Oi, es el valor observado;
+
+n, es el número de mediciones, en este caso el número de horas en el año de 
+modelación.
+3.4.2 Análisis cualitativo
+El análisis cualitativo tiene por objetivo evaluar la capacidad del modelo meteorológico WRF 
+para representar el comportamiento de la atmósfera en el área de estudio, mediante la 
+comparación visual y descriptiva entre los datos observados y los resultados modelados.
+De acuerdo con los lineamientos de la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL 
+AIRE EN EL SEIA” (2023), este análisis debe considerar la revisión de gráficos comparativos 
+que permitan identificar la similitud entre observaciones y modelación en términos de 
+magnitud, variabilidad temporal y patrones predominantes. Para ello, se analizaron series de 
+tiempo, ciclos diarios, distribuciones de frecuencia y rosas de viento, considerando las 
+variables meteorológicas relevantes para la dispersión atmosférica.
+En particular, para la temperatura se evaluó la capacidad del modelo para reproducir el ciclo 
+diario y estacional, así como la ocurrencia de máximos y mínimos térmicos. Para la velocidad 
+
+===== p.14 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 15 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+del viento, se analizó la representación de las magnitudes predominantes, la variación diurna 
+y la frecuencia de vientos calmos o intensos. En el caso de la dirección del viento, se revisó la 
+capacidad del modelo para reproducir los rangos direccionales predominantes y los cambios 
+horarios o estacionales observados.
+Este análisis permite identificar posibles diferencias entre la modelación y las observaciones, 
+tales como sobreestimaciones, subestimaciones, desplazamientos en los máximos diarios o 
+mayor dispersión de los datos simulados. De esta forma, el análisis cualitativo complementa 
+el análisis cuantitativo, entregando una interpretación integral del desempeño del modelo 
+meteorológico  y  de  su  representatividad  para  el  posterior  análisis  de  dispersión  de 
+contaminantes en el área de influencia del Proyecto.
+4 Resultados
+4.1 Definición del año de modelación meteorológica
+Como explica la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” 
+(2023), por razones prácticas se recomienda una simulación de al menos un año completo 
+para contaminantes primarios. Para la elección de ese año, se recomienda que se analicen al 
+menos los tres años anteriores de datos observados en el dominio de modelación a la fecha 
+de presentación del Proyecto al SEIA, o en su defecto aquellos tres años anteriores que 
+cuenten con la data suficiente (75% según numeral 4.3.1 de esta Guía), y que en la revisión 
+de estos antecedentes se escoja el escenario (año) de peor condición para la dispersión de 
+los contaminantes.” 
+Debido a lo anterior, y considerando que la fecha de ingreso del Proyecto es el año 2026, se 
+analizaron las concentraciones observadas de MP10 y MP2,5 durante los años 2023, 2024 y 
+2025 en la estación Quilpué, tal como se menciona en el acápite Error: Reference source not
+found .
+4.1.1 Descripción de la estación y variables analizadas
+Estación Quilpué: como ha sido mencionado, esta estación pertenece a la red SINCA y 
+registra  datos  de  concentración  de  MP10  y  MP2,5.  Esta  estación  se  encuentra  en 
+
+===== p.15 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 16 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+funcionamiento desde septiembre del 2023.
+En la Tabla 4 se presenta el porcentaje de datos disponibles por año para cada variable. Se 
+observa que el año 2023 no cumple con el criterio mínimo de 75% de datos válidos, dado 
+que la estación Quilpué inició su operación en septiembre de dicho año. En consecuencia, los 
+registros  de  2023  se  presentan  como  antecedente  de  disponibilidad,  pero  no  son 
+considerados para el cálculo comparativo de las métricas anuales y diarias utilizadas en la 
+selección del año de modelación. Por su parte, los años 2024 y 2025 presentan porcentajes 
+de datos válidos superiores al 75% para MP10 y MP2,5, por lo que cuentan con suficiencia de 
+datos para el análisis.
+Tabla 4. Porcentaje de datos disponible por cada contaminante en la Estación 
+SINCA Quilpué 
+Año
+MP10
+MP2,5
+Horas 
+totales
+Datos 
+válidos
+Porcentaje 
+de datos 
+válidos
+Horas 
+totales
+Datos 
+válidos
+Porcentaje 
+de datos 
+válidos
+2023
+8.760
+2.885
+32,9 %
+8.760
+2.919
+33,3 %
+2024
+8.784
+7.879
+89,7 %
+8.784
+7.910
+90,0 %
+2025
+8.760
+8.668
+98,9 %
+8.760
+8.683
+99,1 %
+En la Tabla 5 se presentan las concentraciones de MP10 y MP2,5 para las métricas anual y 
+diaria. Cabe destacar que no se llevó a cabo el análisis estadístico para el año 2023, debido a 
+que no cuenta con al menos el 75% de datos válidos, con la finalidad de asegurar la 
+representatividad y confiabilidad de los resultados presentados.
+Tabla 5. Estadísticos calculados para cada variable a analizar durante el periodo 
+2023-2025
+Año
+MP10 Anual
+MP10 Diario
+MP2.5 Anual
+MP2.5 Diario
+2023
+-
+-
+-
+2024
+33,8
+75,0
+17,3
+52,5
+2025
+35,0
+89,2
+14,8
+46,5
+Con respecto a las métricas diarias, el mayor valor de MP10 se registra en el año 2025, con 
+89,2 µg/m³, mientras que para MP2,5 la mayor concentración ocurre durante el año 2024, 
+con 52,5 µg/m³. De igual forma, para las métricas anuales se evidencia una mayor 
+
+===== p.16 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 17 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+concentración de MP10 durante el año 2025, con 35,0 µg/m³, y de MP2,5 durante el año 
+2024, con 17,3 µg/m³.
+Si bien los máximos de ambos contaminantes no se presentan en el mismo año, no se cuenta 
+con antecedentes meteorológicos observados en la estación de calidad del aire que permitan 
+establecer, de manera directa, cuál de los años analizados representa la condición más 
+desfavorable  para  la  dispersión  atmosférica.  Asimismo,  las  estaciones  meteorológicas 
+cercanas disponibles no presentan condiciones de representatividad suficientes respecto del 
+área del Proyecto, por lo que su utilización para jerarquizar meteorológicamente los años 
+evaluados introduciría incertidumbre adicional.
+En atención a lo anterior, no es posible justificar técnicamente la elección del año de 
+modelación sobre la base de variables meteorológicas representativas del área del Proyecto. 
+En consecuencia, la selección debe sustentarse en los antecedentes observados de calidad 
+del aire disponibles y en el criterio establecido en la “GUÍA PARA EL USO DE MODELOS DE 
+CALIDAD DEL AIRE EN EL SEIA” (2023) para estos casos.
+En este contexto, se selecciona el año 2025 como año de modelación, por corresponder al 
+último año completo previo al ingreso del Proyecto al SEIA y por presentar, además, las 
+concentraciones más críticas de MP10, tanto para la métrica diaria como anual. Si bien para 
+MP2,5 las mayores concentraciones se registran en 2024, no se cuenta con antecedentes 
+meteorológicos observados y representativos del área del Proyecto que permitan establecer 
+que dicho año presenta condiciones de dispersión atmosférica más desfavorables que 2025. 
+Por lo anterior, la selección del año 2025 se fundamenta en el criterio establecido por la 
+“GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” (2023), ante la 
+ausencia de información que permita jerarquizar los años evaluados, y en su condición de 
+último año completo previo al ingreso del Proyecto.
+4.2 Caracterización de variables meteorológicas
+Se analizó el comportamiento de los parámetros meteorológicos utilizando los resultados del 
+modelo WRF, para el año 2025, en la zona de emplazamiento del Proyecto. Se analizó 
+información de temperatura, velocidad de viento, dirección del viento, precipitación y altura 
+de capa límite modelada en el punto de grilla que representa la ubicación del Proyecto. La 
+
+===== p.17 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 18 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+evaluación abarcó un período anual, desde el 1 de enero de 2025 a las 00:00 hasta el 31 de 
+diciembre de 2025 a las 23:00, con datos horarios.
+El campo de viento se caracterizó mediante rapidez y dirección, variables que describen la 
+magnitud y procedencia del flujo atmosférico. La interacción entre estos componentes 
+caracteriza el comportamiento del viento y su influencia en la dispersión de contaminantes 
+en el área de estudio.
+4.2.1 Caracterización de la temperatura
+4.2.1.1 Serie de tiempo
+En la Figura 2 se presenta la serie de tiempo de la temperatura modelada por WRF para el 
+año 2025. 
+Figura 2. Serie de tiempo de temperatura modelada
+Se observa que la modelación WRF presenta un ciclo anual de temperatura, con valores más 
+altos durante los meses estivales y una disminución hacia el periodo invernal. Las mayores 
+temperaturas promedio mensuales se registran principalmente entre enero y febrero, 
+mientras que los valores más bajos se presentan durante el invierno, especialmente entre 
+junio y agosto.
+El promedio mensual muestra una disminución progresiva desde el verano hacia el invierno, 
+alcanzando su valor mínimo alrededor de junio, para luego aumentar gradualmente durante 
+
+===== p.18 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 19 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+la primavera y hacia el mes de diciembre.
+Con respecto a la variabilidad de la temperatura modelada, se tiene que el 90% de los datos 
+se  encuentra  entre 9,68  °C y  23,20 °C,  correspondientes a  los  percentiles  5 y  95, 
+respectivamente.
+La temperatura media del periodo analizado es de 15,58 °C. En términos generales, la serie 
+evidencia  una  variabilidad  intraestacional  importante,  con  episodios  puntuales  de 
+temperaturas  más  altas  durante  verano  y  primavera,  y  temperaturas  más  bajas 
+concentradas principalmente durante los meses de invierno.
+4.2.1.2 Ciclo diario 
+En la Figura 3 se presenta el ciclo diario anual de la temperatura modelada en el punto de 
+grilla donde se ubica el Proyecto, para el año 2025.
+Figura 3. Ciclo diario de la temperatura obtenido de los datos del modelo WRF 
+2025
+Los datos indican que la temperatura promedio diaria aumenta progresivamente a partir de 
+las 06:00–07:00 horas, alcanzando su máximo durante la tarde, aproximadamente entre las 
+
+===== p.19 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 20 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+13:00 y 15:00 horas, con valores cercanos a 19 °C. Posteriormente, la temperatura 
+comienza a disminuir de forma sostenida hacia la noche y madrugada, alcanzando sus 
+valores más bajos durante las primeras horas del día, entre 04:00 y 06:00 horas, con 
+magnitudes cercanas a 13 °C.
+El sombreado azul representa el rango en que se encuentra el 90% de los datos modelados, 
+construido a partir de los percentiles 5 y 95 de la temperatura para cada hora del día. Se 
+observa que el límite superior del rango presenta sus mayores valores durante la tarde, 
+superando los 26 °C, mientras que el límite inferior se mantiene generalmente entre 8 °C y 
+13 °C, con valores más bajos durante la madrugada y primeras horas de la mañana.
+Respecto de la variabilidad estacional del ciclo diario, la figura muestra que las diferencias 
+más importantes ocurren entre las estaciones extremas:
+•
+En verano, la temperatura es considerablemente mayor que el promedio anual 
+durante todo el día, alcanzando valores máximos cercanos a 22 - 23 °C durante la 
+tarde.  Además,  esta  estación  se  ubica  próxima  al  percentil  95  de  los  datos, 
+especialmente entre el mediodía y la tarde.
+•
+En invierno, las temperaturas se mantienen por debajo del promedio anual y 
+cercanas al percentil 5, con valores mínimos durante la madrugada y un incremento 
+más gradual durante la mañana. El aumento térmico se vuelve más notorio a partir 
+de aproximadamente las 08:00 horas, alcanzando máximos cercanos a 16 °C durante 
+la tarde.
+Lo anterior descrito indica que la modelación WRF muestra un ciclo diario bien definido, 
+caracterizado por temperaturas mínimas durante la madrugada, un incremento durante la 
+mañana, máximos en horas de la tarde y un descenso progresivo durante la noche.
+4.2.1.3 Ciclo mensual
+La Figura 4 muestra el ciclo diario y mensual de las temperaturas. En el eje horizontal (eje 
+X) se representan las horas del día, mientras que en el eje vertical (eje Y) se encuentran los 
+meses del año. Los colores indican las variaciones de temperatura, donde tonalidades más 
+
+===== p.20 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 21 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+cálidas representan temperaturas más altas y tonalidades más frías, temperaturas más 
+bajas.
+Figura 4. Análisis del ciclo promedio diario y mensual de la temperatura 
+modelado por WRF, para el año 2025
+En la figura se observan dos ciclos bien definidos en la temperatura modelada por WRF: el 
+ciclo diario y el ciclo mensual.
+El ciclo diario se expresa en un aumento progresivo de la temperatura desde las primeras 
+horas de la mañana, aproximadamente a partir de las 06:00–08:00 horas, alcanzando los 
+valores máximos entre las 13:00 y 16:00 horas. Posteriormente, la temperatura desciende 
+gradualmente hacia la tarde y la noche, registrándose los valores más bajos durante la 
+madrugada y primeras horas del día.
+El ciclo mensual modifica claramente este patrón diario a lo largo del año. Las temperaturas 
+más altas se presentan durante los meses de verano, especialmente entre enero, febrero y 
+diciembre, cuando durante las horas centrales del día se alcanzan valores cercanos a 23 - 24 
+°C. En contraste, los meses de invierno, particularmente junio y julio, presentan las menores 
+temperaturas,  con  valores  entre  10  y  14  °C,  incluso  durante  las  horas  de  mayor 
+calentamiento diurno. También se muestra que en los meses cálidos no solo aumentan las 
+temperaturas máximas, sino que además se extiende la duración del periodo cálido durante 
+el día. En cambio, en invierno el periodo de temperaturas más altas es más breve y de menor 
+magnitud.
+
+===== p.21 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 22 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Resumiendo, la figura muestra que la modelación WRF reproduce una marcada variación 
+térmica horaria y estacional, con máximos diurnos más intensos en verano y una atenuación 
+importante del ciclo diario durante los meses invernales.
+4.2.2 Caracterización de la velocidad y dirección del viento
+4.2.2.1 Series de tiempo
+En la Figura 5 y Figura 6 se presenta la serie de tiempo de la velocidad y dirección del 
+viento modeladas en el punto del Proyecto, para el año 2025.
+Figura 5. Serie de tiempo modelada de la velocidad del viento
+La serie evidencia que la modelación WRF presenta una velocidad del viento con variabilidad 
+importante a lo largo del periodo analizado, registrándose episodios puntuales de mayor 
+intensidad durante distintos meses del año.
+A partir del promedio mensual, no se aprecia un ciclo anual tan marcado como en la 
+temperatura. La velocidad media se mantiene relativamente estable durante gran parte del 
+año, con valores cercanos a 5 - 6 m/s en la mayoría de los meses.
+El mayor promedio mensual se registra en octubre, con una velocidad cercana a 7,6 m/s, 
+mientras que uno de los valores más bajos se presenta en marzo, con aproximadamente 5,0 
+m/s.  Durante  el  resto  del  año,  los  promedios  mensuales  presentan  variaciones  más 
+acotadas.
+
+===== p.22 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 23 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Con respecto a la variabilidad de la velocidad del viento modelada, los datos indican que el 
+90% de los datos se encuentra entre 0,33 m/s y 11,26 m/s, correspondientes a los 
+percentiles 5 y 95, respectivamente.
+La velocidad media del viento durante el periodo analizado es de 5,73 m/s. Además, es 
+posible observar eventos puntuales con velocidades superiores al percentil 95, alcanzando 
+valores máximos cercanos a 14 m/s.
+De lo anterior se concluye que la modelación WRF muestra una velocidad del viento 
+promedio relativamente persistente durante el año, con alta variabilidad horaria y eventos 
+esporádicos de mayor intensidad.
+Figura 6. Serie de tiempo modelada de la dirección del viento
+Con respecto a la dirección del viento modelada por WRF, la serie muestra una dirección 
+predominante entre los 180° y 200° durante gran parte del periodo analizado. Esto indica 
+que los vientos predominantes en la zona de emplazamiento del Proyecto provienen 
+principalmente del sur (S) y sur suroeste (SSO).
+Adicionalmente,  se  identifica  un  segundo  grupo  de  direcciones  frecuentes  entre 
+aproximadamente 280° y 330°, asociado a vientos provenientes del oeste-noroeste (ONO), 
+noroeste (NO) y norte-noroeste (NNO). Este patrón aparece de forma recurrente a lo largo 
+del año, aunque con mayor dispersión que el rango principal.
+
+===== p.23 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 24 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+La serie también muestra episodios puntuales con direcciones variables entre 0° y 100°, los 
+cuales se presentan de manera más aislada y con menor persistencia temporal.
+Es decir, la modelación WRF muestra que la dirección del viento en el área de análisis está 
+dominada por flujos provenientes del sector sur a sur suroeste, con ocurrencias secundarias 
+desde el cuadrante noroeste.
+4.2.2.2 Ciclo diario
+En la Figura 7 y Figura 8 se presenta el ciclo diario anual de la velocidad y dirección del 
+viento modelada en el punto del Proyecto para el año 2025.
+Figura 7. Ciclo diario del viento obtenido de los datos del modelo WRF 2025
+Se observa un ciclo diario bien definido de la velocidad del viento en la modelación WRF. En 
+términos generales, la velocidad disminuye gradualmente durante la madrugada y primeras 
+horas de la mañana, alcanzando un mínimo alrededor de las 08:00 - 09:00 horas, con 
+valores cercanos a 4,3 m/s. Posteriormente, aumenta de forma sostenida durante el día, 
+llegando a un máximo entre las 17:00 y 18:00 horas, con magnitudes próximas a 7,2 m/s, 
+para luego disminuir nuevamente durante la noche.
+El análisis del 90% de los datos muestra una variabilidad importante a lo largo del día. El 
+
+===== p.24 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 25 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+límite inferior del rango se mantiene cercano a 0 - 1 m/s durante la madrugada, aumenta 
+progresivamente durante el día y alcanza valores del orden de 3 m/s en horas de la tarde. 
+Por su parte, el límite superior varía aproximadamente entre 9 y 13 m/s, con los valores más 
+altos también concentrados durante la tarde y primeras horas de la noche.
+Respecto  de  la  variabilidad  estacional  del  ciclo  diario,  se  identifica  que  las  mayores 
+diferencias se presentan principalmente durante la tarde. En verano, la velocidad del viento 
+alcanza los valores más altos, con máximos cercanos a 8 m/s, mientras que en invierno se 
+registran magnitudes menores y un ciclo diario más atenuado. Primavera y otoño presentan 
+un comportamiento intermedio, con una evolución temporal similar al promedio diario.
+En síntesis, la modelación WRF muestra un patrón diario consistente, caracterizado por 
+velocidades menores durante la mañana y mayores intensidades durante la tarde, además 
+de una marcada modulación estacional en la magnitud del viento.
+Figura 8. Ciclo de dirección del viento obtenido de los datos del modelo WRF 
+2025
+Por otro lado, en relación con el ciclo diario de la dirección del viento, es posible observar que 
+durante la madrugada y primeras horas de la mañana (aproximadamente entre las 00:00 y 
+07:00 horas) el viento predominante proviene principalmente del sur (S), con una leve 
+componente hacia el sur suroeste (SSO).
+
+===== p.25 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 26 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+A  partir  de  alrededor  de  las  08:00  horas,  la  dirección  del  viento  comienza  a  girar 
+progresivamente hacia el oeste, pasando por el sur suroeste (SSO) y alcanzando direcciones 
+del oeste-suroeste (OSO) entre aproximadamente las 10:00 y 13:00 horas, periodo en que 
+se registra la componente más occidental del ciclo diario.
+Posteriormente,  desde  las  14:00  horas  en  adelante,  el  viento  rota  gradualmente 
+nuevamente hacia el sur, pasando desde OSO a SO, luego a SSO, y finalizando el día con 
+direcciones cercanas al sur.
+En términos generales, el ciclo diario muestra una rotación intradiaria moderada, con 
+predominio de vientos del sector sur a sur suroeste durante gran parte del día, y una 
+desviación temporal hacia el oeste-suroeste durante las horas centrales.
+4.2.2.3 Ciclo mensual
+La Figura 9 muestra el ciclo diario y mensual de la velocidad y dirección del viento. En el eje 
+horizontal (eje X) se representan las horas del día, mientras que en el eje vertical (eje Y) se 
+encuentran los meses del año. Los colores indican las variaciones de la velocidad del viento, 
+donde tonalidades más cálidas representan magnitudes más altas y tonalidades más frías, 
+magnitudes más bajas. Las flechas negras indican la dirección promedio desde la cual sopla 
+el viento.
+Figura 9. Análisis del ciclo promedio diario y mensual de la velocidad y dirección 
+del viento modelado por WRF, para el año 2025
+
+===== p.26 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 27 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Se observa un ciclo diario y estacional bien definido de la velocidad del viento modelada por 
+WRF en la zona de emplazamiento del Proyecto. En general, las menores velocidades se 
+registran durante la madrugada y primeras horas de la mañana, mientras que los valores 
+más altos se presentan desde el mediodía hacia la tarde y primeras horas de la noche.
+La velocidad mínima del viento ocurre principalmente entre las 06:00 y 10:00 horas, con 
+valores  más  bajos  durante  algunos  meses  de  fines  de  verano  y  otoño,  alcanzando 
+magnitudes del orden de 2 a 4 m/s. Posteriormente, la intensidad aumenta progresivamente 
+durante el día.
+Las mayores velocidades se concentran entre las 14:00 y 20:00 horas, dependiendo del mes. 
+Los valores más intensos se aprecian principalmente en octubre y, en menor medida, 
+durante febrero y diciembre, alcanzando magnitudes cercanas a 9 y 10 m/s. En contraste, 
+durante el invierno el ciclo diario es más atenuado, con velocidades generalmente más 
+uniformes y menores.
+Durante el periodo estival y primavera, la velocidad del viento presenta una mayor amplitud 
+diaria y una persistencia más prolongada de valores altos durante la tarde. En cambio, en 
+invierno las magnitudes son más moderadas y la variación horaria es menos marcada, 
+predominando valores en torno a 4 -6 m/s.
+Con respecto a la dirección del viento, se identifica una variación tanto horaria como 
+estacional. En general, durante la madrugada y primeras horas del día las direcciones son 
+más variables entre meses, mientras que desde la mañana tardía y durante la tarde se 
+aprecia una mayor coherencia en el patrón direccional, con una rotación progresiva y una 
+predominancia de flujos del sector sur a suroeste en gran parte del año.
+En general, la figura muestra que la modelación WRF representa un régimen de viento con 
+intensificación diurna, máximos más notorios en los meses cálidos y de transición, y una 
+dirección que evoluciona de forma sistemática a lo largo del día.
+
+===== p.27 =====
+Estudio de Impacto Ambiental
+Modelación Meteorológica
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 28 de 71
+4.2.2.4 Rosa de viento anual y estacional
+Se analizó el comportamiento de los parámetros meteorológicos utilizando datos modelado por el modelo WRF, para el año 2025. Se 
+analizó información de velocidad de viento y dirección del viento desde el 1 de enero de 2025 a las 00:00 hasta el 31 de diciembre de 
+2025 a las 23:00, con datos horarios.
+A continuación, se representan la rosa de los vientos y las frecuencias de la rapidez del viento construidas con los datos modelados para 
+el punto de emplazamiento del proyecto.
+Tabla 6. Rosa y distribución de la velocidad del viento, modeladas por WRF
+Rosa y distribución de la velocidad del viento
+Características
+Anual
+-Las direcciones predominantes del viento modelado se concentran principalmente en el 
+sector sur, destacando las componentes S, SSO y SO. En particular, la dirección sur (S) 
+presenta la mayor frecuencia, seguida por la componente sur -suroeste (SSO), lo que indica 
+un predominio de vientos provenientes del cuadrante sur.
+-La rosa de los vientos muestra que las mayores frecuencias se asocian a velocidades 
+moderadas y altas provenientes principalmente del sur y sur - suroeste, especialmente en los 
+rangos superiores a 3,6 m/s.
+-La distribución de la velocidad del viento indica una frecuencia de vientos calmos de 6,9%. En 
+tanto, las categorías de mayor velocidad presentan las frecuencias más altas: el rango 5,7–8,8 
+m/s alcanza un 23,4%, mientras que las velocidades mayores a 8,8 m/s representan un 
+24,4%, siendo esta última la categoría predominante.
+-Finalmente, la modelación WRF muestra un régimen de viento dominado por componentes 
+del sur a sur suroeste, con una alta proporción de velocidades moderadas a intensas.
+
+===== p.28 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 29 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Rosa y distribución de la velocidad del viento
+Características
+Verano
+-Para el periodo de verano, las direcciones predominantes del viento modelado se concentran 
+principalmente en el cuadrante sur, destacando las componentes sur - suroeste (SSO) y sur 
+(S). En particular, la dirección SSO presenta la mayor frecuencia, seguida por la componente 
+S, lo que indica un predominio de vientos provenientes del sector sur durante esta estación.
+-La rosa de los vientos muestra que las mayores frecuencias se asocian principalmente a 
+velocidades moderadas y altas provenientes del sur - suroeste y sur, especialmente en los 
+rangos superiores a 3,6 m/s.
+-La distribución de la velocidad del viento en verano indica una frecuencia de vientos calmos 
+de 5,3%. Las categorías con mayor frecuencia corresponden a velocidades mayores a 8,8 
+m/s, con 25,7%, seguidas por el rango 3,6–5,7 m/s, con 22,5%, y el rango 5,7–8,8 m/s, con 
+21,1%.
+-En general, durante el verano la modelación WRF muestra un régimen de viento dominado 
+por componentes del sur - suroeste a sur, con una alta proporción de velocidades moderadas 
+a intensas.
+
+===== p.29 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 30 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Rosa y distribución de la velocidad del viento
+Características
+Otoño
+-Para el periodo de otoño, las direcciones predominantes del viento modelado se concentran 
+principalmente en el cuadrante sur, destacando las componentes sur (S) y sur suroeste (SSO). 
+En particular, la dirección S presenta la mayor frecuencia, seguida por la componente SSO, lo 
+que indica un predominio de vientos provenientes del sector sur durante esta estación.
+-La rosa de los vientos muestra que las mayores frecuencias se asocian principalmente a 
+velocidades moderadas y altas provenientes del sur y sur suroeste, especialmente en los 
+rangos superiores a 3,6 m/s.
+-La distribución de la velocidad del viento en otoño indica una frecuencia de vientos calmos de 
+9,5%. Las categorías con mayor frecuencia corresponden a velocidades mayores a 8,8 m/s, 
+con 22,7%, seguidas por el rango 3,6–5,7 m/s, con 20,7%, y el rango 5,7–8,8 m/s, con 
+19,7%.
+-En conclusión, durante el otoño la modelación WRF muestra un régimen de viento dominado 
+por componentes del sur a sur suroeste, con una proporción importante de velocidades 
+moderadas a intensas.
+
+===== p.30 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 31 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Rosa y distribución de la velocidad del viento
+Características
+Invierno
+-Para  el  periodo  de  invierno,  las  direcciones  predominantes  del  viento  modelado  se 
+concentran principalmente en la componente sur (S), la cual presenta la mayor frecuencia 
+durante  esta  estación.  También  se  identifican  ocurrencias  secundarias  en  direcciones 
+cercanas al sur suroeste (SSO) y, en menor medida, en el cuadrante norte.
+-La rosa de los vientos muestra que las mayores frecuencias se asocian principalmente a 
+velocidades moderadas y altas provenientes del sur, especialmente en los rangos superiores a 
+3,6 m/s.
+-La distribución de la velocidad del viento en invierno indica una frecuencia de vientos calmos 
+de 7,8%. Las categorías con mayor frecuencia corresponden al rango 5,7–8,8 m/s, con 
+29,7%, seguido por las velocidades mayores a 8,8 m/s, con 19,4%, y el rango 3,6–5,7 m/s, 
+con 17,2%.
+-Se concluye que, durante el invierno la modelación WRF muestra un régimen de viento 
+dominado por la componente sur, con una proporción importante de velocidades moderadas 
+a intensas, especialmente entre 5,7 y 8,8 m/s.
+
+===== p.31 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 32 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Rosa y distribución de la velocidad del viento
+Características
+Primavera
+-Para el periodo de  primavera, las direcciones predominantes del viento modelado  se 
+concentran principalmente en el cuadrante sur, destacando las componentes sur (S) y sur 
+suroeste (SSO). En particular, la dirección S presenta la mayor frecuencia, seguida por la 
+componente SSO, lo que indica un predominio de vientos provenientes del sector sur durante 
+esta estación.
+-La rosa de los vientos muestra que las mayores frecuencias se asocian principalmente a 
+velocidades moderadas y altas provenientes del sur y sur suroeste, especialmente en los 
+rangos superiores a 3,6 m/s.
+-La distribución de la velocidad del viento en primavera indica una frecuencia de vientos 
+calmos de 4,9%. Las categorías con mayor frecuencia corresponden a velocidades mayores a 
+8,8 m/s, con 30,0%, seguidas por el rango 5,7–8,8 m/s, con 23,3%, y el rango 3,6–5,7 m/s, 
+con 19,8%.
+-En síntesis,  durante la primavera la modelación  WRF muestra un régimen de viento 
+dominado por componentes del sur a sur suroeste, con una alta proporción de velocidades 
+moderadas a intensas.
+
+===== p.32 =====
+Estudio de Impacto Ambiental
+Modelación Meteorológica
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 33 de 71
+4.2.3 Caracterización de la precipitación
+4.2.3.1 Series de tiempo
+En la Figura 10 se puede observar la serie de tiempo de la precipitación modelada por WRF 
+durante el año 2025.
+Figura 10. Serie de tiempo modelada de la precipitación, año 2025.
+Es posible observar que la precipitación modelada por WRF en la zona de emplazamiento del 
+Proyecto  presenta  un  comportamiento  esporádico,  con  eventos  concentrados 
+principalmente entre los meses de mayo y octubre.
+Los eventos de mayor magnitud se registran durante el periodo invernal, especialmente 
+entre junio y agosto, donde se identifican los máximos de precipitación. El valor más alto 
+ocurre alrededor de agosto, alcanzando aproximadamente 25 mm, mientras que otro evento 
+importante se registra en junio, con valores cercanos a 22 mm.
+Lo anterior muestra que la modelación WRF indica que las precipitaciones en la zona de 
+emplazamiento del Proyecto se presentan de forma puntual y concentrada en la temporada 
+fría, con episodios aislados de mayor intensidad durante el invierno.
+
+===== p.33 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 34 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+4.2.3.2 Ciclo mensual
+En la Figura 11 se presenta la precipitación mensual modelada por WRF, para el año 2025. 
+Figura 11. Precipitación mensual para el año 2025, modelado por WRF
+La distribución mensual evidencia que, en el área de estudio, la precipitación modelada se 
+concentra principalmente entre marzo y noviembre,  con una marcada predominancia 
+durante los meses de invierno.
+El mes con mayor precipitación acumulada corresponde a agosto, con un total de 138,2 mm, 
+seguido por junio con 134,6 mm y julio con 108,0 mm.
+Durante los meses estivales, específicamente enero, febrero y diciembre, no se registra 
+precipitación acumulada. En tanto, los meses de transición presentan montos menores, 
+destacando mayo con 45,5 mm, septiembre con 52,4 mm y octubre con 9,2 mm.
+En  resumen,  la  precipitación  modelada  presenta  un  régimen  estacional  claro,  con 
+acumulados concentrados durante el periodo frío del año y valores nulos o muy bajos 
+
+===== p.34 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 35 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+durante la época estival.
+4.2.4 Altura de la capa límite
+4.2.4.1 Series de tiempo
+En la Figura 12 se puede observar la serie de tiempo de la altura de la capa límite modelada 
+por WRF, para el año 2025.
+Figura 12. Serie de tiempo de la altura de la capa ímite modelada por WRF, año 
+2025
+La figura muestra que la modelación WRF presenta una alta variabilidad temporal en la 
+altura de la capa límite durante el periodo analizado, con eventos puntuales de mayor 
+magnitud a lo largo del año.
+A partir de los promedios mensuales, no se identifica un ciclo anual completamente 
+marcado. Sin embargo, se aprecia un aumento de la altura promedio durante el segundo 
+semestre, especialmente entre agosto y noviembre, periodo en que los valores medios 
+mensuales son mayores respecto de los primeros meses del año.
+Los valores promedio mensuales se mantienen, en general, cercanos a los 300- 500 m, con 
+los mayores promedios durante agosto, septiembre y noviembre, donde la altura de la capa 
+límite alcanza valores medios cercanos o superiores a 450 m.
+
+===== p.35 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 36 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Con respecto a la variabilidad de la variable, se observa que el 90% de los datos se 
+encuentra  entre  114,55  m  y  790,14  m,  correspondientes  a  los  percentiles  5  y  95, 
+respectivamente.
+La altura media de la capa límite durante el periodo analizado es de 386,27 m. Además, se 
+registran eventos puntuales que superan ampliamente el percentil 95, alcanzando valores 
+máximos cercanos o superiores a 1.600 m, especialmente durante el segundo semestre.
+En resumen, la modelación WRF muestra una altura de la capa límite predominantemente 
+moderada, con gran variabilidad horaria y episodios aislados de mayor desarrollo vertical, 
+principalmente entre invierno tardío y primavera.
+4.2.4.2 Ciclo diario
+En la Figura 13 se puede observar el ciclo diario de la altura de la capa límite modelada por 
+WRF, para el año 2025.
+Figura 13. Ciclo diario modelado de la altura de la capa límite, año 2025.
+La figura muestra un ciclo diario bien definido de la altura de la capa límite modelada por 
+WRF. Los valores más bajos se registran durante la madrugada y primeras horas de la 
+
+===== p.36 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 37 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+mañana, con un mínimo cercano a 250 - 270 m entre las 04:00 y 06:00 horas.
+A partir de las 07:00 - 08:00 horas, la altura de la capa límite comienza a aumentar de forma 
+progresiva, alcanzando sus valores máximos entre las 12:00 y 15:00 horas, con magnitudes 
+cercanas a 580 – 590 m. Posteriormente, la variable disminuye gradualmente durante la 
+tarde y noche, hasta cerrar el ciclo diario con valores cercanos a 300 m hacia las 23:00 
+horas.
+Del análisis del 90% de los datos, se observa que el límite inferior, correspondiente al 
+percentil 5, se mantiene cercano a 100 - 150 m durante la madrugada, aumenta durante el 
+día y alcanza valores del orden de 350 - 400 m en horas de la tarde. Por su parte, el límite 
+superior, correspondiente al percentil 95, presenta una mayor variabilidad, con valores 
+cercanos a 500 - 600 m durante la noche y madrugada, y máximos superiores a 1.000 m 
+entre el mediodía y primeras horas de la tarde.
+Respecto de la variabilidad estacional del ciclo diario, se identifica que las diferencias más 
+relevantes se presentan durante el periodo diurno, especialmente entre las 09:00 y 18:00 
+horas.
+•
+En primavera e invierno, la altura de la capa límite se ubica por sobre el promedio 
+anual durante gran parte del día, alcanzando los mayores valores cerca del mediodía 
+y la tarde.
+•
+En verano y otoño, los valores se mantienen levemente por debajo del promedio 
+anual durante varias horas del día, especialmente durante la tarde.
+En conclusión, la modelación WRF muestra un desarrollo diurno claro de la capa límite, 
+caracterizado por valores bajos durante la noche y madrugada, crecimiento durante la 
+mañana, máximos al mediodía-tarde y una disminución progresiva hacia la noche.
+4.2.4.3 Ciclo mensual
+En la Figura 14 se presenta el ciclo diario promedio para cada mes del año y de la altura de 
+la capa límite modelada en la zona de emplazamiento del Proyecto (medida en metros).
+
+===== p.37 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 38 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Figura 14. Ciclo diario de altura de la capa límite
+Se puede observar que el ciclo diario de la altura de la capa límite presenta una variación 
+clara a lo largo del día. Las menores alturas se registran durante la madrugada y primeras 
+horas de la mañana, principalmente entre las 00:00 y 08:00 horas, así como también 
+durante la noche, entre las 20:00 y 23:00 horas.
+A partir de aproximadamente las 09:00 horas, la altura de la capa límite comienza a 
+aumentar progresivamente, alcanzando sus valores máximos entre el mediodía y la tarde, 
+principalmente  entre  las  12:00  y  16:00  horas.  Posteriormente,  la  variable  disminuye 
+gradualmente hacia las horas nocturnas, cerrando el ciclo diario.
+En cuanto a la variación mensual, se evidencia que este ciclo diario presenta cambios 
+importantes a lo largo del año. Los valores más altos se concentran principalmente entre 
+agosto y noviembre, con máximos destacados durante septiembre y noviembre, cuando la 
+altura de la capa límite alcanza valores cercanos al rango superior de la escala.
+En contraste, los valores más bajos se presentan durante la noche y madrugada en gran 
+parte del año, especialmente entre enero y julio, con alturas cercanas a 170 - 300 m. 
+Durante  estos  meses,  el  desarrollo  diurno  de  la  capa  límite  es  más  moderado  en 
+comparación con el segundo semestre.
+En términos generales, la modelación WRF muestra un ciclo diario bien definido de la altura 
+
+===== p.38 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 39 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+de la capa límite, caracterizado por mínimos nocturnos y máximos diurnos, con una 
+intensificación más marcada durante el segundo semestre del año.
+4.3 Análisis de incertidumbre
+4.3.1 Análisis cuantitativo
+Los resultados del ajuste del modelo meteorológico se presentan en la Tabla 7, en donde se 
+observa como el modelo cumple con todos los criterios para los estadísticos solicitados al 
+realizar el análisis de incertidumbre con el punto de emplazamiento representativo de las 
+estaciones Viña del Mar, Junta de Vecinos y Concón.
+Tabla 7. Resultados estadísticos obtenidos por la modelación
+Variable
+Correlación 
+lineal (r)
+Coeficiente de 
+determinación (r
+2)
+BIAS
+MAE
+RMSE
+Estación Viña del Mar
+Temperatura 
+(°C)
+0,8
+0,6
+2,1
+2,8
+3,5
+Rapidez del 
+viento (m/s)
+0,4
+0,2
+2,3
+2,3
+3,0
+Estación Junta de Vecinos
+Temperatura 
+(°C)
+0,8
+0,6
+0,3
+1,9
+2,5
+Rapidez del 
+viento (m/s)
+0,6
+0,3
+1,3
+1,6
+2,2
+Estación Concón
+Temperatura 
+(°C)
+0,8
+0,6
+1,2
+2,1
+2,6
+Rapidez del 
+viento (m/s)
+0,6
+0,3
+0,4
+1,2
+1,6
+Métricas estadísticas propuestas por la guía de modelación SEA recomendables en el 
+análisis de incertidumbre para las variables meteorológicas1
+Temperatura 
+(°C)
+≥0,8
+-
+[-4, 4]
+≤ 4
+≤ 4,5
+Rapidez del 
+viento (m/s)
+≥0,6
+-
+[-2,5, 2,5]
+≤ 3
+≤3,5
+1 Estas métricas se obtienen a partir de la Tabla 2 de la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL 
+AIRE EN EL SEIA” (2023).
+
+===== p.39 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 40 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Para la temperatura (°C), los resultados obtenidos en las estaciones Viña del Mar, Junta de 
+Vecinos y Concón evidencian una correlación lineal (r) de 0,8 en los tres casos, mientras que 
+el coeficiente de determinación (r²) alcanzó valores de 0,6 para las estaciones Viña del Mar y 
+Junta de Vecinos y la estación Concón. Estos resultados indican una relación fuerte entre los 
+valores observados y modelados, cumpliendo con el valor recomendado por la “GUÍA PARA 
+EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” (2023). 
+El sesgo (BIAS) fue de 2,1 °C en Viña del Mar, 0,3 °C en Junta de Vecinos y 1,2 °C en 
+Concón. Asimismo, los errores absolutos (MAE y RMSE) variaron entre 1,9 °C y 2,8 °C para el 
+MAE, y entre 2,5 °C y 3,5 °C para el RMSE. Todos los estadísticos se encuentran dentro de 
+los rangos sugeridos en la guía (BIAS entre -4 y 4 °C, MAE ≤ 4 °C y RMSE ≤ 4,5 °C), lo que 
+refleja un buen ajuste del modelo para esta variable en las tres estaciones analizadas.
+En cuanto a la rapidez del viento (m/s), las estaciones Junta de Vecinos y Concón 
+presentaron una correlación lineal (r) de 0,6, mientras que en la estación Viña del Mar fue de 
+0,4. El coeficiente de determinación (r²) alcanzó valores de 0,2 en Viña del Mar y 0,3 en las 
+estaciones Junta de Vecinos y Concón. El sesgo (BIAS) fue de 2,3 m/s en Viña del Mar, 1,3 
+m/s en Junta de Vecinos y 0,4 m/s en Concón, mientras que los valores de MAE fluctuaron 
+entre 1,2 m/s y 2,3 m/s, y los valores de RMSE entre 1,6 m/s y 3,0 m/s. 
+Estos resultados indican que la velocidad del viento cumple los criterios recomendados en la 
+“GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” (2023) para la 
+estación Concón y Junta de Vecinos. Por otro lado, la estación Viña del Mar cumple con los 
+criterios  para  el  BIAS,  MAE  y  RSME,  indicando  una  representación  aceptable de las 
+magnitudes modeladas, pero no cumple los criterios para la correlación, indicando que hay 
+problemas reproduciendo la variabilidad en dicho punto.
+
+===== p.40 =====
+Estudio de Impacto Ambiental
+Modelación Meteorológica
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 41 de 71
+4.3.2 Análisis cualitativo
+4.3.2.1 Estación Viña del Mar
+4.3.2.1.1 Temperatura modelada y observada
+En  se presenta la caracterización entre la temperatura horaria observada en la estación Viña del Mar y las simuladas por el modelo WRF 
+del año 2025 en el punto de grilla más representativo a la zona de emplazamiento de la estación.
+Tabla 8. Temperatura modelada con WRF y observada en la estación Viña del Mar
+Temperatura simulada y observada
+Características
+Serie de Tiempo – Temperatura
+-La serie de tiempo superior corresponde a las observaciones en la estación Viña 
+del Mar, mientras que inferior corresponde a la modelación WRF.
+Se observa que el modelo logra representar adecuadamente el ciclo anual de la 
+temperatura,  reproduciendo  temperaturas  más  elevadas  durante  los  meses 
+estivales y valores menores durante el periodo invernal. Asimismo, la modelación 
+refleja la variabilidad temporal observada a lo largo del año, aunque con una 
+menor dispersión en algunos periodos. 
+Del análisis del rango que abarca el 90% de los datos, se aprecia que la 
+temperatura modelada se distribuye entre 12,40 °C y 24,65 °C, mientras que la 
+temperatura observada presenta un rango entre 8,33 °C y 22,64 °C. Esto indica 
+que el modelo tiende a representar un rango térmico más concentrado hacia 
+temperaturas medias-altas respecto de las observaciones. 
+La media anual observada fue de 15,09 °C, mientras que la media anual modelada 
+alcanzó 17,24 °C, evidenciando una sobreestimación de aproximadamente 2,15 
+°C por parte del modelo.
+
+===== p.41 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 42 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Correlación
+-La  temperatura  modelada  tiene  una  correlación  positiva  con  los  valores 
+observados en la estación Viña del Mar, cuyo valor es de 0,8.
+-A su vez, el coeficiente de determinación sugiere que el modelo es capaz de 
+representar el 60% de la variabilidad observada (R2 = 0,60).
+Frecuencia
+-El modelo reproduce adecuadamente la distribución de temperaturas durante el 
+año, observándose que el rango de 10 a 20 °C corresponde al intervalo de mayor 
+frecuencia tanto en las observaciones como en la modelación. En este rango, la 
+frecuencia modelada alcanza un 80,2 %, mientras que la observada corresponde 
+a un 75,6 %. 
+-Las mayores diferencias entre las observaciones y el modelo se presentan en los 
+rangos de 0 a 10 °C y 20 a 30 °C. Para el intervalo de 0 a 10 °C, la frecuencia 
+observada es de 10,8 %, mientras que la modelada es de 0,4 %, evidenciando 
+una subrepresentación de temperaturas bajas por parte del modelo. En el rango 
+de 20 a 30 °C, la frecuencia modelada alcanza un 18,9 %, superior al 13,3 % 
+observado, indicando una sobreestimación de temperaturas medias-altas. 
+-El valor del BIAS indica que la temperatura promedio anual modelada es 2,1 °C 
+mayor que la observada, reflejando una tendencia del modelo a sobreestimar la 
+temperatura en la estación Viña del Mar.
+
+===== p.42 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 43 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Ciclo promedio diario
+-La figura presenta el ciclo promedio diario de la temperatura durante el periodo 
+analizado, comparando los datos modelados con los datos observados. La línea 
+azul representa la temperatura modelada, mientras que la línea roja corresponde 
+a la temperatura observada.
+-En términos generales, el modelo reproduce adecuadamente el ciclo diurno-
+nocturno  de  la  temperatura,  capturando  el  aumento  progresivo  durante  la 
+mañana, el máximo térmico durante la tarde y el posterior descenso hacia la 
+noche. Esto se refleja en una alta correlación entre ambas series, con un valor de 
+0,99.
+-Se tiene que el modelo tiende a sobreestimar la temperatura observada durante 
+todo el día. Las mayores diferencias se presentan principalmente durante la 
+madrugada y primeras horas de la mañana, entre las 00:00 y 07:00 horas, así 
+como también durante la tarde, especialmente entre las 14:00 y 18:00 horas. A 
+pesar de esta sobreestimación, el comportamiento temporal de ambas curvas es 
+muy similar.
+4.3.2.1.2 Velocidad modelada y observada
+En Tabla 9 se presenta la caracterización entre la velocidad del viento horaria observada en la estación Viña del Mar y las simuladas por 
+el modelo WRF del año 2025 en el punto de grilla más representativo a la zona de emplazamiento de la estación.
+
+===== p.43 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 44 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Tabla 9. Velocidad del viento modelado por WRF y observado en la estación Viña del Mar
+Velocidad del viento simulada y observada
+Características
+Serie de Tiempo Velocidad del viento
+-La serie de tiempo superior corresponde a las observaciones en la estación Viña 
+del Mar, mientras que la inferior corresponde a la simulación del modelo WRF.
+-Se aprecia que el modelo reproduce de manera general la variabilidad temporal 
+de  la  velocidad  del  viento  durante  el  periodo  analizado,  manteniendo  el 
+comportamiento  estacional  observado  a  lo  largo  del  año.  Sin  embargo,  la 
+simulación presenta una mayor dispersión y magnitud en comparación con los 
+datos observados.
+-Existen  diferencias  importantes  entre  los valores  observados  y  modelados, 
+evidenciándose una sobreestimación sistemática de la velocidad del viento por 
+parte  del  modelo.  Los  registros  modelados  alcanzan  valores  máximos 
+considerablemente superiores a los observados durante gran parte del periodo 
+analizado.
+-Del análisis del rango que abarca el 90 % de los datos, se aprecia que la 
+velocidad del viento modelada se distribuye entre 0,46 y 7,22 m/s, mientras que la 
+velocidad observada se concentra entre 0,09 y 1,47 m/s. Esto confirma que el 
+modelo representa un rango de variabilidad significativamente mayor respecto de 
+las observaciones
+-La velocidad media anual observada fue de 0,61 m/s, mientras que la modelada 
+alcanzó  2,91  m/s,  evidenciando  una  sobreestimación  promedio  de 
+aproximadamente 2,3 m/s por parte del modelo WRF.
+
+===== p.44 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 45 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Serie de tiempo – Dirección del viento
+-La figura presenta la evolución temporal de la dirección del viento durante el 
+periodo analizado. El panel superior corresponde a las observaciones, mientras 
+que el panel inferior representa la simulación del modelo WRF.
+-El análisis indica la presencia de rangos predominantes de dirección del viento 
+tanto en las observaciones como en la modelación. En ambos casos, destaca un 
+grupo importante de datos entre los 300° y 360°, asociado a vientos provenientes 
+del noroeste, norte-noroeste y norte. Este patrón es reproducido por el modelo, 
+aunque con una mayor dispersión y variabilidad temporal.
+-Un segundo rango relevante se concentra aproximadamente entre los 50° y 
+200°, correspondiente a vientos provenientes del este, sureste y sur. Este 
+comportamiento también es representado por el modelo WRF, especialmente 
+desde mediados del periodo analizado en adelante, aunque con diferencias en la 
+concentración de los datos y en la frecuencia de ocurrencia respecto de las 
+observaciones.
+-En las observaciones se aprecia una mayor concentración de direcciones entre 
+50° y 100° durante gran parte del año, junto con un cambio más marcado hacia 
+valores entre 150° y 250° durante el último trimestre. En la simulación WRF, este 
+cambio también se identifica, aunque aparece con mayor dispersión y con 
+presencia más frecuente de valores intermedios y extremos.
+-En conclusión, el modelo reproduce los principales patrones temporales de la 
+dirección  del  viento  observada.  Sin  embargo,  la  simulación  presenta  una 
+dispersión más amplia de las direcciones y una menor definición de algunos 
+rangos  predominantes,  lo  que  genera  diferencias  en  la  concentración  y 
+continuidad de los valores respecto de las observaciones.
+
+===== p.45 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 46 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Correlación
+-De la figura se observa que existe una correlación positiva entre la rapidez del 
+viento observada y la modelada, siendo el valor del coeficiente de correlación 
+lineal de 0,40.
+-Por otro lado, el coeficiente de determinación sugiere que el modelo es capaz de 
+representar el 20% del comportamiento observado (R2 = 0,20). 
+
+===== p.46 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 47 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Frecuencia
+-De la frecuencia de magnitudes de la velocidad del viento en distintas categorías, 
+los datos indican que el modelo subestima de forma importante la frecuencia de 
+los vientos calmos. La categoría Calmas alcanza un 50,8% en las observaciones, 
+mientras que en la modelación corresponde solo a 5,5%, lo que representa una 
+diferencia de 45,3%.
+-En  el  rango  de  0,5–2,1  m/s,  el  modelo  también  subestima  la  frecuencia 
+observada, aunque en menor magnitud. La frecuencia observada es de 48,5%, 
+mientras que la modelada alcanza 38,1%, con una diferencia de 10,4%.
+-Para velocidades superiores a 2,1 m/s, el modelo tiende a sobreestimar la 
+frecuencia del viento. La mayor diferencia se presenta en el rango 2,1–3,6 m/s, 
+donde el modelo alcanza un 27,0%, frente a solo 0,7% en las observaciones, 
+equivalente a una diferencia de 26,3%.
+-De igual manera, el modelo presenta frecuencias superiores a las observadas en 
+los  rangos  3,6–5,1  m/s,  5,1–8,8  m/s  y  8,8–11  m/s,  mientras  que  en  las 
+observaciones estas categorías prácticamente no registran ocurrencias.
+-En  general,  la  figura  indica  que  el  modelo  desplaza  la  distribución  hacia 
+velocidades más altas, subestimando las condiciones de calma y viento débil, y 
+sobreestimando la ocurrencia de vientos moderados a más intensos. 
+El valor del BIAS indica que la rapidez promedio del viento modelada es 2,3 m/s 
+superior a la observada.
+
+===== p.47 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 48 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Ciclo promedio diario
+-La figura presenta el ciclo promedio diario de la velocidad del viento durante el 
+periodo analizado, comparando los datos modelados (línea azul) con los datos 
+observados (línea roja).
+-El modelo reproduce de manera adecuada el comportamiento diurno de la 
+velocidad del viento, capturando un aumento progresivo desde la mañana hacia la 
+tarde y una disminución durante la noche y la madrugada.
+-La  correlación entre  ambas  series es de  0,69,  lo  que  indica  una relación 
+moderada entre los datos observados y modelados.
+-Se posible observar, sin embargo, que el modelo sobreestima sistemáticamente 
+la velocidad del viento durante todo el ciclo diario. Esta sobreestimación se 
+presenta tanto en horas nocturnas y de madrugada (00:00 a 06:00 horas) como 
+durante el periodo de mayor intensidad del viento en la tarde.
+-El máximo observado se registra aproximadamente entre las 14:00 y 15:00 
+horas, mientras que el máximo modelado ocurre entre las 16:00 y 17:00 horas, 
+además de alcanzar magnitudes considerablemente superiores. En consecuencia, 
+aunque el modelo reproduce la forma general del ciclo diario, presenta un sesgo 
+positivo en la intensidad de la velocidad del viento.
+
+===== p.48 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 49 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Dirección del viento predominante
+-La figura presenta el ciclo diario promedio de la dirección del viento, comparando 
+los datos observados con los simulados por el modelo WRF.
+-Ambas series muestran una variación diurna de la dirección del viento, aunque 
+con diferencias en la magnitud de los cambios y en el momento en que ocurren.
+-Durante la madrugada y primeras horas de la mañana (00:00 a 08:00 horas), 
+tanto las observaciones como la modelación presentan direcciones predominantes 
+del sector este a este-sureste. En este tramo, el modelo reproduce de manera 
+razonable la dirección observada, aunque con un leve sesgo hacia componentes 
+más meridionales.
+-A partir de alrededor de las 10:00 horas, las observaciones muestran un cambio 
+abrupto hacia el sector norte-noroeste, manteniéndose en general entre NW y 
+NNW hasta aproximadamente las 17:00 horas. El modelo también representa un 
+giro hacia el cuadrante norte en ese periodo; sin embargo, posteriormente 
+muestra una rotación progresiva hacia el oeste, suroeste y sur, por lo que no logra 
+mantener la persistencia del flujo del sector norte observada durante la tarde.
+-Después de las 18:00 horas, las observaciones retornan rápidamente hacia 
+direcciones del sector norte-noreste a este, mientras que el modelo continúa una 
+transición más gradual desde el sur hacia el este-sureste y este durante la noche. 
+En consecuencia, la concordancia entre ambas series mejora nuevamente hacia 
+las últimas horas del día, aunque persisten diferencias en la trayectoria del cambio 
+direccional.
+-En conclusión, el modelo logra capturar la estructura básica del ciclo diario de la 
+dirección del viento, particularmente el predominio del componente este durante 
+la noche y madrugada y el cambio de dirección durante el día. No obstante, 
+presenta discrepancias en las horas diurnas, especialmente entre las 12:00 y 
+19:00 horas, cuando simula una rotación más continua y amplia que la observada.
+
+===== p.49 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 50 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+4.3.2.2 Estación Junta de Vecinos
+4.3.2.2.1 Temperatura modelada y observada
+En se presenta la caracterización entre la temperatura horaria observada en la estación Junta de Vecinos y las simuladas por el modelo 
+WRF del año 2025 en el punto de grilla más representativo a la zona de emplazamiento de la estación.
+Tabla 10. Temperatura modelada con WRF y observada en la estación Junta de Vecinos
+Temperatura simulada y observada
+Características
+Serie de Tiempo – Temperatura
+-La serie de tiempo superior corresponde a las observaciones, mientras que la serie 
+inferior corresponde a la modelación WRF.
+-La serie evidencia que el modelo logra representar de manera general el ciclo 
+anual de la temperatura, con valores más altos durante los meses estivales y una 
+disminución hacia el periodo invernal, especialmente entre junio y agosto.
+-Del análisis del rango que abarca el 90% de los datos, se aprecia que la 
+temperatura observada se distribuye entre 8,89 °C y 22,20 °C, mientras que la 
+temperatura modelada se encuentra entre 10,54 °C y 21,55 °C. Esto indica que el 
+modelo representa una variabilidad térmica menor que la observada, con un límite 
+inferior más alto y un límite superior levemente más bajo.
+-La media anual observada es de 14,99 °C, mientras que la media modelada 
+alcanza  15,32  °C,  evidenciando  una  ligera  sobreestimación  promedio  de 
+aproximadamente 0,3 °C por parte del modelo WRF.
+-En  resumen,  el  modelo  reproduce  adecuadamente  la  estacionalidad  de  la 
+temperatura, aunque suaviza la amplitud de los valores observados. Esto se refleja 
+en una menor dispersión de la serie modelada y en un rango más estrecho 
+respecto de las observaciones.
+
+===== p.50 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 51 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Correlación
+-La temperatura modelada tiene una correlación positiva con los valores 
+observados en la estación Junta de Vecinos, cuyo valor es de 0,8.
+-A su vez, el coeficiente de determinación sugiere que el modelo es capaz 
+de representar el 60% de la variabilidad observada (R2 = 0,6).
+
+===== p.51 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 52 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Frecuencia
+-El modelo reproduce adecuadamente la distribución general de temperaturas 
+durante el año, siendo el rango de 10–20 °C el más frecuente tanto en las 
+observaciones como en la modelación.
+-La mayor frecuencia se concentra en el rango 10–20 °C, con un 77,7% en las 
+observaciones y un 87,4% en el modelo. Esto indica una sobreestimación de 9,7% 
+por parte del modelo en esta categoría.
+-En el rango de 0–10 °C, el modelo subestima la frecuencia observada, registrando 
+3,3% frente a 10,0% en las observaciones, lo que representa una diferencia de 
+6,7%.
+-Para el rango 20–30 °C, el modelo presenta una frecuencia de 9,3%, mientras que 
+las observaciones alcanzan 12,3%, evidenciando una subestimación de 3,0%.
+-En general, el modelo tiende a concentrar una mayor proporción de datos en el 
+rango de 10–20 °C, subestimando la ocurrencia de temperaturas tanto más bajas 
+como más altas.
+-El valor del BIAS indica que la temperatura promedio anual modelada es 0,3 °C 
+mayor a la observada.
+
+===== p.52 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 53 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Ciclo promedio diario
+-La figura presenta el ciclo promedio diario de la temperatura durante el periodo 
+analizado, comparando los datos modelados con los datos observados. La línea 
+azul representa la temperatura modelada, mientras que la línea roja corresponde a 
+la temperatura observada.
+-El modelo reproduce adecuadamente el ciclo diurno-nocturno de la temperatura, 
+capturando el aumento progresivo durante la mañana, el máximo térmico durante 
+la tarde y el posterior descenso hacia la noche. Esto se refleja en una alta 
+correlación entre ambas series, con un valor de 0,99.
+-Se evidencia que el modelo sobreestima la temperatura observada durante la 
+noche, madrugada y primeras horas de la mañana, aproximadamente entre las 
+00:00 y 10:00 horas. Esta sobreestimación vuelve a presentarse desde alrededor 
+de las 18:00 horas en adelante, durante el descenso vespertino-nocturno.
+-En  contraste,  entre  aproximadamente  las  12:00  y  17:00  horas,  el  modelo 
+subestima las temperaturas observadas, ya que no alcanza el máximo térmico 
+registrado por la serie observada. En este periodo, aunque ambas curvas muestran 
+un comportamiento temporal muy similar, la temperatura modelada presenta 
+valores levemente inferiores a los observados.
+4.3.2.2.2 Velocidad modelada y observada
+En Tabla 11 se presenta la caracterización entre la velocidad del viento horaria observada en la estación Junta de Vecinos y las 
+simuladas por el modelo WRF del año 2025 en el punto de grilla más representativo a la zona de emplazamiento de la estación.
+
+===== p.53 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 54 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Tabla 11. Velocidad del viento modelado por WRF y observado en la estación Junta de Vecinos
+Velocidad del viento simulada y observada
+Características
+Serie de Tiempo Velocidad del viento
+-Las series de tiempo superior corresponde a las observaciones, mientras que la 
+figura inferior corresponde a la modelación WRF de la velocidad del viento durante 
+el periodo analizado.
+-La figura evidencia que el modelo reproduce de manera general la variabilidad 
+temporal  de  la  velocidad  del  viento,  identificándose  periodos  con  mayores 
+intensidades durante los meses de verano y primavera, y una disminución relativa 
+durante el periodo invernal.
+-Del análisis del rango que abarca el 90% de los datos, se aprecia que la velocidad 
+del viento observada se distribuye entre 0,30 m/s y 3,32 m/s, mientras que la 
+velocidad modelada se encuentra entre 0,13 m/s y 6,72 m/s. Esto indica que el 
+modelo presenta una mayor dispersión y simula eventos de viento más intensos que 
+los observados.
+-La media anual observada es de 1,42 m/s, mientras que la media modelada 
+alcanza  2,71  m/s,  evidenciando  una  sobreestimación  promedio  de 
+aproximadamente 1,3 m/s por parte del modelo WRF.
+-En síntesis, el modelo logra representar la variabilidad temporal de la velocidad del 
+viento, pero tiende a sobreestimar las intensidades, especialmente en los valores 
+altos. Esto se refleja en un percentil 95 y una media anual considerablemente 
+mayores en la simulación respecto de las observaciones.
+
+===== p.54 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 55 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Serie de tiempo – Dirección del viento
+-La serie de tiempo superior corresponde a las observaciones de la estación Junta 
+de Vecinos, mientras que la inferior representa la simulación del modelo WRF.
+-La figura evidencia que, tanto en las observaciones como en la modelación, existen 
+dos rangos predominantes de dirección del viento a lo largo del periodo analizado.
+-El primer rango se concentra principalmente entre 250° y 360°, asociado a vientos 
+provenientes del oeste-suroeste, oeste, oeste-noroeste, noroeste y norte. Este 
+comportamiento es identificado en ambas series y es reproducido por el modelo, 
+especialmente en la persistencia de direcciones del cuadrante oeste-norte.
+-El segundo rango predominante se ubica aproximadamente entre 100° y 200°, 
+correspondiente a vientos provenientes del este-sureste, sureste, sur sureste y sur. 
+Este patrón también aparece en la simulación, aunque con una distribución más 
+amplia y menos definida que en las observaciones.
+-En las observaciones, estos dos rangos se presentan con una mayor concentración 
+y definición, mientras que en la simulación WRF se aprecia una dispersión más 
+amplia de las direcciones, con una mayor frecuencia de valores fuera de los rangos 
+principales.
+-En términos generales, el modelo logra reproducir los patrones predominantes de 
+dirección del viento observados en la estación Junta de Vecinos. Sin embargo, 
+presenta una variabilidad mayor que la observada, lo que se traduce en una 
+representación menos concentrada de las direcciones dominantes.
+
+===== p.55 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 56 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Correlación
+-De la figura se observa que existe una correlación positiva entre la rapidez 
+del viento observada y la modelada, siendo el valor del coeficiente de 
+correlación lineal de 0,6.
+-Por otro lado, el coeficiente de determinación sugiere que el modelo es 
+capaz de representar el 30% del comportamiento observado (R2 = 0,3). 
+
+===== p.56 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 57 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Frecuencia
+-De la frecuencia de magnitudes de la velocidad del viento en distintas categorías, 
+se observa que el modelo sobreestima levemente la frecuencia de vientos calmos, 
+con  un  17,7%  en  la  modelación  frente  a  un  14,1%  en  las  observaciones, 
+equivalente a una diferencia de 3,6%.
+-En el rango de 0,5–2,1 m/s, el modelo subestima la frecuencia observada. Las 
+observaciones alcanzan un 64,1%, mientras que el modelo presenta un 26,8%, lo 
+que representa una diferencia de 37,3%.
+-Para  velocidades  superiores  a  2,1  m/s,  el  modelo  tiende  a  sobreestimar  la 
+frecuencia del viento. En el rango 2,1–3,6 m/s, la modelación alcanza un 25,5%, 
+frente a un 18,7% observado, con una diferencia de 6,8%.
+-La mayor diferencia en las categorías de mayor velocidad se presenta en el rango 
+3,6–5,7 m/s, donde el modelo registra un 19,0%, mientras que las observaciones 
+alcanzan solo 3,1%, equivalente a una sobreestimación de 15,9%. Asimismo, en el 
+rango 5,7–8,8 m/s, el modelo presenta un 10,9%, mientras que las observaciones 
+prácticamente no registran ocurrencias.
+-En términos generales, el modelo subestima la frecuencia de vientos débiles en el 
+rango 0,5–2,1 m/s y desplaza parte de la distribución hacia velocidades más altas, 
+sobreestimando la ocurrencia de vientos moderados e intensos. El valor del BIAS 
+indica que la rapidez promedio del viento modelada es 1,3 m/s superior a la 
+observada.
+
+===== p.57 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 58 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Ciclo promedio diario
+-La figura presenta el ciclo promedio diario de la velocidad del viento durante el 
+periodo analizado, comparando los datos simulados por el modelo WRF con los 
+datos observados. La línea azul representa la velocidad modelada, mientras que la 
+línea roja corresponde a la velocidad observada.
+-En términos generales, el modelo reproduce adecuadamente la variación diurna de 
+la velocidad del viento, capturando el aumento progresivo durante la mañana, el 
+máximo durante la tarde y la posterior disminución hacia la noche. Esto se refleja en 
+una alta correlación entre ambas series, con un valor de 0,94.
+-Los resultados muestran que el modelo sobreestima la velocidad del viento durante 
+todo el ciclo diario, presentando valores superiores a los observados tanto en horas 
+nocturnas como diurnas.
+-Las mayores diferencias se presentan durante la tarde, especialmente entre las 
+13:00 y 17:00 horas, cuando el modelo alcanza sus máximos valores, cercanos a 
+4,7–4,8 m/s, mientras que las observaciones se mantienen alrededor de 2,4–2,5 
+m/s.
+-En términos generales, aunque el modelo logra representar correctamente el 
+patrón temporal del ciclo diario, presenta un sesgo positivo en la magnitud de la 
+velocidad del viento, especialmente durante el periodo de mayor intensidad diurna.
+
+===== p.58 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 59 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Dirección del viento predominante
+-La figura presenta el ciclo diario promedio de la dirección del viento, comparando 
+los datos observados con los simulados por el modelo WRF.
+-En términos generales, ambas series muestran una marcada variación diurna en la 
+dirección del viento, con un cambio importante durante la mañana y una rotación 
+progresiva a lo largo del día.
+-Durante la madrugada y primeras horas de la mañana (00:00 a 07:00 horas), las 
+observaciones muestran direcciones predominantes del sector este a este-sureste, 
+mientras que la modelación presenta direcciones, entre sur y este-sureste. En este 
+tramo se observan diferencias entre ambas series, probablemente asociadas a 
+condiciones  de  viento  débil,  donde  la  dirección  observada  puede  ser menos 
+representativa.
+-A partir de las 08:00–09:00 horas, tanto las observaciones como el modelo 
+muestran un cambio brusco hacia el cuadrante norte-noroeste, lo que indica que el 
+modelo logra capturar adecuadamente la transición matinal en la dirección del 
+viento.
+-Entre aproximadamente las 10:00 y 17:00 horas, ambas series presentan una 
+rotación gradual hacia el sector oeste.
+-Después  de  las  18:00  horas,  las  observaciones  evidencian  un  retorno 
+relativamente rápido hacia el sector sur este y este, mientras que el modelo 
+mantiene direcciones más persistentes del sector oeste-suroeste a suroeste, por lo 
+que no reproduce adecuadamente el cambio direccional vespertino-nocturno.
+-En términos generales, el modelo es capaz de representar la estructura principal 
+del ciclo diario de la dirección del viento, especialmente el cambio brusco de la 
+mañana y la rotación diurna. No obstante, presenta discrepancias durante la 
+madrugada y, principalmente, en horas de la tarde-noche, cuando retrasa el retorno 
+hacia direcciones del sector este observadas.
+
+===== p.59 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 60 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+4.3.2.3 Estación Concón
+4.3.2.3.1 Temperatura modelada y observada
+En Tabla 12 se presenta la caracterización entre la temperatura horaria observada en la estación Concón y las simuladas por el modelo 
+WRF del año 2025 en el punto de grilla más representativo a la zona de emplazamiento de la estación.
+Tabla 12. Temperatura modelada con WRF y observada en la estación Concón
+Temperatura simulada y observada
+Características
+Serie de Tiempo – Temperatura
+-La serie de tiempo superior corresponde a las observaciones en la estación 
+Concón, mientras que la serie inferior corresponde a la modelación WRF.
+-La figura indica que el modelo logra representar de manera general el ciclo anual 
+de la temperatura, con temperaturas más altas durante los meses estivales y una 
+disminución hacia el periodo invernal, especialmente entre junio y agosto.
+-Del análisis del rango que abarca el 90% de los datos, se aprecia que la 
+temperatura observada se distribuye entre 9,09 °C y 21,34 °C, mientras que la 
+temperatura modelada se encuentra entre 12,10 °C y 21,78 °C. Esto indica que el 
+modelo presenta un rango más estrecho que el observado, principalmente debido 
+a que no reproduce adecuadamente las temperaturas más bajas registradas en 
+las observaciones.
+-La media anual observada es de 14,99 °C, mientras que la media modelada 
+alcanza  16,19  °C,  evidenciando  una  sobreestimación  promedio  de 
+aproximadamente 1,20 °C por parte del modelo WRF.
+-En  términos  generales,  aunque  el  modelo  reproduce  adecuadamente  la 
+estacionalidad de la temperatura, presenta un sesgo cálido respecto de las 
+observaciones y una menor variabilidad térmica, especialmente en el extremo 
+inferior de la distribución.
+
+===== p.60 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 61 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Correlación
+-La temperatura modelada tiene una correlación positiva con los valores 
+observados en la estación Concón, cuyo valor es de 0,8.
+-A su vez, el coeficiente de determinación sugiere que el modelo es capaz 
+de representar el 60% de la variabilidad observada (R2 = 0,60).
+
+===== p.61 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 62 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Frecuencia
+-El modelo reproduce adecuadamente la distribución general de temperaturas 
+durante el año, siendo el rango de 10–20 °C el más frecuente tanto en las 
+observaciones como en la modelación.
+-La mayor frecuencia se concentra en el rango 10–20 °C, con un 82,8% en las 
+observaciones y un 89,1% en el modelo. Esto indica una sobreestimación de 6,3% 
+por parte del modelo en esta categoría.
+-En  el  rango  de  0–10  °C,  el  modelo  subestima  la  frecuencia  observada, 
+registrando 0,7% frente a 8,3% en las observaciones, lo que representa una 
+diferencia de 7,6%.
+-Para el rango 20–30 °C, el modelo presenta una frecuencia de 10,2%, mientras 
+que las observaciones alcanzan 8,8%, evidenciando una sobreestimación de 
+1,4%.
+-En  las  categorías  de  temperaturas  mayores  a  30  °C,  las  frecuencias  son 
+prácticamente  nulas  en  ambas  series,  con  una  presencia  marginal  en  las 
+observaciones para el rango 30–40 °C.
+-En general, el modelo tiende a concentrar una mayor proporción de datos en el 
+rango de 10–20 °C, subestimando la ocurrencia de temperaturas más bajas y 
+sobreestimando levemente las temperaturas entre 20–30 °C. El valor del BIAS 
+indica que la temperatura promedio anual modelada es 1,2 °C mayor a la 
+observada.
+
+===== p.62 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 63 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Temperatura simulada y observada
+Características
+Ciclo promedio diario
+-La figura presenta el ciclo promedio diario de la temperatura durante todo el 
+periodo analizado, comparando los datos modelados (línea azul) con la los datos 
+observados (línea roja).
+-El modelo reproduce adecuadamente el ciclo diurno-nocturno de la temperatura, 
+representando de buena forma el descenso nocturno, el aumento durante la 
+mañana, el máximo térmico en horas de la tarde y la disminución posterior hacia 
+la noche. Esto se refleja en la alta correlación entre ambas series, con un valor de 
+0,99.
+-La figura muestra que el modelo tiende a sobreestimar la temperatura observada 
+principalmente durante la noche, madrugada y primeras horas de la mañana 
+(aproximadamente entre las 00:00 y 11:00 horas). Esta sobreestimación también 
+vuelve a presentarse durante la tarde-noche, a partir de alrededor de las 17:00 
+horas.
+-Durante el periodo de máximas temperaturas, entre aproximadamente las 13:00 
+y 16:00 horas, ambas curvas presentan un comportamiento muy similar. Sin 
+embargo, el modelo muestra valores levemente inferiores o muy cercanos a los 
+observados, sin alcanzar completamente el máximo térmico registrado en las 
+observaciones.
+-En síntesis, aunque el modelo representa de forma adecuada la evolución 
+temporal de la temperatura diaria, presenta un sesgo cálido en gran parte del 
+ciclo, especialmente fuera del periodo de máxima temperatura.
+4.3.2.3.2 Velocidad modelada y observada
+En Tabla 13 se presenta la caracterización entre la velocidad del viento horaria observada en la estación Concón y las simuladas por el 
+modelo WRF del año 2025 en el punto de grilla más representativo a la zona de emplazamiento de la estación.
+
+===== p.63 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 64 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Tabla 13. Velocidad del viento modelado por WRF y observado en la estación Concón
+Velocidad del viento simulada y observada
+Características
+Serie de Tiempo Velocidad del viento
+-La serie de tiempo superior corresponde a las observaciones en la estación Concón, 
+mientras que la serie inferior corresponde a la simulación del modelo WRF.
+-Las series indican que el modelo reproduce de manera general la variabilidad temporal 
+de la velocidad del viento durante el periodo analizado, identificándose fluctuaciones a lo 
+largo del año y episodios de mayor intensidad principalmente durante los meses de 
+primavera y verano.
+-Existen diferencias en la magnitud de los datos observados y modelados. En este caso, 
+la velocidad media modelada es levemente superior a la observada, aunque ambas 
+series presentan valores promedio relativamente cercanos.
+-Del análisis del rango que abarca el 90% de los datos, se aprecia que la velocidad del 
+viento observada se distribuye entre 0,48 m/s y 4,57 m/s, mientras que la velocidad 
+modelada se encuentra entre 0,31 m/s y 6,39 m/s. Esto indica que el modelo presenta un 
+rango más amplio, especialmente por una mayor frecuencia de valores altos de velocidad 
+del viento.
+-La velocidad media anual observada es de 2,27 m/s, mientras que la modelada alcanza 
+2,65 m/s, evidenciando una sobreestimación promedio de aproximadamente 0,4 m/s por 
+parte del modelo WRF.
+-En síntesis, el modelo logra representar la variabilidad temporal de la velocidad del 
+viento, pero tiende a sobreestimar los valores más altos, lo que se refleja en un percentil 
+95 mayor en la simulación respecto de las observaciones.
+
+===== p.64 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 65 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Serie de Tiempo dirección del del viento
+-Las series de tiempo superior corresponde a las observaciones de la estación Concón, 
+mientras que la inferior representa la simulación del modelo WRF.
+-Se observa que, tanto en las observaciones como en la modelación, existen dos rangos 
+predominantes de dirección del viento a lo largo del periodo analizado.
+-El primer rango se concentra principalmente entre 250° y 360°, asociado a vientos 
+provenientes del oeste, oeste-noroeste, noroeste y norte. Este patrón domina gran parte 
+de las observaciones y también es representado por el modelo.
+-El  segundo  rango  predominante  se  ubica  aproximadamente  entre  100°  y  200°, 
+correspondiente  a  vientos  del  este-sureste,  sureste,  sur  sureste  y  sur.  Este 
+comportamiento también aparece en la simulación, aunque con una distribución más 
+amplia y menos concentrada que en las observaciones.
+-En  las  observaciones,  ambos  rangos  se  presentan  con  una  mayor  definición  y 
+concentración, especialmente en torno a los valores cercanos a 110°–150° y 270°–330°. 
+En cambio, en la simulación WRF se aprecia una mayor dispersión de las direcciones y 
+una frecuencia más alta de valores fuera de estos rangos principales.
+-En conclusión, el modelo logra reproducir los patrones predominantes de dirección del 
+viento observados en la estación Concón. Sin embargo, presenta una variabilidad mayor 
+que la observada, lo que se traduce en una representación menos concentrada y más 
+dispersa de las direcciones dominantes.
+
+===== p.65 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 66 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Correlación
+-De la figura se observa que existe una correlación positiva entre la rapidez del 
+viento observada y la modelada, siendo el valor del coeficiente de correlación 
+lineal de 0,6.
+-Por otro lado, el coeficiente de determinación sugiere que el modelo es capaz 
+de representar el 30% del comportamiento observado (R2 = 0,3). 
+
+===== p.66 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 67 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Frecuencia
+-De la frecuencia de magnitudes de la velocidad del viento en distintas categorías, se 
+observa que el modelo sobreestima levemente la frecuencia de vientos calmos, con un 
+7,9% en la modelación frente a un 5,4% en las observaciones, equivalente a una 
+diferencia de 2,5%.
+-En el rango de 0,5–2,1 m/s, el modelo subestima la frecuencia observada, registrando 
+38,4% frente a 44,4% en las observaciones, lo que representa una diferencia de 6,0%.
+-En el rango 2,1–3,6 m/s, el modelo también subestima la frecuencia observada, con un 
+28,5% en la modelación frente a un 34,9% observado, equivalente a una diferencia de 
+6,4%.
+-Para velocidades superiores a 3,6 m/s, el modelo tiende a sobreestimar la frecuencia del 
+viento. En el rango 3,6–5,7 m/s, la modelación alcanza un 16,8%, mientras que las 
+observaciones registran 14,0%, con una diferencia de 2,8%. La mayor sobreestimación 
+se presenta en el rango 5,7–8,8 m/s, donde el modelo alcanza un 8,2%, frente a 1,3% 
+observado, equivalente a una diferencia de 6,9%.
+-En términos generales, el modelo reproduce de manera razonable la distribución de la 
+velocidad del viento, aunque subestima la frecuencia de vientos débiles a moderados 
+entre 0,5 y 3,6 m/s y sobreestima la ocurrencia de velocidades más altas, especialmente 
+entre 5,7 y 8,8 m/s. El valor del BIAS indica que la rapidez promedio del viento modelada 
+es 0,4 m/s superior a la observada.
+
+===== p.67 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 68 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Ciclo promedio diario
+-La figura presenta el ciclo promedio diario de la rapidez del viento durante todo el 
+periodo analizado, comparando los datos simulados por el modelo WRF (línea azul) con 
+los datos observados (línea roja).
+-El modelo reproduce parcialmente la variación diurna de la velocidad del viento, 
+capturando el incremento progresivo de la magnitud durante el día, el máximo en horas 
+de la tarde y la posterior disminución hacia la noche. Esto se refleja en una alta 
+correlación entre ambas series, con un valor de 0,93.
+-Se observa que el modelo no sobreestima la velocidad del viento durante todo el día. En 
+las primeras horas de la madrugada (00:00 a 02:00 horas) presenta valores levemente 
+superiores a los observados, mientras que entre aproximadamente las 03:00 y 07:00 
+horas tiende a subestimar ligeramente la rapidez del viento.
+-A partir de alrededor de las 11:00 horas y hasta cerca de las 20:00 horas, el modelo 
+sobreestima claramente la velocidad del viento observada. Las mayores diferencias se 
+registran durante la tarde, especialmente entre las 13:00 y 17:00 horas, cuando la serie 
+modelada alcanza valores máximos cercanos a 4,6 m/s, mientras que la observada llega 
+aproximadamente a 3,6 m/s.
+-En síntesis, el modelo logra representar correctamente la forma general del ciclo diario 
+de la rapidez del viento, pero presenta un sesgo positivo importante durante las horas de 
+mayor intensidad, y una leve subestimación durante parte de la mañana.
+
+===== p.68 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 69 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+Velocidad del viento simulada y observada
+Características
+Dirección del viento predominante
+-La figura presenta el ciclo diario promedio de la dirección del viento, comparando los 
+datos observados con los simulados por el modelo WRF.
+-Ambas series muestran una variación diurna marcada, con un cambio importante en la 
+dirección del viento durante la mañana y una evolución relativamente similar durante 
+gran parte del periodo diurno.
+-Durante la madrugada y primeras horas de la mañana (00:00 a 07:00 horas), las 
+observaciones presentan direcciones predominantes del sector este-sureste a este, 
+mientras que la modelación muestra direcciones más variables, desde el nor-noreste 
+hacia el este. En este tramo se aprecian diferencias entre ambas series, probablemente 
+asociadas a condiciones de viento débil, donde la dirección observada puede ser menos 
+representativa.
+-A partir de alrededor de las 09:00 horas, tanto las observaciones como el modelo 
+muestran un cambio abrupto hacia el sector norte-noroeste, indicando que el modelo 
+logra capturar adecuadamente la transición matinal de la dirección del viento.
+-Entre aproximadamente las 10:00 y 18:00 horas, ambas series presentan una rotación 
+gradual hacia el sector oeste. En este periodo, el modelo reproduce razonablemente bien 
+el comportamiento observado, aunque tiende a mostrar direcciones ligeramente más 
+occidentales y meridionales que las observadas.
+-Después de las 19:00 horas, las observaciones muestran un giro hacia el noroeste y 
+luego un cambio brusco hacia el sector este entre las 21:00 y 23:00 horas. En contraste, 
+el modelo mantiene direcciones del cuadrante oeste a noroeste, por lo que no logra 
+representar adecuadamente el cambio direccional observado durante la noche.
+-Lo anterior indica que, el modelo es capaz de reproducir la estructura principal del ciclo 
+diario de la dirección del viento, especialmente desde la mañana hasta la tarde. Sin 
+embargo, presenta discrepancias durante la madrugada y, principalmente, en las últimas 
+horas del día, cuando no captura el retorno del viento hacia el sector este observado.
+
+===== p.69 =====
+Estudio de Impacto Ambiental
+Modelación Meteorológica
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 70 de 71
+En consecuencia, la modelación WRF constituye una base adecuada para la caracterización 
+meteorológica  general  del  área  de  emplazamiento,  con  un  mejor  desempeño  en  la 
+representación de la temperatura y un desempeño aceptable para la rapidez del viento en 
+Junta  de  Vecinos  y  Concón.  La  principal  limitación  identificada  corresponde  a  la 
+representación de la variabilidad temporal del viento en la estación Viña del Mar, lo cual debe 
+ser  considerado  como  parte  de  la  evaluación  objetiva  del  desempeño  del  modelo 
+meteorológico para representar el comportamiento de la atmósfera a escala local o regional. 
+Lo anterior se ajusta al enfoque establecido por la “GUÍA PARA EL USO DE MODELOS DE 
+CALIDAD DEL AIRE EN EL SEIA” (2023), en cuanto a que el análisis de incertidumbre 
+meteorológica no implica ponderar o corregir directamente las concentraciones estimadas 
+por el modelo de calidad del aire, sino describir de manera objetiva el desempeño del modelo 
+meteorológico.
+5 Conclusión
+En términos generales, la modelación WRF representa de manera coherente los principales 
+patrones meteorológicos del área de emplazamiento del Proyecto, tanto a escala diaria como 
+estacional. La temperatura presenta mínimos durante la madrugada, un aumento progresivo 
+durante la mañana y máximos en horas de la tarde, junto con mayores valores en verano y 
+menores temperaturas en invierno. La velocidad del viento muestra una intensificación 
+diurna, con mayores magnitudes durante la tarde, y un predominio de flujos provenientes 
+del sector sur a sur suroeste, condición relevante para el transporte y dispersión de 
+contaminantes.
+La  precipitación  presenta  un  régimen  marcadamente  estacional,  concentrándose 
+principalmente entre mayo y septiembre con eventos menores en meses de transición. Por 
+su parte, la altura de la capa límite evidencia un ciclo diario bien definido, con valores bajos 
+durante la noche y madrugada, y máximos durante el mediodía y la tarde, lo que favorece 
+mejores condiciones de mezcla atmosférica durante el día.
+El  análisis  cuantitativo  respalda  el  desempeño  general  de  la  modelación.  Para  la 
+temperatura, las estaciones Viña del Mar, Junta de Vecinos y Concón presentan una 
+correlación lineal de 0,8, junto con valores de BIAS, MAE y RMSE dentro de los criterios 
+
+===== p.70 =====
+Estudio de Impacto Ambiental
+Análisis Meteorológico
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 71 de 71
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, 
+Providencia.
+ (56.2)64653707
+recomendados por la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” 
+(2023), lo que indica un buen ajuste del modelo para esta variable. Para la rapidez del 
+viento, si bien se observa una tendencia a la sobreestimación de las magnitudes modeladas, 
+los valores de BIAS, MAE y RMSE se encuentran dentro de los rangos recomendados en las 
+tres estaciones, lo que indica que la incertidumbre asociada a la magnitud del viento se 
+mantiene dentro de límites aceptables. En particular, el BIAS varía entre 0,4 y 2,3 m/s, el 
+MAE entre 1,2 y 2,3 m/s, y el RMSE entre 1,6 y 3,0 m/s, todos ellos bajo los criterios 
+establecidos para esta variable. La principal limitación identificada para esta última variable 
+corresponde a la representación de su variabilidad temporal en la estación Viña del Mar, 
+donde la correlación lineal alcanza r = 0,4. En las estaciones Junta de Vecinos y Concón, la 
+correlación alcanza r = 0,6.
+6 Anexos
+En el presente anexo se presentan los datos de la modelación meteorológica WRF. En el 
+siguiente enlace se encuentran los archivos antes mencionados:
+https://archivos.sea.gob.cl/2026/06/26/2168892026/
+Centro_Integral_de_Residuos.rar

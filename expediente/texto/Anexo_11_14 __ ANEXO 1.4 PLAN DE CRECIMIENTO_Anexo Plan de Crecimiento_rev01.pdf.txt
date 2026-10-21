@@ -1,0 +1,313 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO PLAN DE CRECIMIENTO
+Documento Preparado por:
+Mayo 2026
+
+===== p.1 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+i
+ÍNDICE
+1.
+INTRODUCCIÓN.............................................................................................................1
+2.
+PLAN DE CRECIMIENTO..................................................................................................1
+2.1.
+ETAPAS DE HABILITACIÓN..............................................................................................3
+2.2.
+REPRESENTACIÓN GRÁFICA ETAPAS DE CRECIMIENTO DEL RELLENO SANITARIO..........4
+
+===== p.2 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+1. INTRODUCCIÓN
+El diseño del proyecto del relleno sanitario que forma parte integral del “Centro Metropolitano de 
+Gestión Integral de Residuos”, contará con una capacidad de 24.331.033 m3 en una superficie de 
+449.951 m2, las cuales se irán habilitando a partir de la configuración de las etapas consideradas 
+como parte del presente plan de crecimiento.
+El proyecto considera 3 etapas para los 25 años de operación proyectados. 
+En la siguiente tabla se presentan las etapas las capacidades de recepción por cada etapa. 
+Tabla 1.
+Capacidades de recepción por cada etapa
+Etapa
+Volumen
+m³
+1
+4.333.617
+2
+6.375.304
+3
+13.622.112
+Total
+24.331.033
+
+===== p.3 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+2. PLAN DE CRECIMIENTO
+El plan de crecimiento del relleno sanitario requiere la subdivisión del vaso en 3 etapas, las cuales se 
+irán habilitando progresivamente según las necesidades de disposición. En la siguiente figura se 
+muestra la distribución de dicha subdivisión.
+Figura 1.
+Subdivisión del vaso por etapas
+En la siguiente tabla se detalla la superficie por cada etapa a habilitar.
+
+===== p.4 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+Tabla 2.
+Superficie a excavar por etapa
+Etapa
+Superficie excavación
+m²
+1
+163.139
+2
+144.685
+3
+142.127
+Total
+449.951
+2.1.
+ETAPAS DE HABILITACIÓN
+El plan de crecimiento del relleno sanitario requiere la subdivisión del vaso, el cual se irá habilitando 
+en la medida que los requerimientos de disposición así lo requieran. En la siguiente figura se 
+presenta la subdivisión del vaso.
+Tabla 3.
+Superficies y volúmenes anuales 
+Año
+Etapa
+Superficie Habilitada
+m²
+Superficie Habilitada 
+Acumulada
+m²
+Volumen a disponer
+m³
+Volumen a disponer
+acumulado m³
+1
+1
+29.787
+29.787
+650.327
+650.327
+2
+28.736
+58.523
+696.027
+1.346.354
+3
+27.694
+86.217
+721.329
+2.067.683
+4
+26.661
+112.879
+746.631
+2.814.314
+5
+25.638
+138.516
+771.933
+3.586.247
+6
+24.623
+163.139
+747.370
+4.333.617
+7
+2
+23.616
+186.755
+872.402
+5.206.019
+8
+22.619
+209.374
+847.839
+6.053.858
+9
+21.631
+231.005
+873.141
+6.926.999
+10
+20.651
+251.657
+898.443
+7.825.442
+11
+19.681
+271.337
+923.745
+8.749.187
+12
+18.719
+290.057
+949.047
+9.698.234
+13
+17.767
+307.824
+1.010.687
+10.708.921
+14
+3
+16.822
+324.646
+963.313
+11.672.234
+15
+15.888
+340.534
+1.024.953
+12.697.187
+16
+14.962
+355.495
+1.050.255
+13.747.442
+
+===== p.5 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+Año
+Etapa
+Superficie Habilitada
+m²
+Superficie Habilitada 
+Acumulada
+m²
+Volumen a disponer
+m³
+Volumen a disponer
+acumulado m³
+17
+14.045
+369.540
+1.075.557
+14.822.999
+18
+13.136
+382.676
+1.100.859
+15.923.858
+19
+12.237
+394.913
+1.126.161
+17.050.019
+20
+11.347
+406.260
+1.151.463
+18.201.482
+21
+10.465
+416.725
+1.176.765
+19.378.247
+22
+9.593
+426.318
+1.202.067
+20.580.314
+23
+8.729
+435.046
+1.227.369
+21.807.683
+24
+7.874
+442.920
+1.252.671
+23.060.354
+25
+7.031
+449.951
+1.270.679
+24.331.033
+ -
+ 50.000
+ 100.000
+ 150.000
+ 200.000
+ 250.000
+ 300.000
+ 350.000
+ 400.000
+ 450.000
+ 500.000
+ -
+ 5.000.000
+ 10.000.000
+ 15.000.000
+ 20.000.000
+ 25.000.000
+ 30.000.000
+0
+5
+10
+15
+20
+25
+30
+[m2]
+[m3]
+Año Proyecto
+Plan de crecimiento anual
+Volumen a disponer
+acumulado m³
+Superficie Habilitada Acumulada
+m²
+Figura 2.
+Curva de crecimiento superficie y volumen habilitados
+
+===== p.6 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+2.2.
+REPRESENTACIÓN GRÁFICA ETAPAS DE CRECIMIENTO DEL RELLENO SANITARIO
+En las siguientes figuras se presenta el plan de crecimiento del relleno sanitario para sus 25 años de 
+operación.
+Figura 3.
+Excavación Etapa 1
+
+===== p.7 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+Figura 4.
+Plan de crecimiento Etapa 1
+Figura 5.
+Excavación Etapa 2
+
+===== p.8 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+Figura 6.
+Plan de crecimiento Etapa 2
+Figura 7.
+Excavación Etapa N°3
+
+===== p.9 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+Figura 8.
+Plan de crecimiento Etapa 3
+
+===== p.10 =====
+ANEXO PLAN DE CRECIMIENTO
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS

@@ -1,0 +1,3287 @@
+
+===== p.0 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+  
+ 
+  
+  
+        
+ESTUDIO GEOFÍSICO MEDIANTE ERT  
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN 
+INTEGRAL DE RESIDUOS, REGIÓN DE VALPARAÍSO 
+     
+  
+  
+  
+  
+PARA   
+  
+COSEMAR  
+ 
+  
+  
+Rev. B  
+  
+07 de octubre de 2024  
+ 
+ 
+ 
+ 
+ 
+
+===== p.1 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS, 
+REGIÓN DE VALPARAÍSO 
+.  
+  
+ 
+ 
+CONTENIDO  
+1. 
+INFORMACIÓN GENERAL .............................................................................................................................. 4  
+1.1 
+Localización ........................................................................................................................................... 4  
+1.2 
+Objetivo ................................................................................................................................................. 4  
+1.3 
+Alcances ................................................................................................................................................ 5  
+1.4 
+Antecedentes ........................................................................................................................................ 6  
+2. 
+METODOLOGÍA ............................................................................................................................................ 6  
+2.1 
+Teoría de Método.................................................................................................................................. 6  
+2.2 
+Planificación y ubicación de estaciones en terreno............................................................................... 8  
+2.3 
+Mediciones en terreno .......................................................................................................................... 8  
+3. 
+RESULTADOS ................................................................................................................................................ 9  
+3.1 
+Adquisición y control de calidad de las resistividades ......................................................................... 10  
+3.2 
+Perfiles geoeléctricos mediante ERT ................................................................................................... 11  
+3.2.1 
+Perfil ERT-01 740 m ....................................................................................................................... 11  
+3.2.2 
+Perfil ERT-02 720 m ....................................................................................................................... 12  
+3.2.3 
+Perfil ERT-03 640 m ....................................................................................................................... 13  
+3.2.4 
+Perfil ERT-04 740 m ....................................................................................................................... 13  
+3.2.5 
+Perfil ERT-05 800 m ....................................................................................................................... 14  
+3.2.6 
+Perfil ERT-06 490 m ....................................................................................................................... 14  
+3.2.7 
+Perfil ERT-07 590 m ....................................................................................................................... 15  
+3.2.8 
+Perfil ERT-08 740 m ....................................................................................................................... 16  
+3.2.9 
+Perfil ERT-09 145 m ....................................................................................................................... 16  
+3.2.10 
+Perfil ERT-10 145 m ....................................................................................................................... 17  
+3.2.11 
+Perfil ERT-11 145 m ....................................................................................................................... 17  
+ 
+3.1  
+Propuesta de interpretación ............................................................................................................... 18  
+4. 
+CONCLUSIONES .......................................................................................................................................... 20  
+5. 
+REFERENCIAS .............................................................................................................................................. 21  
+6. 
+ANEXOS ...................................................................................................................................................... 22  
+6.1 
+ANEXO A: Ubicación estaciones geofísicas .......................................................................................... 22  
+6.2 
+ANEXO B: Registro Fotográfico ............................................................................................................ 39  
+6.3 
+ANEXO C: Registro de datos y modelos ERT ........................................................................................ 44  
+6.3.1 
+ERT 01 – 740m: ............................................................................................................................. 44  
+
+===== p.2 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+  
+ 
+6.3.2 
+ERT 02 – 720m: ............................................................................................................................. 45  
+6.3.3 
+ERT 03 – 640m: ............................................................................................................................. 45  
+6.3.4 
+ERT 04 – 740m: ............................................................................................................................. 46  
+6.3.5 
+ERT 05 – 800m: ............................................................................................................................. 46  
+6.3.6 
+ERT 06 – 490m: ............................................................................................................................. 47  
+6.3.7 
+ERT 07 – 590m: ............................................................................................................................. 47  
+6.3.8 
+ERT 08 – 740m: ............................................................................................................................. 48  
+6.3.9 
+ERT 09 – 145m: ............................................................................................................................. 48  
+6.3.10 
+ERT 10 – 145m: ............................................................................................................................. 49  
+6.3.11 
+ERT 11 – 145m: ............................................................................................................................. 49  
+6.4 
+ANEXO D: Perfiles ERT homologados .................................................................................................. 50  
+6.4.1 
+ERT 01 – 740m: ............................................................................................................................. 50  
+6.4.2 
+ERT 02 – 720m: ............................................................................................................................. 50  
+6.4.3 
+ERT 03 – 640m: ............................................................................................................................. 51  
+6.4.4 
+ERT 04 – 740m: ............................................................................................................................. 51  
+6.4.5 
+ERT 05 – 800m: ............................................................................................................................. 51  
+6.4.6 
+ERT 06 – 490m: ............................................................................................................................. 52  
+6.4.7 
+ERT 07 – 590m: ............................................................................................................................. 52  
+6.4.8 
+ERT 08 – 740m: ............................................................................................................................. 52  
+6.4.9 
+ERT 09 – 145m: ............................................................................................................................. 53  
+6.4.10 
+ERT 10 – 145m: ............................................................................................................................. 53  
+6.4.11 
+ERT 11 – 145m: ............................................................................................................................. 53  
+  
+  
+  
+
+===== p.3 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+4  
+  
+ 
+1. INFORMACIÓN GENERAL    
+ 
+El presente informe considera el detalle de la información levantada mediante una prospección 
+geofísica que incluyó un análisis de la información geológica e hidrogeológica incluyendo datos 
+de medición de la profundidad de las aguas subterráneas. Este estudio ha sido desarrollado 
+por Subterránea Consultores a solicitud de COSEMAR SA.  
+Se presentan los resultados de campañas de medición de prospecciones geofísicas ejecutadas 
+mediante el método denominado Tomografía de Resistividad Eléctrica (ERT). A partir de este 
+levantamiento geofísico se generan modelos de distribución espacial de zonas de resistividad 
+relativamente homogéneas. Los trabajos de terreno se ejecutaron entre los días 23 y 30 de 
+julio de 2024.  
+Complementariamente, y de manera anexa, se incluyen los datos registrados, los modelos de 
+inversión desarrollados y los perfiles geoeléctricos resultantes, junto con un registro 
+fotográfico que muestra las condiciones del terreno durante el desarrollo de este trabajo.  
+1.1 LOCALIZACIÓN  
+El sector de estudio se encuentra ubicado al costado sur del viaducto de la vía Troncal Sur, 
+comuna de Viña del Mar, al límite con la comuna de Quilpué, región de Valparaíso. En el sector 
+sur de las cuencas Costeras entre Aconcagua y Maipo, en específico, en la subcuenca Estero 
+Marga-marga. Lo anterior, según la clasificación cuencas y subcuencas del Banco Nacional de 
+Aguas (BNA) de la Dirección General de Aguas (DGA). La Figura 1 muestra la ubicación general 
+del área estudiada.  
+1.2 OBJETIVO  
+El objetivo del estudio fue desarrollar un levantamiento geofísico mediante Tomografía de 
+Resistividad Eléctrica (ERT) con el fin de caracterizar el subsuelo de acuerdo con las 
+resistividades medidas para la caracterización de línea base hidrogeológica del proyecto de 
+relleno sanitario.  
+  
+
+===== p.4 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+5  
+  
+  
+Figura 1: Ubicación general del área de estudio.  
+1.3 ALCANCES  
+Los resultados del estudio están determinados por las condiciones locales de cada sector de 
+medición, el acceso a terreno despejado, el alcance y precisión del método geofísico aplicado 
+y la extensión de sus antenas, en conjunto con las técnicas y estrategias utilizadas en el trabajo 
+de campo.   
+La definición de las líneas o perfiles a ejecutar, la prioridad en la secuencia de adquisición de 
+los datos, la profundidad y alcances de la prospección y el método de caracterización geofísico 
+fueron definidos de acuerdo con los objetivos del presente estudio y en acuerdo con el cliente.   
+Los perfiles de resistividad eléctrica que se presentan en este informe se construyeron a partir 
+de modelos 2D, resultantes de una inversión de los datos de tomografía eléctrica medido en 
+terreno. Finalmente, las posiciones de las estaciones geofísicas se registraron mediante GPS 
+
+===== p.5 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+6  
+  
+navegador; en cuanto a las cotas, se extrajeron de un modelo de elevación digital 
+proporcionado por el cliente.  
+  
+1.4 ANTECEDENTES   
+La información utilizada para complementar los resultados geofísicos corresponde a los 
+siguientes estudios:   
+• Mapa geológico del área de estudio escala 1:1.000.000 (SERNAGEOMIN, 2003) • 
+Antecedentes geológicos generales en torno del área de estudio   
+  
+2. METODOLOGÍA   
+ 
+2.1 TEORÍA DE MÉTODO  
+La Tomografía de Resistividad Eléctrica o ERT (Electrical Resistivity Tomography) es una técnica 
+geofísica de resistividad multielectródica basado en la modelización 2-D de la resistividad del 
+terreno mediante el empleo de técnicas numéricas (elementos finitos o diferencias finitas). Sus 
+aplicaciones de uso consisten en determinar, con alta resolución espacial (tanto horizontal 
+como vertical), la distribución de la resistividad del subsuelo a partir de un número muy 
+elevado de medidas realizadas en forma automática desde la superficie del terreno. En la 
+literatura anglosajona este método es más conocido por el nombre de: “Electrical imaging”. En 
+Chile este método se ha conocido o mencionado en diferentes reportes como dipolodipolo, 
+pseudosecciones, Tomografía de resistividad eléctrica o últimamente como ERT.  
+Esta aplicación es la definición moderna de un sistema de perfiles eléctricos clásico que toma 
+ventaja de innovaciones tecnológicas tanto en la adquisición (con instrumentos multicanales 
+computarizados) como en el procesamiento e interpretación cuantitativa. Es una herramienta 
+de alta resolución eficiente en investigaciones ingenieriles, ambientales y mineras.  
+Esta técnica si bien nace en la década de los años 60, a partir de la década de los años 90 su 
+uso ha sido ampliamente extendida dado los avances en los procesos computacionales 
+requeridos para la inversión geofísica de los datos.  
+
+===== p.6 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+7  
+  
+La diferencia de potencial entre los electrodos de potencial o voltaje (P1, P2) es la diferencia 
+de la suma de los potenciales asociados a los electrodos de corriente (C1, C2) en cada punto 
+(P1, P2). Existen diferentes configuraciones, disposiciones o arreglos para desplegar en terreno 
+los pares de electrodos de potencial y corriente.  
+  
+Para ejecutar las mediciones y desplegar los arreglos electródicos en terreno, se requiere de 
+una serie de accesorios y/o equipos. El equipo necesario considera:  
+• 
+Electrodos: Barras o estacas metálicas cuyo número variará en función del problema  
+• 
+Cable: de gran longitud, con conexiones cada cierto intervalo a fin de poder conectar 
+los electrodos.  
+• 
+Conectores: son unos pequeños cables de cobre con pinzas en los extremos. Son los 
+que se encargan de conectar los electrodos al cable.  
+• 
+Computador portátil: en él tenemos el software que nos permite por un lado 
+determinar las variables de trabajo: tipo de dispositivo electródico, número de 
+electrodos, espaciado entre número de medidas a realizar, etc., y procesar y visualizar 
+los resultados obtenidos.  
+• 
+Unidad central (resistivímetro): es el cerebro de todo el dispositivo y ejecuta 
+automáticamente toda la secuencia de medidas predeterminada, verifica el buen 
+estado de las conexiones, y almacena digitalmente todas las mediciones. • Batería(s): 
+Son la fuente de alimentación de todo el sistema  
+  
+Para la adquisición de datos, se utiliza el concepto de construcción de la pseudosección de 
+valores de resistividad. Por ejemplo, para el caso del arreglo Wenner, se sitúa el dipolo MN 
+(P1P2) que contiene los electrodos que miden la variación del potencial, de forma lateral al par 
+de electrodos que inyectan corriente AB (C1C2); posteriormente se repite el procedimiento 
+para diferentes distancias dipolares (a, 2a, 3a, …). Finalmente, se obtiene un perfil de 
+resistividades del terreno o pseudosección con los valores de resistividad medidos, pero que 
+no representan las profundidades reales, para lo cual se requiere un proceso de modelación 
+geofísica e inversión de los datos de resistividad (Figura 2).   
+  
+  
+
+===== p.7 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+8  
+  
+ 
+Figura 2: Construcción de una pseudosección de valores de resistividad mediante ERT.  
+  
+2.2 PLANIFICACIÓN Y UBICACIÓN DE ESTACIONES EN TERRENO  
+Para ubicar los perfiles ERT en terreno, lo primero que debemos hacer es planificar las 
+mediciones ERT según los objetivos del estudio. Esta planificación se realiza en SIG QGIS o 
+ArcGIS.  
+Una vez determinados los puntos a medir en terreno, se realiza la confección del perfil ERT con 
+la finalidad de agilizar el trabajo en terreno. El perfil de ERT se divide en segmento 
+equiespaciados y se guardan coordenadas de estos puntos del perfil en el GPS de navegador.  
+Una vez realizado este procedimiento para todos los perfiles ERT del proyecto, estas 
+coordenadas se ingresan al GPS.  
+2.3 MEDICIONES EN TERRENO  
+Para lograr una medición exitosa en terreno lo primero es instalar bien las estacas y cables:  
+1.- Para colocar los electrodos de forma equiespaciada nos ayudaremos con GPS navegador y 
+cintas métricas. Al momento de colocar los electrodos en superficie de forma equiespaciada, 
+se debe mantener una línea recta (definir origen y fin del perfil), un cuando dependerá del 
+trazado planificado para cada perfil. Se intentará además que la topografía del terreno sea lo 
+más plana posible para evitar tener fenómenos anómalos en las medidas de resistividad. En el 
+caso que esto sea inevitable, el software de modelación permite minimizar este fenómeno 
+mediante el ajuste de la malla de datos.  
+
+===== p.8 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+9  
+  
+2.- Clavar en el terreno estacas con electrodos lo suficiente como para garantizar un buen 
+contacto electrodo-suelo.  
+3.- Luego se despliega un cable que une todas las estacas. Este cable irá directamente 
+conectado al resistivímetro y será el encargado de dar las señales a los electrodos según lo 
+seteado en el software.  
+3.- A través del computador portátil y el software asociado se configuran todas las variables del 
+dispositivo (nro. electrodos, distancia entre ellos, arreglo electródico, número de medidas a 
+realizar) y se transfieren estas especificaciones a la unidad central para que ésta pueda realizar 
+automáticamente toda la secuencia de mediciones prefijada.  
+4.- Antes de iniciar las mediciones y también mediante la unidad central, verifica que las 
+conexiones funcionan correctamente, y que la resistividad entre electrodo-suelo es 
+suficientemente baja como garantizar buenos resultados. En el caso de tener valores 
+superiores generalmente basta con clavar un poco más los electrodos, o humedecer el terreno 
+para mejorar la conductividad.  
+El equipo utilizado para las mediciones de resistividad fue el 4 point light 10 W de fabricación 
+alemana, el que se utilizó con batería externa y suministros de poder adicionales y una serie 
+de cadenas de cables y electrodos activos que permitieron la medición d en terreno d ellos 
+perfiles ERT.  
+  
+3. RESULTADOS  
+ 
+Durante los trabajos de terreno se logró levantar información de resistividades mediante once 
+(11) perfiles geoeléctricos ERT. La Figura 3 muestra las ubicaciones de los electrodos de 
+medición.  
+En el ANEXO A de este informe se muestran las coordenadas UTM de los electrodos ERT. En el 
+ANEXO B se presenta un registro fotográfico mostrando las condiciones operacionales de cada 
+sitio medido durante los trabajos de terreno. El ANERXO C presenta las secciones de 
+resistividad (datos, modelo sintético y modelo de resistividades) con valores extremos de 
+resistividades de acuerdo con los valores externos encontrados en cada sección. En el ANEXO 
+D se presentas estas mismas secciones, pero con una barra de color equivalente para todas 
+
+===== p.9 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+10  
+  
+ellas, lo que facilitará en trabajos a posteriori la delimitación unidades hidrogeológicas a partir 
+de estas secciones de resistividad con barra de resistividades común a todas las secciones.  
+A continuación, se presentan los resultados de las mediciones de resistividad en donde se 
+describe la obtención y control de calidad de los resultados de las determinaciones de 
+resistividad, los resultados propiamente tales obtenidos mediante la inversión de los datos 
+geofísicos y los perfiles geoeléctricos resultantes.  
+  
+3.1 ADQUISICIÓN Y CONTROL DE CALIDAD DE LAS RESISTIVIDADES  
+Las mediciones de terreno para obtener las resistividades del subsuelo se realizaron entre los 
+días 23 y 30 de julio de 2024, bajo condiciones atmosféricas favorables.  
+Se debe señalar que, en general, la planificación original respecto de la ubicación de las 
+estaciones geofísicas fue realizada en coherencia con los objetivos del estudio.   
+La estrategia consideró realizar once mediciones ERT: ocho mediciones largas de entre 490 
+metros y 800 metros de longitud, con separación dipolar de 10 metros; y tres perfiles cortos 
+de 145 metros de longitud, con separación dipolar de 5 metros.   
+Los perfiles largos, con el fin de obtener buenos alcances, tanto lateral como en profundidad; 
+y los perfiles más cortos, considerando obtener más detalle de las resistividades del sub-suelo 
+superficial. La Figura 3 presentada más adelante, muestra en detalle la localización de los 
+electrodos de los perfiles mencionados.  
+Para todos los perfiles, salvo excepciones que se pudieron mejorar, se registraron niveles de 
+resistencia de contacto bajos, lo que se condice con la buena calidad de las mediciones. Los 
+datos medidos mediante arreglo Wenner-Schlumberger, en general, presentaron un nivel 
+mínimo de ruido electromagnético, obteniéndose un bajo RMS en los modelos de inversión.   
+La inversión de los datos se realizó mediante el uso del software RES2DINV.  
+  
+
+===== p.10 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+11  
+  
+  
+Figura 3: Localización de los electrodos de los 11 perfiles en la zona de estudio.  
+3.2 PERFILES GEOELÉCTRICOS MEDIANTE ERT   
+A continuación, se muestran los resultados de los perfiles geoeléctricos construidos a partir de 
+los resultados de las modelaciones de cada perfil ERT, los que fueron obtenidos del proceso de 
+inversión y modelación geofísica.   
+3.2.1 Perfil ERT-01 740 m  
+La sección 1 de resistividad o perfil ERT-01, se realizó desde el Sur al Norte considerando un 
+largo total de 740 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 4 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 41 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 2926 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).  
+  
+
+===== p.11 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+12  
+  
+  
+Figura 4: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-01.  
+3.2.2 Perfil ERT-02 720 m  
+La sección 2 de resistividad o perfil ERT-02, se realizó desde el Sur al Norte considerando un 
+largo total de 720 m (Figura 5). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 5 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 62 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 2835 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).  
+  
+ 
+  
+Figura 5: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-02.  
+  
+ 
+ 
+
+===== p.12 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+13  
+  
+3.2.3 Perfil ERT-03 640 m  
+La sección 3 de resistividad o perfil ERT-03, se realizó desde el Sur al Norte considerando un 
+largo total de 640 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 6 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 85 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 5498 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).   
+  
+Figura 6: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-03.  
+3.2.4 Perfil ERT-04 740 m  
+La sección 4 de resistividad o perfil ERT-04, se realizó desde el Este al Oeste considerando un 
+largo total de 740 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 7 con barra de colores automática de acuerdo con los valores detectados en la 
+ubicación del perfil, indicando en color azul resistividades bajas, desde 47 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 2346 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).   
+
+===== p.13 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+14  
+  
+  
+Figura 7: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-04.  
+  
+3.2.5 Perfil ERT-05 800 m  
+La sección 5 de resistividad o perfil ERT-05, se realizó desde el Suroeste al Noreste considerando 
+un largo total de 800 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 8 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 122 Ohm-m, y en 
+color rojo resistividades elevadas, por sobre 7077 Ohm-m. Las elevaciones corresponden al 
+DEM proporcionado por el cliente (Anexo A).   
+  
+Figura 8: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-05.  
+3.2.6 Perfil ERT-06 490 m  
+La sección 6 de resistividad o perfil ERT-06, se realizó desde el Suroeste al Noreste considerando 
+un largo total de 490 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+
+===== p.14 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+15  
+  
+siguiente Figura 9 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 55 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 1105 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).  
+  
+Figura 9: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-06.  
+3.2.7 Perfil ERT-07 590 m  
+La sección 7 de resistividad o perfil ERT-07, se realizó desde el Noroeste al Sureste considerando 
+un largo total de 590 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 10 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 40 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 2844 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).  
+  
+Figura 10: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-07.  
+ 
+
+===== p.15 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+16  
+  
+3.2.8 Perfil ERT-08 740 m  
+La sección 8 de resistividad o perfil ERT-08, se realizó desde el Este al Oeste considerando un 
+largo total de 740 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 11 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 51 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 3745 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).  
+ 
+  
+Figura 11: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-08.  
+3.2.9 Perfil ERT-09 145 m  
+La sección 9 de resistividad o perfil ERT-09, se realizó desde el Suroeste al Noreste considerando 
+un largo total de 145 m (Figura 3). La sección de resistividad propiamente tal se muestra en la 
+siguiente Figura 12 con barra de colores automática de acuerdo con los valores detectados en 
+la ubicación del perfil, indicando en color azul resistividades bajas, desde 37 Ohm-m, y en color 
+rojo resistividades elevadas, por sobre 1115 Ohm-m. Las elevaciones corresponden al DEM 
+proporcionado por el cliente (Anexo A).  
+  
+Figura 12: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-09.  
+
+===== p.16 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+17  
+  
+3.2.10 Perfil ERT-10 145 m  
+La sección 10 de resistividad o perfil ERT-10, se realizó desde el Suroeste al Noreste 
+considerando un largo total de 145 m (Figura 3). La sección de resistividad propiamente tal se 
+muestra en la siguiente Figura 13 con barra de colores automática de acuerdo con los valores 
+detectados en la ubicación del perfil, indicando en color azul resistividades bajas, desde 41 
+Ohm-m, y en color rojo resistividades elevadas, por sobre 2926 Ohm-m. Las elevaciones 
+corresponden al DEM proporcionado por el cliente (Anexo A).  
+  
+Figura 13: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-10.  
+3.2.11 Perfil ERT-11 145 m  
+La  sección  11  de  resistividad  o  perfil  ERT-11,  se  realizó  desde  el  Sur  
+al   
+Norte considerando un largo total de 145 m (Figura 3). La sección de resistividad propiamente 
+tal se muestra en la siguiente Figura 14 con barra de colores automática de acuerdo con los 
+valores detectados en la ubicación del perfil, indicando en color azul resistividades bajas, desde 
+66 Ohm-m, y en color rojo resistividades elevadas, por sobre 848 Ohm-m. Las elevaciones 
+corresponden al DEM proporcionado por el cliente (Anexo A).  
+ 
+  
+Figura 14: Modelo de resistividad con topografía para el perfil geoeléctrico ERT-11.   
+
+===== p.17 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+18  
+  
+En el ANEXO C se presentan las secciones de resistividad aparente, modelo sintético y modelo 
+de resistividad de cada sección con y sin topografía, todas ellas orientadas de Oeste a Este.   
+3.1 PROPUESTA PRELIMINAR   
+Para realizar una propuesta de interpretación de los perfiles ERT se debe analizar el detalle de 
+cada sección de ERT de acuerdo con las características geológicas y antecedentes 
+hidrogeológicos de los sitios estudiados. Dada la nula información de pozos existentes a la 
+fecha, a continuación se plantea una propuesta de interpretación hidrogeológica preliminar o 
+inicial, la que se sugiere sea ajustada si corresponde con mayores antecedentes pozos.  
+De acuerdo con Gómez y Cáceres, 2023, el área del proyecto sanitario está conformado 
+íntegramente por rocas ígneas intrusivas. Gana et al., 1996, indica que estas corresponden a 
+unidades intrusivas del Jurásico tardío, conformadas por Tonalitas de anfíbol-biotita (Jlt). 
+Corresponde a tonalitas y granodioritas de hornblenda-biotita, gris claro, de grano medio a 
+grueso y con escasas inclusiones microdioríticas (<1%), conteniendo plagioclasa zonada, 
+ortoclasa y microclina pertítica, hornblenda reemplazada por biotita. Abundante apatito, 
+circón y epidota como accesorios y opacos granulares asociados a los minerales máficos. 
+Afloran en una franja continua nor-noroeste de 55 km de largo, entre Quilpué y Curacaví. 
+Poseen contactos graduales con rocas de una unidad de Tonalitas y monzodioritas cuarcíferas 
+(Jp). lntruye a las formaciones Ajial y Horqueta, generando en ellas, zonas de alteración 
+hidrotermal. Al este de Curacaví, se ha reconocido intruida por granitoides del Cretácico con 
+formación de zonas de enclaves magmáticos. Edades K-Ar en biotita en el intervalo 150-165 
+Ma; en anfíbola 161±4 Ma; isócrona Rb-Sr en roca total: 173±28 Ma (Hervé et at., 1988 en 
+Ganta et al., 1996). Similar información, respecto a la presencia de rocas graníticas en el sector 
+de estudio se indica en SERNAGEOMIN (2003).  
+A nivel de detalle se puede observar la presencia de regolito, material argilizado a nivel 
+superficial y desarrollo de suelo muy local.   
+Los valores de resistividad del subsuelo registrados en los perfiles ERT-01 a ERT-11 en el área 
+de estudio fluctúan entre 37 Ohm-m y más de 5498 Ohm-m. A la luz de los escasos 
+antecedentes hidrogeológicos existentes a la fecha, para efectuar una interpretación de las 
+resistividades aquí detectadas, es posible utilizar el cuadro resumen de valores de 
+resistividades para diferentes materiales geológicos (Figura 15).   
+
+===== p.18 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+19  
+  
+EN el Anexo D se presentan todos los perfiles de ERT con la misma barra de colores de 
+resistividad, de tal forma de poder comparar los valores y los perfiles. En ellos se observa que, 
+en general, la resistividad aumenta progresivamente al aumentar la profundidad. De acuerdo 
+con el contexto geológico del área de estudio y a los valores presentados en la Figura 15, se 
+propone una zona de transición de los 500-1000 Ohm-m para el basamento de baja a muy baja 
+porosidad y por sobre los 1000 Ohm-m un basamento de muy baja a nula porosidad. Por otro 
+lado, valores entre 100-500 se pueden asociar a niveles de roca con un mayor grado de 
+alteración y eventualmente mayor contenido de humedad en materiales predominantemente 
+rocosos, en ambos casos se estima que esos aumentos de humedad o de alteración son 
+mayores cuanto menor es la resistividad. Finalmente, los valores del orden de 30-100 Ohm-m 
+(Anexo D), se pueden relacionar con un mayor contenido de arcillas – regolito y/o una menor 
+proporción de material rocoso en la medida que las resistividades son menores.  
+ 
+Figura 16. Valores de resistividad de diferentes materiales geológicos (Aguirre et al., 2022)  
+Al considerar los materiales más porosos con valores de hasta 500 Ohm-m, es posible 
+establecer espesores promedio de 15 m (ERT-09, ERT-11), 15-25 (ERT-03), 25 m (ERT-01, ERT04, 
+ERT-05 y ERT-06), 25-30 m (ERT-02), 30 m (ERT-10) y 40 m (ERT-07 y ERT-08). De interés 
+hidrogeológico para analizar permeabilidad y/o contenido de humedad grado de saturación se 
+recomienda explorar directamente las anomalías más conductoras de los perfiles ERT-07 (200-
+230 m y 450-460 m) y ERT-08 (100-140 m).  
+  
+
+===== p.19 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+20  
+  
+4. CONCLUSIONES   
+ 
+  
+El presente estudio geofísico se desarrolló en la comuna de Viña del Mar, al límite con la 
+comuna de Quilpué, región de Valparaíso, sector sur de las cuencas Costeras entre Aconcagua 
+y Maipo, en específico, en la subcuenca Estero Marga-marga.   
+Las prospecciones geofísicas fueron realizadas mediante mediciones de once perfiles de 
+Tomografía de Resistividad Eléctrica mediante la configuración Wenner-Schlumberger. Ocho 
+de estos perfiles corresponden a mediciones largas, de entre 490 metros y 800 metros de 
+longitud, con separación dipolar de 10 metros; y tres de ellos, corresponden a perfiles cortos 
+de 145 metros de longitud, con separación dipolar de 5 metros.   
+Las secciones de resistividad ERT-01 a ERT-11 permitieron caracterizar las resistividades del 
+subsuelo con valores entre 37 Ohm-m y más de 5498 Ohm-m.  Se han considerado valores de 
+30-100 Ohm-m, 100-500 Ohm-m, 500-1000 Ohm-m y por sobre 1000 Ohm-m para caracterizar   
+hidrogeológicamente el subsuelo. Con lo anterior, se han estimado espesores de hasta 15-40 
+m de materiales posiblemente más porosos para cada uno de los perfiles ERT. En este sentido 
+se recomienda explorar directamente las anomalías más conductoras en el perfil ERT-07 entre 
+los 200-230 m y 450-460 m desde su origen y en el perfil ERT-08 entre los 100-140 m desde su 
+origen.  
+ 
+ 
+  
+ 
+ 
+
+===== p.20 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+21  
+  
+ 
+ 
+5. REFERENCIAS  
+ 
+  
+• 
+Aguirre, I., Maringue, J., Santibáñez, I., Yáñez, G. 2022. El rol de la exploración geofísica 
+en acuíferos profundos en ambientes semiurbanos y rurales en cuencas andinas de 
+ante arco:  caso de estudio en acuífero del río Ñuble, valle central de Chile. Andean 
+Geology 49 (1): 18-54. Enero, 2022 doi: 10.5027/andgeoV49n1-3370.  
+• 
+Gana, P., Wall, R., Gutiérrez, A. 1996. Mapa geológico del área de Valparaíso-Curacaví, 
+regiones de Valparaíso y Metropolitana.   
+• 
+SERNAGEOMIN, 2003. Mapa geológico de Chile: versión digital. Escala 1:1.000.000.  
+• 
+Gómez, M. y Cáceres, M. 2023. Reconocimiento geológico-estructural del complejo 
+para tratamiento y disposición de residuos sólidos urbanos Viña del Mar.  
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.21 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+22  
+  
+6. ANEXOS  
+ 
+6.1 ANEXO A: UBICACIÓN ESTACIONES GEOFÍSICAS  
+Tabla A1. Localización estaciones ERT (UTM WGS84, Huso 19)  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT01-10m  
+267932  
+6336669  
+ERT01-20m  
+267930  
+6336679  
+ERT01-30m  
+267929  
+6336689  
+ERT01-40m  
+267927  
+6336699  
+ERT01-50m  
+267925  
+6336708  
+ERT01-60m  
+267924  
+6336718  
+ERT01-70m  
+267922  
+6336728  
+ERT01-80m  
+267921  
+6336738  
+ERT01-90m  
+267919  
+6336748  
+ERT01-100m  
+267917  
+6336758  
+ERT01-110m  
+267916  
+6336768  
+ERT01-120m  
+267914  
+6336777  
+ERT01-130m  
+267912  
+6336787  
+ERT01-140m  
+267911  
+6336797  
+ERT01-150m  
+267909  
+6336807  
+ERT01-160m  
+267908  
+6336817  
+ERT01-170m  
+267906  
+6336827  
+ERT01-180m  
+267904  
+6336837  
+ERT01-190m  
+267903  
+6336847  
+ERT01-200m  
+267901  
+6336856  
+ERT01-210m  
+267900  
+6336866  
+ERT01-220m  
+267898  
+6336876  
+ERT01-230m  
+267896  
+6336886  
+ERT01-240m  
+267895  
+6336896  
+ERT01-250m  
+267893  
+6336906  
+ERT01-260m  
+267892  
+6336916  
+ERT01-270m  
+267890  
+6336925  
+ERT01-280m  
+267888  
+6336935  
+ERT01-290m  
+267887  
+6336945  
+ERT01-300m  
+267885  
+6336955  
+ERT01-310m  
+267883  
+6336965  
+ERT01-320m  
+267882  
+6336975  
+
+===== p.22 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+23  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT01-330m  
+267880  
+6336985  
+ERT01-340m  
+267879  
+6336995  
+ERT01-350m  
+267877  
+6337004  
+ERT01-360m  
+267875  
+6337014  
+ERT01-370m  
+267874  
+6337024  
+ERT01-380m  
+267872  
+6337034  
+ERT01-390m  
+267871  
+6337044  
+ERT01-400m  
+267869  
+6337054  
+ERT01-410m  
+267867  
+6337064  
+ERT01-420m  
+267866  
+6337074  
+ERT01-430m  
+267864  
+6337083  
+ERT01-440m  
+267862  
+6337093  
+ERT01-450m  
+267861  
+6337103  
+ERT01-460m  
+267859  
+6337113  
+ERT01-470m  
+267858  
+6337123  
+ERT01-480m  
+267856  
+6337133  
+ERT01-490m  
+267854  
+6337143  
+ERT01-500m  
+267853  
+6337152  
+ERT01-510m  
+267851  
+6337162  
+ERT01-520m  
+267850  
+6337172  
+ERT01-530m  
+267848  
+6337182  
+ERT01-540m  
+267847  
+6337192  
+ERT01-550m  
+267845  
+6337202  
+ERT01-560m  
+267844  
+6337212  
+ERT01-570m  
+267843  
+6337222  
+ERT01-580m  
+267842  
+6337232  
+ERT01-590m  
+267840  
+6337242  
+ERT01-600m  
+267839  
+6337251  
+ERT01-610m  
+267838  
+6337261  
+ERT01-620m  
+267836  
+6337271  
+ERT01-630m  
+267835  
+6337281  
+ERT01-640m  
+267833  
+6337291  
+ERT01-650m  
+267831  
+6337301  
+ERT01-660m  
+267829  
+6337311  
+ERT01-670m  
+267827  
+6337320  
+ERT01-680m  
+267825  
+6337330  
+ERT01-690m  
+267823  
+6337340  
+ERT01-700m  
+267821  
+6337350  
+ERT01-710m  
+267819  
+6337360  
+
+===== p.23 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+24  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT01-720m  
+267817  
+6337369  
+ERT01-730m  
+267815  
+6337379  
+ERT01-740m  
+267813  
+6337389  
+ERT02-0m  
+267698  
+6336733  
+ERT02-10m  
+267702  
+6336742  
+ERT02-20m  
+267707  
+6336751  
+ERT02-30m  
+267712  
+6336760  
+ERT02-40m  
+267717  
+6336769  
+ERT02-50m  
+267721  
+6336777  
+ERT02-60m  
+267726  
+6336786  
+ERT02-70m  
+267731  
+6336795  
+ERT02-80m  
+267736  
+6336804  
+ERT02-90m  
+267740  
+6336813  
+ERT02-100m  
+267745  
+6336821  
+ERT02-110m  
+267750  
+6336830  
+ERT02-120m  
+267755  
+6336839  
+ERT02-130m  
+267759  
+6336848  
+ERT02-140m  
+267764  
+6336857  
+ERT02-150m  
+267769  
+6336866  
+ERT02-160m  
+267773  
+6336874  
+ERT02-170m  
+267778  
+6336883  
+ERT02-180m  
+267782  
+6336892  
+ERT02-190m  
+267787  
+6336901  
+ERT02-200m  
+267791  
+6336910  
+ERT02-210m  
+267796  
+6336919  
+ERT02-220m  
+267800  
+6336928  
+ERT02-230m  
+267805  
+6336937  
+ERT02-240m  
+267809  
+6336946  
+ERT02-250m  
+267814  
+6336955  
+ERT02-260m  
+267818  
+6336964  
+ERT02-270m  
+267823  
+6336972  
+ERT02-280m  
+267828  
+6336981  
+ERT02-290m  
+267832  
+6336990  
+ERT02-300m  
+267837  
+6336999  
+ERT02-310m  
+267841  
+6337008  
+ERT02-320m  
+267846  
+6337017  
+ERT02-330m  
+267850  
+6337026  
+ERT02-340m  
+267855  
+6337035  
+ERT02-350m  
+267859  
+6337044  
+
+===== p.24 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+25  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT02-360m  
+267864  
+6337053  
+ERT02-370m  
+267868  
+6337062  
+ERT02-380m  
+267873  
+6337071  
+ERT02-390m  
+267877  
+6337079  
+ERT02-400m  
+267882  
+6337088  
+ERT02-410m  
+267887  
+6337097  
+ERT02-420m  
+267891  
+6337106  
+ERT02-430m  
+267896  
+6337115  
+ERT02-440m  
+267900  
+6337124  
+ERT02-450m  
+267905  
+6337133  
+ERT02-460m  
+267909  
+6337142  
+ERT02-470m  
+267914  
+6337151  
+ERT02-480m  
+267918  
+6337160  
+ERT02-490m  
+267922  
+6337169  
+ERT02-500m  
+267926  
+6337178  
+ERT02-510m  
+267930  
+6337187  
+ERT02-520m  
+267934  
+6337196  
+ERT02-530m  
+267939  
+6337205  
+ERT02-540m  
+267943  
+6337214  
+ERT02-550m  
+267947  
+6337224  
+ERT02-560m  
+267951  
+6337233  
+ERT02-570m  
+267955  
+6337242  
+ERT02-580m  
+267959  
+6337251  
+ERT02-590m  
+267963  
+6337260  
+ERT02-600m  
+267967  
+6337269  
+ERT02-610m  
+267971  
+6337278  
+ERT02-620m  
+267976  
+6337287  
+ERT02-630m  
+267980  
+6337296  
+ERT02-640m  
+267984  
+6337306  
+ERT02-650m  
+267988  
+6337315  
+ERT02-660m  
+267993  
+6337323  
+ERT02-670m  
+267998  
+6337332  
+ERT02-680m  
+268003  
+6337340  
+ERT02-690m  
+268009  
+6337349  
+ERT02-700m  
+268011  
+6337358  
+ERT02-710m  
+268013  
+6337368  
+ERT02-720m  
+268014  
+6337378  
+ERT03-0m  
+268196  
+6336882  
+ERT03-10m  
+268194  
+6336891  
+
+===== p.25 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+26  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ 
+ 
+ 
+ERT03-20m  
+268192  
+6336901  
+ERT03-30m  
+268190  
+6336911  
+ERT03-40m  
+268189  
+6336921  
+ERT03-50m  
+268187  
+6336931  
+ERT03-60m  
+268185  
+6336941  
+ERT03-70m  
+268183  
+6336950  
+ERT03-80m  
+268181  
+6336960  
+ERT03-90m  
+268179  
+6336970  
+ERT03-100m  
+268177  
+6336980  
+ERT03-110m  
+268175  
+6336989  
+ERT03-120m  
+268174  
+6336999  
+ERT03-130m  
+268172  
+6337009  
+ERT03-140m  
+268170  
+6337019  
+ERT03-150m  
+268168  
+6337029  
+ERT03-160m  
+268166  
+6337039  
+ERT03-170m  
+268164  
+6337048  
+ERT03-180m  
+268162  
+6337058  
+ERT03-190m  
+268161  
+6337068  
+ERT03-200m  
+268159  
+6337078  
+ERT03-210m  
+268157  
+6337088  
+ERT03-220m  
+268155  
+6337098  
+ERT03-230m  
+268153  
+6337107  
+ERT03-240m  
+268151  
+6337117  
+ERT03-250m  
+268149  
+6337127  
+ERT03-260m  
+268147  
+6337137  
+ERT03-270m  
+268145  
+6337147  
+ERT03-280m  
+268144  
+6337157  
+ERT03-290m  
+268142  
+6337166  
+ERT03-300m  
+268140  
+6337176  
+ERT03-310m  
+268138  
+6337186  
+ERT03-320m  
+268136  
+6337196  
+ERT03-330m  
+268134  
+6337206  
+ERT03-340m  
+268132  
+6337216  
+ERT03-350m  
+268131  
+6337225  
+ERT03-360m  
+268128  
+6337235  
+ERT03-370m  
+268125  
+6337245  
+ERT03-380m  
+268123  
+6337254  
+ERT03-390m  
+268120  
+6337264  
+ERT03-400m  
+268117  
+6337274  
+
+===== p.26 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+27  
+  
+Estación ERT 
+Coordenada Este Coordenada Norte 
+ERT03-410m  
+268114  
+6337283  
+ERT03-420m  
+268112  
+6337293  
+ERT03-430m  
+268109  
+6337302  
+ERT03-440m  
+268106  
+6337312  
+ERT03-450m  
+268104  
+6337322  
+ERT03-460m  
+268101  
+6337331  
+ERT03-470m  
+268098  
+6337341  
+ERT03-480m  
+268095  
+6337351  
+ERT03-490m  
+268093  
+6337360  
+ERT03-500m  
+268090  
+6337370  
+ERT03-510m  
+268087  
+6337379  
+ERT03-520m  
+268084  
+6337389  
+ERT03-530m  
+268083  
+6337399  
+ERT03-540m  
+268083  
+6337409  
+ERT03-550m  
+268082  
+6337419  
+ERT03-560m  
+268081  
+6337429  
+ERT03-570m  
+268080  
+6337439  
+ERT03-580m  
+268080  
+6337449  
+ERT03-590m  
+268079  
+6337459  
+ERT03-600m  
+268078  
+6337469  
+ERT03-610m  
+268077  
+6337479  
+ERT03-620m  
+268077  
+6337489  
+ERT03-630m  
+268076  
+6337499  
+ERT03-640m  
+268075  
+6337509  
+ERT04-0m  
+268510  
+6336833  
+ERT04-10m  
+268501  
+6336829  
+ERT04-20m  
+268491  
+6336828  
+ERT04-30m  
+268481  
+6336827  
+ERT04-40m  
+268471  
+6336827  
+ERT04-50m  
+268461  
+6336826  
+ERT04-60m  
+268451  
+6336824  
+ERT04-70m  
+268441  
+6336822  
+ERT04-80m  
+268431  
+6336819  
+ERT04-90m  
+268422  
+6336820  
+ERT04-100m  
+268412  
+6336822  
+ERT04-110m  
+268402  
+6336824  
+ERT04-120m  
+268392  
+6336821  
+ERT04-130m  
+268383  
+6336818  
+ERT04-140m  
+268373  
+6336815  
+
+===== p.27 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+28  
+  
+Estación ERT 
+Coordenada Este Coordenada Norte 
+ERT04-150m  
+268365  
+6336810  
+ERT04-160m  
+268356  
+6336805  
+ERT04-170m  
+268347  
+6336801  
+ERT04-180m  
+268338  
+6336796  
+ERT04-190m  
+268329  
+6336792  
+ERT04-200m  
+268320  
+6336789  
+ERT04-210m  
+268310  
+6336786  
+ERT04-220m  
+268301  
+6336783  
+ERT04-230m  
+268291  
+6336780  
+ERT04-240m  
+268281  
+6336777  
+ERT04-250m  
+268272  
+6336774  
+ERT04-260m  
+268262  
+6336771  
+ERT04-270m  
+268253  
+6336768  
+ERT04-280m  
+268243  
+6336765  
+ERT04-290m  
+268234  
+6336763  
+ERT04-300m  
+268224  
+6336760  
+ERT04-310m  
+268214  
+6336757  
+ERT04-320m  
+268205  
+6336755  
+ERT04-330m  
+268195  
+6336752  
+ERT04-340m  
+268185  
+6336750  
+ERT04-350m  
+268176  
+6336747  
+ERT04-360m  
+268166  
+6336745  
+ERT04-370m  
+268156  
+6336742  
+ERT04-380m  
+268147  
+6336740  
+ERT04-390m  
+268137  
+6336737  
+ERT04-400m  
+268127  
+6336735  
+ERT04-410m  
+268117  
+6336732  
+ERT04-420m  
+268108  
+6336730  
+ERT04-430m  
+268098  
+6336727  
+ERT04-440m  
+268088  
+6336725  
+ERT04-450m  
+268079  
+6336722  
+ERT04-460m  
+268069  
+6336720  
+ERT04-470m  
+268059  
+6336717  
+ERT04-480m  
+268050  
+6336715  
+ERT04-490m  
+268040  
+6336712  
+ERT04-500m  
+268030  
+6336710  
+ERT04-510m  
+268021  
+6336707  
+ERT04-520m  
+268011  
+6336705  
+ERT04-530m  
+268001  
+6336702  
+
+===== p.28 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+29  
+  
+Estación ERT 
+Coordenada 
+Este 
+Coordenada Norte 
+ERT04-540m  
+267992  
+6336699  
+ERT04-550m  
+267982  
+6336697  
+ERT04-560m  
+267972  
+6336694  
+ERT04-570m  
+267963  
+6336692  
+ERT04-580m  
+267953  
+6336689  
+ERT04-590m  
+267943  
+6336687  
+ERT04-600m  
+267934  
+6336684  
+ERT04-610m  
+267924  
+6336682  
+ERT04-620m  
+267914  
+6336679  
+ERT04-630m  
+267905  
+6336677  
+ERT04-640m  
+267895  
+6336674  
+ERT04-650m  
+267885  
+6336672  
+ERT04-660m  
+267876  
+6336669  
+ERT04-670m  
+267866  
+6336667  
+ERT04-680m  
+267856  
+6336664  
+ERT04-690m  
+267846  
+6336662  
+ERT04-700m  
+267837  
+6336659  
+ERT04-710m  
+267827  
+6336657  
+ERT04-720m  
+267817  
+6336654  
+ERT04-730m  
+267808  
+6336652  
+ERT04-740m  
+267798  
+6336649  
+ERT05-0m  
+267967  
+6336915  
+ERT05-10m  
+267974  
+6336923  
+ERT05-20m  
+267980  
+6336931  
+ERT05-30m  
+267986  
+6336939  
+ERT05-40m  
+267992  
+6336947  
+ERT05-50m  
+267999  
+6336954  
+ERT05-60m  
+268005  
+6336962  
+ERT05-70m  
+268011  
+6336970  
+ERT05-80m  
+268017  
+6336978  
+ERT05-90m  
+268024  
+6336986  
+ERT05-100m  
+268030  
+6336993  
+ERT05-110m  
+268036  
+6337001  
+ERT05-120m  
+268042  
+6337009  
+ERT05-130m  
+268049  
+6337017  
+ERT05-140m  
+268055  
+6337025  
+ERT05-150m  
+268061  
+6337032  
+ERT05-160m  
+268068  
+6337040  
+ERT05-170m  
+268074  
+6337048  
+
+===== p.29 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+30  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT05-180m  
+268080  
+6337056  
+ERT05-190m  
+268086  
+6337063  
+ERT05-200m  
+268093  
+6337071  
+ERT05-210m  
+268099  
+6337079  
+ERT05-220m  
+268105  
+6337087  
+ERT05-230m  
+268111  
+6337095  
+ERT05-240m  
+268118  
+6337102  
+ERT05-250m  
+268124  
+6337110  
+ERT05-260m  
+268130  
+6337118  
+ERT05-270m  
+268137  
+6337126  
+ERT05-280m  
+268143  
+6337133  
+ERT05-290m  
+268150  
+6337141  
+ERT05-300m  
+268156  
+6337149  
+ERT05-310m  
+268163  
+6337156  
+ERT05-320m  
+268169  
+6337164  
+ERT05-330m  
+268175  
+6337171  
+ERT05-340m  
+268182  
+6337179  
+ERT05-350m  
+268188  
+6337187  
+ERT05-360m  
+268195  
+6337194  
+ERT05-370m  
+268201  
+6337202  
+ERT05-380m  
+268208  
+6337210  
+ERT05-390m  
+268214  
+6337217  
+ERT05-400m  
+268221  
+6337225  
+ERT05-410m  
+268227  
+6337233  
+ERT05-420m  
+268234  
+6337240  
+ERT05-430m  
+268240  
+6337248  
+ERT05-440m  
+268246  
+6337256  
+ERT05-450m  
+268253  
+6337263  
+ERT05-460m  
+268259  
+6337271  
+ERT05-470m  
+268266  
+6337278  
+ERT05-480m  
+268272  
+6337286  
+ERT05-490m  
+268279  
+6337294  
+ERT05-500m  
+268285  
+6337301  
+ERT05-510m  
+268292  
+6337309  
+ERT05-520m  
+268298  
+6337317  
+ERT05-530m  
+268304  
+6337324  
+ERT05-540m  
+268311  
+6337332  
+ERT05-550m  
+268317  
+6337340  
+ERT05-560m  
+268324  
+6337347  
+
+===== p.30 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+31  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT05-570m  
+268330  
+6337355  
+ERT05-580m  
+268337  
+6337363  
+ERT05-590m  
+268343  
+6337370  
+ERT05-600m  
+268350  
+6337378  
+ERT05-610m  
+268356  
+6337385  
+ERT05-620m  
+268363  
+6337393  
+ERT05-630m  
+268369  
+6337401  
+ERT05-640m  
+268375  
+6337408  
+ERT05-650m  
+268382  
+6337416  
+ERT05-660m  
+268388  
+6337424  
+ERT05-670m  
+268395  
+6337431  
+ERT05-680m  
+268401  
+6337439  
+ERT05-690m  
+268408  
+6337447  
+ERT05-700m  
+268414  
+6337454  
+ERT05-710m  
+268421  
+6337462  
+ERT05-720m  
+268427  
+6337469  
+ERT05-730m  
+268433  
+6337477  
+ERT05-740m  
+268440  
+6337485  
+ERT05-750m  
+268446  
+6337492  
+ERT05-760m  
+268453  
+6337500  
+ERT05-770m  
+268459  
+6337508  
+ERT05-780m  
+268466  
+6337515  
+ERT05-790m  
+268472  
+6337523  
+ERT05-800m  
+268479  
+6337531  
+ERT06-0m  
+268139  
+6336897  
+ERT06-10m  
+268146  
+6336905  
+ERT06-20m  
+268152  
+6336912  
+ERT06-30m  
+268158  
+6336920  
+ERT06-40m  
+268165  
+6336928  
+ERT06-50m  
+268171  
+6336936  
+ERT06-60m  
+268177  
+6336943  
+ERT06-70m  
+268183  
+6336951  
+ERT06-80m  
+268190  
+6336959  
+ERT06-90m  
+268196  
+6336967  
+ERT06-100m  
+268202  
+6336974  
+ERT06-110m  
+268209  
+6336982  
+ERT06-120m  
+268215  
+6336990  
+ERT06-130m  
+268221  
+6336998  
+ERT06-140m  
+268227  
+6337006  
+
+===== p.31 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+32  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT06-150m  
+268234  
+6337013  
+ERT06-160m  
+268240  
+6337021  
+ERT06-170m  
+268247  
+6337028  
+ERT06-180m  
+268254  
+6337036  
+ERT06-190m  
+268261  
+6337043  
+ERT06-200m  
+268267  
+6337050  
+ERT06-210m  
+268274  
+6337058  
+ERT06-220m  
+268281  
+6337065  
+ERT06-230m  
+268288  
+6337072  
+ERT06-240m  
+268294  
+6337080  
+ERT06-250m  
+268301  
+6337087  
+ERT06-260m  
+268308  
+6337094  
+ERT06-270m  
+268315  
+6337102  
+ERT06-280m  
+268322  
+6337109  
+ERT06-290m  
+268328  
+6337117  
+ERT06-300m  
+268335  
+6337124  
+ERT06-310m  
+268341  
+6337132  
+ERT06-320m  
+268348  
+6337140  
+ERT06-330m  
+268354  
+6337147  
+ERT06-340m  
+268360  
+6337155  
+ERT06-350m  
+268366  
+6337163  
+ERT06-360m  
+268373  
+6337171  
+ERT06-370m  
+268379  
+6337178  
+ERT06-380m  
+268385  
+6337186  
+ERT06-390m  
+268392  
+6337194  
+ERT06-400m  
+268398  
+6337202  
+ERT06-410m  
+268404  
+6337209  
+ERT06-420m  
+268411  
+6337217  
+ERT06-430m  
+268416  
+6337225  
+ERT06-440m  
+268422  
+6337234  
+ERT06-450m  
+268428  
+6337242  
+ERT06-460m  
+268434  
+6337250  
+ERT06-470m  
+268440  
+6337258  
+ERT06-480m  
+268445  
+6337266  
+ERT06-490m  
+268451  
+6337274  
+ERT07-0m  
+268291  
+6337449  
+ERT07-10m  
+268298  
+6337443  
+ERT07-20m  
+268306  
+6337437  
+ERT07-30m  
+268314  
+6337431  
+
+===== p.32 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+33  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT07-40m  
+268321  
+6337424  
+ERT07-50m  
+268328  
+6337416  
+ERT07-60m  
+268335  
+6337409  
+ERT07-70m  
+268341  
+6337401  
+ERT07-80m  
+268348  
+6337394  
+ERT07-90m  
+268355  
+6337387  
+ERT07-100m  
+268362  
+6337379  
+ERT07-110m  
+268368  
+6337372  
+ERT07-120m  
+268374  
+6337364  
+ERT07-130m  
+268379  
+6337355  
+ERT07-140m  
+268385  
+6337347  
+ERT07-150m  
+268390  
+6337338  
+ERT07-160m  
+268396  
+6337330  
+ERT07-170m  
+268405  
+6337326  
+ERT07-180m  
+268414  
+6337321  
+ERT07-190m  
+268423  
+6337316  
+ERT07-200m  
+268431  
+6337311  
+ERT07-210m  
+268440  
+6337307  
+ERT07-220m  
+268449  
+6337302  
+ERT07-230m  
+268456  
+6337295  
+ERT07-240m  
+268463  
+6337288  
+ERT07-250m  
+268471  
+6337281  
+ERT07-260m  
+268478  
+6337275  
+ERT07-270m  
+268485  
+6337268  
+ERT07-280m  
+268493  
+6337261  
+ERT07-290m  
+268500  
+6337254  
+ERT07-300m  
+268508  
+6337248  
+ERT07-310m  
+268515  
+6337241  
+ERT07-320m  
+268522  
+6337234  
+ERT07-330m  
+268530  
+6337227  
+ERT07-340m  
+268537  
+6337220  
+ERT07-350m  
+268544  
+6337214  
+ERT07-360m  
+268551  
+6337206  
+ERT07-370m  
+268558  
+6337199  
+ERT07-380m  
+268565  
+6337192  
+ERT07-390m  
+268572  
+6337184  
+ERT07-400m  
+268578  
+6337177  
+ERT07-410m  
+268585  
+6337170  
+ERT07-420m  
+268592  
+6337162  
+
+===== p.33 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+34  
+  
+ Estación ERT  
+ Coordenada Este    
+Coordenada 
+Norte    
+ERT07-430m  
+268599  
+6337155  
+ERT07-440m  
+268606  
+6337148  
+ERT07-450m  
+268614  
+6337143  
+ERT07-460m  
+268622  
+6337137  
+ERT07-470m  
+268630  
+6337131  
+ERT07-480m  
+268639  
+6337125  
+ERT07-490m  
+268647  
+6337119  
+ERT07-500m  
+268655  
+6337113  
+ERT07-510m  
+268663  
+6337108  
+ERT07-520m  
+268667  
+6337098  
+ERT07-530m  
+268671  
+6337089  
+ERT07-540m  
+268674  
+6337080  
+ERT07-550m  
+268678  
+6337071  
+ERT07-560m  
+268682  
+6337062  
+ERT07-570m  
+268686  
+6337052  
+ERT07-580m  
+268690  
+6337043  
+ERT07-590m  
+268694  
+6337034  
+ERT08-0m  
+268744  
+6337354  
+ERT08-10m  
+268726  
+6337362  
+ERT08-20m  
+268735  
+6337358  
+ERT08-30m  
+268716  
+6337366  
+ERT08-40m  
+268707  
+6337370  
+ERT08-50m  
+268698  
+6337374  
+ERT08-60m  
+268689  
+6337378  
+ERT08-70m  
+268680  
+6337382  
+ERT08-80m  
+268671  
+6337386  
+ERT08-90m  
+268661  
+6337390  
+ERT08-100m  
+268652  
+6337394  
+ERT08-110m  
+268643  
+6337397  
+ERT08-120m  
+268633  
+6337400  
+ERT08-130m  
+268624  
+6337403  
+ERT08-140m  
+268614  
+6337406  
+ERT05-150m  
+268604  
+6337408  
+ERT08-160m  
+268595  
+6337413  
+ERT08-170m  
+268587  
+6337418  
+ERT08-180m  
+268578  
+6337423  
+ERT08-190m  
+268570  
+6337428  
+ERT08-200m  
+268560  
+6337430  
+ERT08-210m  
+268550  
+6337433  
+
+===== p.34 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+35  
+  
+ 
+Estación ERT  
+ 
+Coordenada Este  
+  
+Coordenada 
+Norte    
+ERT08-220m  
+268540  
+6337435  
+ERT08-230m  
+268531  
+6337437  
+ERT08-240m  
+268521  
+6337438  
+ERT08-250m  
+268511  
+6337439  
+ERT08-260m  
+268501  
+6337440  
+ERT08-270m  
+268491  
+6337441  
+ERT08-280m  
+268481  
+6337443  
+ERT08-290m  
+268472  
+6337446  
+ERT08-300m  
+268462  
+6337450  
+ERT08-310m  
+268453  
+6337453  
+ERT08-320m  
+268444  
+6337457  
+ERT08-330m  
+268434  
+6337460  
+ERT08-340m  
+268425  
+6337464  
+ERT08-350m  
+268415  
+6337467  
+ERT08-360m  
+268407  
+6337472  
+ERT08-370m  
+268398  
+6337477  
+ERT08-380m  
+268389  
+6337481  
+ERT08-390m  
+268380  
+6337486  
+ERT08-400m  
+268371  
+6337490  
+ERT08-410m  
+268362  
+6337495  
+ERT08-420m  
+268353  
+6337500  
+ERT08-430m  
+268345  
+6337504  
+ERT08-440m  
+268336  
+6337509  
+ERT08-450m  
+268327  
+6337514  
+ERT08-460m  
+268318  
+6337519  
+ERT08-470m  
+268310  
+6337524  
+ERT08-480m  
+268301  
+6337530  
+ERT08-490m  
+268293  
+6337535  
+ERT08-500m  
+268285  
+6337540  
+ERT08-510m  
+268276  
+6337546  
+ERT08-520m  
+268268  
+6337551  
+ERT08-530m  
+268259  
+6337556  
+ERT08-540m  
+268251  
+6337561  
+ERT08-550m  
+268242  
+6337567  
+ERT08-560m  
+268234  
+6337572  
+ERT08-570m  
+268225  
+6337577  
+ERT08-580m  
+268217  
+6337583  
+ERT08-590m  
+268208  
+6337588  
+ERT08-600m  
+268200  
+6337593  
+
+===== p.35 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+36  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT08-610m  
+268191  
+6337599  
+ERT08-620m  
+268183  
+6337604  
+ERT08-630m  
+268174  
+6337608  
+ERT08-640m  
+268164  
+6337610  
+ERT08-650m  
+268154  
+6337612  
+ERT08-660m  
+268145  
+6337614  
+ERT08-670m  
+268135  
+6337616  
+ERT08-680m  
+268125  
+6337619  
+ERT08-690m  
+268116  
+6337622  
+ERT08-700m  
+268106  
+6337624  
+ERT08-710m  
+268096  
+6337625  
+ERT08-720m  
+268086  
+6337625  
+ERT08-730m  
+268076  
+6337626  
+ERT08-740m  
+268066  
+6337626  
+ERT09-0m  
+268550  
+6337115  
+ERT09-5m  
+268647  
+6337215  
+ERT09-10m  
+268553  
+6337118  
+ERT09-15m  
+268557  
+6337122  
+ERT09-20m  
+268560  
+6337126  
+ERT09-25m  
+268563  
+6337130  
+ERT09-30m  
+268566  
+6337134  
+ERT09-35m  
+268569  
+6337138  
+ERT09-40m  
+268573  
+6337141  
+ERT09-45m  
+268576  
+6337145  
+ERT09-50m  
+268579  
+6337149  
+ERT09-55m  
+268582  
+6337153  
+ERT09-60m  
+268586  
+6337156  
+ERT09-65m  
+268590  
+6337160  
+ERT09-70m  
+268593  
+6337163  
+ERT09-75m  
+268597  
+6337167  
+ERT09-80m  
+268600  
+6337170  
+ERT09-85m  
+268604  
+6337174  
+ERT09-90m  
+268608  
+6337177  
+ERT09-95m  
+268611  
+6337181  
+ERT09-100m  
+268615  
+6337184  
+ERT09-105m  
+268618  
+6337188  
+ERT09-110m  
+268622  
+6337191  
+ERT09-115m  
+268625  
+6337195  
+ERT09-120m  
+268629  
+6337198  
+
+===== p.36 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+37  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT09-125m  
+268633  
+6337201  
+ERT09-130m  
+268636  
+6337205  
+ERT09-135m  
+268640  
+6337208  
+ERT09-140m  
+268643  
+6337212  
+ERT09-145m  
+268650  
+6337219  
+ERT10-0m  
+268139  
+6336897  
+ERT10-5m  
+268143  
+6336901  
+ERT10-10m  
+268146  
+6336905  
+ERT10-15m  
+268149  
+6336908  
+ERT10-20m  
+268152  
+6336912  
+ERT10-25m  
+268155  
+6336916  
+ERT10-30m  
+268158  
+6336920  
+ERT10-35m  
+268161  
+6336924  
+ERT10-40m  
+268165  
+6336928  
+ERT10-45m  
+268168  
+6336932  
+ERT10-50m  
+268171  
+6336936  
+ERT10-55m  
+268174  
+6336939  
+ERT10-60m  
+268177  
+6336943  
+ERT10-65m  
+268180  
+6336947  
+ERT10-70m  
+268183  
+6336951  
+ERT10-75m  
+268187  
+6336955  
+ERT10-80m  
+268190  
+6336959  
+ERT10-85m  
+268193  
+6336963  
+ERT10-90m  
+268196  
+6336967  
+ERT10-95m  
+268199  
+6336971  
+ERT10-100m  
+268202  
+6336974  
+ERT10-105m  
+268206  
+6336978  
+ERT10-110m  
+268209  
+6336982  
+ERT10-115m  
+268212  
+6336986  
+ERT10-120m  
+268215  
+6336990  
+ERT10-125m  
+268218  
+6336994  
+ERT10-130m  
+268221  
+6336998  
+ERT10-135m  
+268224  
+6337002  
+ERT10-140m  
+268231  
+6337009  
+ERT10-145m  
+268228  
+6337006  
+ERT11-0m  
+267879  
+6336990  
+ERT11-5m  
+267879  
+6336995  
+ERT11-10m  
+267878  
+6336999  
+ERT11-15m  
+267877  
+6337004  
+
+===== p.37 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+38  
+  
+Estación ERT 
+Coordenada Este 
+Coordenada Norte 
+ERT11-20m  
+267876  
+6337009  
+ERT11-25m  
+267875  
+6337014  
+ERT11-30m  
+267875  
+6337019  
+ERT11-35m  
+267874  
+6337024  
+ERT11-40m  
+267873  
+6337029  
+ERT11-45m  
+267872  
+6337034  
+ERT11-50m  
+267871  
+6337039  
+ERT11-55m  
+267871  
+6337044  
+ERT11-60m  
+267870  
+6337049  
+ERT11-65m  
+267869  
+6337054  
+ERT11-70m  
+267868  
+6337059  
+ERT11-75m  
+267867  
+6337064  
+ERT11-80m  
+267867  
+6337069  
+ERT11-85m  
+267866  
+6337074  
+ERT11-90m  
+267865  
+6337078  
+ERT11-95m  
+267864  
+6337083  
+ERT11-100m  
+267863  
+6337088  
+ERT11-105m  
+267862  
+6337093  
+ERT11-110m  
+267862  
+6337098  
+ERT11-115m  
+267861  
+6337103  
+ERT11-120m  
+267860  
+6337108  
+ERT11-125m  
+267859  
+6337113  
+ERT11-130m  
+267858  
+6337118  
+ERT11-135m  
+267858  
+6337123  
+ERT11-140m  
+267857  
+6337128  
+ERT11-145m  
+267856  
+6337133  
+  
+  
+Tabla 1: Ubicación de electrodos.  
+  
+  
+  
+  
+  
+  
+
+===== p.38 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+39  
+  
+  
+6.2 ANEXO B: REGISTRO FOTOGRÁFICO  
+  
+A continuación, adjunto en orden de ejecución las fotografías de los perfiles ERT:  
+  
+Fotografía B1. ERT-06 (Inicio) vista al Noreste.  
+  
+Fotografía B2. ERT-10 (Inicio) vista al Noreste.  
+
+===== p.39 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+40  
+  
+  
+Fotografía B3. ERT-03 (Inicio) vista al Norte.  
+  
+Fotografía B4. ERT-04 (Inicio) vista al Oeste.  
+  
+ 
+
+===== p.40 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+41  
+  
+Fotografía B5. ERT-11 (Inicio) vista al Norte.  
+  
+Fotografía B6. ERT-01 (Inicio) vista al Norte.  
+  
+Fotografía B7. ERT-09 (Inicio) vista al Noreste.  
+
+===== p.41 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+42  
+  
+  
+Fotografía B8. ERT-07 (Inicio) vista al Sureste.  
+  
+Fotografía B9. ERT-08 (Inicio) vista al Oeste.  
+
+===== p.42 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+43  
+  
+  
+Fotografía B10. ERT-02 (Inicio) vista al Norte.  
+  
+Fotografía B11. ERT-05 (Inicio) vista al Norte.  
+  
+  
+  
+ 
+ 
+ 
+ 
+
+===== p.43 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+   
+44  
+  
+6.3 ANEXO C: REGISTRO DE DATOS Y MODELOS ERT  
+  
+Para cada perfil ERT realizado se presentan los resultados de la resistividad aparente (arriba), 
+modelo sintético (centro) y resultados de la inversión geofísica (abajo).  
+  
+6.3.1 ERT 01 – 740m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+  
+Figura C1. Resultados perfil ERT-01  
+
+===== p.44 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+  
+  
+     
+  
+  
+  
+  
+                               
+45  
+  
+6.3.2 ERT 02 – 720m: 
+  
+Figura C2. Resultados perfil ERT-02  
+6.3.3 ERT 03 – 640m:  
+  
+    
+  
+  
+  
+  
+                               
+  
+Figura C3. Resultados perfil ERT-03 
+
+===== p.45 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+  
+46  
+  
+6.3.4  ERT 04 – 740m: 
+  
+Figura C4. Resultados perfil ERT-04  
+6.3.5 ERT 05 – 800m:  
+  
+    
+  
+  
+  
+  
+                               
+  
+Figura C5. Resultados perfil ERT-05 
+
+===== p.46 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+  
+  
+     
+  
+  
+  
+  
+                               
+47  
+  
+6.3.6 ERT 06 – 490m: 
+  
+Figura C6. Resultados perfil ERT-06  
+6.3.7 ERT 07 – 590m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+7. Resultados perfil ERT-07 
+
+===== p.47 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+  
+48  
+  
+6.3.8 ERT 08 – 740m: 
+ 
+  
+Figura C8. Resultados perfil ERT-08  
+6.3.9 ERT 09 – 145m:  
+  
+    
+  
+  
+  
+  
+                               
+  
+Figura C9. Resultados perfil ERT-09  
+ 
+ 
+
+===== p.48 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+    
+  
+  
+    
+  
+  
+  
+  
+                               
+49  
+  
+6.3.10 ERT 10 – 145m: 
+  
+Figura C10. Resultados perfil ERT-10  
+6.3.11 ERT 11 – 145m:  
+  
+    
+  
+  
+  
+  
+                               
+  
+Figura C11. Resultados perfil ERT-11  
+   
+ 
+
+===== p.49 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+  
+50  
+  
+6.4 ANEXO D: PERFILES ERT HOMOLOGADOS  
+  
+Para cada perfil ERT realizado se presentan los resultados con escala homologada, esto es que 
+la barra de colores de resistividades es común para todos los perfiles con valores entre 25 y 
+más de 25.000 Ohm-m.  
+  
+6.4.1 ERT 01 – 740m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+  
+Figura D1. Perfil ERT-01 escala homologada.  
+6.4.2 ERT 02 – 720m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+  
+Figura D2. Perfil ERT-02 escala homologada.  
+
+===== p.50 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+    
+  
+  
+    
+  
+  
+  
+  
+                               
+51  
+  
+6.4.3 ERT 03 – 640m: 
+ 
+Figura D3. Perfil ERT-03 escala homologada.  
+6.4.4 ERT 04 – 740m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+Figura D4. Perfil ERT-04 escala homologada.  
+6.4.5 ERT 05 – 800m:  
+    
+  
+  
+  
+  
+                               
+ 
+Figura D5. Perfil ERT-05 escala homologada.  
+
+===== p.51 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+  
+52  
+  
+6.4.6 ERT 06 – 490m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+  
+Figura D6. Perfil ERT-06 escala homologada.  
+6.4.7 ERT 07 – 590m:  
+  
+    
+  
+  
+  
+  
+                               
+  
+Figura D7. Perfil ERT-07 escala homologada.  
+6.4.8 ERT 08 – 740m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+  
+Figura D8. Perfil ERT-08 escala homologada.  
+
+===== p.52 =====
+  
+ESTUDIO GEOFÍSICO MEDIANTE ERT 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS,  
+REGIÓN DE VALPARAÍSO 
+.  
+    
+  
+  
+    
+  
+  
+  
+  
+                               
+53  
+  
+6.4.9 ERT 09 
+145m: 
+ 
+  
+Figura D9. Perfil ERT-09 escala homologada.  
+6.4.10 ERT 10 – 145m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+  
+Figura D10. Perfil ERT-10 escala homologada.  
+6.4.11 ERT 11 – 145m:  
+  
+    
+  
+  
+  
+  
+                               
+ 
+Figura D11. Perfil ERT-11 escala homologada.   

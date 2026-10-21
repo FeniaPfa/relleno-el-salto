@@ -1,0 +1,146 @@
+
+===== p.0 =====
+Título:
+Preparado para:
+Datos Cartográficos-Geodésicos:
+Revisión:
+0
+MAYO 2026
+25.000
+Preparado por:
+Escala:
+Fecha:
+Fuente:
+Proyecto:
+UTM H19S DATUM WGS84
+Elaboración
+Revisión
+Aprobación
+Fecha
+:
+:
+:
+:
+SV
+SV
+SD
+06 de Mayo 2026
+PLANO UBICACIÓN GENERAL
+Estero Viña del Mar
+Estero Quilpué
+£
+¤
+60
+£
+¤
+64
+£
+¤
+F-714
+£
+¤
+60
+£
+¤
+60
+£
+¤
+60
+C o m u n a  d e
+C o m u n a  d e
+Q u i l p u é
+Q u i l p u é
+C o m u n a  d e
+C o m u n a  d e
+V i ñ a  d e l  M a r
+V i ñ a  d e l  M a r
+C o m u n a  d e
+C o m u n a  d e
+V a l p a r a í s o
+V a l p a r a í s o
+ROL 5022-02
+ROL 5026-17
+CMGIR
+Cortafuegos
+Movimiento de Tierra Camino
+Instalación de Faena
+ QUILPUÉ
+ VALPARAISO
+VINA DEL MAR
+VINA DEL MAR
+Reserva Nacional
+Lago Peñuelas
+264000
+264000
+266000
+266000
+268000
+268000
+270000
+270000
+6334000
+6334000
+6336000
+6336000
+6338000
+6338000
+6340000
+6340000
+6342000
+6342000
+PLANO N°:
+1
+ARGENTINA
+PERU
+CHILE
+BOLIVIA
+Obras:
+Imagen: Landsat TM
+DPA: ODEPA
+Cartografía base: IGM - MOP - ODEPA - Aster
+Áreas Protegidas: CONAF, Bienes Nacionales
+0
+400
+800
+1.200
+1.600
+2.000
+200
+m
+.
+OCÉANO PACÍFICO
+ARGENTINA
+Ubicación
+del Proyecto
+ REGIÓN DE VALPARAÍSO
+ REGIÓN DE COQUIMBO
+METROPOLITANA DE SANTIAGO
+Leyenda 
+Cartografía Temática
+Áreas Protegidas
+Reserva Nacional
+Obras de proyecto
+Límites
+Regional
+Cartografía Base
+Centros poblados
+Provincial
+Comunal
+Hidrografía
+Ríos y esteros
+Quebradas
+Red Vial
+Tierra
+Estabilizado
+Ripio
+Pavimento
+Infraestructura
+Internacional
+Proyecto
+Límite predial afecto a PAS 151
+CENTRO METROPOLITANO DE GESTIÓN
+INTEGRAL DE RESIDUOS
+SIMÓN ANDRÉS
+DEVIA CARTES
+SEBASTIÁN OMAR
+VALDEBENITO ARRATIA

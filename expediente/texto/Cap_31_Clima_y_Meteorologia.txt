@@ -1,6 +1,5 @@
-### PÁGINAS TOTALES: 17
 
-===== p.1 =====
+===== p.0 =====
 CENTRO METROPOLITANO 
 DE GESTIÓN INTEGRAL DE RESIDUOS
 LÍNEA DE BASE
@@ -9,7 +8,7 @@ Documento Preparado por:
                                                     
 Junio 2026
 
-===== p.2 =====
+===== p.1 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 1
 INDICE
@@ -45,7 +44,7 @@ CARACTERIZACION DE VARIABLES METEOROLÓGICAS....................................
 10. CONCLUSIONES................................................................................................................................14
 11. REFERENCIAS....................................................................................................................................15
 
-===== p.3 =====
+===== p.2 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 2
 1. INTRODUCCIÓN
@@ -92,7 +91,7 @@ Establecer la clasificación climática en el área de emplazamiento
 •
 Describir variables meteorológicas en el área de emplazamiento
 
-===== p.4 =====
+===== p.3 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 3
 •
@@ -125,7 +124,7 @@ del área de emplazamiento, según las plataformas oficiales del Ministerio del 
 caracterización considera una serie de tiempo que permite identificar promedios, variabilidades y 
 tendencias climáticas.
 
-===== p.5 =====
+===== p.4 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 4
 Figura 1. Área de Estudio
@@ -178,7 +177,7 @@ Rodelillo
 1971 - 2024
 -
 
-===== p.6 =====
+===== p.5 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 5
 Nombre
@@ -216,7 +215,7 @@ y un período estival seco y templado.
 Figura 2. Área de Estudio Clasificación climática de Chile para el período histórico (a) y futuro (b). Recuadro 
 rojo indica la zona costera de la región de Valparaíso. Extraído de (Vásquez y Mendoza, 2024)
 
-===== p.7 =====
+===== p.6 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 6
 El régimen climático del área de estudio se encuentra regulado a escala regional por tres 
@@ -265,9 +264,9 @@ lluvia intensa en periodos acotados.
 
 Fase La Niña (ENSO Negativo): Caracterizada por el enfriamiento anómalo de las aguas 
 ecuatoriales y el fortalecimiento del APS. En la zona central de Chile, esta fase intensifica y 
-prolonga las condiciones de sequía meteorológica, reduciendo los montos acumulados
+prolonga las condiciones de sequía meteorológica, reduciendo los montos acumulados 
 
-===== p.8 =====
+===== p.7 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 7
 anuales de  agua caída e incrementando la frecuencia de días  con alta estabilidad 
@@ -351,7 +350,7 @@ negra  y  azul  corresponden  a  la  media  mensual  de  temperaturas  máximas,
 respectivamente. Barras azules indican la media de las precipitaciones acumuladas mensuales. Fuente: 
 Capítulo 3.3 Caracterización Hidrológica
 
-===== p.9 =====
+===== p.8 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 8
 Complementariamente, la modelación WRF para el año 2025 en el punto de grilla representativo 
@@ -376,7 +375,7 @@ Durante los meses estivales no se registra precipitación acumulada en la modela
 Considerando la estación Lago Peñuelas (DGA), la Figura 4 presenta las series de tiempo
 de precipitación, temperatura media y temperaturas.
 
-===== p.10 =====
+===== p.9 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 9
 Figura 4. Series de tiempo de la estación Lago Peñuelas a 9,6 km del proyecto. (a): Precipitación 
@@ -400,7 +399,7 @@ m/s (percentiles 5 y 95). La dirección predominante corresponde al sector sur (
 velocidades durante la mañana y mayores intensidades durante la tarde, con un máximo entre 
 las 17:00 y 18:00 horas.
 
-===== p.11 =====
+===== p.10 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 10
 7.5.1 Régimen de vientos anual
@@ -426,7 +425,7 @@ superiores a 3,6 m/s. La distribución indica una frecuencia de vientos calmos d
 categorías con mayor frecuencia corresponden a velocidades mayores a 8,8 m/s, con 25,7 %, 
 seguidas por el rango 3,6–5,7 m/s, con 22,5 %, y el rango 5,7–8,8 m/s, con 21,1 %.
 
-===== p.12 =====
+===== p.11 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 11
 Figura 6. Régimen de vientos de verano modelados. Fuente: Capítulo 4.2 Modelación Meteorológica
@@ -449,7 +448,7 @@ calmos de 7,8 %. Las categorías con mayor frecuencia corresponden al rango 5,7�
 29,7 %, seguido por las velocidades mayores a 8,8 m/s, con 19,4 %, y el rango 3,6–5,7 m/s, con 17,2 
 %.
 
-===== p.13 =====
+===== p.12 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 12
 Figura 8. Régimen de vientos de invierno modelados. Fuente: Capítulo 4.2 Modelación Meteorológica
@@ -469,9 +468,9 @@ identifica un ciclo diario definido, con valores mínimos durante la madrugada (
 270 m entre las 04:00 y 06:00 horas) y máximos entre el mediodía y la tarde (cercanos a 580–590 m 
 entre  las  12:00  y  15:00  horas).  Esta  condición  favorece  mejores  condiciones  de  mezcla 
 atmosférica durante el día, aspecto relevante para la dispersión de emisiones.
-En la figura 10 se puede observar el ciclo diario de la altura de la capa límite modelada por WRF,
+En la figura 10 se puede observar el ciclo diario de la altura de la capa límite modelada por WRF, 
 
-===== p.14 =====
+===== p.13 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 13
 para el año 2025.
@@ -498,9 +497,9 @@ térmico y de vientos caracterizado para el área de estudio.
 Conforme a la Ley N° 21.455 (Ley Marco de Cambio Climático) y a la Guía metodológica para la 
 consideración del cambio climático en el SEIA, se incorporan las proyecciones climáticas futuras 
 del  Atlas  de  Riesgos  Climáticos  para  Chile  (ARClim),  plataforma  del  Ministerio  del  Medio 
-Ambiente.
+Ambiente. 
 
-===== p.15 =====
+===== p.14 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 14
 El análisis considera el escenario SSP5-8.5, correspondiente a un escenario de altas emisiones de 
@@ -592,7 +591,7 @@ Marga Marga
 -3,4
 Fuente: ARClim
 
-===== p.16 =====
+===== p.15 =====
 EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
 Página 15
 Las  variaciones  proyectadas  en  la  precipitación  máxima  diaria  son  moderadas,  con  leves 
@@ -620,7 +619,7 @@ anual acumulada del orden de 13-14 % y un aumento de la temperatura media anual 
 1,5-1,6  °C  hacia  el  período  2035-2065,  con  una  disminución  del  número  de  días  con 
 precipitaciones intensas y variaciones moderadas en la precipitación máxima diaria.
 
-===== p.17 =====
+===== p.16 =====
 11. REFERENCIAS
 Ministerio del Medio Ambiente. Reglamento del Sistema de Evaluación de Impacto Ambiental, 
 D.S. N° 40/2013.

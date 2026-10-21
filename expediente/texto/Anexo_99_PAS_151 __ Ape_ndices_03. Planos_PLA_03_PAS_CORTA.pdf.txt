@@ -1,0 +1,228 @@
+
+===== p.0 =====
+Título:
+Preparado para:
+Datos Cartográficos-Geodésicos:
+Revisión:
+0
+MAYO 2026
+25.000
+Preparado por:
+Escala:
+Fecha:
+Fuente:
+Proyecto:
+UTM H19S DATUM WGS84
+Elaboración
+Revisión
+Aprobación
+Fecha
+:
+:
+:
+:
+SV
+SV
+SD
+06 de Mayo 2026
+PREDIOS
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+C o m u n a  d e
+C o m u n a  d e
+Q u i l p u é
+Q u i l p u é
+£
+¤
+60
+C o m u n a  d e
+C o m u n a  d e
+V i ñ a  d e l  M a r
+V i ñ a  d e l  M a r
+ROL 5022-02
+ROL 5026-17
+CMGIR
+Cortafuegos
+Movimiento de Tierra Camino
+Instalación de Faena
+MT9
+MT8
+MT5
+MT4
+MT3
+MT2
+MT1
+MT37
+MT36
+MT35
+MT34
+MT30
+MT28
+MT27
+MT23
+MT22
+MT21
+MT19
+MT18
+MT16
+MT14
+MT13
+MT12
+MT10
+UC-151
+UC-140
+UC-158
+UC-150
+UC-138
+UC-150
+UC-147
+UC-136
+UC-145
+UC-152
+UC-152
+UC-138
+UC-152
+UC-150
+UC-152
+UC-152
+UC-150
+UC-152
+UC-150
+UC-140
+UC-151
+UC-151
+UC-152
+UC-152
+UC-152
+UC-152
+UC-152
+UC-151
+UC-152
+UC-158
+UC-158
+UC-147
+UC-158
+250
+200
+150
+300
+100
+50
+350
+400
+450
+300
+250
+100
+50
+200
+150
+350
+400
+267000
+267000
+267500
+267500
+268000
+268000
+268500
+268500
+269000
+269000
+6336500
+6336500
+6337000
+6337000
+6337500
+6337500
+6338000
+6338000
+6338500
+6338500
+6339000
+6339000
+PLANO N°:
+3
+ARGENTINA
+PERU
+CHILE
+BOLIVIA
+Obras:
+Imagen: Landsat TM
+DPA: ODEPA
+Cartografía base: IGM - MOP - ODEPA - Aster
+Áreas Protegidas: CONAF, Bienes Nacionales
+0
+100
+200
+300
+400
+500
+50
+m
+.
+OCÉANO PACÍFICO
+ARGENTINA
+Ubicación
+del Proyecto
+ REGIÓN DE VALPARAÍSO
+ REGIÓN DE COQUIMBO
+METROPOLITANA DE SANTIAGO
+Leyenda 
+Cartografía Temática
+Área de corta
+Obras de proyecto
+Límites
+Regional
+Cartografía Base
+Centros poblados
+Provincial
+Comunal
+Hidrografía
+Ríos y esteros
+Quebradas
+Red Vial
+Tierra
+Estabilizado
+Ripio
+Pavimento
+Infraestructura
+Internacional
+Proyecto
+Límite predial
+D
+D
+D
+D
+Formación xerofítica
+Uso Actual
+Parcelas
+!?
+CENTRO METROPOLITANO DE GESTIÓN
+INTEGRAL DE RESIDUOS
+SIMÓN ANDRÉS
+DEVIA CARTES
+SEBASTIÁN OMAR
+VALDEBENITO ARRATIA

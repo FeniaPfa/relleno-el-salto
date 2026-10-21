@@ -1,0 +1,264 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+LINEA DE BASE PROYECTOS CON RCA
+Documento Preparado por:
+
+===== p.1 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+ÍNDICE
+1.
+Introducción.................................................................................................................................2
+2.
+Objetivo.......................................................................................................................................2
+3.
+Descripción del proyecto.............................................................................................................2
+4.
+Ubicación del Proyecto................................................................................................................3
+5.
+Metodología................................................................................................................................4
+6.
+Área de Estudio............................................................................................................................4
+7.
+Identificación y selección de los proyectos, cuyos impactos se relacionan con el Proyecto......6
+7.1 Proyectos con RCA y su relación con el proyecto..........................................................................8
+8.
+Efectos Sinérgicos........................................................................................................................9
+
+===== p.2 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+1. Introducción
+En el marco del Estudio de Impacto Ambiental (EIA) del proyecto “Centro Metropolitano de Gestión 
+de Integral de Residuos”, y conforme a los requerimientos establecidos en la Ley N°19.300 sobre 
+Bases Generales del Medio Ambiente y su Reglamento del Sistema de Evaluación de Impacto 
+Ambiental (SEIA) – D.S. N°40/2012 del Ministerio del Medio Ambiente, el presente documento tiene 
+por objeto identificar, seleccionar y analizar aquellos proyectos con Resolución de Calificación 
+Ambiental (RCA) vigente que presentan una interrelación o potencial efecto acumulativo con el 
+proyecto en evaluación.
+Este  análisis  se  desarrolla  considerando  específicamente  aquellos  proyectos  o  actividades 
+aprobados que, por su ubicación, características de operación (emisiones, efluentes, residuos) o por 
+la extracción/uso de recursos naturales renovables autorizados, puedan incidir en la caracterización 
+ambiental del área de esdtudio. La revisión se basa en los términos y condiciones establecidos en sus 
+respectivas RCAs, con el fin de incorporar toda información relevante para una correcta evaluación 
+de impactos dentro del proceso del presente Estudio de Impacto Ambiental.
+2. Objetivo
+El objetivo del presente estudio es identificar y describir aquellos proyectos o actividades que 
+cuenten con RCA favorable, vigente y que, específicamente, cuyos impactos pudieran relacionarse 
+con aquellos impactos generados por el Proyecto.
+3. Descripción del proyecto
+El proyecto consiste en la construcción y operación de una instalación moderna para la gestión y el 
+procesamiento de residuos domiciliarios y asimilables. Su objetivo es implementar una solución 
+ambientalmente sostenible y segura en la Región Valparaíso.
+Componentes principales de la Operación:
+
+Compostaje de residuos orgánicos.
+
+Separación y clasificación de residuos inorgánicos para su valorización.
+
+Disposición final controlada de los residuos.
+Capacidad: Durante su vida útil, el centro gestionará aproximadamente 30.741.988 toneladas de 
+residuos sólidos durante 25 años de vida útil estimada y prestará servicio principalmente a la 
+población de las comunas de la Región de Valparaíso, con una tasa inicial de 2.500 ton/día.
+
+===== p.3 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+4. Ubicación del Proyecto
+Administrativamente el Proyecto se emplaza en la Comuna de Viña del Mar, Provincia de Marga 
+Marga, Región de Valparaíso. A continuación, en la siguiente figura, se muestra la ubicación local del 
+proyecto en coordenadas UTM, Datum WGS84 Huso 19 Sur.
+Figura 1. Ubicación local del proyecto
+5. Metodología
+El análisis se realizó a partir de la definición del Área de Estudio (AE) del Proyecto. Posteriormente se 
+realizó la búsqueda de proyectos cercanos mediante la plataforma “Mapa de Proyectos” del Sistema 
+de Evaluación Ambiental (SEIA), en la cual se identifican espacialmente aquellos proyectos con 
+Resolución de Calificación Ambiental (RCA).
+
+===== p.4 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+Desde dicha plataforma se  descargaron  los puntos de ubicación espacial  de los Estudios y 
+Declaraciones  de  Impacto  Ambiental  aprobados,  considerando  un  área  extendida  de 
+aproximadamente 10 km de radio desde el proyecto. Posteriormente, se efectuó el análisis de 
+aquellos proyectos (EIA y DIA) que presentan potencial interacción con el proyecto en evaluación.
+6. Área de Estudio
+La determinación del área de estudio para los proyectos con Resolución de Calificación Ambiental 
+(RCA) vigente, aun cuando no se encuentren operando, se realiza en cumplimiento de lo dispuesto 
+en el artículo 18, letra e), del D.S. N°40/2012 (MMA), que exige incorporar en la línea de base la 
+identificación de aquellos proyectos o actividades que cuenten con RCA y que puedan relacionarse 
+con el Proyecto en evaluación.
+Conforme a lo señalado en la Guía para la Descripción del Área de Influencia en el SEIA (SEA, 2026), 
+este componente no constituye directamente objetos de protección, por lo que su caracterización 
+no se enmarca bajo el concepto de "área de influencia", sino de "área de estudio". 
+Para su delimitación se aplicaron los criterios establecidos en la referida Guía, considerando los 
+factores que definen la interacción de los proyectos con RCA vigente con el entorno.
+En base a estos criterios, el área de estudio se ha definido como la envolvente espacial que 
+comprende el área de instalaciones del Proyecto más un buffer de 1,5 km, junto a un buffer de 1 km 
+para el camino de acceso proyectado. El área de estudio comprende una superficie de 15,46 km².
+Esta delimitación permite disponer de los antecedentes necesarios para la identificación de 
+proyectos con RCA vigente cuya interrelación con el Proyecto deba considerarse en el análisis de 
+impactos acumulativos o sinérgicos. La figura 2 muestra el área de estudio y su relación espacial con 
+los proyectos con RCA favorable.
+
+===== p.5 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+Figura 2. Área de estudio para la componente y su relación espacial con los proyectos con RCA 
+vigente
+
+===== p.6 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+7. Identificación y selección de los proyectos, cuyos impactos se 
+relacionan con el Proyecto
+A partir del Área de estudio definida, se identificaron un total de siete proyectos con aprobación 
+ambiental favorable, ubicados dentro o cercanos a dicha área. Todos estos proyectos corresponden 
+a Declaraciones de Impacto Ambiental. 
+Con  el  fin  de  evaluar  potenciales  interacciones  y  efectos  acumulativos  con  el  proyecto  en 
+evaluación, se les aplicó dada sus características, un buffer correspondiente a 1 km de radio (Fig. 3).
+Figura 3. Área de Estudio del proyecto y su interacción con proyecto con RCA cercanos.
+
+===== p.7 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+Desde la figura 3 se desprende una potencial interacción y efectos acumulativos con los siguientes 
+proyectos:
+
+DIA: Planta de Compostaje Luz Verde
+
+DIA: Proyecto de Depuración y Neutralización de Residuos Industriales Líquidos
+Tabla 1. Proyectos con RCA y potencial interacción y efectos acumulativos.
+Nombre
+Tipo
+Comuna
+Fecha 
+presentación
+Fecha 
+Calificación
+Fecha 
+Mod. Expediente
+Letra 
+Tipología
+Latitud
+Longitud
+Planta de 
+Compostaje Luz 
+Verde
+DIA
+Concón
+16 Jun. 1999
+22 Ago. 2000
+6 Dic. 
+2013
+2015
+o11
+-71,48242
+-33,05353
+Proyecto de 
+Depuración y 
+Neutralización 
+de Residuos 
+Industriales 
+Líquidos
+DIA
+Viña del 
+Mar
+29 Jun. 1999
+8 May. 2000
+6 Dic. 
+2013
+2062
+o7
+-71,500229 -33,053174
+Fuente: Mapa de Proyectos del SEIA.
+A partir de la tabla 1 se constata un error en la ubicación espacial del proyecto “Planta de 
+Compostaje Luz Verde”, cuyo punto se despliega en la comuna de Quilpué; sin embargo, la tabla 
+indica su ubicación en la comuna de Concón. Verificada la ubicación real de este proyecto, se 
+confirmó dicho error, por lo que se descarta consideración en el presente análisis.
+Por otra parte, el proyecto “Depuración y Neutralización de Residuos Industriales Líquidos”, 
+ubicado en la comuna de Viña del Mar, corresponde a un proyecto de tipología o7, Sistemas de 
+tratamiento y/o disposición de residuos industriales líquidos, que contemplen dentro de sus 
+instalaciones lagunas de estabilización u otros depósitos de los efluentes sin tratar y tratados. En 
+consecuencia, dicho proyecto se considera en el análisis de potenciales interacciones y efectos 
+acumulativos con el proyecto en evaluación.
+
+===== p.8 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+7.1 Proyectos con RCA y su relación con el proyecto
+Nombre del 
+proyecto
+Proyecto de Depuración y Neutralización de Residuos Industriales Líquidos
+Forma de ingreso 
+Declaración de Impacto Ambiental (DIA) 
+N° RCA 
+Resolución Exenta N° 231/2000 
+Ubicación 
+Región de Valparaíso, Comuna de Viña del Mar
+Tipología
+o.7 – o.71. Sistemas de tratamiento y/o disposición de residuos industriales líquidos, 
+que contemplen dentro de sus instalaciones lagunas de estabilización u otros 
+depósitos de los efluentes sin tratar y tratados
+Descripción 
+general
+El proyecto consiste en implementar un sistema de depuración y neutralización de los 
+residuos líquidos industriales (Riles) de la planta de producción de ceras y betunes de 
+la Cía. Manufacturera de Aconcagua S.A. para dar cumplimiento a los requisitos 
+legales descritos en la normativa vigente, sobre la descarga de residuos industriales 
+líquidos a servicios públicos de recolección de aguas servidas.
+Estado del 
+proyecto 
+De acuerdo a la vida útil proyectada de 10 años y conforme al Acta de Inspección 
+N°30/05 de la Comisión Nacional de Medio Ambiente Región de Valparaíso, que 
+confirma la operación del proyecto en el año 2005, se estima que el proyecto se 
+encuentra actualmente inactivo, posterior a su etapa de abandono.
+Impacto sobre componentes ambientales
+Emisiones 
+atmosféricas 
+No se generarían emisiones a la atmósfera durante ninguna de las etapas del proyecto, 
+y los posibles olores que presentaría la planta de tratamiento, se producirían por la 
+acumulación de los Riles en el estanque de ecualización, pero éste se encontraría en un 
+sector ventilado de manera que los olores se disiparían rápidamente.
+Residuos Líquidos
+Fase Operación: Con relación a las fuentes generadoras de residuos líquidos se tiene 
+que se producirían 1.636 (m 3 /mes) entre aguas residuales industriales, servidas 
+domésticas y aguas limpias del área de producción. Las aguas residuales industriales 
+serían tratadas por el sistema que propone el proyecto, y una vez tratadas, se 
+juntarían con las aguas limpias para ser descargadas al sistema de alcantarillado 
+público. Las aguas servidas domésticas, serían descargadas directamente al sistema 
+de alcantarillado público, sin entrar en contacto con las anteriores
+Residuos Sólidos
+Fase Operación: Lodos del tratamiento físico químico, que se obtendrían del proceso 
+de filtración y que alcanzarían un volumen de 80 (kg/día), dada su caracterización, se 
+solicitaría al Servicio de Salud de Viña del Mar Quillota la factibilidad de que fueran 
+dispuestos en un vertedero autorizado.
+Lodos del tratamiento biológico, que se generarían en el reactor biológico y que 
+alcanzarían un volumen de 1 (m3/día), serían tratados de igual forma que los lodos 
+físico químicos.
+Ruido
+Fase Construcción: construcción del radier y el galpón, sin embargo, la generación de 
+ruidos en esta etapa se encontraría bajo los niveles permisibles para fuentes fijas
+
+===== p.9 =====
+LINEA DE BASE PROYECTOS CON RCA
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+Fase Operación
+ 
+ :   Los niveles emitidos por la operación de la planta de tratamiento se 
+encontrarían bajo los niveles permisible
+8. Efectos Sinérgicos
+Del análisis del punto 7.1, se descartan efectos sinérgicos con el Proyecto. El proyecto evaluado 
+“Depuración  y  Neutralización  de  Residuos  Industriales  Líquidos”,  se  encuentra  actualmente 
+inactivo.

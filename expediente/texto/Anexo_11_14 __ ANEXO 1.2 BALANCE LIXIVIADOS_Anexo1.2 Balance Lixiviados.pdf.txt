@@ -1,0 +1,2832 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+Documento Preparado por:
+Julio 2025
+
+===== p.1 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+i
+ÍNDICE
+1.
+INTRODUCCIÓN.............................................................................................................1
+1.1.
+METODOLOGÍA DE CÁLCULO DE LIXIVIADOS..................................................................2
+2.
+METODOLOGÍA DE CÁLCULO DE LIXIVIADO...................................................................2
+2.1.
+DATOS METEOROLÓGICOS.............................................................................................4
+2.2.
+PERFIL DEL RELLENO SANITARIO Y DEL SISTEMA DE IMPERMEABILIZACIÓN BASAL Y DE 
+SELLADO FINAL..............................................................................................................5
+2.3.
+PLAN DE HABILITACIÓN DEL RELLENO SANITARIO.........................................................8
+2.4.
+RESULTADOS..................................................................................................................8
+2.5.
+REQUERIMIENTOS DE ALMACENAMIENTO Y TRATAMIENTO.......................................12
+2.6.
+CONCLUSIONES............................................................................................................13
+3.
+TRATAMIENTO POR EVAPORACIÓN.............................................................................13
+3.1.
+VOLUMEN EVAPORADO DE LIXIVIADO.........................................................................13
+4.
+TRATAMIENTO POR RECIRCULACIÓN DE LIXIVIADOS...................................................16
+5.
+BALANCE GENERAL DE LIXIVIADOS..............................................................................18
+5.1.
+BALANCE GENERAL DE LIXIVIADOS CONDICIONES SECAS DE PRECIPITACIONES...........18
+5.2.
+BALANCE GENERAL DE LIXIVIADOS CONDICIONES NORMALES DE PRECIPITACIONES. .21
+5.3.
+BALANCE GENERAL DE LIXIVIADOS CONDICIONES LLUVIOSAS DE PRECIPITACIONES...24
+
+===== p.2 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+1. INTRODUCCIÓN
+Los residuos orgánicos dispuestos en la zona disposición final de residuos (relleno sanitario) sufrirán 
+procesos de degradación química y biológica, algunos de los elementos resultantes son solubilizados 
+y arrastrados por el agua que entra en contacto con los residuos orgánicos dando origen a los 
+líquidos lixiviados que concentran los productos de la descomposición microbiana, elementos 
+disueltos y materia sólida en suspensión.
+El manejo del líquido lixiviado es uno de los mayores problemas a resolver que se presenta en un 
+relleno sanitario.  En este caso, se estima que la producción de lixiviados puede ser significativa y, 
+por tanto, deberán ser manejados adecuadamente.
+Los factores que afectan la producción de lixiviados son:
+Precipitación.
+Tipo de suelo.
+Pendiente de la cubierta final.
+Desagües superficiales.
+Vegetación.
+Temperatura del aire y humedad.
+Contenido inicial de humedad de los residuos.
+Localización y salidas de aguas subterráneas, en caso de existir en la zona del proyecto.
+Por lo tanto, para minimizar la generación de líquidos lixiviados se requiere un control riguroso del 
+recubrimiento de la celda, contar con un adecuado sistema de impermeabilización de fondo y 
+taludes de la celda proyectada, mantener adecuadas pendientes de la capa de recubrimiento final 
+disponiendo  un  conveniente  control  de  vegetación  y  efectuando  un  control  óptimo  de  los 
+escurrimientos superficiales.
+El agua de descomposición de los residuos orgánicos es inevitable, por lo que sólo queda como 
+aporte significativo el agua de lluvia por precipitación directa sobre los residuos orgánicos.  El agua 
+de lluvia que alcance a infiltrar la capa de cobertura final iniciará un proceso de acción disolvente y 
+aclarado de los desechos dispuestos, cargándose de elementos contaminantes. Con relación al agua 
+de lluvia que pudiera caer sobre los frentes activos del relleno sanitario, luego de escurrir entre los 
+desperdicios llegará hasta el fondo de la celda, donde será retenida.  Esta agua se sumará a las aguas 
+propias de los residuos orgánicos y desarrollarán en el seno de la celda un proceso de degradación 
+anaerobia de los contaminantes cuya duración dependerá del tiempo de retención del agua por 
+parte de los residuos. La descomposición  y el proceso disolvente están interrelacionados y 
+dependen de la cantidad de agua disponible, temperatura, presencia de oxígeno, composición de la 
+basura, dimensiones de partículas y tiempo de retención, entre otros. 
+Dependiendo de las características de los suelos y la vegetación, se producirá la evapotranspiración 
+de parte del agua que alcance a las capas de cobertura. La escorrentía superficial se debe conducir a 
+los  canales  perimetrales  y  por  estos  canales  escurrirán  como  desagües  pluviales  normales 
+agregándose al sistema de drenaje del relleno sanitario.
+
+===== p.3 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+De todas maneras, es posible que en determinados momentos una celda en particular pueda 
+alcanzar una concentración de humedad por encima de la que pueden evaporar y retener, y que en 
+estas condiciones se produzca por saturación de la masa una migración de lixiviados, la que deberá 
+ser controlada. Los líquidos lixiviados que se acumulen en el fondo del relleno sanitario, o que fluyan 
+por el pie de los taludes, deben dirigirse hacia puntos de acumulación, desde donde pueden ser 
+bombeados hacia los puntos de recirculación, almacenamiento, evaporación o tratamiento. Los 
+lixiviados allí depositados quedarán expuestos a los procesos naturales de evaporación.  Es 
+conveniente considerar un equipo de bombeo que permitirá la evacuación en un plazo reducido 
+para evitar posibles rebalses y la recirculación de los lixiviados hacia la celda de residuos.
+1.1.
+METODOLOGÍA DE CÁLCULO DE LIXIVIADOS
+El presente proyecto, ha considerado los elementos principales del estado sanitario y ambiental del 
+futuro proyecto. Para respaldar las medidas adoptadas se presenta a continuación una estimación 
+del volumen de lixiviado generado en base a un método de balance hidrológico conocido como 
+modelo HELP (Hydrologic Evaluation of Landfill Performance).
+La metodología se basa en una simulación computacional del balance hidrológico del relleno 
+sanitario, utilizando el modelo HELP V3.07 para calcular la producción de lixiviados.
+Para dimensionar el sistema requerido para el manejo de lixiviados se ha precisado realizar un 
+balance hídrico y proyección de la generación lixiviado.
+El presente balance hídrico de lixiviados permitirá determinar una proyección de la generación 
+futura de los líquidos percolados con  los requerimientos del sistema de almacenamiento y 
+tratamiento de lixiviados para el Centro Metropolitano de Gestión Integral de Residuos.
+ 
+El período considerado en el análisis corresponde a 30 años (25 años de operación y 5 post cierre) y 
+una superficie de para zona de disposición final de residuos de 449.951 m2 (44,9 ha).
+2.
+METODOLOGÍA DE CÁLCULO DE LIXIVIADO
+Para estimar la producción de lixiviados de la zona de disposición de residuos o relleno sanitario, se 
+utilizó un método de balance hidrológico de acuerdo con el siguiente esquema:
+
+===== p.4 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+RELLENO 
+SANITARIO
+EVAPOTRANSPIRACIÓN
+ESCORRENTÍA 
+SUPERFICIAL LIMPIA
+PRECIPITACIONES
+HUMEDAD
+RESIDUOS
+LIXIVIADO
+Figura 1.
+Elementos del balance hidrológico del relleno sanitario
+El balance hídrico del relleno sanitario considera los siguientes elementos:
+
+Entradas
+Precipitaciones sobre el relleno sanitario
+Humedad aportada por los residuos depositados
+
+Salidas
+Escorrentía superficial sobre el suelo de cobertura
+Evaporación del suelo de cobertura
+Lixiviado extraído del relleno sanitario
+La diferencia entre las entradas y las salidas corresponde al aumento o disminución neto del 
+volumen de líquido acumulado dentro del relleno sanitario.
+Los datos meteorológicos utilizados en la simulación corresponden a series diarias generadas 
+sintéticamente mediante el software HELP 3.07, utilizando como base los registros estadísticos de 
+precipitaciones  y  temperaturas  medias  mensuales.  Más  adelante  se  detallan  los  datos 
+meteorológicos utilizados.
+Para el balance se utilizó el diseño del relleno sanitario del Centro Metropolitano de Gestión Integral 
+de Residuos, en su sistema de impermeabilización y sistema proyectado de cobertura de sellado 
+final. Por otro lado, los parámetros de los materiales simulados en el programa HELP V3.07 fueron 
+recopilados a partir de los materiales que serán utilizados en la construcción del relleno sanitario.
+La simulación se realizó para un área de 44,9 ha hectáreas (correspondientes a la superficie total del 
+manto del proyecto contemplado) y para un período de 25 años de operación y 5 post cierre, 
+tomando en consideración la tasa de recepción proyectada de residuos. La proyección de tonelajes a 
+
+===== p.5 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+recibir y el plan de habilitación de etapas y llenado considerados para esta simulación, corresponden 
+al plan de crecimiento diseñado para el relleno sanitario
+Para calcular la producción de lixiviados, se utilizó el modelo HELP V3.07 complementado por un 
+cálculo de lixiviado liberado por la compresión de los residuos.
+El modelo H.E.L.P. (Hidrological evaluation of landfill performance), en su versión de programa para 
+computador, es un modelo matemático bidimensional del movimiento del agua a través de celdas 
+de residuos. El modelo acepta datos del clima, del suelo, y de diseño, y utiliza técnicas de solución 
+que consideran el almacenamiento superficial, escorrentía, infiltración, crecimiento de vegetación, 
+evapotranspiración, capacidad de retención del suelo, drenaje lateral sub-superficial, recirculación 
+de lixiviados, drenaje vertical no saturado, y fugas a través del suelo, geomembranas o sellos 
+compuestos. El programa permite modelar, incluyendo combinaciones de vegetación, suelos de 
+cobertura, celdas de residuos orgánicos, capas de drenaje lateral, barreras impermeables de suelo y 
+sellos de geomembranas sintéticas.
+2.1.
+DATOS METEOROLÓGICOS
+Al  momento  de  crear  una  modelación  en  el  programa  Visual  Help,  se  debe  relacionar  el 
+emplazamiento del proyecto con una estación meteorológica representativa contenida en la base 
+de datos del programa. Para el caso de la presente simulación, la estación meteorológica Pudahuel 
+(según la información de Visual Help) es aquella que se encuentra más cercana al sitio donde se 
+realizará el proyecto.
+La información climática utilizada fueron registros de precipitaciones mensuales y temperaturas en 
+la estación meteorológica “Lago Peñuelas”. Se calculó la media del período 1990 a 2020. A partir de 
+esta información, y utilizando el módulo meteorológico del modelo HELP, se generó en forma 
+sintética series diarias de precipitaciones para un período de 25 años, utilizando los coeficientes 
+estadísticos disponibles en este modelo. Estos coeficientes fueron elaborados por los creadores del 
+programa a partir de registros climáticos de la estación meteorológica de Pudahuel, y permiten 
+generar estocásticamente, a partir de medias mensuales, series diarias de datos climáticos para ser 
+utilizados en la simulación. Además de las series de precipitaciones, el modelo genera también 
+series diarias de temperatura en base a promedios mensuales y de radiación solar.
+La tabla siguiente muestra las medias mensuales utilizadas para generar las series diarias de 
+precipitaciones y temperatura.
+Tabla 1.
+Medias mensuales Estación meteorológica “Lago Peñuelas” 
+Mes
+Prec. (mm)
+Temp. (ºC)
+Enero
+0,2
+17,3
+Febrero
+1,1
+16,9
+Marzo
+5,2
+16,1
+Abril
+18,2
+13,9
+Mayo
+101,4
+12,0
+Junio
+172,4
+10,3
+Julio
+118,1
+9,4
+
+===== p.6 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+Mes
+Prec. (mm)
+Temp. (ºC)
+Agosto
+104,1
+10,3
+Septiembre
+45,7
+11,6
+Octubre
+20,5
+13,1
+Noviembre
+4,2
+14,8
+Diciembre
+2,8
+16,2
+Total Anual
+593,8
+Los datos de radiación solar fueron generados sintéticamente por el programa según el modelo de 
+Thorntwhaite para una latitud de -32,88 grados.
+2.2.
+PERFIL DEL RELLENO SANITARIO Y DEL SISTEMA DE IMPERMEABILIZACIÓN BASAL 
+Y DE SELLADO FINAL
+El perfil considerado corresponde a las áreas selladas mediante una capa de cobertura final 
+compuesta por una capa de nivelación y sellado, de suelo preferentemente compactado, y una capa 
+de soporte vegetal, de suelo apto para vegetación mínimamente compactado.
+Para la simulación del relleno sanitario se presentó un perfil tipo, según figura adjunta.
+
+===== p.7 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 - 6
+Perfil 2
+6 - 12 m
+Año 6 - 12
+Perfil 3
+12 - 18 m
+Año 12 - 20
+Perfil 4
+18 m
+Año 6 - 24
+Perfil 1
+5 - 15 m
+Año 1 - 6
+Perfil 2
+15 - 30 m
+Año 6 - 12
+Perfil 3
+30 - 60 m
+Año 12 - 20
+Perfil 4
+60 m
+Año 12 - 20
+Capa Residuos
+5 m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 -6
+Perfil 2
+6 -12 m
+Año 6 -12
+Perfil 3
+12 -18 m
+Año 12 -20
+Perfil 4
+18 m
+Año 6 -24
+Perfil 1
+5 -15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 -6
+Perfil 2
+6 -12 m
+Año 6 -12
+Perfil 3
+12 -18 m
+Año 12 -20
+Perfil 4
+18 m
+Año 6 -24
+Perfil 1
+5 -15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+1 m
+0,15 m
+Capa cobertura
+0,15 m
+Cobertura Final
+0,60 m
+Perfil 0
+Superficie 
+construida
+Anual
+Perfil 1
+1 m
+Año 1 -6
+Perfil 2
+1 - 2 m
+Año 6 -13
+Perfil 3
+2 - 3 m
+Año 13 -20
+Perfil 4
+3 - 4 m
+Año 20 -23
+Capa granular
+Perfil 1
+5 m
+Año 1
+Perfil 2
+5 – 10 m
+Año 2
+Perfil 1
+10 - 15 m
+Año 3 - 4
+Perfil 1
+15 -25 m
+Año 5
+0,20 m
+0,20 m
+Perfil 1
+4 m
+Años 1
+Perfil 2
+8 m
+Años 2 a 25
+Perfil 3
+8 m
+Años 4 a 25
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 -6
+Perfil 2
+6 -12 m
+Año 6 -12
+Perfil 3
+12 -18 m
+Año 12 -20
+Perfil 4
+18 m
+Año 6 -24
+Perfil 1
+5 -15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+Geotextil
+Geomembrana HDPE
+GCL (selo bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 -6
+Perfil 2
+6 -12 m
+Año 6 -12
+Perfil 3
+12 -18 m
+Año 12 -20
+Perfil 4
+18 m
+Año 6 -24
+Perfil 1
+5-15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+Geotextil
+Geomembrana HDPE
+GCL (selo bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 -6
+Perfil 2
+6 -12 m
+Año 6 -12
+Perfil 3
+12 -18 m
+Año 12 -20
+Perfil 4
+18 m
+Año 6 -24
+Perfil 1
+5-15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+1 m
+0,15 m
+Capa cobertura
+0,15 m
+Cobertura Final
+0,60 m
+Perfil 0
+Superficie 
+construida
+Anual
+Perfil 1
+1 m
+Año 1 -6
+Perfil 2
+1 -2 m
+Año 6 -13
+Perfil 3
+2 -3 m
+Año 13 -20
+Perfil 4
+3-4 m
+Año 20 -23
+Capa granular
+Perfil 1
+5 m
+Año1
+Perfil 2
+5 –10 m
+Año2
+Perfil 1
+10-15m
+Año3 -4
+Perfil 1
+15 -25 m
+Año5
+0,20 m
+0,20 m
+Cobertura 
+Vegetal
+0,40 m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 - 6
+Perfil 2
+6 - 12 m
+Año 6 - 12
+Perfil 3
+12 - 18 m
+Año 12 - 20
+Perfil 4
+18 m
+Año 6 - 24
+Perfil 1
+5 - 15 m
+Año 1 - 6
+Perfil 2
+15 - 30 m
+Año 6 - 12
+Perfil 3
+30 - 60 m
+Año 12 - 20
+Perfil 4
+60 m
+Año 12 - 20
+Capa Residuos
+5 m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 -6
+Perfil 2
+6 -12 m
+Año 6 -12
+Perfil 3
+12 -18 m
+Año 12 -20
+Perfil 4
+18 m
+Año 6 -24
+Perfil 1
+5 -15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 - 6
+Perfil 2
+6 - 12 m
+Año 6 - 12
+Perfil 3
+12 - 18 m
+Año 12 - 20
+Perfil 4
+18 m
+Año 6 - 24
+Perfil 1
+5 -15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+1 m
+0,15 m
+Capa cobertura
+0,15 m
+Cobertura Final
+0,60 m
+Perfil 0
+Superficie 
+construida
+Anual
+Perfil 1
+1 m
+Año 1 -6
+Perfil 2
+1 - 2 m
+Año 6 -13
+Perfil 3
+2 - 3 m
+Año 13 -20
+Perfil 4
+3 - 4 m
+Año 20 -23
+Capa granular
+Perfil 1
+5 m
+Año 1
+Perfil 2
+5 – 10 m
+Año 2
+Perfil 1
+10 - 15 m
+Año 3 - 4
+Perfil 1
+15 -25 m
+Año 5
+0,20 m
+0,20 m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 - 6
+Perfil 2
+6 - 12 m
+Año 6 - 12
+Perfil 3
+12 - 18 m
+Año 12 - 20
+Perfil 4
+18 m
+Año 6 - 24
+Perfil 1
+5 - 15 m
+Año 1 - 6
+Perfil 2
+15 - 30 m
+Año 6 - 12
+Perfil 3
+30 - 60 m
+Año 12 - 20
+Perfil 4
+60 m
+Año 12 - 20
+Capa Residuos
+5 m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 -6
+Perfil 2
+6 -12 m
+Año 6 -12
+Perfil 3
+12 -18 m
+Año 12 -20
+Perfil 4
+18 m
+Año 6 -24
+Perfil 1
+5 -15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+Geotextil
+Geomembrana HDPE
+GCL (sello bentonita)
+Capa Residuos
+6 m
+Capa Cobertura
+0,3 m
+Capa Cobertura
+0,3 m
+Capa FInal
+0,6 m
+Perfil 0
+Superficie construida 
+anual
+Perfil 1
+6 m
+Año 1 - 6
+Perfil 2
+6 - 12 m
+Año 6 - 12
+Perfil 3
+12 - 18 m
+Año 12 - 20
+Perfil 4
+18 m
+Año 6 - 24
+Perfil 1
+5 -15 m
+Año1-6
+Perfil 2
+15 -30 m
+Año6 -12
+Perfil 3
+30 -60 m
+Año12 -20
+Perfil 4
+60 m
+Año12-20
+Capa Residuos
+5m
+1 m
+0,15 m
+Capa cobertura
+0,15 m
+Cobertura Final
+0,60 m
+Perfil 0
+Superficie 
+construida
+Anual
+Perfil 1
+1 m
+Año 1 -6
+Perfil 2
+1 - 2 m
+Año 6 -13
+Perfil 3
+2 - 3 m
+Año 13 -20
+Perfil 4
+3 - 4 m
+Año 20 -23
+Capa granular
+Perfil 1
+5 m
+Año 1
+Perfil 2
+5 – 10 m
+Año 2
+Perfil 1
+10 - 15 m
+Año 3 - 4
+Perfil 1
+15 -25 m
+Año 5
+0,20 m
+0,20 m
+10 m
+Cobertura 
+intermedia
+0,30 m
+Cobertura 
+Final
+1,20 m
+Figura 2.
+Perfiles del relleno sanitario simulado.
+Fuente: Elaboración Propia
+La tabla siguiente muestra las propiedades de cada una de las capas utilizadas en la simulación.
+
+===== p.8 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+Tabla 2.
+Propiedades de las capas utilizadas en los perfiles de la simulación
+Orden 
+Descendente
+Nombre
+Tipo de Material
+Función capa
+Espeso
+r
+(cm)
+Conductividad 
+Hidráulica 
+Saturada (cm/s)
+Porosidad 
+(vol/vol)
+Capacidad 
+de Campo 
+(vol/vol)
+1 *
+Soporte vegetal
+Suelo Areno 
+Limoso
+Percolación – 
+evapotranspiración - 
+escorrentía
+0,40 m
+5,2 x 10-4
+0,473
+0,222
+2 *
+Capa de sello
+Suelo Areno-
+limoso 
+compactado
+Barrera hidráulica
+1,20 m
+1,2 x 10-4
+0,398
+0,244
+3
+Cobertura 
+Intermedia
+Suelo Areno-
+Limoso
+Percolación – 
+evapotranspiración - 
+escorrentía
+0,30 m
+5,2 x 10-4
+0,473
+0,222
+4 **
+Capas de 
+Residuos 
+orgánicos
+Residuos 
+orgánicos 
+compactados a 
+700 kg/m3
+Percolación
+10 m
+0,1 x 10-2 
+0,397
+0,292
+5
+Capa 
+Drenante
+HDPE
+Polietileno Alta 
+Densidad
+Drenaje Lateral 
+Lixiviados
+0,5 m
+10
+0,85
+0,01
+6
+Geomembrana 
+Impermeable
+HDPE
+Polietileno Alta 
+Densidad
+Barrera hidráulica
+1,5 mm
+2 x 10-13
+0
+0
+7
+GCL
+(Geosynthetic 
+Clay Liner)
+GCL
+(Geosintético 
+Compuesto: 
+Geotextil-
+Bentonita-
+Geotextil)
+Barrera Hidráulica
+10 mm
+3 x 10-9
+0
+0
+* Estas capas aparecen en la simulación desde que se construye progresivamente la capa de sellado final, desde el año 1 
+del proyecto hasta completar el 100%. 
+** Estas capas se repiten según la altura promedio de los perfiles considerados en la simulación.
+La siguiente tabla muestra las características de los perfiles utilizados en la simulación.
+Tabla 3.
+Características de los perfiles utilizados en la simulación
+Superficie (ha)
+44,9 (1)
+Capacidad máxima del relleno sanitario proyectada (m3)
+24.331.032
+Espesor promedio (m)
+80 (2)
+Pendiente cobertura (%)
+2%
+Pendiente drenaje del mono relleno (%)
+2%
+Área de Escorrentía Limpia (%) (3)
+80% (3)
+(1) Corresponde a la superficie del relleno sanitario.
+(2) Corresponde a la altura promedio del relleno sanitario.
+(3) Corresponde a la fracción de área del perfil que permite la evacuación de la escorrentía 
+superficial fuera del sistema de residuos orgánicos (escorrentía limpia). Frente de trabajo y 
+puntos de acumulación de escorrentía superficial no consideran el drenaje limpio de ésta y 
+se consideran como aportes a la generación de lixiviado, el cual corresponde al 20% de la 
+superficie total.
+
+===== p.9 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+2.3.
+PLAN DE HABILITACIÓN DEL RELLENO SANITARIO
+El plan de habilitación del relleno sanitario, utilizado en esta simulación, divide el área de 44,9 ha 
+para los 25 años de operación del sitio de disposición final, considerando la habilitación de cada una 
+de ellas en forma anual. 
+La siguiente tabla muestra las superficies de cada etapa, según perfiles presentados en la figura 2 del 
+relleno sanitario.
+Tabla 1 Superficies habilitadas
+AÑO 
+PROYECTO
+SUPERFICIE 
+PARCIAL (m2)
+SUPERFICIE 
+UTILIZADA 
+(m2)
+1
+20.000
+20.000
+2
+30.078
+50.078
+3
+30.956
+81.034
+4
+29.702
+110.736
+5
+28.448
+139.184
+6
+27.195
+166.379
+7
+25.941
+192.320
+8
+24.687
+217.007
+9
+23.430
+240.437
+10
+22.183
+262.620
+11
+20.926
+283.546
+12
+19.672
+303.218
+13
+18.419
+321.637
+14
+17.165
+338.802
+15
+15.911
+354.713
+16
+14.657
+369.370
+17
+13.404
+382.774
+18
+12.150
+394.924
+19
+10.896
+405.820
+20
+9.642
+415.462
+21
+9.389
+424.851
+22
+8.135
+432.986
+23
+6.881
+439.867
+24
+5.628
+445.495
+25
+4.362
+449.857
+2.4.
+RESULTADOS
+A partir de las precipitaciones ingresadas para la modelación de la generación de lixiviado, el 
+programa entrega el promedio mensual de precipitaciones para el período modelado (25 años), 
+considerando para los años normales, seco y lluvioso. En la siguiente tabla se presentan los 
+resultados obtenidos para las precipitaciones, los cuales fueron utilizados para la estimación del 
+lixiviado.
+
+===== p.10 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+Tabla 2 Promedio mensual de precipitaciones 25 años
+MES
+PRECIPITACIONES (mm)
+AÑO SECO
+AÑO NORMAL
+AÑO LLUVIOSO
+Enero
+0,40
+0,4
+1,25
+Febrero
+2,72
+2,72
+10,59
+Marzo
+3,81
+3,81
+17,74
+Abril
+17,57
+17,57
+35,58
+Mayo
+22,62
+100,13
+177,64
+Junio
+5,56
+111,17
+216,78
+Julio
+37,30
+93,94
+150,58
+Agosto
+17,06
+81,92
+146,78
+Septiembre
+13,48
+46,13
+78,78
+Octubre
+10,92
+16,73
+35,98
+Noviembre
+12,36
+4,84
+13,99
+Diciembre
+18,02
+5,33
+13,19
+Total
+161,82
+484,69
+898,88
+La Figura y tabla siguientes presentan los resultados de la proyección de lixiviados drenados 
+mensualmente por el relleno sanitario para un período de 25 años de operación.
+0
+125
+250
+375
+500
+625
+750
+0
+3.750
+7.500
+11.250
+15.000
+18.750
+22.500
+ene-11
+ene-18
+ene-25
+ene-32
+m3/día
+m3/mes
+Generación de Lixiviados Mensual
+Rango (año Seco/Húmedo)
+Año Normal
+15.000
+22.500
+10.000
+7.500
+5.000
+2.500
+0
+480
+400
+320
+240
+160
+80
+0
+ene-28
+ene-35
+ene-42
+ene-49
+Figura 3.
+Caudales estimados de lixiviado, promedio mensual y media diaria, expresados 
+en m3/mes y m3/día
+En la figura anterior se observan las variaciones mensuales en la generación de lixiviados para los 25 
+años de operación, producto de las variaciones estacionales en los parámetros meteorológicos 
+según los datos sintéticos generados por el modelo HELP. La tendencia de largo plazo está 
+representada por las variaciones en los valores de caudales máximos y mínimos. Se constata que 
+para el año 13 se alcanzará el peak promedio de la generación de percolado llegando a un valor 
+diario promedio de 473 m3/día, en condiciones lluviosas y de 298 m3/día en condiciones normales.
+Los valores de caudal máximo se concentran en los meses de invierno-primavera y tienden a 
+disminuir en la medida que se construye progresivamente la capa de sellado final, desde la etapa 1 
+del proyecto hasta completar el 100%. 
+En cambio, los valores de caudal mínimo se presentan en verano y tienden a aumentar por efecto del 
+aporte de humedad de los residuos que ingresan al relleno y la expulsión de líquido por efecto de la 
+compresión de estos. 
+
+===== p.11 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+En la siguiente figura se presenta la generación de lixiviado para el primer año de operación del 
+relleno sanitario comparado con el volumen de precipitaciones generadas en el período, para 
+entender el comportamiento anual de la generación.
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Precipitaciones (m3)
+164
+26
+26
+31
+620
+1.058
+1.510
+2.233
+2.233
+1.152
+773
+360
+Lixiviado  (m3)
+204
+357
+167
+99
+106
+158
+495
+905
+1.312
+497
+178
+185
+0
+500
+1.000
+1.500
+2.000
+2.500
+Título del eje
+Producción de lixiviado mensual - Año 1 de operación
+Figura 4.
+Volumen mensual de lixiviado y precipitaciones generadas para el primer año de 
+operación
+(*) El volumen de precipitaciones (m3/mes) se obtiene de la multiplicación de los mm caídos para un año normal y la 
+superficie habilitada en ese año.
+En la siguiente figura se presenta la generación de lixiviado para el año 12, correspondiente a la 
+mitad del periodo de operación del relleno sanitario comparado con el volumen de precipitaciones 
+generadas en el año respectivo.
+
+===== p.12 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Precipitaciones (m3)
+181
+29
+34
+685
+1.169
+1.668
+2.468
+1.273
+854
+241
+273
+398
+Lixiviado  (m3)
+1.090
+864
+934
+1.022
+2.734
+12.372
+16.737
+5.876
+1.449
+964
+1.431
+2.958
+0
+2.000
+4.000
+6.000
+8.000
+10.000
+12.000
+14.000
+16.000
+18.000
+Título del eje
+Producción de lixiviado mensual - Año 12 de operación
+Figura 5.
+Volumen mensual de lixiviado y precipitaciones generadas para el año 12 de 
+operación
+(*) El volumen de precipitaciones (m3/mes) se obtiene de la multiplicación de los mm caídos para un año normal y la 
+superficie habilitada en ese año.
+Al comparar ambos gráficos, podemos notar que en el inicio la generación de lixiviados estará 
+asociada a la tasa de disposición más que a una relación con las precipitaciones.  Una vez el relleno 
+esté en plena operación, la generación de lixiviados se asocia principalmente a las lluvias del año 
+respectivo.
+La siguiente tabla muestra un resumen de resultados donde se muestran los valores de caudal de 
+lixiviado promedio para periodos anual de años seco, normal y lluvioso.
+Tabla 4.
+Resumen de resultados simulación del balance hidrológico
+AÑO PROYECTO
+SUP. UTILIZADA
+[m2]
+GENERACIÓN DE LIXIVIADO (m3/AÑO)
+AÑO SECO
+[P=162 mm]
+AÑO NORMAL
+[P=485 mm]
+AÑO LLUVIOSO
+[P=899 mm]
+1
+20.000
+11.366
+26.755
+42.144
+2
+50.078
+23.679
+55.739
+87.800
+3
+81.034
+32.204
+75.806
+119.407
+4
+110.736
+37.413
+88.068
+138.723
+5
+139.184
+40.728
+95.872
+151.015
+6
+166.379
+42.622
+100.331
+158.039
+7
+192.320
+43.759
+103.006
+162.254
+8
+217.007
+44.388
+104.785
+165.181
+9
+240.437
+44.981
+106.337
+167.693
+10
+262.620
+45.362
+107.547
+169.731
+11
+283.546
+45.295
+108.172
+171.049
+12
+303.218
+45.123
+108.565
+172.006
+13
+321.637
+44.850
+108.728
+172.606
+
+===== p.13 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12
+AÑO PROYECTO
+SUP. UTILIZADA
+[m2]
+GENERACIÓN DE LIXIVIADO (m3/AÑO)
+AÑO SECO
+[P=162 mm]
+AÑO NORMAL
+[P=485 mm]
+AÑO LLUVIOSO
+[P=899 mm]
+14
+338.802
+43.886
+108.059
+172.232
+15
+354.713
+43.422
+107.774
+172.126
+16
+369.370
+42.868
+107.272
+171.675
+17
+382.774
+42.305
+106.747
+171.189
+18
+394.924
+41.732
+106.200
+170.668
+19
+405.820
+41.151
+105.632
+170.112
+20
+415.462
+40.561
+105.042
+169.523
+21
+424.851
+39.967
+104.442
+168.916
+22
+432.986
+39.372
+103.839
+168.306
+23
+439.867
+38.777
+103.234
+167.692
+24
+445.495
+38.180
+102.628
+167.075
+25
+449.857
+37.582
+102.019
+166.455
+26
+449.857
+36.984
+101.408
+149.248
+27
+449.857
+36.745
+100.264
+132.466
+28
+449.857
+36.506
+100.919
+132.266
+29
+449.857
+36.267
+100.675
+115.558
+30
+449.857
+35.788
+80.149
+98.751
+2.5.
+REQUERIMIENTOS DE ALMACENAMIENTO Y TRATAMIENTO
+Los lixiviados generados se podrán almacenar en piscinas de almacenamiento. La siguiente tabla 
+muestra el caudal acumulado para los primeros 5 años de operación.
+Tabla 5.
+Volumen anual y acumulado de lixiviados generados
+AÑO 
+PROYECTO
+AÑO SECO
+[P=229 mm]
+AÑO NORMAL
+[P=420 mm]
+AÑO LLUVIOSO
+[P=702 mm]
+CAUDAL 
+ANUAL
+(m3)
+CAUDAL 
+ACUMULADO
+(m3)
+CAUDAL 
+ANUAL
+(m3)
+CAUDAL 
+ACUMULADO
+(m3)
+CAUDAL 
+ANUAL
+(m3)
+CAUDAL 
+ACUMULADO
+(m3)
+1
+11.366
+11.366
+26.755
+26.755
+42.144
+42.144
+2
+23.679
+35.045
+55.739
+82.494
+87.800
+129.943
+3
+32.204
+67.249
+75.806
+158.300
+119.407
+249.351
+4
+37.413
+104.662
+88.068
+246.368
+138.723
+388.074
+5
+40.728
+145.390
+95.872
+342.240
+151.015
+539.089
+De acuerdo a lo anterior se propone diseñar piscinas de almacenamiento de lixiviados que tendrán 
+una capacidad para recepcionar un volumen mínimo de 43.000 m3, que permitirá almacenar el 
+primer año de operación del relleno sanitario en condiciones lluviosas. 
+Adicionalmente, se estima cual será el volumen de agua precipitada (calculado con la precipitación 
+extrema del modelo) que caerá en forma directa en las piscinas, el que se presenta en la siguiente 
+tabla.
+
+===== p.14 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13
+Tabla 6.
+Volumen de agua caída directa sobre las piscinas de almacenamiento
+APORTE DE LLUVIA
+SUPERFICIE 
+(m2)
+VOLUME
+N (m3)
+Piscinas de almacenamiento
+6.807
+4.042
+2.6.
+CONCLUSIONES
+En base a la generación de esta modelación, se obtienen los siguientes resultados para considerar en 
+el sistema de tratamiento: 
+
+43.000 m3 capacidad mínima de almacenamiento para el primer año de operación, con la 
+tasa  máxima  de  disposición  final  de  residuos  y  sin  tecnologías  de  tratamiento 
+implementadas.
+
+150 m3/día promedio para los años 1 y 2.
+
+350 m3/día promedio para los años 3 a 6.
+
+450 m3/día para los años 6 a 13.
+
+Peak promedio de generación lixiviado día: 473 m3, en condiciones lluviosas año 13.
+
+Peak diario año 13 condiciones lluviosas es de 724 m3/día.
+3. TRATAMIENTO POR EVAPORACIÓN
+Como primera etapa de tratamiento a considerar y evaluadas las capacidades de evaporación en 
+época  estival  de  la  zona  de  emplazamiento  del  proyecto,  se  plantea  un  sistema  de 
+acondicionamiento que permita el aprovechamiento de esta capacidad.
+3.1.
+VOLUMEN EVAPORADO DE LIXIVIADO
+Es sabido para que un líquido se evapore desde una superficie deben cumplirse dos condiciones. 
+Primero, debe existir una fuente de energía que entregue el calor latente necesario para que ocurra 
+la evaporación (usualmente proveniente del sol), y segundo, las moléculas de líquido evaporadas 
+deben ser removidas del sector inmediato a la superficie del líquido para permitir su libre dispersión. 
+La primera condición puede ser satisfecha sólo si se considera la radiación solar. La segunda se 
+cumple a través de la mezcla y acción del viento de manera natural que produce un efecto de barrido 
+sobre la superficie de las piscinas de evaporación.
+En general suele producirse una mayor evaporación desde la superficie de un suelo que desde la 
+superficie de un líquido.
+A través de la siguiente expresión se determinará el volumen evaporado de lixiviado.
+EL
+=
+KL
+x
+Ev
+x
+AL
+1000
+Donde:
+EL = volumen evaporado (m3).
+
+===== p.15 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14
+K  =Factor  de  corrección  de  evaporímetro.  Para  bandejas  de  evaporación  y  piscinas  de 
+almacenamiento KB=0,80, según experiencias en otros rellenos sanitarios.
+Ev = Tasa de evaporación mensual medida en evaporímetro, mm/mes.
+AL = Área de espejo de aguas en bandejas y piscinas, m2.
+1.000 = Factor de conversión de unidades (1.000 mm = 1 m)
+Para  la  determinación  del  volumen  que  se  podría  tratar  de  lixiviado  sobre  las  piscinas  de 
+almacenamiento y las bandejas de evaporación, se utilizaron los valores de evaporación media 
+mensual (mm/mes), obtenidos de la estación meteorológica “Lago Peñuelas”.
+Tabla 7.
+Valores de evaporación (mm/mes)
+MES
+TOTAL (mm)
+Enero
+204,3
+Febrero
+169,8
+Marzo
+151,3
+Abril
+100,4
+Mayo
+68,9
+Junio
+53,6
+Julio
+52,6
+Agosto
+59,3
+Sept
+75,3
+Oct
+116,3
+Nov
+167,4
+Dic
+194,1
+Total
+1413,4
+Además, el área de espejo considerado para las piscinas de almacenamiento y bandejas de 
+evaporación, que será la superficie de exposición permanente que tendrá el lixiviado almacenado, 
+se detalla en la siguiente tabla. 
+Tabla 8.
+Superficies expuestas en piscinas de almacenamiento
+UNIDAD
+SUPERFICIE ESPEJO (m2)
+Piscina de almacenamiento
+6.807
+Tabla 9.
+Superficies expuestas en bandejas de evaporación
+UNIDAD
+SUPERFICIE ESPEJO (m2)
+Bandeja 1
+2.568
+Bandeja 2
+3.936
+Bandeja 3
+6.608
+Bandeja transitoria (*)
+27.000
+Total
+40.112
+(*) bandeja transitoria, a habilitar durante la operación del proyecto y que tendrá un emplazamiento dinámico 
+en la medida que se vayan habilitando las etapas del vaso del relleno sanitario.
+
+===== p.16 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+15
+Es importante destacar que, para la determinación del volumen potencial a evaporar, mediante la 
+fórmula antes indicada, el período de evaporación sólo funcionará de septiembre a abril de cada 
+año, que corresponde al período en el cual la evaporación es mayor y por lo tanto permitirá una 
+mayor eficiencia del sistema. Durante los meses restantes  (mayo a agosto) se procederá a la 
+mantención y limpieza de las bandejas de evaporación.
+Como medida adicional, se propone habilitar un sistema perimetral de recirculación en las piscinas 
+de almacenamiento y en las bandejas de evaporación de lixiviados. Este sistema tomará el líquido y, 
+mediante un mecanismo de aspersión, lo distribuirá sobre la geomembrana del talud de los sistemas 
+de almacenamiento. El objetivo es aprovechar la temperatura superficial de estas estructuras para 
+incrementar la eficiencia del proceso de evaporación en un 45%.
+Finalmente, en la siguiente tabla se presenta la proyección del volumen evaporado mensual 
+Tabla 10.
+Volumen evaporado proyectado en bandejas de evaporación y piscinas de 
+almacenamiento
+Bandeja de 
+evaporación
+Superficie 
+(m2)
+Volumen Estimado por Evaporación (m3)
+Enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Sept
+Oct
+Nov
+Dic
+Total
+1
+2.568
+420
+349
+311
+206
+142
+110
+108
+122
+155
+239
+344
+399
+2.422
+2
+3.936
+643
+535
+476
+316
+217
+169
+166
+187
+237
+366
+527
+611
+3.712
+3
+6.608
+1.080
+898
+800
+531
+364
+284
+278
+314
+398
+615
+885
+1.026
+6.232
+Temporal
+27.000
+4.413
+3.667
+3.267
+2.168
+1.489
+1.159
+1.137
+1.281
+1.626
+2.513
+3.615
+4.192
+25.463
+Total
+37.828
+Piscina de 
+almacenamient
+o
+Superficie 
+(m2)
+Volumen Estimado por Evaporación (m3)
+Enero
+Febrero Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Sept
+Oct
+Nov
+Dic
+Total
+1
+2583
+422
+351
+313
+207
+142
+111
+109
+123
+156
+240
+346
+401
+2.228
+2
+4224
+690
+574
+511
+339
+233
+181
+178
+200
+254
+393
+566
+656
+3.644
+Total
+5.873
+Tabla 11.
+Volumen evaporado por recirculación perimetral
+Unidad
+Volumen evaporado (m3)
+Piscinas de almacenamiento 1 y 2
+2.643
+Bandejas de evaporación 1, 2 y 3
+5.564
+Bandeja temporal
+11.458
+Considerando los volúmenes a evaporar, se presenta en la siguiente tabla el cronograma de 
+habilitación de las unidades de almacenamiento y sus respectivos volúmenes de evaporación.
+Tabla 12.
+Cronograma habilitación de unidades de almacenamiento y evaporación
+Unidad
+Volumen 
+evaporación (m3)
+Año 1 (2028)
+Volumen 
+evaporación (m3)
+Años 2 (2029) a 25 
+(2052)
+Bandejas de evaporación 1, 2, 3
+12.365
+12.365
+Recirculación en bandejas de evaporación 1, 2 ,3
+5.564
+5.564
+Piscinas de almacenamiento 1, 2
+5.873
+5.873
+Recirculación en piscina de almacenamiento 1, 2
+2.643
+2.643
+
+===== p.17 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+16
+Bandeja de evaporación transitoria
+25.463
+Recirc. En Bandeja de evaporación transitoria
+11.458
+Total evaporado anual 
+26.445
+63.366
+4. TRATAMIENTO POR RECIRCULACIÓN DE LIXIVIADOS
+El lixiviado acumulado en las piscinas de almacenamiento podrá ser bombeado y reintegrado a la 
+masa de residuos, privilegiando la reinyección en zonas con residuos de mayor edad, utilizando la 
+técnica de recirculación mecánica mediante bombas de impulsión de aguas que se irán trasladando 
+en función de los requerimientos según el seguimiento ambiental.
+Todos los líquidos captados deberán ser bombeados hacia pozos de infiltración sobre la plataforma, 
+de tal forma de provocar una recirculación de los lixiviados generados hacia la masa de residuos.
+La recirculación de líquidos a la masa de basuras se deberá realizar en pozos especialmente 
+habilitados para este fin, para lo cual no se podrán utilizar las chimeneas para ventilación de biogás. 
+Se calcula basado en una tasa de infiltración de los residuos de 2x10-3 cm/s, la necesidad de contar 
+con 7 pozos de infiltración en el relleno sanitario, a ser habilitados en la fase de operación.
+El número de pozos de recirculación permitirían reintegrar lixiviado al relleno en cantidades 
+mínimas, hasta completar la capacidad de campo de la celda activa, incrementar los procesos de 
+degradación y reactivar la generación de biogás.
+En la siguiente tabla se presentan el diseño de los pozos de recirculación, considerando una 
+eficiencia del sistema de un 80%.
+Tabla 13.
+Diseño de pozos de recirculación
+Tasa de infiltración
+2,00E-03 cm/seg
+2,00E-05 m/seg
+Dimensiones pozo tipo
+Diámetro 
+3,0 m
+Profundidad
+6,0 m
+Manto
+57 m²
+% de vacío bolones
+20%
+Capacidad de almacenamiento
+8,48 m³
+Caudal de infiltración
+4,10 m³/hr
+Tiempo de vaciado
+2,07 hr
+veces de llenado día
+1
+Volumen diario por pozo
+8,48 m³
+Eficiencia de la captación
+80%
+Volumen diario captado
+56 m³/día
+Nº pozo diseño
+7
+Para estimar el volumen anual de lixiviado a recircular se estableció la capacidad de campo de los 
+residuos a ser depositados en el relleno sanitario, a partir de la siguiente expresión.
+
+===== p.18 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+17
+CC(*) 
+=
+0,6
+-
+0,55
+x
+W
+10000 + W
+ (*) Gestión Integral de Residuos Sólidos Volumen I, George Tchobanoglous 1994.
+Donde:
+CC: Capacidad de campo.
+W: peso de sobrecarga 
+Esta estimación permite obtener la capacidad máxima total anual de líquido que puede ser retenido 
+por los residuos al ser sometidos a la acción de la gravedad y sobrecargas.  Para un escenario 
+conservador y que minimice riesgos de sobrecargas por niveles elevados de lixiviados en el relleno, 
+se contempla recircular un volumen máximo que mantenga el nivel del líquido en el relleno bajo los 
+2 metros.
+En la siguiente tabla se presenta el volumen a recircular anual estimado.
+Tabla 14.
+Volumen de lixiviado a recircular anual
+Año
+Parcial 
+(toneladas)
+Producción de 
+residuos 
+Acumulados 
+(toneladas)
+Residuos 
+Compactados
+(m³)
+Capacidad 
+de retención 
+Lix por CC 
+(m3)
+1
+900.000
+900.000
+900.000
+706
+2
+922.500
+1.822.500
+922.500
+1.352
+3
+945.563
+2.768.063
+945.563
+2.014
+4
+969.202
+3.737.264
+969.202
+2.693
+5
+993.432
+4.730.696
+993.432
+3.388
+6
+1.018.267
+5.748.963
+1.018.267
+4.101
+7
+1.043.724
+6.792.687
+1.043.724
+4.832
+8
+1.069.817
+7.862.504
+1.069.817
+5.581
+9
+1.096.563
+8.959.067
+1.096.563
+6.348
+10
+1.123.977
+10.083.044
+1.123.977
+7.135
+11
+1.152.076
+11.235.120
+1.152.076
+7.942
+12
+1.180.878
+12.415.998
+1.180.878
+8.768
+13
+1.210.400
+13.626.398
+1.210.400
+9.615
+14
+1.240.660
+14.867.058
+1.240.660
+10.484
+15
+1.271.676
+16.138.734
+1.271.676
+11.374
+16
+1.303.468
+17.442.202
+1.303.468
+12.286
+17
+1.336.055
+18.778.257
+1.336.055
+13.222
+18
+1.369.456
+20.147.714
+1.369.456
+14.180
+19
+1.403.693
+21.551.407
+1.403.693
+15.163
+20
+1.438.785
+22.990.192
+1.438.785
+16170
+21
+1.474.755
+24.464.947
+1.474.755
+17.202
+22
+1.511.624
+25.976.570
+1.511.624
+18.261
+23
+1.549.414
+27.525.985
+1.549.414
+19.345
+24
+1.588.150
+29.114.134
+1.588.150
+20.457
+25
+1.627.853
+30.741.988
+1.627.853
+21.596
+
+===== p.19 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+18
+5.
+BALANCE GENERAL DE LIXIVIADOS
+A partir de los volúmenes de almacenamiento de las piscinas de lixiviados, el tratamiento por 
+evaporación y el volumen a recircular, se presenta el balance general de lixiviados para la etapa de 
+operación del relleno sanitario. La siguiente expresión establece el cálculo del volumen almacenado 
+al final de cada año.
+Volumen almacenado 
+Final Período
+=
+Volumen acumulado 
+piscinas
+Inicio Período
++
+Volumen agua 
+lluvia sobre 
+piscinas
+-
+Volumen 
+evaporado
+-
+Volumen 
+recirculado
+-
+Volumen a 
+tratar
+El volumen acumulado en las piscinas al inicio del período se estima a partir de la siguiente 
+expresión:
+Volumen acumulado piscinas
+Inicio Período
+=
+Volumen generado 
++ Volumen almacenado 
+Período anterior
+A continuación, se presentan tres escenarios de balance general asociados a condiciones de 
+precipitación seca, normal y lluviosa. Para el diseño de las obras se considerará el escenario 
+correspondiente al período más lluvioso, por representar la condición más conservadora y crítica 
+frente a eventos de precipitación.
+5.1.
+BALANCE GENERAL DE LIXIVIADOS CONDICIONES SECAS DE PRECIPITACIONES
+El balance de lixiviados, considerando el volumen evaporado y recirculado, es el siguiente:
+Tabla 15.
+Balance de lixiviados – condiciones secas
+Año
+Volumen 
+Lixiviado 
+Generado 
+(m3)
+Volumen 
+almacenado 
+período 
+anterior (m3)
+Volumen 
+acumulado 
+Inicio 
+Período (m3)
+Volumen 
+agua lluvia 
+sobre 
+piscinas (m3)
+Volumen 
+Lixiviado 
+evaporado 
+(m3)
+ Volumen 
+Lixiviado 
+recirculado 
+(m3)
+ Volumen 
+Lixiviado 
+tratado en 
+PTL (m3)
+Volumen 
+almacenado 
+piscinas Final 
+Período (m3)
+1
+           11.366                       -            11.366              4.042            26.445                       -                       -                       - 
+2
+           23.679                       -            23.679              4.042            26.445                       -                       -              1.276 
+3
+           32.204              1.276            33.480              4.042            26.445              2.014                       -              9.063 
+4
+           37.413              9.063            46.476              4.042            26.445              2.693                       -            21.380 
+5
+           40.728            21.380            62.108              4.042            26.445              3.388                       -            36.317 
+6
+           42.622            36.317            78.939              4.042            26.445              4.101            16.700            35.735 
+7
+           43.759            35.735            79.494              4.042            26.445              4.832            16.700            35.559 
+8
+           44.388            35.559            79.947              4.042            26.445              5.581            16.700            35.264 
+9
+           44.981            35.264            80.245              4.042            26.445              6.348            16.700            34.794 
+10
+           45.362            34.794            80.156              4.042            26.445              7.135            16.700            33.918 
+11
+           45.295            33.918            79.213              4.042            26.445              7.942            16.700            32.168 
+12
+           45.123            32.168            77.291              4.042            26.445              8.768            16.700            29.420 
+13
+           44.850            29.420            74.270              4.042            26.445              9.615            16.700            25.552 
+
+===== p.20 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+19
+Año
+Volumen 
+Lixiviado 
+Generado 
+(m3)
+Volumen 
+almacenado 
+período 
+anterior (m3)
+Volumen 
+acumulado 
+Inicio 
+Período (m3)
+Volumen 
+agua lluvia 
+sobre 
+piscinas (m3)
+Volumen 
+Lixiviado 
+evaporado 
+(m3)
+ Volumen 
+Lixiviado 
+recirculado 
+(m3)
+ Volumen 
+Lixiviado 
+tratado en 
+PTL (m3)
+Volumen 
+almacenado 
+piscinas Final 
+Período (m3)
+14
+           43.886            25.552            69.438              4.042            26.445            10.484            16.700            19.851 
+15
+           43.422            19.851            63.273              4.042            26.445            11.374            16.700            12.796 
+16
+           42.868            12.796            55.664              4.042            26.445            12.286            10.020            10.955 
+17
+           42.305            10.955            53.259              4.042            26.445            13.222            10.020              7.615 
+18
+           41.732              7.615            49.347              4.042            26.445            14.180            10.020              2.744 
+19
+           41.151              2.744            43.895              4.042            26.445            15.163            10.020                       - 
+20
+           40.561                       -            40.561              4.042            26.445            16.170              6.680                       - 
+21
+           39.967                       -            39.967              4.042            26.445            17.202              6.680                       - 
+22
+           39.372                       -            39.372              4.042            26.445            18.261              6.680                       - 
+23
+           38.777                       -            38.777              4.042            26.445            19.345              6.680                       - 
+24
+           38.180                       -            38.180              4.042            26.445            20.457              6.680                       - 
+25
+           37.582                       -            37.582              4.042            26.445            21.596              6.680                       - 
+26
+           36.984                       -            36.984              4.042            26.445            22.377              6.680                       - 
+27
+           36.745                       -            36.745              4.042            26.445            23.182              6.680                       - 
+28
+           36.506                       -            36.506              4.042            26.445            24.013              6.680                       - 
+29
+           36.267                       -            36.267              4.042            26.445            24.870              6.680                       - 
+30
+           35.788                       -            35.788              4.042            26.445            25.755              6.680                       - 
+En la siguiente figura se representa el balance general de lixiviados.
+
+===== p.21 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+20
+Figura 6.
+Balance general de lixiviados - condiciones secas
+El balance general de lixiviados considera la generación del líquido al interior de la celda de residuos 
+sólidos a partir del año 1 de operación. Se debe considerar que el balance se realiza tomando como 
+datos de entrada el ingreso de 2.500 ton/día de RSD en una superficie total de 44,9 ha.
+El año 1 de operación el modelo de generación estima un volumen de 11.366 m3 de lixiviado 
+producido en la masa de residuos, lo cual sumado los 4.042 m3 de agua caída en forma directa sobre 
+las piscinas de almacenamiento, se estima que el volumen requerido almacenar al inicio del período 
+es de 15.408 m3. El lixiviado acumulado en las piscinas de almacenamiento considera un volumen 
+evaporado de 26.445 m3. De esta forma no se requiere la recirculación del percolado para este año y 
+finalmente, al final del período no quedará volumen almacenado de lixiviados.
+En la medida que la operación del relleno sanitario avance y los volúmenes generados aumenten, 
+debido a la habilitación de nuevas superficies, se considera dentro del balance general de lixiviados 
+el proceso de recirculación a partir del año 3. 
+Dado que el volumen total de las piscinas de almacenamiento es de 52.354 m³, se estima que dicha 
+capacidad será alcanzada en el sexto año de operación, debido a los remanentes de percolados que 
+se acumulan al final de cada período. Por ello, será necesario implementar medidas que permitan 
+recuperar la capacidad en las piscinas. Entre estas, se considera la incorporación de una planta de 
+tratamiento de lixiviados, cuyo efluente podría destinarse al riego de caminos y plataformas, como 
+también considerar el traslado de lixiviados tratados a una planta de tratamiento de aguas servidas 
+en la zona.
+
+===== p.22 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+21
+En el año 6 de operación, a partir de los volúmenes de generación sumado a los de agua caída sobre 
+las piscinas, se estima la necesidad de contar con una planta de tratamiento de lixiviados con un 
+caudal de 50 m3/día o 1.500 m3/mes, que permita mantener el balance general utilizando las 
+capacidades de almacenamiento, evaporación y recirculación. 
+Con estos antecedentes es que la planta de tratamiento de lixiviados, como medida de prevención 
+en caso de que las precipitaciones sean mayores a lo estimado por el balance de lixiviados, iniciará su 
+construcción cuando se cumpla uno de los siguientes hitos:
+
+Al inicio del año 6 de entrada en operación del relleno sanitario, según lo establecido en el 
+balance hídrico de lixiviados.
+
+Cuando en conjunto el volumen de las piscinas de almacenamiento de lixiviados alcance un 
+50% de su capacidad total, lo cual deberá ser controlado mediante topografía en forma 
+diaria e informado a la autoridad competente.
+
+===== p.23 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+22
+5.2.
+BALANCE GENERAL DE LIXIVIADOS CONDICIONES NORMALES DE 
+PRECIPITACIONES
+El balance de lixiviados, considerando el volumen evaporado y recirculado, es el siguiente:
+Tabla 16.
+Balance de lixiviados – condiciones normales
+Año
+Volumen 
+Lixiviado 
+Generado 
+(m3)
+Volumen 
+almacenado 
+período 
+anterior 
+(m3)
+Volumen 
+acumulado 
+Inicio 
+Período (m3)
+Volumen 
+agua lluvia 
+sobre 
+piscinas (m3)
+Volumen 
+Lixiviado 
+evaporado 
+(m3)
+ Volumen 
+Lixiviado 
+recirculado 
+(m3)
+ Volumen 
+Lixiviado 
+tratado en 
+PTL (m3)
+Volumen 
+almacenado 
+piscinas Final 
+Período (m3)
+1
+           26.755                       -            26.755              4.042            26.445                       -                       -              4.352 
+2
+           55.739              4.352            60.091              4.042            63.366                       -                       -                 768 
+3
+           75.806                 768 
+           76.573              4.042            63.366              2.014                       -            15.235 
+4
+           88.068            15.235         103.303 
+             4.042            63.366              2.693            23.380            17.907 
+5
+           95.872            17.907         113.778 
+             4.042            63.366              3.388            23.380            27.686 
+6
+        100.331 
+           27.686         128.017 
+             4.042            63.366              4.101            33.400            31.192 
+7
+        103.006 
+           31.192         134.199 
+             4.042            63.366              4.832            33.400            36.643 
+8
+        104.785 
+           36.643         141.428 
+             4.042            63.366              5.581            40.080            36.443 
+9
+        106.337 
+           36.443         142.781 
+             4.042            63.366              6.348            40.080            37.029 
+10
+        107.547 
+           37.029         144.575 
+             4.042            63.366              7.135            40.080            38.036 
+11
+        108.172 
+           38.036         146.208 
+             4.042            63.366              7.942            40.080            38.863 
+12
+        108.565 
+           38.863         147.428 
+             4.042            63.366              8.768            43.420            35.916 
+13
+        108.728 
+           35.916         144.644 
+             4.042            63.366              9.615            40.080            35.625 
+14
+        108.059 
+           35.625         143.684 
+             4.042            63.366            10.484            40.080            33.796 
+15
+        107.774 
+           33.796         141.570 
+             4.042            63.366            11.374            40.080            30.792 
+16
+        107.272 
+           30.792         138.064 
+             4.042            63.366            12.286            40.080            26.374 
+17
+        106.747 
+           26.374         133.121 
+             4.042            63.366            13.222            33.400            27.175 
+18
+        106.200 
+           27.175         133.375 
+             4.042            63.366            14.180            33.400            26.471 
+19
+        105.632 
+           26.471         132.103 
+             4.042            63.366            15.163            33.400            24.216 
+20
+        105.042 
+           24.216         129.258 
+             4.042            63.366            16.170            33.400            20.365 
+21
+        104.442 
+           20.365         124.806 
+             4.042            63.366            17.202            33.400            14.880 
+22
+        103.839 
+           14.880         118.719 
+             4.042            63.366            18.261            33.400              7.735 
+23
+        103.234 
+             7.735         110.969 
+             4.042            63.366            19.345            33.400                       - 
+24
+        102.628 
+                      -         102.628 
+             4.042            63.366            20.457            33.400                       - 
+25
+        102.019 
+                      -         102.019 
+             4.042            63.366            21.596            33.400                       - 
+26
+        101.408 
+                      -         101.408 
+             4.042            63.366            22.377            33.400                       - 
+27
+        100.264 
+                      -         100.264 
+             4.042            63.366            23.182            33.400                       - 
+28
+        100.919 
+                      -         100.919 
+             4.042            63.366            24.013            33.400                       - 
+29
+        100.675 
+                      -         100.675 
+             4.042            63.366            24.870            33.400                       - 
+30
+           80.149                       -            80.149              4.042            63.366            25.755            33.400                       - 
+En la siguiente figura se representa el balance general de lixiviados.
+
+===== p.24 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+23
+Figura 7.
+Balance general de lixiviados – condiciones normales
+El balance general de lixiviados considera la generación del líquido al interior de la celda de residuos 
+sólidos a partir del año 1 de operación. Se debe considerar que el balance se realiza tomando como 
+datos de entrada el ingreso de 2.500 ton/día de RSD en una superficie total de 44,9 ha.
+El año 1 de operación el modelo de generación estima un volumen de 26.755 m3 de lixiviado 
+producido en la masa de residuos, lo cual sumado los 4.042 m3 de agua caída en forma directa sobre 
+las piscinas de almacenamiento, se estima que el volumen requerido almacenar al inicio del período 
+es de 30.797 m3. El lixiviado acumulado en las piscinas de almacenamiento considera un volumen 
+evaporado de 26.445 m3. De esta forma no se requiere la recirculación del percolado para este año y 
+finalmente, al final del período no quedará volumen almacenado de lixiviados.
+En la medida que la operación del relleno sanitario avance y los volúmenes generados aumenten, 
+debido a la habilitación de nuevas superficies, se considera dentro del balance general de lixiviados 
+el proceso de recirculación a partir del año 3. 
+Dado que el volumen total de las piscinas de almacenamiento es de 52.354 m³, se estima que dicha 
+capacidad será alcanzada en el cuarto año de operación, debido a los remanentes de percolados que 
+se acumulan al final de cada período. Por ello, será necesario implementar medidas que permitan 
+recuperar la capacidad en las piscinas. Entre estas, se considera la incorporación de una planta de 
+tratamiento de lixiviados, cuyo efluente podría destinarse al riego de caminos y plataformas, como 
+
+===== p.25 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+24
+también considerar el traslado de lixiviados tratados a una planta de tratamiento de aguas servidas 
+en la zona.
+En el año 4 de operación, a partir de los volúmenes de generación sumado a los de agua caída sobre 
+las piscinas, se estima la necesidad de contar con una planta de tratamiento de lixiviados con un 
+caudal mínimo de 70 m3/día o 2.100 m3/mes. El caudal máximo de lixiviado a tratar será al año 12 de 
+operación con 130 m3/día, que permita mantener el balance general utilizando las capacidades de 
+almacenamiento, evaporación y recirculación. 
+Con estos antecedentes es que la planta de tratamiento de lixiviados, como medida de prevención 
+en caso de que las precipitaciones sean mayores a lo estimado por el balance de lixiviados, iniciará su 
+construcción cuando se cumpla uno de los siguientes hitos:
+
+Al inicio del año 4 de entrada en operación del relleno sanitario, según lo establecido en el 
+balance hídrico de lixiviados.
+
+Cuando en conjunto el volumen de las piscinas de almacenamiento de lixiviados alcance un 
+50% de su capacidad total, lo cual deberá ser controlado mediante topografía en forma 
+diaria e informado a la autoridad competente.
+
+===== p.26 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+25
+5.3.
+BALANCE GENERAL DE LIXIVIADOS CONDICIONES LLUVIOSAS DE 
+PRECIPITACIONES
+El balance de lixiviados, considerando el volumen evaporado y recirculado, es el siguiente:
+Tabla 17.
+Balance de lixiviados – condiciones lluviosas
+Año
+Volumen 
+Lixiviado 
+Generado 
+(m3)
+Volumen 
+almacenado 
+período 
+anterior (m3)
+Volumen 
+acumulado 
+Inicio 
+Período (m3)
+Volumen 
+agua lluvia 
+sobre 
+piscinas (m3)
+Volumen 
+Lixiviado 
+evaporado 
+(m3)
+ Volumen 
+Lixiviado 
+recirculado 
+(m3)
+ Volumen 
+Lixiviado 
+tratado en 
+PTL (m3)
+Volumen 
+almacenado 
+piscinas Final 
+Período (m3)
+1
+           42.144                       -            42.144              4.042            26.445                       -                       -            19.741 
+2
+           87.800            19.741         107.540 
+             4.042            63.366                       -                       -            48.217 
+3
+        119.407 
+           48.217         167.624 
+             4.042            63.366              2.014            66.800            39.486 
+4
+        138.723 
+           39.486         178.209 
+             4.042            63.366              2.693            83.500            32.693 
+5
+        151.015 
+           32.693         183.708 
+             4.042            63.366              3.388            83.500            37.496 
+6
+        158.039 
+           37.496         195.535 
+             4.042            63.366              4.101            90.180            41.930 
+7
+        162.254 
+           41.930         204.184 
+             4.042            63.366              4.832         100.200 
+           39.828 
+8
+        165.181 
+           39.828         205.009 
+             4.042            63.366              5.581         100.200 
+           39.905 
+9
+        167.693 
+           39.905         207.598 
+             4.042            63.366              6.348         100.200 
+           41.726 
+10
+        169.731 
+           41.726         211.457 
+             4.042            63.366              7.135         103.540 
+           41.459 
+11
+        171.049 
+           41.459         212.508 
+             4.042            63.366              7.942         103.540 
+           41.703 
+12
+        172.006 
+           41.703         213.709 
+             4.042            63.366              8.768         103.540 
+           42.077 
+13
+        172.606 
+           42.077         214.683 
+             4.042            63.366              9.615         103.540 
+           42.204 
+14
+        172.232 
+           42.204         214.436 
+             4.042            63.366            10.484         103.540 
+           41.088 
+15
+        172.126 
+           41.088         213.214 
+             4.042            63.366            11.374         103.540 
+           38.976 
+16
+        171.675 
+           38.976         210.652 
+             4.042            63.366            12.286         110.220 
+           28.821 
+17
+        171.189 
+           28.821         200.010 
+             4.042            63.366            13.222         106.880 
+           20.585 
+18
+        170.668 
+           20.585         191.253 
+             4.042            63.366            14.180         100.200 
+           17.549 
+19
+        170.112 
+           17.549         187.661 
+             4.042            63.366            15.163         103.540 
+             9.635 
+20
+        169.523 
+             9.635         179.157 
+             4.042            63.366            16.170         100.200 
+             3.464 
+21
+        168.916 
+             3.464         172.380 
+             4.042            63.366            17.202            93.520              2.333 
+22
+        168.306 
+             2.333         170.639 
+             4.042            63.366            18.261            90.180              2.875 
+23
+        167.692 
+             2.875         170.568 
+             4.042            63.366            19.345            90.180              1.719 
+24
+        167.075 
+             1.719         168.794 
+             4.042            63.366            20.457            90.180                       - 
+25
+        166.455 
+                      -         166.455 
+             4.042            63.366            21.596            90.180                       - 
+26
+        149.248 
+                      -         149.248 
+             4.042            63.366            22.377            86.840                       - 
+27
+        132.466 
+                      -         132.466 
+             4.042            63.366            23.182            83.500                       - 
+28
+        132.266 
+                      -         132.266 
+             4.042            63.366            24.013            83.500                       - 
+29
+        115.558 
+                      -         115.558 
+             4.042            63.366            24.870            83.500                       - 
+30
+           98.751                       -            98.751              4.042            63.366            25.755            83.500                       - 
+En la siguiente figura se representa el balance general de lixiviados.
+
+===== p.27 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+26
+Figura 8.
+Balance general de lixiviados – condiciones lluviosas
+El balance general de lixiviados considera la generación del líquido al interior de la celda de residuos 
+sólidos a partir del año 1 de operación. Se debe considerar que el balance se realiza tomando como 
+datos de entrada el ingreso de 2.500 ton/día de RSD en una superficie total de 44,9 ha.
+El año 1 de operación el modelo de generación estima un volumen de 42.144 m3 de lixiviado 
+producido en la masa de residuos, lo cual sumado los 4.042 m3 de agua caída en forma directa sobre 
+las piscinas de almacenamiento, se estima que el volumen requerido almacenar al inicio del período 
+es de 46.186 m3. El lixiviado acumulado en las piscinas de almacenamiento considera un volumen 
+evaporado de 26.445 m3. De esta forma no se requiere la recirculación del percolado para este año y 
+finalmente, al final del período no quedará volumen almacenado de lixiviados.
+En la medida que la operación del relleno sanitario avance y los volúmenes generados aumenten, 
+debido a la habilitación de nuevas superficies, se considera dentro del balance general de lixiviados 
+el proceso de recirculación a partir del año 3. 
+Dado que el volumen total de las piscinas de almacenamiento es de 52.354 m³, se estima que dicha 
+capacidad será alcanzada en el tercer año de operación, debido a los remanentes de percolados que 
+se acumulan al final de cada período. Por ello, será necesario implementar medidas que permitan 
+recuperar la capacidad en las piscinas. Entre estas, se considera la incorporación de una planta de 
+tratamiento de lixiviados, cuyo efluente podría destinarse al riego de caminos y plataformas, como 
+también considerar el traslado de lixiviados a una planta de tratamiento de aguas servidas en la 
+zona.
+
+===== p.28 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+27
+En el año 3 de operación, a partir de los volúmenes de generación sumado a los de agua caída sobre 
+las piscinas, se estima la necesidad de contar con una planta de tratamiento de lixiviados con un 
+caudal mínimo de 200 m3/día o 6.000 m3/mes. El caudal máximo de lixiviado a tratar será al año 16 
+de operación con 330 m3/día, que permita mantener el balance general utilizando las capacidades 
+de almacenamiento, evaporación y recirculación. 
+Con estos antecedentes es que la planta de tratamiento de lixiviados, como medida de prevención 
+en caso de que las precipitaciones sean mayores a lo estimado por el balance de lixiviados, iniciará su 
+construcción cuando se cumpla uno de los siguientes hitos:
+
+Al inicio del año 3 de entrada en operación del relleno sanitario, según lo establecido en el 
+balance hídrico de lixiviados.
+
+Cuando en conjunto el volumen de las piscinas de almacenamiento de lixiviados alcance un 
+50% de su capacidad total, lo cual deberá ser controlado mediante topografía en forma 
+diaria e informado a la autoridad competente.
+
+===== p.29 =====
+ANEXO BALANCE HÍDRICO DE LIXIVIADOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS

@@ -1,0 +1,974 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO PAS 138 AGUAS SERVIDAS
+Documento Preparado por:
+Junio 2026
+
+===== p.1 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+ÍNDICE
+1.
+INTRODUCCIÓN
+1
+1.1.
+CONTENIDOS TÉCNICOS Y FORMALES
+2
+1.1.1.
+A. DESCRIPCIÓN DEL SISTEMA DE RECOLECCIÓN Y/O TRATAMIENTO
+2
+1.1.2.
+B.  PLANO  DE  LOCALIZACIÓN  DEL  ÁREA  DE  RECOLECCIÓN  Y  DE  LA  PLANTA  DE 
+TRATAMIENTO DE AGUAS SERVIDAS
+2
+1.1.3.
+C. GENERACIÓN DE AGUAS SERVIDAS
+2
+1.1.3.1
+Fase de construcción
+2
+1.1.3.2
+Fase de operación
+5
+1.1.3.3
+Fase de cierre
+13
+1.1.4.
+D. CARACTERIZACIÓN FÍSICO-QUÍMICAS DE LAS AGUAS SERVIDAS
+14
+1.1.5.
+E. DESCRIPCIÓN DEL SISTEMA DE TRATAMIENTO DE AGUAS SERVIDAS
+15
+1.1.5.1
+Fosas sépticas
+15
+1.1.5.2
+Planta de tratamiento de lodos activados
+15
+1.1.6.
+F. DESCRIPCIÓN DE LA FORMA DE DISPOSICIÓN FINAL DEL EFLUENTE TRATADO
+16
+1.1.6.1
+Fosas sépticas
+16
+1.1.6.2
+Planta de tratamiento
+16
+1.1.7.
+G. INDICACIÓN DEL PERÍODO DE RETORNO CONSIDERADO PARA EL DISEÑO DE LOS 
+DESAGÜES DE AGUAS LLUVIAS
+17
+1.1.8.
+H.  DESCRIPCIÓN  DEL  SISTEMA  DE  TRATAMIENTO  DE  AGUAS  SERVIDAS  Y 
+DISPOSICIÓN, DE TRATARSE DE UNA FOSA SÉPTICA
+17
+1.1.9.
+I. DESCRIPCIÓN GENERAL DE LA GENERACIÓN Y MANEJO DE LODOS
+18
+1.1.9.1
+Fase Construcción
+18
+1.1.9.2
+Fase Operación
+19
+1.1.9.3
+Fase cierre
+20
+1.1.10. J. PROGRAMA DE MONITOREO
+20
+1.1.11. K. PLAN DE CONTINGENCIAS
+21
+1.1.12. L. PLAN DE EMERGENCIA
+21
+ANEXO
+ANEX0 01 LAMINAS PROYECTO AGUAS SERVIDAS
+
+===== p.2 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+1. INTRODUCCIÓN
+Durante  la  etapa  de  operación  del  proyecto  se  identifica  la  generación  de  aguas  servidas 
+provenientes del sector de casetas de control de accesos, comedor – camarines y oficinas 
+administrativas y operacionales, báscula de pesaje, oficina de planta de lixiviados, oficina de planta 
+de quema biogás y oficina planta de compostaje, asociado al uso de servicios higiénicos y 
+comedores. El diseño en términos generales considera el tratamiento de las aguas por medio de una 
+planta de tratamiento para las oficinas administrativas y operativas, y fosas sépticas para el resto de 
+las instalaciones, en cuyo caso los efluentes serán posteriormente infiltrados al subsuelo.
+El proyecto contempla la presentación y aprobación del Artículo 138º del Reglamento del Sistema de 
+Evaluación de Impacto Ambiental (RSEIA) D.S. Nº 40/12, el cual señala:
+Artículo 138.- Permiso para la construcción, reparación, modificación y ampliación de cualquier obra 
+pública o particular destinada a la evacuación, tratamiento o disposición final de desagües, aguas  
+servidas de cualquier naturaleza. El permiso para la construcción, reparación, modificación y  
+ampliación de cualquier obra pública o particular destinada a la evacuación, tratamiento o  
+disposición final de desagües, aguas servidas de cualquier naturaleza, será el establecido en el  
+artículo 71 letra b) primera parte, del Decreto con Fuerza de Ley Nº 725, de 1967, del Ministerio de  
+Salud Pública, Código Sanitario.
+El requisito para su otorgamiento consiste en que la disposición de las aguas servidas no amenace la 
+salud de la población.
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento son los 
+siguientes:
+a.
+Descripción del sistema de recolección y/o tratamiento.
+b.
+Plano de localización del área de recolección y de la planta de tratamiento de aguas 
+servidas.
+c.
+Generación de aguas servidas.
+d.
+Caracterización físico-químicas de las aguas servidas.
+e.
+Descripción del sistema de tratamiento de aguas servidas.
+f.
+Descripción de la forma de disposición final del efluente tratado.
+g.
+Indicación del período de retorno considerado para el diseño de los desagües de aguas 
+lluvias.
+h.
+Descripción del sistema de tratamiento de aguas servidas y disposición, de tratarse de 
+una fosa séptica.
+i.
+Descripción general de la generación y manejo de lodos.
+j.
+Programa de monitoreo.
+k.
+Plan de contingencias.
+l.
+Plan de emergencia.
+
+===== p.3 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+A continuación, se señalan los antecedentes requeridos para solicitar el Permiso Ambiental Sectorial 
+N° 138.
+1.1.
+CONTENIDOS TÉCNICOS Y FORMALES
+1.1.1.
+A. DESCRIPCIÓN DEL SISTEMA DE RECOLECCIÓN Y/O TRATAMIENTO
+El Centro Metropolitano de Gestión Integral de Residuos contempla la habilitación de recintos 
+destinados al buen funcionamiento de las diferentes operaciones, dichos recintos contaran con 
+servicios higiénicos (SSHH) que den cumplimiento a las normativas vigentes.
+Las redes interiores de alcantarillado serán en PVC sanitarios, diámetros variables calculados según 
+el número de U.E.H. (Unidad de equivalencia hidráulica) totales instalados. Serán instaladas con una 
+pendiente mínima de 3% manteniendo un apoyo uniforme en toda la tubería. En cada cambio de 
+dirección se proyectan cámaras de inspección prefabricadas de altura variable, serán del tipo 
+domiciliario prefabricadas. El radier y las banquetas serán de hormigón de 255 Kg. de cm/m³. 
+En particular, el sector de las instalaciones administrativas y operacionales contará con una cámara 
+desgrasadora prefabricada en cada salida de lavaplatos, diseñada para asegurar un tiempo de 
+retención mínimo de 30 minutos y permitir la adecuada separación de grasas. Asimismo, el sector de 
+lavandería  dispondrá  de  una  cámara  cortadora  de  jabones  instalada  antes  del  sistema  de 
+recolección de aguas servidas.
+Finalmente, las aguas servidas recolectadas desde cada recinto serán conducidas a sus respectivos 
+sistemas  de  tratamiento,  los  cuales  consideran  procesos  primarios  y/o  secundarios  según 
+corresponda. El efluente resultante será infiltrado al terreno natural o reutilizado en actividades 
+operativas, como el riego, de acuerdo con las características del tratamiento aplicado y en 
+cumplimiento con la normativa ambiental vigente.
+1.1.2.
+B.  PLANO  DE  LOCALIZACIÓN  DEL  ÁREA  DE  RECOLECCIÓN  Y  DE  LA  PLANTA  DE 
+TRATAMIENTO DE AGUAS SERVIDAS
+Se adjunta en Anexo plano con la localización y coordenadas de los sistemas de tratamiento de las 
+aguas servidas domiciliarias.
+1.1.3.
+C. GENERACIÓN DE AGUAS SERVIDAS
+1.1.3.1
+Fase de construcción
+Durante la fase de construcción se habilitará una instalación de faenas destinada al personal de 
+obra, la cual contará con servicios higiénicos, duchas, lavamanos, comedor y lavaplatos. El diseño 
+sanitario ha sido desarrollado de conformidad con las exigencias establecidas en el Decreto 
+Supremo  N°  594/1999  del  Ministerio  de  Salud,  considerando  una  dotación  máxima  de  50 
+
+===== p.4 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+trabajadores y asegurando la cantidad mínima de artefactos sanitarios requerida por la normativa 
+vigente.
+Las aguas servidas generadas serán recolectadas mediante una red de alcantarillado interior 
+compuesta por tuberías de PVC sanitario, dimensionadas y dispuestas con pendientes acordes a la 
+normativa técnica aplicable, garantizando el adecuado escurrimiento de los efluentes. Asimismo, se 
+contemplan cámaras de inspección en los cambios de dirección y demás puntos necesarios para 
+facilitar la operación, mantención y limpieza del sistema. Adicionalmente, las aguas provenientes 
+del lavaplatos ubicado en el comedor serán conducidas previamente a una cámara desgrasadora, 
+destinada a la retención de aceites y grasas antes de su ingreso al sistema de tratamiento.
+De acuerdo con la dotación proyectada, se estima una generación de residuos líquidos domésticos 
+de 7.500 L/día (DMD) y una producción de lodos de aproximadamente 10 L/día. En base a estos 
+antecedentes, el sistema primario de tratamiento (fosa séptica) debe contar con un volumen útil 
+mínimo de 9.763 litros. Sin embargo, se considera la instalación de una fosa séptica con una 
+capacidad total de 12.000 litros. Las aguas servidas serán tratadas mediante este sistema y 
+posteriormente dispuestas a través de drenes de infiltración diseñados para la carga hidráulica 
+generada durante la etapa de construcción.
+En la Tabla siguiente se resumen los principales parámetros de diseño considerados para el 
+dimensionamiento del sistema de tratamiento de aguas servidas de la instalación de faenas.
+Tabla 1.Parámetros de diseño instalaciones sanitarias
+Recinto
+Nº 
+Trabajadores
+Residuos líquidos 
+(DMD)
+lt/ día
+Lodos 
+lt / día
+Volumen útil 
+fosa séptica
+lts
+Volumen 
+proyectado
+fosa séptica
+lts
+Instalación de faenas
+50
+7.500 
+10
+9.763 
+12.000
+A continuación, se presenta la planta general de la instalación sanitaria proyectada para la 
+instalación de faenas, donde se identifica la ubicación de los artefactos sanitarios, el trazado de la 
+red de alcantarillado interior, las cámaras de inspección, la cámara desgrasadora y el sistema de 
+tratamiento y disposición final compuesto por una fosa séptica y drenes de infiltración. El diseño 
+considera recorridos que optimizan la recolección y conducción de los efluentes, incorporando las 
+pendientes y elementos de inspección necesarios para asegurar el adecuado funcionamiento, 
+operación y mantenimiento del sistema.
+
+===== p.5 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+Figura 1.
+Diseño sistema de recolección y tratamiento de las aguas servidas instalación de 
+faenas.
+
+===== p.6 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+1.1.3.2
+Fase de operación
+Durante la fase de operación del proyecto, se contemplan distintos recintos tales como casetas de 
+control y pesaje, oficinas de planta de reciclaje, compostaje, tratamiento de lixiviados y biogás. Cada 
+uno de estos recintos cuenta con dotación de personal variable, lo que determina la generación de 
+residuos líquidos domésticos y lodos asociados, los cuales han sido estimados para efectos de 
+dimensionamiento de los sistemas sanitarios individuales.
+El manejo de las aguas servidas se realiza mediante sistemas independientes de recolección y 
+tratamiento, consistentes en fosas sépticas, las cuales han sido dimensionadas de acuerdo con la 
+carga hidráulica proyectada, considerando los volúmenes útiles requeridos según la dotación de 
+trabajadores y el uso específico de cada instalación.
+La evacuación de las aguas servidas se efectúa mediante redes interiores compuestas por tuberías 
+de  PVC  sanitario,  dispuestas  con  las  pendientes  necesarias  para  asegurar  un  escurrimiento 
+gravitacional adecuado. Asimismo, se incorporan cámaras de inspección en los cambios de dirección 
+y puntos estratégicos de la red, con el objeto de facilitar las labores de operación y mantenimiento. 
+En los recintos que generan aguas grises con contenido de grasas, se considera la instalación de 
+cámaras desgrasadoras, previo al ingreso de los efluentes a las fosas sépticas correspondientes, 
+asegurando así la protección y eficiencia del sistema de tratamiento.
+Los  parámetros  de  diseño,  incluyendo  dotación  de  personal, caudales  de  residuos líquidos, 
+generación de lodos y volúmenes de fosas sépticas proyectadas para cada recinto, se presentan en 
+la tabla siguiente.
+Tabla 2.Parámetros de diseño instalaciones sanitarias
+Recinto
+Nº 
+Trabajadore
+s
+Residuos 
+líquidos 
+(DMD)
+lt/ día
+Lodos 
+lt / día
+Volumen 
+útil fosa 
+séptica
+lts
+Volumen 
+proyectado fosa 
+séptica
+lts
+Caseta de control de acceso
+3
+450
+0,6
+585,78
+1.200
+Caseta de control relleno
+3
+450
+0,6
+585,78
+1.200
+Caseta de pesaje
+3
+450
+0,6
+585,78
+1.200
+Oficina de tratamiento de 
+lixiviados
+5
+750
+1
+976,3
+1.200
+Oficina de planta quema de biogás
+4
+600
+0,8
+781,04
+1.200
+Oficina de planta de reciclaje
+24
+3600
+4,8
+4686,24
+4.800
+Oficina de planta de compostaje
+8
+1200
+1,6
+1562,08
+2.300
+Con el objeto de representar de manera gráfica el sistema de recolección y tratamiento de aguas 
+servidas en la fase de operación, en las figuras siguientes se presentan las plantas de los distintos 
+recintos del proyecto. En ellas se detalla el trazado de las redes interiores de alcantarillado, la 
+ubicación de los artefactos sanitarios, las cámaras de inspección, las cámaras desgrasadoras cuando 
+corresponda, y la disposición de las fosas sépticas asociadas a cada recinto. 
+
+===== p.7 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+Figura 2.
+Diseño sistema de recolección y tratamiento de las aguas servidas caseta de 
+control acceso.
+
+===== p.8 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+Figura 3.
+Diseño sistema de recolección y tratamiento de las aguas servidas caseta de 
+control de acceso relleno.
+
+===== p.9 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+Figura 4.
+Diseño sistema de recolección y tratamiento de las aguas servidas caseta de 
+bascula de pesaje
+
+===== p.10 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+Figura 5.
+Diseño sistema de recolección y tratamiento de las aguas servidas oficina planta 
+de lixiviados
+
+===== p.11 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+Figura 6.
+Diseño sistema de recolección y tratamiento de las aguas servidas oficina planta 
+quema biogás
+
+===== p.12 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+Figura 7.
+Diseño sistema de recolección y tratamiento de las aguas servidas oficina planta 
+de reciclaje
+Figura 8.
+Diseño sistema de recolección y tratamiento de las aguas servidas zona de 
+oficina planta de compostaje
+Por otra parte, cabe señalar que las oficinas administrativas y operacionales del proyecto cuentan 
+con un sistema independiente de recolección de aguas servidas, compuesto por redes interiores en 
+tuberías de PVC sanitario, dispuestas con pendientes adecuadas para asegurar el escurrimiento 
+gravitacional. En los recintos que generan aguas grises con presencia de grasas, se incorporan 
+
+===== p.13 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12
+cámaras desgrasadoras, mientras que para el recinto de lavandería se contempla adicionalmente 
+una cortadora de jabón, con el objeto de mejorar la eficiencia del tratamiento previo de los 
+efluentes.
+La totalidad de las aguas servidas generadas en los distintos recintos es conducida hacia una planta 
+de tratamiento de lodos activados, donde los efluentes son sometidos a un proceso de depuración 
+biológica. Posteriormente, el efluente tratado es sometido a un proceso de cloración y decloración, 
+para luego ser acumulado en un sistema de almacenamiento destinado a su reutilización como agua 
+para humectación de caminos. En caso de falla operacional o durante actividades de mantención del 
+sistema principal, se contempla la implementación de un sistema de infiltración mediante un dren, 
+diseñado de acuerdo con las recomendaciones de la normativa sanitaria vigente.
+Los  criterios  de  diseño,  caudales  y  volúmenes  asociados  a  las  oficinas  administrativas  y 
+operacionales se presentan en la tabla siguiente, mientras que la configuración espacial y trazado de 
+las redes y componentes del sistema se detallan en la figura respectiva.
+Tabla 3.Parámetros de diseño instalaciones sanitarias
+Recinto
+Nº 
+Trabajador
+es
+Residuos 
+líquidos 
+(DMD)
+lt/ día
+Lodos 
+lt / día
+Volumen 
+útil planta 
+de 
+tratamiento
+lts
+Volumen 
+proyectado
+planta de 
+tratamiento
+lts
+Instalaciones administrativas y 
+operacionales
+40
+6.000
+8
+7.810,4
+8.900
+
+===== p.14 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13
+Figura 9.
+Diseño sistema de recolección y tratamiento de las aguas servidas oficinas 
+administrativas y operacionales.
+1.1.3.3
+Fase de cierre
+Durante la fase de cierre del proyecto se considera una dotación estimada de 50 trabajadores, 
+asociados  a  las  actividades  de  desmantelamiento  de  las  instalaciones.  En  esta  etapa,  las 
+instalaciones  sanitarias  de  las  oficinas  administrativas  y  operacionales  se  mantendrán  en 
+funcionamiento hasta el retiro total de las mismas, asegurando la continuidad del manejo y 
+tratamiento de las aguas servidas generadas durante todo el período de cierre.
+En este sentido, la totalidad de los efluentes continuará siendo conducida hacia la planta de 
+tratamiento de lodos activados existente, la cual se mantendrá operativa hasta la finalización 
+completa de las labores de desmantelamiento del proyecto, constituyéndose como la última 
+infraestructura en ser retirada.
+Una vez iniciadas las etapas finales de cierre, se dispondrá de una unidad móvil de servicios 
+higiénicos, la cual se conectará a la red exterior existente, manteniendo la descarga de los efluentes 
+hacia la misma planta de tratamiento de lodos activados, garantizando así la continuidad del sistema 
+de tratamiento hasta su desmantelamiento definitivo. 
+
+===== p.15 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14
+Esta unidad contará con capacidad suficiente para atender la dotación de 50 trabajadores y cumplirá 
+con las exigencias establecidas en el Decreto Supremo N° 594/1999 del Ministerio de Salud en 
+cuanto a dotación de artefactos sanitarios y condiciones de higiene.
+1.1.4.
+D. CARACTERIZACIÓN FÍSICO-QUÍMICAS DE LAS AGUAS SERVIDAS 
+La totalidad de las aguas servidas generadas, serán exclusivamente del tipo domiciliaria y por lo 
+tanto  los  lodos  generados  no  contendrán  sustancias  reactivas  o  tóxicas,  ni  presentarán 
+características de peligrosidad.
+En la siguiente tabla se presentan las características físico-químicas más relevantes que contienen 
+habitualmente las aguas servidas que generará el proyecto, según la bibliografía especializada.
+Tabla 4.Caracterización típica de afluente de aguas servidas a tratar
+Parámetro
+Valor 
+característico
+Unidades
+Carga contaminante media 
+diaria (equiv. 100 hab/día) *
+Unidades
+pH 
+6 – 8 
+- 
+- 
+ 
+Aceites y Grasas 
+60 
+mg/l 
+960 
+g/día 
+Aluminio 
+1 
+mg/L 
+16 
+g/día 
+Arsénico 
+0,05 
+mg/L 
+0,8 
+g/día 
+Benceno 
+0,01 
+mg/l 
+0,16 
+g/día 
+Boro 
+0,75 
+mg/L 
+12,8 
+g/día 
+Cadmio 
+0,01 
+mg/L 
+0,16 
+g/día 
+Cianuro 
+0,20 
+mg/L 
+3,2 
+g/día 
+Cloruros 
+400 
+mg/L 
+6400 
+g/día 
+Cobre 
+1 
+mg/L 
+16 
+g/día 
+Cromo hexavalente 
+0,05 
+mg/L 
+0,8 
+g/día 
+Fluoruro 
+1,5 
+mg/L 
+24 
+g/día 
+Hierro 
+1 
+mg/L 
+16 
+g/día 
+Manganeso 
+0,3 
+mg/L 
+4,8 
+g/día 
+Mercurio 
+0,001 
+mg/L 
+0,02 
+g/día 
+Molibdeno 
+0,07 
+mg/L 
+1,12 
+g/día 
+Níquel 
+0,1 
+mg/L 
+1,6 
+g/día 
+Nitrógeno
+ 
+total 
+Kjeldahl 
+50 
+mg/L 
+800 
+g/día 
+Nitrito+Nitrato 
+15 
+mg/L 
+240 
+g/día 
+Pentaclorofenol 
+0,009 
+mg/L 
+0,144 
+g/día 
+Plomo 
+0,2 
+mg/L 
+3,2 
+g/día 
+Selenio 
+0,01 
+mg/L 
+0,16 
+g/día 
+Sulfato  
+300 
+mg/L 
+4800 
+g/día 
+Sulfuro 
+3 
+mg/L 
+48 
+g/día 
+Tetracloroeteno 
+0,04 
+mg/L 
+0,64 
+g/día 
+Tolueno 
+0,7 
+mg/L 
+11,2 
+g/día 
+
+===== p.16 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+15
+Parámetro
+Valor 
+característico
+Unidades
+Carga contaminante media 
+diaria (equiv. 100 hab/día) *
+Unidades
+Triclorometano 
+0,2 
+mg/L 
+3,2 
+g/día 
+Xileno 
+0,5 
+mg/L 
+8 
+g/día 
+Zinc 
+1 
+mg/L 
+16 
+g/día 
+(*) Se consideró una dotación de agua potable de 150 L/hab/día y un coeficiente de recuperación de 
+0,8.  
+1.1.5.
+E. DESCRIPCIÓN DEL SISTEMA DE TRATAMIENTO DE AGUAS SERVIDAS
+1.1.5.1
+Fosas sépticas
+Las aguas servidas generadas en las oficinas de la planta de compostaje, planta de reciclaje, área de 
+mantención, planta de biogás, casetas de control y planta de tratamiento de lixiviados serán 
+conducidas a sistemas de tratamiento primario independientes, consistentes en fosas sépticas 
+prefabricadas. La capacidad de cada fosa esta dimensionada de acuerdo con la dotación de personal 
+y el caudal estimado durante la operación.
+Cabe destacar que una fosa séptica es un sistema de tratamiento primario que permite la separación 
+de  los  sólidos  sedimentables  y  flotantes  presentes  en  las  aguas  residuales,  así  como  la 
+transformación parcial de la materia orgánica mediante procesos físico-químicos y biológicos. El 
+efluente resultante, con una carga reducida, será conducido a un sistema de drenaje para su 
+infiltración controlada en el terreno, conforme a las condiciones del sitio y la normativa sanitaria 
+vigente.
+1.1.5.2
+Planta de tratamiento de lodos activados
+Las aguas servidas generadas en las oficinas administrativas y operativas serán tratadas mediante un 
+sistema compuesto por etapas de tratamiento primario y secundario, a través de una planta de 
+lodos activados. La capacidad de diseño de dicha planta está determinada en función de la dotación 
+de personal y del caudal proyectado durante la fase operativa del proyecto.
+El proceso de lodos activados constituye un tratamiento biológico aeróbico que permite la 
+degradación de la materia orgánica presente en las aguas residuales, mediante la acción de 
+microorganismos en un reactor de aeración. A continuación, el efluente es conducido a un 
+sedimentador secundario, donde se produce la separación de los sólidos biológicos del agua tratada. 
+El efluente clarificado será almacenado en un estanque para su posterior reutilización en actividades 
+operacionales, tales como el riego, cumpliendo con los criterios técnicos y normativos vigentes. Por 
+su parte, los lodos excedentes serán extraídos y gestionados por una empresa autorizada, para su 
+transporte y disposición final en un sitio debidamente aprobado.
+
+===== p.17 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+16
+1.1.6.
+F. DESCRIPCIÓN DE LA FORMA DE DISPOSICIÓN FINAL DEL EFLUENTE TRATADO
+1.1.6.1
+Fosas sépticas
+Por tratarse del tipo domiciliario y debido a su bajo caudal diario los efluentes de las fosas sépticas 
+proyectadas  serán  descargados  en  forma  gravitacional  a  zanjas  de  infiltración  cuyo 
+dimensionamiento está relacionado al número de operarios de cada área y el índice de infiltración 
+para el suelo del sector. 
+A partir de las siguientes consideraciones de cálculo se estiman las dimensiones las zanjas de 
+infiltración para cada recinto.
+▪
+DMD L/trab/día = 150 L /trab/día
+▪
+Infiltración promedio = 0,0035 cm/seg
+▪
+Índice medio de absorción = 60 L/m²/día
+Tabla 5.Dimensiones drenes de infiltración 
+ 
+1.1.6.2
+Planta de tratamiento
+El efluente tratado proveniente de la planta de lodos activados proyectada será conducido a un 
+estanque de acumulación con capacidad de 10.000 litros, el cual permitirá disponer de agua tratada 
+de manera continua para su posterior aprovechamiento en diversas actividades operacionales 
+dentro del complejo, tales como el riego de áreas verdes, control de polvo en caminos interiores u 
+otros usos no potables. Esta reutilización contribuirá a una gestión más eficiente de los recursos 
+hídricos del proyecto, reduciendo la demanda de agua fresca. La calidad del efluente almacenado 
+cumplirá con los parámetros establecidos por la NCh 1333 Tabla N°1; además con los requisitos 
+bacteriológicos Coliformes fecales menor o igual a 1000 coliformes fecales / 100 mL, asegurando 
+que su aplicación no genere riesgos sanitarios ni impactos negativos en el entorno. El estanque 
+contará con sistema de control de nivel, protección contra rebalses y mantenimiento periódico para 
+garantizar su funcionamiento adecuado y seguro.
+
+===== p.18 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+17
+Cabe  señalar  que  las  aguas  tratadas  serán  reutilizadas  de  forma  continua,  limitando  su 
+almacenamiento en función de los requerimientos operacionales del recinto. No obstante, ante 
+eventuales contingencias que impidan la reutilización proyectada, se contempla la habilitación de 
+un dren de infiltración como mecanismo de descarga alternativo. Este sistema contará con una 
+capacidad equivalente al 50% del caudal medio diario, permitiendo así una disposición segura y 
+controlada del efluente excedente, en cumplimiento con los criterios técnicos y normativos 
+vigentes.
+Tabla 6.Dimensiones dren de infiltración alternativo 
+(*) Se considera que el requerimiento de los servicios higiénicos (SSHH) de las instalaciones 
+administrativas y operacionales diariamente serán sobre exigidas, pues concentran los recintos de 
+duchas y lavandería. Por lo tanto, se considera un peak de trabajadores para el dimensionamiento 
+del tratamiento primario que varía de 29 a 40 trabajadores.
+1.1.7.
+G. INDICACIÓN DEL PERÍODO DE RETORNO CONSIDERADO PARA EL DISEÑO DE LOS 
+DESAGÜES DE AGUAS LLUVIAS
+No aplica, ya que el sistema de tratamiento propuesto para las aguas servidas no considera colectar 
+o incorporar las aguas lluvias.
+1.1.8.
+H. DESCRIPCIÓN DEL SISTEMA DE TRATAMIENTO DE AGUAS SERVIDAS Y DISPOSICIÓN, DE 
+TRATARSE DE UNA FOSA SÉPTICA
+La descripción detallada de los sistemas de tratamiento se presenta en el punto 1.1.5, considerando 
+tanto el uso de fosas sépticas como de una planta de tratamiento de lodos activados, según 
+corresponda a las características y requerimientos de cada equipo.
+A continuación, se indican las características mínimas que deben cumplir las fosas sépticas:
+-
+Estar provista de al menos una tapa de registro impermeable y hermética de sesenta 
+centímetros de diámetro, que permita el acceso de un hombre y la extracción periódica del 
+sedimento séptico.
+-
+Que el acceso de las aguas servidas se efectúe por medio de un codo de desagües vertical a 
+la fosa, a no menos de 5 cm bajo el nivel normal de las aguas y de tal manera que se evite 
+cualquier perturbación en el funcionamiento de la fosa o de los excusados o artefactos 
+conectados a ella.
+
+===== p.19 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+18
+Por otra parte, en cuanto a las características mínimas que debe cumplir la planta de tratamiento de 
+lodos activados se consideran las siguientes:
+-
+Pretratamiento eficiente
+-
+Sistema biológico completo (Reactor biológico / Clarificador secundario) 
+1.1.9.
+I. DESCRIPCIÓN GENERAL DE LA GENERACIÓN Y MANEJO DE LODOS
+1.1.9.1
+Fase Construcción
+A partir del número de trabajadores involucrados en la construcción del proyecto y la descarga 
+media diaria de aguas residuales por persona, se estima la generación de lodos considerando un 
+rango de producción de lodos entre 0,04 y 0,07 m³ por trabajador al año.
+En la siguiente tabla se presenta la estimación de lodo generado.
+Tabla 7.Generación de lodos en fase de construcción
+Recinto
+Nº Trabajadores
+Descarga media diaria 
+(DMD)
+Volumen de lodos
+Instalación de faenas
+50
+7.500 
+9,59
+Total volumen lodos 
+lts/día
+9,59
+Total volumen lodos 
+m³/día
+0,01
+Total volumen lodos 
+m³/año
+3,50
+El retiro de los lodos generados será realizado por una empresa contratada especializada, mediante 
+vehículos tipo limpia fosas autorizados. El transporte y disposición final de estos residuos se 
+efectuará en instalaciones debidamente autorizadas, conforme a la normativa sanitaria y ambiental 
+vigente, asegurando una gestión segura y trazable de los lodos provenientes del sistema de 
+tratamiento primario. 
+
+===== p.20 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+19
+1.1.9.2
+Fase Operación
+A partir del número de trabajadores involucrados en la operación del proyecto y la descarga media 
+diaria de aguas residuales por persona, se estima la generación de lodos considerando un rango de 
+producción de lodos entre 0,04 y 0,07 m³ por trabajador al año.
+En la siguiente tabla se presenta la estimación de lodo generado.
+Tabla 8.Generación de lodos en fase de operación
+Recinto
+Nº 
+Trabajadores
+Descarga media 
+diaria 
+(DMD)
+Volumen de lodos
+Caseta de control de acceso
+3
+450 
+0,575
+Caseta de control relleno
+3
+450 
+0,575
+Caseta de pesaje
+3
+450 
+0,575
+Oficina Planta tratamiento de lixiviados
+5
+750 
+0,959
+Oficina Planta quema de biogás
+4
+600 
+0,767
+Oficina Planta de reciclaje
+24
+3.600 
+4,603
+Oficina Planta de compostaje
+8
+1.200 
+1,534
+Instalaciones administrativas y operacionales
+29
+4.350 
+5,562
+Total volumen lodos 
+L/día
+15,15
+Total volumen lodos 
+m³/día
+0,015
+Total volumen lodos 
+m³/año
+5,530
+Los sedimentos que se acumulan en los diferentes tratamientos primarios proyectados (fosas 
+sépticas y planta de tratamiento) serán removidos sólo cuando su volumen haya disminuido en más 
+de una cuarta parte la capacidad de la fosa respectiva, debiendo en todo caso dejarse una pequeña 
+parte de su contenido para facilitar la acción séptica posterior. Se realizará una inspección visual 
+mensual y la limpieza mínima cada semestre.
+El retiro de los lodos generados será realizado por una empresa contratada especializada, mediante 
+vehículos tipo limpia fosas autorizados. El transporte y disposición final de estos residuos se 
+
+===== p.21 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+20
+efectuará en instalaciones debidamente autorizadas, conforme a la normativa sanitaria y ambiental 
+vigente, asegurando una gestión segura y trazable de los lodos provenientes del sistema de 
+tratamiento. 
+1.1.9.3
+Fase cierre
+A partir del número de trabajadores involucrados en la construcción del proyecto y la descarga 
+media diaria de aguas residuales por persona, se estima la generación de lodos considerando un 
+rango de producción de lodos entre 0,04 y 0,07 m³ por trabajador al año.
+Tabla 9.Generación de lodos en fase de cierre
+Recinto
+Nº Trabajadores
+Descarga media 
+diaria 
+(DMD)
+Volumen de lodos
+Instalación de faenas
+50
+7.500 
+9,59
+Total volumen lodos 
+lts/día
+9,59
+Total volumen lodos 
+m³/día
+0,01
+Total volumen lodos 
+m³/año
+3,50
+El retiro de los lodos generados será realizado por una empresa contratada especializada, mediante 
+vehículos tipo limpia fosas autorizados. El transporte y disposición final de estos residuos se 
+efectuará en instalaciones debidamente autorizadas, conforme a la normativa sanitaria y ambiental 
+vigente, asegurando una gestión segura y trazable de los lodos provenientes del sistema de 
+tratamiento primario. 
+1.1.10. J. PROGRAMA DE MONITOREO
+Con el objetivo de asegurar el adecuado funcionamiento del sistema de tratamiento de aguas 
+servidas provenientes de las instalaciones administrativas y operacionales del proyecto, así como de 
+verificar el cumplimiento de la normativa ambiental vigente y prevenir posibles impactos negativos 
+en el entorno, se ha elaborado un programa de monitoreo específico. Este programa contempla el 
+seguimiento periódico de parámetros clave en la planta de lodos activados. A continuación, se 
+detallan los componentes, frecuencia y responsabilidades asociadas al monitoreo.
+Tabla 10.
+Programa de monitoreo Parámetros Físico - químicos
+Tipo de sistema
+Parámetros
+Físico - químicos
+Frecuencia
+
+===== p.22 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+21
+Estanque de acumulación
+Parámetros NCh 1333 y 
+coliformes fecales
+Semestral
+Tabla 11.
+Programa de monitoreo Inspección visual y limpieza
+Tipo de sistema
+Inspección visual
+Frecuencia
+Limpieza
+Frecuencia
+Fosa séptica
+Mensual
+Semestral
+Planta de lodos activados
+Mensual 
+Anual
+1.1.11. K. PLAN DE CONTINGENCIAS
+De producirse fugas o derrames por una falla en la fosa séptica, planta de tratamiento o parte de sus 
+líneas de conducción de las aguas servidas, deben ser controlados específicamente por el trabajador 
+involucrado y capacitado, empleando los elementos de protección personal requeridos, utilizando 
+productos absorbentes específicos, equipos de taponamiento y si es necesario las aguas serán 
+retiradas mediante camiones aljibes hasta que se repare la falla.
+Se debe considerar que, en todo lugar de trabajo, se deberán implementar las medidas necesarias 
+para la prevención de incendios, controlando las cargas de combustibles y las fuentes de calor e 
+inspeccionando las instalaciones a través de un programa establecido. Se deberá contar con 
+extintores de incendio, del tipo adecuado a los materiales combustibles o inflamables que en él 
+existan o se manipulen, según lo establecido en el D.S. N° 594/99 del Ministerio de Salud. Los 
+extintores serán ubicados en lugares de fácil acceso y claramente identificados, libres de todo 
+obstáculo.
+−
+Los extintores ubicados a la intemperie se ubicarán en un nicho o gabinete que los proteja 
+de cambios ambientales y que permita su retiro expedito.
+−
+Los extintores serán sometidos a revisión y mantención a lo menos una vez al año y serán 
+certificados por un laboratorio acreditado.
+1.1.12. L. PLAN DE EMERGENCIA
+Para disminuir las posibles afecciones sobre el medio ambiente y la salud de la población ante una 
+situación de emergencia, se procederá a controlar el evento utilizando productos absorbentes 
+específicos, equipos de taponamiento y/o retiro de las aguas en camiones aljibes y se dará aviso a la 
+Autoridad Sanitaria competente en un plazo no superior a 24 horas.
+En caso de producirse un derrame o descarga accidental de residuos líquidos, se efectuará el actual 
+plan de emergencia que contempla el Proyecto, que contempla:
+−
+Bloqueo del flujo de materiales derramados con bolsas de arena, trapos u otros elementos 
+absorbentes.
+
+===== p.23 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+22
+−
+De ser necesario, se hará uso de barreras absorbentes para cercar y contener derrames.
+−
+Uso de material seco absorbente para atraer y capturar inmediatamente los residuos 
+líquidos derramados.
+
+===== p.24 =====
+ANEXO PAS 138
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEX0 01 LAMINAS PROYECTO AGUAS SERVIDAS

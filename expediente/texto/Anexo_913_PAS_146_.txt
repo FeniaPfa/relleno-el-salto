@@ -1,6 +1,8 @@
-### PÁGINAS TOTALES: 11
 
-===== p.1 =====
+===== p.0 =====
+ 
+ 
+ 
 CENTRO METROPOLITANO  
 DE GESTIÓN INTEGRAL DE RESIDUOS 
  
@@ -16,9 +18,13 @@ Documento Preparado por:
  
  
  
-Junio 2026
+Junio 2026 
+ 
+ 
+ 
+ 
 
-===== p.2 =====
+===== p.1 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 1 
@@ -36,9 +42,24 @@ a.5) Lugar de captura y destino de los animales ................................
 a.6) Condiciones de transporte e instalaciones de cautiverio ............................................ 8 
 a.7) Cronograma de las actividades que se realizarán y período por el que se solicita el 
 permiso ........................................................................................................................... 8 
-3. Plan de Seguimiento ......................................................................................................... 10
+3. Plan de Seguimiento ......................................................................................................... 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-===== p.3 =====
+===== p.2 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 2 
@@ -74,9 +95,12 @@ Técnicos del SEA (2022), en obras de extensión lineal donde los desplazamiento
 implican movimientos de escala menor y existe continuidad ambiental perimetral, no procede el 
 rescate y relocalización de individuos. En consecuencia, los potenciales efectos sobre la 
 herpetofauna en el área del camino de acceso serán abordados mediante un plan de perturbación 
-controlada en el frente de avance, permitiendo la dispersión autónoma de los ejemplares.
+controlada en el frente de avance, permitiendo la dispersión autónoma de los ejemplares. 
+ 
+ 
+ 
 
-===== p.4 =====
+===== p.3 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 3 
@@ -111,9 +135,10 @@ ambiente a intervenir. Se establece como meta operativa un estimado mínimo a re
 al 75% de la abundancia potencial proyectada teóricamente, reconociendo las limitaciones físicas de 
 detectabilidad herpetológica y estableciendo este valor como el umbral de cumplimiento exigible. 
 A continuación, se presenta el detalle del cálculo de densidad poblacional y la estimación 
-cuantitativa de los individuos a rescatar en el área de intervención:
+cuantitativa de los individuos a rescatar en el área de intervención: 
+ 
 
-===== p.5 =====
+===== p.4 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 4 
@@ -216,9 +241,9 @@ oscura
 13,97 
 10 
 Hembras 
-y machos
+y machos 
 
-===== p.6 =====
+===== p.5 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 5 
@@ -275,9 +300,9 @@ matorrales como sitios de resguardo.
 • 
 Biología y estado poblacional: Se trata de un depredador que se constituye como 
 la culebra más abundante y de distribución más amplia en el territorio nacional. Las 
-revisiones poblacionales indican que es una especie con densidades naturalmente
+revisiones poblacionales indican que es una especie con densidades naturalmente 
 
-===== p.7 =====
+===== p.6 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 6 
@@ -324,9 +349,9 @@ Sitio de Destino (Relocalización): El área de relocalización se emplazará al
 del Proyecto, el cual posee una superficie total de 206 hectáreas. Los ejemplares capturados 
 serán liberados en los sectores definidos como Sitio 1 y Sitio 2, los cuales suman una 
 superficie conjunta de 70,43 hectáreas. Estos polígonos no serán intervenidos por las obras 
-y cumplen con los siguientes criterios de idoneidad estipulados en la normativa ambiental:
+y cumplen con los siguientes criterios de idoneidad estipulados en la normativa ambiental: 
 
-===== p.8 =====
+===== p.7 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 7 
@@ -350,9 +375,9 @@ de muestreo permiten establecer que los sectores definidos constituyen sitios po
 idóneos para albergar a este tipo de fauna. Lo anterior se sustenta, además, en que las áreas 
 receptoras presentan formaciones vegetales estructural y funcionalmente similares a las 
 identificadas en el área de rescate, destacando la presencia de matorral con suculentas de 
-Puya chilensis y Colliguaja odorifera, bosque nativo renoval de Cryptocarya alba, y sectores
+Puya chilensis y Colliguaja odorifera, bosque nativo renoval de Cryptocarya alba, y sectores 
 
-===== p.9 =====
+===== p.8 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 8 
@@ -396,9 +421,9 @@ detalla a continuación:
 • 
 Etapa 1 Años 1: Comprende el polígono de intervención inicial donde se emplazarán la 
 primera fase operacional del relleno sanitario, las plataformas de las plantas de compostaje 
-y reciclaje, las instalaciones administrativas y las obras de infraestructura complementaria.
+y reciclaje, las instalaciones administrativas y las obras de infraestructura complementaria.  
 
-===== p.10 =====
+===== p.9 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 9 
@@ -496,9 +521,14 @@ X
 X 
 Campaña 6 de monitoreo y seguimiento  
 X 
-X
+X 
+ 
+ 
+ 
+ 
+ 
 
-===== p.11 =====
+===== p.10 =====
 PAS 146 
 CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
 10 
@@ -525,4 +555,6 @@ Durante estos seguimientos se medirán los parámetros principales (estimación 
 absoluta, presencia/ausencia) y parámetros secundarios (uso efectivo de refugios, estado de las 
 poblaciones), empleando transectos de ancho fijo con búsqueda dirigida. Se reportarán los 
 indicadores de éxito en un plazo máximo de 120 días corridos tras la finalización de cada actividad, 
-bajo los lineamientos de la Res. Ex. 223/2015.
+bajo los lineamientos de la Res. Ex. 223/2015. 
+ 
+ 

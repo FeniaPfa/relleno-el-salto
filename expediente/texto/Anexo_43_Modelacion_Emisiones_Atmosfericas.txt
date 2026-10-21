@@ -1,0 +1,4635 @@
+
+===== p.0 =====
+ANEXO 4.3 MODELACIÓN DE EMISIONES ATMOSFÉRICAS
+ESTUDIO DE IMPACTO AMBIENTAL
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+MAYO 2026
+
+===== p.1 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 2 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+ÍNDICE
+1
+Introducción..........................................................................................................6
+2
+Objetivos...............................................................................................................7
+3
+Marco regulatorio...................................................................................................8
+3.1
+Material Particulado Sedimentable....................................................................8
+3.2
+Material Particulado Respirable.........................................................................8
+3.3
+Gases Criterio................................................................................................10
+4
+Estado de la Calidad.............................................................................................12
+5
+Modelos utilizados................................................................................................13
+5.1
+Modelación Meteorológica – WRF....................................................................13
+5.2
+Modelación de Dispersión de Contaminantes Atmosféricos – CALPUFF..............13
+6
+Metodología.........................................................................................................15
+6.1
+Modelación de Contaminantes Atmosféricos....................................................15
+6.1.1
+Escenario de Modelación.........................................................................16
+6.1.2
+Subgrilla.................................................................................................17
+6.2
+Receptores....................................................................................................19
+6.3
+Fuentes emisoras...........................................................................................23
+7
+Resultados...........................................................................................................27
+7.1
+Concentraciones modeladas...........................................................................27
+7.1.1
+Área de influencia del proyecto................................................................28
+
+===== p.2 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 3 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7.1.2
+Dispersión de material particulado sedimentable, MPS...............................30
+7.1.3
+Dispersión de material particulado respirable, MP10..................................32
+7.1.4
+Dispersión material particulado fino respirable, MP2,5...............................34
+7.1.5
+Dispersión Dióxido de Nitrógeno, NO2.......................................................36
+7.1.6
+Dispersión Dióxido de Azufre, SO2............................................................40
+7.1.7
+Dispersión Monóxido de Carbono, CO.......................................................43
+7.1.8
+Modelación discreta de las emisiones contaminantes.................................45
+8
+Conclusión...........................................................................................................56
+9
+Bibliografía...........................................................................................................60
+10
+Anexos.............................................................................................................60
+
+===== p.3 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 4 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+ÍNDICE DE TABLAS
+Tabla 1. Límite normativo MPS.......................................................................................8
+Tabla 2. Valores normados para MP10 y MP2,5 en Chile..................................................9
+Tabla 3. Valores normados para NO2 y SO2 en Chile.......................................................10
+Tabla 4. Valores normados para CO en Chile.................................................................10
+Tabla 5. Emisiones totales generadas por el proyecto (ton/año).....................................16
+Tabla 6. Receptores MP y gases cercanos al proyecto....................................................19
+Tabla 7. Receptores MPS cercanos al proyecto...............................................................21
+Tabla 8. Fuentes emisoras incluidas en el escenario de modelación: Rutas Internas........24
+Tabla 9. Fuentes emisoras incluidas en el escenario de modelación: Rutas Externas........25
+Tabla 10. Fuentes emisoras incluidas en el escenario de modelación: Trabajos año 27.....25
+Tabla 10. Resultados de MP10 diario en receptores discretos.........................................44
+Tabla 11. Resultados de MP10 anual en receptores discretos.........................................45
+Tabla 12. Resultados de MP2,5 diario en receptores discretos........................................47
+Tabla 13. Resultados de MP2,5 anual en receptores discretos........................................48
+Tabla 14. Resultados de MPS en receptores discretos....................................................50
+Tabla 15. Resultados de NO2 en receptores discretos.....................................................51
+Tabla 16. Resultados de SO2 en receptores discretos.....................................................52
+Tabla 17. Resultados de CO en receptores discretos......................................................54
+
+===== p.4 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 5 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+ÍNDICE DE FIGURAS
+Figura 1. Subgrilla utilizada para la pluma de dispersión................................................18
+Figura 2. Ubicación de los receptores discretos cercanos al proyecto MP y gases.............20
+Figura 3. Ubicación de los receptores discretos cercanos al proyecto MPS.......................22
+Figura 4. Fuentes emisoras incluidas en la modelación de dispersión de contaminantes...23
+Figura 5. Área de influencia de MP y gases...................................................................28
+Figura 6. Área de influencia de MPS.............................................................................29
+Figura 7. Dispersión de la pluma de MP10 como concentración de 24 horas....................31
+Figura 8. Dispersión de la pluma de MP10 como concentración promedio anual..............32
+Figura 9. Dispersión de la pluma de MP2,5 como concentración promedio diaria.............34
+Figura 10. Dispersión de la pluma de MP2,5 como concentración promedio anual...........35
+Figura 11. Dispersión de la pluma de NO2 como concentración promedio anual..............36
+Figura 12. Dispersión de la pluma de NO2 como concentración diaria.............................37
+Figura 13. Dispersión de la pluma de NO2 como concentración horaria...........................38
+Figura 14. Dispersión de la pluma de SO2 como concentración promedio anual..............39
+Figura 15. Dispersión de la pluma de SO2 como concentración diaria.............................40
+Figura 16. Dispersión de la pluma de SO2 como concentración horaria...........................41
+Figura 17. Dispersión de la pluma de CO como norma horaria........................................42
+Figura 18. Dispersión de la pluma de CO como promedio móvil de 8 horas.....................43
+
+===== p.5 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 6 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+1
+Introducción
+En el presente informe se busca analizar los resultados de la modelación de dispersión de 
+contaminantes atmosféricos, realizada mediante el software “Calpuff View”, cuyo propósito 
+es estimar el alcance espacial de las concentraciones de material particulado (MP10, MP2,5 y 
+MPS) y gases (CO, NO2 y SO2) generadas por las actividades del proyecto.
+El  Proyecto  llamado  "Centro  Metropolitano  de  Gestión  Integral  de  Residuos", 
+consiste en la construcción y operación de una instalación integral para el tratamiento de los 
+residuos sólidos mediante compostaje, reciclaje y disposición final de residuos sólidos 
+domiciliarios y asimilables, ubicado en el kilómetro 102,5 de la Ruta 60 - Troncal Sur que une 
+las comunas de Viña del Mar y Quilpué en la Región de Valparaíso y cuya área total de 
+emplazamiento es de 63,10 ha dentro de un predio de 206 ha. 
+El Proyecto se ubica en la comuna de Viña Del Mar, Provincia y Región de Valparaíso, la cual 
+no  se  encuentra  declarada  como  zona  saturada  ni  latente  para  los  contaminantes 
+atmosféricos  regulados,  ni  cuenta  con  un  Plan  de  Prevención  y/o  Descontaminación 
+Atmosférica vigente.
+
+===== p.6 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 7 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+2
+Objetivos
+El presente informe, tiene como objetivo general cuantificar y evaluar el efecto en la 
+atmósfera debido a la emisión y dispersión de contaminantes generadas por el proyecto 
+“Centro  Metropolitano  de  Gestión  Integral  de  Residuos”  y  cuantificar  sus 
+concentraciones.
+Para lo anterior se plantean los siguientes objetivos específicos:
+-
+Evaluar, en términos de concentración, el alcance de las emisiones de MPS, MP10, 
+MP2,5, CO, NO2 y SO2 en la atmósfera. 
+-
+Evaluar la concentración de MPS, MP10, MP2,5, CO, NO2 y SO2 en receptores que 
+actualmente se encuentren cercanos al proyecto. 
+-
+Determinar  la  afectación  a  la  salud  de  las  personas  debido  al  aporte  a  la 
+concentración basal de MP10, MP2,5, CO, NO2 y SO2 en la ciudad, dado el desarrollo 
+del proyecto.
+-
+Evaluar la deposición de MPS obtenida en función de la normativa internacional 
+vigente, a fin de predecir si la ejecución del proyecto generará efectos adversos a la 
+calidad de vida y salud de las personas y/o medio ambiente.
+
+===== p.7 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 8 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+3
+Marco regulatorio 
+3.1
+Material Particulado Sedimentable
+En la actualidad, Chile no dispone de una norma primaria o secundaria de calidad que regule 
+el MPS para la zona de estudio, por ende, se utilizará como norma de referencia la normativa 
+internacional “Ordenanza de la Confederación Suiza, Sobre Control de Contaminación del 
+Aire”, la cual se describe a continuación:
+Ordenanza de la Confederación Suiza, Sobre Control de Contaminación del Aire (OAPC)
+El objetivo de esta ordenanza es proteger a los seres humanos, animales, plantas, sus 
+comunidades biológicas y hábitats, y al suelo, de los efectos nocivos o trastornos producidos 
+por la contaminación del aire. Para ajustar la norma de MPS, los valores se definieron en 
+base a la protección de la fertilidad del suelo, vegetación y aguas, lo que en última instancia 
+conduce a la protección humana y salud animal.
+Límite Normativo: La Ordenanza de la confederación suiza, define como límite de MPS 200 
+mg/m2día, como deposición promedio anual. La evaluación del cumplimiento normativo se 
+realiza determinando el promedio aritmético de las tasas de sedimentación mensuales 
+(mg/m2día), registradas durante un año de medición. En la siguiente tabla se presenta el 
+valor límite normativo del MPS.
+Tabla 1. Límite normativo MPS
+Norma
+Tipo de norma
+Límite normativo (mg/m2día)
+Ordenanza de la Confederación
+Suiza (OACP)
+Norma anual
+200
+3.2
+Material Particulado Respirable
+Actualmente, los contaminantes MP10 y MP2,5 están regulados bajo normas de calidad 
+primaria, cuyo objetivo es proteger la salud de las personas de los efectos agudos y crónicos 
+de la exposición de estos contaminantes con un riesgo aceptable. Para esto, se fijan límites 
+de concentración permitidos, condiciones de superación de la norma y los niveles que dan 
+paso a situaciones de emergencia ambiental.
+
+===== p.8 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 9 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+El material particulado respirable MP10 es regulado por el D.S. N°12/2022 del Ministerio del 
+Medio Ambiente, mientras el material particulado fino respirable MP2,5 es regulado por el 
+D.S. N°12/2011 del Ministerio del Medio Ambiente.
+En la Tabla 2 se aprecian los valores del límite anual y diario para los contaminantes MP10 y 
+MP2,5, además de los rangos que dan origen a situaciones de alerta, preemergencia y 
+emergencia ambiental.
+Tabla 2. Valores normados para MP10 y MP2,5 en Chile
+Nivel
+MP10 (µg/m3N)
+MP2,5 (µg/m3N)
+Concentración Anual
+50
+20
+Concentración 24 horas
+130
+50
+Alerta
+180-229
+80-109
+Preemergencia
+230-329
+110-169
+Emergencia
+330 o superior
+170 o superior
+Fuente: En base a DS N°12/2022 MMA y DS N°12/2011 MMA
+No obstante, la superación del límite normativo de MP10 no es motivo de condiciones de 
+superación de la norma, sino que se considera que la norma es incumplida bajo las 
+siguientes condiciones:
+-
+Cuando el promedio de la concentración anual de tres años consecutivos iguale o 
+supere los 50 µg/m³.
+-
+Si el percentil 98 (P98) de las concentraciones de 24 horas durante un año sea igual o 
+superior a 130 µg/m³.
+-
+Si durante un año se registrasen siete o más días cuya concentración sea mayor a 
+130 µg/m³.
+En el mismo contexto, las condiciones de superación de la norma de MP2,5 son las que se 
+describen a continuación:
+-
+Cuando el promedio de la concentración anual de tres años consecutivos iguale o 
+supere los 20 µg/m³.
+
+===== p.9 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 10 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+-
+Si el percentil 98 (P98) de las concentraciones de 24 horas durante un año sea igual o 
+superior a 50 µg/m³.
+3.3
+Gases Criterio
+En la misma línea, el Dióxido De Nitrógeno (NO2) es regulado por el D.S. N°40/2023 del 
+Ministerio  del  Medio  Ambiente,  el  Dióxido  De  Azufre  (SO2)  es  regulado  por  el  D.S. 
+N°104/2019 del Ministerio del Medio Ambiente, y el Monóxido De Carbono (CO) es regulado 
+por el D.S. N°115/2002 del Ministerio Secretaría General De La Presidencia.
+En la Tabla 3 y Tabla 4 se aprecian los valores del límite anual, diario, de 8 horas y horario 
+para los contaminantes NO2, SO2 y CO, además de los rangos que dan origen a situaciones 
+de alerta, preemergencia y emergencia ambiental.
+Tabla 3. Valores normados para NO2 y SO2 en Chile
+Nivel
+Unidad
+NO2
+SO2
+Concentración Anual
+µg/m³N
+40
+60
+ppbv
+21
+23
+Concentración 24 horas
+µg/m³N
+100
+150
+ppbv
+53
+57
+Concentración 1 hora
+µg/m³N
+200
+350
+ppbv
+106
+134
+Alerta
+µg/m³N
+500-799
+500-649
+ppbv
+266-425
+191-247
+Preemergencia
+µg/m³N
+800-1.399
+650-949
+ppbv
+426-744
+248-362
+Emergencia
+µg/m³N
+1.400 o superior
+950 o superior
+ppbv
+745 o superior
+363 o superior
+Fuente: En base a D.S. N°40/2023 y D.S. N°104/2019 MMA
+Tabla 4. Valores normados para CO en Chile
+Nivel
+Unidad
+CO
+Concentración 8 horas
+mg/m³N
+10
+ppmv
+9
+
+===== p.10 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 11 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Nivel
+Unidad
+CO
+Concentración 1 hora
+mg/m³N
+30
+ppmv
+26
+Alerta
+mg/m³N
+17-33
+ppmv
+15-29
+Preemergencia
+mg/m³N
+34-39
+ppmv
+30-34
+Emergencia
+mg/m³N
+40 o superior
+ppmv
+35 o superior
+Fuente: En base a D.S. N°115/2002 MINSEGEPRES
+Las condiciones de superación de la norma de NO2 son las que se describen a continuación:
+-
+Cuando el promedio de la concentración anual de tres años consecutivos iguale o 
+supere los 100 µg/m³N.
+-
+Cuando el promedio trianual del percentil 99 (P99) de los máximos diarios de 
+concentración de 1 hora durante un año iguale o supere los 400 µg/m³N.
+Las situaciones que dan origen a la superación de la norma de SO2 son:
+-
+Cuando el promedio de la concentración anual de tres años consecutivos iguale o 
+supere los 60 µg/m³N.
+-
+Cuando el promedio trianual del percentil 99 (P99) de las concentraciones de 24 
+horas durante un año iguale o supere los 150 µg/m³N.
+-
+Cuando el promedio trianual del percentil 99 (P99) de las concentraciones de 1 hora 
+durante un año iguale o supere los 350 µg/m³N.
+Se considera que la norma de CO es incumplida bajo las siguientes condiciones:
+-
+Cuando el promedio trianual del percentil 99 (P99) de los máximos diarios de 
+concentración de 8 horas durante un año iguale o supere los 10 mg/m³N.
+-
+Cuando el promedio trianual del percentil 99 (P99) de los máximos diarios de 
+concentración de 1 hora durante un año iguale o supere los 30 mg/m³N.
+
+===== p.11 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 12 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+4
+Estado de la Calidad
+La caracterización del estado de la calidad del aire en el área cercana al emplazamiento del 
+Proyecto se desarrolla en detalle en el Anexo 3.2. Línea de Base de Calidad del Aire, a partir 
+de los registros disponibles en la plataforma del Servicio de Información Nacional de Calidad 
+del Aire (SINCA) para la estación Quilpué Gimnasio, considerando los contaminantes MP10 y 
+MP2,5.
+La estación Quilpué Gimnasio cuenta con registros desde septiembre del año 2023 hasta la 
+actualidad; sin embargo, el año 2026 no fue considerado en el análisis por corresponder al 
+año en curso y no disponer de información suficiente. En consecuencia, la evaluación se 
+efectuó para los años 2024 y 2025.
+Es importante señalar que durante febrero de 2024 se identificó un periodo con registros 
+atípicos de calidad del aire, asociado a los incendios ocurridos en la Región de Valparaíso, 
+particularmente en las comunas de Valparaíso, Viña del Mar, Quilpué y sectores aledaños. 
+Dicho episodio generó incrementos excepcionales en las concentraciones de MP10 y MP2,5, 
+los cuales no representan el comportamiento habitual de la calidad del aire en el área de 
+estudio para dicho mes. No obstante, se trató de un evento acotado en el tiempo y de 
+carácter extraordinario, por lo que su incidencia sobre resultados de la evaluación normativa 
+no modifica el análisis ni las conclusiones obtenidas.
+De acuerdo con los resultados obtenidos, para MP10 no se registran superaciones de la 
+norma diaria ni anual en el período analizado. El mayor valor diario, evaluado mediante el 
+percentil 98,  se observa  en  2025,  con  89,2 µg/m³,  equivalente al  68,6% del límite 
+normativo. Asimismo, la mayor concentración promedio anual se registra en 2025, con 35,0 
+µg/m³, correspondiente al 70,0% de la norma anual.
+Para MP2,5, los resultados indican una superación de la norma diaria en el año 2024, con un 
+valor de P98 de 52,5 µg/m³, equivalente al 105,0% del límite normativo. En el año 2025, 
+dicho valor disminuye a 46,5 µg/m³, manteniéndose bajo el umbral normativo. En cuanto a 
+la concentración promedio anual de MP2,5, no se registran superaciones en los años 
+evaluados, alcanzándose el valor máximo en 2024, con 17,3 µg/m³, equivalente al 86,5% de 
+la norma anual.
+
+===== p.12 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 13 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Finalmente, el promedio trianual no pudo ser calculado para MP10 ni MP2,5 debido a la 
+ausencia de información suficiente para el año 2023.
+5
+Modelos utilizados
+5.1
+Modelación Meteorológica – WRF
+El modelo Weather Research and Forecasting (WRF), es un modelo numérico de cuatro 
+dimensiones, recomendado para la generación de datos meteorológicos y es uno de los 
+modelos de pronóstico meteorológicos más avanzados. 
+Debido a la falta de una red robusta de estaciones meteorológicas, la “Guía para el Uso de 
+Modelos de Calidad del Aire en el SEIA” recomienda el uso de WRF por sobre el uso del 
+CALMET. Además, el mismo documento, sugiere el uso del WRF para la modelación de 
+dispersión de contaminantes con CALPUFF.
+La  caracterización  de  las  variables  meteorológicas  que  inciden  en  la  dispersión  de 
+contaminantes en la zona del proyecto, así como la comparación estadística del modelo WRF 
+respecto a estaciones meteorológicas cercanas se incluye como anexo al presente informe 
+(Anexo 4.2 Informe de Modelación Meteorológica).
+5.2
+Modelación de Dispersión de Contaminantes Atmosféricos – CALPUFF
+La modelación de dispersión atmosférica de partículas y gases provenientes del Proyecto se 
+realizó mediante CALPUFF, modelo de tipo puff recomendado por la guía de referencia. Este 
+tipo de modelo representa las emisiones como una sucesión de volúmenes discretos de aire 
+contaminado, denominados puffs, los cuales son transportados a lo largo de una trayectoria 
+definida por las condiciones meteorológicas.
+La dispersión de cada puff se estima mediante una formulación Gaussiana, considerando su 
+desplazamiento y evolución en el tiempo. En el caso de emisiones continuas, como las 
+generadas por el Proyecto, el modelo simula la liberación sucesiva de múltiples  puffs, 
+permitiendo representar el transporte y la dispersión de contaminantes atmosféricos hasta 
+los receptores evaluados. Al respecto, el modelo tipo “puff” recomendado por la Guía es el 
+modelo CALPUFF. 
+
+===== p.13 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 14 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Así mismo, es un modelo completo que incorpora herramientas para procesar datos 
+meteorológicos y geofísicos, modelos de dispersión y post procesamiento. Dicho modelo es 
+recomendado por la Agencia de Protección Ambiental de los Estados Unidos (EPA) para 
+modelar transporte a larga distancia de contaminantes.
+CALPUFF se compone de tres módulos:
+
+CALMET: Es un modelo meteorológico que desarrolla campos horarios de viento y 
+temperatura en una grilla de tres dimensiones. También asocia campos en dos 
+dimensiones de altura y usos de suelo.  Este modelo fue reemplazado por el WRF, tal 
+como lo recomienda la guía antes citada.
+
+CALPUFF: Es un modelo de transporte y dispersión de partículas emitidas desde 
+fuentes modeladas, simulando procesos de dispersión y transformación. CALPUFF 
+utiliza los datos generados por CALMET. Los archivos de salida de CALPUFF contienen 
+las concentraciones horarias o deposición por hora de flujos evaluados en receptores 
+seleccionados.
+
+CALPOST: Es usado para procesar aquellos archivos generados por CALMET y 
+CALPUFF, produciendo tabulaciones que resumen los resultados de la modelación.
+La ecuación básica que utiliza el modelo para realizar la modelación es la siguiente:
+C=
+Q
+2π σ x σ y
+gexp[
+−da
+2
+2σ x
+2]exp[
+−dc
+2
+2σ y
+2 ]
+g=
+2
+(2π )
+1/2σ z ∑
+n=−∞
+∞
+exp[
+−(H e+2nh)
+2
+2σ z
+2
+]
+Donde:
+C, es concentración a nivel del suelo (g/m3),
+Q, es masa de contaminantes (g) en la nube.
+σx, es desviación estándar (m) de la distribución de Gauss en el viento a lo largo de la 
+dirección.
+
+===== p.14 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 15 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+σy, es desviación estándar (m) de la distribución de Gauss en el viento de costado.
+σz, es desviación estándar (m) de la distribución de Gauss en la dirección vertical.
+da, es distancia (m) del centro de la nube al receptor en la dirección del viento a lo largo.
+dc, es distancia (m) del centro de la nube al receptor en la dirección de viento cruzado.
+g, es el término vertical (m-1) de la ecuación Gaussiana.
+H, es la altura afectiva (m) desde el nivel del suelo del hojaldre.
+h, es la altura de la capa de mezcla.
+El terreno en el cual se realizará la modelación de las emisiones de partículas se considera 
+heterogéneo,  debido  a  las  distintas  unidades  geomorfológicas.  Por  esta  razón  y  en 
+consistencia  con  las  recomendaciones  del  SEA  para  la  modelación  de contaminantes 
+atmosféricos en sus guías, se consideró utilizar el modelo CALPUFF para simular la dispersión 
+y concentración de las emisiones de partículas generadas por el proyecto.
+6
+Metodología
+La información meteorológica empleada como insumo para la modelación de dispersión de 
+contaminantes atmosféricos se presenta en el Anexo XX. Modelación Meteorológica. En 
+dicho anexo se describen el modelo WRF, el dominio y resolución de la grilla, la selección del 
+año  meteorológico  2025  como  escenario  representativo  a  modelar,  el  análisis  de 
+incertidumbre se realizó utilizando las estaciones Viña del Mar, Junta de Vecinos. También se 
+presenta la caracterización de las principales variables meteorológicas del área de estudio, 
+incluyendo temperatura, velocidad y dirección del viento, precipitación y altura de capa 
+límite.
+El año de modelación se justifica en base al análisis de los antecedentes observados 
+disponibles y al criterio establecido en la “GUÍA PARA EL USO DE MODELOS DE CALIDAD 
+DEL AIRE EN EL SEIA” (2023). Esta evaluación se presenta en detalle en el Anexo 4.2nforme 
+de Modelación Meteorológica adjunto al presente informe.
+6.1
+Modelación de Contaminantes Atmosféricos
+La modelación de partículas depende en gran parte de las tasas de emisión. Estos son 
+
+===== p.15 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 16 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+acoplados  a  un  modelo  meteorológico,  el  que  en  sí  mismo  simula  las  condiciones 
+meteorológicas para la zona de estudio con una resolución temporal de 1 hora; con estos 
+factores como variable de entrada al modelo, es simulada la dispersión de partículas, el que 
+determinará la trayectoria de las partículas dentro del área de estudio.
+6.1.1 Escenario de Modelación
+El escenario de modelación corresponde al año 27 de la fase de operación que corresponde 
+al año con mayor emisión declarada por el proyecto explicadas en detalle en el Anexo 4.1 
+Estimación de Emisiones Atmosféricas (ver Tabla 5). Durante este año ocurren actividades 
+de movimientos de tierra, nivelación y compactación, tránsito de vehículos por las vías 
+pavimentadas y no pavimentadas al interior y exterior del proyecto, las emisiones asociadas 
+a la combustión interna de los motores de vehículos y maquinaria. Se contemplan las 
+emisiones generadas por los equipos de energía o grupos electrógenos de las plantas de 
+reciclaje, compostaje y el tratamiento de biogás. Además, se modeló la dispersión de las 
+emisiones de CO debidas al proceso biológico del compostaje y el tratamiento de lixiviados, y 
+los contaminantes emitidos por la quema controlada de biogás.
+Tabla 5. Emisiones totales generadas por el proyecto (ton/año).
+Año
+PTS
+MP10
+MP2,5
+CO
+NOx
+SOx
+1
+31,72
+8,06
+2,67
+6,19
+3,47
+0,57
+2
+37,42
+8,69
+4,35
+9,01
+5,61
+0,83
+3
+211,13
+56,44
+15,63
+188,40
+21,35
+3,74
+4
+203,17
+54,12
+15,32
+186,84
+21,31
+3,60
+5
+222,21
+70,48
+30,91
+234,40
+241,40
+18,06
+6
+238,66
+76,43
+33,93
+245,12
+268,55
+19,74
+7
+251,15
+79,35
+35,08
+246,82
+270,01
+19,89
+8
+245,19
+78,16
+33,83
+244,79
+268,90
+19,68
+9
+263,66
+86,51
+38,77
+452,68
+269,01
+23,51
+10
+260,00
+85,32
+38,71
+452,99
+269,82
+23,51
+11
+262,79
+86,02
+38,81
+453,08
+270,05
+23,51
+12
+270,00
+87,79
+39,05
+454,86
+270,56
+23,51
+13
+274,91
+88,99
+39,22
+455,08
+271,10
+23,51
+14
+279,46
+90,13
+39,37
+455,21
+271,45
+23,51
+15
+291,99
+93,02
+40,51
+456,98
+273,16
+23,65
+16
+338,44
+111,00
+47,91
+772,75
+272,77
+29,39
+
+===== p.16 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 17 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Año
+PTS
+MP10
+MP2,5
+CO
+NOx
+SOx
+17
+343,99
+112,40
+48,08
+773,67
+273,11
+29,39
+18
+355,89
+115,34
+48,49
+774,18
+274,37
+29,39
+19
+361,39
+116,73
+48,66
+775,10
+274,70
+29,39
+20
+369,23
+118,70
+48,92
+775,34
+275,31
+29,39
+21
+378,52
+120,98
+49,23
+777,20
+276,03
+29,39
+22
+384,93
+122,57
+49,45
+777,44
+276,65
+29,39
+23
+392,89
+124,57
+49,71
+777,69
+277,29
+29,40
+24
+402,61
+127,01
+50,03
+778,79
+278,07
+29,40
+25
+400,84
+126,71
+49,20
+777,46
+276,90
+29,18
+26
+412,22
+129,53
+49,58
+780,18
+277,81
+29,18
+27
+419,46
+131,35
+49,81
+781,92
+278,24
+29,18
+28
+37,84
+17,44
+16,13
+262,95
+747,01
+18,45
+29
+34,42
+16,31
+15,57
+257,67
+743,99
+17,97
+30
+34,42
+16,31
+15,57
+257,67
+743,99
+17,97
+31
+34,42
+16,31
+15,57
+257,67
+743,99
+17,97
+32
+34,42
+16,31
+15,57
+257,67
+743,99
+17,97
+33
+26,80
+8,69
+7,95
+149,44
+720,66
+9,12
+34
+26,80
+8,69
+7,95
+149,44
+720,66
+9,12
+35
+26,80
+8,69
+7,95
+149,44
+720,66
+9,12
+36
+22,89
+8,69
+7,95
+140,02
+546,80
+9,12
+37
+22,89
+8,69
+7,95
+140,02
+546,80
+9,12
+38
+22,89
+8,69
+7,95
+140,02
+546,80
+9,12
+39
+22,89
+8,69
+7,95
+140,02
+546,80
+9,12
+40
+14,33
+8,69
+7,95
+119,43
+166,55
+9,12
+41
+14,33
+8,69
+7,95
+119,43
+166,55
+9,12
+42
+14,33
+8,69
+7,95
+119,43
+166,55
+9,12
+43
+14,33
+8,69
+7,95
+119,43
+166,55
+9,12
+44
+14,33
+8,69
+7,95
+119,43
+166,55
+9,12
+45
+14,33
+8,69
+7,95
+119,43
+166,55
+9,12
+46
+14,33
+8,69
+7,95
+119,43
+166,55
+9,12
+47
+11,13
+8,69
+7,95
+111,71
+24,09
+9,12
+Fuente: Anexo 4.2 Estimación de Emisiones Atmosféricas
+
+===== p.17 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 18 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+6.1.2 Subgrilla 
+El modelo de dispersión CALPUFF por defecto crea una grilla de modelación partir del modelo 
+meteorológico, la cual tiene una resolución espacial de 1 km, con una dimensión de 80 km x 
+80 km. Este modelo proporciona el valor promedio de concentración en la primera capa de 
+modelación, que abarca entre 0 y 20 metros sobre el nivel del suelo. Aunque esta grilla inicial 
+ofrece resultados generales, puede carecer de precisión en ciertos análisis. Por ello, el 
+modelo permite definir grillas de modelación personalizadas, especificando tanto la altura 
+(eje vertical) como el tamaño de las cuadrículas. Este enfoque es recomendado por la “GUÍA 
+PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” (2023), que señala: “al 
+definir la subgrilla más adecuada para el proyecto, se debe asegurar que el tamaño de esta 
+sea lo suficientemente grande para garantizar la cuantificación de la concentración máxima 
+a nivel de suelo. El tamaño de la grilla requerida será específico del proyecto y variará según 
+las características de las fuentes, los factores geofísicos y las condiciones meteorológicas.”
+Figura 1. Subgrilla utilizada para la pluma de dispersión
+
+===== p.18 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 19 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+En este sentido, para la modelación de dispersión de material particulado y gases del 
+proyecto, se adoptaron las recomendaciones de la guía. Estas incluyen:
+a.
+Definir una altura de 1,8 m, correspondiente a la altura a la que se evalúan las 
+concentraciones en los receptores discretos.
+b. Generar una cuadrícula o grilla de modelación refinada, denominada subgrilla, con el 
+siguiente espaciado:
+
+Subgrilla 1: Con una resolución de 20 m, que se encuentra en la zona de 
+emplazamiento del proyecto y fue representado por los puntos amarillos en la 
+Figura 1 
+
+Subgrilla 2: Tiene una resolución de 50 m, se extiende hasta el deslinde del terreno 
+y es representada por los puntos verdes en la Figura 1.
+
+Subgrilla 3: Tiene una resolución de 250 m, se extiende por 2.000 metros desde el 
+centro del proyecto y corresponde a los puntos celestes en la Figura 1.
+
+Subgrilla 4: Tiene una resolución de 500 m, se extiende por 5.000 metros desde el 
+centro del proyecto y corresponde a los puntos azul en la Figura 1.
+
+Subgrilla 5: Tiene una resolución de 1.000 m, se extiende por 7.000 metros desde 
+el centro del proyecto y corresponde a los puntos rosados en la Figura 1.
+6.2
+Receptores
+Se consideraron 26 puntos discretos en las cercanías del proyecto, los que corresponden a 
+viviendas existentes en la cercanía del proyecto. En la Tabla 6, se detallan las características 
+de cada punto seleccionado, su distancia al límite del proyecto y el límite normativo 
+aplicable. La Figura 2, muestra la ubicación espacial de los receptores identificados en 
+relación con el proyecto. 
+Tabla 6. Receptores MP y gases cercanos al proyecto
+Receptor 
+Modelación
+Coordenada UTM
+Distancia al 
+perímetro del 
+proyecto (m)
+Descripción
+HUSO 19 S (m)
+Este
+Norte
+Rh01
+269.106
+6.338.245
+675,84
+Unidad Habitacional
+
+===== p.19 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 20 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Receptor 
+Modelación
+Coordenada UTM
+Distancia al 
+perímetro del 
+proyecto (m)
+Descripción
+HUSO 19 S (m)
+Este
+Norte
+Rh02
+269.720
+6.337.883
+830,60
+Unidad Habitacional
+Rh03
+269.693
+6.337.943
+831,61
+Unidad Habitacional
+Rh04
+269.474
+6.338.239
+854,46
+Unidad Habitacional
+Rh05
+269.698
+6.338.012
+869,78
+Unidad Habitacional
+Rh06
+268.425
+6.338.778
+1.019,43
+Sección de autopista
+Rh07
+269.892
+6.337.986
+1.029,48
+Unidad Habitacional
+Rh08
+268.958
+6.338.740
+1.065,28
+Unidad Habitacional
+Rh09
+268.835
+6.339.168
+1.457,68
+Unidad Habitacional
+Rh10
+268.605
+6.339.270
+1.523,47
+Unidad Habitacional
+Rh11
+268.38
+6.339.310
+1.541,48
+Unidad Habitacional
+Rh12
+269.041
+6.339.223
+1.552,56
+Unidad Habitacional
+Rh13
+269.484
+6.339.070
+1.582,68
+Unidad Habitacional
+Rh14
+269.886
+6.339.035
+1.744,00
+Unidad Habitacional
+Rh15
+269.275
+6.339.373
+1.767,43
+Unidad Habitacional
+Rh16
+269.617
+6.339.383
+1.922,05
+Unidad Habitacional
+Rh17
+266.964
+6.339.705
+2.134,03
+Unidad Habitacional
+Rh18
+267.059
+6.339.566
+1.967,82
+Unidad Habitacional
+Rh19
+267.325
+6.339.487
+1.796,65
+Unidad Habitacional
+Rh20
+267.702
+6.339.409
+1.639,53
+Unidad Habitacional
+Rh21
+268.023
+6.339.371
+1.578,80
+Unidad Habitacional
+Rh22
+266.438
+6.340.355
+2.918,91
+Unidad Habitacional
+Rh23
+266.275
+6.340.174
+2.864,12
+Unidad Habitacional
+Rh24
+265.514
+6.340.732
+3.769,98
+Concesionario automotriz
+Rh25
+271.037
+6.339.109
+3.422,68
+Unidad Habitacional
+Rh26
+270.810
+6.338.970
+3.156,71
+Unidad Habitacional
+
+===== p.20 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 21 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 2. Ubicación de los receptores discretos cercanos al proyecto MP y gases.
+Tabla 7. Receptores MPS cercanos al proyecto
+Receptor 
+Modelación
+Coordenada UTM
+Distancia al 
+perímetro del 
+proyecto (m)
+Descripción
+HUSO 19 S (m)
+Este
+Norte
+Rv01
+267.811
+6.337.715
+136
+Drimys winteri
+Rv02
+268.514
+6.337.544
+107
+Drimys winteri
+Rv03
+268.552
+6.337.731
+286
+Jubaea chilensis
+Rv04
+267.290
+6.336.873
+304
+Jubaea chilensis
+Rv05
+267.768
+6.336.793
+94
+Jubaea chilensis
+Rv06
+267.994
+6.338.731
+1163
+Jubaea chilensis
+Rv07
+268.006
+6.338.768
+1196
+Jubaea chilensis
+Rv08
+267.189
+6.336.916
+392
+Jubaea chilensis
+Rv09
+267.091
+6.336.792
+511
+Jubaea chilensis
+Rv10
+268.929
+6.337.491
+316
+Jubaea chilensis
+Rv11
+268.256
+6.337.660
+154
+Drimys winteri
+Rv12
+267.464
+6.336.926
+123
+Drymis winteri
+Rv13
+268.151
+6.338.392
+846
+Jubaea chilensis
+Rv14
+268.016
+6.337.935
+361
+Drimys winteri
+Rv15
+268.205
+6.338.381
+840
+Jubaea chilensis
+
+===== p.21 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 22 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 3. Ubicación de los receptores discretos cercanos al proyecto MPS.
+
+===== p.22 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 23 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+6.3
+Fuentes emisoras
+Para efectos de la modelación, como fue comentado en la sección anterior, se contemplan las 
+emisiones del año 27 de operación, dado que corresponde al período de máxima recepción 
+de residuos antes del término de la etapa de disposición en el relleno. 
+De acuerdo con la metodología aplicable, se realizaron polígonos representativos de cada 
+unidad para la simulación de las áreas de emisión de partículas y gases las cuales se 
+presentan cartográficamente en la Figura 4. Las características de cada fuente emisora se 
+describe en las Tabla 8, Tabla 9 y Tabla 10.
+Figura 4. Fuentes emisoras incluidas en la modelación de dispersión de 
+contaminantes 
+
+===== p.23 =====
+Tabla 8. Fuentes emisoras incluidas en el escenario de modelación: Rutas Internas
+ID
+Fuente
+Coordenadas UTM 
+(m)
+Tipo de 
+Fuente
+Descripción de la fuente
+Régimen de emisión
+Este
+Norte
+SRC_1
+En Celda
+-
+-
+Lineal
+Emisiones de resuspensión por 
+tránsito y combustión de vehículos 
+en ruta no pavimentada en celda
+Semanal entre las 07:00 y 21:00
+SRC_2
+Hasta Caseta de 
+Control
+-
+-
+Lineal
+Emisiones de resuspensión por 
+tránsito y combustión de vehículos 
+en ruta hasta caseta de control
+Semanal entre las 07:00 y 21:00
+SRC_3
+Ruta A
+-
+-
+Lineal
+Emisiones de resuspensión por 
+tránsito y combustión de vehículos 
+en Ruta A
+Semanal entre las 07:00 y 21:00
+SRC_4
+Ruta B
+-
+-
+Lineal
+Emisiones de resuspensión por 
+tránsito y combustión de vehículos 
+en Ruta B
+Semanal entre las 07:00 y 21:00
+SRC_5
+Ruta C
+-
+-
+Lineal
+Emisiones de resuspensión por 
+tránsito y combustión de vehículos 
+en Ruta C
+Semanal entre las 07:00 y 21:00
+SRC_6
+Ruta D
+-
+-
+Lineal
+Emisiones de resuspensión por 
+tránsito y combustión de vehículos 
+en Ruta D
+Semanal entre las 07:00 y 21:00
+SRC_7
+Externa de ingreso 
+Acceso
+-
+-
+Lineal
+Emisiones de resuspensión por 
+tránsito y combustión de vehículos 
+en Ruta Externa de Ingreso
+Semanal entre las 07:00 y 21:00
+
+===== p.24 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 25 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, Providencia.
+ (56.2)64653707
+Tabla 9. Fuentes emisoras incluidas en el escenario de modelación: Rutas Externas
+ID
+Fuente
+Coordenadas UTM 
+(m)
+Tipo de 
+Fuente
+Descripción de la fuente
+Régimen de emisión
+Este
+Norte
+SRC_1A-B
+Ruta Externa Actividad 
+General
+-
+-
+Lineal
+Tránsito y combustión vehicular 
+asociado a actividades de traslado 
+de personal y de combustible
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_2A-B
+Ruta Externa Actividad 
+Relleno Sanitario
+-
+-
+Lineal
+Tránsito y combustión vehicular 
+asociado a retiro de basura en las 
+distintas comunas de la región
+Semanal entre las 07:00 y 21:00
+SRC_3A-B
+Ruta Externa Actividad 
+Planta de Reciclaje
+-
+-
+Lineal
+Tránsito y combustión vehicular 
+asociado a ingreso de residuos 
+reciclables y salida de material 
+seleccionado
+Semanal entre las 07:00 y 21:00
+SRC_4A-B
+Ruta Externa 1 
+Actividad Planta de 
+Compostaje
+-
+-
+Lineal
+Tránsito y combustión vehicular 
+asociado a material seleccionado 
+compostable de Viña del Mar
+Semanal entre las 07:00 y 21:00
+SRC_5A-B
+Ruta Externa 2 
+Actividad Planta de 
+Compostaje
+-
+-
+Lineal
+Tránsito y combustión vehicular 
+asociado a material seleccionado 
+compostable de Viña del Mar
+Semanal entre las 07:00 y 21:00
+Tabla 10. Fuentes emisoras incluidas en el escenario de modelación: Trabajos año 27
+ID
+Fuente
+Coordenadas UTM 
+(m)
+Tipo de 
+Fuente
+Descripción de la fuente
+Régimen de emisión
+Este
+Norte
+SRC_1
+RS - Trabajos
+268.146
+6.336.771
+Areal
+Movimientos de tierra en sector del 
+relleno sanitario. Se incluye la 
+combustión de maquinaria.
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+
+===== p.25 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 26 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 803, Providencia.
+ (56.2)64653707
+ID
+Fuente
+Coordenadas UTM 
+(m)
+Tipo de 
+Fuente
+Descripción de la fuente
+Régimen de emisión
+Este
+Norte
+SRC_2
+PR
+Trabajos
+267.868
+6.337.330
+Areal
+Movimientos de tierra en sector del 
+planta de reciclaje. Se incluye la 
+combustión de maquinaria.
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_3
+PR
+Grupo electrógeno
+267.835
+6.337.323
+Puntual
+Combustión del grupo electrógeno 
+en planta de reciclaje
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_4
+PC
+Trabajos
+267.710
+6.337.321
+Areal
+Combustión de Maquinaria y 
+emisiones del proceso biológico del 
+compostaje
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_5
+PC
+Grupo electrógeno
+267.747
+6.337.309
+Puntual
+Combustión del grupo electrógeno 
+en planta de compostaje
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_6
+TB
+Chimenea
+267.994
+6.337.375
+Flare
+Quema controlada de biogas
+Constante durante todo el año
+SRC_7
+TB
+Grupo electrógeno
+268.050
+6.337.366
+Puntual
+Combustión del grupo electrógeno 
+en tratamiento de biogás
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_8A-E
+TL
+Trabajos
+268.387
+6.337.336
+Areal
+Trabajos en zonas de tratamiento 
+de lixiviados
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_9
+TL
+Planta Tratamiento
+268.061
+6.337.429
+Areal
+Planta de tratamiento de lixiviados
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+SRC_10
+TL
+Grupo electrógeno
+268.049
+6.337.418
+Puntual
+Combustión del grupo electrógeno 
+en planta de tratamiento de 
+lixiviado
+Lunes a Viernes entre 07:00 y 
+10:00. Sábado entre 07:00 a 10:00 
+y 14:00 a 17:00
+
+===== p.26 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 27 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7
+Resultados
+7.1
+Concentraciones modeladas
+A continuación, se presentan los resultados de la modelación de dispersión atmosférica del 
+año 27 de la fase de operación, correspondiente al periodo de mayor emisión declarada por 
+el Proyecto, según lo indicado en el Anexo X.X “Estimación de Emisiones Atmosféricas”. 
+Este escenario considera las principales fuentes emisoras asociadas a la operación del relleno 
+sanitario, incluyendo actividades de movimiento de tierra, nivelación y compactación, 
+tránsito de vehículos por vías internas y externas, operación de maquinaria y vehículos, 
+funcionamiento de equipos de energía, procesos de compostaje, tratamiento de lixiviados, 
+tratamiento de biogás y quema controlada de biogás. Por lo tanto, la delimitación obtenida 
+representa la extensión espacial de los aportes del Proyecto bajo una condición operacional 
+de máxima emisión.
+La delimitación del área de influencia se realizó considerando como criterio el alcance 
+espacial hasta el cual las concentraciones modeladas alcanzan el umbral de significancia 
+definido para cada contaminante y periodo de evaluación, según se presenta en la Tabla 11. 
+Para material particulado MP10 y MP2,5, estos umbrales se definieron en función del 1,0% 
+del valor normado o de referencia correspondiente. Para los contaminantes gaseosos, se 
+consideraron los umbrales según referencias específicas, incluyendo SIL USEPA y el D.S. 
+N°40/2023 para NO2 24 horas.
+Tabla 11. Corte de área de influencia para los contaminantes evaluados.
+Contaminant
+e
+Métric
+a
+Unidad
+Límite 
+Normativ
+o
+Umbral de 
+Significanci
+a - Área de 
+Influencia
+Referencia
+MPS
+24 
+horas
+mg/m2/
+día
+200,0
+2,00
+1,0% del valor normado
+Norma Suiza
+MP10
+24 
+horas
+µg/m3
+130,0
+1,30
+1,0% del valor normado 
+D.S. N° 12/2021
+Anual
+µg/m3
+50,0
+0,50
+MP2,5
+24 
+horas
+µg/m3
+50,0
+0,50
+1,0% del valor normado
+D.S. N° 12/2011
+
+===== p.27 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 28 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Contaminant
+e
+Métric
+a
+Unidad
+Límite 
+Normativ
+o
+Umbral de 
+Significanci
+a - Área de 
+Influencia
+Referencia
+Anual
+µg/m3
+20,0
+0,20
+CO
+1 hora
+mg/m3
+30,0
+2,00
+SIL USEPA 
+(Protection of Environment CFR, 
+2011)
+8 horas
+mg/m3
+10,0
+0,50
+NO2
+1 hora
+µg/m3
+200,0
+7,50
+SIL USEPA 
+(Protection of Environment CFR, 
+2011)
+24 
+horas
+µg/m3
+100,0
+1,50
+1,5% del valor normado
+D.S. N° 40/2023
+Anual
+µg/m3
+40,0
+1,00
+SIL USEPA 
+(Protection of Environment CFR, 
+2011)
+SO2
+1 hora
+µg/m3
+350,0
+7,80
+SIL USEPA 
+(Protection of Environment CFR, 
+2011)
+24 
+horas
+µg/m3
+150,0
+5,00
+Anual
+µg/m3
+60,0
+1,00
+Fuente: Elaboración propia, 2026.
+7.1.1 Área de influencia del proyecto
+En la  Figura 5 se muestra el área de influencia simulada para el proyecto, la cual fue 
+evaluada  asumiendo  el  peor  escenario, mediante  la  superposición  de  las  plumas  de 
+dispersión de todos los contaminantes modelados. Para su delimitación, se consideró el 
+contorno exterior resultante de dicha superposición.
+
+El área de influencia de MP y Gases presenta una superficie de 4.389 ha.
+
+El área de influencia de MPS presenta una superficie de 1.711 ha.
+
+===== p.28 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 29 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 5. Área de influencia de MP y gases.
+
+===== p.29 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 30 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 6. Área de influencia de MPS.
+7.1.2 Dispersión de material particulado sedimentable, MPS
+A continuación, se presenta el análisis de los resultados para el MPS como tasa de 
+sedimentación promedio anual.
+Es importante señalar que la pluma de dispersión de MPS simulada por el modelo abarca la 
+zona de emplazamiento del proyecto y sus alrededores, donde se produce la operación del 
+proyecto en evaluación.
+7.1.2.1 Concentración promedio anual de MPS
+En la siguiente figura, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio anual de MPS, de donde se observa lo siguiente:
+-
+La pluma de dispersión se distribuye alrededor del proyecto, en función del área de 
+operación, considerando las actividades de nivelación, compactación, excavación, 
+
+===== p.30 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 31 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+transferencia de material y combustión de maquinaria, junto al grupo electrógeno y 
+el tránsito en vías no pavimentadas internas y externas durante la operación.
+-
+La tasa de sedimentación modelada va desde los 2,0 mg/m2día hasta los 3.050 
+mg/m2día en la zona de operación del proyecto y sus alrededores.
+-
+Se evidencia una zona de máxima sedimentación, ubicada dentro del área del 
+proyecto, con tasas de depositación en el rango de 1.000 mg/m2día a 3.050 
+mg/m2día, abarcando un área de 1,16 hectáreas.
+-
+En cuanto a los receptores, todos los receptores considerados se encuentran dentro 
+de la pluma de dispersión, siendo el de mayor tasa de sedimentación el Rv13 con un 
+valor de 48,42 mg/m2día. 
+-
+El área total del mapa de dispersión abarca una superficie de 1.711 ha.
+
+===== p.31 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 32 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7.1.3 Dispersión de material particulado respirable, MP10
+A continuación, se presenta el análisis de los resultados para el MP10 tanto para la 
+concentración promedio anual como de 24 horas. 
+Es importante señalar que la pluma de dispersión de MP10 simulada por el modelo abarca la 
+zona de emplazamiento del proyecto y sus alrededores.
+7.1.3.1 Concentración promedio 24 horas de MP10
+En la Figura 7, se muestra la pluma de dispersión  de la operación del proyecto como 
+concentración promedio diaria de MP10, de donde se observa lo siguiente:
+-
+Las concentraciones modeladas se ubican en el rango que va desde los 1,30 µg/m³ a 
+347 µg/m³ en la zona de operación del proyecto y sus alrededores.
+-
+Zonas de mayor concentración se ubican dentro del polígono del proyecto, con 
+concentraciones que varían entre 130 y 347 µg/m³. No obstante, ningún receptor se 
+encuentra expuesto a dicha condición. Esta área comprende una superficie de 16,52 
+ha.
+-
+En cuanto a los receptores sensibles, 23 de los 26 receptores sensibles considerados 
+se encuentran dentro de la pluma de dispersión, siendo el de mayor concentración el 
+Rh20 con una concentración de 5,18 µg/m³. 
+-
+El área total del mapa de dispersión abarca una superficie de 4.272ha.
+
+===== p.32 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 33 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 7. Dispersión de la pluma de MP10 como concentración de 24 horas.
+7.1.3.2 Concentración promedio anual de MP10
+En la  Figura 8, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio anual de MP10, de donde se concluye lo siguiente:
+-
+En  la  zona  de  operación  del  proyecto  y  sus  alrededores,  las  concentraciones 
+modeladas fluctúan entre 0,5 y 126,6 µg/m³.
+-
+Los mayores valores se registran al interior del polígono del proyecto, en un rango de 
+50,0 a 126,6 µg/m³. Esta condición no afecta a receptores sensibles y abarca una 
+superficie de 5,01 ha.
+-
+De los 26 receptores sensibles considerados, 18 se encuentran dentro de la pluma de 
+dispersión. La concentración más alta corresponde al receptor Rh06, con 2,02 
+µg/m³.
+
+===== p.33 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 34 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+-
+El mapa de dispersión cubre una superficie total de 1.680 ha.
+Figura 8. Dispersión de la pluma de MP10 como concentración promedio anual.
+7.1.4 Dispersión material particulado fino respirable, MP2,5
+A continuación, se presenta el análisis de los resultados para el MP2,5, tanto para la 
+concentración promedio anual y 24 horas.
+7.1.4.1 Concentración promedio diaria MP2,5
+En la  Figura 9, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio diaria de MP2,5, de donde se concluye que: 
+-
+En  la  zona  de  operación  del  proyecto  y  sus  alrededores,  las  concentraciones 
+modeladas fluctúan entre 0,5 y 301,5 µg/m³.
+
+===== p.34 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 35 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+-
+Los mayores valores se registran al interior del polígono del proyecto, en un rango de 
+50,0 a 301,5 µg/m³. Esta condición no afecta a receptores sensibles y comprende 
+una superficie total de 3,85 ha.
+-
+De los 26 receptores sensibles considerados, 23 se ubican dentro de la pluma de 
+dispersión. La concentración más alta corresponde al receptor Rh06, con 1,79 
+µg/m³.
+-
+La pluma de dispersión cubre una superficie total de 3.297 ha.
+Figura 9. Dispersión de la pluma de MP2,5 como concentración promedio diaria.
+7.1.4.2 Concentración promedio anual de MP2,5
+En la  Figura 10, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio anual de MP2,5, de donde se concluye que: 
+-
+Para MP2,5 anual, las concentraciones modeladas fluctúan entre 0,2 y 57,8 µg/m³.
+
+===== p.35 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 36 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+-
+Los mayores valores se registran en el rango de 20,0 a 57,8 µg/m³, abarcando una 
+superficie total de 1,20 ha. Ningún receptor sensible se encuentra dentro de esta 
+zona.
+-
+De los 26 receptores sensibles considerados, 10 se ubican dentro de la pluma de 
+dispersión. La concentración más alta corresponde al receptor Rh06, con 0,70 
+µg/m³.
+-
+La pluma de dispersión cubre una superficie total de 1.183 ha.
+Figura 10. Dispersión de la pluma de MP2,5 como concentración promedio 
+anual.
+7.1.5 Dispersión Dióxido de Nitrógeno, NO2
+A continuación,  se presenta  el  análisis de los resultados para  el  NO2, tanto para  la 
+concentración promedio anual, 24 horas y horaria.
+
+===== p.36 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 37 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7.1.5.1 Concentración promedio anual de NO2
+En la Figura 11  se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio anual de NO2, de donde se concluye que: 
+-
+Para NO₂ anual, los resultados modelados presentan concentraciones entre 1,0 y 
+76,2 µg/m³.
+-
+El área de mayor concentración corresponde al intervalo de 50,0 a 76,2 µg/m³, con 
+una extensión de 0,19 ha. Esta condición no alcanza a receptores sensibles.
+-
+La pluma de dispersión no incorpora receptores sensibles dentro de su área de 
+influencia. Entre los 26 receptores evaluados, el valor más alto se obtiene en Rh06, 
+con 0,57 µg/m³.
+-
+En total, la pluma de dispersión comprende una superficie de 71,8 ha.
+Figura 11. Dispersión de la pluma de NO2 como concentración promedio anual. 
+
+===== p.37 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 38 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7.1.5.2 Concentración promedio diaria de NO2
+En la  Figura 12, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio diaria de NO2, de donde se concluye que: 
+-
+Para NO2 diario, las concentraciones modeladas se sitúan entre 1,5 y 559,3 µg/m³.
+-
+El sector de mayor concentración se asocia al intervalo de 100,0 a 559,3 µg/m³, con 
+una superficie total de 2,31 ha. En esta zona no se identifican receptores sensibles 
+expuestos.
+-
+Dentro de la pluma de dispersión se encuentran 4 de los 26 receptores sensibles 
+evaluados. El valor más alto corresponde a Rh06, con una concentración de 2,06 
+µg/m³.
+-
+La superficie total comprendida por la pluma de dispersión alcanza 553,47 ha.
+Figura 12. Dispersión de la pluma de NO2 como concentración diaria.
+
+===== p.38 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 39 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7.1.5.3 Concentración promedio horaria de NO2
+En la  Figura 13, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración horaria de NO2, de donde se concluye que: 
+-
+Para NO₂ horario, las concentraciones modeladas presentan valores entre 7,5 y 5.590 
+µg/m³.
+-
+La zona de máxima concentración se encuentra en el intervalo de 1.000 a 5.590 
+µg/m³, con una superficie asociada de 1,0 ha. Dentro de este sector no se registran 
+receptores sensibles.
+-
+Del total de 26 receptores sensibles evaluados, 9 quedan comprendidos dentro de la 
+pluma de dispersión. La mayor concentración se identifica en el receptor Rh11, con 
+19,17 µg/m³.
+-
+La pluma de dispersión abarca una superficie total de 2.077,93 ha.
+Figura 13. Dispersión de la pluma de NO2 como concentración horaria.
+
+===== p.39 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 40 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7.1.6 Dispersión Dióxido de Azufre, SO2
+A  continuación,  se  presenta  el  análisis  de  los  resultados  para  el  SO2, tanto  para  la 
+concentración promedio anual, 24 horas y horaria.
+7.1.6.1 Concentración promedio anual de SO2
+En la  Figura 14, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio anual de SO2, de donde se concluye que:
+-
+Para SO₂ anual, las concentraciones modeladas varían entre 1,0 y 50,1 µg/m³.
+-
+El área de mayor concentración se presenta en el rango de 20,0 a 50,1 µg/m³, con 
+una superficie total de 0,75 ha. En este sector no se identifican receptores sensibles.
+-
+Ninguno de los 26 receptores sensibles evaluados se encuentra dentro de la pluma 
+de dispersión. El mayor valor se registra en Rh06, con una concentración de 0,34 
+µg/m³.
+-
+La pluma de dispersión comprende una superficie total de 44,3 ha.
+
+===== p.40 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 41 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 14. Dispersión de la pluma de SO2 como concentración promedio anual.
+7.1.6.2 Concentración promedio diaria de SO2
+En la  Figura 15, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio diaria de SO2, de donde se concluye que: 
+-
+Para SO₂ diario, los resultados modelados indican concentraciones entre 5,0 y 368,0 
+µg/m³.
+-
+El sector de mayor concentración corresponde al rango de 150,0 a 368,0 µg/m³, con 
+una superficie de 0,66 ha. Esta condición no alcanza a receptores sensibles.
+-
+La pluma de dispersión no incorpora receptores sensibles dentro de su extensión. 
+Entre los 26 receptores evaluados, la concentración más alta se presenta en Rh06, 
+con 1,56 µg/m³.
+-
+En total, la pluma de dispersión abarca una superficie de 63,35 ha.
+
+===== p.41 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 42 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 15. Dispersión de la pluma de SO2 como concentración diaria.
+7.1.6.3 Concentración promedio horaria de SO2
+En la  Figura 16, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración horaria de SO2, de donde se concluye que: 
+-
+Para SO₂ horario, las concentraciones modeladas se encuentran entre 7,8 y 3.804 
+µg/m³.
+-
+La zona de mayor concentración se define por el intervalo de 500,0 a 3.804 µg/m³, 
+con una superficie asociada de 1,25 ha. No se registran receptores sensibles dentro 
+de este sector.
+-
+De los 26 receptores sensibles considerados, 7 se localizan dentro de la pluma de 
+dispersión. El valor más alto corresponde al receptor Rh13, con 13,23 µg/m³.
+-
+La pluma de dispersión comprende una superficie total de 1.160,74 ha.
+Figura 16. Dispersión de la pluma de SO2 como concentración horaria.
+
+===== p.42 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 43 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+7.1.7 Dispersión Monóxido de Carbono, CO
+A  continuación,  se  presenta  el  análisis  de  los  resultados  para  el  CO, tanto  para  la 
+concentración horaria como para el promedio móvil de 8 horas.
+7.1.7.1 Concentración horaria de CO
+En la  Figura 17, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración horaria de CO, de donde se concluye que: 
+-
+Para CO, norma horaria, las concentraciones modeladas se distribuyen entre 2,0 y 
+12,06 mg/m³.
+-
+El intervalo de mayor concentración corresponde a valores entre 10,0 y 12,06 
+mg/m³, asociado a una superficie de 0,10 ha. En esta área no se identifican 
+receptores sensibles.
+-
+Ninguno de los 26 receptores sensibles evaluados se ubica dentro de la pluma de 
+dispersión. La concentración más alta se registra en Rh13, con 0,07 mg/m³.
+-
+La pluma de dispersión alcanza una superficie total de 1,1 ha.
+
+===== p.43 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 44 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 17. Dispersión de la pluma de CO como norma horaria.
+7.1.7.2 Concentración promedio móvil de 8 horas de CO
+En la  Figura 18, se muestra la pluma de dispersión de la operación del proyecto como 
+concentración promedio móvil de 8 horas de CO, de donde se concluye que:
+-
+Para CO, norma 8 horas, las concentraciones modeladas se sitúan entre 0,5 y 2,91 
+mg/m³.
+-
+El tramo de mayor concentración considera valores entre 2,0 y 2,91 mg/m³, con una 
+superficie asociada de 0,14 ha. Este sector no presenta receptores sensibles en su 
+interior.
+-
+La pluma de dispersión no incorpora receptores sensibles dentro de su extensión. La 
+concentración máxima en receptores corresponde a 0,02 mg/m³, valor registrado en 
+Rh06, Rh09, Rh10, Rh11, Rh13, Rh15, Rh18, Rh20, Rh21, Rh24 y Rh25.
+-
+En conjunto, la pluma de dispersión abarca una superficie de 2,20 ha.
+
+===== p.44 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 45 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Figura 18. Dispersión de la pluma de CO como promedio móvil de 8 horas.
+7.1.8 Modelación discreta de las emisiones contaminantes
+La modelación discreta de emisiones fue realizada para MPS, MP10, MP2,5, NO₂, SO₂ y CO, 
+cuyos valores de concentración en los puntos receptores se presentan en las siguientes 
+tablas. 
+Concentración de MPS 
+Las tasas de deposición de material particulado sedimentable (MPS) asociadas al proyecto 
+varían entre 3,02 mg/m²/día y 48,42 mg/m²/día en los receptores evaluados. El valor 
+máximo se registra en el receptor Rv13, con 48,42 mg/m²/día, seguido por Rv11 (43,34 
+mg/m²·día) y Rv06 (43,14 mg/m²/día).
+Al comparar estos resultados con el valor de referencia de 200 mg/m²/día, se observa que 
+
+===== p.45 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 46 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+las tasas modeladas representan entre 1,5 % y 24,2 % del límite normativo, sin registrarse 
+superaciones en ninguno de los receptores analizados.
+En consecuencia, las tasas de deposición estimadas se mantienen por debajo del criterio de 
+referencia considerado, por lo que no se prevén efectos significativos asociados a la 
+sedimentación de material particulado en los receptores evaluados.
+Tabla 12. Resultados de MPS en receptores discretos
+Receptor
+Aporte proyecto 
+(mg/m2/día)
+Límite Normativo 
+(mg/m2/día)
+Porcentaje respecto 
+a Límite Normativo 
+(%)
+¿Sobrepasa la 
+norma?
+Rv01
+34,20
+200,00
+17,1%
+No
+Rv02
+37,00
+18,5%
+No
+Rv03
+20,79
+10,4%
+No
+Rv04
+6,94
+3,5%
+No
+Rv05
+35,81
+17,9%
+No
+Rv06
+43,14
+21,6%
+No
+Rv07
+32,47
+16,2%
+No
+Rv08
+4,22
+2,1%
+No
+Rv09
+3,02
+1,5%
+No
+Rv10
+6,86
+3,4%
+No
+Rv11
+43,34
+21,7%
+No
+Rv12
+10,35
+5,2%
+No
+Rv13
+48,42
+24,2%
+No
+Rv14
+32,03
+16,0%
+No
+Rv15
+41,07
+20,5%
+No
+Concentración de MP10 diario 
+De acuerdo con los resultados presentados para MP10 diario, la concentración de línea base 
+considerada corresponde a 89,2 µg/m³, equivalente al 68,6% del límite establecido en la 
+norma primaria. Al incorporar el aporte del proyecto, las concentraciones totales en los 
+receptores evaluados se sitúan entre 90,09 y 94,38 µg/m³, lo que representa entre un 
+69,3% y un 72,6% de la norma.
+
+===== p.46 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 47 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+El mayor aporte del proyecto se registra en el receptor Rh20, con una concentración de 5,18 
+µg/m³, equivalente al 4,0% del valor normativo. En este mismo receptor, la concentración 
+total estimada, correspondiente a la suma entre la línea base y el aporte del proyecto, 
+alcanza 94,38 µg/m³, equivalente al 72,6% de la norma primaria de MP10 diario.
+En consecuencia, aun considerando el escenario total de concentración, línea base más 
+aporte del proyecto, no se registran superaciones del límite establecido en la norma primaria 
+de calidad del aire para MP10 diario en ninguno de los receptores sensibles evaluados.
+Tabla 13. Resultados de MP10 diario en receptores discretos
+Receptor
+Concentración 
+24 horas MP10 
+- SINCA 
+Quilpue 
+Gimnasio - 
+2025 (µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Línea Base
+Aporte 
+del 
+Proyecto 
+(µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+Total 
+contaminante 
+(µg/m3) 
+[Línea Base + 
+Aporte del 
+proyecto]
+Porcentaje 
+respecto a 
+la norma 
+[Línea 
+Base + 
+Aporte del 
+proyecto]
+¿Sobrepasa 
+la norma?
+Rh01
+89,2
+68,6%
+3,13
+2,4%
+92,33
+71,0%
+No
+Rh02
+1,68
+1,3%
+90,88
+69,9%
+No
+Rh03
+1,76
+1,4%
+90,96
+70,0%
+No
+Rh04
+2,08
+1,6%
+91,28
+70,2%
+No
+Rh05
+1,59
+1,2%
+90,79
+69,8%
+No
+Rh06
+4,17
+3,2%
+93,37
+71,8%
+No
+Rh07
+1,43
+1,1%
+90,63
+69,7%
+No
+Rh08
+2,84
+2,2%
+92,04
+70,8%
+No
+Rh09
+2,73
+2,1%
+91,93
+70,7%
+No
+Rh10
+2,91
+2,2%
+92,11
+70,9%
+No
+Rh11
+3,59
+2,8%
+92,79
+71,4%
+No
+Rh12
+2,38
+1,8%
+91,58
+70,4%
+No
+Rh13
+4,27
+3,3%
+93,47
+71,9%
+No
+Rh14
+2,24
+1,7%
+91,44
+70,3%
+No
+Rh15
+4,07
+3,1%
+93,27
+71,7%
+No
+Rh16
+2,38
+1,8%
+91,58
+70,4%
+No
+Rh17
+2,19
+1,7%
+91,39
+70,3%
+No
+Rh18
+5,10
+3,9%
+94,30
+72,5%
+No
+Rh19
+2,09
+1,6%
+91,29
+70,2%
+No
+Rh20
+5,18
+4,0%
+94,38
+72,6%
+No
+Rh21
+3,72
+2,9%
+92,92
+71,5%
+No
+Rh22
+1,17
+0,9%
+90,37
+69,5%
+No
+Rh23
+1,07
+0,8%
+90,27
+69,4%
+No
+
+===== p.47 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 48 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Receptor
+Concentración 
+24 horas MP10 
+- SINCA 
+Quilpue 
+Gimnasio - 
+2025 (µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Línea Base
+Aporte 
+del 
+Proyecto 
+(µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+Total 
+contaminante 
+(µg/m3) 
+[Línea Base + 
+Aporte del 
+proyecto]
+Porcentaje 
+respecto a 
+la norma 
+[Línea 
+Base + 
+Aporte del 
+proyecto]
+¿Sobrepasa 
+la norma?
+Rh24
+1,40
+1,1%
+90,60
+69,7%
+No
+Rh25
+1,45
+1,1%
+90,65
+69,7%
+No
+Rh26
+0,89
+0,7%
+90,09
+69,3%
+No
+Concentración de MP10 anual
+Para MP10 anual, la concentración de línea base utilizada corresponde a 35,0 µg/m³, 
+equivalente al 70,0% del límite establecido en la norma primaria. Al sumar el aporte del 
+proyecto, las concentraciones totales estimadas en los receptores evaluados varían entre 
+35,17 y 37,02 µg/m³, representando entre un 70,3% y un 74,0% del valor normativo.
+El mayor aporte atribuible al proyecto se presenta en el receptor Rh06, con 2,02 µg/m³, 
+equivalente al 4,0% de la norma. En dicho punto, la concentración total, línea base más 
+aporte del proyecto, alcanza 37,02 µg/m³, correspondiente al 74,0% del límite aplicable.
+A partir de estos resultados, se verifica que las concentraciones totales proyectadas se 
+mantienen por debajo del límite establecido en la norma primaria de calidad del aire para 
+MP10 anual en la totalidad de los receptores sensibles considerados.
+Tabla 14. Resultados de MP10 anual en receptores discretos
+Receptor
+Concentración 
+Anual MP10 - 
+SINCA Quilpue 
+Gimnasio - 
+2025 (µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Línea Base
+Aporte 
+del 
+Proyecto 
+(µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+Total 
+contaminante 
+(µg/m3) 
+[Línea Base + 
+Aporte del 
+proyecto]
+Porcentaje 
+respecto a 
+la norma 
+[Línea Base 
++ Aporte 
+del 
+proyecto]
+¿Sobrepasa 
+la norma?
+Rh01
+35,0
+70,0%
+0,81
+1,6%
+35,81
+71,6%
+No
+Rh02
+0,38
+0,8%
+35,38
+70,8%
+No
+Rh03
+0,39
+0,8%
+35,39
+70,8%
+No
+Rh04
+0,48
+1,0%
+35,48
+71,0%
+No
+Rh05
+0,39
+0,8%
+35,39
+70,8%
+No
+Rh06
+2,02
+4,0%
+37,02
+74,0%
+No
+Rh07
+0,33
+0,7%
+35,33
+70,7%
+No
+Rh08
+0,92
+1,8%
+35,92
+71,8%
+No
+
+===== p.48 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 49 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Receptor
+Concentración 
+Anual MP10 - 
+SINCA Quilpue 
+Gimnasio - 
+2025 (µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Línea Base
+Aporte 
+del 
+Proyecto 
+(µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+Total 
+contaminante 
+(µg/m3) 
+[Línea Base + 
+Aporte del 
+proyecto]
+Porcentaje 
+respecto a 
+la norma 
+[Línea Base 
++ Aporte 
+del 
+proyecto]
+¿Sobrepasa 
+la norma?
+Rh09
+0,98
+2,0%
+35,98
+72,0%
+No
+Rh10
+1,10
+2,2%
+36,10
+72,2%
+No
+Rh11
+1,24
+2,5%
+36,24
+72,5%
+No
+Rh12
+0,81
+1,6%
+35,81
+71,6%
+No
+Rh13
+1,19
+2,4%
+36,19
+72,4%
+No
+Rh14
+0,73
+1,5%
+35,73
+71,5%
+No
+Rh15
+1,19
+2,4%
+36,19
+72,4%
+No
+Rh16
+0,50
+1,0%
+35,50
+71,0%
+No
+Rh17
+0,66
+1,3%
+35,66
+71,3%
+No
+Rh18
+0,88
+1,8%
+35,88
+71,8%
+No
+Rh19
+0,54
+1,1%
+35,54
+71,1%
+No
+Rh20
+0,71
+1,4%
+35,71
+71,4%
+No
+Rh21
+0,52
+1,0%
+35,52
+71,0%
+No
+Rh22
+0,24
+0,5%
+35,24
+70,5%
+No
+Rh23
+0,20
+0,4%
+35,20
+70,4%
+No
+Rh24
+0,33
+0,7%
+35,33
+70,7%
+No
+Rh25
+0,40
+0,8%
+35,40
+70,8%
+No
+Rh26
+0,17
+0,3%
+35,17
+70,3%
+No
+Concentración de MP2,5 diario
+Para MP2,5 diario, la concentración de línea base considerada corresponde a 46,5 µg/m³, 
+equivalente al 93,0% del límite establecido en la norma primaria. Al incorporar el aporte del 
+proyecto, las concentraciones totales estimadas en los receptores evaluados se ubican entre 
+46,79 y 48,29 µg/m³, representando entre un 93,6% y un 96,6% del valor normativo.
+El mayor aporte del proyecto se registra en el receptor Rh06, con una concentración de 1,79 
+µg/m³, equivalente al 3,6% de la norma primaria. En este receptor, la concentración total, 
+correspondiente a la suma entre la línea base y el aporte del proyecto, alcanza 48,29 µg/m³, 
+lo que representa un 96,6% del límite aplicable.
+De acuerdo con estos resultados, las concentraciones totales proyectadas se mantienen por 
+debajo del límite establecido en la norma primaria de calidad del aire para MP2,5 diario en 
+todos los receptores sensibles evaluados.
+
+===== p.49 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 50 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Tabla 15. Resultados de MP2,5 diario en receptores discretos
+Receptor
+Concentración 
+24 horas MP2,5 
+- SINCA 
+Quilpue 
+Gimnasio - 
+2025 (µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Línea Base
+Aporte 
+del 
+Proyecto 
+(µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+Total 
+contaminante 
+(µg/m3) 
+[Línea Base + 
+Aporte del 
+proyecto]
+Porcentaje 
+respecto a 
+la norma 
+[Línea Base 
++ Aporte 
+del 
+proyecto]
+¿Sobrepasa 
+la norma?
+Rh01
+46,5
+93,0%
+0,83
+1,7%
+47,33
+94,7%
+No
+Rh02
+0,54
+1,1%
+47,04
+94,1%
+No
+Rh03
+0,52
+1,0%
+47,02
+94,0%
+No
+Rh04
+0,60
+1,2%
+47,10
+94,2%
+No
+Rh05
+0,50
+1,0%
+47,00
+94,0%
+No
+Rh06
+1,79
+3,6%
+48,29
+96,6%
+No
+Rh07
+0,42
+0,8%
+46,92
+93,8%
+No
+Rh08
+0,83
+1,7%
+47,33
+94,7%
+No
+Rh09
+1,35
+2,7%
+47,85
+95,7%
+No
+Rh10
+1,43
+2,9%
+47,93
+95,9%
+No
+Rh11
+1,62
+3,2%
+48,12
+96,2%
+No
+Rh12
+0,87
+1,7%
+47,37
+94,7%
+No
+Rh13
+1,76
+3,5%
+48,26
+96,5%
+No
+Rh14
+0,63
+1,3%
+47,13
+94,3%
+No
+Rh15
+1,49
+3,0%
+47,99
+96,0%
+No
+Rh16
+0,61
+1,2%
+47,11
+94,2%
+No
+Rh17
+0,64
+1,3%
+47,14
+94,3%
+No
+Rh18
+1,28
+2,6%
+47,78
+95,6%
+No
+Rh19
+0,55
+1,1%
+47,05
+94,1%
+No
+Rh20
+1,51
+3,0%
+48,01
+96,0%
+No
+Rh21
+0,94
+1,9%
+47,44
+94,9%
+No
+Rh22
+0,32
+0,6%
+46,82
+93,6%
+No
+Rh23
+0,29
+0,6%
+46,79
+93,6%
+No
+Rh24
+0,48
+1,0%
+46,98
+94,0%
+No
+Rh25
+0,54
+1,1%
+47,04
+94,1%
+No
+Rh26
+0,34
+0,7%
+46,84
+93,7%
+No
+Concentración de MP2,5 anual
+Para MP2,5 anual, la línea base considerada alcanza 14,8 µg/m³, lo que equivale al 74,0% 
+del límite establecido en la norma primaria. Una vez incorporado el aporte del proyecto, las 
+concentraciones totales en los receptores evaluados se encuentran entre 14,86 y 15,50 
+µg/m³, con porcentajes respecto de la norma que varían entre 74,3% y 77,5%.
+
+===== p.50 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 51 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+El receptor con mayor aporte atribuible al proyecto corresponde a Rh06, con 0,70 µg/m³, 
+equivalente al 3,5% del valor normativo. En este punto, la concentración total resultante, 
+línea base más aporte del proyecto, llega a 15,50 µg/m³, correspondiente al 77,5% de la 
+norma primaria aplicable.
+En función de lo anterior, se concluye que las concentraciones totales estimadas permanecen 
+bajo el límite establecido por la norma primaria de calidad del aire para MP2,5 anual en todos 
+los receptores sensibles analizados.
+Tabla 16. Resultados de MP2,5 anual en receptores discretos
+Receptor
+Concentración 
+Anual MP2,5 - 
+SINCA Quilpue 
+Gimnasio - 
+2025 (µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Línea Base
+Aporte 
+del 
+Proyecto 
+(µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+Total 
+contaminante 
+(µg/m3) 
+[Línea Base + 
+Aporte del 
+proyecto]
+Porcentaje 
+respecto a 
+la norma 
+[Línea Base 
++ Aporte 
+del 
+proyecto]
+¿Sobrepasa 
+la norma?
+Rh01
+14,8
+74,0%
+0,19
+1,0%
+14,99
+75,0%
+No
+Rh02
+0,12
+0,6%
+14,92
+74,6%
+No
+Rh03
+0,12
+0,6%
+14,92
+74,6%
+No
+Rh04
+0,13
+0,7%
+14,93
+74,7%
+No
+Rh05
+0,12
+0,6%
+14,92
+74,6%
+No
+Rh06
+0,70
+3,5%
+15,50
+77,5%
+No
+Rh07
+0,10
+0,5%
+14,90
+74,5%
+No
+Rh08
+0,23
+1,2%
+15,03
+75,2%
+No
+Rh09
+0,32
+1,6%
+15,12
+75,6%
+No
+Rh10
+0,40
+2,0%
+15,20
+76,0%
+No
+Rh11
+0,47
+2,3%
+15,27
+76,3%
+No
+Rh12
+0,23
+1,2%
+15,03
+75,2%
+No
+Rh13
+0,45
+2,2%
+15,25
+76,2%
+No
+Rh14
+0,19
+0,9%
+14,99
+74,9%
+No
+Rh15
+0,40
+2,0%
+15,20
+76,0%
+No
+Rh16
+0,13
+0,7%
+14,93
+74,7%
+No
+Rh17
+0,18
+0,9%
+14,98
+74,9%
+No
+Rh18
+0,28
+1,4%
+15,08
+75,4%
+No
+Rh19
+0,14
+0,7%
+14,94
+74,7%
+No
+Rh20
+0,23
+1,1%
+15,03
+75,1%
+No
+Rh21
+0,18
+0,9%
+14,98
+74,9%
+No
+Rh22
+0,07
+0,3%
+14,87
+74,3%
+No
+Rh23
+0,06
+0,3%
+14,86
+74,3%
+No
+
+===== p.51 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 52 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Receptor
+Concentración 
+Anual MP2,5 - 
+SINCA Quilpue 
+Gimnasio - 
+2025 (µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Línea Base
+Aporte 
+del 
+Proyecto 
+(µg/m3)
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+Total 
+contaminante 
+(µg/m3) 
+[Línea Base + 
+Aporte del 
+proyecto]
+Porcentaje 
+respecto a 
+la norma 
+[Línea Base 
++ Aporte 
+del 
+proyecto]
+¿Sobrepasa 
+la norma?
+Rh24
+0,12
+0,6%
+14,92
+74,6%
+No
+Rh25
+0,13
+0,7%
+14,93
+74,7%
+No
+Rh26
+0,06
+0,3%
+14,86
+74,3%
+No
+Concentración de NO2
+Para NO₂, los aportes del proyecto se mantienen en niveles acotados respecto de los límites 
+establecidos  en  la  norma  primaria,  tanto  para  el  periodo  anual  como  para  las 
+concentraciones de 24 horas y 1 hora.
+En el caso de NO₂ anual, el mayor aporte del proyecto se registra en el receptor Rh06, con 
+una concentración de 0,57 µg/m³, equivalente al 1,4% de la norma primaria. Para la 
+concentración de 24 horas, el valor más alto también se presenta en Rh06, alcanzando 2,06 
+µg/m³, correspondiente al 2,1% del valor normativo.
+Respecto de NO₂ horario, el mayor aporte se identifica en el receptor Rh13, con una 
+concentración de 19,17 µg/m³, equivalente al 9,6% de la norma primaria. Le sigue el 
+receptor Rh11, con 19,04 µg/m³, valor que representa un 9,5% del límite aplicable.
+A partir de estos resultados, se verifica que los aportes del proyecto no superan los límites 
+establecidos en la norma primaria de calidad del aire para NO₂ en ninguno de los receptores 
+sensibles evaluados.
+Tabla 17. Resultados de NO2 en receptores discretos
+Receptor
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+NO2 Anual
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto 
+NO2 Anual
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+NO2 24 horas
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto 
+NO2 24 
+horas
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+NO2 1 hora
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+NO2 1 hora
+Rh01
+0,07
+0,2%
+0,71
+0,7%
+6,42
+3,2%
+Rh02
+0,06
+0,1%
+0,51
+0,5%
+5,85
+2,9%
+
+===== p.52 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 53 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Receptor
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+NO2 Anual
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto 
+NO2 Anual
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+NO2 24 horas
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto 
+NO2 24 
+horas
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+NO2 1 hora
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto
+NO2 1 hora
+Rh03
+0,06
+0,1%
+0,49
+0,5%
+6,06
+3,0%
+Rh04
+0,06
+0,1%
+0,53
+0,5%
+7,13
+3,6%
+Rh05
+0,06
+0,1%
+0,45
+0,4%
+5,80
+2,9%
+Rh06
+0,57
+1,4%
+2,06
+2,1%
+13,22
+6,6%
+Rh07
+0,05
+0,1%
+0,37
+0,4%
+5,38
+2,7%
+Rh08
+0,11
+0,3%
+1,05
+1,0%
+13,00
+6,5%
+Rh09
+0,24
+0,6%
+1,48
+1,5%
+14,70
+7,4%
+Rh10
+0,33
+0,8%
+1,60
+1,6%
+14,07
+7,0%
+Rh11
+0,38
+1,0%
+1,69
+1,7%
+19,04
+9,5%
+Rh12
+0,14
+0,3%
+0,85
+0,8%
+10,73
+5,4%
+Rh13
+0,29
+0,7%
+1,80
+1,8%
+19,17
+9,6%
+Rh14
+0,11
+0,3%
+0,45
+0,4%
+5,04
+2,5%
+Rh15
+0,18
+0,5%
+1,19
+1,2%
+12,90
+6,4%
+Rh16
+0,07
+0,2%
+0,52
+0,5%
+6,74
+3,4%
+Rh17
+0,09
+0,2%
+0,51
+0,5%
+5,01
+2,5%
+Rh18
+0,12
+0,3%
+0,75
+0,7%
+7,93
+4,0%
+Rh19
+0,07
+0,2%
+0,36
+0,4%
+4,54
+2,3%
+Rh20
+0,09
+0,2%
+0,76
+0,8%
+7,20
+3,6%
+Rh21
+0,08
+0,2%
+0,58
+0,6%
+6,76
+3,4%
+Rh22
+0,03
+0,1%
+0,23
+0,2%
+3,21
+1,6%
+Rh23
+0,03
+0,1%
+0,22
+0,2%
+2,65
+1,3%
+Rh24
+0,06
+0,2%
+0,43
+0,4%
+4,92
+2,5%
+Rh25
+0,08
+0,2%
+0,38
+0,4%
+3,65
+1,8%
+Rh26
+0,03
+0,1%
+0,30
+0,3%
+3,88
+1,9%
+Concentración de SO2
+Para SO₂, los aportes del proyecto presentan valores reducidos en relación con los límites 
+establecidos en la norma primaria, considerando las concentraciones anual, de 24 horas y de 
+1 hora.
+En la concentración anual, el mayor aporte se registra en el receptor Rh06, con 0,34 µg/m³, 
+equivalente al 0,6% del valor normativo. Para el periodo de 24 horas, el máximo también se 
+observa en Rh06, alcanzando 1,56 µg/m³, correspondiente al 1,0% de la norma primaria.
+
+===== p.53 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 54 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+En el caso de SO₂ horario, la concentración más alta se presenta en el receptor Rh13, con un 
+aporte de 13,23 µg/m³, equivalente al 3,8% del límite aplicable. A continuación, se ubica el 
+receptor Rh11, con 12,51 µg/m³, correspondiente al 3,6% de la norma.
+Sobre la base de estos resultados, se verifica que los aportes del proyecto se mantienen por 
+debajo de los límites establecidos en la norma primaria de calidad del aire para SO₂ en todos 
+los receptores
+Tabla 18. Resultados de SO2 en receptores discretos
+Receptor
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+SO2 Anual
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto SO2 
+Anual
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+SO2 24 horas
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto SO2 
+24 horas
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+SO2 1 hora
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto 
+Concentración 
+SO2 1 hora
+Rh01
+0,06
+0,1%
+0,50
+0,3%
+4,70
+1,3%
+Rh02
+0,05
+0,1%
+0,38
+0,3%
+4,29
+1,2%
+Rh03
+0,05
+0,1%
+0,37
+0,2%
+4,49
+1,3%
+Rh04
+0,05
+0,1%
+0,36
+0,2%
+4,76
+1,4%
+Rh05
+0,05
+0,1%
+0,37
+0,2%
+3,77
+1,1%
+Rh06
+0,34
+0,6%
+1,56
+1,0%
+8,60
+2,5%
+Rh07
+0,05
+0,1%
+0,30
+0,2%
+3,57
+1,0%
+Rh08
+0,07
+0,1%
+0,76
+0,5%
+8,48
+2,4%
+Rh09
+0,15
+0,3%
+0,98
+0,7%
+11,86
+3,4%
+Rh10
+0,23
+0,4%
+1,11
+0,7%
+9,83
+2,8%
+Rh11
+0,27
+0,4%
+1,12
+0,7%
+12,51
+3,6%
+Rh12
+0,08
+0,1%
+0,61
+0,4%
+6,98
+2,0%
+Rh13
+0,23
+0,4%
+1,28
+0,9%
+13,23
+3,8%
+Rh14
+0,04
+0,1%
+0,32
+0,2%
+2,79
+0,8%
+Rh15
+0,15
+0,2%
+0,86
+0,6%
+9,78
+2,8%
+Rh16
+0,03
+0,1%
+0,31
+0,2%
+4,09
+1,2%
+Rh17
+0,05
+0,1%
+0,41
+0,3%
+3,27
+0,9%
+Rh18
+0,09
+0,1%
+0,56
+0,4%
+5,37
+1,5%
+Rh19
+0,04
+0,1%
+0,31
+0,2%
+2,94
+0,8%
+Rh20
+0,07
+0,1%
+0,49
+0,3%
+5,48
+1,6%
+Rh21
+0,06
+0,1%
+0,43
+0,3%
+4,96
+1,4%
+Rh22
+0,02
+0,0%
+0,18
+0,1%
+2,11
+0,6%
+Rh23
+0,02
+0,0%
+0,17
+0,1%
+1,73
+0,5%
+Rh24
+0,04
+0,1%
+0,31
+0,2%
+3,24
+0,9%
+Rh25
+0,05
+0,1%
+0,33
+0,2%
+2,67
+0,8%
+
+===== p.54 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 55 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Receptor
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+SO2 Anual
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto SO2 
+Anual
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+SO2 24 horas
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto SO2 
+24 horas
+Aporte del 
+Proyecto 
+(µg/m3) - 
+Concentración 
+SO2 1 hora
+Porcentaje 
+respecto a 
+norma 
+primaria
+Aporte del 
+proyecto 
+Concentración 
+SO2 1 hora
+Rh26
+0,03
+0,0%
+0,22
+0,1%
+2,30
+0,7%
+Concentración de CO
+Para CO, los aportes del proyecto son bajos en relación con los límites establecidos en la 
+norma primaria, tanto para la concentración de 8 horas como para la de 1 hora.
+En el caso de CO 8 horas, el mayor aporte del proyecto alcanza 0,02 mg/m³, equivalente al 
+0,2% del valor normativo. Este valor se registra en los receptores Rh06, Rh09, Rh10, Rh11, 
+Rh13, Rh15, Rh18, Rh20, Rh21, Rh24 y Rh25.
+Para CO 1 hora, la concentración máxima corresponde a 0,07 mg/m³, equivalente al 0,2% 
+de la norma primaria. Este aporte se presenta en los receptores Rh13 y Rh20.
+De acuerdo con los resultados obtenidos, los aportes del proyecto se mantienen por debajo 
+de los límites establecidos en la norma primaria de calidad del aire para CO en todos los 
+receptores sensibles evaluado
+Tabla 19. Resultados de CO en receptores discretos
+Receptor
+Aporte del Proyecto 
+(mg/m3) - 
+Concentración CO 8 
+horas 
+Porcentaje respecto 
+a norma primaria
+Aporte del proyecto 
+CO 8 horas
+Aporte del Proyecto 
+(mg/m3) - 
+Concentración CO 1 
+hora
+Porcentaje respecto 
+a norma primaria
+Aporte del proyecto 
+CO 1 hora
+Rh01
+0,01
+0,1%
+0,04
+0,1%
+Rh02
+0,01
+0,1%
+0,04
+0,1%
+Rh03
+0,01
+0,1%
+0,04
+0,1%
+Rh04
+0,01
+0,1%
+0,03
+0,1%
+Rh05
+0,01
+0,1%
+0,03
+0,1%
+Rh06
+0,02
+0,2%
+0,06
+0,2%
+Rh07
+0,01
+0,1%
+0,03
+0,1%
+
+===== p.55 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 56 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Receptor
+Aporte del Proyecto 
+(mg/m3) - 
+Concentración CO 8 
+horas 
+Porcentaje respecto 
+a norma primaria
+Aporte del proyecto 
+CO 8 horas
+Aporte del Proyecto 
+(mg/m3) - 
+Concentración CO 1 
+hora
+Porcentaje respecto 
+a norma primaria
+Aporte del proyecto 
+CO 1 hora
+Rh08
+0,01
+0,1%
+0,05
+0,2%
+Rh09
+0,02
+0,2%
+0,05
+0,2%
+Rh10
+0,02
+0,2%
+0,04
+0,1%
+Rh11
+0,02
+0,2%
+0,06
+0,2%
+Rh12
+0,01
+0,1%
+0,06
+0,2%
+Rh13
+0,02
+0,2%
+0,07
+0,2%
+Rh14
+0,01
+0,1%
+0,03
+0,1%
+Rh15
+0,02
+0,2%
+0,06
+0,2%
+Rh16
+0,01
+0,1%
+0,03
+0,1%
+Rh17
+0,01
+0,1%
+0,04
+0,1%
+Rh18
+0,02
+0,2%
+0,06
+0,2%
+Rh19
+0,01
+0,1%
+0,02
+0,1%
+Rh20
+0,02
+0,2%
+0,07
+0,2%
+Rh21
+0,02
+0,2%
+0,06
+0,2%
+Rh22
+0,01
+0,1%
+0,02
+0,1%
+Rh23
+0,01
+0,1%
+0,02
+0,1%
+Rh24
+0,02
+0,2%
+0,06
+0,2%
+Rh25
+0,02
+0,2%
+0,05
+0,2%
+Rh26
+0,01
+0,1%
+0,04
+0,1%
+8
+Conclusión
+El presente informe presenta los resultados obtenidos en la modelación de dispersión e 
+impacto de emisiones atmosféricas asociadas al proyecto “Centro Metropolitano de Gestión 
+Integral de Residuos”, ubicado en la comuna de Viña del Mar, Provincia y Región de 
+Valparaíso. El Proyecto considera la construcción y operación de una instalación integral para 
+el tratamiento de residuos sólidos mediante compostaje, reciclaje y disposición final de 
+residuos sólidos domiciliarios y asimilables, localizada en el kilómetro 102,5 de la Ruta 60 - 
+Troncal Sur, que une las comunas de Viña del Mar y Quilpué. Su área de emplazamiento 
+corresponde a 63,10 ha, dentro de un predio de 206 ha.
+
+===== p.56 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 57 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+La instalación contempla una Zona de Instalaciones Operacionales y Administrativas, Zona 
+de Compostaje, Zona de Reciclaje, Zona de Disposición de Residuos, Zona de Tratamiento 
+de Lixiviados y Zona de Tratamiento de Biogás. Durante su fase de operación se proyecta la 
+recepción de 30.741.988 toneladas de residuos sólidos en una vida útil estimada de 25 años, 
+prestando servicio principalmente a la población de las comunas de la Región de Valparaíso, 
+con una tasa inicial de recepción de 2.500 ton/día.
+El escenario de modelación corresponde al año 27 de la fase de operación que corresponde 
+al año con mayor emisión declarada por el proyecto. Durante este año ocurren actividades 
+de movimientos de tierra, nivelación y compactación, tránsito de vehículos por las vías 
+pavimentadas y no pavimentadas al interior y exterior del proyecto, las emisiones asociadas 
+a la combustión interna de los motores de vehículos y maquinaria. Se contemplan las 
+emisiones generadas por los equipos de energía o grupos electrógenos de las plantas de 
+reciclaje, compostaje y el tratamiento de biogás. Además, se modeló la dispersión de las 
+emisiones de CO debidas al proceso biológico del compostaje y el tratamiento de lixiviados, y 
+los contaminantes emitidos por la quema controlada de biogás.
+Para material particulado, las concentraciones totales estimadas, correspondientes a la 
+suma entre línea base y aporte del proyecto, se mantienen por debajo de los límites 
+establecidos en la normativa primaria aplicable. En el caso de MP10 diario, el mayor aporte 
+del proyecto se registra en el receptor Rh20, con 5,18 µg/m³, alcanzando una concentración 
+total de 94,38 µg/m³, equivalente al 72,6% de la norma. Para MP10 anual, el mayor aporte 
+corresponde al receptor Rh06, con 2,02 µg/m³, obteniéndose una concentración total de 
+37,02 µg/m³, equivalente al 74,0% del límite normativo.
+Respecto de MP2,5, los resultados también se mantienen bajo los valores establecidos por la 
+norma primaria. Para el periodo diario, el mayor aporte del proyecto se presenta en Rh06, 
+con 1,79 µg/m³, alcanzando una concentración total de 48,29 µg/m³, equivalente al 96,6% 
+de la norma. En el caso anual, el mismo receptor presenta el aporte máximo, con 0,70 
+µg/m³, y una concentración total de 15,50 µg/m³, correspondiente al 77,5% del límite 
+aplicable.
+
+===== p.57 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 58 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+Para  material  particulado  sedimentable  (MPS),  la  modelación  muestra  una  pluma  de 
+dispersión asociada principalmente al área de operación del relleno sanitario y a las rutas 
+internas no pavimentadas, con las mayores tasas de deposición concentradas al interior del 
+área del Proyecto y sus inmediaciones. Si bien todos los receptores evaluados se encuentran 
+dentro de la pluma, los aportes modelados se mantienen bajo el límite de referencia de 200 
+mg/m²/día, alcanzando un máximo en el receptor Rv13 con un valor de 48,42 mg/m2día, 
+equivalente al 24,2% del valor aplicable. Por lo tanto, no se identifican excedencias 
+normativas para MPS en los receptores analizados, concluyéndose que los aportes del 
+Proyecto se mantienen bajo el umbral de referencia considerado para la evaluación.
+En relación con los gases evaluados, los aportes del proyecto para NO₂, SO₂ y CO son 
+acotados respecto de sus respectivas normas primarias. Para NO₂, los mayores aportes 
+corresponden a Rh06 en los periodos anual y diario, con 0,57 µg/m³ y 2,06 µg/m³, 
+respectivamente, mientras que para el periodo horario el máximo se registra en Rh13, con 
+19,17 µg/m³. En el caso de SO₂, los mayores valores se presentan en Rh06 para los periodos 
+anual y diario, con 0,34 µg/m³ y 1,56 µg/m³, respectivamente, y en Rh13 para el periodo 
+horario, con 13,23 µg/m³. Para CO, los aportes máximos alcanzan 0,02 mg/m³ para 8 horas 
+y 0,07 mg/m³ para 1 hora, valores que representan porcentajes reducidos respecto de la 
+norma primaria.
+En consecuencia, considerando las concentraciones de línea base, los aportes modelados del 
+proyecto y las concentraciones totales resultantes en los receptores sensibles evaluados, no 
+se identifican superaciones de los límites establecidos en las normas primarias de calidad del 
+aire para MP10, MP2,5, NO₂, SO₂ y CO. Por lo tanto, los resultados permiten concluir que la 
+operación del proyecto no generaría excedencias normativas en los receptores sensibles 
+analizados, bajo las condiciones de modelación consideradas, por lo que se descarta el 
+impacto significativo. 
+
+===== p.58 =====
+Estudio de Impacto Ambiental
+Modelación de Emisiones Atmosféricas
+“Centro Metropolitano de Gestión Integral de Residuos”
+Página 59 de 59
+    
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
+(56.41)2287848
+www.dss.cl
+Marchant  Pereira  150  Oficina  803, 
+Providencia.
+ (56.2)64653707
+9
+Bibliografía
+Martínez Rodríguez, E. (2005). Errores Frecuentes en la interpretación del coeficiente de 
+determinación lineal. Anuario Jurídico y Económico Escuarialense, 315-322.
+OMS. (2005). Guías de calidad del aire de la OMS relativas al material particulado, el ozono, 
+el dióxido de nitrógeno y el dióxido de azufre. 
+Sarricolea, P., Herrera-Ossandon, M., & Meseguer-Ruiz, O. (2016). Climatic regionalisation of 
+continental Chile.
+Servicio de Evaluación Ambiental (2023). Guía para el Uso de Modelos de Calidad del Aire en 
+el SEIA.
+U.S. Environmental Protection Agency. (2011). Protection of Environment, 40 C.F.R. 1–1099. 
+U.S. Government Publishing Office
+10 Anexos 
+En el presente anexo se presentan los datos de la modelación CALPUFF. En el siguiente 
+enlace se encuentran los archivos antes mencionados:
+https://archivos.sea.gob.cl/2026/06/26/2168892026/
+Centro_Integral_de_Residuos.rar

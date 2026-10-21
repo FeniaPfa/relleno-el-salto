@@ -1,0 +1,2623 @@
+
+===== p.0 =====
+ANEXO 8.1: PLAN DE GESTIÓN DE OLOR
+ESTUDIO DE IMPACTO AMBIENTAL
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+MAYO 2026
+
+===== p.1 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 2 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Índice
+1
+Introducción..........................................................................................................5
+2
+Objetivos...............................................................................................................5
+2.1
+Objetivo General............................................................................................5
+2.2
+Objetivos específicos......................................................................................6
+3
+Alcance..................................................................................................................7
+4
+Diagnóstico............................................................................................................7
+4.1
+Antecedentes de la instalación........................................................................7
+4.1.1
+Identificación de la instalación.....................................................................7
+4.1.2
+Identificación del tipo de operación y procesos de la instalación....................8
+4.1.3
+Identificación de las principales emisiones..................................................10
+4.1.4
+Identificación y caracterización de las fuentes emisoras...............................11
+4.1.5
+Caracterización del olor.............................................................................12
+4.1.6
+Identificación de la probabilidad de generar impacto de olor........................19
+4.2
+Antecedentes entorno a la instalación............................................................21
+4.2.1
+Identificación de otras fuentes generadoras de olor....................................21
+4.2.2
+Antecedentes de receptores cercanos.........................................................21
+4.2.3
+Registro de denuncias por olores...............................................................23
+4.3
+Antecedentes de emisiones de olor................................................................23
+4.3.1
+Herramienta diagnóstica............................................................................23
+4.3.2
+Alcance odorante......................................................................................24
+4.3.3
+Situación odorante....................................................................................26
+5
+Medidas a implementar.........................................................................................27
+
+===== p.2 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 3 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+5.1
+Planes de trabajo..........................................................................................27
+5.2
+Medidas específicas de abatimiento...............................................................29
+5.3
+Comunicación con la comunidad....................................................................30
+6
+Programa de seguimiento y control........................................................................31
+6.1
+Descripción de las medidas adoptadas en cada etapa.....................................31
+6.2
+Ubicación de los puntos de control.................................................................33
+6.3
+Definir herramientas de evaluación................................................................34
+6.4
+Definir frecuencia de control..........................................................................35
+6.5
+Documentar el control y seguimiento.............................................................37
+6.6
+Capacitación y competencias del personal en roles críticos..............................37
+7
+Programa de contingencia.....................................................................................37
+7.1
+Desviación de indicadores.............................................................................37
+7.2
+Fallas operacionales......................................................................................38
+7.3
+Quejas de la comunidad................................................................................39
+8
+Revisión del plan de gestión de olor.......................................................................40
+ÍNDICE DE FIGURAS
+Figura 1. Perímetro de delimitación del Proyecto...................................................8
+Figura 2. Fuentes generadoras de olor de la situación proyectada.......................9
+Figura 3. Escala de intensidad de olor..........................................................................15
+Figura 4. Ubicación del proyecto y receptores...............................................................19
+Figura 5. Área de influencia del proyecto......................................................................20
+Figura 6. Receptores cercanos al Proyecto....................................................................22
+Figura 7. Pluma de dispersión de odorantes e isodoras..................................................25
+
+===== p.3 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 4 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Figura 8. Niveles de olor y descripción..........................................................................27
+ÍNDICE DE TABLAS
+Tabla 1. Punto representativo del proyecto.....................................................................7
+Tabla 2. Zonas asociadas a la emisión de olor y sus procesos.........................................10
+Tabla 3. Fuentes emisoras y sus emisiones de referencia...............................................10
+Tabla 4. Ranking fuentes emisoras...............................................................................11
+Tabla 5. Criterios FIDOL evaluados en el presente PGO..................................................12
+Tabla 6. Tabla de frecuencias de eventos de olor...........................................................13
+Tabla 7. Intensidad y descripción del olor......................................................................14
+Tabla 8. Concentración de olor.....................................................................................15
+Tabla 9. Intensidad del olor en los receptores...............................................................15
+Tabla 10. Duración de los eventos de percepción de olor en los receptores.....................17
+Tabla 11. Coordenadas de receptores discretos.............................................................21
+Tabla 12. Límite normativo...........................................................................................23
+Tabla 13. Concentración de olores modelados en puntos discretos.................................25
+Tabla 14. Medidas preventivas y control para la generación de olores en la Planta...........28
+Tabla 15. Medidas de abatimiento................................................................................29
+Tabla 16. Registro de quejas........................................................................................30
+Tabla 17. Puntos de control dentro del Proyecto............................................................33
+Tabla 18. Herramientas de evaluación para el seguimiento.............................................35
+Tabla 19. Frecuencia de control de las actividades de seguimiento.................................36
+Tabla 20. Desviación de indicadores.............................................................................38
+Tabla 21. Medidas preventivas.....................................................................................39
+Tabla 22. Registro de quejas por olor...........................................................................39
+Tabla 23. Acciones por realizar para la revisión del PGO.................................................41
+
+===== p.4 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 5 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+1
+Introducción
+El presente Plan de Gestión de Olores (PGO) establece las acciones, controles operacionales, 
+medidas  preventivas,  programa  de  seguimiento  y  mecanismos  de  respuesta  ante 
+contingencias asociadas a las emisiones odorantes del proyecto “Centro Metropolitano de 
+Gestión Integral de Residuos”.
+El proyecto consiste en la construcción y operación de una instalación integral para el 
+tratamiento de residuos sólidos mediante compostaje, reciclaje y disposición final de 
+residuos sólidos domiciliarios y asimilables. Se emplaza en el kilómetro 102,5 de la Ruta 60 - 
+Troncal Sur, en la comuna de Viña del Mar, Región de Valparaíso, ocupando 63,10 ha dentro 
+de un predio de 206 ha.
+Las unidades con potencial de generación de olor se asocian principalmente a la disposición 
+final de residuos en relleno sanitario, frente de trabajo activo, manejo y tratamiento de 
+lixiviados, unidades de compostaje, y operaciones complementarias de recepción, transporte 
+y manejo interno de residuos. Este PGO se formula como una herramienta de gestión 
+preventiva, orientada a reducir la probabilidad de generación de episodios de olor molesto en 
+receptores sensibles y a mantener condiciones operacionales compatibles con la protección 
+de la salud y calidad de vida de la población.
+De manera complementaria, el presente PGO considera como antecedente técnico el 
+Informe de Modelación de Odorantes (Anexo 4.4 del EIA) del proyecto, el cual permite 
+estimar el comportamiento de dispersión de olores en el entorno y su potencial percepción 
+en receptores cercanos, conforme a recomendaciones metodológicas utilizadas en el SEIA.
+2
+Objetivos
+2.1
+Objetivo General
+Establecer un sistema de gestión operacional para prevenir, reducir y controlar las emisiones 
+de olor asociadas al Centro Metropolitano de Gestión Integral de Residuos, definiendo 
+fuentes potenciales, medidas de manejo, seguimiento, responsabilidades y procedimientos 
+de respuesta frente a desviaciones, incidentes o reclamos de la comunidad. 
+
+===== p.5 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 6 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+2.2
+Objetivos específicos 
+
+Identificar las unidades, actividades y condiciones operacionales con potencial de 
+generación de olores.
+
+Caracterizar las principales fuentes de olor asociadas al relleno sanitario, lixiviados y 
+compostaje.
+
+Describir el entorno del proyecto y los receptores potencialmente sensibles.
+
+Incorporar los resultados de la modelación de odorantes como antecedente de 
+diagnóstico.
+
+Definir medidas preventivas, correctivas y de control operacional para minimizar 
+emisiones odorantes.
+
+Establecer un programa de seguimiento y control con indicadores, frecuencias, 
+registros y responsables.
+
+Definir un procedimiento de atención, investigación y cierre de quejas por olores.
+
+Establecer un programa de contingencia ante fallas operacionales, desviaciones de 
+indicadores o eventos de olor no previstos.
+
+===== p.6 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 7 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+3
+Alcance
+El alcance del presente PGO comprende la fase de operación del Centro Metropolitano de 
+Gestión Integral de Residuos, sin perjuicio de incorporar acciones preventivas aplicables 
+durante la puesta en marcha y actividades de mantención. El Plan aplica a las unidades de 
+disposición final de residuos, frente de trabajo, sistema de manejo y tratamiento de 
+lixiviados,  planta  de  compostaje,  zonas  de  transferencia  interna,  vías  de  circulación, 
+almacenamiento temporal y cualquier actividad operacional que pueda generar, liberar o 
+transportar olores hacia el entorno.
+4
+Diagnóstico
+4.1
+Antecedentes de la instalación
+4.1.1
+Identificación de la instalación
+La instalación corresponde al “Centro Metropolitano de Gestión Integral de Residuos”, 
+localizado en la comuna de Viña del Mar, Provincia y Región de Valparaíso. El predio se ubica 
+en el kilómetro 102,5 de la Ruta 60 - Troncal Sur y considera una superficie total de 206 ha, 
+de las cuales 63,10 ha serán utilizadas para el desarrollo del proyecto. La ubicación exacta 
+del punto representativo del proyecto está detallada en la  Tabla 1, mientras que su 
+distribución espacial se ilustra en la  Figura 1. Estos antecedentes permiten ubicar las 
+fuentes odorantes respecto de receptores y área de influencia.
+Tabla 1. Punto representativo del proyecto
+Vértice
+UTM Norte (m)
+UTM Este (m)
+V1
+6.337.772
+267.889
+V2
+6.337.552
+268.950
+V3
+6.337.004
+268.910
+V4
+6.336.188
+268.538
+V5
+6.336.265
+267.899
+V6
+6.336.430
+267.365
+V7
+6.337.033
+267.264
+
+===== p.7 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 8 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Figura 1. Perímetro de delimitación del Proyecto
+4.1.2
+Identificación del tipo de operación y procesos de la instalación
+El proyecto integra distintas zonas operacionales destinadas a la recepción, valorización, 
+tratamiento  y  disposición  final  de  residuos.  Las  principales  zonas  consideradas  son: 
+instalaciones operacionales y administrativas, zona de compostaje, zona de reciclaje, zona 
+de disposición de residuos, zona de tratamiento de lixiviados y zona de tratamiento de 
+biogás.
+A  continuación,  se  presenta  el  escenario  más  desfavorable,  el  cual  corresponde  al 
+funcionamiento de todas las unidades proyectadas durante un período continuo de un año. 
+La Figura 2 muestra la distribución espacial de las unidades con potencial de generación 
+de olor.
+
+===== p.8 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 9 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Figura 2. Fuentes generadoras de olor de la situación proyectada
+Con el objeto de complementar la identificación espacial de las fuentes, en la tabla siguiente se 
+sistematizan  las  zonas  operacionales  del  Proyecto,  indicando  los  procesos  principales  que  se 
+desarrollan en cada una de ellas y su relación con la generación potencial de olor. Esta información 
+permite reconocer los puntos críticos de gestión odorante y constituye la base para la posterior 
+definición de medidas de prevención, control, seguimiento y contingencia del presente Plan de 
+Gestión de Olores.
+Tabla 2. Zonas asociadas a la emisión de olor y sus procesos
+Zona
+Superficie 
+aproximada (m²)
+Procesos relevantes para olores
+Zona de compostaje
+9.358,18
+Mezcla de residuos orgánicos con material 
+estructurante, bioestabilización en trincheras, 
+maduración en pilas y manejo de material 
+orgánico.
+
+===== p.9 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 10 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Zona
+Superficie 
+aproximada (m²)
+Procesos relevantes para olores
+Zona de disposición de 
+residuos
+485.384,77
+Descarga, esparcimiento, compactación, 
+cobertura diaria y disposición final.
+Zona de tratamiento de 
+lixiviados
+21.625,41
+Piscinas de lixiviados, bandejas de evaporación 
+y planta de tratamiento de líquidos percolados.
+4.1.3
+Identificación de las principales emisiones
+Las principales emisiones odorantes se asocian a la degradación de materia orgánica, 
+residuos frescos, manejo de lixiviados y etapas de compostaje. El escenario de modelación 
+considera fuentes de emisión continua durante el año para representar una condición 
+conservadora de operación.
+Tabla 3. Fuentes emisoras y sus emisiones de referencia
+Fuente emisora
+Este (m)
+Norte (m)
+Descripción operacional
+Piscina de 
+lixiviados 1
+267.178
+6.337.413
+Almacenamiento de líquidos lixiviados 
+generados en la zona de disposición 
+final.
+Piscina de 
+lixiviados 2
+268.463
+6.337.339
+Almacenamiento de líquidos lixiviados.
+Bandeja de 
+evaporación 1
+268.365
+6.337.412
+Evaporación superficial de lixiviados.
+Bandeja de 
+evaporación 2
+268.324
+6.337.331
+Evaporación superficial de lixiviados.
+Bandeja de 
+evaporación 3
+268.592
+6.337.231
+Evaporación superficial de lixiviados.
+Zona de mezcla
+267.775
+6.337.335
+Mezcla de material orgánico 
+seleccionado con material 
+estructurante.
+Trincheras de 
+compostaje
+267.693
+6.337.324
+Recepción, fermentación o maduración 
+inicial con aireación forzada y 
+cobertura.
+Pilas de 
+maduración
+267.732
+6.337.251
+Maduración final en galpón cerrado, 
+volteo mecánico y control de humedad.
+
+===== p.10 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 11 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Fuente emisora
+Este (m)
+Norte (m)
+Descripción operacional
+Frente de trabajo 
+relleno sanitario
+268.357
+6.337.244
+Descarga, esparcimiento, compactación 
+y cobertura diaria de residuos.
+Relleno sanitario
+268.108
+6.336.943
+Superficie de disposición final con 
+material de cobertura y emisiones 
+fugitivas residuales.
+4.1.4
+Identificación y caracterización de las fuentes emisoras
+La modelación de odorantes estimó una emisión total de 198.668,77 uoE/s. La principal 
+contribución corresponde al relleno sanitario completo, con 108.528,18 uoE/s, equivalente al 
+55% del total modelado. En segundo orden se encuentran las unidades de manejo de 
+lixiviados, destacando la Piscina de lixiviados 2 y las bandejas de evaporación, por tratarse 
+de superficies líquidas expuestas. El frente de trabajo representa una fuente de mayor 
+intensidad unitaria, pero de superficie acotada, mientras que las fuentes de compostaje 
+presentan menor contribución relativa debido a la incorporación de medidas de abatimiento 
+y a la mayor estabilización del material en maduración.
+Tabla 4. Ranking fuentes emisoras
+Fuente emisora
+TEO final (uoE/s)
+Participación
+Relleno sanitario
+108.528,18
+55%
+Piscina de lixiviados 2
+22.877,18
+12%
+Bandeja de evaporación 3
+17.548,19
+9%
+Piscina de lixiviados 1
+15.700,98
+8%
+Bandeja de evaporación 2
+10.454,02
+5%
+Frente de trabajo relleno 
+sanitario
+8.839,50
+4%
+Bandeja de evaporación 1
+6.817,95
+3%
+Trincheras de compostaje
+4.824,80
+2%
+Zona de mezcla
+1.732,00
+1%
+Pilas de maduración
+122,36 cada una
+0%
+
+===== p.11 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 12 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+4.1.5
+Caracterización del olor
+La caracterización del olor se evalúa considerando el enfoque FIDOL: frecuencia, intensidad, 
+duración, ofensividad y localización. Debido a que el proyecto corresponde a una instalación 
+nueva, no se dispone de mediciones directas de tono hedónico de todas las fuentes; por ello, 
+se adopta un criterio conservador basado en la naturaleza de los procesos.
+Las fuentes principales se asocian al manejo, tratamiento y disposición de residuos sólidos 
+domiciliarios, residuos orgánicos y lixiviados. Por sus características, el olor puede presentar 
+notas  asociadas  a  materia  orgánica  en  descomposición,  lixiviados,  residuos  frescos, 
+fermentación y compuestos reducidos de azufre y nitrógeno, habitualmente asociados a una 
+percepción hedónica negativa. Para efectos del análisis FIDOL se considera una ofensividad 
+alta, aun cuando las unidades incorporan medidas de control operacional y abatimiento.
+Tabla 5. Criterios FIDOL evaluados en el presente PGO
+Factor FIDOL
+Criterio de diagnóstico para el proyecto
+Frecuencia
+Evaluada mediante modelación horaria y percentil 98, 
+considerando emisiones continuas en escenario conservador
+Intensidad
+Relacionada con la concentración de olor modelada en uoE/m³ y 
+la proximidad a fuentes.
+Duración
+Los eventos perceptibles tienden a ser puntuales y disminuyen a 
+medida que aumenta la duración.
+Ofensividad
+Alta, por la naturaleza de residuos, lixiviados y materia orgánica, 
+aunque mitigada por medidas de control.
+Localización
+Fuentes ubicadas dentro del predio; máximos de concentración 
+asociados principalmente al relleno sanitario y manejo de 
+lixiviados.
+4.1.5.1
+Frecuencia
+Según la “Guía para la predicción y evaluación de impactos por olor del SEA”, el parámetro 
+Frecuencia hace referencia a la frecuencia con la que las personas se ven expuestas al olor. 
+En la Tabla 6 se detalla la frecuencia de horas en las que la concentración modelada se 
+clasifica como insignificante, leve, moderada o sustancial durante el período analizado. Se 
+
+===== p.12 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 13 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+asumió  que  los  receptores  tienen  una  sensibilidad  alta,  y  la  clasificación  se  realizó 
+considerando los valores especificados en la siguiente tabla.
+Tabla 6. Tabla de frecuencias de eventos de olor
+Receptor
+Número de horas en un año, por categoría
+Insignificante
+Leve
+Moderado
+Sustancial
+R1
+8.519
+232
+8
+0
+R2
+8.712
+47
+0
+0
+R3
+8.714
+45
+0
+0
+R4
+8.701
+57
+1
+0
+R5
+8.722
+37
+0
+0
+R6
+8.647
+108
+4
+0
+R7
+8.726
+33
+0
+0
+R8
+8.598
+159
+2
+0
+R9
+8.638
+119
+2
+0
+R10
+8.645
+113
+1
+0
+R11
+8.650
+108
+1
+0
+R12
+8.631
+128
+0
+0
+R13
+8.641
+118
+0
+0
+R14
+8.686
+72
+1
+0
+R15
+8.635
+124
+0
+0
+R16
+8.642
+117
+0
+0
+R17
+8.738
+21
+0
+0
+R18
+8.739
+20
+0
+0
+R19
+8.714
+45
+0
+0
+R20
+8.654
+105
+0
+0
+R21
+8.618
+139
+2
+0
+Se observa que la mayoría de las concentraciones horarias modeladas en los receptores son 
+insignificantes, con concentraciones menores a 0,5 uoE/m³. En menor medida, y con 
+porcentajes inferiores al 3% del tiempo, algunos receptores presentan una percepción leve. 
+4.1.5.2
+Intensidad
+La intensidad, otra de las características más importantes del olor, es la fuerza con la que se 
+percibe la sensación de olor.
+Tabla 7. Intensidad y descripción del olor
+
+===== p.13 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 14 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Intensidad
+Descripción
+0
+Sin olor
+1
+Muy débil
+2
+Débil
+3
+Reconocible
+4
+Fuerte
+5
+Muy fuerte
+6
+Extremadamente fuerte
+De acuerdo con la guía este término se refiere a la percepción de la fuerza del olor. La 
+intensidad no está relacionada directamente con la molestia, sino con la fuerza con la que el 
+olor se percibe y se relaciona estrechamente con la concentración del olor. 
+La “Guía para la Predicción y Evaluación de Impactos por Olor en el SEIA” (SEA, 2017), define la 
+intensidad como  “la fuerza con la que el olor se percibe, la cual aumenta en función de la  
+concentración del olor. 
+Dicha intensidad no está relacionada directamente con la molestia, sino que es un parámetro  
+independiente de esta, es decir, se pueden tener intensidades altas de olor que no producen molestia. 
+La intensidad de un olor se determina mediante olfatómetros por panelistas calibrados.”
+En la siguiente figura se muestra la relación entre la percepción del olor y el grado de 
+intensidad de este.
+Figura 3. Escala de intensidad de olor
+Dado que la intensidad está relacionada con la concentración de odorantes, se puede 
+predecir la intensidad del olor en base a las concentraciones modeladas. En relación con 
+esto, en la siguiente tabla se presentan dos correlaciones entre la concentración del olor y su 
+
+===== p.14 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 15 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+nivel de intensidad. Estas dos correlaciones se basan en los modelos de Stevens y de Weber 
+– Fechner.
+Tabla 8. Concentración de olor
+Intensidad
+Concentración de olor modelada
+(OUE/m3)
+Nivel
+Stevens
+Weber - Fechner
+1
+2,2
+2,1
+2
+7,4
+7,0
+3
+24,9
+23,5
+4
+84,0
+75,4
+5
+288,7
+261,5
+6
+974,0
+872,3
+En la Tabla 9 se presenta un análisis de intensidad del olor.
+Tabla 9. Intensidad del olor en los receptores.
+Receptor
+Percepción del Olor 
+Proyectada
+Intensidad del Olor 
+según Stevens
+Intensidad del Olor 
+según Weber - 
+Fechner
+Percentil 98
+Percentil 
+99,5
+P98
+P99,5
+P98
+P99,5
+R1
+Leve
+Leve
+1
+1
+1
+1
+R2
+Insignificante
+Leve
+1
+1
+1
+1
+R3
+Insignificante
+Leve
+1
+1
+1
+1
+R4
+Insignificante
+Leve
+1
+1
+1
+1
+R5
+Insignificante
+Insignificante
+1
+1
+1
+1
+R6
+Insignificante
+Leve
+1
+1
+1
+1
+R7
+Insignificante
+Insignificante
+1
+1
+1
+1
+R8
+Insignificante
+Leve
+1
+1
+1
+1
+R9
+Insignificante
+Leve
+1
+1
+1
+1
+R10
+Insignificante
+Leve
+1
+1
+1
+1
+R11
+Insignificante
+Leve
+1
+1
+1
+1
+R12
+Insignificante
+Leve
+1
+1
+1
+1
+R13
+Insignificante
+Leve
+1
+1
+1
+1
+R14
+Insignificante
+Leve
+1
+1
+1
+1
+
+===== p.15 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 16 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Receptor
+Percepción del Olor 
+Proyectada
+Intensidad del Olor 
+según Stevens
+Intensidad del Olor 
+según Weber - 
+Fechner
+Percentil 98
+Percentil 
+99,5
+P98
+P99,5
+P98
+P99,5
+R15
+Insignificante
+Leve
+1
+1
+1
+1
+R16
+Insignificante
+Leve
+1
+1
+1
+1
+R17
+Insignificante
+Insignificante
+1
+1
+1
+1
+R18
+Insignificante
+Insignificante
+1
+1
+1
+1
+R19
+Insignificante
+Leve
+1
+1
+1
+1
+R20
+Insignificante
+Leve
+1
+1
+1
+1
+R21
+Insignificante
+Leve
+1
+1
+1
+1
+De acuerdo con los resultados obtenidos de la modelación de discretos, tanto para el criterio 
+de Stevens como Weber - Fechner, todos los receptores modelados alcanzarían el nivel 1 de 
+intensidad, catalogado como muy débilmente perceptible.
+4.1.5.3
+Duración
+De acuerdo con la guía este término se refiere al tiempo que las personas están expuestas al 
+olor. Indica el tiempo de un episodio de olor, es decir, cuanto tiempo la concentración de olor 
+se mantiene por sobre el umbral de detección. En la siguiente tabla se hace un análisis por 
+receptor:
+Tabla 10. Duración de los eventos de percepción de olor en los receptores
+ 
+Receptor
+Horas consecutivas
+Total eventos
+1 hora
+2 horas
+3 horas
+Número de eventos que se 
+supera la percepción del olor 
+(1 uoE/m3)
+R1
+30
+2
+1
+33
+R2
+1
+0
+0
+1
+R3
+3
+0
+0
+3
+R4
+4
+0
+0
+4
+R5
+3
+0
+0
+3
+R6
+12
+1
+0
+13
+R7
+1
+0
+0
+1
+R8
+15
+2
+1
+18
+R9
+11
+1
+0
+12
+R10
+9
+2
+0
+11
+R11
+10
+3
+0
+13
+
+===== p.16 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 17 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+ 
+Receptor
+Horas consecutivas
+Total eventos
+1 hora
+2 horas
+3 horas
+R12
+11
+0
+0
+11
+R13
+6
+2
+0
+8
+R14
+7
+1
+0
+8
+R15
+7
+1
+0
+8
+R16
+4
+1
+0
+5
+R17
+1
+0
+0
+1
+R18
+1
+0
+0
+1
+R19
+2
+0
+0
+2
+R20
+7
+0
+0
+7
+R21
+9
+0
+0
+9
+Se observa que, en general, la mayoría de los eventos donde la concentración de olor es 
+perceptible  son  puntuales  y,  a  medida  que  aumenta  la  duración,  disminuye 
+significativamente la cantidad de eventos. En particular, los receptores R1 y R8 son aquellos 
+con mayor número de eventos, dado que corresponden a los receptores más cercanos al 
+Proyecto.
+4.1.5.4
+Ofensividad
+De acuerdo con la Guía para la Predicción y Evaluación de Impactos por Olor en el SEIA, la 
+ofensividad del olor se relaciona con características como la calidad del olor, el tono hedónico 
+y la concentración, pudiendo ser percibido como agradable, neutro o desagradable. En el 
+presente caso, dado que el proyecto corresponde a una iniciativa nueva, no se dispone de 
+mediciones directas mediante olfatometría dinámica ni de una determinación específica del 
+tono hedónico de las fuentes emisoras. Por lo anterior, la ofensividad se analiza de manera 
+cualitativa  y  conservadora,  considerando  la  naturaleza  de las  unidades  con  potencial 
+odorante del proyecto.
+Las principales fuentes de olor corresponden al relleno sanitario, frente de trabajo activo, 
+piscinas de lixiviados, bandejas de evaporación y unidades de compostaje. Estas fuentes se 
+asocian al manejo, tratamiento y disposición de residuos sólidos domiciliarios, residuos 
+orgánicos  y  lixiviados.  Estos  procesos  pueden  generar  compuestos  odorantes  por 
+degradación  de  materia  orgánica  y  manejo  de  líquidos  con  carga  orgánica.  Por  sus 
+características, este tipo de olor puede presentar notas asociadas a materia orgánica en 
+
+===== p.17 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 18 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+descomposición, lixiviados, residuos frescos, fermentación o compuestos reducidos de 
+azufre y nitrógeno, los cuales son normalmente percibidos por la población como olores 
+desagradables.
+En atención a lo anterior, y como criterio precautorio, para efectos del análisis FIDOL se 
+considera que las emisiones odorantes del proyecto presentan una ofensividad alta, aun 
+cuando varias de las unidades cuentan con medidas de control operacional y abatimiento, 
+tales como cobertura del frente de trabajo, cobertura de áreas no activas del relleno 
+sanitario, sistema de nebulización neutralizadora de olores, biofiltro en la zona de mezcla y 
+cobertura en trincheras de compostaje. Esta clasificación permite evaluar el impacto bajo 
+una condición conservadora, evitando subestimar la potencial molestia asociada a olores 
+provenientes de residuos y lixiviados. No obstante, debe considerarse que la ofensividad 
+efectiva en receptores será menor que la condición intrínseca de las fuentes, debido a la 
+distancia a los receptores, la dispersión atmosférica, la disminución de concentraciones en el 
+entorno y la implementación de las medidas de abatimiento consideradas por el proyecto.
+4.1.5.5
+Localización
+La ubicación político-administrativa a nivel Regional, Provincial y Comunal del Proyecto es la 
+siguiente:
+
+Región: Región de Valparaíso
+
+Provincia: Provincia de Valparaíso
+
+Comuna: Viña del Mar
+El “Centro Metropolitano de Gestión Integral de Residuos” se localiza en el kilómetro 102,5 
+de la Ruta 60 - Troncal Sur, que une Viña del Mar con Quilpué, en un predio de 206 ha, de las 
+cuales 63,10 ha serán utilizadas para el desarrollo del Proyecto.
+En la siguiente figura se muestra la ubicación del proyecto respecto a los receptores 
+analizados.
+
+===== p.18 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 19 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Figura 4. Ubicación del proyecto y receptores
+4.1.6
+Identificación de la probabilidad de generar impacto de olor
+La probabilidad de generar impacto se analiza a partir de la combinación entre concentración 
+modelada, cercanía a receptores, duración/frecuencia de eventos y ofensividad del olor. La 
+modelación indica que el área de máxima concentración queda contenida principalmente al 
+interior del predio y en torno a las unidades operacionales del relleno sanitario y tratamiento 
+de lixiviados.
+El área de influencia definida por la isodora de 1 uoE/m³ alcanza aproximadamente 1.946 ha 
+y se extiende principalmente hacia el sur y suroeste del proyecto. 
+
+===== p.19 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 20 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Figura 5. Área de influencia del proyecto
+Según los antecedentes de modelación, no se identifican receptores dentro de dicha área de 
+influencia. En los 21 receptores discretos evaluados, todos los valores modelados cumplen 
+con la norma de referencia utilizada, siendo R1 el receptor con mayor concentración, 0,58 
+uoE/m³, valor inferior al límite de referencia.
+4.2
+Antecedentes entorno a la instalación
+4.2.1
+Identificación de otras fuentes generadoras de olor
+En el entorno inmediato del Proyecto no se identifican otras fuentes relevantes generadoras 
+de olor que puedan incidir en la condición odorante del área de emplazamiento o interferir en 
+la evaluación de las emisiones propias del Proyecto “Centro Metropolitano de Gestión 
+Integral de Residuos”.
+
+===== p.20 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 21 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+De acuerdo con los antecedentes revisados para la caracterización del entorno, no existen 
+instalaciones  industriales,  agroindustriales,  plantas  de  tratamiento  de  aguas  servidas, 
+planteles pecuarios, sitios de disposición de residuos u otras actividades cercanas que 
+presenten  un  potencial  significativo  de  generación  de  emisiones  odorantes.  En 
+consecuencia, la situación odorante del área de influencia se asocia principalmente a las 
+fuentes propias del Proyecto durante su fase de operación.
+4.2.2
+Antecedentes de receptores cercanos
+La modelación de odorantes incorporó 21 receptores discretos evaluados. A continuación, se 
+presenta en la Tabla 11 las coordenadas, y en la Figura 6 la distribución espacial de los 
+receptores discretos. 
+Tabla 11. Coordenadas de receptores discretos
+Receptor 
+Modelación
+Coordenada UTM
+Distancia al 
+perímetro del 
+proyecto (m)
+Descripción
+HUSO 19 S (m)
+Este
+Norte
+R1
+269.106
+6.338.245
+675,84
+Unidad Habitacional
+R2
+269.720
+6.337.883
+830,60
+Unidad Habitacional
+R3
+269.693
+6.337.943
+831,61
+Unidad Habitacional
+R4
+269.474
+6.338.239
+854,46
+Unidad Habitacional
+R5
+269.698
+6.338.012
+869,78
+Unidad Habitacional
+R6
+268.425
+6.338.778
+1.019,43
+Unidad Habitacional
+R7
+269.892
+6.337.986
+1.029,48
+Unidad Habitacional
+R8
+268.958
+6.338.740
+1.065,28
+Unidad Habitacional
+R9
+268.835
+6.339.168
+1.457,68
+Unidad Habitacional
+R10
+268.605
+6.339.270
+1.523,47
+Unidad Habitacional
+R11
+268.380
+6.339.310
+1.541,48
+Unidad Habitacional
+R12
+269.041
+6.339.223
+1.552,56
+Unidad Habitacional
+R13
+269.484
+6.339.070
+1.582,68
+Unidad Habitacional
+R14
+269.886
+6.339.035
+1.744,00
+Unidad Habitacional
+R15
+269.275
+6.339.373
+1.767,43
+Unidad Habitacional
+R16
+269.617
+6.339.383
+1.922,05
+Unidad Habitacional
+R17
+266.964
+6.339.705
+2.134,03
+Unidad Habitacional
+R18
+267.059
+6.339.566
+1.967,82
+Unidad Habitacional
+R19
+267.325
+6.339.487
+1.796,65
+Unidad Habitacional
+R20
+267.702
+6.339.409
+1.639,53
+Unidad Habitacional
+R21
+268.023
+6.339.371
+1.578,80
+Unidad Habitacional
+
+===== p.21 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 22 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Figura 6. Receptores cercanos al Proyecto
+El receptor más cercano a al Proyecto corresponde al R1, el cual se encuentra a 675,84 m de 
+distancia, mientras que el receptor R17 es el que se encuentra más distante del Proyecto a 
+2,13 km aproximadamente.
+4.2.3
+Registro de denuncias por olores
+Al tratarse de un proyecto nuevo, no se cuenta con un historial operacional de denuncias 
+atribuibles al funcionamiento del Centro. Una vez iniciada la operación, se implementará un 
+registro formal de quejas por olor a través de los canales de comunicación oficiales del titular, 
+el  cual  permitirá  identificar  frecuencia,  localización,  condición  meteorológica,  fuente 
+probable y acciones correctivas aplicadas.
+
+===== p.22 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 23 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+4.3
+Antecedentes de emisiones de olor
+4.3.1
+Herramienta diagnóstica
+La modelación de dispersión atmosférica de olores provenientes del proyecto se realizó con 
+un modelo tipo “Puff”, específicamente el modelo CALPUFF. Tal como lo define la guía, los 
+modelos tipo “puff” son una combinación entre los modelos Gaussianos y los modelos 
+Lagrangeanos, en el sentido de que esencialmente calculan la dispersión de contaminantes 
+provenientes de una emisión instantánea, llamada “puff”, a lo largo de una trayectoria.
+Actualmente, en Chile no existe normativa que regule las emisiones de olor. Ante la ausencia 
+de norma nacional específica, se utiliza una referencia internacional como criterio técnico de 
+comparación. Para este caso, se recurrió a consultar la normativa sobre olores de Lombardía. 
+Esta norma se enfoca en limitar el impacto de olor en los receptores al establecer límites de 
+concentración en inmisión para el percentil 98 evaluado para valores horarios en el periodo 
+de 1 año, de acuerdo al tipo de proyecto (nuevo o existente), el tipo de suelo y la distancia 
+desde el receptor a la planta, como se presenta en la Tabla 12.
+Tabla 12. Límite normativo
+Distancia al 
+perímetro de la 
+planta (m)
+Límite de inmisión 
+(uoE/m3)
+Zona Residencial
+Límite de inmisión 
+(uoE/m3)
+Zona Industrial
+Forma de cálculo
+<200
+3,00
+5,00
+Como el percentil 98 de 
+las concentraciones 
+horarias de un año 
+calendario
+200-500
+2,00
+4,00
+>500
+1,00
+3,00
+4.3.2
+Alcance odorante
+La modelación de la situación proyectada consideró emisión continua durante todo el año. La 
+pluma presenta concentraciones entre 1,00 uoE/m³ y 84,73 uoE/m³ en la zona de máximo 
+impacto. El área con concentraciones entre 68,00 y 84,73 uoE/m³ se localiza principalmente 
+dentro del área del proyecto, sobre el sector del relleno sanitario. El área de influencia 
+definida por la isodora de 1 uoE/m³ alcanza 1.946 ha, sin receptores dentro de dicha área 
+
+===== p.23 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 24 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+según el análisis disponible. En la Figura 7 se presenta la pluma de dispersión de odorantes 
+del proyecto.
+Figura 7. Pluma de dispersión de odorantes e isodoras
+Los resultados obtenidos de la modelación de las emisiones de odorantes de la planta fueron 
+comparados con el límite normativo de referencia correspondiente a la norma de Lombardía. 
+En la Tabla 13 se presentan los 21 receptores discretos evaluados, junto con el límite 
+normativo aplicable y las concentraciones modeladas. Se observa que todos los receptores 
+cumplen con la normativa, siendo el receptor R1 el que presenta la mayor concentración, con 
+un valor de 0,58 uoE/m3, lo cual está por debajo del límite de referencia.
+
+===== p.24 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 25 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Tabla 13. Concentración de olores modelados en puntos discretos
+Receptor
+P98 concentración (uoE/m3)
+Cumplimiento
+R1
+0,58
+Si
+R2
+0,28
+Si
+R3
+0,28
+Si
+R4
+0,30
+Si
+R5
+0,26
+Si
+R6
+0,43
+Si
+R7
+0,24
+Si
+R8
+0,47
+Si
+R9
+0,43
+Si
+R10
+0,39
+Si
+R11
+0,41
+Si
+R12
+0,42
+Si
+R13
+0,41
+Si
+R14
+0,28
+Si
+R15
+0,40
+Si
+R16
+0,40
+Si
+R17
+0,24
+Si
+R18
+0,25
+Si
+R19
+0,30
+Si
+R20
+0,42
+Si
+R21
+0,46
+Si
+De  la  tabla  anterior  se  observa  que  el  receptor  R1  presenta  el  valor  máximo  de 
+concentración;  sin  embargo,  ninguno  de  los  receptores  evaluados  supera  los  límites 
+normativos establecidos. 
+4.3.3
+Situación odorante
+A partir de la tabla 4 del Instructivo del Plan de Gestión de olor se identifican 3 niveles de 
+olor, pudiendo ser bajo, medio o alto.
+
+===== p.25 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 26 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Figura 8. Niveles de olor y descripción 
+Fuente: Modificado de Environment Agency (2011). How to comply with your permit – H4 Odour Management
+La situación odorante del proyecto se clasifica como controlada bajo el escenario modelado, 
+dado que los máximos de concentración se ubican al interior del predio, no se identifican 
+receptores dentro del área de influencia y las concentraciones en receptores discretos 
+cumplen con la norma de referencia. No obstante, por la ofensividad intrínseca de residuos y 
+lixiviados, el PGO considera medidas permanentes de prevención, control y contingencia 
+para evitar episodios molestos.
+5
+Medidas a implementar
+5.1
+Planes de trabajo
+Las medidas se organizan por unidad operacional, priorizando aquellas fuentes de mayor 
+contribución odorante y aquellas actividades que, aunque de menor contribución anual, 
+pueden generar eventos puntuales de olor si no se controlan adecuadamente. La síntesis de 
+las medidas, condiciones normales de operación según la fuente de emisión, la frecuencia de 
+implementación y los responsables, se presenta en la Tabla 14.  
+
+===== p.26 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 27 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Tabla 14. Medidas preventivas y control para la generación de olores en la 
+Planta.
+Unidad/actividad
+Medidas preventivas y de control
+Registro asociado
+Relleno sanitario 
+cubierto
+Mantener cobertura operacional de áreas 
+inactivas; inspeccionar grietas, 
+asentamientos, erosión o exposición de 
+residuos; reparar sectores descubiertos; 
+mantener bermas y drenajes.
+Registro diario de 
+inspección de 
+cobertura; registro de 
+reparaciones.
+Frente de trabajo
+Minimizar superficie activa; descarga 
+ordenada; esparcimiento en capas de 20 a 
+30 cm; compactación permanente; cobertura 
+diaria con suelo compactado de 30 cm; 
+prohibir residuos expuestos durante la noche.
+Bitácora de frente de 
+trabajo; registro de 
+cobertura diaria.
+Piscinas de lixiviados
+Mantener niveles operacionales; evitar 
+sobreacumulación; inspeccionar costras, 
+espuma, coloración o condiciones 
+anaeróbicas; mantener sistema de 
+impermeabilización y detección de fugas; 
+aplicar nebulización cuando corresponda.
+Registro de nivel; 
+inspección visual; 
+mantenciones.
+Bandejas de 
+evaporación
+Controlar operación y limpieza; retirar sólidos 
+flotantes; verificar integridad de HDPE; 
+mantener operación del sistema neutralizador 
+de olores.
+Registro de operación y 
+mantención.
+Planta de tratamiento 
+de lixiviados
+Mantener condiciones de diseño, aireación y 
+tratamiento; controlar lodos; evitar 
+acumulación de líquidos en zonas no 
+diseñadas; mantener equipos críticos.
+Bitácora PTLP; registro 
+de parámetros; 
+mantenciones.
+Zona de mezcla 
+compostaje
+Operar en galpón o sector controlado; 
+mantener proporción de estructurante; evitar 
+permanencia prolongada de residuos frescos; 
+operar captación y biofiltro; mantener 
+limpieza.
+Registro de recepción, 
+mezcla, humedad y 
+operación del biofiltro.
+Trincheras de 
+compostaje
+Mantener aireación forzada; cobertura 
+semipermeable; controlar humedad, 
+temperatura y permanencia; revisar 
+Registro de parámetros 
+críticos; inspección de 
+cobertura.
+
+===== p.27 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 28 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Unidad/actividad
+Medidas preventivas y de control
+Registro asociado
+sopladores y membranas.
+Pilas de maduración
+Mantener condiciones aeróbicas, volteo 
+programado y control de humedad; evitar 
+anegamiento o zonas anaeróbicas.
+Bitácora de volteo y 
+humedad.
+Vías y transporte 
+interno
+Mantener rutas limpias; cubrir residuos 
+durante transporte interno cuando aplique; 
+controlar derrames y retiro inmediato de 
+material caído.
+Registro de limpieza y 
+eventos.
+Sistema de 
+nebulización
+Operar en sectores de compostaje, reciclaje, 
+lixiviados, bandejas y frente activo según 
+condiciones operacionales y meteorológicas; 
+mantener dosificación y boquillas.
+Registro de operación, 
+consumo de producto y 
+mantenciones.
+5.2
+Medidas específicas de abatimiento
+El proyecto considera medidas de abatimiento y control orientadas a reducir la exposición de 
+las fuentes al aire ambiente y favorecer la neutralización, contención o tratamiento de 
+compuestos responsables del olor. Para efectos de modelación se adoptaron eficiencias 
+conservadoras según las condiciones reales de operación.
+Tabla 15. Medidas de abatimiento
+Medida
+Aplicación
+Criterio de operación
+Nebulización con 
+neutralizador de 
+olores
+Perímetro y sectores asociados 
+a compostaje, reciclaje, planta 
+de lixiviados, piscinas, 
+bandejas de evaporación y 
+frente activo del relleno 
+sanitario.
+Activación preventiva durante 
+recepción de residuos frescos, 
+operación de frente activo, condiciones 
+de baja ventilación, reclamos o 
+aumentos perceptibles de olor.
+Biofiltro
+Tratamiento de aire 
+proveniente del galpón de 
+mezcla.
+Mantener humedad, flujo, pérdida de 
+carga y condición del lecho biológico 
+dentro de rangos de operación.
+
+===== p.28 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 29 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Medida
+Aplicación
+Criterio de operación
+Cobertura 
+semipermeable en 
+trincheras
+Trincheras de compostaje.
+Mantener cobertura íntegra, revisar 
+roturas, asegurar aireación y evitar 
+acumulación de lixiviados o zonas 
+anaeróbicas.
+Cobertura 
+operacional del 
+relleno sanitario
+Áreas inactivas y frente de 
+trabajo al cierre de jornada.
+Cobertura diaria, compactación y 
+reparación de sectores expuestos.
+Captación y 
+tratamiento de 
+biogás
+Zona de disposición final.
+Inspección de chimeneas, conducción 
+y equipos de tratamiento de biogás.
+5.3
+Comunicación con la comunidad
+El titular implementará un procedimiento de comunicación para recibir, registrar, investigar y 
+responder quejas por olor. El mecanismo deberá ser conocido por la comunidad y considerar, 
+al menos, un canal telefónico y/o correo electrónico, identificación de responsable, plazo de 
+respuesta y trazabilidad del cierre.
+Tabla 16. Registro de quejas
+REGISTRO DE QUEJAS POR OLORES
+A) Identificación del reclamo (uso interno)
+N° de reclamo
+ 
+Medio de ingreso (teléfono, presencial, otro)
+ 
+Persona que recibe el reclamo
+ 
+Área responsable
+ 
+B) Completar por denunciante
+Datos del denunciante
+Nombre completo
+ 
+Dirección
+ 
+Sector
+ 
+Teléfono
+ 
+Datos del evento
+Fecha y hora
+ 
+Duración estimada
+ 
+
+===== p.29 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 30 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+REGISTRO DE QUEJAS POR OLORES
+Lugar donde estaba el denunciante (interior 
+vivienda, exterior, via pública, otro)
+ 
+Frecuencia del problema
+ 
+Descripción del olor (según denunciante)
+Tipo de olor percibido
+ 
+Intensidad del olor (escala 0–5)
+ 
+Comentarios adicionales del denunciante
+ 
+Condiciones climáticas
+Temperatura
+ 
+intensidad viento
+ 
+Dirección viento
+ 
+C) Completar por empresa
+¿Se considera probable que provenga de la 
+empresa?
+ 
+Nivel de producción al momento del evento
+ 
+Equipos operando
+ 
+Incidentes/falla registrada
+ 
+Medidas adoptadas y resultados
+ 
+Registro fotográfico de las acciones implementadas
+ 
+6
+Programa de seguimiento y control
+6.1
+Descripción de las medidas adoptadas en cada etapa
+El  programa  de  seguimiento  y  control  tiene  por  finalidad  verificar  que  las  medidas 
+preventivas, de control y de contingencia definidas en el presente Plan de Gestión de Olores 
+sean implementadas de manera efectiva durante la operación del Proyecto. Asimismo, busca 
+comprobar que las unidades con potencial de generación de olor se mantengan bajo 
+condiciones  operacionales  adecuadas,  evitando  desviaciones  que  puedan  favorecer  la 
+emisión de olores molestos hacia el entorno.
+El seguimiento se enfocará principalmente en las etapas operacionales donde existe mayor 
+probabilidad de generación de olor, tales como la recepción y manejo de residuos, operación 
+del frente de trabajo del relleno sanitario, manejo y tratamiento de lixiviados, operación de la 
+planta de compostaje, funcionamiento de sistemas de abatimiento y atención de eventuales 
+quejas de la comunidad.
+
+===== p.30 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 31 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Las medidas adoptadas se agrupan de acuerdo con las principales etapas o actividades del 
+Proyecto, según se indica a continuación:
+Recepción y transporte interno de residuos: Durante esta etapa se controlará el 
+ingreso ordenado de residuos, el tránsito de camiones por vías habilitadas, la limpieza de 
+rutas internas y la prevención de derrames o caída de material durante el transporte. En caso 
+de detectarse residuos dispersos, estos deberán ser retirados oportunamente para evitar su 
+acumulación y eventual generación de olores.
+Operación del frente de trabajo del relleno sanitario: El seguimiento verificará que el 
+frente  activo  mantenga  una  superficie  acotada,  que  los  residuos  sean  descargados, 
+esparcidos y compactados de forma continua, y que se aplique la cobertura diaria al término 
+de la jornada. Estas medidas buscan reducir la exposición de residuos frescos al aire 
+ambiente y disminuir la probabilidad de emisión de olores asociados a la degradación de 
+materia orgánica.
+Áreas cubiertas o inactivas del relleno sanitario: Se realizará control periódico de la 
+integridad  de  la  cobertura  operacional  o  final,  verificando  la  ausencia  de  grietas, 
+asentamientos, erosión, exposición de residuos o puntos de emisión fugitiva. En caso de 
+identificarse  sectores  deteriorados,  se  deberán  ejecutar  acciones  de  reparación, 
+compactación o reposición de material de cobertura.
+Manejo y tratamiento de lixiviados: En piscinas, bandejas de evaporación, sistemas de 
+conducción y planta de tratamiento de lixiviados, el seguimiento considerará la revisión de 
+niveles operacionales, presencia de espuma, costras, sólidos flotantes, acumulaciones no 
+previstas, fallas de bombeo, fugas o condiciones anaeróbicas. Además, se verificará la 
+operación de los sistemas de control de olores, tales como nebulización, mantención de 
+equipos y limpieza de unidades críticas.
+Operación de la planta de compostaje: El control se orientará a mantener condiciones 
+aeróbicas durante las etapas de mezcla, bioestabilización y maduración. Para ello, se 
+revisarán parámetros como humedad, temperatura, aireación, volteo, permanencia del 
+material y proporción de estructurante. También se verificará el correcto funcionamiento de 
+
+===== p.31 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 32 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+sistemas  de  abatimiento  asociados,  tales  como  biofiltro,  cobertura  semipermeable, 
+ventilación o sistemas de captación, según corresponda.
+Sistemas de abatimiento y control de olores: Se verificará periódicamente el estado 
+operativo de los sistemas de nebulización, biofiltro, cobertura de trincheras, cobertura del 
+relleno sanitario y captación o tratamiento de biogás. La revisión considerará aspectos como 
+continuidad operacional, mantención preventiva, disponibilidad de insumos, integridad de 
+componentes, registros de operación y respuesta ante fallas.
+El cumplimiento de estas medidas será respaldado mediante bitácoras operacionales, listas 
+de  chequeo,  registros  de  mantención,  registros  de  parámetros  críticos,  evidencias 
+fotográficas cuando corresponda y formularios de atención de quejas. La información 
+recopilada  permitirá  evaluar  la  efectividad  del  PGO,  identificar  tendencias,  detectar 
+desviaciones recurrentes y definir acciones de mejora continua.
+6.2
+Ubicación de los puntos de control
+Los puntos de control se ubicarán en fuentes emisoras y sectores de potencial percepción. 
+Como mínimo, se considerarán puntos internos en relleno sanitario, frente de trabajo, 
+piscinas de lixiviados, bandejas de evaporación, planta de tratamiento de lixiviados, zona de 
+mezcla, trincheras, pilas de maduración, acceso principal y perímetro del proyecto hacia la 
+dirección de desplazamiento predominante de la pluma.
+Tabla 17. Puntos de control dentro del Proyecto
+Punto de control
+Objetivo
+Frente de trabajo relleno sanitario
+Verificar compactación, cobertura diaria y olores 
+asociados a residuos frescos.
+Relleno sanitario cubierto
+Verificar integridad de cobertura y emisiones fugitivas.
+Piscinas de lixiviados
+Verificar niveles, condiciones anaeróbicas y operación 
+de control de olores.
+Bandejas de evaporación
+Verificar limpieza, condición superficial y sistema 
+neutralizador.
+
+===== p.32 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 33 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Punto de control
+Objetivo
+Zona de mezcla compostaje
+Verificar permanencia, proporción de estructurante y 
+operación de biofiltro.
+Trincheras de compostaje
+Verificar aireación, cobertura y parámetros críticos.
+Pilas de maduración
+Verificar humedad, volteo y ausencia de condiciones 
+anaeróbicas.
+Perímetro sur/suroeste
+Verificar percepción en dirección principal de 
+dispersión.
+Acceso principal
+Control de olores asociados a transporte y recepción.
+6.3
+Definir herramientas de evaluación
+Se verificará la efectividad de las medidas de prevención y control de olores implementadas 
+en  el  Proyecto,  se  considerará  el  uso  de  herramientas  de  evaluación  operacional  y 
+perceptual, orientadas a detectar oportunamente desviaciones en las condiciones normales 
+de funcionamiento de las unidades con potencial odorante.
+Las herramientas de evaluación estarán enfocadas principalmente en la inspección periódica 
+de las fuentes emisoras, el control de parámetros operacionales críticos, la revisión de 
+registros internos y el análisis de eventuales quejas o reclamos asociados a olores. Estas 
+herramientas permitirán mantener un seguimiento sistemático del desempeño odorante del 
+Proyecto y adoptar acciones correctivas en caso de identificarse condiciones que puedan 
+favorecer la generación de olores molestos.
+Tabla 18. Herramientas de evaluación para el seguimiento
+Herramienta
+Aplicación
+Resultado esperado
+Inspección sensorial interna
+Recorridos por puntos de control 
+y fuentes críticas.
+Detección temprana de 
+olores anómalos.
+Lista de chequeo 
+Verificación diaria/semanal de 
+Cumplimiento documental 
+
+===== p.33 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 34 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Herramienta
+Aplicación
+Resultado esperado
+operacional
+medidas.
+del PGO.
+Registro de parámetros de 
+compostaje
+Temperatura, humedad, 
+aireación, volteo y permanencia.
+Mantener condiciones 
+aeróbicas.
+Registro PTLP y lixiviados
+Niveles, bombas, lodos, operación 
+y mantenciones.
+Prevenir condiciones 
+odorantes por acumulación o 
+fallas.
+Registro meteorológico
+Dirección y velocidad de viento, 
+temperatura y observaciones.
+Apoyo a investigación de 
+quejas.
+Sistema de quejas
+Recepción, investigación y cierre.
+Trazabilidad y mejora 
+continua.
+Revisión de 
+modelación/actualización
+Cuando cambien fuentes, 
+superficies o tecnología.
+Ajuste del diagnóstico y 
+medidas.
+6.4
+Definir frecuencia de control
+La frecuencia de control de las medidas asociadas a la gestión de olores será definida en 
+función del potencial odorante de cada unidad operacional, la criticidad del proceso, la 
+continuidad de operación y la probabilidad de generación de episodios de olor. De esta 
+forma, las actividades con mayor potencial de emisión, tales como la disposición de residuos, 
+el manejo de lixiviados, el compostaje y la gestión de biogás, contarán con controles de 
+mayor periodicidad.
+El seguimiento deberá permitir verificar que las condiciones operacionales se mantengan 
+dentro de rangos adecuados, detectar oportunamente desviaciones y aplicar acciones 
+correctivas antes de que se generen molestias por olor en el entorno. Para ello, se 
+establecerán frecuencias mínimas de inspección, registro y revisión, las cuales podrán ser 
+ajustadas en caso de contingencias, reclamos de la comunidad, fallas operacionales o 
+cambios relevantes en las condiciones de operación del Proyecto.
+
+===== p.34 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 35 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Tabla 19. Frecuencia de control de las actividades de seguimiento
+Actividad de seguimiento
+Frecuencia mínima
+Responsable
+Inspección del frente de trabajo y 
+cobertura diaria
+Diaria, al cierre de 
+jornada
+Supervisor relleno 
+sanitario
+Inspección de relleno cubierto y 
+emisiones fugitivas
+Semanal y posterior a 
+eventos de lluvia/viento
+Jefe de relleno
+Control de piscinas de lixiviados y 
+bandejas de evaporación
+Diaria en operación
+Supervisor Planta de 
+Lixiviado
+Registro de parámetros de compostaje
+Diaria o por lote, según 
+operación
+Supervisor compostaje
+Revisión del sistema de nebulización
+Semanal y cuando se 
+active por contingencia
+Mantención / Ambiental
+Revisión de biofiltro
+Semanal; parámetros 
+según manual de 
+operación
+Supervisor compostaje
+Consolidado de quejas y eventos
+Mensual
+Encargado ambiental
+Revisión integral del PGO
+Anual o posterior a 
+cambios relevantes
+Encargado ambiental
+En caso de reclamo por olor, se activará una inspección inmediata y se aumentará la 
+frecuencia de control en el área asociada hasta verificar normalización.
+6.5
+Documentar el control y seguimiento
+Toda  actividad  de  control  debe  quedar  respaldada  mediante  registros  trazables  y 
+verificables, los cuales serán almacenados en formato físico o digital por un período definido 
+por la empresa.
+Registros mínimos:
+
+Bitácora operacional diaria.
+
+===== p.35 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 36 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+
+Registro de mantenciones (fecha, equipo, actividad, responsable).
+
+Registro de limpieza y retiro de residuos.
+
+Registro de reclamos (formato “Registro de Quejas por Olores”).
+
+Evidencias fotográficas cuando corresponda.
+Los registros serán revisados periódicamente por el responsable ambiental y/o jefatura de 
+planta para detectar desviaciones y oportunidades de mejora.
+6.6
+Capacitación y competencias del personal en roles críticos
+El personal que participa en actividades de recepción, disposición, tratamiento de lixiviados, 
+compostaje,  mantención  y  atención  de  quejas  deberá  recibir  capacitación  inicial  y 
+actualización anual en materias de gestión de olores.
+7
+Programa de contingencia
+7.1
+Desviación de indicadores
+Se entenderá como desviación cualquier condición que aumente la probabilidad de emisión 
+odorante, tales como percepción de olor intensa en puntos internos o perímetro, aumento de 
+quejas, falla de sistemas de abatimiento, ausencia de cobertura diaria, acumulación anormal 
+de lixiviados, baja aireación en compostaje o presencia de zonas anaeróbicas.
+Tabla 20. Desviación de indicadores
+Desviación
+Acción inmediata
+Seguimiento
+Olor  intenso  en  fuente 
+crítica
+Inspección de la unidad, identificación 
+de causa y activación de medidas de 
+control.
+Registrar
+ 
+evento, 
+responsable,  hora  de 
+inicio/cierre  y  medida 
+aplicada.
+Falla de nebulización
+Reparar  sistema;  aplicar  medidas 
+alternativas de reducción de exposición 
+si corresponde.
+Registro de mantención y 
+verificación
+ 
+de 
+funcionamiento.
+Cobertura insuficiente en Aplicar
+ 
+cobertura
+ 
+adicional
+ 
+y Inspección  al  cierre  de 
+
+===== p.36 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 37 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Desviación
+Acción inmediata
+Seguimiento
+relleno
+compactar.
+jornada.
+Condiciones  anaeróbicas 
+en compostaje
+Ajustar humedad, aireación, proporción 
+de estructurante y volteo.
+Registro  de  parámetros 
+hasta normalización.
+Aumento de quejas
+Activar
+ 
+investigación,
+ 
+revisión 
+meteorológica y operativo de fuentes.
+Informe  de  cierre  y 
+medidas preventivas.
+7.2
+Fallas operacionales
+Las fallas operacionales corresponden a desviaciones en el funcionamiento normal de los 
+procesos y equipos que pueden incrementar el riesgo de emisión de olores y generar 
+molestias en la comunidad. Estas fallas pueden originarse por deficiencias en la operación, 
+errores en la ejecución de procedimientos, falta de mantención preventiva, fallas mecánicas 
+o interrupciones no programadas. 
+Ante su ocurrencia, se deberá activar el programa de contingencia, identificando el área 
+afectada, evaluando la causa, aplicando medidas correctivas inmediatas para controlar la 
+emisión. Asimismo, se deberán registrar las acciones ejecutadas, notificar a la jefatura 
+correspondiente y, en caso de ser necesario, informar a la autoridad competente y a la 
+comunidad según el nivel de impacto del evento.
+Tabla 21. Medidas preventivas
+Falla operacional
+Medidas preventivas
+Medidas de respuesta
+Daño  al  sistema  de 
+bombeo de lixiviados
+Mantención  preventiva;  revisión 
+periódica;  bombas  de  respaldo; 
+capacitación.
+Activar  bomba  de  respaldo  o 
+camión  de  retiro;  evitar 
+sobrellenado; registrar y reparar.
+Taponamiento
+ 
+de 
+drenes de lixiviados
+Inspección y limpieza programada; 
+control de sólidos.
+Destapar dren; controlar niveles; 
+evaluar  recirculación  o  retiro 
+temporal.
+Fuga  o  derrame  de Inspección de impermeabilización y Contener,  recuperar  líquido, 
+
+===== p.37 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 38 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Falla operacional
+Medidas preventivas
+Medidas de respuesta
+lixiviados
+líneas; control de niveles.
+limpiar área, disponer residuos y 
+registrar causa.
+Falla  de  aireación  en 
+trincheras
+Mantención de sopladores; alarmas 
+y revisión de funcionamiento.
+Restituir aireación; reducir carga; 
+aumentar estructurante o volteo 
+según corresponda.
+Falla de biofiltro
+Mantención  de  ventiladores, 
+humidificación y lecho.
+Derivar,  reducir  operación  de 
+mezcla si corresponde y reparar.
+Incendio  o  evento 
+mayor
+Plan  de  emergencia,  equipos  de 
+extinción y capacitación.
+Activar plan de emergencia, aislar 
+fuente,  controlar  seguridad  y 
+evaluar  afectación  odorante 
+posterior.
+7.3
+Quejas de la comunidad
+Ante la recepción de una queja por olor, se activará el siguiente procedimiento: registro del 
+caso, verificación de condiciones meteorológicas, inspección de fuentes críticas, revisión de 
+operación durante el periodo informado, definición de fuente probable, aplicación de 
+medidas correctivas si corresponde, comunicación al reclamante y cierre documentado.
+Tabla 22. Registro de quejas por olor
+REGISTRO DE QUEJAS POR OLORES
+A) Identificación del reclamo (uso interno)
+N° de reclamo
+ 
+Medio de ingreso (teléfono, presencial, otro)
+ 
+Persona que recibe el reclamo
+ 
+Área responsable
+ 
+B) Completar por denunciante
+Datos del denunciante
+Nombre completo
+ 
+Dirección
+ 
+Sector
+ 
+Teléfono
+ 
+Datos del evento
+
+===== p.38 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 39 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+REGISTRO DE QUEJAS POR OLORES
+Fecha y hora
+ 
+Duración estimada
+ 
+Lugar donde estaba el denunciante (interior 
+vivienda, exterior, via pública, otro)
+ 
+Frecuencia del problema
+ 
+Descripción del olor (según denunciante)
+Tipo de olor percibido
+ 
+Intensidad del olor (escala 0–5)
+ 
+Comentarios adicionales del denunciante
+ 
+Condiciones climáticas
+Temperatura
+ 
+intensidad viento
+ 
+Dirección viento
+ 
+C) Completar por empresa
+¿Se considera probable que provenga de la 
+empresa?
+ 
+Nivel de producción al momento del evento
+ 
+Equipos operando
+ 
+Incidentes/falla registrada
+ 
+Medidas adoptadas y resultados
+ 
+Registro fotográfico de las acciones implementadas
+ 
+8
+Revisión del plan de gestión de olor
+El PGO deberá revisarse al menos una vez al año, y extraordinariamente cuando se 
+produzcan cambios relevantes en las fuentes de emisión, modificación de superficies 
+operativas, incorporación o retiro de tecnologías de abatimiento, aumento sostenido de 
+reclamos, contingencias significativas o nuevos antecedentes de modelación/monitoreo. La 
+revisión deberá documentar la versión del plan, fecha, responsables, cambios realizados y 
+justificación técnica.
+Tabla 23. Acciones por realizar para la revisión del PGO
+Causal de revisión
+Acción esperada
+Cambio de diseño u operación
+Actualizar diagnóstico de fuentes, medidas y puntos de 
+control.
+
+===== p.39 =====
+ESTUDIO DE IMPACTO AMBIENTAL
+PLAN DE GESTIÓN DE OLOR
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS”
+Página 40 de 40
+  
+Concepción
+Chile
+Santiago
+Chile
+Los Pensamientos 197, San Pedro 
+de la Paz
++(56 41) 2287848
+www.dss.cl
+Marchant Pereira 150 Oficina 502, 
+Providencia.
++(56 9) 23746505
+Causal de revisión
+Acción esperada
+Nuevas fuentes odorantes
+Incorporar identificación, medidas y seguimiento.
+Reclamos recurrentes
+Analizar causa raíz y reforzar medidas o comunicación.
+Resultados de seguimiento 
+desfavorables
+Implementar plan de mejora y verificar efectividad.
+Nueva modelación o normativa 
+aplicable
+Actualizar criterios de evaluación y alcance del PGO.

@@ -1,0 +1,3614 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO DE 
+GESTIÓN INTEGRAL DE RESIDUOS 
+CMGIR
+LINEA DE BASE FLORA NO VASCULAR
+Consolidado
+ 2024-2025
+Elaborado por
+Octubre, 2025
+
+===== p.1 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 2 de 61
+ELABORACIÓN 
+Elaborado por
+Aprobado por
+Constanza Avendaño Opazo
+Sebastián Coloma
+Investigadora en Flora No vascular 
+Especialista en flora y vegetación
+Administrador de Contrato
+REVISIONES
+Rev.
+Revisado por
+Revisado por
+Aprobado por
+Descripción
+Nombre
+A
+Cargo
+Nombre
+B
+Cargo
+Nombre
+C
+Cargo
+Nombre
+0
+Cargo
+
+===== p.2 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 3 de 61
+CONTENIDO
+RESUMEN..............................................................................................................................................6
+1.
+INTRODUCCIÓN...........................................................................................................................8
+2.
+OBJETIVOS.....................................................................................................................................9
+2.1.
+Objetivo general................................................................................................................9
+2.2.
+Objetivos específicos.........................................................................................................9
+3.
+MATERIALES Y MÉTODOS...........................................................................................................10
+3.1.
+Descripción del área de estudio...................................................................................10
+3.2.
+Área de influencia del componente flora no vascular..............................................11
+3.3.
+Marco biogeográfico......................................................................................................12
+3.4.
+Hongos...............................................................................................................................13
+3.5.
+Líquenes.............................................................................................................................14
+3.6.
+Briofitas...............................................................................................................................14
+3.7.
+Revisión bibliográfica.......................................................................................................15
+3.8.
+Levantamiento de información en terreno..................................................................15
+3.9.
+Planificación del trabajo.................................................................................................15
+3.10.
+Fotointerpretación de imágenes satelitales.................................................................16
+3.11.
+Diseño de muestreo.........................................................................................................16
+3.12.
+Tipos de sustratos utilizados por hongos, líquenes y briófitas......................................17
+3.13.
+Riqueza..............................................................................................................................22
+3.14.
+Colecta e Identificación taxonómica..........................................................................22
+3.15.
+Categorías de Conservación y Singularidades ambientales....................................24
+4.
+RESULTADOS............................................................................................................................... 29
+4.1.
+Revisión de antecedentes y bibliografía......................................................................29
+4.2.
+Resultados generales.......................................................................................................44
+4.3.
+Singularidades Ambientales...........................................................................................52
+4.4.
+Estado de Conservación.................................................................................................53
+4.5.
+Análisis climático y su implicancia ecológica en la flora no vascular......................54
+5.
+CONCLUSIONES.........................................................................................................................56
+6.
+REFERENCIAS..............................................................................................................................58
+
+===== p.3 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 4 de 61
+ÍNDICE DE TABLAS
+Tabla 3-1. Esfuerzo de muestreo componente Hongos, Líquenes y Briofitas en invierno 2024 y 
+otoño 2025........................................................................................................................................15
+Tabla 3-2. Georreferencia de los puntos de muestreo del proyecto en la campaña de 
+invierno 2024 y otoño 2025..............................................................................................................20
+Tabla 3-3. Puntos de muestreo con hallazgos de Hongos en el área del proyecto en las 
+campañas de invierno 2024 y otoño 2025...................................................................................20
+Tabla 3-4. Puntos de muestreo con hallazgos de Líquenes en el área del proyecto en las 
+campañas de invierno 2024 y otoño 2025...................................................................................21
+Tabla 3-5. Puntos de muestreo con hallazgos de Briofitas en el área del proyecto en las 
+campañas de invierno 2024 y otoño 2025...................................................................................21
+Tabla 3-6.  Tipologías definidas por la Unión Internacional para la Conservación de la 
+Naturaleza (UICN, 2001). Categorías de Conservación de Especies Según DS N°29/2012...26
+Tabla 3-7. Clasificación de especies potenciales del Reino Fungi (Hongo y Líquenes) en el 
+área del proyecto............................................................................................................................28
+Tabla 4-1. Especies de Hongos registradas en la Zona Central de Chile.................................34
+Tabla 4-2. Especies de Hongos con potencial presencia en área del Proyecto en Categoría 
+de Conservación..............................................................................................................................37
+Tabla 4-3. Especies de Líquenes Registradas en la Zona Central de Chile..............................38
+Tabla 4-4. Especies de Líquenes con potencial presencia en el área del Proyecto..............40
+Tabla 4-5. Especies de Briófitas registradas en la zona Central de Chile.................................43
+Tabla 4-6. Especies de Briófitas con potencial presencia en área del Proyecto....................44
+Tabla 4-7. Caracterización y distribución de hongos en el área de proyecto (invierno 2024 – 
+otoño 2025).......................................................................................................................................47
+Tabla 4-8. Especies de hongos identificadas en el área del Proyecto.....................................47
+Tabla 4-9. Caracterización y distribución de los líquenes en el área del proyecto (invierno 
+2024 – otoño 2025)...........................................................................................................................49
+Tabla 4-10. Posición Taxonómica de las muestras de líquenes recolectadas.........................49
+Tabla 4-11. Caracterización de briofitas en el área del proyecto (invierno 2024 – otoño 2025)
+............................................................................................................................................................51
+Tabla 4-12. Especies de Briófitas Identificadas en el área del Proyecto invierno 2024 y otoño 
+2025....................................................................................................................................................51
+Tabla 4-13. Especies de Briófitas con potencial presencia en AI del Proyecto.......................54
+
+===== p.4 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 5 de 61
+ÍNDICE DE FIGURAS
+Figura 3-1 Área de Estudio, Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+CMGIR................................................................................................................................................11
+Figura 4-1. Puntos con hallazgos de hongos dentro del área del proyecto – Campaña otoño 
+2025....................................................................................................................................................48
+Figura 4-2. Puntos con hallazgos de líquenes dentro del área del proyecto..........................50
+Figura 4-3. Puntos con hallazgos de briofitas dentro del área de proyecto............................52
+Figura 4-4. Representación de familia de hongos en el área del proyecto............................55
+Figura 4-5. Representación de familia de líquenes en el área del proyecto..........................56
+
+===== p.5 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 6 de 61
+RESUMEN
+El siguiente documento corresponde al proyecto "Centro Metropolitano de Gestión Integral 
+de Residuos CMGIR”, impulsado por Ebi y COSEMAR S.A., el que se ubica en la comuna de 
+Viña del Mar, región de Valparaíso. El estudio fue desarrollado en las estaciones de invierno 
+2024  (septiembre)  y  otoño  2025  (mayo),  correspondiente  a  la  línea  de  base  del 
+componente flora no vascular de la Evaluación de Impacto Ambiental (EIA) del proyecto.
+La línea de base del componente flora no vascular tiene como objetivo caracterizar la flora 
+no  vascular  —compuesta  por  hongos,  líquenes  y  briófitas—  presente  en  el  Área  de 
+Influencia  del  proyecto,  mediante  la  identificación  taxonómica  de  los  ejemplares 
+observados, así como la descripción de sus hábitos ecológicos y funciones ecosistémicas. 
+Asimismo, las campañas de terreno se llevaron a cabo en el periodo de invierno 2024 (10 al 
+13 de septiembre) y otoño 2025 (12 al 15 de mayo), considerando 4 días efectivos de trabajo 
+con 2 profesionales de las ciencias biológicas.
+Se  implementó  un  muestreo  dirigido,  basado  en  recorridos  pedestres  sistemáticos, 
+orientados a maximizar la detección de flora no vascular en distintos tipos de sustrato y 
+microhábitats. Durante el trabajo de campo se realizó el registro in situ de los ejemplares 
+observados y colectados, acompañando cada recolección con datos asociados a su 
+ubicación,  tipo  de  sustrato,  condiciones  ambientales  y  características  morfológicas 
+relevantes. Los puntos de muestreo fueron distribuidos estratégicamente con el objetivo de 
+cubrir la totalidad de las formaciones vegetacionales presentes en el Área de Influencia, 
+garantizando representatividad espacial y ecológica del área evaluada, siendo realizados 
+25 puntos de muestreo en la campaña de invierno 2024 y 38 puntos de muestreo en la 
+campaña de otoño 2025.
+En el área de influencia y de estudio del proyecto, considerando las campañas de invierno 
+2024 y otoño 2025, se registraron en total 8 taxa de hongos, 4 taxa de líquenes y 4 taxa de 
+briofitas, con un total de 16 especies de flora no vascular identificadas. Los registros 
+obtenidos de ambas campañas permitieron determinar el dominio de vegetación en 
+donde se encuentran las especies, de acuerdo con los pisos vegetacionales de Leubert y 
+Pliscoff (2017), siendo el Bosque esclerófilo mediterráneo costero de  Lithraea caustica y 
+Cryptocarya alba y el Boque  esclerófilo mediterráneo costero de Cryptocarya alba y 
+Peumus boldus.
+Se identificaron  especies de hongos, líquenes y briofitas en categoría de “No Evaluado 
+(NE)”, según decretos del Ministerio del Medio Ambiente. 
+Por otro lado, se evaluó el riesgo de incendios forestales en sectores con bosque nativo 
+dentro de la comuna de Viña del Mar, integrando antecedentes históricos y proyecciones 
+futuras. La sensibilidad del bosque ante incendios se estimó considerando tres factores 
+principales: actividad humana (densidad poblacional, viviendas y caminos), topografía 
+
+===== p.6 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 7 de 61
+(elevación, pendiente, latitud y longitud), y cobertura del suelo (proporciones de bosque 
+nativo, plantaciones, cultivos, matorrales, praderas, entre otros).
+A partir de estos criterios, se determinó que la comuna presenta una sensibilidad “Muy Alta” 
+a incendios forestales que podrían afectar al bosque nativo y su biodiversidad.
+
+===== p.7 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 8 de 61
+1.
+INTRODUCCIÓN
+El  presente  documento  corresponde  a  la  caracterización  del  componente  Flora  No 
+Vascular, solicitada por el titular COSEMAR S.A. a la consultora Geoverde SpA, en el marco 
+del proyecto “Centro Metropolitano de Gestión Integral de Residuos CMGIR”. Este estudio se 
+orienta principalmente al levantamiento de información sobre la presencia o ausencia de 
+especies  de  hongos,  líquenes  y  briofitas  en  alguna  categoría  de  conservación,  y  su 
+susceptibilidad ante la ejecución del proyecto.
+El proyecto, se desarrollará en la comuna de Viña del Mar, provincia de Valparaíso, ubicado 
+al sureste de dicha ciudad y al suroeste de Quilpué, a una altitud aproximada de 280 metros 
+sobre el nivel del mar.
+La iniciativa consiste en la gestión de residuos, principalmente de origen domiciliario. Dentro 
+de su planificación se contempla una zona central de excavación de 69,77 hectáreas. 
+Adicionalmente,  incluye  la  construcción  de  un  camino  con  una  superficie  de  8,37 
+hectáreas, el área de proyecto se inserta un predio de 206 hectáreas.
+Este informe reporta los resultados de dos campañas realizadas: 12 y 15 de septiembre del 
+año 2024 y 12 al 15 de mayo de 2025.
+Este informe ha sido elaborado conforme a lo establecido en la Resolución Exenta N° 
+223/2015 de la Superintendencia de Medio Ambiente (SMA), la cual entrega directrices 
+generales para la elaboración del Plan de Seguimiento de Variables Ambientales, los 
+Informes de Seguimiento Ambiental, el envío de información al Sistema Electrónico de 
+Seguimiento Ambiental, así como el uso de la Guía para la Descripción de Ecosistemas 
+Terrestres del Servicio de Evaluadeción Ambiental (SEA) y los criterios para la participación 
+de CONAF en el Sistema de Evaluación de Impacto Ambiental (SEIA).
+
+===== p.8 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 9 de 61
+2.
+OBJETIVOS
+2.1.
+Objetivo general
+Recolectar  y  sistematizar,  a  partir  de  los  datos  obtenidos  durante  2  campañas  de 
+prospección en terreno la información necesaria para describir y evaluar la identificación, 
+localización, patrones de distribución, diversidad específica y estado de conservación —
+según corresponda— de las especies criptógamas, es decir, aquellas pertenecientes a la 
+micobiota (hongos, líquenes) y a los grupos de briófitas presentes dentro del Área de 
+Influencia del Proyecto.
+2.2.
+Objetivos específicos
+
+Realizar la determinación taxonómica de las muestras recolectadas en terreno, 
+identificándolas al nivel más preciso posible (género o especie) de 2 campañas.
+
+Establecer la localización geográfica de las especies mediante la utilización de 
+dispositivos GPS, registrando las coordenadas de cada punto de muestreo bajo el 
+sistema de referencia UTM, datum WGS84, huso 19.
+
+Cuantificar y caracterizar la riqueza y diversidad taxonómica de hongos, líquenes y 
+briófitas presentes en el área evaluada.
+
+Examinar  los  patrones  de  distribución  espacial  y  ecológica  de  las  especies 
+detectadas, a través de la revisión y contraste con literatura científica especializada 
+y bases de datos disponibles.
+
+Evaluar y asignar la categoría de conservación correspondiente a las especies 
+registradas, conforme a los criterios normativos vigentes establecidos por el Ministerio 
+del Medio Ambiente y organismos competentes.
+
+===== p.9 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 10 de 61
+3.
+MATERIALES Y MÉTODOS
+3.1.
+Descripción del área de estudio
+De acuerdo con los criterios metodológicos establecidos por el Servicio de Evaluación 
+Ambiental (SEA), el área de estudio corresponde al espacio territorial donde se levantó la 
+información de línea de base y donde se emplazan las obras permanentes y temporales del 
+proyecto. La delimitación debe considerar la totalidad de las obras y acciones asociadas al 
+proyecto, así como las unidades ambientales presentes en el territorio, constituyendo la 
+base para la identificación y evaluación de impactos.
+Para el Proyecto “Centro Metropolitano de Gestión Integral de Residuos (CMGIR)”, el área 
+de estudio se define como una superficie aproximada de 341,5 hectáreas. Esta superficie se 
+distribuye en 69,77 hectáreas correspondientes a la zona central de intervención; 8,37 
+hectáreas asociadas al camino de acceso al proyecto y 263,36 hectáreas de áreas 
+contiguas. La delimitación del área de estudio fue definida con el propósito de caracterizar 
+el  componente  flora  y  vegetación,  considerando  la  distribución  de  las  formaciones 
+vegetales presentes e incluyendo la futura zona de disposición de residuos, los sectores 
+operacionales y el camino de acceso proyectado, que conectará el área del proyecto con 
+la ruta CH-60 Troncal Sur. 
+Esta  superficie  se  emplaza  en  la  comuna  de  Viña  del  Mar,  Región  de  Valparaíso, 
+aproximadamente a 10 kmal sureste del área urbana de la ciudad y próxima al límite 
+comunal con Quilpué. Desde el punto de vista ambiental, el área se inserta en la zona 
+mediterránea de Chile central, caracterizada por un clima templado mediterráneo con 
+estación seca prolongada, precipitaciones concentradas en invierno y una marcada 
+estacionalidad hídrica. También, el territorio presenta condiciones asociadas a la Cordillera 
+de la Costa, con presencia de quebradas y laderas, donde predominan remanentes de 
+bosque esclerófilo. Estas características determinan la presencia de hábitats potenciales 
+para el desarrollo de flora no vascular como hongos, líquenes y briofitas, justificando la 
+utilización de  las 341,5  hectáreas como área de estudio  para la caracterización del 
+componente y el levantamiento de la línea de base.
+En la Figura MATERIALES Y MÉTODOS-1 se presenta la ubicación general del proyecto.
+
+===== p.10 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 11 de 61
+Figura MATERIALES Y MÉTODOS-1 Área de Estudio, Proyecto Centro Metropolitano de Gestión Integral 
+de Residuos CMGIR 
+Fuente: Geoverde, 2026.
+3.2.
+Área de influencia del componente flora no vascular
+Conforme a la Guía Área de Influencia en el SEIA, el área de influencia corresponde al 
+espacio geográfico donde se prevé la ocurrencia de impactos ambientales generados por 
+las actividades propias del proyecto, considerando la localización de las obras, los factores 
+generadores de impacto y las características del medio ambiente receptor.
+Para el componente flora no vascular, se define un área de influencia aproximada de 78,14 
+hectáreas, asociándose principalmente a la zona central de excavación y a los sectores 
+donde se producirán las mayores intervenciones directas sobre la cobertura vegetal y los 
+hábitats disponibles, incluyendo la zona intervenida para las obras del camino de acceso. 
+
+===== p.11 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 12 de 61
+La delimitación considera que los principales impactos potenciales corresponden a la 
+pérdida y modificación de hábitat, perturbación por ruido, vibraciones, iluminación y 
+aumento de las actividades humanas durante las fases de construcción y operación del 
+proyecto. Desde el punto de vista ecológico, esta superficie comprende remanentes de 
+bosque  esclerófilo  mediterráneo  costero,  representados  principalmente  por  las 
+asociaciones vegetacionales de Lithraea caustica, Cryptocarya alba y Peumus boldus, las 
+cuales  constituyen  hábitat  y  áreas  de  desplazamiento  para  la  fauna  registrada. 
+Adicionalmente, la cercanía a zonas de relevancia ambiental, tales como la quebrada El 
+Muerto y el Santuario de la Naturaleza Palmar El Salto, refuerza la necesidad de considerar 
+esta superficie como área de influencia, dado que dichos ambientes funcionan como 
+corredores biológicos y áreas de refugio para especies nativas. 
+Además, se toman en cuenta las áreas donde el componente de flora y vegetación se verá 
+afectado, dado que existe una estrecha relación entre los componentes analizados en este 
+estudio y la vegetación existente en cada uno de los ambientes prospectados. Por ello, el AI 
+está determinado por la extensión de las formaciones vegetacionales que se interceptan 
+con las obras y partes del proyecto, donde se pueden identificar los posibles impactos 
+ambientales. Estos pueden ser impactos asociados al retiro de pisos vegetacionales o a 
+acciones que pongan en riesgo el ecosistema circundante, a través de la afectación de sus 
+componentes abióticos que otorgan servicios ecosistémicos, tales como el agua, la calidad 
+del aire y la temperatura.
+3.3.
+Marco biogeográfico
+La metodología de este levantamiento está basada en la “Nueva Guia Metodológica para 
+la Descripción de Ecosistemas Terrestres” (Servicio de Evaluación Ambiental, 2025): “Guía 
+metodológica para la descripción de ecosistemas terrestres. Primera edición, Santiago,  
+Chile”.
+El siguiente informe, entrega toda la información relacionada con las actividades realizadas 
+en las campañas de terreno.  Es importante considerar que lo anterior responde a lo 
+solicitado  por  el  Sistema  de  Evaluación  de  Impacto  Ambiental,  en  el  marco  de  lo 
+establecido en la letra b1) del artículo 19 y la letra e 2) del Artículo 18, ambos del D.S. N° 40 
+del 2012 del Ministerio del Medio Ambiente, que modificó el Reglamento del Sistema de 
+Evaluación de Impacto Ambiental.
+Se realizó un análisis, a partir de diversas fuentes de información disponible, respecto a las 
+características  geográficas  y  ambientales  que  se  presentan  en  las  zonas  de  estudio 
+correspondiente al AI del proyecto. 
+El proceso de obtención del Estudio de Impacto Ambiental (EIA) para un proyecto como el 
+de “Centro Metropolitano de Gestión Integral de Residuos (CMGIR)” requiere cumplir con 
+
+===== p.12 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 13 de 61
+una serie de exigencias técnicas y normativas, entre ellas, la evaluación detallada de la 
+flora, fauna y fauna presentes en el área de influencia del proyecto. La necesidad de 
+ingresar un EIA se determina en función de si el proyecto genera o presenta, al menos, uno 
+de los efectos, características o circunstancias señalados en el artículo 11 de la Ley Nº 19.300 
+sobre Bases Generales del Medio Ambiente.
+En este  contexto, la  solicitud de  caracterización  de  flora  no  vascular  responde  a  la 
+necesidad de evaluar de manera integral la biodiversidad del territorio, considerando el 
+potencial impacto que la ejecución del proyecto podría tener sobre el entorno natural. Esta 
+caracterización es esencial para establecer una adecuada línea de base ambiental y para 
+proponer medidas de mitigación eficaces que permitan resguardar los ecosistemas locales.
+El siguiente informe, entrega toda la información relacionada con las actividades realizadas 
+en 2 campañas de terreno.  Es importante considerar que lo anterior responde a lo solicitado 
+por el Sistema de Evaluación de Impacto Ambiental, en el marco de lo establecido en la 
+letra b1) del artículo 19 y la letra e 2) del Artículo 18, ambos del D.S. N° 40 del 2012 del 
+Ministerio del Medio Ambiente, que modificó el Reglamento del Sistema de Evaluación de 
+Impacto Ambiental.
+3.4.
+Hongos
+Los hongos constituyen un amplio y fascinante grupo de organismos que se caracterizan 
+fundamentalmente  por  carecer  de  clorofila  y  de  los  tejidos  especializados,  y  que  a 
+diferencia de las bacterias poseen núcleos celulares eucarióticos. Boletín de micología Vol.1: 
+19 - 30, 1982
+A partir de diversas consultas y recopilación de antecedentes bibliográficos relacionados 
+con el ecosistema circundante del área del proyecto, se busca identificar especies de 
+hongos que estén descritos para la región donde se emplaza el proyecto. 
+Para este proceso se utiliza como fuente principal el “Listado de especies clasificadas desde 
+el 1° proceso al 20° proceso de Clasificación REC” (actualizado a marzo de 2026) del 
+Ministerio de Medio Ambiente (MMA). Este documento entrega, entre otros, información de 
+la distribución geográfica y de la categoría vigente en la cual se encuentran las posibles 
+especies de hongos que se puedan avistar.
+También, se utilizará como fuente importante de revisión lo que se dispone en el decreto N° 
+10 del año 2023, y que habla de la Clasificación de especies según estado de conservación, 
+en su décimo octavo proceso. 
+Con toda la información recopilada, se procede a revisar la bibliografía que contribuya al 
+proceso de identificación de las posibles especies a encontrar. Estos datos se emplearán 
+principalmente  en  las  actividades  de  observación,  tanto  macroscópica  como 
+microscópica.
+
+===== p.13 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 14 de 61
+3.5.
+Líquenes
+Es importante mencionar que los líquenes son organismos que pertenecen al Reino Fungi, 
+dado  que  corresponden  a  una  simbiosis  (unión)  entre  un  hongo,  un  alga  y/o  una 
+cianobacteria.  Esta  simbiosis,  responde  a  una  estrategia  de  reproducción  muy 
+especializada que han alcanzado estos organismos a través del tiempo y que les ha 
+permitido sobrevivir a condiciones o escenarios muy adversos. Son de lento crecimiento y 
+pueden estar habitando un mismo sustrato por muchos años, otorgándoles la condición de 
+perennes. Los líquenes pueden ser avistados en cualquier época del año, indistintamente la 
+humedad del ambiente, a diferencia de los hongos. 
+Se realizó un análisis, a partir de diversas fuentes de información disponible, respecto a las 
+características  geográficas  y  ambientales  que  se  presentan  en  la  zona  de  estudio 
+correspondiente al área de influencia del proyecto.
+Para potenciar el estudio, se realiza una revisión bibliográfica que permite visualizar la 
+distribución de especies de líquenes encontradas en la Región de Valparaíso y en el 
+ecosistema que lo circunda. 
+3.6.
+Briofitas
+Las briófitas son un grupo de alrededor de 20.000 especies de plantas no vasculares 
+presentes  en  casi  todos  los  ecosistemas,  salvo  los  ambientes  marinos  y  los 
+permanentemente congelados (Shaw et al. 2011). Se caracterizan por tener un ciclo de 
+vida dominado por la fase gametofítica (haploide), mientras que el esporofito, reducido a 
+un  solo  esporangio,  depende  totalmente  del  gametofito.  Además,  presentan  poca 
+diferenciación en sus tejidos conductores, lo que las distingue de helechos y plantas con 
+semillas.
+Desde el punto de vista ecológico, son poiquilohídricas, con gran capacidad de dispersión 
+y resistencia al frío. Se dividen en tres grupos principales: musgos (Bryophyta), hepáticas 
+(Marchantiophyta) y antocerotes (Anthocerotophyta), diferenciados principalmente por la 
+estructura de su esporofito.
+Aún persiste el debate sobre si las briófitas forman un grupo monofilético o polifilético, ya 
+que estudios recientes apoyan ambas hipótesis (Morris et al. 2018; Sousa et al. 2018).
+Se realizó un análisis, a partir de diversas fuentes de información disponible, respecto a las 
+características  geográficas  y  ambientales  que  se  presentan  en  la  zona  de  estudio 
+correspondiente al área de influencia del proyecto.
+Para potenciar el estudio, se realiza una revisión bibliográfica que permite visualizar la 
+distribución de especies de líquenes encontradas en la región de Coquimbo y en el 
+ecosistema que lo circunda. 
+
+===== p.14 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 15 de 61
+3.7.
+Revisión bibliográfica
+En este punto, el análisis bibliográfico se enfoca principalmente en definir cada grupo de 
+organismos  (hongo,  liquen  o  briófita),  y establecer las características  propias  que  los 
+caracterizan. 
+También, se establecen los posibles sustratos que utilizan estos organismos para habitar y 
+desarrollarse, de manera de poder dirigir la prospección una vez en terreno.  Además, se 
+busca información referida a la diversidad de poblaciones o comunidades de estos grupos 
+en Chile, particularmente de la región de Valparaíso. Para este fin se buscó la información y 
+datos en artículos y revistas científicas, textos, tesis y otro tipo de publicaciones electrónicas 
+e información disponible. 
+Entre los más destacados es posible mencionar: 
+-
+Líquenes:  Guía  de  Campo  de  los  Líquenes,  Musgos  y  Hepáticas  Volkmar  W., 
+Ruprecht D., 2004 (España).
+-
+Briófitas de los Bosques Templados de Chile; Víctor Ardiles, Jorge Cuvertino y Felipe 
+Osorio; 2008.
+-
+Hongos: Guía de Campo de Hongos de Chile I y II; Giuliana F., 2013.
+3.8.
+ Levantamiento de información en terreno
+El levantamiento de información en terreno se realizó durante la temporada de invierno y 
+otoño (Ver Tabla MATERIALES Y MÉTODOS-1).
+Tabla MATERIALES Y MÉTODOS-1. Esfuerzo de muestreo componente Hongos, Líquenes y Briofitas en 
+invierno 2024 y otoño 2025
+Campaña
+Fecha
+Esfuerzo de muestreo (HH)
+(1) Invierno 2024
+12 al 15 de septiembre 
+40
+(2) Otoño 2025
+12 al 15 de mayo
+80
+Fuente: Geoverde 2025.
+3.9.
+ Planificación del trabajo
+El trabajo de gabinete tuvo como propósito recabar y procesar todos los insumos necesarios 
+para obtener un diseño y planificación del muestreo que se ejecutó en terreno. Los dos 
+procesos fundamentales de esta etapa corresponden a la revisión bibliográfica y a la 
+planificación del trabajo en terreno.
+
+===== p.15 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 16 de 61
+De la totalidad de superficie sujeta al AI, se realizaron 2 campañas de terreno. Estas zonas 
+de exploración se muestran en la Figura MATERIALES Y MÉTODOS-1 del documento. 
+3.10. Fotointerpretación de imágenes satelitales 
+El  trabajo  de  fotointerpretación  tiene  como  objetivo  analizar  la  información  extraída 
+mediante el análisis de imágenes satelitales, considerando el recubrimiento del suelo. Para 
+ello se utilizó las imágenes disponibles en Google Earth. Este trabajo se realizó en forma visual 
+y directamente en formato digital en ambiente QGIS 3.36.
+La  discriminación  en  la  fotointerpretación  se  realizó  en  base  a  tono/color,  textura  y 
+estructura (Etienne  y Prado,  1982).  Los  polígonos  generados,  que  dan  cuenta  de  las 
+unidades homogéneas de vegetación, son homologados a alguna de las categorías de 
+recubrimiento del suelo. 
+Con la información de fotointerpretación se procedió a la generación de planos de trabajo 
+para el desarrollo de la campaña de terreno. Estos incluyen la imagen satelital de fondo y el 
+contorno de las unidades descritas. Sobre éstas, se ubican las unidades muestrales para el 
+levantamiento de información en terreno.
+3.11.  Diseño de muestreo
+El  diseño  de  muestreo  aplicado  en  el  presente  estudio  se  basa  en  una  estrategia 
+adaptativa, orientada a optimizar la representatividad del levantamiento del componente 
+de flora no vascular, incluyendo hongos, líquenes y briófitas. Esta estrategia combina 
+técnicas de muestreo dirigido y oportunista, con un diseño estratificado fundamentado en 
+la identificación de unidades ambientales homogéneas (Mueller, 2004).
+La selección de sitios se realizó mediante un muestreo dirigido, en el cual se establecieron 
+criterios  ecológicos  específicos  como  temperatura,  humedad,  tipo  de  sustrato  y 
+características del ecosistema circundante. Esta aproximación permite focalizar el esfuerzo 
+de prospección en aquellos ambientes con alta aptitud para el desarrollo de especies 
+fúngicas y otros organismos no vasculares, maximizando así la probabilidad de detección.
+Los puntos seleccionados fueron posteriormente validados en terreno a través de recorridos 
+pedestres  sistemáticos,  registrando  y  recolectando  ejemplares  visibles,  con  especial 
+atención a sustratos potenciales como suelo, hojarasca, corteza, rocas, entre otros. La 
+planificación  de  los  puntos  de  observación  buscó  abarcar  la  mayor  diversidad  de 
+microhábitats, asegurando una adecuada cobertura del gradiente altitudinal y ecológico 
+del área.
+El desarrollo de hongos macroscópicos (macromicetos), líquenes y briófitas depende en 
+gran medida de factores como la precipitación pluvial y la temperatura del suelo. Por ello, 
+la elección de zonas de interés consideró ambientes ecológicamente heterogéneos, como 
+pendientes y microcuencas, que favorecen la presencia de estos grupos biológicos.
+
+===== p.16 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 17 de 61
+De acuerdo con la Línea de base de flora y vegetación del año 2025 El área de influencia se 
+encuentra inserto en la formación vegetal del bosque esclerófilo costero, corresponde a un 
+bosque alterado, mostrando la presencia de diferentes estados regenerativos. Se distribuye 
+en un sector costero favorable en las laderas de la cordillera de la costa.
+Se empleó un muestreo adaptativo, que permite ajustar los puntos planificados en función 
+de  las  observaciones  realizadas  en  terreno.  Esta  flexibilidad  es  fundamental  para 
+organismos con distribución irregular o en parches, como los hongos, líquenes y briófitas. 
+Asimismo, se estableció un número definido de puntos de muestreo que representan las 
+distintas condiciones ambientales del área de estudio. Este aspecto se conoce como el 
+"tamaño de la muestra".
+La implementación de una metodología validada y operativamente eficaz, considerando 
+tanto la estacionalidad como las restricciones temporales del trabajo en terreno, resulta 
+esencial  para  garantizar  la  calidad,  consistencia  y  comparabilidad  de  los  registros 
+obtenidos durante la prospección.
+3.12. Tipos de sustratos utilizados por hongos, líquenes y briófitas
+En el contexto del presente estudio, se identificaron y clasificaron distintos tipos de sustrato 
+disponibles en el área de influencia, los cuales constituyen microhábitats esenciales para el 
+establecimiento, desarrollo y reproducción de organismos de flora no vascular, tales como 
+hongos,  líquenes  y  briófitas.  Estos  organismos  presentan  requerimientos  ecológicos 
+específicos en cuanto a humedad, nutrientes y textura del sustrato, por lo que su presencia 
+está  estrechamente  asociada  a  la  disponibilidad  y  calidad  de  estos  elementos.  A 
+continuación, se describen los principales tipos de sustrato prospectados, conforme a la 
+tipología adaptada de Montoya et al. (2010):
+La  madera  en  descomposición  constituye  un  sustrato  lignificado  en  proceso  de 
+degradación, principalmente originado de especies angiospermas como Populus spp., 
+Eucalyptus spp. y  Nothofagus spp. Este material es rico en celulosa y lignina, lo cual lo 
+convierte en un hábitat adecuado para hongos saprobios, particularmente macromicetos 
+xilófagos. Se diferencia de las maderas blandas, como las provenientes de coníferas, por su 
+mayor densidad y composición química.
+La hojarasca, en tanto, corresponde al acúmulo superficial de restos vegetales de especies 
+herbáceas. Se trata de un sustrato efímero, no leñoso, con alta capacidad para retener 
+humedad, donde pueden desarrollarse micromicetos, briófitas pioneras y algunos líquenes 
+de hábito terrícola, especialmente en etapas tempranas de descomposición.
+La materia orgánica considerada en este estudio proviene principalmente de excrementos 
+de fauna silvestre. Este sustrato presenta una alta carga de nitrógeno orgánico y fósforo, 
+siendo  favorable  para  hongos  coprófilos  especializados.  Su  distribución  es  variable  y 
+depende directamente de la actividad faunística local.
+
+===== p.17 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 18 de 61
+El tronco vivo hace referencia a la corteza de árboles fisiológicamente activos, por donde 
+circula savia ascendente (xilema) y descendente (floema). Este sustrato es colonizado por 
+epífitos no parasíticos, como líquenes corticícolas y briófitas, que se desarrollan sobre la 
+superficie externa del tronco sin interferir con el transporte vascular de la planta hospedera.
+El suelo representa un sustrato edáfico complejo, cuya estructura, textura, pH y relación 
+carbono/nitrógeno varían según las condiciones del sitio. Es un sustrato fundamental para la 
+micobiota micorrícica, líquenes crustáceos y briófitas terrícolas, y puede constituir un sistema 
+dinámico de interacción entre flora no vascular y componentes bióticos y abióticos.
+El  estiércol  corresponde  al  material  coprológico  producido  por  animales  domésticos 
+presentes en el área de estudio. Se caracteriza por su alta concentración de nutrientes 
+fácilmente disponibles, lo que favorece la proliferación de especies fúngicas coprófilas, con 
+adaptaciones a ciclos de vida cortos y hábitats efímeros.
+Chatarra vieja o materia inorgánica, los líquenes presentan una notable capacidad de 
+colonización sobre una amplia gama de sustratos, incluidos aquellos de origen inorgánico, 
+como  metales,  vidrios,  plásticos,  concreto  y,  en  particular,  estructuras  artificiales 
+abandonadas o en desuso, tales como chatarra metálica o edificaciones antiguas. Esto es 
+posible debido a que, a diferencia de otras formas de vida, los líquenes no dependen del 
+sustrato como fuente directa de nutrientes, sino que absorben agua y elementos minerales 
+directamente desde la atmósfera, a través de procesos de captación superficial.
+Esta adaptación les permite desarrollarse en ambientes extremos y en superficies pobres o 
+carentes de nutrientes edáficos, actuando además como bioindicadores eficientes de 
+calidad  del  aire,  dado  que  su  metabolismo  se  ve  directamente  afectado  por 
+contaminantes atmosféricos.
+Los restos vegetales, en este contexto, se refieren a mezclas de materiales lignocelulósicos 
+en descomposición, frecuentemente asociados a materia fecal animal. Este tipo de sustrato 
+posee una alta proporción de carbono y nitrógeno, así como condiciones térmicas y de 
+humedad variables, lo que permite el desarrollo de hongos oportunistas bajo condiciones 
+ambientales específicas.
+Finalmente, los afloramientos rocosos constituyen superficies de roca expuesta, ya sea 
+como parte del sustrato geológico original o en forma de bloques sueltos. Son sustratos 
+oligotróficos, con baja capacidad de retención de humedad, pero de alta estabilidad 
+estructural,  y  sirven  como  hábitat  para  líquenes  saxícolas  y  briófitas  adaptadas  a 
+condiciones extremas de temperatura y baja disponibilidad hídrica.
+Estos organismos son ubicuos, lo que significa que pueden encontrarse en una amplia 
+variedad  de  ambientes  siempre  que  se  den  condiciones  adecuadas  de  humedad, 
+temperatura y sustratos disponibles. Sin embargo, las condiciones óptimas para su desarrollo 
+y reproducción pueden variar significativamente, dependiendo de la especie y su hábito 
+
+===== p.18 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 19 de 61
+de vida. Para identificar los sustratos específicos relacionados con cada especie, se definen 
+los siguientes tipos de sustratos, según lo modificado de Montoya et al. (2010)
+3.12.1.  Puntos de muestreo
+Con el objetivo de caracterizar el componente hongos, líquenes y briófitas presente en el 
+área del Proyecto, se desarrollaron dos campañas de prospección en terreno durante 
+períodos  considerados  favorables  para  la  detección  de  organismos  criptógamos, 
+correspondientes a la temporada invernal del año 2024 y a la estación otoñal del año 2025.
+La primera campaña se ejecutó entre los días 12 y 15 de septiembre de 2024, mientras que 
+la segunda campaña, correspondiente al período de otoño, se desarrolló entre los días 12 y 
+15 de mayo de 2025
+Para la prospección del Área de Influencia, se utilizó un vehículo tipo camioneta 4x4 como 
+medio de acceso a sectores adyacentes a las unidades ambientales de interés. Desde estos 
+puntos de aproximación, se accedió de manera pedestre a los sitios previamente definidos 
+como puntos de muestreo, donde se establecieron unidades de prospección micológica. 
+En cada unidad, se realizó una búsqueda intensiva mediante recorridos sistemáticos a pie, 
+dirigida a la detección de estructuras reproductivas (basidiomas, apotecios, entre otros) y 
+evidencias de presencia de los organismos criptógamos objeto de estudio.
+La presencia fúngica se manifiesta en distintas formas, como hongos en descomposición, 
+micelios visibles en el suelo, y cuerpos fructíferos emergentes en troncos o en la hojarasca. 
+Estos hallazgos son significativos, ya que los hongos desempeñan un papel crucial en los 
+ecosistemas,  contribuyendo  a  la  descomposición  de  materia  orgánica  y  formando 
+relaciones simbióticas con plantas.
+Se recogen muestras de los diferentes tipos de hongos observados para su posterior análisis 
+en laboratorio, lo que permitirá determinar su identificación taxonómica y evaluar su posible 
+impacto en el ecosistema local.  
+Para  la  identificación  de  hongos  se  consideran  observaciones  macroscópicas, 
+primeramente, asociadas a aspectos morfológicos, y del ambiente circundante, luego se 
+procede a recoger la muestra para posteriormente ser deshidratada y envasada como 
+corresponde. Una vez en el laboratorio, se realizan cortes transversales en los tejidos 
+fúngicos,  se  aplican  distintos  reactivos  si  es  necesario  para  visualizar  bajo  un  óptico 
+adecuado, las esporas. 
+Para la determinación de líquenes, se debe llevar a cabo un análisis tanto macroscópico 
+como microscópico. El análisis macroscópico permite observar las características visibles de 
+los organismos, como su forma, color y tamaño. En cambio, el análisis microscópico se 
+enfoca en los detalles más pequeños, como la estructura celular y las esporas, lo que facilita 
+una identificación más precisa de las especies. Estas estructuras reproductivas son claves 
+taxonómicas indispensables para la determinación de las especies encontradas.
+
+===== p.19 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 20 de 61
+Para hongos la colecta sigue las metodologías propuestas por Lodge et al., (2004) y 
+Stephenson  et  al.,  (2013).  Se  debe  llevar  un  registro  del  ambiente  y  del  estado  del 
+macromicete, describiendo posibles cambios en coloración al manipularlo, etapa del ciclo 
+de vida en que se encuentra, forma y tamaño. Luego de esto se excava alrededor de la 
+base del estipe para registrar la posible presencia de volva, para luego delicadamente 
+sustraer el hongo junto con parte del sustrato.
+Tabla MATERIALES Y MÉTODOS-2. Georreferencia de los puntos de muestreo del proyecto en la 
+campaña de invierno 2024 y otoño 2025.
+Campa
+ña
+Fecha
+Estación
+Esfuerzo 
+(HH)
+N° 
+puntos
+Hallazgos 
+Hongos
+Hallazgos 
+Líquenes
+Hallazgos 
+Briófitas
+Invierno 
+2024
+12-15 
+septie
+mbre
+Invierno
+40
+25
+Prospección 
+general
+Prospección 
+general
+Prospección 
+general
+Otoño 
+2025
+12-15 
+mayo
+Otoño
+80
+38
+12
+7
+2
+TOTAL
+2024-
+2025
+Invierno 
+y Otoño
+120
+63
+12
+7
+2
+Fuente: Geoverde 2025.
+Tabla MATERIALES Y MÉTODOS-3. Puntos de muestreo con hallazgos de Hongos en el área del 
+proyecto en las campañas de invierno 2024 y otoño 2025
+Campaña
+Punto
+Este (UTM)
+Norte (UTM)
+2025
+P03
+268122
+6336875
+2025
+P05
+268387
+6336649
+2025
+P06
+268433
+6336523
+2025
+P07
+268652
+6336527
+2025
+P08
+268833
+6336576
+2025
+P09
+268717
+6336716
+2025
+P09
+268717
+6336716
+2025
+P10
+268697
+6336774
+2025
+P11
+268724
+6337026
+2025
+P12
+268975
+6337039
+2025
+P13
+269000
+6337359
+2025
+P14
+267454
+6337370
+2025
+P15
+267576
+6336977
+2025
+P16
+268133
+6337120
+2025
+P17
+268333
+6337360
+2025
+P19
+268209
+6337597
+2025
+P20
+268079
+6337622
+2025
+P22
+267909
+6337603
+2025
+P23
+267639
+6337232
+2025
+P24
+267617
+6338854
+
+===== p.20 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 21 de 61
+Campaña
+Punto
+Este (UTM)
+Norte (UTM)
+2025
+P26
+268020
+6338684
+2025
+P27
+267748
+6338212
+2025
+P29
+267356
+6337700
+2025
+P30
+267644
+6337831
+2025
+P31
+267838
+6337913
+2025
+P32
+267907
+6337951
+2025
+P32
+267907
+6337951
+2025
+P33
+267954
+6337960
+2025
+P34
+267914
+6337802
+2024
+PM2
+267571
+6336752
+2024
+PM9
+268521
+6336715
+2024
+PM11
+268022
+6336847
+2024
+PM14
+267868
+6337516
+2024
+PM18
+268332
+6337694
+2024
+PM18
+268332
+6337694
+2024
+PM25
+267866
+6338706
+Fuente: Geoverde 2025.
+Tabla MATERIALES Y MÉTODOS-4. Puntos de muestreo con hallazgos de Líquenes en el área del 
+proyecto en las campañas de invierno 2024 y otoño 2025
+Campaña
+Campaña
+Este (UTM)
+Norte (UTM)
+2024
+PM4
+267960
+6336603
+2024
+PM5
+268262
+6336501
+2024
+PM13
+267584
+6336860
+2024
+PM14
+267868
+6337516
+2024
+PM14
+267868
+6337516
+2024
+PM19
+268106
+6337725
+2024
+PM19
+268106
+6337725
+2024
+PM25
+267866
+6338706
+2025
+PM02
+267897
+6337045
+2025
+PM17
+268333
+6337360
+2025
+PM18
+268396
+6337577
+2025
+PM21
+268012
+6337682
+2025
+PM25
+267941
+6338591
+2025
+PM28
+267232
+6337538
+2025
+PM28
+267232
+6337538
+Fuente: Geoverde 2025.
+Tabla MATERIALES Y MÉTODOS-5. Puntos de muestreo con hallazgos de Briofitas en el área del 
+proyecto en las campañas de invierno 2024 y otoño 2025
+Campaña
+Campaña
+Este (UTM)
+Norte (UTM)
+2024
+PM9
+268521
+6336715
+
+===== p.21 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 22 de 61
+Campaña
+Campaña
+Este (UTM)
+Norte (UTM)
+2024
+PM9
+268521
+6336715
+2024
+PM14
+267868
+6337516
+2024
+PM14
+267868
+6337516
+2024
+PM19
+268106
+6337725
+2024
+PM20
+267568
+6337457
+2024
+PM20
+267568
+6337457
+2024
+PM21
+267711
+6337741
+2024
+PM23
+267788
+6338172
+2024
+PM23
+267788
+6338172
+2024
+PM23
+267788
+6338172
+2025
+P01
+267783
+6337016
+2025
+P04
+268255
+6336837
+Fuente: Geoverde 2025.
+3.13. Riqueza
+La primera aproximación para caracterizar una comunidad fúngica es hacer una lista de 
+clases y número de especies que se pueden observar o aislar. Este diseño simple es el primer 
+nivel de descripción de una comunidad. 
+En este estudio, la riqueza se expresó en el número de especies encontradas en la zona de 
+muestreo y el tipo de sustrato que habitan. 
+3.14. Colecta e Identificación taxonómica
+En el marco del presente estudio, se identificaron y clasificaron diversos tipos de sustratos 
+presentes en el área de influencia, los cuales actúan como microhábitats cruciales para el 
+establecimiento, desarrollo y reproducción de organismos de flora no vascular, como 
+hongos, líquenes y briófitas. Estos organismos tienen requerimientos ecológicos específicos 
+en cuanto a humedad, nutrientes y textura del sustrato, por lo que su presencia está 
+directamente relacionada con la disponibilidad y calidad de estos elementos. 
+3.14.1. Hongos
+La prospección de hongos macroscópicos en terreno se inicia mediante una evaluación 
+macroscópica directa, orientada a la detección de estructuras fructíferas (carpóforos) u 
+otras manifestaciones visibles en los sitios de muestreo. La emergencia de estos cuerpos 
+fructíferos está condicionada principalmente por dos factores ambientales: precipitación 
+
+===== p.22 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 23 de 61
+pluvial adecuada y temperatura óptima del suelo, los cuales son determinantes para la 
+activación del ciclo reproductivo de los hongos (Lazo, 1982).
+Ante  la  detección  de  ejemplares,  se  procede  a  su  documentación  fotográfica  y 
+recolección sistemática, de acuerdo con protocolos internacionales estandarizados. Cada 
+muestra es etiquetada exhaustivamente, consignando información morfológica relevante 
+del espécimen, así como las características abióticas y bióticas del hábitat inmediato. 
+Asimismo, el punto de hallazgo es georreferenciado utilizando dispositivos GPS de alta 
+precisión, conforme a normativas de muestreo vigentes.
+Durante  la  ejecución  de  la  campaña,  en  cada  punto  de  muestreo  se  realiza  una 
+descripción  detallada  del  entorno  ecológico  y  las  condiciones  microambientales 
+asociadas al hallazgo. Tanto los sitios como los ejemplares recolectados son fotografiados, 
+documentados y codificados, asegurando trazabilidad y control de calidad en el manejo 
+de las muestras.
+Las muestras frescas son sometidas a un proceso de deshidratación controlada a 50 °C 
+durante 24 horas, y posteriormente almacenadas en bolsas de papel rotuladas, para su 
+conservación y posterior análisis en laboratorio.
+En laboratorio, se lleva a cabo un análisis taxonómico detallado mediante la observación 
+de caracteres microscópicos, utilizando microscopía óptica con aumentos de hasta 1000x. 
+Este procedimiento incluye la medición y descripción de esporas, basidios, paráfisis y otras 
+estructuras reproductivas, aplicando reactivos específicos como hidróxido de potasio (KOH) 
+al 5%. La determinación taxonómica a nivel de género y especie se realiza con base en 
+criterios morfológicos comparativos, utilizando literatura micológica especializada y claves 
+taxonómicas (Wright y Albertó, 2002; Wright y Albertó, 2006).
+3.14.2. Líquenes
+La colecta se realizó considerando aspectos macroscópicos tales como la morfología del 
+talo y la presencia de estructuras reproductivas visibles. Posteriormente, se procedió a la 
+extracción  de  la  muestra  utilizando  instrumentos  apropiados,  como  combó  y  cincel, 
+asegurando la integridad del material recolectado. Durante el proceso, se registraron 
+fotografías  in  situ  y  se  georreferenció  cada  muestra  mediante  coordenadas  GPS. 
+Finalmente,  las  muestras  fueron  almacenadas  en  bolsas  de  papel,  incorporando 
+información asociada al sustrato, altitud y características del ecosistema circundante.
+La identificación se llevó a cabo mediante la evaluación de caracteres morfológicos y 
+anatómicos,  utilizando  en  primera  instancia  una  lupa  estereoscópica  para  observar 
+aspectos generales del talo y estructuras reproductivas, tales como el tipo y tamaño de los 
+apotecios.  Posteriormente,  se  realizaron  observaciones  más  detalladas  mediante 
+microscopía óptica, centradas en el color, forma y tamaño de esporas, así como en la 
+
+===== p.23 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 24 de 61
+descripción  de  estructuras  reproductivas  internas:  capa  algal,  número  y  tamaño  de 
+esporas, epitecio, hipotecio, y el número de ascosporas por asco.
+Además del análisis morfológico, se aplicaron pruebas químicas específicas tanto en las 
+capas del talo como en cortes de apotecios (estructuras reproductivas). Estas incluyeron el 
+uso de hidróxido de potasio (KOH) en concentraciones del 10% y 25%, hipoclorito de sodio al 
+5%,  combinaciones  secuenciales  de  KOH  e  hipoclorito,  solución  alcohólica  de 
+parafenilendiamina,  y  en  algunos  casos,  ácido  nítrico  concentrado  al  60%  aplicado 
+directamente sobre el epitecio. Los procedimientos se realizaron conforme a metodologías 
+estandarizadas descritas por Elix (2012) y Orange et al. (2001).
+3.14.3. Briófitas
+Las briófitas, como parte esencial de la flora no vascular, son altamente sensibles a variables 
+ambientales como la humedad, tipo de sustrato y microclima, por lo cual actúan como 
+bioindicadores eficaces en evaluaciones ecológicas de línea base.
+Las etapas de colecta son las siguientes
+●
+Registrar en terreno la diversidad de briófitas mediante observación macroscópica, 
+documentando su presencia, abundancia relativa y rasgos morfológicos generales.
+●
+Recopilar antecedentes bibliográficos sobre la distribución de especies de briófitas 
+en el ecosistema evaluado, con el propósito de contextualizar los registros y detectar 
+especies
+ 
+relevantes
+ 
+para
+ 
+la
+ 
+conservación.
+●
+Realizar análisis microscópico de las muestras recolectadas para su identificación 
+taxonómica,  considerando  caracteres  anatómicos  y  estructuras  reproductivas.
+●
+Caracterizar los microhábitats y sustratos en los que se encontraron las muestras, 
+evaluando factores ecológicos como humedad, exposición, tipo de sustrato y 
+cobertura vegetal.
+3.15. Categorías de Conservación y Singularidades ambientales
+Chile alberga una notable diversidad de especies fúngicas, muchas de ellas endémicas del 
+Cono Sur, lo que se explica por la singular posición geográfica del país, considerado una 
+verdadera “isla biogeográfica” (Smith-Ramírez et al., 2005). Esta singularidad ha motivado el 
+desarrollo de marcos normativos e institucionales orientados a la conservación de su 
+biodiversidad, incluyendo por primera vez a los hongos dentro de la legislación ambiental 
+nacional.
+
+===== p.24 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 25 de 61
+En términos legales, Chile se posiciona como pionero en América Latina al incorporar al 
+Reino  Fungi  en  la  Ley  N°  19.300  sobre  Bases  Generales  del  Medio  Ambiente, 
+específicamente en los artículos 37 y 38 —modificados mediante la Ley N° 20.417 (2010)—, 
+que disponen la clasificación, elaboración de planes de manejo y conservación, así como 
+la inclusión de estos organismos en los inventarios nacionales de especies silvestres.
+A nivel internacional, el país es signatario del Convenio sobre la Diversidad Biológica (CDB), 
+ratificado  en  1994,  y  adherente  al  Plan  Estratégico  2011–2020  y  las  Metas  de  Aichi, 
+compromisos que impulsan el diseño y aplicación de políticas de conservación a nivel 
+nacional. En este marco, Chile ha desarrollado instrumentos específicos para abordar la 
+gestión de la biodiversidad, como la Estrategia Regional para la Conservación de la 
+Biodiversidad en la Región Metropolitana (2015–2025).
+En el ámbito de evaluación ambiental, el Reglamento del Sistema de Evaluación de 
+Impacto Ambiental (D.S. N° 40/2013) estableció, desde diciembre de 2013, la obligación de 
+incorporar  estudios  de  línea  base  sobre  hongos  en  proyectos  sujetos  a  evaluación, 
+reconociendo su relevancia ecológica y su condición, en muchos casos, de especies 
+sensibles o amenazadas.
+Desde 2005, el Ministerio del Medio Ambiente (MMA) es responsable de la clasificación 
+oficial de especies silvestres según su estado de conservación, a través del Reglamento 
+para la Clasificación de Especies Silvestres (D.S. N° 29/2011), basado en los criterios de la 
+UICN (2001). La inclusión formal del Reino Fungi en este proceso ocurrió en 2014, durante su 
+undécima versión. Actualmente, el proceso de clasificación se encuentra en su 20° ciclo 
+(2025), consolidando así el avance institucional hacia una protección más amplia de la 
+biodiversidad no vascular.
+Conforme a la Guía para la Descripción de Ecosistemas Terrestres del SEA (2025), las 
+evaluaciones del componente hongos, líquenes y briófitas deben considerar ciertos criterios 
+de singularidad ambiental, tales como:
+●
+Presencia de especies con representación escasa o única a nivel nacional, que 
+otorgan un alto valor biogeográfico y ecológico.
+●
+Registro de especies en categorías de amenaza (“En Peligro”, “Vulnerable” o “Casi 
+Amenazadas”), según el MMA.
+●
+Ocurrencia de especies endémicas, restringidas geográficamente, 
+particularmente vulnerables a la alteración de su hábitat.
+Este marco normativo, tanto nacional como internacional, establece los lineamientos que 
+orientan la evaluación, clasificación y conservación de especies fúngicas en el país, 
+
+===== p.25 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 26 de 61
+consolidando a Chile como un referente regional en la protección de la biodiversidad del 
+Reino Fungi.
+El estado de conservación de las especies se revisó siguiendo lo definido por el Reglamento 
+de Clasificación de Especies Silvestres según Estado de Conservación, que actualmente se 
+encuentra en su 20° proceso (2025), según lo establecido por el D.S. N°29/2011 del Ministerio 
+del Medio Ambiente (MMA), siguiendo lo establecido por la Ley N°19.300 en su artículo N°37.
+Las categorías de conservación utilizadas se basan en el Reglamento para la Clasificación 
+de Especies Silvestres según Estado de Conservación vigente a la fecha, D.S. N° 29/2012 
+(MMA), el cual se basa en las tipologías definidas por la Unión Internacional para la 
+Conservación de la Naturaleza (UICN, 2001)
+Tabla MATERIALES Y MÉTODOS-6. Tipologías definidas por la Unión Internacional para la 
+Conservación de la Naturaleza (UICN, 2001). Categorías de Conservación de Especies Según DS 
+N°29/2012
+Categoría
+Simbología
+Descripción
+Extinto
+EX
+Un taxón está extinto cuando no queda ninguna duda 
+razonable de que el último individuo existente ha muerto. Se 
+presume que un taxón está Extinto cuando prospecciones 
+exhaustivas de sus hábitats, conocidos y/o esperados en 
+momentos apropiados (diarios, estacionales, anuales) y a lo 
+largo de su distribución histórica, no ha podido detectar un solo 
+individuo. Las prospecciones deberán ser realizadas en períodos 
+de tiempo apropiados al ciclo de vida y formas de vida del 
+taxón.
+Extinto en 
+estado silvestre
+EW
+Un taxón está Extinto en Estado Silvestre cuando sólo sobrevive 
+en cultivo, cautividad o como población (poblaciones) 
+naturalizadas completamente fuera de su distribución natural. Se 
+presume que un taxón está Extinto en Estado Silvestre cuando 
+prospecciones exhaustivas de sus hábitats, conocidos y/o 
+esperados, en los momentos apropiados (diarios, estacionales, 
+anuales), y a lo largo de su área de distribución histórica, no han 
+podido detectar un solo individuo. Las prospecciones deberán 
+ser realizadas en períodos de tiempos apropiados al ciclo de 
+vida y formas de vida del taxón.
+En Peligro 
+Crítico
+CR
+Un taxón está En Peligro Crítico cuando la mejor evidencia 
+disponible indica que cumple con cualquiera de los criterios “A” 
+a “E” para En Peligro Crítico y, por consiguiente, se considera 
+que está enfrentando un riesgo extremadamente alto de 
+extinción en un estado silvestre.
+En Peligro
+EN
+Un taxón está En Peligro cuando la mejor evidencia disponible 
+indica que cumple con cualquiera de los criterios “A” a “E” para 
+En Peligro y, por consiguiente, se considera que está 
+enfrentando un riesgo muy alto de extinción en estado silvestre.
+Vulnerable
+VU
+Un taxón es Vulnerable cuando la mejor evidencia disponible 
+
+===== p.26 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 27 de 61
+Categoría
+Simbología
+Descripción
+indica que cumple cualquiera de los criterios “A” a “E” para 
+Vulnerable y, por consiguiente, se considera que está 
+enfrentando un riesgo alto de extinción en estado silvestre.
+Casi 
+Amenazado
+NT
+Un taxón está Casi Amenazado cuando ha sido evaluado según 
+los criterios y no satisface, actualmente, los criterios para En 
+Peligro Crítico, En Peligro o Vulnerable; pero está próximo a 
+satisfacer los criterios o posiblemente los satisfaga, en el futuro 
+cercano.
+Preocupación 
+Menor
+LC
+Un taxón se considera de Preocupación Menor cuando, 
+habiendo sido evaluado, no cumple con ninguno de los criterios 
+que definen las categorías En Peligro Crítico, En Peligro, 
+Vulnerable o Casi Amenazado. Se incluyen en esta categoría 
+taxones abundantes y de amplia distribución.
+Datos 
+Insuficientes
+DD
+Un taxón se incluye en la categoría de Datos Insuficientes 
+cuando no hay información adecuada para hacer una 
+evaluación, directa o indirecta, de su riesgo de extinción 
+basándose en la distribución y/o condición de la población. Un 
+taxón en esta categoría puede estar bien estudiado, y su 
+biología ser bien conocida, pero carecer de los datos 
+apropiados sobre su abundancia y/o distribución. Datos 
+Insuficientes no es, por lo tanto, una categoría de amenaza.
+Fuente: Geoverde 2025.
+
+===== p.27 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 28 de 61
+Tabla MATERIALES Y MÉTODOS-7. Clasificación de especies potenciales del Reino Fungi (Hongo y 
+Líquenes) en el área del proyecto
+Nombre científico 
+Nombre común
+Categoría de 
+conservación
+Criterios UICN Versión 3.1
+Cortinarius contulmensis
+hongo (genérico)
+Vulnerable (VU)
+VU Blab(iii) + 2ab (iii)
+Cytaria johowii
+digueñe mohos 
+del coihue 
+Preocupación 
+menor (LC)
+–
+Melanomphalia 
+omphaliopsis
+embudo 
+granunoloso 
+(nom.prop.)
+Preocupación 
+menor (LC)
+–
+Omphalina versatilis
+hongo (genérico)
+Casi amenazado 
+(NT)
+–
+Pluteus flammipes
+pluteo de fuego 
+(nomb.prop.)
+Preocupación 
+menor (LC)
+–
+Fuente: Biblioteca del Congreso Nacional de Chile (2024, mayo, 6) Decreto aprueba y oficializa clasificación de 
+especies según estado de conservación decimonoveno proceso.
+Las categorías de conservación establecidas en los Decretos Supremos Nacionales se 
+basan en los “Criterios y Categorías de la Lista Roja” de la Unión Internacional para la 
+Conservación de la Naturaleza (UICN). En concordancia con dicho marco, el presente 
+estudio consideró como especies relevantes aquellas clasificadas bajo alguna categoría 
+de amenaza, en adelante denominadas especies amenazadas, incluyendo las siguientes: 
+En Peligro Crítico (CR), En Peligro (EN) y Vulnerable (VU). Adicionalmente, se incorporaron las 
+especies Casi Amenazadas (NT) por su proximidad a los umbrales de amenaza.
+Por otra parte, las especies clasificadas en la categoría de Preocupación Menor (LC) fueron 
+consideradas  dentro  de  una  categoría  precautoria,  conforme  a  los  lineamientos 
+metodológicos  propuestos  por  el  Servicio  de  Evaluación  Ambiental  (SEA,  2015).  Esta 
+distinción permite establecer un enfoque diferencial de análisis, priorizando las especies con 
+mayor riesgo de extinción y asegurando la aplicación de criterios de conservación acordes 
+a su estatus actual.
+Las singularidades ambientales consideradas para el componente de hongos, líquenes y 
+briófitas, según lo recomendado por la guía del SEA (2025), son las siguientes:
+●
+Presencia  de  poblaciones  de  hongos,  líquenes  y  briófitas  únicas  o  de  baja 
+representatividad nacional.
+●
+Presencia  de  especies  clasificadas  según  su  estado  de  conservación  como 
+amenazadas, incluyendo la categoría “Casi amenazadas”.
+●
+Presencia de especies endémicas.
+
+===== p.28 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 29 de 61
+4.
+RESULTADOS
+A continuación, se presentan los resultados obtenidos a nivel general y detalle por medio de 
+las diferentes técnicas utilizadas para el registro de hallazgos en la campaña de terreno 
+durante el año 2025 en la comuna de Viña del Mar.
+4.1.
+Revisión de antecedentes y bibliografía
+4.1.1.
+ Marco biogeográfico y Descripción regional
+AGRIMED (2013) identifica como especialmente afectados para el escenario 2050 del 
+cambio climático, a los pisos de vegetación situados en la zona central y norte del país, 
+entre las regiones de Coquimbo y Los Lagos. 
+Así, la región central del país podría ser las más afectada por la disminución de las 
+precipitaciones, mientras que el aumento de la temperatura se haría sentir con fuerza en las 
+regiones altas, por sobre los 2.000 m s.n.m. 
+Por otro lado, según el diagnóstico mencionado con anterioridad, la región de Valparaíso 
+presenta 14 ecosistemas terrestres asociados de forma directa con los pisos vegetacionales 
+que abarcan una superficie de aproximadamente 1.261.054 ha. En el caso de la Región 
+Metropolitana de Santiago es posible identificar 14 pisos vegetacionales que cubrirían 
+(según su distribución potencial) una superficie de 1.453.435 ha, el 94,4% de la superficie 
+total de la Región.
+Estas formaciones vegetales, por su composición específica y las condiciones ecológicas 
+que requieren, presentan una alta sensibilidad frente a cambios ambientales, como la 
+variabilidad  climática  o  la  intervención  antrópica,  lo  que  las  convierte  en  unidades 
+particularmente vulnerables dentro del contexto regional.
+Este ecosistema presenta importantes restricciones hídricas que limitan el desarrollo vegetal, 
+condiciones que se han visto agravadas por una intensa presión antrópica, factores que 
+han contribuido significativamente a la degradación de la estructura y composición original 
+de la vegetación.
+Como resultado de estas presiones, la fisonomía actual del paisaje está dominada por 
+formaciones arbustivas bajas, disgregadas, acompañadas por una estrata herbácea anual 
+densa, que reemplaza en gran medida a la cobertura vegetal original. 
+Esta  formación  vegetal  se  distribuye  de  manera  exclusiva  en  sectores  costeros,  y  se 
+compone de un matorral de estructura heterogénea, generalmente de bajo porte y 
+densidad variable.
+
+===== p.29 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 30 de 61
+De acuerdo con la clasificación de pisos vegetacionales propuesta por Luebert y Pliscoff 
+(2017), el área  de  influencia del proyecto  se  encuentra  inserta dentro  de  la  unidad 
+vegetacional  correspondiente  a  Bosque  esclerófilo  mediterráneo  costero  de  Lithrea 
+caustica - Cryptocarya alba, a la que generalmente se asocian Cryptocarya alba, Peumus 
+boldus y  Schinus latifolia. Presenta un importante contingente de arbustos esclerófilos y 
+espinosos como Colliguaja odorifera, Escallonia pulverulenta, Eupatorium glechonophyllum, 
+Lobelia excelsa, Retanilla trinervia y otros. La presencia de herbáceas es más bien escasa, 
+principalmente Solenomelus pedunculatus y Vulpia myuros, mientras que las epífitas están 
+prácticamente ausentes. En las laderas más secas es frecuente la presencia de matorrales 
+dominados por Retanilla trinervia y Colliguaja odorifera. En algunos sectores se asocia con 
+Jubaea chilensis. En ciertas quebradas se observan bosques de  Aextoxicon punctatum. 
+Gran parte del área de este ecosistema ha sido reemplazada por espinales de Acacia 
+caven.
+Con respecto a su conservación a lo largo del país, estos ecosistemas muestran variada 
+representación  de  superficie  remanente, presentándose  también  en  regiones vecinas 
+(Coquimbo,  Metropolitana  y  O’Higgins).  El  Bosque  espinoso  mediterráneo  interior  de 
+Vachellia  caven y  Prosopis  chilensis cuenta  con  el  menor  porcentaje  de  superficie 
+remanente (38% aproximadamente), en tanto que el resto de los ecosistemas posee sobre 
+el 55%. En relación con su protección, siete de estos ecosistemas presentan de 0% a 1% de 
+representación en áreas protegidas en el país, cuatro entre 1% y 3%, y tres presentan entre 
+3% y 6%.
+Según Gajardo (1994), el área de influencia se encuentra inserto en la región vegetacional 
+que se extiende a través de la zona central de Chile, cuya característica física dominante es 
+la presencia  de  condiciones  climáticas del tipo  denominado  mediterráneo,  es  decir, 
+inviernos fríos y lluviosos con veranos cálidos y secos. 
+Las precipitaciones aumentan progresivamente de norte a sur y es patrón fundamental en 
+la distribución de las formaciones vegetales la presencia de las cordilleras de la Costa y de 
+los Andes.
+AGRIMED (2013) considera que la velocidad de adaptación de las comunidades de plantas 
+y animales no es compatible con la rapidez con que se prevé que seguirán ocurriendo los 
+cambios  climáticos  en  el  mundo.  Aunque  el  territorio  chileno  posee  condiciones 
+particularmente favorables para atenuar la magnitud de los cambios en las temperaturas, 
+esto  no  es  lo  mismo  en  el  caso  de  las  precipitaciones,  que  amenazan  con  seguir 
+disminuyendo durante varias décadas más, lo que afectaría seriamente a los recursos 
+hídricos y a la 56 vegetación natural, que debería adaptarse en una importante extensión 
+del territorio a una condición algo más árida.
+El área se caracteriza por la presencia de un bosque esclerófilo dominado por Lithraea 
+caustica, en asociación frecuente con especies arbóreas como Cryptocarya alba, Peumus 
+boldus y Schinus latifolia. Este estrato arbóreo se complementa con un importante grupo de 
+
+===== p.30 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 31 de 61
+arbustos esclerófilos y espinosos, entre los que destacan Colliguaja odorifera, Escallonia 
+pulverulenta,  Eupatorium  glechonophyllum,  Lobelia  excelsa  y  Retanilla  trinervia. Las 
+especies herbáceas son escasas y se limitan principalmente a Solenomelus pedunculatus y 
+Vulpia myuros, mientras que las epífitas están prácticamente ausentes.
+En las laderas más secas predomina un matorral xerófito, principalmente compuesto por 
+Retanilla trinervia y Colliguaja odorifera, con presencia ocasional de Jubaea chilensis. En 
+sectores de quebradas se observan formaciones boscosas dominadas por  Aextoxicon 
+punctatum. No obstante, gran parte del ecosistema original ha sido reemplazado por 
+espinales de Acacia caven.
+La composición florística incluye una alta diversidad de especies leñosas y herbáceas, entre 
+las que se encuentran  Aristotelia chilensis,  Azara celastrina,  Baccharis linearis,  Cestrum 
+parqui, Muehlenbeckia hastulata, Nassella chilensis, Podanthus mitiqui, Pseudognaphalium 
+robustum y Quillaja saponaria, entre otras.
+Estas especies conforman distintas comunidades zonales, como el bosque esclerófilo típico 
+(Boldo–Lithraea,  Cryptocarya–Lithraea), matorrales xerófitos (Trevoa–Colliguaja,  Quillaja–
+Lithraea), y formaciones características de zonas más áridas o expuestas, como Cereus–
+Puya–Acacia y Puya–Trichocereus. En sectores específicos persisten relictos de palmares de 
+Jubaea chilensis, con un sotobosque de especies esclerófilas.
+Según las líneas de base realizada en el año 2025 para el área prospectada, los paisajes de 
+la zona son complejos, debido a que corresponde al territorio nacional con mayor densidad 
+de población, reflejando una alteración en las comunidades vegetales; asimismo, se 
+encuentra en una zona de transición climática, generando una interpenetración con otras 
+regiones; por otro lado, las comunidades vegetales que se forman en el área costera 
+permiten una variación en su composición florística. Predominan los arbustos altos de hojas 
+esclerófilas,  pero  también  se  encuentran  arbustos  bajos  xerófitos,  arbustos  espinosos, 
+suculentas y árboles esclerófilos y laurifolios con gran desarrollo en altura.
+Hay un paisaje vegetal en que dominan los arbustos altos y los árboles, correspondientes a 
+menudo a un estado de regeneración por monte bajo de las especies arbóreas esclerófilas 
+y,  en  algunos  casos,  laurifolias.  Se  extiende  generalmente  por  las  laderas  de  ambas 
+cordilleras, destacando una composición variable de acuerdo con la exposición a la 
+radiación  solar.  Su  composición  florística  es  muy  variada  y  rica,  contando  entre  sus 
+elementos a numerosas especies de tipo laurifolio relictual y, en la estrata herbácea, a una 
+alta proporción de especies introducidas.
+El área de proyecto se encuentra inserto en la formación vegetal del bosque esclerófilo 
+costero, corresponde a un bosque alterado, mostrando la presencia de diferentes estados 
+regenerativos. Se distribuye en un sector costero favorable en las laderas de la cordillera de 
+la costa.
+
+===== p.31 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 32 de 61
+4.1.2.
+ Revisión antecedentes Hongos
+Los hongos reúnen algunos atributos de plantas, bacterias y animales, pero forman su propio 
+reino. Divergieron de otras formas de vida hace aproximadamente 1500 millones de años, 
+aunque  comenzaron  a  colonizar  plenamente  la  tierra  entre  hace  seiscientos  a 
+cuatrocientos millones de años (Brundrett, 2002). Se caracterizan por ser heterótrofos, es 
+decir que obtienen su alimento degradando materia orgánica mediante enzimas digestivas 
+y posteriormente incorporando los nutrientes disueltos a su organismo. En este reino se 
+incluyen  hongos  microscópicos  como  los  mohos  y  las  levaduras,  pero  también  los 
+macrohongos o macromicetos que se destacan por producir cuerpos fructíferos o setas. 
+Aparte de crecer vegetativamente, se reproducen mediante esporas que son dispersadas 
+en el aire, agua, suelo y mediante animales. El reino Fungi es uno de los más diversos, se ha 
+calculado que podrían existir entre 2,2 a 3,8 millones de especies (Hawksworth y Lücking, 
+2017). 
+Actualmente se han descrito en el mundo solo unas ciento veinte mil especies de hongos 
+(un 3,16 % del posible total de hongos) (www.indexfungorum.org), lo que da cuenta de lo 
+mucho que queda por estudiar.
+El número de especies de hongos puede llegar a ser estimado hasta en 5,1 millones de 
+especies, convirtiéndolos en los organismos más diversos sobre la tierra; después de los 
+artrópodos (Blackwell 2011). 
+A los hongos se les puede dividir en tres grupos funcionales, como simbióticos, parásitos y 
+saprófitos, donde cada uno de los grupos juega un papel importante en los ecosistemas 
+debido a su intervención en procesos relacionados con los ciclos de carbono y nitrógeno y 
+en reciclaje de nutrientes. Debido a la importancia de los hongos, las investigaciones 
+ecológicas que buscan promover la conservación y evaluación de la diversidad fúngica se 
+han incrementado en los últimos años con el fin de proporcionar un manejo sostenible de los 
+bosques tropicales (Yamashita et al. 2008).
+(Hongos macroscópicos en un bosque de niebla intervenido, vereda Chicoral, Valle del  
+Cauca, Colombia. 2013, 20 de diciembre).
+Estudios  más  extensos,  exclusivamente  dedicados  al  reino  Fungi,  fueron  iniciados 
+particularmente por Spegazzini (1921) y por Espinosa-B (1926) a principios del siglo XX. El 
+primer inventario de hongos chilenos en base a una bibliografía histórica extensa fue 
+publicado por Mujica y colaboradores en 1945 y reeditado treinta y cinco años después en 
+una edición ampliada y actualizada (Mujica et al., 1980). Catálogos de especies y estudios 
+monográficos  de  los  macrohongos,  particularmente  aquellos  que  crecen  en  la  zona 
+boscosa del país, incluyendo numerosas descripciones de especies nuevas para la ciencia, 
+fueron publicados durante la segunda mitad del siglo xx por Singer (1969), Moser y Horak 
+(1975), Horak (1980), Garrido (1988), Valenzuela (1993), extendiéndose hasta el siglo XXI 
+(Furci, 2013; Lazo, 2016, entre otros).
+
+===== p.32 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 33 de 61
+En la lista sistemática actualizada de macrohongos presentes en Chile, se consideró como 
+macrohongos a los siguientes grupos tradicionales: Agaricoides, Apoteciales, Corticioides, 
+Gasteroides, Periteciales, Poliporales, entre otros.
+A la fecha, el listado de especies de macrohongos, que incluye el territorio continental, 
+insular y antártico, considera un  total de  1.600  taxones. Estos taxones se encuentran 
+agrupados los Phyla Ascomycota y Basidiomycota y en 7 Clases, 31 Órdenes, 156 Familias y 
+491 Géneros. Los géneros mejor representados correspondieron a Cortinarius (153 taxones), 
+Mycena (74 taxones) y Entoloma (46 taxones). Las familias mejor representadas fueron 
+Cortinariaceae (166 taxones), Strophariaceae (95 taxones), Tricholomataceae (95 taxones), 
+Agaricaceae (84 taxones) y Mycenaceae (80 taxones). 
+Ministerio de Medio Ambiente de Chile (2023, octubre 10) Lista sistemática de macrohongos 
+presentes
+ 
+en
+ 
+Chile
+ https://www.gbif.org/es/dataset/d9bdf0cc-b00f-4834-aac4-
+6db2d5e6fae2
+Chile presenta una marcada escasez de estudios sistemáticos sobre la diversidad fúngica 
+(funga), situación atribuible, en parte, a las condiciones climáticas áridas y a la estructura 
+vegetal predominantemente xerofítica, las cuales no son óptimas para el desarrollo y 
+proliferación de macrohongos (CONAMA, 2008). En contraste, los ecosistemas con bosques 
+densos y ambientes húmedos, como los presentes en la zona sur del país, constituyen 
+hábitats más favorables para estos organismos, al ofrecer microambientes con mayor 
+estabilidad hídrica y disponibilidad de materia orgánica (Gamundi & Horak, 1993). 
+Es relevante considerar que muchos esporomas o cuerpos fructíferos de los hongos son 
+estructuras efímeras, con ciclos de vida extremadamente cortos, que emergen durante 
+condiciones  ambientales  específicas  y  persisten  solo  por  unos  pocos  días  antes  de 
+descomponerse por completo. Esta naturaleza transitoria y estacional de los cuerpos 
+fructíferos  representa  una  limitación  significativa  para  su  detección  y  colecta, 
+especialmente en zonas áridas como el norte de Chile, donde la aparición de estos 
+organismos  está  estrechamente  vinculada  a  eventos  climáticos  puntuales,  como 
+precipitaciones esporádicas o neblinas costeras persistentes
+En el año 1853, el naturalista Rodolfo Philippi realizó una de las primeras expediciones 
+científicas  en  la  zona,  registrando  la  especie  Tulostoma deserticola (actualmente 
+reconocida como Chlamydopus meyenianus), marcando así un hito en el conocimiento 
+micológico  del  desierto  chileno  y  abriendo  la  posibilidad  de  que  estos  ambientes, 
+tradicionalmente considerados inhóspitos, alberga una diversidad fúngica no despreciable.
+Posteriormente, en 1967, el reconocido micólogo alemán Rolf Singer llevó a cabo una 
+expedición en el Parque Nacional Bosque Fray Jorge, cuyo trabajo fue documentado en 
+Singer (1969), resultando en el descubrimiento de nuevos registros para la ciencia y para la 
+micobiota nacional, en un enclave excepcional de bosque hidrófilo en medio de una matriz 
+semiárida.
+
+===== p.33 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 34 de 61
+A pesar de estos antecedentes valiosos, las prospecciones micológicas y los registros 
+sistemáticos  en  la  zona  norte  del  país  siguen  siendo  escasos  y  fragmentarios  en  la 
+actualidad, lo que refleja la necesidad urgente de fortalecer la investigación micológica en 
+estos ecosistemas áridos y semiáridos, aún poco explorados desde el punto de vista de la 
+biodiversidad fúngica.
+En Chile existe registro de aproximadamente tres mil especies de hongos (Singer 1969; 
+Mujica et al. 1980; Moser et al., 1975; Garrido, 1988; Minter y Peredo, 2006), los cuales en su 
+gran mayoría corresponden a estudios comprendidos desde la región de Valparaíso hacia 
+el sur del país, siendo los bosques cerrados y húmedos los más adecuados para el desarrollo 
+de los hongos (Gamundi y Horak. 1993). Los primeros registros de recolección datan de 1767 
+(Gamundi y Amos, 2007).
+
+Especies de Hongos Registrados en la Zona Central de Chile
+Chile alberga una notable diversidad micológica, especialmente dentro de sus especies 
+nativas, muchas de las cuales también se encuentran en Argentina. Esta coincidencia se 
+explica, en parte, por la similitud en altitudes y latitudes donde estas especies se desarrollan, 
+así como por procesos evolutivos vinculados a la dispersión a través de animales, quienes 
+han actuado como vectores naturales a lo largo del tiempo (Lazo, 2001).
+En la Tabla RESULTADOS-8 se presentan registros de especies fúngicas documentadas en la 
+zona central de Chile. Esta recopilación incluye especies nativas, endémicas e introducidas, 
+cuya presencia ha sido reportada en las regiones de Valparaíso, Metropolitana y del 
+Libertador General Bernardo O’Higgins.
+Tabla RESULTADOS-8. Especies de Hongos registradas en la Zona Central de Chile
+Familia
+Género/Especie
+Categoría de Conservación
+Stereaceae
+Stereum hirsutum
+No Evaluada (NE)
+Polyporaceae
+Ganoderma australe
+No Evaluada (NE)
+Plutaceae
+Volvopluteus gloiocephalus
+No Evaluada (NE)
+Crepidotaceae
+Crepidotus brunswickianus
+Vulnerable (VU)
+Hypoxylaceae
+Daldinia concentrica
+No Evaluada (NE)
+Xylareaceae
+Xylaria apiculata
+No Evaluada (NE)
+Crepidotaceae
+Simocybe olivaceiceps
+Casi Amenazada (NT)
+Agaricaceae
+Agaricus campestris
+No Evaluada (NE)
+Agaricaceae
+Agaricus xanthodermus
+No Evaluada (NE)
+Agaricaceae
+Tulostoma striatum
+No Evaluada (NE)
+Agaricaceae
+Tulostoma brumale
+No Evaluada (NE)
+Mycenaceae
+Mycena leptocephala
+No Evaluada (NE)
+Plutaceae
+Pluteus spegazzinianus
+Casi Amenazada (NT)
+Plutaceae
+Pluteus jaffuelli
+Preocupación Menor (LC)
+Geastraceae
+Myriostoma coliforme
+No Evaluada (NE)
+Hymenochaetaceae
+Phylloporia boldo
+No Evaluada (NE)
+Rickenellaceae
+Rickenella fibula
+No Evaluada (NE)
+
+===== p.34 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 35 de 61
+Familia
+Género/Especie
+Categoría de Conservación
+Agaricaceae
+Calvatia cyathriformis
+No Evaluada (NE)
+Agaricaceae
+Cyathus olla
+No Evaluada (NE)
+Gomphaceae
+Phaeoclavulina flaccida
+No Evaluada (NE)
+Geastraceae
+Geastrum floriforme
+No Evaluada (NE)
+Geastraceae
+Geastrum fornicatum
+No Evaluada (NE)
+Hygophoraceae
+Cuphophyllus adonis
+Vulnerable (VU)
+Tapinellaceae
+Paxillus involutus
+No Evaluada (NE)
+Bolbitiaceae
+Conocybe pubescens
+No Evaluada (NE)
+Mycenaceae
+Favolaschia antarctica
+No Evaluada (NE)
+Polyporaceae
+Trametes versicolor
+No Evaluada (NE)
+Pyronomataceae
+Aleuria aurantia
+No Evaluada (NE)
+Pleurotaceae
+Pleurotus ostreatus
+No Evaluada (NE)
+Tricholomataceae
+Omphalina versatilis
+No Evaluada (NE)
+Psathyrellaceae
+Psathyrella bipellis
+No Evaluada (NE)
+Pleurotaceae
+Hohenbuehelia nigra
+No Evaluada (NE)
+Serpulaceae
+Serpula lacrymans
+No Evaluada (NE)
+Physalacriaceae
+Cyptotrama hygrocyboides
+En Peligro (EN)
+Laetiporaceae
+Laetiporus sulphureus
+No Evaluada (NE)
+Agaricaceae
+Disciceda bovista
+No Evaluada (NE)
+Cortinaceae
+Cortinarius roblemaulicola
+En Peligro (EN)
+Cortinaceae
+Cortinarius lebre
+Vulnerable (VU)
+Pezizaceae
+Peziza micropus
+No Evaluada (NE)
+Pezizaceae
+Peziza domiciliana
+No Evaluada (NE)
+Agaricaceae
+Leucoagaricus erythrellus
+No Evaluada (NE)
+Rhizopogonaceae
+Rhizopogon luteolus
+No Evaluada (NE)
+Tricholomataceae
+Clitocybe nuda
+No Evaluada (NE)
+Psathyrellaceae
+Coprinellus disseminatus
+No Evaluada (NE)
+Hericiaceae
+Hericium erinaceus
+No Evaluada (NE)
+Psathyrellaceae
+Coprinopsis atramentaria
+No Evaluada (NE)
+Schizophyllaceae
+Schizophyllum commune
+No Evaluada (NE)
+Coprinaceae
+Coprinus comatus
+No Evaluada (NE)
+Tricholomataceae
+Melanoleuca herrerae
+No Evaluada (NE)
+Strophariaceae
+Leratiomyces ceres
+No Evaluada (NE)
+Strophariaceae
+Pholiota multicingulata
+No Evaluada (NE)
+Strophariaceae
+Agrocybe pediodes
+No Evaluada (NE)
+Strophariaceae
+Agrocybe cilindracea
+No Evaluada (NE)
+Entolomataceae
+Entoloma nitens
+No Evaluada (NE)
+Mycenaceae
+Mycena cyanocephala
+Preocupación Menor (LC)
+Psathyrellaceae
+Coprinellus micaceus
+No Evaluada (NE)
+Tapinellaceae
+Tapinella panuoides
+No Evaluada (NE)
+Agaricaceae
+Battarrea phalloides
+Preocupación Menor (LC)
+Pharenochaetaceae
+Terana caerulea
+No Evaluada (NE)
+Hymenogasteraceae
+Galerina nana
+No Evaluada (NE)
+Galerpsidaceae
+Panaeolus papilionaceus
+No Evaluada (NE)
+
+===== p.35 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 36 de 61
+Familia
+Género/Especie
+Categoría de Conservación
+Galerpsidaceae
+Panaeolus antillarum
+No Evaluada (NE)
+Russulaceae
+Lactarius deliciosus
+No Evaluada (NE)
+Agaricaceae
+Macrolepiota rhacodes
+No Evaluada (NE)
+Agaricaceae
+Macrolepiota bonaerensis
+No Evaluada (NE)
+Agaricaceae
+Lepiota cristata
+No Evaluada (NE)
+Irpiaceae
+Byssomerulius corium
+No Evaluada (NE)
+Mycenaceae
+Roridomyces austrororidus
+No Evaluada (NE)
+Boletaceae
+Boletus loyita
+Vulnerable (VU)
+Boletaceae
+Boletus putidus
+Casi Amenazada (NT)
+Hymenogasteraceae
+Gymnopillus junonius
+No Evaluada (NE)
+Strophariaceae
+Deconica coprophila
+No Evaluada (NE)
+Tricholomataceae
+Laccaria laccata
+No Evaluada (NE)
+Pyronomataceae
+Cheilymenia stercorea
+No Evaluada (NE)
+Suillaceae
+Suillus granulatus
+No Evaluada (NE)
+Lycoperdaceae
+Apioperdon piriforme
+No Evaluada (NE)
+Lycoperdaceae
+Bovista colorata
+No Evaluada (NE)
+Marasmiaceae
+Marasmiellus alliiodorus
+Preocupación Menor (LC)
+Russulaceae
+Russula sardonia
+No Evaluada (NE)
+Amanitaceae
+Amanita diemii
+No Evaluada (NE)
+Amanitaceae
+Amanita merxmuelleri
+No Evaluada (NE)
+Amanitaceae
+Amanita toxica
+No Evaluada (NE)
+Tricholomataceae
+Tricholoma sp.
+No Evaluada (NE)
+Psathyrellaceae
+Coprinopsis nivea
+No Evaluada (NE)
+Agaricaceae
+Bovista brunnea
+No Evaluada (NE)
+Lycoperdaceae
+Lycoperdon perlatum
+No Evaluada (NE)
+Lycoperdaceae
+Apioperdon piriforme
+No Evaluada (NE)
+Cyphellaceae
+Chondrostereum purpureum
+No Evaluada (NE)
+Tricholomataceae
+Collybia erythropus
+No Evaluada (NE)
+Agaricaceae
+Mycenastrum corium
+No Evaluada (NE)
+Cyttariaceae
+Cyttaria johowii
+Preocupación Menor (LC)
+Fuente: 15° al 19° Proceso de Clasificación de Especies (RCE), Consulta de Líneas de Base, Publicaciones 
+Científicas, “Hongos de Chile I y II”, “Atlas Micológico de Chile” y “Hongos de la Zona Central de Chile (2023)”.
+
+Especies de Hongos en Categoría de Conservación
+De acuerdo con el D.S. N°44 de 2021 y D.S. N°10 de 2023 del MMA, que aprueba el RCE 
+según Estado de Conservación, y considerando el 15°, 16°, 17°, 18° y 19° Proceso de 
+Clasificación de Especies, se elaboró un listado donde se indican las especies de hongos 
+macromicetos clasificadas en alguna de las categorías que han sido registradas en la 
+región del Maule, y que pueden presentar una potencial probabilidad de ser encontradas 
+en el AI del Proyecto, a continuación, en la Tabla RESULTADOS-9.
+
+===== p.36 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 37 de 61
+Tabla RESULTADOS-9. Especies de Hongos con potencial presencia en área del Proyecto en 
+Categoría de Conservación
+Especie
+Categoría de Conservación
+Referencia
+Cyttaria johowii
+Preocupación Menor (LC)
+19° RCE
+Pluteus spegazzinianus
+Casi Amenazada (NT)
+18° RCE
+Crepidotus brunswickianus
+Vulnerable (VU)
+18° RCE
+Simocybe olivaceiceps
+Casi Amenazada (NT)
+18° RCE
+Cuphophyllus adonis
+Vulnerable (VU)
+17° RCE
+Cortinarius lebre
+Vulnerable (VU)
+17° RCE
+Mycena cyanocephala
+Preocupación Menor (LC)
+17° RCE
+Marasmiellus alliiodorus
+Preocupación Menor (LC)
+17° RCE
+Pluteus jaffuelli
+Preocupación Menor (LC)
+17° RCE
+Cortinarius roblemaulicola
+En Peligro (EN)
+16° RCE
+Boletus putidus
+Casi Amenazada (NT)
+15° RCE
+Boletus loyita
+Vulnerable (VU)
+15° RCE
+Fuente: 15° al 19° Proceso de Clasificación de Especies Silvestres (RCE)
+4.1.3.
+ Revisión antecedentes Líquenes
+La flora Iiquénica del país incluye 1.383 taxa en 304 géneros (Galloway y Quilhot 1998). Las 
+áreas de mayor diversidad se encuentran en el Altiplano de la I Región (Galloway 1998), en 
+los oasis de neblina costeros (Follmann 1968; Redón y Lange 1983; Redón et al. 1975), en los 
+bosques valdivianos (Galloway 1992, 1994), en los bosques subantárticos (Redón y Quilhot 
+1977; Bustamante et al. 1989), en el archipiélago de Juan Fernández (Zahlbrückner, 1924; 
+Redón & Quilhot, 1977) y en el Territorio Antàrtico (Redón 1985). Los estudios sobre estructura 
+de comunidades liquénicas (Rundel 1980; Redón y Guzmán 1981; Pereira y San Martín 1998; 
+Pereira et al. 1999) así como los relativos a biomasa (Quilhot et al. 1987) son escasos.
+El territorio continental de Chile está dividido en 16 regiones. Dentro de estas regiones, no 
+existe  un  conocimiento  claro  de  la  Riqueza,  distribución  y  ecología  de  líquenes 
+documentado. La literatura sobre estos temas está muy dispersa y por este motivo no ha 
+sido posible establecer una flora liquénica a nivel regional. Las regiones más intensamente 
+estudiadas y reportadas hasta el momento son: Región Araucanía (Rubio et al. 2013), 
+Región de Los Lagos (Galloway 1992a, Pereira 2007), Región de Aysén (Quilhot et al. 2012, 
+Vargas Castillo & Morano Büchner 2014, Villagra et l. 2009), y Región del Maule (Pereira et al. 
+1999, Pereira & San Martín 1998). 
+Además, los investigadores dedicados a estudios taxonómicos son muy escasos en el país, y 
+los artículos disponibles no siempre proporcionan datos sobre la ecología y la distribución de 
+las  especies  de  líquenes.  Muchos  líquenes  son  cosmopolitas  o  aún  no  han  sido  lo 
+
+===== p.37 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 38 de 61
+suficientemente estudiados para determinar sus parámetros de distribución. Sin embargo, 
+se extrajo información de estudios anteriores que potencian el actual. 
+
+Especies de Líquenes Registrados en la Zona Centro de Chile
+Como  se  ha  señalado  previamente,  la  diversidad  de  líquenes  en  Chile  es 
+considerablemente  mayor  que  lo  que  reflejan  los  registros  oficiales  y  publicaciones 
+científicas. Sin embargo, es posible identificar especies representativas en las zonas norte, 
+centro y sur del país.
+En la  Tabla RESULTADOS-10. se detallan las especies de líquenes registradas en la zona 
+central de Chile, incluyendo aquellas nativas, endémicas e introducidas que han sido 
+documentadas en la región.
+Tabla RESULTADOS-10. Especies de Líquenes Registradas en la Zona Central de Chile
+Familia
+Género/Especie
+Categoría de Conservación
+Acarosporaceae
+Acarospora altoandina
+Datos Insuficientes (DD)
+Acarosporaceae
+Acarospora bullata
+Preocupación Menor (LC)
+Acarosporaceae
+Acarospora fuscata
+No Evaluada (NE)
+Acarosporaceae
+Acarospora rhabarbarina
+Datos Insuficientes (DD)
+Acarosporaceae
+Acarospora subcastanea
+No Evaluada (NE)
+Acarosporaceae
+Acarospora lorentzii
+Preocupación Menor (LC)
+Megasporaceae
+Aspicilia cinerea
+No Evaluada (NE)
+Caliciaceae
+Buellia sp.
+No Evaluada (NE)
+Teloschistaceae
+Caloplaca cerina
+Preocupación Menor (LC)
+Teloschistaceae
+Caloplaca chilensis
+Preocupación Menor (LC)
+Teloschistaceae
+Caloplaca clandestina
+No Evaluada (NE)
+Teloschistaceae
+Caloplaca tucumanensis
+Casi Amenazada (NT)
+Candelariaceae
+Candelaria concolor
+Preocupación Menor (LC)
+Candelariaceae
+Candelariella reflexa
+Preocupación Menor (LC)
+Candelariaceae
+Candelariella vitellina
+Preocupación Menor (LC)
+Parmeliaceae
+Canoparmelia 
+austroamericana
+Amenazada (EN)
+Chrysotrichaceae
+Chrysothrix granulosa
+Preocupación Menor (LC)
+Chrysotrichaceae
+Chrysothrix pavonii
+Preocupación Menor (LC)
+Megasporaceae
+Circinaria sp.
+No Evaluada (NE)
+Cladoniaceae
+Cladonia macilenta
+Preocupación Menor (LC)
+Hygrophoraceae
+Cora glabrata
+Datos Insuficientes (DD)
+Parmeliaceae
+Flavoparmelia caperata
+Preocupación Menor (LC)
+
+===== p.38 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 39 de 61
+Familia
+Género/Especie
+Categoría de Conservación
+Teloschistaceae
+Flavoplaca flavocitrina
+Preocupación Menor (LC)
+Teloschistaceae
+Follmannia orthoclada
+Preocupación Menor (LC)
+Haematommataceae
+Haematomma fenzlianum
+Casi Amenazada (NT)
+Teloschistaceae
+Josefpoeltia sorediosa
+Preocupación Menor (LC)
+Lecanoraceae
+Lecanora dispersa
+No Evaluada (NE)
+Lecanoraceae
+Lecanora sp.
+No Evaluada (NE)
+Lecanoraceae
+Lecanora muralis
+No Evaluada (NE)
+Lecideaceae
+Lecidea promiscens
+No Evaluada (NE)
+Parmeliaceae
+Melanohalea zopheroa
+Amenazada (EN)
+Acarosporaceae
+Myriospora smaragdula
+No Evaluada (NE)
+Parmeliaceae
+Neofuscelia sp.
+No Evaluada (NE)
+Parmeliaceae
+Oropogon lorolobic
+En Peligro Crítico (CR)
+Parmeliaceae
+Parmotrema reticulatum
+Preocupación Menor (LC)
+Physciaceae
+Physcia adscendens
+Preocupación Menor (LC)
+Physciaceae
+Physcia biziana
+Vulnerable (VU)
+Physciaceae
+Physcia undulata
+Preocupación Menor (LC)
+Physciaceae
+Physcia caesia
+Preocupación Menor (LC)
+Parmeliaceae
+Platismatia glauca
+Preocupación Menor (LC)
+Teloschistaceae
+Polycauliona ascendens
+Preocupación Menor (LC)
+Teloschistaceae
+Polycauliona candelaria
+No Evaluada (NE)
+Teloschistaceae
+Polycauliona kaernefeltii
+Preocupación Menor (LC)
+Teloschistaceae
+Polycauliona polycarpa
+No Evaluada (NE)
+Acarosporaceae
+Polysporina simplex
+No Evaluada (NE)
+Parmeliaceae
+Protoparmelia badia
+No Evaluada (NE)
+Lobariaceae
+Pseudocyphellaria crocata
+Datos Insuficientes (DD)
+Lobariaceae
+Pseudocyphellaria hirsuta
+Datos Insuficientes (DD)
+Lobariaceae
+Pseudocyphellaria intricata
+Preocupación Menor (LC)
+Lobariaceae
+Pseudocyphellaria neglecta
+Preocupación Menor (LC)
+Lichinaceae
+Pterygiopsis foliacea
+Datos Insuficientes (DD)
+Parmeliaceae
+Punctelia reddenda
+Preocupación Menor (LC)
+Parmeliaceae
+Punctelia subredecta
+Preocupación Menor (LC)
+Ramalinaceae
+Ramalina striatula
+Preocupación Menor (LC)
+Physciaceae
+Rinodina pyrina
+No Evaluada (NE)
+Lecanoraceae
+Rhizoplaca chrysoleuca
+Preocupación Menor (LC)
+
+===== p.39 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 40 de 61
+Familia
+Género/Especie
+Categoría de Conservación
+Lecanoraceae
+Rhizoplaca melanophthalma
+Preocupación Menor (LC)
+Roccellaceae
+Roccellina cerebriformis
+Preocupación Menor (LC)
+Roccellaceae
+Roccellina mollis
+Vulnerable (VU)
+Roccellaceae
+Roccellina portentosa
+Preocupación Menor (LC)
+Roccellaceae
+Roccellinastrum spongoideum
+Vulnerable (VU)
+Teloschistaceae
+Scutaria andina
+No Evaluada (NE)
+Teloschistaceae
+Teloschistes chrysophthalmus
+Preocupación Menor (LC)
+Teloschistaceae
+Teloschistes exilis
+No Evaluada (NE)
+Teloschistaceae
+Teloschistes flavicans
+Preocupación Menor (LC)
+Umbilicariaceae
+Umbilicaria polyphylla
+Datos Insuficientes (DD)
+Pertusariaceae
+Varicellaria velata
+Preocupación Menor (LC)
+Teloschistaceae
+Xanthomendoza mendozae
+Preocupación Menor (LC)
+Parmeliaceae
+Xanthoparmelia conspersa
+No Evaluada (NE)
+Teloschistaceae
+Xanthopeltis rupicola
+Casi Amenazada (NT)
+Fuente: 13° al 19° Proceso de Clasificación de Especies (RCE), Consulta de Líneas de Base, Publicaciones 
+Científicas, “Líquenes de Chile”
+
+Especies de Líquenes en Categoría de Conservación
+De acuerdo con el D.S. N°44 de 2021 y D.S. N°10 de 2023 del MMA, que aprueba el RCE 
+según Estado de Conservación, y considerando el 13°, 14° 15°, 16°, 17°, 18° y 19° Proceso de 
+Clasificación de Especies, se elaboró un listado donde se indican las especies de hongos 
+liquénizados (líquenes) clasificados en alguna de las categorías de conservación que han 
+sido registradas en las regiones de la zona centro (región Metropolitana y región de 
+Valparaíso), esto debido a los ambientes que comparten, los cuales tienen estrecha 
+relevancia con los ambientes presentes en el AI del Proyecto. Estos se presentan en la Tabla
+RESULTADOS-11. 
+Tabla RESULTADOS-11. Especies de Líquenes con potencial presencia en el área del Proyecto
+Especie
+Categoría de Conservación
+Referencia
+Acarospora altoandina
+Datos Insuficientes (DD)
+13° RCE
+Acarospora bullata
+Preocupación Menor (LC)
+14° RCE
+Acarospora rhabarbarina
+Datos Insuficientes (DD)
+13° RCE
+Acarospora lorentzii
+Preocupación Menor (LC)
+14° RCE
+Caloplaca cerina
+Preocupación Menor (LC)
+16° RCE
+Caloplaca chilensis
+Preocupación Menor (LC)
+13° RCE
+Caloplaca tucumanensis
+Casi Amenazada (NT)
+14° RCE
+Candelaria concolor
+Preocupación Menor (LC)
+14° RCE
+Candelariella reflexa
+Preocupación Menor (LC)
+16° RCE
+
+===== p.40 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 41 de 61
+Especie
+Categoría de Conservación
+Referencia
+Candelariella vitellina
+Preocupación Menor (LC)
+14° RCE
+Chrysothrix granulosa
+Preocupación Menor (LC)
+14° RCE
+Chrysothrix pavonii
+Preocupación Menor (LC)
+14° RCE
+Cladonia macilenta
+Preocupación Menor (LC)
+15° RCE
+Cora glabrata
+Datos Insuficientes (DD)
+17° RCE
+Flavoparmelia caperata
+Preocupación Menor (LC)
+14° RCE
+Flavoplaca flavocitrina
+Preocupación Menor (LC)
+14° RCE
+Follmannia orthoclada
+Preocupación Menor (LC)
+15° RCE
+Haematomma fenzlianum
+Casi Amenazada (NT)
+16° RCE
+Josefpoeltia sorediosa
+Preocupación Menor (LC)
+14° RCE
+Melanohalea zopheroa
+Amenazada (EN)
+16° RCE
+Oropogon lorolobic
+En Peligro Crítico (CR)
+16° RCE
+Parmotrema reticulatum
+Preocupación Menor (LC)
+16° RCE
+Physcia adscendens
+Preocupación Menor (LC)
+17° RCE
+Physcia biziana
+Vulnerable (VU)
+17° RCE
+Physcia undulata
+Preocupación Menor (LC)
+17° RCE
+Physcia caesia
+Preocupación Menor (LC)
+16° RCE
+Platismatia glauca
+Preocupación Menor (LC)
+14° RCE
+Polycauliona ascendens
+Preocupación Menor (LC)
+14° RCE
+Polycauliona kaernefeltii
+Preocupación Menor (LC)
+14° RCE
+Pseudocyphellaria crocata
+Datos Insuficientes (DD)
+15° RCE
+Pseudocyphellaria hirsuta
+Datos Insuficientes (DD)
+15° RCE
+Pseudocyphellaria intricata
+Preocupación Menor (LC)
+16° RCE
+Pseudocyphellaria neglecta
+Preocupación Menor (LC)
+16° RCE
+Pterygiopsis foliacea
+Datos Insuficientes (DD)
+16° RCE
+Punctelia reddenda
+Preocupación Menor (LC)
+17° RCE
+Punctelia subredecta
+Preocupación Menor (LC)
+17° RCE
+Ramalina striatula
+Preocupación Menor (LC)
+14° RCE
+Rhizoplaca chrysoleuca
+Preocupación Menor (LC)
+17° RCE
+Rhizoplaca melanophthalma
+Preocupación Menor (LC)
+14° RCE
+Roccellina cerebriformis
+Preocupación Menor (LC)
+15° RCE
+Roccellina mollis
+Vulnerable (VU)
+17° RCE
+Roccellina portentosa
+Preocupación Menor (LC)
+16° RCE
+Roccellinastrum spongoideum
+Vulnerable (VU)
+16° RCE
+Teloschistes chrysophthalmus
+Preocupación Menor (LC)
+14° RCE
+Teloschistes flavicans
+Preocupación Menor (LC)
+16° RCE
+Umbilicaria polyphylla
+Datos Insuficientes (DD)
+17° RCE
+Varicellaria velata
+Preocupación Menor (LC)
+16° RCE
+Xanthomendoza mendozae
+Preocupación Menor (LC)
+17° RCE
+Xanthopeltis rupicola
+Casi Amenazada (NT)
+15° RCE
+Fuente: 13° al 19° Proceso de Clasificación de Especies Silvestres (RCE).
+
+===== p.41 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 42 de 61
+4.1.4.
+Revisión antecedentes Briófitas
+A pesar de su relevancia ecológica, las briófitas –un grupo de plantas no vasculares que 
+incluye a musgos, hepáticas y antocerotes– siguen siendo poco estudiadas en vastas zonas 
+del territorio nacional. Esto es especialmente evidente en el centro y norte de Chile, donde 
+hasta el año 2009, las regiones de Arica a Atacama solo contaban con 44 taxones de 
+musgos  registrados,  sin  reportes  de  hepáticas  y  antocerotes  (Müller  2009;  Hässel  de 
+Menéndez & Rubies, 2009).
+Las briófitas comprenden cerca de 20.000 especies distribuidas en todos los ecosistemas del 
+planeta, a excepción de los ambientes marinos y zonas permanentemente congeladas 
+(Shaw et al. 2011). Se distinguen del resto de las plantas por su dominancia gametofítica y 
+por poseer un esporofito reducido, dependiente del gametofito, con un solo esporangio. 
+Además, carecen de tejidos vasculares diferenciados.
+Sus principales características ecológicas incluyen:
+●
+Poiquilohidria (adaptación a variaciones en la disponibilidad de agua)
+●
+Alta capacidad de dispersión a larga distancia
+●
+Tolerancia a bajas temperaturas
+Ecológicamente, cumplen funciones clave:
+●
+Retención de agua y nutrientes
+●
+Control de humedad ambiental
+●
+Prevención de erosión
+●
+Sustrato para otras especies vegetales
+●
+Refugio para microinvertebrados
+●
+Material de nidificación para aves (Glime, 2007)
+En Chile se han registrado aproximadamente:
+●
+900 especies de musgos
+●
+560 especies de hepáticas
+●
+14 especies de antocerotes
+Esto suma unos 1500 taxones de briófitas, representando más de un cuarto de la flora 
+nacional (considerando que existen unas 5500 especies de plantas vasculares; Rodríguez et 
+al., 2018).  Este  porcentaje  supera  ampliamente  la  representación  de  briófitas  a  nivel 
+mundial, donde constituyen apenas el 6% de la flora total (Crepet & Niklas, 2009).
+Sin embargo, los esfuerzos de exploración y sistematización siguen siendo escasos en 
+comparación con los dedicados a la flora vascular. A la fecha, no existe una flora briofítica 
+
+===== p.42 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 43 de 61
+completa de Chile, a diferencia de lo que ocurre con las plantas vasculares, que cuentan 
+con una obra sistemática desde hace más de un siglo (Reiche, 1894–1911).
+La mayoría de las colecciones briofíticas en Chile se concentran en la zona sur y austral, 
+comenzando en el siglo XIX en la Región de Magallanes. En contraste, las regiones centro-
+norte, como Coquimbo, permanecen escasamente documentadas.
+No obstante, algunos esfuerzos históricos han tenido lugar en los bosques y oasis de neblina 
+del norte chico, particularmente en los cerros Fray Jorge, Talinay y Huentelauquén, donde 
+se han identificado microambientes de alta biodiversidad.
+Principales hitos históricos de recolección:
+1917: Primer muestreo en Fray Jorge por el Dr. y la Sra. Skottsberg, revisado por Brotherus 
+(1924).
+1941: Recolectas de Helmut Schwabe en Fray Jorge, revisadas por Herzog (1954) y 
+Grolle (1973).
+1955: Exploración en cerro Talinay por los Skottsberg, material revisado por Arnell (1956).
+
+Especies de Briófitas Registradas en la Zona Centro de Chile
+En Chile, las briófitas presentan rangos de distribución específicos, ya que su crecimiento 
+depende estrechamente de las condiciones ambientales donde se desarrollan. Si bien el 
+conocimiento taxonómico de este grupo es más limitado en comparación con las plantas 
+vasculares, en los últimos años diversas publicaciones científicas han permitido compilar un 
+listado  de  especies  potencialmente  presentes  en  la  zona  central  del  país.  Estas  se 
+encuentran agrupadas en la Tabla RESULTADOS-12.
+Tabla RESULTADOS-12. Especies de Briófitas registradas en la zona Central de Chile
+Familia
+Género/Especie
+Categoría de Conservación
+Frullaniaceae
+Frullania magellani
+No Evaluada (NE)
+Lejeuneaceae
+Lejeunea globosifio
+No Evaluada (NE)
+Lepidoziaceae
+Lepidozia aevifolia
+No Evaluada (NE)
+Geocalycaceae
+Leptoscyphus chilensis
+No Evaluada (NE)
+Lunulariaceae
+Lunularia cruciata
+No Evaluada (NE)
+Metzgeriaceae
+Metzgeria divaricata
+No Evaluada (NE)
+Porellaceae
+Porella chilensis
+No Evaluada (NE)
+Spahcrocarpaceae
+Sphaerocarpus stipitotus
+No Evaluada (NE)
+Spahcrocarpaceae
+Sphoerocarpus texanus
+No Evaluada (NE)
+Corsiniaceae
+Corsinia coriandrina
+No Evaluada (NE)
+Gigaspermaceae
+Costesia macrocarpa
+Casi Amenazada (NT)
+Aytoniaceae
+Cryptomitrium tenerum
+No Evaluada (NE)
+
+===== p.43 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 44 de 61
+Familia
+Género/Especie
+Categoría de Conservación
+Aytoniaceae
+Asterella chilensis
+No Evaluada (NE)
+Aytoniaceae
+Plogiochasma rupestre
+No Evaluada (NE)
+Aytoniaceae
+Reboulia hemisphoerico
+No Evaluada (NE)
+Cleveaceae
+Clevea spothysi
+No Evaluada (NE)
+Cleveaceae
+Sauteria chilensis
+No Evaluada (NE)
+Targioniaceae
+Torgionia hypophylia
+No Evaluada (NE)
+Marchantiaceae
+Marchantia berteroana
+No Evaluada (NE)
+Marchantiaceae
+Marchantia foliacea
+No Evaluada (NE)
+Marchantiaceae
+Marchantia chenopoda
+No Evaluada (NE)
+Marchantiaceae
+Marchantia polymorpha
+No Evaluada (NE)
+Ricciaceae
+Ricciocorpus natans
+No Evaluada (NE)
+Ricciaceae
+Riccia ciliata
+No Evaluada (NE)
+Ricciaceae
+Riccia crystallina
+No Evaluada (NE)
+Ricciaceae
+Riccia nigrella
+No Evaluada (NE)
+Ricciaceae
+Riccia sorocarpa
+No Evaluada (NE)
+Ricciaceae
+Riccia squamata
+No Evaluada (NE)
+Anthocerotaceae
+Anthoceros punctatus
+No Evaluada (NE)
+Anthocerotaceae
+Anthoceros serrotus
+No Evaluada (NE)
+Anthocerotaceae
+Anthoceros patagonicus
+No Evaluada (NE)
+Anthocerotaceae
+Anthoceros peruvianus
+No Evaluada (NE)
+Notothyladaceae
+Phococeros dendroceroides
+No Evaluada (NE)
+Notothyladaceae
+Paraphymatoceros 
+diadematus
+No Evaluada (NE)
+Dendrocerotaceae
+Phocomegaceros chiloensis
+No Evaluada (NE)
+Fuente: 13° al 19° Proceso de Clasificación de Especies (RCE), consulta de Líneas de Base, publicaciones 
+científicas.
+
+Especies de Briófitas en Categoría de Conservación
+El D.S. N°44 de 2021 y D.S. N°10 de 2023 del MMA, aprueba el RCE según Estado de 
+Conservación, considerado desde el 12° al 19° Proceso de Clasificación de Especies. En la 
+Tabla RESULTADOS-13, se presentan las especies pertenecientes al grupo de las Briófitas que 
+se  encuentran  clasificadas  en  categorías  de  conservación  registradas  en  la  región 
+Metropolitana y región de Valparaíso. 
+Tabla RESULTADOS-13. Especies de Briófitas con potencial presencia en área del Proyecto
+Especie
+Categoría de Conservación
+Referencia
+Costesia macrocarpa
+Casi Amenazada (NT)
+12° RCE
+Fuente: 12° al 19° Proceso de Clasificación de Especies Silvestres (RCE).
+
+===== p.44 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 45 de 61
+4.2.
+Resultados generales
+A continuación, se presentan los resultados de la campaña de invierno 2024 y otoño 2025 
+Durante la campaña de prospección del año 2025, se identificaron 8 taxones de hongos 
+macroscópicos, con predominancia del orden Agaricales, dentro de los cuales se destacan 
+Bovista plumbea, Agrocybe cilindracea, Disciseda candida, y Pluteus nanus. Estas especies 
+fueron  observadas  desarrollándose  sobre  sustrato  edáfico  y  materia  orgánica  en 
+descomposición, bajo condiciones típicas del matorral esclerófilo.
+Durante la ejecución de la campaña de terreno el año 2024, se evidenció la presencia del 
+componente en el área del Proyecto mediante el registro de 7 hallazgos de fructificaciones 
+de hongos macromicetos, dentro de los cuales fueron identificadas 4 especies.
+En  cuanto  a  los  líquenes,  el  año  2025  se  registraron  4  taxones,  con  una  mayor 
+representatividad del género  Chrysothrix. Esta distribución sugiere una dominancia de 
+líquenes  tolerantes  a  condiciones  de  alta  exposición  lumínica  y  sustratos  con  cierta 
+influencia antrópica, como corteza expuesta.
+La presencia del componente Líquenes durante la campaña de invierno, arrojó el registro 
+de 8 hallazgos de talos liquénico, dentro de los cuales fueron identificadas 5 especies. 
+Cabe señalar que, según los antecedentes disponibles, todas las especies determinadas se 
+encuentran clasificadas en la categoría de "No Evaluado (NE)”, no identificándose taxones 
+con estado de conservación amenazado o con restricciones de manejo asociadas.
+Es importante mencionar que el estudio de líquenes en este ecosistema proporciona valiosa 
+información sobre la calidad del aire y la presencia de contaminantes atmosféricos. Dada 
+su  sensibilidad  a  la  contaminación,  los  líquenes  pueden  servir  como  bioindicadores, 
+permitiendo evaluar la salud ambiental   y detectar posibles impactos antropogénicos. En 
+relación con las Interacciones, la relación simbiótica entre los componentes fúngicos y 
+fotobiontes de los líquenes es esencial para su supervivencia. Las condiciones específicas 
+del área de estudio como la altitud y la humedad relativa influyen en la composición de 
+estas  asociaciones  simbióticas,  ofreciendo  un  terreno  fértil  para  investigaciones  más 
+profundas sobre los factores que determinan la dinámica de estas comunidades.
+La conservación de los líquenes adquiere una importancia crucial en el contexto de la 
+preservación  de  la  biodiversidad.  Dado  que  estos  organismos  desempeñan  roles 
+ecológicos esenciales, su estudio y protección contribuyen directamente a la salud general 
+del ecosistema, promoviendo la estabilidad y la resiliencia de la flora, fauna y funga 
+circundantes. 
+En relación con el componente briófitas, durante la campaña de terreno el año 2025 se 
+identificaron dos taxones dentro del área del Proyecto. Una de estas especies es nativa de 
+Chile, específicamente Barbula costesii, la cual ha sido previamente registrada en el país y 
+
+===== p.45 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 46 de 61
+es  considerada  representativa  de  ciertos  hábitats  con  condiciones  ambientales 
+particulares. La segunda especie, si bien no presenta una distribución nativa, forma parte 
+del conjunto de briófitas observadas en la zona.
+Ambas especies se encuentran actualmente bajo la categoría de conservación “No 
+Evaluada” (NE), según los criterios establecidos por la legislación ambiental nacional y los 
+listados  oficiales  disponibles.  Esta  categoría  indica  que  aún  no  se  ha  realizado  una 
+evaluación formal del riesgo de extinción para estas especies, lo cual resalta la necesidad 
+de continuar con estudios sistemáticos que permitan caracterizar adecuadamente su 
+estado de conservación y su rol ecológico dentro del ecosistema.
+En la ejecución de la campaña de terreno el año 2024 , se registró la presencia del 
+componente Briófitas en el área del Proyecto mediante el registro de 11 hallazgos, de los 
+cuales se identificaron 5 especies. 
+Finalmente es importante concluir que los contaminantes atmosféricos afectan mucho a los 
+procesos vitales de los líquenes y las briófitas. Tanto para la respiración del componente del 
+hongo como el del alga y su fotosíntesis. Es importante considerar que la desaparición de los 
+líquenes, junto a la de los musgos, es la mejor voz de alerta de la contaminación ambiental 
+en un determinado lugar. 
+Es importante mencionar que, dadas las características del terreno asociado a la cordillera 
+de la costa, se recomienda realizar nuevos levantamientos en exposiciones y épocas 
+diferentes, de esta manera se podrían integrar datos que aportan hongos y líquenes como 
+organismos bioindicadores por excelencia.
+4.2.1.
+Resultados Hongos invierno 2024 – otoño 2025
+Durante  la  prospección  del  terreno,  se  identificaron  sectores  que  cumplían  con  las 
+condiciones de hábitat propicios para el desarrollo de hongos. Estos sectores se fueron 
+delimitando hasta establecer un Área de exploración
+El área de estudio fue igual para la búsqueda de hongos, líquenes y briofitas este criterio 
+estuvo dado por las variables a considerar según metodología de muestreo y también por 
+motivos de norma y seguridad.  
+Se llevó a cabo una campaña de muestreo en el área de interés, correspondiente al 
+proyecto, durante la temporada de invierno de 2024 y otoño de 2025. Para acceder a los 
+puntos de muestreo, se utilizó una camioneta 4x4, y se recorrieron a pie cada una de las 
+áreas relevantes. 
+Durante esta actividad, se recopiló información sobre el sustrato, la altitud sobre el nivel del 
+mar, las coordenadas y la vegetación circundante, levantando un total de 12 puntos de 
+muestreo asociada a hongos, ver Tabla RESULTADOS-14.
+
+===== p.46 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 47 de 61
+Tabla RESULTADOS-14. Caracterización y distribución de hongos en el área de proyecto (invierno 
+2024 – otoño 2025)
+Punto de 
+muestreo
+Año
+Tipo de sustrato 
+Endemismo
+Distribución 
+P07
+2025
+suelo
+No
+Cosmopolita
+P08
+2025
+suelo
+No
+Cosmopolita
+P09
+2025
+Suelo
+No
+Cosmopolita
+P09
+2025
+Suelo
+No
+Cosmopolita
+P10
+2025
+Suelo
+No
+Cosmopolita
+P14
+2025
+Suelo
+No
+Cosmopolita
+P17
+2025
+Suelo
+No
+Cosmopolita
+P19
+2025
+Suelo
+No
+Cosmopolita
+P20
+2025
+Materia orgánica
+No
+Cosmopolita
+P32
+2025
+Suelo
+No
+Cosmopolita
+P32
+2025
+Suelo
+No
+Cosmopolita
+P33
+2025
+Suelo
+No
+Cosmopolita
+PM2
+2024
+Suelo
+No
+Cosmopolita
+PM9
+2024
+Suelo
+No 
+Cosmopolita
+PM11
+2024
+Suelo
+No
+Cosmopolita
+PM14
+2024
+Suelo 
+No
+Cosmopolita
+PM18
+2024
+Suelo
+No
+Cosmopolita
+PM25
+2024
+Suelo
+No
+Cosmopolita
+En la Tabla RESULTADOS-15, se aprecian las especies identificadas taxonómicamente cuya 
+presencia fue registrada en el área del Proyecto.
+Tabla RESULTADOS-15. Especies de hongos identificadas en el área del Proyecto
+División
+Clase
+Orden
+Familia
+Género
+Especie
+Basidiomycot
+a
+Agaricomycetes
+Agaricales
+Agaricaceae
+Bovista
+Bovista 
+plumbea
+Basidiomycot
+a
+Basidiomycetes
+Agaricales
+Strophariaceae
+Agrocybe
+Agrocybe 
+cilindracea
+Basidiomycot
+a
+Agaricomycetes
+Agaricales
+Agaricaceae
+Disciseda
+Disciseda 
+candida
+Basidiomycot
+a
+Agaricomycetes
+Agaricales
+Pluteaceae
+Pluteus
+Pluteus nanus
+Basidiomycot
+a
+Agaricomycetes
+Agaricales
+Tricholomataceae
+Gymnopus 
+(Pers.) 
+Roussel
+Collybia 
+erythropus
+Ascomycota
+Himenoascomycetes
+Pezizales
+Pyronemataceae
+Cheilymenia
+Cheilymenia 
+stercorea
+Basidiomycot
+a
+Agaricomicetos
+Agaricomicetos
+Psathyrellaceae
+Coprinus
+Coprinus 
+atramentariu
+s
+Basidiomycot
+a
+Agaricomicetos
+Geastrales
+Geastraceae
+Geastrum
+Geastrum 
+floriforme
+Fuente: Geoverde, 2025.
+
+===== p.47 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 48 de 61
+Figura RESULTADOS-2. Puntos con hallazgos de hongos dentro del área del proyecto – Campaña 
+otoño 2025
+Fuente: Geoverde, 2025.
+4.2.2.
+Resultados Líquenes
+El área del proyecto para los líquenes, coincidente con la definida para los hongos, se ubica 
+en la región de Valparaíso. Su delimitación responde a criterios técnico-científicos conforme 
+a lo establecido por él SEA (2024), con el fin de evaluar posibles efectos ambientales según 
+el artículo 11 de la Ley N° 19.300.
+La  delimitación  del  área  de  estudio  se  realizó  previamente  en  función  del  polígono 
+proporcionado en formato kmz, lo cual permitió planificar y estructurar el plan de muestreo 
+para el componente de líquenes. Dado el carácter perenne de estos organismos, su 
+recolección puede efectuarse durante todo el año. No obstante, se consideraron variables 
+clave como el tipo de sustrato ocupado y las formas de crecimiento observadas, ya que 
+estas influyen directamente en la presencia y visibilidad de los talos.
+Asimismo, se integraron en la planificación aspectos logísticos y preventivos asociados a 
+eventuales contingencias en terreno, tales como condiciones meteorológicas adversas (ej. 
+fuertes vientos) y factores de seguridad operativa para el equipo de trabajo.
+
+===== p.48 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 49 de 61
+Como resultado de la campaña, se establecieron muestras de líquenes, las que fueron 
+registradas, colectadas y posteriormente sometidas a análisis e identificación taxonómica.
+En  la  Tabla  RESULTADOS-16,  se  presenta  información  asociada  a  la  observación 
+macroscópica de las especies encontradas durante la temporada de otoño 2025 e invierno 
+2024.
+Tabla RESULTADOS-16. Caracterización y distribución de los líquenes en el área del proyecto (invierno 
+2024 – otoño 2025)
+Punto de muestreo
+Año de campaña
+Tipo de sustrato
+Forma
+Distribución
+P02
+2025
+Corticola
+Crustosa
+Cosmopolita
+P17
+2025
+Cortícola
+Crustosa
+Cosmopolita
+P18
+2025
+Terricola
+Crustosa
+Cosmopolita
+P21
+2025
+Saxícola
+Crustosa
+Cosmopolita
+P25
+2025
+Terrícola
+Foliosa
+Cosmopolita
+P28
+2025
+Cortícola
+Crustosa
+Cosmopolita
+PM4
+2024
+Saxícola
+Crustoso
+Cosmopolita
+PM5
+2024
+Saxícola
+Crustoso
+Cosmopolita
+PM13
+2024
+Saxícola
+Crustoso
+Cosmopolita
+PM14
+2024
+Cortícola
+Folioso
+Cosmopolita
+PM14
+2024
+Cortícola
+Crustoso
+Cosmopolita
+PM19
+2024
+Cortícola
+Crustoso
+Cosmopolita
+PM19
+2024
+Cortícola
+Crustoso
+Cosmopolita
+PM25
+2024
+Cortícola
+Crustoso
+Cosmopolita
+Fuente: Geoverde, 2025
+
+Posición Taxonómica de las muestras de líquenes recolectadas 
+En la Tabla RESULTADOS-17, se aprecian las especies identificadas taxonómicamente cuya 
+presencia fue registrada en el área del Proyecto.
+Tabla RESULTADOS-17. Posición Taxonómica de las muestras de líquenes recolectadas 
+División
+Clase
+Orden
+Familia
+Género
+Especie
+Ascomycota
+Lecanoromycetes
+Caliciales
+Caliciaceae
+Buellia
+Buellia 
+erubescens
+Ascomycota
+Arthoniomycetes
+Arthoniales
+Chrysothricaceae
+Chrysothrix
+Chrysothrix 
+candelaris
+Ascomycota
+Lecanoromycetes
+Lecanorales
+Parmeliaceae
+Flavoparmelia
+Flavoparmelia 
+baltimorensis
+Ascomycota
+Lecanoromycetes
+Rhizocarpales
+Rhizocarpaceae
+Rhizocarpon
+Rhizocarpon 
+lecanorium
+Fuente: Geoverde, 2025
+
+===== p.49 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 50 de 61
+Figura RESULTADOS-3. Puntos con hallazgos de líquenes dentro del área del proyecto
+Fuente: Geoverde, 2025.
+4.2.3.
+ Resultados Briofitas
+Durante la campaña de terreno realizada el año 2025 en el área del Proyecto, se confirmó 
+la presencia del componente Briófitas mediante el registro de 2 hallazgos, a partir de los 
+cuales fue posible identificar 2 especies distintas. 
+En la ejecución de la campaña de terreno, del año 2024 de la temporada de invierno se 
+registró la presencia del componente Briófitas en el área del Proyecto mediante el registro 
+de 11 hallazgos, de los cuales se identificaron 4 especies. 
+
+===== p.50 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 51 de 61
+En  la  Tabla  RESULTADOS-18,  se  presenta  información  asociada  a  la  observación 
+macroscópica de las especies encontradas en 2 muestras levantadas correspondiente a 
+especies de briofitas.
+Tabla RESULTADOS-18. Caracterización de briofitas en el área del proyecto (invierno 2024 – otoño 
+2025)
+Punto de muestreo
+Año de campaña
+Tipo de sustrato
+P01
+2025
+Suelo
+P04
+2025
+Suelo
+PM9
+2024
+Suelo
+PM9
+2024
+Suelo
+PM14
+2024
+Suelo
+PM14
+2024
+Suelo
+PM19
+2024
+Suelo
+PM20
+2024
+Suelo
+PM21
+2024
+Suelo
+PM23
+2024
+Suelo
+PM23
+2024
+Suelo
+PM23
+2024
+Suelo
+Fuente: Geoverde, 2025.
+
+Posición Taxonómica de las Muestras de briofitas Recolectadas 
+En la Tabla RESULTADOS-19, se aprecia una sistematización de las especies pertenecientes a 
+la división de las Briófitas identificadas, cuya presencia fue registrada en el AI del Proyecto.
+Tabla RESULTADOS-19. Especies de Briófitas Identificadas en el área del Proyecto invierno 2024 y 
+otoño 2025 
+División
+Clase
+Orden
+Familia
+Género
+Especie
+Bryophyta
+Bryopsida
+Pottiales
+Pottiaceae
+Barbula
+Barbula costesii
+Bryophyta
+Bryopsida
+Funariales
+Funariaceae
+Funaria
+Funaria 
+hygrometrica
+Bryophyta
+Bryopsida
+Bryales
+Bryaceae
+Brachymenium
+Brachy menium
+Bryophyta
+Bryopsida
+Funariales
+Funariaceae
+Funaria
+Funaria 
+hygrometrica
+                                                                       Fuente: Geoverde, 2024.
+
+===== p.51 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 52 de 61
+Figura RESULTADOS-4. Puntos con hallazgos de briofitas dentro del área de proyecto
+Fuente: Geoverde, 2025.
+4.3.
+ Singularidades Ambientales
+Con base en la información obtenida durante la campaña de terreno, los análisis de 
+laboratorio y el estudio de las singularidades ambientales asociadas a los componentes 
+hongos, líquenes y briófitas, se elaboró una descripción técnica conforme a los criterios 
+establecidos en la “Guía para la descripción de los componentes suelo, flora y fauna de 
+ecosistemas terrestres en el SEIA” (SEA, 2024).
+Durante el año 2025 en el área de proyecto se identificaron un total de 14 especies 
+pertenecientes a estos tres componentes: 8 especies de hongos, 4 especies de líquenes y 2 
+especies de briófitas, todas representativas de la biodiversidad local. Cabe señalar que la 
+totalidad de estas especies se encuentra actualmente bajo la categoría de conservación 
+“No Evaluada” (NE).
+En cuanto al rango de distribución, se determinó que las especies de hongos y líquenes 
+corresponden  a  taxones  de  distribución  cosmopolita,  sin  presencia  de  especies  de 
+
+===== p.52 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 53 de 61
+distribución nativa en dichos grupos. En el caso de las briófitas, se registró una especie con 
+origen fitogeográfico nativo de Chile, identificada como Barbula costesii.
+Con la información recogida en la campaña de terreno, datos de laboratorio y junto al 
+análisis de las singularidades ambientales asociadas a la componente hongos, líquenes y 
+briófitas y siguiendo los criterios y directrices indicados en la “Guía para la descripción de los 
+componentes suelo, flora y fauna de ecosistemas terrestres en el SEIA” (SEA 2024), se 
+describen a continuación las siguientes observaciones sobre singularidades ambientales:
+Durante el año 2024 en el AI del Proyecto, se realizó el hallazgo de 4 especies pertenecientes 
+al componente hongos, 5 especies perteneciente al componente líquenes y 5 especies 
+perteneciente a briófitas, en total 14 especies representativas de la biodiversidad del sector 
+donde se emplaza el Proyecto, las cuales se encuentran en categoría “No Evaluada” (NE). 
+Respecto al rango de distribución de las especies halladas de los componentes hongos y 
+líquenes, no se encontraron especies de distribución nativa. Las 4 especies fúngicas y las 5 
+especies liquénicas fueron clasificadas como Cosmopolita. En cuanto a las Briófitas se 
+hallaron 3 especies con distribución Nativa, una de ellas Barbula costesii, nativa de Chile. 
+4.4.
+Estado de Conservación
+Para determinar el estado de conservación o amenaza actual de las especies de hongos, 
+líquenes  registrados  dentro  del  Área  de  Influencia  (AI),  se  utilizó  como  referencia  el 
+Reglamento de Clasificación de Especies del Ministerio del Medio Ambiente (MMA). Según 
+lo establecido en el artículo 37 de la Ley 19.300 y el Reglamento para la Clasificación de 
+Especies Silvestres (D.S. N° 75/2004 del MINSEGPRES), modificado por el D.S. N° 29/2011 del 
+MMA, la clasificación de las especies de plantas, briófitas, algas, hongos y animales silvestres 
+será  determinada  por  el  Reglamento  mencionado.  Esta  clasificación  se  basará  en 
+antecedentes científico-técnicos y en el estado de conservación de las especies, utilizando 
+las categorías recomendadas por la Unión Internacional para la Conservación de la 
+Naturaleza (UICN) u otros organismos internacionales que emitan pautas en estas materias.
+4.4.1.
+ Hongos
+De la lista de especies de hongos macromicetos presentes dentro del área del Proyecto, 
+durante las campañas de invierno 2024 y otoño 2025, ninguna de ellas presenta una 
+categoría de conservación actual para la región de Valparaíso, ni tampoco se presentaron 
+especies endémicas.
+4.4.2.
+Líquenes
+Se utilizó como instrumento para determinar el estado de conservación de cada especie de 
+liquen, el boletín Nº47 del museo de historia natural en el cual se establecen las categorías 
+de conservación de líquenes nativos de Chile. (Quilhot et al., 1998). Dentro del gran equipo 
+
+===== p.53 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 54 de 61
+de trabajo que integra esta investigación, es posible destacar la participación de Iris Pereira, 
+Taxónoma Chilena con 45 años de experiencia en determinación de especies de líquenes. 
+Y el Listado de Especies Clasificadas desde el 1º al 20º Proceso de Clasificación RCE 
+(actualizado a marzo de 2026)
+En el caso de los líquenes, según lo observado durante esta campaña de otoño 2025, no 
+existen especies presentes dentro del área del proyecto que poseen alguna categoría de 
+conservación. 
+Las singularidades ambientales consideradas para el componente, según lo recomendado 
+por la guía del SEA (2015), son las siguientes:
+●
+Presencia  de  poblaciones  de  hongos,  líquenes  y  briófitas  únicas  o  de  baja 
+representatividad nacional.
+●
+Presencia  de  especies  clasificadas  según  su  estado  de  conservación  como 
+amenazadas, incluyendo la categoría “Casi amenazadas”.
+●
+Presencia de especies endémicas
+Para el caso de los líquenes presentes dentro del AI, no existen especies posibles de 
+presentar una singularidad dada la ausencia de endemismo y la categoría determinada
+4.4.3.
+Briofitas
+El D.S. N°44 de 2021 y D.S. N°10 de 2023 del MMA, aprueba el RCE según Estado de 
+Conservación, considerado desde el 12° al 20° Proceso de Clasificación de Especies. En la 
+Tabla RESULTADOS-20, se presenta la especie perteneciente al grupo de las Briófitas que se 
+encuentran clasificadas en categorías de conservación como “Casi amenazada (NT)” 
+registradas en la región Metropolitana y región de Valparaíso. 
+Tabla RESULTADOS-20. Especies de Briófitas con potencial presencia en AI del Proyecto
+Especie
+Categoría de Conservación
+Referencia
+Costesia macrocarpa
+Casi Amenazada (NT)
+12° RCE
+Fuente: 12° al 20° Proceso de Clasificación de Especies Silvestres (RCE).
+4.5.
+Análisis climático y su implicancia ecológica en la flora no vascular
+El análisis de cambio climático fue realizado a nivel comunal, tomando como unidad de 
+referencia la comuna de Valparaíso. Se evaluaron las variables climáticas de temperatura 
+media anual y precipitación acumulada anual, utilizando series temporales que abarcan 
+desde 1980 hasta proyecciones al año 2065. De acuerdo con los datos obtenidos, la 
+temperatura media anual histórica para la zona corresponde a 15,9 °C, proyectándose un 
+aumento superior a 1 °C posterior al año 2040. Estas tendencias climáticas implican un 
+aumento en los niveles de estrés ambiental, especialmente en ecosistemas semiáridos 
+
+===== p.54 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 55 de 61
+donde pequeñas variaciones térmicas y de humedad tienen impactos significativos sobre la 
+biodiversidad.
+En relación con los hallazgos de campo, todos los ejemplares colectados dentro del Área 
+del Proyecto fueron registrados en formaciones vegetales de matorral. Esta observación 
+sugiere una estrecha relación ecológica entre la vegetación dominante y las comunidades 
+de hongos, líquenes y briófitas, grupos que conforman la denominada flora no vascular o 
+criptógamas. En efecto, estas especies tienden a establecerse en ambientes con cobertura 
+vegetal arbustiva y suculenta, la cual les proporciona tanto sustrato físico como condiciones 
+microclimáticas favorables para su desarrollo.
+Dado lo anterior, se considera que cualquier alteración en la vegetación –producto de 
+presiones climáticas o antrópicas– conllevaría un detrimento indirecto pero significativo 
+sobre los componentes de flora no vascular. Esta aproximación permitirá estimar de manera 
+indirecta  la  vulnerabilidad  de  las  criptógamas  ante  escenarios  de  riesgo  climático 
+proyectados para la zona.
+A continuación, se presentan gráficos que muestran la representatividad de las familias de 
+hongos y líquenes analizados y que representan a ambas campañas.
+Figura RESULTADOS-5. Representación de familia de hongos en el área del proyecto
+Fuente: Geoverde, 2025.
+
+===== p.55 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 56 de 61
+Figura RESULTADOS-6. Representación de familia de líquenes en el área del proyecto
+Fuente: Geoverde, 2025.
+5.
+CONCLUSIONES
+Considerando los resultados obtenidos durante las campañas de terreno realizadas en los 
+años 2024 y 2025 en el Área del Proyecto, se evidencia la presencia y representatividad de 
+los  componentes  micológico,  liquénico  y  briológico,  asociados  principalmente  a  las 
+condiciones climáticas y estacionales propias de la zona mediterránea costera de la 
+comuna de Viña del Mar, Región de Valparaíso.
+La  campaña  efectuada  durante  septiembre  de  2024,  correspondiente  a  la  estación 
+invernal, permitió registrar un total de 4 especies de hongos pertenecientes a 4 géneros, 5 
+especies de líquenes asociadas a 4 géneros y 4 especies de briófitas correspondientes a 4 
+géneros. Posteriormente, durante la campaña desarrollada en 2025, se identificaron 8 
+taxones de hongos, 4 taxones de líquenes y 2 taxones de briófitas distribuidos en 38 puntos 
+de muestreo, observándose un incremento en la riqueza del componente fúngico respecto 
+de la campaña anterior, situación consistente con los patrones fenológicos descritos para 
+los macrohongos en ecosistemas mediterráneos y templados de Chile, donde la mayor 
+diversidad suele concentrarse durante las estaciones húmedas y de transición.
+Los  antecedentes  bibliográficos  y  los  análisis  de  laboratorio  realizados  permitieron 
+establecer que las especies identificadas en ambas campañas no presentan actualmente 
+categorías oficiales de conservación bajo el Reglamento para la Clasificación de Especies 
+Silvestres  (RCE),  siendo  clasificadas  mayoritariamente  como  "No  Evaluadas"  (NE).  No 
+
+===== p.56 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 57 de 61
+obstante, resulta relevante señalar que el conocimiento respecto a la diversidad y estado 
+de conservación de hongos, líquenes y briófitas en Chile continúa siendo limitado y presenta 
+importantes vacíos de información. Particularmente en el caso de los hongos, el número de 
+especies evaluadas bajo el RCE sigue siendo reducido en comparación con la diversidad 
+existente, mientras que numerosas especies aún no cuentan con antecedentes suficientes 
+para determinar su estado de conservación. Situación similar ocurre con los líquenes y 
+briófitas, cuyos registros y estudios ecológicos continúan siendo escasos a nivel nacional.
+Desde  una  perspectiva  biogeográfica,  las  especies  de  hongos  registradas  presentan 
+principalmente una distribución cosmopolita, patrón compartido por gran parte de los 
+líquenes observados. En contraste, el componente briológico evidenció la presencia de 
+especies nativas de Chile y Sudamérica, destacando la relevancia ecológica de estos 
+organismos  como  parte  de  los  procesos  de  retención  hídrica,  formación  de  suelo  y 
+regulación microclimática a escala local.
+Asimismo, los líquenes identificados corresponden a formas de vida saxícolas, terrícolas y 
+cortícolas, las cuales cumplen funciones ecológicas fundamentales como la meteorización 
+de sustratos minerales, la formación inicial de suelo, la participación en procesos de 
+descomposición  y  reciclaje  de  materia  orgánica,  además  de  constituir  reconocidos 
+bioindicadores de calidad ambiental y condiciones del sustrato.
+Finalmente, al integrar los antecedentes ecológicos obtenidos en terreno con los escenarios 
+regionales de cambio climático, se reconoce que el área presenta una alta vulnerabilidad 
+frente a amenazas asociadas a incendios de vegetación y modificaciones en los patrones 
+de  precipitación,  factores  que  podrían  afectar  significativamente  la  composición  y 
+permanencia  de  estas  comunidades  criptogámicas.  En  este  contexto,  los  registros 
+obtenidos  durante  ambas  campañas  constituyen  una  línea  base  relevante  para  el 
+seguimiento ambiental del Proyecto y aportan antecedentes valiosos para el conocimiento 
+y conservación de grupos biológicos históricamente subrepresentados en los estudios de 
+biodiversidad nacionales.
+
+===== p.57 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 58 de 61
+6.
+REFERENCIAS
+“Pollution monitoring with lichens” D.H.S. Richardson (Ed. The Richmond Publishing Co, 
+Ltd. 1992) 
+ALEXOPOULOS, C.J., C.W. MIMS & M. BLACKWELL. 1996. Introductory mycology (4th Ed. 
+pp. 868) Estados Unidos, EEUU: John Wiley & Sons, Inc.
+Biota  Colombiana,  vol.  14,  núm.  2,  julio-diciembre,  2013,  pp.  1-12  Instituto  de 
+Investigación de Recursos Biológicos "Alexander von Humboldt" Bogotá, Colombia.
+Carla González de Luca. (2020) “Evaluación de la comunidad de líquenes en matorral y 
+bosque esclerófilo una temporada después de un incendio en el Santuario de la 
+Naturaleza Quebrada de la Plata”. Universidad de Chile.
+CREPET W.L. & NIKLAS K.J. 2009. Darwin's second ‘abominable mystery’: why are there so 
+many angiosperm species? American Joutnal of Botany 96: 366–381.
+Dahlberg, A., & G. M. Mueller. 2011. Applying IUCN red - listing criteria for assessing and 
+reporting on the conservation status of fungal species. Fungal Ecology, 4 (2), 147–162.
+David L. Hawksworth D., Iturriaga T., Crespo A. (2005) “Líquenes como bioindicadores 
+inmediatos de contaminación y cambios medioambientales en los trópicos” Universidad 
+Complutense de Madrid, España. 
+Diagnóstico del estado y tendencia de la biodiversidad en las regiones de Chile 
+Proyecto  N°  82692:  “Planificación  Nacional  de  la  Biodiversidad  para  apoyar  la 
+implementación del Plan Estratégico de la Convención de Diversidad Biológica (CDB) 
+2011-2020”.
+DÍAZ C & L LÓPEZ (2017). Aportes al conocimiento de la biota Liquenológica del Matorral 
+y Bosque Esclerófilo: Estudio de la diversidad liquénica del Parque público El Panul. Tesis 
+de Pregrado. Universidad Metropolitana de Ciencias de la Educación, Santiago, Chile)., 
+2020.
+Estado de conservación (Quilhot et al., 1998). 
+Estado del arte de la conservación del reino Fungi en Chile.  State of the art in the 
+conservation of the kingdom Fungi in Chilet: 
+Estrategia  Regional  para  la  Conservación  de  la  Biodiversidad  en  la  Región 
+Metropolitana de Santiago 2015-2025
+Estudio Florístico y vegetacional en el área del proyecto GEF corredores biológicos de 
+Montaña. Informe para la comuna de Til Til. Ministerio de Medio Ambiente. (2020)
+
+===== p.58 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 59 de 61
+FOLLMANN, G. & J. REDÓN. 1972. Erganzungen zur Flechtenflora der nordchilenischen 
+Nebeloasen Fray Jorge und Talinay. Willdenowia 6: 431-460.
+FURCI, G. 2013. Guía de Campo Hongos de Chile. Fundación Fungi.
+FURCI, G. 2018. Hongos de Chile Volumen II. Guía de campo. Primera edición. Fundación 
+Fungi, Chile. 313p.
+Gajardo, R. 1994. La vegetación natural de Chile. Clasificación y distribución geográfica 
+Edit. Universitaria. Santiago. 
+Galloway,  D.J.  1995.  Los  Líquenes  del  Bosque  Templado  de  Chile.  Lichens  of  the 
+temperate rain forest of Chile. In: J. Armesto, C. Vilagrán y M. Kalin (eds.). Ecología de los 
+bosques nativos de Chile. Santiago de Chile. Editorial Universitaria 101-112 pp. 
+Gemmell, A. R. (1950). Studies the Bryophyta. I. The influence of sexual mechanism on 
+varietal production and distribution of British musci. New Phytologist, 49, 64–71.
+Glime, J.    M.    (2013).    Ecophysiology    of    development: gametogenesis. In Bryophyte 
+Ecology.  Michigan  Technological  University  and  the  International  Association  of 
+Bryologists. Recuperado el 24 de noviembre, 2016
+https://biodiversidadrm.mma.gob.cl/wp-content/uploads/2023/06/8-sexto-informe-
+nacional-de-biodiversidad.pdf
+Ministerio  de  Medio  Ambiente  (MMA):  Proceso  de  clasificación  de  especies. 
+https://clasificacionespecies.mma.gob.cl/; Iris Pereira.,2019 y actualizado a mayo de 
+2022.
+Marín, C., Torres, D., Furci, G., Godoy, R., & Palfner, G. (2018). Estado del arte de la 
+conservación del reino Fungi en Chile. Biodiversidata, 7, 98–115. 
+Iris Pereira; Frank Müller, Aly Valderrama, (2006) Diversity and distribution of Bryophytes 
+and Lichens of El Colorado, Central Chile. 
+Javiera Pineda Cáceres, Susana Morano Bucher, Osvaldo J Vidal. (2020) “Catálogo de 
+las colecciones de líquenes de la región de Magallanes y Antártica Chilena depositadas 
+en el herbario del Instituto de la Patagonia (HIP)” 
+Lazo W. 2016. Segunda edición “Atlas Micológico de Chile”.
+Ley Chile - Vinculaciones - Biblioteca del Congreso Nacional (bcn.cl)
+Lichens: An Illustrated Guide to the British and Irish Species” F. S. Dobso (Ed. The Richmond 
+Publishing Co, Ltd. 2011)  
+Líquenes: Guía de Campo de los Líquenes, Musgos y Hepáticas Volkmar W., Ruprecht D., 
+2004 (España).
+
+===== p.59 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 60 de 61
+Loppi S., Giovanelli L., Pirintso S., Putorti E y Corsini A. (1997). Lichens as bioindicators of 
+recent changes in air quality (Montecatini Terme, Italy). Ecol. Medit. 23, 53–56. 
+Mancilla, V., Henrriquez, J. y Vera, J.  2008. Biodiversity of macrofungi of the Magallanes 
+National Reserve.
+MARGULIS L., SCHWARTZ K. 1998. Kingdom Fungi. En: Five Kingdoms: an illustrated guide 
+to the phyla of life on earth. 3rd ed. W.H. Freeman and Company, New York, EE. UU.pp. 
+346 - 367.
+McKNIGHT, K., McKNIGHT, V. 1987. Peterson Field Guides Mushrooms. A field guides to 
+Mushrooms, North América.
+Ministerio  de  Medio  Ambiente.  (2024,  mayo).  Clasificación  según  estado  de 
+conservación. https://clasificacionespecies.mma.gob.cl/
+Ministerio del Medio Ambiente (MMA). 14° Proceso de Clasificación de Especies (2018 – 
+2019).
+Ministerio del Medio Ambiente (MMA). 15° Proceso de Clasificación de Especies (2018 – 
+2019).
+Ministerio del Medio Ambiente (MMA). 16° Proceso de Clasificación de Especies (2019 – 
+2020).
+Ministerio del Medio Ambiente (MMA). 17° Proceso de Clasificación de Especies (2020 – 
+2021).
+Ministerio del Medio Ambiente (MMA). 18° Proceso de Clasificación de Especies (2022).
+Ministerio del Medio Ambiente (MMA). 19° Proceso de Clasificación de Especies (2022-
+2024).
+Mueller, G., Bills, G. y Foster, M. 2004. Biodiversity of fungi: inventory and monitoring 
+methods. London. Elsevier Academic Press. 777p. 
+Proyecto  GEFSEC  ID  5135  "Protegiendo  la  Biodiversidad  y  Múltiples  Servicios 
+Ecosistémicos en Corredores Biológicos de Montaña, en el Ecosistema Mediterráneo de 
+Chile”. Ministerio del Medio Ambiente - ONU Medio Ambiente (2016-2021). 
+Redón J, W. Quilhot y E. Zuñiga.  1975. Observaciones sistemáticas y ecológicas en 
+líquenes del Parque Nacional Fray Jorge. Anales del Museo de Historia Natural, Chile 8: 
+51-57. 
+REICHE C. 1894–1911. Flora de Chile. 6 vols. Ediciones de la Universidad de Chile, 
+Santiago.
+
+===== p.60 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos CMGIR 
+Informe de Flora no Vascular  terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 61 de 61
+SERVICIO  DE  EVALUACIÓN  AMBIENTAL  (SEA).  2024.  Guía  metodológica  para  la 
+descripción de ecosistemas terrestres. Primera Edición. Santiago, Chile.
+Spegazzini, C. 1910. Fungi Chilenses. Contribución al estudio de los hongos chilenos. 
+Librería Nacional, Buenos Aires, 205 pp.
+Stephenson, S.L., Tsui, C., Rollins, A. W. 2013.  Methods for Sampling and Analyzing 
+Wetland Fungi. En: ANDERSON, J.T. & C.A. DAVIS (eds.): Wetland Techniques: Volume 2: 
+Organisms. Springer. pp: 93 - 121.
+Toledo, F., A. Garcia, F. León & J. Bermejo: Ecología química en hongos y líquenes. Rev. 
+Acad. Colomb. Cicnc. 28 (109): 509428,2004. ISSN: 0370-3908. 
+UICN. (2012). Categorías y Criterios de la Lista Roja de la UICN: Versión 3.1. Segunda 
+edición.  Gland,  Suiza  y  Cambridge,  Reino  Unido:  UICN.  vi  +  34pp.  Originalmente 
+publicado como IUCN Red List Categories and Criteria: Version 3.1.  Second edition. 
+(Gland, Switzerland and Cambridge, UK: IUCN, 2012). 
+Vargas, R., Stanton, D., Nelson, R. 2027. Aportes al conocimiento de la biota liquénica del 
+oasis de neblina de Alto Patache, Desierto de Atacama
+Villagrán Moraga, C. (2020). Historia biogeográfica de las briófitas de Chile. Gayana. 
+Botánica, 77(2), 73-114.
+Wyatt, R.  y Anderson, L.  E.  (1984).  Breeding systems in bryophytes.  En A.  F.  Dyer y J.  G. 
+Duckett (Eds.), The experimental biology of bryophytes (pp.  39–64).  London: Academic 
+Press.

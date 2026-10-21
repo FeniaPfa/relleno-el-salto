@@ -1,0 +1,1794 @@
+
+===== p.0 =====
+ 
+ 
+ 
+Estudio de Impacto Vial 
+ 
+“Centro Metropolitano de Gestión Integral de 
+Residuos” 
+Comuna Viña del Mar 
+ 
+ 
+Enero 2026 
+
+===== p.1 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+2 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+ÍNDICE DE CONTENIDOS 
+1 
+INTRODUCCIÓN ............................................................................................................................................. 3 
+2 
+DESCRIPCIÓN DE LA ACTIVIDAD DE TRANSPORTE ASOCIADA AL PROYECTO ................................................. 4 
+2.1 
+TERRITORIO QUE ABARCA EL TRANSPORTE .............................................................................................................. 4 
+2.2 
+MODOS DE TRANSPORTE Y TIPOS DE VEHÍCULOS ...................................................................................................... 4 
+2.3 
+CAMINOS POR LOS QUE SE REALIZA EL TRANSPORTE ................................................................................................. 5 
+2.4 
+LOCALIDADES DE ORIGEN Y DESTINO .................................................................................................................... 6 
+3 
+ÁREA DE INFLUENCIA .................................................................................................................................... 8 
+4 
+DESCRIPCIÓN DE LA INFRAESTRUCTURA EN ÁREA DE INFLUENCIA .............................................................. 11 
+4.1 
+VÍAS ............................................................................................................................................................. 11 
+4.1.1 
+Ruta 60 .................................................................................................................................................. 11 
+5 
+ANÁLISIS OPERACIONAL DE LA INFRAESTRUCTURA VIAL EXISTENTE ........................................................... 14 
+5.1 
+FUENTES DE INFORMACIÓN DE FLUJOS VEHICULARES .............................................................................................. 14 
+5.2 
+ANÁLISIS DE FLUJO VEHICULAR ........................................................................................................................... 15 
+5.2.1 
+Periodización.......................................................................................................................................... 15 
+5.2.2 
+Flujo Crítico ............................................................................................................................................ 15 
+5.3 
+TASA DE CRECIMIENTO DEL FLUJO VEHICULAR ....................................................................................................... 16 
+5.4 
+ANÁLISIS OPERACIONAL DE LA INFRAESTRUCTURA VIAL ........................................................................................... 17 
+5.4.1 
+Resultados Situación Actual ................................................................................................................... 19 
+5.4.2 
+Análisis operacional de modos no motorizados .................................................................................... 19 
+6 
+ESTIMACIÓN DE LA DEMANDA .................................................................................................................... 20 
+7 
+ANÁLISIS DE IMPACTO VIAL ......................................................................................................................... 21 
+7.1 
+ESCENARIOS DE MODELACIÓN ............................................................................................................................ 21 
+7.1.1 
+Impactos observados ............................................................................................................................. 23 
+8 
+MEDIDAS DE MANEJO AMBIENTAL.............................................................................................................. 25 
+9 
+CONCLUSIONES ........................................................................................................................................... 25 
+9.1 
+INFRAESTRUCTURA VIAL ................................................................................................................................... 25 
+9.2 
+FASE DE CONSTRUCCIÓN .................................................................................................................................. 25 
+9.3 
+FASE DE OPERACIÓN ........................................................................................................................................ 25 
+9.4 
+FASE DE CIERRE .............................................................................................................................................. 26 
+9.5 
+IMPACTOS FÍSICOS O AL MEDIO HUMANO ........................................................................................................... 26 
+ 
+ 
+
+===== p.2 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+3 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+1 
+INTRODUCCIÓN 
+En este informe se analizan los efectos sobre la infraestructura vial debido a la ejecución del Proyecto 
+denominado “Centro Metropolitano de Gestión Integral de Residuos” (en adelante el Proyecto), ubicado 
+en la Región y Provincia de Valparaíso, en la comuna de Viña del Mar.  
+La evaluación de impacto busca establecer indicadores operacionales que permitan cuantificar dos 
+aspectos indicados en el Artículo 7 del Reglamento del Sistema de Evaluación Ambiental, los cuales son: 
+b) La obstrucción o restricción a la libre circulación, conectividad o el aumento significativo de los tiempos 
+de desplazamiento. 
+d) La dificultad o impedimento para el ejercicio o la manifestación de tradiciones, cultura o intereses 
+comunitarios, que puedan afectar los sentimientos de arraigo o la cohesión social del grupo. 
+A continuación, en la Figura 1 se muestra la ubicación del proyecto. 
+Figura 1: Ubicación del Proyecto 
+ 
+Fuente: Elaboración propia en base a Google Earth 
+
+===== p.3 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+4 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+2 
+DESCRIPCIÓN DE LA ACTIVIDAD DE TRANSPORTE ASOCIADA AL PROYECTO 
+La descripción de acción de la actividad de transporte de carga asociada al Proyecto se realiza de acuerdo 
+a lo establecido por la Guía para la Descripción del Acción del Transporte Terrestre en el SEIA vigente 
+desde el año 2017. En particular, el análisis se desarrolla para vehículos de carga, maquinaria pesada y 
+vehículos livianos. 
+2.1 
+Territorio que abarca el transporte 
+La división administrativa del territorio involucrado en las acciones del transporte inducido por el Proyecto 
+se presenta en la Tabla Nº 1 para la fase de construcción, operación y cierre. Las partidas se llevan a cabo 
+en la Región de Valparaíso. 
+Tabla Nº 1: Territorio que abarca el transporte en la Fase de Construcción, Operación y Cierre 
+Fase 
+Tipo de Vehículo 
+Región 
+Construcción 
+Autos y Camionetas 
+Valparaíso  
+Buses 
+Valparaíso  
+Camión + 2 ejes 
+Valparaíso  
+Operación 
+Autos y Camionetas 
+Valparaíso  
+Buses 
+Valparaíso  
+Camiones recolectores 
+Valparaíso  
+Cierre 
+Autos y Camionetas 
+Valparaíso  
+Camión 3/4 
+Valparaíso  
+Fuente: Elaboración propia. 
+2.2 
+Modos de transporte y tipos de vehículos 
+El movimiento de carga terrestre del Proyecto será realizado mediante vehículos pesados y livianos, según 
+las categorías vehiculares indicadas en la Tabla Nº 2 para la fase de construcción, operación y cierre. 
+Tabla Nº 2: Descripción de vehículos utilizados en la Fase de Construcción, Operación y Cierre 
+Fase 
+Tipo de Vehículo 
+Frecuencia Diaria 
+(Viajes /día) 
+Frecuencia Diaria 
+(Viajes /hr) 
+Construcción 
+Autos y Camionetas 
+10 
+1 
+Buses 
+1 
+1 
+Camión + 2 ejes 
+4 
+1 
+Operación 
+Autos y Camionetas 
+20 
+2 
+Mini Bus 
+1 
+1 
+Camiones recolectores 
+182 
+20 
+Cierre 
+Autos y Camionetas 
+2 
+1 
+Camión 3/4 
+2 
+1 
+Fuente: Elaboración propia. 
+
+===== p.4 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+5 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+2.3 
+Caminos por los que se realiza el transporte 
+El transporte asociado al Proyecto circulará principalmente dentro de la Región de Valparaíso, haciendo 
+uso de distintas vías de la Red Vial Nacional hasta el Proyecto. La identificación de las rutas y las 
+características de las vías que se utilizarán en todas las fases del proyecto se presenta en la Tabla Nº 3 y 
+Tabla Nº 4 respectivamente. Cabe señalar que la caracterización de cada una de las vías se desarrolla en 
+el Capítulo 4. 
+Tabla Nº 3: Rutas utilizadas para el transporte en las fases del proyecto 
+Vehículo 
+Región  
+Provincia  
+Comuna  
+Rutas  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Casablanca 
+Ruta 68; Ruta 60  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Concón 
+Ruta F-30-E: Ruta 64; Ruta 60  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Puchuncaví 
+Ruta F-30-E: Ruta 64; Ruta 60  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Quintero 
+Ruta F-30-E: Ruta 64; Ruta 60  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Valparaíso 
+Camino La Pólvora; Ruta 68; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Ruta 68; Ruta 60  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Viña del Mar 
+Agua Santa; Ruta 68; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Álvarez/Viana ; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Limache  
+Ruta 60; Enlace Peñablanca Limache Quillota La 
+Calera; Avenida Palmira Romano Sur 
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Olmué  
+Ruta 60; Enlace Peñablanca Limache Quillota La 
+Calera; Avenida Palmira Romano Sur; Avenida 
+Adolfo Eastman Cox 
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Quilpué  
+Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Villa Alemana  
+Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+Hijuelas 
+5 Norte; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+La Calera 
+Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+La Cruz 
+Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+Nogales 
+5 Norte; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+Quillota 
+Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+Algarrobo 
+Ruta F-90; Ruta 68; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+Cartagena  
+Ruta G-94-F; Ruta F-90; Ruta 68; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+El Quisco 
+Ruta 90; Ruta 68; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+El Tabo 
+Ruta G-986; Ruta F-90; Ruta 68; Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+San Antonio 
+Ramal Acceso Al Puerto; Ruta G-94-F; Ruta F-
+90; Ruta 68- Ruta 60 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+Santo Domingo 
+Ruta 66; Ramal Acceso Al Puerto; Ruta G-94-F; 
+Ruta 68; Ruta 60 
+Fuente: Elaboración propia. 
+Tabla Nº 4: Características generales de las vías por las que se realiza el transporte 
+Vía 
+Ancho y tipo de Calzada (m) 
+Material Carpeta 
+Jerarquía 
+Tuición 
+Ruta 60 
+Calzada doble de 7 metros cada una 
+Asfalto 
+Camino Nacional 
+Dirección de 
+Vialidad 
+Fuente: Elaboración propia. 
+
+===== p.5 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+6 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Los nombres de la vialidad presentada anteriormente se definen de sus roles oficiales obtenidos de la 
+Dirección de Vialidad donde se define la Red Vial nacional como se presenta en la Figura 2. 
+(https://www.arcgis.com/apps/webappviewer/index.html?id=ccc8ce73d80d4b48a4cbce97ff89d74c). 
+Figura 2: Red Vial colindante al Proyecto 
+ 
+Fuente: Elaboración propia en base a Dirección de Vialidad. 
+2.4 
+Localidades de Origen y Destino 
+Las rutas para el traslado de insumos, materiales, residuos y personal requeridos para las distintas fases 
+del proyecto tendrán sus orígenes y destinos, principalmente dentro de la Región de Valparaíso, según lo 
+indicado en la Tabla Nº 5. 
+Tabla Nº 5: Localidades Origen y Destino del transporte para la Fase de Construcción, Operación y Cierre 
+Vehículo 
+Región  
+Provincia  
+Comuna  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Casablanca 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Concón 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Puchuncaví 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Quintero 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Valparaíso 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Viña del Mar 
+Veh Liviano/Pesado  
+Valparaíso  
+Valparaíso  
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Limache  
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Olmué 
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Quilpué  
+Veh Liviano/Pesado  
+Valparaíso  
+Marga Marga  
+Villa Alemana  
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+Hijuelas 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+La Calera 
+
+===== p.6 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+7 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Vehículo 
+Región  
+Provincia  
+Comuna  
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+La Cruz 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+Nogales 
+Veh Liviano/Pesado  
+Valparaíso  
+Quillota 
+Quillota 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+Algarrobo 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+Cartagena  
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+El Quisco 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+El Tabo 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+San Antonio 
+Veh Liviano/Pesado  
+Valparaíso  
+San Antonio 
+Santo Domingo 
+Fuente: Elaboración propia. 
+ 
+ 
+
+===== p.7 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+8 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+3 
+ÁREA DE INFLUENCIA 
+Dentro del contexto de transporte del proyecto, se debe señalar que, si bien se utilizaran diversos caminos 
+de múltiples jerarquías y características señaladas en el Capítulo 2 del presente estudio, el área de 
+influencia de impacto vial se debe acotar a las vías e intersecciones que concentren la totalidad de la 
+demanda de transporte inducida por el proyecto, siendo éstos los dispositivos viales con mayor 
+factibilidad de ser impactados. Cabe señalar, que fuera del área de influencia, los efectos del impacto 
+sobre la infraestructura vial inducida por el proyecto, disminuye por la dispersión de los viajes y 
+disminución de su magnitud en las distintas vías de la red vial. Adicionalmente, se debe indicar que fuera 
+del área de influencia, es difícil atribuir el impacto a un solo proyecto, ya que se conjugan diversos 
+sistemas de actividades que podrían estar generando impacto.  
+A modo de definir el área de influencia adecuada, es necesario describir las rutas que utilizará el Proyecto 
+para su ingreso y egreso, como se presenta a continuación: 
+● Desde/Hacia Proyecto: 
+El proyecto contempla principalmente el uso de Ruta 60 para el ingreso y egreso vehicular. A continuación, 
+se adjunta figura de las rutas de entrada y salida del proyecto.  
+Figura 3: Esquema de ruta de ingreso del Proyecto.  
+ 
+Fuente: Elaboración propia en base a Google Earth. 
+
+===== p.8 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+9 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Figura 4: Esquema de ruta de egreso del Proyecto. 
+ 
+Fuente: Elaboración propia en base a Google Earth. 
+De las rutas descritas y presentadas anteriormente, considerando además que la cantidad total de viajes 
+inducidos por el proyecto corresponde a 402 veh/día para la Fase de Operación (fase con mayor inducción 
+de viajes), esto corresponde a 50 veh/hr. Se puede asimilar que el posible impacto vial del proyecto se 
+desarrollará dentro de un área de influencia asociada a un estudio de categoría básico, según lo indicado 
+en la normativa sectorial del Ministerio de Transportes: 
+Tabla Nº 6: Categorización de Estudio Vial 
+Tipo de Estudio 
+Flujo vehicular [veh/h] 
+Flujo viajes otros modos [viajes/h] 
+Básico 
+De 20 a 80 
+De 40 a 160 
+Intermedio 
+De 81 a 200 
+De 161 a 400 
+Mayor 
+Más de 200 
+Más de 400 
+Fuente: DS N°30/2019 MTT. 
+De lo anterior, el área de influencia para un estudio de categoría básico para estimar el Impacto Vial, se 
+define de la siguiente manera en el Artículo 2.1.1 del DS N°30 del MTT – Área de Influencia: “El área de 
+influencia de un proyecto estará determinada por el espacio público contiguo al predio en que pretende 
+emplazar el proyecto, incluida aquella parte de la vía que conecta cada uno de los accesos del proyecto 
+con la primera intersección con otra vía, en la principal ruta de entrada al proyecto y en la principal ruta 
+de salida del mismo. Finalmente, el área de influencia se define dentro de la siguiente área:  
+
+===== p.9 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+10 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Figura 5: Área de Influencia 
+ 
+Fuente: Elaboración propia en base a Google Earth 
+Cabe señalar que para desarrollar un escenario desfavorable se contemplaron las intersecciones más 
+demandadas del área, asegurando que, si no existe impacto significativo en estas, en el resto también se 
+podrá concluir que no se generará impacto. De lo anterior, el área de influencia se compone de los 
+siguientes elementos: 
+Vías:  
+● Ruta 60 
+ 
+ 
+ 
+ 
+
+===== p.10 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+11 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+4 
+DESCRIPCIÓN DE LA INFRAESTRUCTURA EN ÁREA DE INFLUENCIA 
+La infraestructura vial, dentro del área de influencia probable de ser influenciada por la fase de 
+construcción, operación y cierre del proyecto, está compuesta por vías e intersecciones. En esta sección 
+se describen y presentan las características generales de cada elemento de la infraestructura vial acorde 
+a una inspección desarrollada en terreno. 
+4.1 
+Vías 
+4.1.1 
+Ruta 60 
+El tramo de vía utilizado por la ruta de transporte comprende aproximadamente 4.4 km considerados 
+desde el norte del paso de nivel de Ruta 64 hasta la salida para el peaje de Quilpué-Villa Olímpica. La vía 
+presenta doble calzada con 7 metros de ancho. La vía es de tipo bidireccional y se encuentra asfaltada en 
+su totalidad. Las siguientes imágenes presentan los principales aspectos del catastro de la ruta elaborado 
+en terreno: 
+Tabla Nº 7: Catastro Ruta 60 
+Descripción 
+Catastro Fotográfico 
+Sentido 
+Norponiente-
+Suroriente  
+ 
+La sección de vía de Ruta 60 o 
+Troncal Sur disponible dentro 
+del 
+área 
+de 
+influencia 
+contempla una doble calzada 
+en 
+cuya 
+mediana 
+se 
+encuentra 
+barrera 
+de 
+hormigón en buen estado.  
+ 
+Se conoce el 
+límite de 
+velocidad a través de señal 
+vertical RR-1 con leyenda 
+“120”, esto implica que el 
+límite corresponde a 120 
+km/h.  
+ 
+ 
+
+===== p.11 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+12 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Descripción 
+Catastro Fotográfico 
+Sentido 
+Norponiente-
+Suroriente  
+ 
+Existen 
+señales 
+verticales 
+tales como PG-3b Zona de 
+Curvas a la Izquierda debido a 
+que las curvas propias de la 
+ruta.  
+ 
+La demarcación de las pistas 
+corresponde a línea continua 
+a los costados de la misma y 
+línea segmentada en el eje.  
+Estas se encuentran en buen 
+estado de conservación. 
+Sentido 
+Norponiente-
+Suroriente  
+ 
+Se observan también señales 
+verticales tales como PG-1b 
+debido a las curvas existentes 
+en la ruta.  
+ 
+La calzada se encuentra 
+pavimentada con asfalto en 
+buen estado de conservación.  
+Sentido 
+Norponiente-
+Suroriente  
+ 
+En el punto en el cual se inicia 
+el desarrollo de una tercera 
+pista se encuentra disponible  
+señal 
+vertical 
+PF-3b 
+Ensanchamiento 
+a 
+la 
+Derecha.  
+
+===== p.12 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+13 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Descripción 
+Catastro Fotográfico 
+Sentido 
+Norponiente-
+Suroriente  
+ 
+En la ruta se puede visualizar 
+señales 
+verticales 
+de 
+dirección tales como las que 
+se observan en la figura 
+adjunta. 
+Sentido 
+Norponiente-
+Suroriente  
+ 
+Al final del área de influencia, 
+se encuentra demarcación 
+del inicio de nueva pista al 
+costado 
+externo 
+de 
+la 
+calzada. Esta calzada permite 
+que 
+el 
+vehículo 
+pueda 
+ingresar a Villa Olímpica y 
+Quilpué.  
+Se 
+encuentra 
+disponible 
+sobre 
+la 
+calzada 
+línea 
+segmentada de aumento de 
+pista junto con flecha recta y 
+de salida.   
+Fuente: Elaboración propia en base a catastro de terreno e información de referencia. 
+ 
+ 
+
+===== p.13 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+14 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+5 
+ANÁLISIS OPERACIONAL DE LA INFRAESTRUCTURA VIAL EXISTENTE 
+Para caracterizar operacionalmente la infraestructura vial del área de influencia, se analizará un punto 
+relevante de la red que sea representativo de la operación de la zona de estudio y que sean el receptor 
+de la demanda de transporte inducida por el Proyecto.  
+El elemento a estudiar corresponde al siguiente: 
+- 
+Ruta 60, específicamente, a la altura del Camino El Olivar. 
+La estimación del flujo vehicular en el área de estudio se realiza por medio de mediciones, las cuales 
+fueron desarrolladas el martes 19 de noviembre de 2024 para el punto de control mencionado o también 
+denominado PC1. La metodología empleada consiste en registrar el flujo que atraviesa la intersección, 
+cronometrando en intervalos de 15 minutos para cada movimiento y categoría vehicular registrada. 
+5.1 
+Fuentes de información de flujos vehiculares 
+Para la cuantificación del flujo base en el área de influencia, se deben desarrollar mediciones de flujo 
+vehicular en un punto significativo del área de influencia. En este caso, se midió en Ruta 60, a la altura de 
+Camino El Olivar cuyas coordenadas UTM corresponden a 266356.42 m E 6340285.08 m S. Se realizaron 
+conteos durante un día laboral entre las 7:00 y las 19:00 horas, dado que se estimó que el período de 
+mayor demanda dentro de la semana se encontraba dentro de dicho intervalo (los resultados de las 
+mediciones se presentan en el Apéndice A: Mediciones de Tránsito). 
+Figura 6: Ubicación Fuente de Información PC1 
+ 
+Fuente: Elaboración propia en base a Google Earth. 
+Figura 7:PC1 – Ruta 60  
+ 
+Fuente: Elaboración propia en base a Google Earth. 
+ 
+
+===== p.14 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+15 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+5.2 
+Análisis de flujo vehicular  
+5.2.1 
+Periodización  
+La Figura 8 muestra la variación horaria del flujo vehicular de las intersecciones medidas para un día 
+laboral. El flujo más alto se presenta en la tarde, específicamente, en el horario de las 18:00hrs a 19:00 
+hrs con un valor equivalente a 1162 veq/h. Por otro lado, el menor flujo vehicular se presenta en el horario 
+de las 15:00 hrs a 16:00 hrs con un valor equivalente a 692 veq/h. De esta manera, el periodo en el cual 
+se realiza el análisis corresponde a la hora móvil con mayor demanda vehicular, esta equivale al periodo 
+punta tarde comprendido desde las 18:00 hrs a 19:00 hrs.  
+ 
+Figura 8: Periodización día Laboral Área de estudio 
+ 
+Fuente: Elaboración propia en base a Mediciones. 
+Nota: Veq corresponde a una medida homogénea de flujo vehicular para comparar distintas categorías de 
+vehículos (Ej. 2 veq corresponden a 1 camión+2E, 1 veq es igual a 1 vehículo liviano, ver Tabla Nº 9) 
+ 
+5.2.2 
+Flujo Crítico 
+De las mediciones realizadas, se extrae el periodo crítico y se determinan flujos máximos, para este caso 
+en día laboral, como se presenta en la Tabla Nº 8. 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+7:00-8:00
+7:30-8:30
+8:00-9:00
+8:30-9:30
+9:00-10:00
+9:30-10:30
+10:00-11:00
+10:30-11:30
+11:00-12:00
+11:30-12:30
+12:00-13:00
+12:30-13:30
+13:00-14:00
+13:30-14:30
+14:00-15:00
+14:30-15:30
+15:00-16:00
+15:30-16:30
+16:00-17:00
+16:30-17:30
+17:00-18:00
+17:30-18:30
+18:00-19:00
+Flujo Vehicular (Veq) 
+Hora Móvil (Hr) 
+Histograma
+
+===== p.15 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+16 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Tabla Nº 8: Flujos Vehiculares Máximos en Día Laboral (18:00-19:00) 
+PC 
+Mov 
+Suma de VEH 
+Suma de VEQ 
+1 
+41 
+1111 
+1161,55 
+Total  
+159 
+1111 
+ Fuente: Elaboración propia en base a Mediciones. 
+Cabe señalar que el flujo en Veq corresponde una medida de flujo vehicular homogénea, que permite 
+representar la magnitud de flujo vehicular de cualquier categoría vehicular como un vehículo liviano o 
+Vehículo Equivalente. Los factores de equivalencia utilizados se indican en la Tabla Nº 9. 
+Tabla Nº 9: Factores de Equivalencia 
+Tipo de Vehículo 
+Factor de EQ 
+Bicicletas 
+0,50 
+Motos 
+0,80 
+Auto, camionetas, furgón 
+1,00 
+Taxi bus 
+1,65 
+Bus 
+2,00 
+Camión 2 ejes 
+2,00 
+Camión + 2 ejes 
+2,50 
+Fuente: REDEVU. 
+5.3 
+Tasa de crecimiento del flujo vehicular 
+La estimación de tasas de crecimiento se realiza en base a las recomendaciones de SECTRA y la 
+distribución de categoría vehicular del PNC, obteniendo una Tasa de Crecimiento Ponderada 
+representativa para todo el sector, lo anterior, debido a que los datos no presentan larga data histórica 
+para realizar una regresión lineal desde el Plan Nacional de Censos y dentro del periodo existieron 
+restricciones a la movilidad producto del COVID-19 por lo que las proyecciones podrían sobreestimar el 
+crecimiento producto de la liberación de las restricciones. Las tasas obtenidas son las indicadas en la Tabla 
+Nº 10. 
+Tabla Nº 10: Tasas de Crecimiento Anual de Flujo en Vías dentro del Área de Influencia 
+Tasa de Crecimiento Vehicular 
+Vehículos 
+livianos 
+Camiones 
+2e 
+Camiones + 
+2e 
+Locomoción 
+Colectiva 
+6,50% 
+2,00% 
+5,50% 
+2,50% 
+Estimada 
+4,13% 
+Fuente: Metodología Normalizada para Estudios de Impacto en el sistema de Transporte Urbano 
+De los datos anteriores para la posterior modelación se consideran las tasas correspondientes a los 
+vehículos livianos con valor de un 6,50%, además de la tasa de vehículos pesados (camiones 2 ejes, 
+camiones más de 2 ejes y locomoción colectiva) equivalente a 3,33% (promedio).  
+
+===== p.16 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+17 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+5.4 
+Análisis operacional de la Infraestructura Vial 
+Para el análisis operación se seleccionó el punto de control previamente descrito, dado que corresponde 
+a un punto en el cual circula la totalidad del flujo del proyecto, y por lo tanto, recibirá directamente los 
+efectos de este. Los parámetros a considerar son los mostrados en la Tabla Nº 11. La calidad de la 
+operación será caracterizada mediante distintos indicadores operacionales, y descrita por medio del nivel 
+de servicio, según lo descrito en la Tabla Nº 12 en base a lo mencionado en Highway Capacity Manual 
+2010. Los indicadores operacionales a estimar son: 
+a) Grado de Saturación: Describe la relación entre el flujo vehicular de un movimiento y la máxima 
+capacidad del movimiento. Toma valores entre 0% y 100%, considerándose condición de 
+saturación para un valor de 90%. 
+b) Demoras (s): Describe el tiempo promedio de demora para un movimiento determinado. 
+c) Cola Media (veq): Describe el promedio de vehículos en cola para un movimiento, durante una 
+hora de operación. 
+d)  Nivel de Servicio: Corresponde a una medida cualitativa de la calidad del servicio entregado por 
+la infraestructura vial. 
+e) Capacidad de reserva: Proporción de la capacidad de un movimiento que está en desuso. 
+Representa un indicador del flujo que cada movimiento podría acomodar antes de alcanzar la 
+saturación. Toma valores entre 0% y 90%, considerándose condición de saturación para un valor 
+de 0%.  
+f) Tiempo Medio de Viaje: Tiempo promedio que requiere un vehículo para recorrer un segmente 
+de vía de 1 km de largo. 
+g) Tiempo en Seguimiento: Proporción media del tiempo de viaje que los usuarios gastan en 
+seguimiento de un vehículo que lo antecede sin poder adelantar. 
+ 
+ 
+
+===== p.17 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+18 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Tabla Nº 11: Parámetros Básicos de Análisis Operacional 
+Parámetro 
+Valor 
+Observaciones 
+Flujo Básico de Saturación para 
+Intersecciones Semaforizadas y 
+Prioritarias 
+1850 
+ADE/hr 
+Flujo de saturación para pistas controladas por señales de prioridad con carpeta 
+pavimentada. (Manual de Evaluación Social de Proyectos de Vialidad Urbana, 
+MIDEPLAN, 1988) 
+Brecha mínima 
+5 s 
+Tiempo mínimo promedio requerido para cruzar una intersección prioritaria. 
+(Highway Capacity Manual, TRB, 2010) 
+Capacidad Pista Caminos 
+Bidireccionales 
+1700 
+veq/hr 
+Cantidad máxima de vehículos que puede pasar por la sección de una pista un 
+camino bidireccional. (Manual de Carreteras Vol. 3, MOP, 2015) 
+Capacidad Caminos Bidireccionales 
+2800 
+veq/hr 
+Cantidad máxima de vehículos que puede pasar por la sección de un camino 
+bidireccional, en ambos sentidos. (Manual de Carreteras Vol. 3, MOP, 2015) 
+Fuente: Elaboración propia. 
+ 
+Tabla Nº 12: Descripción Niveles de Servicio de Operación (LOS) 
+Nivel de Servicio 
+Descripción 
+A 
+Representa una circulación a flujo libre. Los usuarios, considerados en forma individual, están virtualmente 
+exentos de los efectos de la presencia de otros en la circulación. Poseen una altísima libertad para seleccionar 
+sus velocidades deseadas y maniobrar dentro del tránsito. El nivel general de comodidad y conveniencia 
+proporcionado por la circulación al motorista, pasajero o peatón es excelente. 
+B 
+Está dentro del rango del flujo estable, aunque se empiezan a observar otros vehículos integrantes de la 
+circulación. La libertad de selección de las velocidades deseadas sigue relativamente inafectada, aunque 
+disminuye un poco la libertad de maniobra en relación con la del nivel de servicio A. El nivel de comodidad y 
+conveniencia es algo inferior a los del nivel de servicio A, porque la presencia de otros comienza a influir en el 
+comportamiento individual de cada uno. 
+C 
+Pertenece al rango del flujo estable, pero marca el comienzo del dominio en el que la operación de los usuarios 
+individuales se ve afectada de forma significativa por las interacciones con los otros usuarios. La selección de 
+velocidad se ve afectada por la presencia de otros, y la libertad de maniobra comienza a ser restringida. El nivel 
+de comodidad y conveniencia desciende notablemente. 
+D 
+Representa una circulación de densidad elevada, aunque estable. La velocidad y libertad de maniobra quedan 
+seriamente restringidas, y el conductor o peatón experimenta un nivel general de comodidad y conveniencia 
+bajo. Los pequeños incrementos del flujo generalmente ocasionan problemas de funcionamiento. 
+E 
+El funcionamiento está cerca del límite de su capacidad o en la capacidad. La velocidad de todos se ve reducida 
+a un valor bajo, bastante uniforme. La libertad de maniobra para circular es extremadamente difícil, y se 
+consigue forzando a un vehículo o peatón a “ceder el paso”. Los niveles de comodidad y conveniencia son 
+enormemente bajos, siendo muy elevada la frustración de los conductores o peatones. La circulación es 
+normalmente inestable, debido a que los pequeños aumentos del flujo o ligeras perturbaciones del tránsito 
+producen colapsos. 
+F 
+Representa condiciones de flujo forzado. Esta situación se produce cuando la cantidad de tránsito que se acerca 
+a un punto o calzada excede la cantidad que puede pasar por él. En estos lugares se forman colas, donde la 
+operación se caracteriza por la existencia de ondas de parada y arranque, extremadamente inestables. 
+Fuente: Highway Capacity Manual (TRB, 2010). 
+ 
+ 
+ 
+ 
+
+===== p.18 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+19 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+5.4.1 
+Resultados Situación Actual 
+Los resultados del análisis operacional para la intersección en análisis se presentan en la Tabla Nº 13. 
+Tabla Nº 13: Indicadores operacionales, Punta Tarde, Laboral 
+Punto Control 
+Movimiento 
+Flujo 
+Capacidad 
+Grado de 
+Saturación 
+Demoras 
+Longitud de 
+Cola 
+Nivel de 
+servicio 
+Veh/hr 
+Veh/hr 
+seg 
+Veh 
+PC1 
+41 
+1111 
+3516 
+31,60% 
+0 
+0 
+LOS A 
+Fuente: Elaboración propia. 
+La tabla anterior señala que: 
+● El punto medido correspondiente a PC1 presenta excelente nivel de servicio o nivel LOS A. Las 
+demoras y longitudes de cola equivalen a cero ya que el movimiento medido es el único que 
+transita por las pistas, este tiene preferencia de paso de manera permanente. Sin embargo, se 
+destaca que el grado de saturación es menor al 85%, umbral en cual se comienza a desarrollar la 
+congestión vehicular. En este sentido, la demanda vehicular actual de las pistas analizadas se 
+encuentra dentro de la oferta de las mismas. Por tanto, los vehículos pueden transitar a velocidad 
+libre sin experimentar detenciones o algún otro tipo de externalidad negativa debido a los 
+vehículos que lo rodean. 
+5.4.2 
+Análisis operacional de modos no motorizados 
+En las mediciones efectuadas no se detectó volumen significativo de modos no motorizados como 
+bicicletas, obteniéndose frecuencias bajas para el punto de control PC1. De esta forma se puede concluir 
+que las bicicletas no presentan fricción con los flujos vehiculares en los puntos medidos. 
+ 
+ 
+
+===== p.19 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+20 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+6 
+ESTIMACIÓN DE LA DEMANDA 
+La estimación de la demanda que generará el Proyecto fue determinada en el punto 2.2 del presente 
+informe y se resume en la siguiente tabla: 
+Tabla Nº 14: Demanda de Transporte para las distintas fases 
+Fase 
+Tipo de Vehículo 
+Frecuencia Diaria 
+(Viajes /día) 
+Frecuencia Diaria 
+(Viajes /hr) 
+Frecuencia Diaria (Viajes /hr) 
+Vehículos Livianos 
+Vehículos Pesados 
+%Vehículos Pesados 
+Construcción 
+Autos y Camionetas 
+10 
+1 
+1 
+2 
+66,7% 
+Buses 
+1 
+1 
+Camión + 2 ejes 
+4 
+1 
+Operación 
+Autos y Camionetas 
+20 
+2 
+3 
+20 
+87,0% 
+Mini Bus 
+1 
+1 
+Camiones recolectores 
+182 
+20 
+Cierre 
+Autos y Camionetas 
+2 
+1 
+2 
+0 
+0% 
+Camión 3/4 
+2 
+1 
+Fuente: Elaboración propia. 
+Cabe señalar que los valores presentados anteriormente, serán analizados bajo el supuesto de 
+simultaneidad de todos los flujos inducidos por el proyecto, condición de ocurrencia poco probable en la 
+realidad, debido a que la logística de abastecimiento y programación de las obras correspondientes 
+genera inherentemente una distribución de los viajes estimados a lo largo del día laboral y dentro de los 
+meses de ejecución de obras u operación. En ese sentido, se puede señalar que los flujos no 
+necesariamente coincidirán con la hora crítica, utilizada para la modelación de transporte (18:00-19:00 
+hrs). Lo anterior, permitirá concluir que, si bajo este supuesto no se genera impacto, en la realidad 
+tampoco se producirá. 
+ 
+
+===== p.20 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+21 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+7 
+ANÁLISIS DE IMPACTO VIAL 
+Para el análisis de impactos en la Construcción y Operación del Proyecto, se considera la modelación y el 
+análisis de una intersección relevante, dispositivo que posee la mayor demanda en el sector asociada al 
+proyecto, y que, por lo tanto, presenta una mayor probabilidad de ser impactada por los nuevos flujos 
+inducidos que se incorporarán a la red. 
+7.1 
+Escenarios de modelación 
+Para la modelación se consideraron dos escenarios: un Escenario Base y un Escenario Previsto. 
+● Escenario Base: Se refiere a una situación sin Proyecto, es decir, sin considerar los flujos 
+inducidos por el Proyecto. 
+● Escenario Previsto: Se refiere a una situación con Proyecto, es decir, considerando los flujos 
+inducidos por el Proyecto, en este caso, para su fase de operación y su fase de cierre. 
+Esta división de escenarios permite separar e identificar los impactos atribuibles a la Fase de Construcción 
+y Fase de Operación del Proyecto. Para dichos escenarios se consideró, para la Fase de Construcción el 
+corte temporal 2027, mientras que para la Fase de Operación el corte temporal 2028, en base al 
+cronograma entregado por el titular. En cuanto a la Fase de cierre, se considera dentro de 20 años, por lo 
+tanto, no se realiza una modelación para dicha fase dado que el corte temporal es muy lejano para 
+obtener resultados representativos. 
+Los flujos vehiculares estimados para los años 2027 y 2028, en la condición de mayor demanda para la 
+Fase de Construcción y Operación, respectivamente, utilizan los flujos de la Situación Actual 2024 y los 
+flujos proyectados al 2027 y 2028 utilizando la tasa de crecimiento estimada. Para el análisis del escenario 
+previsto (Situación con Proyecto), se suman los flujos generados por las distintas obras de construcción 
+del Proyecto (3 veh/hr) a los de la situación base, y de igual forma para el escenario previsto de la fase de 
+operación del Proyecto (23 veh/hr). 
+ 
+ 
+
+===== p.21 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+22 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Tabla Nº 15: Flujos Vehiculares para Escenarios: Base y con Proyecto 
+Punto de 
+Control 
+Mov 
+Situación Actual  
+Situación Base 
+Situación con Proyecto 
+2024 
+2027 
+2028 
+2027 (+3 Veh) 
+2028 (+23 Veh) 
+VL 
+VP 
+VL 
+VP 
+VL 
+VP 
+VL 
+VP 
+VL 
+VP 
+PC1 
+30 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+2 
+3 
+20 
+40 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+2 
+3 
+20 
+41 
+1052 
+59 
+1271 
+65 
+1353 
+67 
+1271 
+65 
+1353 
+67 
+Fuente: Elaboración Propia. 
+Los resultados obtenidos para las fases de Construcción y Operación se muestran en las tablas a 
+continuación. 
+Tabla Nº 16: Resultados para PC1 en "Fase de Construcción" 
+Situación Base 2027 
+Punto 
+Control 
+Movimiento 
+Flujo 
+(Veh/hr) 
+Capacidad 
+(Veh/hr) 
+Grado de 
+Saturación 
+Demoras 
+(seg) 
+Longitud de Cola 
+(Veh) 
+Nivel de 
+servicio 
+PC1 
+30 
+- 
+- 
+- 
+- 
+- 
+- 
+40 
+- 
+- 
+- 
+- 
+- 
+- 
+41 
+1336 
+3526 
+37,90% 
+0 
+0 
+LOS A 
+Situación Proyecto 2027 - Fase de Construcción  
+Punto 
+Control 
+Movimiento 
+Flujo 
+(Veh/hr) 
+Capacidad 
+(Veh/hr) 
+Grado de 
+Saturación 
+Demoras 
+(seg) 
+Longitud de Cola 
+(Veh) 
+Nivel de 
+servicio 
+PC1 
+30 
+3 
+1080 
+0,3% 
+10,8 
+0 
+LOS B 
+40 
+3 
+1174 
+0,3% 
+6,3 
+0 
+LOS A 
+41 
+1336 
+3526 
+37,9% 
+0,1 
+0 
+LOS A 
+Determinación de Impacto 
+Punto 
+Control 
+Movimiento 
+Flujo 
+(Veh/hr) 
+Capacidad 
+(Veh/hr) 
+Grado de 
+Saturación 
+Demoras 
+(seg) 
+Longitud de Cola 
+(Veh) 
+Nivel de 
+servicio 
+PC1 
+30 
+3 
+1080 
+0,3% 
+10,8 
+0 
+N/A 
+40 
+3 
+1174 
+0,3% 
+6,3 
+0 
+N/A 
+41 
+0 
+0 
+0,0% 
+0,1 
+0 
+Se mantiene 
+Fuente: Elaboración Propia. 
+Tabla Nº 17: Resultados para PC1 en "Fase de Operación" 
+Situación Base 2028 
+Punto 
+Control 
+Movimiento 
+Flujo 
+(Veh/hr) 
+Capacidad 
+(Veh/hr) 
+Grado de 
+Saturación 
+Demoras 
+(seg) 
+Longitud de Cola 
+(Veh) 
+Nivel de 
+servicio 
+PC1 
+30 
+- 
+- 
+- 
+- 
+- 
+- 
+40 
+- 
+- 
+- 
+- 
+- 
+- 
+41 
+1420 
+3529 
+40,2% 
+0 
+0 
+LOS A 
+Situación Proyecto 2028 - Fase de Operación 
+Punto 
+Control 
+Movimiento 
+Flujo 
+(Veh/hr) 
+Capacidad 
+(Veh/hr) 
+Grado de 
+Saturación 
+Demoras 
+(seg) 
+Longitud de Cola 
+(Veh) 
+Nivel de 
+servicio 
+PC1 
+30 
+23 
+1004 
+2,3% 
+11,7 
+0 
+LOS B 
+40 
+23 
+1069 
+2,2% 
+6,5 
+0 
+LOS A 
+41 
+1420 
+3529 
+40,2% 
+0,1 
+0 
+LOS A 
+Determinación de Impacto 
+Punto 
+Control 
+Movimiento 
+Flujo 
+(Veh/hr) 
+Capacidad 
+(Veh/hr) 
+Grado de 
+Saturación 
+Demoras 
+(seg) 
+Longitud de Cola 
+(Veh) 
+Nivel de 
+servicio 
+PC1 
+30 
+23 
+1004 
+2,3% 
+11,7 
+0 
+N/A 
+40 
+23 
+1069 
+2,2% 
+6,5 
+0 
+N/A 
+41 
+0 
+0 
+0,0% 
+0,1 
+0 
+Se mantiene 
+Fuente: Elaboración Propia. 
+ 
+
+===== p.22 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+23 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+7.1.1 
+Impactos observados 
+Para cuantificar los impactos se utilizan los indicadores mencionados anteriormente y considerando el 
+criterio indicado en la Tabla Nº 18. 
+Tabla Nº 18: Variación en los Indicadores Operacionales para Cuantificar Impactos Viales 
+Diferencia de Grado de Saturación 
+(Con Proyecto – Sin Proyecto) 
+Variación del Nivel de Servicio (Con 
+Proyecto – Sin Proyecto) 
+Aumento de Demoras Promedio (Con 
+Proyecto – Sin Proyecto) 
+Nivel de 
+Impacto 
+Menor a 5% 
+Se conserva 
+Menor a 15 seg. 
+Bajo 
+Entre 5% y 15% 
+Disminuye 1 NS 
+Entre 15 seg. y 45 seg. 
+Moderado 
+Mayor a 15% 
+Disminuye más de 1 NS 
+Mayor a 45 seg. 
+Alto 
+Fuente: Elaboración Propia. 
+Para el corte temporal 2027 Etapa de Construcción el análisis entrega los siguientes resultados: 
+Del análisis desarrollado, se puede señalar que: 
+● El punto de control PC1 presenta grados de saturación menor al 85%, por tanto, se encuentra 
+libre de congestión vehicular. Los resultados muestran que el movimiento 41 no varía en términos 
+de grado de saturación entre la situación base y la situación con proyecto, por tanto, el flujo que 
+se incorpora/egresa del proyecto no presenta incidencia en la circulación vehicular sentido 
+poniente-oriente de la Ruta 60. Se observa que, en términos de colas vehiculares, los movimientos 
+40 y 30 correspondientes al ingreso y egreso vehicular del proyecto respectivamente, presentan 
+un nivel de impacto bajo, ya que existe un aumento de tiempo menor a 11 segundos. Además, en 
+ninguno de los movimientos analizados se producen colas vehiculares en la situación con 
+proyecto, esto se debe principalmente a que los vehículos, tanto para ingresar como para egresar 
+del proyecto, utilizan pistas de desaceleración y aceleración respectivamente, por tanto, no 
+interrumpen la circulación vehicular del movimiento 41. Por último, y en términos de nivel de 
+servicio, se observa que para los movimientos 30 y 40 se presenta un nuevo valor de tal indicador 
+equivalente LOS B y LOS A respectivamente, mientras que el movimiento 41 se mantiene en LOS 
+A. Estos niveles de servicio comentan que la demanda vehicular se encuentra dentro de la oferta 
+de diseño de la intersección, además, los vehículos pueden transitar a velocidad libre, sin 
+experimentar externalidades negativas debido a la presencia de otros modos motorizados.  
+ 
+ 
+
+===== p.23 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+24 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+Para el corte temporal 2028 Etapa de Operación el análisis entrega los siguientes resultados: 
+Del análisis desarrollado, se puede señalar que: 
+● El punto de control PC1 presenta grados de saturación menor al 85%, por tanto, se encuentra 
+libre de congestión vehicular. Los resultados muestran que el movimiento 41 no varía en términos 
+de grado de saturación entre la situación base y la situación con proyecto, por tanto, el flujo que 
+se incorpora/egresa del proyecto no presenta incidencia en la circulación vehicular sentido 
+poniente-oriente de la Ruta 60. Se observa que, en términos de colas vehiculares, los movimientos 
+40 y 30 correspondientes al ingreso y egreso vehicular del proyecto respectivamente, presentan 
+un nivel de impacto bajo, ya que existe un aumento de tiempo menor a 12 segundos. Además, en 
+ninguno de los movimientos analizados se producen colas vehiculares en la situación con 
+proyecto, esto se debe principalmente a que los vehículos, tanto para ingresar como para egresar 
+del proyecto, utilizan pistas de desaceleración y aceleración respectivamente, por tanto, no 
+interrumpen la circulación vehicular del movimiento 41. Por último, y en términos de nivel de 
+servicio, se observa que para los movimientos 30 y 40 se presenta un nuevo valor de tal indicador 
+equivalente LOS B y LOS A respectivamente, mientras que el movimiento 41 se mantiene en LOS 
+A. Estos niveles de servicio comentan que la demanda vehicular se encuentra dentro de la oferta 
+de diseño de la intersección, además, los vehículos pueden transitar a velocidad libre, sin 
+experimentar externalidades negativas debido a la presencia de otros modos motorizados.  
+ 
+ 
+
+===== p.24 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+25 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+8 
+MEDIDAS DE MANEJO AMBIENTAL 
+Puesto que los impactos del Proyecto son bajos y poco significativos, basado en los incrementos o 
+variaciones de los distintos indicadores operacionales determinados para la situación base y con proyecto, 
+se puede señalar que la infraestructura vial posee buenas condiciones de operación, por tanto, no se 
+considera necesario la implementación de medidas de manejo ambiental. Sin embargo, se debe 
+establecer que la condición mínima de seguridad es educar y difundir sobre las exigencias normativas de 
+tránsito correspondiente. 
+9 
+CONCLUSIONES 
+En conformidad a los análisis desarrollados se puede concluir en general que el proyecto no genera 
+Impacto Vial en el área de influencia del proyecto. Específicamente se indica lo siguiente: 
+9.1 
+Infraestructura Vial 
+La vialidad a utilizar por el proyecto corresponde a vías bajo tuición de la Dirección de Vialidad, la cual se 
+encuentra en buen estado estructural y bien señalizada. Por tanto, la infraestructura disponible no impide 
+la libre circulación de vehículos livianos y pesados que cumplan con la normativa MOP (carga hasta 30 
+Ton). 
+9.2 
+Fase de Construcción 
+El análisis operacional, con modelación SIDRA, indica que para la fase de construcción se determina un 
+impacto poco significativo, el cual es imperceptible al usuario debido a los indicadores operacionales 
+obtenidos y bajos incrementos que se producen entre la situación base y con proyecto. 
+9.3 
+Fase de Operación 
+El análisis operacional, con modelación SIDRA, indica que para la fase de operación se determina un 
+impacto poco significativo, el cual es imperceptible al usuario debido a los indicadores operacionales 
+obtenidos y bajos incrementos que se producen entre la situación base y con proyecto. 
+
+===== p.25 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+26 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+9.4 
+Fase de Cierre 
+Para la fase de cierre no se realizó un análisis operacional, puesto que dicha fase ocurre luego de 20 años, 
+siendo este un corte temporal demasiado lejano para obtener un resultado representativo en la vía para 
+ese periodo con la información disponible. 
+9.5 
+Impactos Físicos o al Medio Humano 
+Los resultados además permiten afirmar que no se generará alteración significativa a los sistemas de vida 
+y costumbres de los grupos humanos cercanos al Proyecto, según lo que establece el Artículo 7 del 
+reglamento del Sistema de Evaluación Ambiental, ya que los indicadores operacionales de los dispositivos 
+viales, en particular las demoras medias y las colas promedio para cada movimiento, sugieren que no se 
+generará obstrucción o restricción a la libre circulación, la conectividad o el aumento significativo de los 
+tiempos de desplazamiento, ni tampoco se producirá alteración al acceso o a la calidad de los bienes, 
+equipamiento, servicio o infraestructura básica. No habrá tampoco dificultad o impedimento para el 
+ejercicio o la manifestación de tradiciones, cultura o intereses comunitarios, que puedan afectar los 
+sentimientos de arraigo o la cohesión social del grupo. 
+ 
+ 
+
+===== p.26 =====
+ 
+Estudio de Impacto Vial 
+Centro Metropolitano de Gestión Integral de Residuos 
+Relleno Sanitario Viña del Mar 
+ 
+ 
+ 
+ 
+27 
+www.aimiv.cl 
+contacto@aimiv.cl 
++56942393703 / +56978932916  
+ 
+ 
+Apéndice A: Mediciones de Tránsito 
+(Archivo Digital) 
+ 
+Apéndice B: Modelaciones 
+(Archivo Digital) 
+ 
+ 
+ 

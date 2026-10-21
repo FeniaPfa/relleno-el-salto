@@ -1,0 +1,270 @@
+
+===== p.0 =====
+2
+2
+2
+2
+Wc
+Lo
+C.I. N°1
+Ancho= 0,60 m
+Largo = 0,60 m
+PVC (110)
+V (110)
+FOSA SÉPTICA PREFABRICADA
+4800 LTS
+PVC (110)
+V (110)
+2 ZANJAS FILTRANTES
+Tubo PVC 110 ranurado
+Largo útil = 12,0 m
+Altura útil = 1,3 m
+Ancho = 2.0 m
+Pendiente = 1%
+8
+Wc
+Lo
+V
+(110)
+FOSA SÉPTICA PREFABRICADA
+1200 LTS
+C.I. N°1
+Ancho= 0,60 m
+Largo = 0,60 m
+ZANJA FILTRANTE
+Tubo PVC 110 ranurado
+Largo útil = 5,0 m
+Altura útil = 1,3 m
+Ancho = 2.0 m
+Pendiente = 1%
+PVC (110)
+PVC (110)
+PVC (110)
+V
+(110)
+6
+Wc
+Lo
+V
+(110)
+FOSA SÉPTICA PREFABRICADA
+1200 LTS
+C.I. N°1
+Ancho= 0,60 m
+Largo = 0,60 m
+ZANJA FILTRANTE
+Tubo PVC 110 ranurado
+Largo útil = 5,0 m
+Altura útil = 1,3 m
+Ancho = 2.0 m
+Pendiente = 1%
+PVC (110)
+5
+Wc
+Lo
+FOSA SÉPTICA PREFABRICADA
+1200 LTS
+ZANJA FILTRANTE
+Tubo PVC 110 ranurado
+Largo útil = 3,5 m
+Altura útil = 1,2 m
+Ancho = 2.0 m
+Pendiente = 1%
+V
+(110)
+V
+(110)
+C.I. N°1
+Ancho= 0,60 m
+Largo = 0,60 m
+C.I. N°2
+Ancho= 0,60 m
+Largo = 0,60 m
+PVC (110)
+PVC (110)
+PVC (110)
+3
+Lo
+Wc
+FOSA SÉPTICA PREFABRICADA
+1200 LTS
+V
+(110)
+V
+(110)
+C.I. N°1
+Ancho= 0,60 m
+Largo = 0,60 m
+C.I. N°2
+Ancho= 0,60 m
+Largo = 0,60 m
+ZANJA FILTRANTE
+Tubo PVC 110 ranurado
+Largo útil = 3,5 m
+Altura útil = 1,2 m
+Ancho = 2.0 m
+Pendiente = 1%
+PVC (110)
+PVC (110)
+PVC (110)
+4
+Wc
+Lo
+FOSA SÉPTICA PREFABRICADA
+1200 LTS
+ZANJA FILTRANTE
+Tubo PVC 110 ranurado
+Largo útil = 3.0 m
+Altura útil= 1.2 m
+Ancho=2.0 m
+Pendiente = 1%
+V
+(110)
+V
+(110)
+C.I. N°2
+Ancho= 0,60 m
+Largo = 0,60 m
+PVC (110)
+PVC (110)
+PVC (110)
+1
+C.I. N°1
+Ancho= 0,60 m
+Largo = 0,60 m
+2 ZANJAS FILTRANTES
+Tubo PVC 110 ranurado
+Largo útil = 5,0 m
+Altura útil = 1,3 m
+Ancho = 2.0 m
+Pendiente = 1%
+PVC (110)
+FOSA SÉPTICA
+PREFABRICADA
+2300 LTS
+PVC (110)
+V (110)
+V (110)
+Wc
+Lo
+7
+PLANTA EMPLAZAMIENTO
+Escala 1:10.000
+PLANTA ALCANTARILLADO
+FECHA
+OBSERVACIÓN
+REV.
+A
+EMITIDO PARA REVISION INTERNA
+B
+EMITIDO PARA ENTREGA CLIENTE
+0
+EMITIDO PARA CONSTRUCCION
+REVISIONES
+CONTENIDO:
+ESTUDIO:
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+2
+REVISION
+APROBO:
+REVISO:
+PROYECTO:
+ESCALA: LAS INDICADAS
+FIRMA FECHA Nº ORDENNº PLANO:
+C.VEGA
+M. ESPARZA
+CMGIR-PS-02
+M.RODRIGUEZ
+N
+OFICINA PLANTA COMPOSTAJE
+Escala 1:75
+OFICINA PLANTA RECICLAJE
+Escala 1:75
+OFICINA PLANTA QUEMA BIOGAS
+Escala 1:75
+OFICINA PLANTA LIXIVIADOS
+Escala 1:75
+OFICINA CASETA DE CONTROL RELLENO
+Escala 1:75
+N
+N
+N
+N
+1 DE 3
+OFICINA CASETA DE PESAJE
+Escala 1:75
+OFICINA CASETA DE CONTROL ACCESO
+Escala 1:75
+N
+4
+6
+1
+3
+2
+5
+5
+1
+N
+May-26
+May-26
+May-26
+Punto #
+8
+Norte
+6337341,84
+Este
+267897,25
+Punto #
+7
+Norte
+6337380,66
+Este
+267750,31
+Punto #
+6
+Norte
+6337367,43
+Este
+268071,29
+Punto #
+5
+Norte
+6337425,99
+Este
+267985,79
+Punto #
+4
+Norte
+6337461,44
+Este
+267852,98
+Punto #
+3
+Norte
+6337480,32
+Este
+267808,41
+Punto #
+1
+Norte
+6339036,18
+Este
+267918,47
+267500.000
+268000.000
+268500.000
+269000.000
+267500.000
+268000.000
+268500.000
+269000.000
+6337000.000
+6337500.000
+6338000.000
+6338500.000
+6339000.000
+6337000.000
+6337500.000
+6338000.000
+6338500.000
+6339000.000

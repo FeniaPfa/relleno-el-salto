@@ -1,0 +1,140 @@
+
+===== p.0 =====
+Correlativo Obra: 
+Informe N°  
+Solicitante  
+Mandante  
+Dirección 
+Obra
+Atención Sr.  
+Ubicación  
+Fecha emisión
+ANTECEDENTES  GENERALES
+Número  de  SS
+Lugar de ensayo
+Fecha Inicio de ensayo
+Fecha termino de ensayo
+Ensayado por
+ANTECEDENTES DE LA MUESTRA
+Inicio
+Termino
+RESULTADOS
+Referencia Normativa: NCh 3610:2020 - Determinación de la conductividad hidráulica 
+N° de muestra
+Fecha de Ensayo
+(cm)
+(cm)
+(cm)
+(cm)
+(cm)
+(mm/h)
+Altura Promedio Cilindro 
+Diámetro Cilindro Superior 
+Diámetro Cilindro Medio 
+Diámetro Cilindro Inferior 
+Radio Cilindro Promedio 
+Resultado Promedio Infiltración 
+Resultado Promedio Infiltración
+(cm/s)
+NOTAS
+FC009-043 Rev.002 Fecha Aprob.: 25-04-2017
+INFILTRACIÓN EN TERRENO, MÉTODO PORCHET
+Pagina 1 de 1
+N° Control
+Ubicación
+Intervalo de Lecturas 
+(mm)
+Tiempo Ensayo
+ (hr)
+OBSERVACIONES
+Para revisar que este informe NO es falso ingrese a http://www.plataformaingemars.cl/ValidarInforme.aspx 
+e ingrese el sgte codigo:
+INFORME DE ENSAYO OFICIAL
+Resolución Exenta N° 599 Fecha 14.02.2024
+Ministerio De Vivienda y Urbanismo MINVU
+INFILTRACIÓN MÉTODO PORCHET
+Antofagasta      (55) 276 5063 
+ Viña del Mar 
+(2) 249 291 28
+ Calama     (55) 283 2677 
+ www.ingemars.cl
+ 
+001
+ESPARZA & VEGA INGENIEROS LIMITADA-CENTRO DE TRATAMIENTO INTEGRAL DE RESIDUOS LOS RINCONES-VIÑA DEL MAR-Informe infi
+ESPARZA & VEGA INGENIEROS LIMITADA
+ESPARZA & VEGA
+AGUA SANTA 1400 T4 D 403
+CENTRO DE TRATAMIENTO INTEGRAL DE RESIDUOS LOS RINCONES
+CRISTIAN VEGA
+VIÑA DEL MAR
+16-12-2024
+04-12-2024
+206
+04-12-2024
+Calicata 01
+Patricio Aguilar/Danko Fuentealba
+1
+Calicata 01(-33.076422   -71.487074)
+20
+13:42 hrs
+14:06 hrs
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+206-001
+-
+-
+-
+04-12-2024
+-
+-
+-
+60,5
+-
+-
+-
+61,0
+-
+-
+-
+59,5
+-
+-
+-
+60,8
+-
+-
+-
+60,4
+-
+-
+-
+127,07
+-
+-
+-
+3,53 E-03
+-
+-
+-
+-
+Este informe anula y reemplaza al anterior: ESPARZA & VEGA INGENIEROS LIMITADA-CENTRO DE TRATAMIENTO INTEGRAL DE RESIDUOS LOS RINCONES-
+VIÑA DEL MAR-Informe infiltración método Porchet-001-2024 con fecha: 2024-12-11
+665-ip-001-001
+Firma electrónica avanzada
+MAURICIO ERNESTO VASQUEZ
+PINO
+2024.12.17 16:18:32 -0300
+Responsable de Area

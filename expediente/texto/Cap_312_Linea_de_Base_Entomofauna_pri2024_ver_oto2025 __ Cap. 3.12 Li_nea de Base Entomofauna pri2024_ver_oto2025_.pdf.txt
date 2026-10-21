@@ -1,0 +1,3114 @@
+
+===== p.0 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 1 de 49
+CENTRO METROPOLITANO DE 
+GESTIÓN INTEGRAL DE RESIDUOS 
+CMGIR
+Informe Consolidado de Línea de Base de Invertebrados 
+Terrestres - Entomofauna
+Agosto - 2025
+Elaborado por
+Agosto, 2025
+
+===== p.1 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 2 de 49
+ELABORACIÓN 
+Elaborado por
+Revisado por
+Aprobado por
+Christian Jofré
+Nelson Tapia
+Sebastián Coloma
+Especialista Entomofauna
+Consultor Senior
+Jefe de Proyectos
+Especialista en Fauna
+Administrador de Contrato
+REVISIONES
+Rev.
+Revisado por
+Revisado por
+Aprobado por
+Descripción
+Nombre
+A
+Cargo
+Nombre
+B
+Cargo
+Nombre
+C
+Cargo
+Nombre
+0
+Cargo
+
+===== p.2 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 3 de 49
+ÍNDICE DE CONTENIDOS
+RESUMEN..............................................................................................................................................6
+1.
+INTRODUCCIÓN...........................................................................................................................7
+2.
+OBJETIVOS.....................................................................................................................................9
+2.1.
+Objetivo general................................................................................................................9
+2.2.
+Objetivos específicos.........................................................................................................9
+3.
+DESCRIPCIÓN DEL ÁREA DE ESTUDIO......................................................................................10
+3.1.
+Área de Influencia para el componente Entomofauna............................................11
+4.
+METODOLOGÍA..........................................................................................................................12
+4.1.
+Trabajo preliminar de gabinete.....................................................................................12
+4.2.
+Trabajo de terreno...........................................................................................................13
+4.3.
+Determinación de ambientes para entomofauna.....................................................13
+4.4.
+Diseño de muestreo y levantamiento de información en terreno............................15
+4.5.
+Análisis de la información de terreno............................................................................24
+5.
+RESULTADOS............................................................................................................................... 30
+5.1.
+Revisión de antecedentes bibliográficos.....................................................................30
+5.2.
+Caracterización de la entomofauna terrestre.............................................................30
+5.2.2.
+Riqueza  taxonómica  y  abundancia  de  entomofauna  por  campaña 
+estacional..................................................................................................................................35
+5.3.
+Análisis de diversidad ecológica alfa...........................................................................39
+5.4.
+Variable cambio climático.............................................................................................42
+6.
+CONCLUSIONES.........................................................................................................................44
+7.
+BIBLIOGRAFÍA.............................................................................................................................46
+8.
+ANEXOS.......................................................................................................................................49
+
+===== p.3 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 4 de 49
+ÍNDICE DE TABLAS
+Tabla 1. Documentos de evaluación asociados a la Línea de Base.........................................7
+Tabla 2. Coordenadas de los transectos de muestreo del componente entomofauna......27
+Tabla 3. Catálogo taxonómico de la entomofauna registrada en el área de estudio.........29
+Tabla 4. Abundancia de la entomofauna registrada en el área de estudio..........................33
+Tabla 5. Riqueza y abundancia de la entomofauna en las campañas estacionales de 
+muestreo............................................................................................................................................36
+Tabla 6. Esfuerzo de muestreo y diversidad alfa en el área de estudio...................................40
+ÍNDICE DE FIGURAS
+Figura 1. Área de influencia, Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+- CMGIR.............................................................................................................................................16
+Figura  2.  Ambiente  Matorral  esclerófilo  mediterráneo  costero  para  el  componente 
+entomofauna en el área de estudio, campaña primavera 2024.............................................19
+Figura  3.  Ambiente  Matorral  esclerófilo  mediterráneo  costero  para  el  componente 
+entomofauna en el área de estudio, campaña verano 2025..................................................19
+Figura  4.  Ambiente  Matorral  esclerófilo  mediterráneo  costero  para  el  componente 
+entomofauna en el área de estudio, campaña otoño 2025....................................................20
+Figura 5. Instalación de trampas de caída en el sustrato, campaña primavera 2024..........22
+Figura 6. Instalación de trampas de caída en el sustrato, campaña verano 2025................23
+Figura 7. Instalación de trampas de caída en el sustrato, campaña otoño 2025..................23
+Figura 8. Trampas de color para maximizar la recolecta de insectos voladores, campaña 
+primavera 2024.................................................................................................................................24
+Figura 9. Trampas de color para maximizar la recolecta de insectos voladores, campaña 
+verano 2025......................................................................................................................................25
+Figura 10. Trampas de color para maximizar la recolecta de insectos voladores, campaña 
+otoño 2025........................................................................................................................................25
+Figura 11. Trampa pegajosa de color amarillo dispuesta en el área de estudio, campaña 
+primavera 2024.................................................................................................................................26
+Figura 12. Trampa pegajosa de color amarillo dispuesta en el área de estudio, campaña 
+verano 2025......................................................................................................................................27
+Figura 13. Trampa pegajosa de color amarillo dispuesta en el área de estudio, campaña 
+otoño 2025........................................................................................................................................27
+
+===== p.4 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 5 de 49
+Figura 14. Procedimiento de muestreo mediante red entomológica, campaña primavera 
+2024....................................................................................................................................................28
+Figura 15. Procedimiento de muestreo mediante red entomológica, campaña otoño 2025.
+............................................................................................................................................................29
+Figura 16. Microscopio estereoscópico trinocular y material para análisis entomológico....30
+ÍNDICE DE GRÁFICOS
+Gráfico 1. Abundancia por órdenes de Arachnida e Insecta..................................................33
+Gráfico 2. Abundancia por familias de Arachnida e Insecta...................................................34
+Gráfico 3. Abundancia por órdenes de Arachnida e Insecta..................................................36
+Gráfico 4. Curvas de acumulación de especies para las campañas estacionales en el área 
+de estudio: (A) primavera 2024; (B) verano 2025; (C) otoño 2025............................................40
+Gráfico 5. Distribución de especies entre las campañas estacionales en el área de estudio.
+............................................................................................................................................................42
+
+===== p.5 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 6 de 49
+RESUMEN
+El presente informe consolidado corresponde a las campañas de primavera (realizada en 
+noviembre del año 2024), verano (ejecutada en enero de 2025) y otoño (llevada a cabo en 
+mayo de 2025), de la Línea de Base del componente biótico invertebrados terrestres 
+(entomofauna), enmarcado en el Estudio de Impacto Ambiental (EIA) del proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos - CMGIR.”, ubicado en la comuna de Viña 
+del Mar, cuyo titular es COSEMAR S.A.
+La Línea de Base desarrollada tiene como propósito identificar hallazgos directos y/o 
+indirectos de la entomofauna presente en el Área de Influencia del proyecto (AI). En este 
+caso,  la  búsqueda  de  hallazgos  abarcó  arácnidos,  insectos  y  otros  artrópodos  que, 
+potencialmente, sean posibles de encontrar dentro del AI del proyecto. La campaña de 
+terreno correspondiente a primavera se realizó entre el 18 y 21 de noviembre del año 2024, 
+la campaña de verano se ejecutó entre el 20 y 23 de enero de 2025 y la campaña de otoño 
+se llevó a cabo entre el 12 y 15 de mayo de 2025, considerando cuatro (4) días efectivos de 
+trabajo, con dos (2) especialistas de las ciencias biológicas. Se utilizaron las metodologías 
+de: transectos de trampas de caída (pitfall), transectos de trampas de color (pan traps), 
+transectos de trampas pegajosas (sticky traps) y transectos de búsqueda activa que incluyó 
+el uso de red entomológica y volteo de rocas.
+Durante las campañas de terreno, aplicando las metodologías antes mencionadas, se 
+registró una riqueza filética de dos Clases (Arachnida e Insecta), siete Órdenes (Araneae, 
+Coleoptera, Diptera, Hemiptera, Hymenoptera, Lepidoptera y Orthoptera), 42 Familias y 66 
+Especies.
+Durante las prospecciones, no se observó entomofauna con evidencia directa de ser 
+afectada por actividades humanas. Sin embargo, el área previamente fue afectada por un 
+incendio, lo que probablemente perturbó el desarrollo normal de la entomofauna que 
+habita la zona.
+Este informe se desarrolló por la consultora Geoverde SpA, a solicitud del Titular, en el marco 
+de la Res. Ex. N° 223/2015 de la Superintendencia de Medio Ambiente (SMA) que dicta las 
+instrucciones  generales  sobre  la  elaboración  del  Plan  de  Seguimiento  de  Variables 
+Ambientales, Informes de Seguimiento Ambiental y Remisión de Información al Sistema 
+Electrónico de Seguimiento Ambiental. 
+
+===== p.6 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 7 de 49
+1.
+INTRODUCCIÓN
+Este documento presenta los resultados de la línea de base de invertebrados terrestres (en 
+adelante, entomofauna terrestre o entomofauna), enmarcado en la Línea de Base del EIA 
+del proyecto “Centro Metropolitano de Gestión Integral de Residuos - CMGIR.”, cuyo titular 
+es COSEMAR S.A. El proyecto implica la construcción, operación y obras asociadas a un 
+complejo para gestionar de manera integral los residuos sólidos domiciliarios, este se localiza 
+aproximadamente a 10 km al sureste de la ciudad de Viña del Mar y a una altitud de 280 m 
+s.n.m.  Las  obras  contemplan  un  sitio  central  de  excavación  de  70  hectáreas  y  la 
+construcción de un cerco perimetral que abarcará 205 hectáreas aproximadamente del 
+área del proyecto, además de un camino de acceso de 2,3 hectáreas aproximadas, que 
+conectará la zona del proyecto con la ruta CH-60 Troncal Sur. 
+En  este  contexto,  el  titular  solicita  a  la  consultora  ambiental  Geoverde  SpA,  la 
+caracterización del componente invertebrados terrestres para el proyecto, con énfasis en el 
+levantamiento  de  información  relativa  a  la  presencia  o  ausencia  de  especies  de 
+entomofauna que se encuentren en alguna categoría de conservación de acuerdo con la 
+legislación ambiental vigente, e identificar su sensibilidad frente a la ejecución del proyecto.
+Dado lo anterior, y en el caso específico de las campañas ejecutadas, el objetivo se 
+concentró  en  registrar  hallazgos  directos  y/o  indirectos  de  especies  de  animales 
+mencionadas  anteriormente,  con  la  finalidad  de  detectar  potenciales  impactos  a 
+consecuencia del desarrollo de  las actividades  propias del proyecto. Esta detección 
+temprana es clave para tomar medidas adecuadas que permitan evitar o, al menos, 
+mitigar estos efectos sobre la entomofauna terrestre.
+El  seguimiento  ambiental  considera  los  documentos  de  evaluación  que  se  listan  a 
+continuación (Tabla 1):
+Tabla 1. Documentos de evaluación asociados a la Línea de Base 
+Documento
+Descripción
+Guía para la Descripción del Área de 
+Influencia – SEA, 2026.
+Descripción de los componentes suelo, flora, y fauna de ecosistemas 
+terrestres en el SEIA. 
+Manual para la Evaluación de Línea 
+Base componente Fauna Silvestre – 
+SAG, 2015. 
+Referencias  técnicas  y  metodológicas  para  la  evaluación  de  los 
+invertebrados terrestres (entomofauna).
+Guía
+ Metodológica
+ para
+ la 
+Descripción de Ecosistemas Terrestres 
+– SEA, 2025. 
+Descripción de los componentes suelo, flora, y fauna de ecosistemas 
+terrestres en el SEIA.
+Fuente: Elaboración propia 2025, en base a información proporcionada por las Guías de Evaluación Ambiental.
+
+===== p.7 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 8 de 49
+A continuación, se detallan las actividades que dan cuenta de la ejecución de la Línea de 
+Base – Entomofauna Terrestre encargada por COSEMAR S.A., en el área de influencia del 
+proyecto, comuna de Viña del Mar. El informe presenta los resultados de las campañas de 
+terreno  realizadas  en  primavera  2024,  verano  2025  y  otoño  2025.  Los  trabajos  y  la 
+elaboración  del  informe  fueron  llevados  a  cabo  por  Geoverde  SpA  y  revisado por 
+COSEMAR S.A. Los profesionales a cargo de la ejecución del monitoreo se detallan en Error:
+Reference source not found 1.
+
+===== p.8 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 9 de 49
+2.
+OBJETIVOS
+2.1.
+Objetivo general
+Caracterizar la diversidad de entomofauna terrestre presente en el área del Proyecto 
+“Centro Metropolitano de Gestión Integral de Residuos - CMGIR.”, incluyendo la distribución 
+ambiental, la riqueza, abundancia y estado de conservación de las especies. 
+2.2.
+Objetivos específicos 
+
+Identificar las especies de entomofauna terrestre presentes en el área de estudio.
+
+Establecer la distribución de las especies de entomofauna terrestre identificadas 
+en el área de estudio, lo que será abordado a través de los ambientes para las 
+especies.
+
+Determinar la diversidad de especies de entomofauna terrestre identificadas en el 
+área de estudio, lo que será abordado a través del parámetro de riqueza de 
+especies (S).
+
+Establecer la abundancia de especies de entomofauna terrestre identificadas en 
+el área de estudio, lo que será abordado a través de la dominancia de las especies 
+(D).
+
+Determinar la diversidad ecológica alfa de las especies de entomofauna terrestre 
+en cada ambiente comprendido en el área de estudio, lo que será abordado a 
+través del índice de Shannon-Wiener.
+
+Identificar las especies de entomofauna terrestre descritas para el área de estudio 
+que  se  encuentren  clasificadas  en  alguna  categoría  de  conservación,  en 
+conformidad con lo señalado en el Artículo 37 de la Ley Nº19.300.
+
+Generar un catálogo de las especies de entomofauna terrestre registradas en el 
+área de estudio, indicando nombre científico y clasificación taxonómica.
+
+===== p.9 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 10 de 49
+3.
+DESCRIPCIÓN DEL ÁREA DE ESTUDIO
+De acuerdo con los criterios metodológicos establecidos por el Servicio de Evaluación 
+Ambiental (SEA), el área de estudio corresponde al espacio territorial donde se levantó la 
+información de la línea de base para el componente entomofauna y donde se emplazan 
+las obras permanentes y temporales del proyecto. La delimitación debe considerar la 
+totalidad de las obras y acciones asociadas al proyecto, así como las unidades ambientales 
+presentes en el territorio, constituyendo la base para la identificación y evaluación de 
+impactos.
+Para el Proyecto Centro Metropolitano de Gestión Integral de Residuos (CMGIR), el área de 
+estudio se define como una superficie aproximada de 341,5 hectáreas, correspondiente al 
+polígono  total  del  proyecto,  incluyendo  la  futura  zona  de  disposición,  sectores 
+operacionales y el camino de acceso proyectado que conectará la zona del proyecto con 
+la ruta CH-60 Troncal Sur. Esta superficie se emplaza en la comuna de Viña del Mar, Región 
+de Valparaíso, aproximadamente a 10 km al sureste del área urbana de la ciudad y próxima 
+al límite comunal con Quilpué. Desde el punto de vista ambiental, el área se inserta en la 
+zona mediterránea de Chile central, caracterizada por un clima templado mediterráneo 
+con estación seca prolongada, precipitaciones concentradas en invierno y una marcada 
+estacionalidad hídrica. También, el territorio presenta condiciones asociadas a la Cordillera 
+de la Costa, con presencia de quebradas y laderas, donde predominan remanentes de 
+bosque esclerófilo. Estas características determinan la presencia de hábitats potenciales 
+para el desarrollo de la entomofauna, justificando la utilización de las 341,5 hectáreas como 
+área de estudio para la caracterización del componente y el levantamiento de la línea de 
+base. 
+En la Figura 1 se presenta la ubicación general del proyecto.
+
+===== p.10 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 11 de 49
+Figura 1. Área de estudio, Proyecto Centro Metropolitano de Gestión Integral de Residuos – CMGIR
+Fuente: Geoverde 2024.
+3.1.
+Área de Influencia para el componente Entomofauna 
+Conforme a la Guía Área de Influencia en el SEIA, el área de influencia corresponde al 
+espacio geográfico donde se prevé la ocurrencia de impactos ambientales generados por 
+las actividades propias del proyecto, considerando la localización de las obras, los factores 
+generadores de impacto y las características del medio ambiente receptor. 
+Para el componente entomofauna, se define un área de influencia aproximada de 78,14 
+hectáreas, asociada principalmente a la zona central de excavación y a los sectores 
+donde se producirán las mayores intervenciones directas sobre la cobertura vegetal y los 
+hábitats disponibles, incluyendo la zona intervenida para las obras del camino de acceso. 
+La delimitación considera que los principales impactos potenciales corresponden a la 
+pérdida y modificación de hábitat, perturbación por ruido, vibraciones, iluminación y 
+aumento de las actividades humanas durante las fases de construcción y operación del 
+proyecto. Desde el punto de vista ecológico, esta superficie comprende presencia de 
+bosque  esclerófilo  mediterráneo  costero,  el  cual  constituye  hábitat  y  áreas  de 
+desplazamiento  para  el  desarrollo  de  la  entomofauna  registrada.  Adicionalmente,  la 
+cercanía a zonas de relevancia ambiental, tales como la quebrada El Muerto y el Santuario 
+de la Naturaleza Palmar El Salto, refuerza la necesidad de considerar esta superficie como 
+área de influencia, dado que dichos ambientes funcionan como corredores biológicos y 
+
+===== p.11 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 12 de 49
+áreas de refugio para diversas especies. En consecuencia, las 78,14 hectáreas representan 
+el ámbito territorial donde se podrían manifestar modificaciones sobre la disponibilidad y 
+calidad del hábitat para la entomofauna, constituyendo una delimitación coherente con 
+los criterios técnicos establecidos por él SEA para la evaluación ambiental.
+4.
+METODOLOGÍA
+La metodología del componente entomofauna se desarrolló en tres fases:
+i.
+Trabajo preliminar en gabinete: orientado a la revisión bibliográfica, planificación y 
+preparación de la campaña de terreno.
+ii.
+Trabajo de terreno: orientado a la prospección del área de estudio y a la aplicación 
+de los métodos de campo para el muestreo del componente.
+iii. Análisis de información de terreno:  orientado a la fase de análisis de los datos 
+colectados, elaboración de informe de caracterización y elaboración de bases de 
+datos con los registros de las especies de este componente.
+A  continuación,  se  describen  los  procesos  metodológicos  empleados  en  el  presente 
+estudio, segmentados en las fases descritas previamente.
+4.1.
+Trabajo preliminar de gabinete 
+El trabajo preliminar de gabinete tuvo como propósito recabar y procesar todos los insumos 
+necesarios para obtener un diseño y planificación del muestreo ejecutado en terreno. 
+Durante esta fase se realizó el proceso de revisión bibliográfica que sirvió de insumo para la 
+justificación de las distintas metodologías de muestreo aplicadas en terreno.
+La obtención de datos de entomofauna presente en el área donde se emplaza el Proyecto, 
+se realizó mediante búsqueda bibliográfica para la obtención de información de notas 
+biológicas, nuevas localidades de presencia y rangos distribucionales.
+En primera  instancia, se consultaron  revistas científicas nacionales vinculadas  al área 
+aracnológica,  entomológica,  ecológica  y  de  historia  natural  (por  ejemplo,  el  Acta 
+Entomológica  Chilena y la  Revista Chilena  de  Entomología),  realizando  también  una 
+búsqueda retroactiva en sus artículos publicados. Luego, se realizó una búsqueda de 
+publicaciones indexadas en bases de datos de acceso restringido (por ejemplo, Web of 
+Science) y de acceso libre, como Google Scholar y Scielo.
+Finalmente, para maximizar la obtención de datos de entomofauna del área de estudio, la 
+recopilación de literatura científica incluyó términos de búsqueda de localidades cercanas 
+al Proyecto, tales como El Salto (en Viña del Mar) y Rodelillo (en Valparaíso), además de las 
+áreas protegidas más próximas, como el Santuario de la Naturaleza Palmar El Salto, y de la 
+Estrategia  Regional  de  Conservación  de  la  Región  de  Valparaíso:  Palmar  Las  Siete 
+Hermanas – El Salto (sitio N° 20) y Estero y Quebrada Quiteño Las Palmas (sitio N° 34).
+
+===== p.12 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 13 de 49
+4.2.
+Trabajo de terreno
+En esta sección se describen las actividades realizadas en terreno para la obtención de la 
+información sobre la entomofauna presente en el área de estudio. Ver Permiso de captura 
+en Anexo 2.
+4.3.
+Determinación de ambientes para entomofauna
+La determinación de los ambientes de entomofauna se realizó mediante la observación del 
+área de estudio del componente, acompañada de un recorrido pedestre, utilizando un 
+criterio  principalmente  fisiográfico.  A  continuación,  se  describe  el  ambiente  para 
+entomofauna:
+Matorral esclerófilo mediterráneo costero (MEMC): Presentó un estrato arbustivo 
+y herbáceo dominado por especies hidrófitas, esclerófilas y xerófitas, las cuales 
+presentan una cobertura cercana entre el 40-50%, destacando el Litre (Lithraea 
+caustica), el Molle (Schinus latifolia), el Colliguay (Colliguaja odorifera), la Quila 
+(Chusquea  cumingii),  la  Salvia  (Aristeguietia  salvia)  y  el  Chagual  (Puya 
+berteroniana) (Figura 2, Figura 3 y Figura 4). En general, se observó que este 
+ambiente está recuperándose del impacto del mega incendio que afectó a la 
+Región de Valparaíso en febrero de 2024.
+
+===== p.13 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 14 de 49
+Figura 2. Ambiente Matorral esclerófilo mediterráneo costero para el componente entomofauna en 
+el área de estudio, campaña primavera 2024.
+Fuente: Elaboración propia, 2024.
+Figura 3. Ambiente Matorral esclerófilo mediterráneo costero para el componente entomofauna en 
+el área de estudio, campaña verano 2025.
+Fuente: Elaboración propia, 2025.
+
+===== p.14 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 15 de 49
+Figura 4. Ambiente Matorral esclerófilo mediterráneo costero para el componente entomofauna en 
+el área de estudio, campaña otoño 2025.
+Fuente: Elaboración propia, 2025.
+4.4.
+Diseño de muestreo y levantamiento de información en terreno
+4.4.1.
+Diseño de muestreo
+Para una adecuada caracterización del componente entomofauna, el diseño de muestreo 
+consideró los siguientes tres criterios (Delfín & Manrique, 2004): tipo de muestreo, unidad 
+muestral y tamaño de la muestra.
+El tipo de muestreo fue sistemático mediante transectos y puntos de muestreo en cada 
+ambiente definido, buscando representar adecuadamente el ambiente de entomofauna 
+presente  en  el  área  de  estudio  con  factibilidad  para  la  presencia  y  desarrollo  de 
+entomofauna terrestre.
+Las  unidades  muestrales  en  cada  campaña  de  terreno,  definidas  y  caracterizadas 
+siguiendo a Jiménez-Valverde & Lobo (2005), correspondieron a: (1) El funcionamiento de 10 
+trampas Barber (pitfall) durante 48 horas en un transecto de 100 m; (2) El funcionamiento de 
+20 trampas de colores (pan traps) durante 48 horas en un transecto de 100 m; (3) El 
+funcionamiento de 10 trampas pegajosas durante 48 horas en un transecto de 100 m; (4) Un 
+barrido con red entomológica por un transecto de 100 m durante 15 minutos por una 
+persona; y (5) Una búsqueda visual volteando piedras por un transecto de 100 m durante 15 
+minutos por una persona.
+Estos 5 tipos de unidades muestrales se aplicaron como métodos combinados de muestreo 
+(Jiménez-Valverde & Lobo 2005), los cuales fueron georreferenciados. El muestreo fue 
+
+===== p.15 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 16 de 49
+ejecutado por el mismo profesional para evitar posibles diferencias debido al efecto del 
+recolector.
+De este modo, en cada una de las campañas de terreno, el tamaño muestral junto al 
+esfuerzo de muestreo implicó ejecutar 90 trampas de caída (que corresponden a 10 
+trampas, en 9 transectos de muestreo), 180 trampas de colores (correspondientes a 20 
+trampas en 9 transectos de muestreo), 40 trampas pegajosas (correspondientes a 10 
+trampas  en  4  transectos  de  muestreo),  2,25  HH  en  búsquedas  activas  (BA)  con  red 
+entomológica (BA x 15 min x 9) y 2,25 HH en búsquedas activas mediante volteo de piedras 
+(BA x 15 min x 9).
+4.4.2.
+Levantamiento de información de terreno
+Se realizaron tres (3) campañas estacionales de levantamiento de información de terreno: 
+primavera 2024 (18 al 21 de noviembre), verano 2025 (20 al 23 de enero) y otoño 2025 (12 al 
+15 de mayo). La prospección se ejecutó entre las 09:00 y 18:00 hrs. (muestreo diurno).
+El muestreo de entomofauna a través de las distintas metodologías empleadas en este 
+estudio se realizó siguiendo las sugerencias del Servicio de Evaluación Ambiental de Chile, 
+de acuerdo con la Guía para la descripción del área de influencia: descripción de los 
+componentes suelo, flora y fauna de ecosistemas terrestres en el SEIA (SEA 2015) y la Guía 
+Metodológica para la Descripción de Ecosistemas Terrestres (SEA, 2025).
+Las  campañas  de  prospección  en  terreno  para  el  componente  entomofauna  fue 
+ejecutada por dos profesionales de las ciencias biológicas. El consultor ambiental senior en 
+entomofauna terrestre fue Christian Jofré Pérez.
+4.4.3.
+Procedimientos de recolecta de entomofauna terrestre: métodos pasivos
+Corresponden a métodos de captura de uso continuo (recolecta activa/permanente), 
+ampliamente ocupados y reconocidos en estudios de este tipo. Su efectividad se ha 
+observado incluso en ecosistemas desérticos, en donde estos métodos pueden conseguir 
+capturas representativas de especies de insectos voladores y fitófagos. Estas capturas 
+indirectas de especímenes no epigeos fueron observadas en los muestreos realizados por 
+Cepeda-Pizarro et al. (2005).
+
+Trampas de intercepción o de caída (“pitfall”, en inglés)
+Para el muestreo de entomofauna epigea en cada campaña se instalaron 90 trampas de 
+caída en el área de estudio, separadas 10 m cada una, totalizando 9 líneas de trampas. La 
+superficie cubierta en cada línea de trampas fue de 2.000 m2 (100 m x 20 m), equivalentes 
+de 0,2 ha. Las trampas Barber estuvieron activas por dos noches (48 horas). El atrayente 
+dispuesto en estas trampas permitió el registro de insectos voladores, e incluso, de hábitos 
+nocturnos.
+Dicho método, permitió realizar una recolecta de entomofauna terrestre con un muestreo 
+uniforme, abarcando metodológicamente un área de igual probabilidad de captura. 
+
+===== p.16 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 17 de 49
+Consistieron  en  la  utilización  de  recipientes  plásticos  de  boca  ancha  (1.000  ml  de 
+capacidad), en cuyo interior se dispuso una solución de ácido acético diluido (vinagre 
+blanco comestible como atrayente). El diseño de muestreo antes descrito ha sido utilizado 
+en estudios relacionados a entomofauna por Cepeda et al. (2006) y Cepeda et al. (2013). El 
+procedimiento general de instalación puede verse en la Figura 5, Figura 6 y Figura 7.
+Figura 5. Instalación de trampas de caída en el sustrato, campaña primavera 2024.
+Fuente: Elaboración propia, 2024.
+
+===== p.17 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 18 de 49
+Figura 6. Instalación de trampas de caída en el sustrato, campaña verano 2025.
+Fuente: Elaboración propia, 2025.
+Figura 7. Instalación de trampas de caída en el sustrato, campaña otoño 2025.
+Fuente: Elaboración propia, 2025.
+
+===== p.18 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 19 de 49
+
+Trampas de color (“pan traps”, en inglés)
+Para el muestreo de insectos voladores y florícolas (visitantes florales), en cada punto de 
+muestreo asociados a las líneas de transectos se instalaron 180 trampas de colores. La 
+superficie cubierta en cada línea de trampas fue de 2.000 m2 (100 m x 20 m), equivalentes 
+de 0,2 ha. Las trampas de colores estuvieron activas por 48 horas.
+Estas trampas corresponden a recipientes plásticos de 200 ml de capacidad, en cuyo 
+interior se dispuso una solución de agua y detergente líquido en muy baja concentración. 
+Siguiendo el mismo procedimiento anterior para las trampas Barber, las trampas de color se 
+instalaron en sectores sin vegetación, georreferenciándose para posteriores registros y datos 
+de recolecta (Figura 8, Figura 9 y Figura 10).
+Las trampas permanecieron activas durante 48 horas, tras lo cual se realizó el retiro de los 
+ejemplares capturados. Este método de recolecta ha sido aplicado con éxito en estudios 
+específicos (por ejemplo: Jaques et al. 2023).
+Figura 8. Trampas de color para maximizar la recolecta de insectos voladores, campaña primavera 
+2024.
+Fuente: Elaboración propia, 2024.
+
+===== p.19 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 20 de 49
+Figura 9. Trampas de color para maximizar la recolecta de insectos voladores, campaña verano 
+2025.
+Fuente: Elaboración propia, 2025.
+Figura 10. Trampas de color para maximizar la recolecta de insectos voladores, campaña otoño 
+2025.
+Fuente: Elaboración propia, 2025.
+
+===== p.20 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 21 de 49
+
+Trampas pegajosas cromáticas
+Corresponden a tarjetas plásticas cromáticas amarillas, azules y blancas, con pegamento 
+de alta calidad por ambos lados, una superficie de 15 cm x 25 cm y una cuadrícula para 
+posteriores conteos (Figura 11, Figura 12 y Figura 13). Estas trampas cromáticas estuvieron 
+operativas por 48 horas (dos noches).
+Figura 11. Trampa pegajosa de color amarillo dispuesta en el área de estudio, campaña primavera 
+2024.
+Fuente: Elaboración propia, 2024.
+
+===== p.21 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 22 de 49
+Figura 12. Trampa pegajosa de color amarillo dispuesta en el área de estudio, campaña verano 
+2025.
+Fuente: Elaboración propia, 2025.
+Figura 13. Trampa pegajosa de color amarillo dispuesta en el área de estudio, campaña otoño 2025.
+Fuente: Elaboración propia, 2025.
+
+===== p.22 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 23 de 49
+4.4.4.
+Procedimientos de recolecta de entomofauna terrestre: métodos activos
+
+Transecto activo
+Se realizaron búsquedas activas en puntos y transectos con uso de red entomológica y 
+volteo de piedras a lo largo de cuadrantes de 100 m x 10 m (1.000 m2), equivalentes a 0,1 ha. 
+El tiempo mínimo de muestreo con red entomológica fue de 15 minutos y la cantidad 
+mínima de piedras volteadas fue 50 unidades (Figura 14 y Figura 15).
+
+Redes entomológicas aérea y de rastreo
+Para la recolecta de insectos voladores se utilizó una red entomológica aérea, de malla fina 
+y dimensiones estándar (30,5 cm de diámetro); para el muestreo de entomofauna asociada 
+al suelo, se ocupó una red de rastreo cuyas características son similares a la anteriormente 
+descrita, excepto por tener una red de tejido muy resistente al roce y de mayor durabilidad.
+
+Volteo de piedras sistemático y no sistemático
+El volteo de piedras sistemático permitió realizar una colecta de artrópodos terrestres con un 
+muestreo uniforme, abarcando metodológicamente un área de igual probabilidad de 
+captura, levantando 10 piedras cada 5 m (50 piedras/transecto). Por otra parte, el volteo de 
+piedras no sistemático consistió en levantar y revisar todo tipo de rocas fuera de un 
+transecto, enfatizando aquellas que, por su forma, tamaño y posición respecto del sustrato 
+y otras rocas cercanas, debieran ser refugio para entomofauna edáfica.
+Figura 14. Procedimiento de muestreo mediante red entomológica, campaña primavera 2024.
+Fuente: Elaboración propia, 2024.
+
+===== p.23 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 24 de 49
+Figura 15. Procedimiento de muestreo mediante red entomológica, campaña otoño 2025.
+Fuente: Elaboración propia, 2025.
+
+Tratamiento y transporte de material recolectado
+Una vez recolectados los diversos especímenes, se procedió a mantenerlos en frascos con 
+etanol al 70% para su posterior identificación en laboratorio. Los ejemplares capturados con 
+métodos  activos  fueron  depositados  en  frascos  entomológicos  letales,  conteniendo 
+acetato de etilo. El transporte se realizó en sobres entomológicos cuadrados y triangulares 
+con los detalles de lugar de colecta georreferenciada, fecha, características biotópicas y 
+nombre del recolector.
+4.5.
+Análisis de la información de terreno
+4.5.1.
+Identidad y posición taxonómica de las especies
+La  determinación  de  niveles  taxonómicos  se  realizó  en  laboratorio  con  la  ayuda  de 
+instrumental especializado (microscopio estereoscópico y sistema de iluminación;  Figura
+16), utilización de recursos bibliográficos y colección de referencia personal. 
+La determinación de la entomofauna en terreno se realizó, la mayoría de las veces, 
+mediante observación directa de los individuos, logrando una clasificación a nivel de 
+Orden sin ayuda de claves taxonómicas y, a nivel de Familia, mediante su uso.
+A nivel de Género y Especie, los especímenes, cuando fue posible, fueron identificados con 
+apoyo de colecciones entomológicas y claves taxonómicas.
+
+===== p.24 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 25 de 49
+Figura 16. Microscopio estereoscópico trinocular y material para análisis entomológico.
+Fuente: Christian Jofré Pérez.
+En Chile, como en muchos otros países, el estado del conocimiento a nivel específico de la 
+entomofauna local es todavía incipiente, no está completo (ni siquiera existen especialistas 
+nacionales en varios grupos de insectos) y sólo algunos de ellos están bien conocidos (por 
+ejemplo, mariposas diurnas) (Simonetti 1997; Ojeda 1998; Jerez et al. 2015).
+Por  lo  anterior,  las  especies  no  determinadas  en  este  estudio  no  necesariamente 
+corresponden a nuevas especies de Insecta o Arachnida. En este sentido, se podría tratar 
+de variantes fenotípicas o, más común, de estadios de desarrollo incompleto (por ejemplo, 
+larvas o ninfas). En general, para la identificación taxonómica de las muestras se emplearon 
+estudios clásicos de reconocimiento mediante el uso de claves taxonómicas muy utilizadas 
+en estudios de este tipo, los cuales se presentan a continuación:
+
+Para Phylum Arthropoda en general: Daly et al. (1998), Triplehorn & Johnson (2005).
+
+Para Clase Arachnida (Orden Araneae): Aguilera & Casanueva (2005).
+
+Para Orden Coleoptera (incluyendo estadios larvarios): Peña (1966, 1971, 1976) y 
+Peña (1986, 2006), Daly et al. (1998), Triplehorn & Johnson (2005), Vidal & Guerrero 
+(2007) y Moore & Vidal (2015).
+
+Para Orden Diptera: Cortés & Hichins (1969), Peña (1986, 2006), Daly et al. (1998) y 
+Triplehorn & Johnson (2005).
+
+Para Hemiptera: Prado (2008).
+
+Para Hymenoptera: Toro (1986), Montalva & Ruz (2010) y Vivallo (2013).
+
+===== p.25 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 26 de 49
+
+Para Orden Lepidoptera: Peña (1975), Peña & Ugarte (1996, 2006), Daly et al. (1998), 
+MacNeill & Herrera (1998), Triplehorn & Johnson (2005) y Medina & Ugarte (2015).
+
+Para Orden Orthoptera: Elgueta et al. (1999).
+Además, para comparar y/o verificar las determinaciones entomológicas, las muestras 
+fueron comparadas con la Colección de la Pontificia Universidad Católica de Valparaíso 
+(PUCV,  Región  de  Valparaíso,  Chile)  y  con  la  colección  personal  del  consultor  en 
+entomofauna (CCJP, Región de Valparaíso, Chile).
+4.5.2.
+Análisis de riqueza, abundancia y diversidad ecológica alfa
+La riqueza específica (S) es la forma más simple de medir diversidad biológica, ya que se 
+sustenta en el número de especies presentes y no considera el valor de importancia de las 
+mismas.
+En cuanto a la abundancia, se busca obtener un valor de dominancia. Los índices de 
+dominancia son parámetros inversos al concepto de uniformidad o equidad en una 
+comunidad, de tal modo que la representatividad de las especies con mayor valor de 
+importancia  (abundancia) es considerada por sobre  la  contribución  del resto  de  las 
+especies. Se calculó la Dominancia con la Ecuación 1.
+D=∑
+1
+S
+(
+ni
+n )
+2
+Ecuación 1: Dominancia de las especies
+En donde:
+D es la dominancia, ni es la abundancia relativa de la especie i y n es el número total de 
+individuos.  Los  valores  van  desde  0  (equitatividad  de  todos  los  taxa  presentes)  a  1 
+(dominancia de un taxón en toda la comunidad).
+Además,  se  calculó  el  índice  de  diversidad  de  Shannon-Wiener  (H’)  por  comunidad 
+(diversidad alfa), el cual toma en consideración tanto el número de individuos como el 
+número de especies, asumiendo que los individuos son seleccionados al azar y que todas las 
+especies están representadas en la muestra. El valor mínimo del índice es cero, cuando hay 
+una sola especie; valores frecuentes para comunidades diversas se encuentran entre 1,5 y 
+3,5 (Magurran 1988). Los valores se expresan en nits/individuo. Su fórmula se muestra en la 
+Ecuación 2.
+H
+'=−∑(
+¿
+N )ln(
+¿
+N )
+Ecuación 2: Índice de diversidad de Shannon-Wiener
+En donde:
+
+===== p.26 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 27 de 49
+ni es la abundancia relativa de la especie i, N es el número total de individuos y ln es el 
+logaritmo natural.
+En todos los análisis se incluyen las especies no determinadas a nivel específico. Para el 
+ordenamiento de datos se empleó el software Microsoft Excel, mientras que para la 
+estimación de los índices de diversidad alfa se utilizó el software PAST versión 5.2 (2025) 
+(Hammer et al. 2001).
+4.5.3.
+Estado de conservación
+El estado de conservación de las especies de entomofauna registradas en el área de 
+estudio  del  Proyecto  se  determinó  de  acuerdo  con  las  categorías  de  conservación 
+definidas en el Reglamento de Clasificación de Especies (RCE).
+Los decretos generados en el marco del RCE (Decreto Supremo N°75 de 2005, Ministerio 
+Secretaría General de la Presidencia, modificado por el Decreto Supremo N°29 de 2012, 
+Ministerio del Medio Ambiente) han permitido avanzar en la protección oficial de las 
+especies chilenas de Insecta y Arachnida. Con el 19º Proceso de Clasificación de Especies 
+(actualizado a junio de 2025), en la Región de Valparaíso se encuentran 25 especies 
+categorizadas, 21 Insecta y 4 Arachnida: En Peligro Crítico – CR (2); En Peligro – EN (6); 
+Vulnerable – VU (5); Casi Amenazada – NT (4); Preocupación Menor – LC (7); y Datos 
+Insuficientes – DD (1).
+4.5.4.
+Categorización según origen
+De acuerdo con su distribución conocida a nivel de especie, o en la mayoría de los casos a 
+los antecedentes disponibles en la literatura a nivel de género, la entomofauna registrada 
+en el área de estudio del Proyecto fue determinada en las siguientes categorías de origen: 
+nativas, endémicas, exóticas, exóticas invasoras o cosmopolitas. 
+La categorización de especies en estos orígenes biogeográficos no es posible para toda la 
+entomofauna nacional por la alta inexistencia de datos; sólo es factible para ciertas 
+especies  en  que  se  cuente  con  datos  técnico-científicos  publicados  en  revistas 
+especializadas.
+4.5.5.
+Esfuerzo de muestreo
+La  Tabla  2 muestra  los  puntos  de  muestreo  (36)  con  sus  respectivas  coordenadas 
+geográficas. Aunque todos los métodos de muestreo se aplicaron en cada uno de los 
+transectos, el éxito de captura fue diferenciado por transecto y metodología.
+
+===== p.27 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 28 de 49
+Tabla 2. Coordenadas de los transectos de muestreo del componente entomofauna.
+Coordenadas UTM Datum WGS84 
+Huso 19 H
+Ambiente
+Métodos de muestreo de entomofauna
+(1) Trampas de caída; (2) Trampas de 
+colores; (3) Trampas pegajosas; (4) Red 
+entomológica; (5) Volteo de piedras
+Puntos
+Este
+(m)
+Norte
+(m)
+ST-1
+267.614
+6.339.066
+Matorral esclerófilo
+(3)
+ST-2
+267.998
+6.338.468
+Matorral esclerófilo
+(3)
+ST-3
+268.333
+6.337.924
+Matorral esclerófilo
+(3)
+ST-4
+268.014
+6.337.699
+Matorral esclerófilo
+(3)
+ST-5
+267.631
+6.337.205
+Matorral esclerófilo
+(3)
+ST-6
+267.866
+6.336.962
+Matorral esclerófilo
+(3)
+ST-7
+268.137
+6.336.894
+Matorral esclerófilo
+(3)
+ST-8
+268.599
+6.336.645
+Matorral esclerófilo
+(3)
+ST-9
+268.857
+6.336.958
+Matorral esclerófilo
+(3)
+BA-1
+267.608
+6.339.043
+Matorral esclerófilo
+(4) + (5)
+BA-2
+268.002
+6.338.462
+Matorral esclerófilo
+(4) + (5)
+BA-3
+268.320
+6.337.928
+Matorral esclerófilo
+(4) + (5)
+BA-4
+268.009
+6.337.715
+Matorral esclerófilo
+(4) + (5)
+BA-5
+267.695
+6.337.265
+Matorral esclerófilo
+(4) + (5)
+BA-6
+267.861
+6.336.946
+Matorral esclerófilo
+(4) + (5)
+BA-7
+268.187
+6.336.850
+Matorral esclerófilo
+(4) + (5)
+BA-8
+268.603
+6.336.633
+Matorral esclerófilo
+(4) + (5)
+BA-9
+268.862
+6.336.950
+Matorral esclerófilo
+(4) + (5)
+TC-1
+267.649
+6.338.939
+Matorral esclerófilo
+(2)
+TC-2
+267.992
+6.338.457
+Matorral esclerófilo
+(2)
+TC-3
+268.283
+6.337.869
+Matorral esclerófilo
+(2)
+TC-4
+267.963
+6.337.639
+Matorral esclerófilo
+(2)
+TC-5
+267.641
+6.337.191
+Matorral esclerófilo
+(2)
+TC-6
+267.871
+6.336.954
+Matorral esclerófilo
+(2)
+TC-7
+268.138
+6.336.880
+Matorral esclerófilo
+(2)
+TC-8
+268.604
+6.336.622
+Matorral esclerófilo
+(2)
+TC-9
+268.879
+6.336.871
+Matorral esclerófilo
+(2)
+PF-1
+267.647
+6.338.926
+Matorral esclerófilo
+(1)
+PF-2
+268.001
+6.338.454
+Matorral esclerófilo
+(1)
+PF-3
+268.290
+6.337.863
+Matorral esclerófilo
+(1)
+PF-4
+268.290
+6.337.863
+Matorral esclerófilo
+(1)
+PF-5
+267.968
+6.337.630
+Matorral esclerófilo
+(1)
+PF-6
+267.632
+6.337.208
+Matorral esclerófilo
+(1)
+PF-7
+267.866
+6.336.946
+Matorral esclerófilo
+(1)
+PF-8
+268.587
+6.336.627
+Matorral esclerófilo
+(1)
+PF-9
+268.866
+6.336.870
+Matorral esclerófilo
+(1)
+Fuente: Elaboración propia, 2024.
+4.5.6.
+Variable cambio climático
+Las proyecciones del cambio climático asociadas a variables ambientales y sus efectos en 
+la biodiversidad pueden ser observadas en la plataforma en línea del Atlas de Riesgos 
+Climáticos  para  Chile  –  ARClim  del  Ministerio  del  Medio  Ambiente 
+(https://arclim.mma.gob.cl/biodiversity/home/),  cuyo  objetivo  es  desarrollar  mapas  de 
+riesgos relacionados con el cambio climático para el territorio nacional.
+El riesgo climático corresponde a un indicador de la magnitud del daño que se podría 
+experimentar  frente  a  un  cambio  en  las  condiciones  climáticas.  Para  su  estimación 
+(estimación del riesgo climático) se requiere conocer su exposición, sensibilidad y amenaza, 
+la que es el cambio en el elemento climático al cual puede reaccionar. La amenaza 
+considera el cambio del clima entre el pasado reciente (1980-2010) y el futuro cercano 
+
+===== p.28 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 29 de 49
+(2035-2065) bajo un escenario pesimista de emisiones de gases con efecto de invernadero 
+(RCP 8.5).
+La  metodología  para  analizar  los  efectos  adversos  del  cambio  climático  sobre  los 
+componentes  ambientales  bajo  protección  del  Sistema  de  Evaluación  de  Impacto 
+Ambiental (SEIA) e integrar en dicho análisis los impactos ambientales y riesgos, está descrita 
+en la Guía metodológica para la consideración del cambio climático en el SEIA, cuya 
+tercera edición fue publicada el año (SEA 2024).
+
+===== p.29 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 30 de 49
+5.
+RESULTADOS
+5.1.
+Revisión de antecedentes bibliográficos
+El conocimiento de la entomofauna nativa, endémica e introducida, presente en las 
+localidades cercanas al área de estudio del Proyecto, es escaso en cuanto al número de 
+publicaciones científicas que respalden la presencia de especies de Arachnida e Insecta. 
+Para el caso de Lepidoptera, al extrapolar información publicada en otros documentos 
+científicos, se podría estimar la presencia de 29 especies de mariposas, según la información 
+generalizada de los mapas de distribución de Peña & Ugarte (1996, 2006) y Medina & Ugarte 
+(2015) para la zona costera de las comunas de Viña del Mar y Valparaíso.
+Por otro lado, al revisar la base de datos libre GBIF – Global Biodiversity Information Facility 
+(www.gbif.org/) y realizar una búsqueda a escala de la comuna de Viña del Mar (donde 
+está emplazado el Proyecto), los resultados señalan la presencia de 207 especies de 
+Arachnida e Insecta, las cuales en su mayoría son de insectos (n=179; 86,5%) pero con la 
+desventaja de un bajo nivel de identificación a nivel específico.
+5.2.
+Caracterización de la entomofauna terrestre
+5.2.1.
+Riqueza taxonómica y abundancia de entomofauna
+En las tres (3) campañas estacionales de terreno se registró un total de 66 especies de 
+entomofauna en el área de estudio, todas en estado adulto, a excepción de Chilecicada 
+occidentis (Insecta:  Hemiptera:  Cicadidae)  hallada  en  estado  ninfal.  El  87,9%  de  la 
+entomofauna fue identificada a niveles de Género y Especie (58 especies) y el 12,1% 
+restante a nivel de Familia (8 especies). En general, esto se relaciona con el escaso 
+conocimiento de la entomofauna chilena y, en lo particular, con la falta de antecedentes 
+para  ciertos  grupos,  específicamente,  para  familias  de  Arachnida  e  Insecta. 
+Sistemáticamente,  las  especies  se  organizan  dentro  del  reino  Animalia  en  1  phyla 
+(Arthropoda), 2 Clases (Arachnida e Insecta), 7 Órdenes (Araneae, Coleoptera, Diptera, 
+Hemiptera, Hymenoptera, Lepidoptera y Orthoptera), 42 Familias y 66 Especies.
+En la  Tabla 3 se puede observar el catálogo taxonómico en detalle de las especies 
+registradas. A nivel de clases, Insecta fue el grupo con más especies (S=60) y abundancia 
+(98,1%).
+Tabla 3. Catálogo taxonómico de la entomofauna registrada en el área de estudio.
+N°
+Clase
+Orden
+Familia
+Especie
+Origen
+1
+Arachnida
+Araneae
+Lycosidae
+Lycosidae sp.
+ -
+2
+Arachnida
+Araneae
+Oecobiidae
+Oecobiidae sp.
+ -
+3
+Arachnida
+Araneae
+Pycnothelidae
+Acanthogonatus pissii
+Endémica
+4
+Arachnida
+Araneae
+Sicariidae
+Sicarius fumosus
+Endémica
+5
+Arachnida
+Araneae
+Sicariidae
+Sicarius thomisoides
+Endémica
+6
+Arachnida
+Araneae
+Theraphosidae
+Euathlus sp.
+Endémica
+7
+Insecta
+Coleoptera
+Buprestidae
+Bilyaxia concinna
+Nativa
+
+===== p.30 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 31 de 49
+8
+Insecta
+Coleoptera
+Buprestidae
+Ectinogonia buquetii
+Endémica
+9
+Insecta
+Coleoptera
+Carabidae
+Incagonum gayi
+Endémica
+10
+Insecta
+Coleoptera
+Carabidae
+Metius blandus
+Nativa
+11
+Insecta
+Coleoptera
+Carabidae
+Pachymorphus striatulus
+Nativa
+12
+Insecta
+Coleoptera
+Chrysomelidae
+cf. Chelymorpha varians
+Nativa
+13
+Insecta
+Coleoptera
+Chrysomelidae
+Chelymorpha varians
+Nativa
+14
+Insecta
+Coleoptera
+Coccinellidae
+Adalia bipunctata
+Nativa
+15
+Insecta
+Coleoptera
+Coccinellidae
+Eriopis chilensis
+End-Nat
+16
+Insecta
+Coleoptera
+Coccinellidae
+Harmonia axyridis
+Introducida
+17
+Insecta
+Coleoptera
+Curculionidae
+Rhyephenes humeralis
+Endémica
+18
+Insecta
+Coleoptera
+Melyridae
+Arthrobrachus nigromaculatus
+Endémica
+19
+Insecta
+Coleoptera
+Scarabaeidae
+Aulacopalpus sp.
+- 
+20
+Insecta
+Coleoptera
+Staphylinidae
+Creophilus erythrocephalus
+Australiano
+21
+Insecta
+Coleoptera
+Tenebrionidae
+Nycterinus sp.
+Endémica
+22
+Insecta
+Coleoptera
+Tenebrionidae
+Praocis sp.
+ -
+23
+Insecta
+Diptera
+Acroceridae
+Lasia aenea
+Endémica
+24
+Insecta
+Diptera
+Asilidae
+cf. Alyssomyia brevicornis
+Endémica
+25
+Insecta
+Diptera
+Bombyliidae
+Macrocondyla consobrina
+Endémica
+26
+Insecta
+Diptera
+Calliphoridae
+Sarconesia chlorogaster
+Nativa
+27
+Insecta
+Diptera
+Microdiptera indet.
+Microdiptera sp.
+ -
+28
+Insecta
+Diptera
+Muscidae
+cf. Hydrotaea sp.
+ -
+29
+Insecta
+Diptera
+Muscidae
+Musca domestica
+Introducida
+30
+Insecta
+Diptera
+Mydidae
+Mitrodetus dentitarsis
+Endémica
+31
+Insecta
+Diptera
+Syrphidae
+Allograpta hortensis
+Nativa
+32
+Insecta
+Diptera
+Syrphidae
+Eristalis tenax
+Introducida
+33
+Insecta
+Diptera
+Syrphidae
+Palpada elegans
+Nativa
+34
+Insecta
+Diptera
+Syrphidae
+Platycheirus fenestrata
+Nativa
+35
+Insecta
+Diptera
+Syrphidae
+Scaeva melanostoma
+Nativa
+36
+Insecta
+Diptera
+Syrphidae
+Toxomerus vertebratus
+Nativa
+37
+Insecta
+Diptera
+Tabanidae
+Anthomyia punctipennis
+Neotropical
+38
+Insecta
+Diptera
+Tipulidae
+Tipulidae sp.
+ -
+39
+Insecta
+Hemiptera
+Aphididae
+Aphididae sp.
+ -
+40
+Insecta
+Hemiptera
+Cicadidae
+Chilecicada occidentis (ninfa)
+Endémica
+41
+Insecta
+Hemiptera
+Coreidae
+Leptoglossus chilensis
+Nativa
+42
+Insecta
+Hymenoptera
+Andrenidae
+Acamptopoeum 
+submetallicum
+Endémica
+43
+Insecta
+Hymenoptera
+Apidae
+Apis mellifera
+Introducida
+44
+Insecta
+Hymenoptera
+Apidae
+Bombus terrestris
+Introducida
+45
+Insecta
+Hymenoptera
+Apidae
+Centris nigerrima
+Endémica
+46
+Insecta
+Hymenoptera
+Apidae
+Manuelia gayi
+Nativa
+47
+Insecta
+Hymenoptera
+Colletidae
+Cadeguala occidentalis
+Endémica
+48
+Insecta
+Hymenoptera
+Colletidae
+Colletes cyanescens
+Nativa
+49
+Insecta
+Hymenoptera
+Formicidae
+Camponotus morosus
+Endémica
+50
+Insecta
+Hymenoptera
+Formicidae
+Pseudomyrmex lynceus
+Endémica
+51
+Insecta
+Hymenoptera
+Halictidae
+Corynura chilensis
+Nativa
+52
+Insecta
+Hymenoptera
+Halictidae
+Lasioglossum sp.
+ -
+53
+Insecta
+Hymenoptera
+Halictidae
+Ruizantheda mutabilis
+Nativa
+54
+Insecta
+Hymenoptera
+Halictidae
+Sphecodes chilensis
+Endémica
+55
+Insecta
+Hymenoptera
+Megachilidae
+Megachile saulcyi
+Endémica
+56
+Insecta
+Hymenoptera
+Sphecidae
+Sphex latreillei
+Nativa
+57
+Insecta
+Hymenoptera
+Vespidae
+Hypodynerus colocolo
+Endémica
+58
+Insecta
+Lepidoptera
+Hesperiidae
+Hylephila phyleus
+Neotropical
+59
+Insecta
+Lepidoptera
+Lycaenidae
+Pseudolucia chilensis
+Endémica
+
+===== p.31 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 32 de 49
+60
+Insecta
+Lepidoptera
+Microlepidoptera indet.
+Microlepidoptera sp.
+ 
+61
+Insecta
+Lepidoptera
+Noctuidae
+Noctuidae sp.
+ 
+62
+Insecta
+Lepidoptera
+Nymphalidae
+Auca barrosi
+Endémica
+63
+Insecta
+Lepidoptera
+Pieridae
+Pieris brassicae
+Introducida
+64
+Insecta
+Orthoptera
+Acrididae
+Dichroplus elongatus
+Nativa
+65
+Insecta
+Orthoptera
+Acrididae
+Trimerotropis ochraceipennis
+Endémica
+66
+Insecta
+Orthoptera
+Tettigonidae
+Tettigonidae sp.
+ 
+Fuente: Elaboración propia, 2025.
+La presencia de 29 especies de insectos consideradas visitantes florales (44%), resulta 
+importante en el contexto de que, estos organismos han sido identificados como excelentes 
+bioindicadores de cambios o perturbaciones ambientales (Coleman & Hendrix 2000; Seppä 
+2008; New 2010).
+Dado el impacto de recurrentes incendios forestales en la zona, se considera que los 
+registros de entomofauna son bajos si se comparan, por ejemplo, a una escala comunal y/o 
+en la zona del matorral esclerofilo chileno.
+No obstante, las mayores abundancias se presentaron en tres (3) órdenes de Insecta: 
+Hymenoptera (n=371; 40,9%), Coleoptera (n=246; 27,1%) y Diptera (n=200; 22%) (Gráfico 1). 
+Las familias más abundantes fueron Formicidae (n=265; 29,2%) y Carabidae (n=106; 11,7%) 
+(Gráfico 2). A nivel de especie, Pseudomyrmex lynceus (Hymenoptera: Formicidae) fue la 
+más dominante dentro de la comunidad entomofaunística del área de estudio (n=197; 
+21,7%)  (Tabla  4),  seguida  por  una  (1)  especie  de  díptero  indeterminado  (Diptera: 
+Microdiptera; n=84; 9,3%). El detalle de las abundancias por especie puede ser revisado en 
+la Tabla 4.
+Para mayor detalle ver Base de Datos en Anexo 3.
+
+===== p.32 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 33 de 49
+Gráfico 1. Abundancia por órdenes de Arachnida e Insecta.
+Fuente: Elaboración propia, 2025.
+
+===== p.33 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 34 de 49
+Gráfico 2. Abundancia por familias de Arachnida e Insecta.
+Fuente: Elaboración propia, 2025.
+Tabla 4. Abundancia de la entomofauna registrada en el área de estudio.
+N°
+Clase
+Orden
+Familia
+Especie
+Abundancia
+n
+%
+1
+Arachnida
+Araneae
+Lycosidae
+Lycosidae sp.
+1
+0,1
+2
+Arachnida
+Araneae
+Oecobiidae
+Oecobiidae sp.
+2
+0,2
+3
+Arachnida
+Araneae
+Pycnothelidae
+Acanthogonatus pissii
+2
+0,2
+4
+Arachnida
+Araneae
+Sicariidae
+Sicarius fumosus
+1
+0,1
+5
+Arachnida
+Araneae
+Sicariidae
+Sicarius thomisoides
+5
+0,6
+6
+Arachnida
+Araneae
+Theraphosidae
+Euathlus sp.
+6
+0,7
+7
+Insecta
+Coleoptera
+Buprestidae
+Bilyaxia concinna
+3
+0,3
+8
+Insecta
+Coleoptera
+Buprestidae
+Ectinogonia buquetii
+2
+0,2
+9
+Insecta
+Coleoptera
+Carabidae
+Incagonum gayi
+64
+7,0
+10
+Insecta
+Coleoptera
+Carabidae
+Metius blandus
+39
+4,3
+11
+Insecta
+Coleoptera
+Carabidae
+Pachymorphus striatulus
+3
+0,3
+12
+Insecta
+Coleoptera
+Chrysomelidae
+cf. Chelymorpha varians
+1
+0,1
+13
+Insecta
+Coleoptera
+Chrysomelidae
+Chelymorpha varians
+1
+0,1
+14
+Insecta
+Coleoptera
+Coccinellidae
+Adalia bipunctata
+4
+0,4
+15
+Insecta
+Coleoptera
+Coccinellidae
+Eriopis chilensis
+11
+1,2
+16
+Insecta
+Coleoptera
+Coccinellidae
+Harmonia axyridis
+5
+0,6
+17
+Insecta
+Coleoptera
+Curculionidae
+Rhyephenes humeralis
+2
+0,2
+18
+Insecta
+Coleoptera
+Melyridae
+Arthrobrachus nigromaculatus
+64
+7,0
+19
+Insecta
+Coleoptera
+Scarabaeidae
+Aulacopalpus sp.
+2
+0,2
+20
+Insecta
+Coleoptera
+Staphylinidae
+Creophilus erythrocephalus
+5
+0,6
+21
+Insecta
+Coleoptera
+Tenebrionidae
+Nycterinus sp.
+23
+2,5
+22
+Insecta
+Coleoptera
+Tenebrionidae
+Praocis sp.
+17
+1,9
+23
+Insecta
+Diptera
+Acroceridae
+Lasia aenea
+4
+0,4
+24
+Insecta
+Diptera
+Asilidae
+cf. Alyssomyia brevicornis
+1
+0,1
+25
+Insecta
+Diptera
+Bombyliidae
+Macrocondyla consobrina
+1
+0,1
+26
+Insecta
+Diptera
+Calliphoridae
+Sarconesia chlorogaster
+2
+0,2
+
+===== p.34 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 35 de 49
+27
+Insecta
+Diptera
+Microdiptera indet.
+Microdiptera sp.
+84
+9,3
+28
+Insecta
+Diptera
+Muscidae
+cf. Hydrotaea sp.
+5
+0,6
+29
+Insecta
+Diptera
+Muscidae
+Musca domestica
+19
+2,1
+30
+Insecta
+Diptera
+Mydidae
+Mitrodetus dentitarsis
+4
+0,4
+31
+Insecta
+Diptera
+Syrphidae
+Allograpta hortensis
+15
+1,7
+32
+Insecta
+Diptera
+Syrphidae
+Eristalis tenax
+9
+1,0
+33
+Insecta
+Diptera
+Syrphidae
+Palpada elegans
+1
+0,1
+34
+Insecta
+Diptera
+Syrphidae
+Platycheirus fenestrata
+13
+1,4
+35
+Insecta
+Diptera
+Syrphidae
+Scaeva melanostoma
+20
+2,2
+36
+Insecta
+Diptera
+Syrphidae
+Toxomerus vertebratus
+20
+2,2
+37
+Insecta
+Diptera
+Tabanidae
+Anthomyia punctipennis
+1
+0,1
+38
+Insecta
+Diptera
+Tipulidae
+Tipulidae sp.
+1
+0,1
+39
+Insecta
+Hemiptera
+Aphididae
+Aphididae sp.
+11
+1,2
+40
+Insecta
+Hemiptera
+Cicadidae
+Chilecicada occidentis (ninfa)
+1
+0,1
+41
+Insecta
+Hemiptera
+Coreidae
+Leptoglossus chilensis
+2
+0,2
+42
+Insecta
+Hymenoptera
+Andrenidae
+Acamptopoeum submetallicum
+23
+2,5
+43
+Insecta
+Hymenoptera
+Apidae
+Apis mellifera
+21
+2,3
+44
+Insecta
+Hymenoptera
+Apidae
+Bombus terrestris
+9
+1,0
+45
+Insecta
+Hymenoptera
+Apidae
+Centris nigerrima
+1
+0,1
+46
+Insecta
+Hymenoptera
+Apidae
+Manuelia gayi
+8
+0,9
+47
+Insecta
+Hymenoptera
+Colletidae
+Cadeguala occidentalis
+2
+0,2
+48
+Insecta
+Hymenoptera
+Colletidae
+Colletes cyanescens
+2
+0,2
+49
+Insecta
+Hymenoptera
+Formicidae
+Camponotus morosus
+68
+7,5
+50
+Insecta
+Hymenoptera
+Formicidae
+Pseudomyrmex lynceus
+197
+21,7
+51
+Insecta
+Hymenoptera
+Halictidae
+Corynura chilensis
+3
+0,3
+52
+Insecta
+Hymenoptera
+Halictidae
+Lasioglossum sp.
+5
+0,6
+53
+Insecta
+Hymenoptera
+Halictidae
+Ruizantheda mutabilis
+13
+1,4
+54
+Insecta
+Hymenoptera
+Halictidae
+Sphecodes chilensis
+8
+0,9
+55
+Insecta
+Hymenoptera
+Megachilidae
+Megachile saulcyi
+5
+0,6
+56
+Insecta
+Hymenoptera
+Sphecidae
+Sphex latreillei
+4
+0,4
+57
+Insecta
+Hymenoptera
+Vespidae
+Hypodynerus colocolo
+2
+0,2
+58
+Insecta
+Lepidoptera
+Hesperiidae
+Hylephila phyleus
+1
+0,1
+59
+Insecta
+Lepidoptera
+Lycaenidae
+Pseudolucia chilensis
+5
+0,6
+60
+Insecta
+Lepidoptera
+Microlepidoptera indet.
+Microlepidoptera sp.
+7
+0,8
+61
+Insecta
+Lepidoptera
+Noctuidae
+Noctuidae sp.
+4
+0,4
+62
+Insecta
+Lepidoptera
+Nymphalidae
+Auca barrosi
+6
+0,7
+63
+Insecta
+Lepidoptera
+Pieridae
+Pieris brassicae
+3
+0,3
+64
+Insecta
+Orthoptera
+Acrididae
+Dichroplus elongatus
+6
+0,7
+65
+Insecta
+Orthoptera
+Acrididae
+Trimerotropis ochraceipennis
+13
+1,4
+66
+Insecta
+Orthoptera
+Tettigonidae
+Tettigonidae sp.
+15
+1,7
+Total
+908
+100
+Fuente: Elaboración propia, 2025.
+5.2.2.
+Riqueza taxonómica y abundancia de entomofauna por campaña estacional
+Durante los muestreos realizados en las tres (3) campañas de terreno, se observaron 
+patrones estacionales en los siete (7) órdenes de entomofauna estudiados (Gráfico 3). En la 
+campaña de primavera 2024 las mayores abundancias se obtuvieron en Hymenoptera 
+(n=223), Coleoptera (n=151) y Diptera (n=112), mientras que las más bajas abundancias se 
+registraron en Orthoptera (n=21), Lepidoptera (n=8), Araneae (n=4) y Hemiptera (n=2).
+En  la  campaña  de  verano  2025,  se  evidenció  una  reducción  significativa  de  las 
+abundancias  de  Hymenoptera  (n=118),  Coleoptera  (n=82)  y  Diptera  (n=50)  en 
+comparación con la campaña de primavera 2024, posiblemente debido a la sequía estival 
+y la pérdida de recursos florales. Por el contrario, Araneae incrementó su abundancia (n=6), 
+beneficiándose de la mayor actividad de presas.
+
+===== p.35 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 36 de 49
+Hymenoptera, Coleoptera y Diptera presentaron un descenso progresivo de su abundancia 
+desde  la  campaña  de  primavera  2024  a  otoño  2025,  posiblemente  asociado  a 
+perturbaciones en el hábitat edáfico y condiciones climáticas menos favorables. Situación 
+similar ocurrió en Orthoptera, logrando su máxima abundancia en primavera 2024, seguido 
+de descensos continuos, influenciado por las variaciones en la biomasa herbácea.
+Finalmente,  Lepidoptera,  Hemiptera  y  Araneae  registraron  aumentos  de  abundancia 
+constante desde la campaña de primavera 2024 a otoño 2025.
+Gráfico 3. Abundancia por órdenes de Arachnida e Insecta.
+Fuente: Elaboración propia, 2025.
+En la Tabla 5 se puede observar la riqueza filética en detalle y su variación en las campañas 
+estacionales. En la campaña de primavera 2024, la riqueza de especies alcanzó su máximo 
+(S=47), descendiendo en verano 2025 (S=42) y llegando a su valor mínimo en otoño 2025 
+(S=28).
+Coleoptera e Hymenoptera presentaron la mayor riqueza de especies en la campaña de 
+primavera  2024  (S=14),  seguidos  por  Diptera  (S=9).  En  verano  2025,  Coleoptera  e 
+Hymenoptera  registraron  leves  descensos  de  su  riqueza  de  especies  (S=13  y  S=8, 
+respectivamente), mientras que Diptera presentó una mayor riqueza (S=11) que en la 
+campaña de primavera 2024. En otoño 2025, estos tres (3) órdenes presentaron descensos 
+de riqueza de especies, posiblemente asociados a las condiciones ambientales menos 
+favorables para estos organismos.
+
+===== p.36 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 37 de 49
+Tabla 5. Riqueza y abundancia de la entomofauna en las campañas estacionales de muestreo.
+Riqueza filética
+Primavera 
+2024
+Verano 
+2025
+Otoño 
+2025
+Total
+Arachnida
+4
+6
+7
+17
+Araneae
+4
+6
+7
+17
+Lycosidae
+0
+0
+1
+1
+Lycosidae sp.
+0
+0
+1
+1
+Oecobiidae
+0
+0
+2
+2
+Oecobiidae sp.
+0
+0
+2
+2
+Pycnothelidae
+0
+0
+2
+2
+Acanthogonatus pissii
+0
+0
+2
+2
+Sicariidae
+3
+3
+0
+6
+Sicarius fumosus
+1
+0
+0
+1
+Sicarius thomisoides
+2
+3
+0
+5
+Theraphosidae
+1
+3
+2
+6
+Euathlus sp.
+1
+3
+2
+6
+Coleoptera
+151
+82
+13
+246
+Buprestidae
+3
+2
+0
+5
+Bilyaxia concinna
+2
+1
+0
+3
+Ectinogonia buquetii
+1
+1
+0
+2
+Carabidae
+82
+19
+5
+106
+Incagonum gayi
+51
+13
+0
+64
+Metius blandus
+29
+5
+5
+39
+Pachymorphus striatulus
+2
+1
+0
+3
+Chrysomelidae
+1
+1
+0
+2
+cf. Chelymorpha varians
+0
+1
+0
+1
+Chelymorpha varians
+1
+0
+0
+1
+Coccinellidae
+13
+4
+3
+20
+Adalia bipunctata
+3
+1
+0
+4
+Eriopis chilensis
+8
+1
+2
+11
+Harmonia axyridis
+2
+2
+1
+5
+Curculionidae
+0
+2
+0
+2
+Rhyephenes humeralis
+0
+2
+0
+2
+Melyridae
+25
+39
+0
+64
+Arthrobrachus nigromaculatus
+25
+39
+0
+64
+Scarabaeidae
+2
+0
+0
+2
+Aulacopalpus sp.
+2
+0
+0
+2
+Staphylinidae
+2
+3
+0
+5
+Creophilus erythrocephalus
+2
+3
+0
+5
+Tenebrionidae
+23
+12
+5
+40
+Nycterinus sp.
+8
+12
+3
+23
+Praocis sp.
+15
+0
+2
+17
+Diptera
+112
+50
+38
+200
+Acroceridae
+0
+4
+0
+4
+Lasia aenea
+0
+4
+0
+4
+Asilidae
+0
+1
+0
+1
+cf. Alyssomyia brevicornis
+0
+1
+0
+1
+Bombyliidae
+0
+1
+0
+1
+Macrocondyla consobrina
+0
+1
+0
+1
+Calliphoridae
+0
+2
+0
+2
+Sarconesia chlorogaster
+0
+2
+0
+2
+Microdiptera indet.
+22
+32
+30
+84
+Microdiptera sp.
+22
+32
+30
+84
+Muscidae
+19
+0
+5
+24
+cf. Hydrotaea sp.
+4
+0
+1
+5
+Musca domestica
+15
+0
+4
+19
+Mydidae
+3
+1
+0
+4
+Mitrodetus dentitarsis
+3
+1
+0
+4
+Syrphidae
+68
+8
+2
+78
+Allograpta hortensis
+10
+4
+1
+15
+
+===== p.37 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 38 de 49
+Eristalis tenax
+8
+1
+0
+9
+Palpada elegans
+0
+1
+0
+1
+Platycheirus fenestrata
+11
+2
+0
+13
+Scaeva melanostoma
+20
+0
+0
+20
+Toxomerus vertebratus
+19
+0
+1
+20
+Tabanidae
+0
+1
+0
+1
+Anthomyia punctipennis
+0
+1
+0
+1
+Tipulidae
+0
+0
+1
+1
+Tipulidae sp.
+0
+0
+1
+1
+Hemiptera
+2
+1
+11
+14
+Aphididae
+0
+0
+11
+11
+Aphididae sp.
+0
+0
+11
+11
+Cicadidae
+0
+1
+0
+1
+Chilecicada occidentis (ninfa)
+0
+1
+0
+1
+Coreidae
+2
+0
+0
+2
+Leptoglossus chilensis
+2
+0
+0
+2
+Hymenoptera
+223
+116
+32
+371
+Andrenidae
+23
+0
+0
+23
+Acamptopoeum submetallicum
+23
+0
+0
+23
+Apidae
+18
+14
+7
+39
+Apis mellifera
+8
+8
+5
+21
+Bombus terrestris
+5
+3
+1
+9
+Centris nigerrima
+1
+0
+0
+1
+Manuelia gayi
+4
+3
+1
+8
+Colletidae
+2
+2
+0
+4
+Cadeguala occidentalis
+0
+2
+0
+2
+Colletes cyanescens
+2
+0
+0
+2
+Formicidae
+149
+97
+19
+265
+Camponotus morosus
+23
+32
+13
+68
+Pseudomyrmex lynceus
+126
+65
+6
+197
+Halictidae
+20
+3
+6
+29
+Corynura chilensis
+2
+1
+0
+3
+Lasioglossum sp.
+0
+0
+5
+5
+Ruizantheda mutabilis
+13
+0
+0
+13
+Sphecodes chilensis
+5
+2
+1
+8
+Megachilidae
+5
+0
+0
+5
+Megachile saulcyi
+5
+0
+0
+5
+Sphecidae
+4
+0
+0
+4
+Sphex latreillei
+4
+0
+0
+4
+Vespidae
+2
+0
+0
+2
+Hypodynerus colocolo
+2
+0
+0
+2
+Lepidoptera
+8
+7
+11
+26
+Hesperiidae
+0
+1
+0
+1
+Hylephila phyleus
+0
+1
+0
+1
+Lycaenidae
+3
+2
+0
+5
+Pseudolucia chilensis
+3
+2
+0
+5
+Microlepidoptera indet.
+0
+0
+7
+7
+Microlepidoptera sp.
+0
+0
+7
+7
+Noctuidae
+0
+1
+3
+4
+Noctuidae sp.
+0
+1
+3
+4
+Nymphalidae
+3
+2
+1
+6
+Auca barrosi
+3
+2
+1
+6
+Pieridae
+2
+1
+0
+3
+Pieris brassicae
+2
+1
+0
+3
+Orthoptera
+21
+11
+2
+34
+Acrididae
+12
+5
+2
+19
+Dichroplus elongatus
+5
+0
+1
+6
+Trimerotropis ochraceipennis
+7
+5
+1
+13
+Tettigonidae
+9
+6
+0
+15
+Tettigonidae sp.
+9
+6
+0
+15
+
+===== p.38 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 39 de 49
+Total
+521
+273
+114
+908
+5.2.3.
+Origen biogeográfico de la entomofauna
+De  las  66  especies  registradas  en  este  estudio,  25  (37,9%)  corresponden  a  especies 
+endémicas, es decir, se distribuyen estrictamente en el territorio chileno continental, a 
+excepción de las 19 especies nativas (28,8%) entre Chile y otros países de Sudamérica y que, 
+paralelamente,  poseen  amplia  distribución  nacional.  El  origen  biogeográfico  sólo  se 
+especifica para la entomofauna con respaldo bibliográfico.
+De  las  especies  endémicas  registradas,  sólo  una,  Eriopis  chilensis (Coleoptera: 
+Coccinellidae), posee registros en Argentina, otorgando la condición de endémica y 
+nativa. Este tipo de observación debe ser confirmada con más examinación para disponer 
+de precisión en su origen biogeográfico.
+También se registraron 6 especies introducidas (9,1%), las cuales tienen actualmente algún 
+grado de naturalización en el territorio chileno continental. Este es el caso de  Musca 
+domestica (Diptera: Muscidae), la abeja de miel Apis mellifera (Hymenoptera: Apidae) o de 
+la mariposa blanca de la col, Pieris brassicae (Lepidoptera: Pieridae).
+5.2.4.
+Especies en categoría de conservación
+Respecto de los estados de conservación para las especies registradas en el presente 
+estudio que permitan delimitar sectores sensibles dentro del Proyecto, se puede señalar que 
+no se registraron especies en alguna categoría de conservación, según los Procesos de 
+Clasificación de Especies vigentes a la fecha.
+5.2.5.
+Análisis de singularidad de la entomofauna
+
+Presencia de especies endémicas
+De acuerdo con el listado de entomofauna presente en el área de estudio, se registraron 25 
+especies endémicas del país, identificadas a nivel específico. De acuerdo con la literatura 
+disponible, estas especies no tienen una distribución restringida a la Región de Valparaíso.
+5.3.
+Análisis de diversidad ecológica alfa
+Las curvas de acumulación de especies para las distintas estaciones no se estabilizaron por 
+completo, alcanzando un mejor desempeño en el muestreo de primavera 2024 (Gráfico
+4A), mientras que los muestreos de verano 2025 (Gráfico 4B) y otoño 2025 (Gráfico 4C) 
+presentaron baja tendencia a la asíntota. Teóricamente, esta situación sugiere que el 
+esfuerzo de muestreo no sería suficiente para describir el número de especies del ensamble 
+de  entomofauna  del  área  de  estudio.  No  obstante,  estas  curvas  de  rarefacción  no 
+consideran las condiciones ambientales locales ni la variabilidad estacional que caracteriza 
+a  las  comunidades  de  insectos.  Por  consiguiente,  dados  los  intervalos  de  confianza 
+superpuestos, no se observaron diferencias significativas en los niveles de muestreo entre las 
+temporadas. Además, los valores de riqueza para los diferentes grupos de entomofauna 
+
+===== p.39 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 40 de 49
+bajo análisis fueron altos, evidenciando una adecuada representatividad de la comunidad 
+presente. 
+Gráfico 4. Curvas de acumulación de especies para las campañas estacionales en el área de 
+estudio: (A) primavera 2024; (B) verano 2025; (C) otoño 2025.
+La zona coloreada alrededor de la línea roja representa el intervalo de confianza del 95%.
+Fuente: Elaboración propia, 2025.
+La Tabla 6, resume los métodos de captura y las medidas de diversidad alfa obtenidas para 
+cada una de las campañas estacionales de muestreo de entomofauna en el área de 
+estudio. Se observa que los distintos métodos de muestreo y sus combinaciones fueron 
+efectivos para la obtención de datos de entomofauna.
+Los transectos de trampas de caída fueron los métodos más efectivos para el registro de 
+especies, alcanzando su mejor desempeño en todas las estaciones, sobre todo en la 
+campaña de primavera 2024 (S=18; n=301). Secundariamente, el uso de las trampas de 
+colores fue especialmente efectivo en las campañas de primavera 2024 (S=17; n=103) y 
+verano 2025 (S=9; n=64), período en que la diversidad de Hymenoptera y Diptera asociados 
+a flores se incrementa notablemente.
+Las  trampas  pegajosas  y  la  búsqueda  activa  obtuvieron  resultados  menos  exitosos 
+comparativamente a los métodos anteriores. No obstante, la búsqueda activa mediante el 
+uso de red entomológica y volteo de rocas tuvo máximos de éxito de captura en primavera 
+2024 (S=22; n=85) y verano 2025 (S=25; n=48). Este patrón sugiere que la combinación de 
+
+===== p.40 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 41 de 49
+métodos  optimizó  la  caracterización  de  la  comunidad  entomológica,  logrando  un 
+muestreo más representativo y eficiente.
+Con relación a los estimadores de diversidad ecológica alfa, se observa que en el área de 
+estudio hubo variaciones estacionales. En primavera 2024 se registró la mayor riqueza (S=47) 
+y abundancia (n=521), junto con el índice de Shannon-Weaver más alto (H’=3,12) y baja 
+dominancia (D=0,08), lo que refleja una comunidad diversa y equilibrada (J’=0,79).
+En verano 2025, disminuyó la riqueza (S=42), la abundancia (n=273) y el índice de Shannon-
+Weaver (H’=2,82), que está en el rango esperable de normalidad (H’= 2~4, según Magurran 
+1988). No obstante, la dominancia aumentó (D=0,11), reduciendo la equitatividad (J’=0,74). 
+Para otoño 2025, la riqueza y abundancia fueron mínimas (S=28; n=114), aunque el índice de 
+Shannon-Weaver (H’=2,84) y la equitatividad (J’=0,82) recuperaron valores altos, resaltando 
+los cambios estacionales.
+Tabla 6. Esfuerzo de muestreo y diversidad alfa en el área de estudio.
+Métodos de 
+muestreo
+Éxito de captura
+Primavera 2024
+Verano 2025
+Otoño 2025
+Riqueza
+Abundancia
+Riqueza
+Abundancia
+Riqueza
+Abundancia
+Trampas de caídas
+18 (37,5%)
+301 (57,8%)
+11 (26,2%)
+137 (50,2%)
+11 (39,3%)
+36 (31,6%)
+Trampas de colores
+17 (35,4%)
+103 (19,8%)
+9 (21,4%)
+64 (23,4%)
+5 (17,9%)
+14 (12,3%)
+Trampas pegajosas
+7 (14,6%)
+32 (6,1%)
+10 (23,8%)
+24 (8,8%)
+7 (25%)
+39 (34,2%)
+Búsqueda activa *
+22 (45,8%)
+85 (16,3%)
+25 (59,5%)
+48 (17,6%)
+14 (50%)
+25 (22%)
+Estimadores de 
+diversidad alfa
+Primavera 2024
+Verano 2025
+Otoño 2025
+Riqueza (S)
+47
+42
+28
+Abundancia (n)
+521
+273
+114
+Shannon (H’)
+3,12
+2,82
+2,84
+Dominancia (D)
+0,08
+0,11
+0,10
+Equitatividad (J’)
+0,79
+0,74
+0,82
+* Búsqueda activa: Red entomológica + volteo de piedras.
+Fuente: Elaboración propia, 2025.
+Además, la distribución estacional de especies sugiere patrones de especialización y 
+estabilidad (Gráfico 5)Gráfico 5. Las especies presentes exclusivamente en primavera 2024 
+(S=12) y otoño 2025 (S=7) indican nichos fenológicos definidos, mientras que el solapamiento 
+entre primavera 2024 y verano 2025 (S=15) apunta a condiciones ambientales parecidas. La 
+escasa coincidencia entre verano 2025 y otoño 2025 refleja un marcado quiebre estacional, 
+ligado posiblemente a factores climáticos o disminución de recursos. El grupo central de 15 
+especies permanentes podría formar el núcleo funcional de la comunidad entomológica, 
+para la resiliencia ante variaciones climáticas.
+
+===== p.41 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 42 de 49
+Gráfico 5. Distribución de especies entre las campañas estacionales en el área de estudio.
+Fuente: Elaboración propia, 2025.
+5.4.
+Variable cambio climático
+Se identificó que el  Proyecto “Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR.”, se vincula con “Sectores vulnerable Energía y Minería” señalado en el Artículo 9 de 
+la Ley 21.455, Ley Marco de Cambio Climático, y por la Contribución Determinada a Nivel 
+Nacional (NDC) de Chile, actualización 2020 y fortalecimiento 2022.
+A partir de los Mapas de Riesgo de la plataforma ARClim del Ministerio de Medio Ambiente, 
+se analizó la localización del Proyecto en función del riesgo climático al que está expuesto. 
+Esta plataforma establece riesgos de amenazas climáticas para 62 cadenas de impacto 
+(mapas)  organizadas  en  12  sectores  y  se  puede  observar  que  el  área  donde  será 
+emplazado el Proyecto presenta riesgos climáticos que impactan en seis sectores:
+a) Salud y bienestar humano.
+b) Energía eléctrica.
+c) Infraestructura costera.
+d) Turismo.
+e) Pesca artesanal.
+f)
+Biodiversidad.
+
+===== p.42 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 43 de 49
+En base a la revisión de la Guía metodológica para la consideración del cambio climático 
+en el SEIA (SEA 2024), se analizó la presencia de especies receptoras de impactos por efecto 
+del cambio climático, para lo cual se revisó el cambio en la probabilidad de presencia que 
+tendrían estas en su distribución en un periodo futuro cercano (2035-2065) bajo el escenario 
+RCP 8.5.
+Se revisó el listado de especies presentes en el ARClim para verificar especies que se verán 
+afectadas  por  el  cambio  climático.  Sin  embargo,  ninguna  de  las  especies  de  la 
+entomofauna registrada en las campañas de primavera 2024, verano 2025 y otoño 2025 se 
+encuentran en el listado.
+
+===== p.43 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 44 de 49
+6.
+CONCLUSIONES
+En el marco del Estudio de Impacto Ambiental del Proyecto “Centro Metropolitano de 
+Gestión Integral de Residuos - CMGIR.”, perteneciente a COSEMAR S.A., la caracterización 
+del componente entomofauna terrestre se realizó mediante tres (3) campañas de terreno 
+desarrolladas del 18 al 21 de noviembre de 2024 (primavera), 20 al 23 de enero de 2025 
+(verano) y 12 al 15 de mayo de 2025 (otoño). El área de estudio se sitúa a 10 km al sureste de 
+la ciudad de Viña del Mar y a una altitud aproximada de 280 m.s.n.m. De manera general, 
+el área de influencia del Proyecto se localiza en un ambiente de matorral esclerófilo 
+mediterráneo costero, intervenido por actividad antrópica e impactado por incendios 
+forestales estivales, actualmente en recuperación natural.
+Las  condiciones  meteorológicas  fueron  favorables  para  la  instalación  de  los  distintos 
+métodos de muestreo de entomofauna: (1) Transectos de trampas de caída (pitfall); (2) 
+Transectos con trampas de colores para insectos voladores (pan traps); (3) Transectos con 
+trampas pegajosas (sticky traps); y (4) Transectos con red entomológica y volteo de rocas. 
+Se realizaron 5 tipos de transectos de muestreo y sus combinaciones en el área de estudio, 
+cuyo esfuerzo de muestreo demandó, en cada una de las campañas, la instalación de 90 
+trampas de caída, 180 trampas de colores, 40 trampas pegajosas y 4,5 HH en búsquedas 
+activas usando red entomológica y volteando piedras. En todos los transectos se aplicaron 
+todos los métodos de muestreo antes descritos.
+Bajo las condiciones del ambiente (altitud promedio: 280 m. s.n.m.), los métodos empleados 
+permitieron obtener información de entomofauna terrestre, permaneciendo en terreno por 
+48 horas antes de su retiro. Todos los métodos fueron efectivos para el muestreo.
+En las tres (3) campañas estacionales, se encontraron 66 especies y una abundancia de 908 
+individuos. Los métodos más efectivos en el muestreo de entomofauna fueron los transectos 
+con trampas de caída (S=25; n=474), las trampas de colores (S=26; n=181) y los transectos de 
+búsqueda activa (S=40; n=158).
+La composición taxonómica de la entomofauna del área de estudio está representada por 
+2 Clases (Arachnida e Insecta), 7 Órdenes (Araneae, Coleoptera, Diptera, Hemiptera, 
+Hymenoptera, Lepidoptera y Orthoptera), 42 Familias y 66 Especies. La clase Insecta (n=891; 
+98,1%) fue la más dominante. Los órdenes mejor representados en el muestreo fueron 
+Hymenoptera (n=371; 40,9%) y Coleoptera (n=246; 27,1%). Dos familias concentraron 307 
+individuos (33,8%): Formicidae (n=265; 29,2%) y Carabidae (n=103; 11,3%). La especie más 
+abundante fue Pseudomyrmex lynceus, una hormiga endémica de Chile.
+Ninguna de las especies encontradas en el área de estudio está en alguna categoría de 
+conservación por los procesos de RCE (Reglamento de Clasificación de Especies) del 
+Ministerio del Medio Ambiente (MMA). Sin embargo, 25 de las 66 especies encontradas en el 
+área de estudio son endémicas (37,9%). También se registraron 19 especies nativas y 6 
+introducidas.
+
+===== p.44 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 45 de 49
+Dada la alta cantidad de especies endémicas y nativas, el área de estudio del Proyecto 
+posee alto grado de singularidad para el ambiente de matorral esclerófilo mediterráneo 
+costero, el cual es un punto caliente (hotspot) para la conservación de la biodiversidad.
+
+===== p.45 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 46 de 49
+7.
+BIBLIOGRAFÍA
+Aguilera MA & ME Casanueva (2005) Arañas chilenas: estado actual del conocimiento y 
+clave para las familias de Araneomorphae. Gayana 69(2): 201-224.
+Cepeda J, M Pola, C Zuleta & C González (2006) Relaciones de abundancia y diversidad de 
+la entomofauna del humedal Tambo-Puquíos. En: Cepeda J (ed.) Geoecología de los 
+Andes desérticos. La alta montaña del Valle del Elqui: 475-521. Ediciones Universidad de La 
+Serena, La Serena, Chile.
+Cepeda-Pizarro J, J Pizarro-Araya & H Vásquez (2005) Composición y abundancia de 
+artrópodos epigeos del Parque Nacional Llanos de Challe: impactos del ENOS de 1997 y 
+efectos del hábitat pedológico. Revista Chilena de Historia Natural 78: 635-650.
+Cepeda-Pizarro J, C González, C Zuleta & J Pizarro-Araya (2013) Comparación de la 
+eficiencia de trampas Barber y Malaise para el estudio de la biodiversidad de Hexapoda de 
+vegas altoandinas. Idesia 31(4): 103-109.
+Coleman  DC  &  PF  Hendrix  (2000)  Invertebrates  as  webmasters  in  ecosystems.  CABI 
+Publishing, UK, xii + 336 pp.
+Cortés R & N Hichins (1969) Distribución geográfica y huéspedes conocidos de los taquínidos 
+de Chile (Diptera: Tachinidae). Contribución Científica Nº 38 de la Estación Experimental 
+Agronómica, Universidad de Chile, Maipú. Ediciones de la Universidad de Chile, Santiago 
+(Chile), 100 pp.
+Daly HV, JT Doyen & AH Purcell III (1998) Introduction to insect biology and diversity. Second 
+edition. Oxford University Press (UK), viii + 680 pp.
+Delfín H & PC Manrique (2004) Insectos terrestres. En: Bautista F (ed.) Técnicas de muestreo 
+para manejadores de recursos naturales: 235-268. Universidad Nacional Autónoma de 
+México, Universidad Autónoma de Yucatán, Consejo Nacional de Ciencia y Tecnología e 
+Instituto Nacional de Ecología, México.
+Elgueta M, A Camousseight & CS Carbonell (1999) Catálogo de Orthoptera (Insecta) de 
+Chile. Publicación Ocasional del Museo Nacional de Historia Natural (Chile) 54: 5-60.
+Hammer Ø, DAT Harper & PD Ryan (2001) PAST: Paleontological Statistics Software Package 
+for Education and Data Analysis. Palaeontología Electronica 4(1): 9 pp.
+Jaques SA, C Jofré-Pérez, MM Murúa, L Vieli & FE Fontúrbel (2023) Crop-specific effects on 
+pan-trap  sampling  of  potential  pollinators  as  influenced  by  trap  color  and  location. 
+Agronomy 13(2): 552-567.
+Jerez V, A Zúñiga-Reinoso, C Muñoz-Escobar & J Pizarro-Araya (2015) Acciones y avances 
+sobre la conservación de insectos en Chile. Gayana 79(1): 1-3.
+
+===== p.46 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 47 de 49
+Jiménez-Valverde A & JM Lobo (2005) Determining a combined sampling procedure for a 
+reliable estimation of Araneidae and Thomisidae assemblages (Arachnida, Araneae). The 
+Journal of Arachnology 33: 33-42.
+MacNeill CD & J Herrera (1998) Studies in the genus Hylephila Billberg, I. Introduction and the 
+ignorans  and  venusta  species  groups  (Hesperiidae:  Hesperiinae).  Journal  of  the 
+Lepidopterists' Society 52(3): 277-317.
+Magurran AE (1988) Ecological diversity and its measurement. Princeton University Press, New 
+Jersey (USA), 179 pp.
+Medina MA & A Ugarte (2015) Pequeña guía de campo, mariposas de Chile. Ograma 
+Impresores, Santiago (Chile), 256 pp.
+Montalva J & L Ruz (2010) Actualización de la lista sistemática de las abejas chilenas 
+(Hymenoptera: Apoidea). Revista Chilena de Entomología 35: 15-52.
+Moore T & P Vidal (2015) Los bupréstidos de Chile. Ediciones Universidad Católica de Chile, 
+Santiago (Chile), 398 pp.
+Myers N, RA Mittermeier, CG Mittermeier, GBA Da Fonseca & J Kent (2000) Biodiversity 
+hotspots for conservation priorities. Nature 403(6772): 853-858.
+New TR (2010) Beetles in conservation. Wiley-Blackwell, Oxford (UK), ix + 237 pp.
+Ocampo FC (2008) Inventario y conservación de los escarabajos (Scarabaeoidea) de las 
+zonas áridas del sur de América del Sur. Cuadernos de Biodiversidad 26: 13-20.
+Ojeda FP (1998) Estado actual de la conservación de la diversidad biológica en Chile. 
+Revista Chilena de Historia Natural 71: 117-120.
+Peña LE (1966) Ensayo preliminar para dividir Chile en regiones entomofaunísticas, basadas 
+especialmente  en  la  familia  Tenebrionidae  (Col).  Revista  Universitaria.  Anales  de  la 
+Academia Chilena de Ciencias Naturales 28-29 fasc. II: 209-220.
+Peña  LE  (1971)  Revisión  del  género  Nycterinus Eschscholtz  1829  (Coleoptera  - 
+Tenebrionidae). Boletín del Museo Nacional de Historia Natural 32: 129-158.
+Peña LE (1975) Guía para reconocer mariposas. Colección Expedición a Chile. Editora 
+Nacional Gabriela Mistral, Santiago (Chile), 120 pp.
+Peña LE (1976) Guía para reconocer los coleópteros de Chile continental. Colección 
+Expedición a Chile. Editora Nacional Gabriela Mistral, Santiago (Chile), 160 pp.
+Peña LE (1980) Aporte al conocimiento de los tenebriónidos de América del Sur (Coleoptera: 
+Tenebrionidae). Revista Chilena de Entomología 10: 37-59.
+Peña LE (1986) Introducción a los insectos de Chile. Editorial Universitaria, Santiago (Chile), 
+257 pp.
+
+===== p.47 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 48 de 49
+Peña LE (2006) Introducción a los insectos de Chile. Séptima edición, Editorial Universitaria, 
+Santiago (Chile), 264 pp.
+Peña LE & AJ Ugarte (1996) Las mariposas de Chile. Editorial Universitaria, Santiago (Chile), 
+359 pp.
+Peña LE & AJ Ugarte (2006) Las mariposas de Chile. Segunda edición, Editorial Universitaria, 
+Santiago (Chile), 359 pp.
+Prado E (2008) Conocimiento actual de Hemiptera – Heteroptera de Chile con lista de 
+especies. Boletín del Museo Nacional de Historia Natural (Chile) 57: 31-75.
+Seppä P (2008) Do ants (Hymenoptera: Formicidae) need conservation and does ant 
+conservation need genetics? Myrmecological News 11: 161-172.
+SEA (2015) Guía para la descripción de los componentes suelo, flora y fauna de ecosistemas 
+terrestres  en  el  SEIA.  Departamento  de  Estudios  y  Desarrollo,  División  de  Evaluación 
+Ambiental y Participación Ciudadana, Servicio de Evaluación Ambiental, Santiago (Chile), 
+98 pp.
+SEA (2024) Guía metodológica para la consideración del cambio climático en el SEIA. 
+Tercera edición, Santiago (Chile), 101 pp.
+Simonetti JA (1997) Biodiversity and a taxonomy of Chilean taxonomists. Biodiversity and 
+Conservation 6: 633-637.
+Snelling RR & JH Hunt (1975) The ants of Chile. Revista Chilena de Entomología 9: 63-129.
+Toro  H  (1986)  Lista  preliminar  de  los  ápidos  chilenos  (Hymenoptera:  Apoidea).  Acta 
+Entomológica Chilena 13: 121-132.
+Torres-Contreras  H  (2001)  Antecedentes  biológicos  de  hormigas  presentes  en  Chile 
+publicados en revistas científicas nacionales y extranjeras durante el siglo XX. Revista 
+Chilena de Historia Natural 74(3): 653-668.
+Triplehorn CA & NF Johnson (2005) Borror and DeLong’s Introduction to the study of insects. 
+Seventh edition. Thomson Brooks/Cole (USA), x + 864 pp.
+Vidal P & M Guerrero (2007) Los tenebriónidos de Chile. Ediciones Universidad Católica de 
+Chile, Santiago (Chile), 478 pp.
+Vivallo  F  (2013)  Revision  of  the  bee  subgenus  Centris (Wagenknechtia)  Moure,  1950 
+(Hymenoptera: Apidae: Centridini). Zootaxa 3683(5): 501-537.
+
+===== p.48 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 49 de 49
+8.
+ANEXOS
+Anexo 1. Listado de profesionales para el componente Entomofauna
+Anexo 2. Permiso de captura Entomofauna.
+Anexo 3. Base de Datos Entomofauna.
+Anexo 4. Planilla de Reportabilidad Darwin Core. 

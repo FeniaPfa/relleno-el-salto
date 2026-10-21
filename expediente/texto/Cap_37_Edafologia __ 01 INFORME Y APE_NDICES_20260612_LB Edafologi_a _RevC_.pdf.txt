@@ -1,0 +1,4482 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preparado por: 
+ 
+Preparado para: 
+ 
+ 
+ 
+GEAGRAM Ltda. 
+ 
+COSEMAR SPA. 
+Providencia #1017 Of 41, Providencia 
+Región Metropolitana 
+ 
+5 oriente #368,  
+Viña del Mar  
+Región Valparaíso 
+geagram.informacion@gmail.com 
+ 
+ 
+LÍNEA BASE DE EDAFOLOGÍA 
+ESTUDIO DE IMPACTO AMBIENTAL 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL 
+DE RESIDUOS 
+ 
+JUNIO, 2026. 
+
+===== p.1 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+ 
+ 
+TABLA DE CONTENIDOS 
+1.0 
+INTRODUCCIÓN ............................................................................................................................. 7 
+2.0 
+OBJETIVOS ..................................................................................................................................... 8 
+2.1 
+OBJETIVO GENERAL ........................................................................................................ 8 
+2.2 
+OBJETIVOS ESPECÍFICOS ............................................................................................... 8 
+3.0 
+METODOLOGÍA .............................................................................................................................. 9 
+3.1 
+MARCO DE REFERENCIA ................................................................................................ 9 
+3.1.1 
+Guías metodológicas ............................................................................................. 9 
+3.1.2 
+Delimitación del Área de Influencia (AI) del Componente Suelo ........................... 9 
+3.2 
+LEVANTAMIENTO DE INFORMACIÓN ........................................................................... 11 
+3.2.1 
+Revisión bibliográfica ........................................................................................... 11 
+3.2.2 
+Trabajo en terreno ............................................................................................... 11 
+3.2.3 
+Determinación de la distribución espacial de los puntos de muestreo 
+(calicatas) ............................................................................................................. 14 
+3.1 
+ANÁLISIS DE INFORMACIÓN ......................................................................................... 18 
+3.1.1 
+Caracterización general del suelo........................................................................ 18 
+3.1.2 
+Determinación de la Clase de Capacidad de Uso de Suelos (CCUS) ................ 18 
+3.1.3 
+Validación de las unidades homogéneas de suelo (UHS) .................................. 21 
+3.1.4 
+Caracterización la erosión actual y el riesgo de erosión del Área de 
+Influencia .............................................................................................................. 22 
+3.1.5 
+Susceptibilidad del suelo al cambio climático ...................................................... 33 
+3.1.6 
+Caracterización de la capacidad del suelo para sustentar biodiversidad 
+(CSB) ................................................................................................................... 34 
+3.1.7 
+Identificación de los atributos sensibles, singularidades del suelo u objetos 
+de protección ........................................................................................................ 36 
+4.0 
+RESULTADOS .............................................................................................................................. 37 
+4.1 
+ÁREA DE INFLUENCIA (AI) DEL COMPONENTE SUELO ............................................. 37 
+4.2 
+LEVANTAMIENTO DE INFORMACIÓN ........................................................................... 40 
+4.2.1 
+Información Agroclimática .................................................................................... 40 
+4.2.2 
+Antecedentes generales del medio edáfico ......................................................... 42 
+4.2.3 
+Clasificación taxonómica ..................................................................................... 43 
+4.3 
+ANÁLISIS DE LA INFORMACIÓN .................................................................................... 45 
+4.3.1 
+Caracterización físico-morfológica del suelo ....................................................... 45 
+4.3.2 
+Clasificación de las unidades homogéneas de suelo (UHS) definitivo................ 45 
+4.3.3 
+Caracterización físico-química del suelo ............................................................. 53 
+
+===== p.2 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+ 
+ 
+4.3.4 
+Determinación de la susceptibilidad del recurso suelo a los efectos del 
+cambio climático................................................................................................... 56 
+4.3.5 
+Caracterización de la erosión actual del suelo identificada en terreno ............... 59 
+4.3.6 
+Caracterización del riesgo de erosión actual ....................................................... 64 
+4.3.7 
+Capacidad del suelo para sustentar biodiversidad (CSB) ................................... 69 
+4.3.8 
+Determinación de la clase de capacidad de uso de los suelos (CCUS) 
+Determinación de la clase de capacidad de uso de los suelos (CCUS) ............. 72 
+4.3.9 
+Presencia de suelos en Sitios Prioritarios Regionales ........................................ 78 
+4.3.10  Identificación de los atributos sensibles o singularidades del suelo................... 80 
+5.0 
+CONCLUSIONES .......................................................................................................................... 81 
+6.0 
+BIBLIOGRAFÍA ............................................................................................................................. 84 
+ 
+APÉNDICES 
+Apéndice 1 
+ 
+Caracterización físico-morfológica del suelo. 
+Apéndice 2 
+ 
+Resultados laboratorio análisis de suelo. 
+Apéndice 3 
+ 
+Tabla criterios Análisis físico-químico del suelo. 
+Apéndice 4 
+ 
+Criterios, modelamiento y cartografía del riesgo de erosión actual (REA) y potencial (REP). 
+Apéndice 5 
+ 
+Tablas criterios CSB. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.3 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+ 
+ 
+LISTA DE CUADROS 
+Cuadro 3-1. Designación de distanciamiento (buffer) de acuerdo con la pendiente(%) predominante del AI de 
+suelo. ............................................................................................................................................... 10 
+Cuadro 3-2. Nivel de detalle según número de observaciones y escala cartográfica. ................................................. 12 
+Cuadro 3-3. Coordenadas geográficas de los puntos de muestreo (C0) (calicatas) . .................................................. 14 
+Cuadro 3-4. Parámetros químicos y físicos de las muestras de suelo obtenidas de las calicatas . ............................. 17 
+Cuadro 3-5. Clases de Capacidad de Uso de Suelos en función de los Criterios de Clasificación. ............................. 19 
+Cuadro 3-6. Resumen de indicadores a considerar por clases de erosión actual........................................................ 23 
+Cuadro 3-7. Nivel de Riesgo de Erosión. ..................................................................................................................... 25 
+Cuadro 3-8. Matriz de erodabilidad del suelo. .............................................................................................................. 26 
+Cuadro 3-9. Nivel de Erodabilidad. .............................................................................................................................. 26 
+Cuadro 3-10. Riesgo según rangos de pendiente. ....................................................................................................... 27 
+Cuadro 3-11. Modelo de riesgo edafotopográfico (erodabilidad-pendiente). ............................................................... 28 
+Cuadro 3-12. Definición de la clase de desprotección según tipos de cobertura vegetacional. ................................... 28 
+Cuadro 3-13. Modelo de riesgo vulnerabilidad (riesgo edafotopográfico - clase de desprotección). ........................... 30 
+Cuadro 3-14. Nivel de Agresividad Climática. .............................................................................................................. 31 
+Cuadro 3-15. Modelo de riesgo de activación de procesos erosivos. .......................................................................... 31 
+Cuadro 3-16. Niveles para estimación de riesgo de erosión actual. ............................................................................ 31 
+Cuadro 3-17. Determinación de categorías de capacidad de sustentar biodiversidad................................................. 35 
+Cuadro 3-18. Ejemplos de singularidades ambientales del componente edafología definidas en diferentes 
+guías actualizadas. .......................................................................................................................... 36 
+Cuadro 4-1. Clases de pendientes (%) y superficies (Ha) en el Área de Influencia de suelo del Proyecto.................. 37 
+Cuadro 4-2. UHS en el Área de Influencia (AI), junto con sus superficies y representatividad. ................................... 51 
+Cuadro 4-3. Resumen propiedades físico-químicas del suelo por UHS del Proyecto.................................................. 54 
+Cuadro 4-4. Resultados sobre erosión actual en las UHS del AI de suelo. ................................................................. 61 
+Cuadro 4-6. Resultados sobre erosión actual en el AI de suelo. ................................................................................. 62 
+Cuadro 4-7. Superficie (Ha) y (%) de las clases de riesgo de erosión actual (REA) por cada UHS del AI. ................. 65 
+Cuadro 4-8. Superficie (Ha) y (%) de las clases de riesgo de erosión actual (REA) en el AI. ...................................... 66 
+Cuadro 4-12. Capacidad de sustentar biodiversidad (CSB) por cada UHS del AI de suelo. ........................................ 69 
+Cuadro 4-13. Capacidad de sustentar biodiversidad (CSB) en el AI de suelo. ............................................................ 70 
+Cuadro 4-14. Criterios de aproximación por calicata. .................................................................................................. 72 
+Cuadro 4-15. Criterios de definición por calicata.......................................................................................................... 73 
+Cuadro 4-16. Criterios especiales por calicata. ............................................................................................................ 74 
+Cuadro 4-17. Clase de capacidad de uso de suelos (CCUS) en el AI de suelo. .......................................................... 74 
+Cuadro 4-18. Clase de capacidad de uso de suelos (CCUS) en el AI de suelo. .......................................................... 75 
+ 
+ 
+
+===== p.4 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+ 
+ 
+LISTA DE FIGURA 
+Figura 3-1. Distribución de los puntos de muestreo (C0) en el Área de Influencia de suelo (AI). ................................ 15 
+Figura 3-2. Diagrama metodológico para determinación de riesgo de erosión de suelo en Zona IV. .......................... 24 
+Figura 3-3. Esquema de obtención de riesgo de erosión en zona IV. .......................................................................... 25 
+Figura 3-4. Factores que constituyen el riesgo climático. ............................................................................................ 33 
+Figura 4-1. Mapa de pendiente en el Área de Influencia (AI) de suelo del Proyecto.................................................... 39 
+Figura 4-2. Ubicación del distrito climático 5-1: Valparaíso y 5-2: Quillota. .................................................................. 41 
+Figura 4-3. Distribución espacial de las series de suelo (CIREN, 2003) en el AI de suelo del Proyecto...................... 44 
+Figura 4-4. Unidades homogéneas de suelo (UHS) identificadas en el área de generación del AI del Proyecto. ....... 52 
+Figura 4-5. Precipitación anual acumulada para la comuna de Viña del Mar. ............................................................. 56 
+Figura 4-6. Precipitación anual acumulada para la comuna de Quilpué. ..................................................................... 57 
+Figura 4-7. Temperatura media para la comuna de Viña del Mar. ............................................................................... 57 
+Figura 4-8. Temperatura media para la comuna de Quilpué ........................................................................................ 58 
+Figura 4-9. Erosión actual del AI de suelo del Proyecto. .............................................................................................. 63 
+Figura 4-10. Mapa de riesgo de erosión actual REA) en el área de generación del AI del Proyecto. .......................... 68 
+Figura 4-12. Capacidad de sustentar Biodiversidad (CSB) en el Área de Influencia (AI) de suelo. ............................. 71 
+Figura 4-13. CCUS identificadas en el Área de Influencia (AI) de suelo del Proyecto. ................................................ 77 
+Figura 4-14. Sitios prioritarios para la conservación de la biodiversidad y AI de la componente suelo........................ 79 
+ 
+SET FOTOGRÁFICO 
+Set Fotográfico 4-1. UHS 1 - Ladera baja. ................................................................................................................... 46 
+Set Fotográfico 4-2. UHS 2 – Ladera media. ............................................................................................................... 47 
+Set Fotográfico 4-3. UHS 3 – Ladera alta. ................................................................................................................... 48 
+Set Fotográfico 4-4. UHS 4 – Cumbre. ........................................................................................................................ 49 
+Set Fotográfico 4-5. UHS 5 – Quebrada. ..................................................................................................................... 50 
+Set Fotográfico 4-6. UHS 6 – Intervenido. ................................................................................................................... 50 
+Set Fotográfico 4-7. Erosión actual ligera. ................................................................................................................... 59 
+Set Fotográfico 4-8. Erosión actual moderada. ............................................................................................................ 60 
+Set Fotográfico 4-9. Erosión actual severa. ................................................................................................................. 60 
+ 
+ 
+ 
+
+===== p.5 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 7 de 85 
+ 
+1.0 INTRODUCCIÓN 
+En cumplimiento de los contenidos mínimos establecidos para los Estudios de Impacto Ambiental 
+(EIA), conforme al artículo 12 de la Ley Nº19.300, sobre Bases Generales del Medio Ambiente 
+(LBGMA), y al artículo 18 del Decreto Supremo Nº40/2013, Reglamento del Sistema de Evaluación 
+de Impacto Ambiental (RSEIA), modificado por el D.S. Nº30/2024, el presente documento tiene por 
+objeto entregar la descripción del componente ambiental Suelo en el Área de Influencia (AI) del 
+Proyecto “Centro Metropolitano de Gestión Integral de Residuos” abreviado como “CMGIR” (en 
+adelante, el Proyecto). 
+El Proyecto consiste en la construcción y operación de una instalación integral destinada al 
+tratamiento de residuos sólidos mediante compostaje, reciclaje y disposición final de residuos 
+sólidos domiciliarios, asimilables a domiciliarios e industriales asimilables. Su emplazamiento 
+corresponde al kilómetro 102,5 de la Ruta 60 - Troncal Sur, que conecta las comunas de Viña del 
+Mar y Quilpué, en la Región de Valparaíso, abarcando una superficie de 63,10 ha dentro de un 
+predio de 206 ha. En términos territoriales, el Proyecto se ubica en la Región de Valparaíso, 
+Provincia de Valparaíso, Comuna de Quilpué  
+El objetivo del Proyecto es proporcionar una solución de largo plazo para el manejo y disposición 
+final de residuos sólidos, resguardando la salud pública y el medio ambiente. Durante sus 25 años 
+de vida útil, se espera recibir aproximadamente 30,7 millones de toneladas de residuos sólidos, con 
+una tasa inicial de operación de 2.500 toneladas por día. 
+De acuerdo con el artículo 3º del RSEIA, el Proyecto se somete a evaluación en virtud de su tipología 
+asociada a proyectos de saneamiento ambiental, específicamente plantas de tratamiento y 
+disposición de residuos sólidos de origen domiciliario. La inversión estimada asciende a 20 millones 
+de dólares. 
+De esta forma, y en conformidad con lo establecido en la normativa ambiental vigente, a 
+continuación, se presenta la línea base edafológica del Proyecto, la cual comprende la descripción 
+y caracterización del componente Suelo en el Área de Influencia (AI), considerando los atributos 
+relevantes que permiten sustentar la evaluación de impactos ambientales. 
+ 
+ 
+ 
+ 
+ 
+
+===== p.6 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 8 de 85 
+ 
+2.0 OBJETIVOS  
+2.1 
+OBJETIVO GENERAL 
+Determinar las características y el estado actual del recurso natural suelo en el Área de Influencia 
+(AI) del Proyecto, en conformidad a las directrices contenidas en el DS N°40/2013 que Aprueba el 
+Reglamento del Sistema de Evaluación de Impacto Ambiental y sus modificaciones introducidas en 
+el D.S. N°30 publicado en 2024, y acorde con las guías ambientales vigentes del Servicio de 
+Evaluación Ambiental (SEA) y del Servicio Agrícola Ganadero (SAG). 
+2.2 
+OBJETIVOS ESPECÍFICOS 
+● 
+Caracterizar el estado actual del recurso natural suelo desde el punto de vista 
+morfológico, físico y químico en el Área de Influencia (AI) del Proyecto. 
+● 
+Definir Unidades Homogéneas de Suelo (UHS) en el Área de Influencia del Proyecto. 
+● 
+Determinar la Clase de Capacidad de Uso de Suelos (CCUS) en el Área de Influencia 
+del Proyecto. 
+● 
+Caracterizar la erosión actual y el riesgo de erosión actual del suelo en el Área de 
+Influencia del Proyecto. 
+● 
+Caracterizar la capacidad del suelo para sustentar biodiversidad en el Área de Influencia 
+de suelo del Proyecto. 
+● 
+Identificar los atributos sensibles o singularidades del recurso suelo o en su defecto, su 
+ausencia en el Área de Influencia de suelo del Proyecto.  
+ 
+ 
+ 
+
+===== p.7 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 9 de 85 
+ 
+3.0 METODOLOGÍA  
+3.1 
+MARCO DE REFERENCIA 
+3.1.1 
+Guías metodológicas  
+La elaboración de la línea de base del componente Suelo se basó en los conceptos establecidos en 
+las siguientes guías y lineamientos: 
+● 
+Guía para la descripción de los Ecosistemas terrestres, segunda edición, SEA 2025. 
+● 
+Guía áreas de influencia en ecosistemas terrestres. SEA, 2024.  
+● 
+Guía metodológica para la consideración del cambio climático en el SEIA. SEA, 2024. 
+● 
+Guía Área de Influencia de humedales en el SEIA, SEA 2023. 
+● 
+Guía de Delimitación y Caracterización de Humedales Urbanos de Chile. MMA- ONU 
+Medio Ambiente 2022. 
+● 
+Guía de Campo para la Delimitación y Caracterización de Humedales Urbanos de Chile. 
+MMA- ONU Medio Ambiente 2022. 
+● 
+Guía de evaluación ambiental: recurso natural suelo. SAG, 2019.  
+● 
+Pauta para estudios de suelos. SAG, 2011 rectificada 2016.  
+● 
+Guía metodológica para determinar Riesgos de Activación de Procesos Erosivos. SAG, 
+2016. 
+● 
+Guía de campo para el muestreo y descripción de suelos. Schoeneberger et al., 2012. 
+3.1.2 
+Delimitación del Área de Influencia (AI) del Componente Suelo  
+La delimitación del Área de Influencia (AI) del componente Suelo se realizó en base a lo establecido 
+en la “Guía para la delimitación del Área de Influencia en ecosistemas terrestres” (SEA, 2024), la 
+cual establece que el AI debe corresponder al espacio territorial donde los Factores Generadores 
+de Impacto (FGI) del Proyecto tienen la potencialidad de generar alteraciones en las condiciones del 
+medio, ya sea de manera directa, indirecta o sinérgica. 
+Conforme a lo establecido en la Guía de Áreas de Influencia en Ecosistemas Terrestres (SEA, 2024), 
+el Área de Influencia (AI) del componente suelo se delimita en función de las partes, obras y acciones 
+del Proyecto que actúan como FGI, tales como excavaciones, nivelaciones, compactación del 
+terreno, remoción de vegetación, tránsito de maquinaria y habilitación de caminos. Estos FGI 
+permiten proyectar espacialmente los efectos potenciales sobre el recurso, como la pérdida de 
+estructura, aumento del riesgo de erosión y alteración de servicios ecosistémicos asociados. La guía 
+
+===== p.8 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 10 de 85 
+ 
+establece que los impactos sobre el suelo pueden clasificarse en dos tipos: impactos fijos e impactos 
+con transporte. Los primeros se restringen al lugar en que se ejecuta la obra, mientras que los 
+segundos requieren proyectar espacialmente su alcance para definir el AI de forma representativa.  
+En este contexto, la pendiente del terreno constituye un factor determinante, al incidir directamente 
+en la capacidad de transporte de partículas y, en consecuencia, en la susceptibilidad del suelo a la 
+erosión. Sobre esta base, el Área de Influencia (AI) del componente suelo se definió considerando 
+el emplazamiento de las partes, obras y acciones del Proyecto, tanto permanentes como temporales, 
+y adicionando un área de amortiguación (buffer) de 50 metros. Este buffer se delimitó desde el borde 
+de las obras poligonales y desde el eje central de las obras lineales, aplicando criterio experto en 
+función de la pendiente predominante del sitio (ver Cuadro 3-1). 
+Esta definición del AI se constituye como la base sobre la cual se implementó el esfuerzo de 
+muestreo y la caracterización edafológica. 
+Cuadro 3-1. Designación de distanciamiento (buffer) de acuerdo con la pendiente(%) predominante del 
+AI de suelo.  
+Símbolo 
+Clase Pendientes 
+Complejas y Simples 
+Descripción (%) 
+Buffer (m) 
+A – B – AK 
+Casi Plano / Plano / 
+Ligeramente inclinado 
+0 a ˂3 
+1 
+C – BK 
+Ligeramente Ondulado / 
+Suavemente inclinado 
+3 a ˂5 
+5 
+D – CK 
+Suavemente Ondulado / 
+Moderadamente inclinado 
+5 a ˂8 
+15 
+E – DK 
+Moderadamente Ondulado 
+/ Fuertemente inclinado 
+8 a ˂15 
+F – EK 
+Fuertemente Ondulado / 
+Ligeramente escarpado 
+15 a ˂30 
+30 
+G – FK 
+De Lomajes / 
+Moderadamente escarpado 
+30 a ˂45 
+H – GK 
+De Cerros / Escarpado 
+45 a ˂60 
+50 
+I – HK 
+De Montañas / Muy 
+escarpado 
+˃ 60 
+Fuente: GEAGRAM, 2026. 
+
+===== p.9 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 11 de 85 
+ 
+3.2 
+LEVANTAMIENTO DE INFORMACIÓN  
+El análisis de la componente ambiental del suelo se sustenta en la revisión bibliográfica y el trabajo 
+de terreno. La primera entrega antecedentes y detecta posibles unidades homogéneas de suelo 
+(UHS) que se deben prospectar en terreno, mientras que el segundo valida y complementa la 
+información recopilada. La integración de ambos permite construir una metodología robusta para 
+una evaluación ambiental sólida y fundamentada. 
+3.2.1 
+Revisión bibliográfica 
+Para elaborar la caracterización del componente Suelo, en primera instancia, se revisaron todos los 
+antecedentes proporcionados por el mandante para el desarrollo del estudio, tales como, 
+descripción de las partes, obras y/o acciones del Proyecto. También se revisaron en el SEIA, DIAs 
+y EIAs de los proyectos cercanos al Área de Influencia (AI) que tuvieran directa relación con las 
+obras del Proyecto. 
+Además, se realizó una búsqueda y recopilación de información disponible para el AI de suelo del 
+Proyecto, contenida en otros estudios realizados a nivel general, tales como:  
+● 
+Suelos de Chile (Luzio et al., 2010). 
+● 
+Geografía de Chile, Geomorfología Tomo III. Instituto Geográfico Militar (Börgel, 1983). 
+● 
+Soil Survey Manual, Handbook N°18. Soil Survey Staff (USDA, 2017).  
+● 
+Estudio Agrológico V Región, Centro de Información de Recursos Naturales (CIREN, 
+1997). 
+3.2.2 
+Trabajo en terreno 
+El trabajo en terreno se realizó sobre la superficie definida como Área de Influencia (AI) del 
+componente Suelo, correspondiente a 130,9 hectáreas, delimitadas de acuerdo con los lineamientos 
+de la Guía del SEA (2024), tal como se describe en el apartado 3.1.2. Esta superficie corresponde 
+al área directamente intervenida por las partes, obras y acciones del Proyecto, tanto permanentes 
+como temporales, de los efectos fijos, y los efectos por transporte (ver Figura 3-1).  
+Para la caracterización del recurso suelo, se aplicaron los criterios de intensidad de muestreo 
+establecidos en la Guía para la Descripción de Ecosistemas Terrestres en el SEIA (SEA, 2025), que 
+asocia el número de observaciones requeridas a la escala cartográfica y al nivel de detalle del 
+estudio. En este contexto, se trabajó con un nivel de detalle moderadamente alto (detallado), lo que 
+corresponde a una (1) observación por cada 13,09 hectáreas, a una escala cartográfica de 1:25.000 
+(ver Cuadro 3-2). 
+
+===== p.10 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 12 de 85 
+ 
+Cuadro 3-2. Nivel de detalle según número de observaciones y escala cartográfica. 
+Nivel de detalle 
+Objetivo 
+Número de 
+observaciones 
+Escala 
+cartográfica 
+Muy alto (muy 
+intensivo) 
+Para levantamiento de 
+mayor detalle pertinente 
+para una EIA 
+4 o más por Ha 
+1: 2.500 
+Alto (intensivo) 
+1 por cada 0,8 a 4 
+Ha 
+1: 10.000 
+Moderadamente 
+alto (detallado) 
+1 cada 5 a 25 Ha 
+1: 25.000 
+Moderado 
+(semi-detallado) 
+1 cada 20 a 100 Ha 
+1: 50.000 
+Fuente: Adaptado de la Guía Descripción de Ecosistemas Terrestres en el SEIA (SEA, 2025). 
+ 
+
+===== p.11 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 13 de 85 
+ 
+Figura 3-1. Representación del Área de Influencia de suelo (AI) y las obras del Proyecto. . 
+ 
+Fuente: GEAGRAM, 2026. 
+
+===== p.12 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 14 de 85 
+ 
+3.2.3 
+Determinación de la distribución espacial de los puntos de muestreo (calicatas) 
+De acuerdo con estos parámetros, se ejecutaron diez (10) puntos de muestreo (C0) (calicatas) 
+dentro del AI de suelo. La ubicación de los puntos de muestreo fue planificada en función de la 
+representatividad de las Unidades Homogéneas de Suelo (UHS) definidas preliminarmente, 
+considerando variables como geoforma, pendiente, vegetación, uso actual del suelo y las series 
+edáficas descritas en el Estudio Agrológico de la V Región (CIREN, 1997). Estas UHS fueron 
+posteriormente validadas y cartografiadas durante la campaña de terreno, permitiendo ajustar la 
+representatividad espacial de cada punto de observación 
+Para lograr una distribución espacial representativa de los puntos de muestreo (C0) (calicatas), se 
+aplicaron las directrices establecidas en la Guía para la descripción de ecosistemas terrestres (SEA, 
+2025). Para ellos en las UHS identificadas fueron representadas cartográficamente, lo que permitió 
+planificar la ubicación de los puntos de muestreo (calicatas) en proporción a la superficie relativa de 
+cada unidad. En total, se ejecutaron diez (10) puntos de muestreo (C0) (calicatas) (ver Cuadro 3-3) 
+durante la campaña de terreno realizada en el 07 y 08 de junio de 2025.  
+La Figura 3-1 muestra la distribución espacial de los puntos de muestreo en el AI de suelo. 
+Cuadro 3-3. Coordenadas geográficas de los puntos de muestreo (C0) (calicatas) . 
+Calicata N 
+UTM WGS 84 HUSO 19 S 
+Este 
+Sur 
+C1 
+267.723 
+6.337.099 
+C2 
+267.750 
+6.336.955 
+C3 
+268.280 
+6.336.690 
+C4 
+268.221 
+6.337.027 
+C5 
+267.943 
+6.336.783 
+C6 
+268.420 
+6.336.947 
+C7 
+268.042 
+6.337.151 
+C8 
+267.941 
+6.337.315 
+C9 
+267.690 
+6.337.317 
+C10 
+268.445 
+6.337.344 
+Fuente: GEAGRAM, 2026. 
+
+===== p.13 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 15 de 85 
+ 
+Figura 3-1. Distribución de los puntos de muestreo (C0) en el Área de Influencia de suelo (AI). 
+ 
+Fuente: GEAGRAM, 2026. 
+ 
+
+===== p.14 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 16 de 85 
+ 
+3.2.3.1 
+Descripción metodológica para la toma de datos 
+En las UHS definidas en la etapa anterior, se describieron pedones representativos a partir de 
+calicatas de 1,0 metro de ancho, 1,0 metro de largo y 1,0 metro de profundidad o cortes de camino 
+La profundidad de excavación varió en función de la presencia de capas limitantes.  
+La descripción de los pedones consideró propiedades físicas y morfológicas tales como color, 
+textura, estructura, consistencia, profundidad, poros, pedregosidad subsuperficial y morfología de 
+los límites. Asimismo, se caracterizó el contexto ambiental donde se emplaza cada pedón, 
+evaluando aspectos como pendiente, exposición, clase de drenaje, pedregosidad superficial, 
+cobertura vegetal y presencia de rasgos erosivos. 
+El muestreo de suelos en terreno se realizó bajo dos modalidades complementarias. En primer lugar, 
+se obtuvieron 10 muestras compuesta superficiales (Sup), recolectada en un radio de 20 metros 
+alrededor de cada calicata (C0 sup), a partir de 20 submuestras que fueron homogenizadas para 
+extraer un 1,0 kg de suelo. Esta muestra se destinó a la determinación de propiedades químicas, 
+tales como pH, conductividad eléctrica (CE dS cm-1), contenido de materia orgánica (MO %) y 
+relación de absorción de sodio (RAS %) (ver Cuadro 3-4). 
+En segundo lugar, se recolectaron veintiocho (28) muestras correspondientes a los horizontes 
+descritos. De cada horizonte se obtuvo, por una parte, una muestra no disturbada extraída con 
+cilindro de acero inoxidable, de acuerdo con Sandoval et al. (2012), destinada a la determinación de 
+densidad aparente (gr cm-3). y, por otra, una muestra compuesta de aproximadamente 1,0 kg 
+utilizada para la determinación de textura, clase textural, capacidad de campo (C.C.) y punto de 
+marchitez permanente (P.M.P.) (ver Cuadro 3-4). 
+Todas las muestras fueron almacenadas en bolsas de polietileno debidamente selladas y rotuladas, 
+y posteriormente enviadas al Laboratorio de Suelos y Nutrición Vegetal de INIA La Platina, 
+acreditado por la Comisión de Normalización y Acreditación (CNA) de la Sociedad Chilena de la 
+Ciencia del Suelo y por el Servicio Agrícola y Ganadero (SAG). 
+Los parámetros químicos y físicos analizados corresponden a los requeridos para la determinación 
+de la Clase de Capacidad de Uso de Suelos, de acuerdo con la Pauta para Estudios de Suelos del 
+SAG (2011, rectificada en 2016). Estos son conductividad eléctrica del extracto (dS m⁻¹), relación 
+de absorción de sodio (RAS %), carbonatos totales (%), textura, densidad aparente (g cm⁻³) y agua 
+aprovechable como columna de agua (cm c.a.). 
+ 
+ 
+ 
+ 
+
+===== p.15 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 17 de 85 
+ 
+Cuadro 3-4. Parámetros químicos y físicos de las muestras de suelo obtenidas de las calicatas . 
+Punto de 
+muestreo 
+(Calicata)  
+Análisis de suelo 
+Parámetros químicos: pH, 
+CE (dS/cm), RAS (%), 
+Materia orgánica (MO %) 
+Parámetros físicos: Da (dS/m), Capacidad de campo 
+(C.C.) y Punto de marchitez permanente (P.M.P) (%), 
+textura y clase textural. 
+Muestra superficial 
+compuesta  
+Muestra 
+horizonte 1 
+Muestra 
+horizonte 2 
+Muestra 
+horizonte 3 
+C1 
+C1 sup 
+C1 H1 
+C1 H2 
+C1 H3 
+C2 
+C2 sup 
+C2 H2 
+C2 H2 
+C2 H3 
+C3 
+C3 sup 
+C3 H1 
+C3 H2 
+- 
+C4 
+C4 sup 
+C4 H1 
+C4 H2 
+C4 H3 
+C5 
+C5 sup 
+C5 H1 
+C5 H2 
+C5 H3 
+C6 
+C6 sup 
+C6 H1 
+C6 H2 
+- 
+C7 
+C7 sup 
+C7 H1 
+C7 H2 
+C7 H3 
+C8 
+C8 sup 
+C8 H1 
+C8 H2 
+C8 H3 
+C9 
+C9 sup 
+C9 H1 
+C9 H2 
+C9 H3 
+C10 
+C10 sup 
+C10 H1 
+C10 H2 
+C10 H3 
+Fuente: GEAGRAM, 2026. 
+ 
+ 
+
+===== p.16 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 18 de 85 
+ 
+3.1 
+ANÁLISIS DE INFORMACIÓN  
+3.1.1 
+Caracterización general del suelo 
+La caracterización general del suelo se fundamentó en diversas fuentes bibliográficas 
+especializadas. Se utilizó información contenida en Suelos de Chile (Luzio et al., 2010), que compila 
+y analiza antecedentes sobre las características de los suelos del país, incorporando datos 
+sistematizados en un contexto geográfico y geomorfológico, provenientes de estudios agrológicos 
+realizados por organismos públicos y privados, además de antecedentes inéditos aportados por los 
+autores. Asimismo, se consideró el estudio agrológico de CIREN (1997) para identificar el tipo de 
+suelo presente. La descripción geomorfológica del entorno se basó en lo señalado por Börgel en 
+Geografía de Chile, Geomorfología. Tomo III (1983), publicado por el Instituto Geográfico Militar. Por 
+último, para la clasificación taxonómica de los suelos, se utilizó como referencia el Soil Survey 
+Manual. Handbook N°18 elaborado por la Soil Science Division Staff del USDA (2017).  
+Estas fuentes permitieron establecer una caracterización bibliográfica integrada de los suelos 
+presentes en el AI de la componente Suelo del Proyecto. 
+3.1.2 
+Determinación de la Clase de Capacidad de Uso de Suelos (CCUS)  
+A partir de la caracterización del componente suelo, obtenida del levantamiento de información 
+bibliográfica y de terreno, se establecieron los criterios de aproximación (profundidad, pendiente, 
+pedregosidad superficial y clase de drenaje), criterios de definición (textura, agua aprovechable, 
+pedregosidad subsuperficial, clases de erosión y clima) y criterios especiales (inundación, salinidad, 
+sodicidad y alcalinidad), que en su conjunto permiten determinar la CCUS del Proyecto, tal como se 
+resume en la siguiente Cuadro 3-5.
+
+===== p.17 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+Junio, 2026. 
+Página 19 de 85 
+ 
+Cuadro 3-5. Clases de Capacidad de Uso de Suelos en función de los Criterios de Clasificación. 
+Fuente: Pauta para Estudios de Suelos (SAG, 2011 rectificada 2016).
+CLASE 
+CRITERIOS DE APROXIMACIÓN 
+CRITERIOS DE DEFINICIÓN 
+CRITERIOS ESPECIALES 
+Profundidad 
+Pendiente 
+Pedregosidad 
+superficial (%) 
+Drenaje 
+Textura 
+Agua 
+Aprovechable 
+(cm c.a.) 
+Pedregosidad 
+(%) 
+Erosión 
+Clima 
+Inundación Salinidad 
+(dS/m) 
+Sodicidad 
+Alcalinidad 
+(%) 
+Simple  
+Compleja 
+Gravas 
+Piedras 
+Subsuperficial 
+Días Libre 
+de 
+Heladas 
+Vientos 
+(RAS (%) 
+(2,0 -7,5 
+cm diam) 
+(>7,5 cm 
+diam) 
+(>2,0 cm 
+diam) 
+I 
+>90 
+<1 
+<3 
+<10 
+<5 
+Bien Drenado Fa mf - FAL 
+18 o más 
+<5 
+No 
+aparente 150 o más Ausente a 
+Moderado 
+Ninguna 
+<2 
+<5 
+0 
+II 
+>70 
+<5 
+<5 
+<10 
+<5 
+Bien Drenado 
+a Drenaje 
+Moderado 
+aF - A 
+12 a < 18 
+<15 
+No 
+aparente a 
+Ligera 
+≥ 100 
+Ausente a 
+Moderado 
+Ninguna 
+<2 
+<5 
+0 
+III 
+>40 
+<8 
+<8 
+<20 
+<15 
+Bien Drenado 
+a Drenaje 
+Imperfecto 
+aF - A 
+9,5 a < 12 
+<35 
+No 
+aparente a 
+Moderada 
+≥ 80 
+Ausente a 
+Moderado 
+Ninguna a 
+Frecuente 
+<4 
+<13 
+<2 
+IV 
+>20 
+<15 
+<15 
+<40 
+<35 
+Bien Drenado 
+a Pobremente 
+Drenado 
+ag - A 
+5 a < 9,5 
+<35 
+No 
+aparente a 
+Moderada 
+≥ 50 
+Ausente a 
+Moderado 
+Ninguna a 
+Frecuente 
+<8 
+<18 
+2 a 10 
+V 
+Cualquiera 
+<1 
+<3 
+Cualquiera Cualquiera 
+Pobremente 
+Drenado a 
+muy 
+Pobremente 
+Drenado 
+ag - A 
+Cualquiera 
+Cualquiera 
+Cualquiera 
+≥ 50 
+Cualquiera 
+Muy 
+Frecuente Cualquiera Cualquiera Cualquiera 
+VI 
+>20 
+<45 
+<45 
+≤85 
+≤50 
+Drenaje 
+Imperfecto a 
+Excesivamente 
+Drenado 
+ag - A 
+Cualquiera 
+<60 
+No 
+aparente a 
+Severa 
+≥ 50 
+Cualquiera 
+Ninguna a 
+Muy 
+Frecuente 
+<12 
+<28 
+Cualquiera 
+VII 
+Cualquiera 
+<60 
+<60 
+Cualquiera Cualquiera 
+Drenaje 
+Imperfecto a 
+Excesivamente 
+Drenado 
+ag - A 
+Cualquiera 
+Cualquiera 
+Cualquiera Cualquiera Cualquiera 
+Ninguna a 
+Muy 
+Frecuente 
+Cualquiera Cualquiera Cualquiera 
+VIII 
+Cualquiera Cualquiera Cualquiera Cualquiera Cualquiera 
+Cualquiera 
+Cualquiera 
+Cualquiera 
+Cualquiera 
+Cualquiera Cualquiera Cualquiera Cualquiera Cualquiera Cualquiera Cualquiera 
+
+===== p.18 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 20 de 85 
+ 
+A continuación, se presenta el modo utilizado en la determinación de los parámetros de 
+aproximación, definición y especiales de la Pauta para Estudios de Suelo (SAG, 2011 rectificada 
+2016). 
+3.3.2.1 Criterios de aproximación 
+Los parámetros profundidad, pedregosidad superficial y clase de drenaje, fueron obtenidos a partir 
+de la descripción física y morfológica de los suelos efectuada en la campaña de terreno en junio de 
+2025.  
+Por su parte, la pendiente (%) fue obtenida mediante las curvas de nivel del Proyecto y 
+correlacionadas con un DTM (Digital Terrain Model) de levantamiento primario.  
+Los cuatro parámetros de aproximación fueron categorizados de acuerdo con la Pauta para Estudio 
+de Suelos SAG (2011, rectificada 2016). 
+3.3.2.2 Criterios de definición 
+Para determinar los parámetros textura y agua aprovechable, se obtuvieron de todos los horizontes 
+de las calicatas descritas en la campaña de terreno de junio de 2025.  
+Las muestras fueron enviadas a análisis de laboratorio, donde se determinó la clase textural, la 
+densidad aparente (D.A.) y los valores de capacidad de campo (C.C.) y punto de marchitez 
+permanente (P.M.P). 
+De este modo, el agua aprovechable (HA) se obtuvo a partir de la siguiente Ecuación 1  (Sandoval 
+et al., 2011): 
+Ecuación 1. 
+ 
+ 
+ 𝐻𝐴= (
+𝐶𝐶−𝑃𝑀𝑃
+100
+) ∗
+𝐷𝑎
+𝐷𝑤∗𝑍∗(1 −𝑃) 
+Donde: 
+- 
+HA  
+= Altura de agua (cm c.a.) 
+- 
+CC  
+= Capacidad de campo (%) 
+- 
+PMP = Punto de marchitez permanente (%) 
+- 
+Da  
+= Densidad aparente del suelo (g cm-3) 
+- 
+Dw 
+= Densidad del agua (g cm-3) 
+- 
+Z  
+= Profundidad de la estrata (cm) 
+- 
+P  
+= Fracción relativa de pedregosidad (solo si existe pedregosidad). 
+
+===== p.19 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 21 de 85 
+ 
+Los parámetros pedregosidad subsuperficial y clases de erosión actual, fueron registrados en la 
+campaña de terreno, en junio de 2025.  
+En cuanto al clima (periodo libre de heladas y viento), la información fue obtenida del atlas 
+agroclimático de Chile (Centro AGRIMED, 2017).  
+Todos los parámetros de definición fueron categorizados de acuerdo con la Pauta para Estudio de 
+Suelos SAG (2011, rectificada 2016). 
+3.3.2.3 Criterios especiales 
+Las clases de inundación, que se conceptualizan en función del número de eventos de inundación 
+en un año, considerando una duración del evento mayor a 7 días, se obtuvo relacionando lo 
+observado en terreno a partir de hallazgos redoximórficos en superficie y condiciones de anegación 
+(colores, rasgos de mal drenaje, entre otros), siempre que existieran. 
+El resto de los parámetros químicos como salinidad y sodicidad, se obtuvieron a partir de muestras 
+representativas de suelo procedentes de la campaña de terreno, que fueron enviadas a análisis de 
+laboratorio. Adicionalmente, la alcalinidad (presencia de carbonatos en suelos) se midió también por 
+medio de pruebas in situ utilizando ácido clorhídrico (HCl) al 33%, a partir de la efervescencia 
+producida al agregar gotas de HCl diluido al suelo.  
+Los cuatro parámetros especiales fueron categorizados de acuerdo con la Pauta para Estudio de 
+Suelos (SAG 2011, rectificada 2016). 
+ 
+3.1.3 
+Validación de las unidades homogéneas de suelo (UHS) 
+La determinación de las UHS final se basa en la correlación de la caracterización edafológica 
+realizada a cada uno de los puntos de muestreo, con información de la geoforma, vegetación y 
+pendiente del sitio. Producto de esta correlación de datos, se realizó la extrapolación de la 
+clasificación edafológica de cada punto de muestreo a una determinada superficie definiendo las 
+respectivas UHS, las cuales conforman el mapa de UHS del Área de Influencia. 
+ 
+ 
+ 
+
+===== p.20 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 22 de 85 
+ 
+3.1.4 
+Caracterización la erosión actual y el riesgo de erosión del Área de Influencia 
+3.1.4.1 
+Erosión actual del suelo 
+La erosión de un determinado suelo se considera como el proceso de pérdida de capas o 
+movimiento de partículas de éste, generado por agentes externos naturales (viento, agua, hielo) y/o 
+antrópicos (FAO, 2009). De acuerdo con esta definición, la erosión actual es la pérdida de suelo que 
+se produce en un sitio, en un momento determinado del tiempo. 
+El sitio se considera, como aquel que es resultante de una combinación del clima, materiales 
+parentales (geológicos), procesos geomorfológicos, topografía, suelo, sucesiones vegetacionales y 
+manejo cultural (uso) y por consiguiente difiere de un lugar a otro de la tierra. De acuerdo con ello, 
+la erosión del suelo es variable, dependiendo al mismo tiempo del vector desencadenante del 
+proceso, que principalmente puede ser la lluvia y/o el viento o la propia acción antrópica. 
+En relación con lo anterior, la erosión actual del suelo refleja la condición “sin proyecto”. Es decir, la 
+erosión bajo las actuales condiciones de sitio (cobertura vegetal, suelo, relieve y agresividad 
+climática). Para su caracterización, se utilizó la metodología especificada en el documento 
+Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016), que propone 
+efectuar los levantamientos de erosión actual a partir de la observación de indicadores en terreno y 
+categorizarlos en clases cualitativas (no aparente, ligera, moderada, severa, muy severa), las que 
+definidas en términos periódicos permiten determinar la dinámica de cambios por pérdida de suelo.  
+Los indicadores de erosión, descritos en el documento de Evaluación de Impactos de Riesgos de 
+Activación de Procesos Erosivos (SAG, 2016), fueron determinados durante la campaña de terreno, 
+en junio 2025. 
+En la siguiente Cuadro 3-6 se entrega un resumen de los indicadores a considerar por clases de 
+erosión actual.
+
+===== p.21 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 23 de 85 
+ 
+Cuadro 3-6. Resumen de indicadores a considerar por clases de erosión actual. 
+Fuente: Adaptado de informe técnico sobre Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2011 rectificada 2016)
+Clase de erosión 
+Color 
+Porcentaje 
+de suelo 
+perdido 
+%Sup. 
+Cobertura 
+vegetación 
+intervenida 
+% 
+Sup. 
+Pérdida 
+laminar 
+Canalículos 
+o regueros 
+Pedestales 
+Pavimentos 
+de erosión 
+Costras 
+Exposición 
+de raíces 
+Surcos o 
+cárcavas 
+% sup. De 
+arrastre o 
+acumulación 
+en UCH 
+Erosión no 
+aparente  
+(E1) 
+ 
+Sin cambios 
+Sin 
+cambios 
+>95 % 
+Sin 
+cambios 
+Sin 
+presencia 
+No/Efecto 
+eólico 
+No/Efecto 
+eólico 
+Sin 
+presencia 
+No 
+No/Antrópicas 
+0 
+Erosión Ligera  
+(E2) 
+Cambios 
+ligeros en 
+color 
+20 a ˂ 40% 
+Menor a 25% 
+Baja 
+(˂15%) 
+Sin 
+presencia 
+Presencia 
+ocasional, 
+de altura 1 
+a 2 cm 
+Presencia 
+ocasional 
+(˂15%) 
+Sin 
+presencia 
+Ocasional  
+No  
+0 a ˂15 
+Erosión Moderada 
+(E3) 
+Cambios 
+fuertes de 
+color 
+Entre 40 a 
+˂ 60% 
+≥25 a ˂50% 
+≥15 a 
+˂60% 
+Ocasional  
+Entre 1 a 
+15%, de 
+altura 2 a 5 
+cm 
+15 a ˂60% 
+Entre 1 a 
+˂15% 
+Expuestas 
+en forma 
+frecuente a 
+nivel de 
+superficie 
+No  
+≥15 a ˂33 
+Erosión Severa 
+(E4) 
+Color 
+heterogéneo 
+corresponde 
+al subsuelo 
+(horizonte B) 
+Horizonte A 
+está 
+removido, 
+% de suelo 
+perdido 
+entre 60 a 
+˂80% 
+≥50 a ˂75% 
+≥60 a 
+˂80% 
+Frecuentes  
+≥15 a ˂60%, 
+de altura 
+entre 5 a 25 
+cm 
+≥60 a ˂80%  
+≥15 a 
+˂60% 
+Raíces 
+expuestas y 
+colgantes 
+Frecuentes, 
+distanciamiento 
+entre 10 a 20 m. 
+Profundidad entre 
+0,5 a 1 m 
+≥33 a ˂66 
+Erosión Muy Severa  
+(E5) 
+Color 
+heterogéneo 
+corresponde 
+al subsuelo 
+(horizonte B) 
+y al 
+horizonte C 
+Entre ≥80 a 
+100% 
+≥75% 
+≥80 
+hasta 
+100% 
+Muy 
+frecuentes 
+≥60%, de 
+altura entre 
+5 a 25 cm 
+≥80% 
+≥60% 
+No aplica 
+Muy frecuentes, 
+distanciamiento 
+entre 10 m 
+≥66 
+
+===== p.22 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 24 de 85 
+ 
+3.1.4.2 
+Riesgo de erosión del suelo 
+Para el análisis y evaluación del riesgo de erosión, se consideran dos escenarios: la condición "sin 
+proyecto" y la condición "con proyecto". El riesgo de erosión actual representa la situación "sin 
+proyecto" y corresponde al riesgo bajo las condiciones existentes de cobertura vegetal, erodabilidad 
+del suelo, relieve (pendiente) y agresividad climática. En cambio, el riesgo de erosión potencial 
+refleja la condición "con proyecto", es decir, considera las acciones o actividades del Proyecto que 
+podrían generar riesgos de erosión del suelo, asociadas al emplazamiento de obras tanto 
+permanentes como temporales. 
+Para determinar el riesgo de erosión actual y potencial del suelo, se utilizó la metodología 
+especificada en el documento Evaluación de Impactos de Riesgos de Activación de Procesos 
+Erosivos (SAG, 2016), que propone el flujo específico para el Riesgo de la Erosión Zona IV (Región 
+de Valparaíso a la Región de Los Lagos) siguiente diagrama metodológico (ver Figura 3-2).  
+Figura 3-2. Diagrama metodológico para determinación de riesgo de erosión de suelo en Zona IV. 
+ 
+ 
+Fuente: Informe Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+ 
+Para cada una de las variables consideradas (profundidad de suelo, textura, pendiente, tipo de 
+cobertura vegetal de protección y agresividad climática) se generaron coberturas de polígonos, con 
+atributos espaciales, a partir de la forma en que se intercalan 4 clases: 1) riesgo bajo, 2) riesgo 
+medio, 3) alto, 4) muy alto, las que se relacionan en forma matricial siguiendo el siguiente esquema 
+(ver Figura 3-3). 
+
+===== p.23 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 25 de 85 
+ 
+Figura 3-3. Esquema de obtención de riesgo de erosión en zona IV. 
+ 
+Fuente: Informe Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+Para la determinación y combinación espacial de las variables, se utilizó el modelo matricial 
+propuesto por SAG (2016) a través de herramientas de Sistemas de Información Geográfica (SIG), 
+empleando el programa de uso libre QGIS. En este proceso, se realizaron operaciones basadas en 
+sentencias condicionales utilizando las matrices referenciales indicadas en la guía, ajustadas según 
+la zona de riesgo de erosión. Este riesgo varía en función de las condiciones climáticas, topográficas 
+y la distribución de la vegetación.  
+De esta forma, se utilizaron los modelos de erodabilidad, riesgo edafotopográfico y vulnerabilidad 
+para la determinación del riesgo de activación de procesos erosivos de la Zona IV (Región de 
+Valparaíso a Región de Los Lagos). 
+En el Cuadro 3-7 se presentan los niveles de riesgo de erosión definidos en la guía metodológica 
+de SAG (2016).  
+Cuadro 3-7. Nivel de Riesgo de Erosión. 
+Nivel 
+Descripción 
+1 
+Bajo 
+2 
+Medio 
+3 
+Alto 
+4 
+Muy Alto 
+5 
+Otros usos del territorio (áreas donde no aplica la evaluación de la erosión) 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+
+===== p.24 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 26 de 85 
+ 
+El nivel “Otros usos del territorio” se asocia a lugares en los cuales las condiciones originales del 
+suelo han sido modificadas de manera significativa, coincidente con áreas construidas (red vial) o 
+“urbanas” (edificaciones, entre otras.), por lo que no aplica (n.a.) la evaluación del Riesgo de erosión 
+Actual y Potencial, ni la erosión actual.  
+A continuación, se presenta el modo utilizado en la determinación de los niveles de cada una de las 
+variables consideradas. 
+3.1.4.2.1 
+Erodabilidad 
+A continuación, en el Cuadro 3-8 se presenta la matriz utilizada para el factor de Erodabilidad de 
+acuerdo con SAG (2016), a partir de los datos de textura y profundidad de suelo determinados en la 
+descripción físico-morfológica, y en el Cuadro 3-9 se definen los niveles de erodabilidad utilizados 
+como referencia. 
+Cuadro 3-8. Matriz de erodabilidad del suelo. 
+Clase de textura 
+Clase de 
+profundidad 
+ 
+Baja 
+Media 
+Alta 
+Muy alta 
+Baja 
+1 
+1 
+2 
+3 
+Media 
+1 
+2 
+3 
+3 
+Alta 
+2 
+3 
+3 
+4 
+Muy alta 
+2 
+3 
+4 
+4 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+Cuadro 3-9. Nivel de Erodabilidad. 
+Nivel 
+Descripción 
+Detalle 
+1 
+Erodabilidad 
+Baja 
+Textura arcillosa, arcillo limosa, y arcillo arenosa o textura franca arcillo-
+limosa, franca arcillosa, franca arcillo arenosa, arenosa franca y arenosa con 
+profundidad mayor a 90 cm. o textura arcillosa, arcillo limosa, y arcillo 
+arenosa y profundidad entre 70 y menos de 90 cm. 
+2 
+Erodabilidad 
+Media 
+Textura franca arenosa, franca, franca limosa, limosa. arcillas dispersivas 
+(montmorillonita, illita) y profundidad mayor a 90 cm o textura franca arcillo-
+limosa, franca arcillosa, franca arcillo-arenosa, arenosa franca y arenosa y 
+profundidad entre 70 y menos de 90 cm o textura arcillosa, arcillo limosa, y 
+arcillo arenosa y profundidad entre 40 y menos de 70 cm. 
+3 
+Erodabilidad 
+Alta 
+Textura franca arenosa, franca, franca limosa, limosa. Arcillas dispersivas 
+(montmorillonita, illita) y profundidad entre 70 y menos de 90 cm o textura 
+franca arcillo-limosa, franca arcillosa, franca arcillo-arenosa, arenosa franca 
+y arenosa o franca arenosa, franca, franca limosa, limosa. Arcillas 
+dispersivas (montmorillonita, illita) y profundidad entre 40 y menos de 70 cm 
+
+===== p.25 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 27 de 85 
+ 
+Nivel 
+Descripción 
+Detalle 
+o textura franca arcillo limosa, franca arcillosa, franca arcillo-arenosa, 
+arenosa franca y arenosa y profundidad menos de 40 cm. 
+4 
+Erodabilidad 
+Muy Alta 
+Textura franca arenosa, franca y profundidad entre 40 a menos de 70 cm o 
+textura franca arenosa, franca, franca limosa, limosa. Arcillas dispersivas 
+(montmorillonita, illita), franca arenosa, franca y profundidad menor a 40 cm. 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+3.1.4.2.2 
+Pendiente 
+Se calculó la pendiente (%) utilizando las curvas de nivel del Proyecto proporcionadas por el Titular. 
+Para su realización con las curvas de nivel se realizó una interpolación IDW, a una resolución 
+espacial 1.0 x 1.0 metros, utilizando el software QGIS 3.28.5 Desktop. Los valores de pendiente 
+resultantes se categorizaron según la clasificación de pendiente recomendada para la zona IV, que 
+abarca desde la Región de Valparaíso hasta la Región de Los Lagos. 
+A continuación, en el Cuadro 3-10 se muestran los niveles de pendiente (Gastó et al., 1993) que 
+fueron utilizados como base para la determinación del nivel del riesgo edafotopográfico, según lo 
+recomendado por la guía SAG (2016).  
+Cuadro 3-10. Riesgo según rangos de pendiente. 
+Nivel 
+Rango de Pendiente (%) 
+Descripción 
+1 
+0 a ˂ 4,5% 
+Riesgo bajo 
+2 
+4,5 a ˂ 10,5% 
+Riesgo medio 
+3 
+10,5 a ˂ 17,5% 
+Riesgo alto 
+4 
+17,5% y más 
+Riesgo muy alto 
+Fuente: Gastó et al., (1993) citado en Evaluación de Impactos de Riesgos de Activación de Procesos 
+Erosivos Zona Geográfica IV: Región de Valparaíso a la Región de Los Lagos (SAG, 2016). 
+A partir de la información presentada, el modelo de riesgo edafotopográfico se determinó utilizando 
+información de la erodabilidad y la pendiente del sitio, de acuerdo con el modelo matricial 
+presentando en el Cuadro 3-11. 
+ 
+ 
+
+===== p.26 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 28 de 85 
+ 
+Cuadro 3-11. Modelo de riesgo edafotopográfico (erodabilidad-pendiente). 
+Clase de pendiente 
+Clase de 
+erodabilidad 
+ 
+Baja 
+Media 
+Alta 
+Muy alta 
+Baja 
+1 
+1 
+2 
+3 
+Media 
+1 
+2 
+3 
+3 
+Alta 
+2 
+3 
+3 
+4 
+Muy alta 
+3 
+3 
+4 
+4 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+3.1.4.2.3 
+Desprotección de la vegetación 
+La cobertura vegetacional, así como su composición y estructura, determina el grado de protección 
+o desprotección que entregan al suelo al ser intervenida por acción antrópica, al aumento de la 
+vulnerabilidad del suelo frente a la acción erosiva del agua o del viento y con ello, el aumento del 
+riesgo de erosión.  
+Para efectos de estimar esta variable, SAG (2016) recomienda aplicar las clases vegetacionales 
+(tipo de cobertura) determinadas por el Catastro Nacional de Vegetación Nativa (CONAMA-
+CONAF), las cuales se presentan en el Cuadro 3-12. Los tipos de formaciones vegetales, su 
+ubicación y superficies fueron obtenidos a partir de la Carta de Ocupación de Tierras (COT) 
+generada en la caracterización de base de flora y vegetación del Proyecto. 
+Cuadro 3-12. Definición de la clase de desprotección según tipos de cobertura vegetacional. 
+Clase de Desprotección 
+Descripción 
+Tipo de Cobertura Vegetacional 
+1 
+Baja 
+Bosque Nativo-Renoval Denso 
+1 
+Baja 
+Bosque Nativo-Renoval Semidenso 
+1 
+Baja 
+Bosque Nativo Adulto Denso 
+1 
+Baja 
+Bosque Nativo Adulto Semidenso 
+1 
+Baja 
+Matorral Denso 
+1 
+Baja 
+Matorral Arborescente Denso 
+1 
+Baja 
+Renoval Semidenso 
+1 
+Baja 
+Renoval Denso 
+1 
+Baja 
+Praderas Perennes 
+1 
+Baja 
+Vegas 
+2 
+Media 
+Bosque Nativo achaparrado Semidenso. 
+2 
+Media 
+Bosque Nativo Adulto Abierto 
+2 
+Media 
+Matorral-Suculentas Denso 
+2 
+Media 
+Matorral Semidenso 
+2 
+Media 
+Matorral Arborescente Semidenso 
+2 
+Media 
+Matorral Pradera Semidenso 
+
+===== p.27 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 29 de 85 
+ 
+Clase de Desprotección 
+Descripción 
+Tipo de Cobertura Vegetacional 
+2 
+Media 
+Plantaciones Forestales 
+2 
+Media 
+Plantación Frutal Adulta 
+2 
+Media 
+Cultivo agrícola 
+3 
+Alta 
+Bosque Nativo achaparrado Abierto 
+3 
+Alta 
+Matorral- Suculentas Abierto 
+3 
+Alta 
+Matorral-Suculentas Semidenso 
+3 
+Alta 
+Matorral Abierto 
+3 
+Alta 
+Matorral Arborescente Muy Abierto 
+3 
+Alta 
+Matorral Arborescente Abierto 
+3 
+Alta 
+Matorral Pradera Abierto 
+3 
+Alta 
+Plantaciones jóvenes o recién 
+cosechada 
+3 
+Alta 
+Plantación Frutal joven 
+3 
+Alta 
+Renoval Abierto 
+4 
+Muy alta 
+Bosque Nativo Adulto Muy Abierto 
+4 
+Muy alta 
+Estepa Andina Central 
+4 
+Muy alta 
+Matorral Suculentas Muy Abierto 
+4 
+Muy alta 
+Matorral Muy Abierto 
+4 
+Muy alta 
+Matorral Pradera Muy Abierto 
+4 
+Muy alta 
+Minería industrial 
+4 
+Muy alta 
+Suculentas 
+4 
+Muy alta 
+Renoval Muy Abierto 
+4 
+Muy alta 
+Praderas anuales 
+4 
+Muy alta 
+Rotación cultivo-pradera 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+La clase de desprotección 1 comprende todas las clases vegetacionales que ofrecen mayor 
+cobertura y protección al suelo, tanto por la estructura, composición y cobertura del dosel, mientras 
+que la clase 4 es la de mayor desprotección. 
+A partir de la información presentada, el modelo de vulnerabilidad se determinó utilizando 
+información del riesgo edafotopográfico y la clase de desprotección, de acuerdo con el modelo 
+matricial presentando en el Cuadro 3-13. 
+ 
+ 
+
+===== p.28 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 30 de 85 
+ 
+Cuadro 3-13. Modelo de riesgo vulnerabilidad (riesgo edafotopográfico - clase de desprotección). 
+ 
+Clase de desprotección 
+Riesgo 
+edafotopográfico 
+ 
+Baja 
+Media 
+Alta 
+Muy alta 
+Baja 
+1 
+1 
+2 
+3 
+Media 
+1 
+2 
+3 
+3 
+Alta 
+2 
+3 
+3 
+4 
+Muy alta 
+3 
+3 
+4 
+4 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+3.1.4.2.4 
+Agresividad climática 
+Para el análisis de esta variable se ha seguido la metodología indicada en el Guía del Servicio 
+Agrícola y Ganadero (SAG) de 2016, que utiliza el Índice Fournier Modificado (IFM) para estimar la 
+agresividad climática.  
+El IFM es un índice ampliamente utilizado que se basa en la precipitación mensual (Pi) y la 
+precipitación anual total (Ptotal). Este índice proporciona una medida efectiva de la capacidad de las 
+precipitaciones para iniciar la erosión, especialmente en regiones con altos volúmenes de lluvia 
+anual y concentración de precipitación. A continuación, se presenta la Ecuación 2 utilizada para 
+obtener el Índice Fournier Modificado (IFM) adaptado de Harsányi et al. (2022):  
+Ecuación 2 
+ 
+ 
+𝐼𝐹𝑀= ∑
+(𝑃𝑖)2
+𝑃𝑡𝑜𝑡𝑎𝑙
+12
+𝑖=1
+ 
+- 
+IFM = Índice de Fournier Modificado 
+- 
+Pi= Precipitación mensual i. 
+- 
+P total = Precipitación anual total. 
+Para la determinación del IFM en el AI del Proyecto, se utilizó información sobre precipitación diaria 
+del Centro de Ciencia del Clima y la Resiliencia – CR2 (set de datos de 30 años) 
+(https://www.cr2.cl/datos-de-precipitacion/). A su vez, la determinación del IFM consideró las medias 
+móviles de al menos los 10 últimos años. En el siguiente Cuadro 3-14 se presentan los niveles de 
+agresividad climática.  
+ 
+
+===== p.29 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 31 de 85 
+ 
+Cuadro 3-14. Nivel de Agresividad Climática. 
+Nivel 
+Descripción 
+1 
+Agresividad climática baja: menos de 50 
+2 
+Agresividad climática media: 50 a 150 
+3 
+Agresividad climática alta: 150 a 200 
+4 
+Agresividad climática muy alta: mayor de 200 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+3.1.4.2.5 
+Determinación de nivel de riesgo de erosión actual 
+Para determinar el nivel de riesgo de erosión actual en el AI se identificaron cada una de las variables 
+relevantes descritas anteriormente. Estas variables se combinaron espacialmente utilizando el 
+software QGIS, aplicando operaciones basadas en sentencias condicionales de acuerdo con las 
+matrices referenciales propuestas por la Guía SAG (2016).  
+Este procedimiento permitió obtener uno de los cuatro niveles de riesgo de erosión previamente 
+definidos, de acuerdo con el modelo matricial descrito (ver Cuadro 3-15). Finalmente, las clases 
+resultantes se presentan en el siguiente Cuadro 3-16. 
+Cuadro 3-15. Modelo de riesgo de activación de procesos erosivos. 
+ 
+Agresividad climática 
+Vulnerabilidad 
+ 
+Baja 
+Media 
+Alta 
+Muy alta 
+Baja 
+1 
+1 
+2 
+3 
+Media 
+1 
+2 
+3 
+3 
+Alta 
+2 
+3 
+3 
+4 
+Muy alta 
+3 
+4 
+4 
+4 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+Cuadro 3-16. Niveles para estimación de riesgo de erosión actual. 
+Riesgo 
+Nivel 
+Resumen 
+Riesgo bajo 
+1 
+Riesgo de activación de procesos erosivos bajo, corresponde a sitios 
+con vulnerabilidad baja y agresividad climática baja. 
+Riesgo medio 
+2 
+Riesgo de activación de procesos erosivos medio, sitios con 
+vulnerabilidad media o alta y agresividad climática baja o 
+vulnerabilidad media y riesgo climático medio. 
+
+===== p.30 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 32 de 85 
+ 
+Riesgo 
+Nivel 
+Resumen 
+Riesgo alto 
+3 
+Riesgo de activación de procesos erosivos alto, sitios con 
+vulnerabilidad alta y agresividad climática media o alta o sitio con 
+vulnerabilidad muy alta y agresividad climática baja. 
+Riesgo muy alto 
+4 
+Riesgo de activación de procesos erosivos muy alto, sitio con 
+vulnerabilidad muy alta y agresividad climática media, alta o muy alta. 
+Fuente: Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos (SAG, 2016). 
+3.1.4.2.6 
+Determinación de nivel de riesgo de erosión potencial (con intervención de obras) 
+Para determinar el nivel de riesgo de erosión potencial en el Área de Influencia (AI), bajo la condición 
+“con Proyecto”, se evaluaron las variables relevantes considerando el emplazamiento de las obras 
+permanentes y temporales. Estas comprenden labores de escarpe superficial y excavaciones que 
+implican desprotección vegetacional. El análisis incluyó tanto el área de emplazamiento directo de 
+las partes, obras y/o acciones del Proyecto, donde se generan alteraciones fijas de las 
+características del suelo, como una franja buffer de 50 m, destinada a evaluar los efectos asociados 
+por transporte. Las ponderaciones empleadas en cada variable para la determinación del riesgo de 
+erosión potencial son idénticas a las utilizadas para evaluar el riesgo de erosión actual (ver Figura 
+3-3), la diferencia es que aumenta en un grado la clasificación el índice de desprotección vegetal, 
+profundidad y textura. En estos casos particulares, dicho índice experimenta un aumento debido a 
+las acciones de escarpes, excavaciones, nivelación, compactación u otras actividades que afecten 
+significativamente el suelo y la vegetación del entorno (ver Apéndice 4 del presente documento.). .      
+ 
+ 
+
+===== p.31 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 33 de 85 
+ 
+3.1.5 
+Susceptibilidad del suelo al cambio climático 
+Para la evaluación del riesgo climático (R) se consultó el visualizador web “Atlas de Riesgos 
+Climáticos” (ARClim) basado en el concepto de riesgo planteado por el IPCC en 2014. ARClim es 
+un proyecto del Ministerio del Medioambiente del Gobierno de Chile, desarrollado por el Centro de 
+Investigación del Clima y la Resiliencia (CR2) y el Centro de Cambio Global (CCG-Universidad 
+Católica de Chile), en colaboración con otras instituciones nacionales e internacionales. La 
+información consultada correspondió a incendios forestales y del bosque nativo, índice de verdor en 
+plantaciones forestales y bosque nativo, inundaciones por desbordes de río, y a su vez, amenazas 
+asociadas a las precipitaciones.  
+3.1.5.1 
+Factores que constituyen el riesgo climático 
+La identificación y evaluación del riesgo climático se realizó a través del análisis en conjunto de tres 
+factores: la amenaza climática, la vulnerabilidad y la exposición de los componentes en cada 
+territorio (ver Figura 3-4). 
+Figura 3-4. Factores que constituyen el riesgo climático. 
+Fuente: SEA 2023, adaptado de MMA, 2020. 
+A continuación, se presentan los factores indicados en la figura anterior:  
+● 
+Riesgo Climático (R): Probabilidad e intensidad esperada de impactos negativos sobre 
+sistemas ecológicos o la evolución de los componentes ambientales a causa del cambio 
+climático. Se categoriza en muy bajo, bajo, moderado, alto y muy alto. 
+● 
+Amenaza (A): probabilidad o intensidad esperada de condiciones climáticas adversas en 
+cierto territorio entre el pasado reciente (1980-2010) y el futuro cercano (2035-2065) bajo 
+un escenario pesimista de emisiones de gases de efecto invernadero (GEI) RCP 8,5. 
+
+===== p.32 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 34 de 85 
+ 
+● 
+Exposición (E): relación con la presencia y dimensión de componentes ambientales 
+(tamaño absoluto o relativo) potencialmente susceptibles de ser afectados 
+negativamente por sucesos climáticos en un sector o sistema. 
+● 
+Vulnerabilidad (V): Factores no climáticos que indican la propensión o predisposición a 
+que un territorio, ecosistema, comunidad o sector se vea afectado negativamente a partir 
+de la sensibilidad o susceptibilidad al daño y a la falta de capacidad para responder y 
+adaptarse. A su vez, la vulnerabilidad está compuesta de: 
+● 
+Sensibilidad: Es determinada por todos los factores no climáticos que afectan 
+directamente las consecuencias de un evento climático. Lo anterior incluye atributos 
+físicos (como, por ejemplo, el material de construcción de las viviendas, el tipo de suelo 
+agrícola); y sociales, económicos y culturales (como la estructura demográfica) del 
+sistema.  
+● 
+Capacidad Adaptativa: Es la capacidad de las personas, instituciones, organizaciones y 
+sistemas para enfrentar, gestionar y superar condiciones adversas en el corto y mediano 
+plazo, utilizando las habilidades, valores, creencias, recursos y oportunidades 
+disponibles. 
+● 
+El Riesgo Climático (R), a su vez se puede relacionar a cadenas de impactos 
+predeterminadas en ARClim, o en su defecto asociarlo a otros riesgos climáticos que no 
+se visualicen en la plataforma y que sean relevantes para la exposición del Proyecto y 
+del componente ambiental. 
+● 
+Cadenas de impactos: Se define como los efectos desencadenados por el cambio 
+climático tanto sobre componentes ambientales como sobre sectores productivos. 
+3.1.6 
+Caracterización de la capacidad del suelo para sustentar biodiversidad (CSB) 
+De acuerdo con el artículo 6°, letra a), que establece la importancia de evaluar la pérdida de suelo 
+o de su capacidad para sustentar biodiversidad (CSB) debido a factores como la degradación, 
+erosión, impermeabilización, compactación o presencia de contaminantes. Este enfoque, se centra 
+en características propias del suelo y no en la biota del suelo, se complementa con el artículo 6°, 
+letra b), que aborda la consideración de la biodiversidad en sí misma. Utilizando la metodología 
+descrita en el Guía para la Descripción de Ecosistemas Terrestres (2025), se procedió a definir las 
+limitantes del suelo a través de la descripción físico-morfológica de pedones representativos 
+descritos y caracterizados en la campaña de terreno en junio 2025. 
+De esta forma, los parámetros utilizados para la evaluación de la capacidad del suelo para sustentar 
+biodiversidad (CSB) son: 
+
+===== p.33 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 35 de 85 
+ 
+● 
+Profundidad (cm) 
+● 
+Pendiente (%) 
+● 
+Pedregosidad superficial (%) 
+● 
+Agua aprovechable (cm c.a.) 
+● 
+Pedregosidad subsuperficial (%) 
+● 
+Erosión actual 
+● 
+Salinidad (dS m-1) 
+● 
+Sodicidad (RAS %) 
+● 
+Carácter calcáreo (%) 
+A su vez, los parámetros mencionados fueron categorizados de acuerdo con cuatro criterios 
+limitantes para sostener biodiversidad: Muy significativa, Significativa, Leve y Ninguna. De esta 
+forma, se evaluó cada punto de muestreo de acuerdo con la información del siguiente Cuadro 3-17. 
+Cuadro 3-17. Determinación de categorías de capacidad de sustentar biodiversidad. 
+Categoría CSB 
+Limitante por cada categoría 
+Muy alta 
+Hasta 3 limitantes leves. 
+Alta 
+4 a 7 limitantes leves. 
+Media 
+Hasta 3 limitantes significativas. 
+Hasta 9 limitantes leves. 
+Baja 
+Entre 3 y 9 limitantes significativas. 
+Muy baja 
+Una o más limitantes muy significativas. 
+Fuente. SEA, 2024. 
+ 
+ 
+
+===== p.34 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 36 de 85 
+ 
+3.1.7 
+Identificación de los atributos sensibles, singularidades del suelo u objetos de protección 
+Este apartado tiene por objetivo identificar la existencia de singulares del suelo que podrían verse 
+afectadas, utilizando como base la caracterización edafológica desarrollada, junto con información 
+recopilada desde fuentes bibliográficas, científica, estudios previos (EIA o DIA), informes técnicos y 
+bases de datos cartográficas.  
+Se consideran singularidades ambientales a las características intrínsecas del suelo que lo hacen 
+relevante, prístino, escaso, único, relictual o representativo del área. 
+A modo de ejemplo, a continuación, en el Cuadro 3-18 se listan las singularidades establecidas en 
+diferentes guías que presentan relación con el componente suelo:  
+Cuadro 3-18. Ejemplos de singularidades ambientales del componente edafología definidas en 
+diferentes guías actualizadas. 
+N° 
+Singularidad Ambiental 
+S-1 
+Presencia de suelos frágiles altamente erosionables o móvil (por ejemplo, suelo 
+de altas pendientes, dunas, suelo de borde costero, entre otros). 
+S-2 
+Presencia de suelo con potencial presencia de contaminantes o contaminado. 
+S-3 
+Presencia de suelos relevantes para la recarga de acuíferos. 
+S-4 
+Presencia de suelos dentro de Áreas Protegidas o Sitios Prioritarios del Estado. 
+S-5 
+Presencia de suelos con características intrínsecas únicas o escasas. 
+S-6 
+Presencia de suelos en hábitat de especies amenazadas o frágiles. 
+S-7 
+Presencia de suelos con capacidades de uso agrícola (I a III) escasas en la 
+región. 
+S-8 
+Presencia de suelos con alta capacidad para sustentar Biodiversidad. 
+S-9 
+Presencia de suelos con Erosión actual severa o muy severa de suelo. 
+S-10 
+Presencia de suelos con Riesgo de activación de fenómenos erosivos. 
+S-11 
+Presencia de suelos con Riesgo por inundación. 
+S-12 
+Presencia de suelos hídricos 
+Fuente Guía de evaluación ambiental recurso natural suelo (SAG, 2019), la Guía para la compensación de 
+biodiversidad en el SEIA (SEA, 2022), la Guía de evaluación de efectos adversos sobre recursos naturales 
+renovables (SEA, 2022), la Guía Área de Influencia en humedales en el SEIA (SEA, 2023), la Guía metodológica 
+para la consideración del cambio climático en el SEIA (SEA, 2024) y la Guía para la descripción de ecosistemas 
+terrestres (SEA, 2025). 
+ 
+
+===== p.35 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 37 de 85 
+ 
+4.0 RESULTADOS  
+4.1 
+ÁREA DE INFLUENCIA (AI) DEL COMPONENTE SUELO 
+El levantamiento de información se desarrolló sobre la superficie previamente delimitada como Área 
+de Influencia (AI) del componente Suelo, correspondiente a 130,94 hectáreas, según lo indicado en 
+el punto 3.1.2. Esta superficie incluye todas las zonas directamente intervenidas por las partes, obras 
+y acciones del Proyecto, considerando los impactos efectos fijos, y los efectos por transporte, 
+considerando un buffer de 50 m. Este buffer se determinó considerando el análisis topográfico del 
+área de estudio, y la aplicación de un criterio experto basado en la pendiente del terreno, conforme 
+al Cuadro 3-1 (Acápite 3-1-2). Dicha tabla establece valores de buffer crecientes en función de la 
+pendiente, reconociendo mayor riesgo de erosión en zonas con pendientes sobre 15%.  
+A continuación, se presentan las superficies correspondientes a las distintas clases de pendiente 
+definidas en la Pauta para Estudios de Suelo del SAG (2011, rectificada 2016), identificadas dentro 
+del AI de suelo del Proyecto. Esta clasificación se obtuvo a partir del análisis de las pendientes (%) 
+derivadas de las curvas de nivel, y se resumen en el Cuadro 4-1 
+Cuadro 4-1. Clases de pendientes (%) y superficies (Ha) en el Área de Influencia de suelo del Proyecto. 
+Símbolo 
+Clase Pendientes 
+Complejas y Simples 
+Descripción (%) 
+Buffer (m) 
+Área (Ha) 
+% del AI de 
+suelo 
+A – B – AK 
+Casi Plano / Plano / 
+Ligeramente inclinado 
+0 a ˂3 
+1 
+4,3 
+3,3 
+C – BK 
+Ligeramente Ondulado / 
+Suavemente inclinado 
+3 a ˂5 
+5 
+0,8 
+0,6 
+D – CK 
+Suavemente Ondulado / 
+Moderadamente inclinado 
+5 a ˂8 
+15 
+1,2 
+0,9 
+E – DK 
+Moderadamente Ondulado / 
+Fuertemente inclinado 
+8 a ˂15 
+5,0 
+3,8 
+F – EK 
+Fuertemente Ondulado / 
+Ligeramente escarpado 
+15 a ˂30 
+30 
+36,0 
+27,5 
+G – FK 
+De Lomajes / 
+Moderadamente escarpado 
+30 a ˂45 
+40,9 
+31,3 
+H – GK 
+De Cerros / Escarpado 
+45 a ˂60 
+50 
+26,9 
+20,6 
+I – HK 
+De Montañas / Muy 
+escarpado 
+˃ 60 
+15,7 
+12,0 
+Total 
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026. 
+ 
+ 
+
+===== p.36 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 38 de 85 
+ 
+De acuerdo con el cuadro precedente, en el AI de suelo se observan ocho (8) clases de pendiente 
+distintas, las que permiten caracterizar la variabilidad topográfica del sitio. En el análisis de 
+pendientes se determinó que el 32,5% de la superficie corresponde a inclinaciones ≥45%, donde 
+aplica un buffer de 50 m, mientras que la mayor proporción, equivalente al 58,79%, se concentra en 
+pendientes entre 15 y <45%, asociadas a un buffer de 30 m. No obstante, dado que más de un tercio 
+del AI presenta pendientes superiores al 45%, y por tanto un riesgo significativo de erosión, se opta 
+por aplicar de manera conservadora un buffer de 50 m, de forma que se incorporen las zonas más 
+susceptibles, correspondientes principalmente a las laderas medias y altas (ver Figura 4-1). 
+ 
+
+===== p.37 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 39 de 85 
+ 
+Figura 4-1. Mapa de pendiente en el Área de Influencia (AI) de suelo del Proyecto. 
+ 
+Fuente: GEAGRAM, 2026.
+
+===== p.38 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 40 de 85 
+ 
+4.2 
+LEVANTAMIENTO DE INFORMACIÓN  
+4.2.1 
+Información Agroclimática 
+En el Área de Influencia de suelo (AI) se identificaron dos Distritos Agroclimáticos según AGRIMED 
+(2017): 
+4.2.1.1 
+Distrito 5-1: Valparaíso 
+Posee un clima templado cálido supratermal con régimen de humedad semiárido (Csb2Sa). La 
+altitud media aproximada es de 80 ms.n.m. y la superficie territorial alcanza los 2.031 km². La 
+temperatura varía entre un máximo de enero de 23,6 °C (con extremos entre 26,0 °C y 20,5 °C 
+dentro del distrito) y un mínimo de julio de 7,4 °C (con valores entre 8,7 °C y 6,6 °C). Presenta un 
+promedio de 345 días consecutivos libres de heladas y registra en el año un promedio de 0 heladas. 
+El período de temperaturas favorables a la actividad vegetativa se extiende durante los 12 meses 
+del año. Acumula anualmente 1.502 días grado y 129 horas de frío hasta el 31 de julio. La 
+precipitación media anual es de 374 mm, con un período seco de 8 meses y un déficit hídrico de 
+900 mm año-1. El período húmedo se limita a 3 meses, durante los cuales se genera un excedente 
+hídrico de 69 mm. 
+4.2.1.2 
+Distrito 5-2: Quillota 
+Presenta un clima templado cálido supratermal con régimen de humedad semiárido (Csb2Sa). La 
+altitud media aproximada es de 220 ms.n.m. y la superficie territorial alcanza los 1.525 km². La 
+temperatura varía entre un máximo de enero de 27,5 °C (con extremos entre 30,0 °C y 25,9 °C 
+dentro del distrito) y un mínimo de julio de 5,4 °C (con valores entre 7,0 °C y 4,8 °C). Presenta un 
+promedio de 339 días consecutivos libres de heladas y registra en el año un promedio de 5 heladas. 
+El período de temperaturas favorables a la actividad vegetativa se extiende durante los 12 meses 
+del año. Acumula anualmente 1.754 días grado y 351 horas de frío hasta el 31 de julio. La 
+precipitación media anual es de 429 mm, con un período seco de 8 meses y un déficit hídrico de 
+1.017 mm año-1. El período húmedo se limita a 3 meses, durante los cuales se genera un excedente 
+hídrico de 96 mm. 
+En la siguiente Figura 4-2 se presentan los distritos presentes en el AI de suelo.  
+ 
+ 
+
+===== p.39 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 41 de 85 
+ 
+Figura 4-2. Ubicación del distrito climático 5-1: Valparaíso y 5-2: Quillota. 
+ 
+Fuente: GEAGRAM, 2026, a partir de AGRIMED, 2017. 
+
+===== p.40 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 42 de 85 
+ 
+4.2.2 
+Antecedentes generales del medio edáfico  
+A escala regional y según la clasificación morfológica propuesta por Börgel (1983), el Área de 
+Influencia (AI) de suelo se inserta la tercera agrupación regional, perteneciente a la Región Central 
+y del Llano Fluvio-Glaciovolcánica. En específico, la unidad Cordillera de la Costa corresponde a un 
+macizo granítico intensamente meteorizado, con un frente oriental abrupto que asemeja un muro, y 
+que pierde altura progresivamente hacia el sur de la hoya del río Maule, alcanzando valores 
+inferiores a 1.000 ms.n.m.. Este cordón se encuentra fragmentado por cursos fluviales y contiene 
+cuencas interiores colmatadas, además de cerros aislados como remanentes orográficos. Desde el 
+río Itata hacia el sur, sus alturas disminuyen aún más, llegando a aproximadamente 650 m, lo que 
+evidencia un relieve antiguo y erosionado, que pierde continuidad y se expresa principalmente en 
+lomajes y cordones secundarios. 
+De acuerdo con Luzio et al. (2010), los suelos presentes en el Área de Influencia (AI) se ubican 
+dentro de la zona mediterránea húmeda de Chile, comprendida aproximadamente entre los 32°00’ 
+y 37°45’ de latitud sur. En este territorio, el relieve actual quedó definido durante el Cuaternario, con 
+la conformación de la Depresión Intermedia, la Cordillera de los Andes y la Cordillera de la Costa, 
+además de planicies litorales y terrazas marinas. Los procesos de erosión y depositación asociados 
+a glaciaciones y arrastres aluviales modelaron los valles y rellenaron la Depresión Intermedia, 
+constituyendo los materiales parentales de gran parte de los suelos. La Cordillera de la Costa, de 
+ancho variable entre 40 y 60 km, presenta alturas máximas cercanas a los 2.000 m en la zona 
+central, disminuyendo progresivamente hacia el sur. Su basamento cristalino precámbrico, expuesto 
+por intensos procesos erosivos, constituye una unidad geológica clave en la formación de suelos, 
+los cuales se desarrollan sobre afloramientos rocosos y materiales meteorizados en fuerte 
+pendiente, conformando ambientes edáficos contrastantes respecto de los valles interiores. 
+En la Cordillera de la Costa predominan suelos formados sobre el batolito granítico, con presencia 
+ocasional de areniscas cuarcíferas o gravas graníticas. Estos suelos se desarrollan en cerros con 
+pendientes que varían entre 8% y más de 50%, lo que ha favorecido procesos de erosión que 
+determinan profundidades muy variables: desde más de 120 cm en sectores poco alterados hasta 
+menos de 50 cm en condiciones extremas. En los horizontes superficiales presentan colores pardo 
+rojizos oscuros (matices 5YR y 7.5YR), texturas franco arcillosas y estructuras de bloques 
+subangulares, que tienden a volverse macizas en contacto con el material parental. 
+Desde el punto de vista químico, presentan saturación de bases variable entre 64% y 97%, pH de 
+6,0 a 6,6 y contenidos de carbono orgánico superficiales de 1,1% a 1,5%, disminuyendo con la 
+profundidad. La principal limitante está dada por la topografía de cerros y las fuertes pendientes, lo 
+que restringe su aptitud agrícola y ubica a estos suelos en Clases de Capacidad de Uso entre IV y 
+VII. Taxonómicamente, predominan los Haploxeralfs y en menor proporción los Haploxerolls. 
+
+===== p.41 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 43 de 85 
+ 
+4.2.3 
+Clasificación taxonómica 
+De acuerdo con la información de CIREN, el Área de Influencia del componente suelo se emplaza 
+en la Serie Lo Vásquez (LVZ), cuyo material parental corresponde a rocas graníticas de la Cordillera 
+de la Costa. Estos suelos, clasificados taxonómicamente como Ultic Haploxeralfs, presentan un 
+desarrollo moderado, con perfiles de profundidad variable entre 50 y 100 cm, color pardo rojizo 
+oscuro en superficie y texturas franco arcillo arenosas que se vuelven más arcillosas en profundidad. 
+En los horizontes inferiores se observa un aumento del casquijo de cuarzo, asociado a la proximidad 
+del sustrato granítico descompuesto. La estructura es granular a bloques subangulares en los 
+primeros centímetros, perdiéndose a mayor profundidad. Se trata de suelos bien drenados, 
+localizados en cerros con pendientes dominantes entre 20% y 50%. 
+La Serie Lo Vásquez presenta once variaciones (LVZ-1 a LVZ-11) que reflejan diferencias en 
+pendiente, profundidad, textura y grado de erosión. Dentro de estas, el 100% del Área de Influencia 
+se ubica en la variación LVZ-9, que según lo indicado por CIREN, corresponden a suelos delgados, 
+situados en montañas con pendientes superiores al 50%, bien drenados y sin evidencias de erosión 
+significativa. Estos suelos mantienen vegetación arbustiva y arbórea natural, y se clasifican en la 
+Capacidad de Uso VIIe1, lo que indica severas restricciones para uso agrícola y los orienta 
+principalmente a funciones de protección y conservación. 
+Además, se presenta de acuerdo con CIREN una superficie caracterizada como NOSU (no suelo) y 
+UR (urbano), que no corresponden a series de suelo, por lo que no aplica la clase de capacidad de 
+uso de suelo (CCUS). 
+La representación de las series en el AI de suelo, se presentan en Figura 4-3. 
+
+===== p.42 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 44 de 85 
+ 
+Figura 4-3. Distribución espacial de las series de suelo (CIREN, 2003) en el AI de suelo del Proyecto. 
+ 
+Fuente: GEAGRAM, 2026. 
+
+===== p.43 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 45 de 85 
+ 
+4.3 
+ANÁLISIS DE LA INFORMACIÓN 
+4.3.1 
+Caracterización físico-morfológica del suelo 
+La caracterización físico-morfológica del suelo, obtenida de los 10 puntos de muestreo (calicatas) 
+efectuados en la campaña de terreno de junio 2025, se presentan en el Apéndice 1 del presente 
+documento. 
+4.3.2 
+Clasificación de las unidades homogéneas de suelo (UHS) definitivo 
+A partir del levantamiento de información en terreno, se reconoció una gran unidad 
+correspondiente a la Cordillera de la Costa. No obstante, considerando las condiciones de 
+exposición y pendiente, esta unidad fue subdividida en seis Unidades Homogéneas de Suelo 
+(UHS): UHS-1 Ladera baja, UHS-2 Ladera media, UHS-3 Ladera alta, UHS-4 Cumbre, UHS-5 
+Fondo de quebrada e UHS-6 Intervenido. 
+4.3.2.1 
+UHS-1 Ladera baja 
+Esta UHS se encuentra representada por el punto de evaluación C01 y C10, ubicado a 202 
+ms.n.m. Abarca una superficie de 19,4 Ha, equivalente al 14,8% del total del AI de suelo (ver 
+Cuadro 4-2). Comprende suelos profundos (>90 cm); con pendiente compleja, de lomajes (30 a 
+<45%), sin pedregosidad superficial (0 a <5% de piedras y 0 a <10% de grava gruesa), posee 
+buen drenaje (W5); clase textural superficial moderadamente gruesa a media; posee una 
+condición regular aprovechamiento de agua; sin pedregosidad superficial (<5%); con una erosión 
+actual ligera, evidenciada por los pedestales incipientes. La vegetación es un renoval de Bosque 
+Nativo de Peumo, abierto. En el Set Fotográfico 4-1 se observan las características de esta 
+unidad. 
+
+===== p.44 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 46 de 85 
+ 
+Set Fotográfico 4-1. UHS 1 - Ladera baja. 
+ 
+ 
+Fuente: GEAGRAM, 2026. 
+4.3.2.2 
+UHS-2 Ladera media 
+Esta UHS se encuentra representada por los puntos de evaluación C4, C7 y C9. Ubicados entre 
+209 a 323 ms.n.m. Abarca una superficie de 52,1 Ha, equivalente al 39,8% del total del AI de 
+suelo (ver Cuadro 4-2). Comprende suelos profundos (>90 cm); con pendiente compleja, 
+suavemente ondulada (15 a <30%) a lomajes (30 a <45%), sin pedregosidad superficial (0 a <5% 
+de piedras y 0 a <10% de grava gruesa), posee buen drenaje (W5); clase textural superficial de 
+moderadamente gruesa a media, a sectores que presentan una textura moderadamente fina; 
+posee una condición buena a muy pobre aprovechamiento de agua, dependiendo del grado de 
+erosión actual; sin pedregosidad superficial (<5%); con una erosión actual moderada, 
+evidenciada por la presencia de pedestales de 2 a 5 cm de altura en un 15 a <30% de la 
+superficie, cárcavas en activación y frecuentes, con un distanciamiento de entre 10 a 20 m y 
+profundidades que varían entre 0,5 a 1 m, canalículos frecuentes a otros que forman espacios 
+de terreno estriado, la vegetación en un 30 a <50% de la superficie. La vegetación es un renoval 
+abierto de Bosque Nativo de Peumo, Boldo, Litre y en otros sectores presencia de un matorral 
+abierto de Colliguay y Chagual. En el Set Fotográfico 4-2 se observan las características de esta 
+unidad. 
+
+===== p.45 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 47 de 85 
+ 
+Set Fotográfico 4-2. UHS 2 – Ladera media. 
+ 
+ 
+ 
+Fuente: GEAGRAM, 2026. 
+4.3.2.3 
+UHS-3 Ladera alta 
+Esta UHS se encuentra representada por los puntos de evaluación C2, C3, C5. Ubicados entre 
+257 a 296 ms.n.m. Abarca una superficie de 42,1 Ha, equivalente al 39,8% del total del AI de 
+suelo (ver Cuadro 4-2). Comprende suelos profundos (>90 cm); con pendiente compleja, de cerro 
+(45 a <60%) a pendiente de montaña (>60%). Van desde sin pedregosidad superficial (0 a <5% 
+de piedras y 0 a <10% de grava gruesa) a moderada (20 a <40% de grava gruesa o 15 a <35% 
+de piedra), posee buen drenaje (W5); clase textural superficial de moderadamente gruesa a 
+media, a sectores que presentan una textura moderadamente fina; posee una condición regular 
+a muy pobre aprovechamiento de agua, dependiendo del grado de erosión actual; se observan 
+desde sin pedregosidad subsuperficial (<5%) a moderada (15 a <30%); evidenciada por la 
+presencia de pedestales de 5 a 25 cm de altura en un 45 a <60% de la superficie, surcos y cárcavas 
+frecuentes de 0,5 a 1 m profundidad, y exposición frecuente de raíces a nivel de superficie, y 
+algunos canalículos. La vegetación corresponde a matorral abierto de Colliguay y Chagual. En el 
+Set Fotográfico 4-3 se observan las características de esta unidad. 
+
+===== p.46 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 48 de 85 
+ 
+Set Fotográfico 4-3. UHS 3 – Ladera alta. 
+ 
+ 
+Fuente: GEAGRAM, 2026. 
+4.3.2.4 
+UHS-4 Cumbre 
+Esta UHS se encuentra representada por los puntos de evaluación C6 y C8. Ubicados entre 261 
+a 264 ms.n.m. Abarca una superficie de 8,9 Ha, equivalente al 6,8% del total del AI de suelo (ver 
+Cuadro 4-2). Comprende suelos ligeramente profundos (40 a 70 m) a profundos (>90 cm); con 
+pendiente compleja, moderadamente ondulado (8 a <15%). Sin pedregosidad superficial (0 a 
+<5% de piedras y 0 a <10% de grava gruesa); posee buen drenaje (W5); clase textural superficial 
+de moderadamente fina a media; posee una condición de buena a regular aprovechamiento de 
+agua, dependiendo del grado de erosión actual; sin pedregosidad subsuperficial (<5%); la erosión 
+actual. La erosión actual es severa, evidenciada por la vegetación degradada, presente solo en 
+un 15–30% de la superficie; pedestales de 2 a 5 cm de altura en un 15 a <30% de la superficie; 
+surcos distantes y otros recurrentes y cárcavas en activación, frecuentes. La vegetación 
+corresponde a matorral abierto de Colliguay y Chagual y en otros sectores un bosque nativo 
+renoval de Litre. En el Set Fotográfico 4-4 se observan las características de esta unidad. 
+
+===== p.47 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 49 de 85 
+ 
+Set Fotográfico 4-4. UHS 4 – Cumbre. 
+ 
+ 
+Fuente: GEAGRAM, 2026. 
+4.3.2.5 
+UHS-5 Fondo de quebrada 
+Esta UHS abarca una superficie de 5,3 Ha, equivalente al 4,1% del total del AI de suelo (ver 
+Cuadro 4-2). Debido a su condición de pendientes abruptas, son susceptibles a erosionarse y 
+presentar en su cauce piedras y bolones abundantes. Presenta generalmente una buena a 
+regular vegetación arbustiva que evita los procesos erosivos. En el Set Fotográfico 4-5 se 
+observan las características de esta unidad. 
+
+===== p.48 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 50 de 85 
+ 
+Set Fotográfico 4-5. UHS 5 – Quebrada. 
+ 
+ 
+Fuente: GEAGRAM, 2026. 
+4.3.2.6 
+UHS-6 Intervenido 
+Esta UHS abarca una superficie de 3,1 Ha, equivalente al 2,4% del total del AI de suelo (ver 
+Cuadro 4-2). Presenta una condición altamente intervenida (autopista - red vial). En el Set 
+Fotográfico 4-5 se observan las características de esta unidad. 
+Set Fotográfico 4-6. UHS 6 – Intervenido. 
+ 
+ 
+Fuente: GEAGRAM, 2026. 
+
+===== p.49 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 51 de 85 
+ 
+A continuación, en el Cuadro 4-2 se presenta un cuadro resumen con la información descrita 
+sobre UHS y superficies dentro del AI de suelo del Proyecto. Además, en la Figura 4-4 se 
+presenta la representación de las UHS en el AI de suelo. 
+Cuadro 4-2. UHS en el Área de Influencia (AI), junto con sus superficies y representatividad. 
+UHS 
+Punto de muestreo (C0) 
+Área (Ha) 
+% del AI 
+UHS-1: Ladera baja 
+C1, C10 
+19,4 
+14,8 
+UHS-2: Ladera media 
+C4, C7 y C9 
+52,1 
+39,8 
+UHS-3: Ladera alta 
+C2, C3 y C5 
+42,1 
+32,1 
+UHS-4: Cumbre 
+C6 y C8 
+8,9 
+6,8 
+UHS-5: Fondo de quebrada 
+- 
+5,3 
+4,1 
+UHS-6: Intervenido 
+- 
+3,1 
+2,4 
+Total 
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026. 
+ 
+ 
+
+===== p.50 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 52 de 85 
+ 
+Figura 4-4. Unidades homogéneas de suelo (UHS) identificadas en el área de generación del AI del 
+Proyecto. 
+ 
+Fuente: GEAGRAM, 2026.
+
+===== p.51 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 53 de 85 
+ 
+4.3.3 
+Caracterización físico-química del suelo 
+A partir de los análisis físicos y químicos realizados en laboratorio a las muestras de suelo 
+obtenidas en los puntos de muestreo (calicatas), se determinaron sus principales propiedades. 
+El informe de resultados emitido por el Laboratorio INIA La Platina, se presenta en el Apéndice 
+2. 
+4.3.3.1 
+Resultados propiedades físico-químicas de las UHS  
+En el Cuadro 4-3, se presentan los resultados de las propiedades físico-químicas por unidad 
+homogénea de suelo (UHS) del AI de suelo, obtenidos a partir de los criterios para análisis 
+establecidos en el Apéndice 3.  
+
+===== p.52 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 54 de 85 
+ 
+Cuadro 4-3. Resumen propiedades físico-químicas del suelo por UHS del Proyecto. 
+Propiedades 
+UHS-1 
+Interpretación 
+UHS-2 
+Interpretación 
+UHS-3 
+Interpretación 
+UHS-4 
+Interpretación 
+pH suspensión 
+5,9 
+Moderadamente 
+ácido 
+5,9 a 6 
+Moderadamente 
+ácido 
+5,6 a 5,9 
+Moderadamente 
+ácido 
+5,6 a 5,9 
+Débilmente a 
+Moderadamente 
+ácido 
+Conductividad 
+eléctrica (CE) 
+(mS cm-1) 
+1,1 
+No salino 
+0,5 a 1 
+No salino 
+0,4 a 1,3 
+No salino 
+0,4 a 1,3 
+No salino 
+Materia 
+Orgánica (MO) 
+(%) 
+3,3 
+Medio 
+1,6 a 2,4 
+Bajo 
+1,7 a 3,1 
+Bajo a Medio 
+1,7 a 3,1 
+Muy bajo a bajo 
+RAS (%) 
+0,83 
+No sódico 
+0,38 a 0,56 
+No sódico 
+0,42 a 2,42 
+No sódico 
+0,42 a 2,42 
+No sódico 
+Densidad 
+Aparente (g cm-
+3) 
+1,22 
+- 
+1,29 a 1,52 
+- 
+1,20 a 1,36 
+- 
+1,48 
+- 
+Humedad 
+Aprovechable 
+(HA) (%) 
+11,16 
+Regular 
+0,84 a 13,07 
+Muy a pobre a 
+buena 
+3,86 a 11,94 
+Muy a pobre a 
+buena 
+11,56 a 12,36 
+De regular a 
+buena 
+Textura  
+Franco 
+arenoso 
+Moderadamente 
+gruesa  
+Franco arcillo 
+arenoso a 
+franco arenoso 
+Moderadamente 
+gruesa a 
+moderadamente 
+fina 
+Franco a 
+franco arcillo 
+arenoso 
+Moderadamente 
+gruesa a media 
+Franco arcillo 
+arenoso a 
+franco arenoso 
+Moderadamente 
+gruesa a 
+moderadamente 
+fina 
+Fuente: GEAGRAM, 2026 a partir de INIA La Platina (2025). 
+
+===== p.53 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 55 de 85 
+ 
+Con base en los resultados físico-químicos presentados en el Cuadro 4-3 se observa que el pH 
+en suspensión de todas las unidades se ubica en condición moderadamente ácida, con valores 
+entre 5,6 y 6,0. En particular, UHS-1 y UHS-2 registran valores de 5,9–6,0, mientras que UHS-3 
+y UHS-4 alcanzan entre 5,6 y 6,1, siendo en este último caso clasificado entre débilmente a 
+moderadamente ácido. Este rango es adecuado para la mayoría de los cultivos y no representa 
+limitaciones críticas en la disponibilidad de nutrientes esenciales. 
+La conductividad eléctrica (CE) varía entre 0,4 y 1,3 dS cm-1 en todas las unidades, clasificándose 
+como suelos no salinos, condición que asegura un ambiente químico favorable para el desarrollo 
+de la vegetación. En cuanto al contenido de materia orgánica (MO), se aprecian diferencias 
+notorias: UHS-1 presenta un valor medio (entre 2,4 a 3,3%), mientras que UHS-2 se clasifica 
+como bajo (1,6–2,4%). En UHS-3 los niveles fluctúan entre bajo y medio (2,9–3,1%), y en UHS-
+4 alcanzan las categorías muy bajo a bajo (1,2–2,2%), lo que refleja un potencial de fertilidad 
+natural reducido, con efectos sobre la capacidad de retención de agua y nutrientes. 
+Respecto a la sodicidad, los valores de RAS son bajos en todas las unidades (0,38–2,42%), 
+clasificándose como no sódicos, lo que implica que no existen riesgos de dispersión de arcillas 
+ni problemas asociados a la estabilidad estructural del suelo. La densidad aparente se encuentra 
+dentro de rangos medios, fluctuando entre 1,20 y 1,52 g cm-3. 
+La humedad aprovechable (HA) muestra una alta variabilidad. En UHS-1 se observa un valor de 
+regular a bueno (11,16 a 12,25 cm c.a.), mientras que en UHS-2 y UHS-3 los valores fluctúan 
+entre condiciones muy pobres y buenas (0,84–12,48 cm c.a. y 3,86–13,07 cm c.a. 
+respectivamente), reflejando limitaciones hídricas en periodos secos. UHS-4, en cambio, alcanza 
+valores de regular a buena (11,56–12,36%), lo que indica mayor disponibilidad de agua útil para 
+la vegetación.  
+Finalmente, la textura corresponde a una naturaleza moderadamente gruesa a medias, incluso 
+moderadamente finas en algunos sitios, por ejemplo: UHS-1 presenta texturas de franco 
+arcillosas a franco arenosa; UHS-2 y UHS-4 corresponden a suelos franco arcillo arenosos a 
+franco arenosos; y UHS-3 a texturas franco arenosas. Estas condiciones texturales, sumadas a 
+la pendiente propia de la Cordillera de la Costa, constituyen factores limitantes frente a riesgos 
+de erosión y disponibilidad de agua. 
+Finalmente, se indica que los carbonatos fueron evaluados in situ mediante la prueba de 
+efervescencia con ácido clorhídrico (HCl) al 33%, sin observarse efervescencia en ninguna de 
+las unidades, lo que indica la ausencia de carbonatos visibles en el perfil, esperable para la zona 
+geográfica de los suelos estudiados. 
+
+===== p.54 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 56 de 85 
+ 
+Cabe mencionar que la UHS-6 Intervenido, no corresponde a suelo, por lo que no se evaluaron 
+las propiedades mencionadas. 
+4.3.4 
+Determinación de la susceptibilidad del recurso suelo a los efectos del cambio climático  
+4.3.4.1 
+Proyecciones climáticas futuras respecto de temperatura y precipitación. 
+De acuerdo con los resultados obtenidos en relación con la susceptibilidad del suelo al cambio 
+climático y su conexión con el riesgo de erosión, se observa que en el Atlas de Riesgo Climático 
+(MMA, 2023), no se identifica una cadena de impacto asociada directamente a este aspecto. En 
+consecuencia, el análisis se centró únicamente en las amenazas climáticas derivadas de la 
+precipitación anual acumulada y de la temperatura media para las comunas de Viña del Mar y 
+Quilpué.  
+A continuación, en la Figura 4-5 y Figura 4-6 se presenta la distribución de las precipitaciones 
+acumuladas anuales (mm), y en las Figura 4-7 y Figura 4-8 la temperatura media (°C) para las 
+comunas de Viña del Mar y Quilpué. 
+Figura 4-5. Precipitación anual acumulada para la comuna de Viña del Mar. 
+ 
+Fuente: Atlas de Riesgo Climático, MMA, 2020. 
+ 
+
+===== p.55 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 57 de 85 
+ 
+Figura 4-6. Precipitación anual acumulada para la comuna de Quilpué. 
+ 
+ 
+Fuente: Atlas de Riesgo Climático, MMA, 2020. 
+Figura 4-7. Temperatura media para la comuna de Viña del Mar. 
+ 
+Fuente: Atlas de Riesgo Climático, MMA, 2020. 
+
+===== p.56 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 58 de 85 
+ 
+Figura 4-8. Temperatura media para la comuna de Quilpué 
+ 
+Fuente: Atlas de Riesgo Climático, MMA, 2020. 
+ 
+De acuerdo con las proyecciones climáticas para el escenario RCP 8.5, las comunas de Viña del 
+Mar y Quilpué evidencian una tendencia a la disminución de la precipitación media anual en 
+14,25 mm y 13,16 mm, respectivamente, junto con un aumento de 1,4 °C y 1,6 °C en la 
+temperatura media. Estas variaciones constituyen amenazas climáticas relevantes, ya que 
+pueden alterar el régimen hídrico y térmico del suelo y, en consecuencia, modificar la cobertura 
+vegetacional. En este escenario, los suelos del área se verían expuestos a una menor 
+disponibilidad de humedad y a cambios en sus procesos físico-químicos, configurando un estado 
+de vulnerabilidad frente al cambio climático. 
+ 
+
+===== p.57 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 59 de 85 
+ 
+4.3.5 
+Caracterización de la erosión actual del suelo identificada en terreno 
+A partir del levantamiento de información en terreno, se reconoció diferentes grados de erosión 
+actual. A continuación, se presenta cada una de la clase de erosión actual identificadas en el AI. 
+4.3.5.1 
+Erosión ligera 
+Se caracteriza por la presencia de pedestales incipientes, y vegetación cuya cobertura de rebrote 
+cubre >70% de la superficie. En el Set Fotográfico 4-7 se observan las características de esta 
+unidad. 
+Set Fotográfico 4-7. Erosión actual ligera. 
+ 
+Fuente: GEAGRAM, 2026. 
+4.3.5.2 
+Erosión moderada 
+Se caracteriza por la presencia de canalículos frecuentes y pedestales de 2 a 5 cm de altura en 
+un 15 a <30% de la superficie. La cobertura vegetacional está entre 30 a <50% . Se observan 
+cárcavas en activación, frecuentes, con un distanciamiento de entre 10 a 20 m y profundidades 
+que varían entre 0,5 a 1 m. En el Set Fotográfico 4-8 se observan las características de esta 
+unidad. 
+ 
+
+===== p.58 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 60 de 85 
+ 
+Set Fotográfico 4-8. Erosión actual moderada.  
+ 
+Fuente: GEAGRAM, 2026. 
+4.3.5.3 
+Erosión severa:  
+Se caracteriza por la presencia de vegetación degradada, presente solo en un 15–30% de la 
+superficie; pedestales de 2 a 5 cm de altura en un 15% de la superficie; surcos distantes y 
+cárcavas en activación en zonas erosionadas. La cobertura vegetacional está entre 15 a <30%, 
+degradada. En el Set Fotográfico 4-9 se observan las características de esta unidad. 
+Set Fotográfico 4-9. Erosión actual severa. 
+Fuente: GEAGRAM, 2026. 
+
+===== p.59 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 61 de 85 
+ 
+A continuación, en el Cuadro 4-4 se presenta la condición de las clases de erosión actual por 
+UHS de suelo en el Área de Influencia de suelo (AI) identificadas durante la campaña de terreno 
+en junio 2025.  
+Cuadro 4-4. Resultados sobre erosión actual en las UHS del AI de suelo. 
+UHS 
+Erosión actual 
+Área (Ha) 
+% del AI 
+UHS-1: Ladera baja 
+Erosión ligera 
+8,0 
+6,1 
+Erosión moderada 
+11,4 
+8,7 
+UHS-2: Ladera media 
+Erosión moderada 
+36,5 
+27,9 
+Erosión severa 
+15,6 
+11,9 
+UHS-3: Ladera alta 
+Erosión severa 
+42,1 
+32,1 
+UHS-4: Cumbre 
+Erosión severa 
+8,9 
+6,8 
+UHS-5: Fondo de quebrada 
+Erosión severa 
+5,3 
+4,1 
+UHS-6: Intervenido 
+Otros usos del territorio 
+3,1 
+2,4 
+Total 
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026. 
+De acuerdo con los resultados presentados en el Cuadro 4-4,, la totalidad del Área de Influencia 
+(AI) de suelo, equivalente a 130,9 ha, presenta distintos grados de erosión. La UHS-1 (Ladera 
+baja) registra erosión ligera en 8,0 ha (6,1% del AI) y erosión moderada en 11,4 ha (8,7% del AI). 
+La UHS-2 (Ladera media) presenta erosión moderada en 36,5 ha, correspondiente al 27,9% del 
+área evaluada, y erosión severa en 15,6 ha (11,9% del AI). La UHS-3 (Ladera alta) se caracteriza 
+exclusivamente por erosión severa, alcanzando 42,1 ha, equivalentes al 32,1% del AI, 
+constituyéndose como la unidad con mayor superficie afectada por este grado de erosión. Por 
+su parte, la UHS-4 (Cumbre) también presenta erosión severa, con una superficie de 8,9 ha 
+(6,8% del AI), mientras que la UHS-5 (Fondo de quebrada) registra erosión severa en 5,3 ha, 
+correspondiente al 4,1% de la superficie evaluada. Finalmente, la UHS-6 (Intervenido) abarca 
+3,1 ha (2,4% del AI), donde no aplica la evaluación de erosión debido a la intervención antrópica 
+y a la ausencia o alteración significativa del suelo, correspondiendo a otros usos del territorio. En 
+el Cuadro 4-5 se presentan las clases de erosión actual del Área de Influencia (AI) de suelo. 
+ 
+ 
+
+===== p.60 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 62 de 85 
+ 
+Cuadro 4-5. Resultados sobre erosión actual en el AI de suelo. 
+Erosión actual 
+Área (Ha) 
+% del AI 
+Erosión ligera 
+8,0 
+6,1 
+Erosión moderada 
+47,9 
+36,6 
+Erosión severa 
+71,9 
+54,9 
+Otros usos del territorio 
+3,1 
+2,4 
+Total  
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026. 
+En relación con los resultados presentados en el Cuadro 4-5 el Área de Influencia (AI) de suelo, 
+presenta distintos grados de erosión en la mayor parte de su extensión. La erosión ligera 
+representa 8,0 ha, equivalente al 6,1% del AI, correspondiendo a sectores con afectación menor. 
+La erosión moderada constituye una de las categorías predominantes, con 47,9 ha que 
+representan el 36,6% del área evaluada, evidenciando procesos de degradación que, si bien no 
+son críticos, pueden favorecer la pérdida gradual de suelo. Por su parte, la erosión severa abarca 
+71,9 ha, equivalente al 54,9% del AI, constituyéndose como la condición dominante y de mayor 
+riesgo para la estabilidad del suelo y su capacidad de uso, al estar asociada a pérdidas 
+significativas de la capa superficial y una alta susceptibilidad a procesos de escorrentía y 
+degradación estructural. Finalmente, 3,1 ha (2,4% del AI) corresponden a otros usos del territorio, 
+donde no aplica la evaluación de erosión debido a la intervención antrópica y a la ausencia o 
+alteración significativa del suelo. 
+A continuación, en el Figura 4-9 se presenta la condición de las clases de erosión actual del Área 
+de Influencia de suelo (AI). 
+ 
+
+===== p.61 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 63 de 85 
+ 
+Figura 4-9. Erosión actual del AI de suelo del Proyecto. 
+ 
+Fuente: GEAGRAM, 2026. 
+
+===== p.62 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 64 de 85 
+ 
+4.3.6 
+Caracterización del riesgo de erosión actual  
+4.3.6.1 
+Riesgo de Erosión Actual 
+Tras evaluar el riesgo de erosión actual, se determinó que algunas Unidades Homogéneas de 
+Suelo (UHS) estudiadas enfrentan un riesgo asociado, considerando factores como la 
+erodabilidad (textura y profundidad del suelo), la pendiente, desprotección vegetacional y las 
+condiciones climáticas, específicamente por las precipitaciones. Los valores asignados para 
+cada punto de evaluación se presentan en el Apéndice 4. 
+En términos generales, se identificó que el 100% de la superficie presenta una clase Media (2) 
+de agresividad climática, es decir que el IF modificado para este territorio va de 50 a 150, según 
+la guía (SAG, 2016), debido a que la precipitación media anual en Valparaíso es de 374 mm y 
+en Quilpué es de 429 mm (AGRIMED, 2017).  
+En cuanto a la erodabilidad, se observó que un 54,0% del Área de Influencia corresponde a 
+suelos de baja erodabilidad, mientras que un 11,9% presenta erodabilidad media, un 27,7% 
+erodabilidad alta y un 4,1% erodabilidad muy alta. Estos resultados indican que predominan 
+suelos con susceptibilidad intrínseca baja a moderada frente a procesos erosivos, determinada 
+por la combinación de textura y profundidad efectiva del perfil. No obstante, cerca de un tercio 
+del área presenta condiciones de alta o muy alta erodabilidad, asociadas principalmente a suelos 
+de menor profundidad efectiva y texturas más susceptibles a la pérdida de material por acción 
+hídrica. En este contexto, la presencia de materiales derivados de rocas graníticas puede 
+favorecer el desarrollo de texturas más gruesas en algunos sectores, incrementando localmente 
+la susceptibilidad a la erosión. 
+Según la clasificación de Gastó et al. (1993), el riesgo edafotopográfico del Área de Influencia 
+(AI) se concentra principalmente en las categorías de riesgo alto y muy alto. En particular, un 
+67,1% del área presenta riesgo alto, mientras que un 25,3% corresponde a riesgo muy alto. Por 
+su parte, las categorías de riesgo medio y bajo representan un 3,6% y un 1,6% del AI, 
+respectivamente. Finalmente, un 2,4% corresponde a sectores clasificados como otros usos del 
+territorio, donde no aplica la evaluación del riesgo edafotopográfico. 
+Estos resultados indican que el 92,4% del Área de Influencia presenta condiciones de riesgo 
+edafotopográfico alto o muy alto, producto de la combinación entre la susceptibilidad intrínseca 
+de los suelos a la erosión y las condiciones topográficas del terreno. Lo anterior evidencia una 
+elevada vulnerabilidad frente a procesos de degradación y pérdida de suelo, especialmente en 
+aquellos sectores donde coinciden pendientes pronunciadas y suelos con mayor susceptibilidad 
+erosiva. 
+
+===== p.63 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 65 de 85 
+ 
+Finalmente, en cuanto a la vulnerabilidad del sitio, en el Apéndice 4 se presentan las clases de 
+desprotección asociadas al tipo de vegetación y cobertura vegetal, determinadas a partir de la 
+Carta de Ocupación de Tierras (COT) (ver Anexo 2.5 de la DIA, Caracterización Flora y 
+Vegetación). De este modo, en el AI de suelo del Proyecto se observa que un 60,9% de la 
+superficie presenta vulnerabilidad muy alta, mientras que un 35,4% corresponde a vulnerabilidad 
+alta. En menor proporción, se registran superficies con vulnerabilidad media y baja, equivalentes 
+al 1,0% y 0,3% del AI, respectivamente. Finalmente, un 2,4% corresponde a sectores clasificados 
+como otros usos del territorio, donde no aplica la evaluación de vulnerabilidad debido a la 
+intervención antrópica y a la ausencia o alteración significativa del suelo. 
+En el Cuadro 4-6 proporciona un resumen del riesgo de erosión en la condición actual (sin 
+proyecto) para cada UHS evaluada, teniendo en cuenta los factores modelados previamente. 
+Cuadro 4-6. Superficie (Ha) y (%) de las clases de riesgo de erosión actual (REA) por cada UHS del 
+AI. 
+UHS 
+REA 
+Área (Ha) 
+% del AI 
+UHS-1: Ladera baja 
+Bajo 
+0,4 
+0,3 
+ Medio 
+0,8 
+0,6 
+ Alto 
+10,1 
+7,7 
+ Muy alto 
+8,2 
+6,2 
+UHS-2: Ladera media 
+Bajo 
+0,1 
+0,0 
+ Medio 
+0,4 
+0,3 
+ Alto 
+15,2 
+11,6 
+ Muy alto 
+36,4 
+27,8 
+UHS-3: Ladera alta 
+Bajo 
+0,0 
+0,0 
+ Medio 
+0,1 
+0,1 
+ Alto 
+14,2 
+10,8 
+ Muy alto 
+27,7 
+21,2 
+UHS-4: Cumbre 
+ Medio 
+0,0 
+0,0 
+ Alto 
+3,6 
+2,8 
+ Muy alto 
+5,3 
+4,0 
+UHS-5: Fondo de quebrada 
+ Alto 
+3,1 
+2,4 
+ Muy alto 
+2,2 
+1,7 
+UHS-6: Intervenido 
+Otros usos del territorio 
+3,1 
+2,4 
+Total 
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026. 
+De acuerdo con el Cuadro 4-6, el Área de Influencia (AI) presenta distintos grados de riesgo de 
+erosión actual (REA) según las Unidades Homogéneas de Suelo (UHS). La UHS-1 (Ladera baja) 
+abarca 19,5 ha (14,9% del AI), donde predominan los riesgos alto y muy alto, con 10,1 ha (7,7% 
+del AI) y 8,2 ha (6,2% del AI), respectivamente, mientras que los riesgos bajo y medio presentan 
+
+===== p.64 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 66 de 85 
+ 
+una representación menor. La UHS-2 (Ladera media) comprende 52,1 ha (39,8% del AI), 
+constituyéndose como una de las unidades más representativas del área. En esta unidad 
+predomina el riesgo muy alto, con 36,4 ha (27,8% del AI), seguido por el riesgo alto, con 15,2 ha 
+(11,6% del AI), mientras que las categorías bajo y medio poseen una participación marginal. 
+La UHS-3 (Ladera alta) ocupa 42,0 ha (32,1% del AI), donde también predominan las categorías 
+de riesgo muy alto y alto, con superficies de 27,7 ha (21,2% del AI) y 14,2 ha (10,8% del AI), 
+respectivamente. Los riesgos bajo y medio presentan una representación prácticamente nula. La 
+UHS-4 (Cumbre), con una superficie de 8,9 ha (6,8% del AI), presenta principalmente riesgo muy 
+alto (5,3 ha; 4,0% del AI) y riesgo alto (3,6 ha; 2,8% del AI), mientras que la categoría de riesgo 
+medio corresponde a una superficie marginal. 
+Por su parte, la UHS-5 (Fondo de quebrada) abarca 5,3 ha (4,1% del AI), donde predominan 
+igualmente los riesgos alto y muy alto, con 3,1 ha (2,4% del AI) y 2,2 ha (1,7% del AI), 
+respectivamente. Finalmente, la UHS-6 (Intervenido) comprende 3,1 ha (2,4% del AI), superficie 
+clasificada como otros usos del territorio, por lo que no presenta clasificación de riesgo de erosión 
+actual. 
+En términos generales, el riesgo de erosión actual en el Área de Influencia se concentra 
+principalmente en las categorías alto y muy alto, las cuales se distribuyen ampliamente en las 
+unidades de ladera media, ladera alta, cumbre y fondo de quebrada, evidenciando una elevada 
+susceptibilidad a procesos erosivos asociada a las condiciones topográficas y edáficas presentes 
+en el área de influencia (AI) de suelo. 
+En el Cuadro 4-7 se proporciona un resumen del riesgo de erosión en la condición actual (sin 
+proyecto) para el AI de suelo, teniendo en cuenta los factores modelados previamente señalados. 
+Cuadro 4-7. Superficie (Ha) y (%) de las clases de riesgo de erosión actual (REA) en el AI. 
+REA 
+Área (Ha) 
+% del AI 
+Bajo 
+0,5 
+0,3 
+Medio 
+1,3 
+1,0 
+Alto 
+46,3 
+35,4 
+Muy alto 
+79,8 
+60,9 
+Otros usos del territorio 
+3,1 
+2,4 
+Total 
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026.  
+En términos generales, de acuerdo con el Cuadro 4-7, el Área de Influencia presenta un 
+predominio de condiciones de riesgo de erosión actual alto y muy alto, las cuales abarcan el 
+96,3% de la superficie evaluada. En particular, el riesgo muy alto corresponde a 79,8 ha (60,9% 
+
+===== p.65 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 67 de 85 
+ 
+del AI), constituyéndose como la categoría dominante, mientras que el riesgo alto comprende 
+46,3 ha (35,4% del AI). Por su parte, las categorías de riesgo medio y bajo presentan una 
+representación reducida, alcanzando 1,3 ha (1,0% del AI) y 0,5 ha (0,3% del AI), 
+respectivamente. Finalmente, 3,1 ha (2,4% del AI) corresponden a otros usos del territorio, 
+asociados a sectores intervenidos donde no aplica la evaluación del riesgo de erosión. 
+Este patrón evidencia una elevada susceptibilidad del área frente a procesos erosivos, 
+concentrándose principalmente en las unidades de ladera media, ladera alta, cumbre y fondo de 
+quebrada. Lo anterior es coherente con las condiciones topográficas predominantes, el riesgo 
+edafotopográfico identificado y los niveles de vulnerabilidad determinados para el área de 
+influencia (AI) de suelo.  
+ 
+ 
+ 
+ 
+ 
+
+===== p.66 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 68 de 85 
+ 
+Figura 4-10. Mapa de riesgo de erosión actual REA) en el área de generación del AI del Proyecto. 
+ 
+Fuente: GEAGRAM, 2026. 
+ 
+
+===== p.67 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 69 de 85 
+ 
+4.3.7 
+Capacidad del suelo para sustentar biodiversidad (CSB) 
+Para caracterizar la capacidad que tiene el suelo para sustentar biodiversidad animal y vegetal 
+(CSB), se consideraron los siguientes parámetros en base a la metodología descrita por SAG 
+(2024): profundidad (cm), pendiente (%), pedregosidad superficial (%), agua aprovechable (cm 
+c.a.), pedregosidad subsuperficial (%), erosión actual, salinidad (dS m-1), sodicidad (RAS %) y 
+carácter calcáreo (%). 
+El detalle de cada nivel de clasificación de CBS en cada punto evaluado (de muestreo y 
+observación), se aprecia en el Apéndice 5. A continuación, en el Cuadro 4-8 se entrega un 
+resumen de las categorías de CSB presentes en cada UHS. 
+Cuadro 4-8. Capacidad de sustentar biodiversidad (CSB) por cada UHS del AI de suelo. 
+UHS 
+CSB 
+Área (Ha) 
+% del AI 
+UHS-1: Ladera baja 
+Media 
+19,4 
+14,8 
+UHS-2: Ladera media 
+Muy baja 
+34,9 
+26,6 
+Media 
+17,2 
+13,1 
+UHS-3: Ladera alta 
+Muy baja 
+42,1 
+32,1 
+UHS-4: Cumbre 
+Media 
+8,9 
+6,8 
+UHS-5: Fondo de quebrada 
+Muy baja 
+5,3 
+4,1 
+UHS-6: Intervenido 
+No aplica (n.a) 
+3,1 
+2,4 
+Total  
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026. 
+De acuerdo con los datos presentados en el Cuadro 4-8, la evaluación de la Capacidad de 
+Sustentar Biodiversidad (CSB) en las Unidades Homogéneas de Suelo (UHS) del Área de 
+Influencia (AI) de suelo evidencia un predominio de categorías media y muy baja, asociadas a 
+las características físicas, químicas y biológicas de los suelos presentes en el área de estudio. 
+La UHS-1 (Ladera baja), que abarca 19,4 ha (14,8% del AI), presenta una CSB clasificada 
+íntegramente como media. Por su parte, la UHS-2 (Ladera media), con una superficie de 52,1 ha 
+(39,8% del AI), presenta una condición heterogénea, distribuyéndose entre CSB media en 17,2 
+ha (13,1% del AI) y CSB muy baja en 34,9 ha (26,6% del AI), predominando esta última categoría. 
+La UHS-3 (Ladera alta), que comprende 42,1 ha (32,1% del AI), presenta exclusivamente una 
+CSB muy baja, evidenciando condiciones más restrictivas para sustentar biodiversidad. De 
+
+===== p.68 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 70 de 85 
+ 
+manera similar, la UHS-5 (Fondo de quebrada), con una superficie de 5,3 ha (4,1% del AI), 
+también se clasifica íntegramente con CSB muy baja. 
+En contraste, la UHS-4 (Cumbre), que ocupa 8,9 ha (6,8% del AI), presenta una CSB clasificada 
+completamente como media. Finalmente, la UHS-6 (Intervenido), con 3,1 ha (2,4% del AI), 
+corresponde a sectores donde no aplica (n.a.) la clasificación de capacidad de sustentar 
+biodiversidad debido a la intervención antrópica existente. 
+En el siguiente Cuadro 4-9 se presenta un resumen de la superficie total obtenida por categoría 
+de CSB en el AI de suelo. 
+ 
+Cuadro 4-9. Capacidad de sustentar biodiversidad (CSB) en el AI de suelo. 
+CSB 
+Área (Ha) 
+% del AI 
+Media 
+82,3 
+62,9 
+Muy baja 
+45,6 
+34,8 
+No aplica (n.a) 
+3,1 
+2,4 
+Total 
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026. 
+En términos generales, el Área de Influencia de suelo se caracteriza principalmente por una 
+Capacidad de Sustentar Biodiversidad (CSB) media, la cual abarca 82,3 ha, equivalentes al 
+62,9% de la superficie evaluada. Por su parte, la categoría muy baja comprende 45,6 ha (34,8% 
+del AI), concentrándose principalmente en las unidades de ladera media, ladera alta y fondo de 
+quebrada, donde las condiciones edáficas presentan mayores limitantes para sustentar 
+biodiversidad. Finalmente, la categoría no aplica (n.a.), asociada a sectores previamente 
+intervenidos, representa 3,1 ha (2,4% del AI). 
+Estos resultados indican que, si bien predominan suelos con una capacidad media para sustentar 
+biodiversidad, existen sectores relevantes del área que presentan limitaciones edáficas que 
+reducen su aporte potencial al soporte de comunidades biológicas y procesos ecosistémicos 
+asociados al suelo. 
+A continuación, en el Figura 4-11 se presenta la distribución de la CSB en el AI de suelo.
+
+===== p.69 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 71 de 85 
+ 
+Figura 4-11. Capacidad de sustentar Biodiversidad (CSB) en el Área de Influencia (AI) de suelo. 
+ 
+Fuente: GEAGRAM, 2026. 
+
+===== p.70 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 72 de 85 
+ 
+4.3.8 Determinación de la clase de capacidad de uso de los suelos (CCUS) Determinación de la 
+clase de capacidad de uso de los suelos (CCUS) 
+A partir del levantamiento de información de terreno (incluido el análisis de laboratorio) y basado en 
+los criterios de clasificación según Pauta SAG (2011, rectificada 2016), a continuación, se presentan 
+los valores y criterios utilizados en cada punto de muestreo o calicata (C0) (Cuadro 4-10, Cuadro 
+4-11 y Cuadro 4-12). 
+Cuadro 4-10. Criterios de aproximación por calicata. 
+Criterios de aproximación 
+Parámetros 
+Profundidad 
+Pendiente compleja 
+Pedregosidad superficial 
+Drenaje 
+C01 
+D5 
+0-100 
+FK 
+De lomajes  
+(30 a <45%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+C02 
+D5 
+0-100 
+GK 
+De cerro 
+ (45 a 60%) 
+P2 
+Grava 
+ (10 a <20%) 
+Piedra 
+ (5 a 
+<15%) 
+W5 
+C03 
+D5 
+0-100 
+HK 
+De montaña 
+(>60%) 
+P3 
+Grava 
+ (20 a <40%) 
+Piedra  
+(15 a <35% 
+W5 
+C04 
+D5 
+0-100 
+EK 
+Fuertemente 
+ondulada (15 a 
+<30%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+C05 
+D5 
+0-100 
+GK 
+De cerro 
+ (45 a 60%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+C06 
+D5 
+0-100 
+DK 
+Moderadamente 
+ondulada 
+ (8 a <15%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+C07 
+D5 
+0-100 
+FK 
+De lomajes 
+ (30 a <45%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+C08 
+D3 
+0-65 
+DK 
+Moderadamente 
+ondulada 
+ (8 a <15%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+C09 
+D5 
+0-100 
+GK 
+De cerro 
+ (45 a 60%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+C10 
+D5 
+0-100 
+FK 
+De lomajes 
+(30 a <45%) 
+P1 
+Grava  
+(0 a <10%) 
+Piedra 
+ (0 a <5%) 
+W5 
+Fuente: GEAGRAM, 2026. 
+ 
+
+===== p.71 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 73 de 85 
+ 
+Cuadro 4-11. Criterios de definición por calicata. 
+Criterios de definición 
+Parámetros 
+Textura 
+laboratorio 
+Textura 
+terreno 
+Agua 
+Aprovechable 
+Pedregosidad 
+subsuperficial 
+Erosión 
+actual 
+Periodo 
+libre de 
+heladas 
+Vientos 
+C01 
+FA, A, FA 
+FAa, A, A 
+H2 
+12,25 
+DP1 
+<5% 
+E3 
+F1 
+V1 
+C02 
+FAa, F, F 
+Fa, FAa. Aa 
+H3 
+11,94 
+DP3 
+15 a <35% 
+E3 
+F1 
+V1 
+C03 
+FAa, A 
+FAa, A 
+H5 
+3,86 
+DP3 
+15 a <35% 
+E4 
+F1 
+V1 
+C04 
+Fa, Fa, Fa 
+FAa, Aa. A 
+H5 
+0,84 
+DP1 
+<5% 
+E3 
+F1 
+V1 
+C05 
+FAa, F, FA 
+FAa, A, A 
+H2 
+13,07 
+DP1 
+<5% 
+E3 
+F1 
+V1 
+C06 
+Fa, Fa 
+FA, A 
+H2 
+12,86 
+DP1 
+<5% 
+E4 
+F1 
+V1 
+C07 
+FAa, F, FA 
+FAa, A, A 
+H2 
+12.48 
+DP1 
+<5% 
+E3 
+F1 
+V1 
+C08 
+FAa, Fa, Fa 
+FAa, F, aF 
+H3 
+11,56 
+DP1 
+<5% 
+E4 
+F1 
+V1 
+C09 
+F, A, FA 
+FAa, A, A 
+H3 
+11,46 
+DP1 
+<5% 
+E4 
+F1 
+V1 
+C10 
+Fa, Fa, Fa 
+FAa, FA, A 
+H3 
+11,16 
+DP1 
+<5% 
+E2 
+F1 
+V1 
+Fuente: GEAGRAM, 2026. 
+ 
+ 
+
+===== p.72 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 74 de 85 
+ 
+Cuadro 4-12. Criterios especiales por calicata. 
+Criterios especiales 
+Parámetros 
+Inundación 
+Salinidad 
+Sodicidad 
+Alcalinidad 
+C01 
+I1 
+S0 
+0,6 
+N0 
+0,4 
+A1 
+0% 
+C02 
+I1 
+S0 
+1,3 
+N0 
+0,63 
+A1 
+0% 
+C03 
+I1 
+S0 
+0,4 
+N0 
+0,42 
+A1 
+0% 
+C04 
+I1 
+S0 
+0,5 
+N0 
+0,45 
+A1 
+0% 
+C05 
+I1 
+S0 
+0,5 
+N0 
+0,38 
+A1 
+0% 
+C06 
+I1 
+S0 
+1,3 
+N0 
+0,97 
+A1 
+0% 
+C07 
+I1 
+S0 
+1 
+N0 
+0,56 
+A1 
+0% 
+C08 
+I1 
+S0 
+0,5 
+N0 
+1,05 
+A1 
+0% 
+C09 
+I2 
+S0 
+0,7 
+N0 
+2,42 
+A1 
+0% 
+C10 
+I1 
+S0 
+1,1 
+N0 
+0,83 
+A1 
+0% 
+Fuente: GEAGRAM, 2026. 
+A partir de los cuadros precedentes, se determinó la clase CUS en el AI de suelo (ver Cuadro 4-13). 
+Cuadro 4-13. Clase de capacidad de uso de suelos (CCUS) en el AI de suelo. 
+CCUS 
+Área (Ha) 
+Punto de muestreo (C0) Calicata 
+% del AI 
+VIe2 
+64,9 
+C1, C4, C6, C7, C8, C10 
+49,5 
+VIIe2 
+28,0 
+C2, C5, C9 
+21,4 
+VIII 
+34,9 
+C3 
+26,7 
+No corresponde (n.c.) 
+3,1 
+- 
+2,4 
+Total 
+130,9 
+- 
+100,0 
+Fuente: GEAGRAM, 2026.  
+ 
+ 
+
+===== p.73 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 75 de 85 
+ 
+De acuerdo con el cuadro precedente, los suelos del Área de Influencia se clasifican 
+mayoritariamente como Clase de Capacidad de Uso de Suelo (CCUS) VIe2, la cual representa el 
+49,5% del AI de suelo. En segundo lugar, se encuentran los suelos Clase VIII, que abarcan el 26,7% 
+del área evaluada, seguidos por los suelos Clase VIIe2, que corresponden al 21,4% del AI. 
+Finalmente, un 2,4% de la superficie corresponde a sectores donde no aplica la clasificación de 
+capacidad de uso de suelo, debido a la intervención antrópica existente.  
+A continuación, en el Cuadro 4-14 se presentan las CCUS de acuerdo con las UHS del AI de suelo. 
+Cuadro 4-14. Clase de capacidad de uso de suelos (CCUS) en el AI de suelo. 
+UHS 
+CCUS 
+Área (Ha) 
+% del AI 
+UHS-1: Ladera baja 
+VIe2 
+19,4 
+14,8 
+UHS-2: Ladera media 
+VIe2 
+36,5 
+27,9 
+VIIe2 
+15,6 
+11,9 
+UHS-3: Ladera alta 
+VIIe2 
+12,5 
+9,5 
+VIII 
+29,6 
+22,6 
+UHS-4: Cumbre 
+VIe2 
+8,9 
+6,8 
+UHS-5: Fondo de quebrada 
+VIII 
+5,3 
+4,1 
+UHS-6: Intervenido 
+No aplica (n.a.) 
+3,1 
+2,4 
+Total  
+130,9 
+100,0 
+Fuente: GEAGRAM, 2026.  
+En relación con los resultados presentados en el Cuadro 4 17, la totalidad del Área de Influencia (AI) 
+se encuentra clasificada dentro de las Clases de Capacidad de Uso de Suelo (CCUS) no arables, 
+condicionadas principalmente por la pendiente, el riesgo de erosión y otras limitantes físicas del 
+terreno. 
+La UHS-1 (Ladera baja), con una superficie de 19,4 ha (14,8% del AI), se clasifica íntegramente 
+como VIe2. Por su parte, la UHS-2 (Ladera media), que abarca 52,1 ha (39,8% del AI), se distribuye 
+entre las clases VIe2 y VIIe2, representando 36,5 ha (27,9% del AI) y 15,6 ha (11,9% del AI), 
+respectivamente. Estas clases corresponden a suelos con limitaciones derivadas principalmente de 
+la pendiente y la susceptibilidad a la erosión, restringiendo su uso agrícola intensivo. La UHS-3 
+(Ladera alta), con una superficie de 42,1 ha (32,1% del AI), presenta las mayores restricciones de 
+uso, distribuyéndose entre la clase VIIe2, con 12,5 ha (9,5% del AI), y la clase VIII, con 29,6 ha 
+(22,6% del AI). Estas categorías reflejan limitaciones severas asociadas a las condiciones 
+topográficas y al elevado riesgo de degradación del suelo. 
+
+===== p.74 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 76 de 85 
+ 
+La UHS-4 (Cumbre), con una superficie de 8,9 ha (6,8% del AI), se clasifica completamente como 
+VIe2, mientras que la UHS-5 (Fondo de quebrada), que comprende 5,3 ha (4,1% del AI), 
+corresponde íntegramente a la clase VIII, debido a las restricciones que presentan estos sectores 
+para usos productivos. Finalmente, la UHS-6 (Intervenido), con una superficie de 3,1 ha (2,4% del 
+AI), corresponde a sectores donde no aplica la clasificación de capacidad de uso de suelo debido a 
+la intervención antrópica existente. 
+En síntesis, el AI está compuesto mayoritariamente por suelos en clases VI y superiores (VII y VIII), 
+lo que refleja un escenario de limitaciones severas para el desarrollo agrícola y restringe su potencial 
+productivo al ámbito forestal y de conservación de recursos naturales.  
+La distribución espacial de las CCUS identificadas en el AI del Proyecto se representa en la Figura 
+4-12. 
+ 
+ 
+
+===== p.75 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 77 de 85 
+ 
+Figura 4-12. CCUS identificadas en el Área de Influencia (AI) de suelo del Proyecto. 
+ 
+Fuente: GEAGRAM, 2026. 
+
+===== p.76 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 78 de 85 
+ 
+4.3.9 Presencia de suelos en Sitios Prioritarios Regionales 
+A partir de la información espacial disponible en la plataforma SIMBIO del Ministerio del Medio 
+Ambiente (MMA), se identificaron dos Sitios Prioritarios de Estrategia Regional de Biodiversidad en 
+el área del Proyecto: “Palmar Las Siete Hermanas – El Salto” (SP2-248), que intersecta parcialmente 
+el Área de Influencia (AI) del componente suelo, y “Quebrada Quiteño – Las Palmas” (SP2-265), 
+ubicado en las cercanías del AI. 
+Respecto del sitio prioritario que intersecta el Área de Influencia (AI) (Palmar Las Siete Hermanas – 
+El Salto, SP2-248), este abarca una superficie de 14,7 ha, equivalente al 11,2% del AI, 
+comprendiendo sectores de las unidades UHS-3 (Ladera alta), UHS-1 (Ladera baja), UHS-5 (Fondo 
+de quebrada) y UHS-6 (Intervenido). En particular, la mayor parte de la superficie corresponde a la 
+UHS-3, con 12,3 ha (9,4% del AI), seguida por la UHS-1 con 1,5 ha (1,1% del AI), la UHS-5 con 0,7 
+ha (0,5% del AI) y la UHS-6 con 0,2 ha (0,2% del AI). 
+Conforme a la caracterización edafológica realizada, la superficie intersectada se compone 
+principalmente de suelos Clase de Capacidad de Uso VIII, que abarcan 13,0 ha (9,9% del AI), 
+mientras que 1,5 ha (1,1% del AI) corresponden a suelos Clase VIe2. Asimismo, la Capacidad de 
+Sustentar Biodiversidad (CSB) se clasifica predominantemente como muy baja, representando 13,0 
+ha (9,9% del AI), mientras que 1,5 ha (1,1% del AI) presentan una CSB media. Los sectores 
+intervenidos corresponden a 0,2 ha (0,2% del AI), donde no aplica la clasificación de capacidad de 
+uso ni de capacidad de sustentar biodiversidad. 
+Desde el punto de vista edafológico, los sectores comprendidos dentro del sitio prioritario presentan 
+principalmente suelos clasificados en las clases VIe2 y VIII, asociados a limitaciones derivadas de 
+la pendiente, el riesgo de erosión y las condiciones geomorfológicas del terreno. Asimismo, 
+predominan sectores con Capacidad de Sustentar Biodiversidad muy baja, aunque también se 
+identifican áreas con capacidad media. 
+Si bien el sitio prioritario Palmar Las Siete Hermanas – El Salto posee relevancia para la 
+conservación de la biodiversidad, los suelos presentes en el área intersectada por el Proyecto no 
+corresponden a elementos edáficos singulares, escasos o excepcionales dentro del contexto 
+territorial donde se emplaza el sitio prioritario. Por el contrario, representan la condición edáfica 
+predominante y característica del paisaje local, asociada a laderas y sectores de alta pendiente con 
+limitaciones de uso derivadas principalmente del riesgo de erosión. En este sentido, la relevancia 
+ambiental del sitio prioritario se vincula principalmente a los atributos ecológicos y de biodiversidad 
+que validan su reconocimiento, más que a la presencia de suelos únicos o de distribución restringida 
+A continuación, en el Figura 4-11 se presentan los sitio prioritarios y el AI de la componente suelo.  
+
+===== p.77 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 79 de 85 
+ 
+Figura 4-13. Sitios prioritarios para la conservación de la biodiversidad y AI de la componente suelo. 
+ 
+Fuente: GEAGRAM, 2026. 
+ 
+
+===== p.78 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 80 de 85 
+ 
+4.3.10  Identificación de los atributos sensibles o singularidades del suelo 
+En base a la caracterización del medio edáfico, se indica que existen los siguientes atributos 
+sensibles o singularidades para el componente suelo: 
+● 
+El Área de Influencia (AI) de suelo presenta una elevada susceptibilidad a la activación 
+de procesos erosivos, evidenciada por el predominio de las categorías de Riesgo de 
+Erosión Actual (REA) Alto y Muy Alto, las cuales abarcan conjuntamente 126,1 Ha, 
+equivalentes al 96,3% del AI de suelo. En particular, la categoría Muy Alto corresponde 
+a 79,8 Ha (60,9% del AI de suelo), constituyéndose como la condición dominante dentro 
+del área evaluada. 
+● 
+Suelos localizados dentro del Sitio Prioritario para la Conservación de la Biodiversidad 
+Palmar Las Siete Hermanas – El Salto, en una superficie de 14,7 hectáreas, equivalente 
+al 11,2% del AI de suelo. Esta condición constituye una sensibilidad ambiental relevante, 
+debido a que corresponde a un territorio reconocido por su importancia para la 
+conservación de la biodiversidad a escala regional. Desde la perspectiva edafológica, los 
+suelos presentes en este sector corresponden principalmente a clases de capacidad de 
+uso VIII y, en menor medida, VIe2, predominando condiciones de Capacidad de 
+Sustentar Biodiversidad (CSB.) muy baja. Si bien estos suelos representan la condición 
+edáfica predominante y característica del paisaje local, su localización dentro de un Sitio 
+Prioritario para la Conservación de la Biodiversidad incrementa su sensibilidad ambiental 
+en el contexto de la evaluación del Proyecto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.79 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 81 de 85 
+ 
+5.0 CONCLUSIONES 
+Respecto del análisis de la presente línea base de suelos se concluye lo siguiente:  
+• 
+Dentro del Área de Influencia (AI) del componente suelo, equivalente a 130,9 hectáreas, se 
+identificaron seis Unidades Homogéneas de Suelo (UHS). La unidad de mayor 
+representatividad corresponde a la UHS-2 (Ladera media), con 52,1 hectáreas (39,8% del 
+AI de suelo), seguida por la UHS-3 (Ladera alta), con 42,1 hectáreas (32,1% del AI de suelo). 
+En conjunto, ambas unidades representan más del 70% de la superficie evaluada y se 
+caracterizan por presentar limitaciones asociadas principalmente a la pendiente y a la 
+susceptibilidad a procesos erosivos. Las restantes unidades corresponden a la UHS-1 
+(Ladera baja), con 19,4 hectáreas (14,8% del AI de suelo); la UHS-4 (Cumbre), con 8,9 
+hectáreas (6,8% del AI de suelo); la UHS-5 (Fondo de quebrada), con 5,3 hectáreas (4,1% 
+del AI de suelo); y la UHS-6 (Intervenido), con 3,1 hectáreas (2,4% del AI de suelo). 
+• 
+Con respecto a la clasificación taxonómica de los suelos del AI, CIREN señala que el 100% 
+corresponde a la Serie Lo Vásquez (LVZ), derivada de rocas graníticas de la Cordillera de 
+la Costa y clasificada en el gran grupo Ultic Haploxeralfs. Estos suelos presentan un 
+desarrollo moderado, con perfiles de 50 a 100 cm, texturas franco arcillo arenosas en 
+superficie que se vuelven más arcillosas en profundidad y estructura granular a bloques 
+subangulares en los primeros horizontes. Según CIREN, la totalidad del AI se ubica en la 
+variación LVZ-9, caracterizada por suelos delgados, bien drenados, en pendientes 
+superiores al 50% y con capacidad de uso VIIe. No obstante, en terreno se identificaron 
+distintas Clases de Capacidad de Uso de Suelo (CCUS), lo que refleja una mayor 
+heterogeneidad edáfica que la reportada por CIREN. 
+• 
+La erosión actual (EA) evidencia una condición de degradación relevante del recurso suelo. 
+La erosión severa constituye la categoría predominante, abarcando 71,9 hectáreas (54,9% 
+del AI de suelo), seguida por la erosión moderada con 47,9 hectáreas (36,6% del AI de 
+suelo) y la erosión ligera con 8,0 hectáreas (6,1% del AI de suelo). Los sectores clasificados 
+como otros usos del territorio corresponden a 3,1 hectáreas (2,4% del AI de suelo). En 
+términos generales, el AI presenta un predominio de procesos erosivos moderados a 
+severos, asociados principalmente a las condiciones topográficas y geomorfológicas de las 
+unidades de ladera y cumbre.  
+• 
+Respecto del riesgo de erosión actual (REA), correspondiente al escenario sin Proyecto, se 
+observa un predominio de las categorías Muy Alto y Alto, las cuales abarcan 79,8 hectáreas 
+(60,9% del AI de suelo) y 46,3 hectáreas (35,4% del AI de suelo), respectivamente. Las 
+
+===== p.80 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 82 de 85 
+ 
+categorías Medio y Bajo presentan una representación reducida, alcanzando en conjunto 
+sólo 1,8 hectáreas (1,3% del AI de suelo). Estos resultados reflejan una elevada 
+susceptibilidad natural del territorio a procesos erosivos. 
+• 
+En relación con la Susceptibilidad al Cambio Climático, las proyecciones bajo el escenario 
+RCP 8.5 para las comunas de Viña del Mar y Quilpué evidencian una disminución de la 
+precipitación media anual de 14,25 mm y 13,16 mm, respectivamente, junto con un aumento 
+de 1,4 °C y 1,6 °C en la temperatura media. Estas variaciones constituyen amenazas 
+climáticas relevantes que pueden alterar el régimen hídrico y térmico del suelo, reduciendo 
+la humedad disponible y generando cambios en sus procesos físico-químicos. En 
+consecuencia, los suelos del AI se configuran en un estado de mayor vulnerabilidad frente 
+al cambio climático, con posibles efectos sobre la cobertura vegetacional y sus funciones 
+ecosistémicas. 
+• 
+Respecto de la Capacidad de Sustentar Biodiversidad (CSB), el AI presenta un predominio 
+de la categoría Media, con 82,3 hectáreas (62,9% del AI de suelo), seguida por la categoría 
+Muy Baja, con 45,6 hectáreas (34,8% del AI de suelo). Los sectores intervenidos 
+corresponden a 3,1 hectáreas (2,4% del AI de suelo), donde no aplica la clasificación. Lo 
+anterior indica que, si bien predominan condiciones medias para sustentar biodiversidad, 
+existen sectores relevantes asociados principalmente a laderas medias, laderas altas y 
+fondos de quebrada que presentan limitaciones edáficas para el soporte de comunidades 
+biológicas y funciones ecosistémicas asociadas al suelo.  
+• 
+La Clase de Capacidad de Uso del Suelo (CCUS) determinada en el AI indica un predominio 
+de la clase VIe2, con 64,9 hectáreas (49,5% del AI de suelo), seguida por las clases VIII y 
+VIIe2, con 34,9 hectáreas (26,7% del AI de suelo) y 28,0 hectáreas (21,4% del AI de suelo), 
+respectivamente. Los sectores intervenidos corresponden a 3,1 hectáreas (2,4% del AI de 
+suelo), donde no aplica la clasificación. La totalidad del AI corresponde a suelos no arables, 
+cuyas limitaciones están asociadas principalmente a la pendiente, el riesgo de erosión y 
+otras restricciones físicas del terreno.  
+• 
+Finalmente, se identifican dos atributos sensibles para el componente suelo. El primero 
+corresponde a la elevada susceptibilidad a la activación de procesos erosivos presente en 
+el Área de Influencia (AI) de suelo, evidenciada por el predominio de las categorías de 
+Riesgo de Erosión Actual (REA) Alto y Muy Alto, las cuales abarcan conjuntamente 126,1 
+Ha, equivalentes al 96,3% del AI de suelo. En particular, la categoría Muy Alto constituye la 
+condición dominante, representando 79,8 Ha (60,9% del AI de suelo). El segundo 
+corresponde a la intersección del AI con el Sitio Prioritario para la Conservación de la 
+
+===== p.81 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 83 de 85 
+ 
+Biodiversidad “Palmar Las Siete Hermanas – El Salto”, en una superficie de 14,7 hectáreas 
+(11,2% del AI de suelo). Esta condición constituye una sensibilidad ambiental relevante 
+debido a la importancia del sitio para la conservación de la biodiversidad a escala regional. 
+Desde la perspectiva edafológica, los suelos presentes en este sector corresponden 
+principalmente a clases de capacidad de uso VIII y, en menor medida, VIe2, predominando 
+sectores con Capacidad de Sustentar Biodiversidad muy baja. No obstante, la relevancia 
+ambiental del área se asocia principalmente a los atributos ecológicos y de biodiversidad 
+que sustentan su reconocimiento como sitio prioritario para la conservación.  
+ 
+ 
+
+===== p.82 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 84 de 85 
+ 
+6.0 BIBLIOGRAFÍA 
+Börgel, R. 1983. Geografía de Chile, geomorfología Tomo III. Instituto Geográfico Militar. Santiago. 
+Chile. 186p. 
+Brady, N. and Weil, R.  2008. The nature and properties of soil, 14 ed. Prentice-Hall, Upper Saddle 
+River, New Jersey. 
+Casanova, M., et al. 2013. Water retention in volcanic soils with varying organic matter and bulk 
+density. Geoderma, 200–201, 40–48. 
+Castro, R. 2016. Evaluación de Impactos de Riesgos de Activación de Procesos Erosivos. Informe 
+Final Asesoría. Modificado por el SAG (Licitación 612-23-116). Septiembre 2016. 
+Servicio Agrícola y Ganadero. División de Protección de los Recursos Naturales 
+Renovables. Agrosig Ltda. Consultora Ambiental. 
+Centro AGRIMED. 2017. Atlas agroclimático de Chile. Estado actual y tendencias del clima. Tomo 
+III Regiones de Valparaíso, Metropolitana, del Libertador Bernardo O’Higgins y del 
+Maule. 212p. 
+Centro de Información de Recursos Naturales (CIREN). 1997. Estudio Agrológico de la Región V. 
+Descripciones de Suelos, Materiales y Símbolos. Centro de Información de Recursos 
+Naturales. Chile. Publicación CIREN N°123. 83p. 
+Dörner, J., Dec, D., & Zúñiga, F. 2016. Soil physical degradation in Andosols: Compaction, effects 
+and restoration. Catena, 137, 229–237. 
+Havlin, J., Tisdale S., Nelson W. and J. Beaton. 2017. Soil Fertility and Fertilizers. An Introduction to 
+Nutrient Management and nutrient management. Eighth Edition. Pearson India 
+Education Services Pvt. Ltd. CRC Press. 529 p. 
+Haller, C., Zúñiga, F., & Dörner, J. 2015. Water repellency in Chilean Andosols and its effect on water 
+flow and retention. Soil Research, 53(6), 629–638. 
+Iroumé, A., Palacios, H., Bathurst, J. 2017. La vegetación ripariana como filtro de la escorrentía y 
+erosión superficiales luego de la cosecha forestal. Capítulo II en Balocchi, F., Chreties, 
+C. (Eds) Procesos de erosión sedimentación en cauces y cuencas, Volumen 3. United 
+Nations Educational, Scientific and Cultural Organization, Paris, France and UNESCO 
+Regional Office for Sciences for Latin America and the Caribbean –UNESCO 
+Montevideo, Uruguay. 23-41p. 
+Jones, J. 2002. Agronomic handbook. CRC press. 455p. 
+
+===== p.83 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 85 de 85 
+ 
+Luzio W., M. Casanova, C. Leiva, O. Salazar y O. Seguel. 2006. Avances en el conocimiento de los 
+suelos de Chile. Universidad de Chile. 394 p. 
+Luzio, W. 2010. Suelos de Chile. Departamento de Ingeniería y Suelos. Facultad de Ciencias 
+Agronómicas. Universidad de Chile. Santiago de Chile. Walter Luzio (Editor). 364p. 
+Ministerio del Medio Ambiente (MMA) y Organización de las Naciones Unidas (ONU). 2022. Guía 
+de delimitación y caracterización de humedales urbanos de Chile. Elaborada mediante 
+consultoría Proyecto GEF/SEC ID: 9766 “Conservación de humedales costeros de la 
+zona centro-sur de Chile” por Edáfica Suelos y Medio Ambiente. Santiago, Chile. 199 
+p. 
+Ministerio de Medio Ambiente. 2023. Atlas Agroclimático para Chile. Gobierno de Chile. Disponible 
+en: https://arclim.mma.gob.cl/about/. 
+Sandoval, M., Dörner, F., Seguel, O., Cuevas, J. y D. Rivera. 2012. Método de análisis físico de 
+suelo. Chillán, Chile: Publicaciones - Departamento de Suelos y Recursos Naturales. 
+Disponible en: https://hdl.handle.net/20.500.14001/59208. 
+Sadzawka, A., Grez, R., Carrasco, M.A., Demanet, R., & Flores, H. (2006). Métodos de análisis de 
+suelos recomendados para los laboratorios de fertilidad del Instituto de Investigaciones 
+Agropecuarias (INIA). Serie Actas INIA N° 34. Instituto de Investigaciones 
+Agropecuarias, Chile. 
+Schoeneberger, P.J., D.A. Wysocki, E.C. Benham, and Soil Survey Staff. 2012. Field book for 
+describing and sampling soils, Version 3.0. Natural Resources Conservation Service, 
+National Soil Survey Center, Lincoln, NE. 300 p. 
+Servicio Agrícola Ganadero (SAG). 2019. Guía de evaluación ambiental: recurso natural suelo. D-
+RNN-EIA-PR-005. Chile. 14p. 
+Servicio Agrícola y Ganadero (SAG). 2011 rectificada 2016. Departamento Protección Recursos 
+Naturales Renovables. Pauta para Estudio de Suelos. 
+Servicio de Evaluación ambiental (SEA). 2024. Guía Área de Influencia en ecosistemas terrestres. 
+Chile. 108p. 
+Servicio de Evaluación Ambiental (SEA). 2022. Guía de evaluación de efectos adversos sobre 
+recursos naturales renovables. Chile. 75p. 
+Servicio de Evaluación Ambiental (SEA). 2022. Guía para la compensación de biodiversidad en el 
+SEIA. Chile. 64p. 
+
+===== p.84 =====
+ 
+Estudio de Impacto Ambiental 
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea Base de Edafología 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 86 de 85 
+ 
+Servicio de Evaluación Ambiental (SEA). 2023. Guía metodológica para la consideración del cambio 
+climático en el SEIA. Chile. 85p. 
+Servicio de Evaluación Ambiental (SEA). 2023. Guía para la determinación del Área de Influencia 
+en Humedales en el SEIA. Chile. 147p. 
+Servicio de Evaluación Ambiental (SEA). 2025. Guía para la descripción de los ecosistemas 
+terrestres, segunda edición. Chile. 147p 
+Sierra, C. 2003. Fertilización de cultivos y frutales en el zona norte. Instituto de Investigaciones 
+Agropecuarias. Boletín INIA N°97. 70p. 
+UNESCO, 2017. Procesos de Erosión sedimentación en cauces y cuencas. Volumen 3. UNESCO, 
+2017. 
+United States Department of Agriculture (USDA). 2017. Soil Survey Manual, Handbook N°18. Soil 
+Science Division Staff. 437 pp. 
+Walkley, A., & Black, A. (1934). An examination of the determination method for determining soil 
+organic matter and a proposed modification of the chromic acid titration method. Soil 
+Science, 37, 29-38. 
+ 
+ 
