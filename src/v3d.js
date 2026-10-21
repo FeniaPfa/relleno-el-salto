@@ -311,6 +311,21 @@ var dl=new THREE.DirectionalLight(0xfff2e2,.62); dl.position.set(-1,1.5,.7); sc.
 /* desvíos que se prueban para el rótulo, en orden: pegado al punto y luego
    alejándose arriba y abajo, con la línea guía uniéndolo. */
 var DESVIOS=[0,-20,20,-40,40,-62,62,-86,86];
+/* Las que quedan bajo la pluma con el viento vigente. Es el mismo conjunto que
+   lista el panel: así lo que se lee en la lista es lo que se nombra en el mapa,
+   y el resto se queda en punto. */
+var bajoPluma={};
+function marcarPluma(){
+  bajoPluma={};
+  (typeof aSotavento==='function' ? aSotavento(vientoHacia) : []).forEach(function(b){ bajoPluma[b.n]=1 });
+  marcas.forEach(function(m){
+    var antes=!!m.sot; m.sot=!!bajoPluma[m.n];
+    if(antes!==m.sot){
+      m.el.classList.toggle('sot',m.sot);
+      m.wtx=null;   /* «sot» cambia el cuerpo de letra: el ancho cacheado ya no vale */
+    }
+  });
+}
 var marcas=[], CERCANAS=16, CORREDOR=10;
 /* el corredor norte, 350°–20°, es el eje del viento que declara el titular:
    ahí viven Paso Hondo, Estrella Polar y Angamos, lejos pero a sotavento directo */
@@ -395,7 +410,9 @@ function ubicarMarcas(){
   var cupo=cupoRotulos(w);
   var cand=enPantalla.filter(function(m){ return m.x<w-reserva })
                      .sort(function(a,b){
-                       var pa=a.orden-(a.corr?6:0), pb=b.orden-(b.corr?6:0);
+                       /* bajo la pluma primero: es lo que el panel está listando */
+                       var pa=a.orden-(a.corr?6:0)-(a.sot?400:0),
+                           pb=b.orden-(b.corr?6:0)-(b.sot?400:0);
                        return pa-pb;
                      }).slice(0,cupo);
   /* Colocación por cajas reales. Antes esto apilaba por «y» y empujaba hacia
@@ -404,7 +421,9 @@ function ubicarMarcas(){
      rótulo propone su caja, se prueba contra las ya aceptadas y contra los
      huecos del mobiliario, y si choca se descarta. El límite deja de ser una
      heurística y pasa a ser el espacio que de verdad hay. */
-  var ALTO_TX=19, cajas=[], conRotulo={};
+  /* 23 px, no 19: la caja real del texto mide algo más que el cuerpo de letra y
+     dos filas contiguas se tocaban por un píxel. Deja además un respiro visible. */
+  var ALTO_TX=23, cajas=[], conRotulo={};
   function libre(x0,x1,y0,y1){
     if(choca(x0,x1,(y0+y1)/2)) return false;
     for(var i=0;i<cajas.length;i++){ var c=cajas[i];
@@ -908,6 +927,7 @@ function fijarViento(m,rumbo){
      contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
      reflui­a y el deslizador saltaba bajo el cursor. */
   var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho', m==='man');
+  marcarPluma();
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
@@ -923,7 +943,7 @@ $('#w-man').addEventListener('click',function(){
   var sl=$('#w-dir'); if(!sl) return;
   sl.addEventListener('input',function(){
     if(modoViento!=='man') fijarViento('man',+this.value);
-    else { vientoHacia=+this.value; redibujarRosa(); }
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
   });
 })();
 function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); }
