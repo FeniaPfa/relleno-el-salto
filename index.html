@@ -1092,10 +1092,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <span><i style="background:var(--ink3);opacity:.45;border:1px solid var(--ink2)"></i>Suelo residencial</span>
         <span><i style="background:#6fd3f5;border-radius:50%"></i>Colegio o jardín infantil</span>
         <span><i style="background:#ffd166;border-radius:2px"></i>Centro de salud</span>
-        <span><i style="background:#7ad68a;opacity:.6;border:1px solid var(--ink2)"></i>Sitio Prioritario Palmar 7 Hermanas</span>
-        <span><i style="background:#b79cf0;opacity:.6;border:1px solid var(--ink2)"></i>Jardín Botánico Nacional</span>
-        <span><i style="background:#6fd3f5;opacity:.6;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
-        <span><i style="background:#2fb7c4;opacity:.65;border:1px solid var(--ink2)"></i>Reserva Nacional Lago Peñuelas</span>
+        <span><i style="background:#8fbf8a;opacity:.6;border:1px solid var(--ink2)"></i>Sitio Prioritario Palmar 7 Hermanas</span>
+        <span><i style="background:#a497c2;opacity:.45;border:1px solid var(--ink2)"></i>Jardín Botánico Nacional</span>
+        <span><i style="background:#8fb3c1;opacity:.45;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
+        <span><i style="background:#6f8c99;opacity:.45;border:1px solid var(--ink2)"></i>Reserva Nacional Lago Peñuelas</span>
         <span><i style="border:2px dashed #ffd166;background:transparent"></i>Área de influencia declarada</span>
       </div>
       <div class="tip" id="tip1"></div>
@@ -2017,14 +2017,16 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       gAre=el('g',{id:'g-are'}), gLab=el('g',{});
 
   /* áreas protegidas oficiales */
-  var TONO={palmar:'#7ad68a',botanico:'#b79cf0',humedal:'#6fd3f5',penuelas:'#2fb7c4'};
+  /* áreas protegidas en tonos apagados: el sujeto saturado del mapa es el relleno */
+  var TONO={palmar:'#8fbf8a',botanico:'#a497c2',humedal:'#8fb3c1',penuelas:'#6f8c99'};
   (D.areas||[]).forEach(function(a){
     gAre.appendChild(el('path',{d:pathOf(a.g,P),fill:TONO[a.id]||'#7ad68a',
-      'fill-opacity':a.id==='penuelas'?.22:.28,stroke:TONO[a.id]||'#7ad68a',
+      'fill-opacity':a.id==='palmar'?.22:.14,stroke:TONO[a.id]||'#7ad68a',
       'stroke-opacity':1,'stroke-width':a.id==='penuelas'?2.2:1.8}));
     var bb3=bboxOf(a.g,[180,90,-180,-90]);
     var q=P((bb3[0]+bb3[2])/2,(bb3[1]+bb3[3])/2);
-    if(q[0]>40&&q[0]<W-40&&q[1]>20&&q[1]<H-20){
+    /* solo se rotula el Sitio Prioritario, que es el que el proyecto toca; los demás van en la leyenda */
+    if(a.id==='palmar'&&q[0]>40&&q[0]<W-40&&q[1]>20&&q[1]<H-20){
       var t2=el('text',{x:q[0].toFixed(1),y:q[1].toFixed(1),'font-size':12.5,
         'font-family':'var(--cart)','font-weight':600,fill:TONO[a.id]||'#8fe07a',
         'text-anchor':'middle','paint-order':'stroke',stroke:'#14161a','stroke-width':3.4,
@@ -2083,9 +2085,10 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   });
 
   /* etiquetas de barrios destacados */
-  var destacar=['Comunidad Alto Valencia','Población Esperanza','Nuevo Horizonte',
-    'Los Fundadores 2','Pompeya Sur','Pompeya Norte','Botania','Cumbres de Quilpué',
-    'Villa Humboldt','Canal Chacao','El Salto'];
+  /* seis rótulos: las cuatro poblaciones más cercanas y las dos que el área de influencia
+     deja a 72 y 77 m; las demás conservan su punto y su nombre al pasar el cursor */
+  var destacar=['Comunidad Alto Valencia','Población Esperanza','Los Fundadores 2',
+    'Nuevo Horizonte','Botania','Cumbres de Quilpué'];
   var marcas=[];
   D.barrios.forEach(function(b){
     if(destacar.indexOf(b.n)<0) return;
@@ -2109,7 +2112,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       'font-family':'var(--cart)','font-weight':600,
       fill:m.cerca?'#ffb9a4':'#fbf7ec','paint-order':'stroke',
       stroke:'#14161a','stroke-width':3.4,'stroke-linejoin':'round'});
-    t.textContent=m.b.n+' · '+m.b.d.toFixed(2).replace('.',',')+' km';
+    t.textContent=m.b.n.replace('Comunidad ','').replace('Población ','')+' · '+m.b.d.toFixed(2).replace('.',',')+' km';
     gLab.appendChild(t);
   });
 
@@ -2146,6 +2149,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
   bind($('#t-res'),gRes); bind($('#t-edu'),gEdu); bind($('#t-sal'),gSal);
   bind($('#t-ani'),gAni); bind($('#t-area'),gAre); bind($('#t-ai'),gAI);
+  /* arranca con lo esencial: equipamientos y área de influencia a un toque (esta última tiene su sección) */
+  ['#t-edu','#t-sal','#t-ai'].forEach(function(id){ var b=$(id); if(b) b.click() });
 })();
 
 /* ===== mapa de escorrentía hasta el Marga-Marga ===== */
