@@ -1,0 +1,1373 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTION INTEGRAL DE RESIDUOS
+ANEXO PAS 139
+Documento Preparado por:
+Mayo 2026
+
+===== p.1 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+i
+ÍNDICE
+1.
+INTRODUCCIÓN.............................................................................................................1
+1.1.
+A. DESCRIPCIÓN DE LOS PROCESOS EN LOS QUE SE GENERAN LOS RESIDUOS LÍQUIDOS 
+INDUSTRIALES O MINEROS, ESTIMACIÓN DE SUS CAUDALES Y CARACTERIZACIÓN.......2
+1.1.1.
+GENERACIÓN DE RILES LOSA DE LAVADO DE RUEDAS...................................................2
+1.2.
+B. PLANO DE EMPLAZAMIENTO DEL SISTEMA DE TRATAMIENTO..................................3
+1.3.
+C. DISEÑO DEL SISTEMA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO Y DE 
+LAS UNIDADES Y EQUIPAMIENTO NECESARIO PARA CONDUCIR, TRATAR Y DESCARGAR 
+EL EFLUENTE..................................................................................................................3
+1.3.1.
+ESPECIFICACIONES GENERALES LOSA DE LAVADO DE RUEDAS......................................3
+1.3.2.
+DESCRIPCIÓN DEL SISTEMA DE TRATAMIENTO DE LAS AGUAS RESIDUALES.................6
+1.3.3.
+DESCRIPCIÓN DE LA FORMA DE DISPOSICIÓN FINAL DEL EFLUENTE TRATADO............7
+1.3.4.
+DESCRIPCIÓN GENERAL DE LA GENERACIÓN Y MANEJO DE LODOS..............................7
+1.3.5.
+DIAGRAMA SISTEMA DE RECIRCULACIÓN DE AGUA EN LA LOSA DE LAVADOS.............9
+1.3.6.
+PROCEDIMIENTOS DE OPERACIÓN, MANTENCIÓN Y LIMPIEZA.....................................9
+1.4.
+D.  PROGRAMA  DE  MONITOREO  Y  CONTROL  DE  PARÁMETROS  OPERACIONALES, 
+INCLUYENDO PARÁMETROS CRÍTICOS.........................................................................11
+1.5.
+E. DESCRIPCIÓN Y GEORREFERENCIACIÓN DE LAS OBRAS O INFRAESTRUCTURA DE 
+DESCARGA DE LOS RESIDUOS TRATADOS, SI CORRESPONDE.......................................11
+1.6.
+F.  DESCRIPCIÓN  Y  CARACTERIZACIÓN  DEL  CUERPO  RECEPTOR  SUPERFICIAL  Y/O 
+SUBTERRÁNEO, IDENTIFICANDO SUS USOS ACTUALES Y PREVISTOS...........................11
+1.7.
+G. EFECTO ESPERADO DE LA DESCARGA SOBRE EL CUERPO O CURSO RECEPTOR, 
+CONSIDERANDO LOS USOS IDENTIFICADOS.................................................................11
+1.8.
+H. PLAN DE MANEJO DE LODOS Y DE CUALQUIER OTRO RESIDUOS GENERADO..........12
+1.8.1.
+MANEJO DEL HIDROCARBURO SEPARADO EN EL SISTEMA DE TRATAMIENTO...........12
+1.8.2.
+MANEJO  Y DISPOSICIÓN DE LODOS DEL SISTEMA  DE TRATAMIENTO DE  AGUAS 
+RESIDUALES...................................................................................................................12
+1.9.
+I. PLAN DE CONTINGENCIAS.........................................................................................12
+1.9.1.
+OBJETIVO.......................................................................................................................12
+1.9.2.
+ALCANCE........................................................................................................................13
+1.9.3.
+RESPONSABILIDADES....................................................................................................13
+1.9.4.
+IDENTIFICACIÓN DE LOS PRINCIPALES RIESGOS...........................................................14
+1.9.5.
+PLAN DE PREVENCIÓN DE CONTINGENCIAS.................................................................14
+1.10.
+EMERGENCIA...............................................................................................................20
+1.10.1. PLAN DE ACCIONES ANTE UNA EMERGENCIA..............................................................20
+ANEXO
+ANEXO 01 LAMINAS
+
+===== p.2 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+1
+1. INTRODUCCIÓN
+Durante la fase operativa del proyecto Centro Metropolitano de Gestión Integral de Residuos, se 
+producirán aguas residuales provenientes de la losa de lavado de ruedas de los camiones que 
+ingresen al recinto. Después de depositar los residuos, estos vehículos deberán pasar por esta área 
+para eliminar cualquier rastro de polvo, tierra o desechos adheridos a sus ruedas. 
+Para este propósito, se implementará un sistema de lavado cuyo efluente será tratado y reutilizado 
+mediante un proceso de recirculación, a fin de minimizar los requerimientos de agua y optimizar su 
+funcionamiento.
+El proyecto contempla la presentación y aprobación del Artículo 139º del Reglamento del Sistema de 
+Evaluación de Impacto Ambiental (RSEIA) D.S. Nº 40/12, el cual señala:
+
+Artículo 139.- Permiso para la construcción, reparación, modificación y ampliación de 
+cualquier obra pública o particular destinada a la evacuación, tratamiento o disposición 
+final de residuos industriales o mineros.
+El permiso para la construcción, reparación, modificación y ampliación de cualquier obra pública o 
+particular destinada a la evacuación, tratamiento o disposición final de residuos industriales o 
+mineros, será el establecido en el artículo 71 letra b) segunda parte, del Decreto con Fuerza de Ley 
+Nº 725, de 1967, del Ministerio de Salud Pública, Código Sanitario.
+El requisito para su otorgamiento consiste en que la calidad del agua del cuerpo receptor no ponga 
+en riesgo la salud de la población.
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento son los 
+siguientes:
+a.
+Descripción de los procesos en los que se generan los residuos líquidos industriales o 
+mineros, estimación de sus caudales y caracterización.
+b.
+Plano de emplazamiento del sistema de tratamiento.
+c.
+Diseño del sistema de tratamiento que incluya diagrama de flujo y de las unidades y 
+equipamiento necesario para conducir, tratar y descargar el efluente.
+d.
+Programa de monitoreo y control de parámetros operacionales, incluyendo parámetros 
+críticos.
+e.
+Descripción y georreferenciación de las obras o infraestructura de descarga de los residuos 
+tratados, si corresponde.
+f.
+Descripción  y  caracterización  del  cuerpo  receptor  superficial  y/o  subterráneo, 
+identificando sus usos actuales y previstos.
+g.
+Efecto esperado de la descarga sobre el cuerpo o curso receptor, considerando los usos 
+identificados.
+h.
+Plan de manejo de lodos y de cualquier otro residuo generado.
+i.
+Plan de contingencias.
+j.
+Plan de emergencia.
+A continuación, se señalan los antecedentes requeridos para solicitar el Permiso Ambiental Sectorial 
+N° 139.
+
+===== p.3 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+2
+1.1.
+A. DESCRIPCIÓN DE LOS PROCESOS EN LOS QUE SE GENERAN LOS RESIDUOS 
+LÍQUIDOS  INDUSTRIALES  O  MINEROS,  ESTIMACIÓN  DE  SUS  CAUDALES  Y 
+CARACTERIZACIÓN.
+1.1.1.
+GENERACIÓN DE RILES LOSA DE LAVADO DE RUEDAS
+El funcionamiento de la losa de lavado proyectada genera residuos líquidos. No obstante, el 
+proyecto ha sido diseñado para reutilizar estos residuos mediante un sistema de recirculación 
+dentro del mismo proceso. El agua utilizada para el lavado de las ruedas de los camiones, que 
+arrastra tierra y polvo, será recolectada y conducida a través de una canaleta de hormigón hacia un 
+sistema de tratamiento antes de ser reutilizada.
+El diseño incluye la construcción de una losa de hormigón armado (H.A.) confinada, con pendientes 
+longitudinal y transversal que facilitan la conducción de las aguas residuales hacia una canaleta 
+recolectora. Esta canaleta descarga en una cámara de decantación, cuya capacidad permite 
+asegurar un tiempo de retención que asegura que los sedimentos se depositen en el fondo. A 
+continuación, el efluente se transporta por gravedad hacia un separador de hidrocarburos y luego a 
+una planta de tratamiento de lodos activados, la cual depura el agua en un 95%.
+Finalmente, el agua tratada pasa por un proceso de desinfección en dos cámaras de contacto 
+(cloración y decloración) y luego se almacena en un estanque prefabricado de 15.000 litros. Desde 
+allí, un sistema presurizado alimentará una llave de jardín que conectará con la hidrolavadora 
+destinada al lavado de las ruedas de los camiones recolectores.
+Las consideraciones técnicas generales para la elaboración del proyecto sanitario se describen a 
+continuación:
+Tabla 1.
+Consideraciones de cálculo 
+Número de camiones (máximo)
+65
+Tiempo estimado en lavado x camión
+10 min
+Consumo
+15 lts/min
+Volumen requerido
+9.750 lts
+En resumen, las aguas utilizadas serán recolectadas y recirculadas al sistema, asegurando la 
+sustentabilidad del proceso. Los elementos y trazados se expresan en los planos de instalaciones 
+respectivos.
+
+===== p.4 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+3
+Figura 1.
+Planta losa de lavado de rueda.
+1.2.
+B. PLANO DE EMPLAZAMIENTO DEL SISTEMA DE TRATAMIENTO
+En Anexo 01 Láminas se presenta el emplazamiento del sistema de tratamiento de los riles 
+generados en el proyecto.
+1.3.
+C. DISEÑO DEL SISTEMA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO Y 
+DE LAS UNIDADES Y EQUIPAMIENTO NECESARIO PARA CONDUCIR, TRATAR Y 
+DESCARGAR EL EFLUENTE
+1.3.1.
+ESPECIFICACIONES GENERALES LOSA DE LAVADO DE RUEDAS
+En términos constructivos la losa de lavado de ruedas cumplirá con las siguientes especificaciones 
+técnicas:
+
+Losa de H.A.: Se realizará la construcción de una losa de H.A. de 15 cm de espesor, calidad H-30 
+con doble malla fe 12 @20. Tendrá pendiente longitudinal del orden del 2% y transversal del 
+orden del 1% lo que permite la conducción de las aguas residuales hacia una canaleta 
+recolectora.
+
+Canaleta: se contempla una canaleta prefabricada con rejilla para tránsito pesado. Sección 
+mínima 30x30 cm, pendiente longitudinal del 2%.
+
+===== p.5 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+4
+Figura 2.
+Imagen de referencia - Canaleta prefabricada de hormigón para tránsito pesado.
+
+Cámara de decantación: Será de H.A. calidad H-30, doble malla fe 10 @15, sección 1,0 x 1,0 m 
+altura 1,0, con tapa de registro. 
+Figura 3.
+Imagen de referencia - Cámara de decantación.
+
+Separador de hidrocarburos: Se contempla la instalación de un separador de hidrocarburos 
+destinado a retener los hidrocarburos en suspensión presentes en las aguas sucias. Este equipo 
+cumple con el Decreto Supremo N° 90 que pide un rendimiento <10 mg/l.
+Figura 4.
+Imagen de referencia – Separador de hidrocarburos.
+
+Planta de tratamiento prefabricada: Se proyecta una planta de tratamiento prefabricada de 
+10.000 lts, estanca, de material rígido altamente resistente a la perforación y al rasgado, permite 
+su soterramiento, con escotillas de registro. A continuación, las aguas tratadas se desinfectarán 
+
+===== p.6 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+5
+mediante dos cámaras de retención denominadas de cloración y de decloración como muestra la 
+siguiente imagen.
+Figura 5.
+Imagen referencial - Planta de tratamiento.
+
+Estanque de acumulación. Se proyecta la instalación de un estanque prefabricado de 15.000 lts
+el cual permitirá la acumulación de las aguas tratadas hasta su reutilización. Este equipo será 
+estanco, de material rígido altamente resistente a la perforación y al rasgado, permite su 
+soterramiento, con escotillas de registro.
+Figura 6.
+Imagen referencial - Estanque de acumulación.
+
+Equipo de presurización: Se considera una bomba impulsora de 1 Hp, monofásica con una 
+hidroesfera de 24 lt para proporcionar la presión necesaria para el funcionamiento del equipo de 
+lavado.
+Figura 7.
+Imagen referencial - Equipo de presión
+
+===== p.7 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+6
+
+Equipo de lavado: Se considera la utilización de una hidrolavadora para una caudal de 1.000 
+lt/hr, presión 21 bar, manguera de alta presión de 10 m, con filtro fino grande y boquilla.
+Figura 8.
+Imagen referencial - Hidrolavadora
+1.3.2.
+DESCRIPCIÓN DEL SISTEMA DE TRATAMIENTO DE LAS AGUAS RESIDUALES
+El tratamiento de las aguas residuales generadas en la planta de lavado se inicia en una cámara de 
+contacto con capacidad de 500 litros, donde se lleva a cabo un proceso de decantación que garantiza 
+un tiempo de retención de 30 minutos. A continuación, los efluentes son conducidos por rebalse y 
+de forma gravitacional hacia un separador de hidrocarburos, el cual tiene como función remover los 
+compuestos hidrocarbonados que pudieran haber ingresado al sistema. Finalmente, el efluente 
+tratado es derivado a una planta de tratamiento, diseñada para depurar hasta un 95 % de las aguas 
+residuales.
+El proceso utilizado en la planta de tratamiento se denomina "Lodos Activados" y consta de tres 
+componentes principales:
+-
+Compartimiento de decantación primaria
+-
+Reactor biológico
+-
+Sedimentador 2º clarificador
+
+===== p.8 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+7
+Figura 9.
+Esquema del sistema de tratamiento.
+1.3.3.
+DESCRIPCIÓN DE LA FORMA DE DISPOSICIÓN FINAL DEL EFLUENTE TRATADO
+El sistema está diseñado para garantizar la recirculación continua de las aguas utilizadas, por lo que 
+no es necesario contemplar la disposición final de las aguas residuales.
+1.3.4.
+DESCRIPCIÓN GENERAL DE LA GENERACIÓN Y MANEJO DE LODOS
+1.3.4.1
+Manejo del hidrocarburo separado en el sistema de tratamiento
+El separador de hidrocarburos proyectado para la losa de lavado permitirá la remoción de aceites y 
+grasas presentes en las aguas residuales. El hidrocarburo separado será acumulado temporalmente 
+en la unidad del sistema evitando filtraciones y emisiones al entorno.
+Su manejo contempla el retiro periódico por una empresa autorizada, la cual realizará su transporte 
+y disposición final en instalaciones que cuenten con las autorizaciones sanitarias correspondientes, 
+conforme a lo establecido en el Código Sanitario y el Decreto Supremo N°148/2003 del Ministerio de 
+Salud. Este residuo será gestionado como residuo peligroso, según su clasificación, asegurando su 
+trazabilidad y adecuado control durante todas las etapas de manejo.
+
+===== p.9 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+8
+1.3.4.2
+Manejo y disposición de lodos del sistema de tratamiento de aguas residuales
+A partir de las bases de cálculo presentadas se obtiene la descarga media diaria (DMD) de agua a 
+tratar, de la cual se estima que un 10% corresponde a la generación de lodos. En la siguiente tabla se 
+presenta la estimación de lodo generado.
+Tabla 2.
+Generación de lodos
+Recinto
+Gasto diario
+lt/día 
+Tasa generación 
+de lodos
+Volumen de lodos
+lts/ día
+Planta de lavado
+9.750
+10%
+9,75
+Total volumen lodos 
+m3/día
+0,01
+Total volumen lodos 
+m3/año
+3,56
+Una vez que el sistema se encuentre en operación, estos lodos serán objeto de una caracterización 
+sanitaria, con el fin de determinar su clasificación conforme a la normativa vigente y, en base a ello, 
+definir su alternativa de disposición final. 
+En este contexto, si los lodos no cumplen con los criterios establecidos para su disposición en el 
+relleno sanitario del proyecto, serán gestionados mediante una empresa autorizada, asegurando su 
+disposición en instalaciones que cumplan con la normativa aplicable.
+Cabe señalar, que el sedimento acumulado en la cámara de decantación y en la planta de 
+tratamiento será retirado únicamente cuando su volumen haya superado una cuarta parte de la 
+capacidad total del sistema, debiendo conservarse una pequeña cantidad de lodo para mantener la 
+estabilidad del proceso de tratamiento. Se recomienda realizar inspecciones visuales mensuales 
+para evaluar el nivel de sedimentos.
+
+===== p.10 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+9
+1.3.5.
+DIAGRAMA SISTEMA DE RECIRCULACIÓN DE AGUA EN LA LOSA DE LAVADOS
+Figura 10.
+ Isométrico sistema de lavado de ruedas de camiones
+1.3.6.
+PROCEDIMIENTOS DE OPERACIÓN, MANTENCIÓN Y LIMPIEZA
+Con el objeto de asegurar el adecuado funcionamiento sanitario del sistema de tratamiento de 
+aguas residuales generadas en la losa de lavado, se establecen los siguientes procedimientos de 
+operación, mantención y limpieza del sistema, incluyendo el separador de hidrocarburos y la gestión 
+de los residuos generados.
+1.3.6.1
+Operación del sistema
+El sistema de tratamiento será operado por personal capacitado, conforme a los manuales del 
+fabricante y a los procedimientos internos del proyecto. La operación considera:
+
+Control del caudal de ingreso, evitando sobrecargas hidráulicas. 
+
+Monitoreo periódico de niveles en las distintas unidades del sistema. 
+
+Verificación  del  correcto  funcionamiento  del  separador  de  hidrocarburos  y  demás 
+componentes. 
+
+Registro de parámetros operacionales en bitácora (caudal, niveles, incidencias). 
+
+===== p.11 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+10
+1.3.6.2
+Mantención del sistema
+La mantención preventiva y correctiva se ejecutará con el fin de asegurar la continuidad operacional 
+y la eficiencia del tratamiento. Esta contempla:
+
+Inspección visual semanal de las unidades del sistema. 
+
+Revisión mensual de componentes estructurales, conexiones, válvulas y sellos. 
+
+Verificación del estado del separador de hidrocarburos, incluyendo sus elementos internos. 
+
+Ejecución de mantenciones correctivas en forma inmediata ante fallas o disminución del 
+rendimiento. 
+1.3.6.3
+Limpieza del separador de hidrocarburos
+El separador será sometido a limpieza periódica, considerando:
+
+Retiro de aceites y grasas acumuladas con una frecuencia mínima mensual, o con mayor 
+frecuencia según la carga operativa. 
+
+Retiro de lodos sedimentados con una frecuencia mínima trimestral, o según condiciones de 
+operación. 
+
+Limpieza interna de la unidad en caso de acumulación excesiva o pérdida de eficiencia. 
+1.3.6.4
+Manejo y retiro de residuos generados
+Los residuos generados corresponden principalmente a hidrocarburos y lodos, cuyo manejo 
+considera:
+
+Almacenamiento temporal en condiciones que eviten derrames, infiltraciones y emisiones al 
+entorno. 
+
+Retiro periódico por parte de una empresa autorizada: frecuencia mínima mensual para 
+hidrocarburos y trimestral para lodos, o según requerimientos operacionales. 
+
+Transporte  y  disposición  final  en  instalaciones  autorizadas, conforme  a  la  normativa 
+sanitaria vigente. 
+
+Registro de los retiros, asegurando la trazabilidad de los residuos. 
+1.3.6.5
+Control y registro
+Se implementará una bitácora de operación y mantención, en la cual se registrará:
+
+Actividades de operación, inspección, mantención y limpieza. 
+
+Volúmenes estimados de residuos retirados. 
+
+Contingencias operacionales y medidas correctivas adoptadas.
+
+===== p.12 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+11
+1.4.
+D. PROGRAMA DE MONITOREO Y CONTROL DE PARÁMETROS OPERACIONALES, 
+INCLUYENDO PARÁMETROS CRÍTICOS
+La planta de tratamiento contratará un laboratorio para realizar un monitoreo periódico de la 
+calidad de las aguas residuales una vez tratadas, con el objetivo de garantizar que cumplan con los 
+estándares necesarios para su reutilización en el lavado de ruedas de camiones.
+Los parámetros por evaluar estarán en conformidad con lo establecido en el artículo 47 del 
+Reglamento N°189. Los monitoreos deberán proporcionar información sobre la concentración de al 
+menos los siguientes parámetros fisicoquímicos:
+a)
+Conductividad Eléctrica; 
+b)
+Cloruro; 
+c)
+Turbiedad (color); 
+d)
+DBO5; 
+e)
+DQO; 
+f)
+Sólidos Suspendidos Totales; 
+g)
+Hierro; 
+h)
+Magnesio; 
+i)
+Nitrógeno Amoniacal; 
+j)
+Nitrógeno Kjeldahal; 
+k)
+Sulfatos; 
+l)
+Alcalinidad Total (CaCo3); 
+m)
+Sodio. 
+1.5.
+E. DESCRIPCIÓN Y GEORREFERENCIACIÓN DE LAS OBRAS O INFRAESTRUCTURA DE 
+DESCARGA DE LOS RESIDUOS TRATADOS, SI CORRESPONDE
+El proyecto de tratamiento de las aguas residuales generadas en la losa de lavado de ruedas no 
+incluye su descarga a cuerpos de agua superficiales o subterráneos, ni a estratos del subsuelo, por lo 
+que no aplica.
+1.6.
+F. DESCRIPCIÓN Y CARACTERIZACIÓN DEL CUERPO RECEPTOR SUPERFICIAL Y/O 
+SUBTERRÁNEO, IDENTIFICANDO SUS USOS ACTUALES Y PREVISTOS
+El proyecto de tratamiento de las aguas residuales generadas en la losa de lavado de ruedas no 
+contempla su descarga a cursos de agua superficial o subterráneas ni a estratos del subsuelo, por lo 
+que aplica.
+1.7.
+G. EFECTO ESPERADO DE LA DESCARGA SOBRE EL CUERPO O CURSO RECEPTOR, 
+CONSIDERANDO LOS USOS IDENTIFICADOS
+El proyecto de tratamiento de las aguas residuales generadas en la losa de lavado de ruedas no 
+contempla su descarga a cursos de agua superficial o subterráneas ni a estratos del subsuelo, por lo 
+que aplica.
+
+===== p.13 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+12
+1.8.
+H. PLAN DE MANEJO DE LODOS Y DE CUALQUIER OTRO RESIDUOS GENERADO.
+La planta de lavado implementará un sistema de gestión integral para los lodos y demás residuos 
+generados durante sus operaciones. 
+1.8.1.
+MANEJO DEL HIDROCARBURO SEPARADO EN EL SISTEMA DE TRATAMIENTO
+El separador de hidrocarburos proyectado para la losa de lavado permitirá la remoción de aceites y 
+grasas presentes en las aguas residuales. El hidrocarburo separado será retenido y acumulado 
+temporalmente en la unidad, la cual contará con condiciones de estanqueidad y diseño que evitan 
+filtraciones, derrames y emisiones al entorno.
+El retiro de este residuo se realizará con una frecuencia acorde a la operación del sistema y su 
+capacidad de almacenamiento, evitando su saturación y asegurando la continuidad operacional. 
+Dicho retiro será efectuado por una empresa autorizada para el manejo de residuos peligrosos, la 
+cual ejecutará su transporte y disposición final en instalaciones que cuenten con autorización 
+sanitaria vigente.
+Este  residuo  será  clasificado  y  gestionado  como  residuo  peligroso,  de  conformidad  con  lo 
+establecido en el Código Sanitario y el Decreto Supremo N°148/2003 del Ministerio de Salud, 
+asegurando su trazabilidad mediante registros de retiro, manifiestos de transporte y certificados de 
+disposición final, según corresponda.
+1.8.2.
+MANEJO Y DISPOSICIÓN DE LODOS DEL SISTEMA DE TRATAMIENTO DE AGUAS 
+RESIDUALES
+Los lodos generados en el sistema serán sometidos a una caracterización físico-química y sanitaria 
+una vez iniciada la operación, con el objeto de determinar su clasificación conforme a la normativa 
+vigente.
+En función de los resultados de dicha caracterización, se definirá su alternativa de disposición final. 
+En caso de que los lodos no cumplan con los criterios de admisibilidad para su disposición en el 
+relleno sanitario del proyecto, estos serán retirados por una empresa autorizada y dispuestos en 
+instalaciones que cuenten con las autorizaciones correspondientes.
+Asimismo, el manejo de estos residuos considerará condiciones adecuadas de almacenamiento 
+temporal, evitando riesgos de escurrimiento, generación de olores o vectores, y asegurando en todo 
+momento el cumplimiento de la normativa sanitaria aplicable.
+1.9.
+I. PLAN DE CONTINGENCIAS
+1.9.1.
+OBJETIVO
+Establecer las acciones preventivas, de respuesta y recuperación ante situaciones de emergencia 
+que puedan afectar a las personas, las instalaciones, el medio ambiente y la continuidad operativa 
+de la planta de lavado.
+
+===== p.14 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+13
+1.9.2.
+ALCANCE
+Este plan aplica a todas las actividades desarrolladas en la losa de lavado, incluyendo lavado, manejo 
+de aguas servidas industriales, manipulación de detergentes y desengrasantes, uso de equipos de 
+alta presión y operación del separador de hidrocarburos.
+1.9.3.
+RESPONSABILIDADES
+Todo personal que realice labores en la fase construcción, operación y cierre del proyecto, tendrán 
+sus diferentes responsabilidades de acuerdo con el cargo que le corresponda. Las responsabilidades 
+serán repartidas entre el Administrador del Relleno y/o jefe de Proyecto, jefe de Prevención de 
+Riesgos y Medio Ambiente, Supervisores y Trabajadores.
+Administrador del Relleno y/o jefe de Proyecto: 
+
+Conocer por completo el presente plan y asumir la responsabilidad de mantener un 
+liderazgo y compromiso activo en el cumplimiento de este.
+
+Asegurar el cumplimiento de las actividades indicadas en el presente plan.
+
+Proporciona los recursos apropiados en tiempo y oportunidad, a fin de garantizar que los 
+niveles apropiados de protección se otorguen a todos los empleados del proyecto.
+
+Informar todo incidente inmediatamente, iniciar la gestión de la investigación y generar 
+informe de acuerdo con lo sucedido.
+Prevencionista de Riesgos:
+
+Responsable  de  proporcionar  los recursos  necesarios  para  la  implementación  de  las 
+actividades y verificar su efectividad e informar de sus resultados y aprendizajes. 
+
+Cumplir con las actividades indicadas en el presente plan.
+
+Difundir constantemente las actividades de este plan.
+Supervisores:
+
+Controlar las situaciones que puedan generar una emergencia, debe fiscalizar, inspeccionar 
+y supervisar el área, en caso de ver alguna irregularidad en equipos, maquinarias, etc. debe 
+tomar las medidas de prevención correspondientes.
+Trabajadores:
+
+Los trabajadores deberán participar activamente en todas las actividades orientadas a 
+detectar y controlar los peligros y riesgos presentes en las operaciones y actividades del día a 
+día.
+
+===== p.15 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+14
+1.9.4.
+IDENTIFICACIÓN DE LOS PRINCIPALES RIESGOS 
+Se describen a continuación, los principales riesgos asociados al funcionamiento de la losa de lavado, 
+cabe destacar que estos riesgos abarcan para todas las fases del proyecto.
+
+Riesgos Naturales: vulnerabilidad de una población o región a una amenaza o peligro 
+natural
+
+Riesgos por accidentes laborales: El riesgo laboral es la posibilidad de que un trabajador 
+sufra una enfermedad o un accidente laboral.
+
+Riesgos operacionales: Riesgo que se pueda producir por alguna falla o error en la operación 
+de la planta.
+
+Riesgo de incendios: se define como la probabilidad que la población, dependiendo de su 
+presencia y conducta, inicie un incendio forestal o industrial.
+1.9.5.
+PLAN DE PREVENCIÓN DE CONTINGENCIAS
+1.9.5.1
+Riesgos Naturales
+Situación de riesgo o contingencia
+Sismo
+Riesgo
+Evento sísmico que pueda generar daños estructurales en las 
+instalaciones, caída de objetos, interrupción de servicios básicos y 
+afectación a la continuidad operativa de la planta.
+Fase del proyecto a la que aplica 
+Construcción, operación y cierre
+Emplazamiento, parte, obra o 
+acción asociada 
+Zona de lavado, áreas de tránsito de camiones, sala de bombas, tableros 
+eléctricos, bodegas etc.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantener anclados o fijados estantes, tableros eléctricos, bombas y 
+equipamiento pesado.
+
+Revisar periódicamente el estado estructural de las instalaciones y 
+reparar fisuras o daños.
+
+Mantener orden y limpieza en las áreas de trabajo para evitar objetos 
+sueltos.
+
+Capacitar al personal en protocolos de evacuación y respuesta ante 
+sismos.
+
+Tener  rutas  de  evacuación  señalizadas,  despejadas  y  puntos  de 
+encuentro definidos.
+
+Asegurar el almacenamiento adecuado de sustancias peligrosas en 
+contenedores robustos y estables.
+Formas de control y seguimiento 
+
+Registros de inspección estructural y de anclajes de equipos.
+
+Registro anual de capacitación y simulacros de evacuación.
+
+Lista de chequeo de revisión post-sismo antes de retomar operaciones.
+
+Bitácora de mantenciones de equipos críticos.
+
+===== p.16 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+15
+1.9.5.2
+Riesgos por accidentes laborales
+Situación de riesgo o contingencia
+Accidentes personas
+Riesgo
+Lesiones leves o graves a personas, interrupción de actividades, posibles 
+responsabilidades legales, afectación al clima laboral y aumento en la 
+probabilidad de incidentes mayores.
+Fase del proyecto a la que aplica 
+Construcción, operación y cierre
+Emplazamiento, parte, obra o 
+acción asociada 
+Zona de lavado, áreas de tránsito de camiones, sala de bombas, tableros 
+eléctricos, bodegas etc.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Implementación de señalización de seguridad adecuada en zonas de 
+riesgo.
+
+Uso obligatorio de EPP (botas antideslizantes, casco, guantes, chaleco 
+reflectante).
+
+Mantener superficie de trabajo limpia y libre de obstáculos.
+
+Entrenamiento del personal en procedimientos seguros y manipulación 
+de equipos.
+
+Control de velocidad y rutas definidas para tránsito de camiones.
+
+Implementación de protocolos de bloqueo y etiquetado (LOTO) para 
+mantenimiento.
+
+Iluminación adecuada en todas las áreas operativas.
+Formas de control y seguimiento 
+
+Lista de chequeo diarios de orden, limpieza y condiciones de seguridad.
+
+Registros de inducción y capacitación del personal.
+
+Auditorías internas mensuales de seguridad.
+
+Bitácora de incidentes, cuasi incidentes y medidas correctivas.
+1.9.5.3
+Riesgos operacionales
+Situación de riesgo o contingencia
+Rebalse separador de hidrocarburos.
+Riesgo
+Derrame de aguas industriales con presencia de hidrocarburos hacia el 
+sistema de drenaje o suelo o áreas periféricas.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Separador de hidrocarburos, cámara de ingreso, cámaras intermedias, 
+tuberías de entrada y salida, zona de lavado y sistema de drenaje 
+asociado.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantención programada del separador de hidrocarburos (extracción 
+de lodos y grasas). 
+
+Verificar  periódicamente  el  estado  de  trampas,  filtros  y  cámaras 
+separadoras.
+
+Instalar  indicadores  o  alarmas  de  nivel  para  detectar  aumentos 
+anormales.
+
+Llevar  registro  de  cargas  máximas  y  caudales  para  identificar 
+tendencias.
+
+Entrenar a operadores en detección temprana de riesgo de rebalse.
+
+Capacitación  en  manejo  seguro  de  hidrocarburos  y  control  de 
+derrames.
+Formas de control y seguimiento 
+
+Mantención de bitácora de operación, hojas de ruta, reportes de 
+mantención y registros de mediciones.
+
+Uso de sensores, alarmas, telemetría o medidores automáticos para 
+
+===== p.17 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+16
+supervisar niveles, flujos, presiones u otros parámetros críticos.
+
+Alarmas configuradas para activar medidas preventivas o de 
+emergencia.
+Situación de riesgo o contingencia
+Derrame de detergentes, aceites o combustibles.
+Riesgo
+Contaminación del suelo y afectación del sistema de tratamiento.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Plataforma de lavado, canaletas y zonas de tránsito de camiones.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantener kits de derrames disponibles y accesibles.
+
+Capacitación al personal en contención y uso de absorbentes.
+
+Lavado de plataforma libre de sólidos y residuos aceitosos.
+
+Revisión previa del estado de los vehículos.
+Formas de control y seguimiento 
+
+Registro de inspecciones diarias de la zona.
+
+Verificación de stock de kits de control de derrames.
+
+Auditoría mensual de limpieza de áreas.
+Situación de riesgo o contingencia
+Derrame y/o rebalse de planta de tratamiento de aguas residuales.
+Riesgo
+Descarga no controlada de aguas tratadas o en proceso hacia el sistema 
+de drenaje, suelo o áreas periféricas, con potencial afectación sanitaria y 
+ambiental
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Planta de tratamiento, tuberías de entrada y salida y sistema de drenaje 
+asociado.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantención programada del sistema de tratamiento, incluyendo 
+extracción periódica de lodos.
+
+Inspección periódica de trampas, filtros y cámaras.
+
+Instalación  de  indicadores  y/o  alarmas  de  nivel  para  detección 
+temprana de rebalses.
+
+Control y registro de caudales de entrada y operación.
+
+Capacitación del personal en operación del sistema y detección de 
+fallas.
+
+Capacitación en manejo de derrames y contingencias sanitarias.
+Formas de control y seguimiento 
+
+Registro en bitácora de operación, mantenciones y eventos.
+
+Monitoreo  de  niveles,  caudales  y  parámetros  operacionales 
+mediante instrumentos y/o telemetría.
+
+Verificación periódica del correcto funcionamiento de alarmas y 
+sistemas de control.
+Cierre y reporte de la contingencia
+
+Registro  del  evento,  indicando  causa,  volumen  estimado,  área 
+afectada y medidas implementadas. 
+
+Evaluación de la necesidad de informar a la autoridad competente, en 
+caso de existir afectación ambiental o sanitaria relevante. 
+
+Implementación de medidas correctivas para evitar la recurrencia del 
+evento.
+Situación de riesgo o contingencia 
+Rebalse cámara de decantación
+
+===== p.18 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+17
+Riesgo
+Derrame de aguas contaminadas con sólidos, grasas o hidrocarburos 
+hacia el suelo, áreas externas o drenajes, afectando el correcto 
+funcionamiento del sistema de tratamiento
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Cámara de decantación ubicada previa al separador de hidrocarburos, 
+tuberías de entrada y salida, zona de lavado y sistema de drenaje 
+asociado.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Limpieza periódica cámara de decantación.
+
+Monitorear niveles semanalmente.
+Formas de control y seguimiento 
+
+Bitácora de operación.
+
+Informes de monitoreo firmado por el responsable.
+Situación de riesgo o contingencia
+Falla de bombas de impulsión o presión.
+Riesgo
+Interrupción del proceso y potencial rebalse de cámaras o separador.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Sala de bombas, tuberías de impulsión, unidad de tratamiento.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantenciones programadas de bombas, válvulas y tableros.
+
+Verificación del tablero eléctrico y protecciones.
+
+Disponer de bomba de respaldo o plan de alquiler rápida.
+
+Revisión periódica de caudales y presiones.
+
+Mantener válvulas lubricadas y accesibles.
+Formas de control y seguimiento 
+
+Registros de mantención preventiva.
+
+Bitácora de operación y mantenimiento actualizada.
+
+Informes de mantenimiento firmados por el técnico responsable.
+
+===== p.19 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+18
+Situación de riesgo o contingencia
+Corte prolongado de energía eléctrica.
+Riesgo
+Acumulación de aguas, interrupción del proceso y riesgo de rebalse.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Sala eléctrica, bombas, zona de lavado.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantener generador o acuerdo de uso de equipos alternativos.
+
+Tableros eléctricos en buen estado y con protecciones revisadas.
+
+Monitoreo de cargas críticas.
+Formas de control y seguimiento 
+
+Registros de mantención eléctrica.
+
+Pruebas semestrales de equipos de respaldo.
+
+Revisar amperaje y estado de protecciones.
+
+Lista de chequeo diario de funcionamiento.
+Situación de riesgo o contingencia
+Fallos en el sistema de recirculación o eficiencia del tratamiento.
+Riesgo
+Pérdida de la capacidad de tratamiento, riesgo de rebalses en cámaras y 
+separador de hidrocarburos.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Sistema de recirculación de aguas, bombas de impulsión, cámaras 
+intermedias, filtros, separador de hidrocarburos y tuberías asociadas al 
+circuito de tratamiento.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantención preventiva de bombas, filtros y tuberías según programa.
+
+Verificación diaria del caudal de recirculación y presión de operación.
+
+Limpieza periódica de filtros, tamices y cámaras asociadas.
+
+Control del nivel de sólidos y grasas en las unidades de tratamiento.
+
+Capacitación del personal en operación adecuada del sistema.
+
+Monitoreo continuo del rendimiento del tratamiento 
+Formas de control y seguimiento 
+
+Bitácora de inspecciones diarias del sistema de recirculación.
+
+Registros de mantención y reemplazo de repuestos críticos.
+
+Informes  operacionales  de  eficiencia  del  sistema  (mensuales  o 
+semanales).
+
+Supervisión del estado de bombas y tableros eléctricos al inicio de cada 
+turno.
+
+===== p.20 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+19
+Situación de riesgo o contingencia
+Obstrucción de canaletas o rejillas.
+Riesgo
+Anegamiento del área y descarga involuntaria hacia exterior.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Canaletas de lavado, rejillas, cámaras.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Realizar limpieza periódica de rejillas y canaletas antes y después de la 
+jornada.
+
+Implementar mallas o filtros para evitar ingreso de sólidos grandes.
+
+Mantener una rutina de mantención mensual del sistema de drenaje.
+
+Capacitar al personal para evitar que residuos sólidos ingresen a las 
+áreas de escurrimiento.
+Formas de control y seguimiento 
+
+Supervisión del estado de canaletas al inicio y término de cada turno.
+
+Reporte inmediato de rejillas dañadas o fuera de posición.
+1.9.5.4
+Riesgo por incendio 
+Situación de riesgo o contingencia
+Incendio
+Riesgo
+Daños a infraestructura, equipos y personas; afectación ambiental por 
+liberación de humos y residuos peligrosos; interrupción total de las 
+operaciones y riesgo de propagación hacia áreas externas.
+Fase del proyecto a la que aplica 
+Construcción, operación y cierre
+Emplazamiento, parte, obra o 
+acción asociada 
+Sala eléctrica, tableros, bombas, zona de lavado, área de 
+almacenamiento de combustibles, bodegas, oficinas, áreas de 
+estacionamiento de camiones.
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+
+Mantención eléctrica certificada y revisión periódica de tableros y 
+protecciones.
+
+Botón o interruptor general de corte eléctrico claramente señalizado
+
+Almacenar productos inflamables lejos de fuentes de calor.
+
+No sobrecargar enchufes ni utilizar extensiones improvisadas.
+
+Mantener extintores ABC y CO₂ operativos y con mantención vigente.
+
+Extintores señalizados y accesibles.
+
+Segregar combustibles y sustancias inflamables en áreas seguras y 
+ventiladas.
+
+Prohibición estricta de fumar en áreas operativas.
+
+Capacitación del personal en manejo de extintores y prevención de 
+incendios.
+
+Mantener orden y limpieza para evitar acumulación de elementos 
+combustibles.
+
+Charlas preventivas sobre riesgos eléctricos.
+
+Revisión periódica del sistema de puesta a tierra.
+Formas de control y seguimiento 
+
+Lista de chequeo mensuales de estado de extintores, tableros y equipos 
+eléctricos.
+
+Registros de capacitación anual en manejo de emergencias.
+
+Supervisión del cumplimiento de normas internas de seguridad.
+
+Bitácora de inspecciones internas y auditorías de seguridad.
+
+===== p.21 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+20
+1.10.
+EMERGENCIA
+Ante una emergencia asociada a la losa de lavado de camiones se procederá como se indica a 
+continuación.
+1.10.1. PLAN DE ACCIONES ANTE UNA EMERGENCIA
+1.10.1.1 Riesgos Naturales
+Situación de riesgo o contingencia
+Sismo
+Riesgo
+Evento sísmico que pueda generar daños estructurales en las 
+instalaciones, caída de objetos, interrupción de servicios básicos y 
+afectación a la continuidad operativa de la planta.
+Fase del proyecto a la que aplica 
+Construcción, operación y cierre
+Emplazamiento, parte, obra o 
+acción asociada 
+Zona de lavado, áreas de tránsito de camiones, sala de bombas, tableros 
+eléctricos, bodegas etc.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Cortar  inmediatamente  la  energía  eléctrica  si  existe  riesgo  de 
+cortocircuito.
+
+Activar  el  plan  de  evacuación  hacia  los  puntos  de  encuentro 
+previamente definidos.
+
+Verificar la condición del personal, priorizando rescate de personas 
+atrapadas si es seguro hacerlo.
+
+Realizar una inspección visual de las instalaciones una vez finalizado el 
+evento, sin ingresar a áreas dañadas.
+
+Contener posibles derrames generados por rotura de contenedores o 
+tuberías.
+
+Mantener  suspendida  la  operación  hasta  asegurar  la  estabilidad 
+estructural y la integridad de los equipos.
+
+===== p.22 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+21
+1.10.1.2 Riesgos por accidentes laborales
+Situación de riesgo o contingencia
+Accidentes personas
+Riesgo
+Lesiones leves o graves a personas, interrupción de actividades, posibles 
+responsabilidades legales, afectación al clima laboral y aumento en la 
+probabilidad de incidentes mayores.
+Fase del proyecto a la que aplica 
+Construcción, operación y cierre
+Emplazamiento, parte, obra o 
+acción asociada 
+Zona de lavado, áreas de tránsito de camiones, sala de bombas, tableros 
+eléctricos, bodegas etc.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Detener operaciones en el área afectada 
+
+Prestar primeros auxilios
+
+Activar protocolo interno de emergencias
+
+Notificar al supervisor 
+
+Llamar a servicios de urgencia si corresponde
+
+Aislar la zona del accidente e implementar medidas para evitar nuevos 
+incidentes hasta esclarecer causas
+
+Documentar y levantar investigación interna.
+1.10.1.3 Riesgos operacionales
+Situación de riesgo o contingencia
+Rebalse separador de hidrocarburos.
+Riesgo
+Derrame de aguas industriales con presencia de hidrocarburos hacia el 
+sistema de drenaje o suelo o áreas periféricas.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Separador de hidrocarburos, cámara de ingreso, cámaras intermedias, 
+tuberías de entrada y salida, zona de lavado y sistema de drenaje 
+asociado.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Suspender el ingreso de aguas al separador 
+
+Notificar de inmediato al jefe de operaciones y al personal pertinente
+
+Registrar la hora, condición y síntomas de la falla
+
+Cerrar válvulas de paso o desviar caudales hacia estanque de retención.
+
+Utilizar barreras absorbentes para evitar que el derrame se expanda.
+
+Delimitar el área afectada para prevenir que alcance drenajes, suelos o 
+cuerpos de agua.
+
+Retirar manualmente o con bomba los hidrocarburos acumulados.
+
+Usar paños absorbentes para recoger restos en superficie.
+
+Limpiar superficies afectadas con productos adecuados.
+
+===== p.23 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+22
+Situación de riesgo o contingencia
+Derrame de detergentes, aceites o combustibles.
+Riesgo
+Contaminación del suelo y afectación del sistema de tratamiento.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Plataforma de lavado, canaletas y zonas de tránsito de camiones.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Detener equipos cercanos.
+
+Aislar área afectada.
+
+Protegerse  con  EPP  adecuado  (Guantes  resistentes  a  químicos, 
+Mascarilla, Protector ocular)
+
+Aplicar absorbentes.
+
+Evitar que llegue a canaletas o drenajes.
+
+Recolectar residuos y almacenarlos en contenedores rotulados.
+
+Informar al jefe de Emergencia.
+
+Contratar disposición autorizada, en caso de ser necesario.
+
+Limpiar superficies afectadas con productos adecuados.
+Situación de riesgo o contingencia
+Derrame y/o rebalse de planta de tratamiento de aguas residuales.
+Riesgo
+Descarga no controlada de aguas tratadas o en proceso hacia el sistema 
+de drenaje, suelo o áreas periféricas, con potencial afectación sanitaria y 
+ambiental
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Planta de tratamiento, tuberías de entrada y salida y sistema de drenaje 
+asociado.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Suspender inmediatamente el ingreso de aguas al sistema afectado.
+
+Notificar de forma inmediata al responsable de operaciones.
+
+Delimitar el área afectada para evitar la propagación del derrame 
+hacia suelos o drenajes.
+
+Contener el derrame mediante barreras físicas y material absorbente.
+
+Recuperar las aguas derramadas mediante bombeo o retiro manual.
+
+Limpiar las superficies afectadas utilizando métodos y productos 
+adecuados.
+
+===== p.24 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+23
+Situación de riesgo o contingencia 
+Rebalse cámara de decantación
+Riesgo
+Derrame de aguas contaminadas con sólidos, grasas o hidrocarburos 
+hacia el suelo, áreas externas o drenajes, afectando el correcto 
+funcionamiento del sistema de tratamiento
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Cámara de decantación ubicada previa al separador de hidrocarburos, 
+tuberías de entrada y salida, zona de lavado y sistema de drenaje 
+asociado.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Detener la operación afectada y activar el procedimiento interno de 
+respuesta
+
+Notificar de inmediato al jefe de operaciones y al personal pertinente
+
+Registrar la hora, condición y síntomas de la falla
+
+Cerrar válvulas de ingreso.
+
+Señalizar el área e impedir acceso a personal no autorizado.
+
+Contactar a empresa para retiro de residuos.
+
+Limpiar área y restablecer funcionamiento.
+
+Registrar tiempo de falla, acciones ejecutadas y estado final.
+Situación de riesgo o contingencia
+Falla de bombas de impulsión o presión.
+Riesgo
+Interrupción del proceso y potencial rebalse de cámaras o separador.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Sala de bombas, tuberías de impulsión, unidad de tratamiento.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Detener la operación afectada y activar el procedimiento interno de 
+respuesta
+
+Notificar de inmediato al jefe de operaciones y al personal pertinente
+
+Registrar la hora, condición y síntomas de la falla
+
+Cortar alimentación eléctrica del equipo fallado para evitar riesgos.
+
+Señalizar el área e impedir acceso a personal no autorizado.
+
+Verificar ausencia de fugas, derrames o riesgos eléctricos.
+
+Verificación rápida del sistema
+
+Puesta em marcha el equipo de respaldo
+
+Reparación y control técnico
+
+Registrar tiempo de falla, acciones ejecutadas y estado final.
+
+===== p.25 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+24
+Situación de riesgo o contingencia
+Corte prolongado de energía eléctrica.
+Riesgo
+Acumulación de aguas, interrupción del proceso y riesgo de rebalse.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Sala eléctrica, bombas, zona de lavado.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Suspender lavado
+
+Bloquear acceso de camiones
+
+Revisar que no existan equipos eléctricos en uso.
+
+Retirar manualmente mangueras y equipos.
+
+Contener aguas residuales en estanques o cámaras
+
+Activar sistema de respaldo
+
+Informar a administración. Mantener comunicación con la empresa 
+eléctrica para conocer tiempos estimados
+Situación de riesgo o contingencia
+Fallos en el sistema de recirculación o eficiencia del tratamiento.
+Riesgo
+Pérdida de la capacidad de tratamiento, riesgo de rebalses en cámaras y 
+separador de hidrocarburos.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Sistema de recirculación de aguas, bombas de impulsión, cámaras 
+intermedias, filtros, separador de hidrocarburos y tuberías asociadas al 
+circuito de tratamiento.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Suspender temporalmente el lavado
+
+Cortar la energía del sistema
+
+Verificar obstrucciones o fallas mecánicas
+
+Activar bomba de respaldo o plan de arriendo rápido
+
+Implementar contención preventiva para evitar rebalses
+
+Solicitar apoyo técnico especializado en caso de fallas mayores.
+
+===== p.26 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+25
+Situación de riesgo o contingencia
+Obstrucción de canaletas o rejillas.
+Riesgo
+Anegamiento del área y descarga involuntaria hacia exterior.
+Fase del proyecto a la que aplica 
+Operación
+Emplazamiento, parte, obra o 
+acción asociada 
+Canaletas de lavado, rejillas, cámaras.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Suspender el ingreso de camiones y el lavado
+
+Retirar manualmente los sólidos responsables de la obstrucción (con 
+guantes y herramientas).
+
+Instalar barreras de contención para evitar escurrimientos
+
+Realizar limpieza mecánica del sistema y restablecer el flujo hacia el 
+separador de hidrocarburos
+
+Disponer los residuos retirados en contenedores autorizados.
+
+Registrar el evento
+1.10.1.4 Riesgo por incendio 
+Situación de riesgo o contingencia
+Incendio
+Riesgo
+Daños a infraestructura, equipos y personas; afectación ambiental por 
+liberación de humos y residuos peligrosos; interrupción total de las 
+operaciones y riesgo de propagación hacia áreas externas.
+Fase del proyecto a la que aplica 
+Construcción, operación y cierre
+Emplazamiento, parte, obra o 
+acción asociada 
+Sala eléctrica, tableros, bombas, zona de lavado, área de 
+almacenamiento de combustibles, bodegas, oficinas, áreas de 
+estacionamiento de camiones.
+Acciones o medida a implementar 
+para controlar la emergencia 
+
+Activar alarma interna
+
+Evacuar a todo el personal hacia zona segura
+
+Cortar la energía eléctrica en caso de ser seguro hacerlo
+
+Intentar sofocar el fuego con extintores adecuados solo si está en etapa 
+incipiente
+
+Informar a Bomberos e impedir el acceso a la zona
+
+Contener  derrames  o  escurrimientos  secundarios  que  puedan 
+generarse por el siniestro.
+
+===== p.27 =====
+PERMISO AMBIENTAL SECTORIAL 139 – PLANTA DE LAVADO
+CENTRO METROPOLITANO DE GESTION INTEGRAL DE RESIDUOS
+ANEXO 01 LÁMINA

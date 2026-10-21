@@ -1,0 +1,43 @@
+
+===== p.0 =====
+113
+220
+173
+95
+433
+95
+200
+173
+95
+95
+173
+113
+95
+120
+120
+60
+120
+348
+113
+95
+281
+433
+433
+280
+113
+26
+282
+393
+439
+ELEVACIÓN FRONTAL
+ESCALA  1 : 50
+ELEVACIÓN POSTERIOR
+ESCALA  1 : 50
+ELEVACIÓN LATERAL
+ESCALA  1 : 50
+ELEVACIÓN LATERAL
+ESCALA  1 : 50
+D S S
+a  m  b  i e  n t e
+i n g e n i e r í a
+i n n o v a c i ó n

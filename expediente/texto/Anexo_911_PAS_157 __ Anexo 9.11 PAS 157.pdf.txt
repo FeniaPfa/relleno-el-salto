@@ -1,0 +1,4382 @@
+
+===== p.0 =====
+PERMISO AMBIENTAL SECTORIAL 157
+Revisi´on B
+PROYECTO CENTRO METROPOLITANO DE GESTI´ON
+INTEGRAL DE RESIDUOS
+Desarrollado para:
+Cosemar S.A
+Presentado: 30 de abril de 2026
+Autor:
+RIVERINE SPA
+
+===== p.1 =====
+´Indice
+1. Contexto de Aplicaci´on del PAS 157
+2
+2. Contenidos T´ecnicos Formales
+3
+2.1. Art. 157 Letra a) Descripci´on del Lugar de emplazamiento de las obras . .
+4
+2.1.1.
+Identificaci´on de cauces y delimitaci´on de cuencas . . . . . . . . . .
+4
+2.1.2.
+Ubicaci´on y descripci´on del sector en que se emplazar´an las obras .
+8
+2.1.3.
+Descripci´on de las caracter´ısticas generales de las quebradas
+. . . .
+8
+2.1.4.
+Interacci´on ´area de proyecto con red de drenaje . . . . . . . . . . .
+10
+2.2. Art. 157 Letra b) Descripci´on de las Obras y sus Fases
+. . . . . . . . . . .
+14
+2.2.1.
+Descripci´on de las Obras de Movimiento de Tierras . . . . . . . . .
+14
+2.2.2.
+Descripci´on de las Obras Manejo de Aguas lluvias . . . . . . . . . .
+21
+2.2.3.
+Fases de Construcci´on
+. . . . . . . . . . . . . . . . . . . . . . . . .
+38
+2.2.4.
+Fase de Operaci´on
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+40
+2.2.5.
+Fase de Cierre . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+2.3. Art. 157 Letra c) Estimaci´on de plazos y per´ıodos de construcci´on de las
+obras . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+2.4. Art. 157 Letra d) Plano topogr´afico de planta y perfiles, georreferenciado,
+de la obra y del ´area susceptible de ser afectada . . . . . . . . . . . . . . .
+46
+2.4.1.
+Plano topogr´afico en planta
+. . . . . . . . . . . . . . . . . . . . . .
+46
+2.4.2.
+Perfiles transversales y longitudinal . . . . . . . . . . . . . . . . . .
+46
+2.5. Art. 157 Letra e) Memoria de c´alculo del estudio hidrol´ogico, hidr´aulico,
+socavaciones y arrastre de sedimentos . . . . . . . . . . . . . . . . . . . . .
+47
+2.5.1.
+An´alisis Hidrol´ogico . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+2.5.2.
+Modelaci´on Hidr´aulica . . . . . . . . . . . . . . . . . . . . . . . . .
+57
+2.5.3.
+An´alisis de Socavaciones . . . . . . . . . . . . . . . . . . . . . . . .
+94
+2.5.4.
+Arrastre de Sedimentos . . . . . . . . . . . . . . . . . . . . . . . . . 102
+2.6. Art. 157 Letra f) Plan de Monitoreo . . . . . . . . . . . . . . . . . . . . . . 106
+2.7. Art. 157 Letra g) Medidas tendientes a minimizar los efectos sobre la calidad
+de las aguas, aguas abajo del lugar de construcci´on de las obras
+. . . . . . 109
+2.8. Art. 157 Letra h) Plan de Contingencias
+. . . . . . . . . . . . . . . . . . . 111
+2.9. Art. 157 Letra i) Plan de Emergencias
+. . . . . . . . . . . . . . . . . . . . 112
+PAS 157- CMGIR
+1
+
+===== p.2 =====
+1.
+Contexto de Aplicaci´on del PAS 157
+En el contexto del proyecto “Centro Metropolitano de Gesti´on Integral de Residuos” (en
+adelante el “Proyecto”), desarrollado por COSEMAR S.A, se requiere la tramitaci´on del
+Permiso Ambiental Sectorial establecido en el art´ıculo 157 del RSEIA (PAS 157) - “Per-
+miso para efectuar obras de regularizaci´on o defensa de cauces naturales”, para las obras
+de manejo de aguas lluvias contempladas en el Proyecto, junto con la regularizaci´on de
+cauces asociada al relleno sanitario y los movimientos de tierra necesarios para la habili-
+taci´on de las plataformas de las instalaciones, piscinas de lixiviados, caminos internos, as´ı
+como bermas y muros.
+En general, el Proyecto considera 25 a˜nos de operaci´on, raz´on por la cual el plan de cre-
+cimiento del vaso del relleno sanitario contempla su subdivisi´on en 3 etapas, las cuales se
+ir´an habilitando seg´un las necesidades de disposici´on que requiera el centro. En ese contex-
+to, las obras de manejo de las aguas lluvias sujetas a la tramitaci´on del presente permiso se
+dise˜naron para las condiciones en que se encontrar´a el Proyecto en su etapa final, es decir,
+considerando que el relleno sanitario se encuentra completamente impermeabilizado.
+La construcci´on del relleno sanitario implica la intervenci´on de 16 cauces identificados en
+la red h´ıdrica, de los cuales 7 ser´an completamente intervenidos, 5 de manera parcial y en
+4 se obstruye el paso de la escorrent´ıa hacia aguas abajo del ´area del proyecto. En relaci´on
+con lo anterior, se decidi´o canalizar la escorrent´ıa de origen pluvial que proviene tanto de
+las quebradas intervenidas parcialmente como de aquella generada por las instalaciones
+internas del proyecto. Finalmente, las obras sujetas al presente permiso son todas las
+componentes que requieren obras de movimiento de tierras sobre los cauces identificados,
+as´ı como tambi´en las obras de manejo de las aguas lluvias, las cuales se conforman por 10
+canales, una tuber´ıa, obras de captaci´on y descarga de las aguas hacia las quebradas.
+En funci´on de lo expuesto, a continuaci´on se presentan los contenidos t´ecnicos formales del
+PAS 157, conforme al Art´ıculo 157 del RSEIA y a la gu´ıa “Permiso para efectuar obras
+de regularizaci´on o defensa de cauces naturales” (SEA, 2022). Estos contenidos
+permiten asegurar que no se afecte la vida ni la salud de los habitantes, mediante la no
+alteraci´on significativa del escurrimiento y de los procesos erosivos naturales del cauce y
+la no contaminaci´on de las aguas (requisito de otorgamiento).
+PAS 157- CMGIR
+2
+
+===== p.3 =====
+2.
+Contenidos T´ecnicos Formales
+En la presente secci´on se exhiben los contenidos t´ecnicos y formales para acreditar el
+cumplimiento del Permiso Ambiental Sectorial, de acuerdo a lo siguiente:
+Descripci´on del lugar de emplazamiento de las obras
+Descripci´on de la obra y de sus fases
+Estimaci´on de los plazos y per´ıodos de construcci´on de las obras
+Plano topogr´afico de planta y perfiles, georreferenciado de la obra y del ´area sus-
+ceptible de ser afectada
+Memoria del c´alculo del estudio hidrol´ogico, hidr´aulico, de arrastre de sedimentos y
+de socavaciones, para la situaci´on con y sin proyecto
+Medidas tendientes a minimizar los efectos sobre la calidad de las aguas, aguas abajo
+del lugar de construcci´on de las obras
+Plan de contingencias
+Plan de emergencia
+PAS 157- CMGIR
+3
+
+===== p.4 =====
+2.1.
+Art. 157 Letra a) Descripci´on del Lugar de emplazamiento
+de las obras
+2.1.1.
+Identificaci´on de cauces y delimitaci´on de cuencas
+En la Figura 2-1 se presenta la ubicaci´on geogr´afica del Proyecto “Centro Metropolitano
+de Gesti´on Integral de Residuos”, el cual se encuentra ubicado al sur de Ruta 60, en las
+afueras de Vi˜na del Mar, pr´oximo a la localidad de Quilpu´e, Regi´on de Valpara´ıso.
+Figura 2-1: Ubicaci´on geogr´afica del Proyecto.
+A partir de la cartograf´ıa oficial del Instituto Geogr´afico militar (IGM) a escala 1:50.000,
+se llev´o a cabo en primera instancia la identificaci´on de los cauces naturales presentes en
+el ´area de emplazamiento del proyecto. En la Figura 2-2 se presenta el trazado del camino
+de acceso, el ´area y deslinde de terreno que involucra el proyecto, as´ı como tambi´en la
+red de drenaje basada en la hidrograf´ıa se˜nalada en la carta IGM escala 1:50.000 para la
+zona, de la cual se identifican el Estero Las Palmas, el Estero Marga Marga, el Estero
+Quilpu´e y el Estero Vi˜na del Mar. Cabe destacar que, para efectos de este documento, el
+Estero Marga Marga termina en la confluencia con el Estero Quilpu´e y, desde, ah´ı nace
+el Estero Vi˜na del Mar. En la misma figura se identifican 4 quebradas “sin nombre” que
+interact´uan con el ´area de proyecto, por lo que ser´ıan intervenidas por el relleno sanitario.
+PAS 157- CMGIR
+4
+
+===== p.5 =====
+Por otro lado, en la Tabla 2-1 se muestra la identificaci´on del Estero Marga Marga en la
+red h´ıdrica nacional.
+Tabla 2-1: Identificaci´on seg´un red hidrogr´afica nacional.
+Cauce
+ID
+Cuenca
+C´odigo ssubc
+Estero Marga Marga
+113821
+Estero Marga Marga
+0550
+Figura 2-2: Identificaci´on de cauces seg´un carta IGM 1:50.000.
+De acuerdo con la informaci´on oficial publicada por la DGA, las quebradas “sin nombre”
+de tipo intermitente identificadas anteriormente forman parte de la red h´ıdrica de la deno-
+minada cuenca “Costera entre Aconcagua y Maipo”, subcuenca y subsubcuenca “estero
+Marga Marga”.
+Dado que en terreno y en im´agenes satelitales se observan m´ultiples quebradas naturales,
+se gener´o una red h´ıdrica local en base al levantamiento topogr´afico del proyecto. Para la
+delimitaci´on de cauces se utiliz´o un umbral m´ınimo de 1 ha de cuenca aportante, criterio
+que permite representar adecuadamente las quebradas de fuerte pendiente presentes en el
+sector. La red obtenida se muestra en la Figura 2-3, en relaci´on con el trazado del camino
+de acceso y ´area definida para el proyecto, reconoci´endose tres cauces principales Q1, Q2 y
+PAS 157- CMGIR
+5
+
+===== p.6 =====
+Q3 que atraviesan directamente al ´area del proyecto. Cabe destacar que todos los cauces
+identificados en la cartograf´ıa IGM se encuentran contenidos en esta red local. Luego,
+las cuencas aportantes de los cauces principales Q1, Q2 y Q3 se muestran en la Figura
+2-4 mientras que los par´ametros morfol´ogicos y la delimitaci´on de las subcuencas de la
+red h´ıdrica identificada se detallan en el Cap´ıtulo 2.5.1 An´alisis Hidrol´ogico del presente
+documento.
+Adicionalmente, debido a la gran cantidad de cauces sin nombre, se adopt´o una nomen-
+clatura jer´arquica basada en el orden de Hack. Este sistema asigna un n´umero i al cauce
+principal, j a sus tributarios directos y k a los tributarios de estos, permitiendo identificar
+cada cauce seg´un su posici´on dentro de la red de drenaje (Qi,j,k).
+Figura 2-3: Definici´on red de drenaje con ´area aportante mayor a 1 hect´area junto a cauces
+IGM.
+PAS 157- CMGIR
+6
+
+===== p.7 =====
+Figura 2-4: Delimitaci´on de cuencas cauces Q1, Q2 y Q3.
+PAS 157- CMGIR
+7
+
+===== p.8 =====
+2.1.2.
+Ubicaci´on y descripci´on del sector en que se emplazar´an las obras
+En particular, el ´area donde se emplazar´an las obras se encuentra al sur de la ruta 60 y
+considera un camino de acceso de 3,8 km que permita conectar sus instalaciones con esta
+v´ıa. En cuanto a los poblados cercanos, el ´area de proyecto se encuentra aprox. 2,0 km al
+SO del entorno urbano de la comuna de Quilpu´e y 7,0 km al NE del sector Placilla de la
+comuna de Valpara´ıso.
+En la Tabla 2-2 se presenta la ubicaci´on en coordenadas UTM Datum WGS 84-Huso 19
+S referenciales para el ´area del proyecto.
+Tabla 2-2: Coordenadas ubicaci´on referencial del ´area de proyecto.
+Zona
+Coordenadas UTM
+Datum WGS 84, Huso 19 S
+ESTE (m)
+NORTE (m)
+´Area Proyecto
+268.115
+6.337.100
+El sector donde se emplaza el proyecto se caracteriza por la presencia de m´ultiples que-
+bradas con pendientes altas, cauces principales bien definidos de secci´on homog´enea y
+taludes pronunciados. El terreno esta dominado por matorrales bajos, pastizales estacio-
+nales y suelos bald´ıos con un contenido de sedimentos finos evidente. S´olo en capas de
+suelo m´as profundas y en el lecho de cauces principales se identificaron arenas gruesas con
+una alta permeabilidad y capacidad de arrastre.
+2.1.3.
+Descripci´on de las caracter´ısticas generales de las quebradas
+En primer lugar, seg´un lo observado en terreno, los cauces se clasifican como torrentes
+de escurrimiento espor´adico, con una aparente secci´on trapecial de taludes pronunciados
+(≈1:1 H:V). La cobertura vegetal que se observa en la zona de estudio posee un car´acter
+homog´eneo. Adicionalmente, se destaca que las quebradas son pronunciadas desde la cabe-
+cera de sus cuencas hasta la desembocadura en el Estero Marga-Marga y Estero Vi˜na del
+Mar, con una pendiente promedio mayor al 30 %, sin terrazas ni planicies de inundaci´on
+evidentes. En la Figura 2-5 se presentan las desembocaduras de las quebradas Q1, Q2 y
+Q3 hacia el Estero Marga Marga, y en la Figura 2-6, se muestra una fotograf´ıa capturada
+mediante vuelo de dron representativa de las quebradas en la zona de proyecto.
+En la Figura 2-7 se muestran las caracter´ısticas morfol´ogicas que presentan las diferentes
+quebradas que interact´uan con el proyecto, de las cuales se identifican tres (3) cualidades
+generales: a) Secci´on de lecho con presencia de gravas y vegetaci´on, y laderas pronunciadas
+con vegetaci´on alta y media; b) Secci´on con vegetaci´on, lecho de arenas y taludes de
+sedimento fino c) Secci´on angosta de baja vegetaci´on, lecho arenoso y taludes de sedimento
+fino.
+PAS 157- CMGIR
+8
+
+===== p.9 =====
+Figura 2-5: Vista en planta de la quebrada Q1, Q2 y Q3. a) Red de drenaje de la quebrada
+Q3. b) Zoom en la zona de descarga hacia el Estero Marga Marga. c) Fotograf´ıa del vuelo
+dron en la zona de descarga en el Estero Marga Marga.
+Figura 2-6: Fotograf´ıa representativa de las quebradas Q1, Q2 y Q3 en la zona de proyecto.
+Im´agenes capturadas de vuelo dron en terreno, con fecha 7 de Febrero de 2025.
+PAS 157- CMGIR
+9
+
+===== p.10 =====
+Figura 2-7: Fotograf´ıas representativas de distintos tramos observables en la quebrada
+Q2. (a) Secci´on de lecho con presencia de gravas y vegetaci´on. (b) Secci´on con vegetaci´on,
+lecho de arenas y taludes con presencia de sedimento fino. (c) Secci´on angosta de baja
+vegetaci´on, lecho arenoso y taludes con presencia de sedimento fino. Fotograf´ıas del 7 de
+Febrero de 2025.
+2.1.4.
+Interacci´on ´area de proyecto con red de drenaje
+Para contextualizar el Proyecto, en la Figura 2-8 se presentan sus principales componentes.
+En particular, se muestra el estado final del relleno sanitario mediante curvas de nivel,
+con curva maestra cada 10 m, una vez finalizada la operaci´on del Centro. Dadas las
+caracter´ısticas del Proyecto, se requiere rellenar parte de las quebradas para conformar
+las plataformas donde se dispondr´an las instalaciones de administraci´on y operaciones,
+caminos internos, zonas de lixiviados, entre otros. Por otro lado, para el manejo de las
+aguas lluvias, el Proyecto contempla las siguientes obras: canales, junto con sus respectivas
+obras de captaci´on y descarga, y Tuber´ıa.
+PAS 157- CMGIR
+10
+
+===== p.11 =====
+Figura 2-8: Obras y componentes del Proyecto.
+En cuanto a la interacci´on de las diferentes componentes del Proyecto con la red h´ıdrica
+identificada en la zona, esta se presenta en la Figura 2-9, mientras que en la Tabla 2-3 se
+individualizan las quebradas que ser´an intervenidas por cada componente.
+De acuerdo con ello, la construcci´on del relleno sanitario y sus diferentes componentes
+implicar´a la intervenci´on de 19 cauces de la red h´ıdrica identificada para el sector donde se
+emplaza el proyecto. Del total de cauces intervenidos: 8 ser´an completamente intervenidos,
+5 ser´an afectados parcialmente en su tramo naciente disminuyendo as´ı su longitud, 5 cauces
+ven interrumpido su desarrollo y el paso de la escorrent´ıa aguas abajo del proyecto, y, por
+´ultimo, 1 recibe una intervenci´on puntual producto de una descarga de aguas.
+PAS 157- CMGIR
+11
+
+===== p.12 =====
+Figura 2-9: Cauces identificados que interact´uan con las diferentes componentes del Pro-
+yecto.
+PAS 157- CMGIR
+12
+
+===== p.13 =====
+Tabla 2-3: Cauces identificados con intervenci´on por el proyecto.
+ID
+Componente proyecto
+Quebrada Intervenida
+1
+Plataforma: Zona Instalaciones Administra-
+tivas y Operacionales (Etapa 1)
+Q2, Q2.1.10, Q2.1.11
+2
+Plataforma: Zona de Compostaje (Etapa 1)
+Q2, Q2.1.12, Q3.1.15
+3
+Plataforma: Zona de Lixiviados (Etapa 1)
+Sin Intervenci´on
+4
+Plataforma: Zona de Lixiviados (Etapa 2)
+Q2.1.15
+5
+Plataforma: Piscina de Lixiviados (Etapa 1)
+Q2.1.9
+6
+Plataforma: Piscina de Lixiviados (Etapa 2)
+Q2.1.6
+7
+Plataforma: Bermas y muros (Etapa 1)
+Q2, Q2.1.12, Q2.1.9, Q2.2.4
+8
+Plataforma: Bermas y muros (Etapa 2)
+Q2.1.6, Q2.2
+9
+Plataforma: Bermas y muros (Etapa 3)
+Q1
+10
+Relleno Sanitario (Etapa 1)
+Q2, Q2.1.14, Q2.1.13, Q2.1.9
+11
+Relleno Sanitario (Etapa 2)
+Q2.1.6, Q2.2.1
+12
+Relleno Sanitario (Etapa 3)
+Q2.1.6,
+Q1,
+Q1.1.15,
+Q1.1.17,
+Q1.1.16
+13
+Caminos Interiores
+Q2, Q2.1.9, Q2.2.3, Q2.2.4
+14
+Captaciones, Canales y Descargas
+Q2,
+Q2.1.14,
+Q2.1.9,
+Q2.2.3,
+Q2.1.6, Q1, Q1.1.17, Q1.1.14
+15
+Tuber´ıa
+Q2, Q2.1.14
+PAS 157- CMGIR
+13
+
+===== p.14 =====
+2.2.
+Art. 157 Letra b) Descripci´on de las Obras y sus Fases
+2.2.1.
+Descripci´on de las Obras de Movimiento de Tierras
+Para la implementaci´on del Proyecto se requiere ejecutar movimientos de tierra asociados
+al “Plan de crecimiento del vaso” del relleno sanitario, as´ı como a la conformaci´on de las
+plataformas destinadas a instalaciones de administraci´on y operaciones, caminos internos
+y zonas de manejo de lixiviados, entre otros (ver Figura 2-10).
+En relaci´on con el “Plan de crecimiento del vaso”, y considerando una vida ´util proyecta-
+da de 25 a˜nos, el relleno sanitario se subdividir´a en tres etapas, las cuales se habilitar´an
+progresivamente en funci´on de los requerimientos de disposici´on. En este contexto, algu-
+nos componentes del Proyecto se ejecutar´an de manera gradual, en concordancia con la
+implementaci´on de dichas etapas.
+Es importante aclarar que los movimientos de tierra asociados a las plataformas con-
+forman, en su conjunto, una ´unica plataforma. No obstante, debido a la existencia de
+distintas etapas, esta se ha subdividido seg´un las obras que alberga, con el fin de facilitar
+su comprensi´on.
+A continuaci´on se presenta una descripci´on detallada de las plataformas e instalaciones y
+su interacci´on con la red h´ıdrica identificada para el ´area del Proyecto.
+Figura 2-10: Componentes que requieren obras de movimiento de tierras.
+PAS 157- CMGIR
+14
+
+===== p.15 =====
+2.2.1.1
+Plataformas de Instalaciones
+Los movimientos de tierra necesarios para generar 4 plataformas requeridas por el Proyecto
+se muestran en la Figura 2-11, donde adem´as se indica la cota referencial definida para
+´estas, as´ı como tambi´en la cota del cauce intervenido, tanto aguas arriba como aguas
+abajo de la explanada.
+En cuanto a su uso, las 4 plataformas se definen como zonas para “Instalaciones adminis-
+trativas y Operaciones”, “Compostaje” y “Lixiviados”. Algunas caracter´ısticas generales
+de las plataformas como superficie, cota de proyecto, etapa de ejecuci´on y quebrada in-
+tervenida por estas se resumen en la Tabla 2-4.
+Tabla 2-4: Caracter´ısticas Plataformas proyectadas.
+Plataforma
+Superficie
+(ha)
+Cota Proyecto
+(msnm)
+Etapa
+ejecuci´on
+Quebrada Intervenida
+P1 - Zona Instalaciones
+Administrativa y Operacionales
+3,32
+251,0
+Etapa 1
+Q2 , Q2.1.10 , Q2.1.11
+P2 - Zona de Compostaje
+3,41
+271,0
+Etapa 1
+Q2, Q2.1.12, Q3.1.15
+P3 - Zona de Lixiviados (ET 1)
+1,30
+261,0 - 251.0
+Etapa 1
+Sin Intervenci´on de cauces
+P4 - Zona de Lixiviados (ET 2)
+1,02
+256,0
+Etapa 2
+Q2.1.5
+Figura 2-11: Vista en planta movimiento de tierras - Plataformas.
+PAS 157- CMGIR
+15
+
+===== p.16 =====
+2.2.1.2
+Plataformas de Piscinas y Caminos Interiores
+El movimiento de tierras requerido para la construcci´on de las Piscinas de la zona de Lixi-
+viados y de los caminos interiores proyectados se muestra en la Figura 2-12. En la misma
+imagen se detallan las cotas referenciales para las piscinas (cota de fondo y coronamiento),
+cotas de caminos interiores y cota de quebradas intervenidas (azul).
+Figura 2-12: Vista en planta movimiento de tierras - Piscinas y Caminos Interiores.
+Las Piscinas de lixiviados se ejecutar´an en las Etapas 1 y 2 del Proyecto, principalmente
+mediante rellenos sobre los cauces de las quebradas Q2.1.9 y Q2.1.6. La magnitud de
+superficie (ha), cotas de fondo y cota de coronamiento se presenta a modo de resumen en
+la Tabla 2-5.
+El Proyecto considera la disposici´on de caminos interiores que permitan la circulaci´on
+entre las diferentes componentes de ´este. De los caminos a ejecutar, 3 requieren para su
+construcci´on rellenar el cauce de las quebradas identificadas de la red h´ıdrica. Por ´ultimo,
+en la Tabla 2-6 se presenta el ancho, longitud, etapa de ejecuci´on y quebrada intervenida
+por cada camino proyectado.
+PAS 157- CMGIR
+16
+
+===== p.17 =====
+Tabla 2-5: Caracter´ısticas Piscinas zona de Lixiviados proyectadas.
+Componente
+Superficie
+(ha)
+Cota Fondo
+(msnm)
+Cota
+Coronamiento
+(msnm)
+Quebrada
+Intervenida
+Piscina de Lixiviados (Etapa 1)
+0,47
+219,0
+231,0
+Q2.1.9
+Piscina de Lixiviados (Etapa 2)
+0,65
+216,0
+231,0
+Q2.1.6
+Tabla 2-6: Caracter´ısticas Caminos Interiores proyectados.
+Camino Interior
+Ancho
+(m)
+Longitud
+(m)
+Etapa
+Quebrada
+Intervenida
+CAM-1
+9,0
+245
+Etapa 1
+Q2
+CAM-2
+8,5
+185
+Etapa 1
+Q2.1.9, Q2.2.4
+CAM-3
+10,0
+315
+Etapa 1
+Q2.1.9, Q2.2.3
+CAM-4
+6,0
+137
+Etapa 2
+Sin Intervenci´on de cauces
+CAM-5
+8,0
+87
+Etapa 2
+Sin Intervenci´on de cauces
+2.2.1.3
+Plataforma de Bermas y Muros
+En la Figura 2-13 se presenta el alcance del movimiento de tierras requerido para la
+ejecuci´on de 4 rellenos que conformar´an la Berma y Muros (ByM) sobre las quebradas
+identificadas en la red h´ıdrica. Se se˜nala en la misma imagen la cota de coronamiento de
+cada terrapl´en, y adicionalmente, se indica la cota del lecho de cauce que ser´a intervenido
+por este. En la Tabla 2-7 se presenta un resumen con la etapa de ejecuci´on de cada
+terrapl´en, cota de coronamiento de la berma y cota del cauce aguas arriba de la obra para
+contextualizar la magnitud del relleno sobre las quebradas intervenidas por la obra.
+Tabla 2-7: Caracter´ısticas de Bermas y Muros proyectados.
+Bermas y Muros
+Etapa
+Quebrada
+Intervenida
+Cota Berma
+(msnm)
+Cota Quebrada
+Aguas Arriba
+(msnm)
+ByM - 1
+Etapa 1
+Q2.1.9, Q2.2.4
+284
+265,5
+ByM - 2
+Etapa 1
+Q2, Q2.1.12
+291
+279,5
+ByM - 3
+Etapa 2
+Q2.1.6, Q2.2
+261
+228,5
+ByM - 4
+Etapa 3
+Q1
+271
+246,0
+PAS 157- CMGIR
+17
+
+===== p.18 =====
+Figura 2-13: Vista en planta movimiento de tierras - Bermas y Muros.
+2.2.1.4
+Relleno Sanitario
+El relleno sanitario cuenta con un plan de crecimiento que implica la subdivisi´on del
+vaso en 3 etapas, las cuales se ir´an habilitando en la medida que los requerimientos de
+disposici´on as´ı lo requieran. La superficie por excavar en cada etapa se presenta en la Tabla
+2-8. Luego, en las Figuras 2-14 a la 2-16 se presenta una vista en planta del movimiento
+de tierras a ejecutar en el vaso mediante curvas de nivel (cada 1m), donde se representa
+el estado de la excavaci´on y relleno una vez finalizada cada una de las Etapas.
+Tabla 2-8: Superficie a excavar por Etapa. (Fuente: Anexo Plan de Crecimiento)
+Etapa
+Superficie excavaci´on
+m2
+1
+163.139
+2
+144.685
+3
+142.127
+Total
+449.951
+PAS 157- CMGIR
+18
+
+===== p.19 =====
+Figura 2-14: Vista en planta movimiento de tierras - Excavaci´on y Relleno Etapa 1.
+Figura 2-15: Vista en planta movimiento de tierras - Excavaci´on y Relleno Etapa 2.
+PAS 157- CMGIR
+19
+
+===== p.20 =====
+Figura 2-16: Vista en planta movimiento de tierras - Excavaci´on y Relleno Etapa 3.
+Visto lo anterior, en la Tabla 2-9 se identifican las quebradas que ser´an intervenidas du-
+rante la operaci´on del relleno sanitario, esto para cada etapa de ejecuci´on de la excavaci´on
+y relleno del vaso.
+Tabla 2-9: Quebradas intervenidas en cada etapa de ejecuci´on del Relleno Sanitario.
+Etapa
+Quebrada Intervenida
+1
+Q2, Q2.1.14, Q2.1.13, Q2.1.9
+2
+Q2.1.6, Q2.2.1
+3
+Q2.1.6, Q1, Q1.1.15, Q1.1.16, Q1.1.17
+PAS 157- CMGIR
+20
+
+===== p.21 =====
+2.2.2.
+Descripci´on de las Obras Manejo de Aguas lluvias
+El manejo de las aguas lluvias propuesto para el interior del ´area de Proyecto contempla
+la evacuaci´on de ´estas mediante canales abiertos. Estos permitir´an captar la escorrent´ıa
+de origen pluvial que se generar´a en los diferentes componentes del Proyecto, conduciendo
+y descargando las aguas hacia la red de quebradas existentes en los costado Norte y Este
+del ´area de proyecto. Por otro lado, el Proyecto interceptar´a el escurrimiento intermitente
+de tipo pluvial que conducen las quebradas Q2, Q2.1.14, Q1 y Q1.1.17. Se proponen
+obras de captaci´on que permiten dirigir la escorrent´ıa de las quebradas hacia la red de
+canales internos del proyecto, usando como criterio de dise˜no que el flujo sea evacuado
+en las quebradas que originalmente recib´ıan estas aguas, evitando con ello el trasvasije de
+cuencas.
+La soluci´on de saneamiento antes descrita se detalla en la Figura 2-9, en la cual se muestra
+la ubicaci´on de los puntos de captaci´on y quebradas involucradas, trazado de la red de
+canales propuesta al interior del Proyecto y, por ´ultimo, los puntos de descarga de las
+aguas lluvias hacia quebradas existentes. Las obras componentes del manejo de aguas
+lluvias se˜naladas anteriormente se describir´an en detalle a continuaci´on.
+Figura 2-17: Vista en planta obras manejo aguas lluvias del Proyecto: red de canales,
+puntos de captaci´on y descargas.
+PAS 157- CMGIR
+21
+
+===== p.22 =====
+2.2.2.1
+Canales
+Para el ´area de Proyecto se dise˜naron un total de 10 canales abiertos que tendr´an por
+finalidad captar y conducir hasta el punto de descarga la escorrent´ıa de origen pluvial
+que se genere durante eventos de precipitaci´on, por lo que no conducir´an escurrimientos
+de manera permanente. Para el trazado y definici´on altim´etrica de los canales se trabaj´o
+con la topograf´ıa definida en la situaci´on “con proyecto” considerando el escenario en que
+el relleno se encuentra impermeabilizado totalmente. De igual manera, se respetaron los
+trazados y cotas definidas para caminos interiores y berma del proyecto, generando obras
+de atravieso (OA) bajo la rasante en estos puntos de interferencia.
+En la siguiente tabla se presenta la ubicaci´on en coordenadas UTM Datum WGS 84-Huso
+19 S referenciales para el ´area del proyecto as´ı como tambi´en de los v´ertices que se˜nalan
+el inicio y fin de los canales.
+Tabla 2-10: Coordenadas v´ertices inicio – fin de obras de canalizaci´on proyectadas.
+Obra
+Coordenadas UTM Datum WGS 84, Huso 19 S
+V´ertice
+Inicio
+Este
+(m)
+Norte
+(m)
+V´ertice
+Final
+Este
+(m)
+Norte
+(m)
+CANAL 1.0
+VI-01
+267.826
+6.336.906
+VF-01
+267.885
+6.336.680
+CANAL 1.1
+VI-02
+267.720
+6.336.867
+VF-02
+267.824
+6.336.905
+CANAL 1.2
+VI-03
+267.717
+6.336.867
+VF-03
+268.085
+6.337.547
+CANAL 1.3
+VI-04
+267.707
+6.337.102
+VF-04
+268.248
+6.337.492
+CANAL 1.4
+VI-05
+267.723
+6.337.222
+VF-05
+268.221
+6.337.488
+CANAL 2.0
+VI-06
+268.514
+6.337.205
+VF-06
+268.490
+6.337.434
+CANAL 2.1
+VI-07
+268.218
+6.337.298
+VF-07
+268.514
+6.337.205
+CANAL 2.2
+VI-08
+268.500
+6.336.954
+VF-08
+268.514
+6.337.205
+CANAL 3.1
+VI-09
+268.002
+6.336.643
+VF-09
+268.514
+6.336.763
+CANAL 3.2
+VI-10
+268.434
+6.336.702
+VF-10
+268.683
+6.337.031
+El dise˜no de los canales se bas´o en los lineamientos t´ecnicos establecidos en la “Gu´ıa
+Metodol´ogica para la presentaci´on y Revisi´on T´ecnica de Proyectos de Modificaci´on de
+Cauces Naturales y Artificiales” (en adelante, “Gu´ıa”). Para el dimensionamiento de los
+canales se ocuparon los caudales asociados a 100 a˜nos de per´ıodo de retorno (ver Tabla
+2-11) y se consider´o una revancha m´ınima de 20 cm y m´axima de 50 cm.
+PAS 157- CMGIR
+22
+
+===== p.23 =====
+Tabla 2-11: Caudales de dise˜no Canales (m3/s) y longitud total (m).
+Canal
+Caudal Dise˜no Q(m3/s)
+Longitud Total (m)
+CANAL 1.0
+0,75
+306
+CANAL 1.1
+0,13
+115
+CANAL 1.2 - Tramo 1
+0,49
+564
+CANAL 1.2 - Tramo 2
+0,82
+220
+CANAL 1.2 - Tramo 3
+1,25
+395
+CANAL 1.3
+1,46
+833
+CANAL 1.4
+1,44
+626
+CANAL 2.0
+1,23
+250
+CANAL 2.1
+0,85
+315
+CANAL 2.2
+0,39
+280
+CANAL 3.1
+1,52
+616
+CANAL 3.2
+1,50
+484
+La elecci´on de la materialidad y secci´on tipo en cada canal se bas´o en las velocidades
+admisibles de los materiales a emplear como revestimiento ante los flujos eventuales:
+Velocidades Admisibles Hormig´on Armado V = 8 m/s
+Velocidad Admisible Shotcrete V = 4 m/s
+De acuerdo con lo anterior, en la Figura 2-18 se muestran las secciones tipo rectangular
+o trapezoidal elegidas para la construcci´on de los canales. La materialidad de ambas
+secciones est´a relacionada con el tipo de secci´on a implementar, es decir, las secciones de
+tipo rectangular se implementar´a hormig´on armado, mientras que en las secciones de tipo
+trapezoidal se implementar´a un revestimiento de tipo shotcrete.
+PAS 157- CMGIR
+23
+
+===== p.24 =====
+Figura 2-18: Secciones tipo rectangular y trapezoidal de Canales proyectados.
+Las caracter´ısticas principales de los canales proyectados se presentan en la Figura 2-19,
+donde se detalla el caudal de dise˜no, longitud total, longitud por secci´on tipo de cada
+canal, secci´on tipo y dimensiones geom´etricas m´ınimas de cada canal, materialidad y
+pendientes m´ınima/m´axima que contempla el desarrollo longitudinal de cada tramo del
+canal.
+PAS 157- CMGIR
+24
+
+===== p.25 =====
+Figura 2-19: Caudales de dise˜no, longitud, dimensiones de secci´on tipo, materialidad y
+pendientes m´aximas/m´ınimas en Canales proyectados.
+PAS 157- CMGIR
+25
+
+===== p.26 =====
+Finalmente, una breve descripci´on del funcionamiento de la red de canales proyectados se
+detalla a continuaci´on:
+a) Canal 1.0 y Canal 1.1
+El Canal 1.0 y Canal 1.1 tienen por funci´on captar y conducir las aguas lluvias que
+escurran hacia la zona de la berma desde las cabeceras de cuencas y zona de taludes
+proyectados en el borde exterior del proyecto, impidiendo as´ı que las aguas ingresen al
+relleno sanitario. De igual manera parte del Canal 1.1 recibir´a adem´as los aportes que el
+relleno ya impermeabilizado generar´a por las precipitaciones. Debido a que el trazado del
+Canal 1.0 se encuentra entre las Etapas 1 y 3 del proyecto, este se ejecutar´a por tramos.
+Los primeros 90 m del Canal 1.0 – Tramo 1 se ejecutar´an en la Etapa 1, mientras que los
+216 m restantes del Canal 1.0 – Tramo 2 se construir´an en la Etapa 3.
+Las aguas colectadas por estos canales descargar´an en la “C´amara Receptora N° 1”, cons-
+truida in situ de hormig´on armado y de dimensiones 2,0m x 2,0m x 3,50m. Esta c´amara
+recibir´a adem´as la escorrent´ıa proveniente de las quebradas Q2 y Q2.1.14 a trav´es de la
+obra de atravieso A-27. Luego, las aguas colectadas en la c´amara son evacuadas mediante
+una tuber´ıa de acero DN 1200, cuyo trazado se proyecta bajo el relleno sanitario, vertiendo
+el caudal transportado en el Canal-1.4.
+Debido a las condiciones topogr´aficas del proyecto, se considera en el Canal-1.0 un disi-
+pador de energ´ıa adaptado a la geometr´ıa del canal del tipo LAM 4.105.201 del Manual
+de Carreteras vol. 4.
+Figura 2-20: Vista en planta Canal 1.0, Canal 1.1, Tuber´ıa, Atravieso A-27 y C´amara
+Receptora.
+PAS 157- CMGIR
+26
+
+===== p.27 =====
+b) Canal 1.2
+El Canal 1.2 es el m´as extenso de la red de canales con 1.180 m y se extiende por el
+costado S-E del proyecto. Para optimizar las obras asociadas a su construcci´on se opt´o
+por subdividirlo en 3 tramos (ver Figura 2-21) acorde a la capacidad de caudal requerida,
+los cuales se denominaron Canal 1.2-Tramo 1, Canal 1.2-Tramo 2 y Canal 1.2-Tramo 3.
+El Canal 1.2-Tramo 1 tiene por funci´on captar y conducir las aguas lluvias que escurren
+hacia la zona de la berma desde las cabeceras de las cuencas y zonas de taludes proyecta-
+dos, impidiendo que ´estas ingresen hasta el relleno sanitario y a la Plataforma 2 – Zona
+de Compostaje por el costado SE del Proyecto. La escorrent´ıa luego es evacuada hacia el
+tramo 2 mediante una tuber´ıa de media ca˜na de acero corrugado DN 1000.
+El Canal 1.2-Tramo 2 tiene por funci´on recibir y conducir los flujos provenientes del tramo
+01 y del sistema de aguas lluvias de la Plataforma 2-Zona de Compostaje evac´ue hacia el
+canal. Luego, el flujo ser´a evacuado hacia el tramo 03 mediante un disipador de energ´ıa
+de hormig´on armado del tipo LAM 4.105.201 del Manual de Carreteras vol. 4, adaptado
+para las condiciones del canal.
+En cuanto al Canal 1.2-Tramo 3, este tiene por funci´on recibir y evacuar el flujo proveniente
+del tramo 02 y el caudal que el sistema de aguas lluvias de la Plataforma 01- Zona de
+Instalaciones Administrativas y operacionales evacue hacia este. Finalmente, las aguas
+ser´an evacuadas mediante la “Obra de Descarga N° 1” directamente hacia la quebrada Q2
+ubicada en el costado NE del Proyecto, cauce afluente del estero Marga Marga.
+Figura 2-21: Vista en planta tramos de Canal 1.2 y Obra de Descarga N°1.
+PAS 157- CMGIR
+27
+
+===== p.28 =====
+c) Canal 1.3
+El Canal 1.3 tiene por funci´on principal captar, conducir y evacuar las aguas lluvias que
+escurren en la zona de la berma ubicada en costado N-E del relleno sanitario. Durante la
+Etapa 1, las aguas provendr´an desde la berma, por lo que la funci´on del canal ser´a evitar
+el ingreso de estas hacia la excavaci´on y a la zona de operaci´on del relleno sanitario. Por
+otro lado, durante la ejecuci´on y operaci´on de las Etapas 2 y 3, se espera que la funci´on
+principal del canal sea recibir la escorrent´ıa del relleno impermeabilizado de la Etapa 1.
+Debido a las condiciones topogr´aficas del Proyecto, el canal considera varios disipadores
+de energ´ıa de hormig´on armado del tipo LAM 4.105.201 del Manual de Carreteras vol. 4,
+adaptados para los requerimientos altim´etricos y dimensiones del canal.
+Luego, las aguas ser´an evacuadas mediante la “Obra de Descarga N° 3” directamente
+sobre la nueva naciente de la quebrada Q2.2.3 ubicada en el costado Norte del Proyecto,
+la cual conducir´a libremente el flujo hacia la quebrada Q2.1.9, afluente de la quebrada
+Q2.
+Figura 2-22: Vista en Planta Canal 1.3 y obra de Descarga N°3.
+PAS 157- CMGIR
+28
+
+===== p.29 =====
+d) Canal 1.4
+El Canal 1.4 tiene por funci´on captar, conducir y evacuar las aguas lluvias que provienen
+del talud ubicado entre la Plataforma P2-Zona de Compostaje y tramo N-E de la Berma.
+Sin embargo, el 92 % del caudal que transportar´a este canal proviene de la “C´amara
+Receptora N° 1” a trav´es de la tuber´ıa dispuesta bajo el relleno sanitario, por lo que se
+considera que el Canal 1.4 corresponde s´olo a una extensi´on de la soluci´on propuesta para
+el manejo de la escorrent´ıa de las quebradas Q2-Q2.1.14 y de los canales 1.0 y 1.1.
+Debido a las condiciones topogr´aficas del proyecto, el canal considera varios disipadores
+de energ´ıa de hormig´on armado del tipo LAM 4.105.201 del Manual de Carreteras vol. 4,
+adaptados para los requerimientos altim´etricos y dimensiones del canal.
+Las aguas colectadas ser´an evacuadas mediante la “Obra de Descarga N° 2” directamente
+sobre la nueva naciente de la quebrada Q2.1.9, la cual conducir´a libremente el flujo hacia
+la quebrada Q2, afluente del estero Marga Marga.
+Figura 2-23: Vista en Planta Canal 1.4, Tuber´ıa, Obra de Captaci´on N°1 y Descarga N°2.
+PAS 157- CMGIR
+29
+
+===== p.30 =====
+e) Canal 2.0, Canal 2.1 y Canal 2.2
+Estos canales corresponden al saneamiento de aguas lluvias que se ejecutar´a para la Etapa
+2 del proyecto. Tanto el Canal 2.1 como el Canal 2.2 tienen por funci´on captar y conducir
+las aguas lluvias provenientes tanto de la berma y como del costado N-E del relleno sani-
+tario. Durante la ejecuci´on de la Etapa 2, los canales tienen por objeto impedir el ingreso
+de la escorrent´ıa pluvial desde la berma hacia la excavaci´on del relleno sanitario, mientras
+que, al culminar esta etapa, deber´an captar tambi´en aquella que genere la impermeabili-
+zaci´on de la cara NE del relleno. Ambos canales son afluentes del Canal 2.0, por lo que
+para el punto de conexi´on entre estos 3 canales se proyecta una obra de empalme que
+permita evacuar la escorrent´ıa que estos conducen.
+Por otro lado, el Canal 2.0 tiene por funci´on conducir y evacuar las aguas provenientes de
+los canales 2.1 y 2.2. Debido a las condiciones topogr´aficas del proyecto, el canal considera
+varios disipadores de energ´ıa de hormig´on armado del tipo LAM 4.105.201 del Manual de
+Carreteras vol. 4, adaptados para los requerimientos altim´etricos y geom´etricos del canal.
+Finalmente, las aguas ser´an evacuadas mediante la “Obra de Descarga N° 4” directamente
+sobre la nueva naciente de la quebrada Q2.1.6 ubicada en el costado Norte del proyecto, la
+cual conducir´a libremente el flujo hacia la quebrada Q2, afluente del estero Marga Marga.
+Figura 2-24: Vista en Planta Canal 2.0 y obra de Descarga N°4.
+PAS 157- CMGIR
+30
+
+===== p.31 =====
+f) Canal 3.1
+Este canal es parte del saneamiento de aguas lluvias que se ejecutar´a en la Etapa 3 del
+proyecto y se extiende por el costado SE del relleno sanitario. Este canal tiene por objeto
+captar, conducir y evacuar las aguas de origen pluvial que precipiten en la zona. Durante
+la ejecuci´on de la Etapa 3, este canal tiene por objeto evitar que la escorrent´ıa proveniente
+desde la berma, taludes del borde exterior del proyecto y quebradas del costado sur del
+proyecto ingresen a la zona de excavaci´on del relleno sanitario. Al culminar esta etapa, se
+espera que el canal tambi´en capte la escorrent´ıa que se genere por la impermeabilizaci´on
+de la cara S-E del relleno sanitario.
+Se contempla que el Canal 3.1 reciba la escorrent´ıa pluvial que conduzcan las quebradas Q1
+y Q1.1.17 mediante las obras de captaci´on N° 2 y N° 3 respectivamente. De igual manera,
+en el extremo aguas arriba del canal se empalmar´a una canaleta de 27 cm x 20 cm, cuya
+funci´on es captar e impedir el paso de la escorrent´ıa de la berma hacia el relleno sanitario.
+Debido a las condiciones topogr´aficas del proyecto, el canal considera varios disipadores
+de energ´ıa de hormig´on armado del tipo LAM 4.105.201 del Manual de Carreteras vol.
+4, adaptados para los requerimientos altim´etricos y geom´etricos del canal. Finalmente,
+las aguas ser´an evacuadas mediante la “Obra de Descarga N° 6” directamente sobre la
+quebrada Q1.1.14 ubicada en el costado SE del Proyecto, la cual conducir´a libremente el
+flujo hacia la quebrada Q1, afluente del estero Marga Marga.
+Figura 2-25: Vista en Planta Canal 3.1, Obras de Captaci´on N° 2 y N° 3 y Obra de
+Descarga N°6.
+PAS 157- CMGIR
+31
+
+===== p.32 =====
+g) Canal 3.2
+El Canal 3.2 es parte del saneamiento de aguas lluvias que se ejecutar´a en la Etapa 3
+del proyecto y se extiende por el costado Este del relleno sanitario. Este canal tiene por
+objeto final captar, conducir y evacuar las aguas de origen pluvial que precipite en la zona.
+Durante la ejecuci´on de la Etapa 3, este canal tiene por objeto evitar que la escorrent´ıa
+proveniente de la berma ingrese a la zona de excavaci´on del relleno sanitario. Una vez cul-
+minada la etapa, este canal captar´a la escorrent´ıa que se genere por la impermeabilizaci´on
+de la cara Este del relleno sanitario.
+Debido a las condiciones topogr´aficas del Proyecto, el canal considera varios disipadores
+de energ´ıa de hormig´on armado del tipo LAM 4.105.201 del Manual de Carreteras vol.
+4, adaptados para los requerimientos altim´etricos y geom´etricos del canal. Finalmente,
+las aguas ser´an evacuadas mediante la “Obra de Descarga N° 5” directamente sobre la
+quebrada Q1, ubicada en el costado SE del Proyecto, la cual es afluente del estero Marga
+Marga.
+Figura 2-26: Vista en Planta Canal 3.2 y Obra de Descarga N°5.
+PAS 157- CMGIR
+32
+
+===== p.33 =====
+2.2.2.2
+C´amara receptora N° 1 y Tuberia
+Dadas las condiciones topogr´aficas del Proyecto, se genera un punto bajo al cual confluir´a,
+adem´as de la escorrent´ıa de las quebradas Q2 y Q2.1.14, los flujos captados por el Canal
+1.1 y Canal 1.0. Para ello se proyect´o la “C´amara Receptora N° 1”, de dimensiones 2,0
+m x 2,0 m x 3,50 m y materialidad hormig´on armado. Esta tiene por objeto recibir la
+escorrent´ıa proveniente de las quebradas mediante la obra de atravieso A-27 y de los
+canales ya mencionados, evacuando las aguas por medio de una tuber´ıa ubicada en el
+extremo norte de la c´amara (ver Figura 2-27).
+El caudal de dise˜no de la tuber´ıa corresponde a 1,32 m3/s magnitud correspondiente
+a la sumatoria de aportes que confluyen a la c´amara (T=100 a˜nos). El di´ametro de la
+tuber´ıa se estim´o en DN 1200 mm y dadas las caracter´ısticas del Proyecto se considera
+una materialidad de Acero. Esta tuber´ıa conectar´a la “C´amara receptora N° 1” con el
+Canal 1.4 de manera directa con un trazado en planta recto. En los primeros 47 m la
+conducci´on en escurrimiento libre considera una ca´ıda de 38 m, con una pendiente de 60°.
+El tramo final de la conducci´on, correspondiente a 302 m, considera una pendiente de
+1,14 % en escurrimiento libre, mientras que su instalaci´on se har´a por debajo del vaso de
+excavaci´on del relleno sanitario.
+Figura 2-27: Esquema de C´amara receptora y tuber´ıa proyectada.
+Finalmente, en la siguiente tabla se presenta la ubicaci´on en coordenadas UTM Datum
+WGS 84-Huso 19 S de los v´ertices que se˜nalan el inicio y fin de la tuber´ıa proyectada.
+PAS 157- CMGIR
+33
+
+===== p.34 =====
+Tabla 2-12: Coordenadas v´ertices inicio – fin de tuber´ıa proyectada.
+Obra
+Coordenadas UTM Datum WGS 84, Huso 19 S
+V´ertice
+Inicio
+Este
+(m)
+Norte
+(m)
+V´ertice
+Final
+Este
+(m)
+Norte
+(m)
+TUBERIA
+VI-11
+267.824
+6.336.907
+VF-11
+267.723
+6.337.222
+2.2.2.3
+Obras de Captaci´on, Descarga y Disipadores de Energ´ıa
+a) Obras de Captaci´on
+Dado que el proyecto interviene con el libre escurrimiento de las quebradas Q2, Q2.1.14,
+Q1 y Q1.1.17 en el sector Norte del relleno sanitario, se considera en el dise˜no 3 obras
+que permiten captar y conducir la escorrent´ıa pluvial hacia la red de canales proyectada.
+La ubicaci´on de los puntos de captaci´on en coordenadas UTM Datum WGS 84 – Huso
+19 S se muestra en la Tabla 2-13 . En la misma tabla se indica la Etapa en que ejecutar´a
+la construcci´on de cada obra, quebrada que ser´a intervenida, caudal dise˜no equivalente a
+la crecida de 100 a˜nos de per´ıodo de retorno y, por ´ultimo, el canal/obra que recibir´a en
+primera instancia estos aportes.
+Tabla 2-13: Ubicaci´on e informaci´on general de obras de captaci´on proyectadas.
+Obra
+Coordenadas UTM
+Etapa
+Quebrada
+Caudal
+Obra
+WGS 84, Huso 19 S
+Este (m)
+Norte (m)
+Q (m3/s)
+CAPT-01
+267.832
+6.336.894
+1
+Q2 + Q2.1.14
+0,45
+C´amara
+CAPT-02
+268.002
+6.336.635
+3
+Q1
+0,73
+Canal 3.1
+CAPT-03
+268136
+6.336.638
+3
+Q1.1.17
+0,15
+Canal 3.1
+La Obra de Captaci´on N° 1 considera 2 canales de encauzamiento de longitud de 8,50
+m (Izq) y 11,5 m (Der), cuya materialidad principal ser´a hormig´on armado, con fondo
+revestido en hormig´on y mamposter´ıa en piedra de 30 cm de espesor en las zonas de
+empalme con las quebradas. De igual manera, el encauzamiento de la quebrada Q2.1.14
+contempla de un disipador tipo LAM 4.105.201 del Manual de Carreteras vol. 4 adaptado
+para la geometr´ıa del canal.
+La Obra de Captaci´on N° 2 considera 2 canales de encauzamiento de 4 m de largo por
+cada brazo a captar de la quebrada Q1, cuya materialidad ser´a hormig´on armado y fondo
+revestido del mismo material. Es parte de esta obra una “C´amara de Entrada OA”, la
+cual recibe el escurrimiento y los evacua mediante el atravieso A-33 hacia el Canal 3.1.
+En cuanto a la Obra de Captaci´on N° 3, esta corresponde al revestimiento del fondo de
+una “zona de captaci´on” sobre la quebrada Q1.1.17, con un ancho inicial de 10 m hasta
+empalmar con la base de 2 m del bad´en proyectado como atravieso A-32 de la berma.
+Tanto la zona de captaci´on como el bad´en se ejecutar´an en hormig´on. Las aguas captadas
+ser´an conducidas por el bad´en hacia el Canal 3.1.
+PAS 157- CMGIR
+34
+
+===== p.35 =====
+Por otro lado, un esquema general con la vista en planta de cada una de las obras de
+captaci´on proyectadas se muestra en la Figura 2-28, mientras que el detalle de las obras
+se adjunta en los planos del proyecto (Ap´endice I – Planos).
+Figura 2-28: Vista en planta obras de captaci´on proyectadas.
+b) Obras de Descarga
+Para evacuar la escorrent´ıa que captan y conducen los diferentes canales se proyectaron 6
+obras de descarga, cuya funci´on es entregar el flujo en r´egimen de r´ıo hacia las quebradas
+definidas como receptoras de este. La ubicaci´on de los puntos de descarga en coordenadas
+UTM Datum WGS 84 – Huso 19 S se muestra en la Tabla 2-14. En la misma tabla
+se indica la Etapa en que ejecutar´a la construcci´on de cada obra, quebrada intervenida,
+caudal evacuado hacia el cauce receptor y el canal asociado a la descarga. Por otro lado,
+un esquema general con de una obra tipo en planta y elevaci´on de las obras proyectadas
+se muestra en la Figura 2-29.
+PAS 157- CMGIR
+35
+
+===== p.36 =====
+Tabla 2-14: Ubicaci´on e informaci´on general de obras de descarga proyectadas.
+Obra
+Coordenadas UTM
+Etapa
+Quebrada
+Caudal
+Canal
+WGS 84, Huso 19 S
+Este (m)
+Norte (m)
+Q (m3/s)
+DESC-01
+268.088
+6.337.551
+1
+Q2
+1,25
+Canal 1.2
+DESC-02
+268.222
+6.337.489
+1
+Q2.1.9
+1,44
+Canal 1.4
+DESC-03
+268.248
+6.337.493
+1
+Q2.2.3
+1,46
+Canal 1.3
+DESC-04
+268.490
+6.337.434
+2
+Q2.1.6
+1,23
+Canal 2.0
+DESC-05
+268.687
+6.337.030
+3
+Q1
+1,50
+Canal 3.2
+DESC-06
+268.519
+6.336.766
+3
+Q1.1.14
+1,52
+Canal 3.1
+En general, las obras de descarga consideran un disipador del tipo LAM 4.105.201 del MC-
+V4 adaptado a la geometr´ıa del canal. En algunas de estas obras se proyect´o una grada
+posterior al disipador. Todas estas obras se ejecutar´an en hormig´on armado, mientras que,
+en la interacci´on con el lecho del cauce receptor, se considera el revestimiento de este con
+un enrocado. Las dimensiones, espesor de enrocado, peso de la roca y otras consideraciones
+se detallan en los planos del proyecto (Ap´endice I – Planos).
+Figura 2-29: Esquema tipo en planta y elevaci´on de Obras de Descarga proyectadas.
+PAS 157- CMGIR
+36
+
+===== p.37 =====
+c) Disipadores de Energ´ıa
+Debido a las condiciones topogr´aficas del Proyecto, es necesario proyectar obras de di-
+sipaci´on de energ´ıa que permitan sobrellevar los cambios abruptos de nivel a los cuales
+se expone el trazado longitudinal de los canales. La obra de disipaci´on de energ´ıa a im-
+plementar toma como base el dise˜no descrito en la l´amina LAM4.105.201 del Manual de
+carreteras Volumen 4, la cual se muestra en la Figura 2-30. Esta obra corresponde a un
+sistema de ca´ıdas escalonadas, de altura “a” y longitud “L”, con un vertedero central
+previo al cambio de escal´on. Esta obra fue adaptada seg´un los requerimientos geom´etricos
+de cada canal y obra de descarga. Los tipos de disipadores proyectados y las dimensiones
+del escal´on adoptado seg´un la necesidad del canal se detallan en la Tabla 2-15.
+Figura 2-30: Disipador de Energ´ıa tipo LAM 4.105.201 del MCV 4.
+Tabla 2-15: Disipadores tipo y dimensiones.
+TIPO
+q (m3/s/ml)
+a (m)
+L (m)
+h (m)
+T (m)
+1
+1,00
+1,70
+2,60
+0,60
+0,20
+2
+0,80
+1,50
+2,30
+0,50
+0,20
+3
+0,50
+1,10
+1,70
+0,50
+0,20
+PAS 157- CMGIR
+37
+
+===== p.38 =====
+2.2.3.
+Fases de Construcci´on
+2.2.3.1
+Obras de Movimiento de Tierras
+La construcci´on de las componentes que requieren obras de movimiento de tierras se
+realizar´a de seg´un la Etapa en que estas son requeridas, tal como se detalla en la siguiente
+Tabla:
+Tabla 2-16: Etapas y componentes a ejecutar.
+Etapa
+Obras y componentes a ejecutar
+1
+Plataformas P1- Zona de Inst Adm y Oper, P2- Zona de Compostaje y
+P3- Zona de Lixiviados; Piscina de Lixiviados (ET 1); Caminos Interiores
+CAM-1, CAM-2 y CAM-3; Bermas y Muros ByM-1 y ByM-2; Relleno-
+ET 1
+2
+Plataforma P4– Zona de Lixiviados; Piscina de Lixiviados (ET 2); Ca-
+minos interiores CAM-4 y CAM-5; Berma y Muro ByM-3; Relleno-ET 2
+3
+Berma y Muro ByM-4; Relleno-ET 3
+En general, las labores a realizar durante esta fase, independiente la etapa de ejecuci´on que
+se encuentre el proyecto, corresponder´an principalmente a las detalladas a continuaci´on:
+a) Despeje y escarpe del terreno: Se retirar´a vegetaci´on, basura, escombros y mate-
+rial superficial no apto. El escarpe abarcara la capa vegetal y suelos finos que no cumplan
+requisitos mec´anicos para la obra. Se delimitar´an y se analizar´an los ejes de cada compo-
+nente de acuerdo con el replanteo topogr´afico.
+b) Excavaciones: Se ejecutar´a la excavaci´on siguiendo los alineamientos y cotas de di-
+se˜no, lo cual deber´a asegurar la uniformidad de plataformas, caminos, piscinas y terraple-
+nes de muros y bermas proyectadas. El fondo y los taludes excavados ser´an compactados
+seg´un las densidades indicadas en las EETT del proyecto. Las excavaciones se realizar´an
+principalmente con excavadora, retroexcavadora y cargador frontal.
+c) Rellenos: Se ejecutar´a el relleno siguiendo las cotas de dise˜no, lo cual deber´a asegurar
+la uniformidad del relleno de plataformas, caminos, piscinas y terraplenes de muros y ber-
+mas proyectadas. El relleno se efectuar´a en capas hasta alcanzar la cota de coronamiento
+o dise˜no seg´un la componente. El material de relleno ser´a de tipo estructural o selecciona-
+do y deber´a alcanzar las densidades que se indiquen en las EETT del proyecto. En estas
+labores se ocupar´a principalmente Rodillo compactador, motoniveladora, cargador frontal
+y camiones tolva.
+d) Limpieza y retiro de faenas: Incluye el retiro de escombros, acopios sobrantes y
+maquinaria, dejando el ´area libre de residuos y en condiciones seguras para el inicio de la
+fase de operaci´on.
+En cuanto a la maquinaria principal prevista para la ejecuci´on de las obras antes descritas,
+se considera el uso de Excavadoras, Retroexcavadora, cargador frontal, bulldozer, rodillo
+PAS 157- CMGIR
+38
+
+===== p.39 =====
+compactador, motoniveladoras, cami´on aljibe y camiones tolva, entre otras.
+2.2.3.2
+Obras de manejo aguas lluvias
+La construcci´on de la red de canales y sus obras complementarias se realizar´a acorde con
+la ejecuci´on de cada Etapa del proyecto, seg´un se muestra a continuaci´on:
+Tabla 2-17: Etapas y obras a ejecutar.
+Etapa
+Obras a Ejecutar
+1
+Canal 1.0 - Tramo 1, Canal 1.1, Canal 1.2 , Canal 1.3, Canal 1.4, Tuber´ıa,
+CAPT-01, DESC-01, DESC-02, DESC-03
+2
+Canal 2.0, Canal 2.1, Canal 2.2, DESC-04
+3
+Canal 1.0 - Tramo 2, Canal 3.1, Canal 3.2, CAPT-02, CAPT-03, DESC-
+05, DESC-06
+En general, las labores a realizar durante esta fase, independiente la etapa de ejecuci´on que
+se encuentre el Proyecto, corresponder´an principalmente a las detalladas a continuaci´on:
+a) Despeje y escarpe del terreno: Se retirar´a vegetaci´on, basura, escombros y material
+superficial no apto. El escarpe abarcara la capa vegetal y suelos finos que no cumplan
+requisitos mec´anicos para la obra. Se delimitar´an y se analizar´an los ejes y anchos del
+canal de acuerdo con el replanteo topogr´afico.
+b) Excavaciones: Se ejecutar´a la excavaci´on siguiendo los alineamientos, cotas y pen-
+diente longitudinal de dise˜no, lo cual deber´a asegurar la uniformidad en el fondo del canal.
+El fondo y los taludes excavados ser´an compactados seg´un las densidades indicadas en las
+EETT del proyecto. Las excavaciones se realizar´an principalmente con retroexcavadora y
+cargador frontal, con apoyo manual en zonas espec´ıficas y perfilamiento.
+c) Preparaci´on de la fundaci´on: Se nivelar´a y compactar´a la superficie de fundaci´on,
+incorporando una capa de material granular compactado si as´ı lo indique el dise˜no. Se ve-
+rificar´a que la superficie est´e libre de material suelto antes de la colocaci´on de la armadura
+y el encofrado.
+d) Construcci´on de las obras de captaci´on: Ejecuci´on de las estructuras de cap-
+taci´on, se procurar´a realizar estas actividades en la ´epoca estival. De existir escorrent´ıa,
+se proceder´a a desviar el flujo aguas abajo de las obras de modo de no interferir con
+esta, sin embargo, dada la naturaleza del proyecto el plan de desv´ıo de las aguas podr´ıa
+considerar obras de retenci´on para la restituci´on aguas abajo del proyecto. Estas obras
+consideran mayormente la instalaci´on de muros de hormig´on armado, revestimiento de
+lecho en hormig´on y mamposter´ıa en piedra.
+e) Construcci´on de canales: Ejecuci´on de todas las actividades requeridas para revestir
+en hormig´on armado y shotcrete la red de canales proyectados y las obras que permiten
+su correcto funcionamiento. Algunos de los elementos a considerar en esta etapa:
+PAS 157- CMGIR
+39
+
+===== p.40 =====
+Losa de fondo: Colocaci´on de encofrados y armaduras conforme a planos estructu-
+rales, seguida del vaciado de hormig´on con el espesor y dosificaci´on exigidos para
+obras hidr´aulicas (MC-Vol. 8).
+Muros laterales: Instalaci´on de armaduras y encofrados para los muros del canal,
+considerando las dimensiones y altura m´ınima se˜naladas por planos del proyecto.
+El hormigonado se ejecutar´a en fases controladas para evitar desplazamientos o
+filtraciones en las juntas.
+Juntas: Instalaci´on de juntas de construcci´on y dilataci´on seg´un separaci´on de di-
+se˜no, selladas adecuadamente para impedir infiltraciones.
+Curado: El hormig´on se curar´a por un periodo m´ınimo establecido para obras
+hidr´aulicas, protegi´endolo contra la p´erdida r´apida de humedad y fisuraci´on.
+f) Instalaci´on tuber´ıa y obras asociadas: Corresponde a la instalaci´on de la tuber´ıa
+de acero en el fondo del vaso de excavaci´on del relleno sanitario y contra el talud sur del
+mismo. Esta se instalar´a mediante excavaci´on en zanja y/o t´unel liner seg´un se conside-
+re en la ingenier´ıa de detalles. Se considera adem´as los diferentes rellenos con material
+seleccionado, en capas, hasta alcanzar las densidades requeridas seg´un EETT del provee-
+dor. Las obras asociadas corresponden a: c´amaras de hormig´on armado impermeables y
+machones de anclaje para el tramo inicial de la tuber´ıa.
+g) Construcci´on de las obras de descarga: Ejecuci´on de la estructura de descarga
+aguas abajo de los canales, asegurando una transici´on hidr´aulica adecuada y control de
+erosi´on mediante la disposici´on de enrocados en el fondo del cauce.
+h) Obras de terminaci´on: Se completar´an empalmes y transiciones con elementos
+prefabricados que indique el proyecto. Se ejecutar´a el relleno lateral y conformaci´on de
+taludes, y se dejar´an las superficies libres de irregularidades.
+i) Limpieza y retiro de faenas: Incluye el retiro de escombros, moldajes, acopios
+sobrantes y maquinaria, dejando el ´area libre de residuos y en condiciones seguras para el
+inicio de la fase de operaci´on.
+En cuanto a la maquinaria principal prevista para la ejecuci´on de las obras antes descritas,
+se considera el uso de Retroexcavadora, cargador frontal, bulldozer, compactadora, cami´on
+pluma, cami´on aljibe, camiones tolva y camiones mixer de hormig´on, entre otras.
+2.2.4.
+Fase de Operaci´on
+Durante la operaci´on del Proyecto, las componentes se encontrar´an completamente habili-
+tadas. Se considera el monitoreo visual de las plataformas, caminos y piscinas, de manera
+particular, de los rellenos que conforman dichas componentes, principalmente, posterior
+a eventos de precipitaci´on prolongados. Si llegara a existir alg´un inconveniente o falla
+menor, se deber´a reparar con agilidad para asegurar el correcto funcionamiento ante un
+nuevo evento.
+PAS 157- CMGIR
+40
+
+===== p.41 =====
+En cuanto a la red de canales se implementar´a un plan de inspecci´on y mantenimiento
+que incluir´a:
+Inspecci´on visual de la red de canales y obras componentes de manera preventiva
+ante anuncios de precipitaciones.
+Revisi´on posterior a eventos de lluvia para detectar erosiones, fisuras o da˜nos en el
+revestimiento.
+Retiro de sedimentos, vegetaci´on o elementos que obstruyan el flujo, principalmente
+en la zonas de captaci´on de quebradas y puntos de pendiente m´ınima en canales.
+Reparaci´on de juntas, sellos y elementos da˜nados.
+Con estas acciones se espera garantizar la vida ´util y el correcto desempe˜no de la obra.
+2.2.5.
+Fase de Cierre
+Tanto la red de canales como las componentes antes descritas corresponden a obras de tipo
+permanente, por lo que la fase de cierre consistir´a en el retiro de todas las instalaciones
+provisorias y la limpieza final del ´area de faenas, dejando la estructura en condiciones
+´optimas para su operaci´on a largo plazo.
+Las acciones por desarrollar ser´an:
+Desmontaje y retiro de oficinas, ba˜nos e instalaciones provisorias.
+Retiro de acopios, moldajes, escombros y material sobrante.
+Restituci´on y nivelaci´on de superficies exteriores a la obra, asegurando la integraci´on
+de los canales al entorno del cauce intervenido.
+Luego, la red de canales quedar´a plenamente habilitada como parte del sistema de manejo
+de aguas pluviales del Proyecto.
+PAS 157- CMGIR
+41
+
+===== p.42 =====
+2.3.
+Art. 157 Letra c) Estimaci´on de plazos y per´ıodos de cons-
+trucci´on de las obras
+El Proyecto considera un per´ıodo de 25 a˜nos de operaci´on, donde el plan de crecimiento
+del vaso del relleno sanitario contempla su subdivisi´on en 3 etapas, las cuales se ir´an
+habilitando seg´un las necesidades de disposici´on que requiera el centro.
+En cuanto a la calendarizaci´on propuesta, se establece que las actividades definidas para
+la construcci´on de la Etapa 1 se desarrollar´an en un periodo de 12 meses en el A˜no 0 del
+Proyecto. Por otro lado, la implementaci´on de las Etapas 2 y 3 del Proyecto se ejecutar´ıan
+durante la operaci´on del relleno, esto es, entre los a˜nos 1 y 25. A continuaci´on, se detallan
+los plazos y periodos de construcci´on para las obras sujetas al PAS por cada etapa.
+a) Etapa 1
+En la Figura 2-31 se detalla el cronograma con las actividades a ejecutar para la cons-
+trucci´on de la Etapa 1 del Proyecto. Tomando como base lo anterior, en la Tabla 2-18
+se resumen aquellas actividades relacionadas con la construcci´on de las componentes que
+requieren obras de movimiento de tierras sujetas a consulta del presente PAS, detallando
+el mes de inicio-fin de su ejecuci´on y la duraci´on total estimada para cada partida.
+Figura 2-31: Cronograma A˜no 0 – Construcci´on del Proyecto.
+PAS 157- CMGIR
+42
+
+===== p.43 =====
+Tabla 2-18: Plazos estimados para ejecuci´on de componentes asociadas a obras de movi-
+miento de tierras – Etapa 1.
+Actividad o Partida
+Componente asociada
+Mes
+Duraci´on Total
+Inicio
+Final
+Semanas
+Construcci´on Plataformas 1, 2 y 3
+P1-Zona Instalaciones
+Administrativas y Operacionales
+5
+6
+6
+P2-Zona de Compostaje
+P3-Zona de Lixiviados
+Construcci´on de Caminos Interiores 1, 2 y 3
+CAM-1, CAM-2 y CAM 3
+6
+9
+10
+Construcci´on de Muros de contenci´on 1 y 2
+ByM-1 y ByM-2
+7
+11
+16
+Construcci´on de Berma perimetral 1 y 2
+ByM-1 y ByM-2
+7
+10
+12
+Construcci´on del Vaso Etapa 1
+Relleno-ET1
+9
+11
+8
+Construcci´on e Impermeabilizaci´on de
+Piscina de lixiviados Etapa 1
+Piscina de Lixiviados(ET1)
+10
+12
+6
+De acuerdo con el cronograma de la Figura 2-31, se considera que las obras asociadas
+a la habilitaci´on del sistema de manejo aguas lluvias se inicien en el Mes 8 y culminen
+en el Mes 12, con una duraci´on total de 5 meses. Luego, el cronograma de actividades
+relacionadas con la construcci´on de tales obras para la Etapa 1 del Proyecto se presentan
+en la Figura 2-32. Cabe se˜nalar que se considera en esta etapa la construcci´on de los
+primeros 90 m correspondientes al Canal 1.0 - Tramo 1, mientras que el tramo faltante se
+ejecutar´a en la Etapa 3 del Proyecto.
+Figura 2-32: Cronograma habilitaci´on obras de manejo aguas lluvias - Etapa 1.
+b) Etapas 2 y 3
+Por otro lado, en la Figura 2-33 se detallan las actividades a ejecutar durante el per´ıodo de
+25 a˜nos de operaci´on del Proyecto y de igual manera se detallan aquellas obras o partidas
+que permiten continuar con las Etapas 2 y 3 del Proyecto. Tomando como base lo anterior,
+en la Tabla 2-19 se resumen aquellas actividades relacionadas con las obras de movimiento
+de tierras sujetas a consulta del presente PAS, detallando la componente asociada, el a˜no
+definido para su ejecuci´on y una estimaci´on de plazos para su construcci´on.
+PAS 157- CMGIR
+43
+
+===== p.44 =====
+Figura 2-33: Cronograma A˜no 1 a 25 – Operaci´on del Proyecto.
+Tabla 2-19: Plazos estimados para ejecuci´on de componentes asociadas a obras de movi-
+miento de tierras – Etapas 2 y 3.
+Actividad o Partida
+Etapa
+Componente asociada
+A˜no
+Duraci´on Estimada
+Semanas
+Construcci´on Plataforma 4
+2
+P4-Zona de Lixiviados
+6
+3
+Construcci´on de Caminos Interiores 4 y 5
+2
+CAM-4 y CAM-5
+6
+5
+Construcci´on de Muros de contenci´on 3 y berma 3
+2
+ByM-3
+6
+9
+Construcci´on del Vaso Etapa 2
+2
+Relleno-ET2
+6
+8
+Construcci´on e Impermeabilizaci´on de
+Piscina de lixiviados Etapa 2
+2
+Piscina de Lixiviados
+(ET2)
+6
+6
+Construcci´on de Muros de contenci´on 4 y berma 4
+3
+ByM-4
+13
+9
+Construcci´on del Vaso Etapa 3
+3
+Relleno-ET3
+13
+8
+De acuerdo con el cronograma de la Figura 2-33, la habilitaci´on del sistema de manejo
+de las aguas lluvias para la Etapa 2 ser´a en el A˜no 6, mientras que, se establece que las
+obras asociadas a la Etapa 3 se ejecuten en el A˜no 13 de operaci´on. Luego, la secuencia
+y duraci´on de las actividades principales asociadas a la ejecuci´on de las obras de manejo
+de aguas lluvias por cada etapa se presentan en las Figuras 2-34 y 2-35, donde se detallan
+las principales tareas a desarrollar para la implementaci´on de la red de canales, obras
+de captaci´on y descarga en cada etapa. Cabe se˜nalar que para la Etapa 3 se incluye la
+construcci´on del Canal 1.0 -Tramo 2, con una extensi´on de L = 216 m. Se estima que
+la construcci´on de las obras de manejo de aguas lluvias en las etapas 2 y 3 tengan una
+duraci´on de 3 meses y 4 meses respectivamente.
+PAS 157- CMGIR
+44
+
+===== p.45 =====
+Figura 2-34: Cronograma habilitaci´on obras de manejo aguas lluvias - Etapa 2.
+Figura 2-35: Cronograma habilitaci´on obras de manejo aguas lluvias - Etapa 3.
+PAS 157- CMGIR
+45
+
+===== p.46 =====
+2.4.
+Art. 157 Letra d) Plano topogr´afico de planta y perfiles,
+georreferenciado, de la obra y del ´area susceptible de ser
+afectada
+Para la zona de inter´es se realiz´o un levantamiento topogr´afico acorde a los lineamientos
+topogr´aficos de la Direcci´on de Obras Hidr´aulicas, denominadas ETT-DOH (2021).
+2.4.1.
+Plano topogr´afico en planta
+En el Ap´endice I del presente permiso ambiental se adjuntan los planos Topogr´aficos
+en planta de los cauces naturales directamente relacionados con las obras de descarga.
+En estos se detalla el alcance de la inundaci´on para la crecida de 100 a˜nos de periodo de
+retorno, tanto para la situaci´on actual como para el escenario con Proyecto.
+Adicionalmente se presenta en estos planos la distribuci´on de perfiles transversales y ex-
+tensi´on de perfil longitudinal en cada uno de los cauces sujetos a modificaci´on. El dominio
+de la modelaci´on responde a la naturaleza de los cauces en estudio y de la intervenci´on
+producto del tipo de obra, lo cual considera al menos 100 m aguas arriba y aguas abajo
+de los puntos de captaci´on y descarga en las quebradas.
+2.4.2.
+Perfiles transversales y longitudinal
+En el Ap´endice I del presente permiso ambiental se encuentran los planos que muestran
+en detalle el perfil longitudinal del eje hidr´aulico para la crecida de 100 a˜nos de per´ıodo de
+retorno junto con los perfiles transversales asociados a este. Lo anterior se muestra para
+cada cauce natural relacionado con las obras que justifican la solicitud de este permiso.
+PAS 157- CMGIR
+46
+
+===== p.47 =====
+2.5.
+Art. 157 Letra e) Memoria de c´alculo del estudio hidrol´ogi-
+co, hidr´aulico, socavaciones y arrastre de sedimentos
+2.5.1.
+An´alisis Hidrol´ogico
+Para las quebradas principales del proyecto (Q1, Q2 y Q3), las caracter´ısticas topogr´aficas
+y geomorfol´ogicas se describen en la Tabla 2-20. Adicionalmente, se incorpora el valor es-
+timado de la curva n´umero CN bajo condiciones de humedad normal. Dicho par´ametro se
+estima mediante la cobertura y tipos de suelo de cada cuenca siguiendo la metodolog´ıa de
+(Toro et al, 2023) presentada en la Sociedad Chilena de Ingenier´ıa Hidr´aulica (SOCHID).
+Tabla 2-20: Par´ametros morfom´etricos y de cobertura de suelo de las cuencas. A ´area,
+Hmin cota m´ınima, Hmax cota m´axima, Hp cota promedio, Sp pendiente promedio, Lr
+largo del cauce principal y CN la curva n´umero.
+Cuenca
+A
+(km2)
+Hmin
+(m.s.n.m)
+Hmax
+(m.s.n.m)
+Hp
+(m.s.n.m)
+Sp
+(m/m)
+Lr
+(km)
+CN
+(-)
+Q1
+1,57
+78,6
+487,0
+241,0
+0,415
+3,07
+73,95
+Q2
+1,32
+19,0
+464,0
+210,4
+0,418
+2,97
+73,61
+Q3
+1,17
+18,2
+459,9
+225,5
+0,406
+3,03
+75,14
+Las quebradas del Proyecto presentan ´areas reducidas (A < 2km2), por lo que de acuer-
+do con el est´andar nacional, corresponde aplicar el m´etodo racional convencional (DGA,
+2016). Sin embargo, estas cuencas poseen una red densa de tributarios, varios de los cuales
+ser´an simulados hidr´aulicamente. En este contexto, se estiman los caudales considerando
+una tormenta de intensidad constante, determinada por la precipitaci´on y el tiempo de
+concentraci´on tc de la quebrada principal. La f´ormula racional se aplica solo en la desem-
+bocadura para obtener el caudal de per´ıodo de retorno T. Luego, a cada tributario se le
+asigna un caudal mediante una transposici´on del tipo:
+Q1
+C1 · A1
+=
+Q2
+C2 · A2
+(1)
+donde Q, C, y A son respectivamente el caudal peak, el coeficiente de escorrent´ıa y el ´area
+de la cuenca. De este modo, es posible estimar caudales en cualquier subcuenca, incluso
+en aquellas cuya materialidad o topograf´ıa se modifique producto de las intervenciones
+del proyecto.
+Dicho esto, se realiz´o primero un an´alisis detallado de la estad´ıstica de la estaci´on plu-
+viom´etrica “Lago Pe˜nuelas”, considerada representativa del r´egimen de precipitaciones en
+el ´area de influencia. La Tabla 2-21 presenta las precipitaciones m´aximas en 24 horas es-
+timadas para distintos per´ıodos de retorno, utilizando un ajuste dado por la distribuci´on
+LogNormal. A modo de validaci´on, la Figura 2-36 muestra la concordancia del modelo
+probabil´ıstico con los datos observados.
+PAS 157- CMGIR
+47
+
+===== p.48 =====
+Tabla 2-21: Precipitaciones m´aximas en 24 horas en la estaci´on Lago Pe˜nuelas para los
+distintos per´ıodos de retorno com´unmente utilizadas en proyectos de ingenier´ıa.
+Precipitaciones en funci´on de per´ıodo de retorno T (a˜nos)
+2
+5
+10
+20
+25
+50
+75
+100
+150
+200
+(mm)
+95,7
+139,5
+169,9
+199,9
+209,6
+240,0
+258,1
+271,2
+289,8
+303,2
+Figura 2-36: Resultados del ajuste del modelo Lognormal a la distribuci´on de frecuencias
+de la lluvia m´axima anual en 24 horas de la estaci´on Lago Pe˜nuelas.
+Con los valores de precipitaci´on se procede a calcular la curva de intensidad-duraci´on-
+frecuencia (IDF) del proyecto. Para esto se utilizan los coeficientes de duraci´on expuestos
+en el Manual de Carreteras para la estaci´on Lago Pe˜nuelas (Figura 2-37), de manera que
+la curva IDF queda definida por la expresi´on:
+i(t, T) = Cd(t) · P24(T)
+t
+(2)
+donde i es la intensidad media de precipitaci´on en mm/hr, P24 las precipitaciones m´aximas
+en 24 horas dadas por la Tabla 2-21, t la duraci´on de la tormenta en horas y Cd el coeficiente
+de duraci´on (adimensional).
+PAS 157- CMGIR
+48
+
+===== p.49 =====
+Figura 2-37: Coeficientes de duraci´on de la estaci´on Lago Pe˜nuelas. Recorte de la Tabla
+3.702.403.A del Manual de Carreteras (MC, 2023).
+Dado que las cuencas del proyecto son peque˜nas es necesario expandir la curva IDF a
+duraciones de tormenta menores a 1 hora. Para esto se considera la expresi´on de Bell
+sugerida por el Manual de Carreteras en la secci´on 3.702.405. Dicha relaci´on permite
+obtener el coeficiente de duraci´on para duraciones menores a 1 hora mediante la relaci´on:
+Cd(t) = (0,54 · (t · 60)0,25 −50) · Cd(t = 1hr)
+(3)
+donde nuevamente t es la duraci´on de la lluvia en horas.
+Dados los coeficientes de la estaci´on Lago Pe˜nuelas y la relaci´on de Bell, la Figura 2-38
+muestra las curvas IDF del proyecto para duraciones entre 10 minutos y 1 hora.
+Figura 2-38: Curvas de Intensidad-Duraci´on-Frecuencia (IDF) de la estaci´on Lago Pe˜nue-
+las y a considerar para el dise˜no del proyecto.
+Los caudales m´aximos se estiman mediante el m´etodo racional convencional. Esta f´ormula
+permite estimar el caudal peak de la crecida de per´ıodo de retorno T con la relaci´on:
+Q = C · i · A
+3,6
+(4)
+PAS 157- CMGIR
+49
+
+===== p.50 =====
+donde A es el ´area de la cuenca en km2, i la intensidad media de precipitaci´on en mm/hr
+asociada a una duraci´on igual al tiempo de concentraci´on tc y C el coeficiente de esco-
+rrent´ıa.
+El tiempo de concentraci´on tc se calcul´o con las f´ormulas de California, Giandotti, SCS y
+Normas Espa˜nolas, ambas cuatro recomendadas por el Manual de Carreteras para cuencas
+naturales (Tabla 3.702.501.A). Los resultados se presentan en la Tabla 2-22, estimando
+adicionalmente el promedio de todas las expresiones.
+Tabla 2-22: Tiempos de concentraci´on estimados para cada cuenca con los distintos m´eto-
+dos evaluados.
+Tiempo de concentraci´on (horas)
+California
+N. Espa˜nola
+Giandotti
+SCS
+Promedio
+Q1
+0,328
+0,879
+0,829
+0,606
+0,661
+Q2
+0,320
+0,877
+0,818
+0,609
+0,656
+Q3
+0,327
+0,898
+0,771
+0,602
+0,650
+El tiempo de concentraci´on define la duraci´on con la cu´al estimar la intensidad de lluvia.
+Como las tres quebradas presentan un tiempo de concentraci´on similar, se opta por el
+menor valor (tc = 0,65hr) con tal de maximizar la intensidad de precipitaci´on y el caudal
+de dise˜no en cada cuenca. La Tabla 2-23 indica los valores de intensidad de lluvia asociados
+a dicha duraci´on y a cada per´ıodo de retorno.
+Tabla 2-23: Intensidades de precipitaci´on consideradas para el c´alculo del caudal de cada
+quebrada.
+Intensidades de precipitaci´on (mm/hr) asociada
+a cada per´ıodo de retorno T (a˜nos)
+2
+5
+10
+20
+25
+50
+75
+100
+150
+200
+15,0
+21,9
+26,6
+31,4
+32,9
+37,7
+40,5
+42,5
+45,5
+47,6
+Por otro lado, para el c´alculo del coeficiente de escorrent´ıa, se aplica la Tabla 3.702.503.B
+del Manual de Carreteras, la cu´al expuesta en la Figura 2-39 recomienda estimar C como
+la suma de contribuciones por relieve, infiltraci´on, vegetaci´on y capacidad de almacena-
+miento. Dadas las caracter´ısticas de las cuencas, el coeficiente de escorrent´ıa a utilizar en
+el c´alculo se presenta en la Tabla 2-24. Adem´as, como el c´alculo se asocia a un evento
+de per´ıodo de retorno de 10 a˜nos, para las otras frecuencias se consideran los factores de
+ponderaci´on de la Tabla 2-25.
+PAS 157- CMGIR
+50
+
+===== p.51 =====
+Figura 2-39: Factores del coeficiente de escorrent´ıa asociado a 10 a˜nos de periodo de
+retorno.
+Tabla 2-24: C´alculo del coeficiente de escorrent´ıa considerando las distintas contribuciones
+expuestas en el Manual de Carreteras.
+Coeficiente de Escorrent´ıa T = 10 a˜nos
+Relieve
+Infiltraci´on
+Vegetaci´on
+Almacenamiento
+Final
+0,30
+0,08
+0,06
+0,09
+0,53
+Tabla 2-25: Factores de amplificaci´on para coeficientes de escorrent´ıa.
+T (a˜nos)
+2
+5
+10
+20
+25
+50
+75
+100
+150
+200
+Factor
+1,00
+1,00
+1,00
+1,10
+1,15
+1,20
+1,23
+1,25
+1,28
+1,30
+Por ´ultimo, considerando el ´area, la intensidad de lluvia y el coeficiente de escorrent´ıa se
+estima el caudal asociado a cada per´ıodo de retorno y quebrada. La Tabla 2-26 indica
+dichos resultados.
+PAS 157- CMGIR
+51
+
+===== p.52 =====
+Tabla 2-26: Caudales m´aximos estimados para cada cuenca con el m´etodo racional.
+Caudales m´aximos (m3/s) asociados
+a cada cuenca y per´ıodo de retorno T (a˜nos)
+2
+5
+10
+20
+25
+50
+75
+100
+150
+200
+Q1
+3,47
+5,05
+6,15
+7,96
+8,73
+10,43
+11,45
+12,27
+13,38
+14,27
+Q2
+2,92
+4,25
+5,18
+6,70
+7,34
+8,78
+9,64
+10,33
+11,26
+12,01
+Q3
+2,60
+3,78
+4,61
+5,96
+6,54
+7,81
+8,58
+9,19
+10,02
+10,69
+Ahora, ya teniendo los caudales m´aximos estimados (Tabla 2-26), el ´area de cada quebrada
+(Tabla 2-20) y coeficiente de escorrent´ıa (Tabla 2-24) es que es posible aplicar la Ecuaci´on
+1 sobre cada una de las subcuencas pertenecientes a las quebradas Q1, Q2 y Q3 ya
+presentadas en el informe de “Caracterizaci´on Hidrol´ogica Proyecto Centro Metropolitano
+de Gesti´on Integral de Residuos”.
+2.5.1.1
+Situaci´on sin proyecto
+La Figura 2-40 presenta las subcuencas aportantes a las quebradas Q1, Q2 y Q3 en
+situaci´on sin proyecto, y la Tabla 2-27 presenta sus caudales respectivos.
+Figura 2-40: Subcuencas aportantes a las quebradas Q1, Q2 y Q3 en situaci´on sin proyecto.
+PAS 157- CMGIR
+52
+
+===== p.53 =====
+Tabla 2-27: Caudales asociados a cada subcuenca de las quebradas Q1, Q2 y Q3 en
+situaci´on sin proyecto.
+QUEBRADA 1
+QUEBRADA 2
+QUEBRADA 3
+Subcca
+´Area
+(km2)
+Caudal
+(m3/s)
+Subcca
+´Area
+(km2)
+Caudal
+(m3/s)
+Subcca
+´Area
+(km2)
+Caudal
+(m3/s)
+X1
+0,22
+1,72
+X2
+0,26
+2,06
+X3
+0,54
+4,22
+Q1
+0,44
+3,44
+Q2
+0,31
+2,45
+Q3
+0,31
+2,46
+Q1.1.8
+0,26
+2,01
+Q2.1.5
+0,10
+0,81
+Q3.1.3
+0,11
+0,89
+Q1.1.9
+0,02
+0,16
+Q2.1.6
+0,23
+1,82
+Q3.1.7
+0,02
+0,13
+Q1.1.10
+0,05
+0,36
+Q2.1.7
+0,03
+0,23
+Q3.1.11
+0,01
+0,10
+Q1.1.11
+0,01
+0,10
+Q2.1.8
+0,02
+0,15
+Q3.1.12
+0,02
+0,16
+Q1.1.12
+0,02
+0,12
+Q2.1.9
+0,11
+0,87
+Q3.1.14
+0,10
+0,74
+Q1.1.13
+0,13
+0,98
+Q2.1.10
+0,02
+0,16
+Q3.1.15
+0,04
+0,27
+Q1.1.15
+0,07
+0,56
+Q2.1.11
+0,01
+0,10
+Q3.2.0
+0,01
+0,09
+Q1.1.16
+0,03
+0,23
+Q2.1.12
+0,01
+0,09
+Q3.2.4
+0,01
+0,09
+Q1.1.17
+0,02
+0,18
+Q2.1.13
+0,02
+0,13
+TOTAL
+1,17
+9,19
+Q1.1.18
+0,01
+0,10
+Q2.1.14
+0,02
+0,15
+Q1.1.14
+0,14
+1,10
+Q2.2.0
+0,01
+0,11
+Q1.2
+0,09
+0,70
+Q2.2.1
+0,05
+0,38
+Q1.2.3
+0,02
+0,14
+Q2.2.2
+0,01
+0,09
+Q1.2.4
+0,05
+0,38
+Q2.2.3
+0,02
+0,12
+TOTAL
+1,57
+12,27
+Q2.2.4
+0,03
+0,22
+Q2.2.5
+0,02
+0,14
+Q2.2.6
+0,01
+0,09
+Q2.2.7
+0,01
+0,09
+Q2.2.8
+0,01
+0,11
+TOTAL
+1,32
+10,33
+2.5.1.2
+Situaci´on con proyecto
+En la situaci´on con proyecto, la incorporaci´on del camino interno y realizaci´on de obras
+proyectadas genera una redistribuci´on de los flujos superficiales, lo que modifica las divi-
+sorias, la conectividad y la extensi´on de las cuencas. Para efectos del modelo hidr´aulico,
+las subcuencas se definieron en funci´on del ´area del proyecto, de modo que cada una drena
+hacia la quebrada vinculada con la obra de descarga correspondiente. Cabe mencionar que
+la nomenclatura asignada a las subcuencas proyectadas en el ´area del proyecto se basa en
+la quebrada en la que cada una descarga sus aguas, destac´andose que no existe trasvase
+de caudales entre cuencas.
+Por otra parte, se evalu´o la variaci´on del coeficiente de escorrent´ıa en las subcuencas
+delimitadas dentro del ´area de estudio en la situaci´on con proyecto, considerando tres
+situaciones principales seg´un el tipo de superficie y las intervenciones proyectadas. En
+el caso de las cuencas afectadas por la construcci´on de caminos internos o por obras
+con techumbre, el coeficiente de escorrent´ıa se determin´o mediante una ponderaci´on que
+considera la proporci´on de cada superficie respecto del ´area total de la cuenca. Para ello
+se utilizaron los factores de caminos y techos definidos en la Tabla 4.3.16 del Manual
+de Drenaje Urbano - DOH (0,8 y 0,85 respectivamente), junto con el factor de terreno
+PAS 157- CMGIR
+53
+
+===== p.54 =====
+obtenido en la situaci´on sin proyecto (0,55), aplicando en cada caso la relaci´on entre
+el ´area espec´ıfica (de terreno, camino o techos seg´un corresponda) y el ´area total de la
+cuenca. En segundo lugar, las subcuencas que presentan ´unicamente superficies de terreno
+natural mantienen el coeficiente de escorrent´ıa sin variaci´on, igual al valor de la situaci´on
+sin proyecto, debido a que no existen alteraciones significativas en la cobertura del suelo.
+Finalmente, las cuencas revestidas con geomembrana impermeabilizante de HDPE y sin
+proyecciones de obras adicionales presentan un coeficiente elevado de 0,80, reflejando su
+condici´on impermeable seg´un la Tabla 4.3.16 del Manual de Drenaje Urbano - DOH.
+La Tabla 2-28 presenta los coeficientes de escorrent´ıa finales para cada subcuenca del
+proyecto, considerando los valores ponderados de caminos y techos cuando corresponde,
+as´ı como los coeficientes asociados a terreno natural y a superficies impermeabilizadas.
+Tabla 2-28: Coeficiente de escorrent´ıa para subcuencas en el ´area del Proyecto.
+Subcuenca
+Coeficiente de escorrent´ıa
+Terreno
+Camino
+Piscina /Techo
+Coef. Esc.
+Ponderado (-)
+Q1-1
+-
+-
+-
+0,80
+Q1-2
+-
+-
+-
+0,80
+Q1-3
+0,53
+-
+-
+0,53
+Q1-4
+0,53
+-
+-
+0,53
+Q1-5
+0,53
+-
+-
+0,53
+Q1-6
+0,53
+-
+-
+0,53
+Q1-7
+0,53
+-
+-
+0,53
+Q2-1
+-
+-
+-
+0,80
+Q2-2
+-
+-
+-
+0,80
+Q2-3
+0,53
+-
+-
+0,53
+Q2-4
+0,53
+-
+-
+0,53
+Q2-5
+0,53
+-
+-
+0,53
+Q2-6
+-
+-
+-
+0,80
+Q2-7
+0,53
+-
+-
+0,53
+Q2-8
+0,53
+-
+-
+0,53
+Q2-9
+-
+-
+-
+0,80
+Q2-10
+-
+-
+-
+0,80
+Q2-11
+0,53
+-
+-
+0,53
+Q2-12
+0,41
+0,08
+0,11
+0,60
+Q2-13
+0,31
+0,22
+0,12
+0,65
+Q2-14
+0,45
+0,12
+-
+0,57
+Q2-15
+0,40
+0,09
+0,13
+0,61
+Q2-16
+0,41
+0,19
+-
+0,59
+Q2-17
+0,32
+0,03
+0,30
+0,65
+Q2-18
+0,35
+0,02
+0,27
+0,64
+Q2-19
+-
+-
+-
+0,80
+Q2-20
+-
+-
+-
+0,80
+La Figura 2-41 presenta las subcuencas delimitadas a partir de la redistribuci´on h´ıdrica en
+la situaci´on con proyecto. Por otra parte la Figura 2-42 presenta las subcuencas aportantes
+a las quebradas Q1, Q2 y Q3 en situaci´on con proyecto, y la Tabla 2-29 presenta sus
+caudales respectivos.
+PAS 157- CMGIR
+54
+
+===== p.55 =====
+Figura 2-41: Subcuencas delimitadas a partir de la redistribuci´on h´ıdrica en la situaci´on
+con proyecto.
+Figura 2-42: Subcuencas aportantes a las quebradas Q1, Q2 y Q3 en situaci´on con pro-
+yecto.
+PAS 157- CMGIR
+55
+
+===== p.56 =====
+Tabla 2-29: Caudales asociados a cada subcuenca de las quebradas Q1, Q2 y Q3 en
+situaci´on con proyecto.
+QUEBRADA 1
+QUEBRADA 2
+QUEBRADA 3
+Subcca
+Area
+(km2)
+Coef.
+Esc. (-)
+Caudal
+(m3/s)
+Subcca
+Area
+(km2)
+Coef.
+Esc. (-)
+Caudal
+(m3/s)
+Subcca
+Area
+(km2)
+Coef.
+Esc. (-)
+Caudal
+(m3/s)
+X1
+0,22
+0,53
+1,72
+X2
+0,26
+0,53
+2,06
+X3
+0,54
+0,53
+0,09
+Q1 CP
+0,461
+0,53
+3,61
+Q2 CP
+0,15
+0,53
+1,17
+Q3
+0,31
+0,53
+4,22
+Q1,1,8
+0,26
+0,53
+2,01
+Q2,1,5 CP
+0,08
+0,53
+0,65
+Q3,1,3
+0,11
+0,53
+0,16
+Q1,1,9
+0,02
+0,53
+0,16
+Q2,1,6 CP
+0,09
+0,53
+0,71
+Q3,1,7
+0,02
+0,53
+0,74
+Q1,1,10
+0,05
+0,53
+0,36
+Q2,1,7
+0,03
+0,53
+0,23
+Q3,1,11
+0,01
+0,53
+2,46
+Q1,1,13
+0,13
+0,53
+0,98
+Q2,1,8
+0,02
+0,53
+0,15
+Q3,1,12
+0,02
+0,53
+0,22
+Q1,2
+0,09
+0,53
+0,70
+Q2,1,9 CP
+0,02
+0,53
+0,16
+Q3,1,14
+0,10
+0,53
+0,99
+Q1,2,3
+0,02
+0,53
+0,14
+Q2,2,2
+0,01
+0,53
+0,09
+Q3,1,15 CP
+0,02
+0,53
+0,16
+Q1,2,4
+0,05
+0,53
+0,38
+Q2,2,5
+0,02
+0,53
+0,14
+Q3,2,0
+0,01
+0,53
+0,13
+Q1-1
+0,13
+0,8
+1,50
+Q2,2,6
+0,01
+0,53
+0,09
+Q3,2,4
+0,01
+0,53
+0,13
+Q1-2
+0,04
+0,8
+0,46
+Q2,2,7
+0,01
+0,53
+0,09
+TOTAL
+1,16
+-
+9,31
+Q1-3
+0,08
+0,53
+0,64
+Q2,2,8
+0,01
+0,53
+0,11
+Q1-4
+0,01
+0,53
+0,09
+Q2-1
+0,01
+0,8
+0,12
+Q1-5
+0,01
+0,53
+0,08
+Q2-2
+0,05
+0,8
+0,63
+Q1-6
+0,02
+0,53
+0,15
+Q2-3
+0,05
+0,53
+0,42
+Q1-7
+0,01
+0,53
+0,10
+Q2-4
+0,00
+0,53
+0,03
+TOTAL
+1,57
+-
+13,07
+Q2-5
+0,01
+0,53
+0,12
+Q2-6
+0,03
+0,8
+0,33
+Q2-7
+0,01
+0,53
+0,06
+Q2-8
+0,01
+0,53
+0,10
+Q2-9
+0,04
+0,8
+0,49
+Q2-10
+0,08
+0,8
+0,90
+Q2-11
+0,01
+0,53
+0,12
+Q2-12
+0,04
+0,60
+0,33
+Q2-13
+0,04
+0,65
+0,43
+Q2-14
+0,01
+0,57
+0,10
+Q2-15
+0,02
+0,61
+0,19
+Q2-16
+0,01
+0,59
+0,06
+Q2-17
+0,03
+0,65
+0,30
+Q2-18
+0,02
+0,64
+0,20
+Q2-19
+0,07
+0,8
+0,84
+Q2-20
+0,03
+0,8
+0,38
+TOTAL
+1,33
+-
+11,80
+PAS 157- CMGIR
+56
+
+===== p.57 =====
+2.5.2.
+Modelaci´on Hidr´aulica
+2.5.2.1
+Generalidades
+En esta secci´on se exponen los criterios y definiciones adoptados para la modelaci´on
+num´erica 2D de los cauces y canales que considera el proyecto, empleando para ello el
+software HEC-RAS versi´on 6.6, desarrollado por el “US Army Corps of Engineers – Hy-
+drologic Enginering Center”. La justificaci´on para la modelaci´on bidimensional recae en
+la necesidad de representar la interacci´on entre los diferentes flujos provenientes diversos
+cauces naturales identificados en el ´area de inter´es con aquellos caudales de tipo pluvial
+que ser´an evacuados desde el interior del Proyecto.
+Se realizaron modelaciones hidr´aulicas de la crecida centenaria para los escenarios sin
+proyecto (SP) y con proyecto (CP) con el objetivo de validar los dise˜nos de las obras
+y analizar los posibles cambios en las condiciones hidr´aulicas de los cauces entre estos
+escenarios.
+Para las modelaciones del escenario sin proyecto (SP) se emple´o el archivo r´aster (formato
+TIFF) generado a partir del levantamiento topogr´afico efectuado en el marco del presente
+estudio, el cual representa las condiciones actuales del terreno en la zona de inter´es. En
+cuanto al escenario con proyecto (CP), para las modelaciones se ocup´o el archivo r´aster
+(formato TIFF) que contiene la topograf´ıa resultante del movimiento de tierras requerido
+para la ejecuci´on del proyecto (Ap´endice C). Asimismo, se utilizaron como condiciones
+de borde los caudales de crecida estimados en el cap´ıtulo 2.5.1.
+Finalmente, los archivos ejecutables de los modelos num´ericos se encuentran disponibles
+en el Ap´endice D, donde se podr´an revisar las condiciones espec´ıficas adoptadas la
+modelaci´on de cada escenario.
+2.5.2.2
+Definici´on de modelos
+A pesar de lo extenso del ´area que ocupar´a el proyecto sobre la zona de estudio (aprox. 70
+ha), se defini´o un ´unico modelo para representar la “situaci´on Sin Proyecto” (SP). Este
+modelo incluye todas las quebradas identificadas en el cap´ıtulo 2.5.1 Hidrolog´ıa que son
+afluentes de los cauces principales Q1 y Q2. Adem´as, se considera un tramo de la quebrada
+Q3.1.5 (afluente del cauce Q3) que ser´ıa intervenida en su naciente por el proyecto. En
+la Figura 2-43 se indican las quebradas a modelar y se grafica el alcance del modelo en
+relaci´on con el ´area del Proyecto.
+PAS 157- CMGIR
+57
+
+===== p.58 =====
+Figura 2-43: Definici´on Modelo Situaci´on SP.
+Para el caso de la “situaci´on Con Proyecto” (CP), se definieron 6 sectores a representar
+mediante igual cantidad de modelos hidr´aulicos. Lo anterior tuvo por objeto simplificar la
+modelaci´on de las obras y quebradas, adem´as de acotar el tiempo asociado a la simulaci´on
+y obtenci´on de resultados. En particular, el Sector 6 considera la modelaci´on de las que-
+bradas post descarga de caudal desde el interior del Proyecto, mientras que los sectores
+1 al 5 simulan el paso de la escorrent´ıa desde las quebradas afluentes hacia canales pro-
+yectados. El detalle con las obras y quebradas a modelar por cada sector se describen en
+la Tabla 2-30, mientras que, el ´area definida para cada modelo se presenta en las Figuras
+2-44 y Figura 2-45.
+Tabla 2-30: Definici´on de obras y quebradas a modelar por sector - Situaci´on CP.
+Sector
+Obras, Canales y Quebradas
+1
+CANAL 1.0, CANAL 1.1, TUBER´IA-1, CAPT-01, Q2, Q2.1.14
+2
+CANAL 1.2, Q2
+3
+CANAL 1.3, CANAL 1.4, TUBER´IA-2, Q2.1.9, Q2.2.3
+4
+CANAL 2.0, CANAL 2.1, CANAL 2.2, Q2.1.6
+5
+CANAL 3.1, CANAL 3.2, CAPT 02, CAPT 03, Q1.1.17, Q1.1.14, Q1, Q1.1.13, Q1
+6
+Q1 CP; Q2.2.2; Q1.2.3; Q1.1.8; Q2.2.5; Q1.2.4; Q1.1.13; Q2.2.6; Q2.2.8; Q1.1.9;
+Q2.1.5 CP; Q1.1.10; Q1.2; Q2.1.8; Q2.1.9 CP; Q2.1.7; Q2.2.7; Q2 CP;
+Q2.1.6 CP; Q3.1.15 CP; Descarga 01; Descarga 02; Descarga 03;
+Descarga 04; Descarga 05; Descarga 06
+PAS 157- CMGIR
+58
+
+===== p.59 =====
+Figura 2-44: Definici´on de modelos Sectores 1 a 5.
+Figura 2-45: Definici´on de modelo Sector 6.
+PAS 157- CMGIR
+59
+
+===== p.60 =====
+2.5.2.3
+Caudal de dise˜no
+Para la modelaci´on hidr´aulica se utilizaron los caudales m´aximos asociados a 100 a˜nos de
+periodo de retorno calculados en la Secci´on 2.5.1. Para la situaci´on SP, la magnitud de
+caudal ocupada en el modelo para cada quebrada se muestra en la Tabla 2-31.
+Tabla 2-31: Caudales T = 100 a˜nos - situaci´on SP.
+Quebrada
+Caudal (m3/s)
+Quebrada
+Caudal (m3/s)
+Q1
+3,44
+Q2.1.12
+0,09
+Q1.1.10
+0,36
+Q2.1.13
+0,13
+Q1.1.11
+0,10
+Q2.1.14
+0,15
+Q1.1.12
+0,12
+Q2.1.5
+0,81
+Q1.1.13
+0,98
+Q2.1.6
+1,82
+Q1.1.15
+0,56
+Q2.1.7
+0,23
+Q1.1.16
+0,23
+Q2.1.8
+0,15
+Q1.1.17
+0,18
+Q2.1.9
+0,87
+Q1.1.18
+0,10
+Q2.2.0
+0,11
+Q1.1.14
+1,10
+Q2.2.1
+0,38
+Q1.1.8
+2,01
+Q2.2.2
+0,09
+Q1.1.9
+0,16
+Q2.2.3
+0,12
+Q1.2
+0,70
+Q2.2.4
+0,22
+Q1.2.3
+0,14
+Q2.2.5
+0,14
+Q1.2.4
+0,38
+Q2.2.6
+0,09
+Q2
+2,45
+Q2.2.7
+0,09
+Q2.1.10
+0,16
+Q2.2.8
+0,11
+Q2.1.11
+0,10
+Q3.1.15
+0,27
+Por otro lado, para la situaci´on CP la magnitud de caudal asociada a cada condici´on de
+borde se muestra en la Tabla 2-32, esto para modelos del Sector 1 al 5, mientras que para
+el sector 6 la magnitud de flujo evaluada se detalla en la Tabla 2-33.
+PAS 157- CMGIR
+60
+
+===== p.61 =====
+Tabla 2-32: Caudales T = 100 a˜nos, situaci´on CP, Modelos Sector 1 a 5.
+Sector
+Condici´on de Borde
+Caudal (m3/s)
+1
+Q2-4
+0,034
+Q2-3
+0,419
+Canal-1.0
+0,75
+Canal-1.1
+0,13
+2
+TR 1-Canal 1.2
+0,49
+TR 2-Canal 1.2
+0,82
+TR 3-Canal 1.2
+1.25
+3
+Canal-1.3
+1,46
+TUB
+1,32
+Canal-1.4
+0,12
+4
+Canal-2.1
+0,85
+Canal-2.2
+0,39
+5
+CAPT-02
+0,73
+Canal-3.1-1
+0,06
+Canal-3.1-2
+0,58
+Canal-3.2
+1,50
+Q1 CP
+3,99
+Q1.1.13
+1,12
+Q1-6
+0,15
+Q1-3
+0,640
+Q1-4
+0,090
+Tabla 2-33: Caudales T = 100 a˜nos, situaci´on CP, Modelo Sector 6.
+Condici´on de Borde
+Caudal (m3/s)
+Condici´on de Borde
+Caudal (m3/s)
+Q1 CP
+3,61
+Q2.1.8
+0,15
+Q2.2.2
+0,09
+Q2.1.9 CP
+0,16
+Q1.2.3
+0,14
+Q2.1.7
+0,23
+Q1.1.8
+2,01
+Q2.2.7
+0,09
+Q2.2.5
+0,14
+Q2 CP
+1,17
+Q1.2.4
+0,38
+Q2.1.6 CP
+0,71
+Q1.1.13
+0,98
+Q3.1.15 CP
+0,16
+Q2.2.6
+0,09
+Descarga 01
+1,25
+Q2.2.8
+0,11
+Descarga 02
+1,44
+Q1.1.9
+0,16
+Descarga 03
+1,46
+Q2.1.5 CP
+0,846
+Descarga 04
+1,23
+Q1.1.10
+0,36
+Descarga 05
+1,5
+Q1.2
+0,7
+Descarga 06
+1,52
+PAS 157- CMGIR
+61
+
+===== p.62 =====
+2.5.2.4
+Dominio y geometr´ıa de modelaci´on
+El ´area de modelaci´on se delimit´o considerando en primera instancia, tanto aguas arriba
+como aguas abajo del l´ımite del Proyecto, el m´aximo entre 100 m y dos anchos de cauce.
+Sin embargo, esta delimitaci´on no permite representar de manera adecuada la interacci´on
+de los m´ultiples cauces identificados y su relaci´on con los cauces Q1 y Q2, preferentemente
+en una evaluaci´on bajo la situaci´on CP.
+Tomando en cuenta lo anterior, el dominio de la modelaci´on sin proyecto (SP) abarca todos
+los cauces que interact´uan con el ´area de proyecto y que son afluentes a las quebradas Q1
+y Q2, estableciendo una extensi´on similar para estos cauces principales. Como resultado,
+el ´area de modelaci´on para este escenario considera 59 ha, mientras que las longitudes de
+los cauces principales Q1 y Q2 a modelar son aprox. 2,10 km y 2,0 km respectivamente.
+Para la situaci´on con proyecto (CP), la definici´on del dominio se condice con la extensi´on
+de las obras proyectadas y con los cauces cercanos al proyecto, abarcando un ´area de
+modelaci´on total de 57 ha. En cada sector, el ´area de modelaci´on se adapt´o a la extensi´on
+de canales y quebradas intervinientes. En los sectores 1 y 5, el dominio fue definido de
+manera tal de representar la interacci´on de las quebradas afluentes con la red de canales
+propuesta. Por otro lado, en los sectores 2, 3 y 4 el dominio abarca tanto la red de canales
+como al menos 100 m aguas abajo del punto de descarga en las quebradas receptoras.
+Por ´ultimo, el Sector 6 s´olo incluye las quebradas aguas abajo del proyecto, por lo que se
+decidi´o mantener el ´area de modelaci´on definida para la situaci´on SP pero acort´andola a
+los puntos de descarga del proyecto, tal como se muestra en la Figura 2-46.
+Figura 2-46: Comparaci´on dominio definido para modelaci´on SP y CP-Sector 6.
+PAS 157- CMGIR
+62
+
+===== p.63 =====
+Con respecto a la geometr´ıa, se emplearon como base archivos tipo r´aster (TIFF) con la
+topograf´ıa acorde al escenario a modelar, tal como lo muestra la Figura 2-47 a trav´es de
+la representaci´on de un modelo digital de elevaci´on (DEM) de ambas situaciones.
+Para la situaci´on sin proyecto (SP), se ocup´o la geometr´ıa generada a partir de levanta-
+miento topogr´afico realizado en el marco del presente estudio (Figura 2-47-Izq), el cual
+contiene las cotas y elevaci´on de terreno en su condici´on actual. En cuanto a la situaci´on
+con proyecto (CP), se ocup´o el r´aster con la informaci´on topogr´afica resultante del dise˜no
+de los movimientos de tierra, reflejando las cotas y elevaci´on del terreno una vez finalizada
+la Etapa 3 del proyecto (ver Figura 2-47-Der).
+Figura 2-47: Topograf´ıa situaci´on SP (Izq) y para situaci´on CP (Der).
+En el Ap´endice C se encuentran los raster con las topograf´ıas correspondientes a las
+situaci´on actual y proyectada.
+2.5.2.5
+Malla de c´alculo
+Para el modelo se la situaci´on SP, se configur´o una malla num´erica no estructurada capaz
+de adaptarse a las caracter´ısticas topogr´aficas de los cauces y a las singularidades presen-
+tes en la zona de estudio. Esta malla cuenta con una resoluci´on base de 5 metros y se
+implementan refinamientos mediante breaklines de hasta 1,0 m en la caja de los cauces
+principales (Q1 y Q2) y hasta 0,50 m en aquellos afluentes donde requiere m´as informa-
+ci´on topogr´afica de estos. A modo ilustrativo, en la Figura 2-48 se muestra el grado de
+refinamiento antes descrito a la malla utilizada en el modelo del escenario sin proyecto.
+PAS 157- CMGIR
+63
+
+===== p.64 =====
+Figura 2-48: Refinaci´on de la malla en el cauce - situaci´on SP.
+Respecto a los modelos de la situaci´on CP, se configur´o en general una malla num´erica no
+estructurada capaz de adaptarse a las caracter´ısticas topogr´aficas de los elementos pro-
+yectados, singularidades y cauces involucrados. En general, todos los modelos consideran
+una malla no estructurada de tama˜no base 5 x 5 metros, la cual incorpora refinamientos
+mediante breaklines acordes con el tipo de obra a representar seg´un se expone en Tabla
+2-34:
+Tabla 2-34: Refinamiento dado a diferentes obras en modelos CP.
+N°
+Obra o cauce
+Refinamiento
+1
+Canales
+0,50 m
+2
+Obras de Encauzamiento
+0,25 m
+3
+Obras de Atravieso
+0,25 m
+4
+Muro
+0,10 m
+5
+Tuber´ıa DN 1200
+0,50 m
+6
+Tuber´ıa CAPT-02
+0,25 m
+7
+Bad´en
+0,50 m
+8
+Quebrada Principales
+1,0 m
+9
+Quebrada Afluente
+0,50 m
+De manera ilustrativa se presentan en la Figura 2-49 el refinamiento dado a diferentes
+zonas del modelo. En la Figura 2-49 (A) se muestra el grado de refinaci´on dado a una
+obra de atravieso (OA), obra de encauzamiento y quebradas afluentes, esto en el modelo
+del Sector 1. Un ejemplo del refinamiento dado a los canales se muestra en la Figura 2-49
+(B), mientras que en la Figura 2-49 (C) se ilustra la interacci´on del canal en zona de
+descarga a la quebrada principal.
+PAS 157- CMGIR
+64
+
+===== p.65 =====
+Figura 2-49: Refinaci´on de la malla en diferentes zonas situaci´on CP: (A) Zona
+Captaci´on, (B) Zona Canales y (C) Zona de Descarga.
+PAS 157- CMGIR
+65
+
+===== p.66 =====
+2.5.2.6
+Condiciones de Borde
+Como condici´on de borde se ingresaron los caudales de dise˜no presentados en el item
+2.5.2.3 Caudales de dise˜no junto con la magnitud de la pendiente en el entorno pr´oximo
+de estos bordes. De manera general, para todos los modelos, el flujo se ingres´o de forma que
+en los primeros 10 minutos de simulaci´on este incremente de manera lineal hasta alcanzar
+la magnitud de dise˜no, para que luego, estabilizado el modelo, el flujo sea constante.
+En cuanto a la situaci´on SP, se ingresaron en total 36 entradas de caudal como condi-
+ciones de borde equivalentes a las quebradas que interact´uan con el ´area del proyecto,
+imponi´endoles la pendiente del cauce aguas arriba del punto de ingreso. En cuanto a la
+condici´on de borde de salida, este modelo considera 3 puntos en las quebradas Q1, Q2
+y Q3.1.15, para los cuales se impuso la altura normal y la pendiente del cauce en dicho
+tramo. Lo se˜nalado anteriormente se detalla en la Tabla 2-35, mientras que en la Figura
+2-50 se muestra la ubicaci´on de las condiciones de borde de entrada y salida, estas ´ultimas
+en circulo rojo.
+Tabla 2-35: Condiciones de borde, situaci´on SP.
+Condici´on de Borde
+Pendiente (m/m)
+Condici´on de Borde
+Pendiente (m/m)
+Q1
+0,44
+Q2.1.14
+0,32
+Q1.1.10
+0,16
+Q2.1.5
+0,13
+Q1.1.11
+0,34
+Q2.1.6
+0,27
+Q1.1.12
+0,25
+Q2.1.7
+0,39
+Q1.1.13
+0,32
+Q2.1.8
+0,19
+Q1.1.15
+0,29
+Q2.1.9
+0,13
+Q1.1.16
+0,31
+Q2.2.0
+0,22
+Q1.1.17
+0,37
+Q2.2.1
+0,15
+Q1.1.18
+0,40
+Q2.2.2
+0,25
+Q1.1.14
+0,43
+Q2.2.3
+0,26
+Q1.1.8
+0,18
+Q2.2.4
+0,22
+Q1.1.9
+0,16
+Q2.2.5
+0,37
+Q1.2
+0,24
+Q2.2.6
+0,33
+Q1.2.3
+0,27
+Q2.2.7
+0,39
+Q1.2.4
+0,59
+Q2.2.8
+0,11
+Q2
+0,57
+Q3.1.15
+0,35
+Q2.1.10
+0,19
+SAL - Q1
+0,12
+Q2.1.11
+0,16
+SAL - Q2
+0,05
+Q2.1.12
+0,15
+SAL - Q3.1.15
+0,23
+Q2.1.13
+0,32
+PAS 157- CMGIR
+66
+
+===== p.67 =====
+Figura 2-50: Condiciones de borde modelaci´on situaci´on SP.
+Para la situaci´on CP, se ingresaron en total 47 condiciones de borde equivalentes a las
+entradas de caudal de quebradas, canales y otras obras que se incluyen en los modelos.
+Se les impuso la pendiente del cauce aguas arriba en el punto de ingreso del caudal. En
+cuanto a la condici´on de borde de salida, los 6 modelos consideran en total 9 puntos salida
+para los cuales se impuso la altura normal y la pendiente del cauce/canal en ese punto. El
+desglose por sector modelado con la identificaci´on de las condiciones de borde de entrada y
+salida, as´ı como tambi´en la pendiente dada, se resumen en la Tabla 2-36 para los sectores
+1 a 5 y en la Tabla 2-37 para el sector 6. Por otro lado, la ubicaci´on de las condiciones
+de borde en cada sector modelado se presenta en las Figuras 2-51 a la 2-54, donde la
+ubicaci´on de las salidas se destacan con un c´ırculo celeste.
+PAS 157- CMGIR
+67
+
+===== p.68 =====
+Tabla 2-36: Condiciones de borde, situaci´on CP, Modelos Sector 1 al 5.
+Sector
+Condici´on de Borde
+Pendiente (m/m)
+1
+Q2-4
+0,2400
+Q2-3
+0,6000
+Canal-1.0
+0,0671
+Canal-1.1
+0,1425
+SAL-S1
+0,1434
+2
+TR 1-Canal 1.2
+0,0050
+TR 2-Canal 1.2
+0,0025
+TR 3-Canal 1.2
+0,0025
+SAL-S2
+0,0500
+3
+Canal-1.3
+0,0030
+TUB
+0,0114
+Canal-1.4
+0,0026
+SAL-S3
+0,0230
+4
+Canal-2.1
+0,0025
+Canal-2.2
+0,0092
+SAL-S4
+0,2300
+5
+CAPT-02
+0,0046
+Canal-3.1-1
+0,4150
+Canal-3.1-2
+0,0050
+Canal-3.2
+0,2064
+Q1 CP
+0,0600
+Q1.1.13
+0,0300
+Q1-6
+0,6750
+SAL-S5
+0,0700
+Q1-3
+0,5600
+Q1-4
+0,5400
+SAL-CAPT 02
+0,0025
+Tabla 2-37: Condiciones de borde, situaci´on CP, Modelo Sector 6.
+Condici´on de Borde
+Pendiente (m/m)
+Condici´on de Borde
+Pendiente (m/m)
+Q1 CP
+0,4087
+Q2.1.7
+0,3900
+Q2.2.2
+0,2500
+Q2.2.7
+0,3900
+Q1.2.3
+0,2700
+Q2 CP
+0,1330
+Q1.1.8
+0,1800
+Q2.1.6 CP
+0,5300
+Q2.2.5
+0,3700
+Q3.1.15 CP
+0,1223
+Q1.2.4
+0,5900
+Descarga 01
+0,0071
+Q1.1.13
+0,3200
+Descarga 02
+0,0050
+Q2.2.6
+0,3300
+Descarga 03
+0,0050
+Q2.2.8
+0,1100
+Descarga 04
+0,1779
+Q1.1.9
+0,1600
+Descarga 05
+0,0050
+Q2.1.5 CP
+0,0787
+Descarga 06
+0,0050
+Q1.1.10
+0,1600
+SAL Q2
+0,0500
+Q1.2
+0,2400
+SAL Q1
+0,1200
+Q2.1.8
+0,1900
+SAL-Q3.1.15
+0,2300
+Q2.1.9 CP
+0,1100
+PAS 157- CMGIR
+68
+
+===== p.69 =====
+Figura 2-51: Condiciones de borde, situaci´on CP, Modelo Sector 1 y 3.
+Figura 2-52: Condiciones de borde, situaci´on CP, Modelo Sector 2 y 4.
+PAS 157- CMGIR
+69
+
+===== p.70 =====
+Figura 2-53: Condiciones de borde, situaci´on CP, Modelo Sector 5.
+Figura 2-54: Condiciones de borde, situaci´on CP, Modelo Sector 6.
+PAS 157- CMGIR
+70
+
+===== p.71 =====
+2.5.2.7
+Coeficiente de Rugosidad
+a) Rugosidad situaci´on SP
+Dadas las caracter´ısticas de escurrimiento libre para un cauce natural, se utiliza como ley
+friccional la ecuaci´on de Manning. Para estimar el coeficiente “n”de Manning se utiliza la
+metodolog´ıa descrita por Cowan W. L. (1956), donde se deben considerar las caracter´ısti-
+cas generales del cauce. Reconociendo varios factores primarios que afectan el coeficiente
+de rugosidad, Cowan desarroll´o un procedimiento para la evaluaci´on del n de Manning.
+Seg´un este procedimiento el valor de “n” puede ser calculado seg´un la ecuaci´on:
+n = m(n0 + n1 + n2 + n3 + n4)
+(5)
+Donde los distintos factores y respectivos rangos de valores se exponen en la Tabla 2-38.
+Tabla 2-38: Par´ametros m´etodo de Cowan. Fuente: MC V3, Tabla 3.707.104.B.
+Condiciones del Canal
+Valor
+Material del lecho (n0)
+Tierra
+0,020
+Roca
+0,025
+Grava Fina
+0,024
+Grava Gruesa
+0,028
+Grado de Irregularidad (n1)
+Despreciable
+0,000
+Leve
+0,005
+Moderado
+0,010
+Alto
+0,020
+Variaciones de las Secciones Transversales (n2)
+Graduales
+0,000
+Altern´andose
+Ocasionalmente
+0,005
+Alternandose
+Frecuentemente
+0,010 - 0,015
+Efecto Relativo de las Obstrucciones (n3)
+Despreciable
+0,000
+Leve
+0,010 - 0,015
+Apreciable
+0,020 - 0,030
+Alto
+0,040 - 0,060
+Densidad de Vegetaci´on (n4)
+Baja
+0,005 - 0,010
+Media
+0,010 - 0,025
+Alta
+0,025 - 0,050
+Muy Alta
+0,050 - 0,100
+Frecuencia de Meandros (m)
+Leve
+1
+Apreciable
+1,15
+Alto
+1,3
+Particularmente, en modelaciones bidimensionales (2D), al utilizar el m´etodo de Cowan, no
+se deben incluir los factores correspondientes al grado de irregularidad del canal (n1), a las
+variaciones de las secciones transversales (n2), el efecto relativo de las obstrucciones (n3)
+y la frecuencia de meandros (m), debido a que estos factores se consideran expl´ıcitamente
+en la topograf´ıa del modelo. Estos criterios son establecidos en el informe de la National
+Academies of Sciences, Engineering and Medicine titulado “Selection and Application of
+Manning’s Roughness Values in Two-Dimensional Hydraulics Models” (2024). De esta
+PAS 157- CMGIR
+71
+
+===== p.72 =====
+forma, se calcula el coeficiente de Manning considerando solamente el material del lecho
+(n0) y la densidad de vegetaci´on (n4).
+En una primera instancia se estima el valor de n0 con la ecuaci´on de Strickler:
+n0 = D1/6
+26, 4
+(6)
+Donde D = D90 corresponde al di´ametro representativo de la rugosidad superficial del
+lecho.
+Para conocer la granulometr´ıa presente en el sector y precisar con ello el c´alculo del co-
+eficiente de Manning, se realizaron 2 muestreos denominados “Calicatas C-1 y C-2” en
+el lecho de las quebradas del Q2 y Q2.1.6 respectivamente. De acuerdo con el an´alisis
+granulom´etrico realizado (ver Ap´endice H ), el material presente en las quebradas corres-
+ponde a arenas con grava color caf´e. La curva granulom´etrica de ambas muestras (ver item
+2.5.3.1 Caracterizaci´on del lecho) evidencia una composici´on bastante similar. Se estima
+entonces que el valor representativo para el lecho de los cauces del lugar corresponder´ıa a
+D90 = 2, 89mm.
+Luego, al aplicar la ecuaci´on de Strickler para un di´ametro representativo igual al D90, se
+obtiene una rugosidad para el material del lecho igual a n0 = 0,014.
+Por otra parte, la Figura 2-55 muestra imagen tomadas en terreno donde se aprecia el
+material del lecho de los cauces y de las laderas, corroborando la existencia de arenas
+con grava. Se corrobor´o adem´as mediante vuelo dron algunos afloramientos de roca en
+los cauces principales Q1 y Q2, junto a la presencia de clastos mayores espor´adicos. En
+l´ınea con la Tabla 2-38 del m´etodo de Cowan, la rugosidad de lecho tomar´ıa un valor de
+n0 = 0, 024, considerando el material del lecho como Grava Fina.
+PAS 157- CMGIR
+72
+
+===== p.73 =====
+Figura 2-55: Fotograf´ıas tomadas en terreno del material del lecho del cauce.
+Por lo tanto, seg´un las metodolog´ıas presentadas para la estimaci´on de la rugosidad del
+lecho, se considera entonces para este estudio y de manera conservadora, n0 = 0,024.
+En cuanto a la definici´on del factor relativo a la densidad de vegetaci´on (n4), se conside-
+rar´an las condiciones actuales de los cauces. En el lugar se advierte abundante vegetaci´on
+en las zonas pr´oximas a las quebradas y sus laderas, identific´andose la presencia de ´arboles,
+arbustos y vegetaci´on baja. En la Figura 2-56-(A) se muestra lo antes expuesto mediante
+foto panor´amica de una de las quebradas importantes del lugar (Q2), mientras la distri-
+buci´on de la cobertura del suelo, espec´ıficamente, de la vegetaci´on presente en lugar se
+muestra en la Figura 2-56-(B) mediante imagen de vuelo dron del ´area donde se emplazar´a
+el Proyecto.
+Por otro lado, en la mayor´ıa de los cauces del lugar se advierte la presencia de vegetaci´on
+de altura baja junto a peque˜nos bancos de arena (Figura 2-57-(D)), mientras que en
+sus riberas se observa arbustos de tama˜no medio (Figura 2-57-(A) y (B)). Ya en las
+laderas de las quebradas se encuentran ´arboles y arbustos de tama˜no mayor. En el tramo
+pr´oximo al estero Marga Marga se identifica mayor cantidad de arbustos de tama˜no medio
+y vegetaci´on baja en el cauce principal (Figura 2-57-(C)) En l´ınea con lo anterior, se
+considera n4 = 0,025 (media) como el valor del factor a considerar para caracterizar la
+densidad de vegetaci´on en los cauces de la zona de estudio.
+PAS 157- CMGIR
+73
+
+===== p.74 =====
+Figura 2-56: Identificaci´on general de coberturas de suelo en la zona de estudio.
+Figura 2-57: Identificaci´on de coberturas de suelo en cauces.
+PAS 157- CMGIR
+74
+
+===== p.75 =====
+Finalmente, definidos ambos factores en la Tabla 2-39 para toda el ´area de modelaci´on
+(cauce y planicie de inundaci´on), el coeficiente de manning se aproxima a n = 0,049.
+Tabla 2-39: C´alculo del coeficiente de Rugosidad Manning.
+Par´ametro
+N° de Manning
+n0
+0,024
+n1
+0
+n2
+0
+n3
+0
+n4
+0,025
+m
+1
+n
+0,049
+b) Rugosidad situaci´on CP
+Con el fin de implementar el coeficiente de Manning seg´un la cobertura de suelo en el
+modelo de la situaci´on con proyecto (CP), se gener´o un pol´ıgono en formato .shp utilizando
+QGIS 3.30.3, el cual esta asociado a las distintas materialidades proyectadas. Luego, se
+incorporan los pol´ıgonos .shp al modelo mediante la capa LandCover del software HEC-
+RAS v6.6. En la Figura 2-58 se presenta la implementaci´on de las capas manning en la
+modelaci´on hidr´aulica, mientras que en la Tabla 2-40 se detallan los valores asociados a
+cada materialidad. Cabe se˜nalar que para la zona definida como “Quebrada Natural” se
+mantuvo el coeficiente de rugosidad estimado previamente en la situaci´on SP.
+Tabla 2-40: Rugosidad de Manning para materiales presentes Situaci´on CP.
+Id
+Material
+Rugosidad
+1
+Acero tuber´ıa
+0,011
+2
+Acero Corrugado
+0,025
+3
+Berma
+0,018
+4
+Enrocado/Mamposteria
+0,040
+5
+Hormig´on Armado - Canal
+0,015
+6
+Shotcrete - Canal
+0,019
+7
+Quebrada Natural
+0,049
+8
+Revestimiento Relleno Sanitario
+0,011
+9
+Terreno Interior
+0,025
+PAS 157- CMGIR
+75
+
+===== p.76 =====
+Figura 2-58: Implementaci´on del coeficiente de Manning mediante un pol´ıgono .shp para
+modelos CP.
+Para mayor detalle, en el Ap´endice A se encuentran disponibles los pol´ıgonos .shp uti-
+lizados en la modelaci´on.
+2.5.2.8
+Incorporaci´on de obras en modelo CP
+La red de canales, obras de captaci´on y descarga se incorporaron mediante modificaciones
+de terreno (terrain) del r´aster que contiene la topograf´ıa de la situaci´on con proyecto, esto
+en el m´odulo RAS Mapper de HECRAS v6.6.
+Los desniveles abruptos ser´an abordados mediante la disposici´on de disipadores de energ´ıa
+adaptados a las dimensiones de cada uno de los canales. Estos tambi´en son requeridos en
+el tramo de descarga de cada canal. Abordar este tipo de obra, la cual consiste en ca´ıdas
+escalonadas de entre 1,70 m a 1,10 m seg´un el tipo de disipador, requiere un refinamiento
+y recurso computacional mayor. En ese sentido, se opt´o por simplificar la presencia de
+estos saltos en el modelo mediante una rasante, tal como se muestra en la Figura 2-59,
+teniendo en cuenta que el foco de la modelaci´on est´a solo en la interacci´on de esta obra
+con las quebradas.
+Otra simplificaci´on realizada en la modelaci´on de la red de canales tiene relaci´on con las
+tuber´ıas. Al no tener esta versi´on la representaci´on de una secci´on circular se opt´o por
+representar la tuber´ıa de media ca˜na que une los tramos 1 y 2 del Canal 1.2 como una
+secci´on rectangular de base igual al di´ametro de la tuber´ıa (B = DN = 1.000 mm). De la
+misma manera, parte de tuber´ıa de acero que conecta la “C´amara Receptora N° 1” con el
+PAS 157- CMGIR
+76
+
+===== p.77 =====
+Canal 1.4 se model´o como una secci´on rectangular de base igual al di´ametro de la tuber´ıa
+(B = DN 1.200 mm).
+Figura 2-59: Incorporaci´on de disipadores en modelo de canales.
+2.5.2.9
+Configuraci´on Num´erica del modelo
+Por ´ultimo, la simulaci´on se basa en el conjunto de ecuaciones de Saint-Venant utilizando
+el m´etodo Euleriano-Lagrangiano disponible en HEC-RAS (SWE-ELM). El criterio de
+convergencia y estabilidad sugerido por Courant-Friedrichs-Lewis impone que el n´umero
+de Courant (C), definido en la Ecuaci´on 7, debe ser menor a 1 en cada paso de tiempo
+del modelo. En las simulaciones conducidas, el n´umero de Courant de manera general se
+limita a 0,80 m´aximo y m´ınimo 0,22, buscando asegurar la estabilidad y convergencia del
+modelo.
+C = U∆t
+∆x
+(7)
+donde U es la velocidad del flujo, ∆t es el paso de tiempo de una iteraci´on a otra y ∆x
+es el espaciamiento de la grilla de c´alculo.
+PAS 157- CMGIR
+77
+
+===== p.78 =====
+2.5.2.10
+Resultados Modelaci´on Num´erica
+A continuaci´on, se presentan los resultados m´as relevantes derivados de la modelaci´on
+num´erica de los escenarios “Sin proyecto” (SP) y “Con proyecto” (CP) del caudal asociado
+a 100 a˜nos de per´ıodo de retorno. Complementario a este cap´ıtulo, en el Ap´endice E se
+incluyen los r´aster de resultados de la modelaci´on hidr´aulica, mientras que en el Ap´endice
+I, se anexan los planos en planta con el ´area de inundaci´on asociada a la crecida centenaria,
+as´ı como tambi´en los perfiles longitudinales con el eje hidr´aulico comparativo entre ambas
+situaciones de los diferentes cauces analizados.
+a) An´alisis resultados situaci´on SP
+En la Figuras 2-60 se presenta la vista en planta del alcance de la inundaci´on con las
+alturas de escurrimientos (m) de la crecida de 100 a˜nos para la situaci´on sin proyecto. De
+acuerdo con esta figura, en los cauces modelados y que son afluentes a Q1 y Q2, la altura
+que alcanza la crecida se encuentra mayormente en el rango de 0,50 m a 1,0 m. En el caso
+de las quebradas principales (Q1 y Q2), se observa mayor altura para el flujo aguas abajo
+del ´area de proyecto, donde las alturas oscilan mayoritariamente entre 1,0 m y 1,50 m a
+lo largo de cada cauce.
+Figura 2-60: Alturas de escurrimiento (m) Q T=100 a˜nos - SP
+PAS 157- CMGIR
+78
+
+===== p.79 =====
+La Figura anterior revela tambi´en que la caja de cauce principal de la mayor´ıa de las
+quebradas en cuesti´on se encuentra bien definida, con anchos de escurrimientos que no
+exceden los 20 m. Sin embargo, existen zonas en que el flujo no contin´ua por el cauce,
+desvi´andose a zonas de menor pendiente e incluso trasvasijando las aguas hacia otras
+quebradas. Lo descrito anteriormente se muestra en la Figura 2-61-(C), donde se destaca
+en circulo morado los puntos en que esto ocurre. En la misma imagen se observa que
+parte del flujo de la quebrada Q2.1.6 se desv´ıa por el camino existente y continua ladera
+abajo hacia la quebrada Q1.1.15. La misma situaci´on ocurre entre Q1.1.15 y Q1, donde
+el camino existente entre estas quebradas facilita la ocurrencia de este fen´omeno.
+Otra situaci´on para destacar es la zona de acumulaci´on que se genera en la confluencia de
+las quebradas Q2 y Q2.1.13, lo cual se muestra en la Figura 2-61-(B), lo cual se explica por
+la presencia de abundante vegetaci´on de tama˜no medio y adem´as del paso de un camino,
+dificultando el libre escurrimiento aguas abajo de ambas quebradas. Por ´ultimo, la Figura
+2-61 (A) muestra el alcance de la inundaci´on en el l´ımite N-O del Proyecto, esto es, donde
+confluye la quebrada Q2.1.9 con Q2.
+Figura 2-61: An´alisis de altura de escurrimiento en sectores de inter´es.
+PAS 157- CMGIR
+79
+
+===== p.80 =====
+Las velocidades de escurrimiento (m/s) para la crecida centenaria seg´un la modelaci´on de
+la situaci´on sin proyecto (SP) se muestran en la Figura 2-62. De acuerdo con la imagen, los
+cauces ubicados en el interior del ´area de proyecto (excepto Q1 y Q2) alcanzan velocidades
+de hasta 2,50 m/s, con peque˜nas zonas donde esa magnitud crece hasta los 4 m/s.
+Para el caso de la quebrada Q1, se aprecia que en todo su desarrollo alcanza velocidades
+de hasta 3 m/s, magnitud que se incrementa hasta 6 m/s en el tramo aguas abajo de la
+quebrada.
+El mismo comportamiento se observa para la quebrada Q2, puesto que el flujo presenta
+velocidades m´aximas de hasta 3 m/s en casi toda la quebrada, mientras que en el tramo
+aguas abajo de la quebrada Q2 la velocidad de la crecida se incrementa hasta 5 m/s en
+peque˜nas zonas.
+Figura 2-62: Velocidades de escurrimiento (m/s) para crecida Q T=100 a˜nos - SP.
+PAS 157- CMGIR
+80
+
+===== p.81 =====
+b) An´alisis resultados situaci´on CP
+En las Figura 2-63 y 2-64 se presentan en una vista en planta el alcance de la inundaci´on
+con las alturas de escurrimiento (m) y velocidades de escurrimiento (m/s), respectivamen-
+te, producto de la crecida de 100 a˜nos para la situaci´on con proyecto.
+De acuerdo con la Figura 2-63, en los cauces modelados y afluentes a Q1 y Q2, la altura
+que alcanza la crecida se encuentra mayoritariamente en el rango de 0,50 – 1,0 m. En el
+caso de las quebradas principales (Q1 y Q2), se observa que predominan las alturas entre
+1,0 m y 1,50 m, pero con m´aximos en que estos valores son sobrepasados, tal es el caso
+de la curva aguas abajo de la Descarga N° 5 con hmax = 1,90 m y el tramo bajo de las
+quebradas Q1 y Q2, donde se observan alturas aprox. de 1,70 m. Se observa adem´as que
+las crecidas transitan principalmente por el cauce, con anchos de escurrimiento que no
+exceden de los 20 m, extensi´on similar a la situaci´on SP, con excepci´on de la zona en que
+confluyen las quebradas Q2.1.9 con Q2, fen´omeno a revisar en detalle m´as adelante.
+Figura 2-63: Altura de escurrimiento (m), crecida T=100 a˜nos, Situaci´on CP.
+Las velocidades de escurrimiento (m/s) para la crecida centenaria seg´un la modelaci´on de
+la situaci´on con proyecto (CP) se muestran en la Figura 2-64. En general, en los cauces
+afluentes a las quebradas principales Q1 y Q2 se alcanzar´ıan velocidades de hasta 3,20
+m/s, con peque˜nas zonas donde este l´ımite es excedido hasta 4 m/s. Por otro lado, en el
+PAS 157- CMGIR
+81
+
+===== p.82 =====
+caso de los cauces principales Q1 y Q2, el flujo presenta mayormente velocidades de hasta
+3,5 m/s. Sin embargo, se observan zonas espec´ıficas donde tal magnitud se incrementa
+hasta 6,50 m/s. Tal es el caso del tramo de la quebrada Q2 aguas arriba de la confluencia
+de esta con Q2.1.6, el tramo de salida de Q1 y por ´ultimo, el tramo inicial de la quebrada
+Q1.1.14.
+Figura 2-64: Velocidad de escurrimiento (m/s), crecida T=100 a˜nos, Situaci´on CP.
+A continuaci´on, se presentan y analizan los resultados de la modelaci´on hidr´aulica para
+las obras de manejo de las aguas lluvias que considera el proyecto y el entorno pr´oximo
+donde estas se ubican.
+Captaciones
+Un acercamiento de los resultados obtenidos para la altura de escurrimiento (m) y las
+velocidades de escurrimiento (m/s) se muestra en las Figuras 2-65 y 2-66 respectivamente
+para el sector donde se proyectan las obras de captaci´on.
+En la Figura 2-65 (A) se presenta el alcance de la crecida centenaria en las quebradas
+Q2 y Q2.1.14 junto con el comportamiento de las aguas en la Obra de Captaci´on N° 1.
+Se aprecia en dicha figura que la crecida no exceder´a los 50 cm de altura, cubriendo un
+ancho menor a los 2,0 m previo a su ingreso a los canales de encauzamiento. Se observa
+adem´as que en la C´amara Receptora N° 1 el flujo alcanzar´ıa una altura m´axima de 1,0 m
+PAS 157- CMGIR
+82
+
+===== p.83 =====
+previo a la evacuaci´on de este mediante la tuber´ıa. Otro resultado a destacar es la altura
+de 1,50 m obtenida en el tramo de empalme del Canal 1.0 con la C´amara.
+Por otro lado, se destaca en la Figura 2-65 (B) que en la Obra de Captaci´on N° 3, donde
+se proyecta un baden para conectar la escorrent´ıa con el Canal 3.1, la crecida centenaria
+proveniente de la quebrada Q1.1.17 alcanzar´ıa una altura menor a 50cm. De igual manera,
+en la Figura 2-65 (C) se muestra el alcance de la inundaci´on producto del caudal de la
+quebrada Q1. Se observa en dicha figura que ambos ramales en que se divide la escorrent´ıa
+no sobrepasar´ıan los 50cm de altura hasta su ingreso a la obra de encauzamiento. Dicha
+altura se mantendr´ıa hasta el ingreso del caudal a la obra de Captaci´on N° 2 y en los
+primeros 20 m del Canal 3.1.
+Figura 2-65: Altura de escurrimiento (m) en sector Captaciones.
+En l´ınea con lo expuesto anteriormente, se detalla en la Figura 2-66 (A) la distribuci´on
+de velocidades (m/s) que alcanzar´ıa el caudal de dise˜no y crecida centenaria sobre las
+diferentes instalaciones de la Obra de Captaci´on N° 1. Se observa en la figura que la
+crecida alcanzar´ıa hasta 3 m/s en el tramo de empalme de la quebrada Q2 con el canal
+de encauzamiento, mientras que en la quebrada Q2.1.14, la velocidad del flujo se estim´o
+de magnitud menor a 1 m/s, valor que se encuentra tambi´en en los tramos de empalme
+de Canales 1.0 y 1.1 con la C´amara. En cuanto al Canal 1.0, se muestra en la Figura 2-66
+(A) que las velocidades producto del paso del caudal de dise˜no llegar´ıan incluso a los 7
+m/s, valor cercano al l´ımite admisible definido para el canal de hormig´on armado.
+En cuanto al comportamiento de las velocidades en la Obra de Captaci´on N° 3 se muestra
+en la Figura 2-66 (B). En esta se observa que el flujo proveniente de la quebrada Q1.1.17
+PAS 157- CMGIR
+83
+
+===== p.84 =====
+hace ingreso a la obra con una velocidad menor a 1 m/s. Un comportamiento diferente
+se aprecia en la Figura 2-66 (C) para la Obra de Captaci´on N° 2, donde la velocidad con
+la que se aproxima el flujo hacia la obra se estima entre 2 a 3 m/s, en el cauce principal,
+mientras que el ramal derecho la velocidad es menor a 1 m/s.
+Figura 2-66: Velocidad de escurrimiento (m/s) en sector Captaciones
+Descargas
+Los resultados obtenidos en cada una de las 6 obras de Descarga que considera el proyecto
+se muestran en las Figuras 2-67 y 2-68, esto para la altura (m) y velocidad (m/s) de
+escurrimiento respectivamente.
+En la Figura 2-67 (A) se muestra el alcance que tendr´ıa la descarga N° 1 sobre la quebrada
+Q2, con alturas de escurrimiento menores a 1 m en los primeros 50 m aguas abajo.
+En el caso de las Descargas N° 2 y N° 3, cuyas quebradas receptoras son Q2.1.9 y Q2.2.3
+respectivamente, predominan las alturas menores a 50 cm en los primeros 30 m aguas
+abajo de las descargas. Sin embargo, tal como se muestra en la Figura 2-67 (B), previo a
+la confluencia de las quebradas, se incrementa la altura de flujo hasta 1 m.
+La Figura 2-67(C) presenta el comportamiento del flujo de la Descarga N° 4 sobre la que-
+brada Q.2.1.6, donde se aprecia que predominan alturas menores a 50 cm en los primeros
+30 m aguas abajo de la descarga.
+En la Figura 2-67 (D) se muestra el paso de la crecida centenaria en la quebrada Q1 junto
+con la Descarga N° 5. Se observa que previo a la descarga el flujo presenta mayormente
+PAS 157- CMGIR
+84
+
+===== p.85 =====
+alturas de 1m con zonas espec´ıficas donde se llegar´ıa a los 1,0 m. Posterior a la descarga, se
+advierte como el flujo incrementa la altura hasta 1,90 m en una extensa zona del meandro
+existente, para continuar con alturas de 1,0 a 1,50 m aguas abajo de este punto.
+Por ´ultimo, se presenta en la Figura 2-67 (E) el comportamiento de la crecida centenaria
+en la quebrada Q1.1.14 junto con la Descarga N° 6. Se advierte en la imagen que aguas
+arriba de la descarga el flujo presenta una zona bien definida en el eje del cauce con altura
+de 1 m. Luego, aguas abajo de la descarga, predomina la misma altura (1 m) pero a lo
+ancho del cauce, con zonas donde se llegar´ıa a una altura de 1,50 m.
+Figura 2-67: Altura de escurrimiento (m) en sector Descargas.
+PAS 157- CMGIR
+85
+
+===== p.86 =====
+La magnitud de velocidad (m/s) con que el escurrimiento ingresa desde la obra de descarga
+a las quebradas receptoras se resume en la Tabla 2-41, mientras que el efecto aguas abajo
+del caudal evacuado por cada una de las obras de Descarga se muestra en la Figura 2-68.
+Tabla 2-41: Velocidad (m/s) en cada Descarga.
+Obra
+Velocidad (m/s)
+Descarga N° 1
+5,30
+Descarga N° 2
+4,30
+Descarga N° 3
+4,30
+Descarga N° 4
+4,10
+Descarga N° 5
+5,20
+Descarga N° 6
+4,40
+En general, se observa en la Figura 2-68 (A) que el flujo en la quebrada Q2 aguas abajo
+de la descarga N° 1 presentar´ıa mayormente velocidades menores a 3 m/s y en algunas
+zonas esta magnitud se incrementar´ıa hasta 4 m/s.
+Para el caso de la Descarga N° 2 presentada en la Figura 2-68 (B), sobre la quebrada Q2.1.9
+alcanzar´ıa velocidades de hasta 4,5 m/s en los primeros 15 m, magnitud que descender´ıa
+hasta los 2,5 m/s sobre el eje del cauce. En la misma figura se muestra que el flujo aguas
+abajo de la Descarga N° 3 alcanzar´ıa los 4 m/s.
+En la Figura 2-68 (C) se advierte que el flujo sobre la quebrada Q2.1.6 alcanzar´ıa una
+velocidad de 3 m/s aguas abajo de la Descarga N ° 4, con zonas delimitadas en que tal
+magnitud se incrementa hasta los 4 m/s.
+La situaci´on entorno a la Descarga N° 5 y la quebrada Q1 se muestra en la Figura 2-68 (D).
+En ella se observa que el flujo aumenta su velocidad aguas abajo de la descarga, pasando
+de 3 m/s a 4 m/s en determinadas zonas del eje del cauce. Por ´ultimo, se advierte en la
+Figura 2-68 (E) como el flujo pasa de una velocidad de 3,50 m/s en el eje de la quebrada
+Q1.1.14 a rangos de velocidad de 4-5 m/s aguas abajo de la Descarga N° 6.
+PAS 157- CMGIR
+86
+
+===== p.87 =====
+Figura 2-68: Velocidad de escurrimiento (m/s) en sector Descargas.
+PAS 157- CMGIR
+87
+
+===== p.88 =====
+Canales
+En la Figura 2-69 se muestran los resultados referentes a la altura de escurrimiento (m)
+que alcanzar´a el caudal de dise˜no sobre los diferentes canales del proyecto. Se destaca de
+la figura que los canales en su mayor´ıa presentar´an alturas de escurrimiento menores a 50
+cm, con tramos donde dicha magnitud se incrementar´ıa hasta 1 m. Un hecho particular
+se observa en el Canal 1.2-Tramo 3, donde la altura del eje hidr´aulico alcanzar´ıa 1,45 m
+en el tramo del canal previo a la descarga N° 1.
+Figura 2-69: Altura de escurrimiento (m) en Canales.
+Para el caso de las velocidades, en la Figura 2-70 se muestra la distribuci´on que ´estas
+tendr´an en los diferentes tramos de la red de canales del Proyecto. De acuerdo con los
+resultados de la modelaci´on, en la figura se advierte mayoritariamente velocidades menores
+a 2 m/s para los canales, independiente de la secci´on transversal que estos tienen. En menor
+proporci´on, se observan tramos en que las velocidades alcanzan los 4 m/s. En particular,
+se advierten zonas en que las velocidades oscilan desde 4 m/s hasta 10 m/s de manera
+alternada, lo cual se explica producto de la representaci´on en el modelo de disipadores
+de energ´ıa del tipo escalonado mediante abruptos cambios de pendiente. Con excepci´on
+de las zonas con disipadores, la red de canales cumple con la velocidad admisible de
+los revestimientos de hormig´on armado (8 m/s) y shotcrete (4 m/s) definidos para su
+ejecuci´on.
+PAS 157- CMGIR
+88
+
+===== p.89 =====
+Figura 2-70: Velocidad de escurrimiento (m/s) en Canales.
+PAS 157- CMGIR
+89
+
+===== p.90 =====
+c) Comparativo escenarios SP y CP en quebradas
+Un an´alisis comparativo se muestra a continuaci´on entre las situaciones SP y CP para
+las zonas de inter´es del estudio, espec´ıficamente, para las quebradas intervinientes. En
+primer lugar, para cuantificar la variaci´on de flujo entre estas situaciones se resume en la
+Tabla 2-42 las magnitudes de la crecida en los puntos de salida de las quebradas Q1, Q2,
+Q2.1.6 y Q2.1.9, acorde con la hidrolog´ıa desarrollada para el proyecto (ver 2.5.1 An´alisis
+Hidrol´ogico), esto para las situaciones SP y CP.
+Tabla 2-42: Comparativo de caudales T=100 a˜nos situaciones SP-CP en quebradas Q1,
+Q2, Q2.1.6 y Q2.1.9.
+Quebrada
+Caudal - SP (m3/s)
+Caudal - CP (m3/s)
+Diferencial (m3/s)
+Q1
+10,56
+11,36
+-0,800
+Q2
+8,31
+9,17
+-0,856
+Q2.1.6
+2,31
+1,94
+0,370
+Q2.1.9
+1,30
+3,06
+-1,760
+Por otro lado, el alcance de la inundaci´on en varios sectores se presenta de manera gr´afica
+en las Figuras 2-71 a 2-73, espec´ıficamente, en la zona de la confluencia de las quebradas
+Q2 con las quebradas receptoras de las descargas N° 2 a N° 4, as´ı como tambi´en, en la
+zona inmediata aguas abajo de cada una de las descargas.
+En la Figura 2-71 se muestra la altura de escurrimiento de la crecida centenaria sobre las
+quebradas Q2, Q2.1.9 y Q2.1.6, espec´ıficamente, en los tramos donde ´estas confluyen. De
+acuerdo con la Tabla 2-42, el caudal que aportar´a la quebrada Q2.1.9 a Q2 aumentar´a de
+1,30 m3/s a 3,06 m3/s, lo cual se debe principalmente a las Descargas N° 2 y N° 3. Tal
+aumento de caudal se refleja en el desborde de la quebrada Q2.1.9 unos 25 m antes de
+su empalme con Q2 (Figura 2-71 (arriba)). Se aprecia adem´as el aumento de la altura de
+escurrimiento aguas abajo de la confluencia, donde las zonas con altura entre 1,0 – 1,50
+m abarcan una extensi´on mayor que para la situaci´on SP.
+De acuerdo con la Tabla 2-42, la quebrada Q2.1.6 disminuir´a su caudal producto de
+la situaci´on CP, pasando de portear 2,31 m3/s a 1,94 m3/s, lo que se traduce en una
+reducci´on del 16 % del flujo respecto de la situaci´on SP. Lo antes expuesto explicar´ıa
+en parte la imperceptible variaci´on entre las situaciones SP-CP del ´area de inundaci´on
+en la quebrada Q2.1.6 previo a la confluencia de esta con Q2 (Figura 2-71-(abajo)). Sin
+embargo, aguas abajo de la confluencia de estas quebradas si se aprecia el aumento de la
+altura de escurrimiento en la quebrada Q2, espec´ıficamente en el rango 1,0 a 1,5 m, con
+algunas zonas donde ese rango es excedido localmente.
+PAS 157- CMGIR
+90
+
+===== p.91 =====
+Figura 2-71: Comparaci´on situaciones SP-CP para crecida T=100 a˜nos en confluencia de
+Q2.1.9 y Q2.1.6 con quebrada Q2.
+En las Figuras 2-72 y 2-73 se muestra el alcance la inundaci´on en las quebradas aguas
+abajo de las obras de descarga que contempla el Proyecto, tanto para la situaci´on actual
+(SP) como para la con proyecto (CP).
+Dada la configuraci´on del proyecto, los puntos de las Descargas N° 1, 2, 3 y 4 ser´an el
+“inicio” de la escorrent´ıa sobre las quebradas Q2, Q2.1.9, Q2.2.3 y Q2.1.6 respectivamente.
+Al observar el comportamiento de las crecidas en los 100 m aguas abajo de las descargas y
+comparar con la situaci´on actual (Figura 2-72), s´olo las quebradas Q2.1.9 y Q2.2.3 reflejan
+un aumento del ´area de inundaci´on (cauce), especialmente posterior a la confluencia de
+Q2.1.9 con Q2.2.3, donde la zona con alturas de 0,50 - 1,0 m se extiende mayormente
+por le ancho del cauce. Por otro lado, las descargas N° 1 y N° 4 evacuar´an un caudal
+menor al que circula en el mismo punto en las quebradas Q2 y Q2.1.6 respectivamente, lo
+cual explica la disminuci´on (leve) de la altura de escurrimiento entre ambas situaciones
+analizadas.
+PAS 157- CMGIR
+91
+
+===== p.92 =====
+Figura 2-72: Comparaci´on situaciones SP-CP para crecida T=100 a˜nos en zona
+Descarga N° 1 a N° 4.
+Una situaci´on diferente a la anterior ocurre con la interacci´on de las Descargas N° 5 y
+N° 6 con las quebradas Q1 y Q1.1.14 respectivamente, puesto que en ambos casos el
+PAS 157- CMGIR
+92
+
+===== p.93 =====
+caudal se evacuar´a probablemente sobre un cauce que conduzca escorrent´ıa producto del
+mismo evento pluvial. En cuanto a la comparativa SP-CP, en el caso de la Descarga N°
+6, se muestra en la Figura 2-73 (abajo) como aumenta considerablemente la altura del
+escurrimiento y el ancho superficial del flujo aguas abajo de la descarga, predominando
+las zonas con alturas de 0,50 m a 1,0 m y con zonas bien definidas donde ese rango sube
+hasta los 1,50 m.
+Diferente es el caso de la Descarga N° 5 con la quebrada Q1 (ver Figura 2-73 (arriba)),
+puesto que aguas abajo de esta interacci´on es casi imperceptible observar el leve aumento
+de la altura de escurrimiento en la curva post descarga, lo cual se traduce en el aumento de
+tama˜no en la zona con altura de escurrimiento mayor a 1,50 m. Se hace hincapi´e adem´as
+que los cauces Q1.1.11 y Q1.1.12, provenientes del costado N-O de la quebrada Q1 en la
+situaci´on SP, no se incluyeron en la modelaci´on CP como condici´on de borde, pero s´ı su
+magnitud fue incorporada al cauce Q1.
+Figura 2-73: Comparaci´on situaciones SP-CP para crecida T=100 a˜nos en zona
+Descarga N° 5 y N° 6.
+PAS 157- CMGIR
+93
+
+===== p.94 =====
+2.5.3.
+An´alisis de Socavaciones
+A continuaci´on, se presentan los resultados de la estimaci´on de la socavaci´on general
+asociada a la crecida de dise˜no (T= 100 a˜nos) en el dominio de estudio, espec´ıficamente,
+en las quebradas con las que interact´ua el proyecto. Para ello se ocuparon las ecuaciones
+de Neill y Lischtvan-Levediev descritas en el Manual de Carreteras V-3.
+2.5.3.1
+Caracterizaci´on del lecho
+Para caracterizar granulom´etricamente los cauces presentes en la zona de estudio se ela-
+boraron 2 muestreos en lecho de los cauces Q2 y Q2.1.6, considerando que ´estos son
+representativos del lugar. La ubicaci´on en coordenadas junto con la descripci´on visual y
+cauce del cual fue extra´ıda cada muestra se presenta en la Tabla 2-43, mientras que, en
+la Figura 2-74 se exhibe la ubicaci´on con relaci´on al proyecto de los puntos de muestreo
+o “calicatas” a ensayar por laboratorio (ver Ap´endice H).
+Figura 2-74: Ubicaci´on calicatas respecto a red de drenaje y ´area del Proyecto.
+Tabla 2-43: Coordenadas de ubicaci´on calicatas.
+Calicata
+Coordenadas UTM
+Descripci´on Visual
+Cauce
+WGS 84, Huso 19 S
+Este (m)
+Norte (m)
+C-1
+268.246
+6.337.656
+Arena con grava color caf´e
+Q2
+C-2
+268.475
+6.337.392
+Arena con grava color caf´e
+Q2.1.6
+PAS 157- CMGIR
+94
+
+===== p.95 =====
+De acuerdo con lo informado por laboratorio, las muestras corresponden a “arenas con
+grava color caf´e”. Luego, la curva granulom´etrica promedio se presenta en la Figura 2-75,
+cuyos di´ametros caracter´ısticos se presentan en la Tabla 2-44.
+Figura 2-75: Curva granulom´etrica promedio.
+Tabla 2-44: Di´ametros caracter´ısticos promedio.
+Di´ametro caracter´ıstico
+Valor (mm)
+d95
+4,16
+d90
+2,89
+d84
+1,95
+d60
+1,01
+d50
+0,77
+d16
+0,10
+d10
+0,08
+dm
+1,00
+De la caracterizaci´on granulom´etrica realizada, se obtuvo que la desviaci´on est´andar
+geom´etrica de los sedimentos es igual a 4,50 (> 1,5), mientras que el coeficiente de unifor-
+midad es igual a 12,7 (> 4). Lo anterior indica que el material del lecho es bien graduado,
+de alta dispersi´on granulom´etrica y que por ende existe acorazamiento del lecho. Dadas
+las caracter´ısticas granulares del lecho, se aplican los m´etodos tradicionales de c´alculo de
+socavaci´on general y transporte de sedimentos.
+PAS 157- CMGIR
+95
+
+===== p.96 =====
+2.5.3.2
+Socavaci´on General
+a) M´etodo de Neill
+Las formulaciones que se emplean en el m´etodo de Neill para sedimentos gruesos son los
+siguientes:
+Sj = hcj −hj
+(8)
+hcj =
+
+qj
+1, 81√g · D0,33
+0,855
+(9)
+Donde Sj : Socavaci´on en la celda j (m)
+hcj : Altura socavada en la celda j (m)
+hj : Altura de escurrimiento en la celda sin socavar (m)
+qj : caudal por unidad de ancho en la celda j (m)
+g : aceleraci´on de gravedad (m/s2)
+D : Di´ametro representativo de sedimentos.
+b) M´etodo de Lischtvan Levediev
+El m´etodo de Lischtvan Levediev se rige por la siguiente ecuaci´on para sedimentos no
+cohesivos:
+hj =
+
+qj
+0, 68 · β · D0,28 · ψ
+
+1
+X+1
+(10)
+Donde,
+qj : caudal por unidad de ancho en la celda j (m2/s).
+hj : Altura de escurrimiento socavada en la celda j (m).
+β : Coef. Funci´on de probabilidad de excedencia del caudal de dise˜no seg´un Tabla 3.707.405.A
+del Manual de Carreteras V-3.
+D : Di´ametro medio de los sedimentos (mm).
+ψ : Coef. Influencia del sedimento en suspensi´on seg´un Tabla 3.707.405.B del Manual de
+Carreteras V-3.
+X : Par´ametro de la f´ormula de arrastre cr´ıtico seg´un Tabla 3.707.405.C del Manual de
+Carreteras V-3.
+PAS 157- CMGIR
+96
+
+===== p.97 =====
+c) C´alculo de la socavaci´on general
+Para la aplicaci´on del m´etodo de Neill se ocup´o como di´ametro representativo el valor
+asociado al D90 = 2,89 mm. En cuanto al m´etodo de Lischvan-Levediev, en la Tabla 2-45
+se muestran los valores empleados por cada par´ametro.
+Tabla 2-45: Par´ametros m´etodos Lischvan Levediev.
+Par´ametro
+Valor
+ψ
+1,08
+X
+0,401 (Suelo No Cohesivo)
+β
+1 ( T= 100 a˜nos)
+Dm
+1,0 mm
+Luego, el calculo de la socavaci´on general se realiz´o mediante el uso de los archivos r´aster
+de altura y velocidad de escurrimientos obtenidos de las modelaciones hidr´aulicas 2D de
+los escenarios SP y CP.
+Estos archivos fueron procesados mediante una rutina de Python, donde se aplican las
+ecuaciones de Neill y Lischtvan-Levediev en cada celda del r´aster, para luego obtener el
+valor de socavaci´on m´axima entre los 2 m´etodos utilizados, lo cual se distribuye espacial-
+mente en el dominio de cada modelaci´on. Para realizar este c´alculo, el caudal unitario
+pasante por cada celda es estimado mediante la ponderaci´on de la velocidad y la altura
+de escurrimiento en la misma celda.
+d) Resultados Socavaci´on General M´axima
+En este apartado se exponen los resultados de socavaci´on general m´axima (m) estimados
+para las situaciones SP y CP producto del paso de la crecida centenaria. Sin embargo,
+dado el alcance del proyecto y cantidad de quebradas involucradas, el an´alisis se centr´o
+en las quebradas ubicadas en la zona de captaci´on, en aquellas que reciben cada una de
+las descargas y por ´ultimo, en las zonas en que confluyen las quebradas Q2.1.9 y Q2.1.6
+con la quebrada Q2.
+En cuanto a las quebradas ubicadas en la zona de captaci´on, s´olo se analiz´o la situaci´on sin
+proyecto (SP), puesto que, dadas las caracter´ısticas del proyecto, tales obras representan
+s´olo una intervenci´on aguas abajo de estos puntos. En l´ınea con lo anterior, en la Figura
+2-76 (A) se muestra el resultado de la socavaci´on m´axima en las quebradas donde se
+emplazar´a la Obra de Captaci´on N° 1. En dicha imagen se observa que en la quebrada Q2
+la socavaci´on estimada se encuentra mayormente en el rango 1,0 m a 2,0 m, mientras que
+para la quebrada Q2.1.14 no se superar´ıan los 50 cm de socavaci´on. Luego, el sector donde
+se emplazar´a la Obra de Captaci´on N° 2 se muestra en la Figura 2-76 (C), donde para
+la quebrada Q1 se alcanzar´a una socavaci´on m´axima de hasta 2,0 m, con peque˜nas zonas
+en que se llegar´ıa hasta los 3 m. Finalmente, para el caso de la quebrada Q1.1.17, lugar
+donde se emplazar´a el bad´en de la obra de Captaci´on N° 3, las socavaciones estimadas no
+superar´ıan los 50 cm, tal como se observa en la Figura 2-76 (B).
+PAS 157- CMGIR
+97
+
+===== p.98 =====
+Figura 2-76: Socavaci´on general m´axima (m) por crecida T=100 a˜nos, situaci´on SP, en
+sector Captaciones.
+En las Figuras 2-77 y 2-78 se muestran las magnitudes de la socavaci´on m´axima obtenidas
+aguas abajo de donde se proyectan las Obras de Descarga. Se observa en dichas figuras que
+las descargas inciden en el aumento de la magnitud de socavaci´on estimada aguas abajo
+de ´estas en comparaci´on con la situaci´on actual del lugar. Sin embargo, aguas abajo de la
+Descarga N° 1 se observa que el ´area en que se estima una socavaci´on entre 1,0 m a 2,0 m
+cubre una menor extensi´on respecto de la situaci´on actual, fen´omeno que se advierte en
+los primeros 40 m aguas abajo de la descarga.
+Un resumen con las magnitudes de socavaci´on m´axima se muestra en la Tabla 2-46 en la
+zona donde se emplazar´a cada obra de descarga, esto para ambas situaciones evaluadas
+(SP-CP).
+Tabla 2-46: Socavaci´on general m´axima (m) en quebradas aguas abajo de Descargas.
+Sector
+Quebrada
+Socavaci´on S (m) - SP
+Socavaci´on S (m) - CP
+Obra Descarga N° 1
+Q2
+0,80
+1,45
+Obra Descarga N° 2
+Q2.1.9
+0,63
+1,15
+Obra Descarga N° 3
+Q2.2.3
+0,20
+1,28
+Obra Descarga N° 4
+Q2.1.6
+1,12
+1,25
+Obra Descarga N° 5
+Q1
+2,20
+2,33
+Obra Descarga N° 6
+Q1.1.14
+1,10
+2,17
+PAS 157- CMGIR
+98
+
+===== p.99 =====
+Figura 2-77: Socavaci´on general m´axima (m) por crecida T=100 a˜nos, comparativo
+situaciones SP-CP, obras de descarga N° 1 a N° 4.
+PAS 157- CMGIR
+99
+
+===== p.100 =====
+Figura 2-78: Socavaci´on general m´axima (m) por crecida T=100 a˜nos, comparativo
+situaciones SP-CP, obras de descarga N° 5 y N° 6.
+Por ´ultimo, un comparativo entre las situaciones SP y CP se muestra en la Figura 2-79
+para 2 sectores, los cuales se denominaron Confluencia 1 y Confluencia 2. El primero
+corresponde a la interacci´on entre quebradas Q2.1.9 con la quebrada Q2 y mientras que
+en el segundo se muestra la interacci´on de la quebrada Q2.1.6 con la quebrada Q2.
+En el sector de la Confluencia 1 se destaca que la socavaci´on m´axima (SP) estimada
+para Q2 oscila entre 0,50 m hasta 2,0 m, mientras que aguas abajo de este punto existen
+peque˜nas zonas en que ´esta aumenta hasta 3 m. Por otro lado, al contrastar lo anterior
+con la situaci´on CP, el valor de la socavaci´on m´axima en la quebrada Q2 aumenta hasta
+3,0 m aprox. 60 m aguas abajo de la confluencia con Q2.1.9.
+Para el sector de la Confluencia 2, se observa que en la quebrada Q2 la magnitud de la
+socavaci´on m´axima a lo largo del cauce se encuentra en el rango 1,0 m – 2,0 m, con pe-
+que˜nas zonas donde esto se incrementa hasta los 3,0 m. Sin embargo, para la situaci´on con
+PAS 157- CMGIR
+100
+
+===== p.101 =====
+proyecto (CP), las peque˜nas zonas donde la socavaci´on alcanza hasta los 3,0 m aumentan,
+extendi´endose a lo largo del eje de Q2, esto a la altura de Q2.1.5.
+Figura 2-79: Socavaci´on general m´axima (m) por crecida T=100 a˜nos, comparativo
+situaciones SP-CP en confluencia de Q2.1.9 y Q2.1.6 con quebrada Q2.
+Finalmente, tal como se expuso anteriormente, las magnitudes informadas corresponden
+al m´aximo obtenido por cada m´etodo en cada celda de modelaci´on. De igual forma, en el
+Ap´endice F se adjuntan los resultados seg´un cada m´etodo aplicado, as´ı como tambi´en
+aquel resultante de obtener el valor m´aximo y promedio entre ambas metodolog´ıas.
+PAS 157- CMGIR
+101
+
+===== p.102 =====
+2.5.4.
+Arrastre de Sedimentos
+Se realiz´o una estimaci´on del gasto s´olido para las situaciones sin y con proyecto, a partir
+de los resultados de las modelaciones hidr´aulicas y siguiendo las recomendaciones del
+Manual de Carreteras V-3. Para esto se utiliz´o la ecuaci´on de Meyer-Peter y M¨uller (MPM)
+definida a continuaci´on.
+q∗= 8 · (τ ∗−τc)3/2
+(11)
+q∗=
+q
+p
+g · R · d3
+s
+(12)
+Donde:
+q* : Potencial gasto s´olido de fondo adimensional
+τ* : Esfuerzo de corte adimensional para la expresi´on de MPM
+q : Arrastre de fondo volum´etrico por unidad de ancho (m3/m/s)
+R : Densidad relativa R=(ρs-ρ)/ρ; con ρs=2.650 kg/m3 y ρ=1.000 kg/m3
+ds : Di´ametro representativo del sedimento (m)
+Para la aplicaci´on de este m´etodo se ocup´o como di´ametro representativo (ds) el valor
+asociado al D50 = 0,77 mm, mientras que para el esfuerzo de corte cr´ıtico adimensional
+el valor usado fue τc = 0,047.
+A partir de la expresi´on de MPM se calcul´o el arrastre de sedimentos en cada celda del
+modelo hidr´aulico. Cabe mencionar que la modelaci´on se efectu´o bajo la hip´otesis de
+caudal constante y no mediante un hidrograma de crecida, en consecuencia, no es factible
+estimar el arrastre total de sedimentos del evento como un volumen acumulado.
+Dado el alcance del Proyecto y la cantidad de quebradas involucradas, el an´alisis se centr´o
+en las quebradas ubicadas en la zona de captaci´on, en las zonas en que confluyen las
+quebradas Q2.1.9 y Q2.1.6 con la quebrada Q2 y, por ´ultimo, en el tramo de salida de la
+quebrada Q1. Luego, los valores de gasto s´olido (m3/s) resultante producto de la crecida
+de 100 a˜nos per´ıodo de retorno, correspondiente a las situaciones sin y con proyecto se
+muestran en las Figuras 2-80 a 2-82.
+PAS 157- CMGIR
+102
+
+===== p.103 =====
+Figura 2-80: Gasto s´olido de fondo (m3/s) para crecida T=100 a˜nos, situaci´on SP en
+sector Captaciones.
+PAS 157- CMGIR
+103
+
+===== p.104 =====
+Figura 2-81: Gasto s´olido de fondo (m3/s) para crecida T=100 a˜nos, comparativo SP –
+CP en sector Confluencia quebrada Q2 con Q2.1.6.
+PAS 157- CMGIR
+104
+
+===== p.105 =====
+Figura 2-82: Gasto s´olido de fondo (m3/s) para crecida T=100 a˜nos, comparativo SP –
+CP en tramo salida Q1.
+Finalmente, los resultados en formato r´aster del an´alisis de gasto s´olido realizado para las
+situaciones Sin y Con proyecto se encuentran disponibles en el Ap´endice G.
+PAS 157- CMGIR
+105
+
+===== p.106 =====
+2.6.
+Art. 157 Letra f) Plan de Monitoreo
+Se contempla la realizaci´on del siguiente plan de seguimiento de la calidad de las aguas
+durante la etapa de construcci´on, solo si existe escurrimiento en el ´area del Proyecto. Se
+considera lo siguiente:
+Considerando que las quebradas analizadas presentan un escurrimiento eventual, se
+realizar´a el monitoreo de calidad del agua s´olo ante la presencia de un escurrimiento
+superficial que alcance a la zona donde se proyectan las obras. Por lo tanto, se
+realizar´a un registro fotogr´afico del cauce durante la construcci´on de las obras para
+verificar la ausencia de un escurrimiento en el entorno del proyecto ante un evento
+de precipitaci´on.
+Los puntos de monitoreo se ubicar´an en los cauces afluentes aguas arriba de las
+obras de captaci´on y Obra de descarga N° 6, as´ı como tambi´en, en el cauce aguas
+abajo de cada una de las obras de descarga. La Tabla 2-47 muestra las coordenadas
+de los puntos a monitorear, mientras que en la Figura 2-83 se detalla la ubicaci´on de
+´estos en relaci´on al Proyecto, los cuales se encuentran disponibles en el Ap´endice
+A.
+El monitoreo contempla los par´ametros establecidos en la Norma Chilena N°1.333
+para el uso de aguas destinadas a riego (ver Tabla 2-48).
+En caso de existir un evento de precipitaci´on que genere un escurrimiento superficial,
+se emitir´a un informe a la SMA que contendr´a el registro fotogr´afico, el monitoreo
+realizado, los resultados de calidad de las aguas y el estado de avance de las obras.
+Este informe ser´a emitido a los 10 d´ıas de obtenidos los resultados del monitoreo.
+Se elaborar´a un informe a la SMA a los 30 d´ıas de t´ermino de la construcci´on
+de las obras as´ı como tambi´en cada vez que exista un evento de precipitaci´on con
+escurrimiento superficial, el cu´al se elaborar´a en conformidad a lo establecido en
+la Resoluci´on Exenta N o 223, de 26 de marzo de 2015 de la SMA, considerando
+las siguientes secciones: Introducci´on; Objetivos; Materiales y m´etodo; Resultados;
+Discusiones; Conclusiones; Referencias; Anexos. El informe deber´a incluir la obra
+construida, el estado del cauce finalizada la construcci´on, los registros fotogr´aficos y
+resultados de los eventuales monitoreos de calidad del agua realizados, el retiro de
+materiales de construcci´on y disposici´on final de los residuos.
+Por otra parte, el Informe adem´as dar´a cumplimiento a lo establecido por la Reso-
+luci´on Exenta N° 894, de 24 de junio de 2019, de la SMA, que dicta instrucciones
+para la elaboraci´on y remisi´on de informes de seguimiento ambiental del componente
+ambiental agua y de forma complementaria a los contenidos m´ınimos establecidos
+en la Resoluci´on N° 223, de 26 de marzo de 2015, de la SMA.
+PAS 157- CMGIR
+106
+
+===== p.107 =====
+Tabla 2-47: Coordenadas de los puntos de monitoreo de calidad de las aguas.
+Par de Monitoreo
+Aguas Arriba
+Aguas Abajo
+PM
+Coordenadas UTM
+PM
+Coordenadas UTM
+Datum WGS 84, Huso 19S
+Datum WGS 84, Huso 19S
+Este (m)
+Norte (m)
+Este (m)
+Norte (m)
+PM -19
+P33
+267.832
+6.336.893
+P34
+268.096
+6.337.561
+PM -20
+P33
+267.832
+6.336.893
+P35
+268.226
+6.337.503
+PM -21
+P33
+267.832
+6.336.893
+P36
+268.239
+6.337.508
+PM -22
+P33
+267.832
+6.336.893
+P37
+268.495
+6.337.449
+PM -23
+P38
+268.498
+6.336.695
+P39
+268.716
+6.337.049
+PM -24
+P38
+268.498
+6.336.695
+P40
+268.521
+6.336.817
+PM -25
+P41
+267.998
+6.336.631
+P40
+268.521
+6.336.817
+PM -26
+P42
+268.129
+6.336.616
+P40
+268.521
+6.336.817
+Figura 2-83: Puntos de Monitoreo calidad de las aguas.
+PAS 157- CMGIR
+107
+
+===== p.108 =====
+Tabla 2-48: Par´ametros de monitoreo estipulados por la Norma Chilena N°1.333.
+Par´ametro
+Unidad de medida
+L´ımite NCh N o 1.333
+pH
+-
+5,5 - 9,0
+Aluminio
+mg/l
+5
+Ars´enico
+mg/l
+0,1
+Bario
+mg/l
+4
+Berilio
+mg/l
+0,1
+Boro
+mg/l
+0,75
+Cadmio
+mg/l
+0,01
+Cianuro
+mg/l
+0,2
+Cloruro
+mg/l
+200
+Cobalto
+mg/l
+0,05
+Cobre
+mg/l
+0,2
+Cromo
+mg/l
+0,1
+Fluoruro
+mg/l
+1
+Hierro
+mg/l
+5
+Litio
+mg/l
+2,5
+Manganeso
+mg/l
+0,2
+Mercurio
+mg/l
+0,001
+Molibdeno
+mg/l
+0,01
+N´ıquel
+mg/l
+0,2
+Plata
+mg/l
+0,2
+Plomo
+mg/l
+5
+Selenio
+mg/l
+0,02
+Sulfato
+mg/l
+250
+Vanadio
+mg/l
+0,1
+Zinc
+mg/l
+2
+Sodio porcentual
+%
+35
+Coliformes fecales
+NMP/100 ml
+1.000
+PAS 157- CMGIR
+108
+
+===== p.109 =====
+2.7.
+Art. 157 Letra g) Medidas tendientes a minimizar los efec-
+tos sobre la calidad de las aguas, aguas abajo del lugar de
+construcci´on de las obras
+En primer lugar, se realizar´an inducciones de buenas pr´acticas ambientales al perso-
+nal que participar´a en las faenas de construcci´on de las obras, con el fin de informar
+las prohibiciones y prevenir la contaminaci´on de cauces, a modo de evitar derrames
+de insumos, residuos, l´ıquidos, combustibles, materiales o sustancias contaminan-
+tes a ellos. Los trabajadores contar´an con supervisi´on permanente en el frente de
+trabajo, por parte de la Inspecci´on T´ecnica prevista por el Titular. Las charlas de
+inducci´on a los trabajadores incluir´an, entre otras, las siguientes prohibiciones:
+a) Verter a cursos de agua material sin tratamiento, proveniente de desecho de pro-
+cesos constructivos y de cualquier sustancia nociva al ambiente (aceites, compuestos
+t´oxicos, combustibles, lubricantes, aguas servidas sin tratamiento, desechos s´olidos
+dom´esticos o industriales, detergentes u otros).
+b) Depositar cualquier tipo de residuo, dom´estico o industrial, fuera de los sitios
+expresamente autorizados para ello (recept´aculos de residuos, botaderos, etc.).
+c) Prohibici´on de efectuar cualquier tipo de reparaci´on o mantenci´on de veh´ıculos o
+maquinarias en el frente de trabajo.
+Cabe mencionar que para la materializaci´on de las obras sujetas al presente PAS no
+se contempla como insumo de construcci´on elementos nocivos que potencialmente
+puedan alterar el estado hidroqu´ımico de las fuentes naturales de aguas presentes
+en la zona. De igual manera no se contempla acumular ni manipular sustancias
+peligrosas.
+Previo a la etapa de construcci´on de las obras, se definir´a un “´area de seguridad”,
+la cual estar´a distante del cauce y al menos 3 m por sobre la cota del borde en cada
+frente de construcci´on que defina la ejecuci´on del Proyecto. Con ello se pretende
+evitar que la instalaci´on de faenas o de almacenamiento de materiales se encuentre
+en la zona del cauce o en su planicie de inundaci´on.
+La construcci´on de las obras se realizar´a evitando perturbar, en caso de existir, el
+escurrimiento natural del cauce.
+Durante la etapa de construcci´on y ante la ocurrencia de precipitaciones:
+a) Se paralizar´an las obras de construcci´on cercanas al cauce, realizando el despeje
+necesario para evitar el arrastre de materiales ajenos en cada cauce a intervenir.
+b) No se realizar´an mantenciones, lavado de maquinaria, trasvasije de aceites y/o
+combustibles en las zonas pr´oximas al cauce.
+c) No se ejecutar´a ning´un trabajo con mortero en las proximidades del cauce.
+Durante la construcci´on de las obras se tendr´a especial cuidado en la utilizaci´on de
+PAS 157- CMGIR
+109
+
+===== p.110 =====
+maquinaria que se encuentre en perfecto estado de operaci´on y funcionamiento, con
+el fin de evitar la ca´ıda de cualquier elemento mec´anico o el derrame de cualquier
+elemento l´ıquido (aceites o petr´oleo) al interior del cauce, que pueda posteriormente
+afectar la calidad de las aguas.
+El predio contar´a con ingreso restringido, y por tanto se evitar´a el ingreso de personas
+ajenas al proyecto, que pretenda ejecutar labores o acciones no permitidas durante
+la construcci´on.
+La construcci´on de las obras contempla la generaci´on de residuos en su construcci´on,
+principalmente asociadas a enfierraduras, descartes de material p´etreo, moldajes, es-
+combros o material sobrante del proceso constructivo. Se tendr´a especial cuidado
+de no afectar el cauce natural, disponiendo ´estos fuera del cauce. Luego de finali-
+zar las obras de construcci´on, todos los desechos ser´an recopilados y trasladados a
+escombreras autorizadas para su disposici´on final.
+Ya en la operaci´on del Proyecto, se realizar´an inspecciones visuales del estado de las
+canalizaciones y de las obras descargas. Se procurar´a despejar de manera peri´odica
+todo aquel residuo que pudiera ser arrastrado. Esto se har´a con el fin de evitar que
+elementos puedan caer y alterar el libre escurrimiento de las aguas en las quebradas
+involucradas.
+PAS 157- CMGIR
+110
+
+===== p.111 =====
+2.8.
+Art. 157 Letra h) Plan de Contingencias
+El Plan de Prevenci´on de Contingencias corresponde a un instrumento estrat´egico que
+permite identificar anticipadamente las situaciones de riesgo al medioambiente o a la
+poblaci´on, con tal de establecer las medidas tendientes a prevenir su ocurrencia.
+De acuerdo con las caracter´ısticas del Proyecto, se presenta a continuaci´on un plan de
+contingencia para la instalaci´on de faenas asociado a inundaciones por eventos extremos
+de precipitaci´on:
+Tabla 2-49: Plan de contingencias.
+Riesgo o Contingencia
+Inundaciones por eventos extremos de precipitaci´on.
+Fase del proyecto a la que aplica
+Fase de Construcci´on
+Acci´on o medida a implementar
+para prevenir la contingencia
+- Se realizar´an capacitaciones para que los trabajadores
+del Proyecto est´en debidamente instruidos respecto
+a procedimientos de emergencia en caso de inundaci´on.
+- Se mantendr´an lugares de trabajo y v´ıas de evacuaci´on
+despejados y en orden.
+- Demarcaci´on y se˜nalizaci´on de ´areas de evacuaci´on y
+zona de seguridad.
+- Mantener tel´efonos de emergencia en una zona visible.
+- Se realizar´a un seguimiento de alertas meteorol´ogicas
+emitidas por SENAPRED y/o Direcci´on Meteorol´ogica
+de Chile. En caso de existir una alerta, se realizar´a un
+seguimiento del pron´ostico meteorol´ogico para los
+pr´oximos 5 d´ıas, con el objetivo de activar con
+anticipaci´on los planes de preparaci´on ante la ocurrencia
+de eventos extremos de precipitaci´on y que superen el
+periodo de retorno de dise˜no de las obras
+(P24hrs >177mm).
+- Si con 2 d´ıas de anticipaci´on, el frente de precipitaciones
+no se ha disipado y supera los l´ımites de precipitaci´on
+para T = 100 a˜nos, seg´un lo establecido en la Tabla 2-8 del
+presente informe, se deber´an iniciar las actividades aqu´ı
+plasmadas.
+- El d´ıa del evento, se incrementar´a el monitoreo
+meteorol´ogico a 6 horas. Si no se ha disipado el frente de
+precipitaciones, se deber´a evacuar a todo el personal a la
+zona de seguridad.
+Forma de control y seguimiento
+- Registro de capacitaciones a trabajadores.
+- Registro de pron´ostico y alertas meteorol´ogicas
+emitidas por SENAPRED o DMC.
+PAS 157- CMGIR
+111
+
+===== p.112 =====
+2.9.
+Art. 157 Letra i) Plan de Emergencias
+El Plan de Emergencias, corresponde al instrumento estrat´egico que permite establecer
+las acciones a desarrollar en caso de que sucedan situaciones de riesgo al medioambiente
+o a la poblaci´on.
+De acuerdo con las caracter´ısticas del Proyecto, se presenta a continuaci´on un plan de
+emergencia para la instalaci´on de faenas asociado a inundaciones por eventos extremos de
+precipitaci´on:
+Tabla 2-50: Plan de emergencias.
+Riesgo o Contingencia
+Inundaci´on por eventos extremos de precipitaci´on.
+Acci´on o medida a implementar
+para prevenir la contingencia
+a) Se dar´a aviso de inmediato al Jefe de Emergencias.
+b) El coordinador de emergencia deber´a dar la instrucci´on para:
+- Realizar evacuaci´on preventiva y controlada a la zona de seguridad.
+- No se ingresar´a a zonas inundadas.
+c) Despu´es de las lluvias se tomar´an las siguientes medidas:
+- Reportar los heridos, en caso de que los hubiese.
+- Inspeccionar instalaciones. Buscar grietas u otros da˜nos producidos
+por la inundaci´on en las obras y ejecutar en el menor plazo posible las
+labores de mantenimiento y/o reparaci´on
+Reportabilidad
+Se elaborar´a un “Informe Preliminar de Emergencias y/o
+Contingencias”, en un plazo no superior a 48 horas de ocurrido el
+evento a la autoridad ambiental (SMA y SEREMI del Medio Ambiente)
+que incluir´a, a lo menos, lo siguiente:
+a) Antecedentes del accidente (tipo y causa; fecha; hora; sustancia,
+residuo, emisiones al aire u otra relacionada con la contingencia;
+duraci´on del evento, acciones de control ejecutadas; personas afectadas,
+etc.)
+b) La identificaci´on del ´area afectada y su extensi´on (ya sea en el suelo,
+subsuelo, curso de agua, o en el aire).
+c) La identificaci´on y explicaci´on de la(s) posible(s) t´ecnicas(s) y/o
+acci´on(es) que se implementaron para limpiar el o los recursos naturales
+que hayan sido afectados (suelo, agua, ecosistemas y especies).
+d) La identificaci´on de los par´ametros representativos y las normativas
+(nacionales e internacionales de referencia) que utilizara para monitorear
+los componentes ambientales (aire, agua y suelo) afectados por una
+emergencia y/o contingencia.
+Forma de control y seguimiento
+Todo evento ser´a registrado, donde se detallar´a: Sitio del evento,
+indicando sus coordenadas Fecha Evaluaci´on de da˜no Descripci´on de
+medidas inmediatas aplicadas Indicaci´on de nuevas medidas preventivas
+a ser aplicadas
+PAS 157- CMGIR
+112
+
+===== p.113 =====
+Ap´endices Digitales
+Ap´endice A – SIG
+Ap´endice B – Hidrolog´ıa
+Ap´endice C – Topograf´ıa
+Ap´endice D – Modelaci´on Hidr´aulica
+Ap´endice E – Resultados MH
+Ap´endice F – Socavaci´on
+Ap´endice G – Arrastre de Sedimentos
+Ap´endice H – Granulometr´ıa
+Ap´endice I – Planos
+PAS 157- CMGIR
+113

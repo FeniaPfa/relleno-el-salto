@@ -1,0 +1,3022 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO DE 
+GESTIÓN INTEGRAL DE RESIDUOS 
+CMGIR
+LINEA DE BASE FAUNA TERRESTRE 
+2024 - 2025
+ 
+Elaborado por
+JUNIO, 2025
+
+===== p.1 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 2 de 54
+ELABORACIÓN 
+Elaborado por
+Aprobado por
+Nelson Tapia
+Sebastián Coloma
+Jefe de Proyectos
+Especialista en Fauna
+Administrador de Contrato
+REVISIONES
+Rev.
+Revisado por
+Revisado por
+Aprobado por
+Descripción
+Nombre
+A
+Cargo
+Nombre
+B
+Cargo
+Nombre
+C
+Cargo
+Nombre
+0
+Cargo
+
+===== p.2 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 3 de 54
+CONTENIDO
+RESUMEN..............................................................................................................................................6
+1.
+INTRODUCCIÓN...........................................................................................................................8
+2.
+OBJETIVOS...................................................................................................................................10
+2.1.
+Objetivo general..............................................................................................................10
+2.2.
+Objetivos específicos.......................................................................................................10
+3.
+MATERIALES Y MÉTODOS...........................................................................................................11
+3.1.
+Descripción del Área de Estudio....................................................................................11
+3.2.
+Área de Influencia del componente Fauna Terrestre.................................................12
+3.3.
+Análisis de la variable cambio climático......................................................................13
+3.4.
+Puntos de muestreo.........................................................................................................14
+3.5.
+Metodología de monitoreo............................................................................................17
+3.6.
+Materiales y Equipos........................................................................................................22
+3.7.
+Fechas de muestreo........................................................................................................22
+3.8.
+Incertidumbres..................................................................................................................22
+4.
+RESULTADOS............................................................................................................................... 24
+4.1.
+Resultados generales.......................................................................................................24
+4.2.
+Resultados por técnica................................................................................................... 36
+5.
+DISCUSIÓN..................................................................................................................................46
+5.1.
+Otras situaciones..............................................................................................................47
+6.
+CONCLUSIONES.........................................................................................................................48
+7.
+REFERENCIAS..............................................................................................................................50
+8.
+ANEXOS.......................................................................................................................................54
+ANEXO 1 LISTADO DE PROFESIONALES..........................................................................................54
+ANEXO 2 FAUNA POTENCIAL..........................................................................................................54
+ANEXO 3 REGISTROS FOTOGRÁFICOS...........................................................................................54
+ANEXO 4 BASE DE DATOS................................................................................................................54
+ANEXO 5 PLANILLA DARWIN CORE................................................................................................54
+
+===== p.3 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 4 de 54
+ÍNDICE DE TABLAS
+Tabla 1-1 Documentos de evaluación asociados a la Línea de Base – fauna terrestre.........8
+Tabla 3-1 Coordenadas referenciales puntos de muestreo – fauna terrestre.........................14
+Tabla 3-2 Categorías de Conservación según el Reglamento de Clasificación de 
+Especies….........................................................................................................................................20
+Tabla 3-3 Parámetros ambientales y materiales utilizados.........................................................22
+Tabla 3-4 Fechas de realización de las campañas de terreno.................................................22
+Tabla 4-1 Índice de riesgo para la perdida de especies animales por cambios futuros en la 
+precipitación media anual - Viña del Mar...................................................................................24
+Tabla 4-2 Índice de riesgo para la perdida de especies animales por cambios futuros en la 
+temperatura media anual - Viña del Mar....................................................................................25
+Tabla 4-3 Probabilidad de presencia de especies por cambios climáticos futuros - Viña del 
+Mar.....................................................................................................................................................25
+Tabla 4-4 Riqueza y clasificación de fauna registrada campañas años 2024 y 2025............27
+Tabla 4-5 Singularidades y sensibilidades ambientales..............................................................35
+ÍNDICE DE FIGURAS
+Figura  3-1  Área  de  influencia, Proyecto  Centro  Metropolitano  de  Gestión  Integral de 
+Residuos - CMGIR.............................................................................................................................13
+Figura 4-1 Riqueza y Abundancia de especies clase aves – campañas año 2024...............31
+Figura 4-2 Riqueza y Abundancia de especies clase aves – campañas año 2025...............31
+Figura 4-3 Riqueza y Abundancia de especies clase reptiles - campañas año 2024 y 2025.
+............................................................................................................................................................33
+Figura 4-4 Riqueza y Abundancia de especies clase mamíferos - campañas años 2024 y 2025
+............................................................................................................................................................34
+Figura 4-5 Sonograma de las llamadas de ecolocación de Tadarida brasiliensis visualizado a 
+través del programa Kaleidoscope...............................................................................................42
+Figura 4-6 Sonograma de las llamadas de ecolocación de Histiotus montanus visualizado a 
+través del programa Kaleidoscope...............................................................................................43
+Figura 4-7 Sonograma de las llamadas de ecolocación de Histiotus macrotus visualizado a 
+través del programa Kaleidoscope...............................................................................................43
+Figura 4-8 Sonograma de las llamadas de ecolocación de Lasiurus varius visualizado a través 
+del programa Kaleidoscope..........................................................................................................43
+Figura 4-9 Sonograma de las llamadas de ecolocación de Myotis arescens visualizado a 
+través del programa Kaleidoscope...............................................................................................44
+
+===== p.4 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 5 de 54
+ÍNDICE DE FOTOGRAFÍAS
+Fotografía 4-1 Transectos y Puntos de observación....................................................................32
+Fotografía 4-2 Monitoreo nocturno...............................................................................................34
+Fotografía 4-3 Busqueda de anfibios............................................................................................35
+Fotografía 4-4 Registros cámaras trampa....................................................................................36
+Fotografía 4-5 Registros trampas Sherman...................................................................................37
+Fotografía 4-6 Registro de instalación detectores de murciélagos..........................................38
+
+===== p.5 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 6 de 54
+RESUMEN
+El presente informe consolidado corresponde a las campañas realizadas en septiembre 
+(invierno) y noviembre (primavera) del año 2024, y a las campañas ejecutadas en enero 
+(verano)  y  en  mayo  (otoño)  del  año  2025  correspondiente  a  la  Línea  de  Base  del 
+componente biótico fauna terrestre, enmarcado en el Estudio de Impacto Ambiental (EIA) 
+del proyecto “Centro Metropolitano de Gestión Integral de Residuos - CMGIR”, ubicado en 
+la comuna de Viña del Mar, cuyo titular es COSEMAR S.A. 
+La línea de Base desarrollada tiene como propósito identificar hallazgos directos y/o 
+indirectos de la fauna presente en el Área de Influencia del proyecto (AI). En este caso la 
+búsqueda de hallazgos abarcó mamíferos, micromamíferos, reptiles, anfibios y aves que, 
+potencialmente, sean posibles de encontrar dentro del AI del proyecto. Las campañas de 
+terreno se llevaron a cabo entre el 10 y el 13 de septiembre (invierno) y entre el 18 y el 21 de 
+noviembre (primavera) del año 2024, así como entre el 20 y el 23 de enero (verano) y entre 
+el 12 y el 15 de mayo (otoño) del año 2025, considerando cuatro (4) días efectivos de 
+trabajo, con tres (3) especialistas de las ciencias biológicas por campaña. Se utilizaron las 
+metodologías de: Transectos, puntos de observación, búsqueda activa, reproducción de 
+playback, observación nocturna, cámaras trampas, trampas Sherman y detectores de 
+murciélagos. En el caso de los anfibios, se hizo énfasis en la búsqueda de ejemplares de en 
+sectores con presencia de agua. 
+De acuerdo con el levantamiento de información en terreno, correspondiente a las cuatro 
+(4) campañas de trabajo  durante los años 2024 y 2025, específicamente aplicando las 
+metodologías de Transectos, puntos de observación, búsqueda activa y trampas Sherman 
+se  registró  la  mayor  riqueza  de  fauna  correspondiente  a  dieciséis  (16)  especies, 
+correspondiente a la campaña de invierno 2024 y veintinueve (29) especies de fauna en la 
+campaña de primavera 2024. Por su parte, durante el año 2025, en la campaña de verano 
+se registraron veintisiete (27) especies y en la campaña de otoño treinta (30) especies de 
+fauna  terrestre.  De  estas  observaciones,  durante  todas  las  campañas  de  terreno  los 
+mayores registros corresponden a la clase aves, seguido por los reptiles y mamíferos. 
+En  relación  con  el  monitoreo  nocturno,  que  incluyó  la  reproducción  de  playback  y 
+observación entre las 19:00 hrs y 20:30 horas, no permitió obtener registros de avifauna 
+potencial presente en el AI del proyecto durante los años 2024 y 2025. 
+De los dispositivos instalados en lugares específicos para fauna, las cámaras trampas 
+revelaron la presencia de los mamíferos Conejo europeo (Oryctolagus cuniculus) y Zorro 
+culpeo (Lycalopex culpaeus)en los respectivos sectores. Los detectores de murciélagos 
+instalados en el AI del proyecto mostraron el paso de cinco (5) especies de quirópteros 
+durante la campaña de otoño 2025. 
+Durante las prospecciones, no se observó fauna con evidencia directa de ser afectada por 
+actividades humanas. Sin embargo, el área previamente fue afectada por un incendio, lo 
+que probablemente perturbó el desarrollo normal de la fauna que habita la zona. 
+
+===== p.6 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 7 de 54
+Este informe se encuentra desarrollado por la consultora Geoverde SpA, a solicitud del 
+Titular, en el marco de la Res. Ex. N° 223/2015 de la Superintendencia de Medio Ambiente 
+(SMA) que dicta las instrucciones generales sobre la elaboración del Plan de Seguimiento 
+de Variables Ambientales, Informes de Seguimiento Ambiental y Remisión de Información al 
+Sistema Electrónico de Seguimiento Ambiental. 
+
+===== p.7 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 8 de 54
+1.
+INTRODUCCIÓN
+Este documento presenta los resultados de las campañas de monitoreo de fauna terrestre 
+enmarcadas en la Línea de Base del EIA del proyecto “Centro Metropolitano de Gestión 
+Integral  de  Residuos  -  CMGIR”  cuyo  titular  es  COSEMAR  S.A.  El  proyecto  implica  la 
+construcción, operación y obras asociadas a un complejo para gestionar de manera 
+integral los residuos sólidos domiciliarios, este se localiza aproximadamente a 10 km al 
+sureste de la ciudad de Viña del Mar y a una altitud de 280 m s.n.m. Las obras contemplan 
+un sitio central de excavación de 70 hectáreas y la construcción de un cerco perimetral que 
+abarcará 206 hectáreas aproximadamente del área del proyecto, además de un camino 
+de acceso de 2,3 hectáreas aproximadas, que conectará la zona del proyecto con la ruta 
+CH-60 Troncal Sur. 
+En  este  contexto,  el  titular  solicita  a  la  consultora  ambiental  Geoverde  SpA,  la 
+caracterización  del  componente  fauna  terrestre  para  el  proyecto,  con  énfasis  en  el 
+levantamiento de información relativa a la presencia o ausencia de especies de mamíferos, 
+micromamíferos, aves, reptiles  y anfibios  que  se  encuentren  en  alguna  categoría de 
+conservación de acuerdo con la legislación ambiental vigente, e identificar su sensibilidad 
+frente a la ejecución del proyecto. 
+Dado lo anterior, y en el caso específico de las campaña, el objetivo se concentra en 
+registrar hallazgos directos y/o indirectos de especies de fauna terrestre mencionadas 
+anteriormente, con la finalidad de detectar potenciales impactos a consecuencia del 
+desarrollo de las actividades propias del proyecto. Esta detección temprana es clave para 
+tomar medidas adecuadas que permitan evitar o, al menos, mitigar estos efectos sobre la 
+fauna terrestre. 
+El  seguimiento  ambiental  considera  los  documentos  de  evaluación  que  se  listan  a 
+continuación (Tabla INTRODUCCIÓN-1):
+Tabla INTRODUCCIÓN-1 Documentos de evaluación asociados a la Línea de Base – fauna terrestre
+Documento
+Descripción
+Guía Metodológica para la 
+Descripción de Ecosistemas Terrestres 
+SEA, 2025. 
+Descripción de los componentes suelo, flora, y fauna de ecosistemas 
+terrestres en el SEIA. 
+Manual para la Evaluación de Línea 
+Base componente Fauna Silvestre – 
+SAG, 2015. 
+Referencias técnicas y metodológicas para la evaluación de la 
+fauna silvestre. 
+Ley de Caza y su Reglamento – SAG, 
+2015. 
+Legislación sobre Fauna Silvestre para su evaluación 
+Fuente: Elaboración propia, 2025
+
+===== p.8 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 9 de 54
+A continuación, se detallan las actividades que dan cuenta de la ejecución de la Línea de 
+Base – Fauna Terrestre encargado por COSEMAR S.A., en el área de influencia del proyecto, 
+comuna de Viña del Mar. El informe presenta los resultados de las campañas de terreno 
+realizadas en invierno y primavera del año 2024, así como también las ejecutadas en verano 
+y otoño del año 2025. Los trabajos y la elaboración del informe fueron llevados a cabo por 
+Geoverde SpA y revisado por COSEMAR S.A. Los profesionales a cargo de la ejecución del 
+monitoreo se detallan en  Couve, E., Vidal, C. & Ruiz, J. (2016). Aves de Chile, sus islas
+oceánicas y península Antártica. Far South Expeditions Ltda., Punta Arenas, Chile. 1.
+
+===== p.9 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 10 de 54
+2.
+OBJETIVOS
+2.1.
+Objetivo general
+El objetivo general es caracterizar el componente fauna terrestre asociado al área de 
+construcción del proyecto “Centro Metropolitano de Gestión Integral de Residuos - CMGIR”, 
+identificando las singularidades y sensibilidades ambientales presentes, ubicado en la 
+comuna de Viña del Mar, región de Valparaíso. 
+2.2.
+Objetivos específicos
+
+Identificar y registrar las especies de fauna terrestre presentes en el área de estudio. 
+
+Determinar la riqueza y abundancia de las especies de fauna presentes en el área de 
+estudio.
+
+Evaluar mediante metodologías de Transectos, puntos de observación, monitoreo 
+nocturno y búsqueda activa, la presencia de fauna. 
+
+Evaluar mediante metodologías de Playback y cámaras trampas la presencia de 
+especies de aves y mamíferos presentes en el área de estudio del proyecto. 
+
+Verificar la presencia en el área del proyecto especies de fauna que se encuentren en 
+alguna categoría de conservación e identificar su sensibilidad frente a la ejecución del 
+proyecto.
+
+===== p.10 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 11 de 54
+3.
+MATERIALES Y MÉTODOS
+3.1.
+Descripción del Área de Estudio
+De acuerdo con los criterios metodológicos establecidos por el Servicio de Evaluación 
+Ambiental (SEA), el área de estudio corresponde al espacio territorial donde se levantó la 
+información de línea de base y donde se emplazan las obras permanentes y temporales del 
+proyecto. La delimitación debe considerar la totalidad de las obras y acciones asociadas al 
+proyecto, así como las unidades ambientales presentes en el territorio, constituyendo la 
+base para la identificación y evaluación de impactos.
+Para el Proyecto Centro Metropolitano de Gestión Integral de Residuos (CMGIR), el área de 
+estudio se define como una superficie aproximada de 341,5 hectáreas, correspondiente al 
+polígono  total  del  proyecto,  incluyendo  la  futura  zona  de  disposición,  sectores 
+operacionales y el camino de acceso proyectado que conectará la zona del proyecto con 
+la ruta CH-60 Troncal Sur. Esta superficie se emplaza en la comuna de Viña del Mar, Región 
+de Valparaíso, aproximadamente a 10 km al sureste del área urbana de la ciudad y próxima 
+al límite comunal con Quilpué. Desde el punto de vista ambiental, el área se inserta en la 
+zona mediterránea de Chile central, caracterizada por un clima templado mediterráneo 
+con estación seca prolongada, precipitaciones concentradas en invierno y una marcada 
+estacionalidad hídrica. También, el territorio presenta condiciones asociadas a la Cordillera 
+de la Costa, con presencia de quebradas y laderas, donde predominan remanentes de 
+bosque esclerófilo. Estas características determinan la presencia de hábitats potenciales 
+para fauna terrestre, especialmente aves, reptiles y mamíferos, justificando la utilización de 
+las 341,5 hectáreas como área de estudio para la caracterización del componente y el 
+levantamiento de la línea de base.
+En la Figura MATERIALES Y MÉTODOS-1 se presenta la ubicación general del proyecto.
+
+===== p.11 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 12 de 54
+Figura MATERIALES Y MÉTODOS-1 Área de estudio, Proyecto Centro Metropolitano de Gestión 
+Integral de Residuos - CMGIR
+Fuente: Geoverde 2025.
+3.2.
+Área de Influencia del componente Fauna Terrestre
+Conforme a la Guía Área de Influencia en el SEIA, el área de influencia corresponde al 
+espacio geográfico donde se prevé la ocurrencia de impactos ambientales generados por 
+las actividades propias del proyecto, considerando la localización de las obras, los factores 
+generadores de impacto y las características del medio ambiente receptor. 
+Para el componente fauna terrestre, se define un área de influencia aproximada de 78,14 
+hectáreas, asociada principalmente a la zona central de excavación y a los sectores 
+donde se producirán las mayores intervenciones directas sobre la cobertura vegetal y los 
+hábitats disponibles, incluyendo la zona intervenida para las obras del camino de acceso. 
+La delimitación considera que los principales impactos potenciales corresponden a la 
+pérdida y modificación de hábitat, perturbación por ruido, vibraciones, iluminación y 
+aumento de las actividades humanas durante las fases de construcción y operación del 
+proyecto. Desde el punto de vista ecológico, esta superficie comprende remanentes de 
+
+===== p.12 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 13 de 54
+bosque  esclerófilo  mediterráneo  costero,  representados  principalmente  por  las 
+asociaciones vegetacionales de Lithraea caustica, Cryptocarya alba y Peumus boldus, las 
+cuales  constituyen  hábitat  y  áreas  de  desplazamiento  para  la  fauna  registrada. 
+Adicionalmente, la cercanía a zonas de relevancia ambiental, tales como la quebrada El 
+Muerto y el Santuario de la Naturaleza Palmar El Salto, refuerza la necesidad de considerar 
+esta superficie como área de influencia, dado que dichos ambientes funcionan como 
+corredores biológicos y áreas de refugio para especies nativas. En consecuencia, las 78,14 
+hectáreas representan el ámbito territorial donde se podrían manifestar modificaciones 
+sobre la disponibilidad y calidad del hábitat para la fauna silvestre, constituyendo una 
+delimitación coherente con los criterios técnicos establecidos por él SEA para la evaluación 
+ambiental. 
+3.3.
+Análisis de la variable cambio climático 
+El  calentamiento  global  causado  por  actividades  humanas  desencadena  múltiples 
+reacciones  en  los  diferentes  niveles  de  biodiversidad,  incluyendo  genes,  especies, 
+ecosistemas y paisajes, con posibles efectos significativos para la supervivencia de las 
+especies (Pliscoff y Uribe, 2020). Uno de los fenómenos más documentados a nivel mundial 
+es el cambio en la distribución geográfica de especies y ecosistemas (Walther et al., 2002; 
+Parmesan et al., 2003), que tienden a desplazarse hacia zonas más cercanas a los polos o a 
+mayores altitudes (Root et al., 2003; Parmesan, 2006).
+El desplazamiento de especies conlleva una reorganización tanto de las comunidades 
+como de los ecosistemas que habitan, lo cual modifica también la intensidad y naturaleza 
+de los servicios ecosistémicos que contribuyen al bienestar humano (Pliscoff y Uribe, 2020; 
+Schröter et al., 2005). Los cambios en sus rangos de distribución pueden interpretarse como 
+una estrategia adaptativa de las especies para evitar condiciones de temperatura extrema 
+(Pliscoff y Uribe, 2020; Walther et al., 2005), y en el caso del proyecto “Centro Metropolitano 
+de Gestión Integral de Residuos - CMGIR” incluyendo la presencia de especies endémicas o 
+con problemas de conservación. 
+Para analizar la variable de cambio climático, se aplicaron los pasos definidos en la “Guía 
+Metodológica para la Consideración del Cambio Climático en el SEIA” (SEA, 2023), lo que 
+permitió determinar el riesgo climático en el área de influencia. Esta guía se complementa 
+con el “Atlas de Riesgo Climático (ARClim)” del Ministerio de Medio Ambiente, que presenta 
+el riesgo climático a nivel comunal evaluando la amenaza, exposición y sensibilidad. A su 
+vez,  ARClim  identifica  52  “cadenas  de  impactos”  relacionadas  con  factores  como 
+biodiversidad,  inundaciones  (costeras  y  fluviales),  salud humana,  sequías,  e  incendios 
+forestales, entre otros. A su vez, esta plataforma permite visualizar y descargar modelos de 
+distribución de especies nativas y endémicas presentes en Chile continental (arbóreas, 
+herbáceas, arbustivas, anfibios, marsupiales, reptiles, aves, insectos y mamíferos) para un 
+período histórico reciente (1980-2010) y un período futuro (2035-2065). 
+
+===== p.13 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 14 de 54
+3.4.
+Puntos de muestreo
+En cumplimiento de las directrices establecidas y siguiendo las pautas metodológicas 
+proporcionadas por el Servicio Agrícola y Ganadero y el Servicio de Evaluación Ambiental, 
+se ha determinado que el estudio encargado, específicamente la caracterización de la 
+fauna terrestre en el área del proyecto “Centro Metropolitano de Gestión Integral de 
+Residuos - CMGIR”, se llevará a cabo utilizando los protocolos establecidos para estos 
+efectos. Para ello, se  contempló un conjunto  de técnicas y métodos que  permitirán 
+recopilar la mayor cantidad posible de información sobre las especies de fauna que 
+habitan y/o transitan el área en cuestión.
+En la Tabla MATERIALES Y MÉTODOS-2 se encuentran las coordenadas de cada uno de los 
+puntos, la metodología utilizada en cada caso. 
+Tabla MATERIALES Y MÉTODOS-2 Coordenadas referenciales puntos de muestreo – fauna terrestre
+Metodologías
+ID
+Coordenadas UTM
+Datum WGS84 Huso 19S
+Este (m)
+Norte (m)
+Transectos
+T-1
+267729.67
+6337279.82
+T-2
+268130.84
+6337606.81
+T-3
+268656.83
+6337439.29
+T-4
+268846.85
+6337232.80
+T-5
+268658.51
+6336929.83
+T-6
+268603.46
+6336533.90
+T-7
+267910.72
+6336506.33
+T-8
+267520.15
+6336980.64
+T-9
+267799.86
+6336973.21
+T-10
+268046.00
+6337346.00
+T-11
+268260.00
+6336843.00
+T-12
+268176.00
+6337087.00
+T-13
+267716.00
+6338923.00
+T-14
+267608.81
+6339054.45
+T-15
+268130.00
+6338565.00
+T-16
+268060.00
+6338214.00
+T-17
+267684.00
+6337671.00
+Puntos de Observación
+PO-01
+267647.84
+6337191.79
+PO-02
+268061.17
+6337609.27
+PO-03
+268755.42
+6337376.18
+PO-04
+268800.38
+6337150.35
+
+===== p.14 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 15 de 54
+Metodologías
+ID
+Coordenadas UTM
+Datum WGS84 Huso 19S
+Este (m)
+Norte (m)
+PO-05
+268639.67
+6336838.98
+PO-06
+268571.00
+6336444.00
+PO-07
+267875.00
+6336582.00
+PO-08
+267559.00
+6336810.00
+PO-09
+267702.00
+6337044.00
+PO-10
+268036.00
+6337263.00
+PO-11
+268196.33
+6336806.97
+PO-12
+268202.85
+6337159.04
+PO-13
+267769.68
+6338849.01
+PO-14
+267616.08
+6339121.20
+PO-15
+267997.00
+6338659.00
+PO-16
+267933.00
+6338097.00
+PO-17
+267663.23
+6337691.54
+Playback (*)
+PB-01
+267975.00
+6338658.00
+PB-02
+267880.00
+6337910.00
+PB-03
+268010.00
+6336753.00
+PB-04
+267722.00
+6337168.00
+Observación nocturna (*)
+ON-01
+267975.00
+6338658.00
+ON-02
+267880.00
+6337910.00
+ON-03
+268010.00
+6336753.00
+ON-04
+267722.00
+6337168.00
+Búsqueda de anfibios
+BA-01
+268035.00
+6337276.00
+BA-02
+267967.14
+6336491.58
+BA-03
+268743.00
+6337046.00
+BA-04
+268652.00
+6336950.00
+Trampas cámara
+TC-01
+267730.00
+6337266.00
+TC-02
+268568.00
+6337433.00
+TC-03
+268228.00
+6337048.00
+TC-04
+267951.00
+6336929.00
+TC-05
+267993.00
+6338666.00
+TC-06
+267668.00
+6337689.00
+Trampas Sherman
+TS-01
+267716.00
+6337243.00
+
+===== p.15 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 16 de 54
+Metodologías
+ID
+Coordenadas UTM
+Datum WGS84 Huso 19S
+Este (m)
+Norte (m)
+TS-02
+267890.00
+6336499.00
+TS-03
+268654.00
+6336929.00
+TS-04
+268031.00
+6337323.00
+TS-05
+267974.00
+6338342.00
+TS-06
+267752.00
+6338898.00
+Bat Detector
+BAT-01
+268231.00
+6337047.00
+BAT-02
+268652.00
+6336943.00
+Nota: (*) los puntos de Playback y Observación nocturna son los mismos. Fuente: Geoverde, 2025.
+
+===== p.16 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 17 de 54
+3.5.
+Metodología de monitoreo
+3.5.1.
+Registros de datos en terreno
+Para el cumplimiento de los objetivos, se contempló un conjunto de metodologías que 
+permitan aportar los mayores antecedentes posibles sobre las especies de fauna que 
+habitan y/o transitan el área. Las metodologías utilizadas se presentan a continuación.
+
+Transectos/Puntos de observación
+Los Transectos tuvieron una extensión de 200 metros de largo y un ancho de búsqueda de 50 
+metros,  donde  los  especialistas  realizaron  una  búsqueda  activa  y  recorrido  pedestre 
+durante 20 minutos aproximadamente, registrando ejemplares de fauna, nidos, posaderos, 
+egagrópilas, huellas,  plumas y fecas u otros indicios  que  pudieran dar cuenta de la 
+existencia de distintas especies de fauna.
+Los puntos de observación se basaron en el registro directo de aves que sobrevuelan el 
+área. Se ejecutaron 10 minutos antes del recorrido de cada transecto con la finalidad de 
+registrar cualquier evidencia de aves previa al desplazamiento de los especialistas, ya que 
+su movimiento podría, eventualmente ahuyentarlas.
+
+Playback
+Se realizaron estaciones de reproducción de vocalizaciones (playback) de aves en cuatro 
+(4) puntos fijos dentro del AI. Se realizó en horario crepuscular - nocturno entre las 19:00 y 
+20:30 horas. Las vocalizaciones fueron emitidas tres (3) veces para cada especie durante 30 
+segundos, con intervalos de 60 segundos de escucha. Para la emisión de las vocalizaciones 
+se  utilizó  un  parlante  portátil  de  10W  de  potencia  a  volumen  máximo.  Las  especies 
+reproducidas correspondieron a Tucúquere (Bubo virginianus), Lechuza común (Tyto alba), 
+Pequén  (Athene  cunicularia)  Aguilucho  común  (Geranoaetus  polyosoma)  y  Peuco 
+(Geranoaetus polyosoma).
+
+Observación crepuscular - nocturna
+Con  el  objeto  de  registrar  ejemplares  de  aves  y  sus  rutas  de  vuelo,  se  realizaron 
+observaciones crepusculares - nocturnas en cuatro (4) sectores dentro del AI. Se realizó 
+entre las 19:00 y 20:30 horas. Para la observación, se utilizó un dispositivo de visión nocturna 
+Bushnell EX650 night visión 5x32mm.
+
+===== p.17 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 18 de 54
+
+Búsqueda de anfibios
+Con el objeto de registrar ejemplares de anfibios, se ejecutó una búsqueda activa en cuatro 
+(4) sectores con presencia de agua dentro del AI del proyecto. 
+
+Cámaras trampa
+Con el objetivo de obtener imágenes de la avifauna presente en la zona, así como también 
+registros  de  otras  especies  de  fauna  que  potencialmente  pudiesen  encontrarse  y/o 
+desplazarse por el lugar, se instalaron seis (6) cámaras trampa en puntos fijos dentro del AI 
+del proyecto.
+Los puntos definidos para la instalación de las cámaras trampa, se realizó basado en la 
+evaluación previa de la zona, mediante el análisis de imágenes con herramientas de 
+información geográfica (SIG) y observación directa del terreno previa ejecución de la 
+campaña. La revisión de los registros e imágenes obtenidas de las cámaras se realizó el 
+último día del trabajo en terreno. 
+
+Trampas Sherman
+Se instalaron seis (6) líneas de trampas Sherman en sectores dentro del AI del proyecto, 
+distribuidas en el sector del futuro camino de acceso y el polígono central de las obras, con 
+el objetivo de obtener capturas y registros de potenciales roedores en la zona, cada línea 
+de trampas incorporó diez (10) trampas Sherman.
+Los puntos definidos para la instalación de las líneas de trampas Sherman, se realizó basado 
+en la evaluación previa de la zona, mediante el análisis de imágenes con herramientas de 
+información geográfica (SIG) y observación directa del terreno previa ejecución de la 
+campaña. La revisión de las trampas se realizó diariamente. 
+
+Bat detector
+Se instalaron dos (2) detectores de Quirópteros en el AI del proyecto, con el objeto de 
+registrar potenciales especies de murciélagos que pudiesen desplazarse por el lugar. Para 
+esto se usó un detector ultrasónico, Song Meter Mini Bat configurados para grabar por tres 
+(3) noches desde las 19:00 hasta las 07:00 horas. La revisión y análisis de las grabaciones fue 
+realizado por un profesional especialista. 
+
+===== p.18 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 19 de 54
+3.5.2.
+Análisis de datos
+
+Riqueza
+En base a una revisión bibliográfica, se elaboró un listado de las especies potenciales 
+perteneciente a las clases aves, mamíferos, anfibios y reptiles que pudiesen encontrarse en 
+el AI del proyecto “Centro Metropolitano de Gestión Integral de Residuos - CMGIR”, 
+ubicado en la comuna de Viña del Mar. Dentro del listado de especies, también se 
+consideraron los resultados obtenidos de diversos estudios y proyectos realizados en la 
+comuna (https://sig.sea.gob.cl/mapadeproyectos/). Cabe destacar que, una especie se 
+considerará presente en un ambiente a través de registros tanto directos, mediante la 
+observación del individuo, como indirectos, tales como: heces, plumas, huellas, huevos, 
+entre otros.
+La revisión bibliográfica y construcción  del listado  de  especies potenciales  de  fauna 
+terrestre vertebrada consideró las siguientes guías y autores:
+
+Se utilizaron las obras de Jaramillo (2005), Couve et al. (2016) y Martínez-Piña y 
+González-Cifuentes (2017) para compilar un listado de potenciales especies de aves 
+y facilitar su identificación en terreno. 
+
+Para identificar las especies de reptiles y anfibios y elaborar el listado potencial, se 
+consultó la bibliografía de Donoso-Barros (1966 y 1970), Veloso & Navarro (1988), 
+Núñez & Jaksic (1992), Veloso et al. (1995), Pincheira-Donoso & Núñez (2005), Mella 
+(2005), y la Guía de Campo de Reptiles del Centro y Sur de Chile de Demangel 
+(2016).
+
+Para identificar las posibles especies de mamíferos en el área de influencia del 
+proyecto,  se  consultó  el  libro  "Mamíferos  de  Chile"  de  Iriarte,  última  edición 
+publicada en 2008. 
+
+Origen y estado de conservación
+El origen de las especies fue extraído de la bibliografía utilizada para la identificación de 
+especies y detallada dentro del análisis de riqueza.
+En relación con la categoría de conservación de las especies potenciales y registradas, se 
+considerarán  los  instrumentos  de  clasificación  de  especies.  Para  ello,  se  utilizan  las 
+categorías de conservación vigentes según el Reglamento de Clasificación de Especies 
+(RCE, D.S. N° 29/2011) del Ministerio del Medio Ambiente: D.S. Nº151/2007, D.S. Nº50/2008, 
+D.S.  Nº51/2008  y  D.S.  Nº23/2009  del  Ministerio  Secretaría  General  de  la  Presidencia 
+(MINSEGPRES); y los D.S. Nº33/2011; D.S. Nº41/2012; D.S. Nº42/2012, D.S. Nº19/2013, D.S. 
+N°13/2013, D.S. N°52/2014, D.S. N°38/2015, D.S. N°16/2016, D.S. N°6/2017, D.S. N°79/2018, D.S. 
+Nº23/2019, D.S. N° 16/2020 y D.S. N° 44/2021 del Ministerio de Medio Ambiente (MMA). 
+
+===== p.19 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 20 de 54
+En caso de que se registrasen especies de fauna que no estén incluidas en los Decretos 
+Supremos, se utilizó los criterios y estados consignados en la Ley de Caza N° 19.473 (SAG, 
+2015) y su Reglamento (D.S. N°5/1998 MINAGRI). Ambos cuerpos legales definen los criterios 
+iniciales de protección con sustento legal para la fauna vertebrada terrestre. Se utilizaron 
+aquellos definidos para la zona Central de Chile, cuya simbología es la siguiente: (B) Especie 
+catalogada  como  beneficiosa  para  la  actividad  silvoagropecuaria,  (S)  Especie 
+catalogada con densidades poblacionales reducidas y (E) Especie catalogada como 
+benéfica para la mantención del equilibrio de los ecosistemas naturales.
+El Reglamento para la Clasificación de Especies Silvestres según el Estado de Conservación 
+(RCE) vigente a la fecha (D.S. N° 29/2012 del MMA), se basa en tipologías definidas por la 
+Unión Internacional para la Conservación de la Naturaleza (UICN, 2001). Éstas corresponden 
+a Extinto (EX), Extinto en Estado Silvestre (EW), En Peligro Crítico (CR), En Peligro (EN), 
+Vulnerable (VU), Casi Amenazado (NT), Preocupación Menor (LC) y Datos Insuficientes (DD). 
+El detalle de estas categorías se encuentra en la Error: Reference source not foundTabla
+MATERIALES Y MÉTODOS-3.
+Tabla MATERIALES Y MÉTODOS-3 Categorías de Conservación según el Reglamento de Clasificación 
+de Especies
+Categoría
+Simbología
+Descripción
+Extinto
+EX
+Un  taxón  está  Extinto  cuando  no 
+queda  ninguna  duda  razonable  de 
+que  el  último  individuo  existente  ha 
+muerto. Se presume que un taxón está 
+Extinto
+ 
+cuando
+ 
+prospecciones 
+exhaustivas de sus hábitats, conocidos 
+y/o  esperados  en  momentos 
+apropiados  (diarios,  estacionales, 
+anuales) y a lo largo de su distribución 
+histórica, no ha podido detectar un 
+solo  individuo.  Las  prospecciones 
+deberán ser realizadas en períodos de 
+tiempo apropiados al ciclo de vida y 
+formas de vida del taxón.
+Extinto en estado silvestre
+EW
+Un  taxón  está  Extinto  en  Estado 
+Silvestre  cuando  solo  sobrevive  en 
+cultivo, cautividad o como población 
+(poblaciones)
+ 
+naturalizadas 
+completamente
+ 
+fuera
+ 
+de
+ 
+su 
+distribución natural. Se presume que 
+un  taxón  está  Extinto  en  Estado 
+Silvestre
+ 
+cuando
+ 
+prospecciones 
+exhaustivas de sus hábitats, conocidos 
+y/o  esperados,  en  los  momentos 
+apropiados  (diarios,  estacionales, 
+anuales), y a lo largo de su área de 
+distribución histórica, no han podido 
+detectar  un  solo  individuo.  Las 
+prospecciones deberán ser realizadas 
+en períodos de tiempos apropiados al 
+ciclo de  vida y  formas de  vida del 
+
+===== p.20 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 21 de 54
+Categoría
+Simbología
+Descripción
+taxón.
+En Peligro Crítico
+CR
+Un  taxón  está  En  Peligro  Crítico 
+cuando la mejor evidencia disponible 
+indica que cumple con cualquiera de 
+los criterios “A” a “E” para En Peligro 
+Crítico  y,  por  consiguiente,  se 
+considera  que  está  enfrentando  un 
+riesgo  extremadamente  alto  de 
+extinción en un estado silvestre.
+En Peligro
+EN
+Un taxón está En Peligro cuando la 
+mejor evidencia disponible indica que 
+cumple con cualquiera de los criterios 
+“A”  a  “E”  para  En  Peligro  y,  por 
+consiguiente,  se  considera que  está 
+enfrentando  un  riesgo  muy  alto  de 
+extinción es estado silvestre.
+Vulnerable
+VU
+Un  taxón  es  Vulnerable  cuando  la 
+mejor evidencia disponible indica que 
+cumple cualquiera de los criterios “A” 
+a  “E”  para  Vulnerable  y,  por 
+consiguiente,  se  considera que  está 
+enfrentando  un  riesgo  alto  de 
+extinción en estado silvestre.
+Casi Amenazado
+NT
+Un  taxón  está  Casi  Amenazado 
+cuando ha sido evaluado según los 
+criterios y no satisface, actualmente, 
+los criterios para En Peligro Crítico, En 
+Peligro  o  Vulnerable;  pero  está 
+próximo  a  satisfacer  los  criterios  o 
+posiblemente los satisfaga, en el futuro 
+cercano.
+Preocupación Menor
+LC
+Un  taxón  se  considera  de 
+Preocupación
+ 
+Menor
+ 
+cuando, 
+habiendo sido evaluado, no cumple 
+con  ninguno  de  los  criterios  que 
+definen  las  categorías  En  Peligro 
+Crítico, En Peligro, Vulnerable o Casi 
+Amenazado.  Se  incluyen  en  esta 
+categoría taxones abundantes y de 
+amplia distribución.
+Datos Insuficientes
+DD
+Un taxón se incluye en la categoría de 
+Datos  Insuficientes  cuando  no  hay 
+información  adecuada  para  hacer 
+una evaluación, directa o indirecta, 
+de su riesgo de extinción basándose 
+en la distribución y/o condición de la 
+población. Un taxón en esta categoría 
+puede  estar  bien  estudiado,  y  su 
+biología  ser  bien  conocida,  pero 
+carecer de los datos apropiados sobre 
+su abundancia y/o distribución. Datos 
+Insuficientes no es, por lo tanto, una 
+categoría de amenaza.
+
+===== p.21 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 22 de 54
+Fuente: Geoverde en base a D.S. N° 29/2012 del MMA.
+Cabe  destacar  que,  los  instrumentos  de  clasificación  de  especies  consideran  como 
+especies  amenazadas  aquellas  que  se  encuentren  en  categoría  de  conservación 
+Vulnerable, En Peligro y En Peligro Crítico.
+3.6.
+Materiales y Equipos
+Los materiales y equipos utilizados en los monitoreos de fauna se detallan en la  Tabla
+MATERIALES Y MÉTODOS-4.
+Tabla MATERIALES Y MÉTODOS-4 Parámetros ambientales y materiales utilizados
+Medida ambiental
+Parámetros 
+ambientales
+Objetivo
+Materiales y equipos
+Caracterización de 
+fauna terrestre en el 
+AI del proyecto 
+Riqueza
+ 
+y 
+abundancia
+Hallazgos  directos  e 
+indirectos de especies 
+de fauna
+-
+(2) GPS Garmin GPSMAP 64s
+-
+(1) Equipo de sonido (10 W).
+-
+(1) Cámara fotográfica digital 
+Canon Sx500 IS 30X
+-
+(2) Binoculares Bushnell Powerview 
+12x50
+-
+(2) Telémetros Bushnell.
+-
+(6) Trampas cámaras Bushnell Prime 
+Low Glow
+-
+(1) Visor nocturno Bushnell EX650 
+night visión 5x32mm
+-
+(60) trampas Sherman
+-
+(2) Bat detector Mini Song
+Fuente: Geoverde, 2025.
+3.7.
+Fechas de muestreo
+Las campañas de terreno se llevaron a cabo entre el 10 y el 13 de septiembre (invierno) y 
+entre el 18 y el 21 de noviembre (primavera) del año 2024, así como entre el 20 y el 23 de 
+enero (verano) y entre el 12 y el 15 de mayo (otoño) del año 2025. Ver Tabla MATERIALES Y
+MÉTODOS-5. 
+Tabla MATERIALES Y MÉTODOS-5 Fechas de realización de las campañas de terreno
+Campaña
+Mes
+2024
+Septiembre; Noviembre
+2025
+Enero; Mayo
+Fuente: Geoverde, 2025.
+3.8.
+Incertidumbres
+De acuerdo con las campañas de terreno ejecutadas para la caracterización de la fauna 
+terrestre,  no  se  identificaron  incertidumbres  metodológicas  que  afecten  la 
+representatividad de los resultados obtenidos, dado que fue posible acceder y recorrer la 
+totalidad del área de estudio y de los puntos de muestreo definidos, ejecutándose el trabajo 
+
+===== p.22 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 23 de 54
+de terreno y la toma de datos conforme a lo programado. Igualmente, se reconoce que la 
+detección de fauna silvestre puede estar influenciada por factores propios a la dinámica 
+natural  de  los  ecosistemas,  como  la  estacionalidad,  los  ciclos  biológicos, variaciones 
+climáticas y patrones de movilidad de especies de hábitos de baja detectabilidad. Sin 
+embargo, estas situaciones no afectan la validez de la caracterización realizada ni los 
+resultados del presente estudio.
+
+===== p.23 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 24 de 54
+4.
+RESULTADOS
+A continuación, se presentan los resultados obtenidos a nivel general y detalle por medio de 
+las diferentes técnicas utilizadas para el registro de hallazgos en las campañas de terreno 
+durante los años 2024 y 2025 en la comuna de Viña del Mar.
+4.1.
+Resultados generales
+4.1.1.
+Análisis de la variable cambio climático 
+Los resultados obtenidos del análisis de la variable cambio climático en el área de influencia 
+para el proyecto, se realizaron a nivel comunal, específicamente, para la comuna de Viña 
+del Mar. Se analizaron las especies registradas en las campañas de septiembre y noviembre 
+del 2024, y las campañas realizadas en enero y mayo del 2025, de acuerdo con el “Mapa 
+de Especies” de la plataforma digital “Atlas de Riesgos Climáticos para Chile”, presente en 
+el Ministerio de Medio Ambiente. De igual forma, se evalúo el área de influencia de acuerdo 
+con el componente de Biodiversidad, donde se presentan 14 “cadenas de impacto”, 
+analizando  concretamente  las  cadenas  de  “Pérdida  de  fauna  por  cambios  de 
+temperatura” y “Perdida de fauna por cambios de precipitación”. 
+De acuerdo con el índice de riesgo climático, para la perdida de fauna por cambios futuros 
+de precipitación en la comuna de Viña del Mar, se presentan los valores de Amenaza, 
+Exposición y Sensibilidad, obteniendo un índice de riesgo climático “Bajo” de 0,3526. Ver 
+Tabla 4-1 
+Tabla 4-1 Índice de riesgo para la perdida de especies animales por cambios futuros en la 
+precipitación media anual - Viña del Mar
+Índice 
+Valor
+Índice de amenaza
+0,2966
+Índice de exposición
+0,3618
+Índice de sensibilidad
+0,0946
+Índice de riesgo
+0,3526
+Capacidad adaptativa
+0,5869
+Margen de seguridad
+0,1612
+Riqueza de especies
+78
+Elaboración: Geoverde, 2025, en base al “Atlas de Riesgo Climático para Chile”.
+De acuerdo con el índice de riesgo climático, para la perdida de fauna por cambios futuros 
+en la temperatura media anual en la comuna de Viña del Mar, se presentan los valores de 
+Amenaza, Exposición y Sensibilidad, obteniendo un índice de riesgo climático “Bajo” de 
+0,336. Tabla 4-2 . 
+
+===== p.24 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 25 de 54
+Tabla 4-2 Índice de riesgo para la perdida de especies animales por cambios futuros en la 
+temperatura media anual - Viña del Mar
+Índice 
+Valor
+Índice de amenaza
+0,2157
+Índice de exposición
+0,3618
+Índice de sensibilidad
+0,0386
+Índice de riesgo
+0,336
+Capacidad adaptativa
+0,5269
+Margen de seguridad
+0,0733
+Riqueza de especies
+78
+Elaboración: Geoverde, 2025, en base al “Atlas de Riesgo Climático para Chile”.
+La Tabla 4-3 corresponde al análisis realizado en el “Mapa de Especies” de la plataforma 
+digital “Atlas de Riesgos Climáticos para Chile”, que muestra especies de fauna nativa y 
+endémicas  junto  con  su  estado  de  conservación  y  su  probabilidad  de  presencia, 
+considerando  cambios  en  cinco  variables  climáticas  correspondientes  a:  i) 
+Evapotranspiración promedio anual, ii) Precipitación acumulada anual, iii) Promedio anual 
+de la insolación solar diaria, iv) Promedio anual de la temperatura mínima diaria y v) 
+Promedio anual de la temperatura máxima diaria. 
+Tabla 4-3 Probabilidad de presencia de especies por cambios climáticos futuros - Viña del Mar
+Clase
+Especie
+% Presencia actual
+% Cambio
+Aves
+Cathartes aura
+80% - 100%
+4,2%
+Mimus thenca
+80% - 100%
+6,7%
+Patagona gigas
+80% - 100%
+3%
+Tachycineta leucopyga
+80% - 100%
+5,1%
+Falco peregrinus
+80% - 100%
+1,4%
+Phrygilus alaudinus
+60% - 80%
+9,9%
+Phrygilus fruticeti
+60% - 80%
+15,9%
+Pteroptochos megapodius
+40% - 60%
+8,5%
+Pseudasthenes humicola
+80% - 100%
+4,8%
+Spinus barbatus
+80% - 100%
+5,1%
+Leistes loyca
+60%-80%
+4,1%
+Mamíferos
+Lycalopex culpaeus
+80% - 100%
+2,4%
+Reptiles
+Liolaemus fuscus
+80% - 100%
+4%
+Liolaemus lemniscatus
+80% - 100%
+-3,4%
+Liolaemus chiliensis
+80% - 100%
+1,5%
+Liolaemus tenuis
+40% - 60%
+6,2%
+Phylodryas chamissonis
+40% - 60%
+3,5%
+
+===== p.25 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 26 de 54
+Anfibios
+Pleurodema thaul
+80% - 100%
+2,6%
+Elaboración: Geoverde, 2025, en base al “Atlas de Riesgo Climático para Chile”.
+De acuerdo con la tabla anterior, es posible observar que, del total de especies registradas 
+durante todas las campañas de terreno ejecutadas entre el año 2024 y 2025, solo dieciocho 
+(18) están consideradas en el análisis realizado con el “Mapa de Especies”. Todas las 
+especies de fauna tienen mayor probabilidad de presencia en un escenario de cambio 
+climático futuro en la comuna de Viña del Mar, destacando la especie de avifauna 
+Phrygilus fruticeti (Yal) con un 15,9%. En cuanto a los reptiles, excepcionalmente la especie 
+Liolaemus lemniscatus (Lagartija lemniscata) tendría una menor probabilidad de presencia 
+en la zona con un -3,4%. 
+4.1.2.
+Riqueza potencial
+Según la revisión bibliográfica de la literatura consultada, existen treinta y nueve (39) 
+especies de aves que potencialmente se pueden encontrar en el AI del proyecto. De éstas, 
+una (1) se encuentra en alguna categoría de conservación según la normativa vigente. 
+En lo que respecta a los mamíferos, existen 17 especies que potencialmente se pueden 
+observar en el área de influencia del proyecto. De éstas, nueve (9) se encuentran en 
+categoría de conservación según la normativa vigente, clasificadas en Preocupación 
+Menor “LC”, Datos Insuficientes “DD” y una (1) en estado Vulnerable “VU”. 
+De las seis (6) especies de reptiles potencialmente presente en el área del proyecto, todas 
+se encuentra en alguna categoría de conservación vigente, correspondiente a estados 
+Vulnerable “VU” y Preocupación Menor “LC”. Respecto a los anfibios potencialmente es 
+posible encontrar a una (1) especie, clasificada en estado Casi Amenazado “NT”. 
+Para mayor detalle revisar  Couve, E., Vidal, C. & Ruiz, J. (2016). Aves de Chile, sus islas
+oceánicas y península Antártica. Far South Expeditions Ltda., Punta Arenas, Chile. 2. Fauna 
+Potencial.
+4.1.3.
+Riqueza y abundancia 
+De acuerdo con el levantamiento de información en terreno en el área de influencia del 
+proyecto, fueron registradas dieciséis (16) especies en total, mediante observación directa 
+correspondiente a la campaña de invierno 2024 y veintinueve (29) especies de fauna en la 
+campaña de primavera 2024. Por su parte, durante el año 2025, en la campaña de verano 
+se registraron veintisiete (27) especies y en la campaña de otoño treinta (30) especies de 
+fauna, principalmente bajo las metodologías de observación directa, captura mediante 
+trampas Sherman y registros auditivos. De estas observaciones, durante todas las campañas 
+de terreno los mayores registros corresponden a la clase aves, seguido por los reptiles y 
+mamíferos. Ver Tabla RESULTADOS-4 
+
+===== p.26 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 27 de 54
+Tabla RESULTADOS-4 Riqueza y clasificación de fauna registrada campañas años 2024 y 2025
+Campaña
+Clase
+Nombre 
+común
+Nombre 
+científico
+Origen 
+biogeográfic
+o
+Criterio 
+Protecció
+n
+Estado de 
+Conservació
+n
+Cuerpo normativo
+(Ley 
+Caza)
+(RCE)
+Invierno 
+2024
+Aves
+Jote de 
+Cabeza 
+colorada
+Cathartes 
+aura
+Nativo
+B
+-
+-
+Jote de 
+cabeza 
+negra
+Coragyps 
+atratus
+Nativo
+B
+-
+-
+Chincol
+Zonotrichia 
+capensis
+Nativo
+-
+-
+-
+Tenca
+Mimus thenca
+Nativo
+B
+-
+-
+Tórtola 
+común
+Zenaida 
+auriculata
+Nativo
+CC
+-
+-
+Tordo
+Curaeus 
+curaeus
+Nativo
+-
+-
+-
+Aguilucho
+Geranoaetus 
+polyosoma
+Nativo
+B-E
+-
+-
+Jilguero
+Spinus 
+barbatus
+Nativo
+-
+-
+-
+Diucón
+Pyrope pyrope
+Nativo
+B-E
+-
+-
+Yal
+Rhopospina 
+fruticeti
+Nativo
+-
+-
+-
+Zorzal
+Turdus 
+falckandii
+Nativo
+-
+-
+-
+Canastero
+Pseudoasthen
+es humicola
+Endémico
+B
+-
+-
+Mammali
+a
+Conejo 
+europeo
+Oryctolagus 
+cuniculus
+Exótico
+-
+-
+-
+Zorro 
+culpeo
+Lycalopex 
+culpaeus
+Nativo
+E
+VU
+DS 151/2007 
+MINSEGPRES
+DS 33/2012 MMA
+Reptilia
+Lagartija 
+lemniscata
+Liolaemus 
+lemniscatus
+Nativo
+S-E
+LC
+RCE - DS 19/2012
+Lagartija 
+oscura
+Liolaemus 
+fuscus
+Nativo
+B-E
+LC
+RCE - DS 19/2012
+Primaver
+a 2024
+Aves
+Jote de 
+Cabeza 
+colorada
+Cathartes 
+aura
+Nativo
+B
+-
+-
+Jote de 
+cabeza 
+negra
+Coragyps 
+atratus
+Nativo
+B
+-
+-
+Chincol
+Zonotrichia 
+capensis
+Nativo
+-
+-
+-
+Tenca
+Mimus thenca
+Nativo
+B
+-
+-
+Tórtola 
+común
+Zenaida 
+auriculata
+Nativo
+CC
+-
+-
+Tordo
+Curaeus 
+curaeus
+Nativo
+-
+-
+-
+Aguilucho
+Geranoaetus 
+polyosoma
+Nativo
+B-E
+-
+-
+
+===== p.27 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 28 de 54
+Jilguero
+Spinus 
+barbatus
+Nativo
+-
+-
+-
+Yal
+Rhopospina 
+fruticeti
+Nativo
+-
+-
+-
+Picaflor 
+gigante
+Patagona 
+gigas
+Nativo
+B-E
+-
+-
+Peuco
+Parabuteo 
+unicinctus
+Nativo
+B-E
+-
+-
+Tiuque
+Milvago 
+chimango
+Nativo
+B-E
+-
+-
+Golondrina 
+chilena
+Tachycineta 
+leucopyga
+Nativo
+B-E
+-
+-
+Chercán
+Troglodytes 
+aedon
+Nativo
+B-E
+-
+-
+Cachudito
+Anairetes 
+parulus
+Nativo
+B-E
+-
+-
+Codorniz
+Callipepla 
+californica
+Exótico
+-
+-
+-
+Halcón 
+peregrino
+Falco 
+peregrinus
+Cosmopolita
+B-S-E
+LC
+DS 06/2017 MMA
+Diuca
+Diuca diuca
+Nativo
+-
+-
+-
+Platero
+Phrygilus 
+alaudinus
+Nativo
+S
+-
+-
+Turca
+Pteroptochos 
+megapodius
+Endémico
+-
+-
+-
+Mammali
+a
+Conejo 
+europeo
+Oryctolagus 
+cuniculus
+Exótico
+-
+-
+-
+Zorro 
+culpeo
+Lycalopex 
+culpaeus
+Nativo
+E
+VU
+DS 151/2007 
+MINSEGPRES
+DS 33/2012 MMA
+Ratón 
+orejudo de 
+Darwin
+Phyllotis 
+darwini
+Endémico
+E
+-
+-
+Reptilia
+Lagartija 
+lemniscata
+Liolaemus 
+lemniscatus
+Nativo
+S-E
+LC
+RCE - DS 19/2012
+Lagartija 
+oscura
+Liolaemus 
+fuscus
+Nativo
+B-E
+LC
+RCE - DS 19/2012
+Lagarto 
+chileno
+Liolaemus 
+chiliensis 
+Nativo
+B-E
+LC
+DS 19/2012 MMA
+Lagartija 
+esbelta
+Liolaemus 
+tenuis
+Endémico
+S-E
+LC
+DS 19/2012 MMA
+Culebra 
+cola Larga
+Phylodryas 
+chamissonis
+Nativo
+B-E
+VU
+DS 5/1998 MINAGRI
+Anfibia
+Sapito de 
+cuatro ojos
+Pleurodema 
+thaul
+Nativo
+E
+NT
+DS 41/2011 MMA
+Verano 
+2025
+Aves
+Jote de 
+Cabeza 
+colorada
+Cathartes 
+aura
+Nativo
+B
+-
+-
+Jote de 
+cabeza 
+negra
+Coragyps 
+atratus
+Nativo
+B
+-
+-
+Chincol
+Zonotrichia 
+capensis
+Nativo
+-
+-
+-
+
+===== p.28 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 29 de 54
+Tenca
+Mimus thenca
+Nativo
+B
+-
+-
+Tórtola 
+común
+Zenaida 
+auriculata
+Nativo
+CC
+-
+-
+Gallina 
+ciega
+Systellura 
+longirostris
+Nativo
+B-E
+-
+-
+Aguilucho
+Geranoaetus 
+polyosoma
+Nativo
+B-E
+-
+-
+Carpinterito
+Veniliornis 
+lignarius
+Nativo
+B-S
+-
+-
+Yal
+Rhopospina 
+fruticeti
+Nativo
+-
+-
+-
+Picaflor 
+gigante
+Patagona 
+gigas
+Nativo
+B-E
+-
+-
+Peuco
+Parabuteo 
+unicinctus
+Nativo
+B-E
+-
+-
+Tiuque
+Daptrius 
+chimango
+Nativo
+B-E
+-
+-
+Golondrina 
+chilena
+Tachycineta 
+leucopyga
+Nativo
+B-E
+-
+-
+Chercán
+Troglodytes 
+aedon
+Nativo
+B-E
+-
+-
+Cachudito
+Anairetes 
+parulus
+Nativo
+B-E
+-
+-
+Tijeral
+Leptasthenura 
+aegithaloides
+Nativo
+B
+-
+-
+Halcón 
+peregrino
+Falco 
+peregrinus
+Cosmopolita
+B-S-E
+LC
+DS 06/2017 MMA
+Diuca
+Diuca diuca
+Nativo
+-
+-
+-
+Platero
+Phrygilus 
+alaudinus
+Endémico
+S
+-
+-
+Águila
+Geranoaetus 
+melanoleucus
+Nativo
+B-E
+-
+-
+Diucón
+Pyrope pyrope
+Nativo
+B-E
+-
+-
+Mammali
+a
+Conejo 
+europeo
+Oryctolagus 
+cuniculus
+Exótico
+-
+-
+-
+Ratón 
+orejudo de 
+Darwin
+Phyllotis 
+darwini
+Endémico
+E
+-
+-
+Zorro 
+culpeo
+Lycalopex 
+culpaeus
+Nativo
+E
+VU
+DS 151/2007 
+MINSEGPRES
+DS 33/2012 MMA
+Reptilia
+Lagartija 
+lemniscata
+Liolaemus 
+lemniscatus
+Nativo
+S-E
+LC
+RCE - DS 19/2012
+Lagartija 
+oscura
+Liolaemus 
+fuscus
+Nativo
+B-E
+LC
+RCE - DS 19/2012
+Lagarto 
+chileno
+Liolaemus 
+chiliensis 
+Nativo
+B-E
+LC
+DS 19/2012 MMA
+Otoño 
+2025
+Aves
+Jote de 
+Cabeza 
+colorada
+Cathartes 
+aura
+Nativo
+B
+-
+-
+Jote de 
+cabeza 
+Coragyps 
+atratus
+Nativo
+B
+-
+-
+
+===== p.29 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 30 de 54
+negra
+Chincol
+Zonotrichia 
+capensis
+Nativo
+-
+-
+-
+Tenca
+Mimus thenca
+Nativo
+B
+-
+-
+Tórtola 
+común
+Zenaida 
+auriculata
+Nativo
+CC
+-
+-
+Canastero
+Pseudoasthen
+es humicola
+Endémico
+B
+-
+-
+Aguilucho
+Geranoaetus 
+polyosoma
+Nativo
+B-E
+-
+-
+Cernícalo
+Falco 
+sparverius
+Nativo
+B-E
+-
+-
+Codorniz
+Callipepla 
+californica
+Exótico
+-
+-
+-
+Cometocin
+o de Gay
+Phrygilus gayi
+Nativo
+E
+-
+-
+Loica
+Leistes loyca
+Nativo
+E
+-
+-
+Tiuque
+Daptrius 
+chimango
+Nativo
+B-E
+-
+-
+Chercán
+Troglodytes 
+aedon
+Nativo
+B-E
+-
+-
+Cachudito
+Anairetes 
+parulus
+Nativo
+B-E
+-
+-
+Turca
+Pteroptochos 
+megapodius
+Endémico
+-
+-
+-
+Halcón 
+peregrino
+Falco 
+peregrinus
+Cosmopolita
+B-S-E
+LC
+DS 06/2017 MMA
+Diuca
+Diuca diuca
+Nativo
+-
+-
+-
+Pitío
+Colaptes pitius
+Nativo
+B
+-
+-
+Águila
+Geranoaetus 
+melanoleucus
+Nativo
+B-E
+-
+-
+Diucón
+Pyrope pyrope
+Nativo
+B-E
+-
+-
+Ratón 
+orejudo de 
+Darwin
+Phyllotis 
+darwini
+Endémico
+E
+-
+-
+Zorro 
+culpeo
+Lycalopex 
+culpaeus
+Nativo
+E
+VU
+DS 151/2007 
+MINSEGPRES
+DS 33/2012 MMA
+Murciélago 
+cola de 
+ratón
+Tadarida 
+brasiliensis
+Nativo
+B
+LC
+DS 06/2017 MMA
+Murciélago 
+orejudo 
+menor
+Histiotus 
+montanus
+Nativo
+B
+LC
+DS 06/2017 MMA
+Murciélago 
+orejudo 
+mayor
+Histiotus 
+macrotus
+Nativo
+B
+LC
+DS 79/2018 MMA
+Murciélago 
+colorado 
+del sur
+Lasiurus varius
+Endémico
+B
+LC
+DS 16/2016 MMA
+Murciélago 
+oreja de 
+ratón 
+Myotis 
+arescens
+Endémico
+B
+LC
+DS 06/2017 MMA
+
+===== p.30 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 31 de 54
+Reptilia
+Lagartija 
+lemniscata
+Liolaemus 
+lemniscatus
+Nativo
+S-E
+LC
+RCE - DS 19/2012
+Lagartija 
+oscura
+Liolaemus 
+fuscus
+Nativo
+B-E
+LC
+RCE - DS 19/2012
+Culebra 
+cola Larga
+Phylodryas 
+chamissonis
+Nativo
+B-E
+VU
+DS 5/1998 MINAGRI
+Abreviaturas Estado de conservación según Reglamento de Clasificación de Especies (RCE): Preocupación Menor 
+(LC); Casi Amenazada (NT); Vulnerable (VU). Abreviaturas Ley de Caza N° 19.473 y D.S. N° 5/1998 MINAGRI. 
+Abreviaturas  de  Criterios  de  Protección  de  especies:  beneficiosa  para  la  actividad  silvoagropecuaria  (B); 
+densidades poblacionales reducidas (S); benéfica para la mantención del equilibrio de los ecosistemas naturales 
+(E); cuota de captura (CC). Fuente: Geoverde, 2025.
+Figura 4-1 Riqueza y Abundancia de especies clase aves – campañas año 2024
+Zonotrichia capensis
+Cathartes aura
+Coragyps atratus
+Curaeus curaeus
+Geranoaetus polyosoma
+Mimus thenca
+Pseudoasthenes humicola
+Pyrope pyrope
+Rhopospina fruticeti
+Spinus barbatus
+Turdus falckandii
+Zenaida auriculata
+Patagona gigas
+Parabuteo unicinctus
+Daptrius chimango
+Tachycineta leucopyga 
+Troglodytes aedon
+Anairetes parulus
+Callipepla californica
+Falco peregrinus
+Diuca diuca
+Phrygilus alaudinus
+Pteroptochos megapodius
+0
+10
+20
+30
+40
+50
+60
+INV 2024
+PRI 2024
+Especies
+Nº de ejemplares
+Fuente: Geoverde, 2025.
+De acuerdo con la  Figura 4-1  , de los registros directos obtenidos de aves mediante 
+observación en el Área de Influencia (AI) del proyecto durante las campañas realizadas el 
+año 2024, revelan la presencia de veintitrés (23) especies de avifauna en total, de las cuales 
+la especie predominante corresponde a Zonotrichia capensis (Chincol) con setentaisiete 
+(77) ejemplares registrados para ambas campañas, seguido por Curaeus curaeus (Tordo) 
+con 25 ejemplares, Spinus barbatus (Jilguero) con 24 ejemplares y Rhopospina fruticeti (yal) 
+con 23 ejemplares observados. (ver Anexo 4). 
+Figura 4-2 Riqueza y Abundancia de especies clase aves – campañas año 2025
+
+===== p.31 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 32 de 54
+Zonotrichia capensis
+Cathartes aura
+Coragyps atratus
+Geranoaetus polyosoma
+Mimus thenca
+Pseudoasthenes humicola
+Pyrope pyrope
+Rhopospina fruticeti
+Zenaida auriculata
+Patagona gigas
+Parabuteo unicinctus
+Daptrius chimango
+Tachycineta leucopyga 
+Troglodytes aedon
+Anairetes parulus
+Callipepla californica
+Falco peregrinus
+Diuca diuca
+Phrygilus alaudinus
+Pteroptochos megapodius
+Veniliornis lignarius
+Geranoaetus melanoleucus
+Leptasthenura aegithaloides
+Systellura longirostris
+Phrygilus gayi
+Falco sparverius
+Leistes loyca
+Colaptes pitius
+0
+10
+20
+30
+40
+50
+60
+VER 2025
+OTO 2025
+Especies
+Nº de ejemplares
+Fuente: Geoverde, 2025.
+De acuerdo con la  Figura 4-1  , de los registros directos obtenidos de aves mediante 
+observación en el Área de Influencia (AI) del proyecto durante las campañas realizadas el 
+año 2025, revelan la presencia de veintiocho (28) especies de avifauna en total, de las 
+cuales  la  especie  predominante  corresponde  a  Zenaida  auriculata (Tórtola)  con  59 
+ejemplares registrados para ambas campañas, seguido por Zonotrichia capensis (Chincol) 
+con 42 ejemplares y Tachycineta leucopyga (Golondrina chilena) con 36 observaciones.  
+(ver Anexo 4). 
+
+===== p.32 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 33 de 54
+Figura 4-3 Riqueza y Abundancia de especies clase reptiles y anfibios - campañas año 2024 y 2025
+Liolaemus lemniscatus
+Liolaemus fuscus
+Liolaemus chiliensis 
+Liolaemus tenuis
+Phylodryas chamissonis
+Pleurodema thaul
+0
+5
+10
+15
+20
+25
+30
+35
+40
+INV 2024
+PRI 2024
+VER 2025
+OTO 2025
+Especies
+Nº de ejemplares
+Fuente: Geoverde, 2025.
+Según la  Figura 4-3  Error: Reference source not founden el Área de Influencia (AI) del 
+proyecto, revelan la presencia de cuatro (4) especies de lagartijas. Las especies con 
+mayores registros corresponden a  Liolaemus lemniscatus (Lagartija lemniscata) con 55 
+observaciones en total, durante todas las campañas ejecutadas, seguido por la especie 
+Liolaemus fuscus (Lagartija oscura) con 11 ejemplares registrados igualmente durante todas 
+las campañas de terreno. En el caso de la especie Liolaemus chiliensis (Lagarto chileno) 
+registrada en primavera 2024 y verano 2025 con dos (ejemplares) y  Liolaemus tenuis 
+también con dos (2) ejemplares observados en primavera 2024. En cuanto a especies de 
+culebras, se identificó a la especie Phylodryas chamissonis (Culebra de cola larga)durante 
+las  campañas  de  primavera  2024  y  otoño  2025  con  cinco  (5)  y  un  (1)  ejemplar 
+respectivamente. La especie de anfibio  Pleurodema thaul  (Sapito de cuatro ojos) fue 
+identificada en la campaña de primavera 2024 con cuatro (4) ejemplares. (ver Anexo 4).
+Figura 4-4 Riqueza y Abundancia de especies clase mamíferos - campañas años 2024 y 2025  
+
+===== p.33 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 34 de 54
+Lycalopex 
+culpaeus
+Phyllotis 
+darwini
+Oryctolagus 
+cuniculus
+Tadarida 
+brasiliensis 
+Histiotus 
+montanus
+Histiotus 
+macrotus
+Lasiurus 
+varius 
+Myotis 
+arescens 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+INV 2024
+PRI 2024
+VER 2025
+OTO 2025
+Especies
+Nº de ejemplares
+Fuente: Geoverde, 2025.
+En  relación  con  la  mamíferos  registrados  durante  las  campañas  de  terreno,  estos 
+corresponden a ocho (8) especies en total, destaca la especie  Phyllotis darwini (Ratón 
+orejudo de Darwin) con dieciocho (18) ejemplares capturados entre las campañas de 
+primavera 2024, verano y otoño 2025 y la especie de Lycalopex culpaeus (Zorro culpeo) con 
+siete (7) ejemplares observados entre primavera 2024 y otoño 2025. Adicionalmente se 
+obtuvieron registros de la especie exótica  Oryctolagus cuniculus  (conejo europeo) con 
+ocho (8) ejemplares registrados directamente mediante observación, e imágenes de las 
+cámaras trampa instaladas. Cabe destacar que, en la campaña de otoño 2025, se 
+identificaron cinco (5) especies de quirópteros en el AI del proyecto, correspondientes a : 
+Tadarida brasiliensis, Histiotus montanus, Histiotus macrotus, Lasiurus varius y Myotis arescens. 
+(ver Anexo 4).
+4.1.4.
+Singularidades y sensibilidades ambientales
+Los  resultados  obtenidos  durante  las  campañas  de  terreno  2024  y  2025  permitieron 
+identificar  un  conjunto  de  especies  que  constituyen  las  principales  singularidades 
+ambientales en el área del proyecto. En total se registraron trece (13) especies clasificadas 
+en alguna categoría de conservación del Reglamento para la Clasificación de Especies 
+(RCE), pertenecientes a la clase aves, mamíferos, reptiles y anfibios. Entre ellas destacan el 
+zorro culpeo (Lycalopex culpaeus) y la culebra de cola larga (Phylodryas chamissonis), 
+ambas clasificadas como Vulnerable (VU), y el sapito de cuatro ojos (Pleurodema thaul), 
+clasificado como Casi Amenazado (NT). El resto de las especies registradas corresponden 
+principalmente a reptiles y quirópteros clasificados en Preocupación Menor (LC), algunas 
+de ellas endémicas de Chile. (Tabla RESULTADOS-5 
+
+===== p.34 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 35 de 54
+Tabla RESULTADOS-5 Singularidades y sensibilidades ambientales
+Clase
+Nombre 
+común
+Nombre 
+científico
+Origen 
+biogeográfico
+Categoría
+Singularidad
+(RCE)
+Aves
+Halcón 
+peregrino
+Falco 
+peregrinus
+Cosmopolita
+LC
+Ave  rapaz,  depredador  tope 
+de importancia ecológica.
+Mammal
+ia
+Zorro culpeo
+Lycalopex 
+culpaeus
+Nativo
+VU
+Carnívoro  nativo  de  amplia 
+movilidad,
+ 
+indicador
+ 
+de 
+funcionalidad ecológica.
+Murciélago 
+cola de ratón
+Tadarida 
+brasiliensis
+Nativo
+LC
+Controladores
+ 
+biológicos, 
+sensibles  a  la  alteración  de 
+refugios e iluminación artificial. 
+Murciélago 
+orejudo 
+menor
+Histiotus 
+montanus
+Nativo
+LC
+Murciélago 
+orejudo 
+mayor
+Histiotus 
+macrotus
+Nativo
+LC
+Murciélago 
+colorado del 
+sur
+Lasiurus varius
+Endémico
+LC
+Murciélago 
+oreja de ratón
+Myotis 
+arescens
+Endémico
+LC
+Reptilia
+Lagartija 
+lemniscata
+Liolaemus 
+lemniscatus
+Nativo
+LC
+Reptiles característicos de Chile 
+central, sensibles a la pérdida 
+de microhábitats y vegetación 
+arbustiva
+Lagartija 
+oscura
+Liolaemus 
+fuscus
+Nativo
+LC
+Lagarto 
+chileno
+Liolaemus 
+chiliensis
+Nativo
+LC
+Lagartija 
+esbelta
+Liolaemus 
+tenuis
+Endémico
+LC
+Culebra de 
+cola larga
+Phylodryas 
+chamissonis
+Nativo
+VU
+Especie  nativa  de  la  zona 
+central,
+ 
+sensible
+ 
+a
+ 
+la 
+fragmentación  y  perdida  de 
+hábitat. 
+Anfibia
+Sapito de 
+cuatro ojos
+Pleurodema 
+thaul
+Nativo
+NT
+Especie asociada a ambientes 
+húmedos  y  cursos  de  agua, 
+sensible  a  modificaciones 
+hidrológicas  y  pérdida  de 
+microhábitats.
+Fuente: Geoverde, 2025
+Desde el punto de vista de la sensibilidad ambiental, estas especies presentan distintos 
+grados de susceptibilidad frente a la alteración de sus hábitats. Los reptiles y anfibios son 
+sensibles a la remoción de cobertura vegetal perdiendo zonas de refugios y modificación 
+de microhábitats. Los quirópteros pueden verse afectados por la iluminación artificial, 
+mientras que especies de mayor movilidad, como el zorro culpeo y el halcón peregrino, 
+requieren mantener la conectividad del entorno natural para asegurar sus desplazamientos 
+y áreas de alimentación. Estas especies representan los principales objetos de protección 
+del componente fauna terrestre y representan la base para la evaluación de impactos y la 
+definición de medidas de manejo ambiental del proyecto.
+
+===== p.35 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 36 de 54
+4.2.
+Resultados por técnica 
+4.2.1.
+Transectos y Puntos de Observación 
+De acuerdo con ambas metodologías implementadas, en la campaña de invierno 2024, 
+fue posible observar directamente doce (12) especies de avifauna y dos (2) especies de 
+reptiles. En primavera 2024, fue posible registrar directamente veinte (20) especies de 
+avifauna, cinco (5) especies de reptiles y tres (3) especies de mamíferos. 
+En verano 2025, de acuerdo con ambas metodologías implementadas, fue posible observar 
+directamente veintiún (21) especies de avifauna y tres (3) especies de reptiles, mientras que 
+en otoño 2025, se registraron veinte (20) especies de aves, tres (3) especies de reptiles y dos 
+(2) especies de mamíferos. Ver Fotografía 4-1 y Anexo 3.
+Fotografía 4-1 Transectos y Puntos de observación 
+Invierno 2024
+Primavera 2024
+Verano 2025
+
+===== p.36 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 37 de 54
+Otoño 2025
+Fuente: Geoverde, 2025.
+4.2.2.
+Monitoreo nocturno - Playback
+En  cuatro  (4)  sectores  dentro  del  AI  del  proyecto,  se  realizaron  observaciones  y 
+vocalizaciones  (playback)  de  aves  entre  las  19:00  y  20:30  horas  durante  las  cuatro 
+campañas  de  monitoreo  entre  los  años  2024  y  2025.  Las  especies  reproducidas 
+correspondieron  a  Tucúquere  (Bubo  virginianus),  Lechuza  común  (Tyto  alba),  Pequén 
+(Athene cunicularia) Aguilucho común (Geranoaetus polyosoma) y Peuco (Geranoaetus 
+polyosoma), con el objetivo de averiguar la presencia de especies con comportamientos 
+crepuscular nocturno principalmente. En los sitios de reproducción auditiva, en ninguna de 
+las  campañas  se  pudo  constatar  la  respuesta  a  las  vocalizaciones  emitidas  de  las 
+correspondientes especies. Ver .
+
+===== p.37 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 38 de 54
+Fotografía RESULTADOS-2 Monitoreo nocturno
+Invierno 2024
+Primavera 2024
+Verano 2025
+Otoño 2025
+
+===== p.38 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 39 de 54
+ Fuente: Geoverde, 2025.
+4.2.3.
+Búsqueda de anfibios
+Durante todas las campaña de terreno entre el año 2024 y 2025 en cuatro (4) sectores 
+dentro del AI del proyecto, se realizó una búsqueda activa de anfibios en áreas con 
+presencia de agua. Solo en la campaña correspondiente a primavera 2024 se observaron 
+cuatro  (4)  ejemplares  de  la  especie  Pleurodema  thaul (Sapito  de  cuatro  ojos).  Ver 
+Fotografía 4-3 .
+Fotografía 4-3 Busqueda de anfibios
+Invierno 2024
+Primavera 2024
+Verano 2025
+Otoño 2025
+
+===== p.39 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 40 de 54
+Fuente: Geoverde, 2025.
+4.2.4.
+Cámaras trampa
+De acuerdo con la revisión de las seis (6) cámaras trampas instaladas durante las campañas 
+de terreno entre el año 2024 y 2025 en sectores previamente definidos con potencial 
+presencia de hábitats para fauna, fue posible obtener registros de las especies Lycalopex 
+culpaeus (Zorro culpeo) y Oryctolagus cuniculus (Conejo europeo) en el AI del proyecto. 
+Ver Fotografía RESULTADOS-4  y Anexo 3. 
+  Fotografía RESULTADOS-4 Registros cámaras trampa
+Invierno 2024
+Primavera 2024
+Verano 2025
+
+===== p.40 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 41 de 54
+Otoño 2025
+Fuente: Geoverde, 2025.
+4.2.5.
+Trampas Sherman
+Durante todas las campaña de terreno entre el año 2024 y 2025, a excepción de invierno 
+2024, Se instalaron seis (6) líneas de trampas Sherman en el área del proyecto. De acuerdo 
+con las trampas en sectores previamente definidos con potencial presencia de hábitats 
+para fauna, fue posible obtener la captura de roedores principalmente de la especie 
+Phyllotis darwini (Ratón orejudo de Darwin) en el AI del proyecto. Ver Fotografía 4-5 y Anexo 
+3.
+Fotografía 4-5 Registros trampas Sherman
+Primavera 2024
+Verano 2025
+
+===== p.41 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 42 de 54
+Otoño 2025
+Fuente: Geoverde, 2025.
+4.2.6.
+Bat detector
+Se instalaron dos (2) detectores de Quirópteros en el AI del proyecto, con el objeto de 
+registrar potenciales especies de murciélagos que pudiesen desplazarse por el lugar. El 
+análisis de las grabaciones arrojó resultados positivos para esta clase de animales en la 
+última campaña de terreno en otoño 2025, estableciendo la identificación y presencia de 
+cinco(5) especies correspondientes a:  Tadarida brasiliensis (Familia Mollosidae)  Histiotus 
+montanus, Histiotus macrotus, Lasiurus varius y Myotis arescens (Familia Vespertilionidae). 
+Ver Fotografía 4-Fotografía 4-6  y Figuras 4-5; 4-6; 4-7; 4-8 y 4-9. 
+Fotografía 4-6 Registro de instalación detectores de murciélagos
+Invierno 2024
+
+===== p.42 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 43 de 54
+Primavera 2024
+Verano 2025
+Otoño 2025
+Fuente: Geoverde, 2025
+Figura 4-5 Sonograma de las llamadas de ecolocación de Tadarida brasiliensis visualizado a través 
+del programa Kaleidoscope.
+Fuente: Geoverde, 2025
+
+===== p.43 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 44 de 54
+Figura 4-6 Sonograma de las llamadas de ecolocación de Histiotus montanus visualizado a través del 
+programa Kaleidoscope.
+Fuente: Geoverde, 2025
+Figura 4-7 Sonograma de las llamadas de ecolocación de Histiotus macrotus visualizado a través del 
+programa Kaleidoscope.
+Fuente: Geoverde, 2025
+Figura 4-8 Sonograma de las llamadas de ecolocación de Lasiurus varius visualizado a través del 
+programa Kaleidoscope
+Fuente: Geoverde, 2025
+
+===== p.44 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 45 de 54
+Figura 4-9 Sonograma de las llamadas de ecolocación de Myotis arescens visualizado a través del 
+programa Kaleidoscope
+Fuente: Geoverde, 2025
+
+===== p.45 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 46 de 54
+5.
+DISCUSIÓN
+El presente informe consolidado corresponde a la caracterización del componente fauna 
+terrestre, campañas realizadas en las temporadas de invierno y primavera 2024, y verano y 
+otoño  2025,  en  el  marco  de  los  servicios  profesionales  para  el  proyecto  “Centro 
+Metropolitano de Gestión Integral de Residuos - CMGIR”, ubicado en la comuna de Viña del 
+Mar, cuyo titular es COSEMAR S.A. 
+En lo que respecta a los registros de fauna durante las campañas de trabajo en terreno, 
+específicamente  bajo  las  metodologías  del  recorrido  de  transectos  y  puntos  de 
+observación, se registró una riqueza total de treinta y un (31) especies de aves, todas de 
+origen nativo a excepción de la especie Phrygilus alaudinus (Platero) y Pseudoasthenes 
+humícola (Canastero) ambos de origen endémico y Falco peregrinus (Halcón peregrino) de 
+característica cosmopolita, clasificado en estado de conservación Preocupación Menor 
+“LC” por el Reglamento de Clasificación de Especies vigente (RCE). Las especies con mayor 
+representación para la zona de estudio corresponden a: Zonotrichia capensis (Chincol) con 
+119  ejemplares  registrados  y  Zenaida  auriculata (Tórtola)  con  78  observaciones, 
+considerando todas las campañas de caracterización. Las especies de avifauna con 
+registros  ocasionales  fueron  Phrygilus  gayi  (Cometocino  de  Gay),  Falco  sparverius 
+(Cernícalo), Leistes loyca (Loica), Colaptes pitius (Pitío), Turdus falckandii (Zorzal) y Systellura 
+longirostris (Gallina ciega), con un (1) registro cada una de las especies considerando todas 
+las campañas (ver Anexo 4). 
+En cuanto a los reptiles, el listado de especies potenciales elaborado con base en la 
+literatura consultada y proyectos realizados en la comuna de Viña del Mar, revelan la 
+existencia de seis (6) especies, todas en alguna categoría de conservación, destacando la 
+especie Philodryas chamissonis (culebra de cola larga) clasificada en estado “Vulnerable”. 
+En el caso específico de los trabajo realizados en terreno entre el año 2024 y 2025, se registró 
+una riqueza de seis (6) especies. La mayor abundancia perteneció a la especie Liolaemus 
+lemniscatus (Lagartija  lemniscata)  con  cincuenta  y  cinco  (55)  ejemplares  registrados, 
+principalmente durante las campañas de primavera 2024 y verano 2025, seguidamente por 
+la especie Liolaemus fuscus (lagartija oscura) con once (11) individuos observados entre 
+todas las campañas realizadas. Cabe destacar la presencia de cuatro (4) ejemplares de 
+Pleurodema  thaul (Sapito  de  cuatro  ojos)  en  la  campaña  de  primavera  2024  y  la 
+observación de seis (6) individuos en total de la especie Philodryas chamissonis (culebra de 
+cola larga) durante las campañas de primavera 2024 y otoño2025. 
+De las diecisiete (17) especies de mamíferos potenciales en el área de estudio, nueve (9) 
+presentan en alguna categoría de conservación, destacando a:  Lycalopex culpaeus (Zorro 
+culpeo) la que actualmente de acuerdo con la guía de clasificación de especies del año 
+2024 se encuentra en categoría Vulnerable “VU” y las cinco (5) especies de quirópteros 
+registrados  en  la  campaña  de  otoño  2025,  mediante  el  análisis  de  las  grabaciones 
+ultrasónicas, pertenecientes a:  Tadarida brasiliensis  (Murciélago cola de ratón), Histiotus 
+montanus  (Murciélago orejudo menor), Histiotus macrotus (Murciélago orejudo mayor), 
+
+===== p.46 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 47 de 54
+Lasiurus varius ( Murciélago colorado del sur) y Myotis arescens (Murciélago oreja de ratón), 
+especies clasificadas en estado Preocupación Menor “LC” (ANEXO 2).
+Adicionalmente, mediante la metodología de la instalación de trampas Sherman, fue 
+posible capturar dieciocho (18) ejemplares de roedores de la especie  Phyllotis darwini 
+(Ratón  orejudo  de  Darwin)  entre  las  campañas  de  verano  2025  y  otoño  2025 
+principalmente, especie sin problemas de conservación de acuerdo con la legislación 
+vigente. 
+En relación con las otras metodologías desplegadas en el AI del proyecto, como el 
+monitoreo crepuscular - nocturno, no revelaron la presencia de especies asociadas con la 
+aplicación de este método. En el caso de las cámaras trampas instaladas, ubicadas 
+estratégicamente en sectores dentro de la zona de estudio, que ofrecen potenciales 
+refugios y sitios de nidificación,  mostraron la presencia de  Lycalopex culpaeus (Zorro 
+culpeo)  y  Oryctolagus  cuniculus (Conejo  europeo)  mencionados  anteriormente. 
+Generalmente, las cámaras trampa son empleadas en investigaciones de conservación 
+para  analizar  el  comportamiento  de  los  animales,  minimizando  las  intervenciones 
+antropogénicas (Caravaggi et al. 2017). Estas cámaras se han establecido como una 
+herramienta altamente valiosa para llevar a cabo seguimientos de la biodiversidad a nivel 
+global (Wearn & Glover-Kapfer, 2019). 
+5.1.
+Otras situaciones
+La zona donde se emplaza el proyecto “Centro Metropolitano de Gestión Integral de 
+Residuos - CMGIR”, fue afectada en febrero del año 2024 por un incendio urbano-forestal 
+de grandes proporciones que incluyó a varias comunas de la región de Valparaíso. El 
+Centro de Investigación para la Gestión Integrada del Riesgo de Desastres (CIGIDEN) 
+publicó  un  informe  sobre  el  alcance  de  los  impactos  causados  por  el  incendio.  El 
+documento indica que este incendio urbano-forestal es uno de los más grandes en la 
+historia de Chile, el cual afectó cerca de 15.500 viviendas, más de 8.500 hectáreas y dejó 
+131 personas fallecidas en las comunas de Valparaíso, Viña del Mar, Quilpué y Villa 
+Alemana. 
+Los incendios forestales impactan gravemente a la fauna silvestre en zonas naturales, 
+causando tanto la muerte directa de animales como la alteración de sus hábitats. Las 
+llamas  y  el  humo  pueden  provocar  una  alta  mortalidad  en  especies  con  movilidad 
+reducida, como reptiles, invertebrados y animales jóvenes, que tienen dificultad para 
+escapar rápidamente del fuego. Además, los incendios disminuyen la disponibilidad de 
+refugio, alimento y agua, elementos esenciales para la supervivencia de las especies que 
+logran huir. Este desplazamiento, muchas veces hacia áreas menos adecuadas, aumenta 
+el  riesgo  de  depredación  y  estrés  en  los  animales  sobrevivientes.  El  impacto  en  la 
+biodiversidad es preocupante en ecosistemas protegidos, donde los incendios pueden 
+acelerar la pérdida de especies endémicas y alterar importantes procesos ecológicos. 
+
+===== p.47 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 48 de 54
+6.
+CONCLUSIONES
+En el marco de la caracterización de la fauna terrestre en el área de influencia del proyecto 
+“Centro Metropolitano de Gestión Integral de Residuos - CMGIR”, ubicado en la comuna de 
+Viña del Mar, cuyo titular es COSEMAR S.A., los resultados mostraron que, la riqueza de fauna 
+registrada entre todas las campañas de trabajo, corresponde a: treinta y un (31) especies 
+de aves, cinco (5) especies de reptiles, una (1) especie de anfibio y ocho (8) especies de 
+mamíferos, registradas mediante el recorrido de los transectos, puntos de observación, 
+búsqueda activa, cámaras trampas, trampas tipo Sherman y grabaciones auditivas. 
+En lo que respecta a los trabajos crepusculares - nocturnos, que se llevaron a cabo entre las 
+19:00 y las 20:30 horas, que involucraron la reproducción de vocalizaciones de especies de 
+aves, principalmente de rapaces nocturnas y observación con visores, no revelaron la 
+presencia de estas aves en el área de estudio. 
+De  los  dispositivos  instalados  en  sectores  favorables  de  hábitats  para  fauna, 
+correspondientes a cámaras trampas y detector de murciélagos, fue posible obtener 
+imágenes de las especies Conejo europeo y Zorro culpeo. En relación con las grabaciones 
+registradas por los detectores de murciélagos, mostraron la presencia de cinco (5) especies 
+de  murciélagos  correspondientes  a:  Tadarida  brasiliensis  (Murciélago  cola  de  ratón), 
+Histiotus montanus  (Murciélago orejudo menor), Histiotus macrotus (Murciélago orejudo 
+mayor), Lasiurus varius ( Murciélago colorado del sur) y Myotis arescens (Murciélago oreja de 
+ratón), todas clasificadas en Preocupación Menor “LC”, de origen biogeográfico nativo y 
+endémico. 
+En relación con las trampas Sherman, estas permitieron la captura de dieciocho (18) 
+ejemplares del roedor Phyllotis darwini (ratón orejudo de Darwin) durante las campañas 
+realizadas en primavera de 2024, y en verano y otoño de 2025, dentro del área del 
+proyecto.
+Es posible mencionar que, se detectaron evidencias del paso de un incendio por la zona 
+ocurrido en febrero del año 2024, que probablemente afectó el normal desarrollo de la 
+fauna en el AI, provocando su deceso o desplazamiento a otras zonas aledañas. 
+Finalmente cabe destacar que, durante las campañas de terreno entre los años 2024 y 
+2025, fueron registradas trece (13) especies de fauna en alguna categoría de conservación. 
+En el caso de los mamíferos la especie Lycalopex culpaeus en estado Vulnerable “VU” y las 
+cinco (5) especies de murciélagos descritas anteriormente en estado Preocupación Menor 
+“LC”. De los reptiles las especies Liolaemus lemniscatus, Liolaemus fuscus, Liolaemus tenuis, 
+Liolaemus chiliensis y Phylodryas chamissonis se encuentran categorizadas en Preocupación 
+Menor “LC” y Vulnerable “VU” respectivamente, y el anfibio Pleurodema thaul en estado 
+Casi Amenazado “NT”. De las aves, la especie de rapaz Falco peregrinus encontrada en 
+preocupación Menor “LC”. 
+
+===== p.48 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 49 de 54
+Posterior al termino de todas las campañas programadas, resulta fundamental realizar una 
+evaluación de las especies críticas en estados de conservación, a fin de considerar otras 
+medidas, en estricto cumplimiento de las guías técnicas y la normativa ambiental vigente 
+aplicable a la conservación de los ecosistemas terrestres.
+Este informe del estudio/caracterización de fauna terrestre, se encuentra desarrollado por 
+la consultora Geoverde SpA, a solicitud de COSEMAR S.A., en el marco de la Res. Ex. N° 
+223/2015 de la Superintendencia de Medio Ambiente (SMA) que dicta las instrucciones 
+generales sobre la elaboración del Plan de Seguimiento de Variables Ambientales, Informes 
+de Seguimiento Ambiental y Remisión de Información al Sistema Electrónico de Seguimiento 
+Ambiental.
+
+===== p.49 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 50 de 54
+7.
+REFERENCIAS
+Couve, E., Vidal, C. & Ruiz, J. (2016). Aves de Chile, sus islas oceánicas y península Antártica. 
+Far South Expeditions Ltda., Punta Arenas, Chile.
+Croxall, J. P., Butchart, S. H., Lascelles, B. E. N., Stattersfield, A. J., Sullivan, B. E. N., Symes, A., & 
+Taylor, P. H. I. L. (2012). Seabird conservation status, threats and priority actions: a global 
+assessment. Bird Conservation International, 22(1), 1-34.
+Demangel, D. 2016. Guia de campo Reptiles del centro y sur de Chile. Corporación Chilena 
+de la Madera (CORMA). Concepcion, Chile, 187 pp. 
+Enshassi A., Kochendoerfer B. y Rizq E. 2014. Evaluación de los impactos medioambientales 
+de los proyectos de construcción. Revista Ingeniería de construcción. Vol 29, N°3, 21pp.
+Gajardo, R. 1994. La Vegetación Natural de Chile. Clasificación y Distribución Geográfica. 
+Santiago, Chile, Editorial Universitaria. 165 pp.
+Iriarte A. 2008. Mamíferos de Chile. Lynx Edicions, España. XX PP.
+Jaramillo, A. (2005). Aves de Chile. Lynx Ediciones. Barcelona. España. 240 pp.
+Luebert,  F.  &  Pliscoff,  P.  (2017).  Sinopsis  climática  y  vegetacional  de  Chile.  Editorial 
+Universitaria. 381 pp.
+Machado, M. & Peña, G. (2000). Estructura numérica de la comunidad de aves del orden 
+Passeriformes en dos bosques con diferentes grados de intervención antrópica en los 
+correfimientos de Salero y San Francisco de Icho. Tesis de pregrado, Facultad de Ciencias 
+Básicas. Universidad Tecnológica del Chocó, Quibdó, Chocó, Colombia. 55 pp.
+Martínez-Piña, D. & González Cifuentes, G. (2017). Aves de Chile. Santiago, Chile: Ediciones 
+del Naturalista. 538 p.
+Mella-Flores, D & Jaksic, F. 2018. Estado del Medio Ambiente de Chile. Informe país, centro 
+de análisis de políticas públicas, Universidad de Chile. 
+Ministerio de Agricultura. 2019. Recursos Naturales en la comuna de San Felipe. Centro de 
+información de Recursos Naturales (CIREN). Región de Valparaíso. 
+Ministerio de Agricultura. 2020. Catastro de los Recursos Vegetacionales Nativos de Chile. 
+Corporacion Nacional Forestal (CONAF), Departamento de Monitoreo de Ecosistemas 
+Natuales. 
+Recursos Naturales en la comuna de San Felipe. Centro de información de Recursos 
+Naturales (CIREN). Región de Valparaíso
+Ministerio  de  Agricultura.  (1998).  Decreto  Nº  05/1998.  Aprueba  reglamento  para  el 
+Reglamento de la Ley de Caza. Santiago. Chile. Diario Oficial. 7 de diciembre de 1998.
+
+===== p.50 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 51 de 54
+Ministerio de Agricultura. (2004). Decreto Nº 53/2004. Modifica Decreto Nº 5, DE 1998, sobre 
+Reglamento de la Ley de Caza. Santiago. Chile. Diario Oficial. 27 de enero de 2004.
+Ministerio de Agricultura. (2015). Decreto Nº 65/2015. Modifica Decreto Nº 5, DE 1998, sobre 
+Reglamento de la Ley de Caza. Santiago. Chile. Diario Oficial. 31 de enero de 2015.
+Ministerio de Energía. (2019). Decreto N°231 Exento. Fija obras nuevas de los sistemas de 
+transmisión nacional y zonal que deben iniciar su proceso de licitación o estudio de franja, 
+según corresponda, en los doce meses siguientes, del plan de expansión del año 2018. 
+Santiago. Chile. Diario Oficial. 24 de septiembre de 2019.
+Ministerio Secretaría General de la Presidencia. (2007). Decreto Supremo Nº 151/2007. 
+Aprueba y oficializa nómina para el primer proceso de clasificación de especies según su 
+estado de conservación. Santiago, Chile. Diario oficial. 30 de junio de 2008.
+Ministerio  Secretaría  General  de  la  Presidencia.  (2008).  Decreto  Supremo  Nº  50/2008. 
+Aprueba y oficializa nómina para el segundo proceso de clasificación de especies según su 
+estado de conservación. Santiago, Chile. Diario oficial. 30 de junio de 2008.
+Ministerio  Secretaría  General  de  la  Presidencia.  (2008).  Decreto  Supremo  Nº  51/2008. 
+Aprueba y oficializa nómina para el tercer proceso de clasificación de especies según su 
+estado de conservación. Santiago, Chile. Diario oficial. 30 de junio de 2008.
+Ministerio  Secretaría  General  de  la  Presidencia.  (2009).  Decreto  Supremo  Nº  23/2009. 
+Aprueba y oficializa nómina para el cuarto proceso de clasificación de especies según su 
+estado de conservación. Santiago, Chile. Diario oficial. 07 de mayo de 2009.
+Ministerio de Medio Ambiente. (2011). Decreto Supremo Nº 33/2011. Aprueba y oficializa 
+nómina  para  el  quinto  proceso  de  clasificación  de  especies  según  su  estado  de 
+conservación. Santiago, Chile. Diario oficial. 27 de febrero de 2012.
+Ministerio de Medio Ambiente. (2011). Decreto Supremo Nº 41/2011. Aprueba y oficializa 
+nómina  para  el  sexto  proceso  de  clasificación  de  especies  según  su  estado  de 
+conservación. Santiago, Chile. Diario oficial. 11 de abril de 2012.
+Ministerio de Medio Ambiente. (2011). Decreto Supremo Nº 42/2011. Aprueba y oficializa 
+nómina  para  el  séptimo  proceso  de  clasificación  de  especies  según  su  estado  de 
+conservación. Santiago, Chile. Diario oficial. 11 de abril de 2012.
+Ministerio de Medio Ambiente. (2012). Decreto Supremo Nº 19/2012. Aprueba y oficializa 
+nómina  para  el  octavo  proceso  de  clasificación  de  especies  según  su  estado  de 
+conservación. Santiago, Chile. Diario oficial. 11 de febrero de 2013.
+Ministerio de Medio Ambiente. (2012). Decreto Supremo Nº 29/2012. Aprueba Reglamento 
+para la Clasificación de Especies Silvestres según Estado de Conservación. Santiago, Chile. 
+Diario oficial. 27 de abril de 2012.
+
+===== p.51 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 52 de 54
+Ministerio de Medio Ambiente. (2013). Decreto Supremo Nº 13/2013. Aprueba y oficializa 
+nómina  para  el  noveno  proceso  de  clasificación  de  especies  según  su  estado  de 
+conservación. Santiago, Chile. Diario oficial. 25 de julio de 2013.
+Ministerio de Medio Ambiente. (2014). Decreto Supremo Nº 52/2014. Aprueba y oficializa 
+nómina  para  el  décimo  proceso  de  clasificación  de  especies  según  su  estado  de 
+conservación. Santiago, Chile. Diario oficial. 29 de agosto de 2014.
+Ministerio de Medio Ambiente. (2015). Decreto Supremo Nº 38/2015. Aprueba y oficializa 
+nómina para el undécimo proceso de clasificación de especies según su estado de 
+conservación. Santiago, Chile. Diario oficial. 04 de diciembre de 2015.
+Ministerio de Medio Ambiente. (2016). Decreto Supremo N.º 16/2016. Aprueba y oficializa 
+nómina para el duodécimo proceso de clasificación de especies según su estado de 
+conservación. Santiago, Chile. Diario oficial. 30 de septiembre de 2016.
+Ministerio de Medio Ambiente. (2017). Decreto Supremo N.º 6/2017. Aprueba y oficializa 
+nómina para el décimo tercer proceso de clasificación de especies según su estado de 
+conservación. Santiago, Chile. Diario oficial. 02 de junio de 2017.
+Ministerio Medio Ambiente. (2018). Decreto Supremo N° 79/2018. Chile. Aprueba y oficializa 
+nómina para el décimo cuarto proceso de clasificación de especies según su estado de 
+conservación. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 
+19 de diciembre de 2018.
+Ministerio Medio Ambiente. (2019). Decreto Supremo N° 23/2019. Chile. Aprueba y oficializa 
+nómina para el décimo quinto proceso de clasificación de especies según su estado de 
+conservación. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 
+10 de julio de 2020.
+Ministerio Medio Ambiente. (2020). Decreto Supremo N° 16/2020. Chile. Aprueba y oficializa 
+nómina para el décimo sexto proceso de clasificación de especies según su estado de 
+conservación. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 
+27 de octubre de 2020.
+Ministerio Medio Ambiente. (2021). Decreto Supremo N° 44/2021. Chile. Aprueba y oficializa 
+nómina para el décimo sexto proceso de clasificación de especies según su estado de 
+conservación. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 
+12 de octubre de 2021.
+Ministerio Medio Ambiente. (2021). Decreto Supremo N° 44/2021. Chile. Aprueba y oficializa 
+nómina para el décimo séptimo proceso de clasificación de especies según su estado de 
+conservación. Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 
+30 de diciembre de 2021.O'Connor R.J. & Hicks R.K. (1980).  The influence of weather 
+conditions on the detection of birds during Common Birds Census fieldwork, Bird Study, 27:3, 
+137-151.
+
+===== p.52 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 53 de 54
+Pliscoff, P.; Uribe, D., 2020. Informe Proyecto ARClim: Biodiversidad. Centro de Cambio 
+Global UC coordinado por Centro de Ciencia del Clima y la Resiliencia y Centro de Cambio 
+Global UC para el Ministerio del Medio Ambiente a través de La Deutsche Gesellschaft für 
+Internationale Zusammenarbeit (GIZ). Santiago.
+SEA, 2023. Guía metodológica para la consideración del cambio climático en el SEIA. 
+Primera edición, Santiago, Chile.
+Servicio Agrícola y Ganadero. (2015). Guía para la evaluación del impacto ambiental de 
+proyectos eólicos y de líneas de transmisión eléctrica en aves silvestres y murciélagos. 
+Primera edición. Ministerio de Agricultura. Santiago, Chile. 120 p. 
+Secretaria Regional Ministerial de Vivienda y Urbanismo. 2013. Estudio de actualización Plan 
+regulador Comunal de San Felipe. Informe Ambiental. Valparaíso. 
+
+===== p.53 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - 
+CMGIR
+Informe de monitoreo de fauna terrestre – años 2024 y 2025
+Av. Providencia 1208 of 1603
+Providencia, Santiago
+contacto@geoverde.cl
+Página 54 de 54
+8.
+ANEXOS
+ANEXO 1 LISTADO DE PROFESIONALES
+ANEXO 2 FAUNA POTENCIAL
+ANEXO 3 REGISTROS FOTOGRÁFICOS
+ANEXO 4 BASE DE DATOS
+ANEXO 5 PLANILLA DARWIN CORE
+A
+15x
+7x
+15x

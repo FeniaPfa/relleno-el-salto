@@ -1,0 +1,3012 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+Documento Preparado por:
+Mayo 2026
+
+===== p.1 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+i
+ÍNDICE
+1.
+ESTIMACIÓN Y PROYECCIÓN DE LA GENERACIÓN DE BIOGÁS........................................1
+1.1.
+ESTIMACIÓN TEÓRICA DE LA PRODUCCIÓN DE BIOGÁS.................................................1
+1.2.
+MODELO ESTEQUIOMÉTRICO.........................................................................................2
+1.2.1.
+Determinación Fracción biodegradable de los residuos sólidos....................................3
+1.2.2.
+Determinación en peso de Carbono, Hidrógeno, Oxígeno y Nitrógeno presente en los 
+componentes de los residuos.........................................................................................4
+1.2.3.
+Determinación de la composición molar de los residuos...............................................5
+1.2.4.
+Estimación de la cantidad de gas que puede derivarse de los constituyentes orgánicos 
+en los residuos sólidos urbanos......................................................................................5
+1.2.5.
+Tasa de generación de metano.......................................................................................6
+1.3.
+TASA DE GENERACIÓN DEL BIOGÁS...............................................................................8
+1.3.1.
+Modelo LandGEM...........................................................................................................8
+ANEXO
+ANEXO 01 PLANILLAS MODELACIONES REALIZADAS LANDGEM
+
+===== p.2 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+1. ESTIMACIÓN Y PROYECCIÓN DE LA GENERACIÓN DE BIOGÁS
+Para la estimación de la generación y proyección de biogás del proyecto, se ha utilizado la tasa de 
+disposición proyectada de residuos en el sitio de disposición final.
+Para el desarrollo de la estimación de la generación de biogás del sitio de disposición final 
+proyectado, se utiliza el modelo de generación teórica Landgem 3.02 de la USEPA, para un horizonte 
+de 70 años.
+1.1.
+ESTIMACIÓN TEÓRICA DE LA PRODUCCIÓN DE BIOGÁS
+De acuerdo a los antecedentes disponibles y a las metodologías existentes, se ha seleccionado el 
+modelo estequimétrico para la estimación del potencial de generación de biogás, y el modelo 
+LandGem para el cálculo de la generación de biogás en el relleno sanitario.
+Es importante señalar, que la metodología y el modelo usados son predictivos, por lo cual, los 
+resultados de potencia y de generación de biogás deben ser usados con prudencia, ya que la 
+cantidad real de biogás que produce una instalación de disposición final de residuos sólidos, solo es 
+posible determinarla en base a mediciones de campo durante un tiempo prolongado. 
+Otro punto a considerar, dentro del cálculo del potencial de generación y estimación de generación 
+de biogás en el tiempo, es la caracterización de los residuos que depositarán en el futuro proyecto. 
+Para la presente proyección de biogás, se utilizará la composición de los residuos realizada en 
+diciembre 2023. 
+La caracterización se realizó como parte del “ESTUDIO DE CARACTERIZACIÓN DE LOS RESIDUOS 
+SÓLIDOS DOMICILIARIOS Y ASIMILABLES GENERADOS A NIVEL MUNICIPAL EN CHILE”, a cargo del 
+NBC PUCV. Las muestras correspondieron a las provincias de Valparaíso, Marga Marga, Quillota y 
+San Antonio. 
+En la siguiente tabla se presenta la caracterización utilizada.
+
+===== p.3 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+Tabla 1.
+Resultados Caracterización
+Componente 
+% en Peso
+Resto de comida
+39,829%
+Restos de poda
+6,410%
+Otros orgánicos
+4,255%
+Huesos
+0,322%
+Papel
+2,910%
+Cartón
+5,968%
+Pañales y celulosa
+12,223%
+Madera y otros
+0,832%
+Textil
+5,113%
+Cueros
+0,000%
+Plásticos
+12,024%
+Gomas
+0,086%
+Vidrios
+4,740%
+Metales
+2,301%
+ Otros
+2,986%
+Total
+100,00%
+1.2.
+MODELO ESTEQUIOMÉTRICO
+El modelo estequiométrico, se basa en la transformación química que sufren los residuos sólidos, 
+durante la degradación anaerobia, determinando el potencial máximo teórico de producción de 
+biogás, que proviene de la fracción biodegradable de los residuos sólidos.
+La  composición  del  biogás  a  través  del  tiempo  depende  de  varios  factores,  tales  como  la 
+composición de los residuos, la edad, contenido de humedad y compactabilidad de los residuos y el 
+tamaño, temperatura, estabilidad del sitio de disposición final, además de la alcalinidad de los 
+líquidos producidos.
+Se consideran que los compuestos orgánicos encontrados en los residuos sólidos domiciliarios (salvo 
+los plásticos) se representan por CaHbOcNd, de esta forma, se puede estimar el volumen del gas 
+suponiendo una combustión completa de la materia orgánica biodegradable. 
+A continuación, se muestra la ecuación simplificada del método:
+CaHbOcNd + (4 a−b−2c+3d
+4
+) H2O
+( 4 a−b+2c+3d
+8
+) CO2 + (4 a+b−2c−3d
+8
+) CH4 + ΘNH3
+Donde:
+C = Representa al Carbono.
+
+===== p.4 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+H = Representa al Hidrógeno.
+O = Representa al Oxígeno.
+N = Representa al Nitrógeno.
+a, b, c, d = Son los coeficientes estequiométricos que dependen de la composición de los residuos.
+La ecuacion anterior fue desarrollada años atrás para la materia orgánica y usada para los residuos 
+sólidos por Frerotte et al 1982; Hoeks 1983; Ham and Barlaz 1987; Tchobanoglous 1994, y otros. 
+(C.E.E. 1992)
+1.2.1.
+Determinación Fracción biodegradable de los residuos sólidos 
+Para determinar la fracción biodegradable (BF) de los residuos, se ha utilizado la ecuación propuesta 
+por G. Tchobanoglous (1994), en la cual se considera el contenido de lignina de los residuos. 
+A continuación, se muestra la ecuación para el cálculo de la fracción biodegradable:
+BF = 0,83 – 0,028 LC
+Donde:
+BF = fracción biodegradable expresada en base al contenido de sólidos volátiles
+LC = contenido de lignina de los sólidos volátiles
+0,83 y 0,028= constantes empíricas
+La composición de los residuos se entrega en la tabla siguiente:
+Tabla 2.
+Composición de los residuos sólidos
+Componente
+Clasificación 
+(1)
+Composició
+n (%)
+Peso 
+Húmedo 
+(Kg) (2)
+Humedad 
+(%) (3)
+Peso Seco 
+(Kg)
+Fracción 
+Biodegradable 
+(%)
+Peso Seco 
+Biodegradable
+(Kg)
+Restos de comida
+rd
+39,829
+398,29
+72,58 (4)
+109,21
+98,00
+107,03
+Restos de poda
+md
+6,410
+64,10
+40,00
+38,46
+72,00
+27,69
+Otros orgánicos
+md
+4,255
+42,55
+40,00
+25,53
+73,00
+18,64
+ Papel
+md
+2,910
+29,10
+10,92 (4)
+25,92
+58,50
+15,16
+ Cartón
+md
+5,968
+59,68
+10,92(4)
+53,16
+47,00
+24,99
+Pañales y celulosa
+md
+12,223
+122,23
+16,55 (4)
+102,00
+22,00
+22,44
+Madera y otros
+md
+1,154
+11,54
+21,00
+9,12
+22,00
+2,01
+ Textil
+md
+5,113
+51,13
+29,90 (4)
+35,84
+22,00
+7,89
+Cueros
+md
+0,000
+0,00
+12,00
+0,00
+1,00
+0,00
+Plásticos
+nd
+12,024
+120,24
+0,00
+120,24
+---
+Gomas
+nd
+0,086
+0,86
+0,00
+0,86
+Vidrios
+nd
+4,740
+47,40
+0,00
+47,40
+---
+Metales
+nd
+2,301
+23,01
+0,00
+23,01
+---
+ Otros
+nd
+2,986
+29,86
+0,00
+29,86
+---
+(1) rd: rápida degradabilidad       md: media degradabilidad     nd: nula degradabilidad
+(2) Se considera una muestra de 1000 kg.
+(3) Las humedades de los distintos componentes de los residuos fueron tomadas de (Tchobanoglous 
+George, 1994) 
+
+===== p.5 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+(4) Humedades medidas en ESTUDIO DE CARACTERIZACIÓN DE LOS RESIDUOS SÓLIDOS DOMICILIARIOS Y 
+ASIMILABLES GENERADOS A NIVEL MUNICIPAL EN CHILE
+De acuerdo con la tabla anterior, una muestra de 100 kg húmedos contiene aproximadamente 22 kg 
+de material biodegradable. 
+1.2.2.
+Determinación en peso de Carbono, Hidrógeno, Oxígeno y Nitrógeno presente en los 
+componentes de los residuos.
+La composición en porcentaje del peso seco del carbono, oxígeno, hidrógeno y nitrógeno, en los 
+componentes biodegradables de los residuos sólidos, se muestran en la siguiente tabla:
+Tabla 3.
+Composición en porcentaje de carbono, hidrogeno, oxígeno y nitrógeno de los 
+residuos sólidos
+Componente de los 
+residuos
+ Porcentaje del peso seco 
+C
+H
+O
+N
+ Residuos de comida
+48,00
+6,40
+37,60
+2,60
+ Desechos de jardín
+48,00
+6,00
+38,00
+3,40
+ Papel
+43,50
+6,00
+44,00
+0,30
+ Cartón
+44,00
+5,90
+44,60
+0,30
+Textiles
+55,00
+6,60
+31,20
+4,60
+Cuero
+60,00
+8,00
+11,60
+10,00
+ Madera
+49,50
+6,00
+42,70
+0,20
+Fuente: Tchobanoglous George (1994).
+Considerando los porcentajes de Carbono, Hidrógeno, Oxígeno y Nitrógeno y tomando como base 
+los valores en peso seco de los componentes de los residuos se obtiene la composición en 
+kilogramos de cada componente para la muestra escogida.
+Tabla 4.
+Composición en Kg de carbono, hidrógeno y nitrógeno de la muestra escogida
+Componente
+De los residuos
+Composición (kg.)
+Peso seco 
+(kg.)
+C
+H
+O
+N
+Constituyentes orgánicos rápidamente descomponibles
+Residuos de comida
+107,03
+51,37
+6,85
+40,24
+2,78
+Total
+107,03
+51,37
+6,85
+40,24
+2,78
+Constituyentes orgánicos moderadamente descomponibles
+Desechos de jardín
+27,69
+13,29
+1,66
+10,52
+0,94
+Papel
+15,16
+6,60
+0,91
+6,67
+0,05
+Cartón
+24,99
+10,99
+1,47
+11,14
+0,07
+Textiles
+7,89
+4,34
+0,52
+2,46
+0,36
+Cuero
+0,00
+0,00
+0,00
+0,00
+0,00
+Madera
+22,44
+11,11
+1,35
+9,58
+0,04
+Total
+98,17
+46,33
+5,91
+40,38
+1,47
+
+===== p.6 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+1.2.3.
+Determinación de la composición molar de los residuos. 
+A  partir de los valores totales encontrados para cada elemento (C, H, O, N), para los distintos 
+componentes de los residuos sólidos, se calcula la composición molar con la relación mol nitrógeno 
+= 1 de los constituyentes rápidamente y moderadamente degradables, como se muestra en las 
+siguientes tablas:
+Tabla 5.
+Composición molar de los constituyentes rápidamente degradables de los 
+residuos sólidos
+Residuos Rápidamente Degradable (RRD)
+Elemento
+C
+H
+O
+N
+Kg por ton Húmeda
+51,37
+6,85
+40,24
+2,78
+Composición normalizada
+54,31
+7,24
+42,54
+2,94
+g/mol
+12,00
+1,00
+16,00
+14,00
+Moles
+4,53
+7,24
+2,66
+0,21
+Composición normalizada con la relación mol nitrógeno = 1
+22
+34
+13
+1,00
+Tabla 6.
+Composición molar de los constituyentes moderadamente degradables de los 
+residuos sólidos
+Residuos Moderadamente Degradables (RMD)
+Elemento
+C
+H
+O
+N
+Kg por ton Húmeda 
+46,33
+5,91
+40,38
+1,47
+Composición normalizada
+48,34
+6,17
+42,13
+1,53
+g/mol
+12,00
+1,00
+16,00
+14,00
+Moles
+4,03
+6,17
+2,63
+0,11
+Composición normalizada con la relación mol nitrógeno = 1 
+37
+56
+24
+1
+Como ya se mencionó, en la fórmula generalizada característica de los residuos se representa por 
+CaHbOcNd, por lo cual se obtienen las fórmulas químicas de las fracciones de rápida y mediana 
+degradación:
+–
+residuos rápidamente degradables: C22  H34 O13 N
+–
+residuos moderadamente degradables: C37 H56  O24 N
+1.2.4.
+Estimación de la cantidad de gas que puede derivarse de los constituyentes orgánicos en 
+los residuos sólidos urbanos
+Utilizando la Ecuación simplifica del método estequiométrico, que a continuación se muestra: 
+CaHbOcNd + ((4a-b-2c+3d)/4) x H2O --> ((4a+b-2c-3d)/8/) x CH4+((4a-b+2c+3d)/8) x CO2 + dNH3
+Se obtienen los volúmenes de los gases metano, dióxido de carbono y amoníaco de las fracciones 
+rápidamente y moderadamente degradables, a una temperatura de 20ºC y presión de 1 atm.
+Los valores encontrados representan el volumen de biogás que estaría generando 1 Kg. de residuo 
+biodegradable seco del tipo de rápida y moderada degradación y que corresponde a 1,06 m 3/Kg. y 
+1,01 m3/Kg. respectivamente, durante todo el período de degradación.
+
+===== p.7 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+De manera de conocer cuánto biogás se genera al depositar una tonelada de residuo tal cual llega al 
+relleno es necesario multiplicar los kilos presentes de cada uno de estos elementos por su 
+producción potencial.  
+Tabla 7.
+Estimaciones del potencial de generación de biogás a partir de los constituyentes 
+orgánicos en los residuos
+Tipo de residuo
+Kg de MOD 
+por ton 
+residuos
+(kg/ton)
+m3 de CH4 por 
+kg de MOD
+(m3/kg)
+m3 de CO2 
+por kg de 
+MOD
+(m3/kg)
+m3 CH4 por 
+ton residuos
+(m3/ton)
+m3 CO2 por 
+ton residuos
+(m3/ton)
+m3 biogás 
+por ton 
+residuos
+(m3/ton)
+RRD
+107,03
+0,54
+0,47
+58,2
+50,5
+108,7
+RMD
+118,81
+0,51
+0,48
+60,6
+56,5
+117,1
+ 
+ Total
+118,9
+107,0
+225,9
+Entonces haciendo uso de los valores entregados en la tabla anterior, respecto del porcentaje en 
+pesos seco de las fracciones de rápida y moderada degradabilidad, se tiene que una tonelada de 
+residuos húmedos de la región produciría
+La tabla siguiente muestra los porcentajes y potencial de generación correspondiente:
+Tabla 8.
+Porcentaje y potencial de generación de biogás separado por componentes 
+principales de acuerdo al modelo estequiométrico
+Metano 
+52,6 %
+118,9 m3/ton
+Dióxido de Carbono
+47,4 %
+107,0 m3/ton
+A efectos de conservar un resguardo por las incertezas propias de la estimación teórica, se ha optado 
+por utilizar un rango variable en los parámetros considerados, considerando un valor conservado 
+para Lo de 120±10 m3CH/ton residuo.
+1.2.5.
+Tasa de generación de metano 
+La tasa de generación de metano (k), determina la tasa de generación de metano para la masa de 
+residuos en el relleno sanitario. Cuanto mayor sea el valor de k, más rápido aumenta la tasa de 
+generación de metano y luego se descompone con el tiempo. El valor de k es principalmente una 
+función de cuatro factores: 
+• Contenido de humedad de la masa de desechos
+• Disponibilidad de los nutrientes para microorganismos que descomponen los residuos para formar 
+metano y dióxido de carbono. 
+• Ph de la masa de desechos.
+• Temperatura de la masa de desecho. 
+El valor k, tal como se utiliza en la ecuación de tasa de descomposición de primer orden, está en 
+unidades de 1/año o año-1. Los valores de utilizados por EPA se muestran en la tabla siguiente. El 
+
+===== p.8 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+valor k predeterminado es el valor de la Ley de Aire Limpio (CAA), k para rellenos sanitarios 
+convencionales.
+Tabla 9.
+Valores para la tasa de generación de metano (k).
+Fuente Información:
+EPA United States Environmental Protection Agency
+www.epa.gov
+En la siguiente expresión, se presenta el cálculo de la tasa de generación de metano (k).
+Para  obtener  el  valor  k  de  cada  categoría  de  degradación  de  residuos  muy  rápida  (RD), 
+moderadamente rápida (MRD), moderadamente lenta (MLD), y muy lenta (LD), se utilizaron los 
+valores establecidos en el Modelo Mexicano de Biogás Versión 2.0 son: RD k=0.10, MRD k=0.05, MLD 
+k=0.02, LD k=0.01. 
+k ponderada=∑
+i=1
+n
+%ri x vp
+Donde:
+%ri:  es el porcentaje de residuos en cada categoría.
+vp: es valor de k predeterminado por el Modelo Mexicano de Biogás Versión 2.0 en cada una de las 
+categorías de degradación.
+El valor de k se obtiene a partir de la composición de los residuos presentada en el punto 1.2.1 y en la 
+siguiente tabla se presenta el resultado.
+
+===== p.9 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+Componente
+Clasificación
+Composición (%)
+Factor k por 
+categoría (*)
+Factor k 
+ponderado
+Resto de comida
+RD
+39,829%
+0,10
+0,03983
+Restos de poda
+MRD
+6,410%
+0,05
+0,00321
+Otros orgánicos
+RD
+4,255%
+0,10
+0,00426
+Huesos
+LD
+0,322%
+0,01
+0,00003
+Papel
+MLD
+2,910%
+0,02
+0,00058
+Cartón
+MLD
+5,968%
+0,02
+0,00119
+Pañales y celulosa
+RD
+12,223%
+0,10
+0,01222
+Madera y otros
+LD
+0,832%
+0,01
+0,00008
+Textil
+MLD
+5,113%
+0,02
+0,00102
+Cueros
+MLD
+0,000%
+0,02
+0,00000
+Plásticos
+LD
+12,024%
+0,01
+0,00120
+Gomas
+LD
+0,086%
+0,01
+0,00001
+Vidrios
+LD
+4,740%
+0,01
+0,00047
+Metales
+LD
+2,301%
+0,01
+0,00023
+Otros
+LD
+2,986%
+0,01
+0,00030
+k
+0,0646
+Por lo que para la estimación de biogás se considera el valor convencional de k =0,06±0,01 (año-1).
+1.3.
+TASA DE GENERACIÓN DEL BIOGÁS
+Una vez determinado el potencial teórico de generación de biogás por tonelada húmeda de 
+residuos, el siguiente paso es determinar la tasa de generación de este volumen y su evolución en el 
+tiempo.
+1.3.1.
+Modelo LandGEM
+El modelo LandGEM (Landfill Gas Emissions Model) fue desarrollado por la Agencia de Protección 
+Ambiental de los Estados Unidos (U.S. EPA) y se basa en una ecuación de tasa de descomposición de 
+primer orden para cuantificar las emisiones producto de la descomposición de los residuos 
+dispuestos en un relleno sanitario de residuos sólidos domiciliarios. Este modelo es el utilizado y 
+exigido hoy en día por las autoridades de los Estados Unidos para la evaluación de las potenciales 
+tasas de emisión para un total de gases de un relleno sanitario, metano, dióxido de carbono, 
+compuestos orgánicos no metánicos y otros contaminantes del aire que pueden generar los rellenos 
+sanitarios, de acuerdo a lo estipulado en el Acta de Aire Limpio (Clean Air Act- CAA).
+Se considera al modelo como una herramienta de visualización, es decir, mejores entradas al 
+modelo, mejores estimaciones. Usualmente hay limitaciones con respecto a los datos disponibles de 
+cantidad y composición de los residuos, variaciones en el diseño y prácticas operativas en el tiempo, 
+y cambios que pueden ocurrir en el tiempo que tienen impacto en el potencial de emisiones. 
+Cambios  en  el  relleno  sanitario,  como  la  operación  bajo  condiciones  húmedas  mediante 
+
+===== p.10 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+recirculación de líquidos lixiviados o adición de otro líquido, resultan en un aumento en la 
+generación de gas a una tasa mayor. 
+El modelo se genera en base a datos empíricos de diversos rellenos sanitarios convencionales de los 
+Estados Unidos, es decir, sin la adición de lixiviados u otro líquido.
+El modelo LandGEM utiliza la siguiente ecuación de primer orden de tasa de descomposición de 
+residuos para estimar las emisiones anuales en un periodo de tiempo especificado por el usuario.
+QCH 4=∑
+i=1
+n
+∑
+j=0,1
+1
+kL0(
+M i
+10)e
+−ktij
+Donde
+QCH4 = generación anual de metano en el año de cálculo (m3/año)
+i = 1 año de incremento
+j = 0,1 año de incremento
+n = (año de cálculo)-(año inicial de recepción de residuos)
+k = tasa de generación de metano (año-1)
+L0 = capacidad potencial de generación de metano (m3/Mg)
+Mi = masa de residuos aceptados el año i-ésimo (Mg)
+tij = edad de la sección j-ésima de la masa de residuos Mi recepcionada el año i-ésimo.
+Para el cálculo de emisiones de acuerdo a este modelo, se utilizaron las constantes de capacidad 
+potencial de generación de metano (L0) calculadas mediante el modelo estequiométrico, detallada 
+anteriormente, la tasa constante de generación de metano (k), que describe la velocidad la tasa de 
+generación decrece una vez alcanzada la tasa máxima. Se asume que la tasa de generación de 
+metano alcanza su máximo una vez el cierre del relleno sanitario o la disposición final de residuos en 
+el lugar, manteniendo las mismas condiciones de temperatura y humedad en el relleno, y la variable 
+de masa de residuos recibida (Mi) estimada.
+Los parámetros constantes de entrada para el modelo son presentados en las siguientes tablas.
+Tabla 10.
+Valores de entrada al modelo
+Parámetro
+Valor
+Variación ±
+Unidad
+Descripción
+k
+0,06
+0,01
+año-1
+Valor calculado según indicaciones EPA para 
+rellenos convencionales
+Lo
+120
+10
+m3CH4/ton 
+residuos
+Valor calculado en base a la composición de los 
+residuos
+
+===== p.11 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+1.3.1.1
+Tasa de generación 
+Tabla 11.
+Cantidad de Residuos
+Año de 
+operación
+Ingreso 
+Residuos 
+(ton/año)
+RSD 
+Acumulado 
+(Ton)
+Año de 
+operación
+Ingreso 
+Residuos 
+(ton/año)
+RSD 
+Acumulado 
+(Ton)
+1
+900.000
+900.000
+14
+1.240.660
+14.867.058
+2
+922.500
+1.822.500
+15
+1.271.676
+16.138.734
+3
+945.563
+2.768.063
+16
+1.303.468
+17.442.202
+4
+969.202
+3.737.264
+17
+1.336.055
+18.778.257
+5
+993.432
+4.730.696
+18
+1.369.456
+20.147.714
+6
+1.018.267
+5.748.963
+19
+1.403.693
+21.551.407
+7
+1.043.724
+6.792.687
+20
+1.438.785
+22.990.192
+8
+1.069.817
+7.862.504
+21
+1.474.755
+24.464.947
+9
+1.096.563
+8.959.067
+22
+1.511.624
+25.976.570
+10
+1.123.977
+10.083.044
+23
+1.549.414
+27.525.985
+11
+1.152.076
+11.235.120
+24
+1.588.150
+29.114.134
+12
+1.180.878
+12.415.998
+25
+1.627.853
+30.741.988
+13
+1.210.400
+13.626.398
+1.3.1.1.1
+Resultados
+La proyección de generación total de biogás calculada por el modelo fue la siguiente:
+0
+8000
+16000
+24000
+32000
+40000
+48000
+56000
+64000
+72000
+80000
+88000
+96000
+0
+20.000.000
+40.000.000
+60.000.000
+80.000.000
+100.000.000
+120.000.000
+140.000.000
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+ton/año
+m3/año
+Generación de Metano (CH4)
+Metano (m3/año)
+Variacion (+)
+Variacion (-)
+Figura 1.
+Resultado de generación total de metano, expresadas en m3/año y en ton/año
+
+===== p.12 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+0
+50000
+100000
+150000
+200000
+250000
+300000
+350000
+400000
+0
+50.000.000
+100.000.000
+150.000.000
+200.000.000
+250.000.000
+300.000.000
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+ton/año
+m3/año
+Generación de Biogás (CH4 + CO2)
+Total Biogas (m3/año)
+Variacion (+)
+Variacion (-)
+Figura 2.
+Resultado de generación total de biogás, expresadas en m3/año y ton/año
+1.3.1.1.2
+Conclusiones y recomendaciones
+Dada la certeza de los antecedentes disponibles acerca de las condiciones futuras de operación del 
+relleno sanitario, en relación con la composición de los residuos sólidos que serán depositados, se 
+han escogidos al escenario base (Lo=120; K=0,06), dos escenarios adicionales, uno por debajo 
+(Lo=110; K=0,05) y otro superior (Lo=130; K=0,07), para las estimaciones de generación y captación 
+de biogás.
+Los caudales de biogás generados requerirán en una primera etapa de ventilación pasiva de los 
+gases mediante la habilitación de chimeneas.
+
+===== p.13 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12
+1.3.1.1.3
+Resultados del modelo tabulados
+1.3.1.1.3.1
+Resultados Escenario Base (Lo=120; K=0,06)
+k=
+0,06 1/año
+Lo=
+120,00 m3CH4/tonRes
+Año
+Ingreso 
+Residuos 
+(ton/año)
+RSU 
+Acumulado 
+(Ton)
+(ton/año)
+(m3/año)
+(ton/año)
+(m3/año)
+(ton/año)
+(m3/año)
+Total Biogas 
+Capturado 
+(m3/año)
+Total Biogas 
+Capturado 
+(m3/hora)
+Metano 
+Captado 
+(m3/hora)
+CO2e 
+Destruido 
+(ton/año)
+1
+900.000
+900.000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+922.500
+1.822.500
+15.477
+11.266.862
+4.134
+5.633.431
+11.343
+5.633.431
+5.633.431
+643
+322
+6.752
+3
+945.563
+2.768.063
+30.412
+22.138.808
+8.123
+11.069.404
+22.289
+11.069.404
+11.069.404
+1.264
+632
+13.268
+4
+969.202
+3.737.264
+44.847
+32.646.595
+11.979
+16.323.297
+32.868
+16.323.297
+16.323.297
+1.863
+932
+19.566
+5
+993.432
+4.730.696
+58.821
+42.819.458
+15.712
+21.409.729
+43.110
+21.409.729
+21.409.729
+2.444
+1.222
+25.662
+6
+1.018.267
+5.748.963
+72.374
+52.685.208
+19.332
+26.342.604
+53.042
+26.342.604
+26.342.604
+3.007
+1.504
+31.575
+7
+1.043.724
+6.792.687
+85.541
+62.270.326
+22.849
+31.135.163
+62.692
+31.135.163
+31.135.163
+3.554
+1.777
+37.320
+8
+1.069.817
+7.862.504
+98.357
+71.600.049
+26.272
+35.800.025
+72.085
+35.800.025
+35.800.025
+4.087
+2.043
+42.911
+9
+1.096.563
+8.959.067
+110.856
+80.698.461
+29.611
+40.349.230
+81.245
+40.349.230
+40.349.230
+4.606
+2.303
+48.364
+10
+1.123.977
+10.083.044
+123.068
+89.588.565
+32.873
+44.794.282
+90.195
+44.794.282
+44.794.282
+5.114
+2.557
+53.692
+11
+1.152.076
+11.235.120
+135.025
+98.292.363
+36.067
+49.146.182
+98.958
+49.146.182
+49.146.182
+5.610
+2.805
+58.908
+12
+1.180.878
+12.415.998
+146.754
+106.830.928
+39.200
+53.415.464
+107.555
+53.415.464
+53.415.464
+6.098
+3.049
+64.025
+13
+1.210.400
+13.626.398
+158.285
+115.224.470
+42.280
+57.612.235
+116.005
+57.612.235
+57.612.235
+6.577
+3.288
+69.056
+14
+1.240.660
+14.867.058
+169.642
+123.492.402
+45.313
+61.746.201
+124.329
+61.746.201
+61.746.201
+7.049
+3.524
+74.011
+15
+1.271.676
+16.138.734
+180.853
+131.653.402
+48.308
+65.826.701
+132.545
+65.826.701
+65.826.701
+7.514
+3.757
+78.902
+16
+1.303.468
+17.442.202
+191.942
+139.725.473
+51.270
+69.862.736
+140.672
+69.862.736
+69.862.736
+7.975
+3.988
+83.740
+17
+1.336.055
+18.778.257
+202.932
+147.725.994
+54.205
+73.862.997
+148.727
+73.862.997
+73.862.997
+8.432
+4.216
+88.534
+18
+1.369.456
+20.147.714
+213.847
+155.671.782
+57.121
+77.835.891
+156.726
+77.835.891
+77.835.891
+8.885
+4.443
+93.296
+19
+1.403.693
+21.551.407
+224.710
+163.579.134
+60.022
+81.789.567
+164.687
+81.789.567
+81.789.567
+9.337
+4.668
+98.035
+20
+1.438.785
+22.990.192
+235.541
+171.463.885
+62.916
+85.731.942
+172.625
+85.731.942
+85.731.942
+9.787
+4.893
+102.761
+21
+1.474.755
+24.464.947
+246.362
+179.341.446
+65.806
+89.670.723
+180.556
+89.670.723
+89.670.723
+10.236
+5.118
+107.482
+22
+1.511.624
+25.976.570
+257.195
+187.226.859
+68.699
+93.613.430
+188.495
+93.613.430
+93.613.430
+10.686
+5.343
+112.208
+23
+1.549.414
+27.525.985
+268.058
+195.134.832
+71.601
+97.567.416
+196.457
+97.567.416
+97.567.416
+11.138
+5.569
+116.947
+24
+1.588.150
+29.114.134
+278.972
+203.079.786
+74.516
+101.539.893
+204.456
+101.539.893
+101.539.893
+11.591
+5.796
+121.709
+25
+1.627.853
+30.741.988
+289.956
+211.075.894
+77.450
+105.537.947
+212.506
+105.537.947
+105.537.947
+12.048
+6.024
+126.501
+26
+0
+30.741.988
+301.030
+219.137.122
+80.408
+109.568.561
+220.622
+109.568.561
+109.568.561
+12.508
+6.254
+131.332
+27
+0
+30.741.988
+283.499
+206.375.570
+75.726
+103.187.785
+207.774
+103.187.785
+103.187.785
+11.779
+5.890
+123.684
+28
+0
+30.741.988
+266.990
+194.357.192
+71.316
+97.178.596
+195.674
+97.178.596
+97.178.596
+11.093
+5.547
+116.481
+29
+0
+30.741.988
+251.441
+183.038.710
+67.163
+91.519.355
+184.279
+91.519.355
+91.519.355
+10.447
+5.224
+109.698
+30
+0
+30.741.988
+236.799
+172.379.366
+63.251
+86.189.683
+173.547
+86.189.683
+86.189.683
+9.839
+4.920
+103.310
+31
+0
+30.741.988
+223.008
+162.340.773
+59.568
+81.170.386
+163.441
+81.170.386
+81.170.386
+9.266
+4.633
+97.293
+32
+0
+30.741.988
+210.021
+152.886.782
+56.099
+76.443.391
+153.922
+76.443.391
+76.443.391
+8.726
+4.363
+91.627
+33
+0
+30.741.988
+197.791
+143.983.349
+52.832
+71.991.675
+144.959
+71.991.675
+71.991.675
+8.218
+4.109
+86.291
+34
+0
+30.741.988
+186.272
+135.598.412
+49.755
+67.799.206
+136.517
+67.799.206
+67.799.206
+7.740
+3.870
+81.266
+35
+0
+30.741.988
+175.425
+127.701.775
+46.858
+63.850.887
+128.567
+63.850.887
+63.850.887
+7.289
+3.644
+76.534
+36
+0
+30.741.988
+165.209
+120.265.002
+44.129
+60.132.501
+121.080
+60.132.501
+60.132.501
+6.864
+3.432
+72.077
+37
+0
+30.741.988
+155.588
+113.261.314
+41.559
+56.630.657
+114.029
+56.630.657
+56.630.657
+6.465
+3.232
+67.879
+38
+0
+30.741.988
+146.527
+106.665.489
+39.139
+53.332.744
+107.388
+53.332.744
+53.332.744
+6.088
+3.044
+63.926
+39
+0
+30.741.988
+137.994
+100.453.774
+36.860
+50.226.887
+101.134
+50.226.887
+50.226.887
+5.734
+2.867
+60.203
+40
+0
+30.741.988
+129.958
+94.603.802
+34.713
+47.301.901
+95.245
+47.301.901
+47.301.901
+5.400
+2.700
+56.697
+41
+0
+30.741.988
+122.390
+89.094.505
+32.692
+44.547.253
+89.698
+44.547.253
+44.547.253
+5.085
+2.543
+53.396
+42
+0
+30.741.988
+115.262
+83.906.045
+30.788
+41.953.023
+84.474
+41.953.023
+41.953.023
+4.789
+2.395
+50.286
+43
+0
+30.741.988
+108.550
+79.019.737
+28.995
+39.509.869
+79.555
+39.509.869
+39.509.869
+4.510
+2.255
+47.358
+44
+0
+30.741.988
+102.228
+74.417.986
+27.306
+37.208.993
+74.922
+37.208.993
+37.208.993
+4.248
+2.124
+44.600
+45
+0
+30.741.988
+96.275
+70.084.220
+25.716
+35.042.110
+70.559
+35.042.110
+35.042.110
+4.000
+2.000
+42.003
+46
+0
+30.741.988
+90.668
+66.002.833
+24.219
+33.001.416
+66.450
+33.001.416
+33.001.416
+3.767
+1.884
+39.556
+47
+0
+30.741.988
+85.388
+62.159.127
+22.808
+31.079.564
+62.580
+31.079.564
+31.079.564
+3.548
+1.774
+37.253
+48
+0
+30.741.988
+80.416
+58.539.261
+21.480
+29.269.631
+58.936
+29.269.631
+29.269.631
+3.341
+1.671
+35.083
+49
+0
+30.741.988
+75.733
+55.130.200
+20.229
+27.565.100
+55.504
+27.565.100
+27.565.100
+3.147
+1.573
+33.040
+Total Biogas
+Metano
+Dióxido de Carbono
+
+===== p.14 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13
+1.3.1.1.3.2
+Resultados Escenario Inferior (Lo=110; K=0,05)
+k=
+0,05 1/año
+Lo=
+110,00 m3CH4/tonRes
+Año
+Ingreso 
+Residuos 
+(ton/año)
+RSU 
+Acumulado 
+(Ton)
+(ton/año)
+(m3/año)
+(ton/año)
+(m3/año)
+(ton/año)
+(m3/año)
+Total Biogas 
+Captado 
+(m3/año)
+Total Biogas 
+Captado 
+(m3/hora)
+Metano 
+Captado 
+(m3/hora)
+CO2e 
+Destruido 
+(ton/año)
+1
+900.000
+900.000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+922.500
+1.822.500
+11.876
+8.645.056
+3.172
+4.322.528
+8.704
+4.322.528
+4.322.528
+493
+247
+5.181
+3
+945.563
+2.768.063
+23.448
+17.068.917
+6.263
+8.534.458
+17.185
+8.534.458
+8.534.458
+974
+487
+10.230
+4
+969.202
+3.737.264
+34.739
+25.288.325
+9.279
+12.644.162
+25.460
+12.644.162
+12.644.162
+1.443
+722
+15.156
+5
+993.432
+4.730.696
+45.771
+33.319.411
+12.226
+16.659.706
+33.545
+16.659.706
+16.659.706
+1.902
+951
+19.969
+6
+1.018.267
+5.748.963
+56.566
+41.177.734
+15.109
+20.588.867
+41.457
+20.588.867
+20.588.867
+2.350
+1.175
+24.678
+7
+1.043.724
+6.792.687
+67.144
+48.878.314
+17.935
+24.439.157
+49.209
+24.439.157
+24.439.157
+2.790
+1.395
+29.294
+8
+1.069.817
+7.862.504
+77.526
+56.435.670
+20.708
+28.217.835
+56.818
+28.217.835
+28.217.835
+3.221
+1.611
+33.823
+9
+1.096.563
+8.959.067
+87.730
+63.863.854
+23.434
+31.931.927
+64.296
+31.931.927
+31.931.927
+3.645
+1.823
+38.275
+10
+1.123.977
+10.083.044
+97.776
+71.176.481
+26.117
+35.588.240
+71.659
+35.588.240
+35.588.240
+4.063
+2.031
+42.657
+11
+1.152.076
+11.235.120
+107.680
+78.386.760
+28.763
+39.193.380
+78.918
+39.193.380
+39.193.380
+4.474
+2.237
+46.978
+12
+1.180.878
+12.415.998
+117.462
+85.507.527
+31.375
+42.753.763
+86.087
+42.753.763
+42.753.763
+4.881
+2.440
+51.246
+13
+1.210.400
+13.626.398
+127.138
+92.551.271
+33.960
+46.275.636
+93.178
+46.275.636
+46.275.636
+5.283
+2.641
+55.467
+14
+1.240.660
+14.867.058
+136.725
+99.530.165
+36.521
+49.765.083
+100.204
+49.765.083
+49.765.083
+5.681
+2.840
+59.650
+15
+1.271.676
+16.138.734
+146.239
+106.456.090
+39.062
+53.228.045
+107.177
+53.228.045
+53.228.045
+6.076
+3.038
+63.801
+16
+1.303.468
+17.442.202
+155.697
+113.340.665
+41.588
+56.670.332
+114.108
+56.670.332
+56.670.332
+6.469
+3.235
+67.927
+17
+1.336.055
+18.778.257
+165.113
+120.195.268
+44.103
+60.097.634
+121.010
+60.097.634
+60.097.634
+6.860
+3.430
+72.035
+18
+1.369.456
+20.147.714
+174.503
+127.031.066
+46.612
+63.515.533
+127.892
+63.515.533
+63.515.533
+7.251
+3.625
+76.132
+19
+1.403.693
+21.551.407
+183.883
+133.859.037
+49.117
+66.929.519
+134.766
+66.929.519
+66.929.519
+7.640
+3.820
+80.224
+20
+1.438.785
+22.990.192
+193.267
+140.689.994
+51.624
+70.344.997
+141.643
+70.344.997
+70.344.997
+8.030
+4.015
+84.318
+21
+1.474.755
+24.464.947
+202.669
+147.534.608
+54.135
+73.767.304
+148.534
+73.767.304
+73.767.304
+8.421
+4.210
+88.420
+22
+1.511.624
+25.976.570
+212.105
+154.403.431
+56.656
+77.201.716
+155.449
+77.201.716
+77.201.716
+8.813
+4.406
+92.536
+23
+1.549.414
+27.525.985
+221.588
+161.306.920
+59.189
+80.653.460
+162.400
+80.653.460
+80.653.460
+9.207
+4.604
+96.674
+24
+1.588.150
+29.114.134
+231.134
+168.255.458
+61.738
+84.127.729
+169.395
+84.127.729
+84.127.729
+9.604
+4.802
+100.838
+25
+1.627.853
+30.741.988
+240.755
+175.259.375
+64.308
+87.629.688
+176.447
+87.629.688
+87.629.688
+10.003
+5.002
+105.036
+26
+0
+30.741.988
+250.466
+182.328.972
+66.902
+91.164.486
+183.564
+91.164.486
+91.164.486
+10.407
+5.203
+109.273
+27
+0
+30.741.988
+238.251
+173.436.683
+63.639
+86.718.341
+174.612
+86.718.341
+86.718.341
+9.899
+4.950
+103.943
+28
+0
+30.741.988
+226.631
+164.978.076
+60.536
+82.489.038
+166.096
+82.489.038
+82.489.038
+9.417
+4.708
+98.874
+29
+0
+30.741.988
+215.578
+156.932.000
+57.583
+78.466.000
+157.995
+78.466.000
+78.466.000
+8.957
+4.479
+94.052
+30
+0
+30.741.988
+205.065
+149.278.336
+54.775
+74.639.168
+150.290
+74.639.168
+74.639.168
+8.520
+4.260
+89.465
+31
+0
+30.741.988
+195.063
+141.997.946
+52.104
+70.998.973
+142.960
+70.998.973
+70.998.973
+8.105
+4.052
+85.102
+32
+0
+30.741.988
+185.550
+135.072.624
+49.562
+67.536.312
+135.988
+67.536.312
+67.536.312
+7.710
+3.855
+80.951
+33
+0
+30.741.988
+176.501
+128.485.055
+47.145
+64.242.527
+129.355
+64.242.527
+64.242.527
+7.334
+3.667
+77.003
+34
+0
+30.741.988
+167.893
+122.218.765
+44.846
+61.109.382
+123.047
+61.109.382
+61.109.382
+6.976
+3.488
+73.248
+35
+0
+30.741.988
+159.704
+116.258.085
+42.659
+58.129.043
+117.046
+58.129.043
+58.129.043
+6.636
+3.318
+69.675
+36
+0
+30.741.988
+151.916
+110.588.112
+40.578
+55.294.056
+111.337
+55.294.056
+55.294.056
+6.312
+3.156
+66.277
+37
+0
+30.741.988
+144.507
+105.194.666
+38.599
+52.597.333
+105.907
+52.597.333
+52.597.333
+6.004
+3.002
+63.045
+38
+0
+30.741.988
+137.459
+100.064.261
+36.717
+50.032.131
+100.742
+50.032.131
+50.032.131
+5.711
+2.856
+59.970
+39
+0
+30.741.988
+130.755
+95.184.070
+34.926
+47.592.035
+95.829
+47.592.035
+47.592.035
+5.433
+2.716
+57.045
+40
+0
+30.741.988
+124.378
+90.541.888
+33.223
+45.270.944
+91.155
+45.270.944
+45.270.944
+5.168
+2.584
+54.263
+41
+0
+30.741.988
+118.312
+86.126.108
+31.602
+43.063.054
+86.710
+43.063.054
+43.063.054
+4.916
+2.458
+51.617
+42
+0
+30.741.988
+112.542
+81.925.688
+30.061
+40.962.844
+82.481
+40.962.844
+40.962.844
+4.676
+2.338
+49.099
+43
+0
+30.741.988
+107.053
+77.930.125
+28.595
+38.965.063
+78.458
+38.965.063
+38.965.063
+4.448
+2.224
+46.705
+44
+0
+30.741.988
+101.832
+74.129.428
+27.200
+37.064.714
+74.632
+37.064.714
+37.064.714
+4.231
+2.116
+44.427
+45
+0
+30.741.988
+96.866
+70.514.093
+25.874
+35.257.047
+70.992
+35.257.047
+35.257.047
+4.025
+2.012
+42.260
+46
+0
+30.741.988
+92.141
+67.075.080
+24.612
+33.537.540
+67.529
+33.537.540
+33.537.540
+3.828
+1.914
+40.199
+47
+0
+30.741.988
+87.648
+63.803.790
+23.412
+31.901.895
+64.236
+31.901.895
+31.901.895
+3.642
+1.821
+38.239
+48
+0
+30.741.988
+83.373
+60.692.042
+22.270
+30.346.021
+61.103
+30.346.021
+30.346.021
+3.464
+1.732
+36.374
+49
+0
+30.741.988
+79.307
+57.732.057
+21.184
+28.866.028
+58.123
+28.866.028
+28.866.028
+3.295
+1.648
+34.600
+Total Biogas
+Metano
+Dióxido de Carbono
+
+===== p.15 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14
+1.3.1.1.3.3
+Resultados Escenario Superior (Lo=130; K=0,07)
+k=
+0,07 1/año
+Lo=
+130,00 m3CH4/tonRes
+Año
+Ingreso 
+Residuos 
+(ton/año)
+RSU 
+Acumulado 
+(Ton)
+(ton/año)
+(m3/año)
+(ton/año)
+(m3/año)
+(ton/año)
+(m3/año)
+Total Biogas 
+Captado 
+(m3/año)
+Total Biogas 
+Captado 
+(m3/hora)
+Metano 
+Captado 
+(m3/hora)
+CO2e 
+Destruido 
+(ton/año)
+1
+900.000
+900.000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+922.500
+1.822.500
+19.475
+14.176.886
+5.202
+7.088.443
+14.273
+7.088.443
+7.088.443
+809
+405
+8.496
+3
+945.563
+2.768.063
+38.085
+27.724.007
+10.173
+13.862.004
+27.912
+13.862.004
+13.862.004
+1.582
+791
+16.615
+4
+969.202
+3.737.264
+55.901
+40.693.706
+14.932
+20.346.853
+40.969
+20.346.853
+20.346.853
+2.323
+1.161
+24.388
+5
+993.432
+4.730.696
+72.992
+53.135.119
+19.497
+26.567.559
+53.495
+26.567.559
+26.567.559
+3.033
+1.516
+31.845
+6
+1.018.267
+5.748.963
+89.421
+65.094.414
+23.885
+32.547.207
+65.535
+32.547.207
+32.547.207
+3.715
+1.858
+39.012
+7
+1.043.724
+6.792.687
+105.246
+76.615.000
+28.112
+38.307.500
+77.134
+38.307.500
+38.307.500
+4.373
+2.187
+45.917
+8
+1.069.817
+7.862.504
+120.526
+87.737.731
+32.194
+43.868.866
+88.332
+43.868.866
+43.868.866
+5.008
+2.504
+52.583
+9
+1.096.563
+8.959.067
+135.312
+98.501.092
+36.143
+49.250.546
+99.168
+49.250.546
+49.250.546
+5.622
+2.811
+59.033
+10
+1.123.977
+10.083.044
+149.653
+108.941.374
+39.974
+54.470.687
+109.679
+54.470.687
+54.470.687
+6.218
+3.109
+65.290
+11
+1.152.076
+11.235.120
+163.599
+119.092.841
+43.699
+59.546.420
+119.900
+59.546.420
+59.546.420
+6.798
+3.399
+71.374
+12
+1.180.878
+12.415.998
+177.191
+128.987.880
+47.330
+64.493.940
+129.862
+64.493.940
+64.493.940
+7.362
+3.681
+77.304
+13
+1.210.400
+13.626.398
+190.474
+138.657.151
+50.878
+69.328.575
+139.596
+69.328.575
+69.328.575
+7.914
+3.957
+83.099
+14
+1.240.660
+14.867.058
+203.487
+148.129.717
+54.353
+74.064.859
+149.133
+74.064.859
+74.064.859
+8.455
+4.227
+88.776
+15
+1.271.676
+16.138.734
+216.267
+157.433.175
+57.767
+78.716.588
+158.500
+78.716.588
+78.716.588
+8.986
+4.493
+94.352
+16
+1.303.468
+17.442.202
+228.851
+166.593.774
+61.129
+83.296.887
+167.722
+83.296.887
+83.296.887
+9.509
+4.754
+99.842
+17
+1.336.055
+18.778.257
+241.273
+175.636.525
+64.447
+87.818.262
+176.826
+87.818.262
+87.818.262
+10.025
+5.012
+105.262
+18
+1.369.456
+20.147.714
+253.566
+184.585.310
+67.730
+92.292.655
+185.836
+92.292.655
+92.292.655
+10.536
+5.268
+110.625
+19
+1.403.693
+21.551.407
+265.761
+193.462.980
+70.988
+96.731.490
+194.774
+96.731.490
+96.731.490
+11.042
+5.521
+115.945
+20
+1.438.785
+22.990.192
+277.889
+202.291.449
+74.227
+101.145.725
+203.662
+101.145.725
+101.145.725
+11.546
+5.773
+121.236
+21
+1.474.755
+24.464.947
+289.978
+211.091.782
+77.456
+105.545.891
+212.522
+105.545.891
+105.545.891
+12.049
+6.024
+126.510
+22
+1.511.624
+25.976.570
+302.056
+219.884.278
+80.682
+109.942.139
+221.374
+109.942.139
+109.942.139
+12.550
+6.275
+131.780
+23
+1.549.414
+27.525.985
+314.151
+228.688.549
+83.913
+114.344.275
+230.238
+114.344.275
+114.344.275
+13.053
+6.526
+137.056
+24
+1.588.150
+29.114.134
+326.288
+237.523.600
+87.155
+118.761.800
+239.133
+118.761.800
+118.761.800
+13.557
+6.779
+142.351
+25
+1.627.853
+30.741.988
+338.492
+246.407.893
+90.415
+123.203.947
+248.077
+123.203.947
+123.203.947
+14.064
+7.032
+147.676
+26
+0
+30.741.988
+350.789
+255.359.419
+93.699
+127.679.710
+257.089
+127.679.710
+127.679.710
+14.575
+7.288
+153.041
+27
+0
+30.741.988
+327.073
+238.095.545
+87.365
+119.047.772
+239.708
+119.047.772
+119.047.772
+13.590
+6.795
+142.694
+28
+0
+30.741.988
+304.961
+221.998.814
+81.458
+110.999.407
+223.503
+110.999.407
+110.999.407
+12.671
+6.336
+133.047
+29
+0
+30.741.988
+284.344
+206.990.322
+75.951
+103.495.161
+208.393
+103.495.161
+103.495.161
+11.815
+5.907
+124.052
+30
+0
+30.741.988
+265.120
+192.996.497
+70.817
+96.498.249
+194.304
+96.498.249
+96.498.249
+11.016
+5.508
+115.666
+31
+0
+30.741.988
+247.197
+179.948.742
+66.029
+89.974.371
+181.168
+89.974.371
+89.974.371
+10.271
+5.136
+107.846
+32
+0
+30.741.988
+230.485
+167.783.094
+61.565
+83.891.547
+168.920
+83.891.547
+83.891.547
+9.577
+4.788
+100.555
+33
+0
+30.741.988
+214.902
+156.439.920
+57.403
+78.219.960
+157.500
+78.219.960
+78.219.960
+8.929
+4.465
+93.757
+34
+0
+30.741.988
+200.374
+145.863.615
+53.522
+72.931.807
+146.852
+72.931.807
+72.931.807
+8.326
+4.163
+87.418
+35
+0
+30.741.988
+186.827
+136.002.333
+49.904
+68.001.167
+136.924
+68.001.167
+68.001.167
+7.763
+3.881
+81.508
+36
+0
+30.741.988
+174.197
+126.807.735
+46.530
+63.403.867
+127.667
+63.403.867
+63.403.867
+7.238
+3.619
+75.998
+37
+0
+30.741.988
+162.420
+118.234.748
+43.384
+59.117.374
+119.036
+59.117.374
+59.117.374
+6.749
+3.374
+70.860
+38
+0
+30.741.988
+151.439
+110.241.349
+40.451
+55.120.674
+110.988
+55.120.674
+55.120.674
+6.292
+3.146
+66.069
+39
+0
+30.741.988
+141.201
+102.788.352
+37.716
+51.394.176
+103.485
+51.394.176
+51.394.176
+5.867
+2.933
+61.603
+40
+0
+30.741.988
+131.655
+95.839.224
+35.166
+47.919.612
+96.488
+47.919.612
+47.919.612
+5.470
+2.735
+57.438
+41
+0
+30.741.988
+122.754
+89.359.900
+32.789
+44.679.950
+89.965
+44.679.950
+44.679.950
+5.100
+2.550
+53.555
+42
+0
+30.741.988
+114.455
+83.318.619
+30.572
+41.659.309
+83.883
+41.659.309
+41.659.309
+4.756
+2.378
+49.934
+43
+0
+30.741.988
+106.717
+77.685.765
+28.505
+38.842.883
+78.212
+38.842.883
+38.842.883
+4.434
+2.217
+46.558
+44
+0
+30.741.988
+99.503
+72.433.728
+26.578
+36.216.864
+72.924
+36.216.864
+36.216.864
+4.134
+2.067
+43.411
+45
+0
+30.741.988
+92.776
+67.536.760
+24.781
+33.768.380
+67.994
+33.768.380
+33.768.380
+3.855
+1.927
+40.476
+46
+0
+30.741.988
+86.503
+62.970.858
+23.106
+31.485.429
+63.397
+31.485.429
+31.485.429
+3.594
+1.797
+37.739
+47
+0
+30.741.988
+80.655
+58.713.638
+21.544
+29.356.819
+59.111
+29.356.819
+29.356.819
+3.351
+1.676
+35.188
+48
+0
+30.741.988
+75.202
+54.744.234
+20.087
+27.372.117
+55.115
+27.372.117
+27.372.117
+3.125
+1.562
+32.809
+49
+0
+30.741.988
+70.118
+51.043.185
+18.729
+25.521.593
+51.389
+25.521.593
+25.521.593
+2.913
+1.457
+30.591
+Total Biogas
+Metano
+Dióxido de Carbono
+
+===== p.16 =====
+ANEXO MODELACIÓN PROYECCIÓN DE BIOGÁS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 01 PLANILLAS MODELACIONES REALIZADAS LANDGEM

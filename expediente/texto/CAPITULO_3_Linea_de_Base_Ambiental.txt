@@ -1,6 +1,9 @@
-### PÁGINAS TOTALES: 5
 
-===== p.1 =====
+===== p.0 =====
+ 
+ 
+ 
+ 
 CENTRO METROPOLITANO  
 DE GESTIÓN INTEGRAL DE RESIDUOS 
  
@@ -17,15 +20,67 @@ Documento Preparado por:
  
  
  
-Junio 2026
+Junio 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-===== p.2 =====
+===== p.1 =====
 ÍNDICE 
  
 1. INTRODUCCIÓN .............................................................................................................................. 3 
-2. LÍNEAS DE BASE AMBIENTAL .......................................................................................................... 4
+2. LÍNEAS DE BASE AMBIENTAL .......................................................................................................... 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-===== p.3 =====
+===== p.2 =====
 1. INTRODUCCIÓN 
  
 En Consideración del Título III del “Reglamento del Sistema de Evaluación de Impacto Ambiental”, 
@@ -44,9 +99,38 @@ componentes del medio ambiente que se relacionan con el Proyecto “Centro Metro
 Gestión Integral de Residuos”, los cuales están estructurados, ordenados y desarrollados 
 considerando lo establecido en el Reglamento del Sistema de Evaluación de Impacto Ambiental, D.S. 
 N° 40/13 del MMA, en su artículo 18, letra e) que indica los contenidos mínimos de la línea de base 
-que debe considerar un Estudio de Impacto Ambiental.
+que debe considerar un Estudio de Impacto Ambiental.     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-===== p.4 =====
+===== p.3 =====
 2. LÍNEAS DE BASE AMBIENTAL 
  
 En la siguiente tabla se presentan las líneas de base que serán evaluadas ambientalmente 
@@ -120,9 +204,10 @@ Impacto Vial
 Estudio de Impacto Vial 
 3.19 
 Medio Humano 
-Línea de Base Medio Humano
+Línea de Base Medio Humano 
 
-===== p.5 =====
+===== p.4 =====
 3.20 
 Proyectos con RCA 
-Línea de Base Proyectos con RCA
+Línea de Base Proyectos con RCA 
+ 

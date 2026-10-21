@@ -1,0 +1,1967 @@
+
+===== p.0 =====
+Caracterizaci´on Hidrol´ogica
+Revisi´on B
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN 
+INTEGRAL DE RESIDUOS-CMGIR
+Desarrollado para:
+COSEMAR S.A
+Presentado: 29 de abril de 2026
+Autor:
+RIVERINE SPA
+contacto@riverine.cl
+
+===== p.1 =====
+´Indice
+1. Introducci´on
+2
+1.1. Aspectos Generales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+1.2. Objetivos
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+1.2.1.
+Objetivo general
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+1.2.2.
+Objetivos espec´ıficos . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+2. Hidrograf´ıa
+4
+2.1. Antecedentes y fuentes de informaci´on
+. . . . . . . . . . . . . . . . . . . .
+4
+2.2. Topograf´ıa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+2.3. Caracterizaci´on de cauces y cuerpos de agua . . . . . . . . . . . . . . . . .
+7
+2.3.1.
+Identificaci´on de cauces . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+2.3.2.
+Identificaci´on de cuerpos de agua . . . . . . . . . . . . . . . . . . .
+13
+2.4. Cobertura y vegetaci´on . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+2.5. Texturas y propiedades del suelo . . . . . . . . . . . . . . . . . . . . . . . .
+17
+2.6. Caracterizaci´on de cuencas en el ´area de estudio . . . . . . . . . . . . . . .
+20
+3. Hidrolog´ıa
+22
+3.1. Antecedentes y fuentes de informaci´on
+. . . . . . . . . . . . . . . . . . . .
+23
+3.2. Hidroclima hist´orico
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+3.2.1.
+Variabilidad estacional . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+3.2.2.
+Variabilidad interanual . . . . . . . . . . . . . . . . . . . . . . . . .
+30
+3.3. Hidroclima futuro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+3.4. Hidrometeorolog´ıa
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+35
+4. Calidad de Aguas
+38
+4.1. Marco Normativo Aplicable
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+4.2. Programa de Muestreo . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+4.3. Resultados del An´alisis de Laboratorio . . . . . . . . . . . . . . . . . . . .
+39
+5. Conclusiones
+42
+A. Ap´endice - Hidrolog´ıa
+47
+B. Ap´endice - Hidrograf´ıa
+47
+C. Ap´endice - Relleno de estad´ısticas
+47
+D. Ap´endice - Calidad del Agua
+48
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+1
+
+===== p.2 =====
+1.
+Introducci´on
+1.1.
+Aspectos Generales
+La empresa de gesti´on de residuos COSEMAR S.A ha encargado a Riverine SpA la elabo-
+raci´on de una l´ınea base hidrol´ogica para el proyecto “Centro Metropolitano de Gesti´on
+Integral  de  Residuos-(CMGIR)”, ubicado a las afueras de Viña del Mar,
+pr´oximo a la localidad de Quilpu´e, Regi´on de Valpara´ıso. La Figura 1-1 muestra el per´ıme-
+tro del proyecto y el ´area de intervenci´on en relaci´on a la Ruta 60 y los principales centros
+urbanos de la V Regi´on.
+Figura 1-1. Ubicaci´on general del proyecto CMGIR.
+Acorde al Art. 19 del “Reglamento del Servicio de Evaluaci´on de Impacto Ambien-
+tal”(RSEIA)1, a los documentos “Criterio de evaluaci´on en el SEIA: Contenidos t´ecnicos
+para la evaluaci´on ambiental del recurso h´ıdrico”2 y “Cambio Clim´atico en la Evalua-
+ci´on Ambiental del Recurso h´ıdrico”3, el presente informe contiene una caracterizaci´on
+hidrol´ogica del sistema de aguas superficiales del ´area a intervenir, detallando la hidro-
+graf´ıa, los elementos hidroclim´aticos hist´oricos y las proyecciones futuras de precipitaci´on,
+temperatura y caudales.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+2
+
+===== p.3 =====
+1.2.
+Objetivos
+1.2.1.
+Objetivo general
+El objetivo general de este documento es identificar y realizar una caracterizaci´on hi-
+drol´ogica superficial del ´area del proyecto y alrededores, estableciendo la condici´on actual
+del sistema que permita evaluar los posibles efectos futuros derivados de su implementa-
+ci´on en la zona.
+1.2.2.
+Objetivos espec´ıficos
+Caracterizar la variabilidad hidroclim´atica hist´orica bajo el contexto particular del
+´area a intervenir.
+Delimitar e identificar cuencas hidrogr´aficas, cuerpos y cursos de agua relevantes
+para el proyecto.
+Caracterizar la variabilidad e incertidumbre hidrol´ogica futura bajo proyecciones de
+Cambio Clim´atico y su relaci´on con la intervenci´on propuesta por el proyecto.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+3
+
+===== p.4 =====
+2.
+Hidrograf´ıa
+En la siguiente secci´on, se caracteriza la hidrograf´ıa en el ´area de emplazamiento del
+proyecto y sus alrededores identific´andose principalmente la red hidrogr´afica, sus cuencas
+aportantes y la cobertura de suelos.
+2.1.
+Antecedentes y fuentes de informaci´on
+De acuerdo con la clasificaci´on del inventario de cuencas de la Biblioteca del Congreso
+Nacional (BCN), el proyecto se encuentra ubicado en la subsubcuenca “05500 - Estero
+Marga-Marga”, contenida en la subcuenca “0550 - Estero Marga-Marga” y la cuenca “055
+- Costeras entre Aconcagua y Maipo”.
+Se revisan diversas fuentes de informaci´on relacionadas al relieve del ´area de estudio.
+Espec´ıficamente para la identificaci´on y/o delimitaci´on de cauces se tuvieron en conside-
+raci´on las siguientes bases de datos:
+Red hidrogr´afica e inventario de cuencas de la V Regi´on seg´un la Biblioteca del
+Congreso Nacional.
+Cartograf´ıa E048 escala 1:50.000 del Instituto Geogr´afico Militar.
+Modelo Digital de Terreno NASADEM-SRTM4 de la agencia espacial estadouniden-
+se (NASA).
+Levantamiento topogr´afico de alta resoluci´on y espec´ıfico al ´area de intervenci´on.
+Es importante se˜nalar que existen discrepancias en la toponimia del cauce principal seg´un
+estas diferentes fuentes de informaci´on. Por ejemplo, el Instituto Geogr´afico Militar (IGM)
+denomina la desembocadura del cauce principal como “Estero Vi˜na del Mar”, reservando
+el nombre “Estero Marga-Marga” ´unicamente para el tramo previo a su confluencia con el
+Estero Quilpu´e. En contraste, la BCN denomina la cuenca como “Estero Marga-Marga”
+y el cauce principal en la desembocadura como “Estero Vi˜na del Mar”, mientras que el
+tramo previo a la confluencia con el Estero Quilpu´e lo designa como “Estero Margarita”.
+Fuera de estas discrepancias, para el proyecto se designa al cauce y a la cuenca principal
+simplemente como “Estero Marga-Marga”.
+Para cuantificar la cobertura vegetal y el uso del suelo, se emplea el ”Mapa de Cobertura
+de Suelos de Chile”de (Hern´andez, 2016)5, tanto en el ´area del proyecto como en sus
+alrededores. Adem´as, las propiedades de la capa superficial del suelo y sus caracter´ısticas
+hidrol´ogicas se obtienen de la base de datos CL-SoilsMaps (Dinamarca y Galleguillos,
+2023)6. Esta fuente integra datos de calicatas y sondajes de origen global (e.g., FAO) y
+nacional (e.g., CIREN, UChile), junto con co-variables clim´aticas y biol´ogicas provenientes
+de sensores satelitales y mediciones en terreno, permitiendo estimar propiedades del suelo
+en todo Chile con una resoluci´on de aproximadamente 100 m x 100 m.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+4
+
+===== p.5 =====
+Finalmente, con tal de realizar una inspecci´on visual del ´area de estudio, se llev´o a cabo
+una visita a terreno el d´ıa 7 de febrero de 2025. Durante ella, se identificaron arroyos, que-
+bradas y otros accidentes geogr´aficos relevantes, adem´as de realizar una caracterizaci´on
+cualitativa de los suelos y la cobertura vegetal. Esta informaci´on complementa las esti-
+maciones obtenidas a partir de fuentes remotas y se desarrolla en las siguientes secciones.
+2.2.
+Topograf´ıa
+En cuanto al relieve, la Figura 2-1 presenta un mapa de elevaciones de los alrededores del
+proyecto, destacando su ubicaci´on en relaci´on a la cuenca del Estero Marga-Marga. Esta
+´ultima corresponde a una hoya costera que drena un ´area de 466 km2, con sus menores
+elevaciones al nivel del mar y las m´aximas en los cerros de la cordillera de la costa, con
+alturas superiores a 450 m.s.n.m pero inferiores a 1.350 m.s.n.m. La pendiente media de
+la cuenca se estima en aproximadamente un 11 %.
+Figura 2-1. Elevaci´on del terreno en la zona del estudio, la cuenca del Estero Vi˜na del
+Mar y alrededores. Topograf´ıa de fondo NASADEM-SRTM.
+El ´area a intervenir por el proyecto se encuentra en la zona media-baja de la cuenca,
+espec´ıficamente en las quebradas de exposici´on norte que desembocan en el Estero Marga-
+Marga antes de su confluencia con el Estero Quilpu´e. Tal como indica la Figura 2-2a, la
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+5
+
+===== p.6 =====
+elevaci´on media de esta zona se encuentra entre 200 y 250 m.s.n.m., con cumbres m´aximas
+por debajo de los 500 m.s.n.m. y alturas m´ınimas entre 30 y 50 m.s.n.m. El terreno pre-
+senta un relieve escarpado, con pendientes medias cercanas al 20 % y m´aximas superiores
+a 40 % (Figura 2-2b). Debido a esto, el ´area de intervenci´on se encuentra segmentada por
+una red de drenaje bien definida la cu´al se detalla en la siguiente secci´on.
+Figura 2-2. Distribuci´on de elevaciones (a) y pendientes (b) en el ´area de estudio seg´un
+el levantamiento topogr´afico de detalle (20cm x 20cm).
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+6
+
+===== p.7 =====
+2.3.
+Caracterizaci´on de cauces y cuerpos de agua
+Para una caracterizaci´on exhaustiva de la red hidrogr´afica en el ´area de intervenci´on, se
+consideran las bases de datos del IGM y BCN, junto con la topograf´ıa de alta resoluci´on
+del proyecto. A partir de estas fuentes, se identifican los cauces y quebradas que drenan el
+´area del proyecto hacia el Estero Marga-Marga. As´ı mismo, se complementa el an´alisis con
+el reconocimiento de cuerpos de agua mediante las observaciones de terreno y el an´alisis
+de im´agenes satelitales.
+2.3.1.
+Identificaci´on de cauces
+Inicialmente, la Figura 2-3 muestra la hidrograf´ıa obtenida de la BCN. En ella no se
+reconoce ning´un cauce que interact´ua con el proyecto, sin embargo la imagen satelital
+sugiere la presencia quebradas con drenajes hacia el Estero Marga-Marga.
+Figura 2-3. Cauces identificados en la red h´ıdrica de la Biblioteca del Congreso
+Nacional (BCN) y su relaci´on con el ´area de intervenci´on.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+7
+
+===== p.8 =====
+An´alogamente, la Figura 2-4 muestra la hidrograf´ıa del IGM. En ella se observan tres
+quebradas con un n´umero significativo de tributarios. Particularmente se observa dos de
+las tres quebradas presentan interacci´on directa con el proyecto, y la tercera unicamente
+con el camino de acceso.
+Dadas estas observaciones, seg´un la topograf´ıa de detalle disponible, la Figura 2-5 iden-
+tifica los cauces con una longitud m´ınima de 10 metros que drenan ´areas de al menos 1
+hect´area (0,01 km2). En ella se observa una correspondencia semejante con la red de cau-
+ces nacional, resaltando las quebradas identificadas tanto por la BCN como por el IGM,
+y sus respectivos tributarios.
+Excluyendo el Estero Marga-Marga, y considerando de este a oeste las quebradas que
+tributan al mismo, se identifican en la Figura 2-5 las quebradas Q1, Q2 y Q3 como aquellos
+drenajes m´as relevantes para la interacci´on del sistema h´ıdrico con el proyecto. Adem´as,
+en la zona occidental donde se proyecta el camino de acceso, se identifican quebradas
+menores nombradas como Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13.
+Figura 2-4. Cauces identificados en la red h´ıdrica del Instituto Geogr´afico Militar
+(IGM) y su relaci´on con el ´area de intervenci´on.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+8
+
+===== p.9 =====
+Figura 2-5. Cauces que drenan al menos 1 hect´area seg´un el levantamiento topogr´afico
+de detalle en el ´area de estudio y aquellos consistentes con la cartograf´ıa IGM.
+De manera similar, se identifican los distintos tributarios a las quebradas principales,
+clasificando la red de drenaje seg´un el orden jer´arquico de Hack. Dicha clasificaci´on resulta
+particularmente ´util para identificar los cauces en la medida que estos tributan al cauce
+principal, ya que, a diferencia de otros ´ordenes jer´arquicos (e.g Strahler), el orden de Hack
+asigna el n´umero 0 al cauce m´as largo, el 1 a sus tributarios directos, el 2 a los tributarios
+de estos, y as´ı sucesivamente, asociando un n´umero entero n al tributario n-´esimo del
+cauce de mayor longitud.
+Destacando la nomenclatura empleada para clasificar los tributarios, las Figuras 2-6 y
+2-7 ilustran el detalle de la identificaci´on de cauces en relaci´on al camino de acceso del
+proyecto. Asimismo, la Figura 2-8 presenta los cauces identificados en el ´area principal de
+intervenci´on.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+9
+
+===== p.10 =====
+Figura 2-6. Quebradas identificadas y sus tributarias en relaci´on a la parte baja del
+camino de acceso.
+Figura 2-7. Quebradas identificadas y sus tributarias en relaci´on a la parte alta del
+camino de acceso.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+10
+
+===== p.11 =====
+Figura 2-8. Quebradas identificadas y sus tributarias en relaci´on al ´area principal de
+intervenci´on.
+A modo de s´ıntesis, la Figura 2-9 muestra una fotograf´ıa panor´amica de las quebradas
+mayores obtenida a partir de un vuelo dron, resumiendo los cauces identificados en un
+esquema conceptual. En cuanto a ellos, en terreno se observ´o que las quebradas presentan
+caracter´ısticas similares en t´erminos de granulometr´ıa, secci´on de escurrimiento, meandro-
+sidad y cobertura de suelo, con ciertas heterogeneidades que se ilustran cualitativamente
+en la Figura 2-10.
+Seg´un lo observado, los cauces se clasifican como torrentes de escurrimiento espor´adico,
+con taludes pronunciados (≈1:1 H:V) y secci´on relativamente homog´enea. La rugosidad
+var´ıa levemente producto a la presencia de rocas, vegetaci´on y sedimentos como arenas
+gruesas en el lecho o finos en los taludes. Por ´ultimo, se destaca que las quebradas son
+pronunciadas desde la cabecera hasta su desembocadura en el Estero Marga-Marga, sin
+terrazas ni planicies de inundaci´on evidentes.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+11
+
+===== p.12 =====
+Figura 2-9. Quebradas identificadas para el proyecto en vista panor´amica desde el
+Estero Marga-Marga hacia el sur. Quebradas (l´ınea continua azul) y divisoria de aguas
+aproximada (l´ınea segmentada rosada). Fotograf´ıa del 7 de Febrero de 2025.
+Figura 2-10. Fotograf´ıas representativas de distintos tramos observables en la quebrada
+Q2. (a) Secci´on de lecho con presencia de gravas y vegetaci´on. (b) Secci´on con
+vegetaci´on, lecho de arenas y taludes de sedimento fino. (c) Secci´on angosta de baja
+vegetaci´on, lecho arenoso y taludes de sedimento fino. Fotograf´ıas del 7 de Febrero de
+2025.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+12
+
+===== p.13 =====
+2.3.2.
+Identificaci´on de cuerpos de agua
+En cuanto a los cuerpos de agua, dentro del ´area de intervenci´on no se observa ninguna
+laguna, humedal o zona de acumulaci´on. No obstante, tal como ilustra la Figura 2-11,
+aguas abajo del proyecto, en la desembocadura de la quebrada Q1 y Q3 se identifican
+los cuerpos de agua CA1 y CA6 asociados al Estero Marga-Marga y formados a ra´ız de
+procesos de extracci´on de ´aridos.
+Seg´un el inventario de humedales del Ministerio del Medio Ambiente (MMA, 2015)7,
+ninguno de los cuerpos de agua identificados se clasifica como tal. No obstante, el Estero
+Marga-Marga completo y el Estero Quilpu´e s´ı est´an reconocidos como humedales (“HU-
+RS-3897 - Estero Vi˜na del Mar”).
+Figura 2-11. Cuerpos de agua y humedales identificados en el Estero Marga-Marga y
+Estero Vi˜na del Mar en relaci´on a las quebradas del proyecto.
+Im´agenes satelitales hist´oricas de los ´ultimos 20 a˜nos revelan que los cuerpos de agua
+identificados, son una consecuencia de la extracci´on de ´aridos en el Estero Marga-Marga.
+Como muestra la Figura 2-12, en el verano de 2003 el estero presentaba un flujo continuo,
+mientras que actualmente se encuentra fragmentado en sucesivos afloramientos de agua
+subterr´anea y cuerpos de agua menores. La Figura 2-13 muestra fotograf´ıas actuales de
+los cuerpos de agua CA1 y CA6, poniendo en evidencia la fragmentaci´on del cauce.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+13
+
+===== p.14 =====
+Figura 2-12. Im´agenes satelitales (Google Earth) del Estero Marga-Marga aguas abajo
+del proyecto. (a) Cauce en Febrero 2003. (b) Cuerpo de agua CA1 inexistente en Febrero
+de 2003. (c) Cauce en Febrero 2024. (d) Cuerpo de agua CA1 en Febrero de 2024.
+Figura 2-13. Cuerpos de agua identificados. (a) Fotograf´ıa hacia el oeste del CA6. (b)
+Fotograf´ıa hacia el este del CA1. Fotograf´ıas del 07 de Febrero de 2025.
+Fuera de los evidentes cambios morfol´ogicos que ha experimentado el cauce a lo largo de
+los a˜nos, los impactos humanos desde una perspectiva ecol´ogica-ambiental son claros y
+visibles. Como indica la Figura 2-14, la confluencia entre las quebradas del proyecto y el
+Estero Marga-Marga presenta un alto grado de intervenci´on antr´opica, reflejado, por un
+lado, en la presencia de caminos y huellas veh´ıculares, y por otro lado, en la acumulaci´on
+frecuente de basura y escombros, los cuales se ubican tanto en el lecho del cauce como en
+los cuerpos de agua asociados.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+14
+
+===== p.15 =====
+Figura 2-14. Basurales y escombros en el Estero Marga-Marga. (a) Ortofoto del
+proyecto evidenciando basuras y escombros en el lecho del cauce. (b) Desembocadura de
+la quebrada Q3 y residuos. (c) Basuras al costado del cuerpo de agua CA1.
+2.4.
+Cobertura y vegetaci´on
+En relaci´on a la cobertura de suelo, la Figura 2-15 indica las principales categor´ıas de la
+zona de estudio seg´un el “Mapa de Cobertura de Suelo de Chile”5. En ella se aprecia que la
+cuenca del Estero Marga-Marga est´a principalmente cubierta por matorrales, seguida por
+bosques (plantaciones forestales y/o bosque nativos) y zonas impermeables asociadas a la
+urbanizaci´on de Villa Alemana, Quilpu´e y Vi˜na del Mar. Consistente con las fotograf´ıas
+tomadas en terreno (Figura 2-16a), la zona espec´ıfica a intervenir se observa dominada
+por una densidad baja de matorrales t´ıpicos de la zona costera de Chile Central, seguida
+por tierras desnudas y en menor medida ´arboles poco frondosos.
+Se observaron matorrales o arbustos de altura inferior a 3 metros con follajes mediana-
+mente frondosos (Figura 2-16b y 2-16c). De las especies observadas resaltan ejemplares
+de quillay (Quillaja saponaria), litre (Lithraea caustica), chagual (Puya Chilensis), entre
+otras. De encontrarse ´arboles se observan ocasionalmente pinos (Pinus radiata) y euca-
+liptos (Eucalyptus globulus) con alturas inferiores a 10 metros y follaje disminuido, como
+tambi´en de forma puntual algunos ejemplares de palmas chilenas (Jubaea Chilensis). Adi-
+cionalmente se detectaron pastizales estacionales, como tambi´en arbustos afectados por
+quemaduras de incendios, los cu´ales al momento de la visita presentaban rebrotes desde
+su base (Figura 2-16b).
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+15
+
+===== p.16 =====
+Figura 2-15. Coberturas de suelo en la zona de estudio, la cuenca del Estero Vi˜na del
+Mar y alrededores seg´un el “Mapa de cobertura de suelo de Chile”5.
+Figura 2-16. Fotograf´ıas representativas de la vegetaci´on en la zona del proyecto. (a)
+panor´amica quebrada abajo con matorrales, arbustos y tierras desnudas. (b) Detalle de
+arbustos secos/quemados, matorrales bajos y pastizal estacional. (c) Follaje observado
+en arbustos y matorrales. Fotograf´ıas del 07 Febrero de 2025.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+16
+
+===== p.17 =====
+Respecto a la interacci´on entre la vegetaci´on y el sistema h´ıdrico, la zona se caracteriza
+cualitativamente por una intercepci´on baja, lo que favorece la generaci´on de escorrent´ıa
+ante eventos de precipitaci´on. A pesar de esto, la vegetaci´on favorece la acumulaci´on de
+materia org´anica en la capa superficial del suelo, lo que, en comparaci´on con las zonas des-
+cubiertas, se observ´o contribuir a una mayor retenci´on de humedad en zonas no-saturadas.
+2.5.
+Texturas y propiedades del suelo
+En relaci´on a la granulometr´ıa de la columna de suelo, con la base de datos CL-SoilMaps 6
+se estima la textura de suelo m´as probable en el primer metro bajo la superficie, siguiendo
+la clasificaci´on triangular del Departamento de Agricultura de los Estados Unidos (US-
+DA). Adicionalmente, las texturas de suelo se utilizan para clasificar hidrol´ogicamente los
+mismos seg´un las categor´ıas del “National Resources Conservation Service (NCRS)” del
+USDA. Esta clasificaci´on divide los suelos en las categor´ıas A, B, C y D, representando el
+potencial de infiltraci´on del suelo de mayor a menor respectivamente.
+Esta re-clasificaci´on se realiza seg´un lo propuesto por (Hong & Adler, 2008)8 y se presenta
+en la Tabla 2-1. A partir de esta informaci´on, se elaboran los mapas de las Figuras 2-17
+y 2-18, en los cuales se observa que, excluyendo los cuerpos de agua y las zonas urbanas,
+la cuenca del Estero Vi˜na del Mar est´a compuesta principalmente por suelos de textura
+arena-franco-arcillosa (SaClLo), seguidos en menor proporci´on por suelos francos (Lo) y
+arcillo-limosos (ClLo).
+Tabla 2-1. Texturas de suelo seg´un la clasificaci´on del USDA y los respectivos grupos
+hidrol´ogicos del NRCS seg´un (Hong & Adler, 2008).
+Textura de
+Suelo (USDA)
+Nombre
+Grupo Hidrol´ogico de
+Suelo (NRCS)
+Cl
+Arcilla
+D
+ClLo
+Franco-arcilloso
+D
+SaCl
+Arena-arcillosa
+D
+SiCl
+Limo-Arcilloso
+D
+SiClLo
+Limo-franco-arcilloso
+D
+SaClLo
+Arena-franco-arcillosa
+C
+Lo
+Franco
+B
+SiLo
+Franco-limoso
+B
+Si
+Limo
+B
+LoSa
+Franco-arenoso
+A
+SaLo
+Arenoso-franco
+A
+Sa
+Arena
+A
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+17
+
+===== p.18 =====
+Figura 2-17. Texturas de suelos (USDA) para la zona de estudio, la cuenca del Estero
+Vi˜na del Mar y alrededores seg´un la base datos “CL-SoilMaps”6.
+Figura 2-18. Clasificaci´on Hidrol´ogica de Suelos (NRCS) para la zona de estudio, la
+cuenca del Estero Vi˜na del Mar y alrededores.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+18
+
+===== p.19 =====
+En el ´area espec´ıfica de intervenci´on, se estima preliminarmente que la capa superficial del
+suelo se constituye de arenas-franco-arcillosas, las cuales presentan un potencial genera-
+dor de escorrent´ıa medio-alto (Grupo C). Esta estimaci´on fue posteriormente confirmada
+mediante observaciones en terreno, como se muestra en la Figura 2-19, donde, salvo en
+el lecho de los cauces y zonas con afloramientos rocosos, los suelos a profundidades de
+entre 1 y 2 metros presentan dichas caracter´ısticas. Estas observaciones son coherentes
+con los resultados del estudio de mec´anica de suelos desarrollado por “Esparza & Vega
+Ingenieros Consultores” y “Analytica Cha˜nar” en el marco del proyecto9, en el cual 22 de
+las 23 calicatas ejecutadas en la zona identificaron la presencia de estratos superficiales
+de arena-arcillosa.
+Finalmente, se estima que la zona de estudio presenta un potencial generador de esco-
+rrent´ıa medio-alto debido al contenido de finos en niveles superficiales. Por otro lado, la
+presencia de arenas gruesas a m´as de 2 metros de profundidad sugiere que, en caso de
+infiltraci´on, el agua podr´ıa percolar hacia capas m´as profundas o desplazarse lateralmente
+a trav´es de acu´ıferos someros; sin embargo, esto depender´a del grado de compactaci´on y
+la conductividad hidr´aulica finalmente estimada. En cuanto a la erosi´on y sedimentaci´on,
+se observ´o que las quebradas del proyecto suministran sedimentos de manera permanente
+al Estero Marga-Marga.
+Figura 2-19. Fotograf´ıas representativas de la columna de suelo en el ´area del proyecto.
+(a) Columna de suelo a un costado del camino (regleta indica 1 metro cada cambio de
+color). (b) Sedimentos finos en la capa m´as superficial de suelo. (c) Arenas gruesas
+compactadas por debajo del primer nivel de suelo. Fotograf´ıas del 7 de Febrero de 2025.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+19
+
+===== p.20 =====
+2.6.
+Caracterizaci´on de cuencas en el ´area de estudio
+Considerando las particularidades de la topograf´ıa, la vegetaci´on y los suelos, en esta
+secci´on se caracterizan las cuencas que interact´uan directamente con el proyecto. Dado el
+escarpe del terreno, que genera quebradas peque˜nas y de fuerte pendiente, se estableci´o
+como criterio una cuenca aportante m´ınima de 1 ha para la identificaci´on de cauces. Este
+umbral, peque˜no en superficie, asegura una representaci´on adecuada de la red de drenaje.
+La Figura 2-20 indica las cuencas delimitadas a partir de la topograf´ıa de detalle y los
+cauces considerados en el estudio.
+Figura 2-20. Cuencas y ´areas de drenaje relevantes para el ´area de intervenci´on.
+Considerando la red h´ıdrica de detalle y la cartograf´ıa IGM (Figura 2-5 y 2-4) se identifi-
+can algunas quebradas menores que interact´uan con el camino de acceso al proyecto. De
+estas, varias corresponden a subcuencas de la quebrada Q3, o bien a microcuencas que
+drenan directamente al Estero Marga-Marga o la Ruta CH-60. Se caracterizan las cuencas
+correspondientes a las quebradas Q1, Q2 y Q3 debido a su directa relaci´on con el ´area de
+intervenci´on. Asimismo se caracterizan las cuencas Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11,
+Q12 y Q13 debido a su relaci´on con el camino de acceso.
+Seg´un los antecedentes expuestos, las cuencas del proyecto est´an mayoritariamente cu-
+biertas por matorrales costeros y tierras desnudas (Figura 2-15), cuyos suelos presentan
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+20
+
+===== p.21 =====
+un potencial generador de escorrent´ıa medio-alto (Figura 2-1). De forma cuantitativa, la
+Tabla 2-2 presenta una descripci´on geomorfol´ogica de las quebradas principales desde el
+punto de vista hidrol´ogico.
+Tabla 2-2. Par´ametros geomorfol´ogicos de cuencas. A ´area, Hmin cota m´ınima, Hmax
+cota m´axima, Hp cota promedio, Sp pendiente promedio, Lr largo del cauce principal y
+Sr pendiente del cauce principal.
+Cuenca
+A
+(km2)
+Hmin
+(m.s.n.m)
+Hmax
+(m.s.n.m)
+Hp
+(m.s.n.m)
+Sp
+(m/m)
+Lr
+(km)
+Sr
+(m/m)
+Q1
+1,5678
+78,6
+487,0
+241,0
+0,415
+3,07
+0,246
+Q2
+1,3194
+19,0
+464,0
+210,4
+0,418
+2,97
+0,261
+Q3
+1,1744
+18,2
+459,9
+225,5
+0,406
+3,03
+0,239
+Q4
+0,026
+102,9
+230,9
+182,9
+0,517
+0,26
+0,547
+Q5
+0,030
+91,7
+230,0
+191,7
+0,474
+0,30
+0,532
+Q6
+0,027
+90,2
+222,9
+179,2
+0,553
+0,33
+0,528
+Q7
+0,032
+56,0
+211,2
+141,4
+0,587
+0,30
+0,584
+Q8
+0,041
+55,1
+212,4
+153,3
+0,584
+0,31
+0,616
+Q9
+0,013
+53,6
+198,3
+130,9
+0,565
+0,19
+0,623
+Q10
+0,009
+57,4
+188,8
+127,7
+0,552
+0,24
+0,414
+Q11
+0,012
+63,8
+166,4
+118,7
+0,581
+0,16
+0,488
+Q12
+0,007
+67,7
+154,5
+113,9
+0,575
+0,07
+0,571
+Q13
+0,012
+45,0
+166,9
+114,3
+0,579
+0,12
+0,704
+Finalmente, se concluye que a pesar de que las cuencas presentan un ´area reducida, la alta
+magnitud de las pendientes puede contribuir a una r´apida respuesta hidrol´ogica ante even-
+tos extremos de precipitaci´on. As´ı mismo, se prev´e un arrastre significativo de sedimentos
+en el lecho de los cauces.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+21
+
+===== p.22 =====
+3.
+Hidrolog´ıa
+El proyecto se ubica entre las cuencas del r´ıo Aconcagua y el r´ıo Maipo, espec´ıficamente
+en quebradas tributarias a la cuenca costera del Estero Marga-Marga. Desde una perspec-
+tiva clim´atica general (Figura 3-1), esta zona se caracteriza hist´oricamente por un clima
+templado con veranos secos y c´alidos. Sin embargo simulaciones clim´aticas de largo plazo,
+indican que la regi´on est´a experimentando una transici´on gradual hacia condiciones m´as
+c´alidas y semi-´aridas.
+Figura 3-1. Clasificaci´on clim´atica de Chile para el per´ıodo hist´orico (a) y futuro (b).
+Recuadro rojo indica la zona costera de la regi´on de Valpara´ıso. Extra´ıdo de (V´asquez y
+Mendoza, 2024)10.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+22
+
+===== p.23 =====
+Ahora bien, el proyecto se encuentra a menos de 15 km del oc´eano, lo que le otorga con-
+diciones h´ıdricas propias de la zona costera de Chile Central. Desde la perspectiva de la
+evaluaci´on ambiental, se considera relevante analizar la hidrolog´ıa de la cuenca del Estero
+Marga-Marga y sus alrededores con tal de establecer una l´ınea base robusta en la dimensi´on
+h´ıdrica. Para cumplir este objetivo, se analizar´an las estad´ısticas hist´oricas de estaciones
+meteorol´ogicas cercanas, junto con productos grillados de car´acter observacional y basa-
+dos en modelaci´on hidrol´ogica. Adem´as, se presentar´a un an´alisis de medias mensuales,
+tendencias anuales y eventos extremos, considerando tanto la variabilidad hist´orica como
+proyecciones asociadas al cambio clim´atico.
+3.1.
+Antecedentes y fuentes de informaci´on
+Para caracterizar el hidroclima se tuvo en consideraci´on la literatura reciente y los crite-
+rios t´ecnicos establecidos por el Servicio de Evaluaci´on Ambiental (SEA)2, 3, 11. Espec´ıfi-
+camente, para el an´alisis de variables hidrol´ogicas, se considera el monitoreo de la red
+hidro-meteorol´ogica de la Direcci´on General de Aguas (DGA).
+Las cuencas afectadas por el proyecto no presentan control fluviom´etrico ni sedimentol´ogi-
+co. Sin embargo, al revisar la red de monitoreo nacional, se constat´o que la cuenca del
+Estero Marga-Marga tampoco dispone de mediciones continuas de caudal en ninguno de
+sus tramos o tributarios, de manera que la caracterizaci´on h´ıdrica del cauce se realiza
+necesariamente mediante m´etodos indirectos.
+Para ello, se identifican estaciones meteorol´ogicas cercanas con registros extensos de tem-
+peratura y precipitaci´on. La Tabla 3-1 resume las estaciones seleccionadas, mientras que
+la Figura 3-2 muestra su ubicaci´on en relaci´on con la cuenca del Estero Marga-Marga.
+Considerando los alcances de la l´ınea base, se decide analizar la informaci´on de la estaci´on
+“05510002 - Lago Pe˜nuelas” debido a su cercan´ıa al proyecto, representatividad geogr´afi-
+ca, disponibilidad hist´orica y continuidad de registros. Adem´as, esta estaci´on se destaca
+entre las dem´as por contar con informaci´on simult´anea de precipitaci´on y temperatura
+durante un per´ıodo comparable.
+Tabla 3-1. Catastro de estaciones meteorol´ogicas DGA cercanas al ´area del proyecto.
+En rojo destaca la estaci´on escogida para el an´alisis estad´ıstico.
+Nombre
+ID
+Longitud
+(°)
+Latitud
+(°)
+Altura
+(m.s.n.m)
+Registros
+Precipitaciones
+Registros
+Temperatura
+Cerro Colorado Armada de Chile
+05510005-5
+-71,617
+-33,082
+510
+2014 - 2024
+-
+Colliguay
+05741002-7
+-71,147
+-33,168
+490
+1950 - 2020
+-
+Lago Pe˜nuelas
+05510002-0
+-71,556
+-33,145
+360
+1974 - 2024
+1974 - 2018
+Tapihue
+05520002-5
+-71,289
+-33,291
+310
+1989 - 2020
+-
+Quebrada Alvarado
+05427008-9
+-71,115
+-33,051
+290
+1990 - 2020
+-
+Casablanca
+05520001-7
+-71,411
+-33,323
+290
+1986 - 2020
+-
+Lliu-Lliu Embalse
+05427006-2
+-71,215
+-33,098
+260
+1978 - 2024
+1979 - 2016
+Las Piedras
+05500001-8
+-71,312
+-33,156
+225
+1991 - 2020
+-
+Rodelillo
+05510001-2
+-71,584
+-33,051
+110
+1971 - 2024
+-
+Los Aromos
+05427007-0
+-71,345
+-32,958
+100
+1974 - 2020
+1981 - 2016
+Valpara´ıso
+05510007-1
+-71,605
+-33,041
+44
+2016 - 2024
+-
+Las Salinas
+05500003-4
+-71,547
+-33,002
+20
+2013 - 2024
+-
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+23
+
+===== p.24 =====
+En cuanto al contraste entre el clima hist´orico y futuro se consideran los resultados del
+proyecto de “Actualizaci´on del Balance H´ıdrico Nacional (BHN)”de la DGA12, 13, el cual
+est´a constituido por simulaciones hidrol´ogicas con el modelo Variable Infiltration Capa-
+city (VIC)14, 15 y sus respectivos forzantes atmosf´ericos. Esta base de datos emplea como
+condiciones de borde el producto CR2MET16 para el per´ıodo hist´orico, as´ı como Modelos
+de Circulaci´on General (GCM) tanto en el per´ıodo hist´orico como futuro.
+Figura 3-2. Estaciones meteorol´ogicas cercanas al proyecto y a la cuenca del Estero
+Marga-Marga.
+Para proyectar las consecuencias del calentamiento global, se eval´uan los cuatro GCM
+utilizados en el BHN, los cuales fueron ya escalados estad´ısticamente a la variabilidad de
+CR2MET mediante una correcci´on de sesgo por cuantiles multivariados (MBCn)17. Los
+GCM provienen del proyecto internacional Coupled Model Intercomparison Project Fase
+5 (CMIP5)18 y tienen por nombre CCSM4, CSIRO-MK3.6.0, IPSL-CM5A-LR y MIROC-
+ESM. La Tabla 3-2 describe brevemente los GCM seleccionados en el BHN y los per´ıodos
+considerados como hist´orico y futuro en el presente estudio.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+24
+
+===== p.25 =====
+Cabe destacar que los per´ıodos hist´oricos y futuros se seleccionan, en funci´on de la dis-
+ponibilidad de informaci´on, como aquellas ventanas de tiempo contrastantes y cercanas
+a la actualidad. Sin embargo, para los an´alisis de series de tiempo, se considerar´a todo el
+registro disponible, mientras que las ventanas definidas como “hist´orica” y “futura” se uti-
+lizar´an exclusivamente para la evaluaci´on de estad´ıgrafos (e.g. media, mediana, varianza,
+etc) y sus diferencias.
+Por otro lado, como parte del proceso de validaci´on, el ap´endice C presenta una com-
+paraci´on mensual entre la precipitaci´on y la temperatura del producto CR2MET y los
+valores medidos en la estaci´on “Lago Pe˜nuelas”. Los resultados evidencian un sesgo sis-
+tem´atico en el forzante del modelo hidrol´ogico VIC; no obstante, el producto reproduce
+adecuadamente la variabilidad mensual e interanual, garantizando que las tendencias y
+cambios a largo plazo sean consistentes con las observaciones. Adem´as, durante el per´ıodo
+2015-2020, esta correspondencia permiti´o completar las observaciones faltantes mediante
+regresiones lineales simples (Figura C-3).
+Tabla 3-2. Modelos de circulaci´on general (GCMs) utilizados en el proyecto de Balance
+H´ıdrico Nacional y la presente l´ınea base. ECS corresponde a la sensibilidad clim´atica de
+equilibrio seg´un (Schlund et al, 2020)19
+GCM
+Instituci´on
+Fase CMIP
+Periodo
+Historico
+Periodo
+Futuro
+Escenario de
+Emisiones
+ECS (°C)
+CCSM4
+National Center for
+Atmospheric Research
+(NCAR)
+5
+1990 - 2020
+2030 - 2060
+RCP8.5
+2,94
+CSIRO-MK3.6.0
+Commonwealth Scientific
+and Industrial Research Organisation
+(CSIRO)
+5
+1990 - 2020
+2030 - 2060
+RCP8.5
+4,08
+IPSL-CM5A-LR
+Institute Pierre Simon Laplace
+(IPSL)
+5
+1990 - 2020
+2030 - 2060
+RCP8.5
+4,13
+MIROC-ESM
+Japan Agency for Marine-Earth
+Science and Technology
+(JAMSTEC)
+5
+1990 - 2020
+2030 - 2060
+RCP8.5
+4,67
+Finalmente, se destacan algunos estudios previos que han simulado la hidrolog´ıa de la
+cuenca del Estero Marga-Marga, los cuales, a pesar de su antig¨uedad, permiten comparar
+y validar las estimaciones del presente trabajo. Entre ellos se encuentran la memoria de
+t´ıtulo de (Gonz´ales, 2022)20, as´ı como los estudios de (AC Ingenieros, 2003)21 y de (DHV
+Consultants, 1995)22. El estudio de AC Ingenieros reporta, a la Comisi´on Nacional de
+Riego (CNR), caudales mensuales seg´un las probabilidades de excedencia del 50 % y 85 %
+(Figura 3-3), mientras que el trabajo de DHV Consultants, aunque m´as antiguo, presenta
+a la DGA caudales mensuales para otras probabilidades de excedencia (Figura 3-4). Por
+su parte, la memoria de (Gonz´ales, 2022) simul´o los caudales del Estero Marga-Marga
+para el per´ıodo de la megasequ´ıa23, 24 del 2010-2020, obteniendo caudales medios anuales
+del orden de 2 m3/s.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+25
+
+===== p.26 =====
+Figura 3-3. Caudales mensuales de 50 % y 85 % de probabilidad de excedencia para el
+Estero Marga-Marga en desembocadura. Extra´ıdo de (AC Ingenieros 2003)21.
+Figura 3-4. Caudales mensuales para distintas probabilidades de excedencia seg´un el
+trabajo de (DHV consultants, 1995) y los simulados para el per´ıodo 2010-2020 por
+(Gonz´ales, 2022). Extra´ıdo de (Gonz´ales, 2022)20.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+26
+
+===== p.27 =====
+3.2.
+Hidroclima hist´orico
+Considerando la estaci´on Lago Pe˜nuelas (DGA), la Figura 3-5 presenta las series de tiempo
+de precipitaci´on, temperatura media y temperaturas extremas utilizadas para el diagn´osti-
+co del hidroclima del proyecto. Como primera observaci´on, los datos evidencian fluctua-
+ciones significativas en la escala inter-anual, estacional y diaria, las cuales ser´an analizadas
+con mayor detalle en la siguiente secci´on.
+Figura 3-5. Series de tiempo de la estaci´on Lago Pe˜nuelas a 9,6 km del proyecto. (a):
+Precipitaci´on acumulada diaria. (b) Temperatura media diaria. (c) Temperaturas
+m´axima y m´ınima diarias. Zona sombreada destaca el per´ıodo 1990-2020. Datos
+originales sin informaci´on rellenada.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+27
+
+===== p.28 =====
+3.2.1.
+Variabilidad estacional
+La Figura 3-6 muestra la variaci´on estacional t´ıpica de precipitaci´on y temperatura en
+la estaci´on Lago Pe˜nuelas (DGA). En ella se observa un ciclo caracterizado por una
+temporada h´umeda y fr´ıa entre abril y octubre, y una temporada c´alida y seca entre
+noviembre y marzo. Durante los meses de invierno (junio y julio), las precipitaciones
+acumulan montos de 160 a 180 mm mensuales, mientras que en los meses de verano
+son pr´acticamente nulas. A nivel de eventos puntuales, la Figura 3-5 evidencia tormentas
+extremas que han acumulado montos mayores a 200 mm en un s´olo d´ıa.
+En cuanto a las temperaturas, los meses de junio, julio y agosto presentan valores tem-
+plados, con promedios cercanos a 10°C, mientras que en diciembre, enero y febrero pre-
+dominan temperaturas c´alidas, con promedios de aproximadamente 17°C. En cuanto al
+ciclo diurno promedio, las m´aximas de verano oscilan entre 20°C y 24°C, y las m´ınimas
+invernales fluct´uan entre 4°C y 6°C, no obstante, como muestra la Figura 3-5, durante
+eventos extremos y espec´ıficos, se registran temperaturas de verano superiores a 30°C y
+heladas invernales inferiores a 0°C.
+Figura 3-6. Climograma de la estaci´on meteorol´ogica Lago Pe˜nuelas para el per´ıodo
+1990-2020. Curva roja, negra y azul corresponden a la media mensual de temperaturas
+m´aximas, medias y m´ınimas respectivamente. Barras azules indican la media de las
+precipitaciones acumuladas mensuales.
+Respecto a los caudales de los r´ıos cercanos, basados en lo simulado por el BHN, la Figura
+3-7 muestra los caudales medios mensuales y la variabilidad estacional de la cuenca del
+Estero Marga-Marga en su desembocadura. En ella se observa que la cuenca presenta
+un r´egimen pluvial, con caudales m´aximos entre julio y septiembre, y m´ınimos entre
+febrero y abril. Durante la temporada h´umeda, la mediana hist´orica (probabilidad de
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+28
+
+===== p.29 =====
+excedencia del 50 %) alcanza un m´aximo de 5,3 m3/s, mientras que en la temporada
+seca desciende a m´ınimos de 1,2 m3/s. A pesar de esto, la variabilidad interanual es
+significativa, registr´andose a˜nos h´umedos con caudales mensuales que superan los 40 m3/s
+y a˜nos secos con m´ınimos hist´oricos inferiores 2 m3/s durante todo el a˜no.
+Los caudales simulados en el BHN son consistentes con lo reportado por otros autores
+(Figuras 3-3 y 3-4). Adem´as, dado que la cuenca presenta un r´egimen pluvial, esta cohe-
+rencia no solo respalda la validez de las estimaciones hist´oricas de caudal, sino tambi´en
+la calidad de los forzantes de precipitaci´on y temperatura utilizados en la simulaci´on hi-
+drol´ogica. Finalmente, la Tabla 3-3 indica los valores medios mensuales de las variables
+hidroclim´aticas evaluadas en el per´ıodo hist´orico.
+Figura 3-7. Caudales simulados para la cuenca del Estero Marga-Marga en
+desembocadura. (a) Serie de caudales medios mensuales. (b) Variabilidad estacional de
+los caudales medios mensuales para el per´ıodo 1990-2020.
+Tabla 3-3. Promedios mensuales y anuales de variables hidroclim´aticas entre 1990 y
+2020. Precipitaci´on (P), temperatura m´axima diaria (Tx), media diaria (Tm) y m´ınima
+diaria (Tn) en Lago Pe˜nuelas. Caudal (Q) en el Estero Marga-Marga en desembocadura.
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Anual
+P (mm)
+0,2
+1,1
+5,2
+18,2
+101,4
+172,4
+118,1
+104,1
+45,7
+20,5
+4,2
+2,8
+593,8
+Tx (°C)
+23,9
+23,4
+22,7
+20,2
+17,6
+15,4
+14,6
+15,7
+17,0
+18,9
+20,8
+22,4
+19,4
+Tm (°C)
+17,3
+16,9
+16,1
+13,9
+12,0
+10,3
+9,4
+10,3
+11,6
+13,1
+14,8
+16,2
+13,5
+Tn (°C)
+10,8
+10,2
+9,4
+7,7
+6,4
+5,3
+4,1
+4,9
+6,3
+7,4
+8,5
+9,9
+7,6
+Q (m3/s)
+1,6
+1,4
+1,2
+1,3
+2,0
+5,4
+6,1
+6,2
+5,3
+3,6
+2,6
+2,0
+3,2
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+29
+
+===== p.30 =====
+3.2.2.
+Variabilidad interanual
+Para analizar variaciones a largo plazo, se usa la anomal´ıa climatol´ogica, definida como
+la diferencia entre una variable y su promedio estacional (Figura 3-8). Este enfoque per-
+mite evaluar desviaciones temporales sin depender de la temporada del a˜no, lo cual es
+clave en variables con ciclos marcados como lo es la temperatura. En el caso de variables
+como el caudal y la precipitaci´on, se utiliza el acumulado anual, cuya anomal´ıa se define
+simplemente como la diferencia entre el valor de un a˜no y la media anual hist´orica.
+Figura 3-8. Ejemplo de c´alculo de anomal´ıas para una serie de tiempo con un claro
+ciclo estacional. Notar que la anomal´ıa de la serie permite evaluar la variabilidad de alta
+y baja frecuencia como las tendencias de largo plazo (muy baja frecuencia).
+Dicho esto, la Figura 3-9 presenta las series de precipitaci´on acumulada anual, anomal´ıas
+de temperatura mensual y escorrent´ıa acumulada anual. Esta ´ultima se considera una
+variable an´aloga al caudal, con la diferencia de que se expresa en mm/a˜no. Este cambio de
+unidades requiere s´olo del ´area de la cuenca, y convenientemente permite luego comparar
+las diferencias entre el forzante atmosf´erico (precipitaci´on) y la respuesta del sistema
+h´ıdrico (escorrent´ıa).
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+30
+
+===== p.31 =====
+Figura 3-9. Series de tiempo y tendencias hidrol´ogicas de largo plazo. (a) Precipitaci´on
+acumulada anual en la Estaci´on Lago Pe˜nuelas. (b) Anomal´ıa de temperatura mensual
+en la Estaci´on Lago Pe˜nuelas. (c) Escorrent´ıa anual del Estero Marga-Marga seg´un el
+BHN12. Zona sombreada destaca el per´ıodo 1990-2020.
+Las lluvias anuales presentadas en la Figura 3-9a, tienen un promedio de 594 mm durante
+el per´ıodo hist´orico (Tabla 3-3) y una desviaci´on est´andar de 289 mm, lo cu´al es consistente
+con las variaciones interanuales observadas en todo el registro. A pesar de esta natural
+oscilaci´on entre a˜nos secos y h´umedos, la prueba de tendencias de Mann-Kendall indica
+para todo el registro una disminuci´on progresiva de los montos anuales estimada en -60
+mm por d´ecada (p > 0,05).
+Para las temperaturas, la Figura 3-9b indica maximas perturbaciones a la media anual de
+aproximadamente ±1, 5°C. A nivel mensual se observa que las anomal´ıas m´aximas pueden
+alcanzar amplitudes de hasta casi 4°C, no obstante la mayor´ıa se encuentra entre ±2°C.
+Considerando esta variabilidad, en la temperatura no se detectan tendencias significativas
+al largo plazo (p < 0,05).
+Por otro lado, respecto a los caudales del Estero Marga-Marga en su desembocadura, la
+escorrent´ıa media anual se simula en 219,3 mm/a˜no (3,2 m3/s) en el per´ıodo hist´orico,
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+31
+
+===== p.32 =====
+con una desviaci´on est´andar de 129 mm (1,9 m3/s). Las variaciones interanuales muestran
+una clara sincron´ıa con el r´egimen de precipitaciones; sin embargo, tanto la variabilidad
+como la tendencia se encuentran amortiguadas. Aun as´ı, la serie evidencia una disminuci´on
+significativa, con una tendencia estimada de 25,3 mm por d´ecada (0,37 m3/s/a˜no, p >
+0,05).
+Finalmente, considerando que las tendencias presentadas est´an fuertemente influenciadas
+por el per´ıodo de megasequ´ıa de 2010-2020, el hecho de que la escorrent´ıa disminuya a una
+tasa menor que las precipitaciones, sugiere la presencia de un sistema h´ıdrico resiliente,
+capaz de amortiguar anomal´ıas extremas, siempre que estas no persistan indefinidamente
+en el tiempo.
+3.3.
+Hidroclima futuro
+En materia de cambio clim´atico, y considerando los per´ıodos 1990-2020 (hist´orico) y 2030-
+2060 (futuro), las Figuras 3-10a, 3-10b y 3-10c muestran las anomal´ıas proyectadas de
+precipitaci´on, temperatura y escorrent´ıa anual respectivamente. Para los cuatro GCM
+evaluados, las anomal´ıas se calculan como la diferencia entre el valor modelado para cada
+a˜no y el promedio del per´ıodo hist´orico de cada serie.
+Para la precipitaci´on, los cuatro modelos simulan una amplia variabilidad interanual, con
+amplitudes similares a los registros hist´oricos (ver Figura 3-9). Todas las simulaciones
+coinciden en una disminuci´on d´ebil pero sostenida hasta 2060, con una tendencia a la
+sequ´ıa de -21,6 mm/d´ecada. Aunque estad´ısticamente significativa, la magnitud de la
+tendencia es comparable con la variabilidad interanual, como muestra el leve desfase de
+los histogramas en la Figura 3-10a.
+En las temperaturas la incertidumbre es menor, coincidiendo las cuatro simulaciones en
+un calentamiento sostenido de aproximadamente 0,27°C/d´ecada. Adem´as de la tendencia
+medible, los histogramas de la Figura 3-10b evidencian un claro desplazamiento hacia
+temperaturas m´as c´alidas, no solo en la media, sino tambi´en en la moda, la mediana y a
+lo largo de todos los percentiles de la distribuci´on.
+En cuanto a la escorrent´ıa anual, el comportamiento es similar al de las precipitaciones,
+lo cual es de esperar para una cuenca pluvial. Las serie de anomal´ıas muestra un descenso
+estad´ısticamente significativo, con una tasa de -10,8 mm/d´ecada (≈-0,17 m3/s/d´ecada),
+menor a la calculada para las precipitaciones. Al igual que las anteriores, el leve desfase de
+los histogramas de la Figura 3-10c evidencia que la magnitud de la tendencia es comparable
+con la oscilaci´on natural de a˜nos secos y h´umedos.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+32
+
+===== p.33 =====
+Figura 3-10. Series de anomal´ıas clim´aticas en el per´ıodo hist´orico (azul) y futuro
+(rojo) seg´un los GCM utilizados en el BHN (l´ınea gris) y el promedio multi-modelo
+(l´ınea azul oscuro). (a) Anomal´ıas de precipitaci´on en la estaci´on “Lago Pe˜nuelas”. (b)
+Anomal´ıas de temperatura en la estaci´on “Lago Pe˜nuelas”. (c) Anomal´ıas en la
+escorrent´ıa del Estero Marga-Marga en su desembocadura. En el extremo derecho de
+cada panel se expone el histograma de la anomal´ıa hist´orica (azul) y futura (rojo).
+Siguiendo la normativa nacional, se eval´uan los cambios en la hidrolog´ıa debido al cambio
+clim´atico como la diferencia entre el promedio futuro y el promedio hist´orico, evaluando la
+significancia estad´ıstica de dicha diferencia mediante la prueba U de Mann-Whitney. En
+particular, se considera la gu´ıa “Criterio de Evaluaci´on en el SEIA: Cambio clim´atico en
+la evaluaci´on ambiental del recurso h´ıdrico”3, que basada en las proyecciones del Atlas de
+Riesgo Clim´atico de Chile (ARClim)25, indica una proyecci´on homog´enea de precipitaci´on
+y temperatura para la depresi´on intermedia y las zonas costeras al sur del r´ıo Aconcagua
+(Sector K). Dicho esto, la Tabla 3-4 presenta los cambios esperados en precipitaci´on,
+temperatura y escorrent´ıa en la zona de estudio.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+33
+
+===== p.34 =====
+Tabla 3-4. Cambios asociados al cambio clim´atico para la precipitaci´on (∆Pp) y
+temperatura (∆T) media anual en la zona del proyecto, y escorrent´ıa (∆Q) media anual
+en la cuenca del Estero Marga-Marga.
+Modelo(s)
+∆Pp ( %)
+∆T (°C)
+∆Q ( %)
+SEA P25 (Sector K)
+-20,1
+0,4
+-
+SEA P75 (Sector K)
+-9,5
+1,0
+-
+CCSM4
+-17,3*
+1,0
+-23,0*
+CSIRO-MK3.6.0
+-8,5*
+1,2
+-10,2*
+IPSL-CM5A-LR
+-13,2*
+1,1
+-15,9*
+MIROC-ESM
+-9,0*
+1,3
+-10,0*
+∗Cambios estad´ısticamente no significativos (U de Mann-Whitney).
+Los resultados de la tabla muestran que todos los modelos proyectan un aumento signifi-
+cativo de la temperatura, independiente de la variabilidad interanual. De manera similar,
+se prev´e una reducci´on en las precipitaciones y caudales, no obstante esta disminuci´on
+no resulta estad´ısticamente significativa, ya que la variabilidad interanual es de magnitud
+comparable a la diferencia estimada en los promedios.
+Cabe destacar que la informaci´on de ARClim es similar a la del BHN, ya que ambas
+fuentes proyectan el cambio clim´atico a partir de simulaciones CMIP5. La diferencia ra-
+dica en los m´etodos de escalamiento: el BHN utiliza cuatro GCM en el escenario RCP8.5
+m´as desfavorable, mientras que ARClim eval´ua todos los GCM disponibles, independien-
+temente del escenario de emisiones o la representatividad del GCM en el clima local. Dado
+que ARClim incorpora m´as modelos, las proyecciones del SEA se basan en los percentiles
+25 y 75 de la variabilidad multimodelo, teniendo en cuenta el promedio espacial de las
+series temporales simuladas. Este promedio (zona K) abarca diversos sectores de la de-
+presi´on intermedia, por lo que la se˜nal de cambio clim´atico podr´ıa no ser completamente
+representativa de la zona costera donde se emplaza el proyecto.
+Dicho esto, finalmente para la ingenier´ıa del proyecto se sugiere considerar un aumento
+de hasta 1,3°C en las temperaturas medias para el per´ıodo 2030-2060. En cuanto a las
+precipitaciones, de evaluar escenarios h´umedos se recomienda utilizar un escenario equi-
+valente al hist´orico, mientras que para evaluar escenarios secos se sugiere considerar una
+disminuci´on adicional de hasta un 17,3 %. Bajo ning´un escenario estas proyecciones deben
+usarse para estimar la magnitud de eventos meteorol´ogicos extremos futuros, como lluvias
+de corta duraci´on, olas de calor, heladas, u otros fen´omenos puntuales.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+34
+
+===== p.35 =====
+3.4.
+Hidrometeorolog´ıa
+Con el objetivo de evaluar la magnitud de eventos extremos, se realiza un an´alisis de
+frecuencias de la precipitaci´on m´axima en 24 horas de la estaci´on Lago Pe˜nuelas. Para
+esto la Figura 3-11 indica nuevamente la serie temporal de acumulaciones diarias, para la
+cu´al se identific´o la m´axima lluvia de cada a˜no. Posteriormente, y tal como se propone en
+la Tabla 3.702.404.A del Manual de Carreteras26, la lluvia m´axima en 24 horas se estima
+como 1,1 veces la lluvia m´axima diaria identificada.
+Figura 3-11. Serie de tiempo de precipitaci´on acumulada diaria (linea continua) y la
+estimaci´on de la lluvia m´axima en 24 horas de cada a˜no (puntos).
+Cabe destacar que la serie de tiempo presenta registros incompletos para los a˜nos 2020 y
+2021, los cuales no se pudieron rellenar con estaciones vecinas (Tabla 3-2), ya que estas
+tampoco cuentan con registros en dichos a˜nos. Dicho esto, para el an´alisis de frecuencias
+se considera simplemente todos los registros disponibles hasta 2024.
+Con las precipitaciones m´aximas en 24 horas, se procede a realizar el an´alisis de frecuen-
+cia y ajuste de modelos probabil´ısticos de las distribuciones Normal, Lognormal, Gamma,
+Pearson3, Logpearson3, Gumbel y GEV. Los par´ametros de todas las distribuciones se ob-
+tienen a trav´es del m´etodo de m´axima verosimilitud (MLE). En todos los casos se evalu´o el
+desempe˜no del ajuste en t´erminos de los test de Kolmogorov-Smirnov (KS), chi-cuadrado
+(χ2), Cramer-Von-Misses (CVM) y Anderson Darling (AD). Asimismo se consideraron
+como m´etricas de ajuste la ra´ız del error cuadr´atico medio (RMSE), el coeficiente de de-
+terminaci´on R2, el criterio de informaci´on de Akaike (AIC) y el criterio de informaci´on
+bayesiano (BIC).
+Dados los resultados de las Tablas 3-5 y 3-6, se observa que todas las distribuciones
+pasan los tests de bondad de ajuste con un nivel de significancia del 5 % (p > 0,05),
+sin embargo no todas tienen las mismas m´etricas de desempe˜no. En este contexto, se
+selecciona la distribuci´on Lognormal por presentar un ajuste visual satisfactorio a los
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+35
+
+===== p.36 =====
+registros m´aximos de la serie (Figura 3-12), adem´as de valores conservadores en per´ıodos
+de retorno altos y magnitudes bajas de AIC y BIC. Estos ´ultimos indicadores sugieren
+la m´axima verosimilitud con el menor n´umero de par´ametros, lo cu´al es un criterio de
+selecci´on usualmente recomendado por la literatura (Mutua, 1994) y textos generales de
+estad´ıstica (Wilks, 2011).
+Tabla 3-5. Resultados del ajuste de modelos probabil´ısticos. Sub´ındice p hace
+referencia al p-valor del test realizado. En color rojo se destaca el modelo optado.
+Lognorm
+Pearson3
+Gamma
+Gumbel
+LogPearson3
+GEV
+Normal
+R2
+0,993
+0,993
+0,985
+0,990
+0,993
+0,992
+0,930
+RMSE
+5,8
+5,2
+7,9
+7,9
+5,9
+6,0
+12,7
+AIC
+490,6
+491,3
+491,5
+491,6
+492,6
+493,3
+500,9
+BIC
+494,3
+496,9
+495,2
+495,3
+498,1
+498,8
+504,6
+χ2
+p
+0,728
+0,756
+0,580
+0,544
+0,556
+0,479
+0,074
+KSp
+0,981
+0,996
+0,912
+0,903
+0,977
+0,966
+0,452
+CV Mp
+0,990
+0,993
+0,962
+0,967
+0,991
+0,981
+0,442
+ADp
+0,994
+0,996
+0,972
+0,974
+0,995
+0,988
+0,418
+Tabla 3-6. Valores de precipitaci´on en funci´on del per´ıodo de retorno para los distintos
+modelos probabil´ısticos. En color rojo se destaca el modelo optado.
+T (a˜nos)
+Lognorm
+Pearson3
+Gamma
+Gumbel
+LogPearson3
+GEV
+Normal
+2
+95,7
+94,8
+99,0
+97,3
+96,0
+95,6
+105,7
+5
+139,5
+141,4
+141,3
+138,4
+139,7
+138,3
+145,9
+10
+169,9
+172,7
+167,4
+165,6
+169,6
+168,8
+167,0
+20
+199,9
+202,3
+191,1
+191,7
+198,9
+199,7
+184,4
+25
+209,6
+211,7
+198,4
+200,0
+208,3
+209,8
+189,4
+50
+240,0
+240,1
+220,3
+225,5
+237,7
+242,3
+203,9
+75
+258,1
+256,3
+232,6
+240,3
+255,1
+262,0
+211,7
+100
+271,2
+267,8
+241,2
+250,8
+267,6
+276,3
+217,0
+150
+289,8
+283,8
+253,1
+265,5
+285,4
+297,0
+224,1
+200
+303,2
+295,0
+261,4
+276,0
+298,1
+312,1
+228,9
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+36
+
+===== p.37 =====
+Figura 3-12. Resultados del ajuste del modelo Lognormal a la distribuci´on de
+frecuencias de la lluvia m´axima anual en 24 horas de la estaci´on Lago Pe˜nuelas.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+37
+
+===== p.38 =====
+4.
+Calidad de Aguas
+La presente secci´on describe la caracterizaci´on de la calidad de las aguas superficiales del
+estero Marga-Marga en el entorno del Proyecto, cauce que recibe aportes de quebradas
+de escurrimiento espor´adico en las cuales se emplazan las obras proyectadas. Para ello,
+se realiz´o una campa˜na de muestreo en puntos representativos del ´area de estudio, cuyos
+resultados se eval´uan en funci´on de la normativa vigente, con el objetivo de caracterizar
+las condiciones actuales del recurso h´ıdrico en las inmediaciones del Proyecto.
+En t´erminos de contenido, en primer lugar se presenta el marco normativo; posteriormente,
+el programa de muestreo; y, por ´ultimo, se exponen los resultados y su evaluaci´on respecto
+a la normativa vigente.
+4.1.
+Marco Normativo Aplicable
+La evaluaci´on de la calidad de las aguas en el ´area de estudio se realiza en funci´on de los
+par´ametros y criterios establecidos en la Norma Chilena NCh1333 Of.78 Mod.87, relativa
+a los requisitos de calidad de agua para riego, en conjunto con los par´ametros de monitoreo
+definidos en el Decreto Supremo N°189 del Ministerio de Salud.
+4.2.
+Programa de Muestreo
+Con el objetivo de evaluar la calidad de las aguas superficiales del estero Marga-Marga en
+las inmediaciones del Proyecto, se realiz´o una campa˜na de muestreo el d´ıa 29 de diciembre
+de 2025, considerando tres puntos representativos, identificados como M1, M2 y M3 (ver
+Figura 4-1 y Tabla 4-1).
+Las muestras fueron recolectadas siguiendo protocolos est´andar de muestreo y preserva-
+ci´on, y posteriormente enviadas a un laboratorio acreditado para la determinaci´on de
+par´ametros f´ısicos, qu´ımicos y microbiol´ogicos. Los an´alisis incluyeron metales, sales di-
+sueltas, nutrientes, indicadores microbiol´ogicos y variables f´ısico-qu´ımicas, con el fin de
+caracterizar la condici´on actual en el ´area de estudio.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+38
+
+===== p.39 =====
+Figura 4-1. Mapa de puntos de muestreo de calidad de aguas.
+Tabla 4-1. Coordenadas de los puntos de monitoreo M1, M2 y M3.
+Id
+Nombre
+Este (m)
+Norte (m)
+M1
+Estero Quilpu´e, Antes de confluencia
+268.150
+6.339.354
+M2
+Estero Marga Marga, Aguas Arriba del Estero Quilpu´e
+267.167
+6.339.659
+M3
+Estero Marga Marga, Aguas Abajo del Estero Quilpu´e
+269.106
+6.338.673
+4.3.
+Resultados del An´alisis de Laboratorio
+En la Tabla 4-2 se presentan los par´ametros analizados, incluyendo aquellos establecidos
+en la Norma Chilena NCh1333 Of.78 Mod.87 y en el Decreto Supremo N°189. Asimismo,
+se indican los l´ımites correspondientes definidos en la NCh1333 Of.78 Mod.87 para aguas
+destinadas a riego.
+En el Ap´endice D - Calidad del Agua se incorporan los informes de los ensayos de
+laboratorio.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+39
+
+===== p.40 =====
+Tabla 4-2. Resultados de an´alisis de laboratorio de muestreo h´ıdrico M1, M2 y M3.
+Ensayos
+Unidad
+de medida
+L´ımite M´aximo
+NCh1333
+M1
+M2
+M3
+Qu´ımica
+Alcalinidad Total
+mg/L
+–
+10
+20
+20
+Aluminio
+mg/L
+5
+0,889
+0,947
+1,63
+Ars´enico
+mg/L
+0,1
+<0,005
+<0,005
+<0,005
+Bario
+mg/L
+4
+0,0552
+0,0671
+0,0589
+Berilio
+mg/L
+0,1
+<0,05
+<0,05
+<0,05
+Boro
+mg/L
+0,75
+<0,5
+<0,5
+<0,5
+Cadmio
+mg/L
+0,01
+<0,0008
+<0,0008
+<0,0008
+Calcio
+mg/L
+–
+156
+124
+79,7
+Cianuro Total
+mg/L
+0,2
+<0,01
+<0,01
+<0,01
+Cloruro
+mg/L
+200
+22,1
+23,7
+21,5
+Cobalto
+mg/L
+0,05
+<0,005
+<0,005
+<0,005
+Cobre
+mg/L
+0,2
+0,0088
+0,0331
+0,0079
+Cromo Total
+mg/L
+0,1
+<0,005
+<0,005
+<0,005
+DBO5
+mg/L
+–
+<2
+<2
+<2
+DQO
+mg/L
+–
+23,3
+29,7
+31,3
+Fluoruro
+mg/L
+1
+0,31
+0,33
+0,173
+Hierro
+mg/L
+5
+0,0214
+0,5187
+0,434
+Litio
+mg/L
+2,5
+<0,01
+<0,01
+<0,01
+Magnesio
+mg/L
+–
+28,3
+27,7
+18,7
+Manganeso
+mg/L
+0,2
+0,0173
+0,148
+<0,005
+Mercurio
+mg/L
+0,001
+<0,0005
+<0,0005
+<0,0005
+Molibdeno
+mg/L
+0,01
+<0,005
+<0,005
+<0,005
+N´ıquel
+mg/L
+0,2
+<0,005
+<0,005
+<0,005
+Nitr´ogeno amoniacal
+mgNH3/L
+–
+1,37
+1,2
+1,12
+Nitr´ogeno Kjeldahl
+mg/L
+–
+1,44
+1,3
+1,22
+Plata
+mg/L
+0,2
+<0,005
+<0,005
+<0,005
+Plomo
+mg/L
+5
+<0,005
+0,0057
+<0,005
+Potasio Total
+mg/L
+–
+3,02
+1,92
+1,59
+S´olidos disueltos totales
+mg/L
+Tabla 4-3
+607
+552
+442
+S´olidos suspendidos totales
+mg/L
+–
+<5
+10,4
+19,2
+Selenio
+mg/L
+0,02
+<0,005
+<0,005
+<0,005
+Sodio
+mg/L
+–
+47
+68,8
+52,2
+Sodio porcentual
+%
+35
+16,71
+26
+29,01
+Sulfatos
+mg/L
+250
+131
+147
+76,6
+Vanadio
+mg/L
+0,1
+<0,005
+0,0091
+<0,005
+Zinc
+mg/L
+2
+<0,02
+0,2249
+<0,02
+Microbiolog´ıa
+Coliformes fecales
+NMP/100 ml
+1000
+2400
+490
+23
+F´ısico-Qu´ımica
+Temperatura
+°C
+–
+17,1
+21,1
+21,5
+Conductividad el´ectrica
+uS/cm
+Tabla 4-3
+796
+758
+594
+pH
+Unidades pH
+5,5 <M <9
+7,86
+7,79
+7,35
+Turbiedad
+NTU
+–
+0,6
+13
+21
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+40
+
+===== p.41 =====
+Tabla 4-3. Clasificaci´on de aguas para riego seg´un su salinidad. Fuente:Tabla 2 -
+NCh1333 Of.78 Mod.87.
+Clasificaci´on
+Conductividad espec´ıfica,
+C ( mhos/cm a 25°C)
+S´olidos disueltos totales,
+S (mg/l a 105°C)
+Agua con la cual generalmente
+no se observar´an efectos perjudiciales
+c ≤750
+s ≤500
+Agua que puede tener efectos
+perjudiciales en cultivos sensibles
+750 <c ≤1500
+500 <s ≤1,000
+Agua que puede tener efectos adversos
+en muchos cultivos y necesita de m´etodos
+de manejo cuidadosos
+1500 <c ≤3000
+1.000 <s ≤2,000
+Agua que puede ser usada para plantas
+tolerantes en suelos permeables con
+m´etodos de manejo cuidadosos
+3.000 <c ≤7,500
+2.000 <s ≤5,000
+En t´erminos generales, los par´ametros qu´ımicos analizados presentan concentraciones in-
+feriores a los l´ımites m´aximos establecidos por la normativa, lo que indica una baja pre-
+sencia de contaminantes met´alicos o compuestos potencialmente perjudiciales para el uso
+agr´ıcola del recurso h´ıdrico. En particular, metales como ars´enico, cadmio, cromo, n´ıquel
+y mercurio presentan concentraciones muy inferiores a los valores m´aximos permitidos.
+Los valores de pH registrados en los tres puntos de muestreo se encuentran dentro del
+rango establecido por la normativa 5, 5 < pH < 9.
+Respecto de la conductividad el´ectrica y los s´olidos disueltos totales, los puntos M1 (Es-
+tero Quilpu´e) y M2 (Estero Marga-Marga aguas arriba de la confluencia con el Estero
+Quilpu´e) presentan valores asociados a aguas que podr´ıan generar efectos perjudiciales en
+cultivos sensibles (ver Tabla 4-3). No obstante, en el punto M3, ubicado aguas abajo de
+la confluencia, se aprecia una disminuci´on de estos par´ametros, alcanzando valores que, si
+bien se sit´uan cercanos al l´ımite superior establecido por la normativa, se asocian a aguas
+que, en general, no se observan efectos perjudiciales.
+En cuanto a los coliformes fecales, el punto M1 (Estero Quilpu´e) presenta concentraciones
+superiores al l´ımite m´aximo establecido por la NCh1333 para aguas de riego. En contraste,
+los puntos M2 y M3, correspondientes al Estero Marga-Marga aguas arriba y aguas abajo
+de la confluencia, respectivamente, presentan concentraciones inferiores a dicho l´ımite.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+41
+
+===== p.42 =====
+5.
+Conclusiones
+En el marco de la evaluación ambiental del proyecto “CMGIR” Viña del Mar, se carac-
+teriz´o el hidroclima de la zona de estudio en su situaci´on actual y su proyecci´on futura,
+para luego distinguir los cauces y cuencas involucradas directa o indirectamente con el
+proyecto. En relaci´on a esto, la l´ınea base concluye lo siguiente:
+Las cuencas de las quebradas Q1, Q2 y Q3 se consideran las quebradas principal
+intervenidas por el proyecto desde una perspectiva h´ıdrica superficial.
+Las cuencas identificadas presentan ´areas reducidas pero altas pendientes. No se ob-
+servan planicies de inundaci´on claras, sino que el terreno est´a fragmentado en m´ulti-
+ples quebradas, pendientes, crestas y cimas. La red h´ıdrica es de tipo dendr´ıtica,
+con cauces principales bien definidos, de secci´on homog´enea y taludes pronuncia-
+dos. El terreno est´a dominado por matorrales bajos, pastizales estacionales y suelos
+bald´ıos con un contenido de sedimentos finos evidente, lo que sugiere un potencial
+de escorrent´ıa medio-alto. A pesar de esto, en capas de suelo m´as profundas y s´olo
+en el lecho de los cauces principales, se identificaron arenas gruesas con una alta
+permeabilidad y capacidad de arrastre.
+Se caracteriz´o parcialmente el Estero Marga-Marga, espec´ıficamente en el tramo
+previo a la confluencia con el Estero Quilpu´e. A partir de este an´alisis se concluye
+que el Estero Marga-Marga presenta un alto grado de intervenci´on humana. Seg´un
+lo observado en im´agenes satelitales, la extracci´on de ´aridos en los ´ultimos 20 a˜nos
+ha perturbado lo que hist´oricamente era un cauce continuo. Actualmente, el cauce
+est´a fragmentado en varios cuerpos de agua, destacando principalmente dos lagunas
+cuyo tama˜no se estima entre 2 y 5 ha, sujetas a la escorrent´ıa mensual. Tambi´en se
+identifica un grado importante de intervenci´on asociada al dep´osito de escombros y
+basura dom´estica.
+De forma general, el proyecto se ubica en un clima mediterr´aneo costero, constituido
+´unicamente por cuencas de r´egimen pluvial. Mediante la estaci´on “Lago Pe˜nuelas”,
+la precipitaci´on media anual se estima en 594 mm para el per´ıodo hist´orico, concen-
+trada principalmente en la temporada invernal. En verano, lo t´ıpico es que las lluvias
+sean casi nulas, salvo eventos aislados de baja acumulaci´on asociados a nieblas cos-
+teras. El registro hist´orico muestra una tendencia significativa a la disminuci´on de
+la lluvia anual, no obstante en eventos extremos se han registrado acumulaciones
+diarias superiores a 200 mm. La temperatura media anual es de 13,5°C, con un ciclo
+estacional amortiguado de veranos templados e inviernos fr´ıos. Las m´aximas en ve-
+rano alcanzan t´ıpicamente los 22,5°C y las m´ınimas de invierno 5°C, con extremos
+ocasionales sobre 30°C o cercanos a 0°C respectivamente. El registro hist´orico no
+evidencia una tendencia significativa de temperatura media a largo plazo.
+Simulaciones de cambio clim´atico para la zona de estudio indican un aumento pro-
+gresivo de la temperatura y una reducci´on de las precipitaciones anuales, aunque
+para esta ´ultima, la magnitud de los cambios presenta alta incertidumbre. Siguiendo
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+42
+
+===== p.43 =====
+el principio precautorio, para 2030-2060 se sugiere considerar una reducci´on de las
+precipitaciones anuales de hasta un 17,3 %, y un aumento de la temperatura media
+de hasta 1,3°C. Seg´un el balance h´ıdrico nacional, estos cambios podr´ıan reducir la
+escorrent´ıa anual en la cuenca del Estero Marga-Marga entre 10 % y 23 %, no obstan-
+te los registros hist´oricos sugieren una resiliencia mayor. Es importante se˜nalar que
+debido a la resoluci´on espacial y temporal de los GCM, los resultados son adecuados
+para evaluar el clima, sin embargo no se deben utilizar para evaluar la magnitud de
+eventos meteorol´ogicos extremos, como lluvias de corta duraci´on, crecidas, heladas
+u olas de calor.
+En t´erminos generales, la calidad de las aguas superficiales en el ´area de estudio cum-
+ple con los criterios de la NCh1333 Of.78 Mod.87 para la mayor´ıa de los par´ametros
+analizados, siendo apta para riego. Las concentraciones de metales y compuestos
+qu´ımicos se encuentran muy por debajo de los l´ımites normativos, y los valores de
+pH se sit´uan dentro del rango permitido (5,5 < pH < 9). No obstante, el Estero
+Quilpu´e y el Estero Marga-Marga aguas arriba de la confluencia presentan valores
+de conductividad el´ectrica y s´olidos disueltos totales asociados a posibles efectos
+en cultivos sensibles. Aguas abajo de la confluencia, en el Estero Marga-Marga,
+estos par´ametros disminuyen a niveles que, si bien cercanos al l´ımite superior, no
+suelen generar efectos adversos. En cuanto a coliformes fecales, el Estero Quilpu´e
+aguas arriba de la confluencia supera el l´ımite normativo, mientras que en el Estero
+Marga-Marga se presentan concentraciones inferiores a dicho l´ımite.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+43
+
+===== p.44 =====
+Referencias
+[1] Ministerio del Medio Ambiente. Decreto 40: Reglamento del sistema de evaluaci´on
+de impacto ambiental. Biblioteca del Congreso Nacional de Chile, 2024.
+[2] Servicio de Evaluaci´on Ambiental. Criterio de evaluaci´on en el SEIA: Contenidos
+t´ecnicos para la evaluaci´on ambiental del recurso h´ıdrico., 2022.
+[3] Servicio de Evaluaci´on Ambiental. Criterio de evaluaci´on en el SEIA: Cambio clima-
+tico en la evaluacion ambiental del recurso hidrico, 2023.
+[4] JPL NASA. NASADEM Merged DEM Global 1 arc second V001. Distributed by
+OpenTopography, 2021.
+[5] H Jaime Hern´andez, Mauricio Galleguillos, and Cristi´an Estades. Mapa de cobertura
+de suelos de chile 2014: Descripci´on del producto. Laboratorio GEP, Facultad de
+Ciencias Forestales y de la Conservaci´on de la Naturaleza, Universidad de Chile,
+2015:1–4, 2016.
+[6] Diego I Dinamarca, Mauricio Galleguillos, Oscar Seguel, and Carlos Fa´undez Urbina.
+CLSoilMaps: a national soil gridded database of physical and hydraulic soil properties
+for chile. Scientific Data, 10(1):630, 2023.
+[7] Ministerio del Medio Ambiente de Chile. Inventario de Humedales de Chile, 2025.
+URL https://humedaleschile.mma.gob.cl/inventario-humadales/.
+Visitado:
+2025-02-13.
+[8] Y Hong and RF Adler. Estimation of global SCS curve numbers using satellite remote
+sensing and geospatial data. International Journal of Remote Sensing, 29(2):471–477,
+2008.
+[9] Esparza & Vega Ingenieros Consultores y Analytica Cha˜nar. Anexo Informe Mec´anica
+de Suelos Proyecto Los Rincones, COSEMAR S.A, Febrero, 2025.
+[10] Nicol´as A V´asquez, Pablo A Mendoza, Miguel Lagos-Zu˜niga, Luc´ıa Scaff, Eduardo
+Mu˜noz-Castro, and Ximena Vargas. Robust spatial changes in climate classes: in-
+sights from bias-corrected cmip6 models across chile. Environmental Research Letters,
+20(1):014061, 2024.
+[11] Servicio de Evaluaci´on Ambiental. Gu´ıa metodol´ogica para la consideraci´on del cam-
+bio clim´atico en el SEIA, 2023.
+[12] Divisi´on de Recursos H´ıdricos y Medio Ambiente. Universidad de Chile, Departamen-
+to de Ingenier´ıa Civil. Homologaci´on del C´alculo Hidrol´ogico para la estimaci´on de
+la Oferta Natural de agua Hist´orica y Futura en Chile. Direcci´on General de Aguas,
+DGA, 2023.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+44
+
+===== p.45 =====
+[13] Nicol´as V´asquez, Javier Cepeda, Tom´as G´omez, Pablo A Mendoza, Miguel Lagos,
+Juan Pablo Boisier, Camila ´Alvarez-Garret´on, and Ximena Vargas. Catchment-scale
+natural water balance in chile. Water resources of Chile, pages 189–208, 2021.
+[14] Xu Liang, Dennis P Lettenmaier, Eric F Wood, and Stephen J Burges. A simple
+hydrologically based model of land surface water and energy fluxes for general circu-
+lation models. Journal of Geophysical Research: Atmospheres, 99(D7):14415–14428,
+1994.
+[15] Eric F Wood, Dennis P Lettenmaier, and Valerie G Zartarian. A land-surface hydro-
+logy parameterization with subgrid variability for general circulation models. Journal
+of Geophysical Research: Atmospheres, 97(D3):2717–2728, 1992.
+[16] Juan Pablo Boisier, Camila Alvarez-Garret´on, Javier Cepeda, Axel Osses, Nicol´as
+V´asquez, and Roberto Rondanelli. CR2MET: A high-resolution precipitation and
+temperature dataset for hydroclimatic research in Chile. In EGU general assembly
+conference abstracts, page 19739, 2018.
+[17] Alex J Cannon. Multivariate quantile mapping bias correction: an n-dimensional
+probability density function transform for climate model simulations of multiple va-
+riables. Climate dynamics, 50(1):31–49, 2018.
+[18] Karl E Taylor, Ronald J Stouffer, and Gerald A Meehl.
+An overview of CMIP5
+and the experiment design. Bulletin of the American meteorological Society, 93(4):
+485–498, 2012.
+[19] Manuel Schlund, Axel Lauer, Pierre Gentine, Steven C Sherwood, and Veronika Ey-
+ring. Emergent constraints on equilibrium climate sensitivity in CMIP5: do they hold
+for CMIP6? Earth System Dynamics, 11(4):1233–1258, 2020.
+[20] Rodrigo Gonz´ales and Katherine Lizama.
+Dise˜no de humedales construidos para
+el control de crecidas en la cuenca del Estero Marga-Marga, Regi´on de Valpara´ıso,
+Chile. Memoria para optar al t´ıtulo de Ingeniero Civil, Facultaltad de Ciencias F´ısicas
+y Matem´aticas (FCFM), Universidad de Chile., 2022.
+[21] AC Ingenieros Consultores. Diagn´ostico del riego y drenaje en la V regi´on, 2003.
+[22] DHV Consultants, INFOR, ICSA Consultores, BF Ingenieros Civiles. Estudio de
+Factibilidad Programa Manejo de Cuencas Hidrogr´aficas: Informe de Diagn´ostico
+Cuenca R´ıo Aconcagua y Estero Marga-Marga, 1995.
+[23] Ren´e D Garreaud, Juan P Boisier, Roberto Rondanelli, Aldo Montecinos, Hector H
+Sep´ulveda, and Daniel Veloso-Aguila. The central chile mega drought (2010–2018): a
+climate dynamics perspective. International Journal of Climatology, 40(1):421–439,
+2020.
+[24] Ren´e D Garreaud, Camila Alvarez-Garreton, Jonathan Barichivich, Juan Pablo Boi-
+sier, Duncan Christie, Mauricio Galleguillos, Carlos LeQuesne, James McPhee, and
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+45
+
+===== p.46 =====
+Mauricio Zambrano-Bigiarini. The 2010–2015 megadrought in central chile: impacts
+on regional hydroclimate and vegetation. Hydrology and earth system sciences, 21
+(12):6307–6327, 2017.
+[25] A Pica-T´ellez, R Garreaud, F Meza, S Bustos, M Falvey, M Ibarra, K Duarte,
+R Ormaz´abal, R Dittborn, and I Silva. Informe proyecto ARClim: Atlas de Ries-
+gos Clim´aticos para Chile. Centro de Ciencia del Clima y la Resiliencia, Centro de
+Cambio Global UC y Meteodata para el Ministerio del Medio Ambiente a trav´es de
+La Deutsche Gesellschaft f¨ur Internationale Zusammenarbeit (GIZ). Santiago, Chile,
+2020.
+[26] Direcci´on de vialidad. Manual de carreteras. Ministerio de Obras P´ublicas (MOP),
+Chile, 2022.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+46
+
+===== p.47 =====
+A.
+Ap´endice - Hidrolog´ıa
+B.
+Ap´endice - Hidrograf´ıa
+C.
+Ap´endice - Relleno de estad´ısticas
+A continuaci´on se expone gr´aficamente la estrategia para completar las estad´ısticas men-
+suales de la estaci´on “Lago Pe˜nuelas” utilizando el Balance H´ıdrico Nacional. Las Figuras
+C-1 y C-2 comparan los datos mensuales de precipitaci´on y temperatura con el producto
+CR2MET, mientras que la Figura C-3 muestra la dispersi´on entre el producto grillado y
+las observaciones de la estaci´on. La temperatura y la precipitaci´on presentan una clara
+correspondencia mensual y anual, lo que permiti´o establecer relaciones lineales (Figura
+C-3) para completar los datos, especialmente en 2015-2020, donde la estaci´on destaca por
+sus registros faltantes.
+Figura C-1. Comparaci´on entre la precipitaci´on mensual de la estaci´on Lago Pe˜nuelas
+y la estimaci´on del BHN-CR2MET en el p´ıxel m´as cercano. (a) Serie de acumulaciones
+mensuales. (b) Serie de acumulaciones anuales.
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+47
+
+===== p.48 =====
+Figura C-2. Comparaci´on entre la temperatura media mensual de la estaci´on Lago
+Pe˜nuelas y la estimaci´on del BHN-CR2MET en el p´ıxel m´as cercano. (a) Serie de
+temperaturas medias mensuales. (b) Serie de temperaturas medias anuales.
+Figura C-3. Dispersi´on entre la precipitaci´on acumulada mensual (a) y la temperatura
+media mensual (b) seg´un lo observado en la estaci´on Lago Pe˜nuelas y lo expuesto en el
+BHN.
+D.
+Ap´endice - Calidad del Agua
+Caracterizaci´on Hidrol´ogica Proyecto CMGIR
+48

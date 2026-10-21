@@ -1,0 +1,1841 @@
+
+===== p.0 =====
+ 
+2026 
+  
+ 
+ 
+ 
+PERMISO AMBIENTAL SECTORIAL N°160 
+ESTUDIO DE IMPACTO AMBIENTAL: 
+CENTRO METROPOLITANO DE GESTIÓN 
+INGTEGRAL DE RESIDUOS 
+COMUNA DE VIÑA DEL MAR, REGIÓN DEL VALPARAÍSO 
+ 
+ACUAPL-ZSUR-03-26-A-DG-0001 
+ 
+PERMISO AMBIENTAL SECTORIAL 160 
+ 
+Para 
+ACUAPLUS S.A. 
+Preparado por 
+DSS S.A. 
+ 
+Ingeniero de Proyecto 
+Sergio Quiroz Alvarez 
+Jefe Técnico de Área 
+Nicolás Gatica Ruiz  
+Jefe de Área 
+Pablo Quintana Lacoste 
+Gerente General 
+Pablo Zenteno Hidalgo 
+ 
+Rev. 
+por 
+Emitido para 
+Fecha 
+Revisado por 
+Aprobado por 
+A 
+OMC 
+Revisión interna 
+10.04.26 
+ 
+ 
+B 
+SQA 
+Revisión interna 
+30.06.26 
+PQL 
+PQL 
+ 
+
+===== p.1 =====
+ 
+ 
+ 
+PAS160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 2 de 45 
+ 
+ÍNDICE DE CONTENIDOS 
+1. INTRODUCCIÓN ............................................................................................................ 5 
+2. ANTECEDENTES DEL TITULAR ...................................................................................... 6 
+3. ARTÍCULO 160 .............................................................................................................. 7 
+3.1. 
+DE TRATARSE DE SUBDIVISIONES Y URBANIZACIONES ............................................... 7 
+3.1.1. 
+Objeto de la subdivisión, urbanización y destino solicitado ................................... 7 
+3.1.2. 
+Plano de ubicación del predio. ............................................................................ 7 
+3.1.3. 
+Plano de subdivisión con sus características topográficas generales y las vías 
+públicas cercanas. ............................................................................................................. 7 
+3.1.4. 
+Plano de emplazamiento de las edificaciones ....................................................... 7 
+3.1.5. 
+Plantas de arquitectura esquemáticas y siluetas de las elevaciones que ilustren los 
+puntos más salientes, su altura, número de pisos y la línea correspondiente al suelo natural. . 7 
+3.1.6. 
+Superficie .......................................................................................................... 8 
+3.1.7. 
+Caracterización del suelo .................................................................................... 8 
+3.2. 
+DE TRATARSE DE CONSTRUCCIONES ......................................................................... 8 
+3.2.1. 
+Destino de la edificación .................................................................................... 9 
+3.2.2. 
+Plano de ubicación que señale la posición relativa del predio respecto de los 
+terrenos colindantes y del espacio público ......................................................................... 22 
+3.2.3. 
+Plano de emplazamiento de las edificaciones ..................................................... 22 
+3.2.4. 
+Plantas de arquitectura esquemáticas y siluetas de las elevaciones que ilustren los 
+puntos más salientes, su altura, número de pisos y la línea correspondiente al suelo natural 29 
+3.2.5. 
+Caracterización del suelo .................................................................................. 29 
+3.2.6. 
+Relación con Instrumentos de Planificación ....................................................... 30 
+3.2.7. 
+Dotación de Agua Potable - Alcantarillado ......................................................... 31 
+3.2.8. 
+Dotación de Electricidad ................................................................................... 31 
+3.2.9. 
+Caracterización del Suelo ................................................................................. 33 
+4. ANEXO ......................................................................................................................... 45 
+
+===== p.2 =====
+ 
+ 
+ 
+PAS160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 3 de 45 
+ 
+ 
+ÍNDICE DE FIGURAS 
+ 
+Figura 3-1. Ubicación regional del Proyecto. ................................................................................ 8 
+Figura 3-2. Ubicación comunal del Proyecto. ............................................................................... 9 
+Figura 3-3. Instalaciones Generales en la Zona de Proyecto. ...................................................... 10 
+Figura 3-4 Detalle Unidades que conforman las Instalaciones no permanentes de las Zonas del 
+Proyecto. ................................................................................................................................ 10 
+Figura 3-5. Detalle Unidades que conforman las Instalaciones permanentes de las Zonas del Proyecto.
+ .............................................................................................................................................. 12 
+Figura 3-6 Imagen Google Earth Ruta 60 - Troncal Sur. ............................................................. 14 
+Figura 3-7 Perfil camino de acceso. ........................................................................................... 15 
+Figura 3-8 Imagen Google Earth Extensión completa camino acceso. .......................................... 15 
+Figura 3-9 Celda Relleno Sanitario. ........................................................................................... 17 
+Figura 3-10 Bermas perimetrales. ............................................................................................. 18 
+Figura 3-11 Diseño Excavación. ................................................................................................ 19 
+Figura 3-12 Conformación del sello basal relleno sanitario. ......................................................... 20 
+Figura 3-13 Superficie a impermeabilizar. .................................................................................. 21 
+Figura 3-14. Ubicación del predio con Rol 5022-2 donde se encontrarán emplazadas las instalaciones.
+ .............................................................................................................................................. 22 
+Figura 3-15. Emplazamiento de edificaciones e instalaciones Acceso a la Zona de Proyecto. ......... 26 
+Figura 3-16 Distribución de las edificaciones e instalaciones Zona de Instalaciones Operacionales y 
+Administrativas. ....................................................................................................................... 26 
+Figura 3-17 Ubicación de edificaciones e instalaciones Zona de Compostaje. ............................... 27 
+Figura 3-18 Emplazamiento de edificaciones e instalaciones Zona de Reciclaje. ........................... 27 
+Figura 3-19 Emplazamiento de edificaciones e instalaciones Zona de Tratamiento de Lixiviados. .. 28 
+Figura 3-20 Emplazamiento de edificaciones e instalaciones Zona de Tratamiento de  Biogas. ...... 28 
+Figura 3-21. Ubicaciones de las edificaciones e instalaciones Zona de Tratamiento de Lixiviados 
+(Piscinas). ............................................................................................................................... 29 
+Figura 3-22. Ubicación del Proyecto a Escala Comunal. .............................................................. 30 
+Figura 3-23. Relación del Proyecto con el Plan Regulador de la comuna de Viña del Mar y Quilpué.
+ .............................................................................................................................................. 31 
+Figura 3-24. Representación del Área de Influencia de suelo (AI) y las Obras del Proyecto. .......... 34 
+
+===== p.3 =====
+ 
+ 
+ 
+PAS160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 4 de 45 
+ 
+Figura 3-25. Distribución espacial de las series de suelo (CIREN, 2003) en el AI del suelo del Proyecto.
+ .............................................................................................................................................. 36 
+Figura 3-26. Mapa de Pendientes y Puntos de muestreo en el Área de Influencia del Proyecto. .... 37 
+Figura 3-27. Set Fotográfico UHS-1 – Ladera Baja. .................................................................... 38 
+Figura 3-28. Set Fotográfico UHS-2 – Ladera Media. .................................................................. 39 
+Figura 3-29. Set Fotográfico UHS-3 - Ladera Alta. ...................................................................... 40 
+Figura 3-30. Set Fotográfico UHS-4 - Cumbre. ........................................................................... 41 
+Figura 3-31. Set Fotográfico UHS-5 - Quebrada. ........................................................................ 42 
+Figura 3-32. Set Fotográfico UHS-6 – Intervenido. ..................................................................... 43 
+Figura 3-33. Unidades homogéneas de suelo (UHS) identificadas en el área de generación del AI del 
+Proyecto. ................................................................................................................................ 44 
+ 
+ 
+INDICE DE TABLAS 
+ 
+Tabla 1. Datos Titular y Representante Legal. ............................................................................. 6 
+Tabla 2 Dimensiones de instalaciones no permanentes que conforman el Proyecto. ..................... 11 
+Tabla 3 Dimensiones de instalaciones permanentes que conforman el Proyecto. ......................... 13 
+Tabla 4 Movimientos de tierras Camino de acceso. .................................................................... 16 
+Tabla 5 Diseño celda de residuos. ............................................................................................. 17 
+Tabla 6 Movimiento de tierras excavación. ................................................................................ 19 
+Tabla 7 Detalle de la ubicación de las edificaciones asociadas al Proyecto. .................................. 23 
+Tabla 8. Coordenadas geográficas de los puntos de muestreo (calicatas). ................................... 33 
+Tabla 9. UHS en el Área de Influencia (AI), junto con sus superficies y representatividad. ........... 43 
+
+===== p.4 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 5 de 45 
+ 
+1. INTRODUCCIÓN  
+El presente documento presenta los antecedentes técnicos y formales necesarios que permiten 
+acreditar el cumplimiento del Permiso Ambiental Sectorial N°160, referido a la subdivisión y 
+urbanización de terrenos rurales, tal como lo indica el artículo 160 del Reglamento del Sistema de 
+Evaluación de Impacto Ambiental (RSEIA): 
+“El permiso para subdividir y urbanizar terrenos rurales para complementar alguna 
+actividad industrial con viviendas, dotar de equipamiento algún sector rural o 
+habilitar un balneario o campamento turístico o para la construcción de conjuntos 
+habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 
+Unidades de Fomento que cuenten con los requisitos para obtener un subsidio del 
+Estado, así como para las construcciones industriales, de equipamiento, turismo y 
+poblaciones fuera de los límites urbanos, corresponderá a la autorización e 
+informes favorables que se establecen respectivamente en los incisos 3° y 4° del 
+artículo 55 del Decreto con Fuerza de Ley Nº458, de 1975, del Ministerio de la 
+Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones”. 
+El Proyecto consiste en la construcción y operación de una instalación integral destinada al 
+tratamiento de residuos sólidos mediante compostaje, reciclaje y disposición final de residuos sólidos 
+domiciliarios, asimilables a domiciliarios e industriales asimilables. Su emplazamiento corresponde al 
+kilómetro 102,5 de la Ruta 60 – Troncal Sur, que conecta las comunas de Viña del Mar y Quilpué, en 
+la Región de Valparaíso, abarcando una superficie de 63,10 ha dentro de un predio de 206 ha. En 
+términos territoriales, el Proyecto se ubica en la Region de Valparaíso, Provincia de Valparaíso, 
+Comuna de Viña del Mar. 
+El objetivo del Proyecto es proporcionar una solución de largo plazo para el manejo y disposición final 
+de residuos sólidos, resguardando la salud pública y el medio ambiente. Durante sus 25 años de vida 
+útil, se espera recibir aproximadamente 30,7 millones de toneladas de residuos sólidos, con una tasa 
+inicial de operación de 2.500 toneladas por día. 
+ 
+
+===== p.5 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 6 de 45 
+ 
+2. ANTECEDENTES DEL TITULAR 
+La Tabla 4-1 presenta los datos del Titular y del representante legal. 
+Tabla 1. Datos Titular y Representante Legal. 
+Titular 
+COSEMAR SpA 
+RUT 
+96.827.370-1 
+Domicilio 
+13 Norte 853, Piso 9 
+Comuna 
+Viña del Mar 
+Región 
+Valparaíso 
+Teléfono 
+32-2180000 
+ 
+Representante legal 
+José Luis Navajas Rodríguez 
+RUT 
+12.584.678-5 
+Domicilio 
+13 Norte 853, Piso 9 
+Comuna 
+Viña del Mar 
+Región 
+Valparaíso 
+Teléfono 
+32-2180000 
+Fuente: DSS S.A. 
+ 
+
+===== p.6 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 7 de 45 
+ 
+3. ARTÍCULO 160 
+“Permiso para subdividir y urbanizar terrenos rurales o para construcciones fuera de los límites 
+urbanos. El permiso para subdividir y urbanizar terrenos rurales para complementar alguna actividad 
+industrial con viviendas, dotar de equipamiento algún sector rural o habilitar un balneario o 
+campamento turístico o para la construcción de conjuntos habitacionales de viviendas sociales o de 
+viviendas de hasta un valor de 1.000 Unidades de Fomento que cuenten con los requisitos para 
+obtener un subsidio del Estado, así como para las construcciones industriales, de equipamiento, 
+turismo y poblaciones fuera de los límites urbanos, corresponderá a la autorización e informes 
+favorables que se establecen respectivamente en los incisos 3° y 4° del artículo 55 del Decreto con 
+Fuerza de Ley Nº458, de 1975, del Ministerio de la Vivienda y Urbanismo, Ley General de Urbanismo 
+y Construcciones. 
+Los requisitos para su otorgamiento consisten en no originar nuevos núcleos urbanos al margen de 
+la planificación urbana y no generar pérdida o degradación del recurso natural suelo.” 
+Los contenidos técnicos y formales que deben presentarse para acreditar su cumplimiento son los 
+siguientes: 
+3.1. DE TRATARSE DE SUBDIVISIONES Y URBANIZACIONES 
+3.1.1. Objeto de la subdivisión, urbanización y destino solicitado 
+No Aplica. 
+3.1.2. Plano de ubicación del predio. 
+No Aplica. 
+3.1.3. Plano de subdivisión con sus características topográficas generales y las vías 
+públicas cercanas. 
+No Aplica. 
+3.1.4. Plano de emplazamiento de las edificaciones 
+No Aplica. 
+3.1.5. Plantas de arquitectura esquemáticas y siluetas de las elevaciones que ilustren 
+los puntos más salientes, su altura, número de pisos y la línea correspondiente al 
+suelo natural. 
+No Aplica. 
+
+===== p.7 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 8 de 45 
+ 
+3.1.6. Superficie 
+No Aplica. 
+3.1.7. Caracterización del suelo 
+No Aplica. 
+3.2. DE TRATARSE DE CONSTRUCCIONES 
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos” contempla para su operatividad 
+el emplazamiento de Zonas de Instalaciones Operacionales y Administrativas, Zona de Compostaje, 
+Zona de Reciclaje, Zona de Disposición de Residuos, Zona de Tratamiento de Lixiviados y Zona de 
+Tratamiento de Biogás, todas de carácter permanente. 
+Para el desarrollo del proyecto se realizará la instalación de accesos, casetas, oficinas, galpones, 
+bodegas, plantas y caminos para las distintas zonas requeridas. 
+ 
+Figura 3-1. Ubicación regional del Proyecto. 
+Fuente: DSS S.A. 
+
+===== p.8 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 9 de 45 
+ 
+ 
+Figura 3-2. Ubicación comunal del Proyecto. 
+Fuente: DSS S.A. 
+3.2.1. Destino de la edificación 
+La solicitud del Artículo 160 del D.S. N°40/12 en cuanto a construcciones fuera de los límites urbanos 
+presentan los antecedentes necesarios tanto para obras temporales como permanentes.  
+En la Figura 3-3 se representan las unidades de instalaciones generales, pudiendo diferenciar 
+claramente las que se presentan en el punto de acceso a la zona del proyecto, los caminos y las 
+instalaciones en las distintas zonas según lo presentado en la Tabla 2 y que se encuentran sujetas al 
+permiso ambiental. 
+Mientras que el detalle de las unidades que conforman las distintas zonas se puede ver de mejor 
+manera en la Figura 3-5. 
+
+===== p.9 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 10 de 45 
+ 
+ 
+Figura 3-3. Instalaciones Generales en la Zona de Proyecto. 
+Fuente: DSS S.A. 
+La distribución de estas instalaciones no permanentes o temporales se presenta en la Figura 3-4, con una 
+superficie total de 124,37 m² en la Tabla 2. Estas consideran oficinas, comedor y servicios higiénicos (SS.HH.), 
+además de una caseta de acceso, una bodega para residuos peligrosos (RESPEL), un área de abastecimiento de 
+combustible para el grupo electrógeno y una bodega de almacenamiento. 
+ 
+Figura 3-4 Detalle Unidades que conforman las Instalaciones no permanentes de las Zonas del Proyecto. 
+Fuente: DSS S.A. 
+
+===== p.10 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 11 de 45 
+ 
+ 
+Tabla 2 Dimensiones de instalaciones no permanentes que conforman el Proyecto. 
+Zonas 
+N° 
+Instalación 
+Tipo de obra 
+Superficie 
+(m2) 
+Zona de 
+Instalaciones 
+Operacionales 
+y 
+Administrativas 
+A 
+Oficina técnico/administrativa 
+No Permanente 
+14,88 
+B 
+Oficina encargado 
+No Permanente 
+11,04 
+C 
+Baño encargado 
+No Permanente 
+3,84 
+D 
+Comedor 
+No Permanente 
+14,88 
+E 
+Vestidor varones 
+No Permanente 
+14,88 
+F 
+Baño varones 
+No Permanente 
+6,10 
+G 
+Vestidor mujeres 
+No Permanente 
+8,78 
+H 
+Estacionamiento vehículos livianos 
+No Permanente 
+87,50 
+I 
+Camiones y maquinarias 
+No Permanente 
+700,00 
+L 
+Caseta guardia 
+No Permanente 
+4,00 
+Zona de 
+Reciclaje 
+J 
+Bodega residuos peligrosos 
+No Permanente 
+9,76 
+K 
+Bodega residuos no peligrosos 
+No Permanente 
+14,76 
+ 
+  
+Total 
+890,44 
+ 
+El emplazamiento de estas instalaciones permanentes se presenta en la Figura 3-5, las que ocupan una superficie 
+total de 83.206,22 m², según se detalla en la Tabla 3. Estas instalaciones comprenden la caseta de control, 
+oficinas administrativas y operativas, galpón de lavado, mantención y compostaje, bodega de residuos peligrosos 
+(RESPEL) para mantención, galpón de compostaje, además de las demás instalaciones de apoyo requeridas para 
+la operación del proyecto. 
+
+===== p.11 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 12 de 45 
+ 
+ 
+ 
+Figura 3-5. Detalle Unidades que conforman las Instalaciones permanentes de las Zonas del Proyecto. 
+Fuente: DSS S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.12 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 13 de 45 
+ 
+ 
+Tabla 3 Dimensiones de instalaciones permanentes que conforman el Proyecto. 
+ 
+ 
+Zonas 
+N° 
+Instalación 
+Tipo de obra 
+Superficie 
+(m2) 
+Zona de 
+Instalaciones 
+Operacionales y 
+Administrativas 
+1 
+Control de Acceso 1 
+Permanente 
+9,76 
+3 
+Caseta Control de acceso 2 
+Permanente 
+9,76 
+4 
+Caseta de pesaje 
+Permanente 
+7,32 
+6 
+Oficinas administrativas y operativas 
+Permanente 
+285,10 
+7 
+Galpón losa lavado de camiones 
+Permanente 
+112,31 
+8 
+Galpón de mantención 
+Permanente 
+540,00 
+11 
+Bodega RESPEL galpón de mantención 
+Permanente 
+5,99 
+14 
+Galpón compostaje 
+Permanente 
+2173,40 
+15 
+Oficinas compostaje 
+Permanente 
+39,33 
+Zona de 
+Reciclaje 
+16 
+Galpón de reciclaje 
+Permanente 
+2564,97 
+17 
+Oficina reciclaje 
+Permanente 
+48,62 
+24 
+Bodega RESPEL tratamiento lixiviados 
+Permanente 
+5,99 
+25 
+Oficina planta tratamiento lixiviados 
+Permanente 
+55,26 
+27 
+Oficina planta tratamiento biogás 
+Permanente 
+44,40 
+30 
+Camino 
+Permanente 
+77.304,0 
+ 
+  
+Total 
+83.206,22 
+ 
+ 
+
+===== p.13 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 14 de 45 
+ 
+Camino de acceso 
+El acceso principal al proyecto se realizará desde la Ruta 60-Troncal Sur entre el puente Las Cucharas y el 
+viaducto Marga-Marga, específicamente en el kilómetro 102,5 km.   
+ 
+Figura 3-6 Imagen Google Earth Ruta 60 - Troncal Sur. 
+ 
+La longitud del camino de acceso será de 3,76 Km. Teniendo dos pistas, cada una con una dirección, para 
+facilitar el ingreso y la salida de los camiones. El ancho total del camino es de 7 m y presenta pendientes del 
+orden del 8%. 
+El camino de acceso al proyecto tendrá una longitud total de 3,76 km y considerará una estructura de pavimento 
+compuesta por una carpeta asfáltica de 7 cm de espesor, una base granular de 20 cm y una subbase granular 
+de 30 cm. La base granular deberá cumplir con un CBR igual o superior a 80%, mientras que la subbase con un 
+CBR igual o superior a 40%, conforme a los requisitos establecidos en el Manual de Carreteras del MOP para 
+caminos de tránsito pesado. Para dar cumplimiento a las medidas de seguridad establecidas en el Manual de 
+Carreteras y la Nch 2213, barreras metálicas de contención, señaléticas, e iluminación con postación de paneles 
+solares. 
+ 
+
+===== p.14 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 15 de 45 
+ 
+ 
+Figura 3-7 Perfil camino de acceso. 
+ 
+A continuación, se presenta la extensión del camino de acceso hasta el límite donde se emplazará el proyecto.  
+ 
+Figura 3-8 Imagen Google Earth Extensión completa camino acceso. 
+ 
+ 
+ 
+
+===== p.15 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 16 de 45 
+ 
+En la siguiente tabla se presentan los movimientos de tierra del camino de acceso y sus características de diseño. 
+Tabla 4 Movimientos de tierras Camino de acceso. 
+Área 
+ 77.304,00 m² 
+Elevación mínima 
+56,715 m 
+Elevación máxima 
+239,094 m 
+Volumen corte 
+625.278 m³ 
+Volumen terraplén 
+1.918 m³ 
+Longitud  
+3,76 km 
+Ancho promedio 
+  7 m            
+Pendiente máxima 
+8% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.16 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 17 de 45 
+ 
+Geometría del Relleno Sanitario 
+La zona destinada para habilitar el relleno sanitario ha quedado emplazada en un área de tres quebradas 
+principales y menores. 
+El emplazamiento propuesto para la construcción de la celda del relleno sanitario alcanza una superficie de 
+44,90 ha, la cual se encuentra delimitada por los siguientes vértices que corresponden a las coordenadas UTM 
+que se listan a continuación:   
+ 
+Figura 3-9 Celda Relleno Sanitario. 
+ 
+El proyecto nace a partir de la cota 200 m.s.n.m y sube longitudinalmente hasta alcanzar la cota de 
+coronamiento de 350 m.s.n.m. 
+Tabla 5 Diseño celda de residuos. 
+Capacidad (m³) 
+24.331.032 
+Superficie de intervención 
+(m²) 
+449.951 
+Niveles 
+N° de niveles máximo  
+11 
+Altura plataformas m 
+10 
+Taludes 
+Talud de terraplén (V: H) 
+1:03 
+Talud medio manto ppal (V: H) 
+1:03 
+Retranqueos (m) 
+Ancho (m) 
+5 
+Pendiente longitudinal (m) 
+Variable 
+Pendiente transversal  
+2% 
+
+===== p.17 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 18 de 45 
+ 
+El diseño considera la creación de un nivel, apoyado en una berma perimetral diseñada y muros de contención, 
+que contendrán la celda de residuos.   
+El proyecto considera vías de acceso secundarias permanentes, que se mantendrán expeditas para el tránsito 
+de maquinaria y camiones que se utilizarán en la construcción y operación del proyecto y conecta las distintas 
+unidades del proyecto. 
+Por otra parte, se proyectan 4 bermas perimetrales que confinan la celda de relleno, las cuales se muestran en 
+la imagen siguiente.  
+ 
+ 
+Figura 3-10 Bermas perimetrales. 
+ 
+La sección de cada una de las bermas es de 10 m. La carpeta de rodado será material granular compactado 
+mecánicamente, colocada sobre terraplén que configurará la berma del relleno,  
+Estas bermas perimetrales y bermas operacionales no solo delimitan y confinan la celda de disposición, sino que 
+también actúan como elementos de contención y control durante las distintas etapas del proyecto. En el interior 
+del área definida por dichas bermas se llevará a cabo la excavación del vaso del relleno sanitario, considerando 
+las cotas y pendientes necesarias para garantizar la estabilidad estructural y el adecuado manejo de lixiviados. 
+Esta excavación se desarrollará de manera secuencial y controlada, conforme al diseño del plan de crecimiento 
+y al cronograma de operación del sitio. 
+
+===== p.18 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 19 de 45 
+ 
+A continuación, se presenta la imagen correspondiente a la excavación proyectada del vaso del relleno sanitario. 
+Esta representación gráfica permite visualizar la configuración general del vaso, y permite la estimación del 
+volumen de excavación y su integración con las bermas perimetrales previamente descritas. 
+ 
+ 
+Figura 3-11 Diseño Excavación. 
+ 
+Tabla 6 Movimiento de tierras excavación. 
+Excavación General 
+Área 
+449.951 m² 
+Elevación mínima 
+200,000 m 
+Elevación máxima 
+343,364 m 
+Volumen corte 
+8.855.421 m³ 
+Volumen terraplén 
+0 m³ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.19 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 20 de 45 
+ 
+Sistema de impermeabilización basal  
+De acuerdo a los antecedentes de diseño del relleno sanitario del proyecto, las condiciones de fundación y 
+características del suelo, se deberá adoptar el siguiente sistema de impermeabilización: 
+▪ 
+Capa operativa de material compactado: Consiste en suelo natural compactado y nivelado. 
+ 
+▪ 
+GCL Bentonita: Actúa como barrera secundaria de estanqueidad. Esta capa facilita la colocación de 
+la geomembrana primaria. El coeficiente de permeabilidad es de k = 10-9 cm/s. 
+ 
+▪ 
+Geomembrana HDPE: Consiste en un polietileno de alta densidad de 1,5 mm. de espesor. Esta lámina 
+se utilizará como contención primaria instalada directamente sobre la superficie del GCL. La 
+geomembrana posee un coeficiente de permeabilidad de máximo k = 10-12 cm/s y será la encargada 
+de contener los líquidos lixiviados. Sobre esta lámina se incorporará un sistema de drenaje el que 
+descargará, mediante una tubería perforada y por gradiente, a una cámara de recolección de lixiviados 
+ubicada en los puntos más bajos de cada celda.  
+ 
+▪ 
+Geotextil antipunzonamiento: Consiste en un geotextil no tejido punzonado de 400 gr/m2 que 
+servirá de protección, absorberá y distribuirá la carga sobre el sistema de impermeabilización inferior 
+generado por la operación y por la masa de residuos. 
+ 
+No obstante, a lo anterior, y para asegurar la integridad del sistema basal de impermeabilización, se utilizará 
+una carpeta operativa, sobre la cual irán depositados los residuos. Esta carpeta operativa está constituida por: 
+▪ 
+Capa Operativa: Es una capa de suelos con un espesor de 40 cm. que permitirá el flujo de lixiviados 
+hacia la capa drenante y facilitar el movimiento de maquinarias y equipos en la faena de disposición 
+final de los residuos, conformando las respectivas plataformas de descarga y avance. 
+El sistema propuesto se detalla en la imagen siguiente. 
+ 
+Figura 3-12 Conformación del sello basal relleno sanitario. 
+
+===== p.20 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 21 de 45 
+ 
+La superficie se muestra en la siguiente Figura 3-13. 
+ 
+Figura 3-13 Superficie a impermeabilizar. 
+ 
+Para el cálculo de material se consideró la superficie tridimensional, sumado a un 30% para traslapes y pérdida. 
+El resultado final incluye el anclaje en zanja, por lo que el material total a instalar es de 727.898 m². 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.21 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 22 de 45 
+ 
+3.2.2. Plano de ubicación que señale la posición relativa del predio respecto de los 
+terrenos colindantes y del espacio público 
+El terreno donde se emplazará la instalación de las distintas obras corresponde a un predio con Rol 
+5022-2, con nombre “Remanente HDA 7 Hermanas”, corresponde a una ubicación Rural con destino 
+Agrícola y Unidad Homogénea igual a WSS160 de la comuna de Viña del Mar. 
+A continuación, en la Figura 3-14, se identifica el Rol de la propiedad en donde se emplazará la 
+instalación de las obras del Proyecto, así como los de los predios colindantes que se encuentran 
+cercanas a la instalación del Control de Acceso 1, marcada con un Rol Predial 714-4 (Lote 2 Las 
+Cucharas). 
+ 
+Figura 3-14. Ubicación del predio con Rol 5022-2 donde se encontrarán emplazadas las instalaciones. 
+Fuente: DSS S.A. 
+3.2.3. Plano de emplazamiento de las edificaciones 
+Los planos de emplazamiento de las edificaciones se encuentran en el Anexo A (lámina 1) del presente 
+documento. 
+ 
+
+===== p.22 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 23 de 45 
+ 
+ 
+Tabla 7 Detalle de la ubicación de las edificaciones asociadas al Proyecto. 
+N° 
+Zonas 
+Instalación 
+Vértice 
+UTM WGS 84, Huso 19 
+Este (m) 
+Norte (m) 
+1 
+Zonas de 
+Instalaciones 
+Operacionales 
+y 
+Administrativas 
+Caseta Control Acceso 1 
+1 
+267.922,73 
+6.339.042,93 
+2 
+267.919,26 
+6.339.038,04 
+3 
+267.922,88 
+6.339.035,47 
+4 
+267.926,35 
+6.339.040,36 
+3 
+Caseta Control Acceso 2 
+1 
+267.806,03 
+6.337.489,27 
+2 
+267.804,89 
+6.337.485,43 
+3 
+267.808,37 
+6.337.488,58 
+4 
+267.807,23 
+6.337.484,74 
+4 
+Caseta de Pesaje 
+5 
+267.850,52 
+6.337.469,46 
+6 
+268.852,84 
+6.337.468,69 
+7 
+267.849,57 
+6.337.466,61 
+8 
+267.851,88 
+6.337.465,84 
+5 
+Báscula de Pesaje 
+1 
+267.843,06 
+6.337.477,83 
+2 
+267.862,47 
+6.337.471,43 
+3 
+267.861,09 
+6.337.467,25 
+4 
+267.841,68 
+6.337.473,66 
+6 
+Oficinas Administrativas y 
+Operativas 
+1 
+267.834,39 
+6.337.511,87 
+2 
+267.854,16 
+6.337.505,75 
+3 
+267.872,59 
+6.337.500,04 
+4 
+267.846,51 
+6.337.586,56 
+5 
+267.818,38 
+6.337.495,28 
+6 
+267.820,60 
+6.337.502,44 
+7 
+Losa Lavado de Camiones 
+1 
+267.911,67 
+6.337.473,58 
+2 
+267.921,34 
+6.337.470,51 
+3 
+267.927,44 
+6.337.467,10 
+4 
+267.926,01 
+6.337.462,60 
+5 
+267.918,95 
+6.337.463,00 
+6 
+267.909,28 
+6.337.466,07 
+8 
+Galón de Mantención 
+1 
+267.792,09 
+6.337.462,77 
+2 
+267.820,3 
+6.337.452,64 
+6 
+267.786,01 
+6.337.445,83 
+9 
+Estacionamiento 
+3 
+267.821,31 
+6.337.455,55 
+4 
+267.877,5 
+6.337.435,93 
+5 
+267.870,45 
+6.337.415,76 
+11 
+7 
+267.786,16 
+6.337.439,09 
+
+===== p.23 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 24 de 45 
+ 
+Bodega RESPEL Galpón de 
+Mantención 
+8 
+267.787,03 
+6.337.441,65 
+9 
+267.790,06 
+6.337.440,62 
+10 
+267.789,19 
+6.337.438,06 
+12 
+Zona de 
+Compostaje 
+Zona de Trincheras 
+1 
+267687.48 
+6337366.87 
+2 
+267722.52 
+6337347.57 
+3 
+267671.48 
+6337254.94 
+4 
+267636.42 
+6337274.27 
+13 
+Cancha Acopio Material 
+Estructurante 
+5 
+267811.3 
+6337329.49 
+6 
+267817.51 
+6337309.04 
+7 
+267774.97 
+6337316.94 
+8 
+267780.76 
+6337297.87 
+15 
+Oficina Compostaje 
+9 
+267756.14 
+6337381.25 
+10 
+267761.37 
+6337382.57 
+11 
+267765.68 
+6337380.28 
+12 
+267760.68 
+6337376.07 
+14 
+Galpón Compostaje 
+13 
+267707.7 
+6337401.39 
+14 
+267782.85 
+6337362.53 
+15 
+267771.05 
+6337339.72 
+16 
+267695.9 
+6337378.58 
+16 
+Zona de 
+Reciclaje 
+Cancha de contenedores de 
+Reciclaje 
+1 
+267957.82 
+6337325.44 
+2 
+267989.17 
+6337318.78 
+3 
+267982.89 
+6337289.21 
+4 
+267951.54 
+6337295.87 
+17 
+Galpón de Reciclaje 
+5 
+267856.66 
+6337354.21 
+6 
+267949.22 
+6337323.09 
+7 
+267941.25 
+6337299.38 
+8 
+267848.69 
+6337330.44 
+18 
+Oficina Reciclaje 
+9 
+267907.02 
+6337346.83 
+10 
+267911.64 
+6337345.27 
+11 
+267909.71 
+6337339.54 
+12 
+267899.35 
+6337343.02 
+22 
+Zona de 
+Tratamiento 
+de Lixiviados 
+Bandeja de evaporación (3) 
+9 
+268.550,58 
+6.337.280,36 
+10 
+268.619,27 
+6.337.282,54 
+11 
+268.624,58 
+6.337.199,58 
+12 
+268.614,63 
+6.337.156,74 
+13 
+268.555,93 
+6.337.222,94 
+22 
+Bandeja de Evaporación (2) 
+5 
+268.325,43 
+6.337.369,31 
+6 
+268.365,56 
+6.337.356,98 
+
+===== p.24 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 25 de 45 
+ 
+7 
+268.271,92 
+6.337.319,97 
+8 
+268.348,06 
+6.337.294,19 
+23 
+Piscina de Lixiviados (1) 
+1 
+268.158,42 
+6.337.452,39 
+2 
+268.225,04 
+6.337.422,60 
+3 
+268.199,98 
+6.337.369,21 
+4 
+268.134,89 
+6.337.398,73 
+23 
+Piscina de Lixiviados (2) 
+5 
+268.427,58 
+6.337.386,04 
+6 
+268.518,05 
+6.337.347,01 
+7 
+268.494,21 
+6.337.292,23 
+8 
+268.803,25 
+6.337.332,78 
+24 
+Planta Tratamiento Lixiviados 
+1 
+267.973,87 
+6.337.475,67 
+2 
+268.109,56 
+6.337.425,41 
+3 
+268.097,45 
+6.337.402,20 
+4 
+269.966,49 
+6.337.447,57 
+25 
+Bodega RESPEL Tratamiento 
+Lixiviados 
+9 
+268.016,99 
+6.337.420,35 
+10 
+268.019,61 
+6.337.419,70 
+11 
+268.016,22 
+6.337.419,70 
+12 
+268.018,84 
+6.337.416,59 
+26 
+Oficina Lixiviados 
+5 
+267.989,92 
+6.337.422,92 
+6 
+268.009,02 
+6.337.422,92 
+7 
+268.007,57 
+6.337.419,10 
+8 
+267.988,45 
+6.337.421,86 
+27 
+Piscina Bifuncional (1) 
+1 
+268.354,81 
+6.337.437,57 
+2 
+268.388,85 
+6.337.433,19 
+3 
+268.326,69 
+6.337.395,21 
+4 
+268.392,04 
+6.337.377,70 
+28 
+Zona de 
+Tratamiento 
+de Biogás 
+Planta Tratamiento Biogás 
+1 
+267.992,43 
+6.337.402,23 
+2 
+268.060,36 
+6.337.385,31 
+3 
+268.055,28 
+6.337.364,93 
+4 
+268.064.01 
+6.337.362,75 
+5 
+268.061,11 
+6.337.651,11 
+6 
+267.984,46 
+6.337.370,21 
+29 
+Oficina Planta tratamiento Biogás 
+7 
+268.064,70 
+6.337.376,96 
+8 
+268.071,59 
+6.337.375,24 
+9 
+268.070,26 
+6.337.370,54 
+10 
+268.066,81 
+6.337.368,89 
+11 
+268.062,90 
+6.337.369,86 
+ 
+
+===== p.25 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 26 de 45 
+ 
+Fuente: DSS S.A. 
+ 
+Figura 3-15. Emplazamiento de edificaciones e instalaciones Acceso a la Zona de Proyecto. 
+Fuente: DSS S.A. 
+ 
+ 
+Figura 3-16 Distribución de las edificaciones e instalaciones Zona de Instalaciones Operacionales y 
+Administrativas. 
+
+===== p.26 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 27 de 45 
+ 
+ Fuente: DSS S.A. 
+ 
+ 
+Figura 3-17 Ubicación de edificaciones e instalaciones Zona de Compostaje. 
+Fuente: DSS S.A. 
+ 
+Figura 3-18 Emplazamiento de edificaciones e instalaciones Zona de Reciclaje. 
+
+===== p.27 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 28 de 45 
+ 
+Fuente: DSS S.A. 
+ 
+ 
+Figura 3-19 Emplazamiento de edificaciones e instalaciones Zona de Tratamiento de Lixiviados. 
+Fuente: DSS S.A. 
+ 
+Figura 3-20 Emplazamiento de edificaciones e instalaciones Zona de Tratamiento de  
+Biogas.  
+Fuente: DSS S.A. 
+ 
+
+===== p.28 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 29 de 45 
+ 
+ 
+Figura 3-21. Ubicaciones de las edificaciones e instalaciones Zona de Tratamiento de Lixiviados 
+(Piscinas). 
+Fuente: DSS S.A. 
+ 
+3.2.4. Plantas de arquitectura esquemáticas y siluetas de las elevaciones que ilustren 
+los puntos más salientes, su altura, número de pisos y la línea correspondiente al 
+suelo natural 
+Las plantas de arquitectura y siluetas de las elevaciones se presentan en los anexos. 
+3.2.5. Caracterización del suelo 
+3.2.5.1 
+Localización 
+El proyecto se ubica en la comuna de Viña del Mar, Provincia de Valparaíso, Region de Valparaíso, 
+correspondiente al kilómetro 102,5 de la Ruta 50 – Troncal Sur, que conecta las comunas de Viña del 
+Mar y Quilpué. 
+
+===== p.29 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 30 de 45 
+ 
+ 
+Figura 3-22. Ubicación del Proyecto a Escala Comunal. 
+Fuente: DSS S.A. 
+3.2.5.2 
+Superficie 
+El emplazamiento de las instalaciones se realiza abarca una superficie de 63,10 hectáreas dentro de 
+un predio de 206 hectáreas. 
+3.2.5.3 
+Datos del Predio 
+En base al catastro legal, la instalación de las unidades y edificaciones permanentes que forman parte 
+del proyecto se ubica en un predio con ROL predial 5022-2. El nombre de la propiedad corresponde 
+a “Remanente HDA 7 Hermanas” con avalúo fiscal vigente y destinado al área agrícola principalmente. 
+Todo lo anterior perteneciente a la comuna de Viña del Mar, Región de Valparaíso. 
+3.2.6. Relación con Instrumentos de Planificación 
+El proyecto se ubica en la comuna de Viña del Mar, Provincia de Valparaíso, Region de Valparaíso, 
+correspondiente al kilómetro 102,5 de la Ruta 50 – Troncal Sur, que conecta las comunas de Viña del 
+Mar y Quilpué. Se encuentra fuera de los límites urbanos de la comuna de Viña del Mar, por lo tanto, 
+corresponde a un predio rural (Ver Figura 3-23). 
+
+===== p.30 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 31 de 45 
+ 
+ 
+Figura 3-23. Relación del Proyecto con el Plan Regulador de la comuna de Viña del Mar y Quilpué. 
+Fuente: DSS S.A. 
+3.2.7. Dotación de Agua Potable - Alcantarillado 
+Para la realización del proyecto, se procederá a la tramitación de un pozo de extracción de agua, 
+para posteriormente realizar su cloración para su uso en la IF. Además, se contará con agua en 
+bidones para consumo humano. El alcantarillado se tramitará como solución particular del titular. 
+3.2.8. Dotación de Electricidad 
+El sistema de abastecimiento eléctrico del proyecto ha sido diseñado bajo criterios de seguridad, 
+continuidad operativa y sostenibilidad ambiental, considerando tanto la generación autónoma 
+mediante grupos electrógenos como el apoyo de energías renovables a través de paneles 
+fotovoltaicos. 
+Se contempla la instalación de equipos electrógenos principales, los cuales proporcionaran energía a 
+los distintos procesos y recintos operativos. Estos generadores cubrirán los consumos críticos 
+asociados a las operaciones del proyecto, asegurando la disponibilidad eléctrica aun en condiciones 
+de contingencia. El dimensionamiento de cada unidad responde a las características y demandas de 
+instalaciones: 
+
+===== p.31 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 32 de 45 
+ 
+• 
+Generador de 80 KVA: destinado al suministro de la caseta de control, caseta báscula de 
+pesaje, planta de lavado y oficinas administrativas y operativas. 
+• 
+Generador de 144 KVA: diseñado para cubrir la demanda de la planta de reciclaje, que 
+presenta procesos de mayor consumo energético asociado a maquinaria de separación y 
+clasificación. 
+• 
+Generador de 400 KVA: asignado a la planta de compostaje, con cargas vinculadas a 
+sistemas de aireación, tamizado y equipos auxiliares. 
+• 
+2 Generadores de 350 KVA: previsto para la planta de tratamiento de lixiviados, 
+considerando la operación de bombas, sistemas de aireación y equipos de tratamiento 
+propiamente tal. 
+• 
+2 Generadores de 350 KVA: destinado a la planta de biogás, cuya demanda energética 
+está asociada al control de sopladores, antorchas y sistemas de seguridad. 
+Con el objeto de garantizar la confiabilidad del sistema eléctrico, se dispondrá además de generadores 
+de reserva o para uso alternado. Estos permitirán mantener la continuidad de la operación ante fallas, 
+mantenimientos programados o situaciones de energías, reduciendo la probabilidad de interrupciones 
+en el suministro eléctrico. 
+En paralelo, y con el fin de optimizar el uso de energía y reducir la dependencia de combustibles 
+fósiles, se instalará un sistema de 330 paneles fotovoltaicos. Este sistema aprovechará la radiación 
+solar disponible en la zona para generar electricidad limpia y renovable, lo cual permitirá: 
+• 
+Disminuir el consumo eléctrico proveniente de generadores a diésel u otros combustibles. 
+• 
+Reducir los costos operativos asociados al gasto en combustible. 
+• 
+Minimizar la huella ambiental del proyecto mediante la incorporación de energías renovables 
+no convencionales. 
+• 
+Contribuir al cumplimiento de compromisos ambientales y normativas de eficiencia 
+energética. 
+En conjunto, la estrategia de abastecimiento eléctrico asegura que las instalaciones cuenten con un 
+suministro confiable, eficiente y ambientalmente responsable durante toda la vida útil del proyecto. 
+ 
+
+===== p.32 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 33 de 45 
+ 
+3.2.9. Caracterización del Suelo 
+La superficie definida como Área de Influencia (AI) del componente Suelo, correspondiente a 109,3 
+hectáreas, fue delimitada de acuerdo con los lineamientos de la Guía del SEA (2024). Esta superficie 
+corresponde al área directamente intervenida por las partes, obras y acciones del Proyecto, tanto 
+permanentes como temporales, de los efectos fijos, y los efectos por transporte (Ver Figura 3-24). 
+Se ejecutaron 10 puntos de muestreo (calicatas) dentro del AI de suelo. La ubicación de los puntos 
+de muestreo fue planificada en función de la representatividad de las Unidades Homogéneas de Suelo 
+(UHS) definidas preliminarmente, considerando variables como geoforma, pendiente, vegetación, uso 
+actual del suelo y las series edáficas descritas en el Estudio Agrologico de la V Región (CIREN, 1997). 
+La Tabla 8 presenta las coordenadas geográficas de los puntos de muestreo (calicatas). 
+Tabla 8. Coordenadas geográficas de los puntos de muestreo (calicatas). 
+Calicata 
+UTM WGS 84 Huso 19 
+Este  
+Norte 
+C-1 
+267.723 
+6.337.099 
+C-2 
+267.750 
+6.336.955 
+C-3 
+268.280 
+6.336.690 
+C-4 
+268.221 
+6.337.027 
+C-5 
+267.943 
+6.336.947 
+C-6 
+268.420 
+6.336.947 
+C-7 
+268.042 
+6.337.151 
+C-8 
+267.941 
+6.337.315 
+C-9 
+267.690 
+6.337.317 
+C-10 
+268.445 
+6.337.344 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+
+===== p.33 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 34 de 45 
+ 
+ 
+Figura 3-24. Representación del Área de Influencia de suelo (AI) y las Obras del Proyecto. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+
+===== p.34 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 35 de 45 
+ 
+De acuerdo con la información de CIREN, el Área de Influencia del componente suelo se emplaza en 
+la Serie Lo Vásquez (LVZ), cuyo material parental corresponde a rocas graníticas de la Cordillera de 
+la Costa. Estos suelos, clasificados taxonómicamente como Ultic Haploxeralfs, presentan un desarrollo 
+moderado, con perfiles de profundidad variable entre 50 y 100 cm, color pardo rojizo oscuro en 
+superficie y texturas franco arcillo arenosas que se vuelven más arcillosas en profundidad. Se trata 
+de suelos bien drenados, localizados en cerros con pendientes dominantes entre 20% y 50%. 
+La Serie Lo Vasquez presenta once variaciones (LVZ-1 a LVZ-11) que reflejan diferencias en 
+pendiente, profundidad, textura y grado de erosión. Dentro de estas, el 100% del Área de Influencia 
+se ubica en la variación LVZ-9, que según lo indicado por CIREN, corresponde a suelos delgados, 
+situados en montañas con pendientes superiores al 50%, bien drenados y sin evidencias de erosión 
+significativa. Estos suelos mantienen vegetación arbustiva y arbórea natural, y se clasifican en la 
+Capacidad de Uso Vlle1, lo que indica severas restricciones para uso agrícola y las orienta 
+principalmente a funciones de protección y conservación. 
+De esta forma se presenta de acuerdo con CIREN una superficie caracterizada como NOSU (no suelo) 
+y UR (urbano), que no corresponden a series de suelo, por lo que no aplica la clase de capacidad de 
+uso de suelo (CCUS).  
+La representación de las series en el AI de suelo, se presentan en la Figura 3-25. 
+El levantamiento de información se desarrolló sobre la superficie previamente delimitada como Área 
+de Influencia (AI) del componente Suelo, correspondiente a 109,5 hectáreas, según lo indicado 
+previamente. Esta superficie incluye todas las zonas directamente intervenidas por las partes, obras 
+y acciones del Proyecto, considerando los impactos efectos fijos y los efectos por transporte, 
+considerando un buffer de 30 m. Este buffer se determinó considerando un análisis topográfico del 
+área de estudio correspondientes a las distintas clases de pendientes definidas en la Pauta para 
+Estudios de Suelo del SAG (2011, rectificada en 2016), identificadas dentro del AI de suelo del 
+Proyecto. 
+
+===== p.35 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 36 de 45 
+ 
+ 
+Figura 3-25. Distribución espacial de las series de suelo (CIREN, 2003) en el AI del suelo del 
+Proyecto. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+La clasificación se obtuvo a partir del análisis de las pendientes (%) derivadas de las curvas de nivel 
+y se observan ocho cases de pendientes distintas, las que permiten caracterizar la variabilidad 
+topográfica del sitio. En el análisis de pendientes se determinó que el 32,7% de la superficie 
+corresponde a inclinaciones ≥ 45%, donde aplica un buffer de 30 m, mientras que la mayor 
+
+===== p.36 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 37 de 45 
+ 
+proporción, equivalente al 58,59%, se concentra en pendientes entre 15 y < 45%, asociadas a un 
+buffer de 20 m. 
+No obstante, dado que más de un tercio del Área de Influencia presenta pendientes superiores al 
+45%, y por tanto un riesgo significativo de erosión, se opta por aplicar de manera conservadora un 
+buffer de 30 m, de forma que se incorporen las zonas mas altas susceptibles, correspondientes 
+principalmente a las laderas medias y altas. (Ver Figura 3-26). 
+ 
+Figura 3-26. Mapa de Pendientes y Puntos de muestreo en el Área de Influencia del Proyecto. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+
+===== p.37 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 38 de 45 
+ 
+La caracterización físico-morfológica del suelo, obtenida de los 10 puntos de muestreo (calicatas) 
+permite realizar el levantamiento de información de las unidades homogéneas de suelo (UHS), 
+identificando: UHS-1 Ladera Baja, UHS-2 Ladera media, UHS-3 Ladera alta, UHS-4 Cumbre, UHS-5 
+Quebrada y UHS-6 Intervenido. 
+Se presentan una serie de set fotográficas de las UHS identificadas y una descripción asociada. 
+UHS-1 Ladera Baja 
+Esta UHS se encuentra representada por el punto de evaluación C10. Ubicadas entre 202 m.s.n.m. 
+Abarca una superficie de 4,5 Ha, equivalente al 4,1% del total del AI de Suelo. Comprende suelos 
+profundos (>90 cm); con pendiente compleja, de lomajes (30 a <45%), sin pedregosidad superficial 
+(0 a <5% de piedras y 0 a <10% de grava gruesa), posee una condición regular de aprovechamiento 
+de agua; sin pedregosidad superficial (<5%); con una erosión actual ligera, evidenciada por los 
+pedestales incipientes. 
+La vegetación es un renoval de Bosque Nativo de Peumo, abierto. En la Figura 3-27 se observan las 
+características de esta unidad. 
+ 
+Figura 3-27. Set Fotográfico UHS-1 – Ladera Baja. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+ 
+
+===== p.38 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 39 de 45 
+ 
+UHS-2 Ladera Media 
+Esta UHS se encuentra representada por los puntos de evaluación C-1, C-4, C-5, C-7. Ubicados entre 
+209 a 323 m.s.n.m. Abarca una superficie de 47,5 Ha, equivalente al 43,4% del total del AI de suelo. 
+Comprende suelos profundos (>90 cm); con pendiente compleja, suavemente ondulada (15 a <30%) 
+a lomajes (30 a <45%), sin pedregosidad superficial (0 a <5% de piedras y 0 a <10% de grava 
+gruesa), posee buen drenaje (W5); clase textural superficial de moderadamente gruesa a media, a 
+sectores que presentan una textura moderadamente fina; posee una condición buena a muy pobre 
+aprovechamiento de agua, dependiendo del grado de erosión actual; sin pedregosidad superficial 
+(<5%); con una erosión actual moderada, evidenciada por la presencia de pedestales de 2 a 5 cm 
+de altura en un 15 a <30% de la superficie, cárcavas en activación y frecuentes, con un 
+distanciamiento de entre 10 a 20 m y profundidades que varían entre 0,5 a 1 m, canalículos 
+frecuentes a otros que forman espacios de terreno estriado, la vegetación en un 30 a <50% de la 
+superficie.  
+La vegetación es un renoval abierto de Bosque Nativo de Peumo, Boldo, Litre y en otros sectores 
+presencia de un matorral abierto de Colliguay y Chagual. En la Figura 3-28 se observan las 
+características de esta unidad. 
+ 
+Figura 3-28. Set Fotográfico UHS-2 – Ladera Media. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+
+===== p.39 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 40 de 45 
+ 
+UHS-3 Ladera Alta 
+Esta UHS se encuentra representada por los puntos de evaluación C-2, C-3, C-9. Ubicados entre 257 
+a 296 m.s.n.m. Abarca una superficie de 44,5 Ha, equivalente al 40,6% del total del AI de suelo. 
+Comprende suelos profundos (>90 cm); con pendiente compleja, de cerro (45 a <60%) a pendiente 
+de montaña (>60%). Van desde sin pedregosidad superficial (0 a <5% de piedras y 0 a <10% de 
+grava gruesa) a moderada (20 a <40% de grava gruesa o 15 a <35% de piedra), posee buen drenaje 
+(W5); clase textural superficial de moderadamente gruesa a media, a sectores que presentan una 
+textura moderadamente fina; posee una condición regular a muy pobre aprovechamiento de agua, 
+dependiendo del grado de erosión actual; se observan desde sin pedregosidad subsuperficial (<5%) 
+a moderada (15 a <30%); evidenciada por la presencia de pedestales de 5 a 25 cm de altura en un 
+45 a <60% de la superficie, surcos y cárcavas frecuentes de 0,5 a 1 m profundidad, y exposición 
+frecuente de raíces a nivel de superficie, y algunos canalículos. 
+La vegetación corresponde a matorral abierto de Colliguay y Chagual. En la Figura 3-29 se observan 
+las características de esta unidad. 
+ 
+Figura 3-29. Set Fotográfico UHS-3 - Ladera Alta. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+ 
+
+===== p.40 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 41 de 45 
+ 
+UHS-4 Cumbre 
+Esta UHS se encuentra representada por los puntos de evaluación C-6, C-8. Ubicados entre 261 a 
+264 m.s.n.m. Abarca una superficie de 7,0 Ha, equivalente al 6,3% del total del AI de suelo. 
+Comprende suelos ligeramente profundos (40 a 70 m) a profundos (>90 cm); con pendiente 
+compleja, moderadamente ondulado (8 a <15%). Sin pedregosidad superficial (0 a <5% de piedras 
+y 0 a <10% de grava gruesa); posee buen drenaje (W5); clase textural superficial de moderadamente 
+fina a media; posee una condición de buena a regular aprovechamiento de agua, dependiendo del 
+grado de erosión actual; sin pedregosidad subsuperficial (<5%); la erosión actual. La erosión actual 
+es severa, evidenciada por la vegetación degradada, presente solo en un 15–30% de la superficie; 
+pedestales de 2 a 5 cm de altura en un 15 a <30% de la superficie; surcos distantes y otros 
+recurrentes y cárcavas en activación, frecuentes.  
+La vegetación corresponde a matorral abierto de Colliguay y Chagual y en otros sectores un bosque 
+nativo renoval de Litre. En la Figura 3-30 se observan las características de esta unidad. 
+ 
+Figura 3-30. Set Fotográfico UHS-4 - Cumbre. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+ 
+
+===== p.41 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 42 de 45 
+ 
+UHS-5 Quebrada 
+Esta UHS abarca una superficie de 5,8 Ha, equivalente al 5,3% del total del AI de suelo. Debido a su 
+condición de pendientes abruptas, son susceptibles a erosionarse y presentar en su cauce piedras y 
+bolones abundantes.  
+Presenta generalmente una buena a regular vegetación arbustiva que evita los procesos erosivos. En 
+la Figura 3-31 se observan las características de esta unidad. 
+ 
+Figura 3-31. Set Fotográfico UHS-5 - Quebrada. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+UHS-6 Intervenido 
+Esta UHS abarca una superficie de 0,3 Ha, equivalente al 0,2% del total del AI de suelo. Presenta 
+una condición altamente intervenida (autopista – Red vial). En la Figura 3-32 se observan las 
+características de esta unidad. 
+
+===== p.42 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 43 de 45 
+ 
+ 
+Figura 3-32. Set Fotográfico UHS-6 – Intervenido. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+A continuación, en la siguiente tabla se presenta un cuadro resumen con la información descrita 
+sobre UHS y superficies dentro del AI del suelo del Proyecto. Además, en la Figura 3-33 se presenta 
+la representación de las UHS en el AI de suelo. 
+Tabla 9. UHS en el Área de Influencia (AI), junto con sus superficies y representatividad. 
+UHS 
+Punto de muestreo 
+(calicata) 
+Área 
+(Ha) 
+% del Área de 
+Influencia 
+UHS-1: Ladera Baja 
+C-10 
+4,5 
+4,1 
+UHS-2: Ladera media 
+C-1, C-4, C-5, C-7 
+47,4 
+43,4 
+UHS-3: Ladera alta 
+C-2, C-3, C-9 
+44,7 
+41,0 
+UHS-4: Cumbre 
+C-6, C-8 
+6,9 
+6,3 
+UHS-5: Quebrada 
+- 
+5,8 
+5,3 
+UHS: Intervenido 
+- 
+0,3 
+0,2 
+Total 
+109,5 
+100,0 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+
+===== p.43 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 44 de 45 
+ 
+ 
+Figura 3-33. Unidades homogéneas de suelo (UHS) identificadas en el área de generación del AI 
+del Proyecto. 
+Fuente: Línea Base Edafología (GEAGRAM, 2025) 
+
+===== p.44 =====
+ 
+ 
+ 
+PAS 160 
+Centro Metropolitano de Gestión Integral de Residuos 
+ACUAPL-ZSUR-03-26-A-DG-001 
+Página 45 de 45 
+ 
+4. ANEXO  
+• 
+01 Layout 
+• 
+02 Planos de Arquitectura (Emplazamiento de Obras y Perfiles) 

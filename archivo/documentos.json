@@ -1,0 +1,1052 @@
+[
+ {
+  "n": 1,
+  "folio": "2026-05-116-3",
+  "tipo": "Estudio de impacto ambiental",
+  "emisor": "COSEMAR SPA",
+  "fecha": "20/07/2026 11:25:34",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/24/Hito_23_Copia_Escritura_-_TRANSF_SA_-_SPA__1_.pdf",
+    "via": "anexo",
+    "nombre": "Ver archivo digital"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_11_14.rar",
+    "via": "anexo",
+    "nombre": "Anexo 1.1-1.4"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_15_Planos_11.rar",
+    "via": "anexo",
+    "nombre": "Anexo 1.5 Planos 1.1"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_15_Planos_12.rar",
+    "via": "anexo",
+    "nombre": "Anexo 1.5 Planos 1.2"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexos_16_18.rar",
+    "via": "anexo",
+    "nombre": "Anexos 1.6-1.8"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf",
+    "via": "anexo",
+    "nombre": "CAPITULO 1. DESCRIPCIÓN DEL PROYECTO CMGIR"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar",
+    "via": "anexo",
+    "nombre": "Anexo 4.1 Informe de Estimación de emisiones"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf",
+    "via": "anexo",
+    "nombre": "Anexo 4.2 Informe Modelación Meteorológica"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_43_Modelacion_Emisiones_Atmosfericas.pdf",
+    "via": "anexo",
+    "nombre": "Anexo 4.3 Modelacion_Emisiones_Atmosfericas"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_44_Modelacion_de_olores.rar",
+    "via": "anexo",
+    "nombre": "Anexo 4.4 Modelación de olores"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar",
+    "via": "anexo",
+    "nombre": "Anexo 4.5 Evaluación Paisajística"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar",
+    "via": "anexo",
+    "nombre": "CAPÍTULO 4. PREDICCIÓN Y EVALUACIÓN DE IMPACTOS"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Anexo_61_Plan_de_Manejo_Biologico.pdf",
+    "via": "anexo",
+    "nombre": "Anexo 6.1 Plan de Manejo Biologico"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf",
+    "via": "anexo",
+    "nombre": "Capítulo 6 Plan de Medidas de Mitigación, Reparación y Compensación"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_91_PAS_138.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.1 PAS 138"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_910_PAS_156.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.10 PAS 156"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Anexo_911_PAS_157.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.11 PAS 157"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_912_PAS_160.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.12 PAS 160"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_913_PAS_146_.pdf",
+    "via": "anexo",
+    "nombre": "Anexo 9.13 PAS 146"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_92_PAS_139_Losa_de_Lavado.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.2 PAS 139 Losa de Lavado"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_93_PAS_139_Planta_de_Lixiviados.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.3 PAS 139 Planta de Lixiviados"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_94_PAS_140_Planta_de_Reciclaje.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.4 PAS 140 Planta de Reciclaje"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_95_PAS_140_Planta_de_Compostaje.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.5 PAS 140 Planta de Compostaje"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf",
+    "via": "anexo",
+    "nombre": "Anexo 9.6 PAS 141 Relleno Sanitario"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_97_PAS_142.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.7 PAS 142"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/Anexo_98_PAS_148.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.8 PAS 148"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/Anexo_99_PAS_151.rar",
+    "via": "anexo",
+    "nombre": "Anexo 9.9 PAS 151"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/CAP_9_Plan_de_Cumplimiento_de_la_Legislacion_Ambiental.pdf",
+    "via": "anexo",
+    "nombre": "CAP 9. Plan de Cumplimiento de la Legislación Ambiental"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/Apendice_Listado_de_Profesionales.pdf",
+    "via": "anexo",
+    "nombre": "Apéndice Listado de Profesionales"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 20 Monitoreo Participativo"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/Areas_de_Influencia_kmz.rar",
+    "via": "anexo",
+    "nombre": "Áreas de Influencia kmz"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/CAPITULO_2_Descripcion_y_Justificacion_de_las_areas_de_influencia.pdf",
+    "via": "anexo",
+    "nombre": "CAPITULO 2. Descripción y Justificación de las áreas de influencia"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Cap_14_Relacion_politicas_y_planes_evaluados_estrategicamente.pdf",
+    "via": "anexo",
+    "nombre": "Cap 14. Relacion politicas y planes evaluados estrategicamente"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Cap_31_Clima_y_Meteorologia.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 3.1 Clima_y_Meteorologia"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_310_Flora_No_Vascular.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.10 Flora No Vascular"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_311_Linea_de_Base_Fauna_Terrestre_2024_2025_CMGIR.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 3.11 Fauna Terrestre"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_312_Linea_de_Base_Entomofauna_pri2024_ver_oto2025.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.12 Invertebrados Terrestres - Entomofauna"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_313_Patrimonio_Arqueologico.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.13 Patrimonio Arqueológico"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_314_Patrimonio_Paleontologico.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.14 Patrimonio Paleontológico"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 3.15 Estudio de Paisaje y Turismo"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 3.16 Areas Protegidas y Sitios Prioritarios"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/317_Uso_del_Territorio.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 3.17 Uso del Territorio"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.18 Impacto Vial"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.19 Medio Humano"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Cap_32_Calidad_del_Aire.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 3.2 Calidad del Aire"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_320_Proyectos_con_RCA.pdf",
+    "via": "anexo",
+    "nombre": "Cap. 3.20 Proyectos con RCA"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/214_Cap_33_Hidrologia.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.3 Hidrología"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.4 Hidrogeología"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.5 Geología"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/d41_Cap_36_Geomorfologia_y_Riesgos_Naturales.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.6 Geomorfología y Riesgos Naturales"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Cap_37_Edafologia.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.7 Edafología"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/14/Cap_38_Ruido_y_Vibraciones.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.8 Ruido y Vibraciones"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Cap_39_Flora_y_Vegetacion_parte_1.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.9 Flora y Vegetación parte 1"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Cap_39_Flora_y_Vegetacion_parte_2.rar",
+    "via": "anexo",
+    "nombre": "Cap. 3.9 Flora y Vegetación parte 2"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/CAPITULO_3_Linea_de_Base_Ambiental.pdf",
+    "via": "anexo",
+    "nombre": "CAPÍTULO 3. Línea de Base Ambiental"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_10_Compromisos_Ambientales_Voluntarios.zip",
+    "via": "anexo",
+    "nombre": "Capitulo 10 Compromisos Ambientales Voluntarios"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_11_FICHA_RESUMEN.pdf",
+    "via": "anexo",
+    "nombre": "Capitulo 11 FICHA RESUMEN"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/CAPITULO_12_ACCIONES_PREVIAS.rar",
+    "via": "anexo",
+    "nombre": "CAPÍTULO 12. ACCIONES PREVIAS"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/0f2_Capitulo_12_Acciones_Previas.zip",
+    "via": "anexo",
+    "nombre": "Capítulo 12. Acciones Previas"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Capitulo_13_Relacion_con_Politicas__planes_y_Programas_de_Desarrollo.pdf",
+    "via": "anexo",
+    "nombre": "Capítulo 13. Relación con Políticas, planes y Programas de Desarrollo"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/13/Capitulo_15_Establecimiento_de_inicio_del_Proyecto.pdf",
+    "via": "anexo",
+    "nombre": "Capitulo 15. Establecimiento de inicio del Proyecto"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/17/7be_Capitulo_18_Descripcion_Cronologica_de_sus_fases.pdf",
+    "via": "anexo",
+    "nombre": "Capítulo 18 Descripción Cronológica de sus fases"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf",
+    "via": "anexo",
+    "nombre": "CAPÍTULO 5. ANÁLISIS DEL ART. 11"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Riesgos_para_la_salud_de_la_poblacion.pdf",
+    "via": "anexo",
+    "nombre": "Riesgos para la salud de la población"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf",
+    "via": "anexo",
+    "nombre": "Capitulo 7. PLAN DE SEGUIMIENTO DE VARIABLES AMBIENTALES RELEVANTES"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar",
+    "via": "anexo",
+    "nombre": "Capitulo 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Cerco_Perimetral.zip",
+    "via": "anexo",
+    "nombre": "Cerco Perimetral"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Cortafuegos.zip",
+    "via": "anexo",
+    "nombre": "Cortafuegos"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Deslinde_terreno.zip",
+    "via": "anexo",
+    "nombre": "Deslinde terreno"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Etapas_de_Excavacion.zip",
+    "via": "anexo",
+    "nombre": "Etapas de Excavación"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Plataformas.zip",
+    "via": "anexo",
+    "nombre": "Plataformas"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Zona_de_Compostaje.zip",
+    "via": "anexo",
+    "nombre": "Zona de Compostaje"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Zona_de_disposicion_de_residuos.zip",
+    "via": "anexo",
+    "nombre": "Zona de disposición de residuos"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Zona_de_Instalaciones_Operacionales_y_Administrativas.zip",
+    "via": "anexo",
+    "nombre": "Zona de Instalaciones Operacionales y Administrativas"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Zona_de_Reciclaje.zip",
+    "via": "anexo",
+    "nombre": "Zona de Reciclaje"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Zona_de_tratamiento_de_biogas.zip",
+    "via": "anexo",
+    "nombre": "Zona de tratamiento de biogás"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/12/Zona_de_tratamiento_de_lixiviados.zip",
+    "via": "anexo",
+    "nombre": "Zona de tratamiento de lixiviados"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/INDICE.pdf",
+    "via": "anexo",
+    "nombre": "INDICE"
+   },
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/07/15/RESUMEN_EJECUTIVO.pdf",
+    "via": "anexo",
+    "nombre": "RESUMEN EJECUTIVO"
+   }
+  ],
+  "idDocumento": "2168892030",
+  "titulo": "Documento - 2026/07/17/3e32-5be2-491e-b43e-a588800eda42"
+ },
+ {
+  "n": 2,
+  "folio": "2026-05-116-1",
+  "tipo": "Carta de envío texto radiodifusión",
+  "emisor": "COSEMAR SPA",
+  "fecha": "20/07/2026 11:25:34",
+  "archivos": [],
+  "idDocumento": "2168892041",
+  "titulo": "Previsualización de Carta de envío texto radiodifusión"
+ },
+ {
+  "n": 3,
+  "folio": "2026-05-116-2",
+  "tipo": "Extracto",
+  "emisor": "COSEMAR SPA",
+  "fecha": "20/07/2026 11:25:34",
+  "archivos": [],
+  "idDocumento": "2168892042",
+  "titulo": "Previsualización de Extracto"
+ },
+ {
+  "n": 4,
+  "folio": "2026-05-116-4",
+  "tipo": "Resolución de Admisibilidad",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "27/07/2026 16:57:32",
+  "archivos": [],
+  "idDocumento": "2169165213",
+  "titulo": "Documento - 2026/07/27/e830-e961-4a89-b160-b824abe32f65"
+ },
+ {
+  "n": 5,
+  "folio": "2026-05-116-5",
+  "tipo": "Notificación de documento",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "27/07/2026 17:02:16",
+  "archivos": [],
+  "idDocumento": "2169166625",
+  "titulo": "Documento - 2026/07/27/8a01-be7d-4ba6-a012-a37d870e48cd"
+ },
+ {
+  "n": 6,
+  "folio": "2026-05-116-6",
+  "tipo": "Solicitud de evaluación de EIA",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "27/07/2026 18:28:00",
+  "archivos": [],
+  "idDocumento": "2169169084",
+  "titulo": "Documento - 2026/07/27/f2b4-4e27-472d-8346-9a5f862b0fa5"
+ },
+ {
+  "n": 7,
+  "folio": "2026-05-116-7",
+  "tipo": "Solicitud de evaluación de EIA a gobierno regional",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "27/07/2026 18:30:07",
+  "archivos": [],
+  "idDocumento": "2169169760",
+  "titulo": "Documento - 2026/07/27/6f37-718c-4227-b3ff-bd8721d66ce4"
+ },
+ {
+  "n": 8,
+  "folio": "2026-05-116-8",
+  "tipo": "Solicitud de evaluación de EIA a municipalidad",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "27/07/2026 18:30:49",
+  "archivos": [],
+  "idDocumento": "2169169781",
+  "titulo": "Documento - 2026/07/27/f24c-4eaf-444f-8b3c-7079aa2ce73a"
+ },
+ {
+  "n": 9,
+  "folio": "2026-05-116-9",
+  "tipo": "Carta visación de extracto",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "29/07/2026 18:55:18",
+  "archivos": [],
+  "idDocumento": "2169183066",
+  "titulo": "Documento - 2026/07/29/4469-bff8-4959-8234-9a151415625f"
+ },
+ {
+  "n": 10,
+  "folio": "2026-05-116-10",
+  "tipo": "Notificación de documento",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "30/07/2026 08:43:09",
+  "archivos": [],
+  "idDocumento": "2169195572",
+  "titulo": "Documento - 2026/07/30/8892-2fd7-45bf-939e-1bb6d63441e6"
+ },
+ {
+  "n": 11,
+  "folio": "2026-05-116-11",
+  "tipo": "Carta de visación del texto para difusión",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "31/07/2026 11:22:52",
+  "archivos": [],
+  "idDocumento": "2169183116",
+  "titulo": "Documento - 2026/07/31/6df4-27a8-4fd6-b7aa-64c31039c7ee"
+ },
+ {
+  "n": 12,
+  "folio": "2026-05-116-12",
+  "tipo": "Invitación a reunión",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "06/08/2026 11:08:56",
+  "archivos": [],
+  "idDocumento": "2169256660",
+  "titulo": "Documento - 2026/08/06/f99c-fbd3-42e7-b974-7dce40a0a286"
+ },
+ {
+  "n": 13,
+  "folio": "2026-05-116-13",
+  "tipo": "Oficio no participación en la evaluación",
+  "emisor": "SEREMI de Minería, Región de Valparaíso",
+  "fecha": "06/08/2026 17:07:17",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/08/07/ORD_2026-22_SRMMIN.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 14,
+  "folio": "2026-05-116-14",
+  "tipo": "Invitación a reunión solo titular",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "07/08/2026 17:37:39",
+  "archivos": [],
+  "idDocumento": "2169271931",
+  "titulo": "Documento - 2026/08/07/0674-3ed7-4101-880d-04f3ce4fe89e"
+ },
+ {
+  "n": 15,
+  "folio": "2026-05-116-15",
+  "tipo": "Publicación extracto en diario oficial",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "11/08/2026 08:43:37",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/08/11/ebe_DIARIO_OFICIAL.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "folio": "2026-05-116-16",
+  "tipo": "Publicación en diario El Mercurio de Valparaíso",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "11/08/2026 08:46:14",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/08/11/5a6_Extracto_El_Mercurio_de_Valparaiso.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "folio": "2026-05-116-17",
+  "tipo": "Carta titular",
+  "emisor": "COSEMAR SPA",
+  "fecha": "12/08/2026 10:26:27",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/08/12/CAR_COSEMAR_SPA_ENTREGA_EXPFISICO.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 18,
+  "folio": "2026-05-116-18",
+  "tipo": "Registro de carteles informativos",
+  "emisor": "COSEMAR SPA",
+  "fecha": "13/08/2026 12:18:47",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/08/13/CAR_COSEMAR_SPA__CARTEL_INFORMATIVO_.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 19,
+  "folio": "2026-05-116-19",
+  "tipo": "Oficio pronunciamiento Gobierno Regional",
+  "emisor": "Gobierno Regional, Región de Valparaíso",
+  "fecha": "17/08/2026 10:52:34",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/08/20/Ord_N_31-3-2078_GORE.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 20,
+  "folio": "2026-05-116-20",
+  "tipo": "Notificación de documento",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "20/08/2026 17:04:10",
+  "archivos": [],
+  "idDocumento": "2169391427",
+  "titulo": "Documento - 2026/08/20/d69e-4404-48fc-a9dd-e2efb2ab0fd0"
+ },
+ {
+  "n": 21,
+  "folio": "2026-05-116-21",
+  "tipo": "Acreditación aviso radial",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "20/08/2026 17:10:11",
+  "archivos": [],
+  "idDocumento": "2169392748",
+  "titulo": "Previsualización de Acreditación aviso radial"
+ },
+ {
+  "n": 22,
+  "folio": "2026-05-116-22",
+  "tipo": "Invitación a terreno",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "25/08/2026 16:05:11",
+  "archivos": [],
+  "idDocumento": "2169424673",
+  "titulo": "Documento - 2026/08/25/77ae-632a-405a-848c-fd20dfc4569a"
+ },
+ {
+  "n": 23,
+  "folio": "2026-05-116-23",
+  "tipo": "Oficio no participación en la evaluación",
+  "emisor": "SEREMI de Bienes Nacionales, Región de Valparaíso",
+  "fecha": "28/08/2026 09:03:47",
+  "archivos": [],
+  "idDocumento": "2169448185",
+  "titulo": "Documento - 2026/08/28/ec61-2a85-4e28-b1e5-beeffb90bd1a"
+ },
+ {
+  "n": 24,
+  "folio": "2026-05-116-24",
+  "tipo": "Acta de reunión",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "28/08/2026 14:53:45",
+  "archivos": [],
+  "idDocumento": "2169450762",
+  "titulo": "Documento - 2026/08/28/e3b8-2a96-4dc7-81df-b34c8cfa0c31"
+ },
+ {
+  "n": 25,
+  "folio": "2026-05-116-25",
+  "tipo": "Oficio no participación en la evaluación",
+  "emisor": "SEC, Región de Valparaíso",
+  "fecha": "31/08/2026 11:06:58",
+  "archivos": [],
+  "idDocumento": "2169479029",
+  "titulo": "Documento - 2026/08/31/5e8c-3727-478f-a17b-d963ce5fdd2f"
+ },
+ {
+  "n": 26,
+  "folio": "2026-05-116-26",
+  "tipo": "Visación de acta de reunión",
+  "emisor": "Corporación Nacional Forestal, Región de Valparaíso",
+  "fecha": "31/08/2026 19:47:38",
+  "archivos": [],
+  "idDocumento": "2169480463",
+  "titulo": "Documento - 2026/08/31/7300-6d89-4cd0-912d-1331be3f84e9"
+ },
+ {
+  "n": 27,
+  "folio": "2026-05-116-27",
+  "tipo": "Visación de acta de reunión",
+  "emisor": "SEREMI del Medio Ambiente, Región de Valparaíso",
+  "fecha": "01/09/2026 17:44:44",
+  "archivos": [],
+  "idDocumento": "2169515936",
+  "titulo": "Documento - 2026/09/01/1451-64fa-40d0-abfd-15a63be2750c"
+ },
+ {
+  "n": 28,
+  "folio": "2026-05-116-28",
+  "tipo": "Visación de acta de reunión",
+  "emisor": "SEREMI de Agricultura, Región de Valparaíso",
+  "fecha": "01/09/2026 20:09:55",
+  "archivos": [],
+  "idDocumento": "2169511486",
+  "titulo": "Documento - 2026/09/02/02fe-cbfe-4334-8666-55088ea1715d"
+ },
+ {
+  "n": 29,
+  "folio": "2026-05-116-29",
+  "tipo": "Visación de acta de reunión",
+  "emisor": "Subsecretaría de Pesca y Acuicultura",
+  "fecha": "02/09/2026 15:24:03",
+  "archivos": [],
+  "idDocumento": "2169518136",
+  "titulo": "Documento - 2026/09/02/890e-64a2-484f-b310-4cfff1a8dbaa"
+ },
+ {
+  "n": 30,
+  "folio": "2026-05-116-30",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SERNAGEOMIN, Zona Central",
+  "fecha": "02/09/2026 17:52:07",
+  "archivos": [],
+  "idDocumento": "2169521704",
+  "titulo": "Documento - 2026/09/02/9094-8932-40fc-ae49-90fb439efbec"
+ },
+ {
+  "n": 31,
+  "folio": "2026-05-116-31",
+  "tipo": "Oficio pronunciamiento conforme sobre EIA",
+  "emisor": "Consejo de Monumentos Nacionales",
+  "fecha": "02/09/2026 19:38:33",
+  "archivos": [],
+  "idDocumento": "2169196065",
+  "titulo": "Documento - 2026/09/02/9cd1-92a6-4d3f-acb6-a918390c3dee"
+ },
+ {
+  "n": 32,
+  "folio": "2026-05-116-32",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Subsecretaría de Pesca y Acuicultura",
+  "fecha": "03/09/2026 09:53:33",
+  "archivos": [],
+  "idDocumento": "2169528736",
+  "titulo": "Documento - 2026/09/03/eeb7-bed7-41ff-b737-57598574fcc1"
+ },
+ {
+  "n": 33,
+  "folio": "2026-05-116-33",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI de Desarrollo Social y Familia, Región de Valparaíso",
+  "fecha": "03/09/2026 12:39:31",
+  "archivos": [],
+  "idDocumento": "2169520762",
+  "titulo": "Documento - 2026/09/03/fe89-913d-42d6-8f21-07b6cfaf0009"
+ },
+ {
+  "n": 34,
+  "folio": "2026-05-116-34",
+  "tipo": "Visación de acta de reunión",
+  "emisor": "Servicio Agrícola y Ganadero, Región de Valparaíso",
+  "fecha": "03/09/2026 12:43:27",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/04/ORD_2233_SAG.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 35,
+  "folio": "2026-05-116-35",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI de Energía, Región de Valparaíso",
+  "fecha": "04/09/2026 11:11:15",
+  "archivos": [],
+  "idDocumento": "2169520842",
+  "titulo": "Documento - 2026/09/04/a0d9-c2d4-4f5e-814b-7a5e2fb3231c"
+ },
+ {
+  "n": 36,
+  "folio": "2026-05-116-36",
+  "tipo": "Acta de terreno",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "04/09/2026 15:22:29",
+  "archivos": [],
+  "idDocumento": "2169542263",
+  "titulo": "Documento - 2026/09/04/0bc6-2fbb-4725-be3f-f392071873bf"
+ },
+ {
+  "n": 37,
+  "folio": "2026-05-116-37",
+  "tipo": "Visación de acta de terreno",
+  "emisor": "Corporación Nacional Forestal, Región de Valparaíso",
+  "fecha": "07/09/2026 13:13:47",
+  "archivos": [],
+  "idDocumento": "2169548083",
+  "titulo": "Documento - 2026/09/07/d70b-7b78-4014-9bc1-999f517d1758"
+ },
+ {
+  "n": 38,
+  "folio": "2026-05-116-38",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Ilustre Municipalidad de Quilpué",
+  "fecha": "07/09/2026 13:46:48",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/07/ORD_348_I_MUN_QUILPUE.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 39,
+  "folio": "2026-05-116-39",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Corporación Nacional Forestal, Región de Valparaíso",
+  "fecha": "07/09/2026 14:40:49",
+  "archivos": [],
+  "idDocumento": "2169555423",
+  "titulo": "Documento - 2026/09/07/da98-ff50-4bae-a056-b30d03aa7d19"
+ },
+ {
+  "n": 40,
+  "folio": "2026-05-116-40",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Servicio Nacional Turismo, Región de Valparaíso",
+  "fecha": "07/09/2026 17:09:28",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/07/ORD_141_SERNATUR.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 41,
+  "folio": "2026-05-116-41",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Superintendencia de Servicios Sanitarios",
+  "fecha": "07/09/2026 18:06:57",
+  "archivos": [],
+  "idDocumento": "2169559102",
+  "titulo": "Documento - 2026/09/07/bf38-4925-4ba1-922c-1c54959a8fb8"
+ },
+ {
+  "n": 42,
+  "folio": "2026-05-116-42",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI del Medio Ambiente, Región de Valparaíso",
+  "fecha": "07/09/2026 19:00:51",
+  "archivos": [],
+  "idDocumento": "2169559946",
+  "titulo": "Documento - 2026/09/07/1f7e-1b9d-4e9a-bb65-e4b29dc647e8"
+ },
+ {
+  "n": 43,
+  "folio": "2026-05-116-43",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Dirección General de Aguas, Región de Valparaíso",
+  "fecha": "07/09/2026 19:30:06",
+  "archivos": [],
+  "idDocumento": "2169557331",
+  "titulo": "Documento - 2026/09/07/ab47-566a-4935-b4d4-442e4353e112"
+ },
+ {
+  "n": 44,
+  "folio": "2026-05-116-44",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI de Agricultura, Región de Valparaíso",
+  "fecha": "07/09/2026 20:51:25",
+  "archivos": [],
+  "idDocumento": "2169549502",
+  "titulo": "Documento - 2026/09/07/d5b4-226b-415e-8d93-ecf2d7f4e6fe"
+ },
+ {
+  "n": 45,
+  "folio": "2026-05-116-45",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Servicio de Biodiversidad y Áreas Protegidas Valparaíso",
+  "fecha": "07/09/2026 21:18:29",
+  "archivos": [],
+  "idDocumento": "2169560227",
+  "titulo": "Documento - 2026/09/08/b49f-2392-41d0-8294-0c1d7739a22c"
+ },
+ {
+  "n": 46,
+  "folio": "2026-05-116-46",
+  "tipo": "Oficio pronunciamiento Municipalidad",
+  "emisor": "Ilustre Municipalidad de Viña del Mar",
+  "fecha": "08/09/2026 12:46:09",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/08/ORD_N_1337_IMVM.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 47,
+  "folio": "2026-05-116-47",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Servicio Agrícola y Ganadero, Región de Valparaíso",
+  "fecha": "08/09/2026 13:06:23",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/08/ORD_2132_SAG.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 48,
+  "folio": "2026-05-116-48",
+  "tipo": "Visación de acta de terreno",
+  "emisor": "SEREMI del Medio Ambiente, Región de Valparaíso",
+  "fecha": "08/09/2026 17:48:59",
+  "archivos": [],
+  "idDocumento": "2169569204",
+  "titulo": "Documento - 2026/09/08/fa25-4c59-4b79-ac87-b66161af1d3e"
+ },
+ {
+  "n": 49,
+  "folio": "2026-05-116-49",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Dirección de Obras Hidráulica, Región de Valparaíso",
+  "fecha": "08/09/2026 19:25:49",
+  "archivos": [],
+  "idDocumento": "2169572557",
+  "titulo": "Documento - 2026/09/08/7299-2c1d-4ec3-8d6d-45569320fd27"
+ },
+ {
+  "n": 50,
+  "folio": "2026-05-116-50",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Corporación Nacional Forestal, Región de Valparaíso",
+  "fecha": "10/09/2026 12:32:48",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/10/ORD_284_CONAF.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 51,
+  "folio": "2026-05-116-51",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI de Transportes y Telecomunicaciones, Región de Valparaíso",
+  "fecha": "10/09/2026 16:09:21",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/10/ORD_28959_SRMTTC.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 52,
+  "folio": "2026-05-116-52",
+  "tipo": "Oficio Reitera Solicitud de Pronunciamiento",
+  "emisor": "Servicio Evaluación Ambiental, Región de Valparaíso",
+  "fecha": "11/09/2026 10:26:40",
+  "archivos": [],
+  "idDocumento": "2169568662",
+  "titulo": "Documento - 2026/09/11/f854-5a52-4723-af7e-d0d0b9771951"
+ },
+ {
+  "n": 53,
+  "folio": "2026-05-116-53",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI de Salud, Región de Valparaíso",
+  "fecha": "11/09/2026 12:55:20",
+  "archivos": [],
+  "idDocumento": "2169576204",
+  "titulo": "Documento - 2026/09/11/d610-f2e6-4850-939a-792670d5b42f"
+ },
+ {
+  "n": 54,
+  "folio": "2026-05-116-54",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "Gobierno Regional, Región de Valparaíso",
+  "fecha": "14/09/2026 11:30:11",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/14/ORD_31-3-2358_GOBREG.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 55,
+  "folio": "2026-05-116-55",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI de Obras Públicas, Región de Valparaíso",
+  "fecha": "14/09/2026 12:08:15",
+  "archivos": [],
+  "idDocumento": "2169549132",
+  "titulo": "Documento - 2026/09/14/f0a2-327d-45e8-9b33-373955e9de05"
+ },
+ {
+  "n": 56,
+  "folio": "2026-05-116-56",
+  "tipo": "Visación de acta de reunión",
+  "emisor": "Servicio Agrícola y Ganadero, Región de Valparaíso",
+  "fecha": "14/09/2026 13:53:01",
+  "archivos": [],
+  "idDocumento": "2169500695",
+  "titulo": "Documento - 2026/09/14/5aaa-c45c-462a-a71e-1394927a4fee"
+ },
+ {
+  "n": 57,
+  "folio": "2026-05-116-57",
+  "tipo": "Oficio pronunciamiento con observaciones al EIA",
+  "emisor": "SEREMI de Vivienda y Urbanismo, Región de Valparaíso",
+  "fecha": "15/09/2026 12:00:00",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/15/ORD_521_SRMVU.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 58,
+  "folio": "2026-05-116-58",
+  "tipo": "Oficio pronunciamiento conforme sobre EIA",
+  "emisor": "Corporación Nacional de Desarrollo Indígena",
+  "fecha": "16/09/2026 11:07:11",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/16/ORD_953_CONADI.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 59,
+  "folio": "2026-05-116-59",
+  "tipo": "Invitación a Reunión Comité Técnico",
+  "emisor": "SEREMI del Medio Ambiente, Región de Valparaíso",
+  "fecha": "24/09/2026 16:03:05",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/24/b5e_Ordinario_06018-2026.pdf",
+    "via": "directo"
+   }
+  ]
+ },
+ {
+  "n": 60,
+  "folio": "2026-05-116-60",
+  "tipo": "Invitación a Reunión Comité Técnico",
+  "emisor": "SEREMI del Medio Ambiente, Región de Valparaíso",
+  "fecha": "24/09/2026 16:10:09",
+  "archivos": [
+   {
+    "url": "https://seia.sea.gob.cl/archivos/2026/09/24/2bc_Ordinario_06018-2026.pdf",
+    "via": "directo"
+   }
+  ]
+ }
+]

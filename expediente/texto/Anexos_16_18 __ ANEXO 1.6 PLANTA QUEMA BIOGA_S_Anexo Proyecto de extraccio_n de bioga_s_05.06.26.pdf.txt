@@ -1,0 +1,1634 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO PROYECTO PLANTA DE QUEMA Y 
+EXTRACCIÓN DE BIOGÁS
+Documento Preparado por:
+Mayo 2026
+
+===== p.1 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+ÍNDICE
+1.
+INTRODUCCIÓN.............................................................................................................1
+2.
+ALCANCES......................................................................................................................1
+3.
+JUSTIFICACIÓN DEL PROYECTO......................................................................................2
+4.
+PROYECCIONES DE CAPTURA DE BIOGÁS.......................................................................3
+5.
+SELECCIÓN DE VALORES DE FLUJO ESPERADO...............................................................5
+5.1.
+DEFINICIÓN DE FASES DEL PROYECTO DE EXTRACCIÓN ACTIVA Y TRATAMIENTO DEL 
+BIOGÁS..........................................................................................................................5
+6.
+DISEÑO DE LA RED DE EXTRACCIÓN DE BIOGÁS.............................................................8
+6.1.
+CHIMENEAS Y REDES COLECTORAS DE BIOGÁS..............................................................8
+6.2.
+RED COLECTORA DE BIOGÁS..........................................................................................8
+6.3.
+DIMENSIONAMIENTO DE RED DE TUBERÍAS COLECTORAS DE BIOGÁS...........................9
+6.3.1.
+Verificación de velocidades de flujo.............................................................................10
+6.3.2.
+Drenaje de condensados en la red colectora de biogás...............................................11
+6.4.
+CRITERIOS PARA CONEXIONADO DE CHIMENEAS........................................................12
+6.5.
+DISEÑO DE LA CHIMENEA PARA EXTRACCIÓN DE BIOGÁS............................................13
+7.
+PLANTA DE EXTRACCIÓN DE BIOGÁS...........................................................................15
+7.1.
+REQUISITOS PRINCIPALES DEL SISTEMA DE ANTORCHA PARA TERMO DEGRADACIÓN 
+DEL BIOGÁS..................................................................................................................15
+7.1.1.
+Tipo de Antorcha...........................................................................................................16
+7.1.2.
+Estándar de desempeño...............................................................................................16
+7.1.3.
+Estándar de emisiones..................................................................................................16
+7.1.4.
+Puntos de monitoreo....................................................................................................16
+7.1.5.
+Requisitos de diseño.....................................................................................................17
+7.1.6.
+Ubicación.......................................................................................................................17
+7.1.7.
+Mantenimiento.............................................................................................................17
+7.1.8.
+Plan de emergencia.......................................................................................................18
+7.2.
+Especificaciones mínimas recomendadas.....................................................................18
+7.2.1.
+Entrada de biogás..........................................................................................................18
+7.2.2.
+Sistema captura de condensados.................................................................................18
+7.2.3.
+Sistema de compresión (soplador)...............................................................................18
+7.2.4.
+Antorcha de alta temperatura......................................................................................18
+7.2.5.
+Sistema de medición de flujo de biogás.......................................................................19
+7.2.6.
+Sistema de análisis de gas.............................................................................................19
+7.2.7.
+Sistema de control eléctrico.........................................................................................19
+7.2.8.
+Tuberías.........................................................................................................................20
+7.2.9.
+Características de diseño para selección de la antorcha..............................................20
+7.2.10. Disposición en planta....................................................................................................20
+7.3.
+SERVICIOS AUXILIARES.................................................................................................21
+7.3.1.
+Servicio de alimentación eléctrica................................................................................21
+7.4.
+PROGRAMA DE MANTENIMIENTO PLAN DE QUEMA DE BIOGÁS.................................21
+7.4.1.
+Sistema de captación de biogás....................................................................................21
+7.4.2.
+Acondicionamiento del biogás......................................................................................21
+7.4.3.
+Sistema de quema.........................................................................................................21
+7.4.4.
+Monitoreo y control de calidad....................................................................................22
+
+===== p.2 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+7.4.5.
+Mantenimiento general y seguridad.............................................................................22
+ANEXOS
+ANEXOS 01. PLANOS DE PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+
+===== p.3 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+1
+1. INTRODUCCIÓN
+El presente informe detalla consideraciones, componentes y dimensionamientos de ingeniería 
+básica, necesarios para desarrollar un proyecto de extracción activa de biogás con tratamiento en el 
+Relleno Sanitario del Centro Metropolitano de Gestión Integral de Residuos.
+El tratamiento considerado corresponde a termo-degradación controlada del metano y los otros 
+componentes orgánicos del biogás.
+El dimensionamiento del sistema está basado en las proyecciones del Anexo Proyección de Biogás, 
+el cual dimensiona tasas de generación y captura de biogás.
+Basados en estos valores se han dimensionado las redes de tuberías para captación de biogás, 
+manejo de condensados, los equipos de aspiración y de quema controlada del biogás.
+Asimismo, considerando las etapas proyectadas de crecimiento del relleno sanitario, y las curvas de 
+generación de biogás, se han definido fases del proyecto para la ejecución de chimeneas e 
+instalación de las unidades de tratamiento en forma modular por fases.
+Se ha definido para este proyecto, 3 Etapas para la construcción y llenado de la zona de disposición 
+final de residuos (relleno sanitario). De la misma maneja se planea la ejecución de chimeneas y la 
+instalación de la red colectora de biogás y las unidades de tratamiento.
+2. ALCANCES
+El objetivo del presente informe es diseñar un proyecto de extracción activa y tratamiento del biogás 
+en fases, basados en la proyección de crecimiento del relleno sanitario y la generación de biogás. 
+En particular se cumplirán los siguientes objetivos específicos:
+-
+Layout de ubicación:
+
+Chimeneas
+
+Redes de captación, 
+
+Planta de aspiración y antorcha de quema.
+-
+Dimensionamiento de chimeneas, tuberías y elementos adecuados para la captación de 
+biogás. 
+-
+Dimensionamiento de antorchas de quema adecuada a las proyecciones de flujo de 
+biogás.
+-
+Descripción y especificaciones:
+
+Chimeneas de biogás
+
+Red colectora de biogás y condensados
+
+Planta de bombeo biogás
+
+===== p.4 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+2
+
+Antorcha termo-degradación
+
+Servicios auxiliares.
+
+Sistema de monitoreo ambiental.
+3. JUSTIFICACIÓN DEL PROYECTO
+La planta de quema de biogás es una medida relevante para la mitigación de gases de efecto 
+invernadero (GEI), al permitir  la captación, conducción y tratamiento controlado del biogás 
+generado por la degradación anaeróbica de la fracción orgánica de los residuos sólidos dispuestos 
+en el relleno sanitario.
+La implementación de este sistema presenta ventajas ambientales significativas, ya que permite 
+reducir las emisiones de metano (CH₄), gas que posee un potencial de calentamiento global 
+considerablemente superior al dióxido de carbono (CO₂). En este contexto, la captación y quema 
+controlada  del  biogás  mediante  antorcha  transforma  el  metano  en  CO₂  y  vapor  de  agua, 
+disminuyendo significativamente el impacto climático asociado a las emisiones del relleno sanitario.
+Asimismo, el sistema de captación de biogás contribuye al control de olores molestos, reducción del 
+riesgo de migración de gases y mejora de las condiciones de seguridad operacional del relleno 
+sanitario, en concordancia con las disposiciones del D.S. N°189/2008 del Ministerio de Salud.
+De acuerdo con la modelación de generación de biogás presentada en Anexo Proyección de Biogás, 
+la implementación del sistema permitirá un abatimiento significativo de GEI durante la vida útil y 
+fase de post cierre del Proyecto, constituyendo una medida de mitigación climática asociada a la 
+operación del relleno sanitario.
+
+===== p.5 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+3
+4. PROYECCIONES DE CAPTURA DE BIOGÁS 
+La proyección de biogás utilizada es la que se obtuvo del Informe Anexo Proyección de Biogás. 
+Este informe entrega una curva temporal, de los volúmenes anuales de generación de biogás 
+esperados, de acuerdo a i) un modelo estequiométrico para calcular el potencial de generación de 
+biogás utilizando la composición de los residuos y su contenido de material orgánico biodegradable, 
+y ii) un modelo de cinética de biodegradación para calcular la velocidad de generación del potencial 
+de  biogás,  basado  en  ciertas  constantes  matemáticas  derivadas  de  las  condiciones  para  la 
+biodegradación, en este caso la condición de pluviometría media o aridez de la zona.
+Esta proyección se muestra en la siguiente tabla, recogiendo el “Caso Base” de dicha proyección.
+Tabla 1.
+Proyección de generación y captura de biogás.
+Año
+Biogás 
+Generado
+Metano*
+Eficiencia 
+de Captura
+biogás 
+Capturado 
+Caso Base
+biogás Capturado (m3/hora)
+Caso Base
+Caso 
+Superior
+Caso Inferior
+(m3/año)
+(m3/año)
+%
+(m3/año)
+(m3/hora)
+(m3/hora)
+(m3/hora)
+1
+0
+0
+50%
+0
+0
+0
+0
+2
+11.266.862
+5.633.431
+50%
+5.633.431
+643
+809
+493
+3
+22.138.808
+11.069.404
+50%
+11.069.404
+1.264
+1.582
+974
+4
+32.646.595
+16.323.297
+50%
+16.323.297
+1.863
+2.323
+1.443
+5
+42.819.458
+21.409.729
+50%
+21.409.729
+2.444
+3.033
+1.902
+6
+52.685.208
+26.342.604
+50%
+26.342.604
+3.007
+3.715
+2.350
+7
+62.270.326
+31.135.163
+50%
+31.135.163
+3.554
+4.373
+2.790
+8
+71.600.049
+35.800.025
+50%
+35.800.025
+4.087
+5.008
+3.221
+9
+80.698.461
+40.349.230
+50%
+40.349.230
+4.606
+5.622
+3.645
+10
+89.588.565
+44.794.282
+50%
+44.794.282
+5.114
+6.218
+4.063
+11
+98.292.363
+49.146.182
+50%
+49.146.182
+5.610
+6.798
+4.474
+12
+106.830.928
+53.415.464
+50%
+53.415.464
+6.098
+7.362
+4.881
+13
+115.224.470
+57.612.235
+50%
+57.612.235
+6.577
+7.914
+5.283
+14
+123.492.402
+61.746.201
+50%
+61.746.201
+7.049
+8.455
+5.681
+15
+131.653.402
+65.826.701
+50%
+65.826.701
+7.514
+8.986
+6.076
+16
+139.725.473
+69.862.736
+50%
+69.862.736
+7.975
+9.509
+6.469
+17
+147.725.994
+73.862.997
+50%
+73.862.997
+8.432
+10.025
+6.860
+18
+155.671.782
+77.835.891
+50%
+77.835.891
+8.885
+10.536
+7.251
+19
+163.579.134
+81.789.567
+50%
+81.789.567
+9.337
+11.042
+7.640
+20
+171.463.885
+85.731.942
+50%
+85.731.942
+9.787
+11.546
+8.030
+21
+179.341.446
+89.670.723
+50%
+89.670.723
+10.236
+12.049
+8.421
+22
+187.226.859
+93.613.430
+50%
+93.613.430
+10.686
+12.550
+8.813
+23
+195.134.832
+97.567.416
+50%
+97.567.416
+11.138
+13.053
+9.207
+24
+203.079.786 101.539.893
+50% 101.539.893
+11.591
+13.557
+9.604
+25
+211.075.894 105.537.947
+50% 105.537.947
+12.048
+14.064
+10.003
+26
+219.137.122 109.568.561
+50% 109.568.561
+12.508
+14.575
+10.407
+27
+206.375.570 103.187.785
+50% 103.187.785
+11.779
+13.590
+9.899
+28
+194.357.192
+97.178.596
+50%
+97.178.596
+11.093
+12.671
+9.417
+29
+183.038.710
+91.519.355
+50%
+91.519.355
+10.447
+11.815
+8.957
+30
+172.379.366
+86.189.683
+50%
+86.189.683
+9.839
+11.016
+8.520
+31
+162.340.773
+81.170.386
+50%
+81.170.386
+9.266
+10.271
+8.105
+32
+152.886.782
+76.443.391
+50%
+76.443.391
+8.726
+9.577
+7.710
+
+===== p.6 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+4
+Año
+Biogás 
+Generado
+Metano*
+Eficiencia 
+de Captura
+biogás 
+Capturado 
+Caso Base
+biogás Capturado (m3/hora)
+Caso Base
+Caso 
+Superior
+Caso Inferior
+(m3/año)
+(m3/año)
+%
+(m3/año)
+(m3/hora)
+(m3/hora)
+(m3/hora)
+33
+143.983.349
+71.991.675
+50%
+71.991.675
+8.218
+8.929
+7.334
+34
+135.598.412
+67.799.206
+50%
+67.799.206
+7.740
+8.326
+6.976
+35
+127.701.775
+63.850.887
+50%
+63.850.887
+7.289
+7.763
+6.636
+36
+120.265.002
+60.132.501
+50%
+60.132.501
+6.864
+7.238
+6.312
+37
+113.261.314
+56.630.657
+50%
+56.630.657
+6.465
+6.749
+6.004
+38
+106.665.489
+53.332.744
+50%
+53.332.744
+6.088
+6.292
+5.711
+39
+100.453.774
+50.226.887
+50%
+50.226.887
+5.734
+5.867
+5.433
+40
+94.603.802
+47.301.901
+50%
+47.301.901
+5.400
+5.470
+5.168
+41
+89.094.505
+44.547.253
+50%
+44.547.253
+5.085
+5.100
+4.916
+42
+83.906.045
+41.953.023
+50%
+41.953.023
+4.789
+4.756
+4.676
+43
+79.019.737
+39.509.869
+50%
+39.509.869
+4.510
+4.434
+4.448
+44
+74.417.986
+37.208.993
+50%
+37.208.993
+4.248
+4.134
+4.231
+Biogás considera un 50% contenido de metano (CH4).
+La siguiente gráfica muestra los resultados del modelo de generación de biogás junto a su 
+correspondiente curva de captura estimada en base a los resultados indicados.
+0
+5000
+10000
+15000
+20000
+25000
+Año1
+Año3
+Año5
+Año7
+Año9
+Año11
+Año13
+Año15
+Año17
+Año19
+Año21
+Año23
+Año25
+Año27
+Año29
+Año31
+Año33
+Año35
+Año37
+Año39
+Año41
+Año43
+Año45
+Año47
+Año49
+Año51
+Año53
+Año55
+Año57
+Año59
+Año61
+Año63
+Año65
+Año67
+Año69
+Año71
+Biogás (m3/hora)
+Generación y captura de biogás (m3/hora)
+Series1
+rango
+Biogás Capturado (m3/hora)
+Biogás generado (m3/hora)
+Figura 1.
+Proyección de generación y captura de biogás.
+
+===== p.7 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+5
+5. SELECCIÓN DE VALORES DE FLUJO ESPERADO
+Para seleccionar los valores de flujo esperado de biogás para el dimensionamiento de la instalación 
+de captura y tratamiento, se considerarán los valores indicados en los escenarios Inferior y Superior 
+del citado en el Anexo Proyección de Biogás.
+Tabla 2.
+Valores máximos según escenarios de proyecciones de flujo esperado de biogás. 
+Escenario
+Máximo Biogás Capturado
+m3/año
+m3/hora
+Año (*)
+Superior
+127.679.710
+14.575
+25
+Base
+109.568.561
+12.508
+25
+Inferior
+91.164.486
+10.407
+25
+(*) Número año de operación
+De acuerdo a lo anterior, se tendrá un flujo esperado aproximado de 12.508 m3/hora, dado que es 
+el valor central de los 3 escenarios indicados. No obstante, cabe señalar que estos valores máximos 
+se espera que ocurran en el año 25 de operación, por lo que se definirá continuación un criterio de 
+habilitación de chimeneas y capacidad de tratamiento por fases.
+5.1.
+DEFINICIÓN DE FASES DEL PROYECTO DE EXTRACCIÓN ACTIVA Y TRATAMIENTO 
+DEL BIOGÁS
+Para definir las fases del Relleno Sanitario se debe tener en cuenta el plan de llenado del proyecto:
+ETAPA 1
+Años 1 - 6
+ETAPA 1
+Años 7 - 13
+ETAPA 1
+Años 14 - 25
+Figura 2.
+Plan de Llenado del Relleno Sanitario
+
+===== p.8 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+6
+En base a lo anterior se definirán  3 fases para la ejecución de los chimeneas de biogás y su 
+correspondiente red de captación hacia el sistema de tratamiento. 
+Tabla 3.
+Número de chimeneas y valores esperados de flujo de extracción de biogás 
+según la etapa del proyecto del Relleno Sanitario. 
+Fase proyecto 
+Chimeneas
+Sector
+N°Chimeneas
+Año de 
+inicio (1)
+Flujo Biogás m3/hora 
+(2)
+1
+Etapa 1
+29
+1
+3.007
+2
+Etapa 2
+25
+7
+6.577
+3
+Etapa 3
+23
+14
+12.048
+Total
+81
+(1) Número año de operación.
+(2) Corresponde al flujo acumulado de todas las etapas, observado en el año de cierre de cada 
+etapa, según la proyección en el escenario base.
+Se observa para cada etapa, que según sea su año de cierre, el flujo de biogás total capturado se 
+incrementará conforme lo indican los valores de la proyección. 
+No obstante, dado que la proyección presenta rangos mínimos y máximos, y basados en la 
+incertidumbre propia de los modelos teóricos y sus datos de entrada, se definirá que la Etapa 1 
+tenga la capacidad de procesar al menos el flujo correspondiente al rango mínimo una vez cerrada 
+esa primera etapa, dejando para la Etapa 2, una capacidad tal que permita cubrir hasta el rango 
+máximo de flujo biogás proyectado.
+Lo anterior permitirá que una vez comience a operar la Etapa 1, se compruebe con datos reales, 
+parámetros que permitan ajustar con mayor certeza las proyecciones, permitiendo esto ajustar las 
+capacidades requeridas para la Etapas sucesivas según proyección basada en datos reales sobre el 
+flujo y la calidad del biogás.
+Con todo, se han definido 3 etapas para el proyecto de extracción activa y quema, la primera con una 
+capacidad de tratamiento de 3000 Nm3/h.
+Tabla 4.
+Capacidad de flujo de extracción y tratamiento de biogás para cada etapa del 
+proyecto del Relleno Sanitario. 
+Etapa
+Equipo
+Capacidad 
+Nominal 
+(Nm3/h)
+Año inicio 
+operación 
+(*)
+Capacidad 
+acumulada 
+(Nm3/h)
+Etapa 1
+Antorcha 1
+3.000
+3
+3.000
+Etapa 2
+Antorcha 2
+3.000
+8
+6.000
+Etapa 3
+Antorcha 3
+3.000
+15
+9.000
+Antorcha 4
+3.000
+20
+12.000
+(*) Número año de operación
+La implementación del sistema de captación y quema de biogás permitirá el abatimiento de gases de 
+efecto invernadero mediante la destrucción térmica del metano generado por la degradación 
+
+===== p.9 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+7
+anaeróbica de los residuos. Conforme a la modelación presentada en el Anexo Proyección de Biogás, 
+el sistema permitirá abatimientos máximos del orden de 120.000 ton CO₂e/año, dependiendo del 
+escenario de generación considerado (base, superior e inferior).
+La planta de quema de biogás cumplirá con los requisitos establecidos en el Decreto N°119/2016, el 
+que  APRUEBA  REGLAMENTO  DE  SEGURIDAD  DE  LAS  PLANTAS  DE  BIOGÁS  E  INTRODUCE 
+MODIFICACIONES AL REGLAMENTO DE INSTALADORES DE GAS. 
+Además, una vez la planta comience su operación, deberá dar cumplimiento a los Resuelvo Tercero 
+iv), Cuarto ii) y Quinto v) de la Res. Ex. N°431/2021 de la SMA, que Aprueba "Instrucción de Carácter 
+Específico para la Remisión de Reportes de Datos Operacionales y Ambientales, para Unidades 
+Fiscalizables de Disposición Final de Residuos Sólidos Domiciliarios y Asimilables (Rellenos Sanitarios 
+y Vertederos)", para monitoreo continuo de cantidad y calidad de biogás captado.
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+Año1
+Año3
+Año5
+Año7
+Año9
+Año11
+Año13
+Año15
+Año17
+Año19
+Año21
+Año23
+Año25
+Año27
+Año29
+Año31
+Año33
+Año35
+Año37
+Año39
+Año41
+Año43
+Año45
+Año47
+Año49
+Año51
+Año53
+Año55
+Año57
+Año59
+Año61
+Año63
+Año65
+Año67
+Año69
+Año71
+Biogás (m3/hora)
+Captura de biogás y Plan de equipos de tratamiento (m3/hora) 
+Antorcha 1
+Antorcha 2
+Antorcha 3
+Antorcha 4
+Biogás Capturado (m3/hora)
+Límte Superior
+Límite Inferior
+Fin operación relleno sanitario
+Fase cierre y post cierre
+Fase operación
+Figura 3.
+Proyección de captura de biogás versus capacidad de tratamiento.
+Finalizada la operación del relleno sanitario (año 25), se desarrollará la fase de cierre y post cierre 
+por un período de 20 años, dando cumplimiento a lo establecido en el artículo 55 del D.S. 
+N°189/2008. Iniciada la fase cierre y post cierre, los caudales anuales de biogás capturado 
+descenderán y por tanto, las antorchas de quema irán cesando su funcionamiento, terminando al 
+año 20 con sólo una antorcha en funcionamiento.
+
+===== p.10 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+8
+6. DISEÑO DE LA RED DE EXTRACCIÓN DE BIOGÁS
+6.1.
+CHIMENEAS Y REDES COLECTORAS DE BIOGÁS
+La proyección de captura de biogás se basa en una red total de  81 chimeneas, los cuales se 
+ejecutarán por etapas, siguiendo las etapas de llenado del relleno sanitarios, y en cada una de estas 
+siguiendo el crecimiento de las plataformas o niveles del relleno sanitario.
+La red de chimeneas se distribuye con un patrón triangular, espaciado cada 70 metros, adaptado a la 
+forma de las bermas que forman cada plataforma del relleno sanitario.
+Esta distribución implica un radio de influencia de 40,4 metros en torno a cada chimenea. La 
+siguiente figura ilustra el concepto de radio de influencia en este tipo de distribución triangular.
+La profundidad de las chimeneas es de hasta 20 m máximo, dependiendo de las cotas del vaso 
+impermeabilizado  y  el  espesor  del  relleno  de  residuos.  En  casos  de  espesores  de  relleno 
+comprobado mayor a 40 m se podrán perforar chimeneas de 30 m para aumentar la extracción.
+6.2.
+RED COLECTORA DE BIOGÁS
+Se propone una red colectora superficial de biogás con distribución por etapas de crecimiento. 
+La siguiente figura muestra la distribución de la red colectora de biogás en sus 3 etapas.
+
+===== p.11 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+9
+Figura 4.
+Proyección de la geometría del relleno sanitario hasta su máxima capacidad y 
+fases del proyecto de habilitación de chimeneas y redes de extracción de biogás. 
+La red de tuberías colectoras se compone de 4 tramos principales:
+
+Colector  principal en  HDPE  900  mm,  desde  planta  biogás  hasta  plataforma  inferior 
+(coronamiento del talud principal norte).
+
+Colector poniente en HDPE 500 mm, a lo largo del perímetro poniente.
+
+Colector oriente (Etapa 2) en HDPE 800 mm, a lo largo del perímetro del talud principal 
+norte.
+
+Colector oriente (Etapa 3) en HDPE 600 mm, a lo largo del perímetro oriente.
+6.3.
+DIMENSIONAMIENTO DE RED DE TUBERÍAS COLECTORAS DE BIOGÁS
+Se considera para la primera fase instalar los tramos Colector Principal y Colector Poniente.
+
+===== p.12 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+10
+Tabla 5.
+Descripción de los tramos que componen la red colectora de biogás.
+Etapa
+Tramo
+Diámetro 
+(mm)
+Longitud (m)
+1
+Colector Principal
+900
+212
+1
+Colector Poniente
+500
+432
+1
+Ramal 1
+250
+136
+1
+Ramal 2
+250
+252
+1
+Colector Central Etapa 1
+500
+405
+1
+Ramal 3
+250
+528
+1
+Ramal 4
+250
+488
+1
+Ramal 5
+250
+363
+2
+Colector Oriente Etapa 2
+800
+289
+2
+Colector Central Etapa 2
+500
+532
+2
+Ramal 1
+250
+290
+2
+Ramal 2
+250
+432
+2
+Ramal 3
+250
+403
+2
+Ramal 4
+250
+303
+2
+Ramal 5
+250
+127
+3
+Colector Oriente Etapa 3
+600
+471
+3
+Colector Central Etapa 3
+600
+386
+3
+Ramal 1
+250
+176
+3
+Ramal 2
+250
+260
+3
+Ramal 3
+250
+313
+3
+Ramal 4
+250
+379
+3
+Ramal 5
+250
+297
+3
+Ramal 6
+250
+261
+A continuación, se presenta la verificación del dimensionamiento de la red de tuberías colectoras de 
+biogás para el flujo requerido de acuerdo a las proyecciones de generación de biogás.
+6.3.1.
+Verificación de velocidades de flujo
+A continuación, se calculan las velocidades a las que estarán sometidas las tuberías de la red 
+colectora de biogás según el flujo de diseño para cada tramo.
+Tabla 6.
+Verificación de velocidad en tramos de la red colectora de biogás.
+
+===== p.13 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+11
+Parámetros
+Colector 
+Principal
+Colector 
+Poniente
+Colector 
+Oriente 
+Etapa 2
+Colector 
+Oriente 
+Etapa 3
+Colector 
+Central 
+Etapa 1
+Colector 
+Central 
+Etapa 2
+Colector 
+Central 
+Etapa 3
+Unidad
+Diámetro
+900
+500
+800
+600
+500
+500
+600
+mm
+Sección
+0,636
+0,196
+0,503
+0,283
+0,196
+0,196
+0,283
+m2
+Sección inundada
+10%
+10%
+10%
+10%
+10%
+10%
+10%
+%
+Sección libre
+0,57
+0,18
+0,45
+0,25
+0,18
+0,18
+0,25
+m2
+Flujo de Diseño
+12.048
+3.445
+8.603
+5.353
+3.445
+3.250
+5.353
+m3/h
+Velocidad
+5,8
+5,4
+5,3
+5,8
+5,4
+5,1
+5,8
+m/s
+ Verificación
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok < 5-6 m/s
+En conclusión, se verifica que las dimensiones escogidas cumplen con los criterios deseados de 
+velocidad máxima del flujo, considerando que se desea mantener la velocidad del flujo por debajo 
+de los 6 m/s.
+6.3.2.
+Drenaje de condensados en la red colectora de biogás
+Para evitar la obstrucción en las líneas colectoras de biogás producto de la acumulación de líquidos 
+derivados de la condensación de la humedad contenida en el biogás, se considera la instalación de 
+‘trampas’ para condensados, que permiten la captura de estos líquidos y su extracción. 
+Las trampas básicamente crean un volumen mayor en el conducto de paso del gas, el cual reduce la 
+velocidad del flujo de gas, permitiendo la caída por gravedad del líquido libre en su interior. 
+Para facilitar la extracción del líquido, las trampas cuentan con una tubería concéntrica interior de 
+menor diámetro la cual recorre hasta antes de tocar el fondo de la tubería mayor. De esta manera se 
+crea un sello hidráulico o sifón, a través del cual se inserta una bomba o tubería de aspiración para la 
+extracción del líquido acumulado. 
+El sello hidráulico permite abrir la tubería interior para operar o extraer la bomba en su interior sin 
+afectar el flujo de gas. 
+
+===== p.14 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+12
+Figura 5.
+Diseño de las trampas hidráulicas para captura y extracción de condensados en 
+las líneas colectoras de biogás.
+Estos dispositivos se intercalan en las líneas colectoras de biogás. Se han considerado de dos tipos, 
+trampa de paso y trampa perimetral. Estas se instalarán en las líneas colectoras Principal, Poniente, 
+Oriente Etapa 2 y Oriente Etapa 3.
+Las dimensiones de estos elementos se deben igualar en diámetro a 1,2 veces el diámetro de la 
+tubería colectora correspondiente.
+Los condensados que sean capturados en las líneas de captación de biogás deberán ser derivados a 
+los colectores de lixiviados del relleno sanitario. 
+Cabe señalar que el manejo de estos líquidos no afecta el balance hídrico del sistema pues provienen 
+de la misma humedad generada por el proceso de descomposición biológica de los residuos 
+orgánicos.
+6.4.
+CRITERIOS PARA CONEXIONADO DE CHIMENEAS
+Las chimeneas que se perforan y construyen una vez que el relleno alcanza ciertas cotas definitivas 
+por fase, alcanzan inmediatamente su nivel óptimo para ser conectados. Esto se debe a que por su 
+profundidad, logran captar el gas proveniente desde zonas profundas y maduras del relleno de 
+residuos.
+
+===== p.15 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+13
+Por lo tanto, el criterio en este caso es de que sean conectados inmediatamente al sistema de 
+captura activa.
+Por otro lado, las chimeneas que se van conformando verticalmente en la medida que el depósito es 
+llenado, no alcanzan una calidad ni condición de sellado óptima para poder ser conectados, sino 
+solamente cuando son sellados en su superficie.
+Por lo tanto, para la conexión de este tipo de chimeneas, se deberá considerar como criterio los 
+siguientes:
+Tabla 7.
+Criterios para conexión de chimeneas al sistema de extracción activa.
+Parámetro
+Nivel
+Condición
+Concentración  de  Metano 
+(CH4)
+>35% v/v
+Concentración  constante  estando 
+sometida la chimenea a una succión 
+activa del sistema de extracción.
+Concentración  de  Oxígeno 
+(O2)
+<3% v/v
+6.5.
+DISEÑO DE LA CHIMENEA PARA EXTRACCIÓN DE BIOGÁS
+La chimenea consiste en una tubería de HDPE de diámetro 110 mm, perforada con orificios de 16 
+mm en el 80% de su longitud. Esta tubería se instala al interior de una perforación de diámetro de 
+entre 800 a 1200 mm, sobre una cama de bolones al fondo de la perforación y rodeada por un 
+relleno de grava gruesa hasta 2 metros antes del nivel de superficie. 
+La parte superior de relleno alrededor de la tubería se completa con una membrana de HDPE de 
+diámetro 3 metros, soldada a la tubería, y sobre la cual se coloca un relleno de suelo fino 
+compactado hasta la superficie. Finalmente, la geomembrana de superficie se sella a la tubería de 
+HDPE.
+En el extremo superior de la tubería se instala un terminal especial de extracción. Este se basa en un 
+adaptador de fijación a la tubería, un cabezal de regulación de flujo/presión de biogás, dispositivo 
+para medición de flujo, entradas para bomba neumática para extracción de lixiviados, más puertos 
+para monitoreo de gas.
+La siguiente figura muestra el diseño tipo de la chimenea de extracción de 20 m de profundidad.
+
+===== p.16 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+14
+Figura 6.
+Diseño para la chimenea de extracción dual.
+
+===== p.17 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+15
+7. PLANTA DE EXTRACCIÓN DE BIOGÁS.
+La función de esta unidad es provocar la aspiración para la extracción forzada del biogás desde las 
+redes colectoras de chimeneas, provocando una presión de succión no menor a -120 mbar, 
+entregando en su salida, el flujo de biogás a una presión positiva de 60 mbar para empujar el gas a 
+través de la antorcha cerrada de combustión. 
+Se considera normalmente plantas de sopladores centrífugos multi-etapas. Esta planta debe estar 
+integrada sobre una plataforma, automatizada para el control de flujo y presión, con variadores de 
+frecuencia  para  los  motores  de  los  sopladores  y  un  circuito  by-pass  regulado  por  válvula 
+moduladora. 
+Debe incluir supervisión de montaje y puesta en marcha por parte del fabricante, e integración de 
+control y comunicaciones con el PLC principal. 
+La capacidad requerida para esta planta de bombeo en su primera etapa es de flujo 3.000 Nm3/h.
+Figura 7.
+Ejemplo de un sistema de antorcha cerrada para quema de biogás.
+7.1.
+REQUISITOS PRINCIPALES DEL SISTEMA DE ANTORCHA PARA TERMO 
+DEGRADACIÓN DEL BIOGÁS
+Se compone de un quemado para distribución del gas dentro de una torre cerrada, un sistema de 
+monitoreo de los parámetros del proceso, y un cuadro eléctrico de fuerza y control.
+
+===== p.18 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+16
+Se debe asegurar la selección del equipo dentro de las tecnologías que están disponibles y que se 
+utilizan en otros casos, y que aseguran el control de las emisiones de las antorchas del biogás de 
+Relleno Sanitario.
+Asimismo, se debe considerar la medición periódica anual de las emisiones de la(s) antorchas, así 
+como un seguimiento a sus condiciones de funcionamiento y mantenimiento.
+7.1.1.
+Tipo de Antorcha
+No se deben instalar antorchas abiertas. El proceso debe llevarse a cabo dentro de una cámara o 
+torre cerrada para la llama de combustión del gas.
+7.1.2.
+Estándar de desempeño
+El suministro de aire de combustión debe controlarse para lograr una temperatura >850°C y un 
+tiempo de retención mínimo de  2 segundos a esta temperatura, independientemente de la 
+composición del gas de relleno sanitario y el rendimiento operativo. Este es un nivel de rendimiento 
+indicativo que se requiere para cumplir con un estándar de emisiones. 
+Los estándares de desempeño alternativos pueden considerarse más apropiados si se demuestra 
+adecuadamente el cumplimiento del estándar de emisiones.
+7.1.3.
+Estándar de emisiones
+Para garantizar que los sistemas de antorcha funcionen correctamente, no deben exceder las 
+siguientes concentraciones de emisión cuando se refieren a la temperatura y presión normales (NTP 
+= 0 ° C y 1.013 mbar) y al 3% de oxígeno:
+
+Monóxido de carbono (CO) - 50 mg / Nm3
+
+Óxidos de nitrógeno (NOx) - 150 mg / Nm3
+
+Hidrocarburos no quemados (COV) - 10 mg / Nm3
+7.1.4.
+Puntos de monitoreo
+Los puntos de muestreo / monitoreo deben ser de fácil acceso, seguros y funcionales. Esto incluye 
+un mínimo de 1 (un) lugar de monitoreo representativo de las emisiones de cada antorcha. 
+Todos los puntos de monitoreo deben cumplir de acuerdo con la legislación de salud y de seguridad 
+pertinente, para poder efectuar control de emisiones con laboratorios externos.
+El seguimiento debe realizarse con los siguientes parámetros mínimos:
+
+===== p.19 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+17
+Nivel
+Entradas
+(biogás)
+Salidas
+(gas de combustión)
+Continuos
+CH4, CO2, O2 y flujo.
+Temperatura
+Anual
+O2, CO, NOx, CO2, COVs
+
+El monitoreo de primer nivel debe realizarse de manera continua y registrada, ya sea con 
+memoria  local  del  equipo  de  control,  o  mediante  telemetría.  Esto  proporciona  la 
+información básica necesaria para controlar la antorcha y muestra el grado de operación. 
+Además,  los  datos  obtenidos  también  permiten  equilibrar  y  controlar  el  campo  de 
+chimeneas de biogás.
+
+El monitoreo periódico, por lo general, es necesario realizarlo anualmente, dependiendo del 
+riesgo y siempre que la planta se mantenga de acuerdo con las recomendaciones del 
+fabricante. El monitoreo anual proporciona más información sobre la integridad de la 
+combustión, los principales productos de combustión y las principales emisiones.
+
+Sólo se deberán repetir los monitoreos de emisiones cuando haya algún cambio significativo 
+en las condiciones de operación, como un cambio drástico en la composición del gas del 
+Relleno Sanitario o en el método de operación de la antorcha. Esto puede ocurrir, por 
+ejemplo, cuando una nueva fase de nuevas chimeneas del Relleno Sanitario se pone en 
+línea, o la planta se pone en servicio nuevamente, o se vuelve a poner en servicio después de 
+un cambio de ubicación. 
+7.1.5.
+Requisitos de diseño
+El diseño de la antorcha cerrada debe considerar los siguientes requisitos:
+
+Permitir una distribución homogénea de la temperatura en la cámara de combustión;
+
+Incluir un forro con material refractario en el interior;
+
+Permitir que la llama quede contenida en su interior;
+
+Permitir que la antorcha se mantenga permanentemente en condiciones eficientes.
+7.1.6.
+Ubicación
+Dentro del terreno del proyecto, las antorchas deben ubicarse y dimensionarse de manera que se 
+minimicen los posibles impactos en la salud y el medio ambiente inmediato.
+En este caso se ha definido ubicar la planta de antorchas en el sector inmediatamente adyacente a la 
+piscina de lixiviados.
+7.1.7.
+Mantenimiento
+Las antorchas deben mantenerse de acuerdo con las recomendaciones del fabricante. Los registros 
+completos de mantenimiento deben estar siempre disponibles para las inspecciones.
+
+===== p.20 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+18
+7.1.8.
+Plan de emergencia
+Los sistemas que se instalen deberán contar con un plan de emergencia proporcional al riesgo, que 
+se implementará con un tiempo de respuesta específico del operador después de la detección de 
+alguna falla en la planta.
+7.2.
+ESPECIFICACIONES MÍNIMAS RECOMENDADAS
+A continuación, se describen las especificaciones mínimas o recomendadas para cada componente 
+de la planta de bombeo y antorcha cerrada de quema de biogás. 
+7.2.1.
+Entrada de biogás
+
+Flange de conexión 315 mm.
+
+Válvula de mariposa de accionamiento manual.
+
+Manómetro con válvula de corte con escala de -200 a 200 mbar.
+
+Puerto de Conexión para flujómetro.
+7.2.2.
+Sistema captura de condensados
+
+Depósito de acumulación de condensados en acero galvanizado, acero inoxidable o HDPE.
+
+Estructura de soporte del depósito en acero galvanizado.
+
+Tubería de conexión de extracción de condensados con válvula de corte.
+7.2.3.
+Sistema de compresión (soplador)
+
+Arrestallama de acuerdo con estándar ATEX.
+
+Flange de salida con válvula check.
+
+Unidad soplador.
+
+Motor eléctrico.
+
+Estructura de soporte del soplador en material acero galvanizado.
+
+Monitoreo de la temperatura y vibración del soplador en eje-rodamiento.
+7.2.4.
+Antorcha de alta temperatura
+
+Estructura de soporte en acero galvanizado.
+
+Set de anclajes para el montaje de antorcha en el hormigón.
+
+Cámara de combustión construida en acero inoxidable, internamente aislada mediante fibras 
+cerámicas resistentes a la temperatura.
+
+Válvula de mariposa de regulación y corte, continuamente ajustable.
+
+Presostato de arranque.
+
+Válvula de corte rápido, con control eléctrico.
+
+Monitorización de la presión en el difusor para el control de la combustión.
+
+Quemador de inyección con rango de regulación 1:5
+
+Quemador de propano para encendido.
+
+Encendido eléctrico con transformador de ignición.
+
+Sensor UV para la monitorización de la flama.
+
+Termocupla  para  el  monitoreo  de  la  temperatura  de  combustión  con  indicación  de 
+temperatura en la pantalla digital del tablero de control eléctrico.
+
+===== p.21 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+19
+7.2.5.
+Sistema de medición de flujo de biogás.
+
+Flujómetro másico para la determinación del flujo de biogás.
+
+Transmisor de presión absoluta para el establecimiento del flujo normalizado del gas.
+
+Transmisor de temperatura para el establecimiento del flujo normalizado del gas.
+7.2.6.
+Sistema de análisis de gas
+
+El Tablero de control debe ser resistente a la intemperie, incluyendo: Protección contra lluvia, 
+ventilador/calentador con termostato, ventilador con reja de entrada/salida, conexión de 
+medida del gas, descarga de condensados.
+
+Sensor transmisor de CH4, rango de medida: 0 a 100 Vol.% CH4, principio de medida: 
+infrarrojo.
+
+Sensor transmisor de CO2, rango de medida: 0 a 100 Vol.% CH4, principio de medida: 
+infrarrojo.
+
+Sensor  transmisor  de  O2,  rango  de  medida:  0  a  25  Vol.%  O2,  principio  de  medida: 
+electroquímico.
+
+Válvula solenoide, válvula manual para calibración, enfriador de gas de muestra con bomba 
+de extracción de condensados y salida, filtro para gas de muestra, bomba para gas de análisis 
+con válvula de bypass, caudalímetro, filtro stop-water.
+
+Control eléctrico conectado al PLC, incluyendo:
+
+Control de caudal con alarma
+
+Selector (calibración, revisión, muestreo) 
+
+Selector (gas zero/calibración gas), 
+
+Línea de muestreo de gas con difusor y pre-filtro, línea de retorno de condensados con 
+aislamiento y calentador, descarga del gas de muestra a atmósfera.
+
+Salida hacia PLC: 12 Señales de salida analógicas 4 a 20mA y 12 señales digitales.
+
+Display gráfico con registrador y almacenamiento de datos históricos y alarmas de límites 
+críticos.
+7.2.7.
+Sistema de control eléctrico
+El sistema debe ser controlado automáticamente por un PLC que requiera una mínima intervención 
+del operador. El control de la planta debe incorporar todos los interruptores y pantallas necesarias 
+para la monitorización y control. La pantalla digital debe mostrar las señales de alarma. Todas las 
+señales digitales y analógicas deben ser transmitidas a los terminales del tablero de control.
+•
+Interruptores:
+- Interruptor principal, accesible externamente
+- Encendido/Paro soplador
+- Encendido/Paro/Externo antorcha
+- Botón de purga
+•
+Señales luminosas:
+- Piloto de alarma principal externa
+•
+Señales:
+- Señal de alarma principal en contacto libre de potencial
+
+===== p.22 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+20
+- Señal de operación soplador en contacto libre de potencial
+- Señal de operación antorcha en contacto libre de potencial
+- Paro de emergencia externo (circuito de bloqueo de seguridad)
+- Encendido/Detención antorcha
+7.2.8.
+Tuberías
+- Todas las tuberías y piezas singulares para el circuito de biogás deben ser en acero 
+galvanizado o inoxidable.
+- El resto de las tuberías serán en material acorde a las normativas de referencia.
+7.2.9.
+Características de diseño para selección de la antorcha
+-
+Máxima temperatura ambiente
+40
+ºC
+-
+Mínima temperatura ambiente
+-5
+ºC
+-
+Presión ambiente
+1
+atm
+-
+Altura sobre el nivel del mar
+120
+m
+-
+Zona ATEX
+Sí
+-
+Zona sísmica
+1 
+(según NCH 433)
+-
+Máxima carga de viento 
+140
+Km/h
+-
+Caudal de diseño Fase 1
+3000
+Nm3/h
+-
+Caudal de diseño Fase 2
+3000
+Nm3/h
+-
+Caudal mínimo de proceso
+400
+Nm3/h
+-
+Mínima succión a plena carga
+-150
+mbar
+-
+Temperatura máx. gas
+45
+ºC
+-
+Temperatura min. Gas
+>0
+ºC
+-
+Concentración de diseño CH4
+50
+% Vol
+-
+Máxima concentración CH4
+65
+% Vol
+-
+Mínima concentración CH4
+35
+% Vol
+-
+Máxima concentración O2
+3
+% Vol
+-
+Mínima concentración O2
+0
+% Vol
+-
+Tensión equipos
+380 V / 3ph / 50Hz
+-
+Potencia nominal requerida
+200
+KWe
+-
+Puerto para monitoreo de emisiones
+Sí
+7.2.10. Disposición en planta
+El requerimiento de espacio corresponde a una superficie de 250 m 2 aproximados, para una planta 
+de 4 unidades de antorchas de quema.
+
+===== p.23 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+21
+7.3.
+SERVICIOS AUXILIARES
+7.3.1.
+Servicio de alimentación eléctrica
+Se debe considerar una alimentación eléctrica trifásica en 380 V para una potencia máxima de 500 
+kW, que serán suministrados por un grupo electrógeno.
+7.4.
+PROGRAMA DE MANTENIMIENTO PLAN DE QUEMA DE BIOGÁS
+El programa de mantenimiento para la planta de quema de biogás incluirá el monitoreo constante 
+del  sistema  de  captación,  mantenimiento  preventivo  y  correctivo  de  los  equipos  de 
+acondicionamiento (secado, desulfuración, etc.) y la quema, además de la limpieza del sistema de 
+filtros y el control de calidad del gas. Es crucial seguir el plan de mantenimiento para garantizar la 
+eficiencia y seguridad de la planta, incluyendo la inspección regular de las chimeneas de captación y 
+las membranas de sellado, así como el mantenimiento de bombas, compresores y motores.
+7.4.1.
+Sistema de captación de biogás
+
+Inspección de chimeneas: Verificación regular del estado de las chimeneas de captación, 
+incluyendo la tubería de HDPE y los bolones.
+
+Control de fugas: Revisión de la estanqueidad del sistema y detección de posibles fisuras o 
+fugas de biogás. Es esencial mantener el relleno compactado y sellado para evitar la entrada 
+de aire.
+
+Mantenimiento de cabezales: Limpieza y revisión de los cabezales de succión, incluyendo 
+válvulas, tomas de muestras y conexiones de bombas neumáticas de lixiviados.
+7.4.2.
+Acondicionamiento del biogás 
+
+Filtros de gravas: Limpieza y reemplazo de los filtros de gravas para remover la humedad.
+
+Plantas de desulfuración: Mantenimiento y monitoreo del sistema encargado de remover el 
+ácido sulfhídrico, como la desulfuración química o la adsorción en filtros de carbón activado.
+
+Sistemas de secado y enfriamiento: Revisión de los sistemas para condensar y remover la 
+humedad del gas.
+
+Filtros de carbón activado: Limpieza y reemplazo de los filtros de carbón activado para 
+eliminar los siloxanos y otros contaminantes orgánicos. 
+7.4.3.
+Sistema de quema
+
+Quema (quemador/antorcha): Inspección regular y limpieza del quemador o antorcha para 
+asegurar una combustión eficiente y completa.
+
+Limpieza de boquillas: Limpieza de las boquillas del quemador para evitar obstrucciones.
+
+Monitoreo de la llama: Asegurar que la llama sea estable y cumpla con las especificaciones 
+técnicas para una correcta quema. 
+7.4.4.
+Monitoreo y control de calidad 
+
+===== p.24 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+22
+
+Medición de caudal y calidad: Monitoreo continuo del caudal de biogás y su composición 
+(porcentaje de metano, oxígeno y dióxido de carbono para asegurar que se mantengan 
+dentro de los rangos operativos.
+
+Control de presión: Monitoreo de la presión de entrada al sistema de quema para evitar 
+sobrepresiones o subpresiones que puedan afectar el proceso. 
+
+Calibración sensores monitoreos en línea: Se deberá calibrar y hacer mantención periódica, 
+de los sensores de monitoreo en línea, como mínimo mensual, de manera de asegurar la 
+calidad de los datos enviados a la SMA.
+7.4.5.
+Mantenimiento general y seguridad
+
+Inspección de equipos: Verificación del estado general de bombas, compresores, motores y 
+generadores de energía.
+
+Limpieza: Limpieza periódica de todas las instalaciones y equipos.
+
+Normativa de seguridad: Cumplimiento riguroso de las normativas de seguridad vigentes 
+para el manejo de gases combustibles y en entornos de relleno sanitario.
+
+Documentación: Mantener registros detallados de las actividades de mantenimiento y las 
+mediciones de los equipos. 
+
+===== p.25 =====
+ANEXO PROYECTO PLANTA DE QUEMA Y EXTRACCIÓN DE BIOGÁS
+CENTRO METROPOLITANO GESTIÓN INTEGRAL DE RESIDUOS
+ANEXOS 01. PLANOS DE PROYECTO PLANTA DE QUEMA Y 
+EXTRACCIÓN DE BIOGÁS

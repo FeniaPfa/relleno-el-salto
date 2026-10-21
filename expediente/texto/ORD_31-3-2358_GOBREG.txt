@@ -1,0 +1,1949 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+                 
+                                        OFICIO  Nº 31/3/ 
+ 
+ 
+ 
+ANT.: 
+OF. ORD. N°202605102191 del Servicio de Evaluación 
+Ambiental, que solicita pronunciamiento sobre el Estudio de 
+Impacto Ambiental del proyecto "Centro Metropolitano de 
+Gestión Integral de Residuos" 
+ 
+ MAT. :  
+Presentación de pronunciamiento del Gobierno Regional. 
+ 
+ 
+ 
+ 
+ 
+ 
+DE 
+: 
+RODRIGO MUNDACA CABRERA 
+ 
+ 
+GOBERNADOR REGIONAL  
+ 
+ 
+REGIÓN DE VALPARAÍSO 
+ 
+A 
+:            PAULINA IZQUIERDO OSSANDÓN 
+ 
+             DIRECTORA REGIONAL 
+ 
+             SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DE VALPARAÍSO. 
+ 
+En respuesta a la solicitud presentada en el Oficio Ordinario mencionado en el Antecedente, se ha llevado 
+a cabo una revisión del Estudio de Impacto Ambiental del proyecto "Centro Metropolitano de Gestión 
+Integral de Residuos", cuyo Titular es COSEMAR SPA, y su representante legal es el señor José Luis Navajas 
+Rodríguez. Al respecto, el Gobierno Regional de Valparaíso expresa el siguiente pronunciamiento: 
+ 
+El plazo para emitir el pronunciamiento del Gobierno Regional está establecido para el 7 de septiembre 
+de 2026, con base en el Oficio Ordinario mencionado. 
+A continuación, se presenta la propuesta de pronunciamiento: 
+1. 
+Relación del proyecto desde el punto de vista ambiental con políticas, planes y programas del 
+desarrollo regional, de conformidad a lo establecido en el artículo 111 de la Constitución Política 
+de la República y en la Ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración 
+Regional. 
+ 
+ 1.1. En relación con las políticas, planes y programas del desarrollo regional: 
+ 
+ 
+1.1.1. Estrategia Regional de Desarrollo 2025 -2035 
+ 
+El titular realiza una vinculación del proyecto con la Estrategia Regional de Desarrollo 2020, se hace 
+presente al titular, que el análisis de compatibilidad del proyecto se realizó con una Estrategia Regional de 
+Desarrollo (ERD) que no se encuentra vigente. El instrumento de planificación que se encuentra vigente 
+es la "Estrategia Regional de Desarrollo de la Región de Valparaíso 2025-2035", aprobada formalmente 
+mediante Resolución Exenta 31/3/899 del 23 de junio de 2025 del Gobierno Regional de Valparaíso. El 
+marco normativo aplicable, contenido en el Artículo 13 del Reglamento del Sistema de Evaluación de 
+Impacto Ambiental, establece que dicha evaluación debe realizarse considerando los planes de desarrollo 
+regional vigentes. 
+ 
+En consecuencia, para dar cumplimiento a la disposición citada y permitir una correcta evaluación de la 
+pertinencia y coherencia del proyecto desde el punto de vista ambiental con políticas, planes y programas 
+del desarrollo regional, el análisis debe ser actualizado conforme al instrumento vigente. 
+ 
+ 
+
+===== p.1 =====
+ 
+Por lo anterior, se solicita al Titular presentar una nueva versión del análisis, en la cual se aborde la relación 
+del proyecto —en su diseño, objetivos y medidas ambientales— con la ERD 2025-2035. Dicho informe 
+deberá ponderar cómo el proyecto se alinea con los nuevos ejes de desarrollo, objetivos estratégicos y 
+líneas de acción para la Región. 
+ 
+El instrumento se encuentra en el siguiente enlace: 
+ 
+https://www.gobiernovalparaiso.cl/administracion/archivo/archivoDocumento/general/APRUEBA_ERD_ 
+RESOLUCIOPN_899.pdf 
+ 
+A modo de mejorar el análisis se sugiere al titular poner énfasis en los siguientes puntos: 
+ 
+En relación con Línea de Acción LA12 “Combatir el cambio climático mediante la consolidación y 
+fortalecimiento de la gobernanza climática regional y la implementación efectiva de medidas de mitigación 
+y adaptación, integradas en los instrumentos de gestión nacionales, regionales y locales – conforme al 
+ámbito escalar de competencia – para reducir la emisión de gases de efecto invernadero y generar 
+comunidades más educadas, preparadas y resilientes.” El titular indica en su Capítulo 1 Descripción del 
+Proyecto – Específicamente en la Tabla 77, emisiones GEI en fase de operación, se evidencia que las 
+emisiones de CO2eq del proyecto crecen sostenidamente durante toda su vida útil, desde ~82.530 ton 
+CO2eq/año (año 3) hasta ~565.876 ton CO2eq/año al año 25, y siguen aumentando en fase de cierre hasta 
+~606.734 ton CO2eq/año (año 27). 
+ 
+El propio Cap. 1 (sección 1.4.2.11) reconoce que la planta de biogás "ha sido configurada para lograr una 
+eficiencia de captura del 50% de las emisiones generadas en el vaso" — es decir, solo la mitad del metano 
+generado en el relleno es capturado. El sistema de antorchas destruye el 99% de lo que captura, pero eso 
+deja sin capturar (y por tanto liberado a la atmósfera como metano fugitivo) aproximadamente el 50% del 
+biogás total generado. Esto es significativo porque en la sección 1.3.12 (Condición de Riesgo Climático), el 
+titular cita únicamente el dato de "99% de eficiencia de quema" al argumentar sinergia con planes 
+sectoriales de salud, omitiendo mencionar que la captura real es solo del 50%. Es una presentación parcial 
+de la performance climática del proyecto. Por lo anterior se solicita al titular: 
+ 
+a) Presentar el balance completo de emisiones fugitivas de metano no capturado que producirá el 
+proyecto 
+b) Evaluar alternativas tecnológicas para aumentar la tasa de captura (cobertura intermedia 
+mejorada, pozos de extracción adicionales, u otras). 
+ 
+En relación con la Línea de Acción LA16 "Gestionar de manera integral los residuos sólidos domiciliarios y 
+asimilables, mediante iniciativas que fomenten su valorización y asegurando la disposición final, con 
+enfoque de economía circular." Se solicita al titular vincular el proyecto en relación con esta Línea de Acción 
+indicando la relación con otros centros integrales de valorización previa a la disposición final de residuos, 
+o como serán tratados los residuos de manera integral priorizando un enfoque en la economía circular. 
+  
+Se recomienda al titular incorporar un compromiso ambiental voluntario (CAV) de implementación de 
+puntos verdes en colegios o sedes sociales en las comunas de Viña del Mar y Quilpué para promover la 
+segregación y la valorización, asegurando la disposición final como último eslabón, no como función 
+central.  
+ 
+En relación con la Línea de Acción LA19 “Promover la sostenibilidad del uso de las aguas fomentando 
+iniciativas para su uso eficiente y reutilización, para la conservación de sus fuentes de origen, para la 
+adaptación de procesos productivos altos en consumo de agua en base a nuevas tecnologías e innovación, 
+junto con impulsar la educación en la cultura del agua y su cuidado.”  
+ 
+Se solicita al titular cuantificar y categorizar el origen específico del agua industrial suministrada por 
+“proveedores autorizados del mercado local” durante la fase transitoria del proyecto, indicando de qué 
+fuente [y con qué] derecho de aprovechamiento provienen los camiones aljibe, para verificar que no 
+comprometen derechos de agua de la cuenca en la que se emplaza el proyecto. 
+ 
+En cuanto a la Línea de Acción LA50 “Velar que el emplazamiento y desarrollo de actividades humanas en 
+el territorio no ponga en peligro las condiciones y atributos que le otorgan valor ambiental a sitios de 
+
+===== p.2 =====
+ 
+importancia regional como playas, campos dunarios, glaciares, sitios de alta biodiversidad y ecosistemas 
+de fragilidad ambiental.”  
+ 
+Si bien el proyecto no presenta una intervención física ni conectividad de drenaje con ningún SNASPE, 
+Santuario de la Naturaleza, ni los 5 sitios prioritarios oficiales del Oficio 100143/2010. Sí presenta una 
+afectación con el Humedal Urbano Estero Quilpué (Ley 21.202), con una intersección de 5,541 ha vía 
+dispersión de material particulado sedimentable (MPS). Además, el titular presenta su Capítulo 16 la 
+“Línea Base de Áreas Protegidas y Sitios Prioritarios” en su punto 5.7 “Otras Designaciones” donde explicita 
+“En primer término, los sitios prioritarios definidos por la Estrategia Regional de Biodiversidad de 
+Valparaíso (CONAMA-PNUD, 2005), entre los cuales el sitio Palmar Las Siete Hermanas - El Salto se 
+superpone con la superficie de intervención del camino de acceso a construir por el Proyecto.” 
+Complementariamente en este capítulo el titular analiza la Reserva de la Biosfera La Campana-Peñuelas, 
+designación internacional del Programa El Hombre y la Biosfera (MaB) de la UNESCO, que fue declarada 
+en 1984 y ampliada en 2009, de este análisis se determina que el área de obras del Proyecto se emplaza 
+dentro de los límites de la Zona de Transición, definida conforme al Marco Estatutario de la Red Mundial 
+de Reservas de la Biosfera (UNESCO, 1995) como la unidad de uso múltiple orientada al desarrollo 
+socioeconómico sostenible y al emplazamiento de actividades productivas e infraestructura regional.  
+Por lo anterior y a modo de complementar el análisis del proyecto con esta línea de acción, se solicita al 
+titular:  
+ 
+a) Evaluar sustantivamente del impacto sobre el sitio Palmar Las Siete Hermanas - El Salto: qué 
+atributos ecológicos tiene, qué superficie exacta del sitio prioritario es intervenida por el camino 
+de acceso, y qué medidas de mitigación se contemplan.  
+ 
+b) Justificar explícitamente la compatibilidad con los objetivos de gestión de la Reserva de la Biosfera 
+UNESCO La Campana-Peñuelas, más allá de la sola ubicación en zona de transición — idealmente 
+contrastando con el Plan de Gestión de la Reserva (2009-2013, citado como referencia en el 
+Capítulo 16 del titular, pero no analizado en profundidad).  
+ 
+c) Analizar la depositación de material particulado acumulada a 25 años sobre el Humedal Urbano 
+Estero Quilpué, no solo el valor de diseño anual, dado el carácter de ecosistema frágil que motiva 
+su protección bajo la Ley 21.202.  
+ 
+En relación con la Línea de Acción LA52 “Fortalecer la respuesta de las comunidades y de los servicios para 
+la protección de las personas y sus bienes ante eventos adversos, mediante iniciativas que reduzcan el 
+riesgo y apoyen las capacidades de los servicios de emergencia.” El titular en su Capítulo 8. Plan de 
+Prevención de Contingencias y Emergencias, presenta un análisis de riesgos y medidas de prevención 
+detalladas para riesgos operacionales (biogás, lixiviados, incendios en masa de basura), con sistemas de 
+monitoreo concretos (piezómetros, detección de gases, medición LEL). Incluyendo algunos riesgos 
+naturales en su análisis como el riesgo sísmico que se trata de manera genérica indicando que las 
+instalaciones se diseñarán según las normas y/o estándares nacionales e internacionales para la resistencia 
+sísmica, así mismo, el riesgo de "deslizamiento de taludes" (Tabla 2) está clasificado únicamente como 
+riesgo antrópico, y se refiere exclusivamente a la estabilidad de los taludes construidos del relleno (celdas, 
+muros). No existe ninguna evaluación de remoción en masa como riesgo natural proveniente de las laderas 
+naturales circundantes — dato relevante porque el proyecto se emplaza en un sector de cordillera de la 
+costa, en el trazado de un paso de montaña (Ruta 60 Troncal Sur), donde este tipo de amenaza natural es 
+plausible.  
+ 
+Por lo tanto, se solicita al titular considerar dentro del análisis del Capítulo 8 Plan de Prevención de 
+Contingencias y Emergencias, el peligro geológico (remoción en masa de origen natural) para las laderas 
+que rodean el predio, distinto y adicional al análisis de estabilidad de los taludes construidos del relleno, y 
+que se referencie explícitamente en los estudios de peligro del SERNAGEOMIN aplicables al sector. 
+  
+En complemento, el plan presentado asume la disponibilidad de Bomberos, SAMU, Carabineros y CONAF 
+para escenarios de alta severidad (incendio de masa de basura de gran escala, explosión por taponamiento 
+de ductos de biogás — Tablas 34 y 35), pero no hay evidencia de coordinación previa, capacitación 
+conjunta, ni de una evaluación de si la capacidad instalada de estos cuerpos de emergencia (con base en 
+Quilpué o Viña del Mar) es suficiente para la escala industrial del proyecto (63,1 ha, 25 años de vida útil, 
+
+===== p.3 =====
+ 
+hasta 1.627.853 ton/año de residuos en año 25). Un incendio de masa de residuos en un relleno de esta 
+magnitud puede requerir protocolos y equipamiento distintos a un incendio estructural convencional 
+ 
+Se sugiere al titular considerar la implementación de un Compromiso Ambiental Voluntario CAV que 
+comprometa al proyecto con un convenio o protocolo de coordinación formal con SENAPRED 
+regional/comunal y con el Cuerpo de Bomberos correspondiente, que incluya capacitación específica en 
+incendios de rellenos sanitarios y manejo de explosión de biogás, en cumplimiento con el espíritu de LA52 
+de "fortalecer... las capacidades de los servicios de emergencia". 
+ 
+ 
+1.1.2. Política de Desarrollo y Sostenibilidad Hídrica para la Región de Valparaíso  
+ 
+El titular indica una relación favorable con los objetivos específicos de “Habilitación de nuevas fuentes de 
+aprovisionamiento “e “Incrementar el uso eficiente del recurso para consumo humano y para consumo 
+productivo” argumentando que el sistema de tratamiento de aguas y reúso de aguas residuales, reduciría 
+el consumo de agua potable, lo cual resulta impreciso a la luz del Capítulo 1. Descripción del proyecto, en 
+donde el mismo titular establece que el agua potable se abastece 100% mediante camiones aljibe de 
+distribuidores externos. No indica ninguna reducción de consumo de agua potable vía reúso; el reúso de 
+efluentes tratados (planta de lodos activados) se destina únicamente a humectación de caminos, un uso 
+industrial, no potable, es decir, el proyecto no habilita ninguna fuente nueva, sino que añade demanda 
+extractiva sobre las fuentes regionales existentes durante ese período.  
+ 
+Solo después de que entra en operación la Planta de Tratamiento de Lixiviados (Ósmosis Inversa) el 
+proyecto disminuirá el consumo de agua, reutilizando los lodos trados, pero esto es reducción de demanda 
+propia, no habilitación de nueva oferta hídrica territorial.  
+ 
+Por lo anterior se solicita al titular profundizar el análisis del proyecto con relación esta política, debido a 
+que el proyecto no aplica a habilitación de nuevas fuentes del recurso hídrico, sino más bien reutiliza el 
+agua de los lodos activados para su propio uso industrial.  
+ 
+En cuanto al Eje "Infraestructura de captación, acumulación, conducción, distribución y saneamiento" el 
+titular califica una relación "Favorable" argumentando la reducción de riesgos de contaminación hídrica 
+mediante manejo de lixiviados. Sin embargo, en su Capítulo 8 el propio Plan de Contingencias identifica 
+múltiples modos de falla en el sistema de manejo de lixiviados como riesgos reales y recurrentes: 
+taponamiento de drenes, fuga de lixiviados, infiltración por falla del sistema de impermeabilización, falla 
+del sistema de bombeo, el Capítulo 1 revela que el caudal de lixiviados crece significativamente con el 
+tiempo generando un caudal considerable que exige que el sistema de contención esté correctamente 
+dimensionado en todo momento. En este caso no se objeta la clasificación de favorable, pero se solicita al 
+titular que acompañe con el registro histórico de incidentes de proyectos similares operados por el mismo 
+titular/consorcio (si existen), y que se explicite la capacidad de la planta de tratamiento para absorber el 
+peak de 724 m³/día sin generar rebalses. 
+ 
+1.1.3 
+Estrategia Regional y Plan de Acción para la Conservación de la Diversidad Biológica de la Región 
+de Valparaíso (Sitios Prioritarios para la Conservación de la Biodiversidad).  
+ 
+El proyecto no se ubica dentro de alguno de los sitios indicados en el OF. ORD. D.E. N° 100143 de 15 de 
+noviembre de 2010 del Servicio de Evaluación Ambiental, que complementa y actualiza el instructivo 
+“Sitios Prioritarios para la Conservación en el Sistema de Evaluación de Impacto Ambiental”.  
+ 
+ 
+1.1.4 
+Estrategia Regional de Innovación  
+ 
+Si bien el proyecto se relaciona con el eje “innovación empresarial” al considerar un porcentaje de 
+valorización de residuos en su funcionamiento como centro metropolitano de gestión integral de residuos, 
+el titular indica una relación favorable del proyecto con todos los ejes de esta estrategia. 
+ 
+Se solicita al titular, con especial énfasis en el eje "Innovación social" donde el titular justifica con la 
+creación de un "aula ambiental y acciones educativas orientadas a la comunidad, fomentando innovación 
+con impacto social" y "programas de educación ambiental y visitas guiadas para escolares" así como con 
+
+===== p.4 =====
+ 
+los ejes “Institucionalidad regional para la innovación" y "Estructuración del Sistema Regional de 
+Innovación (SRI)" justificando que "el proyecto se integra al SRI mediante alianzas con municipios", "ha 
+involucrado distintos actores institucionales". Cada una de estas calificaciones “Favorable" debe 
+sustentarse con evidencia verificable (convenios formales, cronograma de programas educativos, cifras de 
+capacitación técnica especializada… etc.), no con la sola existencia de espacios físicos o relaciones 
+institucionales que son propias de la envergadura de un proyecto como este. 
+ 
+ 
+1.1.5 
+Plan de Desarrollo Territorial Zona Rezagada 2020-2027.  
+ 
+El proyecto se ubica fuera del territorio operacional de este plan 
+ 
+1.1.6 
+Plan Estratégico para la Gestión Integral de Residuos Sólidos Domiciliarios y Asimilables  
+ 
+El capítulo 13 “Relación del Proyecto con las políticas, Planes y Programas de desarrollo”, no incorpora 
+dentro de su análisis su vinculación con el “Plan Estratégico para la Gestión Integral de Residuos Sólidos 
+Domiciliarios y Asimilables” (en adelante PER) para la Región de Valparaíso 2025 - 2035, aprobada 
+mediante Resolución Exenta N° 2243 de fecha 16 de diciembre de 2025, instrumento que se encuentra 
+publicado en la página web del Gobierno Regional de Valparaíso. 
+ 
+El documento se encuentra en el siguiente enlace:  
+ 
+https://www.gobiernovalparaiso.cl/planEstrategicoResiduos.php  
+ 
+El proyecto deberá analizar su relación con los factores críticos definidos en el capítulo 4, el impacto en los 
+subsistemas mencionados en el capítulo 5.2, y especialmente como contribuirá al alcance de las metas 
+establecidas en la matriz de diseño estratégico (ver Tabla 24), entre otros aspectos.  
+ 
+De manera específica se solicita al titular abordar las siguientes Observaciones:  
+ 
+La Región de Valparaíso presenta un sistema regional de infraestructura destinada a la disposición final y 
+que en la actualidad logra satisfacer la demanda (generación de residuos sólidos) regional, esta oferta se 
+encuentra constituida por tres rellenos sanitarios, a saber: El Molle, San Pedro y La Hormiga (sumado a un 
+relleno sanitario localizado en la Región Metropolitana) y tres vertederos. No obstante, a lo anterior, un 
+aumento sostenido en la demanda de residuos (generación de residuos sólidos), el cierre programado de 
+vertederos y las bajas tasas de valorización de residuos sólidos, generan una presión constante en los 
+rellenos sanitarios que operan actualmente, acotando su vida útil. Considerando que el Centro 
+Metropolitano de Gestión Integral de Residuos (en adelante CMGIR) se configura como una solución de 
+reemplazo para aquellos rellenos sanitarios regionales con criticidad de vida útil (El Molle). 
+ 
+a) Se solicita al titular identificar claramente las comunas, generadores privados y otros, a los cuales 
+potencialmente atenderá el proyecto, especialmente si se considera dar servicio a comunas fuera 
+de la Región.  
+ 
+En efecto, sólo se menciona que…” durante la operación del proyecto se espera recibir 30.741.988 
+toneladas de residuos sólidos durante 25 años de vida útil estimada y prestará servicio principalmente a 
+la población de las comunas de la Región de Valparaíso, con una tasa de recepción inicial de 2.500 ton/día”,  
+representando esta cantidad la generación de las 38 comunas de la región al año 2024: 2.424 
+Toneladas/día (información levantada en el PER), por cuanto al focalizar la solución sólo en aquellas 
+potenciales comunas que requieren una alternativa a su situación actual.  
+ 
+b) Se sugiere ajustar el tamaño de la solución propuesta por el titular, mitigando entre otros, los 
+impactos generados en la operación in-situ del CMGIR (lixiviados y biogás), impactos viales, de 
+emisiones provenientes por el transporte de los residuos sólidos hacia el CMGIR, entre otros. Lo 
+anterior se solicita, al objeto de planificar de manera eficiente, coherente y coordinada, las 
+acciones en esta materia que se encuentran contenidas en el PER, específicamente las definidas 
+en la “Cartera Integrada del Plan” (ver capítulo 6.2.1) con aquellas privadas, como la presente.  
+ 
+
+===== p.5 =====
+ 
+Por otro lado, El PER identifica como un factor crítico a nivel regional, las bajas tasas regionales de 
+valorización de residuos sólidos domiciliarios y asimilables, del orden del 1,54% del total generado para el 
+año 2024. Una de las principales causas de esta brecha, dice relación con una insuficiente cantidad de 
+infraestructura y de capacidades asociadas que se encuentren ajustada a la normativa vigente, destinadas 
+para la valorización de residuos sólidos. Al respecto, el PER identifica que los cambios en la normativa 
+asociada a los procesos de valorización, tales como la “Ley REP”, promulgada en el año 2016 y la 
+publicación en el año 2021 de la “Estrategia Nacional de Residuos Orgánicos” y la “Hoja de Ruta de 
+Economía Circular”, plantean un escenario desafiante para aumentar la infraestructura de valorización que 
+opera actualmente en la Región y por lo tanto un aumento en las tasas de valorización de RSD, además en 
+el diseño estratégico del PER, se menciona “la creación de sistemas territoriales para aumentar la 
+recuperación de los residuos sólidos generados, mediante la localización y habilitación de infraestructura, 
+dotación de equipamientos y vehículos y modelos que fortalezcan la separación en origen, recolección 
+selectiva puerta a puerta, y estrategias de circularidad”, considerando como meta regional alcanzar tasas 
+de valorización de al menos el 30% de los residuos sólidos generados.  
+ 
+El presente proyecto declara que las Plantas de Reciclaje y de Compostaje, se encuentran dimensionadas 
+para procesar hasta 80 ton/día y 94 ton/día, de manera respectiva, lo que no supera el 4% de lo que se 
+dispondrá en el relleno sanitario (2.500 Ton/día); así mismo se identifica que la construcción de la “Planta 
+de Reciclaje” y “Planta de Compostaje”, cuentan con un cronograma de construcción y puesta en marcha 
+al año 4 de operación, estructurado bajo una planificación técnico-operativa que responde directamente 
+a la curva proyectada de la tasa de ingreso de materiales valorizables (envases y embalajes) y de la fracción 
+orgánica segregada en origen.  
+ 
+Bajo el contexto anterior, se evidencia que las capacidades de ambas unidades de valorización (compostaje 
+y reciclaje) y su inicio no son coherentes con el propósito del PER, como lo es aumentar de manera 
+significativa las tasas de valorización de residuos sólidos en la región. 
+ 
+ 
+c) En este sentido, y con el fin de acelerar la valorización de residuos sólidos, se solicita al titular que 
+ambas unidades “Planta de Reciclaje” y “Planta de Compostaje”, aumenten sus capacidades de 
+tratamiento con el fin de adecuarse a las metas nacionales y regionales en esta materia, 
+específicamente con la Línea de Intervención N°4 del PER: “Alcanzar tasas de valorización de al 
+menos el 30% de los residuos sólidos generados”; además de iniciar su operación el mismo año 
+del relleno sanitario. Se tiene como experiencia en la Región de Valparaíso, el “Centro de 
+Tratamiento Integral de Residuos Sólidos La Hormiga”, iniciativa que cuenta con RCA N°1371 del 
+14/09/2009, la cual consideraba la habilitación de una planta de reciclaje, compostaje, entre otros, 
+constatándose que a la fecha ambas unidades no se encuentran construidas.  
+ 
+El PER señala que las emisiones de los GEI del sector residuos en la Región de Valparaíso, específicamente 
+de aquellas derivadas de la categoría “disposición final de residuos sólidos” provenientes de la fracción 
+domiciliaria y asimilable, equivalen a 383 Kt de CO₂ eq, representando este aporte entre un 50 - 60% del 
+total de emisiones de GEI del sector residuos en la Región (642,8 Kt CO₂ eq al año 2022), consolidándose 
+como la principal fuente de emisiones en este ámbito. En efecto, se establece la Línea de Intervención N°6 
+dentro del PER, el “Potenciar acciones para mitigar los Gases de Efecto Invernadero generados por el  
+manejo de residuos sólidos domiciliarios”, mediante la implementación de “Proyectos de valorización de 
+residuos sólidos y quema controlada/captura y valorización de biogás en rellenos sanitarios”. 
+  
+d) Por lo anterior, se solicita que el proyecto habilite un sistema de captura y valorización de biogás, 
+y no sólo se materialice un sistema de ventilación pasiva y la construcción y puesta en marcha de 
+un sistema de extracción activa y quema controlada (antorcha) a partir del año 3 de operación. Lo 
+anterior se solicita, dada la alta cantidad de residuos sólidos que se contempla recepcionar en el 
+relleno sanitario, reduciendo así la liberación directa de metano a la atmósfera y contribuyendo al 
+cumplimiento de los compromisos climáticos regionales y nacionales, especialmente al Plan 
+Sectorial de Mitigación del Sector Salud, publicado en el Diario Oficial el 9 de enero del 2026.  
+ 
+El titular del proyecto identifica la construcción de una planta tratamiento de lixiviados, indicando que 
+durante los primeros dos años el volumen generado de lixiviados será absorbido y contenido de manera 
+hermética por piscinas de acumulación principales, proyectándose tener operativa una planta para el 
+tratamiento de lixiviados a partir del año 3 de operación, considerando además que frente a eventos 
+
+===== p.6 =====
+ 
+extremos o contingencias operativas, la planta se podría construir si el volumen de lixiviados alcanza el 
+50% de la capacidad total de las piscinas (condición de alerta temprana). 
+ 
+e) Al respecto, el PER identifica incumplimiento en los rellenos sanitarios que operan en la Región 
+producto de fiscalizaciones de los órganos con competencia, relevándose la no implementación 
+de sistemas de tratamientos de lixiviados y/o de la existencia de piscinas con capacidades críticas 
+frente a eventos extremos (lluvias), evidenciándose que en la actualidad se utilizan piscinas de 
+lixiviados en los 3 rellenos sanitarios (Relleno sanitario El Molle, La Hormiga y San Pedro), y sólo 
+en uno de ellos (Relleno Sanitario El Molle) – por efecto de un proceso sancionatorio de la SMA - 
+cuenta con un sistema de tratamiento de lixiviados, el cual aún no entra en régimen. Bajo el 
+contexto anterior, considerando los antecedentes regionales en esta materia, y con el objeto de 
+adoptar medidas eficaces que evitan daños al medio ambiente o a la salud humana, Se solicita al 
+titular considerar la habilitación del sistema de tratamiento de lixiviados y de piscinas de 
+almacenamiento al inicio del proyecto.  
+ 
+El PER, dentro de sus capítulos, establece la “Localización de Áreas Potenciales para Habilitar un Centro de 
+Tratamiento Integral de Residuos Sólidos” (ver capítulo 6.2.1.4). El centro propuesto, se plantea como 
+reemplazo al funcionamiento del relleno sanitario El Molle, y se considera como parte estructural del 
+modelo de implementación del Plan, dando una solución sostenible en el tiempo para las comunas que 
+disponen de tal relleno sanitario, especialmente las dos mayores comunas generadoras de la Región: 
+Valparaíso y Viña del Mar. Al respecto, el PER establece una metodología para la identificación de 
+potenciales áreas de la Región de Valparaíso continental, factibles para el emplazamiento de 
+infraestructura sanitaria orientada al tratamiento de residuos sólidos domiciliarios, considerando 
+elementos de análisis, tales como la vinculación con los instrumentos de planificación territorial (en 
+adelante IPT), normativa aplicable a infraestructura sanitaria para el tratamiento de residuos sólidos (DS 
+189 del Ministerio de Salud), además de otros elementos de carácter ambiental, social y cultural. 
+ 
+f) Bajo el contexto anterior, se solicita al titular vincular el emplazamiento del proyecto con el 
+capítulo 6.2.1.4 “Localización de Áreas Potenciales para Habilitar un Centro de Tratamiento 
+Integral de Residuos Sólidos” del PER asociado a la localización potencial del proyecto.  
+ 
+g) Se solicita fortalecer el alcance del Compromiso Ambiental Voluntario N°3, “Formación ciudadana 
+Aula Tierra Viva”, incorporando actividades prácticas que permitan a la comunidad educativa 
+conocer de manera directa el funcionamiento del sistema de gestión de residuos asociado al 
+proyecto. En particular, se recomienda considerar visitas guiadas al relleno sanitario en operación, 
+junto con actividades demostrativas sobre los procesos de separación, valorización y manejo de 
+residuos reciclables y compostaje, de manera de complementar la formación teórica con una 
+experiencia concreta del ciclo de gestión de residuos y sus alternativas de valorización. Además, 
+se recomienda ampliar territorialmente el compromiso, incorporando establecimientos 
+educacionales y JJVV de la comuna de Quilpué, considerando que esta comuna, se encuentra 
+contigua al área de influencia del proyecto.  
+ 
+h) Sumado a lo anterior, se solicita que, con el objeto de fortalecer el compromiso asociado a la 
+realización de charlas y talleres, se implementen puntos verdes para la valorización de residuos en 
+establecimientos educacionales y sedes de Juntas de Vecinos (JJVV) de las comunas de Viña del 
+Mar y Quilpué, donde se desarrollen dichas actividades. Estos puntos deberían permitir la 
+aplicación práctica de los contenidos abordados, mediante la separación en origen y posterior 
+valorización de los residuos reciclables en el CMGIR. De esta manera, se fortalecería el 
+componente de educación ambiental del proyecto y se generarían resultados concretos y 
+verificables en materia de separación en origen y valorización de residuos.  
+ 
+Este CAV se vincula directamente con el PER en su Línea de Acción N°31, “Ejecutar programas de educación 
+ambiental destinados a implementar iniciativas en prevención y fomento al manejo diferenciado y 
+valorización de residuos sólidos en establecimientos educacionales certificados en el Sistema Nacional de 
+Certificación Ambiental de Establecimientos Educacionales (SNCAE)”, así como con la Línea de Acción 
+N°33, “Financiar proyectos en materia de educación y gestión comunitaria para la reducción, valorización 
+de RSD y erradicación de microbasurales.”. En este sentido, su implementación contribuiría a materializar 
+ambas líneas de acción mediante el fortalecimiento de la educación ambiental, la participación 
+comunitaria y la promoción de prácticas de prevención, separación en origen y valorización de residuos.  
+
+===== p.7 =====
+ 
+i) Se solicita incorporar un nuevo Compromiso Ambiental Voluntario orientado al fortalecimiento e 
+integración de recicladores de base de las comunas potencialmente beneficiarias del proyecto, 
+especialmente la comuna de Viña del Mar, reconociendo su rol en la cadena de gestión y 
+valorización de residuos. El compromiso deberá contemplar mecanismos de financiamiento en la 
+formalización y constitución de cooperativas de recicladores de base ante el Ministerio de 
+Economía. Contribuyendo a que tales cooperativas puedan participar en actividades de 
+recolección, separación, clasificación y valorización de materiales reciclables que lleguen o sean 
+tratados en la instalación.  
+ 
+Esta medida se vincula directamente con el PER en su Línea de Intervención N°5, “Favorecer la inclusión 
+de los recicladores de base en la cadena de valorización de residuos sólidos mediante el desarrollo de 
+cooperativas de trabajo”. 
+ 
+Por lo anterior, en el ámbito de las políticas regionales, se informa que el proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos” debe resolver las observaciones realizadas, desde el 
+punto de vista ambiental con los instrumentos vigentes. 
+   
+ 
+2. Relación con políticas y planes evaluados estratégicamente y compatibilidad territorial, según 
+lo requerido en Ley 20.417 Art. 8º letra a) 
+              
+2.1.              En relación a su vinculación con instrumentos de ordenación d el territorio: 
+El Titular no adjunta el Certificado de Informaciones Previas, emitido por la Dirección de Obras Municipales 
+de la I. Municipalidad de Viña del Mar para el predio en que se emplazan las obras del proyecto, a modo 
+de complementar la información territorial del proyecto, se solicita al titular presentar el CIP emitido por 
+la DOM correspondiente, para certificar claramente las normas urbanísticas asociadas a la localización del 
+proyecto. 
+El titular presenta un análisis de la localización del proyecto con el instrumento de carácter Metropolitano 
+Plan Regulador Metropolitano de Valparaíso (PREMVAL) (D.O. 02-04-2014) en el cual indica que este 
+proyecto se encuentra en área rural normada de dicho instrumento de planificación territorial, por lo que 
+no tendría restricciones que afecten la compatibilidad territorial del proyecto. 
+Hecho el análisis territorial, se constató que efectivamente el proyecto se encuentra en Área Rural 
+Normada del PREMVAL, en este sentido se hace relevante considerar lo dispuesto en la ordenanza del 
+PREMVAL que indica “… el uso de suelo de actividades productivas que de conformidad a lo dispuesto en 
+la Ordenanza General de Urbanismo y Construcciones sean calificadas como molestas, insalubres o 
+contaminantes y peligrosas, se considerarán siempre de impacto intercomunal y, sólo podrán emplazarse 
+en las zonas que expresamente se destinan para estos fines.” En su artículo 6 la Ordenanza indica: 
+Se considerarán edificaciones e instalaciones destinadas a infraestructuras de impacto intercomunal las 
+siguientes: 
+• 
+Infraestructura de transporte: Terminales de transporte terrestre asociados al transporte de carga, 
+recintos marítimos o portuarios, instalaciones o recintos aeroportuarios.  
+• 
+Infraestructura sanitaria: Plantas de captación, distribución o tratamiento de agua potable o de 
+aguas servidas, rellenos sanitarios.  
+• 
+Infraestructura energética: Centrales de generación o distribución de energía.  
+ 
+ 
+ 
+
+===== p.8 =====
+ 
+Ilustración 1  
+ 
+Fuente: EIA - Centro Metropolitano de Gestión Integral de Residuos 
+En el Área Rural, el emplazamiento de las citadas instalaciones deberá ajustarse a lo establecido para 
+dichos efectos en el artículo 55º de la Ley General de Urbanismo y Construcciones y artículo 2.1.29. de la 
+Ordenanza General de Urbanismo y Construcciones. 
+En este sentido, resulta sustancial considerar lo señalado en el inciso final del artículo 55 de la Ley General 
+de Urbanismo y Construcciones, en donde se indica que “Igualmente, las construcciones industriales, de 
+infraestructura, de equipamiento, turismo, y poblaciones, fuera de los límites urbanos, requerirán, 
+previamente a la aprobación correspondiente de la Dirección de Obras Municipales, del informe favorable 
+de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio Agrícola que correspondan. 
+El mismo informe será exigible a las obras de infraestructura de transporte, sanitaria y energética que 
+ejecute el Estado.” 
+En complemento de lo anterior, el Artículo 2.1.29 de la O.GUC. señala que “En el área rural de los planes 
+reguladores intercomunales o metropolitanos, dichas instalaciones o edificaciones estarán siempre 
+admitidas y se sujetarán a las disposiciones que establezcan los organismos competentes, sin perjuicio del 
+cumplimiento de la ley 19.300 y de lo dispuesto en el artículo 55 del DFL N°458 (V. y U.), de 1975, Ley 
+General de Urbanismo y Construcciones, correspondiendo a equipamiento en los casos que no 
+contemplen procesos productivos, si los contemplaren se considerarán como industria.”. 
+Por lo anterior la compatibilidad territorial del proyecto quedará supeditada al informe favorable de los 
+organismos competentes según lo indicado en el Artículo 55 de la LGUC. 
+
+===== p.9 =====
+ 
+Por otra parte, se hace presente al titular que el proyecto contempla la habilitación de una vía de acceso 
+que cruza el trazado propuesto por la vía Expresa VE-2v proyectada en el PREMVAL, que contempla un 
+trazado de 20 metros de ancho total. Por lo anterior se solicita al titular tener presente y a la vista esta 
+vialidad proyectada, incorporándola dentro del análisis de compatibilidad o dentro del Estudio de Impacto 
+Vial. 
+Por lo anterior, en el ámbito de la compatibilidad territorial, se informa que el proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos” debe resolver las observaciones realizadas. 
+3. Revisado los antecedentes presentados: 
+1.1.1. Estrategia Regional de Desarrollo 2025 - 2035:  
+En el ámbito de sus competencias y en respuesta a la solicitud de pronunciamiento fundado sobre el 
+proyecto " Centro Metropolitano de Gestión Integral de Residuos ", sometido al Sistema de Evaluación de 
+Impacto Ambiental, el Gobierno Regional de Valparaíso se pronuncia con observaciones en cuanto a:  
+a) Se solicita al Titular presentar una nueva versión del análisis, en la cual se aborde la relación del 
+proyecto —en su diseño, objetivos y medidas ambientales— con la ERD 2025-2035. Dicho informe 
+deberá ponderar cómo el proyecto se alinea con los nuevos ejes de desarrollo, objetivos 
+estratégicos y líneas de acción para la Región.  
+El instrumento se encuentra en el siguiente enlace:  
+https://www.gobiernovalparaiso.cl/administracion/archivo/archivoDocumento/general/APRUEBA_ERD_ 
+RESOLUCIOPN_899.pdf 
+A modo de mejorar el análisis se sugiere al titular poner énfasis en los siguientes puntos:  
+b) En relación con Línea de Acción LA12 “Combatir el cambio climático mediante la consolidación y 
+fortalecimiento de la gobernanza climática regional y la implementación efectiva de medidas de 
+mitigación y adaptación, integradas en los instrumentos de gestión nacionales, regionales y locales 
+– conforme al ámbito escalar de competencia – para reducir la emisión de gases de efecto 
+invernadero y generar comunidades más educadas, preparadas y resilientes.” Se solicita al titular:  
+• 
+Presentar el balance completo de emisiones fugitivas de metano no capturado que 
+producirá el proyecto  
+• 
+Evaluar alternativas tecnológicas para aumentar la tasa de captura (cobertura intermedia 
+mejorada, pozos de extracción adicionales, u otras).  
+ 
+c) En relación con la Línea de Acción LA16 "Gestionar de manera integral los residuos sólidos 
+domiciliarios y asimilables, mediante iniciativas que fomenten su valorización y asegurando la 
+disposición final, con enfoque de economía circular."  
+ 
+• 
+Se solicita al titular vincular el proyecto en relación con esta Línea de Acción indicando la relación 
+con otros centros integrales de valorización previa a la disposición final de residuos, o como serán 
+tratados los residuos de manera integral priorizando un enfoque en la economía circular.  
+• 
+Se recomienda al titular incorporar un compromiso ambiental voluntario (CAV) de implementación 
+de puntos verdes en colegios o sedes sociales en las comunas de Viña del Mar y Quilpué para 
+promover la segregación de origen y la valorización asegurando la disposición final como último 
+eslabón, no como función central.  
+ 
+d) En relación con la Línea de Acción LA19 “Promover la sostenibilidad del uso de las aguas 
+fomentando iniciativas para su uso eficiente y reutilización, para la conservación de sus fuentes 
+de origen, para la adaptación de procesos productivos altos en consumo de agua en base a nuevas 
+tecnologías e innovación, junto con impulsar la educación en la cultura del agua y su cuidado.”  
+ 
+• 
+Se solicita al titular cuantificar y categorizar el origen específico del agua industrial suministrada 
+por “proveedores autorizados del mercado local” durante la fase transitoria del proyecto, 
+
+===== p.10 =====
+ 
+indicando de que fuente, derecho de aprovechamiento provienen los camiones aljibes, para 
+verificar que no comprometen derechos de agua de la cuenca en la que se emplaza el proyecto.  
+ 
+e) En cuanto a la Línea de Acción LA50 “Velar que el emplazamiento y desarrollo de actividades 
+humanas en el territorio no ponga en peligro las condiciones y atributos que le otorgan valor 
+ambiental a sitios de importancia regional como playas, campos dunarios, glaciares, sitios de alta 
+biodiversidad y ecosistemas de fragilidad ambiental.”  
+se solicita al titular:  
+ 
+• 
+Evaluar sustantivamente del impacto sobre el sitio Palmar Las Siete Hermanas - El Salto: 
+qué atributos ecológicos tiene, qué superficie exacta del sitio prioritario es intervenida por el 
+camino de acceso, y qué medidas de mitigación se contemplan.  
+• 
+Justificar explícitamente la compatibilidad con los objetivos de gestión de la Reserva de la 
+Biosfera UNESCO La Campana-Peñuelas, más allá de la sola ubicación en zona de transición — 
+idealmente contrastando con el Plan de Gestión de la Reserva (2009-2013, citado como referencia 
+en el Capítulo 16 del titular, pero no analizado en profundidad).  
+• 
+Analizar la depositación acumulada a 25 años sobre el Humedal Urbano Estero Quilpué, 
+no solo el valor de diseño anual, dado el carácter de ecosistema frágil que motiva su protección 
+bajo la Ley 21.202.  
+ 
+f) En relación con la Línea de Acción LA52 “Fortalecer la respuesta de las comunidades y de los 
+servicios para la protección de las personas y sus bienes ante eventos adversos, mediante 
+iniciativas que reduzcan el riesgo y apoyen las capacidades de los servicios de emergencia.”  
+ 
+• 
+Se solicita al titular considerar dentro del análisis del Capítulo 8 Plan de Prevención de 
+Contingencias y Emergencias, el peligro geológico (remoción en masa de origen natural) para las 
+laderas que rodean el predio, distinto y adicional al análisis de estabilidad de los taludes 
+construidos del relleno, y que se referencie explícitamente en los estudios de peligro del 
+SERNAGEOMIN aplicables al sector.  
+• 
+Se sugiere al titular considerar la implementación de un Compromiso Ambiental Voluntario CAV 
+que comprometa al proyecto con un convenio o protocolo de coordinación formal con SENAPRED 
+regional/comunal y con el Cuerpo de Bomberos correspondiente, que incluya capacitación 
+específica en incendios de rellenos sanitarios y manejo de explosión de biogás, en cumplimiento 
+con el espíritu de LA52 de "fortalecer... las capacidades de los servicios de emergencia".  
+1.1.2. Política de Desarrollo y Sostenibilidad Hídrica para la Región de Valparaíso  
+El titular indica una relación favorable con los objetivos específicos de “Habilitación de nuevas fuentes de 
+aprovisionamiento “e “Incrementar el uso eficiente del recurso para consumo humano y para consumo 
+productivo”  
+• 
+Se solicita al titular profundizar el análisis del proyecto con relación esta política, debido a que el 
+proyecto no aplica a habilitación de nuevas fuentes del recurso hídrico, sino más bien reutiliza el 
+agua de los lodos activados para su propio uso industrial  
+En cuanto al Eje "Infraestructura de captación, acumulación, conducción, distribución y saneamiento" el 
+titular califica una relación "Favorable"  
+• 
+En este caso no se objeta la clasificación de favorable, pero se solicita al titular acompañe con el 
+registro histórico de incidentes de proyectos similares operados por el mismo titular/consorcio (si 
+existen), y que se explicite la capacidad de la planta de tratamiento para absorber el peak de 724 
+m³/día sin generar rebalses.  
+ 
+1.1.3 
+Estrategia Regional de Innovación.  
+• 
+Se solicita que al titular, con especial énfasis en el eje "Innovación social" donde el titular justifica 
+con la creación de un "aula ambiental y acciones educativas orientadas a la comunidad, 
+fomentando innovación con impacto social" y "programas de educación ambiental y visitas 
+
+===== p.11 =====
+ 
+guiadas para escolares" así como con los ejes “Institucionalidad regional para la innovación" y 
+"Estructuración del Sistema Regional de Innovación (SRI)" justificando que "el proyecto se integra 
+al SRI mediante alianzas con municipios", "ha involucrado distintos actores institucionales". Cada 
+una de estas calificaciones “Favorable" se sustente con evidencia verificable (convenios formales, 
+cronograma de programas educativos, cifras de capacitación técnica especializada… etc.) Plan 
+Estratégico para la Gestión Integral de Residuos Sólidos Domiciliarios y Asimilables  
+ 
+1.1.4. Plan Estratégico para la Gestión Integral de Residuos Sólidos Domiciliarios y Asimilables  
+El capítulo 13 “Relación del Proyecto con las políticas, Planes y Programas de desarrollo”, no incorpora 
+dentro de su análisis su vinculación con el “Plan Estratégico para la Gestión Integral de Residuos Sólidos 
+Domiciliarios y Asimilables” (en adelante PER) para la Región de Valparaíso 2025- 2035, aprobada 
+mediante Resolución Exenta N°2243 de fecha 16 de diciembre de 2025, instrumento que se encuentra 
+publicado en la página web del Gobierno Regional de Valparaíso.  
+El documento se encuentra en el siguiente enlace:  
+https://www.gobiernovalparaiso.cl/planEstrategicoResiduos.php  
+• 
+El proyecto debe realizar un análisis en donde evalúe su relación con los factores críticos definidos 
+en el capítulo 4, el impacto en el(los) subsistema(s) mencionados en el capítulo 5.2, y 
+especialmente como contribuirá al alcance de las metas establecidas en la matriz de diseño 
+estratégico (ver Tabla 24), entre otros aspectos.  
+• 
+Se solicita al titular identificar claramente las comunas, generadores privados y otros, a los cuales 
+potencialmente atenderá el proyecto, especialmente si se considera dar servicio a comunas fuera 
+de la Región.  
+• 
+Se sugiere ajustar el tamaño de la solución propuesta por el titular, mitigando entre otros, los 
+impactos generados en la operación in-situ del CMGIR (lixiviados y biogás), impactos viales, de 
+emisiones provenientes por el transporte de los residuos sólidos hacia el CMGIR, entre otros. Lo 
+anterior se solicita, con el objeto de planificar de manera eficiente, coherente y coordinada, las 
+acciones en esta materia que se encuentran contenidas en el PER, específicamente las definidas 
+en la “Cartera Integrada del Plan” (ver capítulo 6.2.1) con aquellas privadas, como la presente.  
+• 
+Se solicita al titular que ambas unidades “Planta de Reciclaje” y “Planta de Compostaje”, aumenten 
+sus capacidades de tratamiento con el fin de adecuarse a las metas nacionales y regionales en esta 
+materia, específicamente con la Línea de Intervención N°4 del PER: “Alcanzar tasas de valorización 
+de al menos el 30% de los residuos sólidos generados”; además de iniciar su operación el mismo 
+año del relleno sanitario. Se tiene como experiencia en la Región de Valparaíso, el “Centro de 
+Tratamiento Integral de Residuos Sólidos La Hormiga”, iniciativa que cuenta con RCA N°1371 del 
+14/09/2009, la cual consideraba la habilitación de una planta de reciclaje, compostaje, entre otros, 
+constatándose que a la fecha ambas unidades no se encuentran construidas.  
+• 
+Se solicita que el proyecto habilite un sistema de captura y valorización de biogás, y no sólo se 
+materialice un sistema de ventilación pasiva y la construcción y puesta en marcha de un sistema 
+de extracción activa y quema controlada (antorcha) a partir del año 3 de operación. Lo anterior se 
+solicita, dada la alta cantidad de residuos sólidos que se contempla recepcionar en el relleno 
+sanitario, reduciendo así la liberación directa de metano a la atmósfera y contribuyendo al 
+cumplimiento de los compromisos climáticos regionales y nacionales, especialmente al Plan 
+Sectorial de Mitigación del Sector Salud, publicado en el Diario Oficial el 9 de enero del 2026.  
+• 
+Se solicita al titular considerar la habilitación del sistema de tratamiento de lixiviados y de piscinas 
+de almacenamiento al inicio del proyecto.  
+• 
+Se solicita al titular vincular el emplazamiento del proyecto con el capítulo 6.2.1.4 “Localización de 
+Áreas Potenciales para Habilitar un Centro de Tratamiento Integral de Residuos Sólidos” del PER 
+asociado a la localización potencial del proyecto.  
+• 
+Se solicita fortalecer el alcance del Compromiso Ambiental Voluntario N°3, “Formación ciudadana 
+Aula Tierra Viva”, incorporando actividades prácticas que permitan a la comunidad educativa 
+conocer de manera directa el funcionamiento del sistema de gestión de residuos asociado al 
+proyecto. En particular, se recomienda considerar visitas guiadas al relleno sanitario en operación, 
+junto con actividades demostrativas sobre los procesos de separación, valorización y manejo de 
+
+===== p.12 =====
+ 
+residuos reciclables y compostaje, de manera de complementar la formación teórica con una 
+experiencia concreta del ciclo de gestión de residuos y sus alternativas de valorización. Además, 
+se recomienda ampliar territorialmente el compromiso, incorporando establecimientos 
+educacionales y JJVV de la comuna de Quilpué, considerando que esta comuna, se encuentra 
+contigua al área de influencia del proyecto.  
+• 
+Sumado a lo anterior, se solicita que, con el objeto de fortalecer el compromiso asociado a la 
+realización de charlas y talleres, se implementen puntos verdes para la valorización de residuos en 
+establecimientos educacionales y sedes de Juntas de Vecinos (JJVV) de las comunas de Viña del 
+Mar y Quilpué, donde se desarrollen dichas actividades. Estos puntos deberían permitir la 
+aplicación práctica de los contenidos abordados, mediante la separación en origen y posterior 
+valorización de los residuos reciclables en el CMGIR. De esta manera, se fortalecería el 
+componente de educación ambiental del proyecto y se generarían resultados concretos y 
+verificables en materia de separación en origen y valorización de residuos.  
+• 
+Se solicita incorporar un nuevo Compromiso Ambiental Voluntario orientado al fortalecimiento e 
+integración de recicladores de base de las comunas potencialmente beneficiarias del proyecto, 
+especialmente la comuna de Viña del Mar, reconociendo su rol en la cadena de gestión y 
+valorización de residuos. El compromiso deberá contemplar mecanismos de financiamiento en la 
+formalización y constitución de cooperativas de recicladores de base ante el Ministerio de 
+Economía. Contribuyendo a que tales cooperativas puedan participar en actividades de 
+recolección, separación, clasificación y valorización de materiales reciclables que lleguen o sean 
+tratados en la instalación.  
+ 
+2.1 
+Ordenamiento Territorial:  
+ 
+• 
+Se solicita al titular presentar el CIP emitido por la DOM correspondiente, para certificar 
+claramente las normas urbanísticas asociadas a la localización del proyecto.  
+• 
+Se hace presente al titular que el proyecto contempla la habilitación de una vía de acceso que 
+cruza el trazado propuesto por la vía Expresa VE-2v proyectada en el PREMVAL, que contempla un 
+trazado de 20 metros de ancho total, por lo anterior se solicita al titular tener presente y a la vista 
+esta vialidad proyectada, incorporándola dentro del análisis de compatibilidad o dentro del 
+Estudio de Impacto Vial.  
+ 
+3.0 
+Además, el Consejo Regional de Valparaíso acuerda incluir las siguientes observaciones:  
+• 
+En el marco de la Estrategia Regional y Plan de Acción para la Conservación de la Diversidad 
+Biológica de la Región de Valparaíso, se solicita al titular complementar la evaluación de 
+conectividad ecológica, identificando los corredores utilizados por la fauna y evaluando el efecto 
+barrera y la fragmentación del hábitat que podría generar el proyecto, considerando además las 
+presiones existentes en el área de influencia. Asimismo, se solicita profundizar la evaluación de la 
+relación del proyecto con el Sitio Prioritario “Palmar Las Siete Hermanas–El Salto”, incluyendo la 
+potencial afectación del camino de acceso proyectado sobre su conectividad y funcionalidad 
+ecológica.  
+• 
+Adicionalmente, se solicita revisar y complementar la caracterización de flora y fauna del área de 
+influencia, considerando la presencia de especies que no han sido identificadas en la línea de base 
+ni consideradas en las medidas de relocalización, incluyendo especies en categoría de 
+conservación.  
+• 
+Se solicita al titular complementar las medidas de control de vectores y plagas, evaluando su 
+eventual proliferación o desplazamiento hacia las viviendas y sectores habitados colindantes. 
+Asimismo, se solicita precisar el método de control de roedores a utilizar y acreditar que su 
+implementación no genere riesgo de envenenamiento secundario sobre fauna nativa o endémica 
+del área.  
+• 
+Se solicita al titular justificar técnicamente la medida de prevención de incendios forestales 
+asociada a la faja cortafuego perimetral de 10 metros propuesta para el proyecto, considerando 
+las características del entorno y los antecedentes del megaincendio de febrero de 2024 que afectó 
+el área de emplazamiento. Asimismo, se solicita fortalecer los mecanismos de coordinación y 
+respuesta ante incendios con CONAF, Bomberos y SENAPRED, considerando las características de 
+
+===== p.13 =====
+ 
+las instalaciones y los riesgos asociados al proyecto, particularmente aquellos vinculados a la 
+Planta de biogás.  
+• 
+Se solicita al titular profundizar la evaluación del riesgo asociado a eventuales infiltraciones de 
+lixiviados, considerando las características topográficas e hidrográficas del área de emplazamiento 
+y la conexión de las quebradas del sector con el estero Marga Marga.  
+• 
+Se solicita al titular complementar la modelación de olores, incorporando antecedentes que 
+permitan evaluar la variabilidad de las condiciones meteorológicas entre distintos años; evaluar el 
+escenario de operación a régimen de diseño, bajo las condiciones más desfavorables; e incorporar 
+escenarios de falla parcial o simultánea de los sistemas de abatimiento, con el objeto de verificar 
+que el cumplimiento normativo se sostenga durante toda la vida útil del proyecto.  
+ 
+ 
+Este pronunciamiento se emite acorde con lo establecido en los artículos 8 y 9 ter de la Ley Nº 19.300 
+sobre Bases Generales del Medio Ambiente y los artículos 33 y 34 del Decreto Supremo Nº 40, de 2012, 
+del Ministerio del Medio Ambiente, en razón de la Compatibilidad Territorial del proyecto considerando 
+los instrumentos de planificación territorial aplicables, además de la relación del proyecto con el desarrollo 
+regional, conforme a lo establecido en el artículo 111 de la Constitución Política de la República y en la Ley 
+Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional.  
+ 
+El presente informe fue aprobado por el Consejo Regional de Valparaíso, según consta en Acuerdo Nº 
+12073/09/26, adoptado en su 938ª sesión ordinaria de fecha 03 de septiembre de 2026 
+ 
+ 
+ 
+RODRIGO MUNDACA CABRERA 
+GOBERNADOR REGIONAL  
+ 
+ 
+ 
+ 
+ 
+VGR
+CAB
+GMC
+DVV
+MPN
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799
+
+===== p.14 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 1 
+ 
+ 
+ 
+ 
+ 
+C E R T I F I C A D O 
+ 
+ 
+ 
+ 
+    ENRIQUE ASTUDILLO PINTO, SECRETARIO EJECUTIVO Y 
+MINISTRO DE FE DEL CONSEJO REGIONAL DE VALPARAÍSO, CERTIFICA: 
+  
+ 
+Que el Consejo Regional de Valparaíso, mediante Acuerdo Nº 12073/09/26, 
+adoptado en su 938ª sesión ordinaria de fecha 03 de septiembre de 2026, resuelve en 
+conformidad a lo establecido en los artículos 8° y 9° de la Ley General de Bases del Medio 
+Ambiente N°19.300; del art. N° 22 de la Ley Orgánica Constitucional sobre Gobierno y 
+Administración Regional N° 19.175, y a lo señalado sobre procedimiento en esta materia en 
+el Dictamen de la Contraloría General de la República N° 45.223/2015, aprobar el texto 
+propuesto por el Gobernador Regional, cuyo fin es dar respuesta a la consulta del Servicio 
+de Evaluación Ambiental respecto del Estudio de Impacto Ambiental del Proyecto "Centro 
+Metropolitano de Gestión Integral de Residuos", Comuna de Viña del Mar, Provincia de 
+Valparaíso, Región de Valparaíso. 
+ 
+ 
+La propuesta del Gobernador Regional aprobada se encuentra contenida en 
+su Ord. N° 31/3/2247 del 02.09.2026 y responde a la consulta del Servicio de Evaluación 
+Ambiental efectuada a través de su. OF. ORD. Nº 202605102191 del 27 de julio de 2026. 
+ Su texto es el siguiente: 
+1. Relación del proyecto desde el punto de vista ambiental con políticas, planes y 
+programas del desarrollo regional, de conformidad a lo establecido en el artículo 111 de 
+la Constitución Política de la República y en la Ley Nº 19.175, Orgánica Constitucional 
+sobre Gobierno y Administración Regional. 
+ 
+1.1. En relación con las políticas, planes y programas del desarrollo regional: 
+ 
+1.1.1 Estrategia Regional de Desarrollo 2025 
+ 
+El titular realiza una vinculación del proyecto con la Estrategia Regional de Desarrollo 2020, se hace 
+presente al titular, que el análisis de compatibilidad del proyecto se realizó con una Estrategia 
+Regional de Desarrollo (ERD) que no se encuentra vigente. El instrumento de planificación que se 
+encuentra vigente es la "Estrategia Regional de Desarrollo de la Región de Valparaíso 2025-2035", 
+aprobada formalmente mediante Resolución Exenta 31/3/899 del 23 de junio de 2025 del Gobierno 
+Regional de Valparaíso. El marco normativo aplicable, contenido en el Artículo 13 del Reglamento 
+del Sistema de Evaluación de Impacto Ambiental, establece que dicha evaluación debe realizarse 
+considerando los planes de desarrollo regional vigentes.  
+ 
+En consecuencia, para dar cumplimiento a la disposición citada y permitir una correcta evaluación 
+de la pertinencia y coherencia del proyecto desde el punto de vista ambiental con políticas, planes y 
+programas del desarrollo regional, el análisis debe ser actualizado conforme al instrumento vigente.  
+ 
+Por lo anterior, se solicita al Titular presentar una nueva versión del análisis, en la cual se aborde la 
+relación del proyecto —en su diseño, objetivos y medidas ambientales— con la ERD 2025-2035. 
+
+===== p.15 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 2 
+ 
+ 
+ 
+ 
+ 
+Dicho informe deberá ponderar cómo el proyecto se alinea con los nuevos ejes de desarrollo, objetivos 
+estratégicos y líneas de acción para la Región.  
+ 
+El instrumento se encuentra en el siguiente enlace:  
+ 
+https://www.gobiernovalparaiso.cl/administracion/archivo/archivoDocumento/general/APRUEBA_
+ERD_ RESOLUCIOPN_899.pdf 
+ 
+A modo de mejorar el análisis se sugiere al titular poner énfasis en los siguientes puntos:  
+ 
+En relación con Línea de Acción LA12 “Combatir el cambio climático mediante la consolidación y 
+fortalecimiento de la gobernanza climática regional y la implementación efectiva de medidas de 
+mitigación y adaptación, integradas en los instrumentos de gestión nacionales, regionales y locales – 
+conforme al ámbito escalar de competencia – para reducir la emisión de gases de efecto invernadero y 
+generar comunidades más educadas, preparadas y resilientes.” El titular indica en su Capítulo 1 
+Descripción del Proyecto – Específicamente en la Tabla 77, emisiones GEI en fase de operación, se 
+evidencia que las emisiones de CO2eq del proyecto crecen sostenidamente durante toda su vida útil, 
+desde ~82.530 ton CO2eq/año (año 3) hasta ~565.876 ton CO2eq/año al año 25, y siguen 
+aumentando en fase de cierre hasta ~606.734 ton CO2eq/año (año 27).  
+ 
+El propio Cap. 1 (sección 1.4.2.11) reconoce que la planta de biogás "ha sido configurada para lograr 
+una eficiencia de captura del 50% de las emisiones generadas en el vaso" — es decir, solo la mitad del 
+metano generado en el relleno es capturado. El sistema de antorchas destruye el 99% de lo que captura, 
+pero eso deja sin capturar (y por tanto liberado a la atmósfera como metano fugitivo) 
+aproximadamente el 50% del biogás total generado. Esto es significativo porque en la sección 1.3.12 
+(Condición de Riesgo Climático), el titular cita únicamente el dato de "99% de eficiencia de quema" 
+al argumentar sinergia con planes sectoriales de salud, omitiendo mencionar que la captura real es 
+solo del 50%. Es una presentación parcial de la performance climática del proyecto. Por lo anterior se 
+solicita al titular:  
+ 
+a) Presentar el balance completo de emisiones fugitivas de metano no capturado que producirá el 
+proyecto  
+ 
+b) Evaluar alternativas tecnológicas para aumentar la tasa de captura (cobertura intermedia 
+mejorada, pozos de extracción adicionales, u otras).  
+ 
+En relación con la Línea de Acción LA16 "Gestionar de manera integral los residuos sólidos 
+domiciliarios y asimilables, mediante iniciativas que fomenten su valorización y asegurando la 
+disposición final, con enfoque de economía circular." Se solicita al titular vincular el proyecto en 
+relación con esta Línea de Acción indicando la relación con otros centros integrales de valorización 
+previa a la disposición final de residuos, o como serán tratados los residuos de manera integral 
+priorizando un enfoque en la economía circular.  
+ 
+Se recomienda al titular incorporar un compromiso ambiental voluntario (CAV) de implementación 
+de puntos verdes en colegios o sedes sociales en las comunas de Viña del Mar y Quilpué para promover 
+la segregación y la valorización, asegurando la disposición final como último eslabón, no como función 
+central.  
+
+===== p.16 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 3 
+ 
+ 
+ 
+ 
+ 
+En relación con la Línea de Acción LA19 “Promover la sostenibilidad del uso de las aguas fomentando 
+iniciativas para su uso eficiente y reutilización, para la conservación de sus fuentes de origen, para la 
+adaptación de procesos productivos altos en consumo de agua en base a nuevas tecnologías e 
+innovación, junto con impulsar la educación en la cultura del agua y su cuidado.”  
+ 
+Se solicita al titular cuantificar y categorizar el origen específico del agua industrial suministrada por 
+“proveedores autorizados del mercado local” durante la fase transitoria del proyecto, indicando de qué 
+fuente [y con qué] derecho de aprovechamiento provienen los camiones aljibe, para verificar que no 
+comprometen derechos de agua de la cuenca en la que se emplaza el proyecto.  
+ 
+En cuanto a la Línea de Acción LA50 “Velar que el emplazamiento y desarrollo de actividades 
+humanas en el territorio no ponga en peligro las condiciones y atributos que le otorgan valor 
+ambiental a sitios de importancia regional como playas, campos dunarios, glaciares, sitios de alta 
+biodiversidad y ecosistemas de fragilidad ambiental.”  
+ 
+Si bien el proyecto no presenta una intervención física ni conectividad de drenaje con ningún 
+SNASPE, Santuario de la Naturaleza, ni los 5 sitios prioritarios oficiales del Oficio 100143/2010. Sí 
+presenta una afectación con el Humedal Urbano Estero Quilpué (Ley 21.202), con una intersección 
+de 5,541 ha vía dispersión de material particulado sedimentable (MPS). Además, el titular presenta 
+su Capítulo 16 la “Línea Base de Áreas Protegidas y Sitios Prioritarios” en su punto 5.7 “Otras 
+Designaciones” donde explicita “En primer término, los sitios prioritarios definidos por la Estrategia 
+Regional de Biodiversidad de Valparaíso (CONAMA-PNUD, 2005), entre los cuales el sitio Palmar 
+Las Siete Hermanas - El Salto se superpone con la superficie de intervención del camino de acceso a 
+construir por el Proyecto.” Complementariamente en este capítulo el titular analiza la Reserva de la 
+Biosfera La Campana-Peñuelas, designación internacional del Programa El Hombre y la Biosfera 
+(MaB) de la UNESCO, que fue declarada en 1984 y ampliada en 2009, de este análisis se determina 
+que el área de obras del Proyecto se emplaza dentro de los límites de la Zona de Transición, definida 
+conforme al Marco Estatutario de la Red Mundial de Reservas de la Biosfera (UNESCO, 1995) como 
+la unidad de uso múltiple orientada al desarrollo socioeconómico sostenible y al emplazamiento de 
+actividades productivas e infraestructura regional.  
+ 
+Por lo anterior y a modo de complementar el análisis del proyecto con esta línea de acción, se solicita 
+al titular:  
+ 
+a) Evaluar sustantivamente del impacto sobre el sitio Palmar Las Siete Hermanas - El Salto: qué 
+atributos ecológicos tiene, qué superficie exacta del sitio prioritario es intervenida por el camino de 
+acceso, y qué medidas de mitigación se contemplan.  
+ 
+b) Justificar explícitamente la compatibilidad con los objetivos de gestión de la Reserva de la Biosfera 
+UNESCO La Campana-Peñuelas, más allá de la sola ubicación en zona de transición — idealmente 
+contrastando con el Plan de Gestión de la Reserva (2009-2013, citado como referencia en el Capítulo 
+16 del titular, pero no analizado en profundidad).  
+ 
+c) Analizar la depositación de material particulado acumulada a 25 años sobre el Humedal Urbano 
+Estero Quilpué, no solo el valor de diseño anual, dado el carácter de ecosistema frágil que motiva su 
+protección bajo la Ley 21.202.  
+ 
+
+===== p.17 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 4 
+ 
+ 
+ 
+ 
+ 
+En relación con la Línea de Acción LA52 “Fortalecer la respuesta de las comunidades y de los servicios 
+para la protección de las personas y sus bienes ante eventos adversos, mediante iniciativas que 
+reduzcan el riesgo y apoyen las capacidades de los servicios de emergencia.” El titular en su Capítulo 
+8. Plan de Prevención de Contingencias y Emergencias, presenta un análisis de riesgos y medidas de 
+prevención detalladas para riesgos operacionales (biogás, lixiviados, incendios en masa de basura), 
+con sistemas de monitoreo concretos (piezómetros, detección de gases, medición LEL). Incluyendo 
+algunos riesgos naturales en su análisis como el riesgo sísmico que se trata de manera genérica 
+indicando que las instalaciones se diseñarán según las normas y/o estándares nacionales e 
+internacionales para la resistencia sísmica, así mismo, el riesgo de "deslizamiento de taludes" (Tabla 
+2) está clasificado únicamente como riesgo antrópico, y se refiere exclusivamente a la estabilidad de 
+los taludes construidos del relleno (celdas, muros). No existe ninguna evaluación de remoción en 
+masa como riesgo natural proveniente de las laderas naturales circundantes — dato relevante porque 
+el proyecto se emplaza en un sector de cordillera de la costa, en el trazado de un paso de montaña 
+(Ruta 60 Troncal Sur), donde este tipo de amenaza natural es plausible.  
+ 
+Por lo tanto, se solicita al titular considerar dentro del análisis del Capítulo 8 Plan de Prevención de 
+Contingencias y Emergencias, el peligro geológico (remoción en masa de origen natural) para las 
+laderas que rodean el predio, distinto y adicional al análisis de estabilidad de los taludes construidos 
+del relleno, y que se referencie explícitamente en los estudios de peligro del SERNAGEOMIN 
+aplicables al sector.  
+ 
+En complemento, el plan presentado asume la disponibilidad de Bomberos, SAMU, Carabineros y 
+CONAF para escenarios de alta severidad (incendio de masa de basura de gran escala, explosión por 
+taponamiento de ductos de biogás — Tablas 34 y 35), pero no hay evidencia de coordinación previa, 
+capacitación conjunta, ni de una evaluación de si la capacidad instalada de estos cuerpos de 
+emergencia (con base en Quilpué o Viña del Mar) es suficiente para la escala industrial del proyecto 
+(63,1 ha, 25 años de vida útil, hasta 1.627.853 ton/año de residuos en año 25). Un incendio de masa 
+de residuos en un relleno de esta magnitud puede requerir protocolos y equipamiento distintos a un 
+incendio estructural convencional. 
+ 
+Se sugiere al titular considerar la implementación de un Compromiso Ambiental Voluntario CAV 
+que comprometa al proyecto con un convenio o protocolo de coordinación formal con SENAPRED 
+regional/comunal y con el Cuerpo de Bomberos correspondiente, que incluya capacitación específica 
+en incendios de rellenos sanitarios y manejo de explosión de biogás, en cumplimiento con el espíritu 
+de LA52 de "fortalecer... las capacidades de los servicios de emergencia". 
+ 
+ 
+1.1.2 Política de Desarrollo y Sostenibilidad Hídrica para la Región de Valparaíso 
+ 
+El titular indica una relación favorable con los objetivos específicos de “Habilitación de nuevas fuentes 
+de aprovisionamiento “e “Incrementar el uso eficiente del recurso para consumo humano y para 
+consumo productivo” argumentando que el sistema de tratamiento de aguas y reúso de aguas 
+residuales, reduciría el consumo de agua potable, lo cual resulta impreciso a la luz del Capítulo 1. 
+Descripción del proyecto, en donde el mismo titular establece que el agua potable se abastece 100% 
+mediante camiones aljibe de distribuidores externos. No indica ninguna reducción de consumo de 
+agua potable vía reúso; el reúso de efluentes tratados (planta de lodos activados) se destina únicamente 
+a humectación de caminos, un uso industrial, no potable, es decir, el proyecto no habilita ninguna 
+
+===== p.18 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 5 
+ 
+ 
+ 
+ 
+ 
+fuente nueva, sino que añade demanda extractiva sobre las fuentes regionales existentes durante ese 
+período.  
+ 
+Solo después de que entra en operación la Planta de Tratamiento de Lixiviados (Ósmosis Inversa) el 
+proyecto disminuirá el consumo de agua, reutilizando los lodos trados, pero esto es reducción de 
+demanda propia, no habilitación de nueva oferta hídrica territorial.  
+ 
+Por lo anterior se solicita al titular profundizar el análisis del proyecto con relación esta política, 
+debido a que el proyecto no aplica a habilitación de nuevas fuentes del recurso hídrico, sino más bien 
+reutiliza el agua de los lodos activados para su propio uso industrial.  
+ 
+En cuanto al Eje "Infraestructura de captación, acumulación, conducción, distribución y 
+saneamiento" el titular califica una relación "Favorable" argumentando la reducción de riesgos de 
+contaminación hídrica mediante manejo de lixiviados. Sin embargo, en su Capítulo 8 el propio Plan 
+de Contingencias identifica múltiples modos de falla en el sistema de manejo de lixiviados como 
+riesgos reales y recurrentes: taponamiento de drenes, fuga de lixiviados, infiltración por falla del 
+sistema de impermeabilización, falla del sistema de bombeo, el Capítulo 1 revela que el caudal de 
+lixiviados crece significativamente con el tiempo generando un caudal considerable que exige que el 
+sistema de contención esté correctamente dimensionado en todo momento. En este caso no se objeta 
+la clasificación de favorable, pero se solicita al titular que acompañe con el registro histórico de 
+incidentes de proyectos similares operados por el mismo titular/consorcio (si existen), y que se 
+explicite la capacidad de la planta de tratamiento para absorber el peak de 724 m³/día sin generar 
+rebalses. 
+ 
+1.1.3. Estrategia Regional y Plan de Acción para la Conservación de la Diversidad Biológica de la 
+Región de Valparaíso (Sitios Prioritarios para la Conservación de la Biodiversidad). 
+ 
+El proyecto no se ubica dentro de alguno de los sitios indicados en el OF. ORD. D.E. N° 100143 de 
+15 de noviembre de 2010 del Servicio de Evaluación Ambiental, que complementa y actualiza el 
+instructivo “Sitios Prioritarios para la Conservación en el Sistema de Evaluación de Impacto 
+Ambiental”.  
+ 
+1.1.4. Estrategia Regional de Innovación 
+ 
+Si bien el proyecto se relaciona con el eje “innovación empresarial” al considerar un porcentaje de 
+valorización de residuos en su funcionamiento como centro metropolitano de gestión integral de 
+residuos, el titular indica una relación favorable del proyecto con todos los ejes de esta estrategia.  
+ 
+Se solicita al titular, con especial énfasis en el eje "Innovación social" donde el titular justifica con la 
+creación de un "aula ambiental y acciones educativas orientadas a la comunidad, fomentando 
+innovación con impacto social" y "programas de educación ambiental y visitas guiadas para 
+escolares" así como con los ejes “Institucionalidad regional para la innovación" y "Estructuración 
+del Sistema Regional de Innovación (SRI)" justificando que "el proyecto se integra al SRI mediante 
+alianzas con municipios", "ha involucrado distintos actores institucionales". Cada una de estas 
+calificaciones “Favorable" debe sustentarse con evidencia verificable (convenios formales, cronograma 
+de programas educativos, cifras de capacitación técnica especializada… etc.), no con la sola existencia 
+de espacios físicos o relaciones institucionales que son propias de la envergadura de un proyecto como 
+este.  
+
+===== p.19 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 6 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1.5. Plan de Desarrollo Territorial Zona Rezagada 2020-2027. 
+ 
+El proyecto se ubica fuera del territorio operacional de este plan. 
+ 
+1.1.6. Plan Estratégico para la Gestión Integral de Residuos Sólidos Domiciliarios y Asimilables 
+ 
+El capítulo 13 “Relación del Proyecto con las políticas, Planes y Programas de desarrollo”, no 
+incorpora dentro de su análisis su vinculación con el “Plan Estratégico para la Gestión Integral de 
+Residuos Sólidos Domiciliarios y Asimilables” (en adelante PER) para la Región de Valparaíso 2025 
+- 2035, aprobada mediante Resolución Exenta N° 2243 de fecha 16 de diciembre de 2025, instrumento 
+que se encuentra publicado en la página web del Gobierno Regional de Valparaíso. 
+ 
+El documento se encuentra en el siguiente enlace: 
+https://www.gobiernovalparaiso.cl/planEstrategicoResiduos.php 
+ 
+El proyecto deberá analizar su relación con los factores críticos definidos en el capítulo 4, el impacto 
+en los subsistemas mencionados en el capítulo 5.2, y especialmente como contribuirá al alcance de las 
+metas establecidas en la matriz de diseño estratégico (ver Tabla 24), entre otros aspectos.  
+ 
+De manera específica se solicita al titular abordar las siguientes Observaciones:  
+ 
+La Región de Valparaíso presenta un sistema regional de infraestructura destinada a la disposición 
+final y que en la actualidad logra satisfacer la demanda (generación de residuos sólidos) regional, esta 
+oferta se encuentra constituida por tres rellenos sanitarios, a saber: El Molle, San Pedro y La Hormiga 
+(sumado a un relleno sanitario localizado en la Región Metropolitana) y tres vertederos. No obstante, 
+a lo anterior, un aumento sostenido en la demanda de residuos (generación de residuos sólidos), el 
+cierre programado de vertederos y las bajas tasas de valorización de residuos sólidos, generan una 
+presión constante en los rellenos sanitarios que operan actualmente, acotando su vida útil. 
+Considerando que el Centro Metropolitano de Gestión Integral de Residuos (en adelante CMGIR) se 
+configura como una solución de reemplazo para aquellos rellenos sanitarios regionales con criticidad 
+de vida útil (El Molle).  
+ 
+a) Se solicita al titular identificar claramente las comunas, generadores privados y otros, a los cuales 
+potencialmente atenderá el proyecto, especialmente si se considera dar servicio a comunas fuera 
+de la Región.  
+ 
+En efecto, sólo se menciona que…” durante la operación del proyecto se espera recibir 30.741.988 
+toneladas de residuos sólidos durante 25 años de vida útil estimada y prestará servicio principalmente 
+a la población de las comunas de la Región de Valparaíso, con una tasa de recepción inicial de 2.500 
+ton/día”, representando esta cantidad la generación de las 38 comunas de la región al año 2024: 2.424 
+Toneladas/día (información levantada en el PER), por cuanto al focalizar la solución sólo en aquellas 
+potenciales comunas que requieren una alternativa a su situación actual.  
+ 
+b) Se sugiere ajustar el tamaño de la solución propuesta por el titular, mitigando entre otros, los 
+impactos generados en la operación in-situ del CMGIR (lixiviados y biogás), impactos viales, de 
+emisiones provenientes por el transporte de los residuos sólidos hacia el CMGIR, entre otros. Lo 
+anterior se solicita, al objeto de planificar de manera eficiente, coherente y coordinada, las acciones 
+
+===== p.20 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 7 
+ 
+ 
+ 
+ 
+ 
+en esta materia que se encuentran contenidas en el PER, específicamente las definidas en la 
+“Cartera Integrada del Plan” (ver capítulo 6.2.1) con aquellas privadas, como la presente.  
+ 
+Por otro lado, El PER identifica como un factor crítico a nivel regional, las bajas tasas regionales de 
+valorización de residuos sólidos domiciliarios y asimilables, del orden del 1,54% del total generado 
+para el año 2024. Una de las principales causas de esta brecha, dice relación con una insuficiente 
+cantidad de infraestructura y de capacidades asociadas que se encuentren ajustada a la normativa 
+vigente, destinadas para la valorización de residuos sólidos. Al respecto, el PER identifica que los 
+cambios en la normativa asociada a los procesos de valorización, tales como la “Ley REP”, 
+promulgada en el año 2016 y la publicación en el año 2021 de la “Estrategia Nacional de Residuos 
+Orgánicos” y la “Hoja de Ruta de Economía Circular”, plantean un escenario desafiante para 
+aumentar la infraestructura de valorización que opera actualmente en la Región y por lo tanto un 
+aumento en las tasas de valorización de RSD, además en el diseño estratégico del PER, se menciona 
+“la creación de sistemas territoriales para aumentar la recuperación de los residuos sólidos generados, 
+mediante la localización y habilitación de infraestructura, dotación de equipamientos y vehículos y 
+modelos que fortalezcan la separación en origen, recolección selectiva puerta a puerta, y estrategias 
+de circularidad”, considerando como meta regional alcanzar tasas de valorización de al menos el 30% 
+de los residuos sólidos generados.  
+ 
+El presente proyecto declara que las Plantas de Reciclaje y de Compostaje, se encuentran 
+dimensionadas para procesar hasta 80 ton/día y 94 ton/día, de manera respectiva, lo que no supera el 
+4% de lo que se dispondrá en el relleno sanitario (2.500 Ton/día); así mismo se identifica que la 
+construcción de la “Planta de Reciclaje” y “Planta de Compostaje”, cuentan con un cronograma de 
+construcción y puesta en marcha al año 4 de operación, estructurado bajo una planificación técnico-
+operativa que responde directamente a la curva proyectada de la tasa de ingreso de materiales 
+valorizables (envases y embalajes) y de la fracción orgánica segregada en origen.  
+ 
+Bajo el contexto anterior, se evidencia que las capacidades de ambas unidades de valorización 
+(compostaje y reciclaje) y su inicio no son coherentes con el propósito del PER, como lo es aumentar 
+de manera significativa las tasas de valorización de residuos sólidos en la región.  
+ 
+c) En este sentido, y con el fin de acelerar la valorización de residuos sólidos, se solicita al titular 
+que ambas unidades “Planta de Reciclaje” y “Planta de Compostaje”, aumenten sus capacidades 
+de tratamiento con el fin de adecuarse a las metas nacionales y regionales en esta materia, 
+específicamente con la Línea de Intervención N°4 del PER: “Alcanzar tasas de valorización de al 
+menos el 30% de los residuos sólidos generados”; además de iniciar su operación el mismo año 
+del relleno sanitario. Se tiene como experiencia en la Región de Valparaíso, el “Centro de 
+Tratamiento Integral de Residuos Sólidos La Hormiga”, iniciativa que cuenta con RCA N°1371 
+del 14/09/2009, la cual consideraba la habilitación de una planta de reciclaje, compostaje, entre 
+otros, constatándose que a la fecha ambas unidades no se encuentran construidas.  
+ 
+El PER señala que las emisiones de los GEI del sector residuos en la Región de Valparaíso, 
+específicamente de aquellas derivadas de la categoría “disposición final de residuos sólidos” 
+provenientes de la fracción domiciliaria y asimilable, equivalen a 383 Kt de CO₂ eq, representando 
+este aporte entre un 50 - 60% del total de emisiones de GEI del sector residuos en la Región (642,8 
+Kt CO₂ eq al año 2022), consolidándose como la principal fuente de emisiones en este ámbito. En 
+efecto, se establece la Línea de Intervención N°6 dentro del PER, el “Potenciar acciones para mitigar 
+los Gases de Efecto Invernadero generados por el manejo de residuos sólidos domiciliarios”, mediante 
+
+===== p.21 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 8 
+ 
+ 
+ 
+ 
+ 
+la implementación de “Proyectos de valorización de residuos sólidos y quema controlada/captura y 
+valorización de biogás en rellenos sanitarios”.  
+ 
+d) Por lo anterior, se solicita que el proyecto habilite un sistema de captura y valorización de biogás, 
+y no sólo se materialice un sistema de ventilación pasiva y la construcción y puesta en marcha de 
+un sistema de extracción activa y quema controlada (antorcha) a partir del año 3 de operación. 
+Lo anterior se solicita, dada la alta cantidad de residuos sólidos que se contempla recepcionar en 
+el relleno sanitario, reduciendo así la liberación directa de metano a la atmósfera y contribuyendo 
+al cumplimiento de los compromisos climáticos regionales y nacionales, especialmente al Plan 
+Sectorial de Mitigación del Sector Salud, publicado en el Diario Oficial el 9 de enero del 2026.  
+ 
+El titular del proyecto identifica la construcción de una planta tratamiento de lixiviados, indicando 
+que durante los primeros dos años el volumen generado de lixiviados será absorbido y contenido de 
+manera hermética por piscinas de acumulación principales, proyectándose tener operativa una planta 
+para el tratamiento de lixiviados a partir del año 3 de operación, considerando además que frente a 
+eventos extremos o contingencias operativas, la planta se podría construir si el volumen de lixiviados 
+alcanza el 50% de la capacidad total de las piscinas (condición de alerta temprana).  
+ 
+e) Al respecto, el PER identifica incumplimiento en los rellenos sanitarios que operan en la Región 
+producto de fiscalizaciones de los órganos con competencia, relevándose la no implementación de 
+sistemas de tratamientos de lixiviados y/o de la existencia de piscinas con capacidades críticas 
+frente a eventos extremos (lluvias), evidenciándose que en la actualidad se utilizan piscinas de 
+lixiviados en los 3 rellenos sanitarios (Relleno sanitario El Molle, La Hormiga y San Pedro), y 
+sólo en uno de ellos (Relleno Sanitario El Molle) – por efecto de un proceso sancionatorio de la 
+SMA - cuenta con un sistema de tratamiento de lixiviados, el cual aún no entra en régimen. Bajo 
+el contexto anterior, considerando los antecedentes regionales en esta materia, y con el objeto de 
+adoptar medidas eficaces que evitan daños al medio ambiente o a la salud humana, Se solicita al 
+titular considerar la habilitación del sistema de tratamiento de lixiviados y de piscinas de 
+almacenamiento al inicio del proyecto.  
+ 
+El PER, dentro de sus capítulos, establece la “Localización de Áreas Potenciales para Habilitar un 
+Centro de Tratamiento Integral de Residuos Sólidos” (ver capítulo 6.2.1.4). El centro propuesto, se 
+plantea como reemplazo al funcionamiento del relleno sanitario El Molle, y se considera como parte 
+estructural del modelo de implementación del Plan, dando una solución sostenible en el tiempo para 
+las comunas que disponen de tal relleno sanitario, especialmente las dos mayores comunas 
+generadoras de la Región: Valparaíso y Viña del Mar. Al respecto, el PER establece una metodología 
+para la identificación de potenciales áreas de la Región de Valparaíso continental, factibles para el 
+emplazamiento de infraestructura sanitaria orientada al tratamiento de residuos sólidos domiciliarios, 
+considerando elementos de análisis, tales como la vinculación con los instrumentos de planificación 
+territorial (en adelante IPT), normativa aplicable a infraestructura sanitaria para el tratamiento de 
+residuos sólidos (DS 189 del Ministerio de Salud), además de otros elementos de carácter ambiental, 
+social y cultural. 
+ 
+f) Bajo el contexto anterior, se solicita al titular vincular el emplazamiento del proyecto con el 
+capítulo 6.2.1.4 “Localización de Áreas Potenciales para Habilitar un Centro de Tratamiento 
+Integral de Residuos Sólidos” del PER asociado a la localización potencial del proyecto.  
+ 
+
+===== p.22 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 9 
+ 
+ 
+ 
+ 
+ 
+g) Se solicita fortalecer el alcance del Compromiso Ambiental Voluntario N°3, “Formación 
+ciudadana Aula Tierra Viva”, incorporando actividades prácticas que permitan a la comunidad 
+educativa conocer de manera directa el funcionamiento del sistema de gestión de residuos asociado 
+al proyecto. En particular, se recomienda considerar visitas guiadas al relleno sanitario en 
+operación, junto con actividades demostrativas sobre los procesos de separación, valorización y 
+manejo de residuos reciclables y compostaje, de manera de complementar la formación teórica con 
+una experiencia concreta del ciclo de gestión de residuos y sus alternativas de valorización. 
+Además, se recomienda ampliar territorialmente el compromiso, incorporando establecimientos 
+educacionales y JJVV de la comuna de Quilpué, considerando que esta comuna, se encuentra 
+contigua al área de influencia del proyecto.  
+ 
+h) Sumado a lo anterior, se solicita que, con el objeto de fortalecer el compromiso asociado a la 
+realización de charlas y talleres, se implementen puntos verdes para la valorización de residuos 
+en establecimientos educacionales y sedes de Juntas de Vecinos (JJVV) de las comunas de Viña 
+del Mar y Quilpué, donde se desarrollen dichas actividades. Estos puntos deberían permitir la 
+aplicación práctica de los contenidos abordados, mediante la separación en origen y posterior 
+valorización de los residuos reciclables en el CMGIR. De esta manera, se fortalecería el 
+componente de educación ambiental del proyecto y se generarían resultados concretos y 
+verificables en materia de separación en origen y valorización de residuos.  
+ 
+Este CAV se vincula directamente con el PER en su Línea de Acción N°31, “Ejecutar programas de 
+educación ambiental destinados a implementar iniciativas en prevención y fomento al manejo 
+diferenciado y valorización de residuos sólidos en establecimientos educacionales certificados en el 
+Sistema Nacional de Certificación Ambiental de Establecimientos Educacionales (SNCAE)”, así 
+como con la Línea de Acción N°33, “Financiar proyectos en materia de educación y gestión 
+comunitaria para la reducción, valorización de RSD y erradicación de microbasurales.”. En este 
+sentido, su implementación contribuiría a materializar ambas líneas de acción mediante el 
+fortalecimiento de la educación ambiental, la participación comunitaria y la promoción de prácticas 
+de prevención, separación en origen y valorización de residuos.  
+ 
+i) Se solicita incorporar un nuevo Compromiso Ambiental Voluntario orientado al fortalecimiento 
+e integración de recicladores de base de las comunas potencialmente beneficiarias del proyecto, 
+especialmente la comuna de Viña del Mar, reconociendo su rol en la cadena de gestión y 
+valorización de residuos. El compromiso deberá contemplar mecanismos de financiamiento en la 
+formalización y constitución de cooperativas de recicladores de base ante el Ministerio de 
+Economía. Contribuyendo a que tales cooperativas puedan participar en actividades de 
+recolección, separación, clasificación y valorización de materiales reciclables que lleguen o sean 
+tratados en la instalación. 
+ 
+Esta medida se vincula directamente con el PER en su Línea de Intervención N°5, “Favorecer la 
+inclusión de los recicladores de base en la cadena de valorización de residuos sólidos mediante el 
+desarrollo de cooperativas de trabajo”. 
+ 
+Por lo anterior, en el ámbito de las políticas regionales, se informa que el proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos” debe resolver las observaciones realizadas, 
+desde el punto de vista ambiental con los instrumentos vigentes. 
+
+===== p.23 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 10 
+ 
+ 
+ 
+ 
+ 
+2. Relación con políticas y planes evaluados estratégicamente y compatibilidad 
+territorial, según lo requerido en Ley 20.417 Art. 8º letra a) 
+ 
+2.1. En relación a su vinculación con instrumentos de ordenación del territorio: 
+El Titular no adjunta el Certificado de Informaciones Previas, emitido por la Dirección de Obras 
+Municipales de la I. Municipalidad de Viña del Mar para el predio en que se emplazan las obras del 
+proyecto, a modo de complementar la información territorial del proyecto, se solicita al titular 
+presentar el CIP emitido por la DOM correspondiente, para certificar claramente las normas 
+urbanísticas asociadas a la localización del proyecto.  
+ 
+El titular presenta un análisis de la localización del proyecto con el instrumento de carácter 
+Metropolitano Plan Regulador Metropolitano de Valparaíso (PREMVAL) (D.O. 02-04-2014) en el 
+cual indica que este proyecto se encuentra en área rural normada de dicho instrumento de 
+planificación territorial, por lo que no tendría restricciones que afecten la compatibilidad territorial 
+del proyecto.  
+ 
+Hecho el análisis territorial, se constató que efectivamente el proyecto se encuentra en Área Rural 
+Normada del PREMVAL, en este sentido se hace relevante considerar lo dispuesto en la ordenanza 
+del PREMVAL que indica “… el uso de suelo de actividades productivas que de conformidad a lo 
+dispuesto en la Ordenanza General de Urbanismo y Construcciones sean calificadas como molestas, 
+insalubres o contaminantes y peligrosas, se considerarán siempre de impacto intercomunal y, sólo 
+podrán emplazarse en las zonas que expresamente se destinan para estos fines.” En su artículo 6 la 
+Ordenanza indica:  
+ 
+Se considerarán edificaciones e instalaciones destinadas a infraestructuras de impacto intercomunal 
+las siguientes:  
+• 
+Infraestructura de transporte: Terminales de transporte terrestre asociados al transporte de 
+carga, recintos marítimos o portuarios, instalaciones o recintos aeroportuarios.  
+• 
+Infraestructura sanitaria: Plantas de captación, distribución o tratamiento de agua potable o 
+de aguas servidas, rellenos sanitarios.  
+• 
+Infraestructura energética: Centrales de generación o distribución de energía. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.24 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 11 
+ 
+ 
+ 
+ 
+ 
+Ilustración 1 
+ 
+Fuente: EIA - Centro Metropolitano de Gestión Integral de Residuos. 
+ 
+En el Área Rural, el emplazamiento de las citadas instalaciones deberá ajustarse a lo establecido para 
+dichos efectos en el artículo 55º de la Ley General de Urbanismo y Construcciones y artículo 2.1.29. 
+de la Ordenanza General de Urbanismo y Construcciones.  
+ 
+En este sentido, resulta sustancial considerar lo señalado en el inciso final del artículo 55 de la Ley 
+General de Urbanismo y Construcciones, en donde se indica que “Igualmente, las construcciones 
+industriales, de infraestructura, de equipamiento, turismo, y poblaciones, fuera de los límites urbanos, 
+requerirán, previamente a la aprobación correspondiente de la Dirección de Obras Municipales, del 
+informe favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo y del Servicio 
+Agrícola que correspondan. El mismo informe será exigible a las obras de infraestructura de 
+transporte, sanitaria y energética que ejecute el Estado.”  
+ 
+En complemento de lo anterior, el Artículo 2.1.29 de la O.GUC. señala que “En el área rural de los 
+planes reguladores intercomunales o metropolitanos, dichas instalaciones o edificaciones estarán 
+siempre admitidas y se sujetarán a las disposiciones que establezcan los organismos competentes, sin 
+perjuicio del cumplimiento de la ley 19.300 y de lo dispuesto en el artículo 55 del DFL N°458 (V. y 
+
+===== p.25 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 12 
+ 
+ 
+ 
+ 
+ 
+U.), de 1975, Ley General de Urbanismo y Construcciones, correspondiendo a equipamiento en los 
+casos que no contemplen procesos productivos, si los contemplaren se considerarán como industria.”.  
+ 
+Por lo anterior la compatibilidad territorial del proyecto quedará supeditada al informe favorable de 
+los organismos competentes según lo indicado en el Artículo 55 de la LGUC.  
+ 
+Por otra parte, se hace presente al titular que el proyecto contempla la habilitación de una vía de acceso 
+que cruza el trazado propuesto por la vía Expresa VE-2v proyectada en el PREMVAL, que contempla 
+un trazado de 20 metros de ancho total. Por lo anterior se solicita al titular tener presente y a la vista 
+esta vialidad proyectada, incorporándola dentro del análisis de compatibilidad o dentro del Estudio de 
+Impacto Vial. 
+ 
+Por lo anterior, en el ámbito de la compatibilidad territorial, se informa que el proyecto 
+“Centro Metropolitano de Gestión Integral de Residuos” debe resolver las observaciones 
+realizadas. 
+ 
+3. Revisado los antecedentes presentados: 
+En el ámbito de sus competencias y en respuesta a la solicitud de pronunciamiento fundado 
+sobre el proyecto " Centro Metropolitano de Gestión Integral de Residuos ", sometido al 
+Sistema de Evaluación de Impacto Ambiental, el Gobierno Regional de Valparaíso se 
+pronuncia con observaciones en cuanto a: 
+1.1.1. Estrategia Regional de Desarrollo 2025 - 2035:  
+a) Se solicita al Titular presentar una nueva versión del análisis, en la cual se aborde la 
+relación del proyecto —en su diseño, objetivos y medidas ambientales— con la ERD 
+2025-2035. Dicho informe deberá ponderar cómo el proyecto se alinea con los nuevos 
+ejes de desarrollo, objetivos estratégicos y líneas de acción para la Región.  
+El instrumento se encuentra en el siguiente enlace: 
+https://www.gobiernovalparaiso.cl/administracion/archivo/archivoDocumento/gener
+al/APRUEB A_ERD_ RESOLUCIOPN_899.pdf 
+A modo de mejorar el análisis se sugiere al titular poner énfasis en los siguientes puntos:  
+b) En relación con Línea de Acción LA12 “Combatir el cambio climático mediante la 
+consolidación y fortalecimiento de la gobernanza climática regional y la 
+implementación efectiva de medidas de mitigación y adaptación, integradas en los 
+instrumentos de gestión nacionales, regionales y locales – conforme al ámbito escalar 
+de competencia – para reducir la emisión de gases de efecto invernadero y generar 
+comunidades más educadas, preparadas y resilientes.” Se solicita al titular: 
+ 
+• 
+Presentar el balance completo de emisiones fugitivas de metano no capturado que 
+producirá el proyecto.  
+• 
+Evaluar alternativas tecnológicas para aumentar la tasa de captura (cobertura 
+intermedia mejorada, pozos de extracción adicionales, u otras).  
+ 
+
+===== p.26 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 13 
+ 
+ 
+ 
+ 
+ 
+c) En relación con la Línea de Acción LA16 "Gestionar de manera integral los residuos 
+sólidos domiciliarios y asimilables, mediante iniciativas que fomenten su valorización 
+y asegurando la disposición final, con enfoque de economía circular."  
+ 
+• 
+Se solicita al titular vincular el proyecto en relación con esta Línea de Acción 
+indicando la relación con otros centros integrales de valorización previa a la 
+disposición final de residuos, o como serán tratados los residuos de manera 
+integral priorizando un enfoque en la economía circular.  
+• 
+Se recomienda al titular incorporar un compromiso ambiental voluntario (CAV) 
+de implementación de puntos verdes en colegios o sedes sociales en las comunas de 
+Viña del Mar y Quilpué para promover la segregación de origen y la valorización 
+asegurando la disposición final como último eslabón, no como función central.  
+ 
+d) En relación con la Línea de Acción LA19 “Promover la sostenibilidad del uso de las 
+aguas fomentando iniciativas para su uso eficiente y reutilización, para la conservación 
+de sus fuentes de origen, para la adaptación de procesos productivos altos en consumo 
+de agua en base a nuevas tecnologías e innovación, junto con impulsar la educación en 
+la cultura del agua y su cuidado.” 
+ 
+• 
+Se solicita al titular cuantificar y categorizar el origen específico del agua industrial 
+suministrada por “proveedores autorizados del mercado local” durante la fase 
+transitoria del proyecto, indicando de que fuente, derecho de aprovechamiento 
+provienen los camiones aljibes, para verificar que no comprometen derechos de agua 
+de la cuenca en la que se emplaza el proyecto.  
+ 
+e) En cuanto a la Línea de Acción LA50 “Velar que el emplazamiento y desarrollo de 
+actividades humanas en el territorio no ponga en peligro las condiciones y atributos 
+que le otorgan valor ambiental a sitios de importancia regional como playas, campos 
+dunarios, glaciares, sitios de alta biodiversidad y ecosistemas de fragilidad ambiental.” 
+se solicita al titular:  
+ 
+• 
+Evaluar sustantivamente del impacto sobre el sitio Palmar Las Siete Hermanas - El 
+Salto: qué atributos ecológicos tiene, qué superficie exacta del sitio prioritario es 
+intervenida por el camino de acceso, y qué medidas de mitigación se contemplan.  
+ 
+• 
+Justificar explícitamente la compatibilidad con los objetivos de gestión de la 
+Reserva de la Biosfera UNESCO La Campana-Peñuelas, más allá de la sola 
+ubicación en zona de transición — idealmente contrastando con el Plan de Gestión 
+de la Reserva (2009-2013, citado como referencia en el Capítulo 16 del titular, pero 
+no analizado en profundidad). 
+ 
+• 
+Analizar la depositación acumulada a 25 años sobre el Humedal Urbano Estero 
+Quilpué, no solo el valor de diseño anual, dado el carácter de ecosistema frágil que 
+motiva su protección bajo la Ley 21.202.  
+ 
+f) En relación con la Línea de Acción LA52 “Fortalecer la respuesta de las comunidades y 
+de los servicios para la protección de las personas y sus bienes ante eventos adversos, 
+
+===== p.27 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 14 
+ 
+ 
+ 
+ 
+ 
+mediante iniciativas que reduzcan el riesgo y apoyen las capacidades de los servicios 
+de emergencia.”  
+ 
+• 
+Se solicita al titular considerar dentro del análisis del Capítulo 8 Plan de 
+Prevención de Contingencias y Emergencias, el peligro geológico (remoción en masa 
+de origen natural) para las laderas que rodean el predio, distinto y adicional al 
+análisis de estabilidad de los taludes construidos del relleno, y que se referencie 
+explícitamente en los estudios de peligro del SERNAGEOMIN aplicables al sector. 
+• 
+Se sugiere al titular considerar la implementación de un Compromiso Ambiental 
+Voluntario CAV que comprometa al proyecto con un convenio o protocolo de 
+coordinación formal con SENAPRED regional/comunal y con el Cuerpo de 
+Bomberos correspondiente, que incluya capacitación específica en incendios de 
+rellenos sanitarios y manejo de explosión de biogás, en cumplimiento con el espíritu 
+de LA52 de "fortalecer... las capacidades de los servicios de emergencia".   
+1.1.2. Política de Desarrollo y Sostenibilidad Hídrica para la Región de Valparaíso 
+El titular indica una relación favorable con los objetivos específicos de “Habilitación de 
+nuevas fuentes de aprovisionamiento “e “Incrementar el uso eficiente del recurso para 
+consumo humano y para consumo productivo”  
+• 
+Se solicita al titular profundizar el análisis del proyecto con relación esta política, 
+debido a que el proyecto no aplica a habilitación de nuevas fuentes del recurso 
+hídrico, sino más bien reutiliza el agua de los lodos activados para su propio uso 
+industrial. 
+En cuanto al Eje "Infraestructura de captación, acumulación, conducción, distribución y 
+saneamiento" el titular califica una relación "Favorable". 
+• 
+En este caso no se objeta la clasificación de favorable, pero se solicita al titular 
+acompañe con el registro histórico de incidentes de proyectos similares operados 
+por el mismo titular/consorcio (si existen), y que se explicite la capacidad de la 
+planta de tratamiento para absorber el peak de 724 m³/día sin generar rebalses.  
+1.1.3 Estrategia Regional de Innovación.  
+• 
+Se solicita que al titular, con especial énfasis en el eje "Innovación social" donde el 
+titular justifica con la creación de un "aula ambiental y acciones educativas 
+orientadas a la comunidad, fomentando innovación con impacto social" y 
+"programas de educación ambiental y visitas guiadas para escolares" así como con 
+los ejes “Institucionalidad regional para la innovación" y "Estructuración del 
+Sistema Regional de Innovación (SRI)" justificando que "el proyecto se integra al 
+SRI mediante alianzas con municipios", "ha involucrado distintos actores 
+institucionales". Cada una de estas calificaciones “Favorable" se sustente con 
+evidencia verificable (convenios formales, cronograma de programas educativos, 
+cifras de capacitación técnica especializada… etc.) 
+1.1.4. Plan Estratégico para la Gestión Integral de Residuos Sólidos Domiciliarios y 
+Asimilables  
+
+===== p.28 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 15 
+ 
+ 
+ 
+ 
+ 
+El capítulo 13 “Relación del Proyecto con las políticas, Planes y Programas de desarrollo”, 
+no incorpora dentro de su análisis su vinculación con el “Plan Estratégico para la Gestión 
+Integral de Residuos Sólidos Domiciliarios y Asimilables” (en adelante PER) para la 
+Región de Valparaíso 2025- 2035, aprobada mediante Resolución Exenta N° 2243 de fecha 
+16 de diciembre de 2025, instrumento que se encuentra publicado en la página web del 
+Gobierno Regional de Valparaíso.  
+El documento se encuentra en el siguiente enlace: 
+https://www.gobiernovalparaiso.cl/planEstrategicoResiduos.php 
+• 
+El proyecto debe realizar un análisis en donde evalúe su relación con los factores 
+críticos definidos en el capítulo 4, el impacto en el(los) subsistema(s) mencionados 
+en el capítulo 5.2, y especialmente como contribuirá al alcance de las metas 
+establecidas en la matriz de diseño estratégico (ver Tabla 24), entre otros aspectos. 
+ 
+• 
+Se solicita al titular identificar claramente las comunas, generadores privados y 
+otros, a los cuales potencialmente atenderá el proyecto, especialmente si se 
+considera dar servicio a comunas fuera de la Región.  
+ 
+• 
+Se sugiere ajustar el tamaño de la solución propuesta por el titular, mitigando entre 
+otros, los impactos generados en la operación in-situ del CMGIR (lixiviados y 
+biogás), impactos viales, de emisiones provenientes por el transporte de los residuos 
+sólidos hacia el CMGIR, entre otros. Lo anterior se solicita, con el objeto de 
+planificar de manera eficiente, coherente y coordinada, las acciones en esta materia 
+que se encuentran contenidas en el PER, específicamente las definidas en la “Cartera 
+Integrada del Plan” (ver capítulo 6.2.1) con aquellas privadas, como la presente.  
+ 
+• 
+Se solicita al titular que ambas unidades “Planta de Reciclaje” y “Planta de 
+Compostaje”, aumenten sus capacidades de tratamiento con el fin de adecuarse a 
+las metas nacionales y regionales en esta materia, específicamente con la Línea de 
+Intervención N°4 del PER: “Alcanzar tasas de valorización de al menos el 30% de 
+los residuos sólidos generados”; además de iniciar su operación el mismo año del 
+relleno sanitario. Se tiene como experiencia en la Región de Valparaíso, el “Centro 
+de Tratamiento Integral de Residuos Sólidos La Hormiga”, iniciativa que cuenta 
+con RCA N°1371 del 14/09/2009, la cual consideraba la habilitación de una planta 
+de reciclaje, compostaje, entre otros, constatándose que a la fecha ambas unidades 
+no se encuentran construidas.  
+ 
+• 
+Se solicita que el proyecto habilite un sistema de captura y valorización de biogás, 
+y no sólo se materialice un sistema de ventilación pasiva y la construcción y puesta 
+en marcha de un sistema de extracción activa y quema controlada (antorcha) a 
+partir del año 3 de operación. Lo anterior se solicita, dada la alta cantidad de 
+residuos sólidos que se contempla recepcionar en el relleno sanitario, reduciendo así 
+la liberación directa de metano a la atmósfera y contribuyendo al cumplimiento de 
+los compromisos climáticos regionales y nacionales, especialmente al Plan 
+Sectorial de Mitigación del Sector Salud, publicado en el Diario Oficial el 9 de enero 
+del 2026.  
+
+===== p.29 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 16 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Se solicita al titular considerar la habilitación del sistema de tratamiento de 
+lixiviados y de piscinas de almacenamiento al inicio del proyecto.  
+ 
+• 
+Se solicita al titular vincular el emplazamiento del proyecto con el capítulo 6.2.1.4 
+“Localización de Áreas Potenciales para Habilitar un Centro de Tratamiento 
+Integral de Residuos Sólidos” del PER asociado a la localización potencial del 
+proyecto.  
+ 
+• 
+Se solicita fortalecer el alcance del Compromiso Ambiental Voluntario N°3, 
+“Formación ciudadana Aula Tierra Viva”, incorporando actividades prácticas que 
+permitan a la comunidad educativa conocer de manera directa el funcionamiento 
+del sistema de gestión de residuos asociado al proyecto. En particular, se 
+recomienda considerar visitas guiadas al relleno sanitario en operación, junto con 
+actividades demostrativas sobre los procesos de separación, valorización y manejo 
+de residuos reciclables y compostaje, de manera de complementar la formación 
+teórica con una experiencia concreta del ciclo de gestión de residuos y sus 
+alternativas de valorización. Además, se recomienda ampliar territorialmente el 
+compromiso, incorporando establecimientos educacionales y JJVV de la comuna de 
+Quilpué, considerando que esta comuna, se encuentra contigua al área de influencia 
+del proyecto.  
+ 
+• 
+Sumado a lo anterior, se solicita que, con el objeto de fortalecer el compromiso 
+asociado a la realización de charlas y talleres, se implementen puntos verdes para 
+la valorización de residuos en establecimientos educacionales y sedes de Juntas de 
+Vecinos (JJVV) de las comunas de Viña del Mar y Quilpué, donde se desarrollen 
+dichas actividades. Estos puntos deberían permitir la aplicación práctica de los 
+contenidos abordados, mediante la separación en origen y posterior valorización de 
+los residuos reciclables en el CMGIR. De esta manera, se fortalecería el componente 
+de educación ambiental del proyecto y se generarían resultados concretos y 
+verificables en materia de separación en origen y valorización de residuos.  
+ 
+• 
+Se solicita incorporar un nuevo Compromiso Ambiental Voluntario orientado al 
+fortalecimiento e integración de recicladores de base de las comunas potencialmente 
+beneficiarias del proyecto, especialmente la comuna de Viña del Mar, reconociendo 
+su rol en la cadena de gestión y valorización de residuos. El compromiso deberá 
+contemplar mecanismos de financiamiento en la formalización y constitución de 
+cooperativas de recicladores de base ante el Ministerio de Economía. Contribuyendo 
+a que tales cooperativas puedan participar en actividades de recolección, 
+separación, clasificación y valorización de materiales reciclables que lleguen o sean 
+tratados en la instalación. 
+ 
+2.1 Ordenamiento Territorial:  
+• 
+Se solicita al titular presentar el CIP emitido por la DOM correspondiente, para 
+certificar claramente las normas urbanísticas asociadas a la localización del 
+proyecto.  
+
+===== p.30 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 17 
+ 
+ 
+ 
+ 
+ 
+• 
+Se hace presente al titular que el proyecto contempla la habilitación de una vía de 
+acceso que cruza el trazado propuesto por la vía Expresa VE-2v proyectada en el 
+PREMVAL, que contempla un trazado de 20 metros de ancho total, por lo anterior 
+se solicita al titular tener presente y a la vista esta vialidad proyectada, 
+incorporándola dentro del análisis de compatibilidad o dentro del Estudio de 
+Impacto Vial. 
+Este pronunciamiento se emite acorde con lo establecido en los artículos 8 y 9 ter de la Ley 
+Nº 19.300 sobre Bases Generales del Medio Ambiente y los artículos 33 y 34 del Decreto 
+Supremo Nº 40, de 2012, del Ministerio del Medio Ambiente, en razón de la Compatibilidad 
+Territorial del proyecto considerando los instrumentos de planificación territorial 
+aplicables, además de la relación del proyecto con el desarrollo regional, conforme a lo 
+establecido en el artículo 111 de la Constitución Política de la República y en la Ley Nº 
+19.175, Orgánica Constitucional sobre Gobierno y Administración Regional. 
+Además, el Consejo Regional de Valparaíso acuerda incluir las siguientes observaciones: 
+• 
+En el marco de la Estrategia Regional y Plan de Acción para la Conservación de la 
+Diversidad Biológica de la Región de Valparaíso, se solicita al titular complementar la 
+evaluación de conectividad ecológica, identificando los corredores utilizados por la 
+fauna y evaluando el efecto barrera y la fragmentación del hábitat que podría generar 
+el proyecto, considerando además las presiones existentes en el área de influencia. 
+Asimismo, se solicita profundizar la evaluación de la relación del proyecto con el Sitio 
+Prioritario “Palmar Las Siete Hermanas–El Salto”, incluyendo la potencial afectación 
+del camino de acceso proyectado sobre su conectividad y funcionalidad ecológica. 
+Adicionalmente, se solicita revisar y complementar la caracterización de flora y fauna 
+del área de influencia, considerando la presencia de especies que no han sido 
+identificadas en la línea de base ni consideradas en las medidas de relocalización, 
+incluyendo especies en categoría de conservación. 
+ 
+• 
+Se solicita al titular complementar las medidas de control de vectores y plagas, 
+evaluando su eventual proliferación o desplazamiento hacia las viviendas y sectores 
+habitados colindantes. Asimismo, se solicita precisar el método de control de roedores 
+a utilizar y acreditar que su implementación no genere riesgo de envenenamiento 
+secundario sobre fauna nativa o endémica del área. 
+ 
+• 
+Se solicita al titular justificar técnicamente la medida de prevención de incendios 
+forestales asociada a la faja cortafuego perimetral de 10 metros propuesta para el 
+proyecto, considerando las características del entorno y los antecedentes del 
+megaincendio de febrero de 2024 que afectó el área de emplazamiento. Asimismo, se 
+solicita fortalecer los mecanismos de coordinación y respuesta ante incendios con 
+CONAF, Bomberos y SENAPRED, considerando las características de las instalaciones 
+y los riesgos asociados al proyecto, particularmente aquellos vinculados a la Planta de 
+biogás. 
+ 
+• 
+Se solicita al titular profundizar la evaluación del riesgo asociado a eventuales 
+infiltraciones de lixiviados, considerando las características topográficas e 
+
+===== p.31 =====
+               
+                                              
+ 
+ 
+ 
+ 
+CONDELL 1530, PISO 3º,  EDIFICIO CONDELL, VALPARAÍSO  -  FONOS: (32) 2655260 –  2655262 
+WWW.COREVALPARAISO.CL  
+ 
+ 
+pág. 18 
+ 
+ 
+ 
+ 
+ 
+hidrográficas del área de emplazamiento y la conexión de las quebradas del sector con 
+el estero Marga Marga.  
+ 
+• 
+Se solicita al titular complementar la modelación de olores, incorporando antecedentes 
+que permitan evaluar la variabilidad de las condiciones meteorológicas entre distintos 
+años; evaluar el escenario de operación a régimen de diseño, bajo las condiciones más 
+desfavorables; e incorporar escenarios de falla parcial o simultánea de los sistemas de 
+abatimiento, con el objeto de verificar que el cumplimiento normativo se sostenga 
+durante toda la vida útil del proyecto. 
+ 
+Valparaíso, 04 de septiembre de 2026.- 
+Este documento ha sido firmado electrónicamente de acuerdo con la Ley Nº 19.799

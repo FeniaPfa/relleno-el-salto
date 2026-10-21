@@ -1,0 +1,828 @@
+
+===== p.0 =====
+DE
+A
+Corporación Nacional Forestal
+Región de Valparaiso
+Dirección Regional Valparaíso
+DLG/DLG
+ORD.Nº: 284/2026
+ANT.
+: OFICIO 
+Nº 
+202605102190,
+SOLICITUD DE EVALUACIÓN DEL
+ESTUDIO 
+DE 
+IMPACTO
+AMBIENTAL 
+DEL 
+PROYECTO
+"CENTRO METROPOLITANO DE
+GESTIÓN 
+INTEGRAL 
+DE
+RESIDUOS", DE FECHA 27 DE
+JULIO DE 2026.
+MAT.
+: COMPLEMENTA
+PRONUNCIAMIENTO 
+EMITIDO
+SEGÚN 
+ORD. 
+N° 
+87-EA/2026,
+RESPECTO 
+DEL 
+ESTUDIO 
+DE
+IMPACTO 
+AMBIENTAL 
+DEL
+PROYECTO 
+"CENTRO
+METROPOLITANO DE GESTIÓN
+INTEGRAL DE RESIDUOS"
+VIÑA DEL MAR, 09/09/2026
+: DIRECTORA REGIONAL (I) DIRECCIÓN REGIONAL VALPARAÍSO OR.V
+: SEÑORA PAULA NICOLE IZQUIERDO OSSANDÓN DIRECTORA (S)
+REGIONAL SERVICIO DE EVALUACIÓN AMBIENTAL REGIÓN DE
+VALPARAISO 
+Junto con saludar, por el presente  vengo en complementar el pronunciamiento remitido con
+fecha 07 de septiembre 2026, según ORD. No 87-EA/2026, respecto de la solicitud de
+evaluación del Estudio de Impacto Ambiental del Proyecto "Centro Metropolitano de Gestión
+Integral de Residuos".  Al respecto, se adjunta además,  anexo con las figuras  asocidadas
+a las observaciones.  
+Línea de Base
+Respecto del Capítulo 3.9 Línea de Base Flora y Vegetación, se presentan las siguientes
+observaciones:
+1. Muestreo
+De acuerdo a lo señalado por el titular el esfuerzo de muestreo corresponde a 196 puntos
+de muestreo para el componente flora según lo presente en la “Tabla 3-3.Esfuerzo de
+muestreo”. Por otra parte de acuerdo a los archivos “BBDD LdB.xlsx” y “Anexo 7 Plantilla
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+1/13
+
+===== p.1 =====
+Darwin Core FV Consolidado Cosemar.xlsx” se observa que el muestreo corresponde a 166
+puntos de muestreo (Ver tabla 1), por lo cual se solicita corregir.
+Tabla 1. Unidades muestreadas según temporada
+Temporada 
+de
+muestreo
+Unidades muestreadas
+Invierno 2024
+33
+Primavera 2024
+44
+Verano 2025
+49
+Otoño 2025
+40
+Total
+166
+Por otra parte, de acuerdo a lo observado en los archivos “BBDD LdB.xlsx”, “Anexo 7
+Plantilla Darwin Core FV Consolidado Cosemar.xlsx” y “BBDD PAS 148_def.xlsx”, el
+esfuerzo de muestreo relativo a la caracterización de la vegetación corresponde solo a 49
+unidades de muestreo de flora visitadas, junto a los sitios efectivos donde se realizaron
+parcelas de inventario forestal. Sin embargo, el único archivo de respaldo proporcionado
+“BBDD PAS 148.xlsx”, verifica la realización de 19 parcelas de inventario forestal, por lo
+cual sólo es posible asegurar la realización de 68 puntos de muestreos asociados al
+muestreo de vegetación, contrario a lo presente en la “Tabla 3-3. Esfuerzo de muestreo”.
+Respecto a la información obtenida de los microruteos, el titular indica: “Cabe señalar que,
+entre el 21 y 23 de diciembre de 2025, se realizó un microruteo de palma chilena y canelo,
+con el objeto de tener certeza de la ubicación, distribución y abundancia de los individuos
+de estas especies en el área de estudio”. Al respecto, esta Corporación observa que no
+corresponde incorporar el microruteo en el esfuerzo de muestreo, ya que obedecen a
+metodologías distintas y presenta un objetivo diferente, por lo cual se solicita aclarar y
+corregir.
+Respecto al diseño de muestreo estratificado realizado por el titular se solicita incorporar la
+asignación empleada, es decir si la distribución se realiza de forma proporcional a la
+superficie a muestrear o si utilizó la variabilidad interna de los estratos para optimizar la
+muestra o si uso la asignación óptima de Neyman. Asimismo, incorporar el error de
+muestreo objetivo o aceptado, justificando su elección, de acuerdo a la Guía metodológica
+para la descripción de Ecosistemas Terrestres (SEA, 2025).
+En cuanto a los indicadores estadísticos asociados al muestreo, se solicita al titular
+incorporar la información establecida en la Guía metodológica para la descripción de
+Ecosistemas terrestres (SEA, 2025), la cual señala que: “Los resultados deberán presentar
+el error asociado, así como la justificación técnica del método utilizado. Esto permitirá
+contar con datos confiables para la predicción de impactos, facilitando el diseño de medidas
+y, en caso de corresponder, entregando información necesaria para la obtención de PAS”.
+Respecto del muestreo de parcelas forestales, presente en el archivo “BBDD PAS
+148_def.xlsx”, se pudo evidenciar que el error de muestreo es superior al 200% y un
+coeficiente de variación mayor a 400%. Considerando que el muestreo actual presenta una
+incertidumbre sustancial en la clasificación y cuantificación del componente ambiental a
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+2/13
+
+===== p.2 =====
+intervenir, se solicita al titular incrementar el muestreo del bosque nativo conforme a lo
+establecido en la Guía de Ecosistemas Terrestres (SEA, 2025), donde se afirma: “El número
+de parcelas, tamaño, forma y distribución está relacionado con el error máximo, este se
+calcula de acuerdo con el coeficiente de variación del parámetro a estudiar. Normalmente
+se aceptan errores máximos de un 10% para plantaciones y 20% para el bosque nativo
+(Prodan et al., 1997), en el caso de bosque heterogéneos (resultantes de intervenciones
+pasadas sin criterio de manejo) o irregulares (como el bosque esclerófilo o el valdiviano), en
+que no sea posible llegar a ese error máximo, deberá ser complementado con una buena
+descripción cualitativa del recurso”.
+En relación a la medición de la cobertura, el titular debe incrementar el muestreo de manera
+cuantitativa y representativa que permita determinar o descartar que las formaciones
+corresponden a bosque nativo u otra formación., ya que actualmente sólo existe
+información verificable de este tipo en el archivo “BBDD PAS 148_def.xlsx”, pues a pesar de
+que el titular afirma que “levantó la información referente al porcentaje de cobertura de copa
+del dosel arbóreo y arbustivo, sobre todo en aquellos rodales donde se tuvo registro de las
+especies de interés. La cobertura de copa fue estimada en terreno mediante apreciación
+visual, considerando la proyección horizontal de las copas arbóreas”, la Guía Metodológica
+para la Descripción de Ecosistemas Terrestres (SEA, 2025) destaca que la apreciación
+visual es un método subjetivo y propenso al error, por ende no es posible considerar las
+estimaciones del microruteo como información confiable respecto a las estimaciones de la
+cobertura del dosel.
+2. Rodalización
+El titular explica cómo realizó la rodalización de bosques nativos, mostrando como ejemplo
+la “Figura 4-10. Ortomosaico - Matorral arborescente: no cumple con ancho mínimo de 40
+m”, donde afirma que se calcularon anchos de algunas formaciones mediante Qgis o en
+terreno, y al no cumplir con el ancho mínimo se categorizó como matorral arborescente,
+pues cumplian con el porcentaje minimo de cobertura de copa como se afirma en el literal
+“a) Rodalización de bosques nativos, bosques nativos de preservación y validación en
+terreno”.
+Sin embargo, de acuerdo a lo observado en terreno el polígono UC-144, alcanza anchos
+superiores a 40 metros en su continuidad, cumpliendo con la definición del numeral 2) del
+artículo 1 de la Ley N° 20.283 (Ver figura 1). Por lo cual se solicita revisar, y rectificar la 
+identificación de todas sus formaciones de acuerdo al ancho máximo y considerar la
+continuidad de las mismas. De la misma manera, rectificar la delimitación de las
+formaciones vegetales definidas, proporcionando las bases de datos del inventario forestal
+y parcelas de cobertura realizadas de manera cuantitativa y verificable.
+Figura 1. Comparación de los anchos de la unidad cartográfica UC-144 declarados por el
+titular e identificados por la Corporación. (Ver anexo)
+3. Microruteo 
+En cuanto al microruteo realizado por el titular tenía como objetivo la identificación de todos
+los individuos y asegurar la no intervención de individuos de canelo y palma chilena. Sin
+embargo, se constató la presencia de individuos de la especie Drimys winteri no
+identificados por el titular, en 2 sectores (Tabla 2) en la visita en terreno realizada por
+profesionales de la Corporación Nacional Forestal los días 25 y 26 de agosto. Conforme a
+lo anterior, se constata que el proyecto presentará intervención y alteración de Bosque
+Nativo de Preservación (BNP) e intervención de individuos de Drimys winteri presentes en
+el área de influencia.
+Tabla 2. Sectores con individuos de canelo (Drimys winteri) no identificados por el titular.
+Coordenadas 
+UTM 
+(WGS84
+H19)
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+3/13
+
+===== p.3 =====
+Este
+Norte
+267742
+6337179
+267645
+6337506
+ 
+4. Formaciones vegetales
+En relación al apartado “4.3.2. Formaciones vegetales” de la Línea de Base, para algunos
+casos el titular define formaciones vegetales sin ninguna unidad de muestreo que permita
+verificar lo señalado, como por ejemplo para las formaciones:
+“Matorral arborescente de Colliguaja odorifera y Cryptocarya alba” (UC-14)
+“Matorral arborescente de Colliguaja odorifera ” (UC-86, UC-45 y UC-149)
+“Matorral arborescente de Retanilla trinervia” (UC-15)
+“Matorral arborescente renoval de Lithraea caustica” (UC-113)
+“Matorral arborescente de Chusquea cumingii, Cryptocarya alba y Peumus boldus”
+(UC-69)
+“Matorral arborescente de Retanilla trinervia y Schinus latifolius” (UC-12)
+“Matorral de Colliguaja odorifera y Lithraea caustica” (UC-127 y UC-116)
+“Matorral de Retanilla trinervia y Schinus latifolius” (UC-5)
+Ante esto, se solicita al titular caracterizar de manera cuantitativa y cualitativa estas
+formaciones, aportando la información que permita verificar dicha caracterización, definición
+de las formaciones y su inclusión en el Permiso Ambiental Sectorial si corresponde.
+Por otra parte, conforme a la información revisada presente en los archivos   “Anexo 7
+Plantilla Darwin Core FV Consolidado Cosemar.xlsx”, “BBDD PAS 148_def.xlsx” y “BBDD
+LdB.xlsx”, es posible observar una identificación y/o delimitación inconsistente de las
+formaciones, por lo cual es necesario   corroborar dicha información, según se detalla a
+continuación:
+Tabla 3. Formaciones mal identificadas y/o delimitadas
+Formación vegetal Puntos 
+de
+muestreo
+Observación
+Matorral
+arborescente 
+de
+Cryptocarya alba,
+Peumus boldus y
+Schinus latifolia
+PM11 y PM48
+Corresponde a un Bosque Nativo Renoval de
+Cryptocarya alba por continuidad y por anchos de
+formación mayores a 40 m. Además de que en la
+”Fotografía 
+4-3: 
+Fisionomía 
+de 
+Matorral
+arborescente de Cryptocarya alba, Peumus boldus y
+Schinus 
+latifolius” 
+presenta 
+fotografías 
+de
+formaciones de Bosque Nativo.
+Matorral
+arborescente 
+de
+Quillaja saponaria
+y 
+Colliguaja
+odorifera
+PM12
+Formación con más de 40 metros de ancho, en
+punto de muestreo no hay presencia de Quillaja
+saponaria, pero si presencia de Schinus latifolia con
+una cobertura relativa de entre 5% a 25% y
+presencia de litre. Se solicita intensificar el muestreo
+en dicha formación que puede constituir bosque (el
+titular menciona que realizó una parcela de
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+4/13
+
+===== p.4 =====
+inventario forestal, sin embargo los datos no son
+proporcionados).
+Matorral
+arborescente 
+de
+Cryptocarya alba
+PM49
+Individuos de Peumo presentan coberturas relativas
+superiores al 25% y evidencian continuidad con el
+resto de Bosque Nativo Renoval de Cryptocarya
+alba aledaño, por lo cual corresponde a bosque
+nativo. (Titular menciona parcelas de inventario
+forestal las cuales no son proporcionadas).
+Matorral 
+con
+suculentas 
+de
+Puya berteroniana
+y 
+Colliguaja
+odorifera
+PM04 y PM27
+La formación presenta individuos de litre y quillay
+con coberturas relativas de entre 5% a 25%, por lo
+cual podría constituir bosque nativo. Se solicita
+intensificar el muestreo en dicha formación.
+Matorral 
+con
+suculentas 
+de
+Puya chilensis y
+Colliguaja
+odorifera
+PM13 y PM18
+Se presentan individuos arbóreos con coberturas
+relativas entre 5 y 25%.   Se solicita intensificar el
+muestreo en dicha formación y evaluar si constituye
+bosque nativo.
+Matorral 
+de
+Chusquea
+cumingii
+PM15
+En este punto de muestreo se presentan individuos
+de peumo con una cobertura entre 5 y 25%. Se
+solicita intensificar el muestreo en dicha formación y
+evaluar si constituye bosque nativo.
+Matorral 
+de
+Colliguaja
+odorifera
+PM38 y PM09
+Según las coberturas relativas declaradas por el
+titular peumo y boldo presentan coberturas mayores
+al 25%,  y para litre y quillay se encuentra entre 5%
+y 25%.  Se solicita intensificar el muestreo en dicha
+formación y evaluar si constituye bosque nativo.
+Matorral 
+de
+Colliguaja
+odorifera 
+y
+Chusquea
+cumingii
+PM44 y PM20
+Boldo presenta una cobertura relativa mayor al 25%
+y en PM20 existen 3 especies arbóreas con
+coberturas entre 5% y 25%. Se solicita intensificar el
+muestreo en dicha formación y evaluar si constituye
+bosque nativo.
+Matorral 
+de
+Retanilla trinervia
+PM07
+Se presenta litre con una cobertura relativa entre 5%
+y 25%. Se solicita intensificar el muestreo en dicha
+formación y evaluar si constituye bosque nativo.
+Asimismo, en “Fotografía 4-9: Fisionomía de
+Matorral de Retanilla trinervia” presenta fotografías
+de Bosque Nativo.
+Plantación 
+de
+Pinus radiata
+PM43
+Constituye Bosque Nativo y no plantación, por ende
+es necesario corroborar el resto de unidades sin
+puntos de muestreo.
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+5/13
+
+===== p.5 =====
+De acuerdo con la información de cobertura relativa y diversidad proporcionada por el titular
+en todas las campañas realizadas —y ante la escasez de datos cuantitativos y de mensura
+de copa—, se desprende una disminución del índice de Shannon y un aumento en la
+cobertura relativa de los individuos arbóreos (Figura 2). Este comportamiento responde a
+que las mediciones se ejecutaron tras el megaincendio de febrero de 2024 que afectó a la
+zona, un escenario donde la caracterización de la vegetación es sumamente variable. Al
+respecto, estudios de Becerra et al. (2022) en Chile señalan que, a partir del segundo año
+post incendio, la cobertura y la diversidad no presentan variaciones importantes, aunque los
+individuos continúan creciendo en altura.
+Esta alta variabilidad es intrínseca al estado de regeneración y recuperación del
+ecosistema. En las fases iniciales de la sucesión secundaria post perturbación, la
+colonización estocástica de especies anuales y oportunistas genera un mosaico florístico
+temporal antes de que comience a estabilizarse. De hecho, existe evidencia de que la
+diversidad alcanza un máximo posterior al fuego y luego decae conforme el ecosistema se
+estabiliza, recupera su condición original o transita hacia una nueva (Capitanio y Carcaillet,
+2008; Becerra et al., 2022) como se retrata en las mediciones realizadas por el titular (Ver
+Figura 2).
+ 
+Figura 2. Gráficas de cambios en la cobertura relativa y el índice de Shannon en las
+temporadas muestreadas por el titular, como evidencia de la variabilidad y tendencia a la
+recuperación de las formaciones. (Ver anexo)
+La figura advierte que el muestreo realizado presenta un bajo nivel de certeza respecto al
+estado actual de las formaciones. Al haberse ejecutado en periodos de transición, la
+medición omite el potencial de regeneración de la vegetación y su proyección en el área de
+influencia del proyecto. Lo anterior provoca deficiencias en la caracterización, identificación
+y continuidad de las formaciones vegetales, un aspecto que debe ser considerado por el
+titular para su corrección y se detalla a continuación:
+En el numeral “4.3.3. Formaciones vegetales reguladas por Ley N.° 20.283” el titular justifica
+la ausencia de continuidad de las formaciones a través de los índices NDVI
+correspondientes al año 2021 por medio de las figuras “Figura 4-11. Discontinuidad del
+dosel detectada con NDVI y validada en terreno” y “Figura 4-12. Ajuste de rodalización en
+función del NDVI y validación de terreno”. Lo anterior, carece de sustento ya que al evaluar
+sus magnitudes por medio de las medidas de tendencia central, las zonas identificadas
+como “matorral” presentes entre las formaciones identificadas por el titular como Bosque
+Nativo y Bosque Nativo de Preservación separadas en promedio por 39,71 metros de
+distancia, tienen promedios de NDVI similares y dentro de los rangos que fueron
+clasificados como una única formación por el titular en las determinadas unidades
+cartográficas como se puede evaluar en la tabla 4 y figura 2.
+Tabla 4. Promedio de NDVI del área entre formaciones no identificada como continua por el
+titular.
+Unidades
+cartográficas
+Promedio de NDVI
+Promedio 
+de 
+NDVI 
+del 
+área 
+entre
+formaciones no identificada como continua
+por el titular
+UC-134
+0.499 ± 0.046
+0.479 ± 0.05
+UC-7
+0.465 ± 0.074
+UC-50
+0.498 ± 0.07
+0.464 ± 0.03
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+6/13
+
+===== p.6 =====
+UC-64
+0.49 ± 0.087
+UC-137
+0.429 ± 0.075
+0.489 ± 0.066
+UC-61
+0.489 ± 0.085
+UC-56
+0.424 ± 0.082
+0.471 ± 0.057
+UC-96
+0.441 ± 0.098
+UC-162
+0.472 ± 0.086
+0.481 ±  0.063
+UC-3
+0.502 ± 0.045
+UC-4
+0.396 ± 0.113
+ 
+ 
+Figura 3. Comparación de los NDVI promedios en áreas de transición. (Ver anexo) 
+La continuidad de estas formaciones, también es evidente en las ortofotos proporcionadas y
+empleadas por el titular, en el grano, tono, color, textura y estructura. Junto a la información
+edáfica contenida en el archivo digital “20260603_Resultados_LB suelo_RevB.shp” donde
+las formaciones identificadas como “discontinuas” se presentan en dos clases texturales
+correspondientes a suelos franco arcillosos y franco arenosos, presentes en laderas bajas y
+fondos de quebrada (únicamente clases texturales franco arenosas). Por lo cual, el titular
+debe corregir la segmentación realizada, ya que de acuerdo a su misma metodología la
+segmentación del Bosque Nativo y Bosque Nativo de Preservación es errónea,
+subestimando la situación actual y omite la intervención de formaciones de BNP.
+Adicionalmente, la continuidad del BNP fue evidenciada por la Corporación en terreno,
+guardando relación con el análisis de la información aportada por el titular. En consecuencia
+el emplazamiento de las obras y actividades del proyecto presenta intervención de BNP:
+Continuidad BNP en unidades cartográficas UC-62, UC-156, UC-2, UC-7, UC-8 y
+UC-134
+En la figura 4 se evidencia que la formación es continua a lo largo de toda la quebrada, en
+ciertos casos se evidencia una disminución de la abundancia visual como ocurre en la
+fotografía 7 de la Figura 4, dado que la vegetación está rebrotando desde el tocón de los
+individuos quemados, lo que se replica en prácticamente todos los individuos quemados,
+sin embargo no se pierde la continuidad de la formación, que frecuentemente se mantiene
+por la quebrada y el curso de agua y con menor frecuencia se conecta por las laderas de
+los bosques. Por ende, se solicita al titular corregir y reconocer todas las formaciones
+vegetales presentes en la quebrada contenida en la figura 4, como una única formación de
+BNP con Drimys winteri, incluyendo su continuidad hacia el noreste, incorporando los
+matorrales arborescentes incorrectamente identificados, correspondientes a bosque nativo
+de preservación, cuya continuidad se extiende desde la UC-8 hasta la UC-67.
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+7/13
+
+===== p.7 =====
+Por otra parte, en estos tramos de la formación se evidencio la presencia de canelo no
+declarado por el titular, correspondiente a 22 canelos presentes en las coordenadas UTM H
+19 267645 E, 6337506 N.
+Figura 4. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta
+determinación de formaciones vegetales. (Ver anexo )
+El titular identificó formaciones como matorral arborescente y matorral, que en realidad
+corresponden a Bosque Nativo de Preservación, a pesar de la continuidad de la vegetación
+detectada en terreno por la Corporación, así como en las ortofotos y los índices espectrales
+NDVI proporcionados por el titular. Asimismo, como se evidencia en la fotografía 4 de la
+figura 5, el titular considera pérdida de la continuidad por la existencia de huellas que han
+sido colonizadas por vegetación, cuya separación en la actualidad no es mayor a un metro
+de distancia.
+Figura 5. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta
+determinación de formaciones vegetales. (Ver anexo)
+Continuidad BNP en unidades cartográficas UC-144, UC-166, UC-153, UC-154,
+UC-59, UC-142, UC-124, UC-64, UC-50, UC-137, UC-61, UC-67, UC-56, UC-96 y
+UC-97
+Lo mismo ocurre en las presentes unidades cartográficas, que también presentan
+continuidad desde las UC-153 y UC-154 hasta la UC-67, es decir presentan conectividad
+con las unidades cartográficas presentes en la quebrada ubicada al noroeste.
+El titular argumenta pérdida de continuidad por la presencia de un “camino” (Fotografía 1,
+Figura 6), sin embargo en terreno se constató que esta área ha sido colonizada por la
+vegetación y dicho cruce ha sido moldeado por los efectos naturales del curso de agua de
+las quebradas. Pues en las zonas donde podría haber existido discontinuidad, en 2003
+correspondían a una servidumbre que no presentaba vegetación (según análisis histórico
+de Google Earth) y que en aquella época corresponde a discontinuidad de la vegetación,
+pero desde 2004 se puede apreciar el ingreso de vegetación a la misma y luego de 23 años
+esta servidumbre se encuentra colonizada por vegetación prácticamente en su totalidad,
+tanto de individuos arbustivos, como arbóreos, lo que se acentúa en zonas de quebrada,
+donde incluso el vestigio de la servidumbre se llega a cortar por el flujo hídrico de las
+quebradas, derivando en la actual continuidad de las formaciones de Bosque Nativo de
+Preservación. Por otra parte en la fotografía 2 de la figura 6, el titular menciona que se unen
+dos formaciones de bosque distintas (UC-124 y UC-64), sin embargo al ser recorridas por la
+Corporación, estas corresponden a una sóla unidad vegetal con continuidad a la UC-50. En
+el resto de fotografías se puede constatar la continuidad de las formaciones y la incorrecta
+clasificación de las formaciones denominadas como matorral arborescente.
+Figura 6. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta
+determinación de formaciones vegetales.(Ver anexo)
+De esta manera, todas estas unidades cartográficas corresponden a una única formación
+de BNP con Drimys winteri, uniéndose en la UC-67 quebrada abajo, lo que queda de
+manifiesto en la ortofoto e índice NDVI proporcionado por el titular. Asimismo, en la
+fotografía 1 de la Figura 7, el titular indica la no continuidad de dos formaciones de bosque
+separadas por 7 metros según la segmentación del titular. No obstante se aprecia tanto en
+los rebrotes de tocón, las proyecciones de copa, como en los insumos proporcionados por
+el titular la continuidad de las formaciones. Esto mismo ocurre en las fotografías 2 y 3 de la
+Figura 7, donde el titular desconoce la continuidad de las UC-153 y UC-144, a pesar de que
+la formación ve reducido su ancho, la continuidad se mantiene por el rebrote de individuos
+arbóreos en el curso de agua.
+Adicionalmente, en estos tramos de la formación se evidencio la presencia de canelo en
+zona de emplazamiento de las obras no declarados por el titular, correspondiente a 7
+canelos presentes en las coordenadas UTM H19 267742 E, 6337179 N.
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+8/13
+
+===== p.8 =====
+Figura 7. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta
+determinación de formaciones vegetales.(Ver anexo)
+Por otra parte, tal como se constató con el análisis de NDVI, el análisis histórico
+mencionado con anterioridad, y en las fotografías de la figura 8, se pudo detectar la
+continuidad en todas las formaciones, correspondiendo dichas quebradas a BNP con
+presencia de canelo y palma chilena (quebrada abajo). Por esta razón, el titular debe
+rectificar e identificar esta continuidad.
+Figura 8. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta
+determinación de formaciones vegetales.(Ver anexo)
+En síntesis, de acuerdo al análisis del índice espectral, la ortofoto proporcionada por el
+titular, y lo observado en la visita en terreno realizadas por la Corporación durante los días
+25 y 26 de agosto, es posible identificar continuidad en unidades cartográficas, las cuales
+se solicita rectificar según se señala en la siguiente tabla:
+Tabla 5. Unidades cartográficas con problemas en su determinación e identificación.
+Unidades cartográficas
+Observaciones
+UC-50, UC-56, UC-59, UC-61, UC-64, UC-
+67, UC-96, UC-97, UC-124, UC-142, UC-
+144, UC-153, UC-137, UC-166, UC-154 y
+un sector de UC-10
+Corresponden a la misma formación de BNP.
+Se unen en UC-67, la cual se extiende en
+diferentes direcciones.
+UC-3, UC-4, UC-139, UC-157, UC-63, UC-
+129 y UC-162
+Corresponden a la misma formación de BNP
+UC-132 y UC-133
+Corresponden a la misma formación.
+UC-7, UC-8, UC-62, UC-134, UC-156, UC-
+2 y un sector de la UC-48 y UC-152
+Corresponden a la misma formación BNP
+UC-131 y UC-165
+Corresponden a la misma formación.
+UC-49, UC-152, UC-6
+Existen zonas que presentan continuidad
+hacia la formación de BNP correspondiente a
+las UC-7, UC-8, UC-134 y UC-156
+UC-120
+Existen zonas que presentan continuidad
+hacia la formación de BNP correspondiente a
+las UC-96 y UC-56
+UC-151, UC-51, UC-52, UC-87, UC-49,
+UC-118, UC-168, UC-163, UC-163, UC-10
+y UC-140
+Zonas de estas formaciones corresponden a
+Bosque Nativo. Intensificar el muestreo y
+segmentar mejor.
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+9/13
+
+===== p.9 =====
+Cabe destacar que debido a las condiciones climáticas del día 26 de agosto la Corporación,
+no pudo recorrer toda el área de emplazamiento del proyecto y dada la regeneración del
+bosque post incendio, no es posible descartar la presencia de individuos de Drimys winteri y
+Jubaea chilensis en los sitios no visitados, e incluso en las áreas ya recorridas por la
+Corporación, dada la alta densidad de regeneración de la vegetación. Por lo que se solicita
+al titular reforzar la ejecución del microruteo, en todas las quebradas, abarcando toda la
+extensión de las mismas.
+5. Singularidad
+Respecto al análisis de singularidad de la flora y vegetación realizado en el numeral “4.4.
+Análisis de singularidad de la flora y vegetación del área de estudio” el titular debe rectificar
+y reconocer que aplican los siguientes criterios:
+Presencia de formaciones vegetales únicas o de baja representatividad nacional,
+debido a la presencia de poblaciones de Jubaea chilensis (clasificada en el Apéndice
+I de CITES) y formaciones de quebrada en la zona centro de Chile con Drimys winteri
+en el área de influencia del proyecto (Donoso, 1981; Loewe et al., 1997; Miranda et
+al.,  2016)
+Presencia de formaciones vegetales relictuales considerando la presencia de Jubaea
+chilensis y formaciones de quebrada en la zona centro de Chile con Drimys winteri en
+el área de influencia del proyecto  (Donoso, 1981; Loewe et al., 1997; Jara-Arancio et
+al., 2022)
+Presencia de formaciones vegetales remanentes, dada la presencia de Jubaea
+chilensis y formaciones de quebrada en la zona centro de Chile con Drimys winteri en
+el área de influencia del proyecto  (Donoso, 1981; Loewe et al., 1997; Jara-Arancio et
+al., 2022)
+Predicción y evaluación de impacto
+En el “Capítulo 4. Predicción y evaluación de impacto” el titular afirma cuantifica la distancia
+de efecto borde de acuerdo a Vita (1990), sin embargo el estudio realizado por Vita no
+corresponde a un estudio de efecto borde, sino a un ensayo de reforestación de Quillay,
+donde establece una distancia de regeneración natural en un radio de 2,5 veces la altura de
+los individuos de la especie. Sin aplicación en el cálculo de distancia de efecto borde, pues
+se refieren a elementos diferentes, asimismo, la condición evaluada por Vita (1990)
+corresponde exclusivamente a Quillay en la localidad de Illapel, donde las características
+climáticas son diferentes a la comuna de Viña del Mar donde la regeneración natural podría
+extenderse a mayores distancias por la humedad del sector, por otra parte las especies
+dominantes mencionadas por el titular “Cryptocarya alba, y renoval de Cryptocarya alba,
+Peumus boldus y Schinus latifolius”, todas corresponden a especies con dispersión por
+zoocoria, es decir la aplicación del ensayo de Vita (1990) no tiene pertinencia por
+condiciones autoecológicas, climáticas y el objetivo de aplicación (regeneración contra
+efecto borde). Por ende el titular debe reevaluar la justificación en la definición del efecto
+borde, incorporando las modificaciones en las condiciones de quebrada, la alteración del
+sistema hídrico y edáfico, junto a la vulnerabilidad de las especies a estos cambios,
+integrando la presencia de especies higrófilas como canelo.
+Descripción pormenorizada de aquellos efectos, características o circunstancias del
+artículo 11 de la Ley
+Conforme a lo revisado en la Línea de Base de Flora y Vegetación, así como lo observado
+en terreno por la Corporación existe intervención de bosque nativo de preservación, así
+como corta de individuos de Canelo (Drimys winteri) en categoría de conservación
+Vulnerable (VU). Por lo cual, el proyecto presenta o genera efectos, características o
+circunstancias del Artículo 11 de la Ley N° 19.300, en particular los referidos a la
+intervención de recursos naturales renovables del Artículo 6° del RSEIA), los cuales no han
+sido declarados ni adecuadamente evaluados y están asociados principalmente a:
+1. Subestimación de la superficie de bosque nativo a intervenir por las actividades del
+proyecto;
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+10/13
+
+===== p.10 =====
+2. No declara ni identifica la intervención de especies en categoría de conservación;
+3. No declara ni identifica la intervención ni la alteración del hábitat de Bosque Nativo de
+Preservación;
+Específicamente los puntos 2 y 3, declaran que el titular no ha podido descartar la
+intervención de especies en categoría de conservación como Canelo (Drimys winteri) ni
+tampoco de las formaciones de BNP de canelo y palma chilena (Jubaea chilensis), ni de la
+alteración del hábitat de estas formaciones. A modo de ejemplo en la siguiente tabla se
+aprecian individuos de canelo no declarados por el titular que presentarán intervención y
+alteración de hábitat de sus formaciones.
+Individuos 
+no
+declarados por el
+titular, 
+detectados
+por la Corporación
+N° de individuos
+  Coordenadas UTM
+H19
+Tipo de afectación
+Drimys winteri
+7
+267742 E, 6337179 N Intervención
+Drimys winteri
+22
+267645 E, 6337506 N Alteración de hábitat
+Asimismo, en vista de la condición de las quebradas aledañas donde la presencia de
+Jubaea chilensis se concentra en los fondos de quebrada y media ladera, junto a la
+potencial presencia de individuos adicionales de Jubaea chilensis en el área de influencia,
+cuya presencia no puede ser descartada debido a la condición de bosque quemado y a su
+potencial rebrote o regeneración, considerando que esta puede tardar años en
+desarrollarse.
+Adicionalmente, el titular no ha sido capaz de descartar la alteración de hábitat sobre las
+ECC presentes aguas abajo de la zona de emplazamiento del proyecto, considerando que
+las obras se ejecutan en un sistema de quebradas que afecta todo el régimen hídrico de las
+formaciones, sobre los individuos de Drimys winteri presentes en las quebradas y Jubaea
+chilensis. Esto se debe a que exclusivamente por la remoción de la vegetación (sin
+mencionar el escarpe y la remoción de tierras) en este sistema de quebradas provoca un
+incremento en la erosión edáfica, pérdida de agua del sistema por aumento de la
+escorrentía, pérdida de estabilidad y productividad de los suelos, aumento de la
+sedimentación, degradación de los recursos hídricos, asfixia de raíces por sedimentación,
+modificando las tasas de infiltración y evapotranspiración y modificaciones en las
+propiedades fisicas y quimicas de los suelos   (Gray y Leiser, 1982; Menashe, 1998;
+Wenger, 1999; Potic et al., 2022; van Meerveld y Seibert, 2024; Cutipa et al., 2025; Almada
+et al., 2026). Es necesario considerar que los individuos declarados por el titular en todas
+las temporadas visitadas jamás se evidenciaron estructuras reproductivas, sólo se observó
+crecimiento vegetativo, por lo cual la potencial afectación de estos individuos, podría afectar
+la recuperación de estos bosques y de la especie en el área afectada. Por otra parte,
+adicional a la remoción de vegetación se presentarán escarpe, excavaciones y relleno, lo
+que aumenta el riesgo sobre la vegetación por la modificación de la fisonomía de las
+quebradas, del flujo hídrico y la alteración de las propiedades edáficas, ya no sólo de las
+ECC, sino del resto de especies con características hidrófilas.
+De igual manera, la Corporación observó en su visita a terreno los días 25 y 26 de agosto,
+que todos los canelos se presentaron en los cursos de agua, lo cual es consecuente con su
+autoecología, por lo que cualquier alteración del flujo hídrico de estas quebradas y cursos
+de agua, como su contaminación conlleva a la muerte de las especies presentes aguas
+abajo de la intervención, generando alteración de hábitat a lo largo de toda la quebrada.
+Similar situación ocurre con los individuos de Jubaea chilensis que se presentaron en zonas
+de quebradas y bajas laderas, por ende cualquier modificación del paisaje pendiente arriba
+o sobre las quebradas aguas arriba puede ser mortal para estos individuos, considerando
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+11/13
+
+===== p.11 =====
+su situación de recuperación post incendio y la teoría de resiliencia ecológica, con la
+posibilidad de llegar a un punto irreversible a causa de la degradación del paisaje (Gough et
+al., 2024), lo que incrementa considerando la fragilidad de la vegetación de higrófila de
+quebrada (Vásquez, 2018; Doll et al., 2024).
+Adicionalmente, esta alteración presenta una sinergia con el cambio climático, donde las
+precipitaciones se concentran en un menor rango temporal, pero a una mayor intensidad y
+mayores temperaturas en la temporada estival (Seneviratne et al., 2021; Avila-Díaz et al.,
+2022), lo que acrecentaría la magnitud de las afectaciones, por ende aumenta la
+probabilidad de ocurrencia y magnitud de la alteración de hábitat. Asimismo, en el contexto
+actual de mega sequía donde el déficit de precipitaciones se ha mantenido desde 2010 ha
+sido relacionado con una reducción de los recursos hídricos, disminución en la
+productividad de las especies, mortalidad de individuos, junto a un incremento en la
+ocurrencia y severidad de los incendios forestales (ENCCRV, 2025; Fuentealba et al.,
+2026), de manera que la modificación del paisaje, de cursos de agua y del sistema de
+quebradas, en este contexto es crítico para los individuos y especies que requieren de este
+flujo hídrico para su sobrevivencia.
+Todo esto afecta el desarrollo de las ECC que se presentan en estas formaciones así como
+para las especies acompañantes que se están recuperando posterior al incendio forestal
+ocurrido a inicios de 2024. Por ende, debido a las obras y actividades a realizar por el titular
+y dada la fisonomía y topografía del terreno, estado de recuperación del bosque, estado y
+dimensiones de ECC catastradas, sistema de quebradas, modificaciones a las propiedades
+fisicoquímicas del suelo, modificaciones del régimen hídrico (tasas de infiltración,
+evapotranspiración, etc.), erosión y pérdida de suelo, la alteración de hábitat sobre las
+formaciones de Drimys winteri y Jubaea chilensis no puede ser descartada.
+Considerando que actualmente el proyecto no cuenta con una Declaratoria de Interés
+Nacional y que de acuerdo a lo señalado en el inciso 4 del artículo 7 de la Ley N° 20.283,
+esta aplica a la construcción de caminos, el ejercicio de concesiones o servidumbres
+mineras, de gas, de servicios eléctricos, de ductos u otras reguladas por ley o para
+proyectos que formen parte del Plan de Emergencia Habitacional, cuando en dichos
+proyectos se considere la alteración del hábitat.
+Conforme a lo anterior, debido a la imposibilidad de intervenir y/o alterar Bosque Nativo de
+Preservación y presentar el Permiso Ambiental Sectorial señalado en el artículo 150 del
+RSEIA, el titular debe descartar en su totalidad la intervención del Bosque Nativo de
+Preservación y la alteración de hábitat, para lo cual se solicita modificar la ubicación de las
+obras y actividades del proyecto que afecten BNP, y reevaluar las formaciones
+vegetacionales presentadas en el área de influencia, su continuidad y cualquier cambio en
+el ambiente que pueda llevar a  su muerte o a que se vea imposibilitado de reproducirse, tal
+como los cambios o contaminación de flujos superficiales o subsuperficiales de agua,
+fragmentación, efecto borde, cambios en su estado fitosanitario, invasión de especies
+exóticas, material particulado, afectación del sistema radicular y cualquiera otra.
+Plan de prevención de contingencias y de emergencias
+Respecto de los antecedentes del Capítulo 8, Plan de prevención de contingencias y
+emergencias,  en particular respecto del riesgo de incendios forestales, detallados en las
+Tablas 5 y 30, se solicita revisar y complementar,   teniendo presente  la vulnerabilidad real
+del emplazamiento frente a incendios forestales de magnitud y considerando en particular,
+la morfología de la zona, los accesos, las pendientes y la altura de la vegetación
+circundante.
+Respecto de la prevención se solicita,   indicar expresamente el ancho del cortafuego,
+señalar como se   asegura que   esas dimensiones son adecuadas a las condiciones del
+terreno e indicar la frecuencia del mantenimiento.
+Respecto de plan de emergencia se solicita reemplazar las medidas reactivas inviables
+como la mitigación manual de pavesas,   por sistemas de protección como, cortinas de
+agua  u otro sistema  de enfriamiento  y se recomienda definir zonas de confinamiento o
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+12/13
+
+===== p.12 =====
+Incl.: Documento Digital: Anexo figuras Oficio complementario
+seguridad para el personal, en caso que la evacuación por el único camino de acceso al
+proyecto  no sea posible.
+ 
+Sin otro particular, saluda atentamente a usted
+YENNY PRIETO BRÛLÉ
+DIRECTORA REGIONAL (I)
+DIRECCIÓN REGIONAL VALPARAÍSO
+c.c.: Danila Lazo González-Jefa (I) (S), Departamento Fiscalización y Evaluación
+Ambiental Or.V
+Danila Lazo González-Jefa (I), Sección Evaluación Ambiental Or.V
+Ricardo Andrés Díaz Silva-Jefe, Departamento de Evaluación Ambiental 
+Ricardo Andrés Díaz Silva-Jefe Sección Evaluación Ambiental (S), Departamento
+de Evaluación Ambiental 
+Yazmin Villa Peñailillo-Jefa (I) Sección de Evaluación de Excepcionalidad (Art. 19
+Ley 20.283), Departamento de Evaluación Ambiental 
+María Soledad Gallardo Flores-Secretaria Fiscalización y Evaluación Ambiental,
+Departamento Fiscalización y Evaluación Ambiental Or.V
+9/9/26, 17:35
+ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+https://ceropapel.conaf.cl/documentos/documento.php?idDocumento=378645951
+13/13
+
+===== p.13 =====
+CORPORACIÓN NACIONAL FORESTAL 
+DIRECCIÓN EJECUTIVA 
+GERENCIA DE FISCALIZACIÓN FORESTAL Y EVALUACIÓN AMBIENTAL 
+DEPARTAMENTO DE EVALUACIÓN AMBIENTAL 
+SEC.  EVALUACIÓN AMBIENTAL REGIÓN DE VALPARAÍSO 
+ 
+Anexo figuras Oficio complementario 
+Estudio de Impacto Ambiental del proyecto 
+“Centro Metropolitano de Gestión Integral de Residuos" 
+ 
+ 
+Figura 1. Comparación de los anchos de la unidad cartográfica UC-144 declarados por el titular e  
+identificados por la Corporación. 
+ 
+ 
+Figura 2. Gráficas de cambios en la cobertura relativa y el índice de Shannon en las temporadas 
+muestreadas por el titular, como evidencia de la variabilidad y tendencia a la recuperación de las 
+formaciones. 
+ 
+
+===== p.14 =====
+ 
+Figura 3. Comparación de los NDVI promedios en áreas de transición. 
+ 
+ 
+Figura 4. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta determinación  
+ 
+
+===== p.15 =====
+ 
+Figura 5. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta determinación 
+de formaciones vegetales. 
+ 
+ 
+Figura 6. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta determinación 
+de formaciones vegetales. 
+
+===== p.16 =====
+ 
+Figura 7. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta determinación 
+de formaciones vegetales. 
+ 
+Figura 8. Evidencia fotográfica de continuidad de formaciones de BNP e incorrecta determinación 
+de formaciones vegetales. 

@@ -1,0 +1,536 @@
+
+===== p.0 =====
+ 
+ 
+Página 1 de 6 
+ 
+ 
+ 
+ 
+ 
+                 
+Antofagasta     (55) 276 5063         Viña del Mar     (2) 249 291 28          Calama     (55)  2832677 
+FC009-045 Rev.002 Fecha Aprob.: 12-06-2024 
+ 
+INFORME DE ENSAYO 
+CORTE DIRECTO 
+ 
+INFORME N° 
+ESPARZA Y VEGA-CENTRO TRATAMIENTO INTEGRAL DE RESIDUOS SOLIDOS 
+LOS RINCONES-VIÑA DEL MAR-INFORME-CD-002-2024 
+SOLICITANTE 
+ESPARZA Y VEGA 
+PROFESIONAL RESPONSABLE 
+CRISTIAN VEGA 
+MANDANTE 
+ESPARZA Y VEGA 
+DIRECCION 
+VIÑA DEL MAR 
+FECHA EMISION 
+02-01-2025 
+ 
+INTRODUCCIÓN 
+ENSAYO, NORMATIVA Y AUTORIZACIÓN 
+ 
+Se procede a realizar el ensayo de Corte Directo según el procedimiento 
+establecido en la ASTM D 3080/D3080M –23 "Método de Ensayo Estándar para 
+Corte Directo de Suelo Bajo Condiciones de Drenaje Consolidadas" 
+ANTECEDENTES DEL MUESTREO 
+EFECTUADO POR 
+Patricio Aguilar 
+FECHA MUESTREO: 
+03-12-2024 
+SOLICITUD DE SERVICIO 
+0204 
+FECHA ENSAYO: 
+26-12-2024 
+NÚMERO DE MUESTRA 
+004 
+UBICACIÓN DEL MUESTREO: 
+Calicata N°16 
+IDENTIFICACIÓN DEL 
+MATERIAL 
+Existente 
+PROCEDENCIA 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANTECEDENTES DEL ENSAYO Y EQUIPO UTILIZADO 
+LUGAR DE REALIZACION 
+Laboratorio INGEMARS Viña del Mar 
+DIRECCION DEL LABORATORIO 
+Elicura 3592, Viña del Mar 
+EQUIPO UTILIZADO 
+Automático 
+TIPO DE PROBETA 
+Cuadrada 
+ANCHO DE CAJA DE CORTE (CM) 
+6,0 
+ALTURA DE CAJA DE CORTE (CM) 
+3,0 
+AREA DE CORTE (CM²) 
+36,0 
+RECOLECCIÓN DE DATOS 
+Automático 
+FECHA RECEPCION ITEM  
+20-12-2024 
+FECHA DE INICIO DE ENSAYO 
+26-12-2024 
+FECHA DE TÉRMINO DE ENSAYO 
+31-12-2024 
+ENSAYADO REALIZADO POR 
+Natalia Gaete 
+SUPERVISOR DE ENSAYO 
+Diego Cáceres 
+
+===== p.1 =====
+ 
+ 
+Página 2 de 6 
+ 
+ 
+ 
+ 
+ 
+                 
+Antofagasta     (55) 276 5063         Viña del Mar     (2) 249 291 28          Calama     (55)  2832677 
+FC009-045 Rev.002 Fecha Aprob.: 12-06-2024 
+ 
+INFORME DE ENSAYO 
+CORTE DIRECTO 
+ 
+DATOS PRELIMINARES DE LA MUESTRA 
+DESCRIPCIÓN VISUAL 
+Muestra Cortada en Malla N° 4 
+TIPO DE MUESTRA 
+Reconstituida 
+CLASIFICACIÓN USCS 
+SM 
+LIMITE LIQUIDO 
+Impracticable 
+LIMITE PLÁSTICO 
+No Plástico 
+INDICE DE PLASTICIDAD 
+No Plástico 
+ 
+DATOS DE CONFECCIÓN 
+PROBETA 
+PROBETA N°1 
+PROBETA N°2 
+PROBETA N°3 
+CONDICIÓN DE PROBETA 
+Saturada 
+Saturada 
+Saturada 
+ÁREA DE LA PROBETA (cm²) 
+36,0 
+36,0 
+36,0 
+ALTURA DE LA PROBETA (cm) 
+3,0 
+3,0 
+3,0 
+DENSIDAD HÚMEDA INICIAL (g/cm³) 
+2,06 
+2,06 
+2,06 
+DENSIDAD SECA INICIAL (g/cm³) 
+1,91 
+1,91 
+1,91 
+HUMEDAD INICIAL (%) 
+7,8 
+7,8 
+7,8 
+HUMEDAD FINAL (%) 
+19,81 
+19,59 
+18,11 
+DEFORMACIÓN VERTICAL DESPUÉS 
+DE CONSOLIDACIÓN 
+(MM) 
+-0,525 
+-0,729 
+-1,369 
+DENSIDAD SECA DESPUÉS DE 
+CONSOLIDACIÓN (g/cm³) 
+1,76 
+1,77 
+1,80 
+ESFUERZO NORMAL 
+(kPa) 
+54,5 
+102,2 
+204,4 
+ESFUERZO DE CORTE MÁXIMA (kPa) 
+47,1 
+76,0 
+144,4 
+ 
+RESULTADOS 
+PROBETA 1 
+DESPLAZAMIENTO HORIZONTAL 
+(mm) 
+DESPLAZAMIENTO VERTICAL 
+ (mm) 
+ESFUERZO CORTE  
+(kPa) 
+0,00 
+0,000 
+0,00 
+0,10 
+-0,001 
+14,28 
+0,26 
+0,001 
+25,36 
+0,41 
+0,038 
+34,64 
+0,62 
+0,101 
+39,67 
+0,83 
+0,151 
+42,47 
+1,25 
+0,248 
+45,08 
+2,30 
+0,359 
+47,11 
+3,60 
+0,426 
+45,11 
+4,38 
+0,448 
+43,06 
+5,18 
+0,447 
+41,75 
+6,62 
+0,448 
+36,97 
+7,20 
+0,434 
+36,42 
+8,37 
+0,412 
+34,81 
+9,34 
+0,377 
+36,06 
+10,00 
+0,335 
+36,58 
+ 
+
+===== p.2 =====
+ 
+ 
+Página 3 de 6 
+ 
+ 
+ 
+ 
+ 
+                 
+Antofagasta     (55) 276 5063         Viña del Mar     (2) 249 291 28          Calama     (55)  2832677 
+FC009-045 Rev.002 Fecha Aprob.: 12-06-2024 
+INFORME DE ENSAYO 
+CORTE DIRECTO  
+ 
+PROBETA 2 
+DESPLAZAMIENTO HORIZONTAL 
+(mm) 
+DESPLAZAMIENTO VERTICAL  
+(mm) 
+ESFUERZO CORTE 
+ (kPa) 
+0,00 
+0,000 
+0,00 
+0,10 
+0,000 
+21,86 
+0,29 
+0,003 
+50,39 
+0,45 
+0,016 
+59,89 
+0,64 
+0,027 
+65,31 
+0,81 
+0,041 
+67,78 
+1,55 
+0,097 
+73,97 
+2,63 
+0,126 
+75,97 
+3,37 
+0,143 
+74,56 
+4,08 
+0,169 
+73,36 
+5,33 
+0,173 
+69,56 
+6,41 
+0,150 
+69,22 
+7,27 
+0,139 
+68,22 
+8,52 
+0,116 
+67,19 
+9,18 
+0,109 
+66,56 
+10,00 
+0,091 
+66,42 
+ 
+PROBETA 3 
+DESPLAZAMIENTO HORIZONTAL 
+(mm) 
+DESPLAZAMIENTO VERTICAL 
+ (mm) 
+ESFUERZO CORTE  
+(kPa) 
+0,00 
+0,000 
+0,00 
+0,10 
+0,000 
+36,78 
+0,23 
+-0,011 
+65,03 
+0,46 
+-0,033 
+90,14 
+0,67 
+-0,046 
+101,42 
+0,80 
+-0,057 
+106,72 
+1,51 
+-0,084 
+121,56 
+2,32 
+-0,109 
+129,36 
+3,45 
+-0,126 
+137,06 
+4,12 
+-0,138 
+139,19 
+5,35 
+-0,162 
+143,39 
+6,87 
+-0,181 
+144,47 
+7,60 
+-0,194 
+142,61 
+8,32 
+-0,209 
+139,83 
+9,58 
+-0,241 
+136,78 
+10,00 
+-0,246 
+135,47 
+ 
+ 
+ 
+
+===== p.3 =====
+ 
+ 
+Página 4 de 6 
+ 
+ 
+ 
+ 
+ 
+                 
+Antofagasta     (55) 276 5063         Viña del Mar     (2) 249 291 28          Calama     (55)  2832677 
+FC009-045 Rev.002 Fecha Aprob.: 12-06-2024 
+INFORME DE ENSAYO 
+CORTE DIRECTO  
+ 
+GRAFICOS 
+CONSOLIDACION 
+ 
+PROBETA 1 
+TIEMPO 
+(min) 
+RAÍZ TIEMPO 
+(𝐦𝐢𝐧𝟏/𝟐) 
+DEFORMACIÓN 
+(mm) 
+0,00 
+0,000 
+0,000 
+0,10 
+0,316 
+0,474 
+0,25 
+0,500 
+0,486 
+0,50 
+0,707 
+0,489 
+1,00 
+1,000 
+0,493 
+2,00 
+1,414 
+0,496 
+4,00 
+2,000 
+0,499 
+8,00 
+2,828 
+0,503 
+15,00 
+3,873 
+0,507 
+30,00 
+5,477 
+0,511 
+60,00 
+7,746 
+0,525 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.00
+1.00
+2.00
+3.00
+4.00
+5.00
+6.00
+7.00
+8.00
+9.00
+Desplazamiento (mm)
+Raíz de tiempo (min)
+Probeta 1
+
+===== p.4 =====
+ 
+ 
+Página 5 de 6 
+ 
+ 
+ 
+ 
+ 
+                 
+Antofagasta     (55) 276 5063         Viña del Mar     (2) 249 291 28          Calama     (55)  2832677 
+FC009-045 Rev.002 Fecha Aprob.: 12-06-2024 
+INFORME DE ENSAYO 
+CORTE DIRECTO  
+ 
+GRÁFICOS CORTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.5 =====
+ 
+ 
+Página 6 de 6 
+ 
+ 
+ 
+ 
+ 
+                 
+Antofagasta     (55) 276 5063         Viña del Mar     (2) 249 291 28          Calama     (55)  2832677 
+FC009-045 Rev.002 Fecha Aprob.: 12-06-2024 
+INFORME DE ENSAYO 
+CORTE DIRECTO  
+ 
+ 
+PARÁMETROS OBTENIDOS 
+Cohesión (peak) (kPa): 10,7 
+Angulo de fricción interna (peak) (°): 33,1 
+ 
+OBSERVACIONES 
+Densidad Seca Montada al 95% de la DMCS para muestras reconstituidas. 
+Los resultados son aplicables solo a las muestras ensayadas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr Diego Cáceres  
+Ingeniero Civil Geotécnico 
+Jefe de Área Estructuras 
+INGEMARS INGENIERIA LIMITADA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTAS 
+1. Los resultados corresponden únicamente a los ítems ensayados. 
+2. La Información que esta subrayada fue suministrada por el cliente. 
+3. Este informe no puede ser reproducido sin autorización escrita de la Gerencia INGEMARS. 
+4. Descargo de Responsabilidad: Laboratorio INGEMARS no asume responsabilidad por el contenido y veracidad de la información en caso de haber sido proporcionada en su totalidad por el cliente 
+y que pudiera afectar a la validez de los resultados en este informe. Laboratorio INGEMARS no se responsabiliza del contenido y veracidad de la información suministrada por el cliente durante la 
+etapa de muestreo (lugar, punto e identificación) y los resultados aplicarán a la muestra proporcionada tal como fue recibida. 
+5. (*) Ensaye(s) y/o actividad(es) fuera del alcance de la acreditación. 
+6. Realizado por N.G.G 
+ 
+ 

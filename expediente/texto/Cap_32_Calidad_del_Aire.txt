@@ -1,0 +1,1072 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LÍNEA DE BASE CALIDAD DE AIRE 
+ESTUDIO DE IMPACTO AMBIENTAL 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL 
+DE RESIDUOS” 
+ 
+ 
+ 
+ 
+ 
+Abril 2026 
+ 
+ 
+
+===== p.1 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 2 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+1 Introducción 
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos” consiste en la 
+construcción y operación de una instalación integral para el tratamiento de los residuos 
+sólidos mediante compostaje, reciclaje y disposición final de residuos sólidos domiciliarios y 
+asimilables. El Proyecto se ubica en la comuna de Viña del Mar, provincia de Valparaíso, 
+Región de Valparaíso, en el kilómetro 102,5 de la Ruta 60 Troncal Sur que une las comunas 
+de Viña del Mar y Quilpué en la Región de Valparaíso y cuya área total de emplazamiento 
+es de 63,10 ha dentro de un predio de 206 ha.  
+El Proyecto cuenta con una zona de instalaciones operacionales y administrativas, zona de 
+compostaje, zona de reciclaje, zona de disposición de residuos, zona de tratamiento de 
+lixiviados y zona de tratamiento de biogás. Durante la operación del Proyecto se espera 
+recibir 30.741.988 toneladas de residuos sólidos durante 25 años de vida útil estimada y 
+prestará servicio principalmente a la población de las comunas de la Región de Valparaíso, 
+con una tasa inicial de 2.500 ton/día. 
+ 
+ 
+
+===== p.2 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 3 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+2 Objetivos 
+2.1 General 
+Caracterizar la calidad del aire en el área donde se emplazará el Proyecto, determinando las 
+concentraciones actuales de los principales contaminantes atmosféricos dentro de su área 
+de influencia. 
+2.2 Específicos 
+Para lo anterior se plantean los siguientes objetivos específicos: 
+• 
+Procesar los datos de monitoreo de las variables de calidad del aire observadas, 
+específicamente de material particulado en las estaciones de monitoreo con 
+representatividad poblacional ubicadas en las cercanías del Proyecto.  
+• 
+Elaborar y presentar gráficas de las series de tiempo de las concentraciones de los 
+contaminantes monitoreados en las estaciones de monitoreo identificadas.  
+• 
+Obtener el porcentaje de datos válidos y valores para los estadígrafos indicados en 
+las normas primarias de calidad del aire vigentes.  
+• 
+Analizar los resultados obtenidos en comparación con la normativa de calidad del 
+aire vigente en el país con el fin de determinar la calidad del aire en el área en la 
+cual se emplazará el Proyecto.  
+ 
+ 
+
+===== p.3 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 4 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+3 Metodología 
+En esta caracterización, se presenta información actualizada de los contaminantes MP10 y 
+MP2,5 en la estación Quilpué Gimnasio ubicada en el área geográfica donde se emplazará 
+el Proyecto. Dicha información fue obtenida a partir de los registros disponibles en la 
+plataforma del Servicio de Información Nacional de Calidad del Aire. 
+Después de obtener los registros de los contaminantes, se procedió al procesamiento de los 
+datos, analizando los estadígrafos correspondientes a los umbrales de las normas nacionales 
+de calidad del aire actualmente vigentes para los parámetros medidos. Con base en los 
+resultados obtenidos, se determinaron las concentraciones actuales de los principales 
+contaminantes atmosféricos dentro del área de influencia del Proyecto. 
+Es importante mencionar que se consideraron las estaciones que se encuentran dentro de 
+un radio de 10 km del Proyecto, las cuales se presentan en la Figura 1. 
+ 
+Figura 1. Estaciones de calidad de aire disponibles en las cercanías del Proyecto 
+En la figura se observa que la estación Quilpué Gimnasio corresponde a la más cercana al 
+
+===== p.4 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 5 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+área del Proyecto, se encuentra en una zona geográfica similar al encontrarse más alejada 
+de la costa y en alturas sobre los 100 metros. En contraste, la estación Viña del Mar se ubica 
+en un sector costero, estando influenciada por condiciones propias del borde litoral que 
+difieren de aquellas del emplazamiento del Proyecto, el cual se sitúa a mayor distancia del 
+mar y a una altitud entre 200 y 400 m. En consecuencia, se selecciona la estación Quilpué 
+Gimnasio como base para la caracterización de la calidad del aire en el área de estudio. 
+La estación Quilpué Gimnasio, en adelante denominada estación Quilpué, dispone de 
+registros desde el año 2023 hasta la actualidad. No obstante, el año 2026 no se considera 
+en el análisis debido a que corresponde al año en curso y no cuenta con información 
+suficiente. Asimismo, el año 2023 presenta una baja cobertura de datos, ya que la estación 
+inició su operación el 1 de septiembre de dicho año. En consecuencia, el análisis de 
+concentraciones se realiza para el período 2024–2025. 
+Tabla 1. Porcentaje de datos disponible por cada contaminante en las 
+estaciones de monitoreo  
+Año 
+Estación SINCA Quilpué (%) 
+MP10 
+MP2,5 
+Horas 
+totales 
+datos 
+validos 
+Porcentaje de 
+datos validos 
+Horas 
+totales 
+datos 
+validos 
+Porcentaje de 
+datos validos 
+2023 
+8.760 
+2.885 
+32,9 % 
+8.760 
+2.919 
+33,3 % 
+2024 
+8.784 
+7.879 
+89,7 % 
+8.784 
+7.910 
+90,0 % 
+2025 
+8.760 
+8.668 
+98,9 % 
+8.760 
+8.683 
+99,1 % 
+Finalmente, se presenta la Tabla 2 con información relevante de la estación de monitoreo, 
+como su ubicación, coordenadas UTM, parámetros medidos, frecuencia de medición, entre 
+otros. 
+Tabla 2 Resumen información estaciones de monitoreo calidad del aire. 
+Nombre estación 
+Quilpué Gimnasio 
+Ubicación 
+Comuna 
+Viña del Mar 
+Región 
+Valparaíso 
+Este 
+272.255 
+
+===== p.5 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 6 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+Nombre estación 
+Quilpué Gimnasio 
+Coordenadas 
+UTM Datum 
+WGS84 H18 S 
+Norte 
+6.340.803 
+Distancia al Proyecto (km) 
+5,8 
+Tipo (discreta o continua) 
+Continua 
+Frecuencia de medición 
+Horaria 
+Parámetros medidos y unidades 
+MP10 
+µg/m3 
+MP2,5 
+µg/m3 
+Técnica de medición 
+Atenuación beta 
+Periodo de registro 
+2023 - actualidad 
+Meteorología 
+Sin datos meteorológicos 
+Operador 
+Algoritmos y Mediciones Ambientales SpA 
+Extraído desde 
+https://sinca.mma.gob.cl/index.php/estacion/index/id/297 
+Por otro lado, los datos procesados se analizaron mediante gráficos de series temporales y 
+los resultados del cálculo de estadígrafos se compararon con la normativa vigente para cada 
+contaminante. Actualmente, los contaminantes caracterizados (MP10 y MP2,5) están 
+regulados bajo normas de calidad primaria, cuyo objetivo es proteger la salud de las 
+personas de los efectos agudos y crónicos de la exposición de estos contaminantes con un 
+riesgo aceptable. Para esto, se fijan límites de concentración permitidos, condiciones de 
+superación de la norma y los niveles que dan paso a situaciones de emergencia ambiental. 
+3.1 Marco Legal Regulatorio 
+Actualmente, los contaminantes MP10 y MP2,5 están regulados bajo normas de calidad 
+primaria, cuyo objetivo es proteger la salud de las personas de los efectos agudos y crónicos 
+de la exposición de estos contaminantes con un riesgo aceptable. Para esto, se fijan límites 
+de concentración permitidos, condiciones de superación de la norma y los niveles que dan 
+paso a situaciones de emergencia ambiental. 
+El material particulado respirable MP10 es regulado por el D.S 12/2022 del Ministerio del 
+Medio Ambiente, mientras el material particulado fino respirable MP2,5 es regulado por el 
+D.S 12/2011 del Ministerio del Medio Ambiente. 
+
+===== p.6 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 7 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+En la Tabla 3 se aprecian los valores del límite anual y diario para los contaminante MP10 
+y MP2,5, además de los rangos que dan origen a situaciones de alerta, preemergencia y 
+emergencia ambiental. 
+Tabla 3. Valores normados para MP10 y MP2,5 en Chile 
+Nivel 
+MP10 (µg/m3N) 
+MP2,5 (µg/m3) 
+Concentración Anual 
+50 
+20 
+Concentración 24 horas 
+130 
+50 
+Alerta 
+180-229 
+80-109 
+Preemergencia 
+230-329 
+110-169 
+Emergencia 
+330 o superior 
+170 o superior 
+Fuente: Elaboración propia en base a DS 12/2022 MMA y DS 12/2011 MMA. 
+La superación de un valor aislado no constituye incumplimiento, salvo que se cumplan los 
+criterios normativos indicados: 
+- 
+Cuando el promedio de la concentración anual de tres años consecutivos iguale o 
+supere los 50 µg/m³. 
+- 
+Si el percentil 98 (P98) de las concentraciones de 24 horas durante un año sea igual 
+o superior a 130 µg/m³. 
+- 
+Si durante un año se registrasen siete o más días cuya concentración sea mayor a 
+130 µg/m³. 
+En el mismo contexto, las condiciones de superación de la norma de MP2,5 son las que se 
+describen a continuación: 
+- 
+Cuando el promedio de la concentración anual de tres años consecutivos iguale o 
+supere los 20 µg/m³. 
+- 
+Si el percentil 98 (P98) de las concentraciones de 24 horas durante un año sea igual 
+o superior a 50 µg/m³. 
+
+===== p.7 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 8 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+3.2 Antecedentes normativos en la ubicación del Proyecto 
+El Proyecto se emplaza dentro de la Región de Valparaíso, en la comuna de Viña del Mar la 
+cual no se encuentra dentro de un Plan de Prevención y/o descontaminación Atmosférica 
+(PPDA), ni se encuentra declarada como zona saturada ni latente por material particulado 
+grueso (MP10), ni material particulado fino (MP2,5). 
+4 Resultados 
+4.1 Material particulado grueso MP10 
+4.1.1 Variabilidad 
+La Figura 2 presenta la serie de tiempo, construida con datos horarios, de concentración 
+de MP10 entre los años 2023 y 2025. El gráfico permite identificar claramente periodos sin 
+datos, distribución temporal de los datos, identificar datos atípicos, y posibles problemas 
+instrumentales durante el periodo de registro. 
+ 
+Figura 2. Serie de tiempo de las concentraciones de MP10 medidas en la 
+estación Quilpué Gimnasio 
+En la Figura 2 observa que las concentraciones de MP10 presentan un ciclo anual marcado, 
+con valores generalmente más bajos durante verano, otoño y primavera, mientras que en 
+invierno se alcanzan las concentraciones más elevadas. Este comportamiento es consistente 
+con condiciones meteorológicas invernales menos favorables para la dispersión de 
+
+===== p.8 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 9 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+contaminantes. 
+En relación con la disponibilidad de datos, la serie de tiempo presenta un período 
+significativo sin registros, de aproximadamente nueve meses durante el año 2023, debido a 
+que la estación inició sus mediciones el 1 de septiembre de dicho año. Esto es consistente 
+con lo señalado en la Tabla 1, donde se evidencia que 2023 corresponde al año con mayor 
+proporción de datos faltantes. 
+Por otra parte, se observa que el 90% de las concentraciones se sitúa entre 4 y 77 µg/m³, 
+correspondientes a los percentiles 5 y 95, respectivamente. Asimismo, la concentración 
+promedio alcanza los 30,28 µg/m³. El valor máximo registrado corresponde a 831 µg/m³, 
+observado durante febrero de 2024, periodo que coincide con los incendios ocurridos en la 
+Región de Valparaíso, particularmente en las comunas de Valparaíso, Viña del Mar, Quilpué 
+y sectores aledaños. Debido a la magnitud excepcional de este evento, dichas 
+concentraciones deben ser interpretadas como episodios atípicos asociados a una fuente 
+extraordinaria de emisión, más que como parte del comportamiento habitual de la serie. 
+En la Figura 3 se presenta el ciclo diario promedio de las concentraciones de MP10 y el 
+rango donde se encuentra el 90% de los datos horarios, representado por el área sombrada. 
+La línea verde oscura representa el ciclo diario promedio de las concentraciones de MP10 y 
+se construyó promediando las concentraciones registradas para cada hora, de forma similar, 
+el sombreado se determinó en base al percentil 5 y 95 de los datos medidos en cada hora. 
+
+===== p.9 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 10 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+ 
+Figura 3. Ciclo diario de las concentraciones de MP10 observadas en la estación 
+Quilpué Gimnasio 
+En la Figura 3 se observa un ciclo diario bien definido en la concentración de MP10. La 
+concentración promedio diaria (línea verde) se inicia en torno a los 29 µg/m³ a las 00:00 
+horas y disminuye gradualmente hasta alcanzar un valor mínimo de 20,9 µg/m³ a las 04:00 
+horas. Posteriormente, aumenta de forma sostenida hasta alcanzar un máximo a las 08:00 
+horas, con un valor promedio de 41,4 µg/m³. A continuación, desciende hasta 
+aproximadamente 30,6 µg/m³ hacia las 11:00 horas, manteniéndose luego relativamente 
+estable hasta las 23:00 horas, momento en que se cierra el ciclo diario. 
+Del análisis se observa que el límite inferior (percentil 5) presenta escasa variación a lo largo 
+del día, con valores comprendidos entre 2 y 6 µg/m³. En contraste, el límite superior 
+(percentil 95) muestra una mayor variabilidad, con valores que oscilan entre 57 y 106,3 
+µg/m³. 
+En la Figura 4 se presenta el ciclo estacional de la concentración de MP10, en el eje 
+horizontal (eje X) se representan las horas del día, mientras que en el eje vertical (eje Y) se 
+disponen los meses del año. La escala cromática utilizada refleja la variación de la 
+concentración, lo que permite identificar de manera integrada los patrones estacionales y 
+
+===== p.10 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 11 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+diurnos. 
+ 
+Figura 4. Ciclo mensual de las concentraciones de MP10 observadas en la 
+estación Quilpué Gimnasio 
+En la Figura 4 se observa un ciclo diario de las concentraciones de MP10, cuya magnitud y 
+forma varían según el mes del año. En términos generales, se identifica un máximo relativo 
+en horas de la mañana, entre las 08:00 y 11:00 horas, principalmente entre febrero y 
+agosto. Asimismo, los valores más altos se registran durante la tarde-noche 
+(aproximadamente entre las 19:00 y 22:00 horas), particularmente en los meses de 
+invierno. 
+Destaca que las mayores concentraciones se presentan en junio y julio, junto con la mayor 
+amplitud diaria (diferencia entre valores máximos y mínimos). En contraste, entre octubre 
+y diciembre se observa una menor variabilidad diaria, con concentraciones relativamente 
+estables a lo largo del día. 
+4.1.2 Concentración 24 horas 
+En la Figura 5 y Tabla 4 se presenta el percentil 98 (P98) de la concentración promedio 
+de 24 horas de MP10 para la estación Quilpué Gimnasio, el cual constituye uno de los 
+criterios establecidos en la normativa nacional (DS N°12/2022 MMA) para evaluar el 
+
+===== p.11 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 12 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+cumplimiento de la norma diaria, cuyo límite corresponde a 130 µg/m³. 
+ 
+Figura 5. Concentración promedio 24 horas de MP10, estación Quilpué 
+Gimnasio 
+Los resultados muestran que, para todos los años analizados, los valores de P98 se 
+mantienen por debajo de este umbral normativo, por lo que no se configura superación de 
+la norma diaria bajo este criterio. En particular, el valor máximo se registra en 2025, con 
+89,2 µg/m³, equivalente al 68,6% del límite normativo, mientras que en 2024 se alcanza 
+un valor de 75,0 µg/m³ (57,7% del límite). 
+Tabla 4. Concentración y porcentaje de superación concentración promedio 
+diario de MP10, Quilpué Gimnasio 
+Año 
+Estación Quilpué gimnasio 
+Concentración 
+promedio diario 
+(µg/m3) 
+Porcentaje de la norma 
+primaria (%) 
+Porcentaje de 
+excedencia de la norma 
+(%) 
+2023 
+- 
+ 
+- 
+2024 
+75,0 
+57,7 
+No Supera 
+2025 
+89,2 
+68,6 
+No Supera 
+ 
+
+===== p.12 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 13 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+En este contexto, y considerando exclusivamente el criterio del percentil 98 de 24 horas, la 
+estación no presenta condiciones de superación de la norma diaria de MP10 en el período 
+evaluado.  
+4.1.3 Concentración anual 
+Como se presentó en la Tabla 3, el límite normativo para la concentración promedio anual 
+de MP10 corresponde a 50 µg/m3. En la Tabla 5 se presentan las concentraciones anuales 
+medidas en la estación, donde se desprende que la norma no es superada en ninguno de 
+los años analizados, siendo el año 2025 el que presenta la mayor concentración, con 35,0 
+µg/m3. 
+Tabla 5. Concentración y porcentaje de superación concentración promedio 
+anual de MP10, estación Quilpué Gimnasio 
+Año 
+Estación Quilpué Gimnasio 
+Concentración 
+promedio anual 
+(µg/m3) 
+Porcentaje de la norma 
+primaria (%) 
+Porcentaje de 
+excedencia de la norma 
+(%) 
+2023 
+- 
+ 
+- 
+2024 
+33,8 
+67,6 
+No Supera 
+2025 
+35,0 
+70,0 
+No Supera 
+Con respecto al promedio trianual, este no pudo ser calculado debido a la falta de datos en 
+el año 2023. 
+4.1.4 Días de alerta, preemergencia y/o emergencia 
+En relación con los días de alerta, preemergencia y/o emergencia de los años analizados, 
+se aprecia que no hay días declarados como alerta, preemergencia y emergencia en ninguno 
+de los años analizados, tal como se muestra en la Tabla 6. 
+Tabla 6. Registro de días declarados en alerta, preemergencia y emergencia 
+para MP10 en la estación Quilpué Gimnasio 
+Año 
+Estación Quilpué Gimnasio 
+Días de alerta 
+Días de preemergencia 
+Días de emergencia 
+2023 
+- 
+- 
+- 
+
+===== p.13 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 14 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+Año 
+Estación Quilpué Gimnasio 
+Días de alerta 
+Días de preemergencia 
+Días de emergencia 
+2024 
+0 
+0 
+0 
+2025 
+0 
+0 
+0 
+4.2 Material particulado fino MP2,5 
+El D.S 12/2011 MMA establece la norma primaria de calidad ambiental para material 
+particulado fino respirable MP2,5, regulando la concentración promedio anual y diaria, cuyos 
+límites se presentan en la Tabla 3. 
+4.2.1 Variabilidad 
+En la Figura 6 se presenta la serie de tiempo, construida con datos horarios, de 
+concentración de MP2,5 entre los años 2023 y 2025. Este gráfico nos permite identificar 
+claramente periodos sin datos, distribución temporal de los datos, identificar datos atípicos, 
+problemas en equipos (datos constantes y tendencias) y máximos relativos generados 
+durante el periodo de registro. 
+ 
+Figura 6. Serie de tiempo de las concentraciones de MP2,5 medidas en la 
+estación Quilpué Gimnasio 
+En la Figura 6, la serie de tiempo presenta un periodo importante sin datos, de 
+aproximadamente 9 meses, durante el año 2023. Esto se debe a que la estación comenzó 
+
+===== p.14 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 15 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+a medir a partir del primero de septiembre de ese año. Esto es consecuente con la 
+información de la Tabla 1Tabla 1. Porcentaje de datos disponible por cada contaminante 
+en las estaciones de monitoreo, donde se muestra que el 2023 es aquel con mayor cantidad 
+de datos faltantes. 
+Finalmente, se observa que el 90% de las concentraciones de MP2.5 se sitúa entre 1 y 44 
+µg/m³, correspondientes a los percentiles 5 y 95, respectivamente. Asimismo, la 
+concentración promedio alcanza los 13,35 µg/m³, mientras que el valor máximo registrado 
+corresponde a 621 µg/m³. Este máximo se presentó durante febrero de 2024, periodo que 
+coincide con los incendios ocurridos en la Región de Valparaíso, particularmente en las 
+comunas de Valparaíso, Viña del Mar, Quilpué y sectores aledaños.  
+Debido a la magnitud excepcional de este evento, dichas concentraciones deben ser 
+interpretadas como episodios atípicos asociados a una fuente extraordinaria de emisión, 
+más que como parte del comportamiento habitual de la serie. 
+En la Figura 7 se presenta el ciclo diario promedio de las concentraciones de MP2,5, junto 
+con el rango que contiene el 90% de los datos, representado mediante un área sombreada. 
+La línea verde oscura corresponde al ciclo diario promedio, el cual se obtuvo a partir del 
+promedio de las concentraciones registradas para cada hora del día. De manera análoga, el 
+área sombreada se construyó utilizando los percentiles 5 y 95 de los datos horarios. 
+
+===== p.15 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 16 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+ 
+Figura 7. Ciclo diario de las concentraciones de MP2,5 observadas en la 
+estación Quilpué Gimnasio 
+En la Figura 7 se observa un ciclo diario bien definido en la concentración de MP2,5. En 
+promedio, la concentración alcanza su valor máximo a las 00:00 horas, con 17,71 µg/m³, y 
+posteriormente disminuye hasta un mínimo de 12,5 µg/m³ a las 04:00 horas. A partir de las 
+05:00 horas, los valores aumentan progresivamente hasta las 08:00 horas, alcanzando 
+aproximadamente 15,3 µg/m³. Luego, la concentración desciende hasta cerca de 10 µg/m³ 
+hacia las 12:00 horas, manteniéndose relativamente estable hasta las 18:00 horas. A partir 
+de ese momento, se observa un nuevo incremento que se prolonga hasta las 23:00 horas, 
+cerrando el ciclo diario. 
+Del análisis del 90% de los datos, se observa que el límite inferior (percentil 5) presenta 
+escasa variación durante el día, con valores entre 1 y 2 µg/m³. En contraste, el límite 
+superior (percentil 95) muestra una mayor variabilidad, con valores que oscilan entre 26 y 
+65 µg/m³. 
+En la Figura 8 se presenta el ciclo estacional de la concentración de MP2,5, en el eje 
+horizontal (eje X) se representan las horas del día, mientras que en el eje vertical (eje Y) se 
+disponen los meses del año. La escala cromática utilizada refleja la variación de la 
+
+===== p.16 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 17 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+concentración, lo que permite identificar de manera integrada los patrones estacionales y 
+diurnos. 
+ 
+Figura 8. Ciclo mensual de las concentraciones de MP2,5 observadas en la 
+estación Quilpué Gimnasio 
+En la Figura 8 se muestra un ciclo diario poco definido en los meses estivales, otoño y 
+primavera. Por otro lado, en invierno se observa un ciclo bien definido con las mayores 
+magnitudes ocurriendo entre las 20:00 y 23:00 horas, y las 00:00 y 03:00 horas, en 
+particular, el máximo valor ocurre en junio a las 00:00 horas con 55,2 µg/m³. 
+4.2.2 Concentración 24 horas 
+En la Figura 9 y Tabla 7, se presenta el percentil 98 (P98) de la concentración promedio 
+de 24 horas de MP2,5 para la estación Quilpué Gimnasio, en relación con el límite normativo 
+diario establecido en el D.S. N°12/2011 del Ministerio del Medio Ambiente, correspondiente 
+a 50 µg/m³. 
+
+===== p.17 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 18 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+ 
+Figura 9. Concentración promedio 24 horas de MP2,5, estación Quilpué 
+Gimnasio 
+Los resultados muestran que, para el año 2024, el valor de P98 alcanza los 52,5 µg/m³, 
+superando el límite normativo en un 5,0%, lo que indica una superación de la norma diaria 
+bajo este criterio. En contraste, durante el año 2025 el valor registrado es de 46,5 µg/m³, 
+equivalente al 93,9% del límite, por lo que no se configura superación normativa en dicho 
+año. 
+Tabla 7. Concentración y porcentaje de superación concentración promedio 
+diario de MP2,5, Quilpué Gimnasio 
+Año 
+Estación Quilpué Gimnasio 
+Concentración 
+promedio diario 
+(µg/m3) 
+Porcentaje de la norma 
+primaria (%) 
+Porcentaje de 
+excedencia de la norma 
+(%) 
+2023 
+- 
+ 
+- 
+2024 
+52,5 
+105,0 
+5,0 % 
+2025 
+46,5 
+93,9 
+No Supera 
+En este contexto, se evidencia una superación puntual de la norma diaria de MP2,5 en el 
+período analizado (año 2024), mientras que en 2025 las concentraciones se mantienen por 
+debajo del umbral normativo. 
+
+===== p.18 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 19 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+4.2.3 Concentración promedio anual 
+El D.S. N°12/2011 MMA establece un límite anual de 20,0 µg/m³ para MP2,5. En la Tabla 
+8 se presentan las concentraciones anuales medidas en la estación, la norma no es superada 
+en ninguno de los años analizados, siendo el año 2024 el que presenta la mayor 
+concentración, con 17,3 µg/m3. 
+Tabla 8. Concentración y porcentaje de superación concentración promedio 
+anual de MP2,5, Quilpué Gimnasio 
+Año 
+Estación Quilpué 
+Concentración 
+promedio anual 
+(µg/m3) 
+Porcentaje de la norma 
+primaria (%) 
+Porcentaje de 
+excedencia de la norma 
+(%) 
+2023 
+- 
+ 
+- 
+2024 
+17,3 
+86,5 
+No Supera 
+2025 
+14,8 
+74,0 
+No Supera 
+Con respecto al promedio trianual, este no pudo ser calculado debido a la falta de datos en 
+el año 2023. 
+4.2.4 Días de alerta, preemergencia y/o emergencia 
+En relación con los días de alerta, preemergencia y/o emergencia de los años analizados, 
+se aprecia que no hay días declarados en ninguno de los años analizados, tal como se 
+muestra en la Tabla 9.  
+Tabla 9. Registro de días declarados en alerta, preemergencia y emergencia 
+para MP2,5 en estación Quilpué Gimnasio 
+Año 
+Estación Quilpué Gimnasio 
+Días de alerta 
+Días de preemergencia 
+Días de emergencia 
+2023 
+- 
+- 
+- 
+2024 
+0 
+0 
+0 
+2025 
+0 
+0 
+0 
+ 
+ 
+
+===== p.19 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 20 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+5 Conclusiones 
+El Proyecto está ubicado en la comuna de Viña del Mar, que no se encuentra dentro de 
+ningún PPDA vigente ni está declarada como zona saturada ni latente por MP10 ni MP2,5 
+en sus métricas diarias y anuales.  
+Es importante señalar que durante febrero de 2024 se identificó un periodo con registros 
+atípicos de calidad del aire, asociado a los incendios ocurridos en la Región de Valparaíso, 
+particularmente en las comunas de Valparaíso, Viña del Mar, Quilpué y sectores aledaños. 
+Dicho episodio generó incrementos excepcionales en las concentraciones de MP10 y MP2,5, 
+los cuales no representan el comportamiento habitual de la calidad del aire en el área de 
+estudio para dicho mes. No obstante, se trató de un evento acotado en el tiempo y de 
+carácter extraordinario, por lo que su incidencia sobre resultados de la evaluación normativa 
+no modifica de manera significativa el análisis ni las conclusiones obtenidas. 
+Actualmente, las concentraciones medidas en la estación Quilpué Gimnasio no muestran 
+una superación de los límites normativos tanto para las métricas diarias como anuales de 
+MP10. Por otro lado, la concentración de MP2,5 como percentil 98 de los promedios diarios 
+presenta una superación del límite normativo durante el año 2024, mientras que en 2025 
+se mantiene por debajo del umbral establecido. En cuanto al promedio anual, los valores 
+registrados se sitúan por debajo del límite normativo en todos los años analizados. 
+El patrón temporal sugiere que las concentraciones están influenciadas por fuentes 
+residenciales. Esto se manifiesta en niveles más altos de ambos contaminantes durante la 
+temporada invernal, particularmente en las horas vespertinas y de madrugada, cuando 
+aumentan las emisiones residenciales y las condiciones atmosféricas suelen ser menos 
+favorables para la dispersión. 
+En conclusión, el análisis de las concentraciones de material particulado en la estación 
+Quilpué Gimnasio muestra que las concentraciones de MP10, como promedio diario y anual, 
+no superan el límite normativo, pero se encuentran próximas a una condición de latencia 
+(concentración mayor o igual al 80%). Por otro lado, la concentración de MP2,5 como 
+promedio anual muestra magnitudes por sobre el 80% de la norma, lo cual implica que hay 
+
+===== p.20 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 21 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+condición de latencia. Finalmente, MP2,5 como promedio diario muestra superación del 
+límite normativo el año 2024 y magnitudes sobre el 80% de la norma el 2025.  
+
+===== p.21 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+Línea de base calidad de aire 
+“Centro Metropolitano de Gestión Integral de Residuos” 
+Página 22 de 22 
+ 
+ 
+     
+Concepción 
+Chile 
+Santiago 
+Chile 
+Los Pensamientos 197, San Pedro 
+de la Paz 
+(56.41)2287848 
+www.dss.cl 
+Marchant Pereira 150 Oficina 803, 
+Providencia. 
+ (56.2)64653707 
+ 
+6 Bibliografía 
+● Servicio de Evaluación Ambiental, Chile. Guía para la Descripción de la Calidad del 
+Aire en el Área de Influencia de Proyectos que ingresan al SEIA Climatología 
+Regional. 2015.  
+● Servicio de Información Nacional de Calidad de Aire. Disponible a través de: 
+https://sinca.mma.gob.cl/  
+ 

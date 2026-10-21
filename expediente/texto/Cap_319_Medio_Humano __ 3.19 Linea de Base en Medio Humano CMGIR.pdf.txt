@@ -1,0 +1,4192 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estudio de Impacto Ambiental  
+“Centro Metropolitano de Gestión Integral de 
+Residuos” 
+ 
+ 
+Capítulo 3.19: Línea Base Medio Humano 
+  
+  
+  
+  
+COSEMAR SpA 
+Desarrollado por:  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+junio de 2026 
+ 
+www.renovaservice.cl
+
+===== p.1 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+2 
+ 
+ 
+TABLA DE CONTENIDOS 
+ 
+1. 
+INTRODUCCIÓN ...................................................................................................................... 5 
+2. 
+ANTECEDENTES DEL PROYECTO .................................................................................... 5 
+3. 
+OBJETIVOS .............................................................................................................................. 9 
+3.1. 
+Objetivo General ............................................................................................................. 9 
+3.2. 
+Objetivos Específicos ................................................................................................... 9 
+4. 
+METODOLOGÍA ....................................................................................................................... 9 
+4.1. 
+Levantamiento de información secundaria ........................................................... 10 
+4.2. 
+Levantamiento de información primaria ................................................................ 10 
+5. 
+FACTORES GENERADORES DE IMPACTO .................................................................. 13 
+5.1. 
+Fuentes potenciales de afectación .......................................................................... 15 
+5.1.1. 
+Emisiones atmosféricas ......................................................................................... 15 
+5.1.2. 
+Emisiones de ruido y vibraciones ........................................................................ 17 
+5.1.3. 
+Emisiones de olores ............................................................................................... 18 
+5.1.4. 
+Carga Vial del Proyecto ......................................................................................... 19 
+6. 
+DETERMINACIÓN DEL ÁREA DE INFLUENCIA ............................................................ 21 
+6.1. 
+Área de dispersión y estudio .................................................................................... 21 
+6.2. 
+Área de Influencia (AI) ................................................................................................. 24 
+7. 
+DESCRIPCIÓN DE ELEMENTOS DEL MEDIO AMBIENTE ......................................... 27 
+7.1. 
+Antecedentes comunales ........................................................................................... 27 
+7.1.1. 
+Viña del Mar ............................................................................................................ 27 
+7.1.2. 
+Quilpué ..................................................................................................................... 32 
+7.2. 
+Área de Influencia ........................................................................................................ 37 
+7.2.1. 
+Dimensión geográfica ............................................................................................ 37 
+7.2.2. 
+Dimensión demográfica ......................................................................................... 47 
+7.2.3. 
+Dimensión antropológica ....................................................................................... 54 
+7.2.4. 
+Dimensión socioeconómica .................................................................................. 62 
+7.2.5. 
+Dimensión Bienestar Social Básico ..................................................................... 64 
+8. 
+EVALUACIÓN DE IMPACTOS SOBRE LOS SISTEMAS DE VIDA Y COSTUMBRES 
+DE GRUPOS HUMANOS ............................................................................................................. 77 
+8.1. 
+Análisis Artículo N°7 del D.S. N°40/2012 del Ministerio del Medio Ambiente
+ 
+77 
+
+===== p.2 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+3 
+ 
+ 
+8.1.1. 
+La intervención, uso o restricción al acceso de los recursos naturales 
+utilizados como sustento económico del grupo o para cualquier otro uso tradicional, 
+tales como uso medicinal, espiritual o cultural................................................................... 77 
+8.1.2. 
+La obstrucción o restricción a la libre circulación, conectividad o el aumento 
+significativo de los tiempos de desplazamiento. ................................................................ 79 
+8.1.3. 
+La alteración al acceso o a la calidad de bienes, equipamientos, servicios o 
+infraestructura básica............................................................................................................. 81 
+8.1.4. 
+La dificultad o impedimento para el ejercicio o la manifestación de 
+tradiciones, cultura o intereses comunitarios, que puedan afectar los sentimientos de 
+arraigo o la cohesión social del grupo. ................................................................................ 83 
+8.2. 
+Resumen de Evaluación de Impactos..................................................................... 85 
+9. 
+BIBLIOGRAFÍA ...................................................................................................................... 87 
+ 
+ÍNDICE DE FIGURAS 
+Figura 1: Ubicación del Proyecto Centro Metropolitano de Gestión Integral de Residuos. .. 8 
+Figura 2: Entrevistados para Sistemas de Vida y Costumbres de Grupos Humanos. ........ 13 
+Figura 3: Área de influencia de Material Particulado y gases referente a medio humano. 16 
+Figura 4:Área de Influencia de Ruido y Vibraciones para Medio Humano. .......................... 17 
+Figura 5: Pluma de dispersión de odorantes e isodoras. ......................................................... 19 
+Figura 6: Esquema de ruta de ingreso del Proyecto en evaluación. ...................................... 21 
+Figura 7: Área de dispersión según emisiones de ruido, olores y atmosféricas para 
+Proyecto en evaluación ................................................................................................................. 22 
+Figura 8: Área de estudio para Proyecto en evaluación .......................................................... 23 
+Figura 9: Área de Influencia del Medio Humano para Proyecto en evaluación. .................. 25 
+Figura 10: Comunas colindantes de Viña del Mar y Quilpué. ................................................. 28 
+Figura 11: Usos de suelos en la comuna de Viña del Mar. ..................................................... 30 
+Figura 12: Usos de suelos en la comuna de Quilpué. .............................................................. 35 
+Figura 13: Población y densidad poblacional por sectores en Área de Influencia del 
+Proyecto en evaluación. ................................................................................................................ 40 
+Figura 14: Viviendas rurales en sector El Calichero ................................................................. 40 
+Figura 15: Viviendas informales en sector de Las Lomas, Quilpué ....................................... 42 
+Figura 16: Calle Atacama en sector de Pompeya Sur, colindante a Las Lomas ................. 43 
+Figura 17: Camino principal en sector Las Lomas .................................................................... 44 
+Figura 18: Camino principal de sector El Salto .......................................................................... 45 
+Figura 19: Camino principal de ingreso a sector El Calichero ................................................ 46 
+Figura 20: Distribución de la población en Área de Influencia por grupos etarios ............... 48 
+Figura 21: Agrupaciones y sitios de interés indígenas cercanos al Área de Influencia ...... 58 
+Figura 22: Entrada a Centro Ceremonial Mapuche, desde Camino El Olivar. ..................... 59 
+Figura 23: Punta de diamante sector Las Lomas - Espacio de reunión comunitaria .......... 60 
+Figura 24: Espacio de manifestación religiosa evangélica (izquierda: año 2024; derecha: 
+año 2026) ......................................................................................................................................... 61 
+
+===== p.3 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+4 
+ 
+ 
+Figura 25: Viviendas en sector de El Salto, cercano al estero Marga Marga. ...................... 63 
+Figura 26: Centro de Referencia Odontopediátrico Simón Bolívar. ....................................... 70 
+Figura 27: Establecimientos de salud en Viña del Mar y Quilpué respecto al Área de 
+Influencia .......................................................................................................................................... 71 
+Figura 28: Establecimientos educacionales en Viña del Mar y Quilpué respecto al Área de 
+Influencia .......................................................................................................................................... 73 
+Figura 29: Sede social Junta de Vecinos El Salto (arriba: entrada a sede social; abajo: 
+plaza de juegos aledaña). ............................................................................................................. 74 
+Figura 30: Centros recreativos y espacio comunitario en el Área de Influencia del Proyecto 
+en evaluación .................................................................................................................................. 76 
+ 
+ÍNDICE DE TABLAS 
+Tabla 1: Actores sociales entrevistados dentro del Área de Influencia ................................. 11 
+Tabla 2: Factores Generadores de Impacto (FGI) para variable de Medio Humano .......... 14 
+Tabla 3: Número de empresas y trabajadores dependientes informados según rubro 
+económico para el año 2023 en la comuna de Viña del Mar. ................................................. 31 
+Tabla 4: Número de empresas y trabajadores dependientes informados según rubro 
+económico para el año 2023 en la comuna de Quilpué. .......................................................... 36 
+Tabla 5: Porcentaje de ruralidad de la población. ..................................................................... 37 
+Tabla 6: Población y densidad poblacional del Área de Influencia. ....................................... 39 
+Tabla 7: Población por sexo en el Área de Influencia. ............................................................. 47 
+Tabla 8: Población por rango etario del Área de Influencia. .................................................... 48 
+Tabla 9: Categoría ocupacional de la población en el Área de Influencia. ........................... 49 
+Tabla 10: Rama de la actividad económica en el Área de Influencia del Proyecto en 
+evaluación........................................................................................................................................ 50 
+Tabla 11: Logro educacional más alto alcanzado en el Área de Influencia del Proyecto en 
+evaluación........................................................................................................................................ 52 
+Tabla 12: Población inmigrante internacional en el Área de Influencia. ................................ 53 
+Tabla 13: Población inmigrante internacional en comunas de Viña del Mar y Quilpué. ..... 53 
+Tabla 14: Población perteneciente a Pueblos Originarios en la comuna de Viña del Mar y 
+Quilpué. ............................................................................................................................................ 54 
+Tabla 15: Población perteneciente a Pueblos Originarios en la comuna de Viña del Mar y 
+Quilpué. ............................................................................................................................................ 54 
+Tabla 16: Población perteneciente a Pueblos Indígenas en el Área de Influencia. ............. 55 
+Tabla 17: Registro de GHPPI de Viña del Mar y Quilpué. ....................................................... 56 
+Tabla 18: Materialidad de las viviendas en el Área de Influencia del Proyecto. .................. 65 
+Tabla 19: Índice de materialidad de las viviendas en el Área de Influencia. ........................ 66 
+Tabla 20: Servicios básicos (agua y electricidad) de las viviendas en el Área de Influencia 
+del Proyecto. ................................................................................................................................... 67 
+Tabla 21: Servicios de acceso a internet de los hogares en el Área de Influencia del 
+Proyecto. .......................................................................................................................................... 68 
+Tabla 22: Resumen de evaluación de impactos en Área de Influencia del Proyecto en 
+evaluación........................................................................................................................................ 85 
+ 
+ 
+
+===== p.4 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+5 
+ 
+ 
+1. INTRODUCCIÓN 
+El siguiente informe busca presentar un detallado análisis de los Sistemas de Vida y 
+Costumbres de Grupos Humanos con la finalidad de evaluar los potenciales efectos del 
+Proyecto y determinar la existencia o ausencia de impactos significativos para la población, 
+según los criterios que impone el Servicio de Evaluación Ambiental [SEA] referidos en el 
+Decreto Supremo N°40, sobre el Reglamento del Sistema de Evaluación de Impacto 
+Ambiental [RSEIA]. En este sentido, se realizó una descripción de las dimensiones 
+geográfica, demográfica, antropológica, socioeconómica y de Bienestar Social Básico, 
+caracterizando detenidamente cada una para los grupos humanos que habitan, componen 
+y se desenvuelven en el territorio del Área de Influencia del Proyecto Centro 
+Metropolitano de Gestión Integral de Residuos. 
+Para el desarrollo de este estudio sobre los Sistemas de Vida y Costumbres de Grupos 
+Humanos, se utilizó una metodología enfocada en el levantamiento de dos tipos de 
+información: fuentes primarias y secundarias. La primera de ellas es realizada a partir de 
+un trabajo de terreno, junto con los principales actores del territorio, que den cuenta de sus 
+principales formas de relacionamiento con el espacio. Por su parte, el levantamiento de 
+información secundaria se realizó a partir de un extenso trabajo de gabinete, donde se 
+consultaron diferentes bases de datos, autores e instituciones. Finalmente, esta información 
+es sistematizada con el fin de determinar la inexistencia de una alteración significativa en 
+los Sistemas de Vida y Costumbres de Grupos Humanos a través de los cuatro literales 
+especificados en el artículo 7 del D.S. N°40. 
+2. ANTECEDENTES DEL PROYECTO 
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos”, consiste en la 
+construcción y operación de una instalación integral para el tratamiento de los residuos 
+sólidos mediante compostaje, reciclaje y disposición final de residuos sólidos domiciliarios 
+y asimilables, ubicado en el kilómetro 102,5 Km de la Ruta 60 - Troncal Sur que une las 
+comunas de Viña del Mar y Quilpué en la Región de Valparaíso, dentro de un predio de 206 
+ha. El proyecto cuenta con una Zona de Instalaciones Operacionales y Administrativas, 
+Zona de Compostaje, Zona de Reciclaje, Zona de Disposición de Residuos, Zona de 
+Tratamiento de Lixiviados y Zona de Tratamiento de Biogás. Durante la operación del 
+proyecto se espera recibir 30.741.988 toneladas de residuos sólidos durante 25 años de 
+vida útil estimada y prestará servicio principalmente a la población de las comunas de la 
+Región de Valparaíso, con una tasa inicial de 2.500 ton/día. 
+
+===== p.5 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+6 
+ 
+ 
+El objetivo del proyecto es proporcionar una solución de largo plazo para el tratamiento y  
+disposición final de los residuos sólidos domiciliarios y asimilables generados en la región, 
+que serán tratados por medio de la construcción, habilitación, operación y cierre de un 
+centro de gestión integral de residuos, para el tratamiento y disposición final de los residuos 
+de manera segura, reservando la salud pública, el medio ambiente y los recursos naturales 
+locales, evitando así los impactos ambientales y sanitarios producto de la actual situación 
+de disposición de residuos en sitios inadecuados que no cumplen con la normativa vigente 
+(D.S. Nº 189/2008). 
+De acuerdo con lo establecido en el D.S. N°40, que indica que proyectos son susceptibles 
+de causar impacto ambiental y deberán ser sometidos al Sistema de Evaluación de Impacto 
+Ambiental se tiene lo siguiente: 
+❖ El Proyecto “Centro Metropolitano de Gestión Integral de Residuos” se somete al 
+Sistema de Evaluación de Impacto Ambiental (SEIA) en virtud de sus características 
+que se relacionan con la siguiente tipología establecida en el Artículo N°3 del D.S. 
+N° 40/2012: 
+o) Proyectos de saneamiento ambiental, tales como sistemas de 
+alcantarillado y agua potable, plantas de tratamiento de aguas o de residuos 
+sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, 
+sistemas de tratamiento y disposición de residuos industriales líquidos o 
+sólidos;  
+Se entenderá por proyectos de saneamiento ambiental al conjunto de obras, 
+servicios, técnicas, dispositivos o piezas que correspondan a:  
+o.5. Sistemas o plantas de tratamiento y/o eliminación de residuos 
+sólidos de origen domiciliario, que cumplan al menos alguna de las 
+siguientes condiciones: 
+o.5.1. Sistemas o plantas de eliminación de residuos sólidos de origen 
+domiciliario, incluidos los rellenos sanitarios, con una tasa de ingreso igual 
+o mayor a treinta toneladas día (30 t/día). 
+o.5.2. Sistemas o plantas de tratamiento de residuos sólidos de origen 
+domiciliario, incluidas las plantas de compostaje y las de biodigestión, con 
+una tasa de ingreso igual o mayor a cincuenta toneladas día (50 t/día).  
+
+===== p.6 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+7 
+ 
+ 
+o.7 Sistemas de tratamiento y/o eliminación de residuos industriales 
+líquidos que cumplan al menos alguna de las siguientes condiciones: 
+o.7.1. Que sus efluentes sin tratar se usen para el riego, aspersión y 
+humectación de terrenos o caminos, o se utilicen para el mismo efecto 
+efluentes tratados, en cumplimiento de la respectiva norma de emisión, en 
+una cantidad igual o mayor a cincuenta metros cúbicos día (50 m³/día). 
+o.7.2. Traten un caudal de efluentes líquidos igual o superior a ciento 
+sesenta metros cúbicos día (160 m³/día). 
+
+===== p.7 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+8 
+ 
+ 
+ 
+Figura 1: Ubicación del Proyecto Centro Metropolitano de Gestión Integral de Residuos. 
+Fuente: Elaboración propia en base a Infraestructura de Datos Geoespaciales (IDE) y Biblioteca del Congreso 
+Nacional (BCN), 2026. 
+
+===== p.8 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+9 
+ 
+ 
+3. OBJETIVOS 
+3.1. Objetivo General 
+Desarrollar una Línea Base del Medio Humano, referente al Proyecto Centro Metropolitano 
+de Gestión Integral de Residuos y justificar la existencia o inexistencia de impactos 
+significativos en este.  
+3.2. Objetivos Específicos 
+- 
+Determinar y justificar el Área de Influencia que desencadena el Proyecto en 
+evaluación para el medio humano. 
+- 
+Identificar y describir los Factores Generadores de Impacto (FGI) que posee el 
+Proyecto en evaluación 
+- 
+Evaluar los elementos del medio ambiente referente a los grupos humanos del Área 
+de Influencia del Proyecto, en las cinco dimensiones determinadas por el Artículo 
+18 
+del 
+Reglamento 
+del 
+SEIA 
+(geográfico, 
+demográfico, 
+antropológico, 
+socioeconómico y Bienestar Social Básico). 
+- 
+Justificar la existencia o inexistencia de impactos significativos del Proyecto sobre 
+el Medio Humano, a través de los cuatro literales definidos por el artículo 7 del D.S. 
+N°40/2013 del Medio Ambiente. 
+4. METODOLOGÍA 
+Para generar la información relevante sobre el medio humano con respecto al Proyecto 
+Centro Metropolitano de Gestión Integral de Residuos, se realizó inicialmente un análisis 
+contextual general de las comunas de Viña del Mar y Quilpué. Este análisis da paso a un 
+estudio detallado del Sistema de Vida y Costumbres de Grupos Humanos dentro del Área 
+de Influencia. La principal finalidad es ahondar en aquellos sectores susceptibles a las 
+distintas partes, obras y acciones de desarrollo del Proyecto, donde se definió y descartó la 
+significancia de dichos efectos en la población. 
+La metodología utilizada consistió en un cruce de información que fue levantada por fuentes 
+secundarias y primarias de información con un enfoque metodológico cualitativo que replicó 
+y permitió comprender el Sistema de Vida y Costumbres de Grupos Humanos en el Área 
+de Influencia. 
+
+===== p.9 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+10 
+ 
+ 
+4.1. Levantamiento de información secundaria 
+Las fuentes secundarias corresponden al tipo de información, que no ha sido levantada 
+específicamente para este proyecto, pero que, de igual forma aportan al análisis del 
+Sistema de Vida y Costumbres de Grupos Humanos, como el estado del arte, bases de 
+datos, estudios públicos, entre otros. 
+Para efectos de este Proyecto, se utilizó información proveniente de los datos entregados 
+por el Censo de Población y Vivienda (2024), la Sistema de Información Integrada de la 
+Corporación Nacional de Desarrollo Indígena [CONADI], la Encuesta de Caracterización 
+Socioeconómica Nacional [CASEN] (2022), instrumentos de planificación territorial como lo 
+son los Planes Reguladores Comunales y los Planes de Desarrollo Comunal [PLADECO]. 
+También fueron utilizados distintas fuentes bibliográficas con las que se complementó la 
+información. 
+El enfoque metodológico que se utilizó para el procesamiento de los datos anteriores fue 
+uno de tipo cualitativo en el que se sistematizó y analizó la información, con el fin de facilitar 
+su cruce con la información entregada por las fuentes primarias de la zona, para lo cual se 
+emplearon tablas de frecuencia y mapas con la zonificación de datos. 
+4.2. Levantamiento de información primaria 
+Se entiende por fuentes primarias, a la información empírica proporcionada y levantada 
+para un estudio en particular, y que no ha sido previamente publicada, evaluada, ni filtrada, 
+enriqueciendo y facilitando la generación de datos específicos para el tipo de estudio que 
+se está realizando. Para este caso, la obtención de información primaria estuvo enfocada 
+en la evaluación de los Sistemas de Vida y Costumbres de Grupos Humanos del Área de 
+Influencia del Proyecto, utilizando una metodología de tipo cualitativa a través de un trabajo 
+en terreno de observación del espacio y sus dinámicas, junto con la realización de 
+entrevistas semiestructuradas a personas naturales y actores claves dentro del territorio en 
+cuestión, y que podrían ser receptores de los efectos producidos por el desarrollo del 
+proyecto. 
+Según Tonon (2009), la entrevista semiestructurada funciona como una herramienta para 
+definir las subjetividades de un grupo o individuo respecto a un tema de estudio. Su valor 
+reside en la capacidad de adaptación para las distintas personalidades de la o el 
+entrevistado, priorizando su sentir, experiencias y su forma de relación con el espacio, 
+evitando una estructura rígida, sin cambios, que no permitan un intercambio fluido entre los 
+
+===== p.10 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+11 
+ 
+ 
+sujetos (entrevistador y entrevistado). En este sentido, las entrevistas semi-estructuradas 
+se llevaron a cabo a partir de un muestreo no probabilístico de la población de tipo 
+intencional, donde se buscó englobar la mayor parte del territorio mediante una distribución 
+pareja de las y los entrevistados, con el fin de obtener una idea referencial de la conducta 
+y estilos de vida tanto de los individuos, como de los grupos humanos a los que pertenecen. 
+El tamaño de la muestra estuvo definido por el punto de saturación en la información que 
+entregaron las y los entrevistados, entendiendo este como el momento en que las 
+entrevistas no generaron nuevos datos o información de estudio (Díaz et al., 2013).  
+Las entrevistas estuvieron orientadas a la descripción de los Sistemas de Vida y 
+Costumbres de la población adyacente al Proyecto en las cinco dimensiones mencionadas 
+por el Reglamento del SEIA en el artículo 18 literal e.10, por lo que los ejes centrales de 
+esta herramienta fueron: 
+⮚ Estilos de vida y relacionamiento con el espacio. 
+⮚ Desplazamientos en el territorio. 
+⮚ Eventos, costumbres y/o tradiciones identitarias de la comunidad. 
+⮚ Patrimonio, identidad y símbolos de población perteneciente a algún pueblo 
+indígena. 
+En el trabajo de terreno dentro de los sectores de El Salto y Las Lomas, se realizaron un 
+total de 8 entrevistas semiestructuradas a los actores sociales con mayor influencia dentro 
+del territorio. Se registró la participación de 10 personas en total, quienes se detallan en la 
+Tabla 1 a continuación. 
+Tabla 1: Actores sociales entrevistados dentro del Área de Influencia 
+Entrevista 
+Actor social 
+Tipo de actor 
+Cargo 
+Localidad 
+E1 
+Comité de 
+Vivienda El 
+Renacer de La 
+Pradera 
+Organización 
+social 
+Presidenta 
+Pompeya Sur – Las 
+Lomas 
+E2 
+Almacén El 
+Corralero 
+Centro de 
+comercio 
+Dueña 
+Las Lomas 
+E3 
+Empresa de 
+Transporte de 
+Áridos 
+Centro de 
+comercio 
+Jefe 
+El Salto 
+E4 
+Vecinos 
+Vecinos 
+Vecinos 
+El Salto 
+E5 
+Vecinos 
+Vecinos 
+Vecinos 
+El Salto 
+
+===== p.11 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+12 
+ 
+ 
+Entrevista 
+Actor social 
+Tipo de actor 
+Cargo 
+Localidad 
+E6 
+Vecina 
+Vecina 
+Vecina 
+Las Lomas 
+E7 
+Almacén El 
+Trébol 
+Centro de 
+comercio 
+Dueña 
+Las Lomas 
+E8 
+Comité de 
+Vivienda Valle 
+del Sol 
+Organización 
+social 
+Presidente 
+Las Lomas 
+Fuente: Elaboración propia, 2025. 
+El Área de Influencia del Proyecto se define mediante la integración de las plumas de 
+dispersión obtenidas de los estudios de emisiones considerados en la evaluación 
+(atmosféricas, ruido y vibraciones, y olores), junto con las manzanas y entidades censales 
+que contienen a las comunidades y receptores más próximos al Proyecto. Estas últimas 
+corresponden a las unidades geográficas de menor escala para las cuales existe 
+información disponible y actualizada, lo que permite desarrollar un análisis con un alto nivel 
+de detalle y precisión espacial. Es relevante destacar que, según se representa en la Figura 
+2, el Área de Influencia incluye principalmente comunidades situadas al norte del proyecto, 
+en las cercanías de la Ruta Internacional (60-Ch). Por esta razón, las entrevistas realizadas 
+para este estudio se concentraron en esa misma zona, conforme a lo ilustrado en la Figura 
+2. 
+En relación con la comunidad de El Calichero, si bien se logró un primer acercamiento, no 
+fue posible concretar las entrevistas debido a la inseguridad manifestada por los posibles 
+participantes y la falta de consentimiento para el uso de sus testimonios, por razones 
+particulares de los residentes. En este contexto, la información sobre este sector será 
+complementada a partir de fuentes secundarias. 
+Como menciona la Guía Área de Influencia de los Sistemas de Vida y Costumbres de 
+Grupos Humanos (2020), es fundamental resguardar la dignidad y privacidad de las 
+personas que participan en el levantamiento de información mediante entrevistas 
+semiestructuradas. En este contexto, en el Apéndice A se incorpora la carta de 
+consentimiento utilizada con cada uno de los participantes del estudio. Cabe señalar que, 
+durante el desarrollo de la presente evaluación, el Proyecto experimentó una modificación 
+de su nombre. Por esta razón, los consentimientos contenidos en dicho apéndice utilizan 
+una denominación diferente al momento de realizar el trabajo de terreno. No obstante, es 
+importante señalar que este cambio corresponde únicamente a una actualización del 
+nombre del Proyecto. Sus características, el área de estudio y la metodología utilizada para 
+el levantamiento y análisis de la información se mantienen sin modificaciones. 
+
+===== p.12 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+13 
+ 
+ 
+ 
+Figura 2: Entrevistados para Sistemas de Vida y Costumbres de Grupos Humanos. 
+Fuente: Elaboración propia en base a información entregada por Censo 2024 (Instituto Nacional de 
+Estadísticas [INE]) y BCN, 2026. 
+5. FACTORES GENERADORES DE IMPACTO 
+En esta sección se identificaron los Factores Generadores de Impacto (FGI) asociados a 
+las fases de construcción, operación y cierre del Proyecto “Centro Metropolitano de Gestión 
+Integral de Residuos”, conforme a las partes, obras, acciones, emisiones, efluentes, 
+residuos, uso o intervención de recursos naturales y formas de operación descritas en el 
+Capítulo de Descripción del Proyecto (Tabla 2). 
+La identificación se presenta mediante tablas diferenciadas por fase, indicando para cada 
+FGI su código, descripción sintética de la actividad y componentes ambientales 
+potencialmente relacionados. Esta información constituye la base para la posterior 
+identificación de impactos ambientales, su codificación, valoración y jerarquización, 
+permitiendo mantener trazabilidad entre las acciones del Proyecto, los componentes 
+ambientales evaluados y los impactos derivados de dichas interacciones. 
+
+===== p.13 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+14 
+ 
+ 
+Tabla 2: Factores Generadores de Impacto (FGI) para variable de Medio Humano 
+Código 
+FGI 
+FGI / Actividad 
+Fuente potencial de 
+afectación  
+Relación con el Objeto de 
+Protección  
+ 
+Fase de Construcción 
+FGI-C-01 
+Obras temporales 
+e instalación de 
+faenas 
+Emisiones 
+atmosféricas; de ruido 
+y vibraciones; e 
+impacto vial  
+Las 
+actividades 
+de 
+construcción 
+podrían 
+generar 
+alteraciones 
+temporales 
+en 
+las 
+condiciones de circulación y 
+conectividad de los grupos 
+humanos 
+del 
+área 
+de 
+influencia, debido al tránsito 
+de vehículos, maquinaria y 
+personal 
+asociado 
+al 
+Proyecto. Asimismo, podrían 
+afectar 
+temporalmente 
+el 
+acceso y uso de bienes, 
+equipamientos, servicios e 
+infraestructura 
+básica 
+utilizados por la población.  
+FGI-C-02 
+Camino de acceso 
+principal y 
+conexión Ruta 60 - 
+Troncal Sur 
+FGI-C-03 
+Caminos 
+operacionales 
+internos 
+FGI-C-05 
+Instalaciones 
+operacionales y 
+administrativas 
+FGI-C-09 
+Planta de reciclaje 
+FGI-C-10 
+Planta de 
+compostaje 
+FGI-C-11 
+Planta de 
+tratamiento de 
+biogás 
+FGI-C-12 
+Transporte, 
+maquinaria y 
+acopio de 
+materiales 
+ 
+Fase de Operación 
+FGI-O-01 
+Ingreso, control y 
+pesaje de residuos 
+Emisiones 
+atmosféricas; de ruido 
+y vibraciones; e 
+impacto vial  
+Las 
+actividades 
+de 
+operación podrían generar 
+alteraciones temporales en 
+las 
+condiciones 
+de 
+circulación y conectividad de 
+los grupos humanos del área 
+de 
+influencia, 
+debido 
+al 
+tránsito 
+de 
+vehículos, 
+maquinaria 
+y 
+personal 
+asociado 
+al 
+Proyecto. 
+Asimismo, podrían afectar 
+temporalmente el acceso y 
+uso 
+de 
+bienes, 
+equipamientos, servicios e 
+infraestructura 
+básica 
+utilizados por la población.  
+FGI-O-02 
+Tránsito interno y 
+operación de 
+maquinaria 
+FGI-O-08 
+Planta de reciclaje 
+Emisiones 
+atmosféricas; de ruido 
+y vibraciones; de 
+olores; e impacto vial  
+FGI-O-09 
+Planta de 
+compostaje 
+FGI-O-11 
+Mantención de 
+maquinaria, 
+equipos e 
+instalaciones 
+Emisiones 
+atmosféricas; de ruido 
+y vibraciones; e 
+impacto vial  
+FGI-O-12 
+Medidas de control 
+operacional 
+ambiental 
+ 
+Fase de Cierre 
+
+===== p.14 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+15 
+ 
+ 
+Código 
+FGI 
+FGI / Actividad 
+Fuente potencial de 
+afectación  
+Relación con el Objeto de 
+Protección  
+FGI-CI-02 
+Desmantelamiento 
+de infraestructura 
+no permanente o 
+no requerida 
+Emisiones 
+atmosféricas; de ruido 
+y vibraciones; e 
+impacto vial  
+Las actividades de cierre 
+podrían generar alteraciones 
+temporales 
+en 
+las 
+condiciones de circulación y 
+conectividad de los grupos 
+humanos 
+del 
+área 
+de 
+influencia, debido al tránsito 
+de vehículos, maquinaria y 
+personal 
+asociado 
+al 
+Proyecto. Asimismo, podrían 
+afectar 
+temporalmente 
+el 
+acceso y uso de bienes, 
+equipamientos, servicios e 
+infraestructura 
+básica 
+utilizados por la población.  
+FGI-CI-03 
+Mantención de 
+caminos, accesos 
+y control del 
+recinto 
+Fuente: Estudio de Impacto Ambiental [EIA] Centro Metropolitano de Gestión Integral de Residuos. 
+5.1. Fuentes potenciales de afectación 
+La identificación de las fuentes potenciales de afectación se realizó considerando, para 
+cada FGI, las actividades y componentes del Proyecto con capacidad de generar 
+alteraciones sobre los objetos de protección evaluados. Para cada una de las potenciales 
+afectaciones, el Estudio de Impacto Ambiental asociado al Proyecto en evaluación presentó 
+estudios detallados, donde se adoptó un criterio conservador, considerando el peor 
+escenario de afectación del Proyecto durante la totalidad de su ciclo de vida, incluyendo las 
+fases de construcción, operación y cierre. 
+5.1.1. Emisiones atmosféricas 
+De acuerdo con los resultados obtenidos en el Anexo 4.3: Modelación de Emisiones 
+Atmosféricas Estudio de Impacto Ambiental “Centro Metropolitano de Gestión Integral de 
+Residuos”, el escenario más desfavorable del Proyecto en términos de emisiones 
+atmosféricas corresponde al año 27 de funcionamiento (fase de operación), el cual 
+representa el último año de funcionamiento del Centro y, por tanto, la condición de máxima 
+generación de emisiones considerada en la evaluación. 
+Dentro del área de influencia definida por el estudio (Figura 3) se identificaron y evaluaron 
+los receptores humanos potencialmente expuestos, correspondientes a las viviendas y 
+demás receptores sensibles más próximos al Proyecto. La evaluación consideró las 
+concentraciones proyectadas de material particulado respirable MP10, material particulado 
+
+===== p.15 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+16 
+ 
+ 
+fino MP2,5, dióxido de azufre (SO₂), monóxido de carbono (CO) y dióxido de nitrógeno 
+(NO₂), comparándolas con las respectivas normas de calidad del aire vigentes. 
+En particular, las concentraciones de MP10 fueron evaluadas conforme a los límites 
+establecidos en el Decreto Supremo N°12/2022 del Ministerio del Medio Ambiente, mientras 
+que las concentraciones de MP2,5 fueron comparadas con los valores establecidos en el 
+Decreto Supremo N°12/2011 del Ministerio del Medio Ambiente. Por su parte, las 
+concentraciones de NO₂, SO₂ y CO fueron evaluadas conforme a los criterios establecidos 
+en los Decretos Supremos N°40/2023, N°104/2019 y N°115/2002, respectivamente. 
+ 
+Figura 3: Área de influencia de Material Particulado y gases referente a medio humano. 
+Fuente: Anexo 4.3: Modelación de Emisiones Atmosféricas Estudio de Impacto Ambiental “Centro 
+Metropolitano de Gestión Integral de Residuos” 
+Los resultados del estudio concluyen que las concentraciones proyectadas para todos los 
+contaminantes evaluados cumplen con los límites establecidos en la normativa vigente en 
+la totalidad de los receptores humanos considerados. En consecuencia, se descarta la 
+generación de afectaciones asociadas a emisiones atmosféricas sobre los grupos humanos 
+presentes dentro del área de influencia definida para este componente. 
+
+===== p.16 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+17 
+ 
+ 
+5.1.2. Emisiones de ruido y vibraciones 
+Según el Estudio de Ruido y Vibraciones EIA Centro Metropolitano de Gestión Integral de 
+Residuos, el escenario más desfavorable del Proyecto corresponde a la fase de 
+construcción, particularmente durante las actividades de instalación de faenas y 
+construcción de accesos y caminos internos, debido a la utilización simultánea de 
+maquinaria, equipos y vehículos requeridos para la ejecución de las obras. 
+ 
+Figura 4:Área de Influencia de Ruido y Vibraciones para Medio Humano. 
+Fuente: Anexo 4.5: Estudio de Ruido y Vibraciones EIA Centro Metropolitano de Gestión Integral de Residuos. 
+Dentro del área de influencia definida por el estudio (Figura 4) se identificaron y evaluaron 
+los receptores humanos potencialmente expuestos, correspondientes a las viviendas y 
+demás receptores sensibles más próximos al Proyecto. La evaluación consideró los niveles 
+de ruido proyectados para las distintas etapas de desarrollo del Proyecto y su comparación 
+con los límites establecidos en el Decreto Supremo N°38/2011 del Ministerio del Medio 
+Ambiente, que establece la Norma de Emisión de Ruidos Generados por Fuentes que 
+Indica. 
+
+===== p.17 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+18 
+ 
+ 
+Los resultados del estudio concluyen que ninguno de los receptores evaluados presenta 
+niveles de ruido que superen los límites máximos permisibles establecidos por la normativa 
+vigente. En consecuencia, se descarta la generación de afectaciones asociadas a ruido 
+sobre los receptores humanos evaluados dentro del área de influencia definida para este 
+componente. 
+5.1.3. Emisiones de olores 
+De acuerdo con los resultados obtenidos por el Anexo 4.4: Modelación de Odorantes 
+Estudio de Impacto Ambiental “Centro Metropolitana de Gestión Integral de Residuos, el 
+escenario más desfavorable del Proyecto en términos de emisiones odorantes corresponde 
+a la fase de operación, período en el cual se desarrollan las actividades con mayor potencial 
+de generación de olores. La modelación de dispersión efectuada para este escenario 
+muestra que la pluma de dispersión presenta una dirección predominante hacia el sector 
+sur del Proyecto, correspondiente a la zona alta del cordón montañoso donde este se 
+emplaza (Figura 5). 
+En este contexto, se observa que la dispersión de olores se concentra principalmente en 
+áreas sin presencia de receptores humanos, mientras que hacia el sector norte del 
+Proyecto, donde se localizan las viviendas y demás receptores humanos identificados en el 
+área de influencia, la pluma de dispersión no alcanza a extenderse. En consecuencia, los 
+receptores humanos evaluados no se encuentran expuestos a concentraciones de olor 
+asociadas a la operación del Proyecto. 
+Dado que en Chile no existe actualmente una norma de calidad ambiental o de emisión de 
+carácter general que establezca límites para la evaluación de impactos por olores sobre 
+receptores humanos, el estudio adoptó como referencia la normativa de la Región de 
+Lombardía (Italia), en particular la Deliberación de la Junta Regional D.G.R. N.° IX/3018, de 
+15 de febrero de 2012, la cual establece criterios para la evaluación de potenciales 
+molestias odorantes sobre la población. 
+
+===== p.18 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+19 
+ 
+ 
+ 
+Figura 5: Pluma de dispersión de odorantes e isodoras. 
+Fuente: Anexo 4.4: Modelación de Odorantes Estudio de Impacto Ambiental “Centro Metropolitana de 
+Gestión Integral de Residuos” 
+Los resultados obtenidos indican que los receptores humanos considerados en la 
+evaluación no presentan exposición a concentraciones de olor que permitan prever 
+afectaciones asociadas a este componente. En consecuencia, se descarta la generación 
+de afectaciones sobre los grupos humanos presentes dentro del área de influencia definida 
+para las emisiones de olores. 
+5.1.4. Carga Vial del Proyecto 
+Dentro del Estudio de Impacto Vial (EIV), presentado en este mismo Estudio de Impacto 
+Ambiental (EIA), se consideró las fases de construcción y operación del Proyecto, dado que 
+corresponden a los períodos en que se genera la mayor interacción entre los flujos 
+vehiculares asociados al Proyecto y la infraestructura vial existente. Por su parte, la fase de 
+cierre no fue incorporada en la modelación, ya que se proyecta para un horizonte superior 
+a 20 años, por lo que una evaluación basada en las condiciones actuales de tránsito y en 
+las proyecciones disponibles no resultaría representativa de las condiciones que existirán 
+al momento de su ejecución. 
+
+===== p.19 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+20 
+ 
+ 
+Para la determinación del escenario más desfavorable se consideró una condición 
+conservadora, incorporando la totalidad de los viajes inducidos por el Proyecto durante la 
+hora punta tarde (18:00 a 19:00 hrs.), correspondiente al período de mayor demanda 
+vehicular registrado en el área de estudio. Asimismo, la evaluación se desarrolló bajo el 
+supuesto de simultaneidad de los flujos generados por el Proyecto, permitiendo analizar 
+una situación de máxima exigencia para la infraestructura vial evaluada. 
+El área de influencia vial se encuentra asociada principalmente a la Ruta 60, 
+específicamente en el sentido de circulación poniente-oriente (ver Figura 6), tramo que 
+recibe directamente la demanda vehicular generada por el Proyecto y donde se concentra 
+la totalidad de los flujos evaluados. Sobre este segmento se analizaron indicadores 
+operacionales tales como flujo vehicular, capacidad, grado de saturación, demoras, longitud 
+de cola y nivel de servicio, considerando el punto de control más representativo y con mayor 
+potencial de recibir los efectos del tránsito inducido por el Proyecto. 
+Los resultados de la modelación indican que la incorporación de los flujos asociados al 
+Proyecto no genera alteraciones significativas en las condiciones de operación de la 
+infraestructura vial evaluada. En la fase de construcción, el grado de saturación proyectado 
+para el movimiento principal alcanza un 37,9%, mientras que en la fase de operación 
+alcanza un 40,2%, valores que se mantienen muy por debajo del umbral de saturación de 
+la infraestructura. Asimismo, el nivel de servicio del movimiento principal se mantiene en 
+categoría LOS A tanto en la situación base como en la situación con Proyecto, evidenciando 
+condiciones de circulación fluida, ausencia de congestión y sin incrementos significativos 
+en los tiempos de desplazamiento. 
+En consecuencia, los resultados del estudio permiten descartar la generación de 
+afectaciones sobre los grupos humanos asociadas a la obstrucción o restricción de la libre 
+circulación, la conectividad o el aumento significativo de los tiempos de desplazamiento 
+dentro del área de influencia definida para este componente. 
+ 
+
+===== p.20 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+21 
+ 
+ 
+ 
+Figura 6: Esquema de ruta de ingreso del Proyecto en evaluación. 
+Fuente: Estudio de Impacto Vial “Centro Metropolitano de Gestión Integral de Residuos”. 
+6. DETERMINACIÓN DEL ÁREA DE INFLUENCIA 
+6.1. Área de dispersión y estudio 
+De acuerdo con los lineamientos establecidos en la Guía Áreas de Influencia en el SEIA, 
+segunda edición (SEA, 2026), la delimitación del área de influencia requiere identificar, en 
+una primera etapa, el espacio geográfico donde podrían manifestarse los cambios 
+generados por el Proyecto, para posteriormente analizar la presencia de objetos de 
+protección y determinar la existencia o no de potenciales afectaciones sobre estos. 
+En este contexto, para la variable Medio Humano se definió inicialmente un área de 
+dispersión, generado a partir de las plumas de dispersión obtenidas en los estudios de 
+emisiones atmosféricas, ruido y vibraciones, y olores desarrollados para el Proyecto. Para 
+cada uno de estos componentes se consideró el escenario más desfavorable durante la 
+vida útil del Proyecto, correspondiendo a la fase de operación para las emisiones 
+atmosféricas y de olores, y a la fase de construcción para las emisiones de ruido y 
+vibraciones. 
+No obstante, es importante señalar que el área de dispersión no representa por sí misma 
+un indicador directo del área de influencia para Medio Humano. En este sentido, las plumas 
+
+===== p.21 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+22 
+ 
+ 
+de dispersión representan la totalidad del alcance espacial de los fenómenos modelados, 
+incluyendo sectores donde las concentraciones o niveles proyectados pueden encontrarse 
+significativamente por debajo de los límites normativos aplicables y, por tanto, sin capacidad 
+de generar afectaciones sobre la población. Cabe destacar, que los resultados de los tres 
+estudios especializados indican que ninguno de los receptores humanos evaluados supera 
+los criterios normativos utilizados como referencia. 
+En la Figura 7 se presenta el área de dispersión, el cual se utilizó como un insumo 
+metodológico inicial para la delimitación del área de influencia, permitiendo identificar los 
+sectores donde potencialmente podrían manifestarse cambios derivados de las emisiones 
+evaluadas. 
+ 
+Figura 7: Área de dispersión según emisiones de ruido, olores y atmosféricas para Proyecto en 
+evaluación 
+Fuente: Elaboración propia en base a IDE, 2026. 
+A partir del análisis del área de dispersión y considerando la ubicación de los receptores 
+humanos evaluados en los estudios de emisiones, se definió un área de estudio orientada 
+al levantamiento de información de terreno y a la caracterización de los grupos humanos 
+potencialmente relacionados con el Proyecto. Esta área incorpora las viviendas, 
+
+===== p.22 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+23 
+ 
+ 
+asentamientos y demás receptores localizados en el entorno más próximo al Proyecto, 
+manteniendo coherencia con los receptores considerados en los estudios especializados. 
+Para efectos de la caracterización territorial y sociodemográfica, se utilizó la unidad 
+geográfica de menor escala disponible proveniente del Censo de Población y Vivienda 
+2024, correspondiente a las manzanas censales en áreas urbanas y entidades censales en 
+áreas rurales (ver Figura 8), información que es publicada por el Instituto Nacional de 
+Estadísticas (INE). La utilización de estas unidades permite desarrollar un análisis con un 
+alto nivel de detalle espacial, favoreciendo una adecuada representación de la población 
+potencialmente relacionada con el Proyecto. 
+ 
+Figura 8: Área de estudio para Proyecto en evaluación 
+Fuente: Elaboración propia en base a IDE, 2026. 
+Finalmente, la integración de la información obtenida mediante los estudios de emisiones, 
+junto la delimitación del área de estudio a partir de la información censal disponible y el 
+levantamiento de información en terreno permitió definir el área de influencia para la 
+variable Medio Humano, la cual se presenta y justifica a continuación. 
+
+===== p.23 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+24 
+ 
+ 
+6.2. Área de Influencia (AI) 
+Para efectos de la presente evaluación, la determinación del área de influencia del medio 
+humano se desarrolló de acuerdo con los lineamientos establecidos en la Guía de Área de 
+Influencia de los Sistemas de Vida y Costumbres de Grupos Humanos en el SEIA (SEA, 
+2020) y en la Guía Áreas de Influencia, segunda edición (SEA, 2026). Asimismo, se 
+consideró la definición establecida en el artículo 2 del Reglamento del Sistema de 
+Evaluación de Impacto Ambiental (RSEIA), que define el área de influencia como el "área 
+o espacio geográfico, cuyos atributos, elementos naturales o socioculturales deben ser 
+considerados con la finalidad de definir si el proyecto o actividad genera o presenta alguno 
+de los efectos, características o circunstancias del artículo 11 de la Ley, o bien para justificar 
+la inexistencia de dichos efectos, características o circunstancias".  
+En concordancia con dichas directrices, la delimitación del área de influencia se inició 
+mediante la identificación del área de dispersión asociada a las potenciales fuentes de 
+afectación del Proyecto, la cual corresponde a la sumatoria de las plumas de dispersión de 
+los estudios de emisiones atmosféricas, ruido y vibraciones, y olores. No obstante, de 
+acuerdo con la metodología propuesta por el SEA (2026), el área de dispersión no 
+constituye por sí misma un área de influencia, sino que corresponde a un insumo inicial 
+para identificar los sectores donde podrían manifestarse cambios atribuibles al Proyecto. 
+En este sentido, las plumas de dispersión consideran la totalidad del alcance espacial de 
+las emisiones evaluadas, incluyendo sectores donde las concentraciones o niveles 
+proyectados se encuentran bajo los límites normativos o criterios de evaluación aplicables 
+y, por tanto, sin capacidad de generar afectaciones sobre la población.  
+A partir de dicha área de dispersión se definió un área de estudio, delimitada mediante las 
+unidades geográficas de menor escala disponibles para el análisis territorial, 
+correspondientes a las manzanas censales en áreas urbanas y entidades censales en 
+áreas rurales del Censo de Población y Vivienda 2024. La utilización de estas unidades 
+permite representar de manera precisa la distribución espacial de la población 
+potencialmente expuesta a las fuentes de afectación evaluadas, facilitando la 
+caracterización de los grupos humanos y la identificación de los receptores que podrían 
+experimentar alteraciones derivadas del funcionamiento del Proyecto. 
+La integración de los resultados de los estudios especializados, la distribución de los 
+receptores humanos identificados y la información obtenida durante el levantamiento de 
+
+===== p.24 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+25 
+ 
+ 
+terreno permitió delimitar el área de influencia del medio humano. En particular, se 
+consideraron los sectores poblados más consolidados ubicados a menos de 2.000 metros 
+de distancia de las líneas perimetrales del Proyecto, definidos mediante las manzanas y 
+entidades censales que conforman dichos asentamientos. 
+Como se observa en la Figura 9, la población considerada dentro del área de influencia se 
+localiza exclusivamente hacia el norte del Proyecto, principalmente en torno a la Ruta 
+Internacional 60-CH, eje estructurante que articula la conectividad entre las comunas de 
+Viña del Mar y Quilpué. En contraste, hacia el sur del Proyecto no se identifican 
+comunidades ni asentamientos humanos permanentes, correspondiendo principalmente a 
+sectores de laderas y áreas con escasa o nula ocupación residencial.  
+ 
+ 
+Figura 9: Área de Influencia del Medio Humano para Proyecto en evaluación. 
+Fuente: Elaboración propia en base a BCN e INE, 2026. 
+El área de influencia comprende cuatro sectores: El Salto (Urbano) y El Salto (Rural), en la 
+comuna de Viña del Mar, y los sectores de Las Lomas y El Calichero, en la comuna de 
+Quilpué. Esta diferenciación responde a la clasificación territorial establecida por el Censo 
+
+===== p.25 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+26 
+ 
+ 
+de Población y Vivienda 2024, según la cual el sector de El Salto presenta tanto áreas 
+urbanas como rurales, razón por la cual ambas zonas son analizadas de manera 
+independiente. Por su parte, en la comuna de Quilpué, el sector de Las Lomas corresponde 
+a un área urbana representada mediante manzanas censales, mientras que El Calichero se 
+clasifica como un área rural representada mediante una entidad censal.  
+En términos territoriales, los sectores del área de influencia configuran un espacio de 
+transición entre ámbitos urbanos y rurales. Esta condición se relaciona con la localización 
+periférica de los asentamientos respecto de los centros urbanos de Viña del Mar y Quilpué, 
+ciudades que han experimentado procesos de expansión hacia sectores históricamente 
+rurales. Como consecuencia, se observan dinámicas sociales estrechamente vinculadas a 
+los centros poblados cercanos, reflejadas en patrones de movilidad cotidiana, acceso a 
+servicios, educación, salud y empleo propios de contextos urbanos. 
+Al mismo tiempo, persisten elementos característicos de la ruralidad, especialmente en los 
+sectores de El Salto Rural y El Calichero, donde aún es posible observar actividades 
+asociadas a la crianza y cuidado de ganado en pequeña escala y remanentes de 
+actividades extractivas desarrolladas históricamente en el territorio. En el caso particular de 
+El Calichero, estas características rurales coexisten con procesos de transformación 
+territorial asociados a la expansión urbana proveniente de Quilpué, evidenciando una 
+creciente interacción entre ambos modos de ocupación del espacio. 
+Asimismo, cabe destacar que varios de estos asentamientos presentan viviendas 
+predominantemente informales o con distintos niveles de regularización, situación que 
+refuerza su dependencia funcional respecto de los centros urbanos cercanos, al tiempo que 
+mantiene ciertas prácticas y formas de ocupación del territorio asociadas al entorno rural 
+en que se emplazan. 
+Considerando los antecedentes expuestos, se define como área de influencia del medio 
+humano el conjunto de manzanas y entidades censales que conforman los sectores de El 
+Salto (Urbano), El Salto (Rural), Las Lomas y El Calichero, correspondientes a los grupos 
+humanos que, por su proximidad al Proyecto y relación territorial con las potenciales fuentes 
+de afectación evaluadas, podrían experimentar alteraciones derivadas de su construcción, 
+operación o cierre, o bien respecto de los cuales es posible justificar fundadamente la 
+inexistencia de tales afectaciones. 
+
+===== p.26 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+27 
+ 
+ 
+7. DESCRIPCIÓN DE ELEMENTOS DEL MEDIO AMBIENTE 
+7.1. Antecedentes comunales 
+7.1.1.  Viña del Mar 
+7.1.1.1. 
+Antecedentes territoriales 
+La comuna de Viña del Mar, con una superficie de 121,6 km2 (Biblioteca del Congreso 
+Nacional de Chile [BCN], 2025), corresponde a una de las principales ciudades costeras 
+dedicadas al turismo en el centro de Chile. Está ubicada en la provincia y Región de 
+Valparaíso, formando parte de la principal conurbación de la región junto con el centro 
+urbano de Valparaíso. 
+Inicialmente, la ciudad de Viña del Mar se desarrollaba como una ciudad residencial 
+fuertemente dependiente de Valparaíso, sin embargo, durante los años 60 la centralidad 
+del Puerto comienza a desplazarse hacia el plan de la Ciudad Jardín, de la mano de un 
+proceso de metropolización ligado al “Gran Valparaíso”. Desde los años 80 hasta la 
+actualidad, la comuna de Viña del Mar se consolida como centro metropolitano, debiendo 
+hacerse cargo de un área territorial y poblacional que excede los límites comunales. Como 
+consecuencia se observa una gran presión por la localización de equipamientos y servicios, 
+sobre todo en el centro de la ciudad; aumento de edificaciones en altura y aumento 
+considerable de los flujos viales, ya sean propios de la comuna, como de las comunas 
+vecinas que atraviesan Viña del Mar (Ilustre Municipalidad de Viña del Mar, 2016). 
+El rol de centralidad y la escasez de suelo urbanizado genera un “efecto rebalse” sobre los 
+barrios ya equipados. Un proceso que se solidificó en el plan de la ciudad debido a la 
+edificación en altura, en la actualidad se desplaza hacia los barrios en cimas y mesetas, 
+donde la nueva oferta residencial para los segmentos medios se localiza en barrios 
+existentes. Un ejemplo de ello es el crecimiento de Miraflores Bajo, Gómez Carreño y Santa 
+Inés mediante el desarrollo de nuevos proyectos inmobiliarios en altura (Ilustre 
+Municipalidad de Viña del Mar, 2016). 
+Respecto a su población, para el Censo del año 2024 la comuna presentaba una suma de 
+334.871 habitantes, obteniendo una variación del 0,2% respecto al anterior Censo del año 
+2017 (BCN, 2025). Según los datos del Censo 2024, la comuna se posiciona como la más 
+poblada de la región.  
+
+===== p.27 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+28 
+ 
+ 
+Respecto a sus límites políticos administrativos, y como se observa en la Figura 10, la 
+comuna de Viña del Mar colinda al norte con la comuna de Concón, al sur con Valparaíso 
+y al este con la comuna de Quilpué. 
+ 
+Figura 10: Comunas colindantes de Viña del Mar y Quilpué. 
+Fuente: Elaboración propia en base a información proporcionada por la BCN, 2026. 
+7.1.1.2. 
+Conectividad 
+La conectividad vial entre Viña del Mar y otros centros urbanos del área metrópolis y de la 
+región se estructura en torno a tres rutas principales: Avenida España, Troncal Sur (Ruta 
+60-Ch) y el Camino Internacional (Ruta F-64). Primeramente, la Avenida España se destaca 
+como la principal arteria vial que conecta directamente los centros urbanos de Valparaíso y 
+Viña del Mar. Esta vía, una de las más transitadas de la región y dispone de tres pistas en 
+cada sentido, optimizando el flujo vehicular. 
+El Troncal Sur (Ruta 60-Ch), por su parte, es una vía de alta velocidad que cruza la Región 
+de Valparaíso a lo largo del valle central, conectando Viña del Mar con Los Andes. Esta ruta 
+enlaza múltiples ciudades intermedias, como Quilpué, Villa Alemana, Limache, Quillota y 
+La Calera, y su trazado se intersecta con la Ruta Panamericana 5 Norte, una carretera de 
+
+===== p.28 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+29 
+ 
+ 
+carácter nacional, cuyo cruce se encuentra a menos de una hora de Viña del Mar (Ilustre 
+Municipalidad de Viña del Mar, 2002). 
+Por su parte, el Camino Troncal actúa como un conector entre Viña del Mar y Quillota, 
+pasando por localidades menores como Tabolango. Además de su función interurbana, 
+esta vía facilita la conexión intraurbana entre diversos sectores de Viña del Mar, como 
+Gómez Carreño y Reñaca Alto, con el plan de la ciudad. 
+Además, la ciudad de Viña del Mar cuenta con una vía principal adicional de menor escala 
+conocida como el Troncal Urbano, cuya función es interconectar los centros urbanos de 
+Viña del Mar, Quilpué y Villa Alemana, facilitando la movilidad y el desarrollo regional. 
+7.1.1.3. 
+Usos del suelo 
+La comuna de Viña del Mar se distingue por ser un territorio principalmente orientado al 
+desarrollo urbano, aprovechando su posición estratégica como núcleo central del área 
+metrópolis. En este contexto, según el catastro de uso de suelo (Infraestructura de Datos 
+Geoespaciales de Chile [IDE], 2013), el área urbana e industrial de la comuna abarca el 
+44,3% de su superficie total, como se puede apreciar en la Figura 11.  
+El suelo urbano de Viña del Mar se destina predominantemente al uso residencial, con 
+áreas consolidadas que albergan gran parte de la población. El centro de la ciudad, 
+conocido como el "plan de Viña", junto al borde costero, están principalmente orientados al 
+turismo, destacándose por su oferta de servicios y comercial, que se complementa con 
+emblemáticas áreas verdes como la Quinta Vergara y el Jardín Botánico, espacios que 
+contribuyen tanto al esparcimiento como a la identidad paisajística de la comuna. Además, 
+en los últimos años, se ha potenciado un sector industrial clave "El Salto", que se ha 
+consolidado como un área estratégica para el desarrollo económico y logístico de la ciudad. 
+Con respecto a la distribución espacial y diversidad de servicios y equipamiento, estos se 
+ubican con mayor concentración en el plan de la ciudad de Viña del Mar, que funciona como 
+núcleo urbano tradicional. No obstante, el crecimiento y la expansión urbana han generado 
+nuevos focos de desarrollo en sectores como Achupallas, Gómez Carreño e incluso Recreo, 
+que están emergiendo como centros secundarios debido al aumento de la población y las 
+necesidades locales. Sin embargo, esta rápida expansión residencial ha dado lugar a la 
+conformación de barrios con escasa planificación, lo que ha resultado en un déficit de 
+equipamiento urbano. Esta situación impacta negativamente la calidad de vida, 
+especialmente de los grupos medios y vulnerables que habitan en estas zonas periféricas, 
+
+===== p.29 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+30 
+ 
+ 
+enfrentándose a una limitada accesibilidad a servicios básicos y espacios públicos de 
+calidad (Cáceres y Ahumada, 2018). 
+Fuera de los límites urbanos consolidados, la superficie restante de la comuna de Viña del 
+Mar corresponde a colinas de baja altura, junto con sus respectivas quebradas. Este 
+entorno está caracterizado por las irregularidades del territorio que definen los límites 
+comunales y cuya clasificación de suelos está dominada por áreas boscosas. En menor 
+proporción, se encuentran praderas y matorrales que complementan la superficie rural del 
+territorio, como se detalla en la Figura 11. 
+ 
+Figura 11: Usos de suelos en la comuna de Viña del Mar. 
+Fuente: Elaboración propia en base a Infraestructura de Datos Espaciales de Chile [IDE], 2026. 
+7.1.1.4. 
+Características económicas y mercado laboral 
+Las características económicas y el mercado laboral de Viña del Mar están estrechamente 
+vinculados a los usos del suelo de la comuna. En este sentido, el desarrollo económico está 
+prioritariamente enfocado hacia el fortalecimiento de la imagen turística de la ciudad, 
+buscando posicionarse como el mejor destino turístico del país, de acuerdo con las metas 
+establecidas por el Municipio de Viña del Mar (2023). 
+
+===== p.30 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+31 
+ 
+ 
+El turismo impulsa la economía local, generando ingresos, empleos y diversificando los 
+diferentes sectores económicos. Esta dinámica ha promovido la cultura y el comercio 
+asociados al sector turístico, además de aumentos en la inversión (Viña Decide, 2025), 
+situación que también se refleja en la oferta laboral ofrecida para la comuna en el año 2023. 
+En la Tabla 3 se evidencia una alta diversificación de los empleos, donde predominan las 
+actividades de servicios administrativos, actividades de atención a la salud humana, las 
+actividades de administración pública, construcción y el comercio al por mayor y menor. 
+Paralelamente, se tiene que Viña del Mar ha experimentado un aumento de la oferta 
+comercial durante los últimos años, siendo este rubro el cual posee la mayor cantidad de 
+empresas, considerado como comercio al por mayor y por menor para el año 2023 (ver 
+Tabla 3). 
+Con respecto a otros sectores económicos, el barrio industrial de El Salto ha emergido como 
+un foco relevante para la actividad económica de la comuna. La Municipalidad, en conjunto 
+con iniciativas de inversión público-privada, ha delineado planes para fortalecer este sector, 
+buscando impulsar su desarrollo productivo con el dinamismo económico de la comuna. 
+Ubicado estratégicamente en el sector oriente de la ciudad, El Salto alberga principalmente 
+industrias químicas, empresas de servicios y centros de distribución (Asociación de 
+empresas de la V Región, 2017). Sin embargo, durante el último año el sector ha enfrentado 
+desafíos significativos, referente a los daños ocasionados por el mega incendio ocurrido en 
+febrero de 2024, que han afectado su capacidad productiva y el empleo local. 
+ 
+Tabla 3: Número de empresas y trabajadores dependientes informados según rubro económico 
+para el año 2023 en la comuna de Viña del Mar. 
+Rubro económico 
+Número de 
+empresas 
+2023 
+Número de 
+trabajadores 
+2023 
+Agricultura, ganadería, silvicultura y pesca 
+224 
+1.676 
+Explotación de minas y canteras 
+39 
+437 
+Industria manufacturera 
+1.991 
+10.562 
+Suministro 
+de 
+electricidad, 
+gas, 
+vapor 
+y 
+aire 
+acondicionado 
+28 
+284 
+Suministro de agua; evacuación de aguas residuales, 
+gestión de desechos y descontaminación 
+98 
+3.138 
+Construcción 
+2.799 
+20.652 
+Comercio al por mayor y al por menor; reparación de 
+vehículos automotores y motocicletas 
+8.819 
+15.800 
+Transporte y almacenamiento 
+2.099 
+8.966 
+Actividades de alojamiento y de servicio de comidas 
+1.695 
+16.221 
+Información y comunicaciones 
+929 
+1.983 
+
+===== p.31 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+32 
+ 
+ 
+Rubro económico 
+Número de 
+empresas 
+2023 
+Número de 
+trabajadores 
+2023 
+Actividades financieras y de seguros 
+1.169 
+1.387 
+Actividades inmobiliarias 
+2.077 
+2.097 
+Actividades profesionales, científicas y técnicas 
+2.769 
+8.485 
+Actividades de servicios administrativos y de apoyo 
+1.492 
+35.863 
+Administración pública y defensa; planes de seguridad 
+social de afiliación obligatoria 
+14 
+22.767 
+Enseñanza 
+607 
+15.584 
+Actividades de atención de la salud humana y de 
+asistencia social 
+2.024 
+24.549 
+Actividades artísticas, de entretenimiento y recreativas 
+386 
+2.187 
+Otras actividades de servicios 
+2.257 
+9.277 
+Actividades de organizaciones y órganos extraterritoriales 
+1 
+0 
+Sin Información 
+108 
+249 
+Total 
+31.625 
+202.164 
+Fuente: Elaboración en base a información proporcionada por BCN, 2026. 
+7.1.2. Quilpué 
+7.1.2.1. 
+Antecedentes territoriales 
+La comuna de Quilpué con una superficie de 537,0 km2 (BCN, 2025), es parte de la 
+Provincia de Marga Marga, que a su vez es parte de la Región de Valparaíso. De acuerdo 
+con los resultados del Censo de Población y Vivienda 2024, la comuna registra una 
+población total de 162.559 habitantes. Su principal centro poblado corresponde a la ciudad 
+de Quilpué, emplazada a aproximadamente 113 m s.n.m., la cual constituye la única área 
+urbana de la comuna. En ella se concentra la gran mayoría de la población comunal, 
+alcanzando cerca del 98% según la Ilustre Municipalidad de Quilpué (2019), antecedente 
+que se confirma con los resultados del Censo 2024, que indican que el 97,8% de los 
+habitantes de la comuna residen en áreas urbanas. 
+Teniendo en consideración la concentración de población en el área urbana de la comuna, 
+dentro de los sectores rurales, se destacan pequeñas localidades que logran abarcar el 
+2,2% restante de la población de la comuna, entre ellas están Colliguay, Quillayes, Las 
+Palmas, Los Perales, El Recreo, Los Molles y entre otras, sectores a los que se puede 
+acceder a través de caminos públicos de menor escala (Ilustre Municipalidad de Quilpué, 
+2019). 
+En términos geográficos, la comuna en su mayoría se localiza en unidades de relleno de 
+los valles fluviales, con la Cordillera de La Costa por el sector este de la comuna, y terrazas 
+de abrasión marina hacia el límite oeste de la comuna (Centro de Información de Recursos 
+Naturales [CIREN], 2024). 
+
+===== p.32 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+33 
+ 
+ 
+Dentro del contexto regional, la comuna de Quilpué desempeña un rol relativamente 
+diversificado, destacándose los sectores de comercio y servicios como las principales 
+fuentes de empleo. Su crecimiento, especialmente en el ámbito urbano, ha sido moderado 
+pero constante, posicionándose como una alternativa al congestionamiento de las grandes 
+ciudades costeras cercanas, como Viña del Mar y Valparaíso. Este fenómeno ha permitido 
+a Quilpué absorber parte de la expansión residencial y comercial de la región, 
+consolidándose como un área de desarrollo en ascenso. (Ilustre Municipalidad de Quilpué, 
+2019). 
+Respecto a sus límites políticos administrativos, vistos en la Figura 10, la comuna de 
+Quilpué colinda al norte con las comunas de Villa Alemana, Limache y Olmué; al sur con 
+las comunas de Valparaíso, Casablanca y Curacaví; al este con Lampa y Tiltil de la Región 
+Metropolitana y al oeste con la comuna de Viña del Mar. 
+7.1.2.2. 
+Conectividad 
+La conectividad vial de Quilpué con otros centros urbanos de la región se basa en dos 
+arterias principales: el Troncal Sur (Ruta 60-Ch) y el Camino Lo Orozco (Ruta F-50). La 
+Ruta 60-Ch, que también forma parte de las redes viales principales de Viña del Mar, 
+destaca como una vía de alta velocidad que recorre la región a través del valle central. En 
+el caso de Quilpué, esta ruta bordea el sector sur del área urbana de la comuna, así como 
+la de Villa Alemana. Cabe destacar, que esta vía es una de las principales para la movilidad 
+dentro de la región de Valparaíso, consolidándose como parte esencial de la red vial tanto 
+de Viña del Mar como de Quilpué. 
+El Camino Lo Orozco desempeña un papel crucial como vía de conexión entre la ciudad de 
+Quilpué y la Ruta 68, a la altura de Casablanca. Esta ruta no solo facilita el tránsito hacia 
+una de las principales arterias viales de la región, sino que también establece un enlace 
+directo entre la zona de Quilpué y la capital del país, favoreciendo a la integración 
+interregional. 
+Además, Quilpué también cuenta con una vía principal compartida con Viña del Mar, 
+conocida como el Troncal Urbano. Esta ruta, de menor escala, cambia su denominación a 
+Avenida Los Carrera al llegar a Quilpué, pero mantiene su función de conectar ambos 
+centros urbanos junto con Villa Alemana, promoviendo la movilidad y desarrollo de la región. 
+7.1.2.3. 
+Usos del suelo 
+Quilpué se define como el único centro urbano de la comuna homónima, el cual está 
+completamente regulado por el Plan Regulador Metropolitano de Valparaíso (PREMVAL). 
+
+===== p.33 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+34 
+ 
+ 
+Este instrumento de planificación delimita las áreas urbanas, las zonas de extensión urbana 
+y aquellas restringidas al desarrollo urbano, destinadas a parques y áreas verdes (Ilustre 
+Municipalidad de Quilpué, 2019). En la Figura 12, esta área urbana se representa 
+gráficamente como la mancha urbana identificada con el nombre de Quilpué. 
+En el contexto de la distribución espacial y la diversidad de servicios y equipamiento, la 
+comuna de Quilpué presenta una mayor concentración en su núcleo urbano, debido a su 
+jerarquía funcional y su relevancia demográfica. El comercio y los servicios se localizan 
+principalmente a lo largo del Eje Troncal Los Carrera, con una concentración en el centro 
+de la ciudad y en el sector de El Belloto. En contraste, los barrios del pericentro y la periferia 
+cuentan con comercio y servicios de menor escala, a menudo integrados con el uso 
+residencial, lo que refleja una estructura mixta en estas áreas (Ilustre Municipalidad de 
+Quilpué, 2019). 
+El equipamiento educacional y deportivo, por su parte, se encuentra relativamente bien 
+distribuido en todo el territorio comunal, lo cual es una cualidad a destacar que favorece en 
+términos de accesibilidad para la población. En cuanto a salud, para el año 2019, el 
+municipio de Quilpué ya se encontraba trabajando en los Centros de Salud Familiar 
+(CESFAM) de Pompeya y Belloto Sur, con iniciativas que buscan ampliar y mejorar la 
+cobertura sanitaria en la comuna. 
+Fuera del área regulada por el Plan Regulador Metropolitano de Valparaíso (PREMVAL), el 
+territorio comunal se clasifica como rural y alberga pequeñas localidades como Colliguay, 
+Quillayes y Las Palmas, entre otras. Tal como se observa en la Figura 12, estos sectores 
+ubicados en los valles fluviales son definidos como áreas urbanas según el IDE, pero al 
+tratarse de asentamientos humanos de pequeña escala, no cumplen con estándares 
+mínimos ni están regulados por ningún Instrumento de Planificación Territorial que los 
+reconozca como zonas urbanas (Ilustre Municipalidad de Quilpué, 2019). 
+
+===== p.34 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+35 
+ 
+ 
+ 
+Figura 12: Usos de suelos en la comuna de Quilpué. 
+Fuente: Elaboración propia en base a Infraestructura de Datos Espaciales de Chile [IDE], 2025. 
+En el resto de la zona rural, los terrenos agrícolas son escasos, lo que explica que esta 
+actividad no constituya un eje económico relevante para la comuna (Tabla 4). En su mayor 
+parte, el territorio rural de Quilpué está dominado por suelos de bosque, mientras que las 
+praderas y los matorrales representan una proporción significativamente menor (Figura 12). 
+7.1.2.4. 
+Características económicas y mercado laboral 
+La comuna de Quilpué presenta una estructura económica caracterizada por la 
+combinación de actividades comerciales, industriales y del sector de la construcción, 
+reflejando su rol como un centro urbano en expansión dentro de la Región de Valparaíso. 
+La Tabla 4 muestra que los principales sectores económicos de la comuna están alineados 
+con estos usos de suelo. 
+En términos de empleo, los sectores más relevantes para Quilpué son la enseñanza 
+(19,9%), la industria manufacturera (17,6%), y el comercio al por mayor y al por menor 
+(17,1%). La relevancia de estas actividades refleja el rol de la comuna como un centro 
+urbano consolidado dentro del área metropolitana de Valparaíso, con una economía 
+estrechamente vinculada a la prestación de servicios, el comercio y las actividades 
+
+===== p.35 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+36 
+ 
+ 
+productivas. Asimismo, la importancia relativa de la industria manufacturera da cuenta de 
+la presencia de establecimientos productivos que contribuyen a la dinámica económica 
+local, mientras que las actividades asociadas al comercio y los servicios responden a las 
+necesidades de una población mayoritariamente urbana y a las relaciones funcionales que 
+mantiene la comuna con el resto del sistema urbano regional. 
+La presencia de un sector manufacturero significativo resalta la importancia de Quilpué 
+como un polo productivo dentro de la región, mientras que el sector de la construcción 
+refleja el crecimiento urbano y la expansión habitacional que ha experimentado la comuna 
+en los últimos años. 
+Por otro lado, la distribución de empresas por rubro económico muestra una predominancia 
+del comercio al por mayor y al por menor, que representa el 39,8% del total de empresas. 
+Le siguen el rubro de construcción (11,2%) y la industria manufacturera (10,9%), sectores 
+que han sostenido un crecimiento constante debido a la consolidación de Quilpué como 
+una comuna en desarrollo, con un aumento en la demanda de bienes, servicios y vivienda. 
+Esta estructura económica evidencia el papel de Quilpué como una comuna con una base 
+productiva diversificada, donde la actividad industrial y la construcción se complementan 
+con el sector comercial, fortaleciendo su integración dentro del mercado regional. 
+Tabla 4: Número de empresas y trabajadores dependientes informados según rubro económico 
+para el año 2023 en la comuna de Quilpué. 
+Rubro económico 
+Número de 
+empresas 
+2023 
+Número de 
+trabajadores 
+2023 
+Agricultura, ganadería, silvicultura y pesca 
+122 
+964 
+Explotación de minas y canteras 
+7 
+6 
+Industria manufacturera 
+980 
+6.809 
+Suministro 
+de 
+electricidad, 
+gas, 
+vapor 
+y 
+aire 
+acondicionado 
+16 
+5 
+Suministro de agua; evacuación de aguas residuales, 
+gestión de desechos y descontaminación 
+61 
+253 
+Construcción 
+1.008 
+5.062 
+Comercio al por mayor y al por menor; reparación de 
+vehículos automotores y motocicletas 
+3.569 
+6.607 
+Transporte y almacenamiento 
+956 
+1.297 
+Actividades de alojamiento y de servicio de comidas 
+496 
+1.958 
+Información y comunicaciones 
+194 
+288 
+Actividades financieras y de seguros 
+101 
+40 
+Actividades inmobiliarias 
+293 
+304 
+Actividades profesionales, científicas y técnicas 
+525 
+1.073 
+Actividades de servicios administrativos y de apoyo 
+371 
+2.499 
+
+===== p.36 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+37 
+ 
+ 
+Rubro económico 
+Número de 
+empresas 
+2023 
+Número de 
+trabajadores 
+2023 
+Administración pública y defensa; planes de seguridad 
+social de afiliación obligatoria 
+5 
+536 
+Enseñanza 
+194 
+7.681 
+Actividades de atención de la salud humana y de 
+asistencia social 
+310 
+1.750 
+Actividades artísticas, de entretenimiento y recreativas 
+125 
+454 
+Otras actividades de servicios 
+568 
+947 
+Actividades de organizaciones y órganos extraterritoriales 
+0 
+0 
+Sin Información 
+46 
+158 
+Total 
+8.967 
+38.691 
+Fuente: Elaboración en base a información proporcionada por BCN, 2026. 
+7.2. Área de Influencia 
+7.2.1. Dimensión geográfica 
+7.2.1.1. 
+Distribución geográfica de la población 
+Para las comunas de Viña del Mar y Quilpué, los datos de los Censos de Población y 
+Vivienda 2017 y 2024 muestran que la población continúa concentrándose 
+mayoritariamente en áreas urbanas. En el caso de Viña del Mar, la población rural alcanza 
+apenas un 0,09% en 2024, manteniendo el carácter eminentemente urbano de la comuna. 
+Por su parte, Quilpué presenta un porcentaje de población rural de 2,22% en 2024, superior 
+al 1,39% registrado en 2017 (ver Tabla 5). A nivel regional, la población rural también 
+experimenta un incremento, pasando de 8,99% en 2017 a 10,55% en 2024. 
+Si bien estos porcentajes continúan siendo bajos en comparación con la población urbana 
+predominante, el aumento observado entre ambos censos podría reflejar procesos 
+recientes de ocupación y consolidación residencial en sectores rurales y periurbanos, 
+fenómeno que algunos autores han denominado como procesos de re-ruralización o de 
+revalorización de espacios rurales próximos a los centros urbanos. 
+Tabla 5: Porcentaje de ruralidad de la población. 
+Unidad Territorial 
+Censo 2017 
+Censo 2024 
+Comuna de Viña del Mar 
+0,00% 
+0,09% 
+Comuna de Quilpué 
+1,39% 
+2,22% 
+Región de Valparaíso 
+8,99% 
+10,55% 
+Fuente: Censo de Población y Vivienda 2017 y 2024, INE. 
+
+===== p.37 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+38 
+ 
+ 
+El Área de Influencia de Medio Humano del Proyecto en evaluación se emplaza en un 
+entorno de carácter periurbano, localizado en la zona de transición entre las comunas de 
+Viña del Mar y Quilpué, abarcando sectores situados en los extremos oriente y surponiente 
+de sus respectivos centros urbanos (ver Figura 9). Dentro de este territorio se identifican 
+tres sectores principales: El Salto, Las Lomas y El Calichero, los cuales presentan 
+características propias de espacios de interfaz urbano-rural, donde coexisten dinámicas 
+asociadas tanto a la ciudad como a entornos de menor consolidación urbana. 
+Para efectos del presente informe, y con el fin de representar adecuadamente las 
+particularidades territoriales observadas, el sector de El Salto fue subdividido en El Salto 
+Urbano y El Salto Rural. Esta diferenciación responde a que, si bien ambos sectores forman 
+parte de una misma unidad territorial y son reconocidos localmente bajo una denominación 
+común, presentan condiciones de ocupación, acceso a servicios e infraestructura 
+significativamente distintas. 
+En este contexto, El Salto Urbano corresponde al sector vinculado principalmente al eje de 
+calle Limache, donde se observa una mayor consolidación urbana, caracterizada por la 
+presencia de vialidad pavimentada, alumbrado público y acceso a servicios propios de la 
+ciudad. Por su parte, El Salto Rural se localiza hacia el extremo oriental del sector, en el 
+entorno del estero Marga Marga, donde predominan características periurbanas y rurales, 
+con una menor consolidación de infraestructura, ausencia de pavimentación en parte de su 
+red vial y un acceso más limitado a servicios urbanos tradicionales. 
+Como se detalla en la Tabla 6, el área de influencia del proyecto comprende dos zonas 
+censales; zona censal 2 en El Salto, con 14 manzanas y la zona censal 5 en Las Lomas 
+con 5 manzanas. Para el sector del Calichero se asocia a la localidad de los pozos. 
+Dentro de estos tres sectores se posee un total de 1.673 habitantes permanentes, donde la 
+mayor cantidad de población se concentra en la zona de Las Lomas de Quilpué con 1.245 
+habitantes (ver Tabla 6). Este es el único sector que supera los 1.000 habitantes, seguido 
+por El Salto en Viña del Mar, que cuenta con 356 residentes. En contraste, El Calichero 
+registra menos de 40 habitantes, convirtiéndose en el sector menos poblado dentro del Área 
+de Influencia. 
+
+===== p.38 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+39 
+ 
+ 
+Tabla 6: Población y densidad poblacional del Área de Influencia. 
+Sectores Comuna 
+Zona 
+Censal/Localidad (Manzana/Entidad) Población 
+Densidad Población 
+(Hab/km2) 
+El Salto 
+Viña del 
+Mar 
+Zona censal 2 
+Manzanas 11, 30, 
+31, 34, 37, 41, 42, 
+43, 45, 48, 49, 50 y 
+51 
+356 
+1.528,45 
+Marga Marga 
+Marga Marga 
+38 
+2,25 
+Indeterminada 
+Indeterminada 
+Las 
+Lomas 
+Quilpué 
+Zona censal 5 
+Manzanas 27, 57, 
+72, 76 y 80 
+1.245 
+2.840,29 
+El 
+Calichero 
+Quilpué 
+Los Pozos 
+Los Pozos 
+34 
+1,96 
+Indeterminada 
+Indeterminada 
+Total 
+1.673 
+ 
+Fuente: Censo 2024, INE. 
+En cuanto a la distribución geográfica de la población en el Área de Influencia del Proyecto 
+en evaluación, y como se observa en la Figura 13, el sector de Las Lomas presenta la 
+mayor densidad poblacional, alcanzando los 2.840 habitantes por kilómetro cuadrado. 
+Coincidente con el sector de mayor población de 1.245 personas, su densidad se explica 
+por la reducida superficie que ocupa dentro del territorio, aspecto característico de zonas 
+urbanas. En contraste, los sectores de El Salto Rural y El Calichero muestran densidades 
+poblacionales menores, con valores de 2,25 y 1,96 habitantes por kilómetro cuadrado, 
+respectivamente, debido a la mayor extensión de sus áreas y menor cantidad de habitantes.  
+Por otro lado, en términos de cantidad de habitantes, el sector de Las Lomas es el más 
+poblado dentro del Área de Influencia, seguido por El Salto y El Calichero, los cuales 
+presentan poblaciones de 394 y 34 personas, respectivamente. La distribución de la 
+población se encuentra más concentrada en el sector de Las Lomas, ubicado al noreste del 
+área del proyecto, mientras que en los sectores rurales del Área de Influencia la dispersión 
+de los habitantes es mayor. 
+En particular, el sector de El Calichero corresponde actualmente a un área de carácter rural, 
+compuesta principalmente por viviendas dispersas y usos residenciales de baja densidad 
+(ver Figura 14). No obstante, durante los últimos años se ha observado un proceso de 
+transformación territorial asociado a la expansión urbana proveniente de la comuna de 
+Quilpué, evidenciado por la proliferación de asentamientos informales y nuevas 
+ocupaciones residenciales al oriente del sector. Como resultado, El Calichero se configura 
+hoy como un espacio de transición entre lo rural y lo urbano, donde coexisten viviendas 
+
+===== p.39 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+40 
+ 
+ 
+rurales tradicionales con procesos recientes de ocupación vinculados al crecimiento de la 
+ciudad. 
+ 
+Figura 13: Población y densidad poblacional por sectores en Área de Influencia del Proyecto en 
+evaluación. 
+Fuente: Elaboración propia, en base a la información entregada por el INE, 2026. 
+ 
+Figura 14: Viviendas rurales en sector El Calichero 
+Fuente: Elaboración propia, octubre 2024. 
+
+===== p.40 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+41 
+ 
+ 
+7.2.1.2. 
+Usos del territorio y tenencia de la tierra 
+Según la Infraestructura de Datos Geoespaciales (IDE), prácticamente, la mayoría del Área 
+de Influencia del Proyecto se encuentra clasificado como un territorio con suelo clasificado 
+como bosques, praderas y matorrales, que en general son suelos no aptos para la actividad 
+agrícola. Hoy en día, estos sectores están siendo alcanzados por el crecimiento de las 
+ciudades tanto de Viña del Mar, como de Quilpué, dando lugar a zonas como El Salto, Las 
+Lomas y El Calichero.  
+El Área de Influencia del Proyecto en evaluación se caracteriza por un uso 
+predominantemente residencial del territorio, abarcando los sectores de El Salto, Las 
+Lomas y El Calichero. Estos sectores, al encontrarse en una zona periurbana que conecta 
+la ciudad con los espacios rurales, presentan dinámicas que combinan elementos tanto 
+urbanos como rurales. En términos generales, según fuentes primarias y observaciones en 
+terreno, la mayoría de los habitantes hacen uso del espacio de manera similar a la de los 
+centros urbanos, con dinámicas propias de la vida en la ciudad. 
+Sin embargo, tanto en el sector de El Salto y de Las Lomas existe una particularidad, ya 
+que algunas familias complementan su vida residencial con la cría y el cuidado de animales 
+para autoconsumo o sustento familiar, reflejando una relación más cercana con dinámicas 
+rurales. Como mencionaron algunos vecinos de El Salto: "Aquí casi todos se dedican a los 
+animales y eso", asimismo que el Presidente del Comité Valle del Sol: “hay mucha gente 
+de acá que igual tiene animales y por ejemplo los animales (...) yo creo que es por un tema 
+de la ganadería”. 
+En cuanto a la tenencia de la tierra, los habitantes de los tres sectores se asientan 
+mayoritariamente en terrenos de pequeña escala, propios de zonas urbanas, con 
+superficies que no superan los 600 m². Estas propiedades suelen estar organizadas a 
+través de comités de vivienda, los cuales han permitido la consolidación de estos 
+asentamientos. No obstante, se trata en su mayoría de viviendas informales, tal como se 
+observa en la Figura 15, reflejando una ocupación del territorio caracterizada por una 
+urbanización no planificada y por la falta de regularización en la tenencia del suelo. Solo en 
+el sector de El Calichero, existen terrenos de carácter rural con superficies que ascienden 
+a 3.000 m², los cuales corresponden a viviendas antiguas que hoy en día están siendo 
+alcanzadas por el desarrollo urbano (Figura 14). 
+
+===== p.41 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+42 
+ 
+ 
+ 
+Figura 15: Viviendas informales en sector de Las Lomas, Quilpué 
+Fuente: Elaboración propia, diciembre 2024. 
+7.2.1.3. 
+Flujos de transporte y comunicación 
+Es importante mencionar que, si bien los sectores de El Salto, Las Lomas y El Calichero se 
+encuentran aledaños o colindantes a la Ruta Troncal 60-Ch, ninguno de ellos posee acceso 
+directo a esta vía principal. En su lugar, los habitantes dependen de una red de caminos 
+locales y urbanos, donde el acceso al transporte público es limitado y no siempre garantiza 
+una conexión rápida o directa hacia la ciudad. Esta condición dificulta la movilidad cotidiana 
+de la población, influyendo en su acceso a servicios o actividades diarias, generando una 
+dependencia de medios de transporte particulares o traslados prolongados para alcanzar 
+puntos con mejor conectividad. 
+
+===== p.42 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+43 
+ 
+ 
+Para el caso del sector de Las Lomas, la movilidad y el transporte dependen de una única 
+vía principal que articula la conexión con otros sectores de Quilpué. Se trata de la calle 
+Atacama (Figura 16), una vía de carácter local que se enlaza con la calle Humboldt, 
+permitiendo el acceso a otras rutas que conducen al resto del área urbana de la comuna. 
+Estas vías son las que cuentan con la oferta de transporte público disponible para los 
+residentes de Las Lomas, la cual, según información recopilada en entrevistas, está 
+compuesta por microbuses y colectivos. 
+ 
+Figura 16: Calle Atacama en sector de Pompeya Sur, colindante a Las Lomas 
+Fuente: Google Street View 2025. 
+En este contexto, según los entrevistados, la población prefiere ampliamente el uso de los 
+colectivos debido a su mayor frecuencia y menor tiempo de espera. Como señala la 
+Presidenta del Comité de Vivienda "El Renacer", "El colectivo tiene mejor frecuencia que la 
+micro", mientras que el Presidente del Comité "Valle del Sol" refuerza esta idea afirmando 
+que "Los colectivos son más frecuentes. De hecho, mucha gente prefiere usar los 
+colectivos". Además, una vecina del sector destaca que "Los colectivos son más rápidos, o 
+sea, 10 o 20 minutos, pero la micro sí que se demora, se demoran mucho", reflejando la 
+percepción general de que las micros no son una opción eficiente para la movilidad diaria. 
+En el caso de las micros, su frecuencia es considerablemente menor, con tiempos de 
+espera de entre 30 y 40 minutos, lo que limita su uso como medio de transporte principal. 
+Según la dueña del Almacén Trébol, los residentes de Las Lomas solo pueden acceder a 
+tres recorridos desde la calle Atacama: 119, 108 y 102. 
+
+===== p.43 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+44 
+ 
+ 
+Cabe destacar que, en ambos casos, las familias de Las Lomas deben desplazarse 
+caminando por la vía mostrada en la Figura 17, un camino sin pavimentar que dificulta el 
+tránsito, especialmente para personas mayores o con movilidad reducida. Según la dueña 
+del Almacén "El Corralero", "es por el sector donde hay una cancha (...) hasta ahí y de ahí 
+tienen que entrar caminando", evidenciando que el transporte público solo llega hasta cierto 
+punto, obligando a los residentes a continuar a pie. Asimismo, una vecina del sector hace 
+énfasis en esta situación señalando que "llega afuera ya, en la entrada que ustedes 
+entraron, hasta ahí nomás llega, de ahí uno... se tiene que caminar". Esta falta de 
+accesibilidad representa una dificultad adicional en la movilidad cotidiana de los habitantes, 
+afectando su conexión con otros sectores y rapidez a servicios esenciales. 
+ 
+Figura 17: Camino principal en sector Las Lomas 
+Fuente: Elaboración propia, diciembre 2024. 
+En el sector de El Salto, los residentes también cuentan con servicios de microbuses y 
+colectivos para su desplazamiento. Sin embargo, a diferencia de Las Lomas, la oferta de 
+transporte público es más limitada, ya que solo disponen de un recorrido de microbús, la 
+línea 203, y un único colectivo, el 7A. Esta escasez de recorridos, característicos de las 
+zonas limítrofes de los centros urbanos, ralentiza considerablemente la movilidad de esta 
+población, lo que obliga a muchos habitantes a depender del uso de vehículos particulares. 
+Como menciona una vecina del sector, "La micro, la 203 po’, es la que hay que ir a tomar 
+
+===== p.44 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+45 
+ 
+ 
+allá abajo", debiendo caminar distancias considerables para acceder al transporte. Además, 
+un vecino recalca cómo la situación ha empeorado luego de la pandemia, señalando que 
+"Antes venían los colectivos y ahora no entran para acá... hasta allá abajo, hasta el final de 
+la calle". Esta falta de cobertura y frecuencia dificulta los desplazamientos diarios, afectando 
+especialmente a quienes no cuentan con un medio de transporte propio. 
+ 
+Figura 18: Camino principal de sector El Salto 
+Fuente: Elaboración propia, octubre 2024. 
+En términos de conectividad, tanto El Calichero como los sectores más orientales asociados 
+a las viviendas informales, dependen principalmente de una única vía de conexión con el 
+resto de la comuna de Quilpué (ver Figura 19). Para acceder a los servicios, equipamientos 
+y al transporte público, los residentes deben desplazarse a través del paso bajo nivel que 
+atraviesa la Ruta 60-CH, conectando los sectores ubicados al sur de esta vía con la red vial 
+urbana emplazada al norte. Es precisamente en este entorno donde se localizan los 
+paraderos y recorridos de transporte público utilizados habitualmente por la población. 
+Debido a esta configuración territorial, la utilización de vehículo particular adquiere una 
+importancia significativa para la movilidad cotidiana de los habitantes. En ausencia de este 
+medio de transporte, los desplazamientos hacia los principales equipamientos y servicios 
+urbanos pueden implicar caminatas cercanas a una hora, evidenciando las limitaciones de 
+conectividad propias de un territorio que aún conserva características rurales, pese al 
+avance progresivo de la expansión urbana. 
+
+===== p.45 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+46 
+ 
+ 
+ 
+Figura 19: Camino principal de ingreso a sector El Calichero 
+Fuente: Elaboración propia, octubre 2024. 
+Con respecto al flujo de comunicaciones, la conectividad celular y el acceso a datos móviles 
+presentan situaciones distintas entre los sectores de El Salto (Viña del Mar) y Las Lomas 
+(Quilpué). En el caso de El Salto, los residentes no experimentan problemas con la señal 
+de telefonía ni con el acceso a internet móvil. Según lo mencionado en entrevistas, la 
+cobertura es estable y eficiente, como lo señala un vecino del sector: "Sí, no, aquí es rápido 
+el internet, no hay problema en eso". En contraste, la situación en Las Lomas es 
+completamente diferente. Luego del gran incendio forestal de febrero de 2024, las antenas 
+que proporcionaban señal a la zona resultaron quemadas, y el servicio no ha sido 
+restablecido hasta el momento de las entrevistas. Antes del incendio, la compañía Entel era 
+la principal proveedora de señal, pero tras el incendio, el sector quedó con señales celulares 
+deficientes. La dueña del Almacén "El Corralero" describe esta problemática señalando que 
+"Pésimo, porque acá lo único que estaba como con buena señal era Entel (...) y la antena 
+de Entel está al frente, en el cerro del frente, y se quemaron y no la repusieron, no la 
+arreglaron". Es importante destacar que en ambos sectores, ninguno cuenta con acceso a 
+redes WiFi, limitando aún más las posibilidades de conectividad para los residentes. 
+
+===== p.46 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+47 
+ 
+ 
+7.2.2. Dimensión demográfica 
+7.2.2.1. 
+Estructura de la población 
+Es importante entender que la población del Área de Influencia del Proyecto en evaluación 
+corresponde a habitantes que se emplazan en los sectores periurbano de las comunas de 
+Viña del Mar y Quilpué, como los son El Salto, Las Lomas y El Calichero. Razón por la que, 
+de las 1.673 personas que residen en estas zonas, un 95,6% es considerada como 
+población urbana. Mientras que el otro 4,3% corresponde a población rural del sector El 
+Salto y de El Calichero. 
+Según los datos censales del año 2024, y como se pudo ver en la Figura 13, la estructura 
+por sexos de la población en el Área de Influencia posee una distribución relativamente 
+pareja de hombres y mujeres dentro del territorio en cuestión. Por su parte, las mujeres 
+representan el 47% de la población total de sectores correspondientes al Área de Influencia, 
+mientras que los hombres componen el 52% de los habitantes.  
+En este sentido, en la Tabla 7 se observa que el índice de masculinidad del conjunto de 
+sectores que abarca el Área de Influencia da como resultado 108,6, donde por cada 100 
+mujeres existe un aproximado de 108 hombres. Las comunas de Viña del Mar y Quilpué 
+por el contrario, poseen un índice menor de masculinidad que no supera el límite de los 
+100, con 90,3 según las mediciones del Censo 2024. 
+Tabla 7: Población por sexo en el Área de Influencia. 
+Entidad 
+Hombres 
+Mujeres 
+Población 
+Índice de 
+masculinidad  
+El Salto (Urbano) 
+172 
+184 
+356 
+93,5 
+El Salto (Rural) 
+24 
+14 
+38 
+171,4 
+Las Lomas 
+654 
+591 
+1.245 
+110,7 
+El Calichero 
+21 
+13 
+34 
+161,5 
+Total 
+871 
+802 
+1.673 
+108,6 
+Fuente: Censo 2024, INE. 
+Dentro de la Tabla 8, es posible obtener una idea generalizada de los grupos por edades 
+de la población en cuestión, donde existe una clara predominancia de las edades activas 
+en los residentes de la zona. Un total de 559 personas posee entre 0 a 13 años o más de 
+60 años, lo que representa el 33,4% de la población en los sectores involucrados para el 
+Área de Influencia. Por el otro lado, la población de entre 14 a 59 años representa un 66,5% 
+del total, por lo que índice de dependencia del Área de Influencia corresponde a 50,17, un 
+índice levemente mayor en comparación con el 48,0 y 50,0 que posee la comuna de Viña 
+del Mar y Quilpué, respectivamente. 
+
+===== p.47 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+48 
+ 
+ 
+Tabla 8: Población por rango etario del Área de Influencia. 
+Rango etario 
+El Salto 
+(Urbano) 
+El Salto 
+(Rural) 
+Las 
+Lomas 
+El 
+Calichero 
+Total 
+0 a 5 años 
+26 
+1 
+119 
+4 
+150 
+6 a 13 años 
+38 
+2 
+180 
+2 
+222 
+14 a 17 años 
+35 
+1 
+71 
+1 
+108 
+18 a 24 años 
+42 
+6 
+128 
+3 
+179 
+25 a 44 años 
+105 
+16 
+448 
+9 
+578 
+45 a 59 años 
+61 
+3 
+181 
+4 
+249 
+60 años o más 
+49 
+9 
+118 
+11 
+187 
+Total 
+356 
+38 
+1.245 
+34 
+1.673 
+Fuente: Censo 2024, INE. 
+La distribución de la población en el Área de Influencia se encuentra fuertemente 
+concentrada en el sector de Las Lomas y El Salto Urbano, el cual, a pesar de su reducida 
+extensión territorial, concentra a la mayor cantidad de habitantes del área de estudio. En 
+contraste, los sectores de El Salto Rural y El Calichero presentan un asentamiento más 
+disperso y de baja densidad, condicionado por la mayor superficie de sus terrenos. 
+ 
+Figura 20: Distribución de la población en Área de Influencia por grupos etarios 
+Fuente: Censo 2024, INE. 
+7.2.2.2. 
+Rama de actividad económica y categoría ocupacional 
+De acuerdo con los datos del Censo 2024, es posible señalar que el 49,04% de la población 
+en alguna situación de fuerza laboral del Área de Influencia se encontraba en situación de 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+0 a 5 años
+6 a 13 años
+14 a 17 años
+18 a 24 años
+25 a 44 años
+45 a 59 años
+60 años o más
+Distribución de la población en el Área de Influencia 
+por grupo etarios
+El Salto (Urbano)
+Las Lomas
+El Calichero
+El Salto (Rural)
+
+===== p.48 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+49 
+ 
+ 
+ocupación laboral. Al desglosar este indicador dentro del grupo de personas 
+económicamente activas por localidad, se observa que el sector de Las Lomas concentra 
+la mayor cantidad de trabajadores con 460 individuos, seguido por El Salto, tanto urbano 
+como rural, con 147 personas. En contraposición, en la localidad de El Calichero el número 
+de trabajadores se reduce a solo 12 personas, lo que guarda estricta relación con la menor 
+densidad poblacional observada en dicho sector. 
+Por otra parte, la población en situación de desocupación laboral totaliza 138 personas 
+dentro del Área de Influencia. Al analizar la distribución porcentual de este segmento entre 
+las localidades del estudio, se observa que el sector de Las Lomas concentra la gran 
+mayoría de los casos con un 75,36%, seguido por El Salto con un 22,46%, mientras que la 
+localidad de El Calichero registra la menor representatividad con apenas un 2,17% del total 
+de desocupados. Finalmente, el volumen de personas clasificadas fuera de la fuerza de 
+trabajo categoría que integra a jubilados, pensionados o rentistas constituye un total de 505 
+individuos distribuidos conjuntamente en las manzanas y entidades censales de los tres 
+sectores. 
+Tabla 9: Categoría ocupacional de la población en el Área de Influencia. 
+Situación en la fuerza de 
+trabajo 
+Número de casos 
+El Salto 
+(Urbano) 
+El Salto 
+(Rural) 
+Las 
+Lomas 
+El 
+Calichero 
+Total 
+Ocupado 
+Trabajador 
+independiente 
+42 
+12 
+222 
+9 
+285 
+Trabajador 
+dependiente 
+82 
+8 
+219 
+3 
+312 
+Trabajador/a 
+familiar o personal 
+no  
+remunerado en un 
+negocio de un  
+integrante de su 
+familia 
+3 
+0 
+19 
+0 
+22 
+Total de ocupados 
+127 
+20 
+460 
+12 
+619 
+Desocupado 
+30 
+1 
+104 
+3 
+138 
+Fuera de la fuerza de trabajo 
+123 
+14 
+355 
+13 
+505 
+Total 
+280 
+35 
+919 
+28 
+1.262 
+Fuente: Elaboración propia en base a Censo 2024, INE. 
+De acuerdo al Censo 2024, la rama de actividad económica que predomina en el sector de 
+Las Lomas corresponde al comercio al por mayor y por menor, junto con la reparación de 
+vehículos automotores y motocicletas (ver Tabla 10). En segundo orden de 
+representatividad se posiciona el sector de la construcción, seguido por las actividades 
+
+===== p.49 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+50 
+ 
+ 
+asociadas al transporte y almacenamiento. En el caso de El Salto y El Calichero, se replica 
+esta misma matriz productiva, en distinta proporción, donde las principales actividades 
+económicas corresponden a la construcción, al comercio al por mayor y por menor y al 
+transporte y almacenamiento.  
+Esto refleja una homogeneidad en la estructura económica de las zonas que conforman el 
+Área de Influencia, con una mayor presencia de actividades ligadas al comercio, la 
+construcción y los servicios de transporte en los sectores de El Salto, Las Lomas y El 
+Calichero.  
+Tabla 10: Rama de la actividad económica en el Área de Influencia del Proyecto en evaluación. 
+Rama de la actividad 
+económica 
+Número de casos 
+El Salto 
+(Urbano) 
+El Salto 
+(Rural) 
+Las 
+Lomas 
+El 
+Calichero 
+Total 
+Agricultura, ganadería, 
+silvicultura y pesca 
+1 
+3 
+2 
+0 
+6 
+Explotación de minas y 
+canteras 
+2 
+0 
+5 
+1 
+8 
+Industrias manufactureras 
+9 
+0 
+24 
+1 
+34 
+Suministro de electricidad, 
+gas, vapor y aire 
+acondicionado 
+1 
+1 
+7 
+0 
+9 
+Suministro de agua; 
+evacuación de aguas 
+residuales, gestión de 
+desechos y descontaminación 
+9 
+0 
+9 
+0 
+18 
+Construcción 
+17 
+3 
+93 
+2 
+115 
+Comercio al por mayor y al por 
+menor; reparación de 
+vehículos automotores y 
+motocicletas 
+17 
+3 
+122 
+2 
+144 
+Transporte y almacenamiento 
+16 
+3 
+44 
+2 
+65 
+Actividades de alojamiento y 
+de servicio de comidas 
+12 
+0 
+24 
+1 
+37 
+Información y comunicaciones 
+1 
+0 
+5 
+0 
+6 
+Actividades financieras y de 
+seguros 
+0 
+0 
+0 
+0 
+0 
+Actividades inmobiliarias 
+1 
+0 
+4 
+0 
+5 
+Actividades profesionales, 
+científicas y técnicas 
+2 
+0 
+2 
+0 
+4 
+Actividades de servicios 
+administrativos y de apoyo 
+16 
+3 
+24 
+1 
+44 
+Administración pública y 
+defensa; planes de seguridad 
+social de afiliación obligatoria 
+1 
+0 
+10 
+0 
+11 
+Enseñanza 
+2 
+0 
+13 
+0 
+15 
+
+===== p.50 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+51 
+ 
+ 
+Rama de la actividad 
+económica 
+Número de casos 
+El Salto 
+(Urbano) 
+El Salto 
+(Rural) 
+Las 
+Lomas 
+El 
+Calichero 
+Total 
+Actividades de atención de la 
+salud humana y de asistencia 
+social 
+6 
+0 
+21 
+0 
+27 
+Actividades artísticas, de 
+entretenimiento y recreativas 
+2 
+1 
+6 
+0 
+9 
+Otras actividades de servicios 
+2 
+1 
+18 
+1 
+22 
+Actividades de los hogares 
+como empleadores; 
+actividades no diferenciadas 
+como productores de bienes y 
+servicios para uso propio 
+2 
+0 
+6 
+0 
+8 
+Total 
+119 
+18 
+439 
+11 
+587 
+Fuente: Elaboración propia en base a Censo 2024, INE. 
+7.2.2.3. 
+Escolaridad y nivel de instrucción 
+Según el Censo de 2024, en los sectores de El Salto, Las Lomas y El Calichero (ver Tabla 
+11), predomina la población cuyo nivel educacional más alto corresponde a la educación 
+básica o primaria. En términos de distribución absoluta este logro educacional representa a 
+205 personas en El Salto, 571 en Las Lomas y 20 en El Calichero.  
+Por otro lado, en la educación media o secundaria, en las modalidades de científico-
+humanista y/o técnico se observa una distribución menor en comparación a la educación 
+primaria en todos los sectores analizados. Este nivel de instrucción alcanza un total de 559 
+personas en el Área de Influencia, con 128 individuos en El Salto, 425 en Las Lomas y 6 en 
+El Calichero. 
+Dentro de los niveles de educación tradicional, la categoría correspondiente a educación 
+terciaria (superior, técnica, profesional, magíster o doctorado) registra la menor proporción 
+de personas cuyo máximo nivel educativo alcanzado corresponde a este grupo, con 121 
+casos, equivalentes al 7,27% del total de la población analizada en base a los logros 
+educacionales. Esta situación podría estar relacionada con las características territoriales 
+de los sectores estudiados, donde históricamente el acceso a establecimientos de 
+educación superior ha estado condicionado por factores como la distancia a los centros 
+urbanos, la disponibilidad de transporte y las oportunidades socioeconómicas de la 
+población. 
+No obstante, la información levantada en terreno sugiere una realidad más diversa. En este 
+sentido, una de las entrevistadas del sector de Las Lomas, dueña del almacén El Corralero, 
+
+===== p.51 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+52 
+ 
+ 
+señala que: "Porque hay mucha gente técnica (profesional), mucha gente universitaria, así 
+que en realidad es mixto". Este testimonio da cuenta de la presencia de residentes con 
+formación técnica y profesional, evidenciando una comunidad heterogénea en términos 
+educacionales y con interés por continuar procesos de formación superior. 
+Tabla 11: Logro educacional más alto alcanzado en el Área de Influencia del Proyecto en 
+evaluación. 
+Logro educacional más 
+alto alcanzado 
+El Salto 
+(Urbano) 
+El Salto 
+(Rural) 
+Las Lomas 
+El Calichero 
+Total 
+Educación menor a 
+primaria 
+28 
+5 
+139 
+7 
+178 
+Educación primaria 
+192 
+13 
+571 
+20 
+796 
+Educación secundaria 
+110 
+18 
+425 
+6 
+559 
+Educación terciaria, 
+maestría y doctorado 
+23 
+2 
+95 
+1 
+121 
+Educación especial o 
+diferencial 
+3 
+0 
+7 
+0 
+10 
+Total 
+356 
+38 
+1.237 
+34 
+1.664 
+Fuente: Elaboración propia en base a datos del Censo 2024, INE. 
+7.2.2.4. 
+Migraciones 
+Según el Censo 2024 la comuna de Viña del Mar reunía un total del 5,9% de su población 
+como inmigrantes internacionales, lo que equivale a alrededor de 20.000 personas 
+provenientes de otros países que se encuentran establecidos y como residentes en el 
+territorio comunal. Por su parte, la comuna de Quilpué, en el año 2024, registró un 4,1%, 
+que representa un total de 7.000 extranjeros. 
+Respecto a la migración en los sectores involucrados se identifica la presencia de población 
+migrante con residencia habitual exclusivamente en los sectores de Las Lomas y El Salto 
+Urbano. En contraste, las localidades de El Salto Rural y El Calichero no registran 
+asentamientos ni representatividad de este grupo poblacional, evidenciando una 
+distribución heterogénea del componente migratorio dentro de los límites del Área de 
+Influencia (Tabla 12). 
+Al analizar en detalle este componente, el sector de El Salto Urbano evidencia un 3,7% de 
+población inmigrante respecto a su total local, mientras que en Las Lomas este grupo 
+alcanza un 17,5%. Con estos valores, y considerando la nula representatividad registrada 
+en El Calichero, la población extranjera representa un 13,8% del total de los habitantes del 
+Área de Influencia. 
+
+===== p.52 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+53 
+ 
+ 
+Tabla 12: Población inmigrante internacional en el Área de Influencia. 
+Sectores 
+Población 
+inmigrante 
+Porcentaje de población 
+inmigrante 
+El Salto (Urbano) 
+13 
+3,7% 
+El Salto (Rural) 
+0 
+0% 
+Las Lomas 
+218 
+17,5% 
+El Calichero  
+0 
+0% 
+Total 
+231 
+13,8% 
+Fuente: Censo 2024, INE. 
+Al contrastar estas cifras con la escala comunal, se evidencia que la dinámica migratoria 
+dentro del Área de Influencia presenta un comportamiento altamente disímil respecto a la 
+realidad de la comuna de Quilpué, donde la población extranjera representa un 4,1% del 
+total de sus habitantes. Esta desconexión comunal está explicada por la fuerte 
+concentración observada en el sector de Las Lomas, donde la presencia de población 
+inmigrante internacional alcanza un 17,5%, una cifra que resulta casi cuatro veces mayor 
+que el promedio registrado a nivel comunal. 
+Tabla 13: Población inmigrante internacional en comunas de Viña del Mar y Quilpué. 
+Comunas 
+Porcentaje de población inmigrante 
+internacional 
+Viña del Mar 
+5,9% 
+Quilpué 
+4,1% 
+Fuente: Censo 2024, INE. 
+En la actualidad, la situación en el sector de Las Lomas coincide con lo registrado en el 
+Censo 2024, que evidenciaba una estabilidad en la composición de la población local. Así 
+lo confirma el testimonio del Presidente del Comité Valle del Sol, quien señala: "Acá en el 
+sector no, acá se mantiene la misma gente." Sin embargo, es importante destacar que, 
+según el testimonio de una residente y de la Presidenta del Comité "El Renacer de La 
+Pradera", en los inicios del sector donde se ubica este último comité (ver Figura 2), sí ha 
+habido un incremento de población extranjera. En este sentido, una de ellas menciona: "No, 
+todo igual (en la zona interna de Las Lomas), al menos todo sí porque (…) en la entrada, sí 
+pues, la entrada hay cualquier extranjero. En la entrada, cuando uno viene de allá para 
+acá..." Esto sugiere que, aunque el núcleo de la población de Las Lomas se ha mantenido 
+consolidado, las zonas de acceso más cercanas a la ciudad, han experimentado cambios 
+demográficos asociados a flujos de migración reciente.  
+
+===== p.53 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+54 
+ 
+ 
+7.2.3. Dimensión antropológica 
+7.2.3.1. 
+Características étnicas de la población  
+De acuerdo con los resultados del Censo de Población y Vivienda (2024), la comuna de 
+Viña del Mar posee una población de 16.080 personas (4,8%) que se consideran 
+pertenecientes a un pueblo indígena u originario. Por su parte, en la comuna de Quilpué, 
+7.940 personas (4,9%) se autoidentifican bajo esta condición. En ambas jurisdicciones 
+comunales, el pueblo con mayor predominancia y representatividad es el Mapuche, 
+registrando 12.287 personas en Viña del Mar (equivalente al 3,67% de su población total) 
+y 6.103 personas en Quilpué (3,75% del total comunal). 
+Tabla 14: Población perteneciente a Pueblos Originarios en la comuna de Viña del Mar y Quilpué. 
+Pueblo 
+Originario 
+Viña del Mar 
+Quilpué 
+Total de 
+pertenecientes 
+Porcentaje en 
+relación al total de 
+la comuna. 
+Total de 
+pertenecientes 
+Porcentaje en 
+relación al total de 
+la comuna. 
+Mapuche 
+12.287 
+3,67% 
+6.103 
+3,75% 
+Aymara 
+962 
+0,3% 
+420 
+0,25% 
+Rapa Nui 
+213 
+0,06% 
+66 
+0,04% 
+Atacameño o 
+Lickanantay 
+253 
+0,08% 
+122 
+0,07% 
+Quechua 
+170 
+0,05% 
+76 
+0,05% 
+Colla 
+132 
+0,04% 
+59 
+0,04% 
+Diaguita 
+1.529 
+0,46% 
+835 
+0,51% 
+Chango 
+73 
+0,02% 
+0 
+0% 
+Otro 
+301 
+0,09% 
+142 
+0,09% 
+Valor suprimido 
+por 
+anonimización 
+101 
+0,03% 
+97 
+0,06% 
+Total Pueblos 
+Originarios 
+16.021 
+4,8% 
+7.920 
+4,9% 
+Fuente: INE, 2024. 
+Además del pueblo Mapuche, otros grupos indígenas con presencia significativa incluyen a 
+los Diaguita, Aimara, Rapa Nui y personas que se identifican con otros pueblos originarios. 
+En Viña del Mar, el segundo grupo con más representación es el Diaguita, con 1.529 
+personas (0,45%), seguido del Aimara con 962 personas (0,28%). De igual manera, en 
+Quilpué, la segunda mayor población indígena corresponde a la Diaguita, con 835 personas 
+(0,51%), y le sigue el Aimara con 420 personas (0,25%). Estos datos reflejan la diversidad 
+de pueblos originarios en ambas comunas y la manera en que diferentes grupos han debido 
+mantener su identidad cultural dentro de estas zonas urbanas. 
+Tabla 15: Población perteneciente a Pueblos Originarios en la comuna de Viña del Mar y Quilpué. 
+Unidad territorial 
+Porcentaje de población perteneciente 
+a pueblos originarios 
+Viña del Mar 
+4,8% 
+
+===== p.54 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+55 
+ 
+ 
+Unidad territorial 
+Porcentaje de población perteneciente 
+a pueblos originarios 
+Quilpué 
+4,9% 
+Región de Valparaíso 
+5,5% 
+Fuente: INE, 2024. 
+A nivel local, el análisis de los datos del Censo (2024) revela una presencia acotada y 
+heterogénea dentro del Área de Influencia (ver Tabla 16). El sector de Las Lomas concentra 
+la mayor representatividad relativa con un 8,2% de sus habitantes autoidentificados con un 
+pueblo originario. No obstante, al evaluar la vigencia de sus rasgos culturales esenciales, 
+se constata que sólo el 17,6% de este subgrupo declara hablar o comprender su lengua 
+nativa. En contraste, el sector de El Salto posee una presencia correspondiente al 2,0% de 
+su población, mientras que en la localidad de El Calichero no se registran habitantes 
+pertenecientes a pueblos indígenas.  
+Este bajo número de personas que se consideran parte de un pueblo originario refleja una 
+presencia limitada de estos grupos en la zona. En términos porcentuales, la proporción de 
+población indígena en el Área de Influencia es considerablemente menor al promedio 
+comunal. Esta situación es destacada por la presidenta del Comité El Renacer de La 
+Pradera en Las Lomas, quien señala: “Sí, sí hay personas que pertenecen a etnias, pero 
+no es un gran porcentaje”. 
+Tabla 16: Población perteneciente a Pueblos Indígenas en el Área de Influencia. 
+Sector 
+Población perteneciente a 
+Pueblos Indígenas 
+Población que habla o 
+entiende lenguas indígenas 
+El Salto 
+(Urbano) 
+7 
+0 
+El Salto 
+(Rural) 
+0 
+0 
+Las Lomas 
+102 
+18 
+El Calichero 
+0 
+0 
+Total 
+109 
+18 
+Fuente: Censo 2024, INE. 
+Según el registro de la Corporación Nacional de Desarrollo Indígena [CONADI], y a través 
+del visualizador del Sistema Integrado de la Información CONADI [SIIC], no se identifican 
+compras de Tierras Indígenas art. 20a y art. 20b, Títulos de Merced, ni Áreas de Desarrollo 
+Indígena en el territorio abarcado por el Área de Influencia del Proyecto en evaluación. 
+
+===== p.55 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+56 
+ 
+ 
+7.2.3.2. 
+Organizaciones de Grupos Humanos pertenecientes a Pueblos 
+Indígenas (GHPPI) 
+De acuerdo con el registro de asociaciones indígenas vigentes de la CONADI con fecha del 
+28 de abril de 2026, en las comunas de Viña del Mar y Quilpué como unidades territoriales, 
+figuran un total de 19 agrupaciones inscritas oficialmente (ver Tabla 17): 10 pertenecientes 
+a la comuna de Quilpué y 9 en Viña del Mar. 
+Se consultó el catastro oficial de comunidades y asociaciones indígenas de la CONADI, 
+identificando que para las provincias de Marga Marga y Valparaíso existen tres 
+comunidades de origen indígena, las cuales se localizan exclusivamente en las comunas 
+de Villa Alemana y Valparaíso. A partir de estos antecedentes, se descarta de manera 
+categórica cualquier afectación directa o indirecta sobre comunidades indígenas legalmente 
+constituidas, dada la amplia distancia física entre las comunidades y los límites del Área de 
+Influencia del Proyecto en evaluación. 
+Tabla 17: Registro de GHPPI de Viña del Mar y Quilpué. 
+Comuna 
+Nombre de organización 
+Tipo de pueblos que reúne 
+Viña del Mar 
+Asociación Indígena "Asociación 
+Gremial de Microempresarios 
+Indígenas" 
+Mapuche 
+Viña del Mar 
+Asociación Indígena Mapuche "Willi 
+Kürrof” 
+Mapuche 
+Viña del Mar 
+Rhaien Warhia 
+Mapuche 
+Viña del Mar 
+Relmu Lafquen 
+Mapuche 
+Viña del Mar 
+Asociación Indígena Nag Mapu 
+Mapuche 
+Viña del Mar 
+Asociación Indígena Nguillatue Relmu 
+Rayen Chod Lafken 
+Mapuche 
+Viña del Mar 
+Lof Trawun Ailla Lafken 
+Mapuche 
+Viña del Mar 
+Witra Lewi Ni Puche 
+Mapuche 
+Viña del Mar 
+Taiñ Lof 
+Mapuche 
+Quilpué 
+Agrupación Indígena Antümapü 
+Mapuche 
+Quilpué 
+Asociación Indígena Rapa Nui "Atamu 
+Tekena" 
+Mapuche 
+Quilpué 
+Alongkewun 
+Mapuche 
+Quilpué 
+We Nepeln Pu Domo 
+Mapuche 
+Quilpué 
+Kimchengneami 
+Mapuche 
+Quilpué 
+Folitun Iñ Foliln 
+Mapuche 
+
+===== p.56 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+57 
+ 
+ 
+Comuna 
+Nombre de organización 
+Tipo de pueblos que reúne 
+Quilpué 
+Pueblos Andinos Kolla Suyo 
+Multicultural 
+Quilpué 
+Nehuen Mapu 
+Multicultural 
+Quilpué 
+Rayen Mahuida 
+Mapuche 
+Quilpué 
+Diaguita Ypachay del Marga Marga 
+Diaguita 
+Fuente: CONADI, 2026. 
+De acuerdo con el registro de agrupaciones de CONADI (2026), ninguna de las 
+agrupaciones mencionadas se encuentra dentro del área de influencia del Proyecto, como 
+se evidencia en la Figura 21, donde la totalidad de estas se ubican en las áreas urbanas de 
+cada comuna. Además, dos asociaciones indígenas registradas, Rayen Mahuida en 
+Quilpué y Lof Trawun Ailla Lafken en Viña del Mar, no detallan su centro de reuniones. Su 
+participación en el área de influencia se descarta, ya que, según fuentes primarias, si bien 
+existen personas que se identifican con distintas etnias, no se realizan celebraciones ni 
+reuniones en los sectores comprendidos dentro de dicha área. 
+El presidente del Comité Valle del Sol menciona la existencia de personas con ascendencia 
+mapuche que realizaban actividades cerca del sector de Las Lomas, específicamente los 
+domingos, pero aclara que actualmente esto ya no ocurre: "Pero sí hacían como un, como 
+esta... No sé si se habrán rituales, pero sí hacían como, cosas así... por ejemplo, los 
+domingos hacían fuego y hacían ahí sus actividades" (...) "Ahora, últimamente no, 
+últimamente no se ha visto. Últimamente no se ha visto, pero si antes, sí hacían”. En caso 
+de que estas actividades se retomen, no existiría afectación por parte del Proyecto, ya que 
+durante su fase de construcción y cierre, los trabajos se realizarán de lunes a viernes, y en 
+la fase de operación, las emisiones de ruido, atmosféricas y de olores no serán significativas 
+para el sector de Las Lomas. 
+Durante las entrevistas, la dueña del Almacén Trébol mencionó que posee ascendencia 
+mapuche, aunque no forma parte de ninguna comunidad o agrupación indígena. En este 
+sentido, destacó que en la zona existen personas indígenas, pero en una proporción 
+reducida, señalando: "Sí, yo pertenezco a uno, pero, o sea, no pertenezco en realidad como 
+a alguna agrupación, pero soy indígena y hay, sí hay poco, hay poco sí, no es mucho." 
+Asimismo, enfatizó que su vínculo con la identidad indígena se limita a su ascendencia, sin 
+participar en actividades comunitarias ni en expresiones culturales organizadas: "Yo no 
+tengo ningún (tipo de manifestación)... como no pertenezco a nada, solamente tengo la 
+descendencia (refiriéndose a la ascendencia mapuche)." Dado que no participa en ninguna 
+
+===== p.57 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+58 
+ 
+ 
+instancia y tampoco tiene conocimiento de actividades o manifestaciones culturales 
+indígenas en la zona, se descarta la existencia de este tipo de actividades en el sector de 
+Las Lomas en la actualidad. 
+ 
+Figura 21: Agrupaciones y sitios de interés indígenas cercanos al Área de Influencia 
+Fuente: Elaboración propia en base a BCN y registro CONADI, 2026. 
+Por último, durante los trabajos en terreno, se obtuvo registro fotográfico (Figura 22) del 
+Centro Ceremonial Mapuche Relmu Rayen Chod Lafken ubicado en la comuna de Viña del 
+Mar, cercano al Jardín Botánico (ver Figura 21). Este espacio, que representa un punto de 
+encuentro para la comunidad indígena de Viña del Mar y Quilpué, es utilizado para la 
+realización de ceremonias y actividades culturales vinculadas a la cosmovisión mapuche. 
+Sin embargo, tal como se enmarca en la Figura 21, este centro ceremonial se encuentra 
+fuera del área de influencia del proyecto, por lo que no se prevé ninguna afectación derivada 
+de su desarrollo. 
+
+===== p.58 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+59 
+ 
+ 
+ 
+Figura 22: Entrada a Centro Ceremonial Mapuche, desde Camino El Olivar. 
+Fuente: Elaboración propia, octubre 2024. 
+7.2.3.3. 
+Manifestaciones de la cultura 
+En los sectores de Las Lomas y El Calichero, las personas entrevistadas coinciden en que 
+no existen espacios de encuentro comunitario destinados específicamente a esta función. 
+Asimismo, las fuentes primarias señalan que no es común celebrar festividades junto a los 
+vecinos de cada sector, aunque existen algunas excepciones. En el caso de El Salto, los 
+entrevistados mencionan que cuentan con una sede social, en el extremo poniente del 
+sector, donde se organizan actividades para toda la comunidad durante las Fiestas Patrias. 
+Uno de los entrevistados comenta al respecto: “Yo creo que, para el 18 yo creo que es lo 
+más… lo más visible (...) Ahí en la misma sede, ahí siempre hacen actividades en el 18 y 
+todo eso”. Sin embargo, ninguno de los entrevistados declara participar en dichas 
+actividades y enfatizan que “la gente es muy independiente de esas cosas acá (…) si hacen 
+algo, lo hacen en sus casas y no comparten con la comuna (refiriéndose a comunidad)”, 
+según señala otra vecina del sector. 
+
+===== p.59 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+60 
+ 
+ 
+ 
+Figura 23: Punta de diamante sector Las Lomas - Espacio de reunión comunitaria 
+Fuente: Elaboración propia, marzo 2025. 
+En el sector de Las Lomas, existen tres espacios utilizados de manera recurrente para 
+reuniones comunitarias: la Punta de Diamante, donde se llevan a cabo los encuentros del 
+Comité de Vivienda Valle del Sol (Figura 23); un domicilio particular que acoge las reuniones 
+del Comité de Vivienda El Renacer de La Pradera; y un espacio religioso evangélico (Figura 
+24). Debido a falta de regulación, los Comités de Vivienda no pueden contar con una sede 
+social propia, por lo que deben adaptarse a los espacios disponibles para organizarse. En 
+el caso del Comité de Vivienda Valle del Sol, se les facilitó una pequeña infraestructura 
+similar a una vivienda de emergencia para utilizar como sede social. Sin embargo, su 
+reducido tamaño dificulta la realización de reuniones con todos los socios, por lo que su uso 
+se limita a eventos o instancias puntuales en lugar de encuentros regulares. Así lo señala 
+la dueña del Almacén, que es parte de dicho Comité: 
+“después del incendio Techo para Chile creo que fue, ayudó a construir un tipo sede, 
+que en realidad es más chico que esto y ahí lo ocupan para reunirse, de vez en 
+cuando (..) más que nada ocupamos el espacio abierto porque el otro es tan chiquitito 
+que si metemos a la gente adentro, queda gente afuera” 
+
+===== p.60 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+61 
+ 
+ 
+Al igual que en El Salto, la comunidad de Las Lomas no suele realizar actividades conjuntas 
+durante las festividades del año. Así lo señala la dueña del Almacén El Corralero: “ya, pero 
+no, en tema de festividades, no, no celebramos mucho”. Sin embargo, en el último período, 
+varios comités y organizaciones han trabajado en conjunto para organizar una actividad 
+navideña dirigida a niños, niñas y jóvenes del sector. La misma entrevistada menciona: 
+“Navidad, que ahora se están organizando para que vengan, no sé, el Viejito Pascuero y 
+dulce a los niños”, mientras que la presidenta del Comité El Renacer de La Pradera confirma 
+la iniciativa: “Ahora estamos organizando nuestra primera fiesta, que será una fiesta de 
+Navidad que beneficiará a aproximadamente (…) como 70 niños”. 
+Si bien esta es la primera vez que se lleva a cabo, representa la mayor expresión de cultura 
+y sentido de comunidad en Las Lomas. La actividad consistía en recorrer el sector con una 
+camioneta decorada con temática navideña, entregando presentes a los más pequeños. La 
+presidenta agrega: “Es una fiesta navideña… se le va a hacer una actividad en la calle 
+principal, en Las Lomas, donde se están gestionando juegos inflables y otras atracciones 
+para entretenerlos, además de la entrega de una bolsa de dulces”. 
+Entre otras manifestaciones de cultura, aunque de menor escala, el Presidente del Comité 
+Valle del Sol, destaca las festividades del Día del Niño y Día de la Mamá, además de la 
+Navidad. Al respecto, señala: “lo que siempre tenemos en prioridad es el día del niño y 
+navidad (…) y día de la mamá”, llevando a cabo estas actividades para los socios de este 
+Comité en el espacio indicado en la Figura 23. 
+ 
+Figura 24: Espacio de manifestación religiosa evangélica (izquierda: año 2024; derecha: año 2026) 
+Fuente: Elaboración propia, 2026. 
+Por último, se encuentra el espacio religioso evangélico, también ubicado en Las Lomas, 
+donde cada domingo se llevan a cabo actividades, en la que participan los niños y niñas, 
+
+===== p.61 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+62 
+ 
+ 
+una característica que destaca la dueña del Almacén El Corralero. En relación con esto, la 
+entrevistada comenta: “Bueno, acá hay un grupo de gente con religión evangélica. Así que, 
+hacen actividades (…) para los niños los días domingos”. En la Figura 24 se muestra este 
+centro religioso y es importante mencionar que, debido al gran incendio de febrero de 2024, 
+este espacio se encuentra aún en reconstrucción. 
+7.2.4. Dimensión socioeconómica 
+7.2.4.1. 
+Característica de la fuerza de trabajo, empleo y desempleo 
+En lo que respecta a la dinámica del mercado laboral local, el análisis de las manzanas y 
+entidades censales que conforman el Área de Influencia registra un total de 138 personas 
+en situación de desocupación (INE, 2024). Por su parte, el segmento clasificado como 
+población fuera de la fuerza de trabajo es de 505 individuos, condición asociada 
+principalmente a la presencia de jubilados, pensionados y personas dedicadas a labores de 
+cuidado no remuneradas (Ver Tabla 9). 
+En cuanto a la población ocupada, el Censo 2024 identifica un total de 619 personas, las 
+cuales se subdividen según su categoría ocupacional en tres grupos: en primer lugar, los 
+trabajadores dependientes, que constituyen el grupo mayoritario con 312 individuos; 
+seguidos por los trabajadores independientes (por cuenta propia o empleadores), con 285 
+personas; y finalmente, la categoría de trabajador familiar o personal no remunerado, que 
+registra 22 casos. Esta estructura laboral evidencia un equilibrio relativo entre el empleo 
+formal asalariado y las dinámicas de autoempleo o emprendimiento independiente dentro 
+del área. 
+7.2.4.2. 
+Actividades productivas en el contexto del uso de los recursos 
+naturales 
+El Área de Influencia del Proyecto se enmarca dentro de un espacio interurbano entre Viña 
+del Mar y Quilpué, caracterizado por una morfología de altas pendientes y cerros. Según la 
+clasificación del CIREN (2016), estos terrenos corresponden a suelos de clase VII, los 
+cuales, de acuerdo con el Servicio Agrícola y Ganadero [SAG] (2011), no son arables y, por 
+lo tanto, inapropiados para actividades agrícolas. Debido a esta condición, la actividad 
+agrícola es prácticamente inexistente en el Área de Influencia. 
+Durante las entrevistas y el trabajo en terreno, se pudo observar que existe una importante 
+actividad ganadera en el sector de El Salto e incluso para residentes de Las Lomas. Esto 
+resulta coherente al considerar que el Área de Influencia corresponde a una zona 
+
+===== p.62 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+63 
+ 
+ 
+periurbana, donde convergen dinámicas urbanas y rurales. Si bien la mayoría de sus 
+habitantes desarrolla su vida en torno a ciudades como Viña del Mar o Quilpué, también es 
+posible encontrar actividades como la crianza de animales, favorecida por la disponibilidad 
+de espacio y las condiciones del sector, especialmente en El Salto. En particular, en este 
+sector, las viviendas y propiedades suelen contar con características que permiten esta 
+actividad, como se observa en la Figura 25. 
+Las fuentes primarias respaldan esta observación. El jefe de la empresa de Transporte de 
+Áridos, al ser consultado sobre algún espacio u objeto simbólico de la zona, señala: “puede 
+ser de los que crían animales, porque la mayoría tiene animales aquí”. De manera similar, 
+un vecino de El Salto comenta: “Aquí casi todos se dedican a los animales y eso”, 
+reafirmando la relevancia de la actividad ganadera en el sector como parte de sus vidas 
+cotidianas. 
+ 
+Figura 25: Viviendas en sector de El Salto, cercano al estero Marga Marga. 
+Fuente: Elaboración propia, noviembre 2024. 
+En el sector de Las Lomas, la cría de animales también es una actividad presente entre 
+algunos residentes y en particular del presidente del Comité Valle del Sol, para quien esta 
+práctica forma parte de su ocupación y constituye una fuente de ingresos para su hogar. Al 
+respecto, señala: “Crío animales (...) los animales están sueltos justo ahí enfrente, donde 
+se va a emplazar el proyecto, pero a nosotros ya nos avisaron ya, que de hecho están todos 
+corriendo hacia el otro lado”. En este sentido, el Proyecto se ubicará en una fracción de una 
+propiedad privada, lo que permitirá que quienes se dedican a la crianza de animales puedan 
+seguir utilizando el resto del terreno, siempre que el propietario mantenga su disposición 
+actual de facilitar el espacio. Además, el proyecto contará con un cercado perimetral, cuya 
+función será evitar el paso de animales sin poner en riesgo a estos ni al funcionamiento de 
+
+===== p.63 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+64 
+ 
+ 
+las futuras instalaciones. Dado que la actividad de crianza se desarrolla en una ladera de 
+más de 1.000 ha y que el Proyecto ocupará únicamente 63,10 ha dentro de un predio 
+privado de aproximadamente 203 ha, no se prevé una reducción significativa de la 
+superficie utilizada para esta actividad ni de su productividad. En consecuencia, también se 
+descarta un impacto relevante en las actividades productivas de los habitantes del Área de 
+Influencia. 
+Además, durante el primer acercamiento en el sector de El Calichero, se pudo conocer que, 
+históricamente, en el Estero Marga Marga dentro del Área de Influencia del proyecto, se ha 
+llevado a cabo la recolección de oro de manera artesanal. Aunque esta actividad ha 
+disminuido con el tiempo y actualmente la extracción es limitada, aún persiste en la zona. 
+En este sentido, es relevante destacar que, si el Proyecto en evaluación opera conforme a 
+sus estándares de funcionamiento y cumple con las normativas aplicables a los Rellenos 
+Sanitarios, como el Decreto 189, que regula la recolección y tratamiento de lixiviados 
+evitando su infiltración en aguas subterráneas, no debería representar un riesgo para esta 
+actividad productiva ni para la salud de las personas que continúan ejerciéndola. 
+7.2.5. Dimensión Bienestar Social Básico 
+7.2.5.1. 
+Acceso a la vivienda y a los servicios básicos 
+Según en el Censo del año 2024, dentro del Área de Influencia existe un total de 739 
+viviendas particulares y ninguna de tipo colectiva. De este total, 83 viviendas se encuentran 
+desocupadas, por lo que 656 presentan, efectivamente, moradores que hacen uso de ella. 
+Estas 656 viviendas corresponden a las que son evaluadas finalmente (de estas 40 no 
+responden por lo que el universo total es 616), respecto a su índice de materialidad, 
+abarcando los muros exteriores, cubierta del techo y el tipo de construcción del piso, los 
+cuales son clasificados en tres categorías cada uno: aceptable, recuperable e irrecuperable 
+(INE, 2024). 
+De acuerdo con lo anterior, en la Tabla 18 se observa el número de casos y el porcentaje 
+del total de residencias que existen para cada uno de los aspectos de la materialidad de la 
+vivienda. En el Área de Influencia, las viviendas y su tipo de muros exteriores más frecuente 
+corresponde al tabique forrado por ambas caras (madera o acero), con 310 viviendas que 
+representan el 50,5% del total de casos. Le sigue el tabique sin forro interior (madera u otro 
+material), con 174 viviendas (28,3%). Estas construcciones se clasifican como materialidad 
+aceptable y recuperable, respectivamente. La presencia de viviendas con materialidades 
+tanto recuperables como irrecuperables está estrechamente relacionada con la existencia 
+
+===== p.64 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+65 
+ 
+ 
+de asentamientos humanos informales dentro del Área de Influencia. En este sentido, en 
+una menor proporción, se constata la existencia de 99 viviendas construidas con materiales 
+precarios (lata, cartón o plástico), representando el 16% de la muestra, seguidas por 3 
+(0,5%) viviendas edificadas en adobe, barro, quincha u otro sistema artesanal tradicional. 
+En cuanto a la cubierta del techo, la mayoría de las viviendas poseen planchas metálicas 
+de zinc, cobre, etc. o fibrocemento (tipo pizarreño), con 482 casos, equivalentes al 78,3% 
+del total. En menor proporción, pero el segundo más repetido son 57 viviendas (9,3%) que 
+cuentan con techos de materiales precarios (lata, cartón, plásticos, etc.), mientras que las 
+opciones de tejas o tejuelas de arcilla, metálicas, de cemento, de madera, asfálticas o 
+plásticas y fonolita o plancha de fieltro embreado tienen 17 (2,8%) y 6 (1,0%) viviendas, 
+respectivamente. Al igual que en el caso de los muros exteriores, y conforme a lo señalado 
+por el Glosario por Temática del INE (2018), los dos tipos de cubiertas más comunes se 
+consideran de materialidad aceptable y recuperable. 
+Respecto a la construcción del piso, la mayor parte de las viviendas posee parquet, piso 
+flotante, cerámico, madera, alfombra, flexit, cubrepiso u otro similar, sobre radier o vigas de 
+madera, con 399 viviendas (64,8%), siendo esta la única clasificación aceptable por el INE 
+(2017) dentro del Área de Influencia. Por otro lado, 79 viviendas (12,8%) cuentan con radier 
+sin revestimiento, 44 (7,1%) con baldosa de cemento, 28 (4,6%) con capa de cemento sobre 
+tierra y 66 (10,7%) con pisos de tierra, esta última clasificada como irrecuperable. 
+Tabla 18: Materialidad de las viviendas en el Área de Influencia del Proyecto. 
+Materialidad 
+de la 
+vivienda 
+Índice de 
+materialidad 
+de las 
+viviendas 
+Detalles de materialidad 
+Casos Porcentaje 
+del total 
+Muros 
+exteriores 
+Aceptable 
+Hormigón armado 
+9 
+1,5% 
+Albañilería: bloque de cemento, 
+piedra o ladrillo 
+21 
+3,4% 
+Tabique forrado por ambas 
+caras (madera o acero) 
+310 
+50,5% 
+Recuperable 
+Tabique sin forro interior 
+(madera u otro) 
+174 
+28,3% 
+Adobe, barro, quincha, pirca u 
+otro artesanal tradicional 
+3 
+0,5% 
+Irrecuperable 
+Materiales precarios (lata, 
+cartón, plástico, etc.) 
+99 
+16,0% 
+Cubierta del 
+techo 
+Aceptable 
+Tejas o tejuelas de arcilla, 
+metálicas, de cemento, de 
+madera, asfálticas o plásticas 
+17 
+2,8% 
+Losa hormigón 
+3 
+0,5% 
+
+===== p.65 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+66 
+ 
+ 
+Materialidad 
+de la 
+vivienda 
+Índice de 
+materialidad 
+de las 
+viviendas 
+Detalles de materialidad 
+Casos Porcentaje 
+del total 
+Planchas metálicas de zinc, 
+cobre, etc. o fibrocemento (tipo 
+pizarreño) 
+482 
+78,3% 
+Planchas de fibrocemento tipo 
+pizarreño 
+26 
+4,2% 
+Recuperable 
+Fonolita o plancha de fieltro 
+embreado 
+6 
+1,0% 
+Paja, coirón, totora o caña 
+0 
+0% 
+Irrecuperable 
+Materiales precarios (lata, 
+cartón, plásticos, etc.) 
+57 
+9,3% 
+Sin cubierta sólida de techo 
+25 
+4,1% 
+Construcción 
+del piso 
+Aceptable 
+Parquet, piso flotante, cerámico, 
+madera, alfombra, flexit, 
+cubrepiso u otro similar, sobre 
+radier o vigas de madera 
+399 
+64,8% 
+Recuperable 
+Radier sin revestimiento 
+79 
+12,8% 
+Baldosa de cemento 
+44 
+7,1% 
+Capa de cemento sobre tierra 
+28 
+4,6% 
+Irrecuperable 
+Tierra 
+66 
+10,7% 
+Fuente: Censo 2024, INE. 
+Considerando los antecedentes anteriores, el índice de materialidad de la vivienda 
+predominante en el Área de Influencia es el aceptable, con 340 casos (55,2%) del total de 
+viviendas habitadas y censadas (ver Tabla 19). Le sigue el índice de materialidad 
+recuperable, que corresponde a 177 casos (28,7%). Por último, 99 viviendas (16,1%) 
+presentan materialidad irrecuperable, lo que indica la presencia de condiciones 
+habitacionales más precarias en una parte del territorio. 
+En conclusión, el contexto de asentamientos informales en la zona influye en que el índice 
+de materialidad aceptable sea relativamente bajo en comparación con otras áreas del país. 
+Esto se refleja en el alto porcentaje de viviendas con materialidad recuperable e 
+irrecuperable, lo que evidencia una mayor vulnerabilidad en las condiciones habitacionales 
+del Área de Influencia. 
+Tabla 19: Índice de materialidad de las viviendas en el Área de Influencia. 
+Índice de materialidad 
+Casos 
+Porcentaje del total 
+Aceptable 
+340 
+55,2% 
+Recuperable 
+177 
+28,7% 
+Irrecuperable 
+99 
+16,1% 
+Fuente: Censo 2024, INE. 
+
+===== p.66 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+67 
+ 
+ 
+Para las manzanas y entidades que abarcan los sectores de El Salto, Las Lomas y El 
+Calichero, los servicios como el agua tienen un carácter predominantemente urbano, en 
+concordancia con las dinámicas propias de la zona. A partir de los antecedentes de la Tabla 
+20, se evidencia que la principal fuente de abastecimiento de agua para las viviendas dentro 
+del Área de Influencia proviene de la red pública, registrando 390 casos (63,3%). Sin 
+embargo, aún persisten otras alternativas de suministro, como el uso de camiones aljibe, 
+que abastecen a 205 viviendas (33,3%). En una menor escala, se registra la utilización de 
+pozos o norias con 13 casos (2,1%), seguida por la captación directa desde ríos, vertientes, 
+esteros, canales o lagos, la cual abastece a 8 viviendas (1,3%). 
+Respecto al suministro de energía eléctrica, la principal fuente de abastecimiento para las 
+viviendas del Área de Influencia corresponde a la red pública, la cual abastece a 423 
+viviendas (68,8%), evidenciando un predominio de infraestructura eléctrica convencional en 
+el territorio. Sin embargo, aún persisten otras formas de abastecimiento energético, entre 
+las que destacan el uso de generadores alimentados con diésel o bencina, presentes en 18 
+viviendas (2,9%), y la utilización de paneles solares, registrados en 8 viviendas (1,3%). 
+Asimismo, se identifican 11 viviendas (1,8%) que utilizan otras fuentes de energía, mientras 
+que 155 viviendas (25,2%) declaran no contar con suministro de energía eléctrica. 
+En conjunto, estos antecedentes reflejan que, si bien la mayoría de las viviendas del Área 
+de Influencia cuenta con acceso a la red pública de agua potable y electricidad, aún 
+persisten sectores que dependen de sistemas de abastecimiento autónomos o de fuentes 
+alternativas, e incluso viviendas sin acceso a la red eléctrica. Esta situación evidencia 
+diferencias en las condiciones de acceso a la infraestructura básica, principalmente en los 
+sectores de menor consolidación urbana y con características más rurales, donde el acceso 
+a estos servicios presenta mayores niveles de vulnerabilidad. 
+Tabla 20: Servicios básicos (agua y electricidad) de las viviendas en el Área de Influencia del 
+Proyecto. 
+Servicio básico 
+Casos 
+Porcentajes del 
+total 
+Fuente de agua 
+Red pública 
+390 
+63,3% 
+Pozo o noria 
+13 
+2,1% 
+Camión aljibe 
+205 
+33,3% 
+Río, vertiente, estero, canal, lago, etc. 
+8 
+1,3% 
+Total  
+616 
+100% 
+Fuente de electricidad 
+Red pública 
+423 
+68,8% 
+
+===== p.67 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+68 
+ 
+ 
+Servicio básico 
+Casos 
+Porcentajes del 
+total 
+Generador con diesel o bencina 
+18 
+2,9% 
+Placa solar 
+8 
+1,3% 
+Energía eólica 
+0 
+0% 
+Otro 
+11 
+1,8% 
+No tiene energía eléctrica 
+155 
+25,2% 
+Total 
+615 
+100% 
+Fuente: Censo 2024, INE. 
+El acceso a servicios como WiFi o internet fijo presenta problemas de conectividad en el 
+sector de Las Lomas, según lo señalado por las fuentes primarias. Entrevistados 
+pertenecientes a los Comités de Vivienda y a los almacenes del sector indican que el 
+funcionamiento deficiente del servicio limita el acceso a internet, una herramienta 
+fundamental para la comunicación y el acceso a información. Esta situación se agravó tras 
+el gran incendio de febrero de 2024, el cual dañó parte del cableado y de la infraestructura 
+de telecomunicaciones de la zona. Al momento del levantamiento de información, los 
+habitantes señalan que gran parte de esta infraestructura aún no había sido completamente 
+restituida, manteniendo un servicio de conectividad inestable. 
+Estos antecedentes se reflejan parcialmente en los resultados del Censo de Población y 
+Vivienda 2024, los cuales muestran que solo 43 hogares (6,9%) cuentan con acceso a 
+internet fijo y 11 hogares (1,8%) utilizan conexión satelital, mientras que 41 hogares (6,5%) 
+declaran no disponer de acceso a internet. No obstante, el acceso a este servicio continúa 
+siendo ampliamente utilizado mediante internet móvil, presente en 531 hogares (84,8%), 
+permitiendo que la mayor parte de la población mantenga conectividad, aunque con una 
+calidad y estabilidad que, de acuerdo con las fuentes primarias, resulta insuficiente en 
+algunos sectores del Área de Influencia, particularmente en Las Lomas. 
+Tabla 21: Servicios de acceso a internet de los hogares en el Área de Influencia del Proyecto. 
+Servicio de acceso a internet 
+Casos 
+Porcentajes del 
+total 
+Hogares con disponibilidad a internet 
+fija 
+43 
+6,9% 
+Hogares con disponibilidad a internet 
+móvil 
+531 
+84,8% 
+Hogares con disponibilidad a internet 
+por conexión satelital 
+11 
+1,8% 
+Total de hogares con disponibilidad a 
+internet 
+585 
+93,5% 
+Hogares sin disponibilidad a internet 
+41 
+6,5% 
+Total de hogares 
+626 
+100% 
+
+===== p.68 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+69 
+ 
+ 
+Fuente: Censo 2024, INE. 
+Por otro lado, en las entrevistas y trabajos de campo se constató que, en los sectores de El 
+Salto y El Calichero, no existen mayores problemas de interconexión móvil. Sin embargo, 
+ninguno de estos sectores cuenta con infraestructura para internet fijo, lo que obliga a la 
+población a depender exclusivamente de la señal de datos móviles para acceder a internet. 
+En este sentido, se observa que la telefonía celular constituye el principal medio de acceso 
+a internet dentro del Área de Influencia, permitiendo mantener la conectividad de la 
+población, aunque con diferencias en la calidad y estabilidad del servicio entre los distintos 
+sectores. 
+7.2.5.2. 
+Acceso al transporte 
+La mayoría de las fuentes primarias del Área de Influencia declaran trasladarse a través de 
+vehículo particular, ya sea uno propio, o uno de carácter familiar en el cual son trasladados 
+por una persona de este mismo grupo. En el sector de Las Lomas por su parte, también el 
+desplazamiento de las personas es complementado a través del traslado a pie, junto con la 
+utilización de transporte público. 
+En cuanto al transporte público, debido a la ubicación periurbana de estos sectores en Viña 
+del Mar y Quilpué, la oferta de este servicio es limitada. En la mayoría de los casos, no hay 
+más de tres recorridos de microbuses por sector, mientras que en El Salto la disponibilidad 
+es aún más reducida, con solo un recorrido de microbús y uno de colectivo. Estos servicios 
+permiten la conexión de estas zonas periféricas con el resto de la ciudad, facilitando el 
+acceso a los centros urbanos, donde se concentran la mayoría de los servicios. Además, 
+funcionan como enlaces hacia otros recorridos que amplían las opciones de 
+desplazamiento dentro del Gran Valparaíso. 
+La frecuencia de los microbuses varía entre 20 y 30 minutos, con un horario de 
+funcionamiento que se extiende hasta aproximadamente las 21:00 horas. En contraste, los 
+colectivos presentan una mayor frecuencia, lo que mejora su accesibilidad, aunque, según 
+las fuentes primarias, su costo es más elevado en comparación con el microbús. 
+7.2.5.3. 
+Acceso a la salud 
+De acuerdo con la información disponible en la IDE, inicialmente se identificó la presencia 
+del Centro de Referencia Odontológico Simón Bolívar dentro del Área de Influencia (Figura 
+27). Sin embargo, durante el levantamiento de información en terreno se verificó que dicho 
+
+===== p.69 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+70 
+ 
+ 
+registro corresponde a un error en la georreferenciación de la dirección, asociado a la 
+existencia de la calle Limache tanto en el sector de El Salto como en el área céntrica de 
+Viña del Mar. En efecto, el establecimiento de salud se emplaza en las cercanías del 
+Hospital Dr. Gustavo Fricke, en el sector centro de la comuna de Viña del Mar, y no dentro 
+del área de influencia del Proyecto (ver Figura 26). 
+ 
+Figura 26: Centro de Referencia Odontopediátrico Simón Bolívar. 
+Fuente: Google Street View, 2026. 
+Como consecuencia, se confirma que el Área de Influencia no cuenta con establecimientos 
+de salud, por lo que los residentes deben desplazarse fuera de la zona para acceder a estos 
+servicios, eligiendo entre Quilpué o Viña del Mar según la disponibilidad y urgencia de la 
+atención requerida. De acuerdo con la información del IDE, ambas comunas cuentan con 
+una oferta amplia y variada de servicios de salud, entre los que destacan los Centros de 
+Salud Familiar (CESFAM) y los Centros Comunitarios de Salud Mental (COSAM). 
+En el Área de Influencia del Proyecto en evaluación, la población suele acudir a los centros 
+de salud más cercanos dentro de las zonas urbanas. En el caso de Las Lomas y El 
+Calichero, el principal centro de atención es el CESFAM Pompeya, ubicado 
+aproximadamente a 15 minutos en colectivo. Este centro ofrece consultas médicas, 
+controles de salud y un Servicio de Atención Primaria de Urgencia (SAPU) para 
+emergencias básicas. Como menciona una residente del sector: 
+"No, la salud no está tan lejos. Tenemos un consultorio, que tomando colectivo son 
+unos 15 minutos… CESFAM Pompeya Sur se llama." (Dueña de Almacén Trébol). 
+Sin embargo, en casos de mayor gravedad, los habitantes de esta zona deben trasladarse 
+al Hospital de Quilpué, como señala un residente: 
+
+===== p.70 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+71 
+ 
+ 
+"Pero cuando me da esta cuestión de la presión, a mí me llevan al hospital, al hospital 
+porque me siento bien mal..." (Residente de Las Lomas). 
+ 
+Figura 27: Establecimientos de salud en Viña del Mar y Quilpué respecto al Área de Influencia 
+Fuente: Elaboración propia en base a información del IDE, 2026. 
+Por otro lado, en el sector de El Salto, los residentes acuden al CESFAM Dr. Marco 
+Maldonado, ubicado cerca del Hospital Dr. Gustavo Fricke, en pleno centro de Viña del Mar. 
+Esto implica que, para distintos niveles de urgencia, los habitantes deben trasladarse hasta 
+el centro de la ciudad. No obstante, la distancia dificulta el desplazamiento, por lo que se 
+hace necesario el uso de transporte público, como comentan algunos vecinos: 
+"Aproximadamente, media hora no más, o menos. Depende cuando vamos caminando, 
+ya nos demoramos más, porque tenemos que llegar hasta abajo caminando y allí tomar 
+colectivo." (Residentes de El Salto). 
+"Por medio de policlínico, aquí al lado del Hospital, por la calle Álvarez." (Residentes 
+de El Salto). 
+"No, al Hospital de Viña, a Viña vamos. Al consultorio… ¿cómo se llama el consultorio 
+de ahí?, aquí en Viña pues, en calle Álvarez." (Residentes de El Salto). 
+
+===== p.71 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+72 
+ 
+ 
+En general, la cobertura de salud en el Área de Influencia depende de la disponibilidad de 
+centros urbanos, lo que implica que la población debe trasladarse a sectores centrales para 
+recibir atención médica, ya sea en Quilpué o Viña del Mar. 
+7.2.5.4. 
+Acceso a la educación 
+Al igual que en el caso de la salud, en el ámbito educativo, el Área de Influencia no cuenta 
+con establecimientos educacionales dentro de su territorio (ver Figura 28), por lo que las 
+familias deben recurrir a colegios ubicados en las zonas urbanas de Viña del Mar y Quilpué. 
+Sin embargo, los residentes no perciben esto como un problema, ya que la oferta educativa 
+se encuentra a distancias razonables y cuentan con opciones de transporte adecuadas. 
+En el caso de Las Lomas, las familias optan por colegios cercanos, como menciona una 
+residente: 
+"Acompaño a mi hija que lleva al jardín al bebé. Vamos igual ella a las 8, nos vamos… 
+a las 8:30 hrs. entra, como a las 8:00 nos vamos de aquí, ella va en auto (...) porque 
+es acá en Los Pinos." (Residente de Las Lomas). 
+Así recalca la dueña del Almacén El Corralera, mencionando que existen colegios a 
+aproximadamente 15 minutos de distancia, con servicios de transporte escolar disponibles 
+para facilitar el traslado de los estudiantes: 
+"No acá la educación, en tema de niños, 15 minutos hay colegios, yo creo que eso está 
+bien, no hay problema en eso porque hay un colegio acá súper cerca... que tienen un 
+furgón, que se llama San Blass, y así que muchos niños de acá llegan a su casa en 
+furgón y se van en furgón." (Dueña Almacén El Corralero). 
+En este sentido, para el sector de Las Lomas, se destaca que la oferta de colegios 
+municipales en la zona es suficiente para cubrir la demanda local: 
+"Tenemos varios colegios cercanos municipales. No, no creo que haya un problema en 
+la educación, por el acceso a la educación no." (Presidenta Comité El Renacer de La 
+Pradera). 
+Por otro lado, en El Salto, algunas familias también optan por enviar a sus hijos a colegios 
+en Viña del Mar, dado que el acceso a estas instituciones es relativamente directo: 
+"Sí, porque un niño, que es mi nieto, va a la escuela a Viña también." (Residente de El 
+Salto). 
+
+===== p.72 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+73 
+ 
+ 
+En cuanto a la educación superior, ambas comunas cuentan con una amplia oferta de 
+instituciones, incluyendo centros técnicos profesionales y universidades. Entre ellas, 
+destacan la Universidad Técnica Federico Santa María y la Universidad Andrés Bello, 
+además de otras instituciones presentes en Viña del Mar y Quilpué. Esta diversidad de 
+opciones responde a la condición de ambas comunas como parte del Gran Valparaíso, una 
+zona metropolitana con una importante concentración de instituciones de educación 
+superior. Asimismo, los residentes de Viña del Mar y Quilpué también pueden acceder a la 
+oferta universitaria en la comuna de Valparaíso, donde se encuentran diversas 
+universidades reconocidas a nivel nacional. 
+ 
+Figura 28: Establecimientos educacionales en Viña del Mar y Quilpué respecto al Área de 
+Influencia 
+Fuente: Elaboración propia en base a datos del IDE, 2026.  
+7.2.5.5. 
+Acceso a recreación y equipamiento comunitario 
+En la Figura 30 se muestra la ubicación de los cuatro espacios de reunión comunitaria y 
+recreación existentes en el área de influencia, uno de ellos ubicado en el extremo poniente 
+del sector de El Salto. En este lugar se emplaza la sede social de la Junta de Vecinos El 
+Salto, la cual constituye el principal espacio de organización comunitaria del sector y cuenta, 
+
+===== p.73 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+74 
+ 
+ 
+además, con una cancha deportiva y una pequeña plaza con juegos infantiles (ver Figura 
+29), conformando el único espacio destinado al encuentro y la recreación de la comunidad.  
+De acuerdo con las entrevistas realizadas, si bien no todos los residentes participan 
+activamente de las actividades organizadas por la Junta de Vecinos, existe un 
+reconocimiento generalizado de la sede como un espacio de referencia para la comunidad. 
+Una de las entrevistadas señala: “Yo estoy inscrita, si, cuando hay reuniones, o llegan cosas 
+que... no sé, los traerán de la municipalidad, no sé, ahí nos mandan a llamar”, evidenciando 
+una participación más bien ocasional y vinculada a convocatorias específicas. Asimismo, 
+otro de los vecinos entrevistados menciona que en este lugar se desarrollan reuniones y 
+actividades recreativas, indicando que “Allá abajo en la sede, en la Junta de Vecinos (...) 
+no nosotros, pero… algunas tías o primos. Eh, juegan a la pelota a veces, por ahí, en la 
+cancha esa”, destacando el uso cotidiano del espacio deportivo por parte de vecinos del 
+sector. 
+ 
+Figura 29: Sede social Junta de Vecinos El Salto (arriba: entrada a sede social; abajo: plaza de 
+juegos aledaña). 
+Fuente: Elaboración propia, 2026. 
+
+===== p.74 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+75 
+ 
+ 
+En términos generales, las fuentes primarias indican que la sede social constituye el 
+principal equipamiento comunitario de El Salto, cumpliendo funciones de organización 
+vecinal y apoyo a actividades recreativas de carácter local, aun cuando la participación de 
+los entrevistados en dichas instancias resulte limitada. 
+El resto de los espacios comunitarios se sitúan en el sector de Las Lomas, a más de 1.800 
+y 2.000 metros al norte del Proyecto en evaluación. Uno de ellos es el espacio comunitario 
+del Comité de Vivienda Valle del Sol, un área abierta, descrita como ‘Punta de Diamante’ 
+por la dueña del Almacén El ‘Corralero’ (Figura 23), la cual es utilizada como punto de 
+encuentro para los residentes e inscritos en el Comité. Debido a restricciones normativas, 
+la organización no puede contar con una sede física, por lo que sus reuniones se realizan 
+al aire libre en este mismo lugar. Según el presidente del Comité, los vecinos de Las Lomas 
+se reúnen de manera mensual, el último domingo de cada mes, generalmente alrededor de 
+las 17:00 horas. No obstante, señala que “el horario siempre es como a las 5:00 hrs. de la 
+tarde, siempre entre las… bueno, ahora como que es más verano, como que lo vamos 
+tirando como más tarde, como tipo 6:30 hrs., 6:00-6:30 hrs”. 
+En segundo lugar, se encuentra el punto de reunión del Comité de Vivienda El Renacer de 
+La Pradera, ubicado en la calle La Pradera, dentro del sector de Las Lomas y colindante 
+con Pompeya Sur. Al igual que el Comité Valle del Sol, esta organización no cuenta con 
+una sede social formal, por lo que, hasta el día de hoy, sus reuniones se realizan en su 
+domicilio particular. Según su presidenta, “como no tenemos una sede, nos reunimos en el 
+patio de la casa”. Estas reuniones suelen realizarse los fines de semana para facilitar la 
+participación de los socios, considerando sus horarios laborales. En este sentido, la 
+Presidenta señala que “por lo general, son las reuniones los días sábados en la tarde y si 
+no el día domingo en la mañana”. 
+A pesar de no contar con una sede social oficializada por restricciones normativas, tanto el 
+Comité de Vivienda El Renacer de La Pradera como el Comité Valle del Sol cumplen un rol 
+clave en la organización y coordinación territorial. Estos puntos de reunión funcionan como 
+espacios estratégicos de encuentro y gestión comunitaria, lo que resalta su importancia 
+dentro del territorio de Las Lomas. 
+El último espacio para el sector de Las Lomas corresponde a un centro religioso de tradición 
+evangélica, donde se realizan actividades de manera rutinaria los días domingos, en 
+particular de instancias de recreación para niños y niñas. Al respecto, la dueña del Almacén 
+
+===== p.75 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+76 
+ 
+ 
+El Corralero señala: “Bueno, acá hay un grupo de gente con religión evangélica. Así que, 
+hacen actividades (…) para los niños los días domingos”. Actualmente, este centro religioso 
+se encuentra en proceso de reconstrucción debido al gran incendio que afectó la zona en 
+febrero de 2024, el cual es posible observar en la Figura 24. 
+ 
+Figura 30: Centros recreativos y espacio comunitario en el Área de Influencia del Proyecto en 
+evaluación 
+Fuente: Elaboración propia en base a datos de la IDE y BCN, 2026. 
+Para actividades deportivas o recreativas, las fuentes primarias del sector señalan que 
+deben salir de sus comunidades para acceder a opciones de entretenimiento o ejercicio. En 
+muchos casos, simplemente no participan en estas actividades más allá de lo que pueden 
+realizar en sus propios hogares. Según lo informado por estas fuentes y lo observado 
+durante la campaña en terreno, no existen plazas, áreas verdes recreativas ni espacios 
+comunitarios para los sectores de Las Lomas, El Salto y El Calichero en el Área de 
+Influencia. Solo se identificó una plaza y una cancha ubicadas fuera de esta zona, aunque 
+cercanas al sector de Las Lomas. 
+La plaza cuenta con juegos infantiles, pero su uso no es frecuente, como se evidenció en 
+terreno y confirmó la presidenta del Comité El Renacer de La Pradera: “Es la única plaza 
+
+===== p.76 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+77 
+ 
+ 
+que está en la entrada, esa que tú ves cuando… que está a 15 minutos del sector donde 
+vivimos nosotros… faltan espacios recreativos, falta fomentar el deporte”. 
+Respecto a la cancha, ubicada junto a la plaza, la presidenta señala que el lugar se ha 
+convertido en un punto de intercambio y consumo de drogas, lo que genera inseguridad en 
+la zona. Además, indica que, cuando la cancha es utilizada, no es por la comunidad local, 
+sino por clubes deportivos y personas de otros sectores de Quilpué: “Y cuando la usan, la 
+usan las personas que vienen de otros clubes deportivos, que eso es una vez cada cierto 
+tiempo que hacen sus encuentros futbolísticos, pero que tú puedas tener un acceso diario 
+y recrearte… No, no es posible”. 
+8. EVALUACIÓN DE IMPACTOS SOBRE LOS SISTEMAS DE VIDA Y COSTUMBRES 
+DE GRUPOS HUMANOS 
+Con el fin de justificar la inexistencia de impactos significativos en los Sistemas de Vida y 
+Costumbres de los Grupos Humanos pertenecientes al Área de Influencia (El Salto, Las 
+Lomas y El Calichero), se condensa la información recabada en los resultados a través de 
+los siguientes cuatros aspectos definidos por el artículo 7 del D.S N°40/2012 del Ministerio 
+de Medio Ambiente. 
+8.1. Análisis Artículo N°7 del D.S. N°40/2012 del Ministerio del Medio Ambiente 
+8.1.1. La intervención, uso o restricción al acceso de los recursos naturales 
+utilizados como sustento económico del grupo o para cualquier otro uso 
+tradicional, tales como uso medicinal, espiritual o cultural 
+El Proyecto se emplazará en un predio de carácter privado de aproximadamente 206 
+hectáreas, de las cuales 63,10 hectáreas serán utilizadas para la implementación de las 
+instalaciones asociadas al Centro Metropolitano de Gestión Integral de Residuos. De 
+acuerdo con la caracterización territorial realizada, los terrenos donde se emplazará el 
+Proyecto corresponden principalmente a áreas de bosque, pradera y matorral, localizadas 
+en sectores de ladera con pendientes pronunciadas. Estas características limitan 
+significativamente su aptitud para actividades agrícolas, por lo que no se identifican usos 
+productivos agrícolas consolidados que puedan verse afectados por la ocupación del 
+terreno proyectada. 
+En relación con las actividades de sustento económico desarrolladas por la población del 
+área de influencia, el levantamiento de información de terreno permitió identificar que 
+
+===== p.77 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+78 
+ 
+ 
+algunos residentes de los sectores de Las Lomas y El Salto mantienen actividades de 
+crianza de animales en pequeña escala. En particular, durante las entrevistas realizadas, 
+un representante del Comité de Vivienda Valle del Sol señaló que algunos animales utilizan 
+sectores de ladera ubicados frente al área donde se emplazaría el Proyecto para su 
+desplazamiento y alimentación. 
+Al respecto, si bien el Proyecto contempla la habilitación de instalaciones en una superficie 
+de 63,10 hectáreas dentro de un predio privado de 206 hectáreas en total, la intervención 
+física y restricción de acceso se circunscribirá exclusivamente a dicha área operativa. Esta 
+superficie contará con un cierre perimetral de carácter obligatorio, en estricto cumplimiento 
+del Artículo 14 del D.S. N°189/2005 del Ministerio de Salud, el cual exige la instalación de 
+un cerco de al menos 1,80 metros de altura diseñado específicamente para impedir el 
+ingreso de animales y personas ajenas a las instalaciones. 
+En consecuencia, dado que la restricción de acceso se limita normativamente al área 
+operativa del proyecto, el área restante del predio (aproximadamente 142,9 hectáreas) no 
+será objeto de cierres ni intervenciones, no constituyendo el Proyecto una barrera física 
+para el territorio aledaño. De este modo, se permite la continuidad de los desplazamientos 
+y los usos tradicionales de los recursos naturales, tales como las actividades de crianza o 
+pastoreo que los grupos humanos del sector. 
+Por otra parte, las observaciones realizadas durante el trabajo de terreno permitieron 
+constatar que, particularmente en el sector de El Salto, la crianza de animales se desarrolla 
+principalmente al interior de los propios terrenos de los residentes. Incluso en aquellos 
+casos donde eventualmente pudiera existir utilización de sectores abiertos para el 
+desplazamiento de animales, la superficie efectivamente restringida por el Proyecto no 
+representa una limitación significativa para el desarrollo de esta actividad, considerando la 
+disponibilidad de terrenos adyacentes y la permanencia de amplias áreas sin intervención 
+dentro del entorno inmediato. 
+Adicionalmente, durante el proceso de caracterización territorial se identificó la existencia 
+de referencias a actividades extractivas históricas asociadas a la explotación artesanal de 
+oro en sectores del estero Marga Marga. Si bien actualmente esta actividad presenta una 
+baja intensidad y una presencia limitada en comparación con períodos anteriores, continúa 
+formando parte de las prácticas económicas tradicionalmente desarrolladas en el territorio, 
+por lo que fue considerada dentro del presente análisis. 
+
+===== p.78 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+79 
+ 
+ 
+En este sentido, el Proyecto no contempla intervenciones directas sobre el cauce del estero 
+Marga Marga ni sobre los recursos utilizados para dichas actividades. Asimismo, los 
+estudios ambientales desarrollados para el Proyecto concluyen que las medidas de manejo 
+consideradas para la operación, particularmente aquellas asociadas a la captación, 
+conducción, almacenamiento, tratamiento y disposición de lixiviados, permiten prevenir 
+potenciales infiltraciones o contaminaciones de aguas superficiales y subterráneas. De esta 
+forma, se descarta la generación de alteraciones que pudieran afectar la calidad de los 
+recursos hídricos utilizados por la población o por quienes eventualmente continúan 
+desarrollando actividades extractivas en el entorno del estero. 
+En consecuencia, se concluye que el Proyecto no intervendrá, utilizará ni restringirá de 
+manera significativa el acceso a recursos naturales utilizados como sustento económico por 
+los grupos humanos del área de influencia, ni afectará usos tradicionales asociados a 
+actividades productivas, culturales o de otra naturaleza. Por lo tanto, se descarta la 
+generación del efecto, característica o circunstancia descrita en el artículo 7 del D.S. 
+N°40/2012 del Ministerio del Medio Ambiente. 
+8.1.2. La obstrucción o restricción a la libre circulación, conectividad o el aumento 
+significativo de los tiempos de desplazamiento. 
+El acceso al Proyecto se realizará directamente desde la Ruta Internacional 60-CH, 
+principal eje estructurante de conectividad del área y vía de alta capacidad que articula los 
+desplazamientos entre las comunas del Gran Valparaíso y las localidades interiores de la 
+región. En este contexto, si bien los sectores que conforman el área de influencia se 
+localizan en el entorno territorial de la Ruta 60-CH, estos no mantienen una relación 
+funcional directa con dicha ruta, dado que sus dinámicas cotidianas de movilidad se 
+desarrollan principalmente a través de calles y caminos locales que permiten la conexión 
+con los centros urbanos de Viña del Mar y Quilpué. 
+En particular, el sector de El Salto, en la comuna de Viña del Mar, se vincula principalmente 
+mediante calle Limache, eje donde se encuentra el transporte público utilizado por sus 
+residentes. Asimismo, el acceso más próximo entre este sector y la Ruta 60-CH se ubica a 
+más de 3,5 kilómetros del acceso proyectado para el Proyecto, por lo que las actividades 
+asociadas a su construcción y operación no interfieren con las rutas habitualmente 
+utilizadas por la comunidad. 
+
+===== p.79 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+80 
+ 
+ 
+Por su parte, el sector de Las Lomas, en la comuna de Quilpué, se conecta con el área 
+urbana consolidada mediante calles locales como Atacama y Humboldt, donde además se 
+emplazan los recorridos de transporte público utilizados por sus habitantes. De manera 
+similar, el sector de El Calichero se vincula funcionalmente con la ciudad de Quilpué a través 
+de la red vial local existente, accediendo al sector mediante el paso bajo nivel que atraviesa 
+la Ruta 60-CH y conecta con calles secundarias ubicadas al sur de dicha vía. En 
+consecuencia, las formas y rutas de desplazamiento de la población residente en estos 
+sectores no dependen directamente de la Ruta 60-CH ni de los accesos proyectados para 
+el Proyecto. 
+En este sentido, aun cuando la Ruta 60-CH constituye un elemento relevante para la 
+conectividad regional, su función corresponde principalmente a la de una vía rápida de 
+transporte intercomunal, distinta de las vías locales utilizadas cotidianamente por los 
+residentes del área de influencia. Por lo tanto, las actividades asociadas al Proyecto no 
+generan interferencias directas sobre los recorridos habituales utilizados por la población 
+del Área de Influencia para acceder a servicios, equipamientos, establecimientos 
+educacionales, centros de salud o lugares de trabajo. 
+Adicionalmente, la generación de tránsito asociada al Proyecto fue evaluada mediante un 
+Estudio de Impacto Vial (EIV) que se presenta en este EIA, el cual consideró las fases de 
+construcción y operación, correspondientes a los períodos de mayor demanda vehicular. 
+Los resultados indican que la incorporación de los flujos asociados al Proyecto no genera 
+alteraciones significativas en las condiciones operacionales de la Ruta 60-CH. En la fase 
+de construcción, el grado de saturación proyectado para el movimiento principal alcanza un 
+37,9%, mientras que en la fase de operación alcanza un 40,2%, valores que se mantienen 
+ampliamente por debajo de la capacidad de la infraestructura vial. Asimismo, el nivel de 
+servicio del movimiento principal se mantiene en categoría LOS A tanto en la situación base 
+como en la situación con Proyecto, evidenciando condiciones de circulación fluida, ausencia 
+de congestión y sin incrementos significativos en los tiempos de desplazamiento. 
+Considerando que el acceso al Proyecto se realizará directamente desde la Ruta 60-CH, 
+sin utilizar las vías locales que estructuran la movilidad cotidiana de los sectores de El Salto, 
+Las Lomas y El Calichero, y que los resultados del Estudio de Impacto Vial descartan una 
+alteración significativa de las condiciones de circulación en la red vial regional, se concluye 
+que el Proyecto no generará obstrucciones o restricciones a la libre circulación ni afectará 
+
+===== p.80 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+81 
+ 
+ 
+la conectividad de los grupos humanos presentes en el área de influencia. Asimismo, se 
+descarta la ocurrencia de aumentos significativos en los tiempos de desplazamiento de la 
+población residente o usuaria de las vías que conforman el sistema de movilidad local y 
+regional. 
+8.1.3. La alteración al acceso o a la calidad de bienes, equipamientos, servicios o 
+infraestructura básica. 
+Tal como se describe en el Capítulo 1 de la presente evaluación, el Proyecto contará con 
+sistemas propios para satisfacer los requerimientos de servicios básicos necesarios para 
+su construcción, operación y cierre. En particular, el abastecimiento energético se realizará 
+mediante sistemas autónomos de generación, considerando equipos electrógenos 
+alimentados con diésel durante las tres fases del proyecto (construcción, operación y 
+cierre), además de un sistema complementario compuesto por aproximadamente 330 
+paneles fotovoltaicos durante la operación. De esta forma, el funcionamiento del Proyecto 
+no dependerá de la red de distribución eléctrica utilizada por la población del área de 
+influencia. 
+De manera similar, el abastecimiento de agua potable se realizará mediante camiones aljibe 
+durante todas las fases del Proyecto, contemplando una disponibilidad de 150 litros diarios 
+por trabajador. Dado que la faena de construcción será mayor a 6 meses, el Proyecto 
+contará con una solución sanitaria particular, correspondiente a un sistema de infiltración. 
+Además, deberá contar con baños químicos, debido a que la reglamentación exige que el 
+personal disponga de servicios higiénicos a una distancia menor de 75 metros (Artículo 25 
+de D.S. N°594/2000 del Ministerio de Salud). 
+En consecuencia, el Proyecto no generará una demanda adicional sobre la red pública de 
+agua potable y descarga de aguas residuales domésticas al sistema alcantarillado. El 
+Proyecto cuenta con solución sanitaria particular para proveer a sus trabajadores de estos 
+suministros. Así mismo, la energía eléctrica será auto abastecida en el mismo proyecto. Por 
+lo tanto, no se prevén alteraciones en el acceso ni en la calidad de estos servicios para los 
+grupos humanos del territorio evaluado, manteniéndose sus condiciones actuales durante 
+toda la vida útil del Proyecto. 
+En cuanto a los equipamientos identificados dentro del área de influencia, el levantamiento 
+de información permitió identificar la sede social del sector El Salto (Figura 29), la cual 
+
+===== p.81 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+82 
+ 
+ 
+constituye el principal equipamiento comunitario del sector. Este espacio, administrado por 
+la Junta de Vecinos El Salto, cumple funciones de organización vecinal y apoyo a 
+actividades comunitarias, contando además con una cancha deportiva y una pequeña plaza 
+con juegos infantiles, conformándose como el principal punto de encuentro y recreación 
+para la población del sector. 
+Respecto de este equipamiento, los antecedentes desarrollados para el Proyecto permiten 
+descartar afectaciones tanto al acceso como a la calidad de las actividades que en él se 
+desarrollan. En primer lugar y según el Capítulo 1 de esta EIA, el carácter autónomo de los 
+sistemas de abastecimiento de agua, energía y saneamiento considerados por el Proyecto 
+impide que su funcionamiento genere una carga sobre los suministros utilizados por la sede 
+social o por la población del área de influencia. 
+Adicionalmente, los estudios ambientales desarrollados para el Proyecto descartan 
+afectaciones derivadas de emisiones atmosféricas, ruido u olores sobre este equipamiento. 
+En el caso de las emisiones odorantes, la sede social de El Salto se localiza fuera del área 
+de dispersión determinada por el estudio especializado (Anexo 4.4 de este EIA), por lo que 
+no se prevén exposiciones susceptibles de afectar el desarrollo de las actividades 
+comunitarias que allí se realizan. 
+Por otra parte, los resultados de la modelación de emisiones atmosféricas (Anexo 4.3 de 
+este EIA) indican que las concentraciones proyectadas de MP10, MP2,5, SO₂, NO₂ y CO 
+cumplen con los límites establecidos por la normativa vigente para la totalidad de los 
+receptores evaluados. En particular, el receptor RH24, representativo del entorno de la sede 
+social de El Salto, presenta concentraciones inferiores a los límites normativos para todos 
+los contaminantes analizados, descartándose afectaciones sobre la calidad ambiental del 
+sector y, por ende, sobre el uso de este equipamiento comunitario. 
+De igual forma, el estudio de ruido (Anexo 4.5 de este EIA) concluye que, aun cuando la 
+sede social se encuentra dentro del área de evaluación considerada para dicho 
+componente, los niveles sonoros proyectados no superan los límites establecidos en el D.S. 
+N°38/2011 del Ministerio del Medio Ambiente, descartándose la generación de alteraciones 
+que puedan afectar el normal desarrollo de las actividades comunitarias y recreativas que 
+tienen lugar en este espacio. 
+
+===== p.82 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+83 
+ 
+ 
+Adicionalmente, en el sector de Las Lomas se identificaron ciertos espacios que, si bien no 
+corresponden formalmente a equipamientos o infraestructura comunitaria consolidada, 
+cumplen un rol relevante dentro de las dinámicas sociales y organizacionales de la 
+comunidad. Entre estos destacan el punto de reunión utilizado por el Comité de Vivienda 
+Valle del Sol, la iglesia evangélica actualmente en proceso de reconstrucción y la vivienda 
+particular de la presidenta del Comité de Vivienda El Renacer de La Pradera (ver Figura 
+30). Debido a la importancia que estos lugares tienen para la articulación y desarrollo de 
+las actividades comunitarias del sector, fueron considerados dentro del presente análisis. 
+Al respecto, estos puntos se encuentran dentro del área de evaluación considerada por los 
+estudios de emisiones atmosféricas y ruido. Sin embargo, los resultados de dichos estudios 
+indican que, bajo la situación con Proyecto, las concentraciones proyectadas de MP10, 
+MP2,5, SO₂, NO₂ y CO se mantienen por debajo de los límites establecidos en la normativa 
+vigente para todos los receptores evaluados en el sector. De igual forma, la evaluación de 
+ruido concluye que los niveles proyectados no superan los límites establecidos en el D.S. 
+N°38/2011 del Ministerio del Medio Ambiente. En consecuencia, se descarta que el 
+funcionamiento del Proyecto genere alteraciones sobre estos espacios de relevancia 
+comunitaria o afecte las actividades sociales y organizacionales que actualmente se 
+desarrollan en ellos. 
+En consecuencia, considerando que el Proyecto contará con sistemas autónomos de 
+abastecimiento y saneamiento, que no generará cargas adicionales sobre los servicios 
+básicos utilizados por la población, y que los estudios especializados descartan 
+afectaciones por emisiones atmosféricas, ruido u olores sobre los equipamientos 
+identificados dentro del área de influencia, se concluye que el Proyecto no producirá una 
+alteración en el acceso o en la calidad de bienes, equipamientos, servicios o infraestructura 
+básica. 
+8.1.4. La dificultad o impedimento para el ejercicio o la manifestación de 
+tradiciones, cultura o intereses comunitarios, que puedan afectar los 
+sentimientos de arraigo o la cohesión social del grupo. 
+La caracterización del área de influencia permitió identificar que los sectores de El Salto, 
+Las Lomas y El Calichero presentan formas de organización comunitaria y manifestaciones 
+culturales de carácter local, generalmente asociadas a actividades vecinales, celebraciones 
+comunitarias de pequeña escala y encuentros religiosos. En términos generales, las 
+
+===== p.83 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+84 
+ 
+ 
+personas entrevistadas coinciden en que no existen espacios formales destinados 
+exclusivamente a la realización de actividades comunitarias, ni tampoco una tradición 
+consolidada de celebraciones colectivas de gran convocatoria. No obstante, se identificaron 
+diversas instancias que contribuyen a fortalecer las relaciones sociales y el sentido de 
+pertenencia dentro de las comunidades. 
+En el sector de El Salto, los entrevistados señalan que las principales actividades 
+comunitarias se desarrollan en torno a celebraciones de Fiestas Patrias organizadas en la 
+sede social del mismo sector. Sin embargo, la participación en estas actividades no 
+constituye una práctica habitual para los residentes entrevistados, quienes describen una 
+dinámica social caracterizada por una mayor autonomía entre los vecinos y por la 
+realización de actividades principalmente al interior de los espacios familiares. 
+Por su parte, en el sector de Las Lomas se identificaron diversos espacios que cumplen 
+una función relevante para la organización comunitaria, entre ellos la denominada Punta de 
+Diamante, utilizada para las reuniones del Comité de Vivienda Valle del Sol; la vivienda 
+particular donde sesiona el Comité de Vivienda El Renacer de La Pradera; y un espacio de 
+manifestación religiosa evangélica que desarrolla actividades periódicas para la comunidad, 
+la cuales también están dirigidas a niños y niñas. Asimismo, durante el levantamiento de 
+información se constató la organización de actividades comunitarias asociadas a 
+celebraciones navideñas, Día del Niño y Día de la Madre, las cuales constituyen las 
+principales expresiones de encuentro social identificadas en el sector. 
+Respecto de estas actividades y espacios de relevancia comunitaria, los estudios 
+especializados desarrollados para el Proyecto permiten descartar la generación de 
+condiciones que dificulten o impidan su utilización. En particular, los estudios de emisiones 
+atmosféricas concluyen que las concentraciones proyectadas de MP10, MP2,5, SO₂, NO₂ 
+y CO se mantienen bajo los límites establecidos por la normativa vigente para la totalidad 
+de los receptores evaluados. Del mismo modo, la evaluación de ruido indica que los niveles 
+proyectados no superan los límites establecidos en el D.S. N°38/2011 del Ministerio del 
+Medio Ambiente, incluso en aquellos sectores donde se emplazan los espacios utilizados 
+para reuniones comunitarias, actividades religiosas o celebraciones vecinales. 
+Asimismo, el Proyecto no contempla intervenciones directas sobre estos lugares ni 
+restricciones de acceso que puedan limitar su funcionamiento. Tampoco se identifican 
+
+===== p.84 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+85 
+ 
+ 
+alteraciones a las rutas de acceso utilizadas por los residentes para participar en dichas 
+actividades ni afectaciones sobre los espacios donde estas se desarrollan habitualmente. 
+En consecuencia, considerando que las actividades comunitarias, religiosas y culturales 
+identificadas dentro del área de influencia podrán continuar desarrollándose en sus 
+condiciones actuales, y que los estudios especializados descartan la ocurrencia de niveles 
+de ruido o concentraciones de contaminantes capaces de afectar su realización, se 
+concluye que el Proyecto no generará dificultades o impedimentos para el ejercicio o 
+manifestación de tradiciones, expresiones culturales o intereses comunitarios. 
+8.2. Resumen de Evaluación de Impactos 
+De acuerdo con los antecedentes presentados en los apartados precedentes, los resultados 
+de los estudios especializados desarrollados para el Proyecto y el análisis realizado sobre 
+los grupos humanos presentes en el área de influencia, se concluye que las obras, partes 
+y acciones asociadas al Centro Metropolitano de Gestión Integral de Residuos no 
+generan alteraciones significativas sobre los Sistemas de Vida y Costumbres de Grupos 
+Humanos, en los términos establecidos en el artículo 7 del D.S. N°40/2012 del Ministerio 
+del Medio Ambiente. 
+En particular, los antecedentes evaluados permiten descartar la generación de efectos 
+asociados a la intervención o restricción de recursos naturales utilizados como sustento 
+económico o para usos tradicionales; la obstrucción o restricción de la libre circulación y 
+conectividad de los grupos humanos; la alteración del acceso o calidad de bienes, 
+equipamientos, servicios o infraestructura básica; y la dificultad o impedimento para el 
+ejercicio de tradiciones, manifestaciones culturales o intereses comunitarios. 
+La sistematización de los resultados obtenidos para cada uno de los criterios evaluados se 
+presenta en la Tabla 22, a continuación: 
+Tabla 22: Resumen de evaluación de impactos en Área de Influencia del Proyecto en evaluación. 
+Artículo N°7 del D.S. 
+N°40/2012 del Ministerio 
+del Medio Ambiente 
+Objeto de 
+Protección 
+analizado 
+Evaluación de impactos 
+Resultados 
+a) La intervención, uso o 
+restricción al acceso de los 
+recursos naturales 
+utilizados como sustento 
+económico del grupo o para 
+Actividades de 
+crianza de 
+animales en El 
+Salto y Las 
+Lomas 
+Superficie efectivamente 
+cercada corresponde a 63,10 ha 
+de un predio privado de 206 ha; 
+por lo que seguirá existiendo 
+acceso a sectores de ladera. 
+Se descarta 
+afectación 
+significativa 
+
+===== p.85 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+86 
+ 
+ 
+cualquier otro uso 
+tradicional, tales como uso 
+medicinal, espiritual o 
+cultural 
+Actividad 
+extractiva 
+histórica 
+asociada al 
+estero Marga 
+Marga en sector 
+El Calichero 
+Ausencia de afectación sobre 
+recursos hídricos debido al 
+manejo de lixiviados y efluentes 
+del Proyecto en evaluación. 
+Se descarta 
+afectación 
+significativa 
+b) La obstrucción o 
+restricción a la libre 
+circulación, conectividad o 
+el aumento significativo de 
+los tiempos de 
+desplazamiento 
+Comunidades 
+de El Salto, Las 
+Lomas y El 
+Calichero 
+Acceso al Proyecto directo 
+desde Ruta 60-CH. No se hará 
+uso de vías locales utilizadas 
+por residentes del Área de 
+Influencia. 
+EIV indica una saturación 
+máxima, a nivel de uso 
+intercomunal para la Ruta 60-
+CH, del 40,2% y un LOS A en 
+operación (escenario más 
+desfavorable). 
+Se descarta 
+afectación 
+significativa 
+c) La alteración al acceso o 
+a la calidad de bienes, 
+equipamientos, servicios o 
+infraestructura básica 
+Sede social El 
+Salto, espacios 
+de reunión de 
+Las Lomas y 
+servicios 
+básicos locales 
+El Proyecto contará con 
+sistemas autónomos de agua, 
+energía y saneamiento, 
+evitando generar demanda 
+adicional sobre la red pública de 
+los servicios básicos AI. 
+Emisiones atmosféricas, ruido y 
+olores bajo criterios normativos; 
+ausencia de afectación sobre 
+equipamientos. 
+Se descarta 
+afectación 
+significativa 
+d) La dificultad o 
+impedimento para el 
+ejercicio o la manifestación 
+de tradiciones, cultura o 
+intereses comunitarios, que 
+puedan afectar los 
+sentimientos de arraigo o la 
+cohesión social del grupo 
+Fiestas Patrias, 
+actividades 
+comunitarias de 
+Las Lomas, 
+reuniones 
+vecinales y 
+actividades 
+religiosas 
+Espacios comunitarios sin 
+intervención directa; ruido y 
+emisiones atmosféricas bajo 
+límites normativos; continuidad 
+de acceso y uso de espacios 
+comunitarios para la población. 
+Se descarta 
+afectación 
+significativa 
+Fuente: Elaboración propia, 2026. 
+ 
+ 
+
+===== p.86 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+87 
+ 
+ 
+9. BIBLIOGRAFÍA 
+Asociación de empresas de la V Región. 2017. Caracterización Económica 2017, Provincia 
+de 
+Valparaíso. 
+https://www.asiva.cl/wp-
+content/uploads/2018/01/Caracterizacio%CC%81n-Econo%CC%81mica-de-la-
+Provincia-de-Valparai%CC%81so-2017.pdf 
+Biblioteca del Congreso Nacional de Chile [BCN]. 2025. Reporte comunal de Quilpué 2024. 
+https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2025&idcom=5
+801 
+Biblioteca del Congreso Nacional de Chile [BCN]. 2025. Reporte comunal de Viña del Mar 
+2024. 
+https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2025&idcom=5
+109 
+Cáceres, C. & Ahumada, G. 2018. Evaluación de brechas de equipamiento urbano entre 
+barrios de Viña del Mar, Chile: una metodología para la identificación de desiertos 
+urbanos. 
+Investigaciones 
+geográficas, 
+97, 
+2018. 
+https://www.redalyc.org/journal/569/56962522007/html/ 
+Centro de Información de Recursos Naturales [CIREN]. 2016. Visualizador de 
+Caracterización 
+Predial. 
+https://esri.ciren.cl/portal/apps/webappviewer/index.html?id=5237be81d92947478
+2a2977cc291fcc4 
+Centro de Información de Recursos Naturales [CIREN]. 2024. Recursos naturales comuna 
+de 
+Quilpué. 
+https://www.sitrural.cl/wp-
+content/uploads/2024/12/Quilpue_rec_nat.pdf 
+Corporación Nacional de Desarrollo Indígena [CONADI]. 2024. Sistema de Información 
+Territorial Indígena [SITI]. Bases de datos descargables. Asociaciones indígenas. 
+https://siic.conadi.cl/ 
+Corporación Nacional de Desarrollo Indígena [CONADI]. 2024. Sistema Integrado de 
+Información CONADI [SIIC]. 2023. https://siic.conadi.cl/ 
+Decreto 
+Supremo 
+N°40/2013 
+del 
+Ministerio 
+del 
+Medio 
+Ambiente. 
+2013.  
+https://www.bcn.cl/leychile/navegar?idNorma=1053563 
+
+===== p.87 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+88 
+ 
+ 
+Díaz, 
+L., 
+Torruco, 
+U., 
+Martínez, 
+M. 
+& 
+Varela, 
+M. 
+2013. 
+https://scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-
+50572013000300009&lng=es&tlng=es 
+Ilustre Municipalidad de Quilpué. 2016. Estudio Actualización del Plan de Desarrollo 
+Comunal 
+de 
+Quilpué 
+2016-2022. 
+https://docs.quilpue.cl/uploads/2019/10/20191008120247-
+plandedesarrollocomunal.pdf 
+Ilustre Municipalidad de Quilpué. 2019. Estudio Actualización PRC Quilpué, Estudio de 
+equipamiento. 
+https://docs.quilpue.cl/uploads/2019/10/20191008120247-
+120estudiodeequipamiento.pdf 
+Ilustre Municipalidad de Viña del Mar. 2002. Memoria Explicativa de Reformulación de PRC 
+de 
+Viña 
+del 
+Mar. 
+https://www.vinadelmarchile.cl/uploads/2014/07/20140722230907-
+pagina20130926203101da1094902.pdf 
+Ilustre Municipalidad de Viña del Mar. 2015. Memoria Explicativa – Modificación al PRC de 
+Viña 
+del 
+Mar 
+Sector 
+Población 
+Vergara. 
+https://www.munivina.cl/uploads/2017/11/20171108113904-memoria-final-mayo-
+16-11.pdf 
+Ilustre Municipalidad de Viña del Mar. 2023. El plan de desarrollo económico y de 
+posicionamiento de la ciudad que impulsa el municipio de Viña del Mar. 
+https://www.munivina.cl/noticias/el-plan-de-desarrollo-economico-y-de-
+posicionamiento-de-la-ciudad-que-impulsa-el-municipio-de-vina-del-mar/ 
+Infraestructura de Datos Geoespaciales de Chile [IDE]. 2013. Catastro uso de suelo y 
+vegetación. 
+https://www.geoportal.cl/geoportal/catalog/35194/Catastros%20de%20Uso%20de
+%20Suelo%20y%20Vegetaci%C3%B3n 
+Instituto Nacional de Estadísticas [INE]. 2024. Resultados viviendas y servicios básicos. 
+https://www.ine.gob.cl/docs/default-source/conferencias/2025/cc-cpv-
+presentacion-nacional-2024.pdf 
+
+===== p.88 =====
+Línea Base Medio Humano 
+EIA Centro Metropolitano de Gestión Integral de Residuos 
+89 
+ 
+ 
+Servicio Agrícola y Ganadero [SAG]. 2011. Pauta para estudio de suelos. 
+https://www.sag.gob.cl/sites/default/files/pauta-para-estudio-de-suelos--mod-
+2016.pdf 
+Servicio de Evaluación Ambiental [SEA]. 2025. Guía para la predicción y evaluación de 
+impactos sobre los Sistemas de Vida y Costumbres de Grupos Humanos en el 
+SEIA. 
+https://www.sea.gob.cl/sites/default/files/imce/archivos/2025/01/14/2025_GSVCG
+H_2ed.pdf 
+Servicio de Evaluación Ambiental [SEA]. 2026. Guía Áreas de Influencia en el 
+SEIA, 
+2da 
+edición. 
+https://www.sea.gob.cl/sites/default/files/imce/archivos/2026/03/06/Gu%C3%ADa
+%20AI_2ed2026b.pdf#page=4 
+Tonon, G. 2009. Reflexiones Latinoamericanas sobre Investigación Cualitativa. 
+https://colombofrances.edu.co/wp-
+content/uploads/2013/07/libro_reflexiones_latinoamericanas_sobre_investigacin_
+cu.pdf 
+Viña 
+Decide. 
+2025. 
+Turismo 
+y 
+desarrollo 
+económico. 
+https://vinadecide.cl/es-
+CL/folders/turismo-y-desarrollo-economico?utm_source=chatgpt.com 

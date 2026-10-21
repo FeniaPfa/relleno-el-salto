@@ -1,0 +1,1193 @@
+
+===== p.0 =====
+Permiso Ambiental Sectorial 156
+Revisi´on B
+PROYECTO CENTRO METROPOLITANO DE GESTI´ON
+INTEGRAL DE RESIDUOS
+Desarrollado para:
+COSEMAR S.A.
+Presentado: 30 de abril de 2026
+Autor:
+RIVERINE SPA
+
+===== p.1 =====
+´Indice
+1. Introducci´on
+2
+2. Contenidos T´ecnicos Formales
+3
+2.1. Art. 156 Letra a): Descripci´on del Lugar de Emplazamiento de las Obras .
+3
+2.1.1.
+Identificaci´on de cauces . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+2.1.2.
+Coordenadas y descripci´on del lugar de emplazamiento de las obras
+7
+2.1.3.
+Descripci´on de las caracter´ısticas generales de las quebradas
+. . . .
+12
+2.2. Art. 156 Letra b) Descripci´on de las Obras y sus Fases
+. . . . . . . . . . .
+19
+2.2.1.
+Descripci´on de las Obras . . . . . . . . . . . . . . . . . . . . . . . .
+19
+2.2.1.1.
+Atraviesos tipo Alcantarillas - Tuber´ıa . . . . . . . . . . .
+19
+2.2.1.2.
+Atravieso Tipo Bad´en . . . . . . . . . . . . . . . . . . . .
+20
+2.2.1.3.
+Atravieso Tipo Alcantarilla - Caj´on . . . . . . . . . . . . .
+22
+2.2.2.
+Descripci´on fase de construcci´on . . . . . . . . . . . . . . . . . . . .
+22
+2.2.3.
+Descripci´on fase de operaci´on
+. . . . . . . . . . . . . . . . . . . . .
+25
+2.2.4.
+Descripci´on fase de abandono . . . . . . . . . . . . . . . . . . . . .
+25
+2.3. Art. 156 letra c): Estimaci´on de los plazos y periodos de construcci´on de
+las obras asociadas a un atravieso con alcantarilla. . . . . . . . . . . . . . .
+26
+2.4. Art. 156 Letra d): Medidas tendientes a minimizar los efectos sobre la
+calidad de las aguas, aguas abajo del lugar de construcci´on de las obras. . .
+27
+2.5. Art. 156 Letra e): Plan de seguimiento de la calidad de las aguas durante
+la fase de construcci´on. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+PAS 156 - CMGIR
+1
+
+===== p.2 =====
+1.
+Introducci´on
+En el contexto del proyecto “Centro Metropolitano de Gesti´on Integral de Residuos” (CM-
+GIR), desarrollado por COSEMAR S.A., se requiere la tramitaci´on del Permiso Ambiental
+Sectorial establecido en el art´ıculo 156 del Reglamento del Sistema de Evaluaci´on de Im-
+pacto Ambiental (PAS 156) - “Permiso para efectuar modificaciones de cauces“, para 18
+atraviesos viales sobre quebradas naturales intermitentes producto del trazado que con-
+templa el camino de acceso al proyecto y 15 atraviesos viales sobre cauces artificiales por
+el trazado del camino interior proyectado en las inmediaciones del proyecto.
+El CMGIR corresponde a una iniciativa orientada a dar soluci´on a las necesidades sanita-
+rias y de manejo integral de residuos s´olidos urbanos a la conurbaci´on asociada a la gran
+Vi˜na del Mar.
+En la Figura 1-1 se muestra la ubicaci´on general del proyecto, el cual se encuentra en la
+comuna de Vi˜na del Mar, provincia de Valpara´ıso, regi´on de Valpara´ıso.
+Figura 1-1: Ubicaci´on general del proyecto CMGIR
+En base a lo anterior, a continuaci´on se presentan los contenidos t´ecnicos formales del
+PAS 156 seg´un lo establecido en el Art. 156 del RSEIA y la gu´ıa ”Permiso para Efec-
+tuar Modificaciones de Cauces”(SEA, 2014), para un total de 33 obras de atravieso, que
+PAS 156 - CMGIR
+2
+
+===== p.3 =====
+permitir´an asegurar la no afectaci´on de la vida o salud de los habitantes, mediante la no
+contaminaci´on de las aguas (requisito para su otorgamiento).
+2.
+Contenidos T´ecnicos Formales
+En la presente secci´on se exhiben los contenidos t´ecnicos y formales para acreditar el
+cumplimiento del Permiso Ambiental Sectorial, de acuerdo a lo siguiente:
+Descripci´on del lugar de emplazamiento de la obra.
+Descripci´on de la obra y sus fases (etapa de construcci´on y operaci´on).
+Estimaci´on de plazos y periodos de construcci´on de las obras.
+Medidas tendientes a minimizar los efectos sobre la calidad de las aguas, aguas abajo
+del lugar de construcci´on de las obras.
+Plan de seguimiento de la calidad de las aguas durante la fase de construcci´on.
+2.1.
+Art. 156 Letra a): Descripci´on del Lugar de Emplazamiento
+de las Obras
+2.1.1.
+Identificaci´on de cauces
+Los cauces naturales sujetos a modificaci´on de cauce se encuentran en la comuna de Vi˜na
+del Mar, provincia de Valpara´ıso, regi´on de Valpara´ıso. En la Figura 2-2 se presenta el
+trazado del camino de acceso, el ´area y deslinde de terreno que involucra el proyecto
+CMGIR, as´ı como tambi´en la red de drenaje basada en la hidrograf´ıa se˜nalada en la
+carta IGM escala 1:50.000 para la zona del proyecto, de la cual se identifican el Estero Las
+Palmas, el Estero Marga Marga, el Estero Quilpu´e y el Estero Vi˜na del Mar. Cabe destacar
+que, para efectos de este documento, el Estero Marga Marga termina en la confluencia
+con el Estero Quilpu´e y, desde ah´ı, nace el Estero Vi˜na del Mar.
+Adicionalmente, en la hidrograf´ıa IGM se identifican m´ultiples quebradas sin nombre en
+la zona del proyecto, de las cuales solo seis (6) interact´uan con el proyecto, dos con el
+camino de acceso y 4 con el ´area del proyecto correspondiente al relleno sanitario y sus
+instalaciones. Estas seis quebradas se ubican en el costado Sur de la Ruta 60 y correspon-
+den a tributarios del Estero Marga Marga. En la Tabla 2-1 se muestra la identificaci´on
+del Estero Marga Marga en la red h´ıdrica nacional.
+Tabla 2-1: Identificaci´on seg´un red hidrogr´afica nacional.
+Cauce
+ID
+Cuenca
+Codigo ssubc
+Estero Marga Marga
+113821
+Estero Marga Marga
+0550
+PAS 156 - CMGIR
+3
+
+===== p.4 =====
+Figura 2-2: Identificaci´on de cauces seg´un carta IGM 1:50.000.
+Dado que en terreno y en im´agenes satelitales se observan m´ultiples quebradas naturales,
+se gener´o una red h´ıdrica local en base al levantamiento topogr´afico del proyecto. Para la
+delimitaci´on de cauces se utiliz´o un umbral m´ınimo de 1 ha de superficie aportante, criterio
+que permite representar adecuadamente las quebradas de fuerte pendiente presentes en el
+sector. La red obtenida se muestra en la Figura 2-3, en relaci´on con el trazado del camino
+proyectado. Cabe destacar que todos los cauces identificados en la cartograf´ıa IGM se
+encuentran contenidos en esta red local.
+Adicionalmente, debido a la gran cantidad de cauces sin nombre, se adopt´o una nomen-
+clatura jer´arquica basada en el orden de Hack. Este sistema asigna un n´umero i al cauce
+principal, j a sus tributarios directos y k a los tributarios de estos, permitiendo identificar
+cada cauce seg´un su tributo al drenaje principal de la quebrada (Qi,j,k). Por ´ultimo y a
+modo de resumen, la Tabla 2-2 identifica las quebradas que interact´uan con el camino de
+acceso al proyecto.
+Por otra parte, se destaca que todas las quebradas identificadas presentan un r´egimen de
+escurrimiento eventual, manifest´andose ´unicamente frente a eventos de precipitaci´on.
+PAS 156 - CMGIR
+4
+
+===== p.5 =====
+Figura 2-3: Definici´on red de drenaje con ´area aportante mayor a 1 hect´area junto a cauces
+IGM.
+Tabla 2-2: Denominaci´on de cauces para red de drenaje que cruzan el camino de acceso.
+N°
+ID Quebrada
+1
+Q7
+2
+Q9
+3
+Q8
+4
+Q13
+5
+Q12
+6
+Q11
+7
+Q10
+8
+Q6
+9
+Q5
+10
+Q4
+11
+Q3.2.4
+12
+Q3.1.3
+13
+Q3
+14
+Q3.1.8
+PAS 156 - CMGIR
+5
+
+===== p.6 =====
+Por otra parte, en la zona donde se emplaza el proyecto CMGIR se proyectan canales
+artificiales para que las aguas lluvias del proyecto descarguen a las quebradas naturales
+Q1 y Q2. La red de canales se proyecta de tal manera que no exista un traspaso de aguas
+entre ambas quebradas y sus detalles espec´ıficos se indican en el PAS 157 del proyecto.
+En la Figura 2-4 se presenta el trazado de la red en la situaci´on con proyecto, mientras
+que la Tabla 2-3 presenta las obras que interact´uan con el camino interno del proyecto.
+Figura 2-4: Mapa de red de h´ıdrica proyectada (canales y tuber´ıa) en la situaci´on con
+proyecto.
+Tabla 2-3: Denominaci´on de cauces para red de drenaje que cruzan el camino interno.
+Cauces artificales
+Canal 1.2
+Canal 3.2
+Canal 1.3
+Tuber´ıa
+Canal 1.4
+Captaci´on 1
+Canal 2.0
+Captaci´on 2
+Canal 3.1
+Captaci´on 3
+PAS 156 - CMGIR
+6
+
+===== p.7 =====
+2.1.2.
+Coordenadas y descripci´on del lugar de emplazamiento de las obras
+En la Tabla 2-4, se detalla en coordenadas UTM Datum WGS 84 Huso 19S la ubicaci´on
+de las 18 obras de atravieso que se proponen para el camino de acceso proyectado. Adicio-
+nalmente, se informa en la misma tabla el nombre de la quebrada asociada a dicha obra.
+En la Figura 2-5 se presentan las quebradas y obras asociadas al tramo inicial del camino
+proyectado (A-01 a A-16), mientras que, en la Figura 2-6 se muestran aquellas ubicadas
+en el tramo final de este (A-17 a A-18).
+Tabla 2-4: Ubicaci´on de las obras en coordenadas UTM.
+ID
+Nombre
+Cauce
+Coordenadas UTM
+Datum WGS 84, Huso 19S
+Este (m)
+Norte (m)
+1
+A-01
+Q7
+267.913
+6.339.024
+2
+A-02
+Q9
+267.752
+6.339.067
+3
+A-03
+Q8
+267.698
+6.339.058
+4
+A-04
+Q13
+267.686
+6.339.126
+5
+A-05
+Q12
+267.550
+6.339.171
+6
+A-06
+Q11
+267.480
+6.339.149
+7
+A-07
+Q10
+267.453
+6.339.136
+8
+A-08
+Q10
+267.461
+6.339.080
+9
+A-09
+Q11
+267.487
+6.339.094
+10
+A-10
+Q8
+267.676
+6.338.933
+11
+A-11
+Q7
+267.799
+6.338.873
+12
+A-12
+Q6
+267.863
+6.338.815
+13
+A-13
+Q5
+267.930
+6.338.706
+14
+A-14
+Q4
+268.055
+6.338.639
+15
+A-15
+Q3.2.4
+268.033
+6.338.453
+16
+A-16
+Q3.1.3
+268.005
+6.338.388
+17
+A-17
+Q3
+268.077
+6.338.062
+18
+A-18
+Q3.1.8
+268.153
+6.337.915
+PAS 156 - CMGIR
+7
+
+===== p.8 =====
+Figura 2-5: Interacci´on del tramo inicial del camino de acceso con la red de drenaje.
+Figura 2-6: Interacci´on del tramo final del camino de acceso con la red de drenaje.
+PAS 156 - CMGIR
+8
+
+===== p.9 =====
+De igual manera, en la Tabla 2-5, se detalla en coordenadas UTM Datum WGS 84 Huso
+19S la ubicaci´on de las 15 obras de atravieso (A-19 a A-33) que se proponen para el camino
+interno del proyecto. Adicionalmente, se informa en la misma tabla el cauce artificial
+asociado a la obra de atravieso. Por su parte, las figuras 2-7 a 2-10 detallan la distribuci´on
+de los atraviesos seg´un su origen: la Figura 2-7 presenta los atraviesos generados por la
+intersecci´on de las obras de caminos y bermas con el Canal 1.2 (A-19 y A-26), Canal
+1.3 (A-22, A-23 y A-31) y Canal 1.4 (A-20 y A-21); la Figura 2-8 muestra los atraviesos
+asociados a la Tuber´ıa y Captaci´on N1 (A-25 y A-27 respectivamente); la Figura 2-9
+corresponde a los atraviesos vinculados con el Canal 2.0 (A-24 y A-30); y finalmente, la
+Figura 2-10 presenta los atraviesos relacionados con el Canal 3.1 (A-28), el Canal 3.2
+(A-29) y en las Captaciones N3 y N2 (A-32 y A-33). Como resumen, la Figura 2-11 re´une
+los cauces artificiales y los atraviesos asociados al camino interno del proyecto.
+Tabla 2-5: Ubicaci´on de las obras en coordenadas UTM.
+ID
+Nombre
+Cauces
+artificiales
+Coordenadas UTM
+Datum WGS 84, Huso 19S
+Este (m)
+Norte (m)
+19
+A-19
+Canal 1.2
+267.808
+6.337.493
+20
+A-20
+Canal 1.4
+268.055
+6.337.345
+21
+A-21
+Canal 1.4
+268.164
+6.337.458
+22
+A-22
+Canal 1.3
+268.233
+6.337.313
+23
+A-23
+Canal 1.3
+268.266
+6.337.428
+24
+A-24
+Canal 2.0
+268.525
+6.337.217
+25
+A-25
+Tuber´ıa
+267.742
+6.337.159
+26
+A-26
+Canal 1.2
+267.704
+6.337.102
+27
+A-27
+Captaci´on 1
+267.827
+6.336.902
+28
+A-28
+Canal 3.1
+268.432
+6.336.694
+29
+A-29
+Canal 3.2
+268.503
+6.336.952
+30
+A-30
+Canal 2.0
+268.516
+6.337.207
+31
+A-31
+Canal 1.3
+268.215
+6.337.300
+32
+A-32
+Captaci´on 3
+268.137
+6.336.644
+33
+A-33
+Captaci´on 2
+268.003
+6.336.640
+PAS 156 - CMGIR
+9
+
+===== p.10 =====
+Figura 2-7: Atraviesos asociados al Canal 1.2 (A-19 y A-26), Canal 1.3 (A-23, A-22 y
+A-31) y Canal 1.4 (A-21 y A-20).
+Figura 2-8: Atraviesos asociados a la Tuber´ıa y Captaci´on N1 (A-25 y A-27 respectiva-
+mente).
+PAS 156 - CMGIR
+10
+
+===== p.11 =====
+Figura 2-9: Atraviesos asociados al Canal 2.0 (A-24 y A-30).
+Figura 2-10: Atraviesos asociados al Canal 3.1 (A-28), el Canal 3.2 (A-29) y en las Cap-
+taciones N3 y N2 (A-32 y A-33).
+PAS 156 - CMGIR
+11
+
+===== p.12 =====
+Figura 2-11: Interacci´on de camino interno del proyecto con red de drenaje artificial.
+2.1.3.
+Descripci´on de las caracter´ısticas generales de las quebradas
+En primer lugar, seg´un lo observado en terreno, los cauces se clasifican como torrentes
+de escurrimiento espor´adico, con una aparente secci´on trapecial con taludes pronunciados
+(≈1:1 H:V). La cobertura vegetal que se observa en la zona de estudio posee un car´acter
+homog´eneo, tal como se muestra en las Figuras 2-12 y 2-13. Adicionalmente, se destaca que
+las quebradas son pronunciadas desde la cabecera de sus cuencas hasta la desembocadura
+en el Estero Marga-Marga y Estero Vi˜na del Mar, con una pendiente promedio del 30 %,
+sin terrazas ni planicies de inundaci´on evidentes.
+En la Figura 2-14 se muestran de manera representativa las caracter´ısticas morfol´ogicas
+que presentan las diferentes quebradas que interact´uan con el proyecto, de las cuales
+se identifican tres (3) cualidades generales: a) Secci´on de lecho con presencia de gravas y
+vegetaci´on, y laderas pronunciadas con vegetaci´on alta y media; b) Secci´on con vegetaci´on,
+lecho de arenas y taludes de sedimento fino c) Secci´on angosta de baja vegetaci´on, lecho
+arenoso y taludes de sedimento fino.
+PAS 156 - CMGIR
+12
+
+===== p.13 =====
+Figura 2-12: Fotograf´ıa representativa de las quebradas Q1, Q2 y Q3 en la zona de pro-
+yecto. Im´agenes capturadas de vuelo dron en terreno, con fecha 7 de Febrero de 2025.
+Figura 2-13: Fotograf´ıa representativa de las quebradas Q4 a Q13 en la zona de proyecto.
+Im´agenes capturadas de vuelo dron en terreno, con fecha 7 de Febrero de 2025.
+PAS 156 - CMGIR
+13
+
+===== p.14 =====
+Figura 2-14: Fotograf´ıas representativas de distintos tramos observables en la quebrada
+Q2. (a) Secci´on de lecho con presencia de gravas y vegetaci´on. (b) Secci´on con vegetaci´on,
+lecho de arenas y taludes con presencia de sedimento fino. (c) Secci´on angosta de baja
+vegetaci´on, lecho arenoso y taludes con presencia de sedimento fino. Fotograf´ıas del 7 de
+Febrero de 2025.
+En particular, las quebradas que intersectan el camino de acceso se extienden desde la Q3
+hasta la Q13. La quebrada Q3 descarga directamente en el Estero Marga Marga (v´ease
+Figura 2-15), aguas abajo del atravieso A-17.
+PAS 156 - CMGIR
+14
+
+===== p.15 =====
+Figura 2-15: Vista en planta de la quebrada Q3. a) Red de drenaje de la quebrada Q3. b)
+Zoom en la zona de descarga hacia el Estero Marga Marga. c) Fotograf´ıa del vuelo dron
+en la zona de descarga en el Estero Marga Marga.
+En el caso de las quebradas Q4, Q5 y Q6, dirigen sus aguas hacia obras de arte existentes
+(OA) ubicadas aguas abajo de los atraviesos A-12, A-13 y A-14, correspondientes a una
+alcantarilla de tuber´ıas de hormig´on que cruzan la ruta 60. Q4 se dirige de manera inde-
+pendiente hacia OA1, mientras que Q5 y Q6 confluyen y se dirigen hacia OA2 (ver Figura
+2-16). Tras cruzar la Ruta 60, las aguas drenan hacia el Estero Marga Marga, aguas arriba
+del Estero Quilpu´e.
+PAS 156 - CMGIR
+15
+
+===== p.16 =====
+Figura 2-16: Vista en planta de las quebradas Q4, Q5 y Q6. a) Red de drenaje de la
+quebradas Q4, Q5 y Q6. b) Fotograf´ıa tomada del vuelo dron desde aguas abajo de la
+obra de arte OA1. c) Fotograf´ıa tomada del vuelo dron desde aguas abajo de la obra de
+arte OA2.
+En el caso de Q7, sus aguas se dirigen hacia la alcantarilla de tuber´ıa de hormig´on existente
+OA3 (ver Figura 2-17). Luego, las aguas de esta quebradas son drenadas hacia el Estero
+Vi˜na del Mar, aguas abajo de la confluencia con el Estero Quilpu´e.
+De manera similar, las quebradas Q8, Q9 y Q13 dirigen sus aguas hacia una obra de arte
+ubicada aguas abajo de los atraviesos A-02, A-03 y A-04. Esta obra de arte existente
+(OA4) donde confluyen Q8, Q9 y Q13, corresponde a una alcantarilla con tuber´ıa de
+hormig´on que cruza la ruta 60 (ver Figura 2-18). Luego, las aguas de estas quebradas
+son drenadas hacia el Estero Vi˜na del Mar, aguas abajo de la confluencia con el Estero
+Quilpu´e.
+PAS 156 - CMGIR
+16
+
+===== p.17 =====
+Figura 2-17: Vista en planta de la quebrada Q7. a) Red de drenaje de la quebrada Q7. b)
+Fotograf´ıa tomada del vuelo dron desde aguas arriba de la obra de arte OA3. c) Fotograf´ıa
+tomada del vuelo dron desde aguas abajo de la obra de arte OA3.
+Figura 2-18: Vista en planta de las quebradas Q8, Q9 y Q13. a) Red de drenaje de las
+quebradas Q8, Q9 y Q13. b) Fotograf´ıa tomada del vuelo dron desde aguas abajo de la
+obra de arte OA4.
+Finalmente, las quebradas Q10, Q11 y Q12 descargan sus aguas en el sistema de evacuaci´on
+PAS 156 - CMGIR
+17
+
+===== p.18 =====
+de aguas lluvias existentes de la ruta 60, aguas abajo de los atraviesos A-05, A-06 y A-
+07. Las descargas, identificadas como D1, D2 y D3 (ver Figura 2-19), corresponden a
+canalizaciones de hormig´on. Posteriormente, estas aguas se dirigen al oeste por el sistema
+de aguas lluvias de la Ruta 60.
+Figura 2-19: Vista en planta de las quebradas Q10, Q11 y Q12. a) Red de drenaje de las
+quebradas Q10, Q11 y Q12. b) Imagen capturada desde el software Google Earth Pro de
+las descarga D2 y D3. c) Imagen capturada desde el software Google Earth Pro de las
+descarga D1 y D2.
+PAS 156 - CMGIR
+18
+
+===== p.19 =====
+2.2.
+Art. 156 Letra b) Descripci´on de las Obras y sus Fases
+2.2.1.
+Descripci´on de las Obras
+Las obras de modificaci´on de cauce natural a que se refiere el presente PAS 156 correspon-
+den a 33 atraviesos, los cuales se materializar´an mediante una soluci´on tipo alcantarilla-
+tuber´ıa, bad´en o alcantarilla-caj´on seg´un se muestra en la Tabla 2-6 para los cauces
+naturales o artificiales seg´un corresponda.
+Tabla 2-6: Tipos de atraviesos por cada cauce.
+Atraviesos en cauces naturales
+Atraviesos en cauces artificiales
+Obra
+Quebrada
+Tipo de Obra
+Obra
+Cauce
+Tipo de Obra
+A-01
+Q7
+Alc. Tuber´ıa
+A-19
+Canal 1.2
+Alc. Caj´on
+A-02
+Q9
+Bad´en
+A-20
+Canal 1.4
+Alc. Caj´on
+A-03
+Q8
+Bad´en
+A-21
+Canal 1.4
+Alc. Caj´on
+A-04
+Q13
+Bad´en
+A-22
+Canal 1.3
+Alc. Caj´on
+A-05
+Q12
+Bad´en
+A-23
+Canal 1.3
+Alc. Caj´on
+A-06
+Q11
+Alc. Tuber´ıa
+A-24
+Canal 2.0
+Alc. Caj´on
+A-07
+Q10
+Bad´en
+A-25
+Tuber´ıa
+Alc. Tuber´ıa
+A-08
+Q10
+Bad´en
+A-26
+Canal 1.2
+Alc. Caj´on
+A-09
+Q11
+Alc. Tuber´ıa
+A-27
+Captaci´on 1
+Alc. Caj´on
+A-10
+Q8
+Bad´en
+A-28
+Canal 3.1
+Alc. Caj´on
+A-11
+Q7
+Bad´en
+A-29
+Canal 3.2
+Alc. Caj´on
+A-12
+Q6
+Bad´en
+A-30
+Canal 2.0
+Alc. Caj´on
+A-13
+Q5
+Bad´en
+A-31
+Canal 1.3
+Alc. Caj´on
+A-14
+Q4
+Bad´en
+A-32
+Captaci´on 3
+Bad´en
+A-15
+Q3.2.4
+Alc. Tuber´ıa
+A-33
+Captaci´on 2
+Alc. Tuber´ıa
+A-16
+Q3.1.3
+Alc. Tuber´ıa
+A-17
+Q3
+Alc. Tuber´ıa
+A-18
+Q3.1.8
+Bad´en
+2.2.1.1
+Atraviesos tipo Alcantarillas - Tuber´ıa
+Este tipo de obra corresponde a la instalaci´on de una tuber´ıa bajo el camino de acceso,
+tal que permita el libre escurrimiento de las aguas. Contempla adem´as en sus extremos
+la confecci´on de muros tipo cabecera simples y con alas, cuyo uso estar´a condicionado
+a las caracter´ısticas de la quebrada y taludes del propio camino. Para evitar problemas
+erosivos por acci´on del flujo, se considera mamposter´ıa de piedra para recubrir el lecho
+del cauce tanto en la salida como entrada de la alcantarilla. Un esquema tipo de la obra
+antes descrita se presenta en la Figura 2-20.
+PAS 156 - CMGIR
+19
+
+===== p.20 =====
+Figura 2-20: Obra tipo alcantarilla y muro de hormig´on.
+2.2.1.2
+Atravieso Tipo Bad´en
+Se contempla la ejecuci´on de una obra de tipo Bad´en para el paso del escurrimiento de tipo
+intermitente sobre el camino. Esta obra considera el revestimiento de la calzada mediante
+una losa de hormig´on o mamposter´ıa en piedra, permitiendo as´ı el paso de las crecidas
+eventuales a trav´es del camino proyectado. Esta obra considera tanto a la entrada como
+a la salida del camino el revestimiento del lecho mediante mamposter´ıa de piedra, lo cual
+evitar´ıa problemas erosivos producto del paso de las crecidas. Un esquema tipo de la obra
+basado en el MC V-4 se presenta en la Figura 2-21, mientras que en la Figura 2-22 se
+muestra la obra de descarga de las aguas desde las quebradas hacia cada bad´en.
+PAS 156 - CMGIR
+20
+
+===== p.21 =====
+Figura 2-21: Obra tipo Bad´en - MCV 4
+Figura 2-22: Obra tipo Descarga de Agua complemento de Obra tipo Bad´en - MCV 4
+PAS 156 - CMGIR
+21
+
+===== p.22 =====
+2.2.1.3
+Atravieso Tipo Alcantarilla - Caj´on
+Se proyecta un atravieso con cajones prefabricados de hormig´on armado de secci´on rec-
+tangular, que aseguran la continuidad del escurrimiento bajo el camino y la estabilidad
+de la calzada frente a crecidas. Su car´acter modular facilita la construcci´on y garantiza
+durabilidad, mientras que en las zonas de entrada y salida se consideran protecciones
+con enrocado o soleras de hormig´on para evitar procesos erosivos. En la Figura 2-23 se
+presenta un esquema tipo de la obra basado en el MC V-4 l´amina 4.110.001.
+Figura 2-23: Obra tipo Caj´on prefabricado de Hormig´on Armado - MCV 4
+2.2.2.
+Descripci´on fase de construcci´on
+Las labores a realizar durante esta fase corresponden principalmente a las detalladas a
+continuaci´on:
+Alcantarillas (tuber´ıa - caj´on):
+Obras previas, limpieza y escarpe del terreno: Corresponde principalmente
+a todas las obras requeridas para habilitar la zona de trabajo (definici´on de zonas
+PAS 156 - CMGIR
+22
+
+===== p.23 =====
+de acumulaci´on de material, equipos y herramientas, zonas de armado, ba˜nos, etc.).
+Se incluye dentro de esta partida el retiro de basuras, desperdicios, escombros y
+eventualmente vegetaci´on que existan en el cauce. Adem´as, se ejecutar´a el escarpe
+del terreno, con el fin de retirar la capa superficial (vegetal y/o material fino) que por
+sus caracter´ısticas mec´anicas no es adecuada para este tipo de obras. Cabe se˜nalar
+que, en el caso de alcantarillas ubicadas en caminos internos (tipo caj´on), las labores
+iniciales pueden diferir levemente de lo descrito. En dichos sectores no se considera
+la remoci´on de vegetaci´on, dado que la obra se ejecuta sobre rellenos previamente
+dispuestos. No obstante, el resto del proceso constructivo se mantiene de acuerdo
+con lo indicado anteriormente.
+Replanteo, trazados y niveles: Se proceder´a al replanteo de las obras acorde a
+los planos del proyecto, identificando en terreno los puntos de referencia definidos en
+ellos. Luego se proceder´a a trazar y demarcar en terreno la ubicaci´on de las distintas
+partes que conforman la obra, definiendo las zonas a excavar.
+Excavaci´on y preparaci´on Sello Excavaci´on: Se realizar´an las excavaciones
+necesarias para fundar las diferentes obras. Se remover´a todo el material inadecuado
+hasta la cota o sello de fundaci´on de las obras. Las excavaciones se ejecutar´an de
+forma manual o mediante la utilizaci´on de maquinaria de acuerdo con el tipo de
+suelo y profundidades, principalmente retroexcavadora y picot´on.
+Obras complementarias: Se considera en esta etapa la ejecuci´on de toda obra
+necesaria para el manejo de las aguas lluvias u afloramientos de napas durante el
+desarrollo de los trabajos.
+Instalaci´on de alcantarillas: Corresponde a la instalaci´on de los ductos para el
+paso de las aguas seg´un sea el caso. Esta partida contempla adem´as la disposici´on
+de las diferentes capas de relleno, cuya compactaci´on se deber´a realizar mediante
+equipos mec´anicos para alcanzar la densidad m´ınima definida, actividad que ser´a
+validada mediante ensayos in situ. Cabe destacar que para efectos de alcantarillas
+tipo tuber´ıa se considera tuber´ıa HDPE y/o acero corrugado.
+Confecci´on Muro Boca H.A: Corresponde a la ejecuci´on de las partidas nece-
+sarias para la habilitaci´on de las estructuras proyectadas en los atraviesos como el
+muro de cabecera o el muro de ala, seg´un corresponda. Entre las labores a desarrollar
+se incluyen todas aquellas relacionadas con la materializaci´on de emplantillado de
+hormig´on, colocaci´on de moldajes, disposici´on de relleno estructural de base, labores
+de preparaci´on de la cama de preformado u otras relativas a fundaciones, disposici´on
+de armaduras, confecci´on y retiro de moldajes, ensayos, etc.
+Confecci´on Mamposter´ıa de piedra: Se considera la disposici´on de mamposter´ıa
+de piedra en las zonas de entrada y salida de la alcantarilla. Para ello, se remover´a
+una capa de material del lecho para reemplazarla por mamposter´ıa, cuyos ´aridos
+ser´an aglutinados mediante mortero.
+Relleno y compactaci´on camino: Corresponde a la ejecuci´on del relleno y com-
+pactaci´on de las capas necesarias para alcanzar la rasante o subrasante que considera
+PAS 156 - CMGIR
+23
+
+===== p.24 =====
+el paquete estructural del camino sobre el paso del ducto. Se contempla el uso de
+placas compactadoras u rodillos seg´un sea el caso. Este relleno se efectuar´a en capas
+de no m´as de 50cm, de forma uniforme para evitar esfuerzos de corte perjudiciales,
+verificando mediante ensayos in situ la densidad m´ınima requerida.
+Limpieza y habilitaci´on obra a tr´ansito: Se realizar´a el retiro de materiales,
+equipos, excedentes y despeje de la zona de trabajo tras realizar la instalaci´on de la
+alcantarilla y habilitaci´on de la carpeta de rodado del camino.
+Bad´en:
+Obras previas, limpieza y escarpe del terreno: Corresponde principalmente
+a todas las obras requeridas para habilitar la zona de trabajo (definici´on de zonas
+de acumulaci´on de material, equipos y herramientas, zonas de armado, ba˜nos, etc.).
+Se incluye dentro de esta partida el retiro de basuras, desperdicios, escombros y
+eventualmente vegetaci´on que existan tanto en el cauce como en la planicie de inun-
+daci´on de ´este. Adem´as, se ejecutar´a el escarpe del terreno, con el fin de retirar la
+capa superficial (vegetal y/o material fino) que por sus caracter´ısticas mec´anicas no
+es adecuada para este tipo de obras.
+Replanteo, trazados y niveles: Se proceder´a al replanteo de las obras acorde a
+los planos del proyecto, identificando en terreno los puntos de referencia definidos en
+ellos. Luego se proceder´a a trazar y demarcar en terreno la ubicaci´on de las distintas
+partes que conforman la obra, definiendo las zonas a excavar acorde a las cotas del
+camino proyectado.
+Excavaci´on y preparaci´on Sello Excavaci´on: Se realizar´an las excavaciones
+necesarias para fundar la losa de hormig´on del bad´en proyectado. Se remover´a todo el
+material inadecuado hasta la cota o sello de fundaci´on de las obras. Las excavaciones
+se ejecutar´an de forma manual o mediante la utilizaci´on de maquinaria de acuerdo
+con el tipo de suelo y profundidades, principalmente retroexcavadora y picot´on.
+Obras complementarias: Se considera en esta etapa la ejecuci´on de toda obra
+necesaria para el manejo de las aguas lluvias u afloramientos de napas durante el
+desarrollo de los trabajos.
+Relleno y compactaci´on: Corresponde a la disposici´on de material adecuado y
+la compactaci´on de este mediante placas compactadoras o rodillos, esto de manera
+previa a la confecci´on de la losa-baden. Se compactar´a en capas de m´aximo 30cm y
+se deber´a acreditar la densidad alcanzada mediante ensayos in situ.
+Obras de Hormig´on: Corresponde a la ejecuci´on de la losa-baden a disponer
+sobre la calzada del camino proyectado. Entre las labores a desarrollar se incluyen
+todas aquellas relacionadas con la materializaci´on de emplantillado de hormig´on,
+fundaciones, disposici´on de armaduras, confecci´on y retiro de moldajes, ensayos,
+curado, construcci´on y sello de juntas, etc.
+Confecci´on Mamposter´ıa de piedra: Se considera la disposici´on de mamposter´ıa
+de piedra en las zonas de entrada y salida del bad´en. Se contempla que la soluci´on
+PAS 156 - CMGIR
+24
+
+===== p.25 =====
+implique la disposici´on de la mamposter´ıa sobre una capa de material granular de
+30cm de espesor, aislada del terreno natural mediante un geotextil. Los ´aridos de la
+mamposter´ıa ser´an aglutinados mediante mortero.
+Limpieza y habilitaci´on obra a tr´ansito: Se realizar´a el retiro de materiales,
+equipos, excedentes y despeje de la zona de trabajo una vez recibido por la ITO el
+bad´en, habilitando posteriormente el paso de los veh´ıculos por el camino. Adem´as, se
+reconstituir´a la topograf´ıa original de la planicie de inundaci´on en la zona adyacente
+al bad´en.
+2.2.3.
+Descripci´on fase de operaci´on
+Durante la fase de operaci´on de las obras se realizar´an las siguientes labores:
+Mantenimiento: Se har´an inspecciones visuales peri´odicas y adicionales despu´es
+de paso de las crecidas. En dicha inspecci´on se deber´a observar que se mantenga
+la integridad de las obras, evaluando la necesidad de limpieza en caso de acumula-
+ci´on de sedimentos, ramas, escombros, entre otros que puedan limitar la capacidad
+hidr´aulica de la obra.
+Reparaciones: En caso de aver´ıas estructurales de las alcantarillas, estas se repa-
+rar´an a la brevedad.
+2.2.4.
+Descripci´on fase de abandono
+En la fase de cierre, se deber´an remover todas las obras efectuadas y se restituir´a la
+condici´on original del cauce. Para esto, se deber´an realizar varias actividades para el
+desmantelamiento de las obras, tales como: demolici´on de obras de hormig´on y retiro de
+ductos, retiro de escombros y movimientos de tierra. Se utilizar´an en general las mismas
+maquinarias y equipos se˜nalados en la fase de construcci´on.
+PAS 156 - CMGIR
+25
+
+===== p.26 =====
+2.3.
+Art. 156 letra c): Estimaci´on de los plazos y periodos de
+construcci´on de las obras asociadas a un atravieso con al-
+cantarilla.
+Se estima un periodo de 4 semanas para la construcci´on de cada una de las alcantarillas
+(tuber´ıa o caj´on), la cual se enmarca dentro de la fase de construcci´on del proyecto. En
+la Figura 2-24 se presenta un cronograma de las actividades contempladas en el marco de
+la implementaci´on de la obra.
+Figura 2-24: Carta Gantt con estimaci´on de plazos construcci´on de obras asociadas al
+atravieso con alcantarilla.
+Se estima un periodo de 3 semanas para la construcci´on de cada bad´en, el cual se enmarca
+dentro de la fase de construcci´on del proyecto. En la Figura 2-25 se presenta un cronograma
+de las actividades contempladas en el marco de la implementaci´on de la obra.
+Figura 2-25: Carta Gantt con estimaci´on de plazos construcci´on de los badenes asociados
+al proyecto.
+PAS 156 - CMGIR
+26
+
+===== p.27 =====
+2.4.
+Art. 156 Letra d): Medidas tendientes a minimizar los efec-
+tos sobre la calidad de las aguas, aguas abajo del lugar de
+construcci´on de las obras.
+En primer lugar, se instruir´a al personal de buenas pr´acticas ambientales durante
+la construcci´on de las obras, evitando as´ı la disposici´on de materiales, residuos,
+l´ıquidos, combustibles, entre otros, dentro del cauce.
+Durante la construcci´on de los atraviesos se tendr´a especial cuidado en la utilizaci´on
+de maquinaria que se encuentre en perfecto estado de operaci´on y funcionamiento,
+con el fin de evitar la ca´ıda de cualquier elemento mec´anico o el derrame de cualquier
+elemento l´ıquido (aceites o petr´oleo) al interior del cauce, que pueda posteriormente
+afectar la calidad de las aguas.
+El predio contar´a con ingreso restringido, y por tanto se evitar´a el ingreso de personas
+ajenas al proyecto, que pretenda ejecutar labores o acciones no permitidas durante
+la construcci´on.
+La construcci´on de las obras contempla la generaci´on de residuos en su construcci´on,
+principalmente asociadas a enfierraduras, descartes de material p´etreo y hormig´on de
+los rellenos en sus fundaciones, para la cual se tendr´a especial cuidado de no afectar
+el cauce natural, disponiendo ´estos fuera del cauce. Luego de finalizar las obras
+de construcci´on, todos los desechos ser´an recopilados y trasladados a un relleno
+sanitario autorizado para su disposici´on final. Cabe mencionar que, no se contempla
+acumular ni manipular sustancias peligrosas.
+No se consideran la instalaci´on de faenas o de almacenamiento de ning´un tipo de
+materiales en la zona del cauce ni en su planicie de inundaci´on.
+Una vez operativo el camino de acceso, se realizar´an inspecciones visuales del estado
+de las alcantarillas, con el fin de evitar que elementos puedan caer y alterar el libre
+escurrimiento de las aguas.
+PAS 156 - CMGIR
+27
+
+===== p.28 =====
+2.5.
+Art. 156 Letra e): Plan de seguimiento de la calidad de las
+aguas durante la fase de construcci´on.
+Se contempla la realizaci´on del siguiente plan de seguimiento de la calidad durante la
+etapa de construcci´on, solo si la quebrada presenta escurrimiento, el cual considera lo
+siguiente:
+Se realizar´a el monitoreo de calidad del agua solo ante la presencia de un escurri-
+miento superficial en el cauce. Considerando que estas son cuencas intermitentes, se
+realizar´a un registro fotogr´afico del cauce durante la construcci´on para verificar la
+ausencia de un escurrimiento ante un evento de precipitaci´on.
+Los puntos de monitoreo (PM) se ubicar´an en el cauce tanto aguas arriba como aguas
+abajo de las obras. Las Tablas 2-7 y 2-8 muestra las coordenadas de los puntos de
+monitoreo para cada obra, mientras que la distribuci´on de estos puntos se detalla
+en las Figuras 2-26 a la 2-28.
+El monitoreo contempla los par´ametros establecidos en la Norma Chilena N°1.333
+para el uso de aguas destinadas a riego.
+En caso de existir un evento de precipitaci´on que genere un escurrimiento superficial,
+se emitir´a un informe a la SMA que contendr´a el registro fotogr´afico, el monitoreo
+realizado, los resultados de calidad de las aguas y el estado de avance de las obras.
+Este informe ser´a emitido a los 10 d´ıas de obtenidos los resultados del monitoreo.
+Se elaborar´a un informe a la SMA a los 30 d´ıas de t´ermino de la construcci´on de
+los atraviesos como tambi´en cada vez que exista un evento de precipitaci´on con
+escurrimiento superficial. El informe deber´a incluir la obra construida, el estado
+del cauce finalizada la construcci´on, los registros fotogr´aficos y resultados de los
+eventuales monitoreos de calidad del agua realizados, el retiro de materiales de
+construcci´on y disposici´on final de los residuos.
+PAS 156 - CMGIR
+28
+
+===== p.29 =====
+Tabla 2-7: Coordenadas de los puntos de monitoreo de calidad de las aguas - Atraviesos
+en Camino de Acceso.
+Par de Monitoreo
+Obra
+Quebrada
+Aguas Arriba
+Aguas Abajo
+PM
+Coordenadas UTM
+PM
+Coordenadas UTM
+Datum WGS 84, Huso 19S
+Datum WGS 84, Huso 19S
+Este (m)
+Norte (m)
+Este (m)
+Norte (m)
+PM-01
+A-01
+Q7
+P1
+267900
+6338987
+P2
+267928
+6339050
+PM-02
+A-02
+Q9
+P3
+267767
+6339030
+P4
+267736
+6339089
+PM-03
+A-03
+Q8
+P5
+267677
+6339020
+P6
+267724
+6339087
+PM-04
+A-04
+Q13
+P7
+267652
+6339110
+P8
+267718
+6339134
+PM-05
+A-05
+Q12
+P9
+267553
+6339152
+P10
+267543
+6339203
+PM-06
+A-06
+Q11
+P11
+267481
+6339132
+P12
+267488
+6339186
+PM-07
+A-07
+Q10
+P13
+267457
+6339115
+P14
+267459
+6339172
+PM-08
+A-08
+Q10
+P15
+267478
+6339053
+P13
+267457
+6339115
+PM-09
+A-09
+Q11
+P16
+267489
+6339079
+P11
+267481
+6339132
+PM-10
+A-10
+Q8
+P17
+267675
+6338901
+P5
+267677
+6339020
+PM-11
+A-11
+Q7
+P18
+267775
+6338839
+P1
+267900
+6338987
+PM-12
+A-12
+Q6
+P19
+267828
+6338797
+P20
+267897
+6338816
+PM-13
+A-13
+Q5
+P21
+267917
+6338663
+P22
+267951
+6338734
+PM-14
+A-14
+Q4
+P23
+268033
+6338609
+P24
+268074
+6338679
+PM-15
+A-15
+Q3.2.4
+P25
+268019
+6338468
+P26
+268048
+6338442
+PM-16
+A-16
+Q3.1.3
+P27
+267993
+6338370
+P28
+268021
+6338405
+PM-17
+A-17
+Q3
+P29
+268064
+6338031
+P30
+268108
+6338102
+PM-18
+A-18
+Q3.1.8
+P31
+268166
+6337908
+P32
+268065
+6337964
+Tabla 2-8: Coordenadas de los puntos de monitoreo de calidad de las aguas - Atraviesos
+en Caminos interiores y Berma.
+Par de Monitoreo
+Obra
+Quebrada
+Aguas Arriba
+Aguas Abajo
+PM
+Coordenadas UTM
+PM
+Coordenadas UTM
+Datum WGS 84, Huso 19S
+Datum WGS 84, Huso 19S
+Este (m)
+Norte (m)
+Este (m)
+Norte (m)
+PM -19
+A-19, A-26
+Q2
+P33
+267832
+6336893
+P34
+268096
+6337561
+PM -20
+A-21, A-20, A-25, A-27
+Q2, Q2.1.9
+P33
+267832
+6336893
+P35
+268226
+6337503
+PM -21
+A-23, A-22, A-31
+Q2.2.3
+P33
+267832
+6336893
+P36
+268239
+6337508
+PM -22
+A-24, A-30
+Q2.1.6
+P33
+267832
+6336893
+P37
+268495
+6337449
+PM -23
+A-29
+Q1.1.14, Q1
+P38
+268498
+6336695
+P39
+268716
+6337049
+PM -24
+A-28, A-32, A-33
+Q1.1.14
+P38
+268498
+6336695
+P40
+268521
+6336817
+PM -25
+A-28, A-32, A-33
+Q1, Q1.1.14
+P41
+267998
+6336631
+P40
+268521
+6336817
+PM -26
+A-28, A-32
+Q1.1.17, Q1.1.14
+P42
+268129
+6336616
+P40
+268521
+6336817
+PAS 156 - CMGIR
+29
+
+===== p.30 =====
+Figura 2-26: Ubicaci´on Puntos de Monitoreo Atraviesos A-1 a A-14 en Camino de Acceso.
+PAS 156 - CMGIR
+30
+
+===== p.31 =====
+Figura 2-27: Ubicaci´on Puntos de Monitoreo Atraviesos A-15 a A-18 en Camino de Acceso.
+PAS 156 - CMGIR
+31
+
+===== p.32 =====
+Figura 2-28: Ubicaci´on Puntos de Monitoreo Atraviesos A-19 a A-33 por Caminos Inte-
+riores y Berma.
+PAS 156 - CMGIR
+32

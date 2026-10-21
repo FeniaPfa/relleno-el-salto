@@ -1,0 +1,845 @@
+
+===== p.0 =====
+ 
+ 
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ 
+ANEXO 1.8 
+ANALISIS DE CAMBIO CLIMATICO 
+ 
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abril 2026 
+ 
+ 
+ 
+ 
+
+===== p.1 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+2 
+ 
+INDICE 
+ 
+1 
+INTRODUCCION ......................................................................................................................................... 3 
+2 
+OBJETIVO .................................................................................................................................................. 3 
+3 
+METODOLOGIA. ........................................................................................................................................ 3 
+4 
+RESULTADOS ............................................................................................................................................. 3 
+4.1 
+DESCRIPCIÓN DEL PROYECTO. ......................................................................................................... 3 
+5 
+UBICACIÓN DEL PROYECTO ....................................................................................................................... 4 
+5.1 
+TEMPORALIDAD .............................................................................................................................. 4 
+5.2 
+OBJETIVO Y DESCRIPCIÓN DE LOS OBJETOS DE PROTECCIÓN AMBIENTAL RECEPTORES DE 
+IMPACTO. ....................................................................................................................................................... 5 
+5.2.1 
+ANÁLISIS DE RIESGO CLIMÁTICO ÁREA DEL PROYECTO ......................................................... 6 
+5.2.2 
+PLAN DE ADAPTACIÓN PARA LOS RECURSOS HÍDRICOS........................................................ 8 
+5.2.3 
+PLAN DE ADAPTACIÓN SECTOR SALUD. ............................................................................... 10 
+5.2.4 
+PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO EN BIODIVERSIDAD ................................... 11 
+6 
+CONCLUSIONES. ....................................................................................................................................... 13 
+ 
+ 
+Tabla 1: Análisis de riesgo Climático en el Área del Proyecto 
+6 
+Tabla 2: Relación del Proyecto con el Plan de Adaptación para los Recursos Hídrico. 
+8 
+Tabla 3: Relación del Proyecto con el Plan de Adaptación Sector Salud 
+10 
+Tabla 4: Relación del Proyecto con el Plan de adaptación en Biodiversidad. 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.2 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+3 
+ 
+1 
+INTRODUCCION  
+En cumplimiento del Artículo 40 de la Ley N° 21.455 (Ley Marco de Cambio Climático), que establece que los 
+proyectos sometidos al Sistema de Evaluación de Impacto Ambiental deben incorporar la variable de cambio 
+climático en los componentes ambientales pertinentes, se procede a analizar dicha variable para el Proyecto. 
+Para ello, se realiza un análisis específico de los mapas de riesgo y amenazas climáticas disponibles en el Atlas 
+de Riesgos Climáticos (ARClim), con el fin de determinar el grado de exposición del Proyecto a los riesgos 
+climáticos en su zona de emplazamiento. 
+2 
+OBJETIVO 
+Presentar y describir los detalles más importantes sobre los factores generadores de impacto, los objetos de 
+protección de impacto y los componentes susceptibles a recibir afectación por efectos del cambio climático. 
+3 
+METODOLOGIA. 
+Como etapa inicial del análisis, se revisa la posible vinculación del Proyecto con los sectores considerados 
+vulnerables al cambio climático, conforme a lo establecido en el Artículo 9° de la Ley Marco de Cambio 
+Climático y en la Contribución Determinada a Nivel Nacional (NDC) de Chile. Para una identificación precisa 
+de los impactos potenciales, es fundamental caracterizar previamente los factores climáticos capaces de 
+generarlos. 
+Con base en la descripción del Proyecto y la caracterización de los objetos de protección susceptibles de recibir 
+impactos, se procede a la evaluación y descripción de dichos impactos. Esta descripción esquematiza las 
+relaciones de causalidad entre las acciones y obras del proyecto y sus consecuencias en el sistema ambiental, 
+distinguiendo entre impactos directos e indirectos dentro de la cadena de efectos. 
+4 
+RESULTADOS 
+4.1 
+DESCRIPCIÓN DEL PROYECTO. 
+El proyecto consiste en la construcción y operación de una instalación moderna para la gestión y el 
+procesamiento de residuos domiciliarios y asimilables. Su objetivo es implementar una solución 
+ambientalmente sostenible y segura para la Región de Valparaíso, basada en los principios de la economía 
+circular. 
+Los componentes principales de la operación: 
+● 
+Compostaje de residuos orgánicos. 
+● 
+Separación y clasificación de residuos inorgánicos para su valorización. 
+● 
+Disposición final controlada de los residuos. 
+● 
+Manejo de lixiviados 
+● 
+Captura y quema de biogás 
+Todas las operaciones se llevarán a cabo con estricto apego a la normativa ambiental y sanitaria vigente, 
+garantizando eficiencia y seguridad tanto para la comunidad como para el medio ambiente. De esta forma, el 
+proyecto fomenta activamente la reducción, el reciclaje y la reutilización de materiales. 
+Capacidad y Cobertura del Proyecto: Durante su vida útil, el centro gestionará aproximadamente 30.741.988 
+toneladas de residuos sólidos durante 25 años de vida útil estimada y prestará servicio principalmente a la 
+
+===== p.3 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+4 
+ 
+población de las comunas de la Región de Valparaíso, con una tasa inicial de 2.500 ton/día. Estará al servicio 
+principal de la población de la región de Valparaíso. 
+5 
+UBICACIÓN DEL PROYECTO 
+Administrativamente el Proyecto se emplaza en la Comuna de Viña del Mar, Provincia de Valparaíso, Región 
+de Valparaíso.  
+A continuación, en la siguiente figura, se muestra la ubicación a escala regional, provincial y comunal en 
+coordenadas UTM, Datum WGS84 Huso 19 Sur. 
+ 
+Fuente: Descripción del proyecto 
+ 
+5.1 
+TEMPORALIDAD 
+La temporalidad del proyecto se estima en: Construcción: 24 meses para las obras principales que permitirán 
+dar el inicio a la operación; luego, una fase de operación de 25 años, incluida construcciones que permitirán 
+continuar la operación; Cierre estimado en 12 meses, Cabe agregar que el cierre y abandono del proyecto 
+
+===== p.4 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+5 
+ 
+contempla un monitoreo post cierre de 20 años, hasta demostrar que la instalación no representa riesgo 
+alguno. 
+ 
+5.2 
+OBJETIVO Y DESCRIPCIÓN DE LOS OBJETOS DE PROTECCIÓN AMBIENTAL 
+RECEPTORES DE IMPACTO. 
+El proyecto “Centro Metropolitano de Gestión Integral de Residuos” En adelante el Proyecto, consiste en 
+construir y operar una instalación moderna diseñada para gestionar y procesar residuos domiciliarios y 
+asimilables a domiciliarios. En él se realizará compostaje de residuos orgánicos, separación y clasificación de 
+residuos inorgánicos, y disposición final de residuos; todo ello con estricto apego a la normativa ambiental y 
+normativa sanitaria vigente de manera eficiente y segura para las personas y el medio ambiente, con ello, 
+cumpliendo un rol importante en el fomento de la economía circular, promoviendo así, la reducción de 
+residuos, el reciclaje y la reutilización de materiales. Cabe agregar, que el Proyecto maneja, por medio de 
+tratamiento tecnológico la generación de lixiviados y emisiones de biogás. 
+A continuación, se presenta una síntesis del Proyecto, incluyendo su objetivo principal, tipología de ingreso al 
+SEIA, la exposición a riesgos climáticos según los mapas correspondientes, y los principales instrumentos de 
+planificación (planes de adaptación) que resultan aplicables. Cabe señalar que, de acuerdo con los 
+lineamientos de la Estrategia Climática de Largo Plazo y la NDC, algunos de estos planes se encuentran 
+actualmente en proceso de elaboración o actualización. 
+El Proyecto se somete al Sistema de Evaluación de Impacto Ambiental (SEIA) en virtud de sus características 
+que se relacionan con la siguiente tipología establecida en el Artículo N°3 del D.S. 40/2013. 
+Proyectos de saneamiento ambiental, tales como sistemas de alcantarillado y agua potable, plantas de 
+tratamiento de aguas o de residuos sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, 
+sistemas de tratamiento y disposición de residuos industriales líquidos o sólidos;  
+Se entenderá por proyectos de saneamiento ambiental al conjunto de obras, servicios, técnicas, dispositivos o 
+piezas que correspondan a:  
+o.5. Sistemas o plantas de tratamiento y/o eliminación de residuos sólidos de origen domiciliario, que 
+cumplan al menos alguna de las siguientes condiciones: 
+o.5.1. Sistemas o plantas de eliminación de residuos sólidos de origen domiciliario, incluidos los 
+rellenos sanitarios, con una tasa de ingreso igual o mayor a treinta toneladas día (30 t/día). 
+o.5.2. Sistemas o plantas de tratamiento de residuos sólidos de origen domiciliario, incluidas las 
+plantas de compostaje y las de biodigestión, con una tasa de ingreso igual o mayor a cincuenta 
+toneladas día (50 t/día). 
+o.7 Sistemas de tratamiento y/o eliminación de residuos industriales líquidos que cumplan al menos 
+alguna de las siguientes condiciones: 
+o.7.1. Que sus efluentes sin tratar se usen para el riego, aspersión y humectación de terrenos o 
+caminos, o se utilicen para el mismo efecto efluentes tratados, en cumplimiento de la respectiva 
+norma de emisión, en una cantidad igual o mayor a cincuenta metros cúbicos día (50 m³/día) 
+   o.7.2. Traten un caudal de efluentes líquidos igual o superior a ciento sesenta metros cúbicos día 
+(160 m³/día). 
+
+===== p.5 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+6 
+ 
+En virtud de lo anterior, y por tratarse de un Centro Integral de manejo de Residuos, que corresponde a la 
+tipología de Saneamiento Ambiental, de acuerdo con la Guía de Cambio Climático 2024, tercera edición, se 
+desarrolla el análisis de los componentes que se indican a continuación: 
+ 
+MAPAS DE RIESGO CLIMÁTICO 
+ASOCIADOS EN ARCLIM / PLANES 
+IMPACTO (I) CONSECUENCIA (C) 
+● 
+Mapas biodiversidad 
+● 
+Mapas de recursos hídricos. 
+● 
+Mapas salud y bienestar humano.  
+● 
+Plan de adaptación sector salud.  
+● 
+Plan de adaptación biodiversidad.  
+ 
+ 
+(C) Inundaciones.  
+(C) Incendios.  
+(I) Pérdida de calidad y cantidad de agua.  
+(I) Alteración de cauces y riberas.  
+(I) Pérdida de biodiversidad.  
+(I) Pérdida de ecosistemas de humedal.  
+(I) Pérdida de ecosistemas de humedal y servicios 
+ecosistémicos.  
+(I) Pérdida de suelos  
+ 
+ 
+5.2.1 ANÁLISIS DE RIESGO CLIMÁTICO ÁREA DEL PROYECTO 
+Tabla 1: Análisis de riesgo Climático en el Área del Proyecto 
+Área 
+Componente 
+ 
+Cadena de impacto 
+Índice de 
+Amenaza 
+Exposición 
+Sensibilidad 
+Capacidad 
+adaptativa 
+Índice de 
+riesgo 
+Biodiversida
+d 
+Pérdida de flora por 
+cambios de 
+temperatura 
+0,2157  
+(Baja) 
+0,3618 
+(Moderada) 
+0,2291 
+(Muy baja) 
+1 
+0,3204 
+(Muy bajo) 
+Pérdida de fauna por 
+cambios de 
+temperatura 
+0,2157 
+ (Muy baja) 
+0,3618 
+(Moderada) 
+0,0386 
+(Muy baja) 
+0,5869 
+0,336 
+Degradación de 
+humedales costeros 
+0,76  
+0,5897 
+0,75 
+0,2 
+0,3526 
+Pérdida de fauna por 
+cambios de 
+precipitación 
+0,2966 
+(Baja) 
+0,3618 
+Moderada 
+0,0946 
+Muy Baja 
+0,5869 
+0,399 
+(Moderado) 
+Pérdida de flora por 
+cambios de 
+precipitación 
+0,2966  
+(Baja) 
+0,3618 
+Moderada 
+1 
+Muy alta 
+1 
+0,6933 (Alto) 
+Recursos 
+hídricos 
+Inundaciones en 
+zonas urbanas 
+Sin 
+información 
+Sin  
+información 
+Sin 
+informació
+n 
+Sin  
+información 
+Sin 
+información 
+Riesgo en el 
+aprovechamiento en 
+agua superficial en 
+riego 
+Sin 
+información 
+Sin  
+información 
+Sin 
+informació
+n 
+Sin  
+información 
+Sin 
+información 
+Inundaciones por 
+desbordes de ríos 
+que afectan zonas 
+pobladas 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+Sequías hidrológicas 
+Sin 
+información 
+Sin  
+información 
+Sin 
+informació
+n 
+Sin  
+información 
+Sin 
+información 
+Riesgo en la 
+disponibilidad de 
+Sin 
+información 
+Sin 
+ información 
+Sin 
+informació
+n 
+Sin  
+información 
+Sin 
+información 
+
+===== p.6 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+7 
+ 
+agua superficial para 
+fines ambientales 
+Salud y 
+Bienestar 
+Humano 
+Seguridad hídrica 
+doméstica urbana 
+0,3317 
+(Leve 
+aumento) 
+0,9393 
+(Muy alto) 
+0,9703 
+(Muy alto) 
+0,4425  
+(Moderado) 
+0,6362 
+ (Fuerte 
+aumento) 
+Efectos de las 
+Heladas en Ciudades 
+No aplica 
+No aplica 
+No aplica 
+No aplica 
+No aplica 
+Inundaciones 
+Sin 
+información 
+Sin  
+información 
+Sin 
+informació
+n 
+Sin  
+información 
+Sin 
+información 
+Efecto olas de calor 
+en salud humana 
+0,4498 (Leve 
+aumento) 
+0,9029 
+(Muy alto) 
+0,132 
+(Bajo) 
+0,4425 
+(Alto) 
+0,3511  
+(Leve 
+aumento) 
+Mortalidad 
+prematura por calor 
++1° 
+500.000 
+habitante 
+22506.7 
+muertes 
+0,2634 
+0,3053 
+Efectos de la Isla de 
+Calor Urbana 
+4,18 °C 
+982832 
+habitantes 
+(2065) 
+-0,4435 
+No aplica 
+0,057 (Medio) 
+Aumento en 
+morbilidad por 
+aumento de 
+temperaturas y olas 
+de calor 
+0,9 °C 
+406866 
+17,9559 
+muertes 
+0,2634 
+0,2655 
+Disconfort Térmico 
+Ambiental 
+No aplica 
+No aplica 
+No aplica 
+No aplica 
+No aplica 
+Incendios en 
+asentamientos 
+urbanos 
+0,0221 
+0,9567 
+0,1212 
+0,3329 
+0,0123 
+Anegamientos de 
+asentamientos 
+costeros 
+0,8336  
+(Muy bajo) 
+1 
+Alta 
+0,2986 
+No aplica 
+0,2489  
+(Alto) 
+Pérdida de agua 
+potable en los 
+Servicios Sanitarios 
+Rurales por déficit 
+de precipitación 
+Sin 
+información 
+Sin 
+ información 
+Sin 
+informació
+n 
+Sin  
+información 
+Sin 
+información 
+ 
+A partir de los datos expuestos para la comuna de Viña del Mar, se observa que las principales vulnerabilidades 
+y niveles de riesgo más críticos (calificados como Altos o Muy Altos) se concentran en las áreas de 
+Biodiversidad y Salud y Bienestar Humano. La sección de Recursos Hídricos carece de información suficiente 
+en la mayoría de sus componentes para establecer tendencias 
+A continuación, se presenta un desglose de los hallazgos más significativos con valoraciones elevadas: 
+Salud y Bienestar Humano 
+Este componente presenta los indicadores de exposición y sensibilidad más alarmantes de todo el análisis: 
+● 
+Seguridad hídrica doméstica urbana: Registra un Índice de riesgo de 0,6362 (Fuerte aumento). Esto 
+se ve impulsado por niveles críticamente altos de Exposición (0,9393 - Muy alto) y Sensibilidad 
+(0,9703 - Muy alto), lo que posiciona la disponibilidad de agua para el consumo humano en zonas 
+urbanas como una de las mayores amenazas estructurales para el proyecto.   
+● 
+Efecto de olas de calor en la salud humana: Aunque el riesgo final se proyecta como "Leve aumento" 
+(0,3511), la Exposición es Muy Alta (0,9029), combinada con una capacidad adaptativa calificada 
+como Alta (0,4425) que mitiga parcialmente el impacto, pero no la ocurrencia del fenómeno.  
+● 
+Anegamientos de asentamientos costeros: Muestra un Índice de riesgo Alto (0,2489), sustentado por 
+un nivel de Exposición Alto (1), lo cual es un factor clave a considerar si el proyecto involucra 
+infraestructura cercana al borde costero o en zonas de baja altitud. 
+
+===== p.7 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+8 
+ 
+Biodiversidad 
+Pérdida de flora por cambios de precipitación: Es el componente ecosistémico más afectado, con un 
+Índice de riesgo Alto (0,6933). Esto se debe a que la vegetación local posee una Sensibilidad de 1 (Muy 
+alta) a las variaciones en las lluvias, sumado a una capacidad adaptativa también indexada en 1. 
+Considerando estos factores, las medidas de mitigación o diseño del proyecto en Viña del Mar deberían 
+priorizar la eficiencia hídrica (debido al fuerte aumento en el riesgo de seguridad de agua urbana) y el 
+resguardo de la infraestructura costera ante eventuales anegamientos. 
+Frente a este escenario de alta vulnerabilidad comunal, el diseño del proyecto responde de manera proactiva 
+y resiliente mediante la integración de tecnologías orientadas a la economía circular. Para mitigar el riesgo 
+crítico de seguridad hídrica doméstica urbana, el proyecto operará bajo una estrategia de "Descarga Cero" de 
+riles, lo que anula la necesidad de captar agua fresca para sus procesos operativos de largo plazo. Esto se logra 
+mediante la implementación de un sistema de tratamiento de los lixiviados generados, sumado a una planta 
+de tratamiento (modalidad lodos activados) que procesará el 100% de las aguas residuales domésticas de los 
+servicios higiénicos. Ambos efluentes tratados se revalorizarán por completo para el control de emisiones 
+mediante la humectación de caminos internos. Asimismo, la losa de lavado de camiones contará con un 
+circuito cerrado que recirculará el total de sus aguas, acotando el uso de agua industrial exclusivamente a la 
+fase de construcción. Con ello, el centro garantiza que la provisión de agua fresca operacional sea baja a nula, 
+protegiendo las fuentes hídricas de Viña del Mar y neutralizando la alta sensibilidad del entorno.  
+Por otra parte, la instalación incorporará una planta de quema de biogás. Este sistema operará con un 
+estándar de eficiencia de captura del orden del 50% y una eficiencia de quema térmica del 99%, reduciendo 
+las emisiones de metano y minimizando la acumulación de gases combustibles en la masa de residuos 
+dispuestos y que destruye los gases que promueve los olores. Esta configuración tecnológica promueve 
+operativamente la continuidad del centro ante los extremos climáticos proyectados por ARClim, sino que 
+constituye la base técnica para demostrar que el proyecto es ambientalmente sustentable y compatible con 
+los desafíos climáticos de la comuna. 
+ 
+5.2.2 PLAN DE ADAPTACIÓN PARA LOS RECURSOS HÍDRICOS. 
+El Plan de Adaptación al Cambio Climático para los Recursos Hídricos se encuentra actualmente en su fase 
+inicial, que comprende la generación de información base y la conformación de equipos técnicos. El avance 
+en esta materia se ha logrado a través de diversas iniciativas públicas y privadas, las cuales han permitido 
+cumplir con las líneas de acción definidas en el Plan de Acción Nacional de Cambio Climático (PANCC) 2008-
+2012, particularmente en lo relativo a estudios de vulnerabilidad. 
+Los ejes prioritarios que orientarán el Plan están alineados, en gran medida, con lo establecido en la Estrategia 
+Nacional de Recursos Hídricos del MOP, aunque se mantiene la flexibilidad para incorporar nuevas líneas de 
+acción durante su proceso de elaboración. 
+La relación y alineación específica entre estos ejes y el Proyecto se detallan en la tabla a continuación: 
+Tabla 2: Relación del Proyecto con el Plan de Adaptación para los Recursos Hídrico. 
+Lineamiento 
+Relación con el proyecto 
+Gestión sustentable de los recursos hídricos, que 
+permita una adecuada protección de la cantidad y 
+calidad de las aguas. 
+Si se relaciona. El proyecto implementa un 
+principio de "Descarga Cero" de residuos líquidos 
+industriales durante su operación. Mediante el 
+tratamiento avanzado de lixiviados y aguas 
+
+===== p.8 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+9 
+ 
+servidas, evita cualquier tipo de infiltración o 
+descarga que pueda alterar la calidad fisicoquímica 
+de las aguas subterráneas o superficiales. 
+Mejorar la institucionalidad para la planificación del 
+recurso, su asignación, protección, fiscalización y 
+resolución de conflictos. 
+No se relaciona 
+Prevenir y enfrentar la escasez: superar la escasez a 
+corto plazo y abordarla de forma permanente. 
+Comprensión del ciclo hidrológico en el manejo de 
+los recursos, recarga artificial de acuíferos, 
+obtención de recursos desde nuevas fuentes, como 
+plantas desalinizadoras, construcción de 
+infraestructura hídrica y otros. 
+Si se relaciona. El proyecto construye su propia 
+infraestructura hídrica de tratamiento para 
+autoabastecerse de agua industrial a partir de 
+fuentes no convencionales (revalorización de 
+lixiviados y aguas residuales domésticas). Al 
+eliminar la demanda de agua fresca de la red 
+pública para la humectación de caminos, reduce la 
+presión sobre el recurso hídrico local en un 
+escenario de escasez. 
+Fortalecer y ampliar los sistemas de monitoreo, con 
+especial atención en la instalación de estaciones en 
+altura, extender y mejorar el monitoreo de la calidad 
+de las aguas y de los acuíferos, para estos últimos a 
+través de un programa nacional de monitoreo. 
+No se relaciona 
+Mantener y fortalecer el inventario, monitoreo y 
+estudio de los glaciares. 
+No se relaciona 
+Potenciar el desarrollo de una Ley de Glaciares, que 
+permita la conservación de estos cuerpos, 
+considerando los efectos del cambio climático. 
+No se relaciona 
+Mejorar la satisfacción de la demanda de agua 
+potable en las zonas de menor cobertura. 
+No se relaciona 
+Reutilización del recurso. 
+Si se relaciona. El 100% de los lixiviados tratados 
+por ósmosis inversa y de las aguas servidas 
+domésticas tratadas por lodos activados se 
+reutilizan internamente en el control de emisiones 
+(humectación de caminos). Adicionalmente, la losa 
+de lavado de camiones opera en un circuito 
+cerrado que recircula el total de sus aguas 
+residuales, encarnando los principios de la 
+economía circular hídrica. 
+Educación de la población. Promover la cultura de 
+conservación del agua en la comunidad y las 
+acciones para el uso eficiente del recurso. 
+No se relaciona 
+ 
+El Proyecto demuestra consistencia y alineación con los ejes prioritarios del Plan de Adaptación al Cambio 
+Climático para los Recursos Hídricos. A través de su estrategia de ingeniería, el centro contribuye activamente 
+al lineamiento de Gestión sustentable de los recursos hídricos al resguardar la calidad del suelo y acuíferos 
+mediante una política de 'Descarga Cero' de riles operacionales. Asimismo, responde de manera directa al eje 
+de Prevenir y enfrentar la escasez y al mandato normativo de Reutilización del recurso, ya que sustituye 
+completamente el uso de agua fresca industrial por el aprovechamiento de fuentes hídricas no convencionales 
+generadas in situ (lixiviados tratados, aguas de los SSHH tratadas por lodos activados y recirculación en la losa 
+de lavado). De esta forma, el proyecto no solo optimiza sus procesos internos bajo un modelo de economía 
+circular, sino que se acopla a las políticas públicas del Estado orientadas a mitigar la vulnerabilidad hídrica 
+frente al cambio climático. 
+
+===== p.9 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+10 
+ 
+ 
+5.2.3 PLAN DE ADAPTACIÓN SECTOR SALUD. 
+El Plan de Adaptación Sector Salud tiene por objetivo general fortalecer la capacidad de resiliencia y respuesta 
+del sistema de salud nacional frente a los desafíos del cambio climático. Esto se logrará mediante la 
+identificación e implementación de medidas diferenciadas en el corto, mediano y largo plazo, cuyo propósito 
+es: 
+● 
+Mitigar las consecuencias negativas del cambio climático en la salud de la población. 
+● 
+Garantizar el funcionamiento continuo y adecuado de los servicios y redes de salud, bajo las nuevas 
+condiciones climáticas y los impactos proyectados. 
+La relación del Proyecto y los objetivos específicos se detallan en la tabla a continuación: 
+Tabla 3: Relación del Proyecto con el Plan de Adaptación Sector Salud 
+Objetivo específico 
+Relación con el proyecto 
+Crear dentro del Ministerio de Salud una Unidad de 
+Coordinación ejecutiva encargada de articular, coordinar y 
+dar seguimiento a las diversas acciones del plan sectorial de 
+salud frente al cambio climático. 
+El Proyecto no se relaciona 
+Capacitar, con respecto a la temática del cambio climático 
+y sus impactos en la salud, a los departamentos/unidades 
+que jugarán un rol clave en la adaptación de la 
+institucionalidad de salud para dar respuestas a las nuevas 
+necesidades asociadas al cambio climático. 
+El Proyecto no se relaciona 
+Fortalecer el conocimiento y la evidencia de alcance nacional 
+con respecto a las variables ambientales vinculadas al cambio 
+climático y a cómo éstas podrían explicar y predecir efectos 
+sobre la salud de las personas. 
+Alineado con el proyecto. Para la 
+elaboración del Estudio de Impacto 
+Ambiental, el proyecto debe caracterizó 
+y modeló variables ambientales críticas 
+para la salud humana en su área de 
+influencia, tales como las emisiones 
+atmosféricas MP10, MP2.5 y gases, 
+incluidos los GEI, además modeló la 
+dispersión de olores. Los resultados de 
+las modelaciones aportan directamente a 
+la evidencia y conocimiento técnico 
+sobre los efectos ambientales locales. 
+Asegurar la medición continua y estandarizada de indicadores 
+asociados a variables ambientales que tienen implicancias en 
+el estado de salud de las personas y que están relacionadas 
+con el cambio climático. La vigilancia debe basarse en 
+metodologías y protocolos adecuados que aseguren óptima 
+calidad de la información recolectada para realizar un análisis 
+efectivo de ésta y generar acciones para disminuir el impacto 
+esperado del cambio climático sobre la salud de la población. 
+Alineado con el proyecto. El proyecto 
+incorpora sistemas de monitoreo y 
+control, tales como el seguimiento de la 
+eficiencia de quema del biogás (99%) y la 
+verificación de la calidad de las aguas 
+tratadas. Estos planes de seguimiento 
+ambiental, exigidos en el EIA, aseguran 
+mediciones 
+continuas 
+que 
+mitigan 
+riesgos 
+sanitarios 
+(vectores, 
+gases, 
+lixiviados) potenciados por las olas de 
+calor. 
+
+===== p.10 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+11 
+ 
+Empoderar y educar a la ciudadanía en las temáticas del 
+cambio climático y sus impactos sobre la salud de la población, 
+tanto a nivel nacional como regional, para concientizar a las 
+comunidades y promover medidas de respuesta ante los 
+impactos del cambio climático esperados en la salud. 
+El Proyecto no se relaciona 
+Mejorar la capacidad y calidad de respuesta de la 
+institucionalidad ante situaciones de emergencia provocadas 
+por los impactos esperados del cambio climático en la salud de 
+la población. 
+El Proyecto no se relaciona 
+Fortalecer la capacidad de adaptación al cambio climático y 
+a sus impactos en la salud, de aquellos grupos identificados 
+como vulnerables, los que según OMS & OPS (2011), 
+corresponden a los menores de 5 años, las mujeres 
+embarazadas o que amamantan, las personas adultas 
+mayores, los pobres y todas las poblaciones excluidas 
+socialmente, los pueblos indígenas y otros grupos étnicos, así 
+como las poblaciones migrantes y desplazadas que viven en 
+zonas urbanas y rurales. 
+El Proyecto no se relaciona 
+Asegurar la capacidad de respuesta de la institucionalidad ante 
+eventuales cambios en el perfil de morbimortalidad de la 
+población derivados de la aparición de enfermedades 
+emergentes y/o reemergentes como consecuencia del cambio 
+climático. 
+El Proyecto no se relaciona 
+ 
+Respecto al Plan de Adaptación Sector Salud concluye que el Proyecto se vincula de manera complementaria 
+con dos de sus objetivos específicos. El centro se alinea metodológicamente con el fortalecimiento del 
+conocimiento de variables ambientales y el aseguramiento de mediciones continuas mediante la 
+implementación de sus planes de seguimiento ambiental. Estos incluyen el monitoreo estandarizado de la 
+eficiencia de quema de biogás (99%) y el control de la calidad del agua en sus plantas de tratamiento, lo que 
+evita la generación de riesgos sanitarios locales bajo condiciones climáticas extremas. 
+5.2.4 PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO EN BIODIVERSIDAD 
+Este plan nacional tiene como objetivo fortalecer las capacidades del país —en todos sus niveles— para 
+enfrentar los desafíos del cambio climático y la creciente presión sobre los ecosistemas y sus servicios. Su 
+propósito es identificar e implementar medidas de relevancia nacional que promuevan sinergias entre la 
+conservación de la biodiversidad y la adaptación climática. Con ello, busca tanto mitigar los impactos 
+negativos del cambio climático en los ecosistemas y la población, como asegurar la provisión sostenible de los 
+bienes y servicios ecosistémicos. 
+A continuación, en la siguiente tabla, se presenta la relación directa entre los objetivos de este plan y los 
+aspectos relevantes del Proyecto. 
+Tabla 4: Relación del Proyecto con el Plan de adaptación en Biodiversidad. 
+Lineamiento  
+Relación con el proyecto  
+Investigación en biodiversidad y creación de 
+capacidades en gestión, información y conciencia 
+ambiental, a nivel nacional, regional y local.  
+Alineado con el proyecto. Para la elaboración 
+del Estudio de Impacto Ambiental, el 
+proyecto levantó información detallada (Línea 
+de Base) en su área de influencia (flora, 
+vegetación y fauna terrestre). Esta 
+información técnica generada in situ aporta 
+
+===== p.11 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+12 
+ 
+directamente al conocimiento científico y a la 
+disponibilidad de información ambiental 
+sobre los ecosistemas locales de la comuna. 
+Promoción de prácticas productivas sustentables para la 
+adaptación al cambio climático en biodiversidad y la 
+mantención de los servicios ecosistémicos.  
+Alineado con el proyecto. El proyecto 
+implementa un proceso de compostaje de 
+residuos orgánicos para la generación de 
+enmiendas estables. Esta es una práctica de 
+economía circular sustentable que, al ser 
+aplicada en suelos degradados o proyectos de 
+paisajismo, mejora la retención de humedad, 
+aporta nutrientes y aumenta la resiliencia de 
+la flora local frente al estrés hídrico 
+proyectado para la zona, ayudando a 
+mantener los servicios ecosistémicos de 
+soporte. 
+Consideración de objetivos de biodiversidad en los 
+instrumentos de planificación territorial urbana, en los 
+planes regionales de ordenamiento territorial (PROT), u 
+otros, como mecanismo de adaptación al cambio 
+climático. 
+El Proyecto no se relaciona 
+Fortalecimiento 
+del 
+Sistema 
+Nacional 
+de 
+Áreas 
+Protegidas e implementación de medidas de adaptación 
+al cambio climático a nivel de ecosistemas y especies, en 
+ambientes tanto terrestres como marinos, costeros, de 
+aguas continentales e islas oceánicas, tanto en espacios 
+rurales como urbanos y periurbanos. 
+El Proyecto no se relaciona 
+ 
+El Proyecto se vincula de manera constructiva y complementaria con los lineamientos del Plan de Adaptación 
+al Cambio Climático en Biodiversidad. En primer lugar, contribuye de forma indirecta al eje de Investigación 
+en biodiversidad, ya que el desarrollo de su Línea de Base para el presente EIA genera información actualizada 
+sobre el estado de la flora y fauna local. En segundo lugar, el proyecto se alinea directamente con la Promoción 
+de prácticas productivas sustentables mediante su planta de compostaje, la cual revaloriza la materia orgánica 
+transformándola en un recurso que mejora la retención hídrica de los suelos y fortalece la resiliencia de los 
+ecosistemas locales frente a los efectos del cambio climático. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.12 =====
+EIA CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+13 
+ 
+6 
+CONCLUSIONES. 
+El Proyecto demuestra una resiliencia frente a las amenazas climáticas identificadas en la comuna de Viña del 
+Mar. Aunque la zona presenta un riesgo en "fuerte aumento" para la seguridad hídrica urbana y una 
+exposición "muy alta" a olas de calor, la ingeniería neutraliza estos impactos mediante un diseño basado en 
+la autonomía operativa y la economía circular.  
+Sobre los Recursos Hídricos, el Proyecto consolida una política operativa de "Descarga Cero" de residuos 
+líquidos industriales. A través del tratamiento de los residuos líquidos para lixiviados y el tratamiento de aguas 
+domésticas, el Proyecto genera sus propias fuentes no convencionales de agua para la humectación de 
+caminos. Esto suprime la necesidad de consumir agua fresca de la red pública durante la operación, 
+acoplándose directamente a los objetivos de prevención de escasez y reutilización del Plan de Adaptación 
+para los Recursos Hídricos.  
+Sobre los Planes Sectoriales de Salud y Biodiversidad: El Proyecto se vincula de manera sinérgica y 
+complementaria con los instrumentos sectoriales evaluados. En el componente Salud, aporta activamente a 
+la generación de evidencia ambiental mediante el monitoreo estandarizado de la planta de biogás (99% de 
+eficiencia de quema) y el control de vectores y olores. En el componente Biodiversidad, el levantamiento de 
+información de sus líneas de base enriquece el conocimiento local. 
+ 

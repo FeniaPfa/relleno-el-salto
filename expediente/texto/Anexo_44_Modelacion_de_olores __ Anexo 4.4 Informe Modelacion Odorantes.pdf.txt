@@ -1,0 +1,2718 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 4.4: MODELACIÓN DE ODORANTES 
+ESTUDIO DE IMPACTO AMBIENTAL 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MAYO 2026
+
+===== p.1 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 2 
+ 
+ÍNDICE 
+ 
+1 
+Introducción ........................................................................................................ 6 
+2 
+Objetivos ............................................................................................................ 8 
+3 
+Marco regulatorio de olores .................................................................................. 8 
+3.1 
+Justificación normativa de comparación ........................................................ 10 
+4 
+Modelos utilizados .............................................................................................. 13 
+4.1 
+Modelo CALPUFF ......................................................................................... 13 
+4.2 
+Modelo Weather Research and Forecast (WRF) ............................................. 15 
+5 
+Metodología ....................................................................................................... 15 
+5.1 
+Subgrilla .................................................................................................... 17 
+5.2 
+Receptores ................................................................................................. 19 
+5.3 
+Escenario de modelación ............................................................................. 21 
+5.4 
+Factores de emisión y referencia .................................................................. 25 
+5.5 
+Abatimiento ................................................................................................ 28 
+6 
+Estimación de emisiones de olor .......................................................................... 30 
+7 
+Modelación meteorológica ................................................................................... 32 
+8 
+Modelación de olor ............................................................................................. 32 
+8.1 
+Resultados de la dispersión de olor y análisis normativo ................................. 33 
+8.2 
+Percepción de olor ...................................................................................... 37 
+8.3 
+Caracterización del olor ............................................................................... 39 
+8.3.1 
+Frecuencia .............................................................................................. 39 
+
+===== p.2 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 3 
+ 
+8.3.2 
+Intensidad .............................................................................................. 40 
+8.3.3 
+Duración................................................................................................. 43 
+8.3.4 
+Ofensividad............................................................................................. 44 
+8.3.5 
+Localización ............................................................................................ 45 
+9 
+Conclusión ......................................................................................................... 46 
+10 
+Bibliografía..................................................................................................... 50 
+11 
+Anexos .......................................................................................................... 51 
+ 
+ 
+ 
+
+===== p.3 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 4 
+ 
+ÍNDICE DE TABLAS 
+Tabla 1. Coordenadas UTM de vértices del proyecto (Datum WGS 84 Huso 19 H) ............ 7 
+Tabla 2. Límite normativo .......................................................................................... 12 
+Tabla 3. Receptores cercanos al proyecto .................................................................... 19 
+Tabla 4. Fuentes de olor modeladas del proyecto ......................................................... 23 
+Tabla 5. Factores de emisión o referencia utilizados y su justificación ............................ 26 
+Tabla 6. Estimación de emisiones odorantes ................................................................ 30 
+Tabla 7. Ranking de las unidades generadoras de olor ................................................. 31 
+Tabla 8. Características de la pluma de dispersión ........................................................ 34 
+Tabla 9. Análisis del cumplimiento normativo en los receptores ..................................... 36 
+Tabla 10. Descriptores de efectos de olor propuestos para impactos predichos por 
+modelación ............................................................................................................... 37 
+Tabla 11. Percepción del olor en los receptores cercanos al proyecto ............................. 38 
+Tabla 12. Tabla de frecuencias de eventos de olor ....................................................... 39 
+Tabla 13. Intensidad y descripción del olor .................................................................. 40 
+Tabla 14. Concentración de olor ................................................................................. 41 
+Tabla 15. Intensidad del olor en los receptores. ........................................................... 42 
+Tabla 16. Duración de los eventos de percepción de olor en los receptores .................... 43 
+ 
+ 
+
+===== p.4 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 5 
+ 
+ÍNDICE DE FIGURAS 
+Figura 1. Ubicación del proyecto .................................................................................. 7 
+Figura 2. Subgrilla utilizada para la pluma de dispersión ............................................... 18 
+Figura 3. Ubicación de los receptores discretos cercanos al proyecto ............................. 20 
+Figura 4. Ubicación fuentes de olor ............................................................................. 21 
+Figura 5. Pluma de dispersión de odorantes e isodoras ................................................. 34 
+Figura 6. Área de influencia del proyecto ..................................................................... 35 
+Figura 7. Escala de intensidad de olor ......................................................................... 41 
+Figura 8. Ubicación del proyecto y receptores .............................................................. 46 
+ 
+ 
+
+===== p.5 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 6 
+ 
+1 
+Introducción 
+El presente informe presenta los resultados obtenidos en la modelación de dispersión e 
+impacto de compuestos odorantes asociados al proyecto "Centro Metropolitano de Gestión 
+Integral de Residuos". El proyecto se ubica en la comuna de Viña Del Mar, Provincia y Región 
+de Valparaíso, como muestra la Figura 1.  
+El Proyecto consiste en la construcción y operación de una instalación integral para el 
+tratamiento de los residuos sólidos mediante compostaje, reciclaje y disposición final de 
+residuos sólidos domiciliarios y asimilables, ubicado en el kilómetro 102,5 de la Ruta 60 - 
+Troncal Sur que une las comunas de Viña del Mar y Quilpué en la Región de Valparaíso y 
+cuya área total de emplazamiento es de 63,10 ha dentro de un predio de 206 ha.  
+El proyecto cuenta con una Zona de Instalaciones Operacionales y Administrativas, Zona de 
+Compostaje, Zona de Reciclaje, Zona de Disposición de Residuos, Zona de Tratamiento de 
+Lixiviados y Zona de Tratamiento de Biogás. Durante la operación del proyecto se espera 
+recibir 30.741.988 toneladas de residuos sólidos durante 25 años de vida útil estimada 
+y prestará servicio principalmente a la población de las comunas de la Región de Valparaíso, 
+con una tasa inicial de 2.500 ton/día. 
+
+===== p.6 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 7 
+ 
+ 
+Figura 1. Ubicación del proyecto 
+Este informe presenta una estimación de las emisiones de odorantes del proyecto, y los 
+efectos que dichas emisiones producen en el aire. Su elaboración, se basó en las 
+recomendaciones de la “Guía para la predicción y evaluación de impactos por olor en el 
+SEIA”, (SEA, 2017), con el fin de evaluar la existencia de impactos odorantes sobre 
+receptores cercanos. Los vértices del proyecto son presentados en la Tabla 1. 
+Tabla 1. Coordenadas UTM de vértices del proyecto (Datum WGS 84 Huso 19S) 
+Vértice 
+U.T.M (Norte) 
+U.T.M (Este) 
+V1 
+6.337.772 
+267.889 
+V2 
+6.337.552 
+268.950 
+V3 
+6.337.004 
+268.910 
+V4 
+6.336.188 
+268.538 
+V5 
+6.336.265 
+267.899 
+V6 
+6.336.430 
+267.365 
+V7 
+6.337.033 
+267.264 
+Además, es preciso indicar que, a la fecha en Chile no existe una norma que regule la 
+
+===== p.7 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 8 
+ 
+inmisión en los receptores cercanos a un centro de tratamiento de residuos, sin embargo, 
+en el contexto de la evaluación ambiental, los resultados serán analizados con los estándares 
+internacionales. La norma de referencia utilizada para la presente evaluación corresponde a 
+la norma italiana de Lombardía del año 2012, que establece límites de inmisión entre 1 y 5 
+uoE/m3. 
+2 
+Objetivos 
+El presente informe tiene como objetivo general cuantificar y evaluar el impacto atmosférico 
+de las emisiones de olor generadas por el proyecto, así como determinar sus 
+concentraciones y área de influencia. 
+Para lo anterior se plantean los siguientes objetivos específicos: 
+• 
+Estimar las cantidades esperadas de emisiones odoríficas del proyecto, considerando 
+factores de emisión o emisiones de referencia, según corresponda, para cada una 
+de las fuentes identificadas. 
+• 
+Evaluar las concentraciones de las emisiones de odorantes emitidas a la atmósfera 
+por el proyecto, en su condición más desfavorable. 
+• 
+Definir el área de influencia del proyecto en términos del impacto de las 
+concentraciones de olor modelados. 
+• 
+Determinar la concentración de olores en diversos puntos receptores representativos 
+de las zonas cercanas del proyecto.  
+• 
+Seleccionar una norma internacional de referencia pertinente para proyectos de 
+gestión de residuos. 
+• 
+Realizar un análisis comparativo entre los resultados obtenidos en cuanto a 
+concentración de olores y la normativa internacional aplicable. 
+3 
+Marco regulatorio de olores 
+Las emisiones odorantes son elementos perturbadores para la salud humana, entendida 
+ésta última en el sentido amplio del “completo bienestar físico, mental y social, y no 
+solamente la ausencia de afecciones o enfermedades” (OMS, 2005). El olor es un vector 
+
+===== p.8 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 9 
+ 
+ambiental que puede causar molestia y, al mismo tiempo afectar negativamente a la salud 
+y calidad de vida cuando la exposición es frecuente y repetida. Este vector se denomina 
+factores de estrés ambiental (Cohen, Evans, Stokols, & Krantz, 1986), ya que, a diferencia 
+de otros contaminantes, el olor puede causar efectos en la salud por debajo del nivel de un 
+daño físico real, pero su exposición constante causa un malestar agobiante, dando lugar a 
+efectos fisiológicos. 
+Los límites de inmisión y los factores de emisión son conceptos clave en la gestión de la 
+calidad del aire, pero tienen diferencias fundamentales. Los límites de inmisión se refieren 
+a las concentraciones máximas permitidas de un contaminante en el aire ambiente en un 
+área específica, establecidas para proteger la salud humana y el medio ambiente. Estos 
+límites son utilizados para evaluar la calidad del aire y asegurar que no se excedan niveles 
+perjudiciales de contaminación. Por otro lado, los factores de emisión son valores que 
+indican la cantidad de contaminante liberado a la atmósfera por una fuente específica, como 
+una fábrica o planta de tratamiento, por alguna actividad o producción. Estos factores se 
+utilizan para estimar las emisiones de contaminantes a partir de distintas fuentes, ayudando 
+a modelar y prever los impactos ambientales potenciales. Mientras que los límites de 
+inmisión se enfocan en la calidad del aire que respiran las personas, los factores de emisión 
+se centran en cuantificar las fuentes de contaminación. 
+A partir de los efectos en la salud y medio ambiente que pueden causar las emisiones 
+odorantes, se elabora la “Estrategia para la Gestión de Olores en Chile 2014-2017” por el 
+Ministerio del Medio Ambiente (2013, actualizada el 2017), que busca fortalecer el marco 
+regulatorio de olores, ya que en la actualidad no se cuenta con una normativa ambiental 
+aplicable a éstos. Uno de los puntos que destaca para mencionar la inexistencia de esta 
+normativa es la falta de antecedentes disponibles en el tema. 
+En este contexto es que los últimos años el Ministerio del Medio Ambiente (MMA) ha 
+levantado información para fortalecer el marco regulatorio, dentro de la cual en el estudio 
+“Antecedentes para la Regulación de Olores en Chile” de ECOTEC (2013), se 
+presentan más de 2.000 establecimientos que contienen actividades con el potencial de 
+generar olores. 
+
+===== p.9 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 10 
+ 
+Las normas de odorantes vigentes en otros países establecen límites máximos de 
+concentración de olores promedio horaria en unidad de olor, concepto que se define como 
+la cantidad de sustancia odorífera que, cuando se evapora en un metro cúbico de un gas 
+neutro en condiciones normales, origina una respuesta fisiológica de un panel equivalente 
+a la que origina una Masa de Olor de Referencia Europea (MORE) evaporada en un metro 
+cúbico de un gas neutro en condiciones normales. 
+3.1 Justificación normativa de comparación 
+La evaluación de emisiones odorantes en modelos de dispersión generalmente se realiza 
+con un criterio horario (1 hora), basado en la normativa alemana sobre evaluación de olores. 
+Esta metodología considera la frecuencia anual de las horas en las que se perciben olores, 
+tomando al menos el 98% de las horas del año como referencia para analizar el impacto de 
+las emisiones. En consecuencia, el percentil 98 es recomendado como parámetro de 
+comparación con normativas de referencia, de acuerdo con la “Guía para la predicción y 
+evaluación de impactos por olor” (2017). 
+En Chile, solo se ha establecido una norma de emisión específica para evaluar los impactos 
+por olor en la cría intensiva de animales, particularmente en la industria porcina, siendo esta 
+la única referencia nacional en el ámbito de regulación de olores. Sin embargo, esta 
+normativa no se relaciona directamente con el proyecto en cuestión, por lo que se realizó 
+una revisión de normativas y criterios internacionales para determinar niveles de calidad 
+adecuados en actividades relacionadas con centro de gestión integral de residuos y rellenos 
+sanitarios, conforme a lo señalado en la guía antes mencionada. 
+El artículo 11 de la Ley N° 19.300/1994 establece que “para evaluar si el proyecto genera o 
+presenta riesgo para la salud, se debe considerar lo establecido en las normas de calidad 
+ambiental y de emisión vigentes, utilizando como referencia las normativas de los Estados 
+que indica el reglamento en el artículo 11 del RSEIA”.  
+Dentro de los Estados considerados en dicha disposición se encuentran países miembros de 
+la Unión Europea, cuyas regulaciones ambientales han sido desarrolladas bajo altos 
+estándares técnicos y científicos. En este marco, la normativa de la Región de Lombardía 
+(Italia), en particular la D.G.R. n. IX/3018 de 15 de febrero de 2012 y sus actualizaciones, 
+
+===== p.10 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 11 
+ 
+se ajusta plenamente a lo dispuesto por el artículo 11 del D.S. N°40, constituyéndose en 
+una normativa de referencia válida y pertinente para la evaluación de impactos por olores. 
+Se justifica el uso de la norma de referencia de Lombardía, por los siguientes motivos: 
+⮚ Escasez de normativas específicas en Sudamérica: En Sudamérica, pocos países han 
+desarrollado regulaciones específicas para abordar la problemática de la 
+contaminación ambiental por olores. Esto limita las referencias locales disponibles 
+para evaluar y gestionar impactos odoríferos en proyectos ambientales. 
+⮚ Normativa incluida en el artículo 11 del D.S. N°40: Italia cuenta con una de las 
+regulaciones más avanzadas para la gestión de olores ofensivos. La normativa de la 
+Región de Lombardía (Italia) se encuentra incluida como referencia válida en el 
+artículo 11 del D.S. N°40, el cual establece los Estados cuyas regulaciones pueden 
+ser utilizadas para la evaluación ambiental en ausencia de normativa nacional 
+aplicable. Su normativa abarca una amplia gama de aspectos técnicos y operativos, 
+incluyendo: 
+● La recepción y manejo de quejas relacionadas con olores ofensivos. 
+● Procedimientos analíticos y sensoriales para la determinación de la concentración 
+de olores. 
+● Establecimiento de niveles permisibles de calidad del aire para sustancias 
+odoríferas, diferenciados según actividad económica. 
+● Regulación de fuentes emisoras mediante límites de inmisión aplicables a cada 
+categoría. 
+⮚ Aplicación comprobada en el SEIA: La norma italiana ha sido ampliamente utilizada 
+como referencia en proyectos presentados al Sistema de Evaluación de Impacto 
+Ambiental (SEIA) en Chile. Sectores como rellenos sanitarios, plantas de compostaje 
+y plantas de tratamiento de aguas residuales han adoptado esta regulación para 
+realizar modelaciones de olores. 
+Esta normativa se enfoca en limitar la concentración en inmisión al establecer límites de 
+concentración para el percentil 98, acorde a la distancia entre el receptor y el perímetro de 
+
+===== p.11 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 12 
+ 
+la planta. La normativa se emplea para evaluar proyectos del sector industrial/agrícola, 
+comercial y residencial. Para la evaluación, se establece límites de concentración en inmisión 
+para receptores localizados en zona residencial y en zona industrial 
+Tabla 2. Límite normativo 
+Distancia al 
+perímetro de la 
+planta (m) 
+Límite de inmisión 
+(uoE/m3) 
+Zona Residencial 
+Límite de inmisión 
+(uoE/m3) 
+Zona Industrial 
+Forma de cálculo 
+<200 
+3,00 
+5,00 
+Como el percentil 98 de 
+las concentraciones 
+horarias de un año 
+calendario 
+200-500 
+2,00 
+4,00 
+>500 
+1,00 
+3,00 
+En este contexto, y conforme a los lineamientos establecidos en el documento “Criterio de 
+evaluación en el SEIA: uso de normas de referencia” (2024), la selección de dicha norma se 
+fundamenta  
+En primer lugar, de acuerdo con el Criterio 1: Objeto de protección, la norma seleccionada 
+tiene por finalidad resguardar la salud de la población frente a la exposición a emisiones 
+odorantes, en coherencia con el objeto de protección establecido en la Ley N°19.300.  
+En segundo término, conforme al Criterio 2: Actividad regulada y fuente emisora, la 
+normativa de Lombardía regula emisiones odorantes provenientes de instalaciones y 
+procesos equivalentes a los considerados en el presente proyecto, asegurando su 
+pertinencia y aplicabilidad.  
+Asimismo, respecto al Criterio 3: Contaminante, la norma de Lombardía aborda 
+específicamente la caracterización, cuantificación y control de compuestos odorantes, 
+utilizando un enfoque de evaluación compatible con el requerido para analizar los riesgos y 
+efectos adversos señalados en la Ley N°19.300.  
+Finalmente, en atención al Criterio 4: Umbral de referencia, se considera que los valores 
+establecidos en la normativa son conservadores y protectores, lo que la convierte en una 
+alternativa adecuada y precautoria para la evaluación de las emisiones odorantes del 
+proyecto. 
+
+===== p.12 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 13 
+ 
+Finalmente, la norma de Italia (Lombardía) establece un límite de inmisión de máximo 5 
+ouE/m3 y mínimo 1 uoE/m3, dependiendo de la zona a evaluar (residencial o industrial), tal 
+como se detalla en la Tabla 2 . En el Anexo A. Norma de referencia, se adjunta un ejemplar 
+completo de esta normativa. 
+4 
+Modelos utilizados 
+El Servicio de Evaluación Ambiental en la “Guía para el Uso de Modelos de Calidad del Aire 
+en el SEIA” (2023) hace una serie de recomendaciones para la modelación de contaminantes 
+primarios1 y secundarios en el aire. En la actualidad, esta guía es el único documento 
+existente como parámetro para la modelación de calidad del aire y tiene como objetivo 
+uniformar los criterios, exigencias técnicas y antecedentes para la evaluación de los impactos 
+asociados a este componente de proyectos que ingresen al Servicio de Evaluación 
+Ambiental. Dentro de las recomendaciones de la guía está el uso del modelo de dispersión 
+CALPUFF y sugiere utilizar el modelo meteorológico WRF, los cuales fueron utilizados en la 
+modelación de odorantes del proyecto. 
+A continuación, se presenta los modelos utilizados al modelar las emisiones del proyecto. 
+4.1 Modelo CALPUFF 
+La modelación de dispersión atmosférica de olores provenientes del proyecto se realizó con 
+un modelo tipo “Puff”, específicamente el modelo CALPUFF. Tal como lo define la guía, los 
+modelos tipo “puff” son una combinación entre los modelos Gaussianos y los modelos 
+Lagrangeanos, en el sentido de que esencialmente calculan la dispersión de contaminantes 
+provenientes de una emisión instantánea, llamada “puff”, a lo largo de una trayectoria. Su 
+aproximación matemática consiste en estimar la dispersión en forma Gaussiana en cada 
+punto de una trayectoria; es decir, los modelos tipo “puff” sólo requieren una trayectoria 
+por “puff”, lo que hace su cálculo mucho más rápido.  
+En el caso de emisiones continuas, se simulan las trayectorias y la dispersión Gaussiana de 
+muchos “puffs”, como es en el caso de las emisiones de olor generadas por el proyecto.  
+ 
+1 Los contaminantes primarios son los producidos directamente por la actividad humana o la naturaleza a la 
+atmósfera, dentro de los cuales caben las emisiones odorantes. 
+
+===== p.13 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 14 
+ 
+Así mismo, el modelo CALPUFF es un modelo completo que incorpora herramientas para 
+procesar datos meteorológicos y geofísicos, modelos de dispersión y post procesamiento. 
+Dicho modelo es recomendado por la Agencia de Protección Ambiental de los Estados Unidos 
+(EPA) para modelar transporte a larga distancia de contaminantes. 
+CALPUFF se compone de tres módulos: 
+• 
+CALMET: Es un modelo meteorológico que desarrolla campos horarios de viento 
+y temperatura en una grilla de tres dimensiones. También asocia campos en dos 
+dimensiones de altura y usos de suelo. Este modelo fue reemplazado por el 
+WRF, tal como lo recomienda la guía antes citada. 
+ 
+• 
+CALPUFF: Es un modelo de transporte y dispersión de partículas y gases 
+emitidos desde fuentes modeladas, simulando procesos de dispersión y 
+transformación. CALPUFF utiliza los datos generados por CALMET. Los archivos 
+de salida de CALPUFF contienen las concentraciones horarias o deposición por 
+hora de flujos evaluados en receptores seleccionados. 
+ 
+• 
+CALPOST: Es usado para procesar aquellos archivos generados por CALMET y 
+CALPUFF, produciendo tabulaciones que resumen los resultados de la 
+simulación. Ecuación del modelo CALPUFF 
+La ecuación básica que utiliza el modelo para realizar la modelación es la siguiente: 
+Ecuación 4.1 
+𝐶=
+𝑄
+2𝜋𝜎𝑥𝜎𝑦
+∗𝑔∗𝑒𝑥𝑝[−𝑑𝑎2
+2𝜎𝑥2] ∗𝑒𝑥𝑝[−𝑑𝑎2
+2𝜎𝑦2] 
+Ecuación 4.2 
+𝑔=
+2
+(2𝜋)
+1
+2𝜎𝑧
+∑𝑒𝑥𝑝[−(𝐻𝑒+ 2𝑛ℎ)2
+2𝜎𝑧2
+]
+∞
+𝑛=∞
+ 
+Dónde: 
+C, es concentración a nivel del suelo (g/m3) 
+
+===== p.14 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 15 
+ 
+Q, es masa de contaminantes (g) en la nube. 
+𝜎𝑥, es desviación estándar de la distribución de Gauss en el viento a lo largo de la dirección. 
+𝜎𝑦, es desviación estándar de la distribución de Gauss en el viento de costado 
+𝜎𝑧, es desviación estándar de la distribución de Gauss en la dirección vertical. 
+𝑑𝑎, es distancia del centro de la nube al receptor en la dirección del viento a lo largo. 
+𝑑𝑐, es distancia del centro de la nube al receptor en la dirección de viento cruzado. 
+g, es el término vertical de la ecuación Gaussiana. 
+H, es la altura afectiva desde el nivel del suelo del puff. 
+h, es la altura de la capa de mezcla. 
+El terreno en el cual se realizará la modelación de las emisiones odorantes se considera 
+heterogéneo, debido a las distintas unidades geomorfológicas. Por esta razón y en 
+consistencia con las recomendaciones del Servicio de Evaluación ambiental (SEA), para la 
+modelación en sus guías, se consideró utilizar el modelo CALPUFF para simular la dispersión 
+y concentración de la emisión de odorantes generadas por el proyecto. 
+4.2 Modelo Weather Research and Forecast (WRF) 
+El modelo Weather Research and Forecasting (WRF), es un modelo numérico de cuatro 
+dimensiones, recomendado para la generación de datos meteorológicos y es uno de los 
+modelos de pronóstico meteorológicos más avanzados. Debido a la falta de una red robusta 
+de estaciones meteorológicas, la “Guía para el Uso de Modelos de Calidad del Aire en el 
+SEIA” recomienda emplear WRF por sobre el uso del CALMET. Además, el mismo 
+documento, sugiere el uso del WRF para la modelación de dispersión de contaminantes con 
+CALPUFF. 
+5 
+Metodología 
+De acuerdo con la “Guía para la predicción y evaluación de impactos por olor en el SEIA” 
+(SEA, 2017), la estimación de emisiones odorantes puede efectuarse mediante el uso de 
+factores de emisión o emisiones de referencia. La guía establece como criterio preferente el 
+uso de emisiones de referencia, en la medida que estas representen adecuadamente 
+condiciones operacionales comparables; no obstante, también permite la utilización de 
+
+===== p.15 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 16 
+ 
+factores de emisión o valores teóricos cuando se justifique fundadamente su pertinencia, 
+particularmente en el caso de proyectos nuevos o sin operación previa (sección 4.3). 
+Las emisiones de referencia son aquellas que han sido estimadas a partir de toma de 
+muestras de olor en la fuente y su respectiva caracterización, es decir, son aquellas 
+obtenidas de fuentes existentes o proyectos en ejecución. Dichas emisiones de referencia 
+deben estar determinadas a través de metodologías estandarizadas, como por ejemplo el 
+método de olfatometría dinámica establecido en la norma NCh3190.Of2010 (INN, 2010). 
+Un factor de emisión es una relación entre la cantidad de contaminante emitido a la 
+atmósfera y una unidad de actividad. La unidad de actividad puede consistir en datos de 
+producción, horas de operación de la fuente, área superficial involucrada; o en datos como 
+número de empleados u otros (Radian Corporation, 1996). La ecuación general para la 
+estimación de emisiones utilizando factores de emisión corresponde a 
+Ecuación 5.1 
+𝐸= 𝐴× 𝐸𝐹 
+Donde 𝐸 corresponde a las emisiones, 𝐴 al nivel de actividad y 𝐸𝐹 al factor de emisión. 
+El proyecto en evaluación corresponde a una instalación nueva, por lo que no dispone de 
+información empírica directa para la totalidad de sus fuentes emisoras. En este contexto, y 
+en concordancia con lo señalado en la guía metodológica, se ha definido un enfoque 
+combinado para la estimación de emisiones odorantes, seleccionando la metodología más 
+representativa según la naturaleza de cada fuente. 
+Específicamente, se consideran tres sistemas principales con potencial de generación de 
+olor, asociados a los procesos de compostaje, manejo de lixiviados y disposición final en 
+relleno sanitario. 
+Para el proceso de compostaje, se han utilizado factores de emisión teóricos provenientes 
+de literatura técnica especializada, los cuales se consideran aplicables debido a la relativa 
+estandarización de este tipo de procesos y a la disponibilidad de antecedentes validados 
+para dichas operaciones. En particular, la estimación incorpora los períodos específicos de 
+
+===== p.16 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 17 
+ 
+maduración asociados a cada etapa del compostaje, con el fin de representar 
+adecuadamente la variación temporal de las emisiones odorantes. 
+Por otra parte, para las fuentes correspondientes al relleno sanitario y al manejo de 
+lixiviados, se han empleado emisiones de referencia basadas en el proyecto Ecobio Volta, el 
+cual presenta condiciones operacionales comparables en términos de tipología de residuos 
+recepcionados. La utilización de esta referencia permite capturar de mejor manera la 
+variabilidad y complejidad inherente a este tipo de fuentes, lo que no es adecuadamente 
+representado por factores de emisión genéricos disponibles en la literatura. 
+Cabe señalar que la adopción de emisiones de referencia para estas fuentes constituye un 
+enfoque metodológico conservador y técnicamente más representativo, en tanto se basa en 
+datos empíricos provenientes de una instalación similar, lo que reduce la incertidumbre 
+asociada a la estimación y evita subestimar potenciales impactos odorantes. 
+En consecuencia, la metodología adoptada se ajusta a las directrices del SEA, se encuentra 
+debidamente justificada en función de la disponibilidad y calidad de la información, y permite 
+una caracterización robusta y conservadora de las emisiones del proyecto. 
+5.1 Subgrilla 
+El modelo de dispersión CALPUFF por defecto crea una grilla de modelación partir del modelo 
+meteorológico, la cual tiene una resolución espacial de 1 km, con una dimensión de 80 km 
+x 80 km. Este modelo proporciona el valor promedio de concentración en la primera capa 
+de modelación, que abarca entre 0 y 20 metros sobre el nivel del suelo. Aunque esta grilla 
+inicial ofrece resultados generales, puede carecer de precisión en ciertos análisis. Por ello, 
+el modelo permite definir grillas de modelación personalizadas, especificando tanto la altura 
+(eje vertical) como el tamaño de las cuadrículas. Este enfoque es recomendado por la “GUÍA 
+PARA EL USO DE MODELOS DE CALIDAD DEL AIRE EN EL SEIA” (2023), que señala: “al 
+definir la subgrilla más adecuada para el proyecto, se debe asegurar que el tamaño de esta 
+sea lo suficientemente grande para garantizar la cuantificación de la concentración máxima 
+a nivel de suelo. El tamaño de la grilla requerida será específico del proyecto y variará según 
+
+===== p.17 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 18 
+ 
+las características de las fuentes, los factores geofísicos y las condiciones meteorológicas.” 
+ 
+Figura 2. Subgrilla utilizada para la pluma de dispersión 
+En este sentido, para la modelación de dispersión de odorantes del proyecto, se adoptaron 
+las recomendaciones de la guía. Estas incluyen: 
+a. 
+Definir una altura de 1,8 m, correspondiente a la altura a la que se evalúan las 
+concentraciones en los receptores discretos. 
+b. 
+Generar una cuadrícula o grilla de modelación refinada, denominada subgrilla, con 
+el siguiente espaciado: 
+• 
+Subgrilla 1: Con una resolución de 20 m, que se encuentra en la zona de 
+emplazamiento del proyecto y fue representado por los puntos amarillos en la 
+Figura 2  
+• 
+Subgrilla 2: Tiene una resolución de 50 m, se extiende hasta el deslinde del terreno 
+y es representada por los puntos verdes en la Figura 2. 
+
+===== p.18 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 19 
+ 
+• 
+Subgrilla 3: Tiene una resolución de 250 m, se extiende por 2.000 metros desde el 
+centro del proyecto y corresponde a los puntos celestes en la Figura 2. 
+• 
+Subgrilla 4: Tiene una resolución de 500 m, se extiende por 5.000 metros desde el 
+centro del proyecto y corresponde a los puntos azul en la Figura 2. 
+• 
+Subgrilla 5: Tiene una resolución de 1.000 m, se extiende por 7.000 metros desde 
+el centro del proyecto y corresponde a los puntos rosados en la Figura 2. 
+5.2 Receptores 
+Se consideraron 21 puntos discretos en las cercanías del proyecto, los que corresponden a 
+viviendas existentes en la cercanía del proyecto. En la Tabla 3, se detallan las características 
+de cada punto seleccionado, su distancia al límite del proyecto y el límite normativo 
+aplicable. La Figura 3, muestra la ubicación espacial de los receptores identificados en 
+relación con el proyecto. Asimismo, se incluye el Anexo C. Receptores un KMZ con cada 
+uno de los puntos identificados. 
+Tabla 3. Receptores cercanos al proyecto 
+Receptor 
+Modelación 
+Coordenada UTM 
+Distancia al 
+perímetro del 
+proyecto (m) 
+Descripción 
+HUSO 19 S (m) 
+Este 
+Norte 
+R1 
+269.106 
+6.338.245 
+675,84 
+Unidad Habitacional 
+R2 
+269.720 
+6.337.883 
+830,60 
+Unidad Habitacional 
+R3 
+269.693 
+6.337.943 
+831,61 
+Unidad Habitacional 
+R4 
+269.474 
+6.338.239 
+854,46 
+Unidad Habitacional 
+R5 
+269.698 
+6.338.012 
+869,78 
+Unidad Habitacional 
+R6 
+268.425 
+6.338.778 
+1.019,43 
+Autopista 
+R7 
+269.892 
+6.337.986 
+1.029,48 
+Unidad Habitacional 
+R8 
+268.958 
+6.338.740 
+1.065,28 
+Unidad Habitacional 
+R9 
+268.835 
+6.339.168 
+1.457,68 
+Unidad Habitacional 
+R10 
+268.605 
+6.339.270 
+1.523,47 
+Unidad Habitacional 
+R11 
+268.380 
+6.339.310 
+1.541,48 
+Unidad Habitacional 
+R12 
+269.041 
+6.339.223 
+1.552,56 
+Unidad Habitacional 
+R13 
+269.484 
+6.339.070 
+1.582,68 
+Unidad Habitacional 
+R14 
+269.886 
+6.339.035 
+1.744,00 
+Unidad Habitacional 
+R15 
+269.275 
+6.339.373 
+1.767,43 
+Unidad Habitacional 
+R16 
+269.617 
+6.339.383 
+1.922,05 
+Unidad Habitacional 
+R17 
+266.964 
+6.339.705 
+2.134,03 
+Unidad Habitacional 
+R18 
+267.059 
+6.339.566 
+1.967,82 
+Unidad Habitacional 
+
+===== p.19 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 20 
+ 
+Receptor 
+Modelación 
+Coordenada UTM 
+Distancia al 
+perímetro del 
+proyecto (m) 
+Descripción 
+HUSO 19 S (m) 
+Este 
+Norte 
+R19 
+267.325 
+6.339.487 
+1.796,65 
+Unidad Habitacional 
+R20 
+267.702 
+6.339.409 
+1.639,53 
+Unidad Habitacional 
+R21 
+268.023 
+6.339.371 
+1.578,80 
+Unidad Habitacional 
+ 
+ 
+Figura 3. Ubicación de los receptores discretos cercanos al proyecto 
+ 
+ 
+
+===== p.20 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 21 
+ 
+5.3 Escenario de modelación 
+Para la situación proyectada del presente proyecto, se han considerado las fuentes de 
+emisión descritas en la Tabla 4 y mostradas en la Figura 4, detallando las características 
+de cada fuente y su emisión de olor. 
+ 
+Figura 4. Ubicación fuentes de olor 
+El escenario de modelación considera las principales fuentes emisoras de olor asociadas a 
+la operación del proyecto, incluyendo unidades de compostaje, manejo de lixiviados y 
+disposición final de residuos. En la Tabla 4 se presentan las fuentes incorporadas al modelo, 
+indicando para cada una su código de identificación, ubicación, tipo de fuente emisora y 
+descripción operacional. Esta caracterización permite representar espacial y funcionalmente 
+las unidades con potencial de generación de olor durante la fase de operación. 
+Dado que es un proyecto nuevo, no es posible disponer de mediciones directas de olor en 
+sus fuentes emisoras mediante olfatometría dinámica. Por lo anterior, la estimación de 
+
+===== p.21 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 22 
+ 
+emisiones odorantes se realizó a partir de factores de emisión y factores de referencia, 
+seleccionados según la naturaleza de cada unidad, su condición operacional y su similitud 
+con fuentes evaluadas en estudios y proyectos comparables. Los factores utilizados y su 
+justificación técnica se presentan en el acápite siguiente.  
+
+===== p.22 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 23 
+ 
+Tabla 4. Fuentes de olor modeladas del proyecto 
+Código 
+modelo 
+Fuente emisora 
+Coordenadas centrales 
+UTM 
+Temporalidad 
+Descripción Fuente 
+WGS-84 19 S 
+Este (m) 
+Norte (m) 
+SRC_1 
+Piscina de 
+lixiviados 1 
+267.178 
+6.337.413 
+Constante 
+durante todo el 
+año 
+Piscina de acumulación destinada al almacenamiento de líquidos 
+lixiviados generados en la zona de disposición final. Forma parte 
+del sistema de manejo de lixiviados del relleno sanitario, diseñado 
+para recibir, contener y regular los caudales antes de su 
+evaporación, recirculación o tratamiento. Cuenta con sistema de 
+impermeabilización de doble capa y detección de fugas. 
+SRC_2 
+Piscina de 
+lixiviados 2 
+268.463 
+6.337.339 
+SRC_3 
+Bandeja de 
+evaporación 1 
+268.365 
+6.337.412 
+Unidad permanente de evaporación superficial de lixiviados, 
+diseñada para reducir el volumen de líquidos mediante 
+evaporación natural. Forma parte del sistema de tratamiento de 
+lixiviados y cuenta con impermeabilización mediante lámina HDPE 
+lisa de 1,5 mm. 
+SRC_4 
+Bandeja de 
+evaporación 2 
+268.324 
+6.337.331 
+SRC_5 
+Bandeja de 
+evaporación 3 
+268.592 
+6.337.231 
+SRC_6 
+Zona de mezcla 
+267.775 
+6.337.335 
+Área operacional de la planta de compostaje donde el material 
+orgánico seleccionado se mezcla con material estructurante, en 
+proporción aproximada de 1 parte de estructurante por 2 partes 
+de orgánico en volumen. Esta mezcla permite disminuir humedad, 
+generar estructura filtrante, mejorar la oxigenación y reducir el 
+potencial de generación de olores antes del ingreso a trincheras. 
+SRC_7 
+Trincheras de 
+compostaje 
+267.693 
+6.337.324 
+Sistema de trincheras de hormigón destinadas a la recepción, 
+fermentación o maduración inicial de residuos orgánicos. Estas 
+unidades cuentan con aireación forzada mediante sopladores y 
+cobertura tipo geomembrana o similar, permitiendo tratar, 
+bioestabilizar y secar la fracción húmeda durante un período 
+aproximado de 25 a 30 días, minimizando percolados y olores. 
+SRC_8 - 
+SRC_18 
+Pilas de 
+maduración 
+267.732 
+6.337.251 
+Pilas de compostaje ubicadas en una zona pavimentada y 
+descubierta, destinadas a la etapa de maduración final del 
+material proveniente de las trincheras. Los residuos orgánicos se 
+disponen en pilas alineadas, con volteo mecánico y control de 
+humedad, manteniendo condiciones aeróbicas que favorecen la 
+
+===== p.23 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 24 
+ 
+Código 
+modelo 
+Fuente emisora 
+Coordenadas centrales 
+UTM 
+Temporalidad 
+Descripción Fuente 
+WGS-84 19 S 
+Este (m) 
+Norte (m) 
+estabilización biológica. El proceso tiene una duración estimada 
+de 30 días. 
+SRC_19 
+Frente de trabajo 
+relleno sanitario 
+268.357 
+6.337.244 
+Área activa de descarga, esparcimiento, compactación y cobertura 
+diaria de residuos sólidos. El frente de trabajo está diseñado para 
+permitir la descarga simultánea de camiones recolectores, con una 
+extensión máxima aproximada de 20 m. En esta zona los residuos 
+se distribuyen en capas de 20 a 30 cm, se compactan y, al término 
+de la jornada diaria, son cubiertos con una capa de suelo 
+compactado de 30 cm, de modo que durante la noche no queden 
+residuos expuestos al aire. 
+SRC_20 
+Relleno sanitario 
+268.108 
+6.336.943 
+Celda de disposición final de residuos sólidos domiciliarios y 
+asimilables, diseñada bajo un método mixto de trinchera y 
+sobrecelda. Incluye sistema de impermeabilización basal, drenaje 
+y recolección de lixiviados, chimeneas de biogás, bermas 
+perimetrales y cobertura operacional/final. A diferencia del frente 
+activo, esta fuente representa la superficie del relleno que cuenta 
+con material de cobertura, por lo que los residuos no se 
+encuentran directamente expuestos al aire. 
+ 
+ 
+
+===== p.24 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 25 
+ 
+5.4 Factores de emisión y referencia 
+Para la estimación de emisiones odorantes se utilizó una combinación de factores de emisión 
+bibliográficos y emisiones de referencia provenientes de proyectos evaluados en el SEIA, 
+seleccionados según la similitud operacional de cada unidad emisora. 
+En el caso de las unidades de compostaje, los factores de emisión se obtuvieron del documento 
+técnico citado en el informe adjunto, específicamente de la Tabla 9.9 del libro Industrial Composting: 
+Environmental Engineering and Facilities Management de Eliot Epstein, resumida en la Tabla 4 del 
+informe. Dicha tabla presenta tasas de emisión diferenciadas según la antigüedad del material 
+compostado, permitiendo representar distintas etapas del proceso, desde la fase activa inicial hasta 
+la maduración. En particular, el informe adjunto señala que para la zona de mezcla y trincheras se 
+utiliza la tasa asociada a pilas entre 0 y 6 días de antigüedad, equivalente a 8 uoE/m²s, mientras 
+que para pilas con mayor tiempo de proceso se utiliza la tasa de 0,92 uoE/m²s, correspondiente a 
+pilas entre 28 y 61 días de antigüedad.  
+Para las unidades asociadas a lixiviados y relleno sanitario, se utilizaron factores de referencia 
+provenientes de proyectos SEIA comparables, principalmente del proyecto “Mejoramiento Integral de 
+la Gestión de Residuos Planta Ecobio”, expediente 2141310583, aprobado mediante RCA 
+N°118/2019. Este proyecto corresponde a una mejora integral de los procesos de RSU y CITA, 
+incluyendo tratamiento de lixiviados, residuos orgánicos y manejo de biogás. La referencia a la RCA 
+N°118/2019 aparece en antecedentes de proyectos con RCA vigente asociados a Ecobio, donde se 
+indica expresamente el proyecto “Mejoramiento Integral de la Gestión de Residuos Planta Ecobio” y 
+su RCA N°118/2019 ver referencia SEIA. 
+
+===== p.25 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 26 
+ 
+Tabla 5. Factores de emisión o referencia utilizados y su justificación 
+Zona 
+Unidad 
+FE utilizado 
+(uoE/m²s) 
+Referencia directa 
+Justificación de uso 
+Compostaje 
+Zona de mezcla 
+8,00 
+Industrial Composting: 
+Environmental Engineering and 
+Facilities Management, Eliot Epstein, 
+Tabla 9.9. Fuente: pilas entre 0–6 
+días de antigüedad = 8 uoE/m²s. 
+Se utiliza este valor porque la zona de mezcla corresponde 
+a una etapa inicial del proceso, donde el residuo orgánico 
+se mezcla con estructurante previo al ingreso a las 
+trincheras. Esta condición es asimilable al material fresco o 
+de baja antigüedad, con mayor potencial odorante. 
+Trincheras 
+8,00 
+Industrial Composting: 
+Environmental Engineering and 
+Facilities Management, Eliot Epstein, 
+Tabla 9.9. Fuente: pilas entre 0–6 
+días de antigüedad = 8 uoE/m²s. 
+Se adopta como valor conservador para representar la fase 
+activa 
+inicial 
+de 
+bioestabilización 
+en 
+trincheras, 
+considerando que estas reciben material recientemente 
+mezclado y con mayor actividad biológica. 
+Pilas de 
+maduración 
+0,92 
+Industrial Composting: 
+Environmental Engineering and 
+Facilities Management, Eliot Epstein, 
+Tabla 9.9. Fuente: pilas entre 28–61 
+días de antigüedad = 0,92 uoE/m²s. 
+Se utiliza este valor por tratarse de una etapa posterior del 
+compostaje, donde el material presenta menor potencial 
+odorante que en la fase inicial. El valor es representativo 
+para material con varias semanas de estabilización. 
+Planta de 
+lixiviado 
+Piscina de 
+acumulación 1 
+13,54 
+Proyecto “Mejoramiento Integral de 
+la Gestión de Residuos Planta 
+Ecobio”, expediente 2141310583, 
+aprobado mediante RCA 
+N°118/2019. Antecedentes SEIA 
+indican que en Ecobio se realizaron 
+mediciones olfatométricas en 
+piscinas de lixiviado y que para 
+lixiviados industriales se reportaron 
+valores del orden de 10,4–13,5 
+uoE/m²s ver referencia. 
+Se adopta el valor superior del rango como criterio 
+conservador para superficies líquidas de lixiviado con mayor 
+potencial odorante. 
+Piscina de 
+acumulación 2 
+13,54 
+Bandeja de 
+evaporación 1 
+6,64 
+Factor utilizado en proyectos SEIA 
+para unidades de 
+evaporación/concentrado de 
+lixiviados, con referencia a Ecobio. 
+En el proyecto Centro de Manejo de 
+Residuos Piedra Larga, se reporta 
+Se utiliza por similitud operacional con superficies líquidas 
+destinadas a evaporación de lixiviados o concentrados. 
+Bandeja de 
+evaporación 2 
+6,64 
+
+===== p.26 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 27 
+ 
+Zona 
+Unidad 
+FE utilizado 
+(uoE/m²s) 
+Referencia directa 
+Justificación de uso 
+Bandeja de 
+evaporación 3 
+6,64 
+bandeja de evaporación del 
+concentrado de membranas = 6,64 
+uoE/m²s, indicando que la emisión 
+está basada en el proyecto 
+Mejoramiento Integral de la Gestión 
+de Residuos Planta Ecobio ver 
+referencia.  
+Relleno 
+sanitario 
+Frente de trabajo 
+activo 
+24,12 
+Factor de referencia asociado a 
+fuentes de relleno sanitario, tomado 
+del proyecto “Mejoramiento Integral 
+de la Gestión de Residuos Planta 
+Ecobio”, expediente 2141310583, 
+aprobado mediante RCA 
+N°118/2019. El antecedente 
+corresponde al Anexo I – Estudio de 
+Olores Actualizado de la Adenda 
+Complementaria del proyecto 
+Ecobio. La Adenda Complementaria 
+identifica expresamente dicho anexo 
+dentro del expediente ver Adenda 
+Complementaria. 
+Se adopta para representar el frente activo de descarga, 
+esparcimiento y compactación de residuos frescos, 
+condición de mayor potencial odorante dentro del relleno 
+sanitario. El valor se considera conservador respecto de 
+otros antecedentes SEIA recientes, como Piedra Larga, 
+donde se reporta un factor de 17,55 uoE/m²s para frente 
+activo sin cobertura. 
+Relleno completo 
+0,24 
+Factor de referencia para superficie 
+cubierta o con emisiones fugitivas 
+residuales de relleno sanitario. La 
+literatura y expedientes SEIA 
+distinguen entre frente activo sin 
+cobertura y áreas con 
+cobertura/cierre, asignando factores 
+significativamente menores a 
+superficies cubiertas. En CEMARC se 
+cita literatura técnica para distinguir 
+frentes de trabajo, celdas restituidas 
+y superficies cubiertas ver 
+referencia. 
+Se aplica al relleno completo por corresponder a superficies 
+con cobertura operacional o material de recubrimiento, 
+donde los residuos no se encuentran directamente 
+expuestos al aire. Se considera un 1% de emisión del frente 
+de trabajo activo 
+
+===== p.27 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 28 
+ 
+5.5 Abatimiento 
+El Proyecto considera la implementación de diversos sistemas de abatimiento y control de 
+olores asociados a las principales fuentes odorantes del relleno sanitario y de las 
+instalaciones de manejo de residuos orgánicos y lixiviados. Estas medidas tienen por 
+finalidad disminuir la tasa de emisión odorante desde las unidades operacionales, 
+reduciendo la exposición directa de las fuentes al aire ambiente y favoreciendo la 
+neutralización, contención o tratamiento de los compuestos responsables de la generación 
+de olor. 
+Las medidas consideradas corresponden a: i) sistema de nebulización con producto 
+neutralizador de olores, ii) biofiltro para el tratamiento de aire proveniente del galpón de 
+mezcla, y iii) cobertura semipermeable en trincheras de compostaje. Para efectos de la 
+modelación de impacto odorante, se adoptan eficiencias de abatimiento conservadoras, 
+considerando las fichas técnicas de los sistemas propuestos y antecedentes de proveedores  
+Sistema de nebulización con neutralizador de olores: El Proyecto considera la 
+habilitación de un sistema odorante perimetral en sectores asociados a la planta de 
+compostaje, planta de reciclaje, planta de tratamiento de lixiviados, piscinas de 
+almacenamiento de lixiviados y bandejas de evaporación y frente activo del relleno sanitario. 
+Este sistema consiste en la atomización de un producto neutralizador de olores mediante 
+tuberías, boquillas nebulizadoras de gota fina y bomba de impulsión, generando una nube 
+de microgotas que entra en contacto con el aire potencialmente odorante y neutraliza o 
+modifica los compuestos responsables del olor. Como producto de referencia se considera 
+Ecosorb® 606 (o similar), neutralizador de olores de amplio espectro, formulado en base 
+acuosa con aceites esenciales, surfactantes de grado alimenticio y agua purificada. La ficha 
+técnica indica que el producto está diseñado para neutralizar olores asociados a tratamiento 
+de aguas, compostaje, rellenos sanitarios, líquidos lixiviados y procesos industriales, 
+funcionando como neutralizador atmosférico y no como agente enmascarador. Además, el 
+proveedor informa reducciones al contacto de hasta 95% para ácido sulfhídrico y amonio, 
+y de hasta 97% para dióxido de azufre y mercaptanos etílicos y metílicos. 
+No obstante, para efectos de la estimación de emisiones del Proyecto se adopta una 
+eficiencia de abatimiento de 60%, valor conservador respecto de la eficiencia máxima 
+
+===== p.28 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 29 
+ 
+informada por el proveedor. Esta reducción considera que, en condiciones reales de 
+operación a cielo abierto o semiabiertas, la eficiencia efectiva depende de variables tales 
+como dirección y velocidad del viento, humedad ambiental, distancia entre boquillas y fuente 
+emisora, granulometría de la gota, continuidad operacional del sistema, dosificación del 
+producto y grado de contacto entre la nube nebulizada y la pluma odorante. Por lo anterior, 
+el uso de un 60% representa un criterio prudente para modelación, evitando asumir la 
+eficiencia máxima de laboratorio o de contacto directo. 
+Biofiltro en galpón de mezcla: Para el galpón de mezcla se considera la captación del 
+aire odorante y su conducción hacia un sistema de biofiltración. El funcionamiento del 
+biofiltro se basa en la aspiración del aire contaminado, su acondicionamiento mediante 
+humidificación y posterior paso por un lecho de biomasa fija. En dicho lecho se desarrolla 
+una biopelícula de microorganismos capaces de absorber y metabolizar los compuestos 
+odorantes, transformándolos en compuestos de menor impacto odorífero. La eficiencia de 
+dicha unidad aplicables al control de emisiones odorantes en operaciones de compostaje y 
+otras actividades industriales, alcanzando rendimientos típicos de 95% a 99%, dependiendo 
+de la naturaleza y concentración de los contaminantes. Adicionalmente, para el presente 
+Proyecto se adopta una eficiencia de abatimiento de 90% para el biofiltro del galpón de 
+mezcla, valor que se considera técnicamente justificado y conservador respecto de las 
+eficiencias máximas indicadas en la documentación técnica del sistema. 
+Cobertura de trincheras de compostaje: Las trincheras de compostaje consideran el 
+uso de una cobertura semipermeable, destinada a confinar el material orgánico durante el 
+proceso de bioestabilización, manteniendo condiciones controladas de aireación, humedad 
+y temperatura. El sistema de Trincheras permite tratar y bioestabilizar residuos mediante 
+aireación forzada y gestión automatizada, minimizando emisiones de percolados y olores. 
+La documentación técnica señala que la lona semipermeable presenta retención de olores 
+validada en laboratorio, permite la eliminación de humedad como vapor de agua, evita el 
+ingreso de aguas lluvias y contribuye al confinamiento de olores y percolados. Como 
+respaldo adicional, las fichas técnicas de coberturas para compostaje indican que este tipo 
+de membranas o cobertores cumplen funciones de barrera física y control de emisiones. 
+Con una eficiencia medida de confinamiento de olores superior al 98%. En consecuencia, 
+para efectos de modelación se adopta una eficiencia de abatimiento de 90% para las 
+
+===== p.29 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 30 
+ 
+trincheras cubiertas. Este valor es conservador respecto de las eficiencias reportadas por las 
+fichas técnicas de cobertores y considera que la eficiencia efectiva puede variar en función 
+del correcto sellado perimetral, estado de conservación de la membrana, operación del 
+sistema de aireación, manejo de aperturas para carga/retiro de material y mantención de 
+condiciones aeróbicas. 
+6 
+Estimación de emisiones de olor 
+La estimación de emisiones de odorantes se realizó en base a la información presentada en 
+el acápite 5, en donde se consideraron factores de emisión como factores de referencia, 
+que fueron resumidos y justificados en la Tabla 5 del presente informe.  
+La Tasa de Emisión Total de Olor (TEO) (uoE/s) para las fuentes superficiales, presentada 
+en la Tabla 6, se calcula multiplicando la Tasa de Emisión por Área (uoE/m²·s) por el área 
+transversal de la fuente (m²). Se adjunta el Anexo B. Memoria de cálculo, que presenta las 
+Unidades y Factores de emisión para dicha tasa de emisión. 
+Tabla 6. Estimación de emisiones odorantes 
+ID 
+modelo 
+Fuente emisora 
+Área de emisión 
+(m2) 
+Factor de 
+emisión 
+(uoE/m2s) 
+% de 
+Abatimiento 
+TEO Final 
+(uoE/s) 
+SRC_1 
+Piscina de lixiviados 1 
+2.899,00 
+13,54 
+60% 
+15.700,98 
+SRC_2 
+Piscina de lixiviados 2 
+4.224,00 
+13,54 
+60% 
+22.877,18 
+SRC_3 
+Bandeja de evaporación 1 
+2.567,00 
+6,64 
+60% 
+6.817,95 
+SRC_4 
+Bandeja de evaporación 2 
+3.936,00 
+6,64 
+60% 
+10.454,02 
+SRC_5 
+Bandeja de evaporación 3 
+6.607,00 
+6,64 
+60% 
+17.548,19 
+SRC_6 
+Zona de mezcla 
+2.165,00 
+8,00 
+90% 
+1.732,00 
+SRC_7 
+Trincheras de compostaje 
+6.031,00 
+8,00 
+90% 
+4.824,80 
+SRC_8 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_9 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_10 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_11 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_12 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_13 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_14 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_15 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_16 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_17 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+
+===== p.30 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 31 
+ 
+ID 
+modelo 
+Fuente emisora 
+Área de emisión 
+(m2) 
+Factor de 
+emisión 
+(uoE/m2s) 
+% de 
+Abatimiento 
+TEO Final 
+(uoE/s) 
+SRC_18 
+Pilas de maduración 
+332,50 
+0,92 
+60% 
+122,36 
+SRC_19 
+Frente de trabajo relleno 
+sanitario 
+916,20 
+24,12 
+60% 
+8.839,50 
+SRC_20 
+Relleno sanitario 
+449.951,00 
+0,24 
+0% 
+108.528,18 
+Total 
+198.668,77 
+ 
+Tabla 7. Ranking de las unidades generadoras de olor 
+ID modelo 
+Fuente emisora 
+TEO Final 
+(uoE/s) 
+Ranking 
+SRC_20 
+Relleno sanitario 
+108.528,18 
+55% 
+SRC_2 
+Piscina de lixiviados 2 
+22.877,18 
+12% 
+SRC_5 
+Bandeja de evaporación 3 
+17.548,19 
+9% 
+SRC_1 
+Piscina de lixiviados 1 
+15.700,98 
+8% 
+SRC_4 
+Bandeja de evaporación 2 
+10.454,02 
+5% 
+SRC_19 
+Frente de trabajo relleno sanitario 
+8.839,50 
+4% 
+SRC_3 
+Bandeja de evaporación 1 
+6.817,95 
+3% 
+SRC_7 
+Trincheras de compostaje 
+4.824,80 
+2% 
+SRC_6 
+Zona de mezcla 
+1.732,00 
+1% 
+SRC_8 
+Pilas de maduración 
+122,36 
+0% 
+SRC_9 
+Pilas de maduración 
+122,36 
+0% 
+SRC_10 
+Pilas de maduración 
+122,36 
+0% 
+SRC_11 
+Pilas de maduración 
+122,36 
+0% 
+SRC_12 
+Pilas de maduración 
+122,36 
+0% 
+SRC_13 
+Pilas de maduración 
+122,36 
+0% 
+SRC_14 
+Pilas de maduración 
+122,36 
+0% 
+SRC_15 
+Pilas de maduración 
+122,36 
+0% 
+SRC_16 
+Pilas de maduración 
+122,36 
+0% 
+SRC_17 
+Pilas de maduración 
+122,36 
+0% 
+SRC_18 
+Pilas de maduración 
+122,36 
+0% 
+La Tabla 7  muestra que la mayor contribución a las emisiones odorantes corresponde al 
+relleno sanitario completo, con una TEO final de 108.528,18 uoE/s, equivalente al 55% del 
+total modelado. Esta contribución se explica principalmente por la gran superficie asociada 
+a esta fuente; si bien el relleno sanitario se opera con cobertura y los residuos no 
+permanecen directamente expuestos al aire, para efectos de la modelación se consideró un 
+escenario conservador, incorporando un porcentaje de emisiones fugitivas residuales desde 
+la superficie cubierta. En segundo orden se ubican las unidades de manejo de lixiviados, 
+
+===== p.31 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 32 
+ 
+destacando la Piscina de lixiviados 2, con un 12%, y las bandejas de evaporación, 
+especialmente la Bandeja de evaporación 3, con un 9%, debido a que corresponden a 
+superficies líquidas expuestas con potencial de emisión odorante. El frente de trabajo del 
+relleno sanitario aporta un 4%, ya que, aunque representa una fuente de mayor intensidad 
+por la presencia temporal de residuos frescos, su superficie activa es acotada y se considera 
+su manejo operacional mediante compactación y cobertura nocturna. Finalmente, las 
+fuentes de compostaje presentan una participación menor, debido a la incorporación de 
+sistemas de abatimiento y a que las pilas de maduración corresponden a una etapa más 
+estabilizada del proceso. 
+7 
+Modelación meteorológica 
+La información meteorológica empleada como insumo para la modelación de dispersión de 
+odorantes se presenta en el Anexo 4.2 Modelación Meteorológica. En dicho anexo se 
+describen el modelo WRF, el dominio y resolución de la grilla, la selección del año 
+meteorológico 2025 como escenario representativo a modelar, el análisis de incertidumbre 
+se realizó utilizando las estaciones Viña del Mar, Junta de Vecinos. También se presenta la 
+caracterización de las principales variables meteorológicas del área de estudio, incluyendo 
+temperatura, velocidad y dirección del viento, precipitación y altura de capa límite. Esta 
+información respalda las condiciones meteorológicas utilizadas posteriormente en la 
+modelación de dispersión de olores. 
+8 
+Modelación de olor 
+A continuación, se entrega la información acerca de la dispersión de la pluma de olores 
+dentro del área de estudio. Esto ocurre mediante la interpolación de los valores obtenidos 
+del percentil 98 de la modelación horaria de la concentración del olor. Esto quiere decir que 
+el 98% los datos horarios de concentración de olor están por debajo del valor del percentil 
+98, mientras que solo el 2% restante (alrededor de 176 horas al año) superan este nivel. 
+Los resultados que se presentan a continuación se construyeron usando la subgrilla descrita 
+en el acápite 5.1, que considera las concentraciones modeladas a una altura 1,8 m, misma 
+a la cual se evalúan los receptores discretos. Esto evita discrepancias entre la pluma de 
+dispersión y las concentraciones evaluadas en los receptores discretos. La utilización de esta 
+
+===== p.32 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 33 
+ 
+metodología es mencionada en la “GUÍA PARA EL USO DE MODELOS DE CALIDAD DEL AIRE 
+EN EL SEIA” (2023). 
+8.1 Resultados de la dispersión de olor y análisis normativo 
+En la Figura 5 se presenta la pluma de dispersión de odorantes del proyecto con 
+concentraciones que van desde 1,00 uoE/m3 hasta 84,73 uoE/m3 en la zona de máximo 
+impacto, considerando el escenario de emisión continua durante todo el año.  
+El área con concentraciones de olor entre 68,00 y 84,73 uoE/m³ abarca una superficie de 
+aproximadamente 12,40 hectáreas y se localizan al interior del área del proyecto, 
+específicamente sobre el sector del relleno sanitario, donde se concentran los valores más 
+altos representados por las isodoras centrales. En torno a este máximo, la pluma se extiende 
+hacia las unidades asociadas al manejo de lixiviados, incluyendo piscinas y bandejas de 
+evaporación, las cuales también contribuyen a la generación de olor por tratarse de 
+superficies líquidas con potencial odorante. Posteriormente, la dispersión se proyecta 
+principalmente hacia el sur del área del proyecto, disminuyendo progresivamente su 
+concentración a medida que aumenta la distancia desde las fuentes emisoras. Los 
+receptores identificados se ubican mayoritariamente al norte del emplazamiento y fuera de 
+las zonas de mayor concentración, por lo que la condición de máximo impacto queda 
+contenida principalmente dentro del predio y en torno a las unidades operacionales del 
+relleno sanitario y tratamiento de lixiviados. 
+
+===== p.33 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 34 
+ 
+ 
+Figura 5. Pluma de dispersión de odorantes e isodoras 
+En la Tabla 8 se presenta un resumen de las características de la pluma de dispersión de 
+odorantes del proyecto. Entre las características presentadas se encuentran la superficie del 
+área de máxima emisión, la superficie del área de influencia, el desplazamiento de la pluma 
+medido desde el área de máxima emisión. 
+Tabla 8. Características de la pluma de dispersión 
+Situación 
+del 
+proyecto 
+Superficie 
+del área de 
+máxima 
+emisión (ha) 
+Superficie 
+del área de 
+influencia 
+(ha) 
+Desplazamiento (m) 
+desde el punto de 
+máximo impacto 
+Receptores 
+en el área de 
+influencia del 
+proyecto 
+Situación 
+proyectada 
+12,40 
+1.946 
+Norte 
+1.125 
+0 
+Sur 
+3.450 
+Este 
+1.417 
+Oeste 
+3.465 
+El área de influencia se define como el área o espacio geográfico cuyos atributos, elementos 
+
+===== p.34 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 35 
+ 
+naturales o socioculturales deben ser considerados con la finalidad de definir si el proyecto 
+o actividad genera o presenta alguno de los efectos, características o circunstancias del 
+artículo 11 de la Ley, o bien para justificar la inexistencia de dichos efectos, características 
+o circunstancias. En este caso, la Guía para la Predicción y Evaluación de Impactos por Olor 
+en el SEIA establece que el área de influencia se encuentra limitada al espacio contenido 
+dentro de la isodora de 1 uoE/m3.  
+ 
+Figura 6. Área de influencia del proyecto 
+La Figura 6 muestra el área de influencia correspondiente, que abarca una superficie de 
+1.946 hectáreas y se extiende hacia sur y el suroeste del área del proyecto. Dentro de esta 
+área, no se identifica ningún receptor. 
+El Anexo D. Superficies modeladas, contiene los archivos KMZ con el área de influencia, 
+la superficie de máxima emisión y curvas de nivel. 
+
+===== p.35 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 36 
+ 
+A continuación, se presentan los resultados de la concentración de los odorantes en los 
+puntos discretos de interés. Es necesario mencionar, que estos fueron evaluados a una 
+altura de 1,8 m respecto del nivel del suelo, tal como se especifica en el apartado 
+4.5.2 de la “Guía para el Uso de Modelos de Calidad del Aire en el SEIA” (2023) entregando 
+una idea de la percepción del olor a la altura de una persona. 
+Los resultados obtenidos de la modelación de las emisiones de odorantes de la planta fueron 
+comparados con el límite normativo de referencia correspondiente a la norma de Lombardía. 
+En la Tabla 9 se presentan los 21 receptores discretos evaluados, junto con el límite 
+normativo aplicable y las concentraciones modeladas. Se observa que todos los receptores 
+cumplen con la normativa, siendo el receptor R1 el que presenta la mayor concentración, 
+con un valor de 0,58 uoE/m3, lo cual está por debajo del límite de referencia. 
+Tabla 9. Análisis del cumplimiento normativo en los receptores 
+Receptor 
+P98 concentración (uoE/m3) 
+Cumplimiento 
+R1 
+0,58 
+Si 
+R2 
+0,28 
+Si 
+R3 
+0,28 
+Si 
+R4 
+0,30 
+Si 
+R5 
+0,26 
+Si 
+R6 
+0,43 
+Si 
+R7 
+0,24 
+Si 
+R8 
+0,47 
+Si 
+R9 
+0,43 
+Si 
+R10 
+0,39 
+Si 
+R11 
+0,41 
+Si 
+R12 
+0,42 
+Si 
+R13 
+0,41 
+Si 
+R14 
+0,28 
+Si 
+R15 
+0,40 
+Si 
+R16 
+0,40 
+Si 
+R17 
+0,24 
+Si 
+R18 
+0,25 
+Si 
+R19 
+0,30 
+Si 
+R20 
+0,42 
+Si 
+R21 
+0,46 
+Si 
+
+===== p.36 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 37 
+ 
+8.2 Percepción de olor 
+Si bien el proyecto cumple con todos los límites normativos y no existe impacto significativo, 
+se realiza el análisis a las concentraciones de acuerdo con la percepción al olfato humano 
+en los receptores identificados. Para esto, y de acuerdo con la guía, se utilizan dos criterios 
+de concentración. 
+Percentil 98: Indica la concentración a la que el 98% de las horas del año las 
+concentraciones serían iguales o inferiores a las que se indican, por el contrario, sólo el 
+2% de las horas del año podrían tener concentraciones superiores, lo que equivale a 
+7,3 días en el año. 
+Percentil 99,5: Indica las concentraciones en el que el 99,5% del tiempo las 
+concentraciones son iguales a inferiores a la magnitud indicada, esperando que el 0,5% 
+de las horas del año pudieran tener concentraciones de mayores magnitudes, es decir, 
+1,8 día. 
+La concentración modelada para estos valores será interpretada de acuerdo con la Guía de 
+Evaluación de Olores para Planificación (IAQM, 2014), la que se basa en la experiencia en 
+el manejo de olores en Europa, quienes han establecido criterios de sensibilidad para los 
+receptores de acuerdo con los niveles de exposición. 
+Tabla 10. Descriptores de efectos de olor propuestos para impactos predichos 
+por modelación 
+Nivel de exposición 
+al olor 
+Sensibilidad del receptor 
+Baja 
+Media 
+Alta 
+≥10 
+Moderada 
+Sustancial 
+Sustancial 
+5 <10 
+Moderada 
+Moderada 
+Sustancial 
+3 <5 
+Leve 
+Moderada 
+Moderada 
+1,5 <3 
+Insignificante 
+Leve 
+Moderada 
+0,5<1,5 
+Insignificante 
+Insignificante 
+Leve 
+<0,5 
+Insignificante 
+Insignificante 
+Insignificante 
+
+===== p.37 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 38 
+ 
+En la Tabla 11 se presentan los resultados de la modelación proyectada para los receptores, 
+interpretando la percepción del olor de acuerdo con los parámetros identificados en la tabla 
+anterior, utilizando una sensibilidad alta. 
+Tabla 11. Percepción del olor en los receptores cercanos al proyecto 
+Receptor 
+P98 
+P99,5 
+PERCEPCION P98 
+(SENSIBILIDAD 
+ALTA) 
+PERCEPCION P99.5 
+(SENSIBILIDAD 
+ALTA) 
+R1 
+0,58 
+0,96 
+Leve 
+Leve 
+R2 
+0,28 
+0,51 
+Insignificante 
+Leve 
+R3 
+0,28 
+0,51 
+Insignificante 
+Leve 
+R4 
+0,30 
+0,56 
+Insignificante 
+Leve 
+R5 
+0,26 
+0,49 
+Insignificante 
+Insignificante 
+R6 
+0,43 
+0,70 
+Insignificante 
+Leve 
+R7 
+0,24 
+0,46 
+Insignificante 
+Insignificante 
+R8 
+0,47 
+0,80 
+Insignificante 
+Leve 
+R9 
+0,43 
+0,75 
+Insignificante 
+Leve 
+R10 
+0,39 
+0,69 
+Insignificante 
+Leve 
+R11 
+0,41 
+0,71 
+Insignificante 
+Leve 
+R12 
+0,42 
+0,72 
+Insignificante 
+Leve 
+R13 
+0,41 
+0,74 
+Insignificante 
+Leve 
+R14 
+0,28 
+0,62 
+Insignificante 
+Leve 
+R15 
+0,40 
+0,74 
+Insignificante 
+Leve 
+R16 
+0,40 
+0,72 
+Insignificante 
+Leve 
+R17 
+0,24 
+0,37 
+Insignificante 
+Insignificante 
+R18 
+0,25 
+0,40 
+Insignificante 
+Insignificante 
+R19 
+0,30 
+0,50 
+Insignificante 
+Leve 
+R20 
+0,42 
+0,63 
+Insignificante 
+Leve 
+R21 
+0,46 
+0,73 
+Insignificante 
+Leve 
+La Tabla 11 presenta las concentraciones de olor modeladas en los receptores discretos, 
+expresadas como P98 y P99,5, junto con su clasificación de percepción para un escenario 
+de sensibilidad alta. En términos generales, los resultados muestran concentraciones bajas 
+en todos los receptores evaluados. Para el percentil 98, los valores fluctúan entre 0,24 y 
+0,58 uoE/m³, observándose que solo el receptor R1 alcanza una percepción leve, mientras 
+que el resto de los receptores presenta una percepción insignificante. Para el percentil 99,5, 
+las concentraciones aumentan levemente, con valores entre 0,37 y 0,96 uoE/m³; aun así, 
+la percepción se mantiene entre insignificante y leve, sin registrarse niveles moderados o 
+altos. Los mayores valores se observan en R1, seguido por receptores como R8, R9, R13, 
+
+===== p.38 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 39 
+ 
+R15, R16 y R21, aunque todos se mantienen en rangos bajos de percepción. En 
+consecuencia, los resultados indican que, incluso bajo un criterio conservador de sensibilidad 
+alta y considerando percentiles exigentes, el impacto odorante sobre los receptores cercanos 
+sería acotado, con efectos perceptibles como máximo de carácter leve. 
+8.3 Caracterización del olor 
+Con el objeto de complementar la evaluación del impacto por emisiones de olor del proyecto, 
+se incorpora un análisis basado en el enfoque FIDOL (Frecuencia, Intensidad, 
+Duración, Ofensividad y Localización), el cual permite estimar el potencial de molestia 
+asociado a la percepción de olores en los receptores. 
+Este análisis se desarrolla en coherencia con la Guía para la predicción y evaluación de 
+impactos por olor en el SEIA, y sobre la base de los resultados de la modelación de 
+dispersión de olor presentada en el presente informe. 
+Dado que el proyecto corresponde a una instalación nueva, no se dispone de mediciones de 
+olfatometría dinámica. En consecuencia, el análisis FIDOL se realiza a partir de: 
+• 
+los resultados de concentración de olor modelados (uoE/m³),  
+• 
+la caracterización de las fuentes emisoras,  
+• 
+y las condiciones de localización de los receptores.  
+8.3.1 Frecuencia 
+Según la “Guía para la predicción y evaluación de impactos por olor del SEA”, el parámetro 
+Frecuencia hace referencia a la frecuencia con la que las personas se ven expuestas al olor. 
+En la Tabla 12 se detalla la frecuencia de horas en las que la concentración modelada se 
+clasifica como insignificante, leve, moderada o sustancial durante el período analizado. Se 
+asumió que los receptores tienen una sensibilidad alta, y la clasificación se realizó 
+considerando los valores especificados en la siguiente tabla. 
+Tabla 12. Tabla de frecuencias de eventos de olor 
+
+===== p.39 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 40 
+ 
+Receptor 
+Número de horas en un año, por categoría 
+Insignificante 
+Leve 
+Moderado 
+Sustancial 
+R1 
+8.519 
+232 
+8 
+0 
+R2 
+8.712 
+47 
+0 
+0 
+R3 
+8.714 
+45 
+0 
+0 
+R4 
+8.701 
+57 
+1 
+0 
+R5 
+8.722 
+37 
+0 
+0 
+R6 
+8.647 
+108 
+4 
+0 
+R7 
+8.726 
+33 
+0 
+0 
+R8 
+8.598 
+159 
+2 
+0 
+R9 
+8.638 
+119 
+2 
+0 
+R10 
+8.645 
+113 
+1 
+0 
+R11 
+8.650 
+108 
+1 
+0 
+R12 
+8.631 
+128 
+0 
+0 
+R13 
+8.641 
+118 
+0 
+0 
+R14 
+8.686 
+72 
+1 
+0 
+R15 
+8.635 
+124 
+0 
+0 
+R16 
+8.642 
+117 
+0 
+0 
+R17 
+8.738 
+21 
+0 
+0 
+R18 
+8.739 
+20 
+0 
+0 
+R19 
+8.714 
+45 
+0 
+0 
+R20 
+8.654 
+105 
+0 
+0 
+R21 
+8.618 
+139 
+2 
+0 
+Se observa que, la mayoría de las concentraciones horarias modeladas en los receptores es 
+Insignificantes, con concentraciones menores a 0,5 uoE/m3 y que en una menor medida 
+(porcentajes menores al 3% del tiempo) algunos receptores presentan una percepción leve.  
+8.3.2 Intensidad 
+La intensidad, otra de las características más importantes del olor, es la fuerza con la que 
+se percibe la sensación de olor. 
+Tabla 13. Intensidad y descripción del olor 
+Intensidad 
+Descripción 
+0 
+Sin olor 
+1 
+Muy débil 
+2 
+Débil 
+3 
+Reconocible 
+4 
+Fuerte 
+
+===== p.40 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 41 
+ 
+Intensidad 
+Descripción 
+5 
+Muy fuerte 
+6 
+Extremadamente fuerte 
+De acuerdo con la guía este término se refiere a la percepción de la fuerza del olor. La 
+intensidad no está relacionada directamente con la molestia, sino con la fuerza con la que 
+el olor se percibe y se relaciona estrechamente con la concentración del olor.  
+La “Guía para la Predicción y Evaluación de Impactos por Olor en el SEIA” (SEA, 2017), 
+define la intensidad como “la fuerza con la que el olor se percibe, la cual aumenta en función 
+de la concentración del olor.  
+Dicha intensidad no está relacionada directamente con la molestia, sino que es un parámetro 
+independiente de esta, es decir, se pueden tener intensidades altas de olor que no producen 
+molestia. La intensidad de un olor se determina mediante olfatómetros por panelistas 
+calibrados.” 
+En la siguiente figura se muestra la relación entre la percepción del olor y el grado de 
+intensidad de este. 
+ 
+Figura 7. Escala de intensidad de olor 
+Dado que la intensidad está relacionada con la concentración de odorantes, se puede 
+predecir la intensidad del olor en base a las concentraciones modeladas. En relación con 
+esto, en la siguiente tabla se presentan dos correlaciones entre la concentración del olor y 
+su nivel de intensidad. Estas dos correlaciones se basan en los modelos de Stevens y de 
+Weber – Fechner. 
+Tabla 14. Concentración de olor 
+
+===== p.41 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 42 
+ 
+Intensidad 
+Concentración de olor modelada 
+(OUE/m3) 
+Nivel 
+Stevens 
+Weber - Fechner 
+1 
+2,2 
+2,1 
+2 
+7,4 
+7,0 
+3 
+24,9 
+23,5 
+4 
+84,0 
+75,4 
+5 
+288,7 
+261,5 
+6 
+974,0 
+872,3 
+En la Tabla 15 se presenta un análisis de intensidad del olor. 
+Tabla 15. Intensidad del olor en los receptores. 
+Receptor 
+Percepción del Olor 
+Proyectada 
+Intensidad del Olor 
+según Stevens 
+Intensidad del Olor 
+según Weber - 
+Fechner 
+Percentil 98 
+Percentil 
+99,5 
+P98 
+P99,5 
+P98 
+P99,5 
+R1 
+Leve 
+Leve 
+1 
+1 
+1 
+1 
+R2 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R3 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R4 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R5 
+Insignificante 
+Insignificante 
+1 
+1 
+1 
+1 
+R6 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R7 
+Insignificante 
+Insignificante 
+1 
+1 
+1 
+1 
+R8 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R9 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R10 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R11 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R12 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R13 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R14 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R15 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R16 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R17 
+Insignificante 
+Insignificante 
+1 
+1 
+1 
+1 
+R18 
+Insignificante 
+Insignificante 
+1 
+1 
+1 
+1 
+R19 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+
+===== p.42 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 43 
+ 
+Receptor 
+Percepción del Olor 
+Proyectada 
+Intensidad del Olor 
+según Stevens 
+Intensidad del Olor 
+según Weber - 
+Fechner 
+Percentil 98 
+Percentil 
+99,5 
+P98 
+P99,5 
+P98 
+P99,5 
+R20 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+R21 
+Insignificante 
+Leve 
+1 
+1 
+1 
+1 
+De acuerdo con los resultados obtenidos de la modelación de discretos, tanto para el criterio 
+de Stevens como Weber - Fechner, todos los receptores modelados alcanzarían el nivel 1 
+de intensidad, catalogado como muy débilmente perceptible. 
+8.3.3 Duración 
+De acuerdo con la guía este término se refiere al tiempo que las personas están expuestas 
+al olor. Indica el tiempo de un episodio de olor, es decir, cuanto tiempo la concentración de 
+olor se mantiene por sobre el umbral de detección. En la siguiente tabla se hace un análisis 
+por receptor: 
+Tabla 16. Duración de los eventos de percepción de olor en los receptores 
+  
+Receptor 
+Horas consecutivas 
+Total eventos 
+1 hora 
+2 horas 
+3 horas 
+Número de eventos que se supera la percepción del 
+olor (1 uoE/m3) 
+R1 
+30 
+2 
+1 
+33 
+R2 
+1 
+0 
+0 
+1 
+R3 
+3 
+0 
+0 
+3 
+R4 
+4 
+0 
+0 
+4 
+R5 
+3 
+0 
+0 
+3 
+R6 
+12 
+1 
+0 
+13 
+R7 
+1 
+0 
+0 
+1 
+R8 
+15 
+2 
+1 
+18 
+R9 
+11 
+1 
+0 
+12 
+R10 
+9 
+2 
+0 
+11 
+R11 
+10 
+3 
+0 
+13 
+R12 
+11 
+0 
+0 
+11 
+R13 
+6 
+2 
+0 
+8 
+R14 
+7 
+1 
+0 
+8 
+R15 
+7 
+1 
+0 
+8 
+R16 
+4 
+1 
+0 
+5 
+R17 
+1 
+0 
+0 
+1 
+R18 
+1 
+0 
+0 
+1 
+
+===== p.43 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 44 
+ 
+  
+Receptor 
+Horas consecutivas 
+Total eventos 
+1 hora 
+2 horas 
+3 horas 
+R19 
+2 
+0 
+0 
+2 
+R20 
+7 
+0 
+0 
+7 
+R21 
+9 
+0 
+0 
+9 
+Podemos ver cómo, en general, la mayoría de los eventos donde la concentración de olor 
+es perceptible, son puntuales y a medida que aumenta la duración disminuye en gran 
+medida la cantidad. En particular, los receptores R1 y R8 son aquello con mayor número de 
+eventos, dado que son los más cercanos a la planta. 
+8.3.4 Ofensividad 
+De acuerdo con la Guía para la Predicción y Evaluación de Impactos por Olor en el SEIA, la 
+ofensividad del olor se relaciona con características como la calidad del olor, el tono hedónico 
+y la concentración, pudiendo ser percibido como agradable, neutro o desagradable. En el 
+presente caso, dado que el proyecto corresponde a una iniciativa nueva, no se dispone de 
+mediciones directas mediante olfatometría dinámica ni de una determinación específica del 
+tono hedónico de las fuentes emisoras. Por lo anterior, la ofensividad se analiza de manera 
+cualitativa y conservadora, considerando la naturaleza de las unidades con potencial 
+odorante del proyecto. 
+Las principales fuentes de olor corresponden al relleno sanitario, frente de trabajo activo, 
+piscinas de lixiviados, bandejas de evaporación y unidades de compostaje. Estas fuentes se 
+asocian al manejo, tratamiento y disposición de residuos sólidos domiciliarios, residuos 
+orgánicos y lixiviados, procesos en los cuales pueden generarse compuestos odorantes 
+producto de la degradación de materia orgánica y de la acumulación o manejo de líquidos 
+con carga orgánica. Por sus características, este tipo de olor puede presentar notas 
+asociadas a materia orgánica en descomposición, lixiviados, residuos frescos, fermentación 
+o compuestos reducidos de azufre y nitrógeno, los cuales son normalmente percibidos por 
+la población como olores desagradables. 
+En atención a lo anterior, y como criterio precautorio, para efectos del análisis FIDOL se 
+considera que las emisiones odorantes del proyecto presentan una ofensividad alta, aun 
+cuando varias de las unidades cuentan con medidas de control operacional y abatimiento, 
+tales como cobertura del frente de trabajo, cobertura de áreas no activas del relleno 
+
+===== p.44 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 45 
+ 
+sanitario, sistema de nebulización neutralizadora de olores, biofiltro en la zona de mezcla y 
+cobertura en trincheras de compostaje. Esta clasificación permite evaluar el impacto bajo 
+una condición conservadora, evitando subestimar la potencial molestia asociada a olores 
+provenientes de residuos y lixiviados. No obstante, debe considerarse que la ofensividad 
+efectiva en receptores será menor que la condición intrínseca de las fuentes, debido a la 
+distancia a los receptores, la dispersión atmosférica, la disminución de concentraciones en 
+el entorno y la implementación de las medidas de abatimiento consideradas por el proyecto. 
+8.3.5 Localización 
+La ubicación político-administrativa a nivel Regional, Provincial y Comunal del Proyecto es 
+la siguiente: 
+• 
+Región: Región de Valparaíso 
+• 
+Provincia: Provincia de Valparaíso 
+• 
+Comuna: Viña del Mar 
+El “Centro Metropolitano de Gestión Integral de Residuos” se localiza en el kilómetro 102,5 
+km de la Ruta 60 - Troncal Sur, que la une Viña del Mar con Quilpué, en un predio de 206 
+ha de propiedad, de las cuales 63,10 ha serán utilizadas para el desarrollo del proyecto. 
+En la siguiente figura se muestra la ubicación del proyecto respecto a los receptores 
+analizados 
+
+===== p.45 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 46 
+ 
+ 
+Figura 8. Ubicación del proyecto y receptores 
+9 
+Conclusión 
+Las concentraciones de odorantes asociadas al proyecto “Centro Metropolitano de Gestión 
+Integral de Residuos” se encuentran influenciadas por diversos factores, entre los que 
+destacan las tasas de emisión de cada fuente, sus respectivas áreas de emisión, la operación 
+de las unidades generadoras de olor, la aplicación de sistemas de abatimiento, y las 
+condiciones topográficas y meteorológicas del área de emplazamiento. En este contexto, la 
+adecuada caracterización de estas variables resulta fundamental para representar de 
+manera robusta la dispersión de los compuestos odorantes y estimar su concentración en 
+los receptores cercanos. 
+Para el desarrollo del estudio se siguieron los lineamientos establecidos por el Servicio de 
+Evaluación Ambiental en la Guía para el Uso de Modelos de Calidad del Aire en el SEIA, la 
+cual entrega criterios para la selección de modelos, la caracterización meteorológica, el uso 
+de datos de entrada y la evaluación de incertidumbre. Dicha guía reconoce el uso de 
+
+===== p.46 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 47 
+ 
+modelos de calidad del aire como herramientas para representar la dispersión de 
+contaminantes en función de las características del proyecto, del área de influencia y de las 
+condiciones meteorológicas del dominio de modelación. En consistencia con estos 
+lineamientos, el estudio utilizó el modelo meteorológico WRF como insumo para la 
+modelación de dispersión de odorantes y el modelo CALPUFF para simular el transporte y 
+dispersión de las emisiones odorantes generadas por el proyecto. 
+En relación con las emisiones odorantes, se estimó una emisión total de 198.668,77 uoE/s, 
+valor obtenido a partir de factores de emisión y emisiones de referencia seleccionados según 
+la naturaleza de cada fuente. Para las unidades de compostaje se utilizaron factores 
+asociados a procesos de tratamiento de residuos orgánicos, diferenciando entre etapas de 
+mezcla, bioestabilización y maduración. Para las unidades de lixiviados y relleno sanitario se 
+emplearon factores de referencia provenientes de proyectos comparables evaluados en el 
+SEIA, priorizando antecedentes representativos de instalaciones de disposición final, manejo 
+de lixiviados y superficies líquidas expuestas. Asimismo, cuando correspondió, se aplicaron 
+eficiencias de abatimiento asociadas a las medidas de control consideradas por el proyecto, 
+tales como biofiltro, coberturas y sistema de nebulización neutralizadora de olores. 
+A partir de la estimación de emisiones se determinó que la principal fuente odorante 
+corresponde al relleno sanitario, el cual representa la mayor contribución debido 
+principalmente a su extensión superficial de 449.951 m². Cabe señalar que, 
+operacionalmente, el relleno sanitario considera cobertura de las áreas inactivas, por lo que 
+los residuos no se encontrarían directamente expuestos al aire. Sin perjuicio de lo anterior, 
+y con el objeto de representar una condición conservadora, se incorporó una emisión fugitiva 
+residual equivalente al 1% de la emisión asociada a la celda activa expuesta, aplicada sobre 
+la totalidad de la superficie considerada. De esta forma, la modelación incorpora un 
+escenario desfavorable que permite evaluar el potencial odorante del relleno aun cuando 
+este se encuentre cubierto operacionalmente. 
+Las restantes fuentes relevantes corresponden principalmente a las piscinas de lixiviados y 
+bandejas de evaporación, las cuales presentan potencial de emisión odorante por tratarse 
+de superficies líquidas expuestas asociadas al manejo de lixiviados. En conjunto, estas 
+unidades explican una parte importante de la carga odorante modelada, especialmente por 
+
+===== p.47 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 48 
+ 
+su superficie de emisión y por las características propias de los líquidos manejados. Por su 
+parte, el frente de trabajo activo presenta un factor de emisión más alto debido a la 
+presencia temporal de residuos frescos durante las labores de descarga, esparcimiento y 
+compactación; sin embargo, su contribución total es menor que la del relleno completo 
+debido a su superficie acotada en comparación al relleno sanitario total  
+El área de influencia del proyecto, definida por la isodora de 1 uoE/m³ y considerando una 
+emisión continua durante todo el año, abarca una superficie aproximada de 1.946 hectáreas. 
+Dicha área se proyecta principalmente hacia el suroeste y sur del emplazamiento, alejándose 
+de los receptores cercanos, los cuales se ubican mayoritariamente hacia el norte del 
+proyecto. En este sentido, ninguno de los receptores discretos evaluados se encuentra 
+dentro del área de influencia definida por la isodora de 1 uoE/m³. El receptor más cercano 
+al área de influencia corresponde a R1, ubicado a aproximadamente 675 m del centro del 
+proyecto, con una concentración modelada de 0,58 uoE/m³, valor inferior al criterio de 
+referencia utilizado. 
+Las máximas concentraciones modeladas se localizan al interior del predio, específicamente 
+sobre el sector del relleno sanitario y las unidades asociadas a piscinas de lixiviados y 
+bandejas de evaporación, abarcando una superficie aproximada de 12,4 hectáreas. Esta 
+condición evidencia que las mayores concentraciones se mantienen en torno a las fuentes 
+emisoras principales y dentro del área operacional del proyecto, disminuyendo 
+progresivamente hacia el entorno. La configuración espacial de la pluma muestra que el 
+impacto odorante se concentra principalmente dentro del área del proyecto y se dispersa 
+hacia zonas sin presencia de receptores sensibles relevantes. 
+Desde la perspectiva del cumplimiento normativo, los resultados fueron comparados con la 
+normativa de referencia de Lombardía para inmisión de odorantes. Los resultados indican 
+que no se superan los límites establecidos en ninguno de los receptores evaluados. 
+Asimismo, el análisis de percepción muestra que, para un escenario de sensibilidad alta, las 
+concentraciones modeladas se clasifican mayoritariamente como de percepción 
+insignificante para el percentil 98, y entre insignificante y leve para el percentil 99,5, sin 
+registrarse niveles moderados o altos en los puntos receptores. 
+
+===== p.48 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 49 
+ 
+Con base en lo anterior, se concluye que el proyecto cumple con los criterios de evaluación 
+considerados para olor y que las concentraciones modeladas en receptores se mantienen 
+por debajo de los límites de inmisión establecidos por la normativa de referencia. Además, 
+debe considerarse que los resultados corresponden a un escenario conservador, dado que 
+se asumió emisión continua durante todo el año, se incorporó una emisión fugitiva residual 
+para la totalidad de la superficie del relleno sanitario cubierto, y se utilizaron factores de 
+referencia representativos de condiciones desfavorables. Por tanto, la percepción efectiva 
+de olores en el entorno debiera ser menor a la estimada en la modelación. En consecuencia, 
+el proyecto no generaría impactos negativos significativos sobre la calidad de vida ni sobre 
+la salud de la población vecina, toda vez que las concentraciones de odorantes en los 
+receptores se mantienen en niveles bajos y bajo los criterios normativos de referencia. 
+ 
+ 
+
+===== p.49 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 50 
+ 
+10 Bibliografía 
+Servicio de Evaluación Ambiental (2017). Guía para la Predicción y Evaluación de Impactos 
+por Olor en el SEIA.  
+Cohen, S., Evans, G., Stokols, D., & Krantz, D. (1986). Behavior, health and environmental 
+stress. New York. 
+Servicio de Evaluación Ambiental. (2015). Informe final: Servicio de recopilación y 
+sistematización de factores de emisión al aire para el Servicio de Evaluación Ambiental. 
+Recuperado 
+de 
+https://www.sea.gob.cl/noticias/sea-publica-guia-para-prediccion-y-
+evaluacion-de-impactos-por-olor-en-el-seia.Infraestructura de Datos Geospaciales - IDE 
+Chile. (8 de enero de 2018). www.ide.cl. 
+Martínez Rodríguez, E. (2005). Errores Frecuentes en la interpretación del coeficiente de 
+determinación lineal. Anuario Jurídico y Económico Escuarialense, 315-322. 
+OMS. (2005). Guías de calidad del aire de la OMS relativas al material particulado, el ozono, 
+el dióxido de nitrógeno y el dióxido de azufre.  
+Sarricolea, P., Herrera-Ossandon, M., & Meseguer-Ruiz, O. (2016). Climatic regionalisation 
+of continental Chile. 
+Servicio de Evaluación Ambiental (2023). Guía para el Uso de Modelos de Calidad del Aire 
+en el SEIA. 
+ECOTEC (2013). ESTUDIO: ANTECEDENTES PARA LA REGULACIÓN DE OLORES EN CHILE 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.50 =====
+ 
+ESTUDIO IMPACTO AMBIENTAL 
+INFORME MODELACIÓN ODORANTES 
+“CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS” 
+Página 51 
+ 
+11 Anexos 
+Anexo A – Normativa 
+Anexo B – Memoria de Cálculo 
+Anexo C – Receptores  
+Anexo D – Superficies Modeladas 
+Anexo E 4.4.5 – Modelación Impacto Odorante. Disponible en:  
+ https://archivos.sea.gob.cl/2026/06/26/2168892026/Centro_Integral_de_Residuos.rar  
+ 
+ 

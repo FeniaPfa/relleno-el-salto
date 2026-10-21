@@ -1,0 +1,1547 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESTUDIO DE IMPACTO AMBIENTAL 
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ 
+ 
+LINEA DE BASE GEOMORFOLÓGICA  
+Y RIESGOS NATURALES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Desarrollado para:  
+COSEMAR S.A. 
+ 
+Desarrollado por:  
+Dr. Juan Pablo Milana 
+Rodrigo Espinoza 
+ 
+ 
+ 
+ 
+
+===== p.1 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+2 
+ 
+INDICE 
+ 
+1. ANTECEDENTES GENERALES ................................................................................ 4 
+1.1 Introducción ............................................................................................................. 4 
+1.2 Objetivos .................................................................................................................. 5 
+1.2.1 Objetivo general ............................................................................................... 5 
+1.2.2 Objetivos específicos ........................................................................................ 5 
+1.3 Ubicación ................................................................................................................. 5 
+1.4 Área de Estudio ....................................................................................................... 6 
+2. Metodología ................................................................................................................... 7 
+2.1 Labores Pre-Terreno ................................................................................................ 7 
+2.2 Labor en Terreno ..................................................................................................... 7 
+2.3 Labor de Gabinete ................................................................................................... 8 
+3. Geomorfología ............................................................................................................... 8 
+3.1 Antecedentes ............................................................................................................ 8 
+3.2 Superficies geomórficas .......................................................................................... 9 
+3.2.1 Consideraciones sobre el levantamiento tectónico ........................................... 9 
+3.2.2 Superficies geomórficas principales ............................................................... 11 
+a) Superficie inferior ................................................................................................ 11 
+b) Superficie intermedia .......................................................................................... 12 
+c) Superficie Superior .............................................................................................. 14 
+3.3 Nivel de base local ................................................................................................. 15 
+3.4 Procesos de erosivos identificados ........................................................................ 15 
+3.4.1 Procesos de remoción en masa ....................................................................... 15 
+3.4.2 Procesos coluviales ......................................................................................... 16 
+3.4.3 Procesos pluviales .......................................................................................... 16 
+3.4.4 Procesos aluviales ........................................................................................... 17 
+3.4.5 Procesos fluviales ........................................................................................... 18 
+3.5 Análisis de la distribución de cicatrices de erosión ............................................... 18 
+3.6 Análisis de pendientes ........................................................................................... 20 
+3.7 Análisis de procesos activos de transporte ............................................................ 22 
+3.7.1 Fase 1: Liberación y transporte inicial ........................................................... 22 
+3.7.2 Fase 2: Transporte a los drenes secundarios y principales ............................. 22 
+3.7.3 Fase 3: Transporte a los colectores principales .............................................. 23 
+3.8 Erosión de suelos ................................................................................................... 23 
+3.9 Evolución geomórfica sintética ............................................................................. 24 
+3.9.1 Etapa inicial de pedimentacion ....................................................................... 24 
+3.9.2 Primer proceso de incisión ............................................................................. 24 
+
+===== p.2 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+3 
+ 
+3.9.3 Primer evento de depositación ........................................................................ 25 
+3.9.4 Segundo proceso de incisión .......................................................................... 25 
+3.9.5 Ultimo ascenso del nivel del mar y establecimiento del nivel de base actual 25 
+3.9.6 Incisión casi modernas.................................................................................... 25 
+4. RIESGOS NATURALES ............................................................................................ 26 
+4.1 Riesgos Sísmico ..................................................................................................... 26 
+4.2 Riesgo de inundación por tsunami ........................................................................ 27 
+4.3 Riesgo volcánico ................................................................................................... 27 
+4.4 Riesgos de remoción en masa ................................................................................ 27 
+4.4.1 Procesos de tipo cohesivo y semi cohesivo .................................................... 27 
+4.4.2 Procesos de tipo no cohesivo .......................................................................... 28 
+4.2.3 Procesos de tipo fluido ................................................................................... 28 
+5. Cambio climático ......................................................................................................... 29 
+Tabla 2. Precipitación acumulada anual .................................................................. 29 
+Tabla 3. Temperatura media anual .......................................................................... 30 
+Tabla 4. Días con precipitaciones intensas, mayores a 10 mm. .............................. 30 
+Tabla 5. Precipitación máxima diaria ...................................................................... 30 
+5.1 Tendencias climáticas observadas y proyectadas .................................................. 30 
+5.2 Implicancias para la geomorfología y los riesgos naturales .................................. 31 
+6. Conclusiones y recomendaciones ................................................................................ 32 
+7. APÉNDICES ............................................................................................................... 33 
+REFERENCIAS .............................................................................................................. 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.3 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+4 
+ 
+1. ANTECEDENTES GENERALES  
+ 
+1.1 Introducción 
+ 
+Este informe se elabora con el fin de describir la componente Geomorfológica y 
+de Riesgos Naturales en el área en la que se pretende emplazar el proyecto denominado 
+“Centro Metropolitano de Gestión Integral de Residuos”, dando cumplimiento a lo 
+indicado en artículo 18, letra e.1) del D.S. Nº40/2012 del MMA (RSEIA). 
+ 
+El Proyecto considera la construcción y operación de instalaciones destinadas al 
+manejo integral de residuos sólidos, mediante zonas de compostaje, reciclaje y 
+disposición final.  En ese contexto, el presente documento también tiene por objetivo dar 
+cumplimiento a lo dispuesto en el Decreto N°189 “Reglamento de Rellenos Sanitarios”, 
+respecto a los requerimientos para garantizar las condiciones sanitarias, ambientales y de 
+seguridad básicas en los rellenos sanitarios.  
+ 
+Dicho reglamento establece que los rellenos sanitarios no deben situarse en zonas 
+con riesgos naturales de diferente índole. En este caso, este informe se aboca a la 
+identificación de posibles riegos naturales asociados a diferentes formas de movimiento 
+de material terreo de carácter exclusivamente superficial, es decir que afecten únicamente 
+la capa superior del terreno y no tengan conexión directa a un proceso profundo, aunque 
+si la puedan tener en forma indirecta como los mecanismos de disparo que suelen ser los 
+terremotos de intensidad media y alta.  
+ 
+Para garantizar que la zona no es afectada en las condiciones normales actuales, y 
+las que puedan desarrollarse merced a un cambio climático posible dentro del marco 
+temporal lógico, el estudio debe centrase en numerosas características del terreno que 
+deben ser evaluadas. En particular, importa la conjunción de caracteres disimiles, como 
+lo es la topografía del terreno, las características composicionales, texturales y 
+estructurales superficiales de la capa superior de terreno, el desarrollo de agentes naturales 
+y antropogénicos estabilizadores o desestabilizadores (como vegetación, cementación 
+temprana, uso de la tierra, sobrepastoreo), las características de erosión, transporte y 
+depositación del material desagregado, y fundamentalmente la intensidad con la que estos 
+procesos ocurren en el tiempo. Muchos de estos procesos no pueden ser observados en el 
+marco temporal del estudio solicitado, por lo cual la mayoría de los procesos debe ser 
+interpretado en base a las evidencias que se observan en terreno.  
+ 
+En la zona de estudio se evidencia un proceso activo de degradación del terreno, 
+es decir, el proceso sedimentario dominante es la erosión, y llama la atención la gran 
+cantidad de desarrollo de cárcavas, es decir cicatrices de erosion de suelo, por lo que se 
+efectuó un mapeo detallado de las mismas, conjuntamente con un mapeo de detalle de la 
+topografía, con el apoyo de un UAV. Las conclusiones sugieren que el lugar es seguro 
+respecto a movimientos en masa, como deslizamientos, desprendimientos de ladera, o 
+flujos densos. Sin embargo, en la margen austral del predio hay que poner atención a la 
+posible caída de rocas por efecto gravitatorio, mientras que en los drenes inferiores hay 
+que poner atención a la generación de flujos que modifiquen su reología, al cambiar las 
+condiciones de absorción de agua del suelo. Dada la configuración de la salida de las 
+quebradas principales al Estero Marga Marga, y la alteración en la absorción de agua 
+
+===== p.4 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+5 
+ 
+pluvial por el desarrollo de obras, sería posible el desarrollo de ondas de choque en los 
+flujos emergentes de las quebradas principales, tema que debería ser investigado en mayor 
+detalle. 
+ 
+1.2 Objetivos  
+ 
+1.2.1 Objetivo general  
+ 
+El objetivo general de este informe es cumplimentar con los requerimientos 
+formales para definir la línea base en el tema de geomorfología y riesgos naturales para 
+la implementación de un centro de gestión integral de residuos en el área de referencia. 
+Por ello, el informe actual está orientado en particular a definir las características 
+geomorfológicas y sedimentológicas que estén asociadas a riesgos naturales emergentes. 
+ 
+1.2.2 Objetivos específicos  
+ 
+a) Definir las características geomorfológicas básicas del área de estudio y su 
+relación con los procesos superficiales observables, para delinear los procesos geológicos 
+que pudieran generar un riesgo futuro.  
+ 
+b) Definir las características de los procesos de erosión, transporte y depositación 
+de sedimentos o fragmentos coherentes de terreno si los hubiera (solides) y determinar la 
+peligrosidad de estos procesos en relación al proyecto propuesto. 
+ 
+c) En base a la conjunción de los parámetros geomorfológicos y sedimentológicos 
+observados en terreno, interpretar la existencia de procesos superficiales que detenten 
+algún riesgo de inestabilidad mas allá de los parámetros calculables. 
+ 
+d) En base a las conclusiones del punto anterior, extrapolar los procesos que 
+ocurren en el área de estudio, bajo el impacto del cambio climáticos, con el fin de analizar 
+el comportamiento de los procesos naturales bajo estos escenarios. 
+ 
+1.3 Ubicación 
+El proyecto “Centro Metropolitano de Gestión Integral de Residuos” se localiza 
+en la comuna de Viña del Mar, en la provincia de Valparaíso, específicamente a unos 7 
+km en línea recta hacia el sureste del centro de la ciudad de Viña del Mar y a unos 4 km 
+al sur del centro de la ciudad de Quilpué.  
+ 
+La Figura 1 muestra el deslinde del proyecto, el área de instalaciones y camino 
+proyectado, en relación a las localidades de Viña del Mar y Quilpué. 
+ 
+
+===== p.5 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+6 
+ 
+ 
+Figura 1. Ubicación del Proyecto 
+ 
+1.4 Área de Estudio 
+ 
+El Área de Estudio se acota mediante criterios de continuidad litológica e hidrográfica, 
+comprendiendo la superficie del proyecto y las microcuencas que interactúan con el área 
+de instalaciones y el camino de acceso proyectado. De este modo, se caracteriza el entorno 
+directo del Proyecto. Asimismo, con el propósito de contextualizar adecuadamente el área 
+de estudio, se incorporan antecedentes de carácter local y regional. 
+ 
+
+===== p.6 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+7 
+ 
+ 
+Figura 2. Área de Influencia componente Geomorfología y Riesgos Naturales 
+ 
+2. METODOLOGÍA 
+ 
+2.1 Labores Pre-Terreno 
+ 
+En esta etapa se efectuó un análisis bibliográfico preliminar, se reconoció el área 
+a través de imágenes satelitales de alta resolución y se identificaron los diferentes posibles 
+accesos al área núcleo del proyecto. 
+ 
+2.2 Labor en Terreno 
+ 
+Las salidas a terreno se efectuaron los días 31 de enero, 1 2 y 3 de enero de 2025. 
+Se acampo una noche en el sector austral del área de proyecto, mientras que se accedió 
+vehicularmente los otros dos días de trabajo en terreno, pernoctando en la ciudad de Viña 
+del Mar. Durante estos 4 días se recorrió la totalidad del área del proyecto. Durante el 
+trabajo de describieron las características sobresalientes de 40 puntos de observación 
+general de tipo de rocas, estructuras, suelos, y procesos de erosión. que están transcritos 
+resumidamente en el Apéndice 1 de este informe.  
+ 
+
+===== p.7 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+8 
+ 
+2.3 Labor de Gabinete 
+ 
+Posterior a la fase de terreno se procedió a la elaboración de una base de datos de 
+los puntos levantados. También se procesó un vuelo realizado con un drone operado 
+durante la labor de terreno, con el fin de contar con un ortomosaico detallado para el 
+estudio de las características vistas. 
+ 
+3. GEOMORFOLOGÍA 
+3.1 Antecedentes 
+ 
+El área de emplazamiento del Proyecto se encuentra en lo que Börgel (1983) 
+denomina la macrounidad geomorfológica de la Cordillera de la Costa. 
+ 
+En el contexto regional de Valparaíso, la Cordillera de La Costa emerge en el 
+sector occidental de la región con altitudes que alcanzan los 2.000 metros destacándose 
+los cerros Chache con 2.333, El Roble con 2.222 y La Campana con 1.812 metros de 
+altura, todo enmarcado en una cordillera alta y bien conformada a unos 35 a 40 kilómetros 
+del litoral. El contacto de esta cordillera con la zona deprimida interior se hace a través 
+de pequeñas cuencas delimitadas por serranías. Las principales cuencas presentes en el 
+área de estudio son las de La Ligua, al norte del cordón montañoso del El Melón y 
+separada por éste de la cuenca Catemu Nogales. Esta última está limitada al sur por el río 
+Aconcagua y los cerros de la Calera. Como la Cordillera de la Costa es notablemente más 
+alta al sur de la región, de ella se desprenden numerosas hoyas hidrográficas que 
+desembocan en el mar independiente de los sistemas hidrográficos andinos. Es así como 
+se pueden encontrar el estero Marga Marga, Casablanca, San Jerónimo, Puangue y 
+Limache (Fig. 3). 
+ 
+ 
+
+===== p.8 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+9 
+ 
+Figura 3. Macrounidades Geomorfológicas en la Región del Valparaíso (Adaptado de  Börgel 
+1983).  
+En cuanto a su distribución altitudinal, el área de instalaciones del Proyecto se ubica 
+aproximadamente entre los 180 a 365 m s.n.m, mientras que el camino de acceso 
+proyectado se sitúa entre los 55 a 265 m s.n.m. (Fig.4). 
+ 
+ 
+Figura 4. Distribución altitudinal en el área del Proyecto y su relación con las ciudades 
+de Viña del Mar y Quilpué. 
+ 
+3.2 Superficies geomórficas  
+La zona de estudio se caracteriza por un relieve ondulado, en el cual las superficies 
+de planización no se conservan como planos reconocibles, sino que deben inferirse a 
+partir de la envolvente de las cumbres y de la geometría de los perfiles erosivos. Desde 
+una perspectiva evolutiva, y considerando la evolución geotectónica de la Cordillera de 
+la Costa en esta latitud, se reconoce que el área ha estado sujeta a un lento pero sostenido 
+proceso de levantamiento tectónico. Este proceso es difícil de cuantificar localmente, 
+debido a la escasez de dataciones absolutas sobre los depósitos aterrazados colgados, que 
+atestiguan la existencia de niveles de base más altos. En otras palabras, sería imposible 
+reconstruir los depósitos aterrazados de Quilpué (revisados en la línea de base geológica) 
+sin pensar que los mismos gradaron a un nivel de base ubicado por encima del nivel de 
+base actual. Por ello, teniendo como única referencia el desarrollo de estas terrazas fluvio-
+aluviales observadas en el margen norte de la quebrada Marga-Marga, se analiza 
+brevemente la generación de estos planos geomórficos. 
+ 
+3.2.1 Consideraciones sobre el levantamiento tectónico 
+ 
+El análisis de la topografía y desarrollo hipsométrico de la zona, en particular a lo 
+referido a las terrazas de Quilpué, permite definir algunos valores numéricos con respecto 
+a velocidades de levantamiento del área. Si bien en los sismos individuales analizados, en 
+
+===== p.9 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+10 
+ 
+muchos casos se observó que ciertos sectores afectados demostraban un hundimiento 
+relativo, es claro que la dinámica promediada a lo largo de miles de años, es el 
+levantamiento de esta zona de la Cordillera de la Costa. Por ello, recurrimos a la 
+información disponible acerca de la tasa de levantamiento de la costa, basada en 
+evidencias topográficas, asociadas a terrazas marinas, es decir, superficies de planización 
+generadas por la acción erosiva del mar. En muchos casos estas superficies son llamadas 
+“ravinement surfaces”, y son muy conspicuas y particulares, ya que tienden a 
+desarrollarse en ambientes de márgenes pasivos, dado que requieren de mayor estabilidad 
+tectónica. No obstante, este consultor interpreta que la mayoría de las superficies 
+identificadas a lo largo de la cordillera de la costa son eminentemente planos aluviales 
+que gradan a un nivel de base que se ha mantenido temporalmente estable, o que la 
+conjunción de similares tasas de levantamiento tectónico y ascenso eustático (el ascenso 
+del nivel del mar por causas de transferencia de agua del mar al continente, como por 
+ejemplo, masas de hielo), han creado condiciones de aparente estabilidad temporal al 
+desarrollo. 
+ 
+Así, tomamos de referencia para valorar la tasa de levantamiento tectónico del 
+trabajo de Guerrero lewin (2020) que brinda valores promedios de levantamiento para la 
+zona morfoestructural II, según él la define resumidamente: 
+ 
+“La deformación observada en la plataforma principal y en los niveles más 
+recientes, estudiada a partir de elementos geomorfológicos y morfométricos, demuestra 
+la existencia de una segmentación del alzamiento en la región; los dominios ubicados en 
+los extremos norte y sur de la región definen estructuras de antiformes que, en base a la 
+correlación de las terrazas marinas con los periodos interglaciales anteriormente 
+señalados, presentarían tasas de alzamiento que alcanzan promedios de 0.78 ± 0.01 y 
+0.65 ± 0.02 m/ka, y máximos de 1.10 ± 0.11 m/ka y 1.18 ± 0.12 m/ka, respectivamente, 
+mientras que los dominios centrales no evidencian deformación significativa, 
+presentando tasas de alzamiento promedio de 0.45 ± 0.01 m/ka. La tasa de alzamiento 
+promedio para toda la región, basada en las correlaciones establecidas, sería de 0.57 ± 
+0.01 m/ka, siendo significativamente superior a los 0.3 m/ka estimados entre los 24°–
+32°S y similares a los 0.5 m/ka estimados para el sector comprendido entre los 34°–
+38°S.” (la negrita se asocia a nuestra área de estudio). 
+ 
+Debe hacerse notar que estas tasas de alzamiento están calculadas basándose en 
+que las superficies detectadas son de ravinamiento y no de pedimentacion subárea, por lo 
+cual, podrían ser algo menores dado que la superficie subárea debe gradar a un nivel de 
+base. Por ejemplo, el estero Marga-Marga, que está en equilibrio con el nivel del mar 
+actual en el área de trabajo (ya que se identifica un knick point aguas arriba de nuestra 
+área) se encuentra a 20 m.s.n.m., es decir, que los planos aluviales son por definición 
+asociada a su genética, inclinados y su altura sobre el nivel del mar dependerá de las 
+características del sistema sedimentario, es decir de su eficiencia de transporte: sistemas 
+eficientes adquieren menos pendiente, a veces de decimas de grado, y sistemas 
+ineficientes pueden adquirir pendientes de varios grados. es decir que para hacer un 
+análisis apropiado, las superficies de planización deben ser evaluadas genéticamente en 
+forma apropiada. 
+ 
+Para el caso de la terraza de Quilpué, ésta se trataría de una terraza fluvio aluvial, 
+y si las condiciones de transporte desde Quilpué hasta la costa fueron moderadamente 
+similares, solo hay que analizar cuanto tiempo demoro llevar esta superficie aterrazada 
+
+===== p.10 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+11 
+ 
+de altura promedio de 180 m, desde una altura de referencia de 30 m, que es la que muestra 
+el estero Marga Marga hoy, a la equivalente distancia de la costa.  Utilizando los datos 
+promedios sumarizados por Guerrero Lewin (2020), encontramos que un alzamiento de 
+160 m (180 m la terraza, menos 20 m.s.n.m. del estero Marga Marga) a una tasa de 
+levantamiento de 0.45 ± 0.01 m/ka, arroja 300 mil años de edad. 
+ 
+Notese que esta es una excesiva simplificación, y solo aplica a periodos climáticos 
+similares al actual, es decir, interglaciares. Solamente hace 20 ka el nivel del mar estaba 
+a unos 120 m más bajo que el actual, y en el máximo glacial pleistocénico el nivel bajo a 
+147 m respecto del actual. En contraposición, durante el Holoceno se registraron 
+aumentos muy rápidos, llegando a los 15 mm/a (15 m/ka) durante el primer pulso de 
+derretimiento (MWP 1B: Melt Water Pulse 1B). Es decir, mientras la tectónica trabaja en 
+forma lenta y casi constante, estos cambios son modulados por la posición relativa del 
+nivel del mar. En el área de estudio, la base plana del estero de Marga-Marga, podría 
+perfectamente explicarse por el relleno de un valle incidido elaborado durante la última 
+glaciación, cuando el mar estaba mucho más bajo. Al ascender el nivel del mar, los 
+sedimentos transportados comienzan a ser atrapados por la nueva costa, y ello genera un 
+efecto retrocedente en el valle, hasta el mencionado punto de quiebre, o knick point del 
+estero Marga Marga. Por estas razones, se toma como referencia que los niveles de 
+planización estarían gradando a un nivel del mar equiparable al actual, ya que sería la 
+medida más conservadora, pero perfectamente los depósitos de Quilpué podrían tener el 
+doble de edad, lo que aun los situaría dentro del Pleistoceno.  
+ 
+3.2.2 Superficies geomórficas principales 
+ 
+Basados en las consideraciones anteriores, podemos definir tres superficies geomórficas 
+principales:  
+ 
+a) Superficie Inferior: Definida por el curso actual del Estero Marga Marga, que hoy 
+es el punto de sedimentación principal asociado al área de estudio y que es equiparable 
+al nivel de base local (véase el siguiente punto).  
+ 
+b) Superficie Intermedia: Definida por un plano envolvente de las cumbres suavizadas 
+de los pequeños filos en el centro del área de estudio, interpretados como un plano 
+remanente, posiblemente relacionados con el plano aluvial aterrazado de Quilpué.  
+ 
+c) Superficie Superior: Corresponde a una superficie de planización que se desarrolla 
+inmediatamente al sur del deslinde del proyecto, y que es definido por los fragmentos 
+de mesetas de las elevaciones más altas de la zona. 
+ 
+a) Superficie inferior 
+ 
+Este plano geomórfico está definido por el plano aluvial formado por los depósitos 
+superficiales del estero Marga-Marga. Este plano es muy relevante, ya que toda la red de 
+drenaje de la zona de estudio esta ajustada a este plano como un nivel de base local.  
+ 
+En el capítulo de geología, se ha hecho mención a la extraña morfología del valle 
+Marga Marga con forma de “cajón”, que nos recuerda en cierta forma a los valles glaciales 
+actuales luego de ser liberados por el hielo. es decir, el Valle de Marga-Marga, en su 
+tramo inferior presenta márgenes escarpadas y bastante separadas y un fondo plano con 
+
+===== p.11 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+12 
+ 
+rellenos fluvio aluviales. Claramente este perfil no coincide con el típico valle fluvial que 
+suele presentar un perfil en V, por lo que responde a una serie de procesos que 
+interpretamos como relacionados a la historia reciente de cambios de nivel del mar. 
+ 
+ Como se mencionó anteriormente, hace solo ~20 ka, el nivel del mar se 
+encontraba a 120 m por debajo de su nivel actual, y es claro que en la región los procesos 
+fluviales se mantuvieron activos, y probablemente, posiblemente con mayores caudales 
+debido al aumento de la escorrentía. Tal condición habría incrementado el poder erosivo 
+del Estero Marga Marga, favoreciendo la incisión del valle, salvo que la pendiente de la 
+plataforma sea menor a la pendiente del curso fluvial, en cuyo caso el proceso de 
+sedimentación ocurre. La revisión de la batimetría offshore Viña del Mar (Vergara y 
+Astudillo, 2008), muestra que en solo 7 km se llega a la isobata de 100 m, mientras que a 
+7 km aguas arriba de la línea costera, el estero Marga Marga, llega a unos 20 m s.n.m, 
+indicando que la costa actual representa un importante quiebre topográfico, y que de 
+ocurrir un descenso del nivel marino, el sistema Marga Marga entrará en franco proceso 
+erosivo, que seguramente ocurrió durante la última glaciación. 
+ 
+En resumen, el fondo plano del estero Marga-Marga, debe su origen al ascenso 
+eustático en los últimos 6300 años hasta su posición actual. Si bien en el punto máximo 
+de ascenso, estimado hace 5700 años, el mar llego en promedio a 5 m sobre su cota actual, 
+y luego descendió progresivamente; el proceso de relleno sedimentario del valle Marga 
+Marga, se debió a que el ascenso eustático forzó la depositación de los productos 
+sedimentarios de los sistemas que le tributan. Dada la importante intervención antrópica 
+actual de este valle, es claro que este relleno sedimentario estará estabilizado en un futuro 
+cercano. Finalmente, este plano aluvial es el que define hoy el nivel de base local, es 
+decir, la superficie hacia la cual los arroyos intermitentes que interactúan con el proyecto 
+gradan y que ajustan su perfil de equilibrio. 
+ 
+b) Superficie intermedia 
+ 
+ 
+Esta es una superficie teórica ya que no es posible observar restos de la misma en 
+el área de estudio, pero surge de la interpretación de la morfología del terreno, y la 
+relación con sectores aledaños. Inicialmente se interpretó a esta superficie como la misma 
+que porta las terrazas aluviales de Quilpué, sin embargo tal terraza tiene una altura 
+promedio de 180 m s.n.m., mientras que la superficie intermedia del area de estudio habría 
+tenido una altura aproximada de unos 240 m s.n.m. Dada la cercanía entre ambas 
+superficies, y la significativa diferencia de nivel, es probable que ambas superficies de 
+pedimentacion no sean la misma, pero como mencionáremos sobre la velocidad de 
+levantamiento del zócalo de Cordillera de la Costa, la diferencia temporal entre ambas no 
+justifica diferenciarlas.  
+ 
+La evolución de estas superficies depende mucho de la historia sedimentaria local, 
+ya que dada la ausencia de restos matinos en las terrazas con sedimento preservadas en 
+esta región, estos planos fueron elaborados por procesos fluvio-aluviales. Por ello, para 
+que se forme una de estas superficies primero se debe dar la condición que los sistemas 
+fluvio-aluviales gradan hacia un nivel de base coherente, y tengan la posibilidad de migrar 
+lateralmente para ir aplanando un amplio sector. Esta condición es difícil de lograr en una 
+región que sufre un levantamiento progresivo de 0,5 m/ka, pero es evidente que en algún 
+momento de los últimos 500 ka, los sistemas tuvieron la capacidad de formar un amplio 
+
+===== p.12 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+13 
+ 
+pedimento, que en el caso del area de estudio, no se sabe si fue sucedido por un episodio 
+de agradación sedimentaria, ya que esta superficie desapareció por completo.  
+ 
+La evidencia más notable de la existencia  de erosión que mostramos en la Fig. 5. 
+Allí se puede observar que los “filos” del área de estudio, no son tales, sino que terminan 
+en superficies apicales redondeadas. Como se sabe, el proceso de erosión de una 
+peneplanicie, debe seguir las reglas básicas que se aplican a todo proceso erosivo de 
+cualquier escarpe. La mayoría de los investigadores modela el proceso erosivo de una 
+escarpa con la ecuación de difusión, que además de modelar el transporte del material 
+granular a través de la escarpa, se aplica también al transporte de calor entre dos medios 
+solidos de diferente temperatura. El resultado de una escarpa vertical, como la generada 
+por falla, en su evolución a perfiles sigmoidales, que se van suavizando en función del 
+tiempo. En el caso del área de estudio, el escarpe no es generado por falla, sino por la 
+incisión de los drenes que efectivamente liberan de la base de cada escarpe el sedimento 
+producido por los mismos, por lo que solo tendríamos la parte superior del modelo de 
+transporte representado, y vemos que es de tipo convexo, tal como la teoría sugiere para 
+los estadios iniciales de la erosión de un escarpe. El hecho que los filos locales no sean 
+filos, es por la simple razón de que el estímulo es todavía muy reciente para que los 
+procesos erosivos a ambos lados del filo, lleguen a afectar significativamente el tope de 
+los mismos, cuando ello ocurra, los filos comenzaran a ser “filos”, es decir, que la 
+pendiente de la ladera tendera a ser inicialmente recta, y finalmente cóncava hacia arriba 
+como en los relieves maduros. En otras palabras, la inmadurez de los perfiles erosivos 
+locales, está evidenciando la pasada existencia de un plano de pedimentacion. 
+ 
+ 
+Figura 5. Trazado espacial de los perfiles topográficos T1, T2 y T3. 
+ 
+
+===== p.13 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+14 
+ 
+ 
+Figura 6. Perfiles T1, T2 y T3. 
+c) Superficie Superior 
+ 
+ 
+Al igual que la intermedia, esta superficie es interpretada en la base de la 
+topografía actual, y no existen restos de la misma. Si bien su relevancia directa para el 
+proyecto es menor, su análisis es importante desde el punto de vista geomorfológico 
+evolutivo.  
+ 
+Se estima que está superficie sería más antigua que la anterior, probablemente 
+elaborada hace unos 700 ka, y que corresponde a un episodio previo de planización. La 
+evidencia principal es que el tope de los cerros locales presenta cumbres restiformes, que 
+no se explican por un tema litológico ya que no son rocas sedimentarias horizontales, sino 
+plutónicas y hornéelas de Fm Ajial. El perfil de erosión entre ambas superficies es aún 
+inmaduro, observándose en este caso, el desarrollo completo del perfil sigmoidal debido 
+a que muchos de los procesos erosivos que están degradando este escarpe, tienen un nivel 
+de base transitorio en la superficie intermedia, en donde a veces se llegan a formar 
+depósitos temporales como los descriptos para el punto G1 y G17. 
+ 
+ 
+ 
+T1 
+T2 
+T3 
+
+===== p.14 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+15 
+ 
+3.3 Nivel de base local  
+ 
+ 
+Si bien el concepto de nivel de base ya fue abordado en el apartado anterior, se ha 
+considerado pertinente definir un ítem específico debido a la relevancia que este concepto 
+reviste para los procesos sedimentarios actuales y potenciales que ocurren y podrían 
+ocurrir en el área del proyecto.  
+ 
+Todos los sistemas fluvio aluviales ajustan sus perfiles de equilibrio a un nivel de 
+base. En este caso, el drenaje de fluidos y solidos granulares del área de proyecto ocurre 
+a través de tres drenes principales que llegan hasta el Estero Marga Marga (Q1, Q2 y Q3). 
+Los drenes secundarios, se ajustan al perfil que establece el cauce colector y así 
+sucesivamente para cursos de menor orden. En este contexto, el plano aluvial definidos 
+por el Estero de Marga Marga, define el nivel de base de toda el área del proyecto, y por 
+lo tanto, los procesos de erosión estarán regidos por esta superficie. En consecuencia, toda 
+alteración en el sistema de transporte sedimentario que se efectué en el área del proyecto, 
+tendría un efecto directo o indirecto sobre este plano.  
+ 
+Por ello, el destino de todo material granular liberado en el área del proyecto 
+terminara siendo depositado, temporalmente en este plano, aspecto que debe ser 
+considerado en el diseño y evacuación al modificarse el patrón de drenaje por las obras 
+planificadas. 
+ 
+3.4 Procesos de erosivos identificados 
+ 
+ 
+La revisión integrada de los sistemas sedimentarios presentes en el área de estudio 
+permitió identificar diferentes procesos erosivos y depositacionales, algunos actualmente 
+activos y otros inactivos.  
+ 
+De manera general, los procesos de transporte sedimentario subaéreo pueden 
+agruparse en dos grandes categorías: (i) aquellos en los que la gravedad constituye el 
+principal agente de transporte, y (ii) aquellos en los que predomina el esfuerzo tractivo 
+asociado al flujo de agua. 
+ 
+Dentro de los primeros podemos mencionar los sistemas coluviales y los de 
+remoción en masa, mientras que en los segundos contamos a los procesos pluviales, 
+aluviales y fluviales.  
+ 
+3.4.1 Procesos de remoción en masa 
+ 
+Estos se definen como el movimiento coherente o incoherente de importantes 
+masas de material por el efecto directo de la gravedad. Un movimiento coherente 
+corresponde, por ejemplo, a un deslizamiento de ladera (landslide), mientras que un 
+movimiento incoherente corresponde a una caída de rocas (rock fall). 
+ 
+Si bien las pendientes presentes en el área del proyecto son, desde el punto de vista 
+geométrico, compatibles con la generación de deslizamientos de ladera, no se 
+identificaron depósitos ni cicatrices de arranque asociadas a este tipo de procesos, lo cual 
+
+===== p.15 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+16 
+ 
+es sustentado por las características geotécnicas del macizo y las características de 
+cohesión de los suelos locales.  
+ 
+No obstante, lo anterior, se identificaron procesos de caída de rocas asociados al 
+escarpe norte del área, en relación con la zona de cizalla descrita en el capítulo 
+correspondiente. Si bien dicha zona se encuentra soldada y no presenta evidencias de 
+reactivación tectónica, la combinación de altas pendientes y afloramientos rocosos 
+intensamente fracturados ha favorecido la ocurrencia de caídas de rocas. En general, estos 
+eventos no han progresado hasta alcanzar la huella de acceso existente; sin embargo, 
+constituyen un proceso que debe ser considerado en el diseño y ejecución de las obras 
+proyectadas. 
+ 
+3.4.2 Procesos coluviales 
+ 
+No se identificaron procesos coluviales significativos. Sin embargo, en algunas 
+cicatrices de erosión, como las descritas en los puntos G12 y G15, se observaron depósitos 
+coluviales antiguos, actualmente sometidos a procesos de erosión en manto (overland 
+flow). La inexistencia actual de procesos coluviales se atribuye a la alta cohesión que se 
+observa en los suelos locales, lo que que limita la disponibilidad de material suelto para 
+formar este tipo de depósitos. 
+ 
+3.4.3 Procesos pluviales 
+ 
+El proceso más representativo asociado directamente a la precipitación pluvial es 
+el flujo en manto (overland flow), el cual puede concentrarse localmente y dar origen a 
+cárcavas y gullies.  
+Este tipo de proceso afecta potencialmente a la mayor parte de la superficie del 
+área del proyecto; sin embargo, se estima que su contribución al volumen total de 
+sedimentos movilizados es relativamente baja. La impresión inicial en la revisión del área, 
+es que este proceso estaba ligado directamente a la formación de cicatrices de erosión en 
+el suelo, comúnmente denominadas cárcavas. Por esta misma razón, con el fin de 
+identificar las zonas en donde el proceso de overland flow se concentraba y causaba la 
+remocion de la capa superior del suelo, se procedió al mapeo de las cárcavas. No se hizo 
+un mapeo total, pero se mapearon cerca de 1450 elementos. El análisis cruzado de la 
+posición de estas cárcavas, las áreas de concentración de líneas de flujo, y las zonas de 
+máxima pendiente no arrojo una correlación positiva. En cambio, la gran profusión de 
+terracillas asociadas a senderos de animales guarda estrecha relación con estas cicatrices 
+de erosión, por lo que se ha concluido que las cárcavas observadas son el efecto del 
+sobrepastoreo histórico en esta zona, lo cual es consistente con el avistamiento de un 
+pequeño grupo de ganado en el sector sureste del área de estudio. 
+ 
+
+===== p.16 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+17 
+ 
+ 
+Figura 7. Cárcavas mapeadas en el área principal del proyecto y su entorno. 
+ 
+3.4.4 Procesos aluviales 
+ 
+Los procesos aluviales son, en términos generales, similares a los procesos 
+fluviales, con la diferencia de que presentan una alta variabilidad temporal, al estar 
+asociados a la concentración episódica del flujo, generalmente en asociación con eventos 
+de precipitación pluvial.  
+ 
+En el área de influencia, la forma dominante de erosión y transporte a lo largo de 
+las líneas de drenaje corresponde a procesos de tipo aluvial. La mayoría de los drenes se 
+comportan como cauces de bypass, actuando principalmente como conductores de 
+sedimento,, no como puntos de acumulación temporal. Excepción a este esquema son 
+algunos cursos menores que drenan desde el plano superior hacia el intermedio, y en el 
+cambio de pendiente llegan a generar delgados depósitos. estos depósitos nos indican dos 
+procesos de transporte/depositación dominantes, que son los flujos diluidos a 
+hiperconcentrados turbulentos y los depósitos de tamiz. No se observó ningún deposito 
+asociados a flujos densos como de barro o de detritos, probablemente debido a la escasez 
+de arcillas en este sistema sedimentario.  
+ 
+Los depósitos de tipo matriz sostén observados, corresponden a flujos de tipo 
+grain flow, que comúnmente se desarrollan en los microambientes de depósitos de tamiz. 
+ 
+
+===== p.17 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+18 
+ 
+3.4.5 Procesos fluviales 
+ 
+No se identificaron procesos fluviales activos en el área de estudio, dado que no 
+existen cauces de flujo permanente con capacidad erosiva o tractiva significativa. 
+3.5 Análisis de la distribución de cicatrices de erosión 
+ 
+ 
+Como se mencionó en el apartado anterior, el fenómeno erosivo más relevante 
+identificado en el área de estudio corresponde a la alta densidad de cárcavas. La 
+abundancia de estas cicatrices de erosión en el predio, sumada a los resultados del análisis 
+de pendientes (sección siguiente), podría sugerir, en una primera aproximación, la 
+ocurrencia de un proceso acelerado de erosión de suelos. Sin embargo, el análisis 
+detallado permite distinguir dos tipos de cárcavas con orígenes y significados 
+geomorfológicos distintos, los cuales se describen a continuación: 
+ 
+a) Cárcavas desconectadas: A estas cárcavas las llamamos así porque no presentan 
+una relación directa con la red de drenaje. Estas suelen agruparse espacialmente, 
+generando sectores del predio con alta densidad de cicatrices, mientras que en 
+otros sectores su presencia es menor. En las áreas de mayor densidad se observa, 
+además, una clara coincidencia con baja cobertura vegetal, lo que refleja un 
+avanzado proceso de degradación del suelo. 
+El mapa de cárcavas elaborado para el área de estudio corresponde casi 
+exclusivamente a este tipo de cicatrices. 
+ 
+b) Carcavas conectadas: Estas cárcavas adquieren la forma usual descripta para los 
+gullies, es decir cicatrices de erosión del suelo por el avance retrocedente de la red 
+de drenaje, causando una incisión en el suelo. Estas cárcavas fueron registradas 
+en menor medida ya que coinciden con la red de drenaje. Excelentes ejemplos de 
+este tipo de erosión se observa inmediatamente abajo del punto G29 y evidencian 
+una reactivación reciente del proceso erosivo, en un orden temporal mucho menor 
+que el asociado al desarrollo y degradación de las superficies de pedimentacion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.18 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+19 
+ 
+ 
+Figura 8. Cárcavas conectadas al sur y este del punto de observación G29. 
+ 
+ 
+El origen de estos dos tipos de cicatrices de erosión es completamente diferente. 
+El origen del segundo tipo es evidente, y se relaciona a una reactivación del sistema de 
+transporte, cuestión que se observa en los perfiles transversales de los valles menores, y 
+que fue descrito en la inspección de campo en el punto G2. Esa descripción no se repitio, 
+pero el fenómeno fue reconocido en la mayoría de las líneas de drenaje analizadas en el 
+predio. Cabe destacar que el relieve ondulado del predio ya existía antes de este proceso 
+de incisión, lo que implica que hubo un episodio, probablemente no muy alejado en el 
+tiempo, en donde estos valles fueron receptivos de sedimento, los cuales actualmente 
+están siendo erosionados y están evacuando en forma eficiente este sedimento. 
+ 
+En contraste, las cárcavas desconectadas presentan un origen antrópico, ligado a 
+un sobrepastoreo pretérito del predio en estudio. La evidencia a este origen es coexistente, 
+ya que estas cicatrices no se vinculan a un claro sistema de extracción de sedimento, sino 
+que el producto de estas cicatrices parece haber sido evacuado mediante flujo de manto 
+(overland Flow), el que naturalmente habría generado cárcavas secundarias elongadas en 
+dirección a la máxima pendiente, particularmente en donde las líneas de este flujo 
+mantiforme tienden a converger. No obstante, este patrón no se observa en el área. 
+Por el contrario, se reconoce un desarrollo significativo de terracillas, 
+particularmente en las áreas en donde la vegetación era más densa (previo al incendio que 
+afecto este área). El diseño de estas terracillas en forma horizontal (Figura 7.), no deja 
+lugar a dudas de su origen asociado al tránsito repetitivo de animales de pastoreo, los 
+cuales se concentraban en zonas de mayor productividad vegetal. 
+ 
+ Considerando que el elemento detonador parece haber disminuido y dado el 
+emplazamiento del proyecto, concluimos que el proceso se ha inmovilizado y no se espera 
+su progresión futura. 
+ 
+
+===== p.19 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+20 
+ 
+Figura 9. Comparación de laderas. lzquierda: terracillas formadas  por el tránsito animal 
+paralela a la red de drenaje; derecha: ladera no intervenida. 
+ 
+ 
+3.6 Análisis de pendientes 
+ 
+ 
+En el tema de estabilidad de suelos, el análisis de las pendientes es el primer paso 
+obligado para definir las áreas de peligrosidad respecto de la posibilidad de procesos de 
+remoción en masa. En particular, la zona de estudio presenta las pendientes adecuadas 
+para motorizar este tipo de rupturas del terreno. Sin embargo, es la combinación de 
+pendientes, tipo de sustrato, y presencia de planos de debilidad, lo que motoriza la 
+formación de este tipo de colapsos.  
+ 
+En el caso del área de estudio, se observó que hay casi una ausencia total de 
+arcillas, lo cual resulta visible en casi todos los análisis granulométricos practicas a la 
+fecha. Desafortunadamente, los estudios granulométricos se detienen en el tamiz malla 
+200, por lo cual la estructura de los tamaños menores a limo grueso no se conoce. Sin 
+embargo, el análisis microscópicos de los depósitos inspeccionados, sugiere una escasez 
+notable de arcillas, lo cual se refleja en los procesos de transporte y sedimentación que 
+no llegan ser de tipo densos, sino de tipo hiperconcentrados, lo que es lógico habida 
+cuenta de la importante pendiente de transporte que hay en los sistemas de drenaje. Las 
+arcillas constituyen un factor clave en la generación de deslizamientos, ya que actúan 
+como lubricante de los planos de ruptura.  por lo que la escasez de las mismas, garantiza 
+la baja incidencia de estos procesos. Este antecedente, sumado a la ausencia de evidencias 
+de deslizamientos antiguos, permite descartar razonablemente la ocurrencia de este tipo 
+de procesos en el área de estudio.   
+ 
+Por otro lado, el análisis del plano de pendientes muestra la presencia de sectores 
+con pendientes superiores a 40–45°, valores que suelen aproximarse al ángulo máximo 
+de reposo del material suelo. En estas zonas es esperable la ocurrencia de procesos de 
+caída de rocas, los cuales deben ser considerados en la planificación de las obras. Las 
+áreas potencialmente más afectadas corresponden a la margen sur del predio y a las 
+quebradas que evacúan agua y sedimentos, especialmente en sus tramos inferiores, donde 
+se desarrollan pendientes más pronunciadas en las laderas.  
+ 
+
+===== p.20 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+21 
+ 
+ 
+Figura 10. Mapa de pendientes 
+ 
+ 
+Figura 11. Histograma de pendientes en el área de estudio 
+ 
+
+===== p.21 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+22 
+ 
+Tabla 1. Estadística de pendientes en el área de estudio 
+ 
+Pendiente (°) 
+Media 
+Mediana 
+DE 
+Min 
+Max 
+Q1 
+Q3 
+Área Instalaciones 
+19,05 
+18,77 
+8,14 
+0,06 
+57,46 
+12,82 
+25,05 
+Camino de Acceso 
+28,61 
+29 
+8,98 
+0,13 
+60,43 
+22,61 
+34,89 
+Zona de Estudio 
+23,08 
+23,16 
+10,34 
+0,01 
+66,5 
+15,17 
+30,92 
+ 
+3.7 Análisis de procesos activos de transporte 
+ 
+ 
+Los procesos de transporte sedimentario se encuentran estrechamente vinculados 
+a los procesos erosivos descritos en el apartado 3.4. Tal como se indicó previamente, se 
+interpreta que en el área de estudio operan cuatro mecanismos principales de transporte 
+de sedimentos, los cuales actúan de manera combinada y permiten una evacuación 
+eficiente del material que es liberado principalmente por la erosión de los suelos y, en 
+forma secundaria, por la degradación de laderas mediante procesos gravitacionales. 
+Entonces podemos dividir el transporte de los sedimentos en este predio en tres fases. 
+ 
+3.7.1 Fase 1: Liberación y transporte inicial 
+ 
+En una primera etapa, que ocurre probablemente en la totalidad del área de 
+estudio, se produce la liberación del material granular del suelo regolítico o rocoso. El 
+material regolítico está contenido en los suelos granulares, es decir, aquellos en los cuales 
+los materiales originales ya han sufrido un proceso de disgregación.  
+ 
+Se estima que cerca del 85% del área de estudio se encuentra cubierta por suelos 
+regolíticos, mientras que entre un 10 y 15 % corresponde a suelo rocoso. En estos últimos, 
+la liberación de material granular ocurre de manera directa por procesos de meteorización 
+física, asistidos en menor medida por meteorización química. la liberación de material 
+granular en este suelo rocoso depende de la posición de los afloramientos, en zonas de 
+pendiente alta y moderada, es por simple caída de rocas el proceso dominante corresponde 
+a caída de rocas, mientras que en sectores asociados a las líneas de drenaje, este material 
+es arrancado por esfuerzo tractivo de las corrientes fluidas circulantes. 
+ 
+ La mayor parte del transporte en esta etapa, ocurre por overland flow. la ausencia 
+de marcas de “rilling” sugiere que estos flujos son activados principalmente en lluvias 
+copiosas, los cuales no presentan la energía suficiente para romper la capa cohesiva 
+superficial suelo, llevando en varias etapas, el material granular hasta los drenes 
+principales en donde es evacuado por procesos más eficientes. 
+ 
+3.7.2 Fase 2: Transporte a los drenes secundarios y principales 
+ 
+ 
+La segunda fase de transporte corresponde a la evacuación de los sedimentos una 
+vez que son llevados hasta los drenes principales. El análisis de los escasos depósitos 
+presentes allí sugiere que el transporte inicial a lo largo de los drenes es por etapas, tal 
+como lo caracteriza la formación de micro-lobulos de tamiz, inter estratificados por 
+depósitos de corrientes fluidas de alta concentración de sedimentos (hiperconcentradas).  
+ 
+
+===== p.22 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+23 
+ 
+Este transporte comienza a ser más eficiente a medida que aumenta el número de 
+área drenada, ya que los cauces comienzan a mostrar menos sedimento acumulado en la 
+base, y en particular en las curvas internas de los cursos, en donde ocurre una natural 
+desaceleración del flujo, facilitando así la depositación temporaria de sedimento.  
+ 
+3.7.3 Fase 3: Transporte a los colectores principales 
+ 
+La fase final de transporte ocurre en los colectores principales. Allí, se alcanza 
+una capacidad máxima de transporte en el área, En el tramo final de las tres quebradas 
+que drenan en el área de estudio (Q1, Q2, Q3), debido a la conjunción de dos factores: (i) 
+un incremento promedio de la pendiente de los cauces, que localmente se manifiesta en 
+la presencia de escalones y pequeños saltos, y (ii) una rápida concentración de líneas de 
+drenaje, que incrementa el caudal efectivo durante eventos de precipitación intensa. 
+ 
+ 
+La disposición fisiográfica del sistema podría dar lugar a la formación de ondas 
+de choque (shock waves) en la fase final de transporte. Estas ondas de choque han sido 
+descritas en numerosos casos, en relación a angosturas de los drenajes que evacuan 
+crecientes esporádicas. El desarrollo se relaciona a que las capas de flujo superiores de la 
+creciente comienzan a desplazarse más rápido y alcanzan los términos frontales de la 
+creciente, generando un apilamiento indeseable de capas de agua, con potenciales efectos 
+destructivos. 
+ 
+ Como no se conoce que haya ocurrido esta eventualidad en tiempos recientes se 
+presupone que este proceso no ocurrirá. Se presume que la ocurrencia de este proceso 
+estaría limitada por la alta capacidad de infiltración y almacenamiento temporal de agua 
+de los suelos del predio, asociada a su estructura granular y al profundo perfil de 
+meteorización observado. Para validar esta hipótesis, sería necesario complementar el 
+análisis mediante ensayos de infiltración en terreno. Cabe destacar que modificaciones 
+significativas en la capacidad de absorción temporal de los suelos, producto de la 
+ejecución de obras o de la impermeabilización superficial, podrían alterar la estructura de 
+las crecientes generadas por eventos de precipitación intensa, disminuyendo el rol 
+regulador natural del suelo. En este contexto, la posible generación de ondas de choque 
+asociadas a crecientes pluviales debiera ser evaluada considerando los cambios que el 
+proyecto pudiera inducir en la capacidad de infiltración y regulación hídrica de los suelos 
+locales. 
+3.8 Erosión de suelos 
+ 
+ 
+Tal como se indicó en el apartado 3.5, una inspección preliminar del predio 
+evidencia una alta presencia de cicatrices de erosión de suelos, lo que, a primera vista, 
+podría sugerir un proceso erosivo activo y de magnitud relevante. No obstante, el análisis 
+integrado de la geomorfología, la distribución espacial de las cicatrices y antecedentes de 
+uso histórico del suelo permite concluir que la mayoría de estas evidencias se asocian a 
+un estímulo antrópico, específicamente al tránsito de ganado. 
+ 
+Las cicatrices de erosión observadas corresponden mayoritariamente a procesos 
+desconectados de la red de drenaje y no muestran una progresión activa ni una vinculación 
+directa con mecanismos actuales de evacuación eficiente de sedimentos. 
+
+===== p.23 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+24 
+ 
+3.9 Evolución geomórfica sintética 
+ 
+ 
+En este apartado se integran las observaciones expuestas en los capítulos 
+precedentes dentro de un esquema evolutivo de carácter regional. El objetivo no es 
+reconstruir en detalle todos los procesos que han actuado en el área de estudio, sino 
+identificar aquellos de mayor relevancia para explicar la configuración geomorfológica 
+actual. 
+ 
+3.9.1 Etapa inicial de pedimentacion 
+  
+La Cordillera de la Costa (CC) ha experimentado un prolongado proceso de denudación 
+y levantamiento tectónico durante millones de años, asociado a su posición en el borde 
+occidental de la placa Sudamericana y a la convergencia sostenida con la placa de Nazca. 
+desde hace mucho tiempo. Probablemente han habido cambios en el esquema de 
+esfuerzos debido a la convergencia de las dorsales submarinas como la de Juan Fernandez 
+y el proceso de fraternización de la subducción que justamente comienza a esta latitud, 
+pero estas modificaciones no afectaron notoriamente el campo de esfuerzos, aunque si la 
+intensidad relativa de los mismos. Por ello, el proceso de levantamiento de la Cordillera 
+de la Costa, es algo conocido, aceptado y que explica como hoy, niveles intermedios como 
+el techo y partes intermedias de platones que necesariamente se instruyeron a gran 
+profundidad, hoy están a ras de suelo. Este proceso de denudación, claramente fue 
+modulado por los cambios ambientales que ocurre en la superficie, los que producen 
+etapas en donde hay baja eficiencia de transporte y se promueve la formación de mantos 
+sedimentarios, y otras etapas en donde la alta eficiencia de transporte causa la 
+profundización de los valles.  
+ 
+A estos procesos intrínsecamente sedimentarios, se suman en nuestro caso, y dada 
+la cercanía de la costa, los ciclos de cambios de nivel del mar. Sin embargo, dada la 
+ausencia de depósitos remanente en las dos superficies de pedimentacion reconocidas su 
+edad solo puede ser estimada con los valores medios de levantamiento de la CC. Como 
+esta superficie puede ser ubicada cerca de los 500 m s.n.m., estimamos que tendría una 
+edad aproximada de cerca de 1 millón de años. 
+ 
+3.9.2 Primer proceso de incisión 
+ 
+La evolución geomorfológica posterior no habría sido continua ni uniforme. La 
+existencia de diferencias altimétricas entre el plano de pedimentación intermedio del área 
+de estudio y superficies equivalentes desarrolladas hacia el norte, en el sector de Quilpué 
+(aproximadamente 60 m más bajas), sugiere la ocurrencia de múltiples pulsos de incisión. 
+ 
+Con fines de simplificación, y dada la ausencia de criterios cronológicos que 
+permitan diferenciarlas con precisión, estas superficies se consideran parte de un mismo 
+evento geomorfológico, aclarando que estudios más detallados podrían eventualmente 
+demostrar diferencias de edad. En este intervalo se habría desarrollado un plano erosivo 
+de origen fluvio-aluvial, comúnmente denominado pedimento o superficie de glacis. 
+ 
+
+===== p.24 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+25 
+ 
+3.9.3 Primer evento de depositación 
+ 
+Interpretando que la superficie intermedia y el plano de Quilpué son equiparables, 
+hay que considerar un tiempo en donde la capacidad de transporte de los sistemas que 
+elaboraron el plano intermedio disminuye, y por lo tanto se produce un episodio de 
+acumulación en el cual se forman y preservan los depósitos fluvia-aluviales aterrazados 
+de Quilpué. Se estima que este proceso acumulativo podría haber ocurrido entre 300 y 
+400 Ka. 
+ 
+3.9.4 Segundo proceso de incisión 
+ 
+Es no habría sido un proceso continuo, ya que desde los 400 Ka la tierra ha 
+registrado cuatro grandes glaciaciones todas ellas generando un descenso del nivel del 
+mar de más de 120 m respecto de la posición actual. El mayor de estos descensos se 
+estima en 147 m, y el asociado a la última gran glaciación se estima que llego hasta 134 
+m, hace solo 20 k. Es decir, el periodo interviniente dista de haber sido “constante” o 
+estable, pero para los fines de este estudio debemos simplificar la historia en base a los 
+elementos de discernimiento que tenemos en el área de estudio y localidades cercanas.  
+ 
+Todos estos procesos de descenso y ascenso del nivel del mar, estuvieron 
+seguramente acompañados por importantes cambios en las condiciones de transporte 
+sedimentario. Lo que queda claro de estas importantes variaciones del nivel del mar, es 
+que la velocidad de descenso del mismo supera ampliamente la velocidad de ascenso de 
+la Cordillera de la Costa, por lo tanto, es lógico pensar que el valle Marga Marga, tuvo 
+épocas en donde seguramente tenía un perfil en V, y era más profundo que en la 
+actualidad, al menos en el tramo que se observa un perfil con fondo plano.  
+ 
+3.9.5 Ultimo ascenso del nivel del mar y establecimiento del nivel de base actual 
+ 
+El último ascenso significativo del nivel del mar culminó durante el Holoceno medio, 
+alcanzando su máximo hace aproximadamente 5.300 años. Este ascenso forzó la 
+agradación y el relleno sedimentario del tramo inferior del estero Marga-Marga, dando 
+origen al nivel de base local actual. Estimamos que estos ciclos en el estero Marga Marga 
+no llegaron a afectar significativamente los procesos en el área del proyecto, debido a que 
+los arroyo que aguas abajo, están hoy dinámicamente desconectados de la parte media y 
+alta del predio. La evidencia de esta parcial desconexión es que los procesos de erosión 
+retrocedente aun no afectan las partes intermedias y superiores de las cubiertas regoliticas 
+del parea de estudio. 
+ 
+3.9.6 Incisión casi modernas 
+ 
+Finalmente, se reconocen incisiones de carácter reciente en cursos menores 
+dinámicamente desconectados del estero Marga Marga, las cuales evidencian una 
+reactivación limitada de la capacidad de transporte del sistema. Esta reactivación podría 
+estar asociada a aumentos temporales en la precipitación, posiblemente vinculados a 
+variaciones climáticas de escala histórica. como las condiciones más húmedas asociadas 
+a la denominada Pequeña Edad de Hielo. 
+ 
+ 
+
+===== p.25 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+26 
+ 
+Dado que este episodio climático finalizó hace aproximadamente 200 años, un 
+intervalo muy breve en términos geológicos, es probable que algunos sistemas de drenaje 
+aún se encuentren en proceso de ajuste morfodinámico. Este factor se suma a los efectos 
+del uso antrópico histórico del predio, particularmente el sobrepastoreo, lo que dificulta 
+la atribución de una causa única para los procesos erosivos recientes observados. 
+ 
+4. RIESGOS NATURALES 
+ 
+ 
+En los ítems anteriores ya se ha ido enumerando aquellos procesos que podrían 
+asociarse a un riesgo natural, por lo cual en este capítulo solo se expondrán sucintamente 
+los procesos, y las posibles soluciones para aquellos que pudieran activarse. 
+ 
+4.1 Riesgos Sísmico 
+ 
+ 
+Los riesgos tectónicos existen, pero no de forma directa, ya que se ha descrito que 
+ninguna de las zonas de cizalla reconocidas en el predio podría ser activa. Tanto la Zona 
+de Cizalla Norte (ZCN) como la Zona de Cizalla Sur (ZCS) fueron descartadas como 
+estructuras activas en la Línea de Base Geológica, apartado 3.4, donde se exponen los 
+antecedentes de terreno que sustentan dicho descarte. Sin embargo, la zona de cizalla 
+Marga-Marga es probablemente una zona de debilidad que amplifica los efectos de un 
+terremoto cercano, dados los registros sísmicos y de destrucción de estructuras asociadas 
+a la traza de esta falla. Su relevancia para el Proyecto es, por tanto, de orden sísmico, 
+asociada a la movimiento  del terreno por sacudida. Branner (1915) atribuyó el mal 
+comportamiento de los suelos en el Plan de Viña durante el sismo de 1906, que incluyó 
+licuefacción parcial, a la amplificación de las ondas sísmicas por los suelos 
+subsuperficiales. Álvarez Vargas (2025), sobre la base de un análisis de transferencia de 
+esfuerzos de Coulomb, plantea en la misma línea que la fisura registrada sobre la traza 
+podría responder a efectos de sitio antes que a una activación directa de la falla. Dichos 
+efectos se restringen a los rellenos no consolidados y saturados del fondo del valle 
+(Superficie Inferior), condición que no se verifica en el área de instalaciones, emplazada 
+sobre el macizo tonalítico entre los 180 y 365 m s.n.m. 
+ 
+En la Figura 12 se muestran espacialmente los sismos registrados entre 1900 y 2025 entre 
+las latitudes que abarcan la Región de Valparaíso, y su relación espacial con el área del 
+proyecto. La sismicidad instrumental de magnitud igual o superior a 4,5 Mw se concentra 
+en el margen occidental, en asociación con la zona de subducción. 
+
+===== p.26 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+27 
+ 
+ 
+Figura 12. Sismos +4.5 Mw registrados entre el 1900-2025 de acuerdo al USGS. 
+ 
+ 
+4.2 Riesgo de inundación por tsunami 
+Considerando que el proyecto se localiza en la cordillera de la costa, por sobre los 180 m s.n.m., 
+es que se descarta el peligro de inundación por tsunami. 
+4.3 Riesgo volcánico 
+Considerando que el proyecto se localiza en la cordillera de la costa, a más de 100 km de las zonas 
+volcánicas asociadas al margen occidental de Sudamérica, no existen riesgos volcánicos en el área 
+del proyecto. 
+ 
+4.4 Riesgos de remoción en masa 
+4.4.1 Procesos de tipo cohesivo y semi cohesivo 
+ 
+
+===== p.27 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+28 
+ 
+ 
+No se identificaron zonas con riesgo asociado a procesos de remoción en masa de 
+tipo cohesivo o semicohesivo, tales como deslizamientos de ladera (landslides) y flujos 
+subsidiarios como avalanchas de rocas o detritos. 
+ 
+ 
+Esta conclusión se sustenta en la ausencia de evidencias de eventos previos, así 
+como en las características geotécnicas del sustrato y de los suelos locales, los cuales 
+presentan una baja proporción de finos cohesivos, en particular arcillas, que suelen actuar 
+como planos de lubricación en este tipo de procesos. 
+ 
+4.4.2 Procesos de tipo no cohesivo  
+ 
+ 
+La caída de rocas corresponde a un proceso identificado, aunque limitado en el 
+área de estudio, particularmente se presenta en sectores donde concurren las siguientes 
+condiciones: i) presencia de afloramientos rocosos expuestos, aunque escasos, y ii) 
+pendientes superiores a 40°–45 
+ 
+En el margen austral del deslinde de proyecto se observaron evidencias de este 
+proceso, el cual puede ser mitigado mediante medidas de manejo y diseño, tales como la 
+conformación de bermas, escalonamientos o la instalación de defensas pasivas (por 
+ejemplo, mallas o redes de contención). Asimismo, se identificaron caídas de rocas de 
+menor magnitud en el sur del área de estudio, fuera del deslinde del proyecto, asociadas 
+a los sectores de salida de las quebradas principales denominadas Q1, Q2 y Q3.  
+ 
+En ambos casos, estos procesos han tenido un alcance limitado y no han 
+evidenciado una propagación significativa hacia sectores más bajos. 
+ 
+4.2.3 Procesos de tipo fluido 
+ 
+ 
+No se identificaron riesgos asociados a flujos de tipo fluido, desde flujos de fluides 
+normal hasta hiperconcentrados. Los flujos hiperconcentrados reconocidos han generado 
+depósitos de pequeña magnitud y se restringen principalmente a sectores altos del área de 
+estudio. Desde las partes medias del área hacia aguas abajo, se estima que los flujos son 
+predominantemente acuosos, sin evidencias de transporte masivo de sedimentos.  
+ 
+No se observaron depósitos atribuibles a flujos densos, tales como debris flows o 
+mudflows. La ocurrencia de este tipo de procesos se considera poco probable, dado el 
+bajo contenido de arcillas identificado en los suelos y depósitos locales, condición que 
+limita la generación de flujos con comportamiento reológico denso. 
+ 
+No obstante, se reconoce que modificaciones en las características de infiltración 
+y almacenamiento temporal del agua en el suelo, asociadas a la ejecución de obras, 
+podrían alterar localmente los patrones de escorrentía durante eventos de precipitaciones 
+intensas. Bajo este escenario, no puede descartarse la generación puntual de aumentos 
+súbitos de caudal en las salidas aguas abajo del proyecto, con la eventual formación de 
+ondas de choque hidráulicas, las cuales podrían generar efectos adversos localizados. En 
+consecuencia, este aspecto deberá ser considerado en el diseño de las obras y en las 
+medidas de manejo de aguas lluvias. 
+
+===== p.28 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+29 
+ 
+5. CAMBIO CLIMÁTICO 
+La Guía metodológica para la consideración del cambio climático en el Sistema 
+de Evaluación de Impacto Ambiental (SEA, 2024) define el Riesgo Climático o Riesgo 
+vinculado al cambio climático como aquellas consecuencias potencialmente adversas del 
+cambio climático para los sistemas humanos o ecológicos, reconociendo la diversidad de 
+valores y objetivos asociados a dichos sistemas. En este contexto, los riesgos pueden 
+derivar tanto de los impactos físicos del cambio climático como de las respuestas humanas 
+frente a estos. 
+Bajo este marco conceptual, el clima se considera un atributo del medio ambiente 
+y de las áreas de influencia, el cual, si bien no constituye un objeto de protección 
+ambiental en sí mismo -al igual que la geomorfología, la geología y los riesgos naturales-
+, posee la capacidad de modular y condicionar la ocurrencia, frecuencia y magnitud de 
+procesos geológicos, geomorfológicos y riesgos naturales de origen superficial, tales 
+como remociones en masa, erosión hídrica y crecidas. 
+Con el objetivo de caracterizar las tendencias climáticas relevantes para la 
+evaluación de los riesgos naturales, se utilizó información proveniente de la plataforma 
+ARClim (Atlas de Riesgos Climáticos para Chile), iniciativa del Ministerio del Medio 
+Ambiente, desarrollada por el Centro de Investigación del Clima y la Resiliencia (CR2) 
+y el Centro de Cambio Global de la Pontificia Universidad Católica de Chile, con la 
+colaboración de diversas instituciones nacionales e internacionales. 
+Dentro de esta plataforma, el Explorador de Amenazas Climáticas permite 
+visualizar índices de probabilidad o intensidad esperada asociados a diversas amenazas 
+climáticas, tanto para un período histórico reciente (1980–2010) como para un escenario 
+futuro de mediano plazo (2035–2065). En el presente análisis se consideró el escenario 
+SSP5-8.5, correspondiente a un escenario de altas emisiones de gases de efecto 
+invernadero, el cual representa la condición más desfavorable y conservadora para efectos 
+de evaluación ambiental, de acuerdo con lo recomendado por el SEA. 
+En este contexto, en las Tablas 2, 3, 4 y 5 se presenta la caracterización climática 
+comparativa para las comunas de Viña del Mar, donde se emplaza políticamente el 
+Proyecto, y Quilpué, comuna colindante a su localización. Variables de amenazas 
+climáticas analizadas incluyen: precipitación acumulada anual, temperatura media anual, 
+número de días con precipitaciones intensas y precipitación máxima diaria, las cuales son 
+relevantes para la comprensión de la evolución potencial de los procesos geomorfológicos 
+y de los riesgos naturales asociados. 
+Tabla 2.  Precipitación acumulada anual 
+Comuna 
+Provincia 
+1980–2010 [mm] 
+2035–2065 [mm] 
+Cambio [%] 
+Viña del Mar Valparaíso 
+447,8 
+384,0 
+-14,3 
+Quilpué 
+Marga Marga 489,0 
+424,6 
+-13,2 
+Los resultados muestran una disminución proyectada de la precipitación anual 
+acumulada, del orden de 13–14 %, consistente con las tendencias de aridificación 
+proyectadas para la zona central de Chile. 
+
+===== p.29 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+30 
+ 
+Tabla 3. Temperatura media anual 
+Comuna 
+Provincia 
+1980–2010 [°C] 2035–2065 [°C] Diferencia [°C] 
+Viña del Mar Valparaíso 
+14,9 
+16,4 
++1,5 
+Quilpué 
+Marga Marga 13,4 
+15,1 
++1,6 
+Se observa un aumento significativo de la temperatura media anual, cercano a 1,5–1,6 
+°C, lo que podría incidir indirectamente en la estabilidad de suelos superficiales, la 
+cobertura vegetal y los balances hídricos. 
+Tabla 4. Días con precipitaciones intensas, mayores a 10 mm. 
+Comuna 
+Provincia 
+1980–2010 
+2035–2065 
+Diferencia 
+Viña del Mar 
+Valparaíso 
+13,9 
+11,9 
+-2,0 
+Quilpué 
+Marga Marga 
+15,2 
+12,9 
+-2,3 
+Se proyecta una disminución en el número anual de días con precipitaciones intensas, lo 
+cual es coherente con la reducción de la precipitación total, aunque no excluye la 
+ocurrencia de eventos extremos aislados. 
+Tabla 5. Precipitación máxima diaria 
+Comuna 
+Provincia 
+1980–2010 [mm] 2035–2065 [mm] Cambio [%] 
+Viña del 
+Mar 
+Valparaíso 
+58,8 
+56,2 
+-4,4 
+Quilpué 
+Marga Marga 62,4 
+60,3 
+-3,4 
+Las variaciones proyectadas en la precipitación máxima diaria son moderadas, con leves 
+disminuciones porcentuales, lo que sugiere que, aun bajo un escenario de reducción de 
+lluvias, los eventos diarios intensos continúan siendo un factor relevante para la 
+activación de procesos de inestabilidad superficial. 
+5.1 Tendencias climáticas observadas y proyectadas 
+Los resultados obtenidos a partir de ARClim muestran, para ambas comunas, una 
+tendencia proyectada a la disminución de la precipitación anual acumulada, del orden de 
+13–14 %, junto con un incremento de la temperatura media anual cercano a 1,5–1,6 °C 
+hacia el período 2035–2065. Asimismo, se proyecta una disminución en el número de 
+días con precipitaciones intensas y variaciones moderadas en la precipitación máxima 
+diaria. 
+Estas tendencias son consistentes con los patrones de aridificación observados en 
+la zona central de Chile durante las últimas décadas, documentados en la literatura 
+científica y en los informes del IPCC. No obstante, la evaluación del riesgo climático no 
+puede basarse exclusivamente en tendencias promedio, dado que los riesgos naturales 
+suelen estar asociados a eventos extremos de baja frecuencia y alta magnitud, más que a 
+las condiciones climáticas medias. 
+
+===== p.30 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+31 
+ 
+En este sentido, la experiencia reciente en Chile demuestra que, aun en un contexto 
+de disminución de la precipitación total, pueden ocurrir eventos pluviométricos 
+excepcionales, asociados a configuraciones atmosféricas poco frecuentes, tales como 
+bajas segregadas o sistemas frontales intensificados, capaces de gatillar procesos de 
+remoción en masa, aluviones y crecidas súbitas. Un ejemplo de ello corresponde a los 
+eventos ocurridos en marzo de 2015 en la Región de Atacama, los cuales pusieron de 
+manifiesto la limitada capacidad de los modelos climáticos globales (GCM) para 
+representar la totalidad de la variabilidad de los sistemas climáticos locales, 
+especialmente en relación con eventos extremos. 
+| 
+Por lo anterior, aun cuando las proyecciones indiquen una tendencia general hacia 
+condiciones más secas, no es posible descartar la ocurrencia de eventos climáticos 
+intensos fuera de temporada, incluyendo precipitaciones significativas durante períodos 
+tradicionalmente secos, lo que constituye uno de los principales desafíos asociados al 
+cambio climático. 
+5.2 Implicancias para la geomorfología y los riesgos naturales 
+Desde una perspectiva geomorfológica y de riesgos naturales, un eventual 
+incremento en la magnitud o frecuencia de eventos de precipitación intensa, aun en un 
+contexto de menor precipitación anual total, podría generar una reactivación temporal de 
+los sistemas de transporte sedimentario, acelerando procesos ya presentes en el área de 
+estudio, sin necesariamente modificar su tipo. 
+Los procesos potencialmente más sensibles a estos escenarios corresponden a: 
+• 
+Incremento en la evacuación de sedimentos a lo largo de los drenes naturales. 
+• 
+Intensificación de la erosión regresiva en cárcavas asociadas a dichos drenes. 
+• 
+Aumento en la frecuencia de caídas de rocas, especialmente en sectores con 
+pendientes pronunciadas y afloramientos rocosos expuestos. 
+• 
+Potencial generación de crecidas súbitas en los cauces principales, asociadas a la 
+superación de la capacidad de infiltración del suelo. 
+Cabe señalar que las cárcavas presentes en laderas y cumbres, de origen 
+mayoritariamente antrópico, podrían experimentar una aceleración de los procesos 
+erosivos, aunque sin evidenciar cambios sustantivos en su dinámica general respecto de 
+las condiciones actuales. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.31 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+32 
+ 
+ 
+6. CONCLUSIONES Y RECOMENDACIONES 
+ 
+Del análisis geomorfológico, geológico y de procesos superficiales realizado 
+para el área de estudio, se concluye que no se identifican factores que configuren 
+riesgos naturales significativos, pese a la topografía accidentada que caracteriza al área 
+de estudio. Los procesos geomorfológicos reconocidos corresponden, en su mayoría, a 
+dinámicas naturales de baja magnitud, coherentes con la evolución morfoestructural de 
+la Cordillera de la Costa y con las condiciones climáticas actuales y proyectadas para la 
+zona. 
+Los procesos que requieren una atención específica en el diseño y ejecución del 
+proyecto se limitan a los siguientes: 
+ 
+a) Caída de rocas: Se identificó la ocurrencia puntual de caídas de rocas en 
+sectores donde concurren pendientes elevadas y afloramientos rocosos expuestos. Estos 
+procesos son de magnitud acotada y presentan una alta factibilidad de manejo preventivo 
+mediante medidas simples y ampliamente utilizadas, tales como la conformación de 
+terrazas de contención, escalonamientos de taludes o la instalación de mallas de 
+protección en sectores cercanos a los puntos de origen. En los tramos inferiores de las 
+quebradas principales Q1, Q2 y Q3 (de acuerdo a la nomenclatura de la LB hidrológica), 
+no se considera necesaria la adopción de medidas adicionales, dado que los fragmentos 
+rocosos quedan naturalmente confinados dentro de los cauces. 
+ 
+B) Ondas de choque: Si bien no se constataron eventos recientes de este tipo, se 
+reconoce que, bajo ciertas condiciones excepcionales, podrían desarrollarse aumentos 
+súbitos de caudal en las quebradas principales, particularmente si se modifica la capacidad 
+de infiltración y regulación hídrica natural de los suelos producto de las obras. En muchos 
+casos, se recomienda la implementación de sistemas de disipación de energía y partición 
+de caudales de creciente. Una medida efectiva y de bajo impacto corresponde a la 
+construcción de estructuras altamente permeables en las quebradas principales con 
+bloques medios y grandes, para que parte del agua se infiltre rápidamente, perdiendo su 
+velocidad y capacidad de transporte sedimentario en forma temporal, y con ello su 
+potencial capacidad destructiva. Por lo que esta situación deberá ser abordada en los 
+estudios hidráulicos del Proyecto. 
+ 
+ 
+En relación con el cambio climático, este consultor estima que no resulta 
+apropiado adoptar un único escenario climático, sino que es más prudente considerar un 
+rango de escenarios plausibles. Entre estos se incluyen tanto un aumento progresivo de la 
+temperatura acompañado de una disminución de los caudales medios, con posibles 
+cambios en el régimen de precipitaciones, como un escenario alternativo de aumento de 
+las precipitaciones bajo condiciones térmicas distintas, que podría reforzar los procesos 
+pluviales actualmente observados. 
+ 
+En síntesis, el área de estudio presenta condiciones geomorfológicas y geológicas 
+favorables para el desarrollo del proyecto, siempre que se integren adecuadamente 
+consideraciones de diseño y manejo orientadas a controlar procesos puntuales de 
+remoción en masa no cohesiva y a gestionar de forma preventiva el comportamiento 
+hidrológico superficial bajo escenarios climáticos variables. 
+ 
+
+===== p.32 =====
+LINEA BASE GEOMORFOLÓGICA Y RIESGOS NATURALES 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+33 
+ 
+ 
+ 
+ 
+7. APÉNDICES 
+ 
+Apéndice 1. Descripción de observaciones puntuales efectuadas en el área de estudio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCIAS 
+ 
+Álvarez Vargas, J. 2025. Interaction between historical earthquakes in the seismic gap of Central Chile 
+and the Marga-Marga crustal Fault: The seismic potential of the Valparaíso region. Tesis para optar al 
+grado de Magíster en Ciencias con mención en Geofísica, Departamento de Geofísica, Facultad de 
+Ciencias Físicas y Matemáticas, Universidad de Concepción. Concepción, Chile. 
+ 
+Börgel, R., (1983). Geomorfología de Chile. Tomo II, Instituto Geográfico Militar. 
+ 
+Guerrero Lewin, B. (2020). Segmentación del alzamiento tectónico cuaternario en la Cordillera de la Costa 
+Occidental de Chile Central (33°-34°S) a partir de terrazas marinas.  
+ 
+Maldonado, V., Contreras, M., & Melnick, D. (2021). A comprehensive database of active and potentially-
+active continental faults in Chile at 1: 25,000 scale. Scientific data, 8(1), 20. 
+ 
+Ministerio de Medio Ambiente (2020). Atlas de Riesgos Climáticos ARClim Disponible: 
+https://arclim.mma.gob.cl  
+ 
+Servicio de Evaluación Ambiental (2024). Guía metodológica para la 
+consideración del cambio climático en el SEIA. Tercera edición, Santiago, Chile 
+ 
+United States Geological Survey (USGS). Earthquake Catalog. U.S. Geological Survey. Disponible en: 
+https://earthquake.usgs.gov/earthquakes/search/  
+ 
+Vergara HP & R Astudillo. (2008). Altos estructurales costa afuera en la región de Valparaíso, Chile central. 
+Revista de Biología Marina y Oceanografía 43(3): 539-545. 
+ 
+ 

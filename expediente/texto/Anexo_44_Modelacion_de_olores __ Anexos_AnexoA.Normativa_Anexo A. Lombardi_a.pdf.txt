@@ -1,0 +1,2481 @@
+
+===== p.0 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 18 –
+Bollettino Ufficiale
+D.g.r. 15 febbraio 2012 - n. IX/3018
+Determinazioni generali in merito alla caratterizzazione delle 
+emissioni gassose in atmosfera derivanti da attività a forte 
+impatto odorigeno 
+LA GIUNTA REGIONALE
+Visti:
+• la direttiva 85/337/CEE del Consiglio del 27 giugno 1985 
+concernente la valutazione dell’impatto ambientale di 
+determinati progetti pubblici e privati e successive modi-
+fiche ed integrazioni;
+• la direttiva 2008/98/CE del Parlamento Europeo e del 
+Consiglio del 19 novembre 2008 relativa ai rifiuti;
+• la direttiva 2010/75/UE del Parlamento Europeo e del 
+Consiglio del 24 novembre 2010 relativa alle emissioni in-
+dustriali;
+• il d.lgs. 3 aprile 2006, n. 152 «Norme in materia ambienta-
+le» e successive modifiche ed integrazioni;
+• la d.g.r. 16 aprile 2003 n. 7/12764 «Linee guida relative alla 
+costruzione e all’esercizio degli impianti di produzione di 
+compost»;
+Constatato che nell’ordinamento comunitario ed italiano 
+non è contemplata, per le emissioni odorigene, una disciplina 
+che fornisca valori limite di riferimento, né metodi o parametri 
+idonei a misurarne la portata, in considerazione delle numero-
+se problematiche ad esse associate, necessita invece di una 
+puntuale regolamentazione che rappresenti un riferimento 
+per tutti gli operatori pubblici e privati in particolare per quan-
+to attiene sia le procedure autorizzative che i processi di VIA/
+VAS previsti dal d.lgs 152/2006 e s.m.i.;
+Atteso che il contrasto normativo a fenomeni di questa na-
+tura è attualmente limitato ad alcune previsioni sia del Codice 
+Civile (art. 844) in merito ai limiti della normale tollerabilità del-
+le immissioni di fumo, calore, rumori e scuotimenti, sia del Co-
+dice Penale (art. 674) sul «Getto di cose pericolose» che, sulla 
+scorta delle più recenti evoluzioni giurisprudenziali, vengono 
+ora applicati indipendentemente dal superamento dei valori 
+limite delle emissioni stabiliti dai provvedimenti autorizzativi;
+Rilevato che:
+• le emissioni odorigene in atmosfera derivanti dalle atti-
+vità produttive stanno diventando un problema sempre 
+più attuale stante l’aumentata sensibilità del pubblico 
+nel confronto degli odori e la progressiva estensione del-
+le aree urbanizzate che in molti casi si porta a ridosso 
+delle aree industriali generando situazioni conflittuali sul 
+territorio;
+• sempre più frequentemente dai cittadini vengono lamen-
+tate situazioni di disagio causate da emissioni odorigene 
+generate da alcune tipologie di attività produttive;
+• gli operatori d’altro canto devono gestire tale problema-
+tica in assenza di strumenti idonei ad oggettivare, per 
+quanto possibile, il disagio arrecato e di definire un inter-
+vallo di tollerabilità che permetta conseguentemente di 
+poter con efficacia ed evidenza mettere in campo quelle 
+azioni tali da ricondurre le emissioni di odore all’interno di 
+tale intervallo;
+Dato atto che:
+• con decreto n. 6554 del Direttore generale della D.G. Qua-
+lità dell’Ambiente del 18 giugno 2007 è stato costituito un 
+gruppo di lavoro per la redazione delle linee guida per la 
+caratterizzazione e l’autorizzazione delle emissioni gasso-
+se in atmosfera derivanti dalle attività aventi un impatto 
+odorigeno provenienti da fonti stazionarie con particolare 
+riferimento ai valori di tollerabilità, ai metodi di campio-
+namento, controllo e validazione dei dati e alle migliori 
+tecniche disponibili per ridurre le emissioni medesime,
+• a tale gruppo di lavoro, hanno partecipato componenti 
+sia appartenenti alle diverse Direzioni generali interessate 
+che professionalità esterne alla Regione in quanto la spe-
+cificità della tematica necessita di apporto tecnico-scien-
+tifico di operatori in diversi settori sia pubblici che privati;
+• i lavori di tale gruppo, dopo il 2007, sono proseguiti nel-
+la forma di tavolo di coordinamento al fine di permettere 
+una più ampia partecipazione;
+• dopo attenti studi sia di carattere scientifico, sia riguar-
+danti la normativa e le regole utilizzate per l’approccio al-
+la problematica in altri paesi europei ed anche a seguito 
+di attente valutazioni delle ricadute sul sistema produttivo 
+lombardo, a fine anno 2009 sono state pubblicate sul sito 
+internet della Direzione generale Ambiente, Energia e Reti, 
+la prima bozza delle linee guida per la caratterizzazione e 
+l’autorizzazione delle emissioni gassose in atmosfera delle 
+attività ad impatto odorigeno, al fine di acquisire pareri 
+ed osservazioni dal più ampio numero di stakeholders;
+• le osservazioni ricevute sono state valutate dalle strutture 
+regionali con il supporto di ARPA Lombardia e nella sedu-
+ta del Tavolo del 21 luglio 2011 sono state licenziate nella 
+versione definitiva;
+• dal 15 settembre 2011 tale ultima versione è stata pubbli-
+cata sul sito internet della D.G. Ambiente, Energia e Reti 
+e si è provveduto a notiziare, anche attraverso momenti 
+pubblici di confronto, tutti gli operatori interessati;
+Preso atto che:
+• le linee guida licenziate dal GdL hanno un carattere tra-
+sversale e contengono tutta una serie di regole finalizzate 
+ad uniformare, oggettivare per quanto possibile e rendere 
+comparabili gli studi volti alla caratterizzazione delle emis-
+sioni odorigene;
+• da tali linee guida generali potranno discendere degli atti 
+di indirizzo di tipo «verticale» per l’applicazione a singole 
+attività produttive, prevedendo degli approcci anche volti 
+alla semplificazione delle modalità attuative;
+• tali linee guida prevedono un piano di lavoro volto alla 
+raccolta dei dati riscontrati sul territorio al fine di addiveni-
+re alla determinazione di soglie di tollerabilità compatibili 
+con la situazione lombarda;
+• le linee guida si applicano, qualora sia necessario carat-
+terizzare l’emissione odorigena, alle attività soggette alla 
+normativa in materia di Valutazione d’Impatto Ambientale 
+(VIA), Autorizzazione Integrata Ambientale (AIA) ed auto-
+rizzazione alla gestione di rifiuti;
+• le linee guida rappresentano un valido strumento di lavo-
+ro per gli operatori del settore;
+• le presenti linee guida, rappresentando una sostanziale 
+novità e che pertanto per la loro puntuale applicazione 
+è necessario prevedere un congruo periodo tra la pub-
+blicazione e l’entrata in vigore al fine di permettere agli 
+operatori del settore di acquisire una adeguata dimesti-
+chezza con il nuovo approccio;
+• per le attività zootecniche, ove vi è una oggettiva difficoltà 
+per la stima e la caratterizzazione delle emissioni odorige-
+ne, e che sono già interessate da una serie di azioni volte 
+alla riduzione delle emissioni in atmosfera, sarà necessa-
+rio prevedere degli approcci specifici che tengano in op-
+portuna considerazione la peculiarità del settore;
+Valutato condivisibile il contenuto degli elaborati prodotti 
+dal GdL;
+Considerata pertanto la necessità di approvare tali docu-
+menti al fine della definizione di regole comuni per l’approc-
+cio alla problematica emissioni odorigene;
+Ad unanimità dei voti espressi nelle forme di legge;
+DELIBERA
+Per le motivazioni espresse in premessa:
+1. di approvare, in via sperimentale, le linee guida generali 
+per la caratterizzazione delle emissioni gassose in atmosfera 
+delle attività ad impatto odorigeno così come definite nell’al-
+legato A) a sua volta costituito dai sub-allegati 1), 2), 3) e 4), 
+parti integranti e sostanziali del presente provvedimento;
+2. di stabilire che, decorsi tre anni dalla adozione delle pre-
+senti linee giuda, la Giunta individua i limiti di tollerabilità in 
+termini di presenza odorigena caratteristici a seconda della 
+vocazione del territorio regionale da applicare alle attività 
+soggette alla normativa in materia di Valutazione d’Impatto 
+Ambientale (VIA), Autorizzazione Integrata Ambientale (AIA) e 
+autorizzazione alla gestione di rifiuti;
+3. di demandare alle Direzioni generali competenti l’emana-
+zione specifici provvedimenti per l’applicazione dalle presen-
+ti linee guida, anche in forma semplificata, a singole attività 
+produttive;
+4. di precisare che per la attività zootecniche, entro un an-
+no dalla pubblicazione sul Bollettino Ufficiale della Regione 
+Lombardia della presente deliberazione, la Direzione Generale 
+Agricoltura emanerà un atto specifico, con il raccordo della 
+Direzione Ambiente, Energia e Reti, per la puntuale applicazio-
+ne delle presenti linee guida a tale comparto;
+
+===== p.1 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 19 –
+5. di disporre che le presenti linee guida siano adottabili, 
+nell’ambito delle procedure di cui al punto due, avviate dopo 
+180 giorni dalla adozione delle presente deliberazione;
+6. di disporre infine la pubblicazione del presente provvedi-
+mento sul Bollettino Ufficiale della Regione Lombardia.
+Il segretario: Marco Pilloni
+——— • ———
+
+===== p.2 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 20 –
+Bollettino Ufficiale
+ALLEGATO A
+Linea guida per la caratterizzazione e l’autorizzazione  
+delle emissioni gassose in atmosfera delle attività ad impatto odorigeno
+1.	 Premessa
+Le sostanze odorigene emesse da attività antropiche possono limitare fortemente l’utilizzo del territorio.
+Pertanto, associare alle emissioni di sostanze inquinanti in atmosfera, oltre che dei limiti in concentrazione, anche dei limiti che ne 
+caratterizzino l’impatto odorigeno, nasce dalla necessità di far sì che attività con rilevanti flussi osmogeni non ostacolino la fruibilità del 
+territorio coerentemente con quanto previsto dalle pianificazioni adottate.
+L’impatto odorigeno viene generalmente misurato a partire dai dati di concentrazione di odore espressa in unità odorimetriche 
+o olfattometriche al metro cubo (ouE/m3) che rappresentano il numero di diluizioni necessarie affinché il 50% degli esaminatori non 
+avverta più l’odore del campione analizzato (UNI EN 13725:2004).
+Ai fini di un’adeguata tutela della salute degli esaminatori è necessario escludere, tramite caratterizzazione analitica del campione, 
+la presenza di sostanze chimiche per cui la classificazione normativa, o anche la sola bibliografia scientifica, non ha definito una chia-
+ra soglia di tossicità e per le quali non è pertanto possibile individuare la soglia di diluizione del campione oltre la quale l’esaminatore 
+possa essere esposto a tali sostanze senza far ipotizzare o addirittura arrecare danno alla sua salute.
+Solo nell’eventualità si sia esclusa la presenza, anche in tracce, di tali sostanze, tramite analisi di primo livello, potrà essere fatto ricor-
+so agli esaminatori per la valutazione dell’impatto odorigeno.
+In armonia con quanto previsto dal d.lgs. 81/08, i soggetti esaminatori dovranno comunque essere sottoposti a sorveglianza 
+sanitaria.
+La presente linea guida è volta a dare delle indicazioni circa la caratterizzazione delle emissioni odorigene, il loro confinamento, la 
+necessità di prevedere dei sistemi di depurazione e le prestazioni che tali sistemi dovranno garantire al fine di armonizzare la coesisten-
+za delle attività osmogene con il territorio circostante.
+2.	 Normativa di riferimento
+La normativa italiana in materia di Valutazione d’impatto ambientale, contenuta nel Decreto Legislativo 3 aprile 2006, n. 152 e s.m.i., 
+parte seconda prevede che:
+• Art. 22. – (Studio di impatto ambientale) comma 3: “Lo studio di impatto ambientale contiene…” lett. b) “una descrizione delle 
+misure previste per evitare, ridurre e possibilmente compensare gli impatti negativi rilevanti” lett. c) “i dati necessari per individuare 
+e valutare i principali impatti sull’ambiente e sul patrimonio culturale che il progetto può produrre…”
+La normativa inerente l’Autorizzazione Integrata Ambientale, decreto legislativo 3 aprile 2006, n. 152 e s.m.i., parte seconda, prevede che:
+• Art. 4. “Finalità”, comma 4., lettera c) “L’autorizzazione integrata ambientale ha per oggetto la prevenzione e la riduzione integrate 
+dell’inquinamento proveniente dalle attività di cui all’allegato VIII e prevede misure intese ad evitare, ove possibile, o a ridurre 
+le emissioni nell’aria, nell’acqua e nel suolo, comprese le misure relative ai rifiuti, per conseguire un livello elevato di protezione 
+dell’ambiente...”
+• Art. 5. “Definizioni” comma 1. Ai fini del presente decreto si intende per:
+i-bis) sostanze: gli elementi chimici e loro composti, escluse le sostanze radioattive di cui al decreto legislativo 17 marzo 1995, n. 
+230, e gli organismi geneticamente modificati di cui ai decreti legislativi del 3 marzo 1993, n. 91 e n. 92;
+i-ter) inquinamento: l’introduzione diretta o indiretta, a seguito di attività umana, di sostanze, vibrazioni, calore o rumore o più in 
+generale di agenti fisici, nell’aria, nell’acqua o nel suolo, che potrebbero nuocere alla salute umana o alla qualità dell’ambiente, 
+causare il deterioramento di beni materiali, oppure danni o perturbazioni a valori ricreativi dell’ambiente o ad altri suoi legittimi usi;
+Infine la normativa in materia di gestione dei rifiuti, Titolo I della parte quarta del d.lgs. 152/06 all’art. 177 “Campo d’applicazione” 
+comma 4, riporta:
+• “I rifiuti sono gestiti senza pericolo per la salute dell’uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizio 
+all’ambiente e, in particolare… … senza causare inconvenienti da rumori o odori…”
+3.	Campo di applicazione
+Secondo quanto sopra riportato si precisa che la presente linea guida trova applicazione a tutte le attività che, durante il loro eser-
+cizio, danno luogo ad emissioni odorigene e che sono soggette ad autorizzazione integrata ambientale (d.lgs. 152/06 e s.m.i. - parte 
+seconda) o ad autorizzazione alla gestione dei rifiuti (d.lgs. 152/06 e s.m.i. - parte quarta). Inoltre la presente linea guida si applica 
+a tutte le attività sottoposte a valutazione d’impatto ambientale o a verifica di assoggettabilità da cui possono derivare emissioni 
+odorigene.
+4.	 Considerazioni specifiche
+Generalmente secondo i Piani di Governo del Territorio lo stesso può essere suddiviso in:
+• agricolo;
+• residenziale;
+• commerciale e/o artigianale;
+• industriale;
+Pertanto, a seconda della zona in cui l’impianto viene a trovarsi, una data intensità del disturbo può limitare o meno l’utilizzo dell’a-
+rea interessata. Infatti in una zona residenziale dove vi sono delle attività antropiche per periodi prolungati, la sola percezione dell’o-
+dore può limitare fortemente la fruibilità degli spazi, mentre in una zona agricola la presenza di un moderato disturbo olfattivo non 
+impedisce che l’area possa essere utilizzata.
+Dato che la concentrazione dell’odore che insiste su un’area è influenzata non solo dalla portata emessa ma anche dalla orografia 
+e dalla meteorologia non è possibile associare un limite alle emissioni dell’attività senza tener conto di questi fattori.
+Al fine di eseguire una caratterizzazione delle emissioni odorigene, il progettista di un nuovo impianto o di una modifica sostanziale 
+con ripercussioni sulle emissioni odorigene o in caso di conclamate problematiche olfattive, deve, partendo da dati di bibliografia o 
+da esperienze consolidate o da indagini mirate, ricercare tutte le possibili fonti di disturbo olfattivo, associare a queste fonti una porta-
+ta d’odore (ouE/s) e, sulla base dei dati metereologici basati sulle specifiche riportate nell’allegato 1 e l’orografia del territorio, utilizzare 
+
+===== p.3 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 21 –
+un modello di dispersione con le caratteristiche date sempre dall’allegato 1, per verificare quale sarà l’entità del disturbo olfattivo 
+provocato nel raggio di 3 km dai confini dello stabilimento sui ricettori presenti in questa area.
+5.	 Criteri di valutazione
+A partire dai risultati della simulazione il progettista dovrà adottare gli accorgimenti tali da far si che l’odore provocato dall’attività 
+non vada ad impattare in maniera significativa sulla zona interessata dalle emissioni odorigene e soprattutto che non ne pregiudichi 
+l’utilizzo in accordo con lo strumento di programmazione territoriale. Dovranno essere redatte delle mappe di impatto dove devono 
+essere riportati i valori di concentrazione orarie di picco di odore al 98° percentile su base annuale, così come risultanti dalla simula-
+zione, a 1, 3 e 5 ouE/m3.
+Si tenga presente che all’:
+• 1 ouE/m3 il 50% delle popolazione percepisce l’odore;
+• 3 ouE/m3 l’85% delle popolazione percepisce l’odore;
+• 5 ouE/m3 il 90-95% delle popolazione percepisce l’odore.
+La valutazione deve tener conto del territorio e la presenza di potenziali recettori che vi insistono e delle caratteristiche del fondo.
+Verificato l’impatto odorigeno dell’attività sul territorio circostante, andranno caratterizzate le sezioni dell’impianto che causano 
+emissioni odorigene e giustificato un loro eventuale mancato confinamento. Andranno inoltre valutate le prestazioni a carico dei siste-
+mi di abbattimento necessari per raggiungere i risultati calcolati.
+In caso di nuovo impianto in base alle caratteristiche delle emissioni e delle prestazioni da raggiungere (portata massima oraria di 
+odore dello stabilimento) il progettista sceglie il sistema di trattamento degli effluenti opportuno per singolo punto di emissione e indi-
+ca il valore di portata di odore massimo che può essere emesso dalla singola emissione tale che, sommando tutte le emissioni dello 
+stabilimento, venga garantito il rispetto dei risultati della simulazione.
+Il progetto dovrà essere corredato delle indicazioni tecniche e gestionali necessarie a garantire l’efficienza prevista per i sistemi di 
+abbattimento, la frequenza delle manutenzioni e gli strumenti atti a verificare il corretto funzionamento del processo e degli impianti 
+di abbattimento.
+6.	Autorizzazione
+Tutte le istanze di autorizzazione o gli studi di impatto ambientale (compresa la documentazione per la verifica di assoggettabilità 
+a Valutazione di Impatto Ambientale) per nuove attività o per modifiche che influenzano in modo significativamente peggiorativo 
+le emissioni odorigene di impianti esistenti dovranno essere corredate da una caratterizzazione delle emissioni odorigene eseguita 
+concordemente con quanto riportato nella presente linea guida. Nel caso in cui si vogliano utilizzare approcci alternativi, dovrà essere 
+dimostrato il conseguimento almeno degli stessi standard di protezione dell’ambiente.
+Nell’autorizzazione che verrà rilasciata, tenuto conto delle assunzioni progettuali, l’autorità competente indicherà le emissioni odo-
+rigene che dovranno essere convogliate e quelle che potranno rimanere diffuse. Saranno indicate, nell’autorizzazione, le prescrizioni, 
+sia gestionali sia tecniche, che il gestore dovrà attuare per eliminare o ridurre le emissioni olfattive, le prestazioni espresse in portata di 
+odore e le modalità di controllo secondo l’allegato 2.
+7.	Impianti esistenti
+Le presenti linee guida non si applicano ad attività già in essere al momento della loro entrata in vigore e neanche in occasione dei 
+rinnovi di autorizzazione c.d. tal quali. Trovano applicazione ad impianti esistenti, che non apportano modifiche al proprio ciclo produt-
+tivo, in caso di conclamate problematiche olfattive che interessano il territorio. In tal caso si attuano le procedure di seguito riportate e 
+si articola in una strategia predefinita a quattro fasi, dove ciascuna di esse si attiva a seguito di definiti presupposti e ciascuna di esse 
+produce risultati interpretabili e confrontabili con le basi individuate nel paragrafo “Criteri di valutazione”.
+Tale procedura potrà essere adottata anche nel caso di nuovi impianti che, a seguito della messa a regime, diano luogo a proble-
+matiche odorigene.
+7.1.	 Fase A
+La prima fase di indagine si attiva ogni qualvolta ci siano ricorrenti e significative segnalazioni di disturbo olfattivo da parte della po-
+polazione residente nel territorio circostante l’insediamento produttivo. Il Sindaco del Comune interessato dal disturbo, che potrebbe 
+anche non essere il Comune in cui è posto l’insediamento produttivo, nella sua veste di primo interlocutore della popolazione, racco-
+glie le segnalazioni, verifica la fonte del disturbo olfattivo e prende contatti con il Gestore al fine di verificare se tale disturbo sia causato 
+da problematiche impiantistiche/gestionali che possano essere risolte in breve tempo.
+Qualora tale disturbo derivi da una attività rientrante nel campo d’applicazione della presente linea guida il Sindaco del Comune 
+ove è ubicata l’attività procede a verificare la situazione dell’azienda dal punto di vista amministrativo (effettuazione di DIAP, eventuale 
+possesso di Nulla Osta, esistenza autorizzazioni e/o eventuali atti quali ordinanze a carico dell’azienda …).
+Dopo aver accertato la regolarità amministrativa, il Sindaco istituisce un tavolo di confronto a cui sono chiamati a partecipare il 
+gestore dell’impianto, l’autorità competente al rilascio delle autorizzazioni ambientali, ARPA e ASL.
+• Nel caso si convenga che i disturbi segnalati siano determinati da situazioni eccezionali, con la conseguente individuazione 
+delle cause specifiche, non verrà avviato il monitoraggio sistematico del disturbo olfattivo ma verranno messe a verbale le cause 
+che hanno determinato il disagio e gli interventi da mettere in campo per evitare che possa ripetersi e, qualora necessario, si 
+procederà ad un aggiornamento/riesame dell’autorizzazione.
+• Nel caso emerga che sussistano le condizioni per un approfondimento del tema, e che le segnalazioni non siano attribuibili ad 
+eventi eccezionali o ad avarie tecniche contingenti, si avvierà un monitoraggio sistematico della percezione del disturbo olfattivo 
+presso la popolazione residente. Le modalità di conduzione di tale indagine sono riportate nell’allegato 3.
+I rapporti con i cittadini, l’illustrazione dell’indagine, la raccolta delle segnalazioni, la salvaguardia della privacy, saranno tenu-
+ti dall’Amministrazione Comunale, la quale provvederà a trasmetterli ad un eventuale soggetto tecnico incaricato della loro 
+elaborazione.
+Nel caso in cui si decida di attivare un monitoraggio sistematico della percezione olfattiva avvertita dalla popolazione residente, i 
+risultati dell’indagine, oltre a rispettare i requisiti tecnici dell’allegato 3, dovranno riportare il numero degli episodi/mese attribuibili a 
+
+===== p.4 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 22 –
+Bollettino Ufficiale
+specifiche origini derivanti dalle attività produttive. Se gli episodi/mese supereranno per durata il 5% del numero di ore monitorate, ver-
+rà avviata la fase B; in caso contrario, se inferiori a tali limiti, gli episodi di disturbo saranno considerati come tollerabili.
+7.2.	 Fase B
+La fase B costituisce la verifica dell’impatto olfattivo caratterizzando le fasi che generano queste emissioni.
+Ad essa si perviene dopo un preliminare accertamento della sussistenza di elementi di disagio presso la popolazione che giustifica-
+no l’investimento di risorse per lo svolgimento di questa fase di indagine (fase A).
+Questa fase di indagine si attua tramite:
+• l’attività di controllo descritta nell’allegato 2 e l’applicazione modellistica descritta nell’allegato 1;
+• l’eventuale determinazione analitica delle specie chimiche presenti nelle emissioni nelle differenti condizioni stagionali e di mar-
+cia, se ritenuto necessario dalle conclusioni della Fase A, seguendo le indicazioni contenute nell’allegato 4;
+• il confronto dei dati derivanti dal modello con i dati raccolti nella fase A di indagine a conferma della correttezza del modello 
+utilizzato (allegato 3).
+L’indagine relativa allo svolgimento della fase B, oltre ad attenersi ai requisiti tecnici indicati, dovrà concludersi con la definizione, 
+attraverso le risultanze della simulazione del modello di dispersione, della rappresentazione delle linee di iso concentrazione orarie di 
+picco di odore al 98° percentile, espresse in ouE/m3 come riportato nel paragrafo “Criteri di valutazione”.
+Si passa a verificare se vi sono dei recettori con un carico odorigeno elevato e in tal caso si determina l’avvio della fase C, preminen-
+temente impiantistica e mirata all’esame critico dei presidi tecnici e delle modalità organizzative in atto presso l’azienda.
+L’assegnazione dell’incarico per lo svolgimento della fase B deve essere immediatamente successivo al responso negativo emerso 
+nella fase A. L’assegnazione dell’incarico all’esecutore tecnico deve essere fatto dal Gestore dell’impianto e dovrà dar prova di poter 
+rispettare le presenti linee guida. L’incarico per l’esecuzione delle diverse fasi di indagine (olfattometrica, chimica e modellistica), in 
+considerazione delle complessità e specializzazioni coinvolte, può essere affidato a diversi soggetti, i quali, però, risultino coordinati tra 
+loro con l’emissione di un’unica relazione finale.
+Nel caso in cui si evidenzi il rispetto dei criteri previsti riportati nel paragrafo “Criteri di valutazione” si procederà ad un aggiornamento 
+dell’autorizzazione prescrivendo il rispetto del limite della portata d’odore così come calcolata dalla simulazione numerica effettuata.
+7.3.	 Fase C
+Nel caso l’azienda provochi al ricettore un impatto eccessivo dalla fase B, si provvederà ad un riesame dell’autorizzazione. In tale 
+ambito sarà chiesto al gestore dell’attività di presentare un piano d’adeguamento per il rispetto criteri previsti dalla presente linea 
+guida che dovrà contenere le azioni tecniche e gestionali e i tempi necessari per l’adeguamento. Tale piano sarà valutato dall’auto-
+rità competente, eventualmente tenuto conto delle osservazioni delle altre amministrazioni competenti in materia ambientale e così 
+come approvato, farà parte della revisione dell’autorizzazione.
+7.4.	 Fase D
+Non è altro che la riproposizione della fase A in seguito alla realizzazione del piano d’adeguamento al fine di verificare da parte dei 
+cittadini la cessazione del disturbo olfattivo generato dall’attività.
+La strategia che viene introdotta assume quindi i connotati di un ciclo di miglioramento continuo per il rispetto degli standard con-
+tenuti nella linea guida. Il positivo superamento della fase D costituisce la riprova del corretto lavoro svolto con l’introduzione delle mo-
+difiche tecniche e organizzative al processo produttivo. Viceversa, il non superamento, conferma il non raggiungimento degli obiettivi 
+con la necessità di porre in atto i provvedimenti amministrativi e tecnici che portino alla risoluzione della problematica.
+8.	 Modifiche dei Piani di Governo del Territorio
+Nel caso in cui nel raggio di 500 m da un insediamento produttivo con emissioni odorigene sia prevista, o sia stata prevista, la va-
+riazione dello strumento di governo del territorio o dello stato di fatto introducendo dei nuovi ricettori, il proponente della variazione, in 
+sede di valutazione del piano urbanistico, dovrà considerare anche l’interazione con l’attività esistente e valutare l’impatto odorigeno 
+a carico dei nuovi ricettori prevedendo, sempre a cura del proponente della variazione, delle mitigazioni se i nuovi ricettori risulteranno 
+interessati dalle emissioni olfattive.
+9.	Revisione delle linee guida
+Al fine di poter definire dei valori di accettabilità di presenza di odore a seconda del territorio analizzato tutti gli studi di impatto 
+odorigeno dovranno essere messi a disposizione di Regione Lombardia anche attraverso l’invio all’indirizzo email “IPPC_AIA@regione.
+lombardia.it”. I dati relativi alla società che ha elaborato lo studio, il Comune interessato e il tipo di attività a cui si riferisce saranno 
+pubblicati sul sito internet della Direzione Generale Ambiente, Energia e Reti.
+Nel momento in cui Regione avrà acquisito un rilevante numero di studi, prevedibilmente entro tre anni dall’emanazione delle se-
+guenti linee guida, istituirà un gruppo di lavoro in cui saranno presenti sia rappresentanti degli Enti territoriale sia del mondo produttivo 
+che del mondo scientifico, al fine di mettere a fattor comune le esperienze maturate e di definire dei limiti di accettabilità delle emissio-
+ni odorigene e revisionare le presenti linee guida.
+10.	
+Allegati
+Allegato 1 - Requisiti degli studi di impatto olfattivo mediante simulazione di dispersione
+Allegato 2 - Campionamento olfattometrico
+Allegato 3 - Strategia di valutazione della percezione del disturbo olfattivo da parte della popolazione residente
+Allegato 4 - Caratterizzazione chimica delle emissioni odorigene
+——— • ———
+
+===== p.5 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 23 –
+ALLEGATO 1
+Linea guida per la caratterizzazione delle emissioni gassose in atmosfera dell’attività ad impatto odorigeno
+Requisiti degli studi di impatto olfattivo mediante simulazione di dispersione
+1.	Scopi e campo di applicazione
+Il presente documento definisce un insieme di requisiti che devono essere considerati nella redazione dello studio di impatto ol-
+fattivo mediante simulazione di dispersione, nell’ambito dei procedimenti amministrativi previsti dal documento “Linea guida per la 
+caratterizzazione delle emissioni gassose in atmosfera delle attività ad impatto odorigeno”. In particolare i requisiti definiti nel presente 
+documento si applicano:
+• agli studi di impatto olfattivo allegati alle istanze di autorizzazione;
+• agli studi di impatto olfattivo realizzati per ottenere scenari di impatto da confrontare con le segnalazioni di disturbo olfattivo 
+pervenute dalla popolazione; in questo caso non si applicheranno di conseguenza alcuni requisiti in merito all’estensione del 
+dominio temporale di simulazione (§ 4.5), alla definizione della griglia di ricettori di calcolo (§ 6), alla scelta dei ricettori sensibili (§ 
+7) e alla presentazione dei risultati (§ 14.2 e § 14.3), poiché si dovrà dedurre tali elementi dalle caratteristiche delle segnalazioni 
+di disturbo pervenute.
+Il presente documento si applica esclusivamente alle simulazioni di dispersione aventi le caratteristiche seguenti:
+• l’inquinante di cui è simulata la dispersione e di cui quindi è interesse valutare l’impatto sulla qualità dell’aria ambiente è l’odore 
+espresso in termini di concentrazione di odore, definita in conformità alla UNI EN 13725:2004;
+• per le ipotesi e le limitazioni assunte nella UNI EN 13725:2004, l’odore (in termini di concentrazione di odore) è assimilabile, 
+nell’ambito delle simulazioni di dispersione, ad un’unica pseudo-specie che si disperde nell’atmosfera in forma gassosa (quindi 
+non particellare); pertanto nelle simulazioni di dispersione oggetto del presente documento sono esclusi gli effetti di deposizione 
+gravitazionale;
+• lo scenario di dispersione è il cosiddetto “campo aperto” (ad esempio: emissioni di impianti industriali in zona industriale o agrico-
+la); il presente documento non si applica alle simulazioni di dispersione in ambito marcatamente urbano (ad esempio: emissioni 
+da attività di ristorazione che producono disturbo olfattivo presso le adiacenti abitazioni civili).
+2.	Riferimenti normativi
+• UNI EN 13725:2004 “Qualità dell’aria. Determinazione della concentrazione di odore mediante olfattometria dinamica”.
+• UNI 10796:2000 “Valutazione della dispersione in atmosfera di effluenti aeriformi. Guida ai criteri di selezione dei modelli matematici”.
+• UNI 10964:2001 “Studi di impatto ambientale. Guida alla selezione dei modelli matematici per la previsione di impatto sulla qua-
+lità dell’aria”.
+3.	Dati di emissione
+3.1	
+Criteri per l’individuazione delle sorgenti da considerare nello scenario emissivo
+Nello scenario emissivo da impiegare nelle simulazioni per la stima dell’impatto olfattivo devono essere considerate tutte le emis-
+sioni dell’impianto oggetto dello studio (convogliate, diffuse o fuggitive) per le quali la portata di odore sia maggiore di 500 ouE/s, ad 
+eccezione delle sorgenti per le quali, quale che sia la portata volumetrica emessa, la concentrazione di odore massima sia inferiore 
+a 80 ouE/m3.
+Sono da considerare fra le emissioni diffuse anche le seguenti:
+• le emissioni dei materiali potenzialmente odorigeni che siano stoccati o depositati temporaneamente (per periodi di almeno 6 
+ore consecutive e per almeno l’1% delle ore l’anno) in ambienti non confinati, ivi inclusi i piazzali coperti;
+• le emissioni delle vasche di stoccaggio o trattamento reflui prive di copertura e di sistema di aspirazione dell’aria, ivi incluse le 
+eventuali canalizzazioni scoperte.
+Sono da considerare fra le emissioni fuggitive anche le seguenti:
+• le emissioni dei locali (anche confinati ma privi di sistema di aspirazione dell’aria) ove siano stoccati materiali potenzialmente 
+odorigeni o siano eseguite lavorazioni o trattamenti potenzialmente odorigeni;
+• le emissioni delle vasche di stoccaggio o trattamento reflui interrate, ivi incluse le eventuali canalizzazioni;
+• le emissioni delle vasche fuori terra coperte ma prive di sistema di aspirazione dell’aria;
+• le emissioni degli sfiati dei serbatoi.
+Emissioni diffuse e fuggitive appartenenti alle tipologie sopra elencate possono essere escluse dallo scenario emissivo solo se la 
+portata di odore e/o la concentrazione di odore dell’emissione siano inferiori ai valori di soglia sopra specificati, purché siano detta-
+gliate le ipotesi o le misurazioni o i dati tratti dalla letteratura scientifica che sono a fondamento dei valori di portata e/o concentrazio-
+ne di odore adottati per giustificare l’esclusione.
+3.2	
+Criteri per la caratterizzazione delle sorgenti secondo la morfologia
+3.2.1	
+Sorgenti convogliate puntiformi
+Le informazioni necessarie alla caratterizzazione delle sorgenti puntiformi (es.: camini di espulsione) che devono essere riportate 
+nella relazione di presentazione dello studio sono le seguenti.
+• Portata volumetrica (espressa in Nm3/h e anche, come previsto in UNI EN 13725:2004 § 9.3, in m/s a 20 °C).
+• Concentrazione di odore (vedasi § 3.3).
+• Portata di odore (espressa in ouE/s e calcolata come previsto in UNI EN 13725:2004 § 9.3). Qualora nelle simulazioni sia conside-
+rata una portata di odore variabile nel tempo (§ 3.3), devono essere fornite le informazioni necessarie a ricostruire il valore della 
+portata di odore per ogni ora del dominio temporale di simulazione.
+• Coordinate geografiche (vedasi § 5).
+• Quota altimetrica del suolo alla base della sorgente.
+• Altezza del punto di emissione (sezione di sbocco in atmosfera) rispetto al suolo.
+
+===== p.6 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 24 –
+Bollettino Ufficiale
+• Area della sezione di sbocco.
+• Velocità e temperatura dell’effluente nella sezione di sbocco impiegate per il calcolo degli effetti di innalzamento del pennac-
+chio, nonché eventuali correzioni o fattori di correzione applicati negli algoritmi di innalzamento del pennacchio (vedasi § 3.6).
+3.2.2	
+Sorgenti convogliate areali
+Le informazioni necessarie alla caratterizzazione delle sorgenti convogliate areali (es.: biofiltri) che devono essere riportate nella 
+relazione di presentazione dello studio sono le seguenti.
+• Portata volumetrica (espressa sia in Nm3/h e che in m/s a 20 °C); si assuma come portata volumetrica dell’effluente la portata 
+volumetrica addotta alla sorgente areale (per esempio, per un biofiltro è la portata volumetrica a monte di questo).
+• Concentrazione di odore (vedasi § 3.3).
+• Portata di odore (espressa in ouE/s e calcolata come previsto in UNI EN 13725:2004 § 9.3). In merito alle variazioni nel tempo, si 
+veda quanto specificato a proposito delle sorgenti convogliate puntiformi.
+• Coordinate geografiche (vedasi § 5), come introdotte nelle simulazioni. Ad esempio, se la sorgente convogliata areale è model-
+lizzata come tale, devono essere fornite le coordinate dei vertici; se è modellizzata mediante la giustapposizione di un numero di 
+sub-sorgenti puntiformi, devono essere fornite le coordinate e le dimensioni di ciascuna sub-sorgente.
+• Quota altimetrica del suolo alla base della sorgente.
+• Altezza del punto di emissione rispetto al suolo; per un biofiltro è il colmo della struttura di contenimento del letto biofiltrante, che 
+è maggiore dell’altezza della superficie superiore del letto biofiltrante.
+• Area della sezione di sbocco.
+• Velocità e temperatura dell’effluente nella sezione di sbocco impiegate per il calcolo degli effetti di innalzamento del pennac-
+chio, nonché eventuali correzioni o fattori di correzione applicati negli algoritmi di innalzamento del pennacchio (vedasi § 3.6).
+3.2.3	
+Sorgenti diffuse (non convogliate) areali
+Le informazioni necessarie alla caratterizzazione delle sorgenti diffuse areali, nominate anche sorgenti areali passive o prive di flusso 
+proprio (es.: vasche di trattamento reflui o cumuli di materiale), che devono essere riportate nella relazione di presentazione dello stu-
+dio sono le seguenti.
+• Flusso specifico di odore (portata superficiale di odore, SOER), espresso in ouE/(m2 s), determinabile sperimentalmente come 
+specificato nell’allegato 2. Circa la definizione del flusso specifico di odore sulla base dei risultati di monitoraggi olfattometrici, si 
+applicano considerazioni analoghe a quelle valide per la concentrazione di odore (vedasi § 3.3).
+• Area della superficie emissiva esposta all’atmosfera. Per le sorgenti liquide, essa è l’area della superficie liquida. Per le sorgenti 
+solide, è l’area della superficie effettivamente esposta all’atmosfera; per esempio, nel caso di cumuli di materiale l’area esposta 
+è maggiore dell’area occupata dal cumulo in planimetria.
+• Portata di odore (espressa in ouE/s e calcolata dalla SEOR e dall’area della superficie emissiva come specificato nell’allegato 2. 
+In merito alle variazioni nel tempo, si veda quanto specificato a proposito delle sorgenti convogliate puntiformi. A questo si ag-
+giunga che nel caso delle sorgenti diffuse areali è sistematica la dipendenza della portata di odore dalle condizioni atmosferiche 
+(particolarmente dalla velocità del vento, vedasi § 3.3 e 3.5). Per questo, ove si scelga di simulare l’emissione mediante un valore 
+di portata di odore unico costante su tutto il dominio temporale di simulazione, le condizioni ambientali nelle quali misurare o 
+calcolare la portata di odore dovrebbero essere quelle relative ad una condizione ambientale sfavorevole sebbene non pessima: 
+un valore costante per la portata di odore potrebbe cautelativamente essere definito nelle condizioni di vento corrispondenti al 
+95° percentile delle velocità del vento orarie.
+• Coordinate geografiche (vedasi § 5), come introdotte nelle simulazioni. Valgono in questo senso considerazioni analoghe a quel-
+le rese a proposito delle sorgenti convogliate areali.
+• Quota altimetrica del suolo alla base della sorgente.
+• Altezza del punto di emissione rispetto al suolo; per una vasca è il colmo della struttura di contenimento del liquido, che è mag-
+giore dell’altezza del pelo libero del liquido stesso; per un cumulo essa è posta convenzionalmente pari alla metà dell’altezza del 
+colmo del cumulo stesso.
+• Velocità e temperatura dell’effluente nella sezione di sbocco impiegate per il calcolo degli effetti di innalzamento del pennac-
+chio, nonché eventuali correzioni o fattori di correzione applicati negli algoritmi di innalzamento del pennacchio (vedasi § 3.6).
+3.2.4	
+Sorgenti diffuse volumetriche
+Allo stato attuale dell’arte, la caratterizzazione delle sorgenti volumetriche (es.: capannoni con portelloni o finestrature aperti; locali 
+di ricovero capi di allevamento con ricircolo naturale dell’aria) è problematica e non è possibile stabilire delle linee guida condivise.
+Ad ogni modo, quali che siano le scelte adottate dall’esecutore dello studio di impatto, dovranno essere forniti nella relazione di pre-
+sentazione dello studio, oltre ai criteri fondanti delle predette scelte, i dati e le informazioni che siano sufficienti all’Autorità competente 
+per ricostruire le simulazioni, quali per esempio:
+• Volume interno del locale da cui l’aeriforme odorigeno diffonde all’esterno.
+• Dimensioni del manufatto da cui l’aeriforme odorigeno diffonde all’esterno, se queste influenzano la portata di odore diffusa 
+all’esterno (per esempio modificando il campo di moto del vento tramite la conformazione aerodinamica del manufatto stesso).
+• Portata di odore (espressa in ouE/s). In merito alle variazioni nel tempo, si veda quanto specificato a proposito delle sorgenti 
+convogliate puntiformi.
+• Coordinate geografiche (vedasi § 5) della sorgente o del sistema di sorgenti che simula l’emissione.
+• Quota altimetrica del suolo alla base della sorgente.
+• Altezza del punto di emissione rispetto al suolo; per sistemi complessi di sorgenti, si devono fornire le necessarie informazioni.
+• Velocità e temperatura dell’effluente nella sezione di sbocco impiegate per il calcolo degli effetti di innalzamento del pennac-
+chio, nonché eventuali correzioni o fattori di correzione applicati negli algoritmi di innalzamento del pennacchio (vedasi § 3.6).
+3.3	
+Definizione della concentrazione di odore di ciascuna emissione
+Quando l’obiettivo dello studio di impatto olfattivo sia la simulazione dell’impatto di un impianto e di emissioni esistenti (per esem-
+pio per confrontare l’impatto simulato di un impianto con un insieme di segnalazioni di disturbo olfattivo pervenute dalla popola-
+zione), la concentrazione di odore delle emissioni sarà scelta in modo da aderire quanto più possibile alla realtà, e quindi essa sarà 
+definita sulla base di monitoraggi olfattometrici eseguiti in passato sullo stesso impianto, tenendo conto, ove disponibili, anche delle 
+informazioni sulle variazioni del tempo della concentrazione stessa.
+
+===== p.7 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 25 –
+Quando invece l’obiettivo dello studio sia dimostrare (in particolare nell’ambito di un procedimento amministrativo di auto-
+rizzazione ambientale, sia di nuovo impianto che di modifica di un impianto esistente) che le emissioni di odore dell’impianto in 
+esame saranno compatibili con il territorio, sarà opportuno ipotizzare ed introdurre nelle simulazioni dei livelli di concentrazione di 
+odore cautelativamente maggiori o uguali a quelli empiricamente riscontrabili mediante i monitoraggi olfattometrici eseguiti nel 
+passato nel medesimo impianto (se esistente) o in impianti simili. In questi casi, inoltre, è opportuno introdurre nelle simulazioni 
+dei valori di concentrazione di odore costanti nel tempo (si veda in proposito il § 3.4), a prescindere dalle informazioni disponibili 
+circa le variazioni nel tempo della concentrazione di odore, fatte salve le variazioni nel tempo regolari e dovute a scelte delibera-
+te. Per esempio, si consideri un impianto manifatturiero con un solo turno di lavoro giornaliero (8÷17), che abbia emissione nulla 
+(ventilatori spenti) fuori dall’orario di lavoro, ma che nel corso del turno di lavoro esegua lavorazioni diverse che producano livelli 
+di concentrazione di odore variabili nel corso della settimana: nell’ambito di un procedimento di autorizzazione, sarà opportuno 
+impostare nelle simulazioni di dispersione un unico livello di concentrazione di odore (pari o superiore al maggiore dei livelli di 
+concentrazione prodotti dalle diverse lavorazioni eseguite nell’impianto), ma sarà altresì opportuno considerare emissioni nulle 
+nelle ore di fermo impianto, purché questo sia conforme a quanto dichiarato dal proponente nell’istanza di autorizzazione.
+Nel caso di studi di impatto previsionali riguardanti impianti nuovi, dati sperimentali in merito alla concentrazione di odore pre-
+vista in emissione dovrebbero essere tratti da monitoraggi eseguiti su impianti simili o da pubblicazioni scientifiche.
+In ogni caso, nella relazione di presentazione dello studio dovranno essere riportati:
+• i dati di emissione (concentrazioni di odore e portate di odore, secondo la morfologia delle sorgenti di odore) ottenuti spe-
+rimentalmente o tratti da pubblicazioni scientifiche; se sono disponibili dati sperimentali del medesimo impianto in esame, 
+dovranno essere allegati i relativi rapporti di prova; se sono disponibili dati sperimentali di impianti simili, dovrebbero allo stes-
+so modo essere allegati i relativi rapporti di prova, celando eventualmente i dati personali o sensibili qualora i monitoraggi 
+siano stati eseguiti su impianti non gestiti dal proponente; nei rapporti di prova allegati dovranno comunque essere indicati 
+data e ora di campionamento, posizioni di campionamento ed eventuali informazioni relative al processo in corso durante 
+il campionamento; se sono disponibili solo dati da pubblicazioni scientifiche, dovrà essere citata la fonte e possibilmente 
+dovrà essere allegato un opportuno estratto del documento citato;
+• le ipotesi e le elaborazioni eseguite per definire, sulla base dei risultati dei monitoraggi o di altre pertinenti evidenze speri-
+mentali, le concentrazioni di odore impiegate nelle simulazioni; per esempio, se la concentrazione di odore impiegata nella 
+simulazioni è la media delle concentrazioni di odore determinate sperimentalmente in passato, deve essere espressamente 
+indicato che è stata eseguita la media ed il motivo della scelta.
+Quanto specificato nel presente paragrafo a proposito della concentrazione di odore si applica, con i dovuti adattamenti, an-
+che alla portata di odore, ove la concentrazione di odore e la portata volumetrica siano concettualmente inscindibili, come nel 
+caso delle sorgenti diffuse areali o volumetriche.
+3.4	
+Variazioni nel tempo della portata di odore
+Variazioni nel tempo della portata di odore possono essere:
+• regolari e dovute a scelte deliberate (per esempio: fermo impianto notturno e/o festivo, ferie estive);
+• indirettamente conseguenti a scelte deliberate (per esempio: variazione dell’emissione a causa di variazioni delle condizio-
+ni di processo o dei reagenti impiegati);
+• accidentali o non controllabili (per esempio: variazione delle caratteristiche del materiale da lavorare o del rifiuto da trat-
+tare);
+• dipendenti dalle condizioni atmosferiche (per esempio: variazione della volatilizzazione delle sostanze odorigene contenute 
+in un refluo a contatto con l’atmosfera in una vasca all’aperto, per effetto di variazioni dell’intensità della turbolenza atmo-
+sferica o della temperatura); a questo proposito si veda il § 3.5.
+E’ opportuno studiare tali variazioni, in modo da definire, per ciascuna sorgente, il profilo di portata emissiva di odore (portata 
+di odore in funzione del tempo, ora dopo ora e per tutto il dominio temporale di simulazione). Eventi emissivi o picchi di emissione 
+di durata inferiore ad un’ora devono essere considerati aventi durata di un’intera ora.
+Se le variazioni della portata di odore nel tempo sono accidentali e se non è possibile definire un profilo di portata emissiva 
+effettivo reale, devono essere avanzate delle ipotesi e queste devono essere cautelative, ossia tali da condurre ad una sovrastima 
+piuttosto che a una sottostima dell’impatto olfattivo delle emissioni sul territorio.
+Quando lo studio di impatto olfattivo abbia per obiettivo la stima previsionale dell’impatto olfattivo nel contesto di un procedi-
+mento amministrativo di autorizzazione ambientale, è necessario ipotizzare che le emissioni di odore delle sorgenti convogliate 
+(puntiformi o areali a flusso proprio) siano costanti per tutto il dominio temporale di simulazione e pari al valore massimo atteso 
+dal proponente, affinché il valore limite di emissione in termini di concentrazione di odore o di portata di odore fissato dall’Autori-
+tà competente sia sempre rispettato durante la normale conduzione dell’impianto. A questo proposito si precisa che quale livello 
+unico costante di concentrazione o portata di odore da impostare per una sorgente convogliata nelle simulazioni è ragionevole 
+definire non tanto la concentrazione massima assoluta comprensiva anche di eventuali fenomeni emissivi eccezionali o molto 
+rari, ma piuttosto la concentrazione massima attesa in condizioni di pieno carico (sempreché dell’emissione in esame, oltre al 
+potenziale disturbo olfattivo, non siano noti effetti negativi sulla salute). In tal senso si può assumere indicativamente che non si-
+ano rilevanti, ai fini della definizione della concentrazione o portata di odore, gli eventi durante i quali l’emissione eccede il livello 
+massimo previsto fino ad una durata complessiva di tali eventi eccezionali pari allo 0,6% delle ore totali di un anno (ossia pari a 
+52 ore: per esempio un’ora a settimana).
+3.5	
+Calcolo della portata di odore in funzione della velocità del vento per le sorgenti diffuse areali
+Nell’allegato 2 è specificato che il campionamento olfattometrico su sorgenti diffuse (passive) areali sia da eseguire mediante 
+un sistema (“wind tunnel” o analoghi), che permetta di inviare sulla superficie emissiva una portata di aria neutra in condizioni 
+controllate (specialmente per quanto riguarda la velocità dell’aria). Ma poiché, come pure specificato nel medesimo documen-
+to, la portata di odore (OER) ed il flusso specifico di odore (SOER) dipendono dalla velocità dell’aria che lambisce la superficie, è 
+opportuno che nelle simulazioni di dispersione si tenga conto della variazione della portata di odore (o in modo equivalente del 
+flusso specifico di odore) in funzione della velocità del vento, secondo l’equazione ivi specificata. In dettaglio, la portata di odore 
+dovrà essere calcolata tramite la seguente equazione.
+OERS = OERR * ((vS/vR)^0,5)
+dove è:
+OERS	
+portata di odore alla velocità dell’aria vS;
+OERR	
+portata di odore alla velocità di riferimento vR (conosciuta durante il campionamento);
+vR	
+velocità dell’aria nella camera di ventilazione durante il campionamento olfattometrico (in generale diversa dalla 
+velocità misurata nel condotto in ingresso o in uscita del sistema “wind tunnel”, ma proporzionale a questa);
+
+===== p.8 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 26 –
+Bollettino Ufficiale
+vS	
+velocità dell’aria vicino alla superficie emissiva (indicativamente, ad una quota pari a metà dell’altezza della 
+camera di ventilazione); tale velocità può essere calcolata dalla velocità del vento alla quota dell’anemometro 
+(vH) ricorrendo alle equazioni di potenza che ipotizzano un determinato profilo di velocità del vento.
+Sarà quindi necessario calcolare un valore di OERS in funzione della velocità del vento alla quota dell’anemometro vH per ciascuna 
+ora del dominio temporale di simulazione.
+Metodi diversi da quello qui descritto per il calcolo della portata di odore in funzione delle condizioni atmosferiche cui la sorgente è 
+soggetta potranno essere adottati a seguito di evoluzioni delle conoscenze scientifiche o quando vi siano giustificati motivi per ritene-
+re il presente metodo non adatto al caso specifico in esame.
+3.6	
+Innalzamento del pennacchio (plume rise)
+Normalmente l’aeriforme emesso in atmosfera attraverso camini di espulsione (emissioni puntiformi convogliate) con sbocco ver-
+ticale diretto in atmosfera (ossia, per esempio, privi di cappelli esalatori) sono soggette al cosiddetto innalzamento del pennacchio 
+(plume rise) o più precisamente alla sua componente meccanica (momentum rise), la cui entità dovrebbe quindi essere considerata 
+nelle simulazioni per lo studio di impatto. Ove lo sbocco del camino non è diretto, ma presenta sistemi che deflettono o rallentano il 
+flusso di aeriforme, alla quota di innalzamento del pennacchio dovuta alla spinta meccanica (momentum rise) sarà da applicare un 
+fattore di riduzione, da specificare nella relazione di presentazione dello studio. Il momentum rise sarà pure da ridurre fino ad annullar-
+lo nei casi in cui lo sbocco non è verticale. Nei casi di sorgenti areali o volumetriche il momentum rise è normalmente da considerare 
+nullo, ed è quindi da disattivare nel modello di dispersione l’algoritmo che calcola tale innalzamento; per esempio, per un biofiltro, 
+benché vi sia addotta una portata volumetrica tramite un ventilatore, la velocità effettiva di espulsione sulla superficie superiore del 
+letto biofiltrante è tanto piccola da rendere trascurabile il momentum rise (può invece essere significativo l’innalzamento dovuto alla 
+spinta di galleggiamento di origine termica, o buoyancy rise). In tutti i casi (attivazione con o senza applicazione di fattori di riduzione 
+o disattivazione) nella relazione di presentazione dello studio devono essere specificati, per ciascuna sorgente:
+• se nelle simulazioni è stato attivato l’algoritmo per l’innalzamento del pennacchio ed il motivo della decisione;
+• qualora l’innalzamento del pennacchio sia stato considerato, la velocità di efflusso impiegata per il calcolo dell’innalzamento 
+meccanico del pennacchio (momentum rise); si noti che in taluni casi la velocità di espulsione alla sezione di sbocco del ca-
+mino che deve essere impiegata per il calcolo dell’innalzamento del pennacchio può non coincidere numericamente con la 
+velocità di efflusso impiegata per il calcolo della portata volumetrica (per esempio perché la sezione ove è misurata la velocità 
+ha diametro diverso dalla sezione di sbocco);
+• qualora l’innalzamento meccanico del pennacchio sia stato calcolato, l’eventuale fattore di riduzione applicato;
+• qualora l’innalzamento termico (buoyancy rise) del pennacchio sia stato calcolato, la temperatura dell’effluente impiegata.
+4.	Dati meteorologici
+4.1	
+Numero di stazioni meteo delle quali impiegare i dati nelle simulazioni
+In linea generale i dati meteo da impiegare nelle simulazioni possono provenire da una sola stazione meteorologica superficiale. 
+Per adempiere i requisiti previsti nel presente documento, può essere opportuno impiegare dati meteo provenienti da più stazioni me-
+teorologiche. Per esempio: dalla stazione più vicina si traggono i dati di velocità e direzione del vento e da una stazione più lontana 
+si traggono gli altri parametri; oppure da una stazione a 5 km di distanza e con anemometro a 6 m si traggono i dati di direzione e 
+velocità del vento e dalla stazione all’interno dello stabilimento si traggono gli altri parametri).
+Se per uno o più parametri per una singola stazione non sono rispettati i requisiti in merito alle percentuali minime di dati validi (§ 
+4.6) si dovrà verificare se sia possibile integrare i dati disponibili di questa stazione con quelli tratti da una seconda stazione meteo, va-
+lutando la compatibilità dei dati della seconda stazione con quelli registrati dalla prima; si consideri però che per velocità e direzione 
+del vento devono necessariamente essere rispettati i requisiti del § 4.2.
+Qualora si combinino dati provenienti da più stazioni, dovrebbe essere considerato uno stesso periodo temporale di acquisizione e 
+dovrebbe essere comunque valutato se la combinazione dei dati provenienti da diverse stazioni rechi pregiudizio alla rappresentativi-
+tà dei risultati delle simulazioni.
+4.2	
+Posizione della stazione meteo rispetto al punto di emissione
+La stazione meteo di cui impiegare i dati deve rispettare i seguenti requisiti.
+• Nei casi di terreno pianeggiante, la distanza della stazione meteo dal punto di emissione dovrebbe essere minore o uguale a 10 
+km.
+• Nei casi di orografia complessa, la stazione deve giacere nella medesima valle ove è ubicato il punto di emissione o deve essere 
+scelta in modo tale che sia rappresentativa delle condizioni anemologiche del sito ad esempio conducendo delle campagne 
+di rilevamento integrative.
+A tali requisiti è ammessa deroga a fronte di adeguata giustificazione tecnica, eccetto che per i parametri di direzione e velocità del 
+vento. Qualora non si disponga di una stazione vicina, e specialmente nei casi di orografia complessa, si dovrebbe ricostruire il campo 
+di vento nel dominio spaziale di simulazione adoperando dati di più stazioni e ricorrendo ad un modello meteorologico diagnostico”.
+Nella relazione di presentazione dello studio devono essere indicati, per ciascuna stazione meteo:
+• coordinate geografiche (vedasi § 5);
+• ente o organizzazione che gestisce la stazione meteorologica e che ha trasmesso i dati meteo grezzi;
+• quota dell’anemometro rispetto al suolo;
+• distanza in pianta dai punti di emissione.
+4.3	
+Quota dell’anemometro rispetto al suolo
+La quota dell’anemometro della stazione meteo da cui sono tratti i dati di velocità e direzione del vento dovrebbe essere maggiore 
+o uguale a 5 m. A questo requisito si potrà derogare solo se non esistano stazioni meteo conformi ad esso, fermi restando gli altri re-
+quisiti posti nel presente documento a proposito della stazione meteorologica, e solo fornendo elementi che permettano di giudicare 
+comunque validi i dati della stazione avente anemometro a quota non conforme.
+
+===== p.9 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 27 –
+4.4	
+Frequenza originaria di registrazione dei dati meteo
+La frequenza originaria di registrazione dei dati meteo deve essere oraria o maggiore (ad esempio ogni 30 minuti o 10 minuti). Nelle 
+simulazioni di dispersione dovranno essere introdotti dati a scansione oraria. Qualora la frequenza originaria di registrazione dei dati 
+meteo sia maggiore (ossia più frequente) di quella oraria, dovrà essere esposta nella relazione di presentazione dello studio la proce-
+dura per il calcolo dei dati meteo a scansione oraria.
+4.5	
+Estensione minima del dominio temporale di simulazione
+L’estensione minima del dominio temporale di simulazione è un anno. Nelle simulazioni sono ammessi solo domini temporali di si-
+mulazione che siano multipli di 12 mesi (ossia due anni, tre anni, ecc.).
+4.6	
+Dati invalidi
+Nella relazione di presentazione dello studio deve essere riportata la percentuale di dati meteorologici invalidi per ciascun mese 
+e per ciascun parametro. Per ciascun parametro meteorologico, la percentuale di dati assenti/invalidi deve essere minore del 20 % 
+sul totale dei dati meteo impiegati nelle simulazioni e minore del 70% per ciascun mese. Deroghe a questo criterio, comunque da 
+evidenziare nella relazione di presentazione dello studio, sono accettate solo quando i dati invalidi possano essere ricostruiti in modo 
+tecnicamente fondato.
+In ogni caso una procedura di individuazione e ricostruzione dei dati invalidi deve essere prevista e deve essere esposta nella rela-
+zione di presentazione dello studio.
+4.7	
+Campagne di rilevamento integrative
+E’ auspicabile eseguire campagne di rilevamento integrative tramite stazione meteorologica mobile presso il sito esame se si verifi-
+ca uno dei casi seguenti:
+• se per uno o più parametri non sono rispettati i requisiti in merito alle percentuali minime di dati validi (§ 4.6), fatto salvo quanto 
+previsto nel § 4.1;
+• se la stazione meteo disponibile non è dotata di uno o più dei sensori necessari e non sono disponibili altre stazioni che rispettino 
+i requisiti minimi;
+• se i requisiti circa la posizione della stazione meteo fissa (§ 4.2) non sono soddisfatti (per esempio perché la stazione fissa dispo-
+nibile è lontana dal sito in esame) ed è opportuno confermare che, nonostante queste difformità, i dati da essa registrati sono 
+comunque rappresentativi per il sito in esame.
+La durata delle campagne di rilevamento integrative potrà essere inferiore alla durata del dominio temporale di simulazione, ma 
+dovrà essere sufficiente a delineare andamenti dei parametri meteo ragionevolmente estrapolabili all’intero dominio di simulazione.
+4.8	
+Pre-processore meteorologico
+Nella relazione di presentazione dello studio dovrà essere fornita adeguata documentazione in merito al pre-processore meteo-
+rologico impiegato per ottenere i parametri micrometeorologici (ad esempio, altezza dello strato limite atmosferico) e di turbolenza 
+(ad esempio, lunghezza di Monin-Obukhov e velocità di attrito superficiale). L’impiego delle classi di stabilità (per esempio, le classi 
+Pasquill-Gifford-Turner) in luogo dei parametri continui di turbolenza è sconsigliato e dovrà quindi essere adeguatamente giustificato.
+4.9	
+Trasmissione dei dati meteo
+Dovranno essere integralmente trasmessi in formato digitale all’Autorità competente, unitamente alla relazione di presentazione 
+dello studio:
+• l’intero set di dati meteo grezzi registrati dalla stazione (a monte di qualunque elaborazione, quindi a monte anche dell’eventuale 
+calcolo dei dati a frequenza oraria e della ricostruzione dei dati invalidi); per ciascun parametro meteo dovrà essere indicata 
+l’unità di misura e dovrà essere fornita chiara descrizione (per esempio, per la direzione del vento dovrà essere indicato se si 
+tratta di direzione prevalente o risultante e se è espressa come provenienza o come vettore; per la radianza solare dovrà essere 
+specificato se è globale o netta);
+• l’intero set di dati di input impiegati nelle simulazioni di dispersione (a valle di tutte le elaborazioni eseguite, incluse le elaborazioni 
+del pre-processore meteorologico).
+Alla relazione di presentazione dello studio dovranno inoltre essere allegate:
+• le rose dei venti che siano necessarie a trovare ragione dell’aspetto delle isoplete nella mappa di impatto;
+• la tabella o il grafico della distribuzione statistica delle velocità del vento (numero o percentuale di occorrenze in funzione della 
+velocità del vento, aggregata per classi) nel set di dati meteo impiegato.
+Qualora per necessità siano combinati per uno stesso parametro dati di stazioni meteo diverse (vedasi § 4.1 e § 4.7), dovrà essere 
+fornita evidenza (per esempio allegando opportuni grafici) della compatibilità dei dati provenienti dalle diverse stazioni.
+5.	Georeferenziazione
+Devono essere georeferenziati in coordinate geografiche (latitudine/longitudine) o nel sistema UTM-WGS84 o UTM-Gauss-Bouga:
+• le sorgenti di emissione;
+• i ricettori sensibili;
+• i recettori di calcolo (punti della griglia del dominio spaziale di simulazione);
+• i vertici degli edifici per la simulazione del building downwash.
+6.	Dimensioni e passo della griglia di recettori di calcolo
+Le dimensioni del dominio spaziale di simulazione (griglia di recettori di calcolo) devo essere fissate nel rispetto dei seguenti requisiti:
+• devono esservi inclusi tutti i ricettori presso cui sia da valutare il definito criterio di valutazione dell’impatto;
+• devono esservi inclusi (almeno parzialmente) i centri abitati presso cui il 98° percentile delle concentrazioni orarie di picco di 
+odore simulate sia maggiore di 1 ouE/m3.
+Il passo della griglia di recettori di calcolo deve essere scelto in modo tale che per i ricettori sensibili, la distanza fra il ricettore e il 
+punto più prossimo del confine di pertinenza dell’impianto, deve essere maggiore o uguale al passo della griglia.
+
+===== p.10 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 28 –
+Bollettino Ufficiale
+Di norma l’elevazione (altezza) dei recettori rispetto al suolo deve essere impostata pari a 2 metri
+Nella relazione di presentazione dello studio devono essere specificati:
+• dimensioni del dominio spaziale di simulazione;
+• coordinata geografica (vedasi § 5) dell’origine (vertice sudovest) del dominio spaziale di simulazione;
+• passo della griglia di recettori di calcolo.
+7.	Definizione dei ricettori sensibili
+I ricettori sensibili (o bersagli) presso i quali simulare puntualmente l’impatto delle emissioni saranno scelti considerando i seguenti 
+criteri.
+• I ricettori dovrebbero essere disposti in modo che in ogni arco di circonferenza (della circonferenza centrata nell’impianto) di 
+120° sia collocato almeno un ricettore sensibile.
+• Fra i ricettori sensibili dovrebbe essere compresa l’abitazione o il locale ad uso collettivo (scuola, ospedale, ecc.) più prossimo 
+all’impianto, anche se isolato.
+• Almeno un ricettore sensibile dovrebbe essere posto presso ciascuno dei centri abitati (per la definizione di centro abitato si veda 
+l’art. 3 del Codice della Strada, d.lgs. n. 285 del 30/04/1992 e s.m.i.) ubicati entro 3 km dall’impianto.
+• Se sul territorio circostante all’impianto vi sono aree ove il Piano di governo del territorio o analoghe disposizioni di governo appli-
+cabili prevedono future edificazioni e quindi nuovi potenziali ricettori sensibili, deve essere ipotizzato un ricettore sensibile virtuale 
+nel punto dell’area oggetto di futura edificazione più vicino al confine dell’impianto. Tali ricettori virtuali dovranno essere conside-
+rati nello studio di impatto al pari degli altri ricettori individuabili se la loro posizione rispetto all’impianto è potenzialmente critica 
+secondo i criteri stabiliti nel presente paragrafo.
+8.	Orografia
+Se l’orografia del territorio incluso nel dominio spaziale di simulazione è complessa, i suoi effetti devono essere considerati nelle 
+simulazioni. In generale l’orografia dovrebbe essere considerata complessa (non pianeggiante) quando la minore delle dimensioni 
+lineari del dominio spaziale di simulazione è meno di 100 volte superiore alla differenza fra la quota massima e la quota minima dei 
+recettori di calcolo inclusi nel dominio spaziale di simulazione. Deroghe a questo criterio devono essere motivate nella relazione di 
+presentazione dello studio.
+Qualora l’orografia sia considerata complessa, nella relazione di presentazione dello studio devono essere riportati:
+• la quota del terreno per ciascuno dei recettori di calcolo;
+• indicazioni circa l’algoritmo impiegato nelle simulazioni per l’orografia complessa, e gli eventuali parametri di controllo dell’al-
+goritmo.
+Si segnala, senza che ciò costituisca un requisito, che i dati altimetrici ottenuti anche per il territorio italiano tramite la Shuttle Radar 
+Topography Mission (SRTM) possono essere scaricati via web dalla NASA o dall’U.S. Geological Survey (USGS).
+9.	Effetto scia degli edifici quando siano sopravento al punto di emissione
+Un algoritmo per il calcolo dell’effetto scia degli edifici quando questi siano sopravento al punto di emissione (building downwash) 
+dovrebbe essere avviato nelle simulazioni se la minima delle altezze delle sorgenti di emissione rispetto al suolo è inferiore a 1,5 volte la 
+massima delle altezze degli edifici dello stabilimento rispetto al suolo, ove per edificio si intende estensivamente qualunque manufatto 
+o impianto (inclusi serbatoi, torri di lavaggio e apparecchiature in genere) all’interno dello stabilimento oppure all’esterno di esso en-
+tro un raggio di 200 m dai punti di emissione.
+Sia che nelle simulazioni sia avviato l’algoritmo per il building downwash sia che l’algoritmo non sia avviato in quanto non presente 
+nel software utilizzato, nella relazione di presentazione dello studio dovranno essere riportati, per ciascuno degli edifici che generano 
+effetto scia, le seguenti informazioni, affinché l’Autorità competente possa utilizzarle nelle proprie eventuali simulazioni di verifica:
+• le coordinate geografiche di ciascuno dei vertici in pianta dell’edificio;
+• l’altezza dell’edificio rispetto al suolo.
+10.	
+Scelta della tipologia di modello e del codice software
+Si consiglia per la realizzazione dello studio di impatto olfattivo l’impiego di un modello di dispersione che appartenga ad una delle 
+seguenti tipologie:
+• modelli non stazionari a puff o a segmenti (vedasi UNI 10796:2000, scheda 4, tipologia 2);
+• modelli 3D lagrangiani (a puff o a particelle) (vedasi UNI 10796:2000, scheda 4, tipologia 3 o scheda 5, tipologia 1);
+• modelli 3D euleriani (vedasi UNI 10796:2000, scheda 4, tipologia 3 o scheda 5, tipologia 1).
+Per una rassegna di software validati appartenenti alle tipologie sopra elencate si rimanda a quanto segue.
+• U.S Environmental Protection Agency, Guideline on Air Quality Models, Appendix W to Part 51. Federal Register, Vol. 68, No. 72, 
+Tuesday, April 15, 2003 / Rules and Regulations.
+• Linee guida pubblicate dal Centro Tematico Nazionale - Atmosfera Clima Emissioni in Atmosfera (CTN_ACE), http://www.smr.
+arpa.emr.it/ctn/
+11.	
+Trattamento delle calme di vento
+11.1	 Metodo per il trattamento delle calme di vento
+Il modello di dispersione impiegato deve disporre di un metodo per il trattamento delle calme di vento. Molti dei codici software 
+disponibili prevedono per le calme di vento un algoritmo significativamente diverso da quello regolare (qui nel seguito denominato 
+“metodo speciale per le calme”), che è attivato automaticamente per tutte quelle ore del dominio temporale di simulazione in cui la 
+velocità del vento è inferiore ad un certo definito valore soglia. Poiché nella generalità dei modelli disponibili i metodi speciali per le 
+calme sono intrinsecamente meno accurati dell’algoritmo principale, è evidentemente necessario, se il modello impiegato prevede 
+un metodo speciale per le calme, che il numero percentuale di ore per le quali il modello ricorre al metodo speciale sia minimo, e 
+possibilmente inferiore al 2%, poiché:
+• il parametro di impatto olfattivo da esprimere come risultato finale delle simulazioni è in forma di 98° percentile (vedasi § 14.2);
+
+===== p.11 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 29 –
+• in condizioni di calma di vento si ottiene spesso l’impatto olfattivo massimo, poiché gli inquinanti sono meno efficacemente 
+dispersi in atmosfera.
+A questo scopo nel § 11.2 sono stabiliti criteri a proposito della velocità soglia delle calme in combinazione al modello di dispersio-
+ne impiegato.
+Quale metodo speciale per le calme non è consentita l’eliminazione, dal set di dati meteo, dei record corrispondenti alle calme di 
+vento, poiché eliminando le ore di calma di vento dal set di dati meteo si potrebbe sottostimare l’impatto sull’intero dominio di tempo 
+di simulazione.
+11.2	 Velocità soglia delle calme
+Se il modello di dispersione adottato prevede un “metodo speciale per le calme” (come specificate dal § 11.1), il valore di velocità 
+del vento con frequenza massima (ossia la moda della distribuzione delle velocità del vento) deve essere maggiore del valore soglia 
+di velocità del vento sotto cui è applicato tale metodo speciale (qui nel seguito denominato “velocità soglia delle calme”). Questa 
+condizione non può essere rispettata per esempio nei seguenti casi.
+• Quando la moda della distribuzione di velocità è compresa fra zero ed il limite minimo della velocità soglia delle calme fissato 
+o consigliato dal modello di dispersione utilizzato (ossia quando il software non permette o sconsiglia di impostare una velocità 
+soglia delle calme inferiore alla moda delle distribuzione delle velocità), deve essere scelto un diverso software di dispersione.
+• Quando la moda della distribuzione di velocità è in corrispondenza del valore zero di velocità del vento, deve essere ricercata 
+una stazione meteo alternativa che risponda ai requisiti definiti nel § 4, oppure deve essere eseguita una campagna di rileva-
+mento integrativa (§ 4.7), eventualmente a sostegno dei dati registrati da una stazione fissa non rispondente ai requisiti definiti 
+nel § 4.
+11.3	 Informazioni da riportare nella relazione di presentazione dello studio
+Nella relazione di presentazione dello studio, riguardo alle calme di vento, devono essere specificati:
+• quale metodo è stato adottato per il trattamento delle calme di vento; se è stato adottato senza modifiche il metodo previsto da 
+uno dei software validati consigliati al § 10, è sufficiente richiamarne succintamente il principio di funzionamento;
+• la velocità soglia delle calme utilizzata nelle simulazioni;
+• la percentuale di ore con velocità inferiore alla velocità soglia delle calme e per le quali quindi è stato adottato il metodo per il 
+trattamento delle calme; se tale percentuale è maggiore del 2%, devono essere esposte le valutazioni in merito alle conseguenze 
+di questa potenziale anomalia sui risultati delle simulazioni condotte.
+12.	
+Deposizione secca e deposizione umida
+Nei casi oggetto del presente documento la deposizione secca e la deposizione umida hanno generalmente un effetto trascurabi-
+le sulla rimozione degli inquinanti odorigeni dall’atmosfera, e quindi si consiglia, cautelativamente, di disattivare gli algoritmi di calcolo 
+della deposizione secca ed umida.
+Qualora invece si scelga di attivare tale algoritmo nel modello di dispersione, tutti i parametri di controllo di tali algoritmi (ad esem-
+pio: costante di Henry e scavenging coefficient) dovranno essere riportati nella relazione di presentazione dello studio.
+Naturalmente gli algoritmi di calcolo della deposizione umida dovranno essere disattivati qualora non siano disponibili dati di pre-
+cipitazione nel set di dati meteo.
+13.	
+Post-elaborazione delle concentrazioni medie orarie
+Le concentrazioni orarie di picco di odore per ciascun punto della griglia contenuta nel dominio spaziale di simulazione e per cia-
+scuna delle ore del dominio temporale di simulazione devono essere ottenute moltiplicando le concentrazioni medie orarie per un 
+peak-to-mean ratio pari a 2,3. Benché nella letteratura scientifica non vi sia accordo unanime circa la definizione di un valore congruo 
+per il peak-to-mean ratio, si consiglia qui un fattore unico uniforme allo scopo di depurare i risultati delle simulazioni, per quanto possi-
+bile, dagli aspetti connessi alla scelta dei parametri del modello più che alle specificità dello scenario emissivo di cui si deve simulare 
+l’impatto.
+14.	
+Presentazione dei risultati
+14.1	 Relazione
+Come richiesto puntualmente nel presente documento, deve essere prodotta una relazione di presentazione dello studio che con-
+tenga le informazioni necessarie affinché le simulazioni possano essere replicate a cura dell’Autorità competente, impiegando il me-
+desimo modello di dispersione usato dal proponente o un altro modello di dispersione.
+14.2	 Risultati di impatto presso i ricettori sensibili
+Nella relazione di presentazione dello studio o in un suo allegato devono essere presentate:
+• una tabella che riporti, per ciascuno dei ricettori sensibili individuati sul territorio, il 98° percentile delle concentrazioni orarie di 
+picco di odore simulate; se il software utilizzato non permettesse il calcolo del 98° percentile, tale tabella potrà essere omessa, 
+ma il confronto fra l’impatto delle emissioni ed i criteri di valutazione definiti dovrà essere eseguito considerando i massimi globali 
+delle concentrazioni orarie di picco di odore simulate;
+• una tabella che riporti, per ciascuno dei ricettori sensibili individuati sul territorio, il massimo globale (ossia sull’intero dominio 
+temporale di simulazione) delle concentrazioni orarie di picco di odore simulate.
+14.3	 Mappa di impatto
+Nella relazione di presentazione dello studio o in un suo allegato deve essere presentata una mappa di impatto, in cui siano visibili 
+almeno:
+• il perimetro del dominio spaziale di simulazione;
+• la corografia del territorio, fino a comprendere, oltre alle sorgenti di emissione, i ricettori sensibili e possibilmente il centro abitato 
+più vicino; a questo scopo dovrebbero essere possibilmente impiegate le Carte Tecniche Regionali oppure ortofoto realizzate 
+conformemente alle disposizioni normative; in ogni caso la corografia deve essere georeferenziata coerentemente (vedasi § 5); 
+
+===== p.12 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 30 –
+Bollettino Ufficiale
+è opportuno che il territorio di cui è visibile la corografia nella mappa sia più esteso del perimetro del dominio spaziale di simu-
+lazione;
+• le sorgenti di emissione;
+• il confine di pertinenza dell’impianto, esclusi eventuali terreni non funzionali all’impianto pur se di proprietà del gestore dell’im-
+pianto;
+• la posizione dei ricettori sensibili;
+• l’isopleta (curva di isoconcentrazione di odore) corrispondente ai valori di concentrazione pari ai criteri di valutazione definiti;
+• l’isopleta di concentrazione di odore corrispondente al valore di 1 ouE/m3;
+• l’isopleta non completamente racchiusa nel confine dello stabilimento, cui corrisponda il massimo valore di concentrazione di 
+odore.
+——— • ———
+
+===== p.13 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 31 –
+ALLEGATO 2
+Linea guida per la caratterizzazione delle emissioni gassose in atmosfera 
+delle attività ad impatto odorigeno
+Campionamento olfattometrico
+Premessa
+Il presente documento è stato elaborato nell’ambito del “Tavolo regionale per lo studio delle problematiche relative alle emissioni 
+odorigene da fonti stazionarie” istituito presso la “Regione Lombardia – Direzione Generale Ambiente, Energia e Reti” nel febbraio 2007 
+(di seguito TdL).
+Nell’ambito dei lavori del TdL è emersa la necessità di definire, tra l’altro, gli elementi di controllo per la verifica della corretta gestione 
+dei cicli produttivi al fine di contenere le emissioni odorigene. Tra questi elementi risulta indispensabile definire quelle attività per le 
+quali la stessa norma di riferimento UNI EN 13725:2004 afferma “siano necessarie ulteriori ricerche per completare la questione”.
+In particolare, al fine di mettere in atto un efficace programma di controllo delle emissioni odorigene, risulta necessario definire le 
+modalità di ottenimento di campioni rappresentativi delle emissioni stesse. Infatti, gli aspetti legati al campionamento sono accennati 
+nella EN 13725, ma non in maniera esaustiva, per cui risulta indispensabile integrarla con un documento specifico sulle strategie e 
+le procedure di prelievo di campioni gassosi da sottoporre ad analisi olfattometrica per la determinazione della concentrazione di 
+odore.
+I contenuti del presente documento derivano dalle esperienze consolidate di laboratori pubblici e privati che hanno affrontato le 
+problematiche relative alla misura degli odori:
+1.	 Scopo e campo di applicazione
+Scopo del presente documento è la definizione delle modalità di effettuazione dei campionamenti olfattometrici in campo.
+Nell’olfattometria, il campionamento costituisce uno degli elementi di maggiore importanza. La qualità delle fasi di misura successi-
+ve, quali l’analisi olfattometrica e la valutazione dei risultati, dipendono da un campionamento opportuno.
+Lo scopo del campionamento è ottenere informazioni rappresentative sulle caratteristiche tipiche di una sorgente attraverso il pre-
+lievo di opportune frazioni di volume dell’effluente.
+Come caratteristiche tipiche di una sorgente si intendono:
+• corso temporale dell’emissione, inclusi i picchi emissivi;
+• modalità di trasferimento delle sostanze odorigene dalla sorgente all’atmosfera (portata gassosa volumetrica misurabile conven-
+zionalmente per sorgenti definite; portata gassosa volumetrica non misurabile convenzionalmente per sorgenti diffuse);
+• configurazione geometrica della sorgente, i.e. sorgente puntuale, areale o volumetrica.
+Le condizioni di esercizio campionate, la durata e il numero dei campionamenti deve essere tale da poter consentire di valutare 
+l’impatto olfattivo relativo alla sorgente campionata.
+Nel presente documento si fa riferimento al campionamento di tipo statico (o campionamento per olfattometria ritardata, cfr. par. 
+7.2.2 della UNI EN 13725:2004). Questa metodologia di campionamento prevede che una frazione dell’effluente venga aspirata in op-
+portuni sacchetti realizzati con materiali olfattivamente neutri e che sia quanto più velocemente possibile analizzata all’olfattometro. 
+2.	 Documenti di riferimento, acronimi e definizioni
+Il presente documento rimanda, mediante riferimenti datati e non, a disposizioni contenute in altre pubblicazioni. Tali riferimenti nor-
+mativi sono citati nei punti appropriati del testo e sono di seguito elencati. Per quanto riguarda i riferimenti datati, escluse le normative 
+di legge, successive modifiche o revisioni apportate a dette pubblicazioni valgono unicamente se introdotte nel presente documento 
+come aggiornamento o revisione. Per i riferimenti non datati vale l’ultima edizione della pubblicazione alla quale si fa riferimento 
+(compresi gli aggiornamenti).
+I documenti di riferimento per la presente procedura, anche per quanto riguarda i termini, le definizioni, i simboli e le unità di misura 
+(in particolare l’unità di misura della concentrazione di odore, ossia l’unità odorimetrica europea al metro cubo [ouE/m3]), sono i 
+seguenti:
+• UNI EN 13725:2004, Qualità dell’aria - Determinazione della concentrazione di odore mediante olfattometria dinamica (nel segui-
+to: UNI EN 13725).
+• UNI 10169:2001, Misure alle emissioni - Determinazione della velocità e della portata di flussi gassosi convogliati per mezzo del 
+tubo di Pitot. Rispetto alla norma ISO 10780:1994 (citata dalla EN 13725), pur mantenendo una concordanza sostanziale, nella 
+UNI 10169 sono state introdotte alcune variazioni di carattere operativo allo scopo di meglio rispondere all’esperienza nazionale 
+acquisita in questo capo.
+• UNI EN 13284-1:2003, Emissioni da sorgente fissa - Determinazione della concentrazione in massa di polveri in basse concentra-
+zioni - Metodo manuale gravimetrico.
+In particolare, i campionamenti olfattometrici oggetto del presente documento seguono il metodo descritto nel capitolo 7 e nell’Ap-
+pendice J della UNI EN 13725.
+3.	 Pianificazione di campionamenti e prove olfattometriche
+Al fine di determinare le emissioni dalle sorgenti odorigene principali è necessario predisporre un piano di monitoraggio, in modo 
+tale che le singole analisi consentano di ottenere il maggior numero di informazioni significative riguardo all’impatto olfattivo dell’im-
+pianto, evitando errori o repliche inutili nelle misurazioni.
+Campionamenti e analisi devono essere condotti al fine di ottenere risultati rappresentativi delle emissioni dell’impianto monitorato. 
+A tale scopo è importante procurarsi sufficienti informazioni sull’impianto e sulle sue emissioni prima del campionamento.
+Innanzi tutto, un’approfondita conoscenza ed analisi del ciclo produttivo e di tutte le attività dell’impianto sono fondamentali al fine 
+di individuare le principali sorgenti olfattive dello stesso.
+Può essere importante conoscere la composizione chimica delle emissioni, e soprattutto avere informazioni riguardo all’eventuale 
+presenza di composti tossici all’interno degli effluenti da campionare. Tale conoscenza è importante per motivi di sicurezza, sia per 
+l’operatore addetto ai prelievi, sia per gli esaminatori che effettuano l’analisi olfattometrica.
+L’individuazione dei punti di campionamento precedentemente al prelievo dei campioni è molto importante anche a fini logistici 
+e di organizzazione dei prelievi stessi. In alcuni casi potrebbe infatti essere necessario l’impiego di accorgimenti specifici allo scopo di 
+
+===== p.14 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 32 –
+Bollettino Ufficiale
+rendere possibili o facilitare le operazioni di campionamento (e.g., realizzazione di prese campione, predisposizione di mezzi sicuri per 
+raggiungere punti di campionamento poco agibili, utilizzo di specifiche attrezzature di campionamento, ecc.).
+Per i suddetti motivi è necessario, nel corso della pianificazione di un monitoraggio olfattometrico, l’effettuazione di un sopralluogo 
+presso l’impianto da monitorare e la successiva stesura di un verbale di sopralluogo in cui vengano individuati tutti i punti di campio-
+namento con eventuali annotazioni sulle modalità di prelievo.
+4.	 Requisiti generali per il campionamento
+4.1.	
+Condizioni di lavoro
+Per l’effettuazione dei campionamenti è necessario predisporre il luogo di campionamento in modo tale che l’operatore di prelievo 
+possa svolgere il suo lavoro in sicurezza. Più nel dettaglio, questo significa che:
+• il luogo di campionamento deve essere facilmente raggiungibile e corrispondere ai requisiti relativi alla sicurezza sul lavoro;
+• il punto di campionamento deve essere adeguato, ossia consentire il prelievo del campione e le eventuali altre misurazioni ne-
+cessarie (e.g., misura della velocità dell’effluente).
+4.1.	
+Scelta dei materiali
+I materiali di campionamento devono soddisfare le caratteristiche del par. 6 della EN 13725, ed in particolare i criteri di seguito 
+elencati.
+• Inerzia. I materiali utilizzati devono essere tali a minimizzare la possibilità che si verifichino interazioni fra l’aeriforme da campionare 
+e i materiali stessi, e.g:
+−
+−Politetrafluoroetilene (PTFE, TeflonTM);
+−
+−Copolimero di Tetrafluoroetilene e Esafluoropropilene (FEP);
+−
+−Polietilentereftalato (PET, NalophanTM);
+−
+−Vetro (svantaggio: fragilità);
+−
+−Acciaio (vantaggio: elevata stabilità meccanica e termica, svantaggio: chimicamente non sempre inerte, condensazioni e 
+sporcamenti non possono essere verificati visivamente).
+• Superficie liscia.
+• Assenza di odore proprio del materiale (neutralità odorigena).
+• Tenuta: porosità e coefficiente di diffusione bassi, al fine di evitare perdite di campione o, al contrario, ingresso di aria falsa.
+Il campione non deve entrare in contatto con materiali non consentiti. Questo vale anche per eventuali connessioni o guarnizioni.
+4.2.	 Pulizia
+Al fine di essere riutilizzate, le apparecchiature di campionamento devono essere pulite in modo tale da essere rese inodori, evitan-
+do così fenomeni di contaminazione dei campioni. In particolare, per quanto riguarda la pulizia dell’apparecchiatura di campiona-
+mento si fa riferimento al par. 6.2.4 della EN 13725.
+4.3.	
+Sacchetti di campionamento
+I materiali impiegati per la realizzazione dei sacchetti di campionamento devono soddisfare i requisiti elencati al par. 4.1 del presen-
+te documento. Nella pratica, si sono dimostrati adeguati i materiali seguenti:
+• Copolimero di Tetrafluoroetilene e Esafluoropropilene (FEP);
+• Polietilentereftalato (PET, NalophanTM);
+• Politetrafluoroetilene (PTFE, TeflonTM): utilizzato per la realizzazione del tubo attraverso il quale il gas entra durante il campionamen-
+to ed esce durante l’analisi e del tappo per la chiusura del sacchetto.
+Eventuali nuovi materiali per la realizzazione dei sacchetti dovranno essere testati per verificare l’assenza di odore proprio del mate-
+riale. Tale verifica deve essere effettuata secondo la seguente procedura: un minimo di 3 sacchetti vengono riempiti con aria neutra e 
+stoccati per 24 ore. Successivamente viene determinata la concentrazione di odore all’interno del sacchetto. Il materiale si considera 
+privo di odore se non è possibile determinarne la concentrazione, oppure se la concentrazione massima rilevata è inferiore di almeno 
+4
+olf
+P
+ volte (
+olf
+P
+= passo di diluizione dell’olfattometro) rispetto alla concentrazione dell’aeriforme che dovrà essere contenuto all’in-
+terno del sacchetto.
+I nuovi materiali dovranno essere testati anche per quanto riguarda la stabilità del campione nel tempo, al fine di verificare che non 
+ci siano perdite di composti attraverso il sacchetto con conseguente calo della concentrazione di odore del campione. A tale scopo 
+è necessario analizzare il campione a diversi tempi: immediatamente dopo al prelievo, e successivamente a diversi tempi, fino alle 30 
+ore di stoccaggio consentite dalla EN 13725. Se i valori di concentrazione di odore riscontrati ai diversi tempi differiscono di un fattore 
+inferiore a 1.5 i campioni possono essere ritenuti stabili.
+4.4.	
+Pre-diluizione dinamica
+Per quanto riguarda la prediluizione dinamica dei campioni si fa riferimento a quanto riportato nei par. 7.3.2.1 e 7.3.2.3 della EN 
+13725.
+La prediluizione dei campioni può risultare necessaria al fine di evitare perdite all’interno del sacchetto, che possono verificarsi a 
+causa di fenomeni di condensazione o adsorbimento. Normalmente è necessaria la prediluizione di campioni con elevata concen-
+trazione, elevata temperatura e/o elevato contenuto di umidità.
+Prima del campionamento devono essere valutate temperatura e umidità dell’aeriforme da campionare.
+Il fattore di prediluizione deve essere tale da impedire che il punto di rugiada del campione prediluito venga raggiunto tra il momen-
+to del campionamento e l’analisi olfattometrica. E’ pertanto necessario prestare particolare attenzione nel caso di basse temperature 
+esterne o di stoccaggio. Come gas di prediluizione è possibile utilizzare azoto (inerte) o aria sintetica.
+La pre-diluizione del campione durante il campionamento si applica in particolare nei seguenti casi:
+• quando può verificarsi la formazione di condensa nel sacchetto di campionamento, ad esempio quando l’aeriforme da cam-
+pionare ha umidità relativa superiore al 90% o quando ha temperatura superiore a 50 °C;
+• quando la concentrazione di odore presunta nell’aeriforme da campionare eccede l’intervallo di diluizione dell’olfattometro 
+
+===== p.15 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 33 –
+impiegato per la misurazione;
+• quando sia opportuno ritardare i processi di ossidazione nel campione, riducendo la concentrazione di ossigeno nel sacchetto; 
+in questo caso il gas neutro è necessariamente azoto.
+A tale riguardo si ricorda la possibilità di utilizzare delle formule o diagrammi di stato per prevedere ed impedire la formazione di 
+condense.
+Le apparecchiature di prediluizione devono essere pulite tra un prelievo e il successivo, al fine di evitare la contaminazione dei 
+campioni.
+4.5.	 Durata dei campionamenti
+In generale non è necessario fissare una durata minima del campionamento, purché questo risulti rappresentativo dell’emissione 
+campionata.
+4.6.	 Numerosità dei campionamenti
+Il numero dei campioni deve essere valutato in base all’obiettivo dell’indagine olfattometrica.
+4.7.1.	Verifica del rispetto di limiti di emissione
+E’ necessario effettuare i campionamenti con l’impianto a regime, nelle condizioni che portino alla massimizzazione delle emissione 
+di odore.
+Nel caso di impianti con condizioni di lavoro variabili, è necessario effettuare un campionamento per ciascuna della condizioni 
+che, sulla base dell’esperienza, provocano le maggiori emissioni di odori.
+4.7.2.	Valutazione dell’efficienza di presidi di abbattimento
+E’ necessario effettuare i campionamenti a monte e a valle del presidio, con impianto e presidio in condizioni di funzionamento di 
+regime.
+4.7.3.	Ottenimento di dati per la valutazione dell’impatto olfattivo dell’impianto
+Nel caso di utilizzo dei risultati dell’indagine olfattometrica per la valutazione di impatto olfattivo dell’impianto (ad esempio median-
+te l’applicazione di modelli matematici per la simulazione della dispersione delle emissioni), è necessario che il campionamento sia 
+condotto in modo tale da ottenere una fotografia il più possibile rappresentativa delle emissioni del’impianto nelle eventuali diverse 
+condizioni di esercizio.
+4.7.	
+Stoccaggio e trasporto dei campioni
+Il tempo fra il momento del campionamento e quello dell’analisi olfattometrica deve essere minimizzato con lo scopo di ridurre 
+le possibilità di alterazioni del campione durante lo stoccaggio. In conformità con quanto previsto dalla EN 13725, l’intervallo tra il 
+campionamento e la misurazione non deve comunque essere maggiore di 30 h. In ogni caso è opportuno che sul report della prova 
+olfattometrica siano riportate, per ciascun campione, sia l’ora di prelievo sia quella di analisi, in modo tale che sia immediatamente 
+deducibile il tempo di stoccaggio del campione stesso.
+Occorre tenere conto che tutti i processi che possono causare il deterioramento degli odoranti campionati progrediscono nel tem-
+po (assorbimento, diffusione e trasformazione chimica). La trasformazione chimica può essere minimizzata riducendo la disponibilità 
+di ossigeno e vapore acqueo nel campione mediante pre-diluizione con azoto secco. I dati sufficienti di esami sistematici estesi sulla 
+conservabilità dei campioni non sono conclusivi.
+Durante il trasporto e la conservazione, i campioni devono essere mantenuti a meno di 25 °C. La temperatura, tuttavia, deve essere 
+mantenuta sopra il punto di rugiada dei campioni, per evitare la formazione di condensa. 
+I campioni non devono essere esposti alla luce solare diretta o a intensa luce diurna, al fine di ridurre al minimo le reazioni (foto)
+chimiche e la diffusione.
+I campioni devono essere protetti da eventuali danneggiamenti meccanici e devono essere evitate contaminazioni dall’esterno.
+5.	 Strategia di campionamento in base alla tipologia di sorgente
+5.1.	 Principi generali
+Quando si effettua una misura non è sufficiente misurare la concentrazione di odore, ma si deve tenere conto anche della portata 
+gassosa associata alla sorgente di odore, perché nella maggior parte dei casi queste due grandezze sono correlate fra loro. Il para-
+metro fondamentale da considerare è la portata di odore (OER – Odour Emission Rate), espressa in unità odorimetriche al secondo 
+(ouE/s), e ottenuta come prodotto della concentrazione di odore per la portata gassosa. La portata gassosa volumetrica deve essere 
+valutata in condizioni normali per l’olfattometria: 20°C e 101.3 kPa su base umida.
+La tecnica usata per il campionamento dipende dalla tipologia di sorgente (Gostelow et al., 2003; Bockreis e Steinberg, 2005) ed è 
+importante tanto quanto il metodo di misura.
+5.2.	
+Sorgenti puntuali
+In una sorgente puntuale l’odore è emesso da un singolo punto, normalmente in maniera controllata attraverso un camino.
+In questo caso il campionamento consiste nel prelievo di una frazione dell’aeriforme convogliato.
+Se l’aeriforme da campionare è in pressione, il prelievo può essere condotto in maniera diretta, inserendo il sacchetto di campiona-
+mento all’interno del condotto.
+Altrimenti, il prelievo deve essere condotto creando una depressione. A tale scopo il sacchetto deve essere inserito in un opportuno 
+contenitore. L’aria all’interno del contenitore viene aspirata mediante una pompa. A causa della depressione così realizzata l’aerifor-
+me è aspirato all’interno del sacchetto di campionamento in maniera indiretta (Figura 1). Il contenitore utilizzato deve essere a tenuta, 
+al fine di evitare l’ingresso di aria falsa. Il vantaggio di questa procedura è che l’aeriforme da campionare non entra in contatto con 
+la pompa.
+
+===== p.16 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 34 –
+Bollettino Ufficiale
+ 
+OFF
+START
+STOP
+Figura 1. Schema di campionamento con pompa a depressione
+Il punto di prelievo dovrebbe essere posizionato su una sezione di misura scelta in modo tale che la velocità su tale sezione sia il più 
+possibile uniforme (UNI 10169).
+I sacchetti di campionamento possono essere condizionati prima del prelievo. A tale scopo essi vengono riempiti con l’aeriforme da 
+campionare e poi svuotati.
+Nel caso di sorgente puntuale, è possibile calcolare il flusso gassoso in uscita misurando la velocità dell’aria e la sezione trasversale 
+del condotto. L’OER è calcolato come segue:
+od
+effl c
+Q
+OER
+⋅
+=
+OER 	=	portata di odore (ouE/s)
+effl
+Q
+	 =	portata volumetrica dell’effluente (m3/s)
+od
+c
+	
+=	concentrazione di odore misurata (ouE/m3).
+5.3.	 Sorgenti volumetriche
+Le sorgenti volumetriche sono tipicamente degli edifici dai quali fuoriescono degli odori, sia intenzionalmente attraverso condotti a 
+ventilazione naturale, sia non intenzionalmente attraverso porte, finestre o altre aperture. La stima dell’OER in questi casi è complicata, 
+in quanto è difficile misurare una concentrazione di odore rappresentativa e generalmente non è possibile definire un flusso preciso. 
+Per effettuare una valutazione dell’OER si deve cercare di misurare la velocità dell’aria in corrispondenza delle aperture, oppure stima-
+re la portata gassosa che fuoriesce dall’edificio mediante l’utilizzo di opportuni gas traccianti.
+L’OER di odore viene poi calcolato con la formula seguente:
+od
+effl c
+Q
+OER
+⋅
+=
+OER 	=	portata di odore (ouE/s)
+effl
+Q
+	 =	portata volumetrica dell’effluente uscente dall’edificio (m3/s)
+od
+c
+	
+=	concentrazione di odore misurata (ouE/m3).
+5.4.	
+Sorgenti areali
+Nel caso di sorgenti areali si hanno tipicamente delle emissioni da superfici solide o liquide piuttosto estese. Si possono distinguere 
+due diversi tipi di superfici emissive areali: 
+• con flusso indotto (attive): sono sorgenti con un flusso di aria uscente (e.g. biofiltri o cumuli areati).
+• senza flusso indotto (passive): l’unico flusso presente è quello dovuto al trasferimento di materia dalla superficie all’aria sovrastan-
+te. Esempio di questo tipo sono le discariche, e le vasche degli impianti di depurazione acque reflue.
+Il limite fra sorgenti areali attive e passive è fissato per convenzione ad un flusso volumetrico specifico pari a 50 m3/h/m2.
+5.4.1.	
+Sorgenti areali attive
+In questo caso per il campionamento si utilizza una cappa “statica” che isola una parte di superficie e permette di convogliare il 
+flusso nel condotto di uscita della cappa, dove viene prelevato il campione, con le stesse modalità adottate per il campionamento da 
+sorgente puntiforme.
+Cod
+Cod
+Cod
+Cod
+
+===== p.17 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 35 –
+Figura 2. Schema di campionamento da sorgente areale attiva (biofiltro)
+La cappa statica è costituita da due corpi di cui il primo è un tronco di piramide o cono cavo con base di area nota (ed es. 1 m2) 
+e il secondo, sormontante il primo, è un camino di espulsione cilindrico avente un diametro compreso fra 10 e 20 cm. Sul condotto di 
+uscita della cappa sono predisposte delle aperture per consentire il prelievo del campione e la misura dei parametri fisici dell’emissio-
+ne. La cappa deve essere costituita di materiale inerte dal punto di vista odorigeno (ad es. acciaio o alluminio rivestito internamente 
+di politetrafluoroetilene). La lunghezza del camino e la posizione della bocchetta di ispezione devono ottemperare le prescrizioni della 
+norma UNI EN 13284-1:2003.
+Per il prelievo, la cappa deve essere posta sulla superficie emittente con lo scopo di isolare il punto di prelievo dall’atmosfera esterna 
+ed in particolare evitando che il vento diluisca il gas emesso prima che esso sia aspirato dal sacchetto di prelievo.
+Al fine di ottenere dei dati rappresentativi dell’intera sorgente, è necessario effettuare più campionamenti in diversi punti distribuiti 
+uniformemente sulla superficie emissiva. Più nel dettaglio: la superficie campionata mediante l’ausilio della cappa statica dovrebbe 
+essere ca. l’1% della superficie emissiva totale con, a prescindere dalla superficie emissiva, un minimo di 3 e un massimo di 10 campio-
+ni (ad esempio: su un biofiltro con una superficie di 500 m2 potranno essere prelevati un totale di 5 campioni in 5 diversi punti distribuiti 
+uniformemente sulla superficie del biofiltro stesso).
+Ciascun campione di gas odorigeno viene prelevato inserendo il tubo in PTFE del sacchetto di campionamento nella bocchetta 
+d’ispezione, dopo aver atteso un tempo sufficiente affinché il flusso odorigeno abbia riempito internamente l’intero corpo della cappa.
+La bocchetta di ispezione dalla quale viene prelevato il campione è utilizzata anche per l’inserimento delle sonde necessarie alla 
+determinazione dei parametri fisici dell’emissione, quali temperatura, umidità relativa e velocità. In particolare, la determinazione della 
+velocità di efflusso consente di valutare la distribuzione del flusso attraverso l’intera superficie emissiva. E’ importante sottolineare che 
+le velocità di efflusso misurate in uscita da una sorgente areale attiva non devono essere utilizzate per la determinazione della portata 
+dell’effluente.
+La verifica dell’uniformità del flusso attraverso la superficie emissiva è importante al fine di definire la concentrazione di odore media 
+emessa, ossia il valore medio che, moltiplicato per la portata dell’effluente, dà la portata di odore.
+Si distinguono due casi possibili:
+• sorgenti areali attive con distribuzione del flusso omogenea;
+• sorgenti areali attive con distribuzione del flusso non omogenea.
+Per sorgenti areali attive con distribuzione del flusso omogenea si intende una sorgente per cui le velocità di efflusso misurate sulle 
+diverse superfici parziali differiscano al massimo di un fattore 2. In questi casi la concentrazione di odore media è ottenuta come me-
+dia geometrica delle concentrazioni dei singoli campioni, in accordo con la formula seguente:
+n
+n
+i
+i
+od
+c
+c
+∏
+=
+=
+1
+od
+c
+	
+=	
+concentrazione di odore media (ouE/m3)
+ic 	
+=	
+concentrazione di odore misurata sulla i-esima superficie parziale (ouE/m3).
+Nel caso di sorgenti areali attive con distribuzione del flusso non omogenea (le velocità di efflusso misurate sulle diverse superfici 
+parziali differiscono di un fattore superiore a 2) la concentrazione di odore media è calcolata come media geometrica pesata, in 
+accordo con la formula seguente:
+Cod
+Cod
+
+===== p.18 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 36 –
+Bollettino Ufficiale
+(
+)
+∑
+∏
+=
+=
+⋅
+=
+n
+i
+i
+n
+n
+i
+i
+i
+od
+v
+v
+c
+c
+1
+1
+od
+c
+	
+=	concentrazione di odore media (ouE/m3)
+ic 	
+=	concentrazione di odore misurata sulla i-esima superficie parziale (ouE/m3)
+iv 	
+=	velocità di efflusso misurata sulla i-esima superficie parziale (m/s).
+5.4.2.	
+Sorgenti areali passive
+La stima dell’OER per queste sorgenti risulta essere piuttosto complicato, in quanto è difficile misurare una concentrazione di odore 
+rappresentativa, e soprattutto determinare una portata di aria ben definita.
+Per queste ragioni al fine di valutare l’OER è necessario impiegare dei metodi particolari di campionamento denominati metodi a 
+cappa.
+Il principio sul quale si basano tali metodi è quello di isolare una parte della superficie emissiva con una cappa, e di misurare la 
+concentrazione di odore all’uscita da essa (Figura 3).
+ 
+Figura 3. Schema di funzionamento di una cappa per il campionamento da superfici areali passive
+Per la valutazione dell’OER è necessario passare attraverso il calcolo di un altro parametro significativo, ossia il flusso specifico di 
+odore (SOER – Specific Odour Emission Rate), espresso in unità odorimetriche emesse per unità di superficie e di tempo (ouE/m2/s)
+base
+od
+effl
+A
+c
+Q
+SOER
+⋅
+=
+SOER 	=	
+flusso specifico di odore (ouE/m2/s)
+effl
+Q
+	
+=	
+portata volumetrica di aria uscente dalla cappa (m3/s)
+od
+c
+	
+=	
+concentrazione di odore misurata (ouE/m3)
+base
+A
+	
+=	
+area di base della cappa (m2).
+Infine, per calcolare l’OER è sufficiente moltiplicare il SOER per la superficie emissiva, i.e. la superficie totale della sorgente 
+considerata:
+emiss
+A
+SOER
+OER
+⋅
+=
+OER 	
+=	
+portata di odore (ouE/s)
+SOER 	=	
+flusso specifico di odore (ouE/m2/s)
+emiss
+A
+	 =	
+superficie emissiva (m2).
+Cod
+Cod
+Cod
+Cod
+
+===== p.19 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 37 –
+Per avere dei risultati che rappresentino la situazione reale, le cappe devono essere utilizzate prestando attenzione ad alcuni aspetti: 
+esse infatti isolano dall’ambiente esterno una porzione della superficie emissiva, e di conseguenza potrebbero alterare l’emissività di 
+tale porzione. Ad esempio una variazione di pressione all’interno della cappa potrebbe sopprimere o favorire l’emissione di odoranti. 
+Per questo motivo è necessario eseguire il prelievo dopo aver lasciato passare un tempo sufficiente dopo il posizionamento della cap-
+pa stessa., variabile in funzione delle caratteristiche della cappa.
+Per il campionamento da questa tipologia di sorgenti è consigliabile l’utilizzo di cappe di tipo Wind Tunnel (galleria del vento)
+Il sistema wind tunnel è disegnato per simulare la condizione atmosferica di flusso parallelo senza rimescolamento verticale: una 
+corrente di aria orizzontale nota passante sulla superficie raccoglie i composti odorigeni volatilizzati provocando un’emissione di 
+odore. 
+Il principio di funzionamento della wind tunnel è descritto di seguito. Una corrente di aria neutra è introdotta nella cappa a velocità 
+nota. 
+Sulla base di considerazioni di tipo fisico è possibile dimostrare che il trasferimento di massa dalla superficie liquida (o solida) da 
+campionare alla fase gassosa, e di conseguenza la concentrazione di odore misurata all’uscita della cappa, il SOER e l’OER sono 
+funzione della velocità dell’aria sotto cappa. In particolare, si può dimostrare che:
+n
+od
+v
+c
+−
+∝
+n
+v
+OER
+SOER
+∝
+,
+od
+c
+	
+=	
+concentrazione di odore (ouE/m3)
+SOER 	=	
+flusso specifico di odore (ouE/m2/s)
+OER 	
+=	
+portata di odore (ouE/s)
+v 	
+=	
+velocità dell’aria inviata sotto cappa (m/s)
+n 	
+=	
+esponente sperimentale.
+In particolare, per i liquidi è stato dimostrato che l’esponente n è pari a 0.5 (Bliss et al., 1995; Capelli et al., 2009).
+Secondo questa relazione è possibile osservare che la concentrazione di odore misurata in uscita dalla cappa decresce all’au-
+mentare della velocità, ossia della portata inviata sotto cappa. Per questo motivo in fase di campionamento, in particolare su superfici 
+relativamente poco emissive (e.g. vasche di ossidazione, superfici di lotti di discarica esauriti e chiusi), è necessario operare in condi-
+zioni tali da non far scendere i valori di concentrazione in uscita dalla cappa al di sotto di valori intorno alle 50-100 ouE/m3. A tale sco-
+po si consiglia di effettuare i campionamenti con portate sufficientemente basse, ossia che consentano di avere velocità sotto cappa 
+di qualche centimetro al secondo (1-10 cm/s) (Capelli et al., 2009; Frechen et al, 2004). In ogni caso, dato che la concentrazione di 
+odore misurata è funzione della velocità dell’aria inviata sotto cappa durante il campionamento, è opportuno che sul report della 
+prova olfattometrica tale velocità venga esplicitata.
+Al di sopra della superficie emissiva avviene un trasferimento di massa convettivo. Gli odoranti si mescolano alla corrente gassosa e 
+fuoriescono dal condotto di uscita dal quale viene prelevato il campione.
+Il vantaggio derivante dall’utilizzo di questa tecnica è che la misura è ottenibile in modo relativamente semplice ed economico.
+Il problema di questo sistema è che per poter correlare le misure sperimentali con la reale capacità emissiva della fonte di odore 
+è necessario valutare l’aerodinamica della cappa. E’ importante conoscere i profili di velocità all’interno della wind tunnel, al fine di 
+poter esprimere le emissioni in funzione della velocità media sulla superficie monitorata.
+A titolo esemplificativo, in Figura 4 è riportato la pianta di una wind tunnel (Capelli et al., 2009), con le caratteristiche dimensionali 
+della stessa.
+Figura 4. Esempio di pianta di una wind tunnel
+Cod
+Cod
+
+===== p.20 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 38 –
+Bollettino Ufficiale
+In Figura 5 è riportata la stessa cappa in vista tridimensionale.
+Figura 5. Esempio di vista tridimensionale di una wind tunnel
+Per quanto riguarda il numero di campioni da prelevare su una sorgente areale passiva, questo deve essere sufficiente ad ottenere 
+dei dati rappresentativi delle caratteristiche emissive dell’intera sorgente. In generale, le sorgenti possono essere definite come segue:
+• sorgenti areali passive omogenee (e.g. vasche movimentate): in questo caso può essere sufficiente il prelievo di un unico cam-
+pione sull’intera superficie emissiva;
+• sorgenti areali passive non omogenee (e.g. superfici di discarica): in questo caso il numero di campioni da prelevare sulla super-
+ficie emissiva deve essere aumentato in modo da ottenere una caratterizzazione esaustiva della sorgente stessa (ad esempio, 
+nel caso di campionamento di cumuli di compost, l’individuazione dei punti di campionamento può essere basata sulla diversa 
+età dei cumuli.
+6.	 Bibliografia
+Bliss P. J., Jiang K., Schulz T. J., 1995. The Development of a Sampling System for Determining Odor Emission Rates from Areal Surfaces: 
+Part II. Mathematical Model. Journal of the Air & Waste Management Association 45, 989-994.
+Bockreis A., Steinberg I., 2005. Measurement of odour with focus on sampling techniques. Waste Management 25, 859-863.
+Capelli L., Sironi S., Del Rosso R., Céntola P., 2009. Design and validation of a wind tunnel system for odour sampling on liquid area 
+sources. Water Science and Technology 59, 1611-1620.
+Frechen F.B., Frey M., Wett M., Löser C., 2004. Aerodynamic performance of a low-speed wind tunnel. Water Science and Technology 
+50, 57-64.
+Gostelow P., Longhurst P., Parsons S.A., Stuetz R.M., 2003. Sampling for Measurement of odours. Scientific and Technical Report No. 17, 
+IWA Publishing, London, UK.
+——— • ———
+ 
+Griglia d’ingresso 
+ 
+Palette deflettrici 
+ uscita 
+
+===== p.21 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 39 –
+ALLEGATO 3
+Linea guida per la caratterizzazione delle emissioni gassose in atmosfera delle attività ad impatto odorigeno
+Strategia di valutazione della percezione del disturbo olfattivo da parte della popolazione residente
+1.	Premessa
+L’impatto olfattivo delle emissioni di un impianto costituisce un problema ambientale nella misura in cui l’odore presente nell’aria 
+ambiente sul territorio è percepito come disturbo dalla popolazione residente. Risulta difficile individuare, definire e gestire gli episodi di 
+inquinamento olfattivo a causa della soggettività intrinseca del disturbo olfattivo.
+Fra i diversi metodi disponibili per rilevare le percezioni di disturbo olfattivo sul territorio e rappresentarle in forma oggettiva e docu-
+mentabile, citiamo le seguenti.
+a)	Utilizzo di questionari da compilare in giorni e ore stabilite da parte di un campione predeterminato di popolazione residente. 
+Questo metodo è descritto nella linea guida tedesca��������������������������������������������������������������������������
+ VDI 3883:1993 “Effects and assessment of odours - Determination of annoy-
+ance parameters by questioning - Repeated brief questioning of neighbour panellist”. ��������������������������������������
+Esso prevede che, dopo un adeguato in-
+tervento di sensibilizzazione della popolazione residente, sia identificato un gruppo di volontari, i quali, in possesso di un apposito 
+questionario, effettuino una valutazione all’esterno della propria abitazione in due orari prestabiliti della giornata (alle 8 e alle 20) 
+indicando l’intensità dell’odore percepito in una scala di 6 livelli. Tali osservazioni sono previste in due giorni della settimana: in un 
+giorno lavorativo, a impianti produttivi funzionanti, e in un giorno festivo.
+b)	Monitoraggio in campo tramite un panel di esaminatori. Questo metodo è descritto nella linea guida tedesca VDI 3940:2006 
+“Measurement of odour impact by field inspection - Measurement of the impact frequency of recognizable odours”. ���������
+Esso pre-
+vede che il territorio sottoposto ad indagine sia suddiviso in riquadri tracciando una griglia con maglie da 100 a 300 m di lato. 
+I vertici di tali riquadri sono assunti come punti di osservazione dove, secondo un preciso programma, i membri di un panel di 
+esaminatori, verificati ed addestrati, si recano per rilevare le percezioni di odore. Per ogni punto di osservazione gli esaminatori in 
+campo devono registrare su una scheda di rilevazione se percepiscono odore, ogni 10 secondi e per un tempo complessivo di 
+10 minuti.
+c)	Monitoraggio sistematico del disturbo olfattivo tramite rilevazione delle segnalazioni di percezione di odore da parte della po-
+polazione residente. Questo metodo è stato frequentemente usato nel nostro Paese, benché non esista ancora una dettagliata 
+linea guida. L’eterogeneità delle procedure seguite nei diversi casi applicativi del passato ha purtroppo nuociuto alla rappre-
+sentatività dei risultati ottenuti, i quali hanno permesso il più delle volte di trarre solo delle suggestioni sommarie e soggettive. Al 
+contrario si ritiene che tale metodo abbia un grande potenziale conoscitivo e allo stesso tempo possa essere applicato in modo 
+semplice ed economico; per questi motivi è adottato nel presente documento.
+2.	Scopo e campo di applicazione
+L’obiettivo del presente documento è la definizione di una strategia di approccio alla Fase A di indagine delle problematiche olfat-
+tive per impianti esistenti.
+Il perdurare in una determinata area di un disturbo olfattivo innesca spesso le proteste dei cittadini. Queste non devono essere sof-
+focate o scoraggiate: secondo la strategia proposta, le segnalazioni di disturbo olfattivo devono raccolte in modo ordinato e proficuo, 
+incanalato in percorsi istituzionali, affinché il contenimento del disturbo stesso sia rapido ed efficacie.
+Il primo obiettivo della strategia proposta è discriminare i casi in cui il disturbo olfattivo è dovuto ad eventi eccezionali o temporanei 
+o controllabili mediante semplici interventi gestionali, dai casi (per i quali si attiverà la Fase B di indagine) in cui il disturbo è dovuto a 
+cause strutturalmente connesse alla qualità e quantità delle emissioni di odore in atmosfera di uno o più impianti. In quest’ottica la 
+strategia di approccio alla Fase A di indagine deve avere i seguenti requisiti:
+• economicità;
+• semplicità organizzativa e di gestione;
+• rigore applicativo;
+• ricerca dell’oggettività dei risultati dell’indagine.
+La strategia proposta vuole perseguire gli scopi seguenti:
+• offrire percorsi definiti, trasparenti e condivisi per conseguire il contenimento del disturbo olfattivo, evitando l’esacerbarsi di con-
+trasti e il radicarsi di contrapposizioni;
+• permettere di rilevare in modo quanto più possibile oggettivo il grado di disturbo olfattivo percepito e dimostrare la relazione 
+causa-effetto fra una certa emissione in atmosfera e tale disturbo olfattivo, affinché siano garantiti sia il diritto del gestore dell’im-
+pianto ad esercire l’attività produttiva nel rispetto delle disposizioni cogenti, sia il diritto a salvaguardare la qualità dell’ambiente.
+• accrescere la fiducia della popolazione nella risoluzione del conflitto, mediante un equilibrato confronto tra le parti, mediato 
+dall’Autorità locale.
+La strategia proposta è volta a fornire uno strumento utile:
+• al Sindaco, affinché egli possa svolgere il ruolo di autorità sanitaria locale ai sensi dell’art. 32 della legge n. 833/1978 e dell’art. 
+117 del D.Lgs. n. 112/1998, e di vigilanza e tutela della sicurezza e dell’ordine pubblico;
+• alla popolazione residente, eventualmente raccolta in associazioni, affinché partecipi in modo attivo, informato e consapevole al 
+monitoraggio ed al contenimento del disturbo olfattivo percepito;
+• ai gestori degli impianti di possibili fonti di odore che generano disturbo fra la popolazione, affinché le richieste che eventualmen-
+te perverranno ad essi dall’Autorità locale di contenere le emissioni siano supportate dal riscontro oggettivo e circostanziato del 
+grado di disturbo olfattivo prodotto e dalla dimostrazione che tale disturbo sia effettivamente prodotto da una certa emissione.
+3.	Coordinamento della procedura di valutazione della percezione di disturbo olfattivo
+Il coordinatore della procedura di valutazione della percezione di disturbo olfattivo è il Sindaco del Comune ove il disturbo olfattivo 
+è percepito. Se il disturbo olfattivo è diffuso su più di un territorio comunale o se la presunta principale sorgente dell’emissione di odore 
+ricade in un territorio comunale diverso da quello ove il disturbo olfattivo è percepito, le Amministrazioni comunali dovranno accordar-
+si in modo da individuare un coordinamento unico della procedura. Per la gestione degli aspetti tecnici inerenti la progettazione del 
+monitoraggio sistematico del disturbo olfattivo (in particolare l’individuazione dei segnalatori) sarà incaricato un Ufficio comunale.
+
+===== p.22 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 40 –
+Bollettino Ufficiale
+4.	Procedura per il monitoraggio sistematico del disturbo olfattivo
+4.1	
+Avvio della procedura per il monitoraggio sistematico del disturbo olfattivo
+Eseguite le verifiche preliminari riportate nella “Linea guida per la caratterizzazione delle emissioni gassose in atmosfera delle attività 
+ad impatto odorigeno” e accertato che le segnalazioni di disturbo olfattivo nel territorio sono ricorrenti e significative, si procede ad 
+effettuare un monitoraggio sistematico del disturbo olfattivo, attraverso la raccolta, secondo una procedura definita, delle rilevazioni 
+di percezione di odore da parte della popolazione residente.
+4.2	Esposizione pubblica degli scopi e dello svolgimento del monitoraggio
+L’intera popolazione residente nel territorio ove il disturbo olfattivo è percepito deve essere informata circa la procedura che la pub-
+blica amministrazione intende seguire per monitorare e contenere il disturbo olfattivo percepito dalla popolazione. Lo scopo di tale 
+esposizione pubblica è duplice:
+• trasmettere le informazioni utili affinché il monitoraggio si svolga in modo ordinato ed efficacie e richiedere per questo la piena 
+collaborazione della popolazione;
+• trasmettere alla popolazione la fiducia che le Autorità preposte si sono fatte carico della situazione di disturbo olfattivo percepita 
+e stanno attivamente operando per conseguire il suo contenimento.
+La modalità di pubblicizzazione della procedura terranno conto del contesto e della numerosità della popolazione interessata. Ove 
+possibile, si convoca per questo un’assemblea pubblica.
+I contenuti minimi di cui la popolazione deve essere informata sono i seguenti:
+• lo scopo e lo svolgimento del monitoraggio del disturbo olfattivo ai sensi del presente documento;
+• il quadro normativo essenziale per il contenimento delle emissioni di odore a tutela della qualità dell’aria;
+• l’ambito amministrativo (autorizzazioni rilasciate, ecc.) in cui operano gli impianti sospettati di essere la sorgente delle emissioni 
+di odore che producono disturbo;
+• il ruolo di ciascuno dei soggetti attori della procedura (il Sindaco, le Autorità competenti al rilascio delle autorizzazioni, l’ARPA, 
+ecc.);
+• l’obbligo, in capo al soggetto incaricato al trattamento delle registrazione delle segnalazioni, di vagliare le segnalazioni stesse e 
+non considerare le segnalazioni incongruenti o di dubbia validità;
+• la garanzia della tutela dell’anonimato dei segnalatori.
+4.3	Acquisizione dei dati meteorologici
+Prima dell’avvio del monitoraggio sistematico del disturbo olfattivo deve essere individuata una stazione meteorologica idonea agli 
+scopi del § 4.10.
+Tale stazione meteorologica deve avere le seguenti caratteristiche.
+• La stazione deve registrare almeno velocità e direzione del vento.
+• La scansione di registrazione deve essere almeno oraria; sono per esempio inadeguati dati meteo giornalieri.
+• La quota dell’anemometro della stazione meteo deve essere maggiore o uguale a 5 m e la distanza e posizione fra la stazione ed 
+il sito di indagine deve essere compatibile con l’orografia del territorio.  Altrimenti deve essere preventivamente verificato e docu-
+mentato che le direzioni del vento prevalenti desumibili dai dati storici rilevati dalla stazione siano confermate dall’esperienza di-
+retta di un piccolo campione della popolazione residente; tale verifica è in ogni caso necessaria in caso di orografia complessa.
+La valutazione della conformità della stazione scelta agli scopi del presente documento è eseguita a cura del soggetto incaricato 
+della procedura di cui al § 4.10, il quale deve, prima dell’avvio del monitoraggio:
+• prendere visione diretta dei dati storici registrati dalla stazione prima dell’avvio del monitoraggio;
+• verificare che l’orologio interno della stazione sia sincronizzato con un fuso orario noto (CET o UTC).
+Resta inteso che, se al termine della Fase A sarà necessario attivare la Fase B, sarà allora richiesta l’individuazione di una o più stazio-
+ni meteorologiche rispondenti ai requisiti, più stringenti, previsti nell’allegato 1.
+4.4	
+Scelta dei segnalatori
+Deve essere concessa la possibilità di partecipare al monitoraggio in qualità di segnalatori a tutti coloro che lo desiderano. E’ altresì 
+necessario che sia sollecitata una partecipazione numerosa dei cittadini al monitoraggio, perché solo con un’ampia diffusione dell’i-
+niziativa si darà sostegno ai risultati che si otterranno.
+Durante la scelta dei segnalatori è opportuno che vengano individuati in modo omogeneo con lo scopo di coprire l’intero intorno 
+della zona sotto osservazione, partendo dalle abitazioni più prossime fino a quelle relativamente distanti dove solo saltuariamente 
+viene avvertito il disturbo.
+4.5	Scheda di rilevazione del disturbo olfattivo
+Nella scheda di rilevazione il segnalatore registrerà i propri dati di identificazione personale e gli eventi di percezione di odore. Per 
+evento di percezione di odore si intende un periodo durante il quale il segnalatore ha percepito il medesimo tipo di odore in modo 
+ininterrotto.
+I criteri guida per la progettazione di una scheda di rilevazione idonea sono i seguenti.
+• La scheda di rilevazione deve essere semplice, essenziale e di rapida compilazione.
+• E’ necessario che su ogni scheda siano indicati nome e cognome del segnalatore, anche per responsabilizzare quest’ultimo 
+circa l’importanza del suo compito. Tuttavia sulla scheda deve comparire una dichiarazione che impegni i soggetti coinvolti a 
+trattare le segnalazioni in forma anonima ed a non diffondere le scheda senza che preventivamente sia occultato il nome del 
+segnalatore.
+• E’ preferibile che la durata dell’evento di percezione sia espressa come ora di inizio ed ora di fine piuttosto che come ora di inizio 
+e durata dell’evento, perché quest’ultima modalità è apparsa di gestione più problematica da parte dei segnalatori.
+• Scale di intensità dell’odore percepito con troppo livelli (sei ed oltre) tendono a disorientare il segnalatore e non donano mag-
+giore precisione alla descrizione dell’evento di percezione: è preferibile una scala di tre soli livelli.
+• E’ sconsigliato richiedere obbligatoriamente al segnalatore di indicare nella scheda il tipo (qualità) di odore percepito, perché 
+tale indicazione è troppo soggettiva (dipende sensibilmente dalle conoscenze e dall’esperienza del segnalatore, e del resto è 
+
+===== p.23 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 41 –
+impossibile un efficacie addestramento di tutti i segnalatori) e perché non può essere uniformata in modo da permettere un’utile 
+analisi statistica delle registrazioni rese dai segnalatori. Deve comunque essere concessa al segnalatore la facoltà di annotare 
+informazioni aggiuntive (anche in merito al tipo di odore percepito) per ciascun evento in un apposito campo della scheda.
+• E’ sconsigliato richiedere ai segnalatori di rilevare e registrare le condizioni meteo durante l’evento di percezione, perché tale 
+registrazione può e deve essere acquisita in modo più accurato tramite un’idonea stazione meteo.
+Nell’intestazione della scheda di rilevazione devono essere previsti i campi per la registrazione di:
+• nome e cognome del segnalatore;
+• Comune ed indirizzo ove le segnalazioni di odore sono percepite e registrate;
+• numero progressivo del foglio di registrazione per il medesimo segnalatore.
+Per ogni evento di percezione il segnalatore deve registrare sulla scheda:
+• data dell’evento di percezione;
+• ora di inizio dell’evento di percezione;
+• ora di fine dell’evento di percezione;
+• intensità dell’odore percepito dal segnalatore, secondo una scala di tre livelli: percepibile (simbolo +), forte (simbolo ++) e molto 
+forte (simbolo +++);
+• eventuali note che il segnalatore ritenga utili per descrivere più accuratamente l’evento di percezione; per esempio, una descri-
+zione qualitativa del tipo di odore.
+Si suggerirà ai segnalatori di posizionare la scheda di rilevazione in prossimità di un calendario in modo da facilitare la registrazione 
+della data dell’evento.
+Ogni singola scheda di rilevazione deve essere relativa a percezioni di odore avvertite in un solo luogo ben definito: se un segnalato-
+re è disponibile a rilevare le percezioni di odore in più luoghi distinti (per esempio, nella propria abitazione e sul luogo di lavoro), dovrà 
+compilare schede distinte, indicando in ciascuna l’indirizzo esatto.
+Per un esempio di scheda di segnalazione vedasi l’allegato A.
+4.6	Distribuzione delle schede di segnalazione e raccolta delle schede compilate
+La distruzione delle schede di segnalazione e la raccolta delle schede compilate deve avvenire in modo da garantire la tutela 
+dell’anonimato dei segnalatori e l’assenza di pressioni esterne mirate alla manipolazione dei risultati. Dovrà essere seguita la seguente 
+procedura.
+• Della distribuzione delle schede ai segnalatori è incaricato un solo Ufficio comunale per ciascuno dei Comuni che partecipano 
+al monitoraggio.
+• Ogni scheda di segnalazione è distribuita accompagnata da una busta bianca (tutte le buste devono essere uguali) che riporti 
+all’esterno la sola dicitura “Campagna di monitoraggio del disturbo olfattivo”.
+• Le schede di segnalazione e le buste sono distribuite durante l’assemblea convocata ai sensi del § 4.2. Ogni altra ulteriore o alter-
+nativa forma di distribuzione delle schede dovrà essere eseguita secondo modalità atte a garantire che chi distribuisce le schede 
+non possa manipolare il comportamento dei segnalatori o fornire informazioni distorte o imprecise o parziali.
+• Le schede di segnalazione e le buste devono comunque essere disponibili presso l’Ufficio comunale incaricato per tutta la durata 
+del monitoraggio.
+• Le schede di segnalazione compilate sono raccolte dal medesimo Ufficio comunale che ha provveduto alla distribuzione. L’Ufficio 
+accetterà solo schede che siano chiuse entro le buste predisposte, senza nessun segno di riconoscimento.
+• 
+Periodicamente l’Ufficio comunale incaricato consegna le buste chiuse al soggetto incaricato dell’elaborazione.
+4.7	
+Durata del monitoraggio del disturbo olfattivo
+Ogni campagna di monitoraggio del disturbo olfattivo dovrebbe avere una durata di 3 mesi. Possono essere adottate durate diver-
+se, valutando tuttavia che durate minori possono enfatizzare il rilievo di eventi eccezionali o contingenti mentre durate maggiori pos-
+sono creare nella popolazione disaffezione all’iniziativa. Se si ritiene che il disturbo olfattivo sia influenzato dall’andamento climatico o 
+che esso sia connesso ad altri fenomeni ciclici o dipendenti da fattori esterni, sarà utile programmare più campagne di monitoraggio, 
+ciascuna di uguale durata, ma non necessariamente in successione contigua. L’elaborazione delle schede di segnalazione (§ 4.8, 
+4.9, 4.10) e la presentazione del rapporto (§ 4.11) dovranno comunque avvenire al termine di ciascuna campagna.
+Se, purché sia stata data adeguata pubblicizzazione al monitoraggio e non vi siano dubbi circa l’efficacia delle azioni intraprese 
+in proposito, è esiguo il numero di schede di segnalazione raccolte rispetto al totale delle schede distribuite, il Sindaco interrompe il 
+monitoraggio e prende atto che non sussiste un significativo disturbo olfattivo.
+4.8	Tabella sinottica delle segnalazioni
+Il soggetto incaricato dell’elaborazione delle segnalazioni procede come segue.
+• Riporta su ciascuna scheda il codice attribuito al segnalatore.
+• Verifica la congruenza fra gli indirizzi riportati sulle schede di rilevazione e la mappa con le posizioni dei segnalatori fornita dall’Uf-
+ficio comunale incaricato.
+• Redige una mappa ove indicare la posizione di ciascun segnalatore accompagnata dal rispettivo codice.
+• Prepara in forma elettronica una tabella sinottica (foglio di calcolo) in cui riportate tutte le segnalazioni registrate sulle schede. 
+In questa tabella sinottica saranno da inserire tutte le segnalazioni pervenute da tutti i segnalatori: solo in un secondo tempo si 
+procederà alla loro validazione, scartando le segnalazioni dubbie.
+La tabella sinottica delle segnalazioni deve contenere quanto segue.
+• Nella prima colonna è riportato l’orario, individuato dalla successione completa ed ininterrotta di intervalli di tempo uguali.
+• Nelle colonne successive (una per ciascuno dei segnalatori che hanno consegnato almeno una scheda di segnalazione) sono 
+annotate le segnalazioni. Se il segnalatore annota un’informazione a proposito di un evento di percezione, in ciascuna delle 
+celle corrispondenti a quell’evento nella tabella sinottica l’incaricato dell’elaborazione trascriverà il numero da 1 a 3 che indica 
+l’intensità registrata dal segnalatore (1=+, 2=++, 3=+++). Le celle corrispondenti agli orari nei quali il segnalatore non ha rilevato 
+odore saranno da lasciare vuote o da compilare con uno zero.
+• Eventuali informazioni annotate dai segnalatori nella predisposta colonna delle schede di segnalazione saranno vagliate dall’in-
+caricato dell’elaborazione: quelle significative e rilevanti all’interpretazione delle segnalazioni stesse dovranno essere riportate 
+nella tabella sinottica, o in un’apposita ultima colonna, indicando il codice del’esaminatore cui si riferisce il commento.
+
+===== p.24 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 42 –
+Bollettino Ufficiale
+Nella redazione della tabella sinottica valgano le seguenti convenzioni.
+• Si assume un solo fuso orario omogeneo per la durata dell’intero monitoraggio, preferibilmente il CET (Central European Time). Se 
+per esempio a cavallo del monitoraggio avviene il cambio d’ora da solare (CET) a legale (CEST) o viceversa, l’incaricato dell’e-
+laborazione deve convertire nel fuso CET gli orari delle segnalazioni registrate con fuso CEST (per esempio a maggio) sottraendo 
+un’ora, lasciando invece inalterati gli orari delle segnalazioni registrate con fuso CET (per esempio a febbraio). Se un monitorag-
+gio si svolge interamente in un periodo in cui vige l’ora legale, si sottrarrà un’ora a tutti gli orari delle segnalazioni.
+• Considerando che le informazioni registrate nella tabella sinottica andranno confrontate con i dati registrati dalla stazione me-
+teo, è opportuno che l’intervallo di avanzamento dell’orario nella prima colonna della tabella coincida con l’intervallo con cui 
+la stazione meteo registra i dati, affinché le registrazioni delle segnalazioni e dei dati meteo siano simultanee. Per esempio, se il 
+monitoraggio ha avuto luogo dal 1 gennaio 2009 al 31 marzo 2009 e la stazione meteo rileva dati con scansione oraria, nella 
+tabella sinottica si dovranno incolonnare gli orari 1 gennaio 2009 0.00, 1 gennaio 2009 1.00, 1 gennaio 2009 2.00 e così via fino a 
+31 marzo 2009 23.00; se invece la stazione rileva un dato ogni 30 minuti, si dovranno incolonnare gli orari 1 gennaio 2009 0.00, 1 
+gennaio 2009 0.30, 1 gennaio 2009 1.00, 1 gennaio 2009 1.30 e così via.
+• La data e ora indicata nella prima colonna è da intendersi come la data e ora di fine della segnalazione, uniformemente a 
+quanto avviene usualmente nella registrazione dei dati meteo. Per esempio, se una percezione di odore è stata segnalata dalle 
+ore 14.00 alle ore 16.00 e la stazione meteo registra dati a scansione oraria, l’incaricato dell’elaborazione contrassegnerà le celle 
+corrispondenti agli orari 15.00 e 16.00 nella colonna relativa a quel segnalatore.
+• Gli orari di inizio o fine della segnalazione devono essere arrotondati all’orario più prossimo della successione nella tabella sinot-
+tica. Se per esempio un segnalatore ha registrato un evento olfattivo dalle 14.25 alle 17.18 del 1 gennaio 2009 e gli intervalli sono 
+di un’ora, l’incaricato dell’elaborazione contrassegnerà le celle nella colonna relativa a quel segnalatore corrispondenti alle ore 
+15.00, 16.00 e 17.00 di quel giorno (si rammenti che è da indicare l’ora di fine della segnalazione); nello stesso caso, se gli intervalli 
+sono di 30 minuti, l’incaricato contrassegnerà le celle delle ore 15.00, 15.30, 16.00, 16.30, 17.00, 17.30.
+Un esempio di tabella sinottica è riportato nell’allegato B.
+I dati forniti attraverso le schede di rilevazione verranno posti in tabella, o meglio su un foglio di calcolo, ponendo in colonne una 
+codifica del segnalatore che ne assicuri l’anonimato, e in righe la data e l’ora in cui viene percepito il disturbo.
+Nella tabella sinottica è comodo aggiungere anche una colonna con la direzione del vento registrata dalla stazione meteo. Si ab-
+bia cura di verificare che per direzione del vento si indichi la direzione di provenienza, secondo la consueta convenzione.
+4.9	
+Individuazione degli eventi di percezione concorde da parte dei segnalatori
+Dopo aver compilato la tabella sinottica delle segnalazioni, l’incaricato dell’elaborazione deve anzitutto scartare (barrando o an-
+nerendo le celle corrispondenti nella tabella sinottica) le segnalazioni che appaiono senza dubbio incongruenti o infondate o pale-
+semente viziate da pregiudizi.
+Devono in particolare essere scartate:
+• 
+segnalazioni frequenti ed ininterrotte di odore intenso che risultino anomale rispetto a quanto rilevato degli altri segnalatori 
+vicini;
+• 
+segnalazioni accompagnate da commenti che manifestino una predisposizione o un pregiudizio negativi e non obiettivi 
+rispetto al compito assegnato al segnalatore.
+Successivamente, l’incaricato dell’elaborazione analizza le segnalazioni per ogni segnalatore e per ogni riga della tabella, per de-
+finire in quali intervalli di tempo, per ciascun segnalatore, risultino segnalazioni concordi di percezioni di odore, sulla base del numero 
+e dell’intensità delle segnalazioni.
+4.10	 Validazione delle segnalazioni
+Indipendentemente dalla buona fede del segnalatore, non sempre tutti gli eventi segnalati possono essere attribuibili all’attività 
+produttiva oggetto del monitoraggio. Può infatti accadere che, in particolare in aree rurali, la percezione di odore possa essere dovuta 
+ad altre cause, come per esempio allo spandimento di fertilizzanti o ammendanti, a fosse biologiche o ad altro ancora. Escludere con 
+sicurezza tutti questi elementi di incertezza non è sempre possibile; possono aiutare nella loro individuazione alcune considerazioni di 
+seguito riportate:
+• Una segnalazione riportata da più osservatori, compatibile con i dati meteo, può essere assunta come un dato sufficientemente 
+validato per essere riportato tra gli eventi ascrivibili alla sorgente in osservazione.
+• Segnalazioni singole, in particolare, se prossime alla sorgente e compatibili con i dati meteo, possono essere assunte come molto 
+probabili ed incluse nel novero degli eventi conteggiati.
+• Segnalazioni singole, a distanze remote rispetto alla sorgente, seppur compatibili con i dati meteo, è preferibile non ascriverle tra 
+gli eventi considerati, in particolare quando nell’area sono presenti, a distanze più prossime alla sorgente, altri possibili segnalatori 
+che nello specifico caso non hanno rilevato odori. Potrebbe trattarsi di eventi di modesta entità o addirittura di eventi confondenti.
+• Si ha compatibilità tra la segnalazione e i dati meteo quando la direzione del vento è compatibile con il trasporto delle sostanze 
+odorigene dalla sorgente verso il segnalatore. Con venti di media-bassa intensità può essere assunto come area potenzialmente 
+interessata dalla dispersione odorigena il settore compreso con ± 30° rispetto alla direzione del vento; con venti progressivamente 
+più deboli l’ampiezza dell’angolo di tale settore di influenza tende sempre più ad ampliarsi.
+• Sono da scartare anche le segnalazioni troppo generiche del tipo “odore tutto il giorno”, in particolare se ripetute per più giorni 
+consecutivi. Occorre rilevare che questo tipo di segnalazioni può essere determinato dall’esasperazione del segnalatore nei 
+confronti della problematica. Per questi motivi bisogna essere molto chiari quando si illustra il monitoraggio facendo capire chia-
+ramente che solo le segnalazioni circostanziate e verificabili saranno considerate. 
+Le considerazioni fin qui espresse non consentono una rigorosa selezione degli eventi segnalati che possa escludere completa-
+mente le false attribuzioni e inoltre non si può avere la certezza che tutti gli episodi di disturbo possano essere individuati, ma, da casi 
+di studio in cui è stato fatto il confronto tra i dati emersi dall’applicazione di un modello di dispersione al suolo derivante da specifiche 
+sorgenti e le segnalazioni da parte della popolazione residente di disturbo olfattivo percepite, è ragionevole attendersi percentuali di 
+corrispondenza superiori al 90%.
+4.11	 Rapporto finale del monitoraggio del disturbo olfattivo
+Dall’esecuzione del monitoraggio sarà possibile determinare sia il numero di eventi sia il numero complessivo di ore in cui il disturbo 
+risulta essere stato percepito. Sulla base dei limiti posti dalla presente linea guida essi devono essere tali da non superare i valori di 
+concentrazione orarie di picco di odore al 98° percentile su base annuale.
+
+===== p.25 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 43 –
+Considerando l’esperienza di campo e i citati limiti temporali fissati dalla linea guida si rende necessario passare alla fase di ap-
+profondimento della problematica odore (fase B) quando le ore di percezione di odore nell’area, derivanti dalla somma dei tempi 
+ascrivibili agli eventi validati, siano superiore al 2% del periodo di monitoraggio. Per completezza di documentazione la relazione finale 
+deve contenere anche il numero di eventi validati/mese e la durata media di percezione del disturbo per evento.
+Tabella 1. Valutazione di accettabilità della percezione di disturbo olfattivo da parte della popolazione residente
+In presenza di un superamento di un valore 
+medio di 15 ore di disturbo olfattivo /mese 
+per tempo di monitoraggio di un trimestre.
+Necessità di un approfondimento 
+della problematica con lo svolgimento 
+dell’indagine prevista dalla “fase B”
+Con valori prossimi ai limiti di ore di disturbo 
+olfattivo, in presenza interventi migliorativi 
+già definiti e programmati è possibile 
+prevedere la ripetizione del monitoraggio 
+in un tempo successivo alle modifiche 
+strutturali o organizzative messe in atto.
+In assenza di interventi migliorativi 
+sull’impianto è discrezione dell’organo di 
+controllo richiedere lo svolgimento della 
+“fase B”
+Con valori ampiamente inferiori ai limiti, 
+considerando anche l’incertezza dei 
+dati, stimata intorno al 20%, è possibile 
+concludere che allo stato attuale il 
+disturbo prodotto rientra nei limiti di 
+accettabilità. Non sono pertanto richiesti 
+interventi migliorativi sull’impianto e non 
+c’è necessità di svolgere approfondimenti 
+conoscitivi attuando quanto previsto dalla 
+“fase B”
+L
+K
+J
+5.	
+Verifica della corrispondenza del modello di impatto olfattivo con le segnalazioni dei residenti
+In tutti i casi in cui sia stato svolto l’approfondimento di indagine ambientale previsto dalla “fase B” si rende necessario verificare la 
+corrispondenza dei risultati emersi dall’applicazione del modello matematico con le segnalazioni da parte della popolazione residen-
+te raccolte nell’attuazione della “fase A”.
+Per i motivi sopra esposti è estremamente importante che al termine della “fase A”, quando si prevede lo svolgimento della “fase B”, si 
+provveda alla registrazione di tutti i dati meteo utili per l’applicazione del modello, i quali saranno utilizzati appunto per lo studio delle 
+corrispondenze.
+Si tratta di applicare il modello di dispersione nelle condizioni meteo in cui si sono verificati gli eventi di disturbo olfattivo e determi-
+nare se i segnalatori che hanno evidenziato la percezione di disturbo siano effettivamente compresi dalle curve di dispersione prodot-
+te dal modello corrispondenti ad una concentrazione di odore pari a 1 ouE/m3. A tale proposito si veda l’esempio seguente.
+N. evento
+data
+ora
+Conferma modello
+1
+21/07/2008
+10
+No
+2
+22/07/2008
+18
+Si
+3
+24/07/2008
+19
+Si
+N. Totale di eventi/ora validati di disturbo olfattivo
+47
+N. di corrispondenze modello-evento
+41
+N. di non corrispondenze modello-evento
+6
+% di corrispondenze modello-evento
+87,2%
+Il risultato derivante dal calcolo del numero delle corrispondenze e la conseguente definizione della percentuale, come di seguito 
+definito (Tabella ������������������������������������������������������������������������������������������������������������������������
+2�����������������������������������������������������������������������������������������������������������������������
+), consente di esprimere una valutazione complessiva sulla convergenza tra i risultati delle due fasi di indagine (“Fa-
+se A” e “Fase B”). 
+Tabella 2. Valutazione dei risultati della corrispondenza tra modello di dispersione ed eventi segnalati
+Corrispondenza < 70%
+C’è un limitato accordo tra i parametri 
+che stanno alla base del modello di 
+dispersione e la raccolta dati provenienti 
+dalle segnalazioni della popolazione 
+residente. Si rende necessaria una verifica 
+critica dell’elaborazione modellistica e 
+delle segnalazioni raccolte dei dati.
+Corrispondenza tra 70% e 85%
+C’è sufficiente accordo tra i parametri 
+che stanno alla base del modello di 
+dispersione e la raccolta dati provenienti 
+dalle segnalazioni della popolazione 
+residente. Si rende utile una verifica critica 
+dell’elaborazione modellistica e delle 
+segnalazioni raccolte dei dati.
+Se dopo la verifica il dato di 
+corrispondenza rimane inalterato la 
+rappresentazione della realtà in esame 
+appare comunque sufficientemente 
+affidabile.
+Corrispondenza > 85%
+C’è buon accordo tra i parametri 
+che stanno alla base del modello di 
+dispersione e la raccolta dati provenienti 
+dalle segnalazioni della popolazione 
+residente. La rappresentazione della realtà 
+in esame appare pienamente affidabile 
+e l’indagine costituisce un affidabile e 
+verificato elemento conoscitivo.
+L
+K
+J
+La valutazione della corrispondenza tra modello di dispersione ed eventi segnalati deve essere riportato nella relazione conclusiva 
+relativa alla “fase B”.
+
+===== p.26 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 44 –
+Bollettino Ufficiale
+Allegato A: modello di scheda di rilevazione del disturbo olfattivo
+Segnalatore
+Foglio n.
+Indirizzo
+Comune
+Cod. segnalat. (1)
+Segnalazioni delle percezioni di odori
+Data (2)
+Ora inizio
+Ora fine
+Intensità (3)
+Note (caratteristiche del disturbo)
+(1)	
+Compilazione a carico dei tecnici incaricati.
+(2)	
+Più episodi occorsi nello stesso giorno devono essere descritte in righe diverse.
+(3)	
+Scala di intensità convenzionale: + = odore percepibile, ++ = odore forte, +++ = odore molto forte
+Si autorizza, ai sensi dell’art. 13 del d.lgs 196/2003, l’acquisizione e il trattamento dei dati personali solo ed esclusivamente ai fini del 
+monitoraggio in atto. La presentazione dei risultati conseguiti avverrà solo in forma anonima, tutelando l’identità dei segnalatori.
+Firma 
+ 
+ 
+_____________________________
+
+===== p.27 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 45 –
+Allegato B: esempi di elaborazione delle segnalazioni
+Tabella 3. Tabella sinottica delle segnalazioni.
+Data e ora di fine (CET)
+Segnalatori ed intensità delle segnalazioni
+note
+Direzione del vento
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+B1
+B2
+B3
+…
+01/01/2009 00.00
+10
+01/01/2009 01.00
+2
+2
+1
+125
+01/01/2009 02.00
+2
+2
+1
+1
+1
+1
+A1: acre
+157
+01/01/2009 03.00
+2
+1
+1
+3
+1
+173
+01/01/2009 04.00
+3
+3
+154
+01/01/2009 05.00
+3
+3
+3
+105
+01/01/2009 06.00
+3
+3
+1
+3
+56
+01/01/2009 07.00
+3
+3
+3
+2
+1
+3
+A2: dolce
+335
+01/01/2009 08.00
+1
+2
+2
+1
+3
+2
+293
+01/01/2009 09.00
+1
+2
+3
+1
+225
+01/01/2009 10.00
+3
+160
+01/01/2009 11.00
+3
+150
+01/01/2009 12.00
+3
+3
+158
+01/01/2009 13.00
+3
+253
+...
+...
+01/01/2009 00.00
+2
+2
+2
+4
+01/01/2009 01.00
+1
+1
+1
+357
+01/01/2009 02.00
+1
+3
+2
+01/01/2009 03.00
+2
+2
+6
+01/01/2009 04.00
+1
+3
+3
+3
+3
+B1: solvente
+333
+01/01/2009 05.00
+3
+2
+3
+2
+B1: solvente
+349
+01/01/2009 06.00
+1
+346
+...
+...
+Nota. La serie ininterrotta nelle ore dalla 03 alla 13 registrata da 10 deve essere scartata (vedasi § 4.9).
+——— • ———
+
+===== p.28 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 46 –
+Bollettino Ufficiale
+ALLEGATO 4
+Linea guida per la caratterizzazione delle emissioni gassose in atmosfera delle attività ad impatto odorigeno 
+Caratterizzazione chimica delle emissioni odorigene
+Premessa
+Non è nota una relazione quantitativa che leghi la composizione chimica di un’aria osmogena con la sua concentrazione di odo-
+re; un’informazione utile, anche se parziale, è fornita dal calcolo degli Odour Activity Value (OAV) delle sostanze che costituiscono una 
+miscela odorigena, ottenuto dal rapporto tra la concentrazione di ogni analita e la sua soglia di percezione olfattiva (Odour Threshold 
+Concentration, OTC); la somma degli OAV di una miscela è proporzionale in prima approssimazione alla sua concentrazione di odore.
+La caratterizzazione chimica delle emissioni odorigene risulta particolarmente utile nei seguenti casi:
+−
+−individuazione di molecole traccianti delle emissioni per l’identificazione delle sorgenti responsabili di un inquinamento odorige-
+no mediante analisi delle immissioni sul territorio;
+−
+−valutazione approssimata di un’emissione odorigena contenente anche sostanze irritanti, tossiche o nocive (industrie chimiche, 
+fonderie, ecc.), non idonea all’analisi olfattometrica con panel;
+−
+−verifica e convalida delle previsioni di un modello di dispersione dell’odore, mediante analisi delle ricadute sui recettori di com-
+posti in tracce emessi dalle sorgenti, a causa dell’impossibilità di eseguire sulle immissioni misure olfattometriche esenti dal fondo 
+ambientale;
+−
+−identificazione delle sostanze odorigene più importanti di un’emissione osmogena per predisporre adeguati sistemi di abbatti-
+mento e per valutarne l’efficacia.
+La tecnica analitica di elezione per la caratterizzazione chimica delle emissioni odorigene è la gascromatografia abbinata alla 
+spettrometria di massa (GC/MS), preceduta da un’opportuna fase di preconcentrazione del campione gassoso e desorbimento 
+termico.
+Campionamento e conservazione del campione
+Per il prelievo e la conservazione dei campioni di emissioni odorigene ai fini della caratterizzazione chimica valgono le stesse con-
+siderazioni già fatte per le analisi olfattometriche: il medesimo campione prelevato per l’olfattometria in sacchetti di Nalophan o altro 
+materiale adatto può essere sottoposto ad analisi chimica, purché ciò avvenga entro un intervallo di tempo non superiore alle 30 ore.
+Analogamente si deve prestare attenzione per evitare la formazione di condense nel sacchetto mediante prediluizione con suffi-
+ciente volume di aria pulita secca.
+Analisi mediante GC/MS
+Il metodo più diffuso per l’analisi GC/MS di campioni gassosi è il metodo TO-15 dell’Environmental Protection Agency statunitense 
+(US EPA): il campione gassoso, prelevato mediante speciali contenitori di acciaio trattati internamente  (canister) precedentemente 
+evacuati, è adsorbito su fase solida, sottoposto ad un trattamento di eliminazione dell’umidità (che può influenzare la qualità della 
+cromatografia) e dopo l’aggiunta di uno standard interno deuterato è desorbito termicamente ed introdotto nel sistema GC/MS.
+Le condizioni analitiche del metodo (a cui si fa riferimento) consentono l’analisi quantitativa di gran parte delle Sostanze Organiche 
+Volatili (SOV); per l’applicazione ai campioni di interesse odorigeno, è opportuno apportare al metodo quelle modifiche che ne esten-
+dano il più possibile il campo applicativo:
+molte molecole ad alta polarità sono dotate di odore sgradevole e soglia di percezione molto bassa (ammine alifatiche, acidi car-
+bossilici); poiché il trattamento per l’eliminazione dell’umidità può perdere le sostanze polari, esso deve interferire il meno possibile con 
+la composizione del campione; si suggerisce l’uso del Tenax come materiale adsorbente per le sue caratteristiche idrofobe.
+Poiché la superficie interna di alcuni tipi di canister può adsorbire le molecole polari, si preferisce l’uso di sacche (Nalophan, Tedlar) 
+per il campionamento; resta intesa la necessità dell’analisi entro le 30 ore.
+L’acquisizione dell’analisi in modalità “scansione” permette di registrare gli spettri di massa di tutti i composti analizzati e quindi di 
+identificarli; per l’analisi quantitativa, si ricorre alla calibrazione del sistema GC/MS con soluzioni gassose sintetiche di riferimento per 
+le sostanze più comuni.
+Il limite di sensibilità del metodo in modalità “scansione” è inferiore a 1 μg/m3 per la maggior parte delle sostanze analizzate, e 
+dipende dal volume di campione analizzato (1-2 litri); per la ricerca di sostanze odorigene particolari o traccianti nelle immissioni, si 
+ricorre alla tecnica SIM (Selected Ion Monitoring), che raggiunge sensibilità comprese tra 0.01 e 0.1 μg/m3, analizzando volumi di aria 
+da 2 a 8 litri.
+I composti di interesse odorigeno da determinare mediante GC/MS, perché dotati di odore sgradevole e/o soglia di percezione 
+molto bassa, sono:
+composti solforati: tioli, tioeteri, ditioeteri, tioesteri;
+composti azotati: ammine alifatiche, indoli, piridine, pirazine;
+composti ossigenati: alcoli, eteri, esteri, aldeidi, chetoni, acidi, fenoli, furani;
+idrocarburi: olefine, idrocarburi aromatici.
+Tipicamente il tracciato cromatografico ottenuto da un’emissione mostra la presenza di più di cento componenti; di questi, almeno 
+una ventina contribuiscono significativamente alle proprietà odorigene del campione, che possono essere ricavate dalla somma dei 
+loro OAV e confrontate con il risultato dell’analisi olfattometrica.
+
+===== p.29 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 47 –
+In alternativa al metodo TO-15, è spesso impiegata la tecnica di microestrazione in fase solida su fibra (SPME) per l’analisi quantitati-
+va GC/MS delle immissioni, sia per praticità che semplicità d’uso; per campioni gassosi come le emissioni, che presentano concentra-
+zioni nell’ordine dei mg/m3, la tecnica SPME è sconsigliabile a causa di fenomeni di saturazione della fibra estraente.
+Valori di Odour Threshold
+In tabella 1 sono riportati i valori ricavati mediante olfattometria dinamica ed in tabella 2 sono riportati i valori di soglia olfattiva tratti 
+dal lavoro “Measurement of Odor Threshold by Triangle Odor Bag Method”, di Yoshio Nagata del Japan Environmental Sanitation Cen-
+ter. E’ da sottolineare che le differenze tra i valori sono riconducibili ai due diversi metodi di prova.
+Composto
+OT (ppb)
+Ammoniaca
+200
+Acetaldeide
+5
+Butirraldeide
+1
+Etanolo
+40
+Etil mercaptano
+0,08
+Dimetildisolfuro
+2
+Dimetilsolfuro
+1
+Idrogeno solforato
+0,3
+Limonene
+20
+Tabella 1. Valori di OT determinati mediante olfattometria dinamica
+Substance
+Odor Threshold
+Substance
+Odor Threshold
+Formaldehyde
+0,5 Hydrogen sulfide
+0,00041
+Acetaldehyde
+0,0015 Dimethyl sulfide
+0,003
+Propionaldehyde
+0,001 Methyl allyl sulfide
+0,00014
+n-Butylaldehyde
+0,00067 Diethyl sulfide
+0,000033
+lsobutylaldehyde
+0,00035 Allyl sulfide
+0,00022
+n-Valeraldehyde
+0,00041 Carbon disulfide
+0,21
+Isovaleraldehyde
+0,0001 Dimethyl disulfide
+0,0022
+n-Hexylaldehyde
+0,00028 Diethyl disulfide
+0,002
+n-Heptylaldehyde
+0,00018 Diallyl disulfide
+0,00022
+n-Octylaldehyde
+0,00001 Methyl mercaptane
+0,00007
+n-Nonylaldehyde
+0,00034 Ethyl mercaptane
+0,0000087
+n-Decylaldehyde
+0,0004 n-Propyl mercaptane
+0,000013
+Acrolein
+0,0036 Isopropyl mercaptane
+0,000006
+Methacrolein
+0,0085 n-Butyl mercaptane
+0,0000028
+Crotonaldehyde
+0,023 Isobutyl mercaptane
+0,0000068
+Methanol
+33 sec.Butyl mercaptane
+0,00003
+Ethanol
+0,52 tert.Butyl mercaptane
+0,000029
+n-Propanol
+0,094 n-Amyl mercaptane
+0,00000078
+Isopropanol
+26 Isoamyl mercaptane
+0,00000077
+n-Butanol
+0,038 n-Hexyl mercaptane
+0,000015
+I sobutanol
+0,011 Thiophene
+0,00056
+sec.Butanol
+0,22 Tetrahydrothiophene
+0,00062
+tert.Butanol
+4,5 Nitrogen dioxide
+0,12
+n-Pentanol
+0,1 Ammonia
+1,5
+Isopentanol
+0,0017 Methylamine
+0,035
+sec.Pentanol
+0,29 Ethylamine
+0,046
+tert.Pentanol
+0,088 n-Propylamine
+0,061
+n-Hexanol
+0,006 Isopropylamine
+0,025
+n-Heptanol
+0,0048 n-Butylamine
+0,17
+n-Octanol
+0,0027 Isobutylamine
+0,0015
+Isooctanol
+0,0093 sec, Butylamine
+0,17
+n-Nonanol
+0,0009 tert, Butylamine
+0,17
+
+===== p.30 =====
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 48 –
+Bollettino Ufficiale
+Substance
+Odor Threshold
+Substance
+Odor Threshold
+n-Decanol
+0,00077 Dimethylamine
+0,033
+2-Ethoxyethanol
+0,58 Diethylamine
+0,048
+2-n-Buthoxyethanol
+0,043 Trimethylamine
+0,000032
+1-Butoxy-2-propanol
+0,16 Triethylamine
+0,0054
+Phenol
+0,0056 Acetonitrile
+13
+o-Cresol
+0,00028 Acrylonitrile
+8,8
+m-Cresol
+0,0001 Methacrylonitrile
+3
+p-Cresol
+0,000054 Pyridine
+0,063
+Geosmin
+0,0000065 Indole
+0,0003
+Acetic acid
+0,006 Skatole
+0,0000056
+Propionic acid
+0,0057 Ethyl-o-toluidine
+0,026
+n-Butyric acid
+0,00019 Propane
+1500
+Isobutyric acid
+0,0015 n-Butane
+1200
+n-Valeric acid
+0,000037 n-Pentane
+1,4
+Isovaleric acid
+0,000078 Isopentane
+1,3
+n-Hexanoic acid
+0,0006 n -Hexane
+1,5
+Isohexanoic acid
+0,0004 2-Methylpentane
+7
+Sulfur dioxide
+0,87 3-Methylpentane
+8,9
+Carbonyl sulfide
+0,055 2,2-Dimethylbutane
+20
+2,3-Dimethylbutane
+0,42 Ethyl acetate
+0,87
+n-Heptane
+0,67 n-Propyl acetate
+0,24
+2-Methylhexane
+0,42 Isopropyl acetate
+0,16
+3-Methylhexane
+0,84 n-Butyl acetate
+0,016
+3-Ethylpentane
+0,37 Isobutyl acetate
+0,008
+2, 2-Dimethylpentane
+38 sec.Butyl acetate
+0,0024
+2, 3-Dimethylpentane
+4,5 tert.Butyl acetate
+0,071
+2, 4-Dimethylpentane
+0,94 n-Hexyl acetate
+0,0018
+n-Octane
+1,7 Methyl propionate
+0,098
+2-Methylheptane
+0,11 Ethyl propionate
+0,007
+3-Methylheptane
+1,5 n-Propyl propionate
+0,058
+4-Methylheptane
+1,7 Isopropyl propionate
+0,0041
+2,2,4-Trimethylpentane
+0,67 n-Butyl propionate
+0,036
+n-Nonane
+2,2 Isobutyl propionate
+0,02
+2,2,5-Trimethylhexane
+0,9 Methyl n-butyrate
+0,0071
+n-Undecane
+0,87 Methyl isobutyrate
+0,0019
+n-Decane
+0,62 Ethyl n-butyrate
+0,00004
+n-Dodecane
+0,11 Ethyl isobutyrate
+0,000022
+Propylene
+13 n-Propy n-butyrate
+0,011
+1-Butene
+0,36 Isopropyl n-butyrate
+0,0062
+Isobutene
+10 n-propyl isobutyrate
+0,002
+1-Pentene
+0,1 Isopropyl isobutyrate
+0,035
+1-Hexene
+0,14 n-Butyl n-butyrate
+0,0048
+1-Heptene
+0,37 Isobutyl n-butyrate
+0,0016
+1-Octene
+0,001 n-Butyl isobutyrate
+0,022
+1-Nonene
+0,00054 Isobutyl isobutyrate
+0,075
+1,3-Butadiene
+0,23 Methyl n-valerate
+0,0022
+Isoprene
+0,048 Methyl isovalerate
+0,0022
+Benzene
+2,7 Ethyl n-valerate
+0,00011
+Toluene
+0,33 Ethyl isovalerate
+0,000013
+Styrene
+0,035 n-Propyl n-valerate
+0,0033
+Ethylbenzene
+0,17 n-Propyl isovalerate
+0,000056
+o-Xylene
+0,38 n-Butyl isovalerate
+0,012
+m-Xylene
+0,041 Isobutyl isovalerate
+0,0052
+p-Xylene
+0,058 Methyl acryrate
+0,0035
+
+===== p.31 =====
+Bollettino Ufficiale
+Serie Ordinaria n. 8 - Lunedì 20 febbraio 2012
+– 49 –
+Substance
+Odor Threshold
+Substance
+Odor Threshold
+n-Propylbenzene
+0,0038 Ethyl acryrate
+0,00026
+Isopropylbenzene
+0,0084 n-Butyl acryrate
+0,00055
+1,2,4-Trimethylbenzen
+0,12 Isobutyl acryrate
+0,0009
+1,3,5-Trimethylbenzen
+0,17 Methyl methacryrate
+0,21
+o-Ethyltoluene
+0,074 2-Ethoxyethyl acetate
+0,049
+m-Ethyltoluene
+0,018 Acetone
+42
+p-Ethyltoluene
+0,0083 Methyl ethyl ketone
+0,44
+o-Diethylbenzene
+0,0094 Methyl n-propyl ketone
+0,028
+m-Diethylbenzene
+0,07 Methyl isopropyl ketone
+0,5
+p-Diethylbenzene
+0,00039 Methyl n-butyl ketone
+0,024
+n-Butylbenzene
+0,0085 Methyl isobutyl ketone
+0,17
+1,2,3,4-Tetramethylbenzen
+0,011 Methyl sec,butyl ketone
+0,024
+1,2,3,4-Tetrahydronaphthalene
+0,0093 Methyl tert,butyl ketone
+0,043
+α-Pinene
+0,018 Methyl n-amyl ketone
+0,0068
+β-Pinene
+0,033 Methyl isoamyl ketone
+0,0021
+Limonene
+0,038 Diacetyl
+0,00005
+Methylcyclopentane
+1,7 Ozone
+0,0032
+Cyclohexane
+2,5 Furane
+9,9
+Methylcyclohexane
+0,15 2,5-Dihydrofurane
+0,093
+Methyl formate 
+130 Chlorine
+0,049
+Ethyl formate
+2,7 Dichloromethane
+160
+n-Propyl formate
+0,96 Chloroform
+3,8
+Isopropyl formate
+0,29 Trichloroethylene
+3,9
+n-Butyl formate
+0,087 Carbon tetrachloride
+4,6
+Isobutyl formate
+0,49 Tetrachloroethylene
+0,77
+Mthyl acetate
+1,7
+Tabella 2. Odor thresholds measured by the triangle odor bag method (ppm, v/v)

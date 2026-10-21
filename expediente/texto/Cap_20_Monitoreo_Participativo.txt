@@ -1,6 +1,8 @@
-### PÁGINAS TOTALES: 2
 
-===== p.1 =====
+===== p.0 =====
+ 
+ 
+ 
 CAPÍTULO 19 
 MONITOREO PARTICIPATIVO 
  
@@ -10,9 +12,16 @@ DE GESTIÓN INTEGRAL DE RESIDUOS
  
  
  
-Documento Preparado por:
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-===== p.2 =====
+===== p.1 =====
 1 
 Monitoreo Participativo 
 En cumplimiento de lo establecido en el artículo 18, letra m bis) del D.S. N° 40/2012 (Reglamento 
@@ -34,4 +43,4 @@ Lo anterior da cumplimiento a los principios normativos de transparencia y traza
 información, permitiendo que cualquier persona natural o jurídica acceda libremente a los 
 antecedentes operacionales y a los resultados de los monitoreos del Proyecto mediante el Sistema 
 Nacional de Información de Fiscalización Ambiental (SNIFA) y los registros públicos 
-correspondientes.
+correspondientes. 

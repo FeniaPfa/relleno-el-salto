@@ -1,6 +1,16 @@
-### PÁGINAS TOTALES: 16
 
-===== p.1 =====
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Elaborado por: 
  
  
@@ -10,9 +20,11 @@ Elaborado por:
 Julio 2026 
 ANEXO: PLAN DE MANEJO BIOLOGICO 
 Alstroemeria marticorenae, Chloraea 
-cristata y Chloraea disoides
+cristata y Chloraea disoides 
 
-===== p.2 =====
+===== p.1 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -45,9 +57,17 @@ Sitio receptor .................................................................
 3.5.2. 
 Procedimiento de relocalización ......................................................... 12 
 3.6. Monitoreo ................................................................................................. 13 
-3.7. Bibliografía ................................................................................................ 15
+3.7. Bibliografía ................................................................................................ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-===== p.3 =====
+===== p.2 =====
 1. Introducción 
 El presente anexo define la metodología a implementar para el rescate y relocalización de 
 especies en categoría de conservación presentes en el área de intervención del proyecto 
@@ -83,9 +103,11 @@ de mitigación ambiental, constituyendo una acción orientada a evitar la pérdi
 individuos mediante su traslado a sitios con condiciones ecológicas equivalentes, donde sea 
 posible su establecimiento y persistencia en el tiempo (SEA, 2022). Asimismo, su ejecución 
 busca reducir la significancia del impacto residual asociado a la pérdida de ejemplares de 
-flora nativa con valor de conservación.
+flora nativa con valor de conservación. 
 
-===== p.4 =====
+===== p.3 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -121,9 +143,9 @@ Ambiente. Su distribución conocida es muy restringida a la costa de la Región 
 Corresponde a una hierba perenne, con presencia de rizoma cilíndrico. Hojas alternas, 
 sésiles, glabras, de 2-5 cm de largo por 2-3 cm de ancho, linear-lanceoladas, algo 
 ensanchadas en la base, con margen entero. Inflorescencias con 1-7 flores. Flores de color 
-rosado pálido a intenso (Finot et al., 2018).
+rosado pálido a intenso (Finot et al., 2018). 
 
-===== p.5 =====
+===== p.4 =====
 - 
 Chloraea cristata (Orchidaceae):  
 Es una especie endémica de Chile, actualmente clasificada en categoría de conservación 
@@ -156,9 +178,12 @@ largo por 8-11 mm de ancho, 7-nervado, unguiculado, de ámbito redondeado; lóbu
 laterales más cortos que el central y formando con él ángulo agudo, borde exterior 
 ligeramente crenulado y engrosado, lóbulo central ovalado, reflejo, muy carnoso, verde 
 negruzco, recorrido por laminillas, enteras hacia la base y recortadas hacia el ápice, todas 
-con bordes más oscuros que el resto y muy carnosos (Novoa et al., 2015).
+con bordes más oscuros que el resto y muy carnosos (Novoa et al., 2015). 
+ 
 
-===== p.6 =====
+===== p.5 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -192,13 +217,20 @@ Total
  
 La ubicación de los ejemplares fue registrada mediante coordenadas geográficas y se 
 presenta en la siguiente cartografía (Figura 1), la cual constituye la base para la planificación 
-de las actividades de rescate y posterior seguimiento.
+de las actividades de rescate y posterior seguimiento. 
+
+===== p.6 =====
+ 
+Figura 1. Distribución espacial de los 13 ejemplares a relocalizar dentro del área de 
+intervención del proyecto. 
+ 
+ 
+ 
+ 
 
 ===== p.7 =====
-Figura 1. Distribución espacial de los 13 ejemplares a relocalizar dentro del área de 
-intervención del proyecto.
-
-===== p.8 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -236,9 +268,9 @@ en categoría de conservación:
 Marcaje de individuos:  
 Durante los microruteos se georreferenciarán y macarán mediante estacas, banderines y/u 
 otros elementos de demarcación a aquellos individuos o poblaciones de individuos que sean 
-identificados en estado vegetativo o con flores, las cuales deberán ubicarse a una distancia
+identificados en estado vegetativo o con flores, las cuales deberán ubicarse a una distancia 
 
-===== p.9 =====
+===== p.8 =====
 suficiente para evitar dañar las estructuras subterráneas durante su instalación. Cada marca 
 deberá estar asociado a un código que identifique la especie, el sector y si corresponde a un 
 ejemplar o una población.   
@@ -273,9 +305,11 @@ de conservar (en la medida de lo posible) las condiciones ecológicas asociadas 
 ejemplar, debiendo ser llevada rápidamente a un centro especializado, para que no pierda 
 viabilidad y reducir el estrés asociado al traslado. 
 De forma complementaria, se recolectará una muestra de sustrato asociada a cada 
-individuo, con el propósito de evaluar la presencia potencial de asociaciones micorrícicas y
+individuo, con el propósito de evaluar la presencia potencial de asociaciones micorrícicas y 
 
-===== p.10 =====
+===== p.9 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -312,9 +346,9 @@ deshidratación o afectar la viabilidad del material vegetal. Para ello, las act
 rescate y recepción en vivero deberán planificarse de manera coordinada. 
 En vivero, los órganos subterráneos serán establecidos en contenedores individuales, 
 utilizando un sustrato artificial compuesto por fibra de coco y perlita, el cual favorece la 
-aireación, el drenaje y el desarrollo radicular, además de reducir el riesgo de incorporación
+aireación, el drenaje y el desarrollo radicular, además de reducir el riesgo de incorporación 
 
-===== p.11 =====
+===== p.10 =====
 de patógenos presentes en otros sustratos. En el caso de las especies del género Chloraea, 
 el sustrato artificial se utilizará como base. Sin embargo, se conservará una fracción del 
 sustrato original adherido al órgano subterráneo y/o se incorporará parte de este al 
@@ -348,9 +382,11 @@ multiplicación vegetativa documentadas para especies geófitas, con el objetivo
 incrementar la disponibilidad de individuos destinados al proceso de relocalización y 
 contribuir al fortalecimiento de las poblaciones afectadas por el proyecto. 
 Los procedimientos de propagación deberán ejecutarse procurando minimizar el riesgo de 
-pérdida del material biológico y registrando los resultados obtenidos.
+pérdida del material biológico y registrando los resultados obtenidos. 
 
-===== p.12 =====
+===== p.11 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -385,9 +421,9 @@ pendiente, régimen hídrico, condiciones microclimáticas, entre otros. (ver Ta
 Asimismo, se considerarán los antecedentes obtenidos durante las actividades de rescate, 
 incluyendo las características edáficas y del microhábitat registradas para cada ejemplar, con 
 el propósito de seleccionar sectores que presenten condiciones comparables a las 
-observadas en el sitio de origen.
+observadas en el sitio de origen. 
 
-===== p.13 =====
+===== p.12 =====
 Preferentemente el sitio receptor deberá ubicarse en sectores próximos al área de rescate, 
 favoreciendo la continuidad de las condiciones ecológicas. Adicionalmente, deberá contar 
 con medidas que aseguren su protección frente a futuras perturbaciones y permitan el 
@@ -441,9 +477,11 @@ adecuada para el trasplante, como haber completado como mínimo un ciclo vegetat
 encontrarse en estado de latencia y presentar una condición sanitaria adecuada. La 
 relocalización se realizará de manera gradual, priorizando en una primera etapa los 
 individuos rescatados y mantenidos en vivero por al menos una temporada de crecimiento, 
-y posteriormente aquellos que hayan completado dos temporadas en dicha condición.
+y posteriormente aquellos que hayan completado dos temporadas en dicha condición.  
 
-===== p.14 =====
+===== p.13 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -477,9 +515,12 @@ Los resultados obtenidos durante el monitoreo serán analizados periódicamente 
 propósito de identificar oportunidades de mejora en las metodologías de viverización, 
 propagación y relocalización. En caso de detectarse desviaciones respecto de los resultados 
 esperados, podrán implementarse ajustes técnicos que permitan incrementar la efectividad 
-de las medidas comprometidas.
+de las medidas comprometidas. 
+ 
+ 
+ 
 
-===== p.15 =====
+===== p.14 =====
 Tabla 3. Indicadores de éxitos evaluados en las campañas de monitoreo. 
 N° 
 Indicador 
@@ -533,9 +574,13 @@ término del período de monitoreo comprometido.
 • Desarrollo vegetativo y reproductivo 
 • Mantención de una condición sanitaria adecuada de los ejemplares, sin 
 evidencias generalizadas de daño por plagas, enfermedades o factores de 
-estrés que comprometan su establecimiento.
+estrés que comprometan su establecimiento. 
+ 
+ 
 
-===== p.16 =====
+===== p.15 =====
+ 
+ 
 Estudio de Impacto Ambiental 
  
  
@@ -583,4 +628,5 @@ de impactos sobre ecosistemas terrestres. Primera edición. Santiago, Chile. 112
  
 - 
 Servicio del Medio Ambiente (2026). Listado de Especies Clasificadas desde el 1º al 
-20º Proceso de Clasificación RCE.
+20º Proceso de Clasificación RCE. 
+ 

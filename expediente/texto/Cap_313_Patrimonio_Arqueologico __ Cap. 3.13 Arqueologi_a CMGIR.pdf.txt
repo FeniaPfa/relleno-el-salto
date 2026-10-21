@@ -1,0 +1,3452 @@
+
+===== p.0 =====
+PROYECTO “CENTRO METROPOLITANO DE GESTIÓN 
+INTEGRAL DE RESIDUOS” 
+ESTUDIO DE LÍNEA DE BASE EN PATRIMONIO ARQUEOLÓGICO 
+PRESENTADO POR: 
+Servicios Profesionales en Arqueología y Patrimonio Limitada. 
+ELABORADO POR: 
+Matías Rain Garrido y Manuel Rojas Castillo 
+SOLICITADO POR: 
+COSEMAR SpA. 
+Mayo, 2026. 
+
+===== p.1 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+2
+Índice de Contenidos 
+ 
+1. INTRODUCCIÓN ......................................................................................... 4 
+2. OBJETIVOS .............................................................................................. 5 
+2.1. Objetivos generales .............................................................................. 5 
+2.2. Objetivos específicos ............................................................................ 5 
+3. METODOLOGÍA .......................................................................................... 6 
+3.1. Definición de área de estudio ................................................................. 6 
+3.1.1. 
+Definición de área de influencia .......................................................... 6 
+3.2. Revisión de antecedentes bibliográficos .................................................... 6 
+3.3. Diseño de campaña de prospección .......................................................... 7 
+3.4. Trabajo de campaña de prospección arqueológica ........................................ 8 
+3.4.1. 
+Variables de control arqueológico para caracterizaciones superficiales (mediante 
+prospección pedestre). ..................................................................... 8 
+3.4.2. 
+Equipo de trabajo. .......................................................................... 8 
+3.5. Sistematización de resultados de prospección arqueológica ........................... 9 
+4. ÁREA DE INFLUENCIA ................................................................................ 10 
+5. MARCO NORMATIVO .................................................................................. 13 
+6. RESULTADOS .......................................................................................... 15 
+6.1. Resultados de la revisión bibliográfica .................................................... 15 
+6.1.1. 
+Antecedentes ambientales generales ................................................... 15 
+6.1.2. 
+Antecedentes arqueológicos e históricos generales ................................... 15 
+6.1.3. 
+Antecedentes arqueológicos específicos para el área del Proyecto ................ 24 
+6.2. Resultados de Caracterización Superficial mediante prospección pedestre. ...... 37 
+6.2.1. 
+Campaña I .................................................................................... 37 
+6.2.2. 
+Cobertura de prospección del AI del Proyecto. ........................................ 42 
+7. CONCLUSIÓN .......................................................................................... 49 
+8. FIRMAS ................................................................................................. 50 
+9. BIBLIOGRAFÍA ......................................................................................... 51 
+10. APÉNDICES ............................................................................................. 57 
+10.1. Certificados de grado o título de profesionales. ......................................... 57 
+10.2. Currículum Vitae de profesionales. ........................................................ 57 
+10.3. Track de prospección (kmz). ................................................................. 57 
+10.4. Geoinformación asociada a la línea base arqueológica (shapefile) .................. 57 
+
+===== p.2 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+3
+10.4.1. Área de Influencia del patrimonio arqueológico. ...................................... 57 
+10.4.2. Tracks o recorridos. ........................................................................ 57 
+10.4.3. Área no prospectada. ...................................................................... 57 
+10.4.4. Área no prospectada por cambio de layout. ........................................... 57 
+ 
+Índice de Tabla 
+ 
+Tabla 1. 
+Equipo de trabajo. .............................................................................. 9 
+Tabla 2. 
+Sitios arqueológicos reportados en proyectos y estudios en un radio de 10 km al AI 
+del Proyecto. ................................................................................... 25 
+Tabla 3. 
+Resumen de la cobertura de la prospección campaña I. ................................ 42 
+Tabla 4. 
+Resumen y justificación de zonas no prospectadas. ..................................... 43 
+ 
+Índice de Cartografía 
+ 
+Cartografía 1. 
+Partes, obras y acciones del Proyecto. ............................................ 11 
+Cartografía 2. 
+ Área de Influencia del Proyecto para el componente patrimonio arqueológico.
+ 
+ ........................................................................................... 12 
+Cartografía 3. 
+Sitios arqueológicos reportados en un radio de 10 km al Área de Influencia del 
+Proyecto. ............................................................................... 36 
+Cartografía 4.  
+Track de prospección arqueológica consolidado en el Área de Influencia del 
+Proyecto. ............................................................................... 47 
+Cartografía 5.  
+Mapa de pendiente general de la superficie de estudio, cobertura de 
+prospección y zonas no prospectables en el Área de Influencia del Proyecto. 
+ .......................................................................................... 48 
+ 
+Índice de Figura 
+ 
+Figura 1. 
+Vista general de futuro camino de acceso – Campaña I. ............................. 38 
+Figura 2.  
+Zonas no prospectables de futuro camino de acceso – Campaña I. ................. 39 
+Figura 3.  
+Vista general de zona de instalaciones y movimientos de tierra – Campaña I .... 40 
+Figura 4.  
+Zonas no prospectables en zona de instalaciones y movimientos de tierra – 
+Campaña I .................................................................................... 41 
+Figura 5. 
+Firmas y validaciones. ..................................................................... 50 
+ 
+ 
+
+===== p.3 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+4
+1. INTRODUCCIÓN 
+ 
+En el marco del proyecto “Centro Metropolitano de Gestión Integral de Residuos” (en adelante 
+El Proyecto), se presenta el Estudio de Línea de Base en arqueología en el Área de Influencia 
+del Proyecto (en adelante AI). Esta caracterización expone los antecedentes relacionados con 
+la descripción del Proyecto descrita por el Titular, los antecedentes bibliográficos arqueológicos 
+(tanto prehispánicos como históricos) para el AI y las zonas aledañas a este. Además, se incluyen 
+los resultados de la prospección superficial del mismo, proporcionando así los elementos 
+necesarios destinados a la evaluación del potencial arqueológico en el marco de la tramitación 
+ambiental del Proyecto. 
+ 
+En particular, el Proyecto “Centro Metropolitano de Gestión Integral de Residuos” se 
+encuentra en la comuna de Viña del Mar, región de Valparaíso. Este consiste en la construcción 
+y operación de una instalación integral para el tratamiento de los residuos sólidos mediante 
+compostaje, reciclaje y disposición final de residuos sólidos domiciliarios y asimilables, ubicado 
+en el kilómetro 102,5 de la Ruta 60 - Troncal Sur que une las comunas de Viña del Mar y Quilpué 
+en la Región de Valparaíso, en un predio de 206 ha, de las cuales 63,10 serán utilizadas para el 
+desarrollo de este. El proyecto cuenta con una Zona de Instalaciones Operacionales y 
+Administrativas, Zona de Compostaje, Zona de Reciclaje, Zona de Disposición de Residuos, Zona 
+de Tratamiento de Lixiviados y Zona de Tratamiento de Biogás. Durante la operación del 
+proyecto se espera recibir 30.741.988 toneladas de residuos sólidos durante 25 años de vida útil 
+estimada y prestará servicio principalmente a la población de las comunas de la Región de 
+Valparaíso, con una tasa inicial de 2.500 ton/día. 
+ 
+En función de lo mencionado en los párrafos anteriores, y a modo de entregar al Titular los 
+antecedentes necesarios para que realice el correcto análisis del literal f) del artículo 11 de la 
+Ley N°19.300, esta Línea de Base en patrimonio arqueológico presenta los resultados de la 
+prospección pedestre arqueológica ejecutada en el Área de Influencia del Proyecto (AI) para 
+evaluar si existe potencial de impacto sobre monumentos arqueológicos (en adelante también 
+“Objeto de Protección u OP”) y, de esta forma, establecer si existe o no impacto significativo 
+según la normativa vigente anteriormente mencionada. 
+ 
+ 
+ 
+ 
+ 
+
+===== p.4 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+5
+2. OBJETIVOS 
+ 
+2.1. 
+Objetivos generales 
+ 
+ 
+Caracterizar la condición basal de la componente arqueológica para el Proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos”.  
+ 
+2.2. 
+Objetivos específicos 
+ 
+ Identificar mediante una revisión bibliográfica el potencial arqueológico del Área de 
+Estudio del Proyecto;  
+ 
+ Inspeccionar mediante una prospección arqueológica pedestre y superficial el Área de 
+Influencia preliminar del Proyecto; 
+ 
+ Describir los sitios y/o hallazgos arqueológicos presentes en el Área de Estudio del 
+Proyecto; 
+ 
+ Definir el Área de Influencia final del Proyecto para el componente patrimonio 
+arqueológico. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.5 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+6
+3. 
+METODOLOGÍA 
+ 
+La metodología de trabajo implementada en el presente Estudio de Línea de Base en patrimonio 
+arqueológico se plantea con el fin de cumplir los objetivos planteados en el capítulo precedente, 
+estableciendo un plan de trabajo que implica la definición y caracterización del AI del Proyecto 
+para el Objeto de Protección (OP) de patrimonio arqueológico. Lo anterior permite la evaluación 
+del potencial de impacto sobre el mismo y, en función de ello, generar recomendaciones en 
+torno al OP.  
+ 
+3.1. 
+Definición de área de estudio 
+ 
+El área de estudio corresponde al layout informado y propuesto por el Titular del Proyecto, 
+siendo un aspecto preliminar para la definición del Área de Influencia (AI) para el OP de 
+patrimonio arqueológico. Este layout incorpora el área en donde se ubicarán todas las partes, 
+obras y/o acciones de éste, es decir, los posibles Factores Generadores de Impacto (FGI) del 
+mismo sobre posibles bienes arqueológicos. Esta definición preliminar otorga un espacio 
+geográfico inicial para el trabajo de revisión bibliográfica y ambiental de la zona. 
+ 
+3.1.1. Definición de área de influencia 
+ 
+Posteriormente, en un proceso iterativo, y una vez ejecutadas la etapa de revisión de 
+antecedentes bibliográficos y la campaña de prospección arqueológica, se define el Área de 
+Influencia para el componente patrimonio arqueológico. Esta definición de AI se presenta y 
+justifica en el Capítulo 4 del presente Estudio de Línea de Base. 
+ 
+3.2. 
+Revisión de antecedentes bibliográficos 
+ 
+Se realizó una revisión de antecedentes bibliográficos, la que se acotó a la zona centro de Chile 
+y, particularmente, a la región de Valparaíso. Esto contempló una caracterización crono-cultural 
+de la zona y la descripción de los contextos culturales prehispánicos e históricos descritos para 
+la región a partir de la revisión de distintas fuentes de información, considerando: 
+ 
+A) Estudios de Línea de Base en el componente arqueológico e Informes de Caracterización 
+Arqueológica presentes en los Estudios de Impacto Ambiental o Declaraciones de Impacto 
+Ambiental (según corresponda) ingresados al SEIA en las cercanías del layout del Proyecto 
+(radio de 10 km a partir de este). 
+ 
+B) Revisión del Catastro de Sitios Arqueológicos en cuencas priorizadas del Ministerio de 
+Obras Públicas (MOP) para la región de Valparaíso. 
+ 
+C) Revisión de antecedentes arqueológicos con relación a artículos de investigación, 
+tomando en consideración compendios sobre las características de las ocupaciones en la 
+prehistoria regional. 
+ 
+
+===== p.6 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+7
+D) Visor de Monumentos Arqueológicos del Consejo de Monumentos Nacionales, mediante 
+la aplicación web Geoportal. 
+ 
+3.3. 
+Diseño de campaña de prospección 
+ 
+Las campañas de prospección arqueológica se diseñaron mediante transectas equidistantes a 20 
+m de distancia entre cada una de ellas, por todo el AI para la componente arqueológica. Dicha 
+metodología tenía como fin evaluar la presencia de recursos arqueológicos (sitios arqueológicos 
+y/o hallazgos aislados) dentro del mismo y, en función de aquello, verificar la afectación de OP 
+para el componente de arqueología. Además, para la ejecución de la prospección, se 
+consideraron dos factores. En primer lugar, se tuvo en cuenta la distribución espacial de las 
+partes, obras y acciones en el Área de Influencia del Proyecto, el cual tiene un camino de acceso 
+desde la ruta 60 hacia el área de emplazamiento del Centro de Tratamiento Integral de Residuos, 
+sector que será cercado perimetralmente. Esto permitió ejecutar la campaña de prospección 
+de manera ordenada y, a su vez, explicar de manera más precisa y detallada las variables de 
+control arqueológico de accesibilidad, visibilidad y obtrusividad.  
+ 
+Posteriormente, con la información del emplazamiento de las partes, obras y acciones del 
+Proyecto se diseñó la campaña de prospección arqueológica considerando las variables 
+geográficas del área de influencia del Proyecto. Para ello, se realizó un análisis del terreno a 
+través de una capa ráster de entrada, correspondiente al Modelo Digital de Elevaciones del 
+Terreno (en adelante DEM).  Con el DEM se realizó un Mapa de Pendientes a través del algoritmo 
+Pendientes en el software QGIS Versión 3.38.0-Grenoble. Este algoritmo calcula el ángulo de 
+inclinación del terreno desde una capa ráster de entrada (DEM). La pendiente es el ángulo de 
+inclinación con respecto a la horizontal y se expresa en grados. El Mapa de Pendientes obtenido, 
+se representó visualmente en torno a una interpolación discreta, con un renderizado pseudo-
+color mono-banda, una interpolación discreta y una rampa de color típica de topografía. Los 
+rangos de clasificación de las pendientes obtenidas fueron 4 clases, las cuales se definieron 
+según los parámetros presentes en la Planilla de registro de sitios arqueológicos CMN. Estos 
+rangos son los siguientes: 
+ 
+ 
+Llano a suave: 0-8° 
+ 
+Moderadamente acentuado: 9-15° 
+ 
+Acentuado: 16-25° 
+ 
+Muy acentuado: 25-90° 
+ 
+La elaboración del mapa de pendientes permitió diseñar de manera más eficiente el diseño de 
+transectas en el AI del Proyecto, asegurando la accesibilidad a sectores descritos como 
+acentuados y muy acentuados, y siguiendo el distanciamiento inicial propuesto, esto es, 
+transectas equidistantes a 20 m entre sí, los cuales se orientaron en función de las pendientes 
+generales. Esta estrategia de diseño de campaña busca asegurar la cobertura de aquellas 
+áreas con mayor pendiente (descritas como muy acentuadas) a modo de cumplir con los 
+requerimientos de la autoridad.  
+ 
+ 
+
+===== p.7 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+8
+3.4. 
+Trabajo de campaña de prospección arqueológica 
+ 
+Los trabajos en terreno se ejecutaron en una campaña en el AI del Proyecto, definido acorde a 
+lo indicado en el capítulo 4 del presente estudio. Esta campaña se realizó entre el 17 y 21 de 
+febrero de 2025 con condiciones óptimas de luz y de tiempo atmosférico. 
+ 
+3.4.1. Variables de control arqueológico para caracterizaciones superficiales (mediante 
+prospección pedestre). 
+ 
+En términos metodológicos, se destaca que la prospección se encuentra sujeta a variables 
+independientes de control arqueológico, tales como: visibilidad, obtrusividad, accesibilidad y 
+abundancia y agrupamiento (Gallardo y Cornejo, 1986). Por consiguiente: 
+ 
+1) Abundancia y agrupamiento: Se entiende por abundancia “la frecuencia de sitios 
+arqueológicos en el área de estudio”. Mientras que agrupamiento se define como una relación 
+de orden ambiental en la que la probabilidad de descubrimiento varía proporcionalmente con 
+la abundancia. Para nuestro estudio se utilizaron las categorías de clasificación de sitio 
+arqueológico según el formato Situs (2010), el cual corresponde a evidencias culturales que 
+cuentan con más de cinco elementos en un diámetro aproximado de 20 m y hallazgo aislado 
+como a una evidencia cultural mínima (uno a cinco elementos) en un diámetro aproximado de 
+20 m sin asociación con otros materiales. 
+ 
+2) Visibilidad: Parámetro que entendemos como las características y variabilidad del medio 
+ambiente en el área de estudio que pueden facilitar o dificultar la visión de los yacimientos o 
+sitios arqueológicos. Para nuestro estudio definimos con un >75 a 100% de visibilidad (visibilidad 
+alta), con >25 a 75% de visibilidad (visibilidad media), con >0 a 25% de visibilidad (visibilidad 
+baja), con 0% de visibilidad (visibilidad nula).  
+ 
+3) Obtrusividad: Se comprende como la naturaleza de los materiales arqueológicos y su 
+sensibilidad para ser descubiertos bajo las técnicas de terreno utilizadas. Para nuestro estudio 
+definimos con un >75 a 100% de obtrusividad (sensibilidad alta), con >25 a 75% de obtrusividad 
+(sensibilidad media), con >0 a 25% de obtrusividad (sensibilidad baja), con 0% de obtrusividad 
+(sensibilidad nula). 
+ 
+4) Accesibilidad: Evoca las variables que permiten la accesibilidad, como por ejemplo clima, 
+ambiente biótico, topografía y extensión de caminos. Para nuestro estudio definimos con un >75 
+a 100% de accesibilidad (accesibilidad alta), con >25 a 75% de accesibilidad (accesibilidad 
+media), con >0 a 25% de accesibilidad (accesibilidad baja), con 0% de accesibilidad 
+(accesibilidad nula). 
+ 
+3.4.2. Equipo de trabajo. 
+ 
+El equipo de trabajo que participó en el desarrollo de este Estudio de Línea de Base se presenta 
+en la Tabla 1. 
+
+===== p.8 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+9
+Tabla 1. 
+Equipo de trabajo. 
+Profesional 
+Profesión y grado académico 
+Actividades 
+Matías Rain Garrido 
+Arqueólogo – Magíster en 
+Arqueología 
+▪ 
+Elaboración de Estudio de Línea de Base en 
+patrimonio arqueológico. 
+▪ 
+Jefe de terreno en Prospección Arqueológica 
+(Campaña I; 17 a 21 de febrero de 2025) 
+Manuel Rojas Castillo 
+Arqueólogo 
+▪ 
+Elaboración de Estudio de Línea de Base en 
+patrimonio arqueológico. 
+Caroline Pastenes 
+Arqueóloga 
+▪ 
+Prospección Arqueológica (Campaña I; 17 a 21 
+de febrero de 2025) 
+Francisco Almonacid 
+Arqueólogo 
+▪ 
+Prospección Arqueológica (Campaña I; 17 a 21 
+de febrero de 2025) 
+Victoria Pérez 
+Licenciada en Antropología 
+con mención en Arqueología 
+▪ 
+Prospección Arqueológica (Campaña I; 17 a 21 
+de febrero de 2025) 
+Vicente Valdés 
+Licenciado en Antropología 
+con mención en Arqueología 
+▪ 
+Prospección Arqueológica (Campaña I; 17 a 21 
+de febrero de 2025) 
+Fuente: Elaboración Propia. 
+ 
+3.5. 
+Sistematización de resultados de prospección arqueológica 
+ 
+En última instancia, se ha elaborado y organizado el presente Estudio de Línea de Base en 
+patrimonio arqueológico, consolidando el desarrollo, los resultados y las conclusiones derivadas 
+del levantamiento de información sobre el componente patrimonio arqueológico vinculado al 
+proyecto "Centro Metropolitano de Gestión Integral de Residuos ".  
+ 
+En el caso de documentar hallazgos, los bienes patrimoniales se han clasificado conforme a las 
+directrices establecidas por el Consejo de Monumentos Nacionales (CMN) en su Guía de 
+procedimiento arqueológico (2020; 2022). Por un lado, los hallazgos aislados se han clasificado 
+como evidencias de restos arqueológicos que comprenden de 1 a 5 elementos, los cuales, en un 
+diámetro aproximado de 20 metros, no presentan asociación con otros materiales o con una 
+cantidad significativa de estos. Por otro lado, los sitios arqueológicos tendrán una mayor 
+densidad cuantitativa y espacial de restos arqueológicos, manifestándose como concentraciones 
+sobre y/o bajo la superficie terrestre o submarina, las cuales reflejan el desarrollo de 
+potenciales actividades humanas pasadas en un espacio específico. 
+ 
+ 
+ 
+
+===== p.9 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+10
+4. ÁREA DE INFLUENCIA 
+ 
+El área de influencia de un proyecto, de acuerdo con la Guía de Área de Influencia del SEIA, se 
+define como: “el área o espacio geográfico, cuyos atributos, elementos naturales o 
+socioculturales deben ser considerados con la finalidad de definir si el proyecto o actividad 
+genera o presenta alguno de los efectos, características o circunstancias del artículo 11 de la 
+Ley Nº19.300, o bien para justificar la inexistencia de dichos efectos, características o 
+circunstancias (literal a del artículo 2 del Reglamento del SEIA)” (SEA, 2017). En suma, según 
+lo descrito en el art. 18 del RSEIA, se señala respecto del AI lo siguiente: “La determinación y 
+justificación del área de influencia del proyecto o actividad, incluyendo una descripción general 
+de esta. El área de influencia se definirá y justificará para cada elemento afectado del medio 
+ambiente, tomando en consideración los impactos ambientales potencialmente significativos 
+sobre ellos, así como el espacio geográfico en el cual se emplazan las partes, obras y/o acciones 
+del proyecto o actividad”. Adicionalmente, el Consejo de Monumentos Nacionales en sus guías 
+de procedimiento arqueológico señala: “área donde se emplaza el Proyecto, incluyendo sus 
+obras permanentes, semi permanentes y transitorias, así como las áreas de maniobras para el 
+desarrollo del Proyecto y aquellas acciones o partes del Proyecto que puedan generar algún 
+impacto (FGI), directo o indirecto sobre los bienes arqueológicos” (CMN, 2020).  
+ 
+De acuerdo con la información proporcionada por el Titular, las partes, obras y acciones del 
+proyecto “Centro Metropolitano de Gestión Integral de Residuos”, incluyen: 
+ 
+Partes, obras y acciones temporales: 
+ 
+ 
+Instalación de faena. 
+ 
+Partes, obras y acciones permanentes: 
+ 
+ 
+Zona de instalaciones operacionales y administrativas; 
+ 
+Zona de compostaje; 
+ 
+Zona de reciclaje; 
+ 
+Zona de disposición de residuos; 
+ 
+Zona de tratamiento de lixiviados; 
+ 
+Zona de tratamiento de biogás; 
+ 
+Camino de acceso al Proyecto. 
+ 
+Caminos interiores operacionales. 
+ 
+De este modo, considerando las partes, obras y acciones antes expuestas, el AI fue definido 
+respecto a la totalidad de las partes y obras a utilizar para la construcción y operación del 
+proyecto (81,01 ha). En la Cartografía 1 se presenta el detalle de las partes, obras y acciones 
+del proyecto, mientras que la ubicación general del Área de Influencia del Proyecto para el 
+componente arqueológico se presenta en la Cartografía 2. 
+ 
+ 
+
+===== p.10 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+11
+Cartografía 1. Partes, obras y acciones del Proyecto. 
+ 
+Fuente: Elaboración Propia. 
+
+===== p.11 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+12
+Cartografía 2. Área de Influencia del Proyecto para el componente patrimonio arqueológico. 
+ 
+Fuente: Elaboración Propia. 
+
+===== p.12 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+13
+5. MARCO NORMATIVO 
+ 
+Ley N°17.288 sobre Monumentos Nacionales, publicada en el Diario Oficial el 4 de enero de 
+1970, su reglamento (2 abril 1991) y sus modificaciones en la Ley N°20.021 publicada en el 
+Diario Oficial el 14 de junio de 2005. 
+ 
+Artículo 1°. Son Monumentos Nacionales y quedan bajo la tuición y protección del Estado, los 
+lugares, ruinas, construcciones u objetos de carácter histórico o artístico; los enterratorios o 
+cementerios u otros restos de los aborígenes, las piezas u objetos antropo-arqueológicos, 
+paleontológicos o de formación natural, que existan bajo o sobre la superficie del territorio 
+nacional o en la plataforma submarina de sus aguas jurisdiccionales y cuya conservación interesa 
+a la historia, al arte o a la ciencia; los santuarios de la naturaleza; los monumentos, estatuas, 
+columnas, pirámides, fuentes, placas, coronas, inscripciones y, en general, los objetos que estén 
+destinados a permanecer en un sitio público, con carácter conmemorativo. Su tuición y 
+protección se ejercerá por medio del Consejo de Monumentos Nacionales, en la forma que 
+determina la presente Ley.  
+ 
+Art. 9°: Son Monumentos Históricos los lugares, ruinas, construcciones y objetos de propiedad 
+fiscal, municipal o particular que, por su calidad e interés histórico o artístico, o por su 
+antigüedad, sean declarados tales por decreto supremo, dictado a solicitud, y previo acuerdo 
+del Consejo.  
+ 
+Art. 20°: Se entenderá por operaciones de salvataje, para los efectos de este reglamento, la 
+recuperación urgente de datos o especies arqueológicas, antropológicas o paleontológicas 
+amenazados de pérdida inminente. Los conservadores y directores de Museos reconocidos por 
+el Consejo de Monumentos Nacionales, los arqueólogos, antropólogos o paleontólogos 
+profesionales, según corresponda, y los miembros de la Sociedad Chilena de Arqueología estarán 
+autorizados para efectuar trabajos de salvataje. Estas personas tendrán la obligación de 
+informar al Consejo de su intervención y del destino de los objetos o especies excavados, tan 
+pronto como puedan hacerlo. 
+ 
+Art. 21°: Por el sólo ministerio de la Ley, son monumentos arqueológicos de propiedad del Estado 
+los lugares, ruinas, yacimientos y piezas antropo-arqueológicas que existan sobre o bajo la 
+superficie del territorio nacional. Para los efectos de la presente Ley quedarán comprendidos 
+también las piezas paleontológicas y los lugares donde se hallaren.  
+ 
+Art 22°: Ninguna persona natural o jurídica chilena podrá hacer en el territorio nacional 
+excavaciones de carácter arqueológico, antropológico o paleontológico, sin haber obtenido 
+previamente autorización del Consejo de Monumentos Nacionales, en la forma establecida por 
+el Reglamento. La infracción a lo dispuesto en este artículo será sancionada con una multa diez 
+a quinientas unidades tributarias mensuales, sin perjuicio del decomiso de los objetos que se 
+hubieren obtenido de dichas excavaciones (Modificación de multas y penas establecida en la 
+Ley N°20.021 de 2005).  
+ 
+
+===== p.13 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+14
+Art. 26°: Toda persona natural o jurídica que al hacer excavaciones en cualquier punto del 
+territorio nacional y con cualquier finalidad, encontrare ruinas, yacimientos, piezas u objetos 
+de carácter histórico, antropológico, arqueológico o paleontológico, está obligada a denunciar 
+inmediatamente el descubrimiento al Gobernador Provincial, quien ordenará a Carabineros que 
+se haga responsable de su vigilancia hasta que el Consejo se haga cargo de él. La infracción a 
+lo dispuesto en este artículo será sancionada con una multa de cinco a doscientas unidades 
+tributarias mensuales, sin perjuicio de la responsabilidad civil solidaria de los empresarios o 
+contratistas a cargo de las obras, por los daños derivados del incumplimiento de la obligación 
+de denunciar el hallazgo (Modificación de multas y penas establecida en la Ley N° 20.021 de 
+2005).  
+ 
+Ley de Bases Generales del Medio Ambiente N°19.300, modificada por la Ley N°20.417 y su 
+Reglamento del D.S. 40/2013. 
+ 
+El artículo N°10 de la Ley de Bases Generales del Medioambiente, señala los proyectos o 
+actividades susceptibles de causar impacto ambiental, en cualesquiera de sus fases, que 
+deberán someterse al sistema de evaluación de impacto ambiental. 
+ 
+Por su parte, el artículo N°11 establece que "los proyectos o actividades enumerados en el 
+artículo precedente requerirán la elaboración de un estudio de impacto ambiental, si generan 
+o presentan a lo menos, uno de los siguientes efectos, características o circunstancias: a) riesgo 
+para la salud de las personas, b) efectos adversos significativos para los recursos naturales, c) 
+reasentamiento de comunidades, d) alteración significativa de los sistemas de vida y costumbres 
+de grupos humanos, e) localización próxima a población, recursos y áreas protegidas, f) 
+alteración significativa del valor paisajístico o turístico de una zona, alteración de monumentos, 
+sitios con valor antropológico, arqueológico, histórico y, en general, los pertenecientes al 
+patrimonio cultural". 
+ 
+Ley 19.253 Sobre Pueblos Indígenas (modificada por la Ley N°20.117). 
+ 
+Artículo 28: "el reconocimiento, respeto y protección de las culturas e idiomas indígenas 
+contemplará: f) la promoción de las expresiones artísticas y culturales y la protección del 
+patrimonio arquitectónico, arqueológico, cultural e histórico indígenas". 
+ 
+ 
+
+===== p.14 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+15
+6. RESULTADOS 
+ 
+A continuación, se presentan los resultados consolidados del trabajo en gabinete y de la 
+caracterización superficial (mediante la campaña de prospección arqueológica pedestre) 
+ejecutada en el Área de Influencia del Proyecto. 
+ 
+6.1. 
+Resultados de la revisión bibliográfica 
+ 
+En este acápite, se presentan los antecedentes climáticos, ambientales y arqueológicos, a modo 
+de contextualizar, los resultados que se exponen en el presente informe. 
+ 
+6.1.1. Antecedentes ambientales generales 
+ 
+A nivel general, Chile se encuentra limitado por el Océano Pacífico al oeste y al sur, y con la 
+Cordillera de Los Andes al este, constituyéndose así un notable corredor biogeográfico, con una 
+amplia diversidad de climas y ecosistemas que son el resultado de la circulación atmosférica y 
+los patrones topográficos (Maldonado et al., 2017). En particular, la zona central de Chile se ha 
+definido, a nivel orográfico, mediante 4 rasgos distintivos: Planicie litoral, Cordillera de la 
+Costa, Depresión intermedia y Cordillera de los Andes (Maldonado et al., 2017), ubicándose la 
+comuna de Viña del Mar y alrededores dentro de la planicie litoral y/o Cordillera de la Costa. A 
+nivel climático, la zona se rige bajo un régimen ecológico mediterráneo influenciado por la 
+Corriente de Humboldt y la nubosidad costera, con una precipitación anual promedio cercana a 
+los 400 mm que se concentra entre mayo y agosto, además de una alta humedad relativa con 
+un promedio anual cercano al 80-85% (Climate-Data, s.f.). 
+ 
+6.1.2. Antecedentes arqueológicos e históricos generales 
+ 
+A continuación, se presentan los antecedentes bibliográficos que definen la prehistoria de la 
+zona central de Chile. Estos reportes provienen de antecedentes académicos publicados en 
+revistas científicas y actas de congresos. Asimismo, se incluyen la revisión de los Informes de 
+Caracterización y Estudios de Líneas de Base Arqueológicas presentados en el SEIA en torno a 
+las diferentes Declaraciones o Estudios de Impacto Ambiental (DIA o EIA). 
+ 
+Desde la arqueología, trabajos como Cornejo, Saavedra y Vera (1998), Sanhueza, Vásquez y 
+Falabella (2003), entre otros, han permitido caracterizar los diversos grupos humanos que 
+habitaron en la zona central de Chile, macrozona regional en la cual se emplaza la comuna de 
+Viña del Mar y sectores colindantes. De esta forma, se definen 5 períodos culturales para 
+sociedades cazadoras-recolectoras del período Paleoindio y/o Arcaico (asociadas a ocupaciones 
+del Pleistoceno Tardío, Holoceno Temprano, Medio y Tardío), las sociedades Bato y Llolleo para 
+el Período Alfarero Temprano, la Cultura Aconcagua para el Período Intermedio Tardío y la 
+influencia del Tawantinsuyo para el período Tardío. Adicionalmente, es destacable que para la 
+región del valle del río Aconcagua, a diferentes altitudes, se han descrito investigaciones 
+arqueológicas sistemáticas por más de 100 años (Pavlovic, 2006), enfocadas principalmente en 
+grupos prehispánicos. 
+
+===== p.15 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+16
+6.1.2.1. 
+Poblamiento Inicial durante la transición Pleistoceno Tardío-Holoceno Temprano 
+ 
+Durante el período Pleistoceno Tardío, Chile Central se caracterizaba por un clima más húmedo 
+y frío, favoreciendo la presencia de megafauna, como mamútidos, ciervos y caballos americanos 
+en torno a praderas, lagos y lagunas debido a la concentración de recursos bióticos que ofrecían 
+estos espacios (Montané 1968; Núñez et al., 1994; Labarca et al., 2020). A estos taxones se 
+sumaba una amplia diversidad de moluscos, peces, reptiles, aves, roedores y marsupiales que 
+complementaban un rico paisaje para este momento (Labarca et al., 2020), dentro de las cuales, 
+hipotéticamente, algunas aves acuáticas también estaban siendo consumidas (Lizama et al., 
+2020). Posterior a este período, las condiciones climáticas durante el Holoceno se volvieron 
+similares a las actuales con intervalos de mayor y menor humedad, razones entre las cuales 
+conllevaron la extinción de megafauna y, por tanto, un cambio en el panorama ecológico de la 
+región. 
+ 
+Al respecto, las primeras ocupaciones en la zona central (definidas también como el período 
+Paleoindio, >11.000 años a.p.) se remontan a las ocurridas en la ahora desecada laguna de 
+Tagua-Tagua en la región de O’higgins, la que albergó desde el Pleistoceno Tardío (~11.000 años 
+a.p.) a diferentes grupos humanos que subsistieron en este espacio (Núñez et al., 1994). En los 
+denominados sitio Tagua-Tagua 1 y Tagua-Tagua 2 (Montané, 1968; Núñez et al., 1994, 2016), se 
+encontraron puntas de proyectil tipo Fell, megafauna extinta y una gran cantidad de restos 
+líticos, los cuales en su conjunto indican actividades de matanza y faenamiento (Núñez et al., 
+1994). La subsistencia en base a la caza de mamíferos de gran tamaño ha sido una evidencia 
+excepcional en cuanto al registro arqueológico temprano de la zona y del país, y, por tanto, ha 
+permitido contrastar con otros registros tempranos (p. ej., Monte Verde) en cuanto a la 
+diversidad de modos de subsistencia de estos grupos humanos.  
+ 
+Para la región de Valparaíso, y en específico de la comuna de Viña del Mar y sectores colindantes, 
+no se han documentado ocupaciones humanas para este período. 
+  
+6.1.2.2. 
+Ocupaciones arcaicas durante el Holoceno Temprano, Medio y Tardío 
+ 
+A través de los estudios realizados en la zona cordillerana del Maipo, Cornejo, Saavedra y Vera 
+(1998) clasificaron el período Arcaico en 4 fases de acuerdo con un conjunto de características. 
+En primer lugar, el período Arcaico I (11.000 a 9.000 años a.C., coincidente con el Holoceno 
+Temprano) se define en función a los asentamientos humanos de la Caverna de Piuquenes y El 
+Manzano 1. El primero se presenta como un campamento base dentro de los circuitos de 
+movilidad estacional, asociado a instrumental lítico formatizado (e.g. raspadores, sobadores y 
+punta de proyectil) y con presencia de consumo de camélidos y roedores (Stehberg, Blanco y 
+Labarca 2005). Por su parte, El Manzano 1, se presenta como un asentamiento humano que 
+evidencia la caza de fauna menor (e.g. camélidos, roedores, entre otros) y la confección de 
+artefactos tecnológicos expeditivos con materia prima disponible alrededor del asentamiento 
+(Cornejo, Saavedra y Vera, 1998). Asimismo, se asume –por comparación de fechados- una 
+contemporaneidad entre los sitios Caverna de Piuquenes, El Manzano 1 y Tagua-Tagua II, lo cual 
+implicaría una coexistencia con grupos cazadores-recolectores del Paleoindio (Cornejo, 
+
+===== p.16 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+17
+Saavedra y Vera, 1998). Hallazgos realizados en el valle del Maipo-Mapocho relacionados con la 
+tecnología lítica indicarían que estas ocupaciones no se restringirían solo a sectores 
+cordilleranos, sino que los grupos tempranos habrían utilizado zonas del valle hace ya, 
+hipotéticamente, 11.000 a.C. (Uchile, 2023). 
+ 
+El período Arcaico II, definido desde el 9.000 al 7.000 a.C., se presenta durante el inicio del 
+Holoceno y se caracteriza por la masificación de una tecnología de caza asociada a puntas de 
+proyectil lanceoladas pedunculadas medianas y grandes, que podrían haber sido utilizadas con 
+estólicas, así también, por la presencia de sitios habitacionales y grandes extensiones de 
+cementerios como los vistos en Cuchipuy en la región de O’Higgins o Las Cenizas en la región de 
+Valparaíso (Kaltwasser, Medina y Munizaga 1984; Kaltwasser et al., 1986). Por otra parte, se 
+presentan en algunos asentamientos restos de fauna moderna y se identifica la recolección de 
+vegetales silvestres, lo que –probablemente- fueron procesados con manos de moler 
+encontradas en los asentamientos de este período. Los sitios arqueológicos característicos de 
+este período son: Caverna de Piuquenes, El Manzano 1, Cuchipuy, Las Cenizas, Punta Caraumilla 
+1 (Cornejo, Saavedra y Vera 1998; Cornejo, Jackson y Saavedra 2016).  
+ 
+El período Arcaico III (definido entre los años 7.000 al 3.000 a.C.) se caracteriza por la ocupación 
+de los asentamientos previos, con evidente cambio en las puntas de proyectil (de las lanceoladas 
+pedunculadas a triangulares, foliáceas y lanceoladas sin pedúnculo), mayor recurrencia de 
+manos de moler subcirculares y elípticas. También, se reporta un aumento en los taxa vegetales 
+utilizados (Cornejo, Saavedra y Vera 1998; Cornejo 2010; Cornejo, Jackson y Saavedra 2016). 
+Los asentamientos característicos de este período son, los niveles superiores de Tagua Tagua 1, 
+Curaumilla (Durán, 1980; Kaltwasser et al., 1980, 1986; Cornejo, Saavedra y Vera, 1998; Jackson 
+et al., 2012; Cornejo, Jackson y Saavedra 2016). 
+ 
+Finalmente, el período Arcaico IV (definido entre los años 3.000 al 300 a.C.) se define como un 
+continuo sociocultural del período Arcaico III (Cornejo, Jackson y Saavedra 2016). Esta 
+continuidad consolida la movilidad de tipo residencial, especializando las técnicas de caza y 
+preponderando la economía en torno a los recursos vegetales. Los sitios asociados a este período 
+son: LEP-C, El Manzano 1, Condominio 1, Las Chilcas 1, Las Morrenas 1, El Plomo, Los Piuquenes, 
+entre otros. Los trabajos realizados en el sitio 07 Ch 014 "Cerro Las Conchas" en la costa de Chile 
+Central (Gaete y Sánchez 1995) evidencian que la relación humana/medioambiente durante 
+este período no es mecánica, ya que cada grupo humano elaboró sus propias estrategias para 
+acceder a los recursos, en un medioambiente que ofrecía diferentes alternativas. Es así, como 
+estas poblaciones aprovecharon un medio ambiente similar a través del tiempo, de acuerdo con 
+sus propias elecciones culturales, accediendo a distintos núcleos ecológicos contiguos, tales 
+como marino profundo, marino superficial, litoral fluvial, forestal y lacustre, los que en 
+conjunto proveyeron de una gran variedad y diversidad de recursos, los cuales en su mayoría se 
+encuentran disponibles durante gran parte del ciclo anual (Gaete y Sánchez 1995).  
+ 
+ 
+
+===== p.17 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+18
+6.1.2.3. 
+Período Alfarero Temprano 
+ 
+Al terminar el período Arcaico, comienza el período Alfarero Temprano (PAT). Este período se 
+define desde el 800 a.C. al 1.200 d.C. y se caracteriza principalmente por la implementación 
+de nuevas tecnologías a los estilos de vida de las poblaciones locales; entre ellas, la cerámica, 
+y el manejo más significativo de cultivos. Sin embargo, es menester mencionar que, a pesar de 
+los nuevos cambios, existieron prácticas –como la caza y la recolección- que se mantuvieron, 
+perpetuándose por el devenir de los años. Se destaca que durante todo el transcurso del período 
+Alfarero Temprano (PAT), existieron grupos humanos que mantuvieron una vida cazadora-
+recolectora en la cordillera y precordillera, los que utilizaron materias primas de grano fino 
+para sus herramientas y mantenían una producción de cerámica de tamaño menor, ideal para 
+este tipo de sociedades –con alta movilidad. 
+ 
+La primera etapa del PAT se conoce como Comunidades Alfareras Iniciales, y se caracteriza por 
+la incorporación de nuevas tecnologías; la cerámica – como se mencionaba anteriormente- y los 
+cultígenos. Además, este primer período conlleva cambios en la movilidad, dieta, modos de 
+explotación de materias primas, prácticas funerarias y percepción de la territorialidad 
+(Falabella y Stehberg, 1989). Algunos de los asentamientos más relevantes que componen este 
+período son: Curaumilla 1 y 2, LEP-C, Arévalo 1, ENAP- 3, Radio Estación Naval, Valle Verde, 
+Lenka Franulic, Lonquén, La Granja y Concentración 2 (Falabella et al., 2016). A estos sitios, 
+también se incorporan ocupaciones en el valle del Maipo-Mapocho que incorporan tecnología 
+cerámica (Uchile, 2023). Se destaca que este período de Comunidades Alfareras Iniciales se 
+extiende aproximadamente por 1.000 años. 
+ 
+La continuación del período inicial da paso a la dispersión de los complejos Bato y Llolleo (200 
+a 1.000 d.C.), unidades culturales reconocidas hacia fines de la década de 1970 y comienzos de 
+1980, como resultado de una sistematización del registro arqueológico en la zona costera de 
+Chile Central (Falabella y Planella, 1979, 1987, respectivamente, citado en Sanhueza et al., 
+2003).  
+ 
+Este último, siendo la unidad arqueológica mejor reconocida del PAT, se caracteriza por un 
+patrón de asentamiento habitacional, conformado por pocas unidades familiares que 
+cohabitaban en el mismo espacio, practicando una economía de autoabastecimiento y sin 
+jerarquías sociales complejas. Estos asentamientos no conforman aldeas, sólo caseríos dispersos 
+(Falabella et al., 2016). La economía de autoabastecimiento se basa principalmente en los 
+cultivos de Chenopodium quinoa, Curcubita spp, Lagenaria spp, Zea mays, Phaseolus spp, entre 
+otros. En suma, se encuentran también artefactos de moliendas poco formatizados y elaborados 
+con materias primas locales (Falabella et al., 2016). Las cerámicas son generalmente 
+monocromas (negro o café), con formas de ollas alisadas, jarros pulidos y variedades de ollas 
+achatadas con asas, que pueden presentar, decoración incisa reticulada en el cuello y/o bultos 
+en cuerpo y asas (Falabella y Planella 1980; 1988-89; Falabella et al., 1993; Sanhueza et al., 
+2003; Falabella et al., 2016). 
+ 
+Contemporáneo al grupo Llolleo, nos encontramos con el Complejo Bato (0 d.C. al 1.000 d.C.). 
+
+===== p.18 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+19
+Este grupo se caracteriza por la conformación de reducidas unidades familiares con amplia 
+movilidad y sin diferenciación social. La subsistencia gira en torno a la caza (debido a la variedad 
+de puntas de proyectil y osamentas de camélidos) y recolección de recursos silvestres, 
+complementada con Chenopodium quinoa y Zea mays cultivados y recuperados junto a otros 
+frutos silvestres como Cryptocarya alba y Fragaria spp, mientras que, por su parte, en los 
+asentamientos costeros se observa la caza de recursos marinos como parte sustancial de la 
+subsistencia. La alfarería de este grupo se presenta como monocroma y en formas de ollas con 
+cuellos cortos que pueden tener asa o bultos. Estas vasijas –representadas por jarros sin asa, 
+asimétricas con golletes y/o cuerpos tubulares- se presentan pulidas y alisados, con decoración 
+incisa lineal punteada. Se destaca que esta no se presenta como ofrenda en las inhumaciones, 
+las que se caracterizan por utilizar espacios domésticos (Planella y Falabella, 1987; Falabella y 
+Planella, 1988-89; Sanhueza et al., 2003; Falabella et al., 2016).  
+ 
+Algunos sitios arqueológicos característicos de este período corresponden a la ocupación 
+habitacional Casa Blanca 10, Casa Blanca 19, Casa Blanca 28, Casa Blanca 30, Casa Blanca 35, 
+Los Patos 6, Los Tártaros 8, Los Tártaros 9, Los Tártaros 10, Los Tártaros 11, Los Tártaros 12, 
+Los Tártaros 13, Piguchen 2 y Piguechen 5 y “Ramadillas 1” y “La Higuera”, entre otros (Pavlovic, 
+2006). 
+ 
+6.1.2.4. 
+Período Intermedio Tardío (Complejo Aconcagua) 
+ 
+El período Intermedio Tardío (PIT), también conocido como complejo cultural Aconcagua (1.000 
+al 1.450 d.C.), se configura desde el sur del valle del río Aconcagua por el norte y el río 
+Cachapoal por el sur. Se destaca que, por al menos durante 200 años, los grupos Aconcagua 
+coexistieron con los grupos del PAT (Falabella et al., 2016). El cambio de PAT a Aconcagua se 
+entiende como una transformación local. Los grupos Aconcagua se configuraban en unidades 
+residenciales tipo caseríos, emplazados en lugares con abundante agua y accesibilidad 
+(Falabella et al., 2016). La economía de estas poblaciones se mantuvo similar a la de los grupos 
+PAT, sin embargo, mejoró la hibridación de las semillas, mejorando así los frutos en tamaño y 
+calidad, y complejizando el sistema productivo. Asimismo, los artefactos de molienda son más 
+recurrentes y tienen mayor tamaño, siendo recurrentes el uso de piedras tacita. Respecto al 
+consumo de animales, se demostró que estos grupos cohabitaron con camélidos, 
+provisionándolos de cueros, fibras, huesos y carne (Becker, 1994). La alfarería de esta cultura 
+se caracteriza por ser piezas abiertas como escudillas y pucos. También, encontramos jarros y 
+ollas con superficies decoradas de color salmón y rojo engobado. Además, nos encontramos con 
+ollas con y sin cuellos, de superficies alisadas y rugosas de color pardo y blanco. La tecnología 
+lítica de los grupos Aconcagua, se compone de puntas de proyectil triangulares pequeñas con 
+aletas, manufacturadas con materias primas locales. Finalmente, la funebria de estos grupos se 
+caracteriza por el desarrollo de túmulos funerarios. 
+ 
+Algunos sitios del PIT, además de algunos ya con ocupaciones más tempranas, como el sitio Las 
+Cenizas- son Casa Blanca 1 (Ancuviña El Tártaro), el cual corresponde a un conjunto no 
+determinado de rasgos funerarios y una dispersión de cerámicas y líticos, asociados a los túmulos 
+funerarios. Otro es el sitio arqueológico “Casa Blanca 10”, el cual corresponde a un sitio 
+
+===== p.19 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+20
+habitacional de más de 40.000 m2 de superficie, el que presenta restos de cerámica y líticos -
+tanto en superficie como subsuperficie y con una posible asociación de rasgos funerarios 
+(Pavlovic, 2006).  
+ 
+En lo que respecta al período Tardío (PT), los arqueólogos, historiadores y etno-historiadores 
+han documentado la presencia del Tawantinsuyu en Chile Central. Las fechas más tempranas 
+corresponden a las descritas para el Cerro la Cruz, que van desde 1.285 al 1.430 d.C., asociada 
+a cerámica Diaguita Inca. Sin embargo, se presume como límite inferior del período Incaico, 
+alrededor del 1.400 d.C. Algunas de las evidencias relacionadas con este período se han 
+registrado en el cementerio Incaico de Quinta Normal, con cerámica roja engobada con 
+decoración en negro y blanco con fechas del 1.405 d.C. al 1.500 d.C. (Uribe y Sánchez, 2016). 
+ 
+El Tawantinsuyu generó una serie de estrategias de control social y territorial, destacando la 
+configuración del camino del Inka o QhapacÑam, que permitió la conexión de este vasto imperio 
+con las zonas más alejadas, tales como Chile Central (Letelier, 2010). El interés por estudiar la 
+presencia del Inca en esta zona se manifiesta tempranamente, centrándose en el carácter que 
+tuvo ésta y cuál fue su influencia en las poblaciones locales. Inicialmente, la discusión se planteó 
+entre visiones orientadas en el rol civilizatorio del Tawantinsuyu y los intentos por remarcar los 
+desarrollos locales preexistentes (Latcham, 1928), aunque después de varias décadas en que la 
+investigación relacionada con este período fue escasa, se ha retomado la discusión orientándose 
+hacia el problema de la “frontera” meridional y el rol de las poblaciones locales en la 
+interacción (Planella y Stehberg, 1994). Algunas evidencias de este contacto entre poblaciones 
+locales y poblaciones incaicas han sido documentadas en sitios como cerro Chena (Stehberg, 
+2016), ruinas de Chada (Stehberg, 2013) y cerro grande La Compañía (Planella y Stehberg, 1994). 
+ 
+En la región de Valparaíso, uno de los sitios documentados para el período es “Casa Blanca 361”, 
+registrado por Rodrigo Sánchez, Andrés Troncoso y Daniel Pavlovic. Este corresponde a un sitio 
+doméstico con una alta presencia -tanto en superficie como en estratigrafía- de materiales 
+cerámicos y líticos, en un área de aproximadamente 5.000 m2 (Pavlovic, 2006).  
+ 
+6.1.2.5. 
+Período Colonial 
+ 
+La región de Valparaíso, al momento de la llegada de los españoles, se encontraba poblada por 
+población indígena relacionada con la cultura arqueológica “Aconcagua”, siendo conocido el 
+sector como Quintil. Dicha población hacía un uso extensivo de los diferentes espacios litorales 
+y de valles interiores, dando cuenta de una región integrada en términos culturales al momento 
+del contacto cultural con los españoles (Vera, Moya y Henríquez, 2013). 
+ 
+Inicialmente, la región de Valparaíso fue parte de los terrenos recorridos en el marco de la 
+expedición de Diego de Almagro, la cual tenía como objetivo encontrar lugares para la 
+extracción de oro. En 1536, en el marco del apoyo marino logístico de provisiones y víveres para 
+                                             
+1 A pesar de su adscripción al PT, según los antecedentes expuestos por el Proyecto Fondecyt antes citado, el sitio 
+es Multicomponente, presentando rasgos cronoculturales asociados al Período Intermedio Tardío, Tardío e Histórico.  
+
+===== p.20 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+21
+esta primera empresa de Almagro, el capitán Juan de Saavedra arribó a la costa chilena a bordo 
+del “Santiaguillo”. Según los registros, a su llegada, Saavedra bautizó la bahía con el nombre 
+de Valparaíso, en homenaje a su lugar de origen en España (Vicuña Mackenna, 1936). Los 
+registros históricos más tempranos sobre el área cercana al sitio de estudio mencionan la 
+presencia de Calvo de Barrientos, un desertor español que habría llegado a la zona de Quillota 
+alrededor de 1533, es decir, tres años antes de la expedición de Diego de Almagro en 1536, y 
+que habría estado asentado en Quillota junto a población local (Keller, 1960). 
+ 
+Posterior al abandono de la empresa de conquista por parte de Diego de Almagro, Pedro de 
+Valdivia fue el encargado de las tierras de Chile. Hacia 1541 fundó la ciudad de Santiago de 
+Nueva Extremadura, para posteriormente con las fuerzas españolas ya asentadas en el Valle 
+Central, organizar el traslado de aproximadamente 1.200 indígenas y 500 mujeres desde 
+Valparaíso (establecida como puerto hacia 1544) y Santiago, con el fin de iniciar la explotación 
+de los lavaderos de oro ubicados en el estero de Marga-Marga (Herrmann, 1894). Estos lavaderos 
+formaban parte de la extensa encomienda otorgada a Valdivia, cuyo centro administrativo se 
+encontraba en Quillota y que abarcaba una amplia porción de la cuenca del río Aconcagua, 
+conocida en aquel entonces como el Valle de Chile (Amunátegui, 1910).  
+ 
+A modo general, la región fue subdividida a distintos personeros a quienes Valdivia 
+recompensaba con la donación de tierras por servicios prestados. Por ejemplo, como 
+recompensa de haber otorgado alimentos, ropas y pertrechos en un contexto de crisis, Valdivia 
+otorga a los capitanes Diego García de Villalón, Alonso de Monroy y Pedro de Oñempezao, la 
+tenencia de tierras: Don Pedro Oñempezao se le asigna la parte de la ribera norte del Marga-
+Marga “junto al valle de Peuco y camino hacia las minas de Quillota”. Por otro lado, correspondió 
+a Diego García de Villálón las tierras formadas por las siete colinas o como se le designó años 
+más tarde: “las Siete Hermanas”. La tenencia de estas tierras a partir de 1580 a 1592 tuvo un 
+solo propietario; este fue el caso mencionado de Alonso de Ribero a quien la ciudad debe su 
+nombre. Fue Ribero quien plantó viñas que en poco tiempo se convirtieron en la admiración de 
+la población y que hicieron que la gente denominara el sector “la viña de Ribero” o “la viña de 
+la mar”, nombre que se afianzó en el tiempo. Ribero no solo se contentó́ con las tierras que le 
+habían sido conferidas, el compró: “…unas tierras junto al mar, que se llaman la quebrada de 
+Reñaca (Garrido, 2004). 
+ 
+En la misma línea, en 1547 Valdivia entregó la hacienda de Quilpué al primer alcalde de 
+Santiago, Rodrigo de Araya (Mackenna, 1877). Esta propiedad comprendía el curso superior del 
+río de las Minas o Marga-Marga, abarcando aparentemente el estero Moscoso, tributario de este, 
+así como algunas tierras destinadas a la estancia y a las cementeras (Troncoso, 1986). Otro caso 
+es en 1553, cuando Pedro de Valdivia entrega su encomienda a Rodrigo Gonzales, quien más 
+tarde sería el primer obispo de Chile (Amunátegui, 1910). Esta encomienda incluía, además de 
+300 indios encomendados, la casa y la estancia en Quillota, junto con el ganado, caballos, rejas, 
+arados, herramientas de minas, la fragua en la casa de Quillota y las minas ubicadas en el río 
+de Marga-Marga, de donde sus cuadrillas extraían oro (De Lillo, 1942). Gonzales mantuvo el 
+control de esta encomienda de manera intermitente hasta 1563, cuando primero pasó a manos 
+de Diego de Alderete y, posteriormente, a Juan Gómez de Almagro (Amunátegui, 1910). 
+
+===== p.21 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+22
+Como contexto general, durante el período Colonial hubo constantes tensiones por la naturaleza 
+de la empresa de conquista y colonización por sobre la población indígena local, lo que implicó 
+la imposición de un aparato ideológico, económico y administrativo acorde a lo indicado por la 
+corona española. Por ejemplo, a poco tiempo de iniciar la explotación de los lavaderos de oro, 
+el cacique Michimalonco lideró una sublevación entre los indígenas de la zona, lo que impidió 
+la continuidad de las actividades mineras hasta 1544, cuando la rebelión fue finalmente 
+sofocada. Una de las medidas adoptadas para prevenir nuevas sublevaciones fue la movilización 
+de indios yanaconas del Perú, lo que permitió la explotación más o menos constante de los 
+lavaderos hasta 1547 (Hermann, 1894). 
+ 
+Durante el siglo XVI, el área de estudio formó parte de diversas encomiendas, aunque los límites 
+territoriales de estas eran imprecisos y las encomiendas mismas se fragmentaron a lo largo del 
+siglo. La minería aurífera, especialmente la realizada en los placeres del estero Marga-Marga, 
+constituyó la principal actividad económica de la zona, disminuyendo progresivamente. Al 
+respecto, la actividad ganadera empezó a tomar relevancia, convirtiéndose en el principal 
+motor económico hacia finales de siglo (Troncoso, 1986).  
+ 
+Durante el siglo XVII, Valparaíso se consolidó como el centro principal del comercio entre Chile 
+y España, jugando un papel crucial en la conexión con el Virreinato del Perú y, en general, con 
+las rutas comerciales del Pacífico. El puerto chileno era vital para el intercambio de diversos 
+productos, siendo los más comunes el vino, el cebo, cueros, madera, y otros productos agrícolas, 
+los cuales se exportaban al Virreinato, mientras que Valparaíso recibía mercancías 
+manufacturadas como paños, platería, muebles y otros enceres. Además, en este período 
+también se comercializaban esclavos, lo que reflejaba la naturaleza del comercio colonial y sus 
+implicaciones sociales y económicas. Este comercio se concentraba especialmente entre 
+diciembre y abril, aprovechando las condiciones climáticas favorables para las embarcaciones. 
+El tráfico de barcos españoles, franceses, y, en menor medida, el contrabando de embarcaciones 
+holandesas y británicas, facilitaba la actividad económica de la ciudad (Ugarte Yávar, 1910). 
+ 
+Un factor determinante que contribuyó al crecimiento del comercio entre Valparaíso y el Puerto 
+de El Callao fue la intervención de Juan Fernández, piloto y expedicionario. Fernández, quien 
+fue clave para la navegación en el Pacífico, cambió las rutas de navegación tradicionales, que 
+hasta entonces seguían la costa, reduciendo significativamente el tiempo de viaje entre 
+Valparaíso y El Callao. Gracias a su conocimiento y a su experiencia en el mar, introdujo una 
+ruta más directa que permitió reducir el tiempo de viaje de tres meses a solo uno, mejorando 
+así la eficiencia y regularidad de los viajes comerciales entre los dos puertos. Este avance fue 
+esencial para fortalecer la conectividad entre ambos centros comerciales y, por ende, impulsó 
+el crecimiento económico de Valparaíso durante el siglo XVII (Ugarte Yávar, 1910). 
+ 
+Con los siglos venideros hubo una progresiva expansión urbana e industrial de Valparaíso y las 
+actuales comunas colindantes (Urbina, 2016). Un hito de este período fue el gran terremoto del 
+8 de julio de 1730 y su posterior tsunami, el cual destruyó parte de la infraestructura urbana de 
+Valparaíso y otras ciudades importantes del país (Larreta, 2014). 
+ 
+
+===== p.22 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+23
+6.1.2.6. 
+Período Republicano 
+ 
+La región de Valparaíso, y específicamente Valparaíso, fue una ciudad fundamental en los 
+procesos políticos de la independencia de Chile, funcionando como un centro de reunión y base 
+para las fuerzas patriotas, clave para la llegada de recursos y el desembarco de tropas durante 
+los momentos decisivos de la independencia (Vicuña Mackenna, 1877). 
+ 
+Posterior a la independencia, la primera mitad del siglo XIX fue una época de modernización 
+para la región, estrechamente relacionadas a la apertura comercial que se propició una vez 
+lograda la emancipación. Una dimensión de lo anterior fue que la ciudad experimentó un 
+crecimiento en infraestructura, siendo una de las obras más importantes la construcción del 
+ferrocarril, que llegó a Valparaíso en 1863. Esta nueva vía de transporte facilitó la comunicación 
+entre Valparaíso y Santiago, reduciendo el tiempo de viaje entre ambas ciudades (Memoria 
+Chilena, s.f.). 
+ 
+Además, el crecimiento del puerto y la urbanización de la ciudad implicaron una mejora en las 
+instalaciones comerciales y habitacionales. Se construyeron nuevos edificios, y se abrieron 
+calles principales y caminos que conectaban mejor los sectores comerciales y residenciales. El 
+aumento de la población, junto con la llegada de inmigrantes europeos, contribuyó a la 
+diversificación social y cultural de la ciudad (Brice, 2007). A su vez, el progreso en la 
+infraestructura también permitió a Valparaíso integrar una red de servicios como el alumbrado 
+público, los sistemas de alcantarillado y la expansión de la vivienda, especialmente en los cerros 
+de la ciudad (Nazer y Llorca-Jaña, 2023). 
+ 
+Algunos hitos relevantes que sucedieron en la región se encuentra el bombardeo de Valparaíso 
+el 31 de marzo de 1866, el cual ocurrió en el marco de la guerra hispano-sudamericana, conflicto 
+que fue una extensión de los problemas de la política colonial y las tensiones entre las antiguas 
+colonias españolas y el Imperio español, y cuyo resultado implicó la consolidación de la 
+independencia (Purcell, 2017). 
+ 
+Otro elemento relevante de la historia republicana fue que la región fue escenario de batallas 
+relevantes en el marco de la guerra civil de 1891 (Manríquez, 2009). Una de las más icónicas 
+fue la batalla de Placilla, entre el ejército “congresista” y el ejército “presidencial” que 
+apoyaba al presidente Balmaceda, los cuales tenían como objetivo tomar el control de 
+Valparaíso, razón por la cual la batalla se desarrolló en este lugar debido a la importancia 
+estratégica que tenía para la defensa de la ciudad y el puerto, y a que desembocan todos los 
+caminos que vienen desde la costa y terminan los caminos que vienen desde el Salto, Quilpué, 
+Viña del Mar, Casablanca y de todos los pueblos que se extienden hacia Melipilla y Santiago. 
+Particularmente, esta batalla tuvo un alto costo humano y fue central para culminar con el 
+mandato de Balmaceda y, con aquello, poner fin a la guerra (Manríquez, 2009). 
+ 
+Otro hito relevante de Valparaíso durante el siglo XX fue el terremoto del 16 de agosto de 1906, 
+el cual fue uno de los más devastadores en la historia de la ciudad, causando graves daños a la 
+infraestructura, especialmente en el puerto y en las áreas cercanas a la costa. Se estima que 
+
+===== p.23 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+24
+más de 20,000 personas fueron afectadas, y 2,000 murieron como consecuencia directa o 
+indirecta del desastre. La ciudad tardó años en recuperarse, y este evento relevó la 
+vulnerabilidad de Valparaíso ante fenómenos sísmicos, lo que impulsó reformas en la 
+construcción y en la planificación urbana para mitigar futuros desastres, siendo un importante 
+antecedente para la historia constructiva del país (Arango, 2021). 
+ 
+A lo largo del siglo XX, y de la historia republicana en general, ha habido cambios profundos en 
+aspectos económicos, sociales, culturales, tecnológicos, urbanos e industriales en las distintas 
+comunas que componen la conurbación del Gran Valparaíso2, los cuales se orientan a la 
+expansión urbana y/o consolidación de actividades económicas y/o turísticas, entre otras. Por 
+ejemplo, en el caso de Valparaíso, además de la relevancia económica como uno de los 
+principales puertos del país, se suma su reciente consolidación como patrimonio de la 
+humanidad, ratificado mediante la UNESCO en 2003 en función de sus cerros, ascensores y casco 
+histórico en general (Vergara y Aguilar, 2006). 
+ 
+6.1.3. Antecedentes arqueológicos específicos para el área del Proyecto 
+ 
+A continuación, y a modo de complementar y graficar los antecedentes precedentes en el 
+subcapítulo anterior, se presentan los siguientes antecedentes específicos. 
+ 
+Para el desarrollo de esta sección, se revisaron las bases de datos del Servicio de Evaluación 
+Ambiental (SEA), catastro de cuencas priorizadas por el MOP para la región de Valparaíso y visor 
+de Monumentos Arqueológicos del Consejo de Monumentos Nacionales, en búsqueda de 
+antecedentes arqueológicos reportados en el marco de estudios y declaraciones de impacto 
+ambiental en un radio de 10 km desde el Área de Influencia del Proyecto, así como también en 
+bibliografía especializada respecto a proyectos de investigación. 
+ 
+El detalle general de los bienes arqueológicos identificados mediante la revisión de 
+antecedentes específicos se detalla en la Tabla 2 y se visualizan en la Cartografía 3 del presente 
+Estudio de Línea de Base en patrimonio arqueológico. 
+ 
+De acuerdo con esta revisión, los bienes arqueológicos más cercanos al AI del proyecto 
+corresponde al sitio arqueológico MM3 - Piedra Tacita Marga-Marga 3, con una distancia de 
+0,38 km. El resto de los bienes patrimoniales se encuentran a una distancia igual o superior a 
+1,13 km, las que se pueden dimensionar en la Cartografía 3. 
+                                             
+2 Valparaíso, Viña del Mar, Quilpué, Villa Alemana y Concón. 
+
+===== p.24 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+25
+Tabla 2. 
+Sitios arqueológicos reportados en proyectos y estudios en un radio de 10 km al AI del Proyecto. 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+1 
+MM3 - Piedra 
+Tacita Marga-
+Marga 3 
+Sitio 
+arqueológico 
+“Productivo. Bloque rocoso granítico fracturado (115 
+cm de largo máx., 80 cm de ancho máx., y 30 cm de 
+alto máx.) con una horadación en cara superior 
+(15x15x9,5 cm). El sitio se emplaza en ladera de cerro 
+al lado sur de estero Marga, con cubierta 
+vegetacional esclerófila. El sitio se emplaza en ladera 
+de cerro al sur del estero Marga Marga, fuera del 
+límite comunal de la comuna de Quilpué, y al sur de 
+la ciudad de Quilpué”. Arancibia y Villagrán (2018). 
+Prehispánico 
+19 
+268.482 
+6.338.299 
+0,38 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+2 
+HIST - Sitio 
+Histórico 
+Marga Marga 
+Sitio 
+arqueológico 
+“Doméstico / habitacional. Material cultural de 
+superficie 
+dado 
+por 
+fragmentos 
+cerámicos 
+monocromos alisados negro y alisado anaranjados, 
+fragmentos de cuerpo y bordes de vasijas, moneda de 
+1/4 de real de plata de 1793 (Carlos IV), y fragmentos 
+de loza y vidrio. El sitio se emplaza sobre un lomaje 
+a orilla del estero Marga Marga, que presenta 
+vegetación xerófita por emplazarse en planicie de 
+ladera solana, con acacias, matorrales de espinos y 
+quiscos. Hacia ladera NE hay mayor presencia de 
+vegetación esclerófila. El sitio se emplaza en lomaje 
+en orilla Sur de estero Marga Marga, en un sector 
+llamado "Las Pozas", en sendero que se dirige a 
+antiguo fundo Las Siete Hermanas. Al sur de área 
+urbana de la ciudad de Quilpué”. Arancibia y 
+Villagrán (2018). 
+Histórico 
+- 
+Colonial 
+19 
+269.289 
+6.338.577 
+1,13 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+3 
+ELO1 Piedra 
+Tacita El 
+Olivar 
+Sitio 
+arqueológico 
+“Corresponde 
+a 
+Piedra 
+Tacita, 
+con 
+probable 
+funcionalidad 
+productiva 
+(molienda) 
+y/o 
+ceremonial/ritual. Se ubica a los pies de un cerro y a 
+10 m al norte de una quebrada profunda y/o estero 
+El Olivar. La conservación es buena, a pesar de que 
+presenta leves intervenciones antrópicas en su 
+entorno inmediato. La Piedra Tacita no parece tener 
+alteraciones en su ubicación, a pesar de que su 
+disposición de manera oblicua en ladera de cerro 
+permite cierto riesgo. Piedra Tacita en bloque rocoso 
+granítico de forma irregular de 2,1 x 1,9 x 0,65 m 
+dispuesto de manera oblicua sobre la superficie del 
+terreno debido a la pendiente del cerro, que registro 
+en panel superior 2 horadaciones u oquedades de 
+Prehispánico 
+- 
+Arcaico 
+Tardío/Alfare
+ro Temprano 
+19 
+266.925 
+6.342.237 
+3,11 
+Arancibia, L. 
+2021.  
+
+===== p.25 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+forma circular. En el entorno inmediato de la Piedra 
+Tacita se registran 3 piezas de material lítico o 
+herramientas de piedra. Entre estas identificamos un 
+percutor-mano de materia prima local (granito) 
+ubicado a 1 m al oeste del bloque rocoso. Además, se 
+detectó un pequeño guijarro con astillamiento 
+marginal y una lasca-núcleo ambos de materia prima 
+local (basalto). Se asigna por convención dimensiones 
+del sitio de 10 x 109 m de lados”. Arancibia (2021). 
+4 
+Las Cenizas 
+Sitio 
+Arqueológico 
+“Más de 70 esqueletos, piedras horadas y puntas de 
+proyectil en superficie”. Gagardo (1958), Hermosilla 
+y Ramírez (1982).  
+Prehispánico/
+Histórico 
+- 
+Arcaico/Perío
+do 
+Alfarero 
+Tardío/Coloni
+al 
+19 
+266.753 
+6.333.412 
+3,42 
+Gagardo, 
+1958-59; 
+Hermosilla y 
+Ramírez, 
+1982. 
+En: 
+UTMA-MOP. 
+1994. 
+5 
+MM2 - Piedra 
+Tacita Marga-
+Marga 2 
+Sitio 
+arqueológico 
+“Doméstico / habitacional y Piedra tacita. Bloque 
+rocoso granítico fracturado y con grietas (190 cm de 
+largo máx., 170 cm de ancho máx., y 50 cm de alto 
+máx.), que presenta 5 horadaciones circulares en 
+borde y base del panel superior (Nº1 de 10x9x14 cm, 
+Nº2 de 13x12x21 cm, Nº3 de 13x9x13,5cm, Nº4 de 
+14x14x16 cm, y Nº5 de 9x7x2,5 cm), el cual tiene 
+forma de L. Fragmentos cerámicos monocromos de 
+cuerpo y bordes de color anaranjado y café oscuro 
+alisados, de grosor medio y delgado. El sitio se ubica 
+en ladera de lomaje al costado sur del estero Marga 
+Marga, en una zona con vegetación esclerófila, en el 
+sector Colina de Oro, al sur del área urbana de la 
+ciudad de Quilpué”. Arancibia y Villagrán (2018). 
+Prehispánico 
+19 
+272.236 
+6.337.852 
+3,63 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+6 
+HVM1 - 
+Piedra Tacita 
+Hijuela 
+Virgen María1 
+Sitio 
+arqueológico 
+“Productivo. Corresponde a bloque rocoso granítico 
+de 250 cm de largo máximo, 150 cm de ancho y 35 cm 
+de alto, que presenta una horadación circular de 
+15x14x7,5 cm. El bloque presenta fracturas naturales 
+erosionadas y se encuentra en posición horizontal 
+sobre la superficie del suelo.  El sitio se emplaza al 
+interior de la hijuela Virgén María, al noroeste de la 
+ciudad de Quilpué, en un sector de ladera de cerro 
+de pendiente media que mira hacia el Sur con 
+arbustos y vegetación esclerófila; además hay una 
+Prehispánico 
+19 
+270.367 
+6.342.154 
+3,95 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+
+===== p.26 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+pequeña quebrada de orientación N-S a 25 m al N-E 
+del sitio”. Arancibia y Villagrán (2018). 
+7 
+COL1 - Piedra 
+Tacita Colina 
+de Oro 1 
+Sitio 
+arqueológico 
+“Productivo. 
+Corresponde 
+a 
+roca 
+en 
+altura 
+sobresaliente del terreno, de tamaño medio (200 cm 
+de largo máx., 170 cm de ancho máx., y 100 cm de 
+alto máx.), ubicada a orilla de camino y en cercanía 
+de quebrada y curso de agua. Presenta un total de 6 
+oquedades en su cara superior plana, cinco circulares 
+(Nº1 de 15x16x7 cm, Nº2 6x6x1 cm, Nº3 de 
+3,5x3,5x0,5 cm, Nº5 de 5x5x0,5 cm , y Nº6 de 4x4x0,4 
+cm), y 1 oval (Nº4 de 20x12x2 cm). El sitio se emplaza 
+en ladera de cerro con pendiente leve, al costado de 
+un camino vehicular de tierra el cual pasa por su 
+borde Norte en dirección NO, seguido por una 
+pequeña quebrada con la misma orientación. El sitio 
+se emplaza en un sector de matorral con bosque 
+esclerófilo asociado, a unos 65 metros al Este del 
+camino Las Turquesas, sector practicamente rodeado 
+por desarrollos inmobiliarios que son parte de la 
+ciudad de Quilpué”. Arancibia y Villagrán (2018). 
+Prehispánico 
+19 
+272.627 
+6.338.434 
+4,14 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+8 
+MM1 - Piedra 
+Tacita Marga-
+Marga 1 
+Sitio 
+arqueológico 
+“Productivo. Corresponde a bloque rocoso granítico 
+(90 cm de largo máx., 50 cm de ancho máx., y 50 cm 
+de alto máx.), fracturado y desprendido de un bloque 
+mayor que presenta una 
+horadación circular 
+(17x17x14 cm). El panel donde se ubica la tacita tiene 
+una posición lateral debido a la modificación de su 
+posición original. El sitio se ubica en ladera suave a 
+los pies de cerro al sur del estero Marga Marga, en 
+una zona con vegetación esclerófila, en el sector Los 
+Pinos, al sur del área urbana de la ciudad de 
+Quilpué”. Arancibia y Villagrán (2018). 
+Prehispánico 
+19 
+273.106 
+6.337.476 
+4,46 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+9 
+FRB1 - 
+Piedras 
+Tacitas Fundo 
+El Rebaño 1 
+Sitio 
+arqueológico 
+“Doméstico / habitacional y Productivo (Piedras 
+tacitas), además de posible componente funerario 
+por testimonio de lugareños, que refieren que se 
+habría extraído el sitio posible entiero humano. 
+Corresponde a dos bloques graníticos contiguos 
+ubicados 
+a 
+ras 
+de 
+suelo 
+con 
+presencia 
+de 
+horadaciones. El bloque rocoso de mayor tamaño 
+presenta 5 oquedades circulares y ovales. El bloque 
+rocoso menor presenta dos horadaciones ovales, con 
+Prehispánico 
+- 
+Período 
+Alfarero 
+19 
+270.237 
+6.342.971 
+4,55 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018. 
+
+===== p.27 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+presencia de material lítico (mano de moler, piedra 
+horadada, 
+machacador) 
+y 
+cerámico 
+alrededor 
+(fragmentos cerámicos monocromos). El sitio se ubica 
+en una zona de explanada mayor, entre cerros de la 
+cordillera de la costa, entre ellos, el cerro El Molle 
+al NO del sitio y cercana a una pequeña quebradilla 
+de agua intermitente a aproximadamente 10 metros 
+al NO del sitio”. Arancibia y Villagrán (2018).  
+10 
+LPN1 - Piedra 
+Tacita Los 
+Pinos 1 
+Sitio 
+arqueológico 
+“Productivo. Corresponde a bloque rocoso granítico 
+de forma rectangular (110 cm de largo máx., 60 cm 
+de ancho máx., y 50 cm de alto máx.), que presenta 
+una horadación circular pequeña de 12x12x6 cm. La 
+tacita se ubica en panel superior del bloque. El sitio 
+se emplaza en ladera de cerro de pendiente suave, a 
+unos 20 metros de quebrada pequeña con agua 
+intermitente, en sector con vegetación introducida 
+(bosque de eucaliptus), que es parte de área común 
+de la parcelación Paraíso, ubicada en la parte sur de 
+la ciudad de Quilpué”. Arancibia y Villagrán (2018). 
+Prehispánico 
+19 
+273.137 
+6.338.620 
+4,68 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+11 
+Miraflores 
+Sitio 
+Arqueológico 
+“Hallazgo casual a 2.5 m de profundidad de restos de 
+ocupación y enterratorio”. Salas (1955) y Hermosilla 
+(1983).  
+Prehispánico 
+- 
+Período 
+Alfarero 
+- 
+Cultura 
+Aconcagua 
+19 
+263.711 
+6.343.085 
+5,43 
+Salas, 1955; 
+Hermosilla, 
+1983. 
+En: 
+UTMA-MOP. 
+1994. 
+12 
+El Sauce 
+(Quilpué) 
+Sitio 
+Arqueológico 
+“Hallazgo casual de enterratorio”. Fonck (1910). 
+Prehispánico 
+- 
+Período 
+Alfarero 
+Tardío 
+19 
+274.085 
+6.338.855 
+5,66 
+Fonck, 1910. 
+En: 
+UTMA-
+MOP. 1994. 
+13 
+El Retiro 
+(Quilpué) 
+Sitio 
+Arqueológico 
+“Afloramientos rocosos con cavidades (tacitas)”. 
+Fonck (1910). 
+Prehispánico 
+- 
+Arcaico/Alfar
+ero Tardío 
+19 
+273.273 
+6.341.074 
+5,68 
+Fonck, 1910. 
+En: 
+UTMA-
+MOP. 1994. 
+14 
+LPS1 - 
+Piedras 
+Tacitas Las 
+Palmas 1 
+Sitio 
+arqueológico 
+“Doméstico / habitacional y Piedras Tacitas. El sitio 
+se compone de 5 bloques rocosos de granito con 
+presencia de tacitas distribuidas en diferentes puntos 
+en torno a dos afloramientos rocosos contiguos. Un 
+bloque se asocia al primer afloramiento rocoso y 
+otros 4 bloques al segundo. El bloque rocoso Nº1 (115 
+cm de largo máx., 90 cm de ancho máx., y 8 cm de 
+alto máx.), se encuentra fracturado, con grietas y 
+Prehispánico 
+19 
+274.432 
+6.336.981 
+5,79 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+
+===== p.28 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+ladeado, presenta una sola horadación circular 
+(13,5x12x5 cm). El bloque rocoso Nº2, de mayor 
+tamaño (200 cm de largo máx., 160 cm de ancho máx, 
+y 100 cm de alto máx.), con evidencia de fractura, se 
+ubica en el centro del segundo afloramiento rocoso 
+con 10 horadaciones circulares grandes y profundas 
+que presentan un rebaje lateral por reutilización de 
+las tacitas (Nº2 de 18x15x19 cm, Nº3 de 16x16x20 cm, 
+Nº4 de 15x16x19 cm, Nº7 de 18x19x25 cm, Nº9 de 
+16x17x25 cm, y Nº10 de 14x14x19 cm), y circulares 
+pequeñas poco profundas (Nº1 de 10x10x4,5 cm, Nº5 
+de 8x7x2,5 cm, Nº6 de 9x8x3 cm, y Nº8 de 8x8x2 cm). 
+El bloque rocoso Nº3 (50 cm de largo máx., 40 cm de 
+ancho máx., y 35 cm de alto máx.), ubicado cercano 
+al anterior, es una parte del bloque Nº2 que se 
+fracturó y desprendió, que presenta una horadación 
+circular profunda y expuesta por fractura, con rebaje 
+lateral (14x14x19 cm). El bloque Nº4 (80 cm de largo 
+máx., 55 cm de ancho máx, y 25 cm de alto máx.), se 
+ubica a 3 metros de bloque mayor Nº2, fracturado y 
+probablemente removido, presenta una horadación 
+ovalada de poca profundidad (20x9x4 cm). El bloque 
+Nº5 (180 cm de largo máx., 100 cm de ancho máx., y 
+40 cm de alto máx), se ubica más alejado de los 
+bloques Nº2, 3 y 4 pero en el mismo afloramiento 
+rocoso, que presenta 4 horadaciones circulares 
+profundas con importantes rebajes laterales por 
+reutilización (Nº1 de 25x24x23 cm, Nº2 de 22x22x20 
+cm, Nº3 de 23x19x23 cm, y Nº4 de 17x16x12 cm). 
+Material cultural dado por fragmentos de cerámica 
+monocromos de color café y grosor medio, así como 
+material lítico donde se registran manos de moler 
+enteras 
+y 
+fracturadas, 
+posible 
+percutor, 
+machacadores, entre otros, elaborados en materias 
+primas locales. Parte del material cultural se 
+encuentra acumulado debido a que fue intervenido 
+por excavaciones ilegales. El sitio se emplaza en 
+ladera de cerro formando un plano inclinado a los 
+pies de los cerros que discurren por la margen sur del 
+estero Marga Marga, que presenta vegetación 
+
+===== p.29 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+esclerófila, en el acceso al Fundo Las Palmas, en el 
+sector Teniente Serrano, inmediatamente al sur del 
+área urbana de la ciudad de Quilpué”. Arancibia y 
+Villagrán (2018). 
+15 
+Viña del Mar 
+Sitio 
+Arqueológico 
+“Hallazgo casual de individuo sepultado en la arena, 
+a 2 m de profundidad”. Hermosilla (1983). 
+Prehispánico 
+- 
+Período 
+Alfarero 
+Tardío 
+19 
+262.278 
+6.343.441 
+6,71 
+Hermosilla, 
+1983. 
+En: 
+UTMA-MOP. 
+1994. 
+16 
+FSJ3 - Piedra 
+Tacita Fundo 
+San Jorge 3 
+Sitio 
+arqueológico 
+“Productivo y asociado a sitio habitacional FSJH del 
+Período Alfarero Temprano. Corresponde a bloque 
+rocoso de forma redondeada, de tamaño medio (88 
+cm de largo máx., 73 cm de ancho y 69 cm de alto 
+máx.), ubicada a orillas de una quebrada y curso de 
+agua intermitente. Se encuentra levemente inclinada 
+por la condición del suelo y presenta 8 oquedades, 
+con una de ellas de mayor tamaño, bien definida y 
+ubicada al centro de la roca, mientras que las demás 
+son pequeñas y superficiales.  El sitio se emplaza al 
+interior del Fundo San Jorge, al norte de la ciudad de 
+Quilpué, en un sector de ladera en el borde de una 
+quebrada de 2 metros de profundidad que pasa por 
+costado Norte y que tiene dirección NO-SE, a los pies 
+del cerro El Buitre. Sector con vegetación esclerófila 
+e introducida”. Arancibia y Villagrán (2018). 
+Alfarero 
+Temprano 
+19 
+272.284 
+6.344.847 
+7,26 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+17 
+FSJH - Sitio 
+Habitacional 
+Fundo San 
+Jorge 
+Sitio 
+arqueológico 
+“Doméstico 
+/ 
+habitacional. 
+Sitio 
+habitacional 
+asociado a Piedra Tacita (sitio FSJ3). A 10 metros 
+hacia el Sur, y cruzando la pequeña quebrada, se 
+ubica el sitio FSJ3 que corresponde a Piedra Tacita al 
+cual se asocia este sitio. El material cultural de 
+superficie corresponde a una mano de moler en 
+granito y fragmentos cerámicos monocromas, algunos 
+erosionados, con inclusiones grandes de cuarzo 
+lechoso. Los fragmentos son monocromos de color 
+café y a veces rojizo, de grosores entre 6 y 8 mm, con 
+superficies alisadas muy parejas y textura compacta. 
+Sus propiedades se relacionan con las cerámicas 
+domésticas propias del Período Alfarero Temprano de 
+elaboración local. Los materiales líticos se componen 
+de piezas elaboradas sobre lascas o láminas que 
+concuerda con las características del material lítico 
+Alfarero 
+Temprano 
+19 
+272.290 
+6.344.868 
+7,28 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+
+===== p.30 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+de grupos Bato, entre ellos, cuchillos, perforadores, 
+cepillos, y puntas de proyectil, con materias primas 
+locales mayoritariamente (cuarzo lechoso, basalto y 
+granito), y escasas las materias primas no locales 
+(roca silícea de grano fino). Además, se registra 
+presencia de restos óseos de fauna. El sitio se 
+emplaza en una pequeña planicie inmediatamente al 
+Norte de quebrada de aprox. 2 metros de 
+profundidad, en sector que presenta una vegetación 
+de bosque esclerófila. El sitio se emplaza al interior 
+del Fundo San Jorge, al norte de la ciudad de 
+Quilpué, en un sector de planicie inmediatamente al 
+norte de quebrada de 2 metros de profundidad, a los 
+pies del cerro El Buitre, cercano a sitio FSJ3 Piedra 
+Tacita Fundo San Jorge”. Arancibia y Villagrán (2018). 
+18 
+FSJ2 - Piedra 
+Tacita Fundo 
+San Jorge 2 
+Sitio 
+arqueológico 
+“Productivo. Corresponde a bloque rocoso granítico 
+de 239 cm de largo máx, 185 cm de ancho y 21 cm de 
+altura máx, ubicado a ras de suelo que presenta dos 
+horadaciones circulares, ubicadas en el mismo panel 
+a unos 50 cm una de otra, con medidas la Nº1 de 
+11x10x3,3 cm y la Nº2 de 18x15x13 cm. El sitio se 
+emplaza al interior del Fundo San Jorge, al norte de 
+la ciudad de Quilpué, en un sector de ladera de cerro 
+con vegetación esclerófilaen el borde de una 
+quebrada de 15 metros de profundidad, a los pies del 
+cerro El Buitre, y al costado sur de camino interior 
+de tierra”. Arancibia y Villagrán (2018). 
+Prehispánico 
+19 
+272.541 
+6.344.921 
+7,47 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+19 
+BTO2 - Piedra 
+Tacita El 
+Belloto 2 
+Sitio 
+arqueológico 
+“Productivo. El sitio se compone de dos bloques 
+rocosos graníticos con una tacita cada uno. El primer 
+bloque, de gran tamaño (600 cm de largo máx., 264 
+cm de ancho máx., y 83 cm de alto máx.), que 
+sobresale de la superficie de un importante 
+afloramiento rocoso, presenta una horadación 
+circular de tamaño medio (17x16x8 cm). El segundo 
+bloque, muy cercano al anterior pero a ras de suelo, 
+es más pequeño (97 cm de largo máx., 93 cm de ancho 
+máx., y 17 cm de alto máx.), y presenta una 
+horadación circular superficial e irregular (12x10x1,5 
+cm). El sitio se emplaza en la ladera de lomaje de 
+pendiente suave entre dos quebradas con orientación 
+Prehispánico 
+19 
+274.734 
+6.342.818 
+7,78 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+
+===== p.31 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+NO-SE, sobre un afloramiento rocoso en lo alto. 
+Presenta vegetación propia del bosque esclerófilo. Se 
+encuentra al borde de la zona urbana en el sector de 
+El Belloto, a orilla de camino vehicular de tierra y 
+cercano a pequeña quebrada del lado Este, con 
+viviendas”. Arancibia y Villagrán (2018). 
+20 
+ILS 1 
+Sitio 
+arqueológico 
+“La construcción del túnel se sitúa a fines del siglo 
+XIX (1887) y correspondería a un túnel ferroviario, 
+del Anexo Ferrocarril del Norte. Su longitud estimada 
+es de menos de 100 metros de largo, cruzando bajo 
+avenida Alessandri hacia el sector donde actualmente 
+se encuentra el Mall Marina Arauco. Fue utilizado 
+hasta 1917. Fue construido con ladrillos de la fábrica 
+que se ubicaba en sector Las Salinas y que colapsó con 
+el terremoto de 1906 (Memoria y Patrimonio, PUCV). 
+Actualmente el túnel se encuentra cerrado por medio 
+de un muro de ladrillos. Las características 
+constructivas de este muro son distintas a las del 
+túnel, con ladrillos de medidas más pequeñas (28 x 
+5,5 cm) y con mortero correspondiente a cemento 
+gris con inclusiones de mayor tamaño. Así mismo, al 
+interior del túnel en el sector SO se construyó una 
+habitación con paredes de hormigón que tiene un 
+acceso rectangular. En su interior se observan basuras 
+actuales y a causa de las lluvias presenta acumulación 
+de material de escurrimiento de la ladera. El muro 
+que cierra el acceso al túnel presenta grafitis 
+realizados por medio de pinturas. No se registra 
+material cultural en los alrededores del túnel, 
+tampoco se registran indicios de rieles ni de 
+durmientes. Su estado de conservación es regular ya 
+que ha sido intervenido a lo menos en dos ocasiones 
+con la construcción de un muro que lo clausuró y una 
+habitación en el sector SO, además presenta grafitis 
+y basuras actuales. En relación con los efectos 
+naturales 
+que 
+lo 
+han 
+afectado 
+se 
+registra 
+escurrimiento de material de la ladera del cerro que 
+se ha depositado al interior del túnel haciendo 
+imposible poder determinar su altura completa, 
+además la erosión propia del sector costero ha 
+Histórico 
+19 
+262.112 
+6.345.337 
+8,17 
+Fernández, 
+F., 2018.  
+
+===== p.32 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+afectado los ladrillos que quedan expuestos a ella”. 
+Fernández (2018). 
+21 
+Escuela de 
+Comunicacio
+nes 1 
+Sitio 
+Arqueológico 
+“Conchal en superficie”. Silva (1964). 
+Prehispánico 
+- 
+Arcaico 
+Tardío 
+19 
+262.498 
+6.346.090 
+8,53 
+Silva, 1964. 
+En: 
+UTMA-
+MOP. 1994. 
+22 
+BTO1 - Piedra 
+Tacita El 
+Belloto 1 
+Sitio 
+arqueológico 
+“Productivo. Corresponde a bloque rocoso granítico 
+(120 cm de largo máx. 115 cm de ancho máx., y 53 cm 
+de alto máx.), que presenta 12 horadaciones 
+circulares (Nº1 de 23x23x17 cm, Nº2 de 17x17x15,5 
+cm, Nº3 de 16x15x16 cm, Nº4 de 16x15x15 cm, Nº5 de 
+17x15x10 cm, y Nº6 de 9x9x2 cm)y ovaladas (Nº7 de 
+15x9x1,5 cm, Nº8 de 23x14x5 cm, Nº9 de 23x12x5 cm, 
+Nº10 de 24x14x6 cm, Nº11 de 24x12x4 cm, y Nº12 de 
+23x13x3,5 cm). Presenta fracturas en sus bordes, lo 
+que insinúa que su tamaño podría haber sido mayor y 
+su posición original estar levemente modificada. Se 
+encuentra rodeada de otros bloques rocosos, algunos 
+quebrados o removidos. El bloque se instala de 
+manera horizontal con respecto al suelo y todas las 
+horadaciones se ubican en un solo panel. Además, se 
+encontró material lítico en superficie, entre ellos 
+machacadores y núcleos, en materia prima local. El 
+sitio se ubica en plano inclinado a los pies de pequeño 
+cerro al NO e inserta en afloramiento rocoso con 
+presencia de vegetación esclerófila. Se encuentra 
+perimetrada al SE por pequeña quebrada intervenida 
+antrópicamente. El sitio se emplaza inmediato a zona 
+urbanizada y construida de la ciudad de Quilpué, 
+sector denominado El Belloto, en un sector 
+fuertemente intervenido por caminos vehiculares y 
+microbasurales”. Arancibia y Villagrán (2018). 
+Prehispánico 
+19 
+275.728 
+6.342.986 
+8,74 
+Arancibia, L. 
+y 
+Á. 
+Villagrán. 
+2018.  
+23 
+Antena 1 
+Sitio 
+Arqueológico 
+“Conchal cerámico asociado a piedras tacitas”. Silva 
+(1964). 
+Prehispánico 
+- 
+Período 
+Alfarero 
+Temprano 
+19 
+262.634 
+6.346.830 
+9,06 
+Silva, 1964. 
+En: 
+UTMA-
+MOP. 1994. 
+24 
+El Toronjil 
+Sitio 
+arqueológico 
+“Se localiza en un terreno plano situado entre el 
+estero Las Tablas (lado E) y el camino rural que corre 
+paralelo a la Ruta 68 de Santiago a Valparaíso. Se 
+encontraron dos fragmentos cerámicos, uno de los 
+cuales corresponde a un asa de tipo circular, la otra 
+Alfarero 
+Tardío 
+- 
+Histórico 
+19 
+261.040 
+6.330.374 
+9,26 
+Westfall, C., 
+1999.  
+
+===== p.33 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+a una mano de moler. Posible funcionalidad 
+habitacional”. Westfall (1999). 
+25 
+Casa Loma 
+Sitio 
+arqueológico 
+“Se ubica a 200 m al SE de la Ruta 68 que une Santiago 
+con Valparaíso, y a 150 m del estero Las Tablas. Se 
+encontraron fragmentos cerámicos diseminados por 
+la ladera de una pequeña loma, donde actualmente 
+existe una casa. Los materiales presentan una 
+dispersión de 30 m en sentido E/W y 15 m en sentido 
+N/S. Posible funcionalidad habitacional”. Westfall 
+(1999). 
+Prehispánico 
+- 
+Período 
+Agroalfarero 
+19 
+261.175 
+6.329.974 
+9,44 
+Westfall, C., 
+1999.  
+26 
+El Galpón 
+Sitio 
+arqueológico 
+“Corresponde 
+a un sector con hallazgos de 
+fragmentos cerámicos y de un posible artefacto lítico 
+(machacador), localizado al costado de un galpón 
+abandonado (¿antiguo aserradero?) y al W de camino 
+interior sin pavimentar, casi al frente de las oficinas 
+de Curauma. A unos 50 m hacia el W se encuentra el 
+estero las Tablas. El hallazgo de los materiales 
+arqueológicos corresponde a un pequeño sector de no 
+más de 5 x 5 m. El terreno posee un alto grado de 
+disturbación antrópica debido a las faenas forestales 
+que se efectuaban en el lugar, como también por la 
+presencia de basuras debido a la existencia de una 
+antigua vivienda en el sector (restos de tejas, 
+adobes, latas, plásticos, etc.). Algunos sectores del 
+suelo han sido rebajados entre 5 a 40 cm, 
+aparentemente con máquina pesada y con motivos 
+desconocidos. Posible funcionalidad habitacional”. 
+Westfall (1999). 
+Prehispánico 
+- 
+Período 
+Agroalfarero 
+19 
+261.296 
+6.329.679 
+9,57 
+Westfall, C., 
+1999.  
+27 
+El Mortero 
+Hallazgo 
+aislado 
+“Se localiza en el sector de cruce de caminos (cerca 
+de las oficinas de Curauma), donde se localiza una 
+caseta con guardia permanente. Se encontró un 
+mortero en el patio trasero de una vivienda. Este 
+hallazgo se sitúa unos 30 m al N y W del camino sin 
+pavimentar en un sector plano al E del estero Las 
+Tablas. Existen dudas acerca de la localización 
+original del mortero, debido a que en este lugar no 
+se encontraron materiales cerámicos o líticos 
+asociados. Asimismo, presenta un alto grado de 
+disturbación antrópica debido a la existencia de un 
+Alfarero 
+19 
+261.170 
+6.329.774 
+9,59 
+Westfall, C., 
+1999.  
+
+===== p.34 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 
+N° 
+Nombre 
+Tipología 
+hallazgo 
+Descripción 
+Período 
+Huso 
+Coordenada UTM WGS 84 
+Distancia 
+aprox. al 
+proyecto (km) 
+Referencia 
+Este (m) 
+Norte (m) 
+basural 
+en 
+el 
+terreno. 
+Posible 
+funcionalidad 
+habitacional”. Westfall (1999). 
+Fuente: Elaboración Propia. 
+ 
+
+===== p.35 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+36
+Cartografía 3. Sitios arqueológicos reportados en un radio de 10 km al Área de Influencia del Proyecto. 
+Fuente: Elaboración Propia.
+
+===== p.36 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+37 
+6.2. 
+Resultados de Caracterización Superficial mediante prospección pedestre. 
+ 
+En el presente apartado se presentan los resultados consolidados de la prospección pedestre, 
+con el fin de evaluar si en el AI del Proyecto se registran bienes patrimoniales arqueológicos 
+protegidos por la Ley N°17.288 de Monumentos Nacionales constitutivos de Objetos de 
+Protección (OP).  
+ 
+6.2.1. Campaña I 
+ 
+La campaña I se realizó entre los días 17 y 21 de febrero del 2025 por los arqueólogos Matías 
+Rain, Caroline Pastenes y Francisco Almonacid; y los licenciados en Antropología con mención 
+en Arqueología Victoria Pérez y Vicente Valdés. Esta se ejecutó acorde a lo descrito en el 
+apartado de metodología del presente informe, considerando las condiciones particulares de 
+accesibilidad, obtrusividad y visibilidad. El Área de Influencia (AI) se encuentra distribuida entre 
+el trazado del futuro camino de acceso al proyecto y las zonas delimitadas por los cercos 
+perimetrales proyectados para las instalaciones y una zona más amplia, relacionada con un 
+cerco de seguridad para el terreno. En términos generales, los cerros que conforman el AI 
+presentan pendientes de distinta inclinación, además de una densidad vegetacional y 
+estabilidad de suelo variable, lo que en algunos casos dificultó el desarrollo de la prospección.  
+ 
+6.2.1.1. 
+Futuro camino de acceso al proyecto 
+ 
+El futuro camino de acceso conectará el proyecto con la Ruta 60 que une Viña del Mar y Quilpué. 
+Actualmente, el emplazamiento del camino se ubica entre lomas (en fondos de quebrada) y 
+laderas de estas, caracterizándose por una pendiente acentuada a muy acentuada (>16°) en 
+algunos sectores, así como también zonas más llanas en las partes más altas de cada lomaje; 
+además, se documentó a lo largo del recorrido una vegetación de densidad variable dependiendo 
+si correspondía a una ladera (densidad media, transitable), un fondo de quebrada (densidad 
+baja a alta, transitable dependiendo del sector), o si se encontraba intervenido por acción 
+antrópica (caminos vehiculares óptimos para transitar). Es relevante señalar que toda el área 
+se encuentra escasamente intervenida por acción humana, siendo los caminos vehiculares y/o 
+de motos los elementos más relevantes al respecto, los cuales se encuentran asociados a 
+actividades recreacionales (motocross) o la instalación de torres de alta tensión que pasan en 
+las cercanías del proyecto. A su vez, el suelo es principalmente arenoso de grano grueso y 
+altamente susceptible a la erosión, especialmente en zonas de pendiente y donde se ha perdido 
+la cobertura vegetal (SERNAGEOMIN, 2003). Todo lo anterior, y sus detalles, se pueden observar 
+en la Figura 1.  
+ 
+Considerando lo anterior, un porcentaje del futuro camino no pudo ser prospectado y tuvo que 
+ser bordeado en sectores en los que sí fue factible transitar (Figura 2). De acuerdo con las 
+variables de control arqueológico, se documentó una accesibilidad, visibilidad y obtrusividad de 
+baja a media, acorde a las características antes mencionadas.  
+ 
+
+===== p.37 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+38 
+Figura 1. 
+Vista general de futuro camino de acceso – Campaña I. 
+ 
+ 
+Coordenada 19 H 267.781 – 6.337.510. Vista general 
+hacia el noreste desde sector más cercano a zona de 
+instalaciones y/o movimientos de tierra. Se observa 
+vegetación en gran densidad.. 
+Coordenada 19 H 268.174 - 6.337.773. Vista general 
+hacia el suroeste desde área del camino más cercana a 
+zona de instalaciones o movimientos de tierra. Se 
+observa sector llano con menor vegetación. 
+ 
+ 
+Coordenada 19 H 268.142 - 6.338.654. Vista general 
+hacia el noroeste desde sector intermedio de futuro 
+camino. Se logra apreciar pendiente que derivó en que 
+no se prospectara parte del sector. 
+Coordenada 19 H 267.450 - 6.339.005. Vista general 
+hacia el norte desde sector más al noroeste que pudo 
+ser prospectado. Se logra observar la Ruta 60 que une 
+Viña del Mar con Quilpué. 
+ 
+ 
+Coordenada 19 H 267.457 6.339.008. Vista general 
+hacia el este desde sector más al noroeste que pudo 
+ser prospectado. Se logra observar pendiente que 
+impide continuar con la prospección del sector. 
+Coordenada 19 H 267.594 6.339.118. Vista general 
+hacia el este desde sector más cercano a ruta 60 que 
+pudo ser prospectado. Se logra observa pendiente que 
+impidió llegar a zona contigua de autopista. 
+ Fuente: Elaboración Propia. 
+
+===== p.38 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+39 
+Figura 2.  
+Zonas no prospectables de futuro camino de acceso – Campaña I. 
+ 
+ 
+Coordenada 19 H 268.070 – 6.338.486. Ejemplo de 
+pendiente >16° que da a quebrada y densidad de 
+vegetación alta en sector intermedio de futuro camino 
+de acceso. Su prospección supone un riesgo de 
+seguridad significativo. 
+Coordenada 19 H 267.907 – 6.338.738. Ejemplo de 
+pendiente y quebrada no prospectable, por lo que 
+transecta tuvo que ser bordeada. En imagen se logra 
+apreciar la Ruta 60 que une Viña del Mar y Quilpué. 
+ Fuente: Elaboración Propia. 
+ 
+Por último, tanto en el futuro camino de acceso como en los lugares colindantes en los cuales 
+se transitó para llegar al AI, no se registraron bienes patrimoniales superficiales durante la 
+prospección pedestre ejecutada. Si bien no se pudo realizar un porcentaje de la prospección 
+por razones de seguridad (pendientes pronunciadas y/o quebradas), es esperable que estos no 
+fueran ocupados por grupos humanos por estas mismas razones, prefiriendo zonas más llanas 
+como las que sí fueron prospectadas y en las cuales no se documentaron hallazgos arqueológicos. 
+ 
+6.2.1.2. 
+Interior de cercado de terreno e instalaciones 
+ 
+La parte del AI que comprende la zona de instalaciones y movimientos de tierra del proyecto 
+fue prospectada con mayor cobertura, ya que había caminos vehiculares habilitados que 
+permitían acceder a las diferentes lomas en las cuales se emplaza el proyecto. En general, este 
+sector del AI tiene un emplazamiento similar al camino anteriormente descrito, con múltiples 
+cerros, lomas, quebradas y laderas, caracterizándose por una pendiente acentuada a muy 
+acentuada (>16°) en algunos sectores, así como también zonas más llanas en las partes más 
+altas de cada loma y/o cerro; una vegetación de densidad variable dependiendo si correspondía 
+a una ladera (densidad media, transitable), un fondo de quebrada (densidad baja a alta, 
+transitable dependiendo del sector) o cima de cerro (densidad alta, levemente transitable); o 
+si se encontraba intervenido por acción antrópica (caminos vehiculares óptimos para transitar).  
+ 
+Para este sector, algunas quebradas y/o laderas de cerro pudieron ser prospectadas por 
+pendientes no tan acentuadas, así como también algunos fondos de quebradas que no revestían 
+riesgo de seguridad para su tránsito. Sin embargo, también hubo sectores que no pudieron ser 
+prospectados en consideración de pendientes acentuadas (superiores a 16°), una alta densidad 
+vegetacional y la inestabilidad del suelo. Este punto fue especialmente relevante en sectores 
+
+===== p.39 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+40 
+de mayor altitud en la zona sur de esta sección del AI, donde se documentó una alta vegetación 
+espinosa en asociación a una gran cantidad de rocas degradadas y erosionadas de distintos 
+tamaños (desde clastos angulares a grandes bloques), las cuales revestían un riesgo de seguridad 
+por acción coluvial (caída por gravedad de estas). Este riesgo se veía agravado, paralelamente, 
+por el viento costero, que restaba estabilidad al tránsito por la zona, y el suelo arenoso 
+altamente erosionado que caracteriza a la cordillera de la Costa (SERNAGEOMIN, 2003). 
+Ejemplos generales de las características de esta zona se documentan en la Figura 3 y Figura 
+4.  
+ 
+Figura 3.  
+Vista general de zona de instalaciones y movimientos de tierra – Campaña I 
+ 
+ 
+Coordenada 19 H 268.602 – 6.337.318. Vista general 
+hacia el oeste desde noreste de zona de instalaciones y 
+movimientos de tierra del AI. Se observan lomajes, 
+vegetación y pendientes acentuadas. 
+Coordenada 19 H 276.583 - 6.342.768. Vista general 
+hacia el suroeste desde noroeste de zona de 
+instalaciones y movimientos de tierra del AI. Se 
+observa vegetación y pendientes que caracterizan el 
+área. 
+ 
+ 
+Coordenada 19 H 267.903 – 6.336.627. Vista general 
+hacia el norte desde el sur de zona de instalaciones y 
+movimientos de tierra del AI. En imagen se logra 
+apreciar tipo de suelo (erosionado), vegetación 
+espinosa y pendiente pronunciada. 
+Coordenada 19 H 267.903 – 6.336.627. Vista general 
+hacia el este desde el sur de zona de instalaciones y 
+movimientos de tierra del AI. En imagen se logra 
+apreciar tipo de suelo (erosionado), vegetación de 
+baja cobertura y pendiente pronunciada, la que 
+termina en una quebrada profunda e inaccesible.  
+
+===== p.40 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+41 
+ 
+Coordenada 19 H 268.253 – 6.336.599. Vista general 
+hacia el norte desde el sureste de zona de 
+instalaciones y movimientos de tierra del AI. Debido al 
+suelo erosionado e inestable, sumado a las ráfagas de 
+viento, hubo un riesgo constante de caída. 
+ 
+Coordenada 19 H 267.657 – 6.336.963. Vista general 
+hacia el noreste del AI desde el suroeste de zona de 
+instalaciones y movimientos de tierra del AI. Sector 
+con pendiente acentuada y quebradas que dificultaban 
+la continuidad de la prospección.  
+Fuente: Elaboración Propia. 
+ 
+Figura 4.  
+Zonas no prospectables en zona de instalaciones y movimientos de tierra – 
+Campaña I 
+ 
+ 
+Coordenada 19 H 267.937 - 6.337.537. Vista general 
+hacia el sureste desde zona intermedia de AI, no 
+prospectada por quebrada con fuerte pendiente. 
+Coordenada 19 H 268.233 – 6.337.083. Vista general 
+hacia el oeste desde zona intermedia de AI, no 
+prospectada por quebrada con pendiente acentuada. 
+
+===== p.41 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+42 
+ 
+ 
+Coordenada 19 H 268.591 - 6.337.222. Sector al 
+noreste de zona de instalaciones y movimientos de 
+tierra del AI que no pudo ser prospectado por 
+pendiente y quebrada pronunciada. 
+Coordenada 19 H 268.226 – 6.336.750. Sector al 
+sureste de zona de instalaciones y movimientos de 
+tierra del AI que no pudo ser prospectado por 
+pendiente y quebrada. 
+ 
+Respecto a las variables de control arqueológico, hubo una accesibilidad, visibilidad y 
+obstrusividad baja a alta. En general, los factores que incidieron en las variables fueron zonas 
+que debieron ser bordeadas porque impedían el correcto tránsito y/o no permitían ver de buena 
+manera la superficie, tales como la vegetación de baja a media altura; las pendientes 
+pronunciadas y el riesgo general de caída/golpe en zonas de suelos inestables y sujetos a acción 
+coluvial, como las laderas de cerros y/o lomajes. 
+ 
+Por último, en las áreas efectivamente prospectadas de este sector no se registraron bienes 
+patrimoniales superficiales. Si bien no se pudo realizar un porcentaje importante de la 
+prospección por razones de seguridad (vegetación densa, pendientes pronunciadas, quebradas 
+y/o potencial acción coluvial), es esperable que zonas con pendientes pronunciadas no fueran 
+ocupadas por grupos humanos por estas mismas razones, prefiriendo zonas más llanas como las 
+que si fueron prospectadas en su totalidad y en las cuales no se documentaron hallazgos 
+arqueológicos. 
+ 
+6.2.2. Cobertura de prospección del AI del Proyecto. 
+ 
+En función de lo reportado en apartados anteriores, en la Tabla 3 se presenta un resumen de la 
+cobertura de la prospección de la campaña I. 
+ 
+Tabla 3. 
+Resumen de la cobertura de la prospección campaña I. 
+Área de 
+Influencia 
+(ha) 
+Áreas 
+Prospectadas (ha) 
+Áreas No 
+Prospectables (ha) 
+Áreas No prospectadas 
+por cambio de layout (ha) 
+% Prospectado 
+% No Prospectado 
+81,01 
+64,804 
+14,768 
+1,438 
+80% 
+20% 
+Fuente: Elaboración Propia. 
+ 
+La cobertura de prospección del AI del Proyecto durante la campaña I fue de un 80% del AI para 
+la componente arqueológica. En la Cartografía 4 se presenta el track de prospección en el cual 
+
+===== p.42 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+43 
+se incluye el tránsito completo ejecutado en el AI del Proyecto, mientras que en el apéndice 
+10.3 del presente informe, se adjunta un archivo digital en kmz con este track de prospección. 
+ 
+Con relación a la cobertura de prospección, en la Cartografía 5 se visualiza el track de 
+prospección con el Mapa de Pendientes realizado para el área de influencia del Proyecto y 
+sectores aledaños. Al respecto, es menester señalar que tal como fue expuesto en el apartado 
+anterior (6.2.1. Campaña I) el principal factor de la no cobertura de la totalidad del AI del 
+Proyecto, fue la presencia de zonas cuya pendiente general varía de acentuado a muy acentuado 
+(16-90°). Estas zonas son completamente inaccesibles por medios pedestres, producto del 
+alto grado de inclinación del terreno. Adicionalmente, también eran altamente inestables 
+producto de la presencia de suelo arenoso y/o rocas degradadas y erosionadas de distintos 
+tamaños las cuales revestían un riesgo de seguridad por acción coluvial (caída por gravedad de 
+estas). Finalmente, el último factor que no permitió la cobertura de la totalidad del AI fue la 
+presencia de vegetación muy densa en diversos sectores, que no permitía una correcta 
+accesibilidad.  
+ 
+Es importante señalar que una porción menor del AI del Proyecto no fue prospectada debido a 
+cambios en el layout del proyecto. Estas zonas también se encuentran individualizadas en la 
+Cartografía 5. 
+ 
+A continuación, se detalla mediante la Tabla 4 la justificación técnica de las zonas que no 
+pudieron ser prospectadas de manera pedestre, mientras que en Cartografía 5 se visualizan las 
+zonas identificadas en esta tabla. 
+ 
+Tabla 4. 
+Resumen y justificación de zonas no prospectadas. 
+Zona 
+Justificación de no prospección 
+Fotografía general del área 
+A 
+Pendiente acentuada (>16°) y 
+quebrada inmediata. 
+ 
+Coordenada 19 H 268.058 - 6.336.786 
+
+===== p.43 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+44 
+Zona 
+Justificación de no prospección 
+Fotografía general del área 
+B 
+Pendiente acentuada (16-25°) a muy 
+acentuada (>25°), suelo erosionado y 
+quebrada que impide paso. 
+ 
+Coordenada 19 H 268.225 - 6.336.708 
+C 
+Pendiente acentuada (>16°) a muy 
+acentuada (>25°) quebrada inmediata 
+que impide paso 
+ 
+Coordenada 19 H 268.440 - 6.336.899 
+D 
+Pendiente acentuada (16-25°) a muy 
+acentuada (>25°) y quebrada 
+inmediata. 
+ 
+Coordenada 19 H 267.937 - 6.337.537 
+
+===== p.44 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+45 
+Zona 
+Justificación de no prospección 
+Fotografía general del área 
+E 
+Pendiente acentuada (>16°) y 
+quebrada inmediata. 
+ 
+Coordenada 19 H 268.233 - 6.337.083 
+F 
+Pendiente acentuada (>16°) y 
+vegetación densa. 
+ 
+Coordenada 19 H 268.099 - 6.337.394 
+G 
+Vegetación densa. 
+ 
+Coordenada 19 H 268.018 - 6.338.407 
+
+===== p.45 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+46 
+Zona 
+Justificación de no prospección 
+Fotografía general del área 
+H 
+Pendiente muy acentuada (>25°). 
+ 
+Coordenada 19 H 267.744 - 6.338.842 
+I 
+Pendiente muy acentuada (>25°) y 
+quebrada inmediata. 
+ 
+Coordenada 19 H 267.626 - 6.339.122 
+Fuente: Elaboración propia. 
+ 
+
+===== p.46 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+ 
+ 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+Cartografía 4. Track de prospección arqueológica consolidado en el Área de Influencia del Proyecto. 
+ 
+Fuente: Elaboración Propia. 
+
+===== p.47 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+48 
+Cartografía 5. Mapa de pendiente general de la superficie de estudio, cobertura de prospección y zonas no prospectables en el 
+Área de Influencia del Proyecto. 
+ 
+Fuente: Elaboración Propia. 
+
+===== p.48 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+ 
+ 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+49 
+7. CONCLUSIÓN 
+ 
+El presente Estudio de Línea de Base ha presentado la caracterización superficial (mediante 
+prospección pedestre) del componente arqueológico en el marco del proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos”. Además, se realizó una revisión de 
+antecedentes concernientes a la zona de emplazamiento del proyecto; para esto último, se 
+consultó bibliografía académica especializada, documentos del SEA, catastro MOP y visor de 
+Monumentos Arqueológicos del Consejo de Monumentos Nacionales. Con base en lo anterior y 
+conforme al marco normativo de la Ley N°19.300 y Ley N°17.288, se concluye que: 
+ 
+ 
+El Área de Influencia actual del Proyecto se definió en 81,01 ha. 
+ 
+ 
+La revisión bibliográfica reportó la presencia de sitios arqueológicos desde 0,38 km del 
+AI del Proyecto. Dicho monumento arqueológico corresponde al sitio arqueológico MM3 
+- Piedra Tacita Marga-Marga 3, el que, por las características del terreno y distancia, 
+no se proyecta hacia el AI del Proyecto. 
+ 
+ 
+Sobre los trabajos de arqueología, se desarrolló una campaña de prospección 
+arqueológica en el AI del Proyecto con transectas equidistantes de 20 metros, cuyo 
+porcentaje de cobertura alcanzó un total de 80% del AI actual del Proyecto. Esta se 
+realizó bajo una accesibilidad, visibilidad y obtrusividad que osciló de baja a alta. Los 
+sectores en que se describe baja visibilidad y obtrusividad corresponden a porciones de 
+terreno afectadas por concentraciones de cobertura vegetal. Por su parte, en lo que 
+refiere a los sectores con baja accesibilidad, se considera principalmente pendientes 
+acentuadas a muy acentuadas (>16°), quebradas, suelos inestables y vegetación muy 
+densa. 
+ 
+ 
+En suma, cabe señalar que no se registraron hallazgos arqueológicos dentro del área de 
+influencia (AI) del Proyecto, por lo que no resulta pertinente la aplicabilidad del Permiso 
+Ambiental Sectorial N°132. Lo anterior se fundamenta en que: i) no existen monumentos 
+arqueológicos emplazados dentro del AI del Proyecto; ii) los monumentos arqueológicos 
+identificados en sectores cercanos no presentan una proyección espacial hacia el área 
+de influencia descrita en el presente estudio; y iii) dicho permiso solo resulta aplicable 
+en aquellos casos en que las partes, obras o acciones del proyecto generen afectación 
+sobre monumentos arqueológicos, situación que, conforme a los antecedentes expuestos 
+a lo largo del presente documento, no ocurre en este caso. 
+ 
+ 
+ 
+ 
+ 
+
+===== p.49 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+50 
+8. FIRMAS 
+ 
+Figura 5. 
+Firmas y validaciones. 
+Nombre 
+Actividad 
+Firma 
+Fecha entrega 
+Matías Rain Garrido, 
+Arqueólogo 
+Elaboración 
+ 
+ 
+ 
+25 de mayo de 2026 
+Manuel Rojas Castillo, 
+Arqueólogo 
+Elaboración 
+ 
+ 
+ 
+ 
+ 
+ 
+25 de mayo de 2026 
+ 
+ 
+ 
+ 
+
+===== p.50 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+51 
+9. BIBLIOGRAFÍA 
+ 
+Amunátegui, D. (1910). Las encomiendas de indígenas en Chile. 2 vols. Santiago de Chile. 
+ 
+Arancibia, L. (2021). Informe Terreno "Piedra Tacita El Olivar. Organización Olivar 
+Ecoorganizado. En visor de Monumentos Arqueológicos del Consejo de Monumentos Nacionales. 
+ 
+Arancibia, L. y Á. Villagrán. (2018). Informe de sitios arqueológicos y de valor patrimonial. Zona 
+norte y sur de Quilpué (Ms). En: Visor de Monumentos Arqueológicos del Consejo de Monumentos 
+Nacionales. 
+ 
+Becker, C. (1994). Desde el Período Alfarero Temprano al Medio-Tardío a través de la lectura de 
+sus restos faunísticos. Boletín Museo Regional de la Araucanía 5:41-52. 
+ 
+Berdichewsky, B. (1964). Arqueología de la desembocadura del Aconcagua y zonas vecinas de la 
+costa central de Chile. III Congreso Internacional de Arqueología Chilena, Viña del Mar. 
+ 
+Brice, M. P. (2007). Presencia británica en el Valparaíso del siglo XIX: una aproximación al legado 
+institucional y cultural de la colonia británica en Chile. Bicentenario, 6(2), 5. 
+ 
+Climate-Data.org. (s.f.). Clima Viña del Mar. Recuperado el 8 de abril de 2025 de 
+https://es.climate-data.org/america-del-sur/chile/v-region-de-valparaiso/vina-del-mar-941/  
+ 
+Consejo 
+de 
+Monumentos 
+Nacionales. 
+(2025). 
+Monumentos. 
+Disponible 
+en 
+https://www.monumentos.gob.cl/monumentos  
+ 
+Cornejo, L., M. Saavedra y H. Vera. (1998). Periodificación del Arcaico en Chile Central: Una 
+propuesta, Boletín de la Sociedad Chilena de Arqueología 25:36-39. 
+ 
+Cornejo, L., D. Jackson & M. Saavedra. (2016). Cazadores recolectores arcaicos al sur del 
+desierto (ca. 11.000 a 300 años a.C). En Prehistoria en Chile: Desde sus primeros habitantes 
+hasta los Incas, F. Falabella et al. (eds.), pp: 319-362. Editorial Universitaria, Santiago. 
+ 
+Correa, I. y C. Carrasco. (2017). Tutuquén, vestigios de los antiguos habitantes de Chile Central. 
+Serie Nº2 Monumentos Nacionales de Chile.  
+ 
+De Lillo, G. (1942/1602-5). Mensura general de tierras. Imprenta Universitaria. Santiago, Chile. 
+ 
+Durán, E. (1980). Tagua Tagua, nivel de 6130 años. Descripción y relaciones. Boletín del 
+museo de Historia Natural Nº 37. 
+ 
+Falabella, F. y M. T. Planella. (1980). Secuencia cronológico cultural para el sector de 
+desembocadura del río Maipo. Revista Chilena de Antropología 3, pp:87-107. 
+ 
+
+===== p.51 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+52 
+Falabella, F. y M. T. Planella. (1988-89). Alfarería temprana en Chile central: un modelo de 
+interpretación, Paleoetnologica, separata, Centro Argentino de Etnología Americana, pp:41-64. 
+ 
+Falabella, F., A. Deza, A. Román y E. Almendras. (1993). Alfarería Llolleo: un enfoque funcional, 
+Boletín Nº4 del Museo regional de la Araucania, Actas del XII Congreso Nacional de Arqueología 
+Chilena, Temuco, pp: 327-354. 
+ 
+Falabella, F. y R. Stehberg. (1989). Los inicios del desarrollo agrícola y alfarero: zona central. 
+Culturas de Chile Prehistoria, Desde sus orígenes hasta los albores de la conquista. Editorial 
+Andrés Bello, Santiago, Chile, Aldunate et al. editores, pp: 295-311. 
+ 
+Falabella, F., Uribe, M., Riquelme, L. S., y Aldunate, C. (2016). Prehistoria en Chile: Desde sus 
+primeros habitantes hasta los Incas. Editorial Universitaria. 
+ 
+Fernández, F. (2018). 3.13.1 Patrimonio histórico, arqueológico y religioso en: Capítulo 3. Línea 
+de base. Golder Associates. 
+ 
+Gaete, N. y R. Sánchez. (1995). Síntesis arqueológica de la costa al sur del rio Maule. Provincia 
+de Cauquenes, VII Región, Chile. Actas de XIII Congreso Nacional de Arqueología Chilena, Tomo 
+I:117-126, Antofagasta. 
+ 
+Garrido, E. (2004). Los orígenes de Viña del Mar y su proceso de industrialización. Un caso 
+específico: Lever, Murphy y Cía. Archivum. Revista del Archivo Histórico Patrimonial, 5(6), 74-
+87. 
+ 
+Herrmann, A. (1894). La producción de oro, plata i cobre en Chile: desde los primeros dias de 
+la conquista hasta fines de agosto de 1894. Santiago: Imprenta nacional, 1894. 55 p. 
+ 
+Heusser, C. (1983). “Quaternary pollen record from Laguna de Tagua Tagua, Chile”. Science 219: 
+1429–1431. 
+ 
+Jackson, D., E. Aspillaga, X-P. Rodríguez, D. Jackson, F. Santana y C. Méndez. (2012). Las 
+ocupaciones humanas del sitio Arqueológico de Santa Inés, Laguna de Tagua Tagua, Chile 
+Central. 26(2): 151-168. 
+ 
+Kaltwasser, J., A. Medina, E. Aspillaga e I. Cáceres. (1986). Punta cola de Pescado encontrada 
+en Chile Central. Revista Chilena de Antropología 5:11-16.  
+ 
+Kaltwasser, J., A. Medina y J. Munizaga. (1984). El hombre de Cuchipuy (prehistoria de Chile 
+Central). En Revista Chilena de Antropología 4:43-48. 
+ 
+Keller, C. (1960). Los orígenes de Quillota. Apartado del Boletín de la Academia Chilena de la 
+Historia, N.° 61. Santiago de Chile. 
+ 
+
+===== p.52 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+53 
+Labarca, R., González-Guarda, E., Lizama-Catalán, Á., Villavicencio, N. A., Alarcón-Muñoz, J., 
+Suazo-Lara, F. y E. Buldrini (2020). Taguatagua 1: New insights into the late Pleistocene fauna, 
+paleoenvironment, and human subsistence in a unique lacustrine context in central Chile. 
+Quaternary Science Reviews, 238, 106282. 
+ 
+Larreta, A. (2014). Terremotos que han remecido Valparaíso. Reportajes Mercurio de Valparaíso. 
+Recuperado 
+el 
+8 
+de 
+abril 
+de 
+2025 
+desde: 
+https://web.archive.org/web/20140113191716/http://portada.diariosregionales.cl/prontus_b
+logs/site/artic/20110228/pags/20110228123551.htmlso 
+ 
+Latcham, R. (1928). La Alfarería Indígena Chilena. Sociedad Impresora y Litográfica Universo. 
+Santiago. 
+ 
+Lizama-Catalán, Á., & Labarca, R. (2023). Who eats What: Unravelling a complex taphonomic 
+scenario in the lacustrine deposits of the late Pleistocene archaeological site, Taguatagua 1, 
+central Chile. Quaternary Science Reviews, 300, 107831. 
+ 
+Maldonado, A., M. E. De Porras, A. Zamora, M. Rivadeneira y A. M. Abarzúa. (2017). El escenario 
+geográfico y paleoambiental de Chile. En: F. Falabella, M. Uribe, L. Sanhueza, C. Aldunate y J. 
+Hidalgo (eds.), Prehistoria de Chile. Desde sus primeros habitantes hasta los Incas. Primera. 
+Santiago: Editorial Universitaria, pp. 23-70. 
+ 
+Manríquez, V. (2009). Anexo informe histórico sobre la batalla de Placilla (28 de Agosto 1891). 
+En: Barrera, M. y Westfall, C. (2009). Informe DIA Patrimonio Cultural Tangible Proyecto Nuevo 
+Depósito de Transportes CCU Curauma. Tagua Tagua Consultores. 
+ 
+Memoria Chilena. (s.f.). El ferrocarril de Valparaíso a Santiago. Recuperado el 9 de abril desde 
+https://www.memoriachilena.gob.cl/602/w3-article-599.html. 
+ 
+Ministerio del Medio Ambiente. (2011). Ley N° 19.300, Sobre Bases Generales del Medio 
+Ambiente. Ley Orgánica de la Superintendencia del Medio Ambiente. Santiago, Chile: Ministerio 
+del Medio Ambiente. 
+ 
+Ministerio de Educación, Consejo de Monumentos Nacionales. (2011). Ley Nº 17.288 de 
+Monumentos Nacionales y Normas Relacionadas. Santiago, Chile: Ministerio de Educación, 
+Consejo de Monumentos Nacionales. 
+ 
+Montané, J. (1968). Paleo-Indian Remains from Laguna de Tagua Tagua, Central Chile. En Science 
+161:1137-1138. 
+ 
+Nazer Ahumada, R., & Llorca-Jaña, M. (2023). Universalización de acceso a agua potable y 
+alcantarillado en un país periférico: el caso chileno, c. 1880-2020. Revista de historia 
+(Concepción), 30. 
+ 
+
+===== p.53 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+54 
+Niemeyer, H. (1989). El escenario geográfico. En Prehistoria: Desde sus orígenes hasta los albores 
+de la conquista, editado por J. Hidalgo, V. Schiappacasse, H. Niemeyer, C. Aldunate e I. 
+Solimano, pp. 1-12. Editorial Andrés Bello, Santiago.  
+ 
+Núñez, L., J. Varela, R. Casamiquela, V. Schiappacasse, H. Niemeyer y C. Villagrán. (1994). 
+Cuenca de Taguatagua en Chile: el ambiente del pleistoceno superior y ocupaciones humanas. 
+En Revista Chilena de Historia Natural 67: 503-519.  
+ 
+Núñez, L., D. Jackson, T. D. Dillehay, C. Santoro y C. Méndez. (2016). Cazadores-recolectores 
+tempranos y los primeros poblamientos en Chile hacia finales del pleistoceno (ca. 13.000 a 
+10.000 años a.p.). En Prehistoria de Chile, desde sus primeros habitantes hasta los Incas, ed. 
+Por F. Falabella, M. Uribe, L. Sanhueza, C. Aldunate, J. Hidalgo, pp. 71-115. 
+ 
+Organización Internacional del Trabajo. (2006). Convenio 169 sobre pueblos indígenas y tribales 
+en países independientes. Santiago, Chile: Oficina Internacional del Trabajo. 
+ 
+Pavlovic, D., A. Troncoso, P. González y R. Sánchez. (2004). Por los Cerros, Valles y Rinconadas: 
+Investigaciones Arqueológicas en el Valle del Río Putaendo, Cuencua superior del río Aconcagua. 
+Chungara, Revista de Antropología Chilena. 847:860. 
+ 
+Pavlovic, D. (2006). La gente del valle de las Rinconadas. Uso del espacio y tradiciones 
+tecnológicas durante el período intermedio tardío en el valle del ´rio Putaendo, cuenta superior 
+del río Aconcagua. Memoría de Titulo para optar al Título de Arqueólogo. Departamento de 
+Antropología, Facultad de Ciencias Sociales, Universidad de Chile.  
+ 
+Planella, M.T. y F. Falabella. (1987). Nuevas perspectivas en torno al período alfarero temprano 
+en Chile Central. Clava 3:43-110. 
+ 
+Planella, M.T. y R. Stehberg. (1994). Etnohistoria y arqueología en el estudio de la fortaleza 
+indígena de Cerro Grande de La Compañía. En Chungara, 26, 65-78. 
+ 
+Purcell, C. (2017). La guerra con España y el bombardeo a Valparaíso: 1865-1866. 
+ 
+Rees, C., A. Seelenfreund y C. Westfall. (1996). La cerámica arqueológica del valle del Maule. 
+Noticiario Mensual del Museo Nacional de Historia Natural N°325:3-32. 
+ 
+Reyes, K. y J. Zanzi. (2015). Putaendo. Entorno Medioambiental, Asentamiento, Historia y 
+Entorno Arquitectónico Patrimonial. Revista Arquitectura de acondicionamiento ambiental.  
+ 
+Rodríguez, J., C. Becker y L. Solé. (1994). Arqueología del Curso Medio del río La Ligua. Informe 
+de Avance Proyecto FONDECYT N° 1930247. 
+ 
+Sanhueza, L., M. Vásquez y F. Falabella. (2003). Las sociedades alfareras tempranas de la cuenca 
+de Santiago. Revista Chungará, V.35, nº 1. pp:23-50. 
+
+===== p.54 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+55 
+ 
+Servicio Nacional de Geología y Minería [SERNAGEOMIN]. (2003). Geología de la Región de 
+Valparaíso (Publicación Geológica 60). Santiago, Chile. Recuperado el 8 de abril de 2025 desde 
+https://www.sernageomin.cl  
+ 
+Stehberg, R. (2013). Caminos, Guacas y el reducto fortificado de Cerro El Peral: instalaciones 
+para el control inca del paso Chada, Chile Central. Boletín Museo Nacional de Historia Natural, 
+62, 129-146. 
+  
+Stehberg, R. (2016). Plataforma ceremonial Ushnu Inca de Chena, Valle del Maipo, Chile. 
+Chungará 
+(Arica), 
+48(4), 
+557-588. 
+Epub 
+22 
+de 
+agosto 
+de 
+2016. 
+https://dx.doi.org/10.4067/S0717-73562016005000027  
+ 
+Stehberg, R., J. Blanco y R. Labarca. (2005). Piuquenes Rockshelter, the earliest human 
+pleistocene settlement in the Andes mountains of Central Chile. Current Research in the 
+Pleistocene 22:2-4. 
+ 
+Troncoso, R. (1986). Historia de Quilpué. Volumen II, impresión Offset La Nación. 
+Urbina, X. (2016). La colonización vertical en Valparaíso. Etapa inicial. HYBRIS, Revista de 
+Filosofía, 7, 97-127. 
+ 
+Uchile. (20 de Septiembre de 2023). Metro de Santiago confirma hallazgos arqueológicos de 
+hasta 
+11 
+mil 
+años 
+en 
+construcción 
+de 
+Línea 
+7. 
+diarioUchile. 
+Recuperado 
+de: 
+https://radio.uchile.cl/2023/09/02/metro-de-santiago-confirma-hallazgos-arqueologicos-de-
+hasta-11-mil-anos-en-construccion-de-linea-7/#:~:text=Ciencias%20Nacional-
+,Metro%20de%20Santiago%20confirma%20hallazgos%20arqueol%C3%B3gicos%20de%20hasta%2011
+%20mil,de%20180%20mil%20piezas%20arqueol%C3%B3gicas. 
+ 
+Uribe, M., y Sánchez, R. (2016). Los incas en Chile. Aportes de la arqueología chilena a la historia 
+del Tawantinsuyo (ca. 1.400 a 1.536 años dC). Prehistoria en Chile. Desde sus primeros 
+habitantes hasta los Incas, 529-572. 
+ 
+UTMA-MOP. (1994). Estudio de ubicación de restos arqueológicos en las cuencas priorizadas. I 
+Etapa. Ministerio de Obras Públicas. 
+ 
+Vera, J., Moya, I., y Henríquez, C. (2013). «Quintil, un Valparaíso Picunche». Museo de Historia 
+Natural de Valparaíso. 
+ 
+Vergara, C. J., y Aguilar, M. F. (2006). Identidad tipológica del patrimonio arquitectónico. Área 
+histórica UNESCO de Valparaíso. Urbano, 20-26. 
+ 
+Vicuña Mackenna, B. (1877-1878). Historia general de el reyno de Chile. Impr. del Mercurio. 
+ 
+Vicuña Mackenna, B. (1936). Historia de Valparaíso, Tomos I y II en Obras Completas de Vicuña 
+
+===== p.55 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+56 
+Mackenna, vol. III. Santiago: Universidad de Chile. Dirección General de Impresiones. 
+ 
+Westfall, C. (1999). Informe de identificación línea base para Declaración de Impacto Ambiental 
+sobre el patrimonio cultural. Propuesta modificación Plan Regulador de Valparaíso. Comuna de 
+Valparaíso. V Región. 
+ 
+Yávar, J. D. D. U. (1910). Valparaíso, 1536-1910: Recopilación histórica, comercial y social. 
+Imprenta Minerva. 
+ 
+
+===== p.56 =====
+Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”  
+Estudio de Línea de Base en Patrimonio Arqueológico 
+ 
+Mayo 2026 
+Servicios Profesionales en Arqueología y Patrimonio Limitada 
+ 
+www.spap.cl / contacto@spap.cl  
+ 
+ 
+ 
+57 
+10.  APÉNDICES 
+ 
+10.1. Certificados de grado o título de profesionales. 
+10.2. Currículum Vitae de profesionales. 
+10.3. Track de prospección (kmz). 
+10.4. Geoinformación3 asociada a la línea base arqueológica (shapefile4) 
+10.4.1. 
+Área de Influencia del patrimonio arqueológico. 
+10.4.2. 
+Tracks o recorridos. 
+10.4.3. 
+Área no prospectada. 
+10.4.4. 
+Área no prospectada por cambio de layout.  
+ 
+ 
+ 
+ 
+ 
+                                             
+3 Acorde a lo especificado en la guía: Manual para la utilización de la geoinformación en el proceso de evaluación de impacto 
+ambiental. Primera edición, Santiago, Chile. (Servicio de Evaluación Ambiental, 2025). 
+4 Los archivos espaciales se encuentran en formato shapefile georreferenciados en el sistema geodésico Datum WGS84, utilizando 
+el sistema de coordenadas proyectadas UTM, huso 18S. 

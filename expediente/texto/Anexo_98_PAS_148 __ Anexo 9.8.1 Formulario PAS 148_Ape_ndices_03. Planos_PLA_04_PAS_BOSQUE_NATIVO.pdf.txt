@@ -1,0 +1,215 @@
+
+===== p.0 =====
+Título:
+Preparado para:
+Datos Cartográficos-Geodésicos:
+Revisión:
+0
+MAYO 2026
+25.000
+Preparado por:
+Escala:
+Fecha:
+Fuente:
+Proyecto:
+UTM H19S DATUM WGS84
+Elaboración
+Revisión
+Aprobación
+Fecha
+:
+:
+:
+:
+SV
+SV
+SD
+06 de Mayo 2026
+BOSQUE NATIVO
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+!?
+C o m u n a  d e
+C o m u n a  d e
+Q u i l p u é
+Q u i l p u é
+£
+¤
+60
+C o m u n a  d e
+C o m u n a  d e
+V i ñ a  d e l  M a r
+V i ñ a  d e l  M a r
+ROL 5022-02
+ROL 5026-17
+CMGIR
+Cortafuegos
+Movimiento de Tierra Camino
+Instalación de Faena
+BN9
+BN8
+BN7
+BN6
+BN5
+BN4
+BN3
+BN2
+BN1
+BN25
+BN24
+BN23
+BN22
+BN21
+BN20
+BN19
+BN18
+BN17
+BN16
+BN15
+BN14
+BN13
+BN12
+BN11
+BN10
+UC-137
+UC-142
+UC-153
+UC-59
+UC-139
+UC-97
+UC-148
+UC-154
+UC-2
+UC-141
+UC-165
+UC-148
+UC-124
+UC-96
+UC-64
+UC-162
+UC-157
+UC-137
+250
+200
+150
+300
+100
+50
+350
+400
+450
+300
+250
+100
+50
+200
+150
+350
+400
+267000
+267000
+267500
+267500
+268000
+268000
+268500
+268500
+269000
+269000
+6336500
+6336500
+6337000
+6337000
+6337500
+6337500
+6338000
+6338000
+6338500
+6338500
+6339000
+6339000
+PLANO N°:
+4
+ARGENTINA
+PERU
+CHILE
+BOLIVIA
+Obras:
+Imagen: Landsat TM
+DPA: ODEPA
+Cartografía base: IGM - MOP - ODEPA - Aster
+Áreas Protegidas: CONAF, Bienes Nacionales
+0
+100
+200
+300
+400
+500
+50
+m
+.
+OCÉANO PACÍFICO
+ARGENTINA
+Ubicación
+del Proyecto
+ REGIÓN DE VALPARAÍSO
+ REGIÓN DE COQUIMBO
+METROPOLITANA DE SANTIAGO
+Leyenda 
+Cartografía Temática
+CENTRO METROPOLITANO DE GESTIÓN
+INTEGRAL DE RESIDUOS
+Área de corta
+Obras de proyecto
+Límites
+Regional
+Cartografía Base
+Centros poblados
+Provincial
+Comunal
+Hidrografía
+Ríos y esteros
+Quebradas
+Red Vial
+Tierra
+Estabilizado
+Ripio
+Pavimento
+Infraestructura
+Internacional
+Proyecto
+Límite predial
+D
+D
+D
+D
+Formación bosque nativo
+Uso Actual
+PM Bosque nativo
+!?
+SIMÓN ANDRÉS
+DEVIA CARTES
+SEBASTIÁN OMAR
+VALDEBENITO ARRATIA

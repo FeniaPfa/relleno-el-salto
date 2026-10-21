@@ -1,0 +1,1881 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO INFORME MECÁNICA DE SUELOS
+Documento Preparado por:
+Julio 2025
+
+===== p.1 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+i
+ÍNDICE
+1.
+INTRODUCCIÓN.............................................................................................................1
+1.1.
+TRABAJO DE CAMPO......................................................................................................2
+1.2.
+ENSAYOS GEOTÉCNICOS IN SITU....................................................................................4
+1.2.1.
+ESTRATIGRAFÍAS E IDENTIFICACIÓN DE SUELOS............................................................4
+1.2.2.
+ENSAYOS DE NIVEL VARIABLE O ENSAYO PORCHET.....................................................16
+1.2.3.
+ENSAYO DENSIDAD IN SITU...........................................................................................18
+1.3.
+ENSAYOS DE LABORATORIO.........................................................................................22
+1.3.1.
+UBICACIÓN DE TOMA DE MUESTRAS PARA ENSAYOS DE LABORATORIO...................22
+1.3.2.
+DENSIDAD DE PARTÍCULAS SÓLIDAS DE SUELO............................................................25
+1.3.3.
+PROCTOR MODIFICADO................................................................................................25
+1.3.4.
+DETERMINACIÓN  DE  LA  RAZÓN  DE  SOPORTE  DE  SUELOS  COMPACTADOS  EN 
+LABORATORIO (CBR).....................................................................................................26
+1.3.5.
+DETERMINACIÓN DE PARÁMETROS RESISTENTES COHESIÓN Y ÁNGULO DE FRICCIÓN
+.......................................................................................................................................26
+1.3.6.
+ANÁLISIS DE LOS RESULTADOS DE LABORATORIO.......................................................26
+1.4.
+PROPIEDADES  GEOTÉCNICAS  DE  LA  ZONA  DE  EMPLAZAMIENTO  DE  LAS 
+INSTALACIONES DEL PROYECTO...................................................................................28
+1.4.1.
+COTAS DE FUNDACIÓN.................................................................................................28
+1.4.2.
+CARACTERIZACIÓN GEOTÉCNICA DEL SUELO DE FUNDACIÓN.....................................28
+1.5.
+RESPONSABLE..............................................................................................................31
+ANEXO
+ANEXO 01 CERTIFICADOS DE LABORATORIO
+ANEXO 02 FICHAS CALICATAS EXPLORATIVAS
+ANEXO 03 RECOMENDACIONES CONSTRUCTIVAS
+
+===== p.2 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+1. INTRODUCCIÓN
+El presente estudio de Mecánica de Suelos tiene por  objetivo general  evaluar y caracterizar 
+geotécnicamente el subsuelo de fundación y entregar antecedentes sobre las características físico-
+mecánicas para el emplazamiento del proyecto Centro Metropolitano de Gestión Integral de 
+Residuos.
+Los alcances del estudio corresponden a la recopilación de información disponible respecto del 
+proyecto en los aspectos referidos al emplazamiento de las Zona de Instalaciones Operacionales y 
+Administrativas, Zona de Compostaje, Zona de Reciclaje, Zona de Disposición de Residuos, Zona de 
+Tratamiento de Lixiviados y Zona de Tratamiento de Biogás, además de otra información relevante 
+para la realización del informe.
+Para el estudio, se realizaron visitas técnicas al área en estudio en la que desarrolló una campaña de 
+prospecciones  basado  en  calicatas  de  profundidad  variable  entre  1,6  y  4,3  metros.  Para 
+complementar la información obtenida en terreno, se obtuvieron muestras representativas para ser 
+analizadas en el laboratorio INGEMARS, el cual ha permitido contar con la información necesaria 
+para elaborar el informe de mecánica de suelos del área ocupada para el proyecto.
+
+===== p.3 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+1.1.
+TRABAJO DE CAMPO
+Para caracterizar geotécnicamente el suelo natural, se seleccionó el sector del terreno en el cual se 
+emplazará el proyecto y las distintas zonas definidas. 
+La metodología aplicada consideró la realización de dos visitas técnicas de profesionales (agosto y 
+diciembre 2024) con el objetivo de obtener una visión global del área en estudio y definir los puntos 
+de inspección para realizar los trabajos de terreno. 
+Esta campaña consistió en la realización de un programa de exploración en base a 23 calicatas de 
+prospección, cuyo objetivo es obtener una descripción estratigráfica de los suelos existentes y 
+caracterizar de manera visual y física los estratos de suelos. En el  Anexo 01 se presentan los 
+certificados de los ensayos y mediciones realizados sobre las muestras recogidas.
+Las calicatas explorativas fueron ejecutadas mediante el uso de equipo retroexcavadora (campaña 
+agosto 2024) y excavadora (campaña diciembre 2024).
+Figura 1.
+Maquinarias utilizadas en la ejecución de las calicatas
+En la siguiente imagen, se presenta la ubicación de las calicatas explorativas realizadas.
+
+===== p.4 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+Figura 2.
+Ubicación de las calicatas realizadas.
+Además,  se  extrajeron  muestras  representativas  a  una  profundidad  que  aproximadamente 
+corresponde al segundo estrato, para determinar en laboratorio las propiedades índices de los 
+suelos que conforman los estratos adecuados para fundar y sus parámetros resistentes. Los ensayos 
+de caracterización física y resistentes corresponden a granulometrías (Norma 8.102.1/LNV 105 MC 
+Vol. 8 2010), Clasificación de Suelos U.S.C.S (ASTM D2487 – 06), Determinación Contenido de 
+humedad (NCh 1515 Of. 79), Proctor Modificado (NCh 1534/2 Of. 79), Densidad de partículas sólidas 
+(NCh 1532 Of. 80), CBR (NCh 1852 Of. 81), Proctor Modificado (NCh 1534/2 Of.1979), Límites de 
+Consistencia (NCh 1517/1 y 2. Of. 1979), Corte Directo (ASTM D3080/D3080 – M11) y Determinación 
+de la conductividad hidráulica (NCh 3610:2020).
+Los trabajos de terreno fueron realizados en los meses de agosto y diciembre de 2024. En la tabla 
+siguiente se presenta un resumen con los trabajos de terreno.
+Tabla 1.
+Ensayos In Situ y toma de muestras
+Ensayo
+Cantidad
+Calicatas
+Muestras
+8
+C1-C8-C10-C13-C14-
+C16-C18-C20
+Estratigrafías
+23
+C1 a C23
+
+===== p.5 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+1.2.
+ENSAYOS GEOTÉCNICOS IN SITU
+Con el objetivo de determinar las características físicas, así como las propiedades de infiltración, 
+capacidad de soporte y estado de compacidad del suelo, que podrán ser utilizadas tanto como 
+material de cobertura de residuos como material de relleno, se busca asegurar que cumpla con los 
+requisitos establecidos en el Reglamento 189 “Sobre condiciones sanitarias básicas en los rellenos 
+sanitarios” respecto a las características que debe tener dicho material. La caracterización físico-
+mecánica del suelo se llevó a cabo a través de una serie de ensayos de campo y de laboratorio.
+1.2.1.
+ESTRATIGRAFÍAS E IDENTIFICACIÓN DE SUELOS
+La estratigrafía general del área en estudio se define a partir de la excavación de una calicata 
+mediante el uso de maquinaria pesada. El objetivo de realizar la estratigrafía de los suelos es 
+establecer cuáles son las propiedades físicas del suelo, mediante una simple inspección visual.
+La  estratigrafía  general  del  área  en  estudio  fue  definida  a  partir  de  la  excavación  con 
+retroexcavadora y excavadora de 23 calicatas. Las prospecciones fueron realizadas desde el nivel de 
+terreno hasta profundidades variables entre 1,6 y 4,3 metros.
+La siguiente tabla, presenta la ubicación con coordenadas UTM de las calicatas realizadas en 
+terreno.
+Tabla 2.
+Coordenadas UTM ubicación calicatas explorativas
+CALICATA
+ESTE
+NORTE
+PROFUNDIDAD EXCAVACIÓN (m)
+C1
+267.847
+6.337.502
+3,1
+C2
+267.812
+6.337.392
+2,8
+C3
+267.866
+6.33.7058
+2,1
+C4
+267.900
+6.336.857
+2,3
+C5
+267.885
+6.336.982
+4,0
+C6
+267.848
+6.337.505
+1,8
+C7
+267.804
+6.336.934
+2,4
+C8
+267.840
+6.337.009
+3,5
+C9
+267.830
+6.337.519
+3,8
+C10
+267.712
+6.337.270
+3,6
+C11
+267.997
+6.336.954
+2,4
+C12
+268.073
+6.337.047
+2,5
+C13
+268.146
+6.337.135
+4,0
+C14
+268.355
+6.337.385
+4,3
+C15
+267.855
+6.337.136
+3,5
+C16
+267.737
+6.337.488
+3,9
+C17
+268.132
+6.337.209
+3,0
+C18
+268.189
+6.336.960
+3,6
+C19
+268.038
+6.337.563
+1,6
+C20
+268.288
+6.337.284
+4,0
+C21
+267.799
+6.337.439
+3,4
+C22
+267.609
+6.337.547
+3,4
+
+===== p.6 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+CALICATA
+ESTE
+NORTE
+PROFUNDIDAD EXCAVACIÓN (m)
+C23
+267.796
+6.336.965
+2,2
+Datum WGS 84 Huso 19H
+A continuación, se presentan los resultados obtenidos de la inspección visual en terreno, la cual fue 
+realizada desde el nivel de terreno utilizando el máximo alcance de la maquinaría disponible y que la 
+resistencia del terreno permitió alcanzar. En el Anexo 02 se adjuntan los informes de calicatas 
+realizadas en las inspecciones visuales.
+Tabla 3.
+Resumen estratigrafías calicatas explorativas
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+1
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,0 m.
+Granulometría por inspección visual: 0% grava, 70% arena 
+y 30% finos. 
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,1 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+85% arena y 15% finos.
+2
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,6 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+60% arena y 40% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,2 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+
+===== p.7 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+3
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,7 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+65% arena y 35% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 1,4 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+4
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,6 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+60% arena y 40% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 1,7 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+
+===== p.8 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+5
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,8 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 3,2 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+6
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,8 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+65% arena y 35% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 1,0 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+
+===== p.9 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+7
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,9 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+60% arena y 40% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 1,5 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+8
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,2 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+55% arena y 45% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,3 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+65% arena y 35% finos.
+
+===== p.10 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+9
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,0 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+60% arena y 40% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,8 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+10
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,0 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,6 m.
+Granulometría cobertura por inspección visual:  0% grava, 
+90% arena y 10% finos.
+
+===== p.11 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+11
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,90 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 1,5 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+85% arena y 15% finos.
+12
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,80 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 1,7 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+
+===== p.12 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+13
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,10 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,9 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+14
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,80 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 3,5 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+
+===== p.13 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+15
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,80 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,70 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+16
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,00 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,9 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+
+===== p.14 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+17
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,30 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 1,7 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+18
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,90 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,7 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+80% arena y 20% finos.
+
+===== p.15 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+19
+1
+Correspondiente a la cobertura vegetal, color café oscuro, 
+encontrándose  en  estado  húmedo,  con  cementación 
+moderada, resistencia seca de carácter media, dilatancia 
+baja y con una estructura homogénea. Tamaño máximo 
+partículas 2”. Espesor 0,40 m. 
+Granulometría por inspección visual 0% grava, 50% arena 
+y 50% finos.
+2
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,2 m. 
+Granulometría por inspección visual: 0% grava, 70% arena 
+y 30% finos.
+3
+Correspondiente  a  la  roca,  color  gris  claro,  con 
+cementación fuerte, dureza alta. No fue posible seguir 
+excavando en el fondo de la quebrada. A partir de los 1,6 
+m de profundidad.
+20
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,40 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+65% arena y 35% finos. 
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado  Correspondiente  al  estrato  de  maicillo, 
+encontrándose  en  estado  seco,  se  observa  un  color 
+amarillo claro, sin olor en estado seco, consistencia firme, 
+cementación moderada, estructura homogénea, dureza 
+media,  resistencia  seca  media,  dilatancia  rápida,  sin 
+plasticidad con tamaño máximo #4” y no existe sobre 
+tamaño. Espesor 2,6 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+
+===== p.16 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+15
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+21
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 0,90 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+65% arena y 35% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,5 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+22
+1
+Correspondiente  a  la  cobertura  de  suelo,  tipo  arena 
+arcillosa, color café oscuro, angularidad de partículas 
+redondeada,  con  forma  plano  y  alargado,  sin  olor, 
+encontrándose  en  estado  seco,  con  cementación 
+moderada,  consistencia  firme,  resistencia  seca  de 
+carácter media, dilatancia baja, plasticidad media, dureza 
+media y con una estructura homogénea. Tamaño máximo 
+partículas 2” y no existe sobre tamaño. Espesor 1,00 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+75% arena y 25% finos.
+2
+Correspondiente al estrato de maicillo, encontrándose en 
+estado seco, se observa un color amarillo claro, sin olor en 
+estado seco, consistencia firme, cementación moderada, 
+estructura homogénea, dureza media, resistencia seca 
+media,  dilatancia  rápida,  sin  plasticidad  con  tamaño 
+máximo #4” y no existe sobre tamaño. Espesor 2,4 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+70% arena y 30% finos.
+
+===== p.17 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+16
+Calicatas 
+N°
+Fotografías
+Estrato
+Descripción 
+23
+1
+Correspondiente a la cobertura de suelo, tipo vegetal, 
+color café oscuro, encontrándose en estado húmedo, con 
+cementación  débil,  resistencia  seca  de  carácter  naja, 
+dilatancia baja y con una estructura homogénea, con 
+raíces de árboles y restos de vegetación. Tamaño máximo 
+partículas 2”. Espesor 1,00 m.
+Granulometría cobertura por inspección visual: 0% grava, 
+60% arena y 20% finos.
+2
+Correspondiente  al  estrato  de  material  grueso, 
+encontrándose en estado saturado se observa un color 
+gris, con se puede apreciar bolones de 20 cm. Espesor 1,2 
+m. Se observa que el terreno saturado se debe a las lluvias 
+que hubo en los días anteriores.
+Granulometría  cobertura  por  inspección  visual:  50% 
+grava, 30% arena y 20% finos.
+1.2.2.
+ENSAYOS DE NIVEL VARIABLE O ENSAYO PORCHET
+La NCh3610:2020 Geotecnia - Determinación de la conductividad hidráulica saturada de campo, 
+describe cuatro métodos de ensayos para la estimación de la conductividad hidráulica saturada de 
+campo en un suelo donde no se detecte nivel freático dentro de la profundidad de exploración. 
+De los cuatro métodos señalados en la NCh 3610:2020, se utilizará el Ensayo de nivel variable o 
+ensayo Porchet. 
+Este ensayo de terreno consiste en llenar de agua una cavidad de diámetro d y profundidad H, 
+midiendo el descenso del nivel del agua dentro de ella a través del tiempo. A la profundidad donde 
+es de interés medir la conductividad hidráulica estimada en terreno, se debe excavar un cilindro al 
+interior de la calicata cuyas dimensiones se ajusten a lo indicado en la NCh 3610:2020, y que se 
+relaciona con el tamaño máximo de las partículas del suelo. 
+A modo de verificar las dimensiones de la cavidad, es necesario realizar la medición de su diámetro
+en 2 secciones (Inferior y superior) con 2 dimensiones preferentemente ortogonales entre sí, c. 
+Además, la altura se debe medir en al menos 3 puntos equidistantes entre sí en su manto y uno al 
+centro. 
+Finalmente, se deberá llenar de agua la cavidad, hasta quedar a ras con la superficie del terreno. 
+Luego se esperará que el agua descienda un par de centímetros, dependiendo de la profundidad de 
+la cavidad y se procederá a medir el descenso de la superficie libre debido a la infiltración a través del 
+fondo y las paredes. El tiempo de descenso del nivel del agua, se realizará cada 2 cm., ayudados por 
+medio de una regla graduada, provista de un sistema de flotación en el extremo que estará en 
+contacto con el nivel del agua.
+
+===== p.18 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+17
+Figura 3.
+Ensayo infiltración de Porchet (imagen referencial)
+La siguiente figura y tabla, presenta la ubicación con coordenadas UTM de los ensayos de infiltración 
+de Porchet en terreno.
+Figura 4.
+Ubicación de Ensayo de Porchet
+Tabla 4.
+Coordenadas UTM ubicación Ensayo de Porchet
+CALICATA
+ESTE
+NORTE
+C1
+267.847
+6.337.502
+Datum WGS 84 Huso 19H
+
+===== p.19 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+18
+1.2.2.1
+Resultado del ensayo de Porchet
+El resultado obtenido indica que a nivel superficial la tasa de infiltración del primer estrato de suelo 
+es de 127,07 (mm/h) en el punto de medición (calicata C1). En la siguiente tabla, se presenta el 
+resultado obtenido.
+Tabla 5.
+Resultados de ensayo de Porchet realizado en terreno. 
+N° Calicata 
+Permeabilidad 
+(cm/seg)
+Permeabilidad 
+(m/seg)
+Permeabilida
+d (mm/hr)
+Permeabilidad 
+(cm/hr)
+Permeabilidad según Soil 
+Conservation Service
+C1
+3,53E-03
+3,5E-05
+127,07
+12,71
+Moderadamente Elevada
+1.2.3.
+ENSAYO DENSIDAD IN SITU
+El procedimiento de toma de densidad in situ se basa en lo señalado en las referencias normativas 
+NCh1516.Of79 Determinación de la densidad en terreno - Método nuclear o Método 8.502.2, 
+diciembre 2003, Manual de Carretera V8.
+El método permite determinar la densidad total o densidad húmeda de suelos, contenido de 
+humedad y agregados pétreos in situ, por la atenuación de los rayos gamma cuando la fuente 
+gamma y el detector gamma, o ambos, permanecen en o cerca de la superficie. 
+Para operar estos equipos es esencial la instrucción previa del operador sobre los procedimientos 
+rutinarios de seguridad, tales como chequeos de fuga de la fuente, utilización y evaluación del 
+dosímetro, uso de contadores, etc.
+El procedimiento realizado por el operador del laboratorio para la medición con densímetro nuclear 
+deberá cumplir con lo siguiente:
+
+Seleccionar un lugar donde el medidor en posición de ensaye esté por lo menos a 150 mm de 
+distancia de cualquier proyección vertical.
+
+Prepare el sitio de ensaye de la siguiente manera:
+-
+Remover todo el material suelto y disgregado y cualquier material adicional si es 
+necesario para dejar expuesta la parte superior del material a ensayar.
+-
+Preparar  un  área  horizontal  de  tamaño  suficiente  para  acomodar  el  medidor, 
+aplanándola hasta dejarla lisa de modo de obtener el máximo contacto entre el 
+medidor y el área que se va a ensayar.
+-
+El máximo espacio debajo del medidor no excederá de 3 mm. Use finos del lugar o arena 
+fina para llenar estos huecos y empareje la superficie con una placa rígida u otra 
+herramienta adecuada.
+
+Proceder con el ensayo de la siguiente manera:
+-
+Asentar el medidor firmemente.
+-
+Mantener toda otra fuente radiactiva lejos del medidor para evitar que afecte las 
+medidas.
+-
+Emplear un tiempo de estabilización para el equipo de acuerdo a las instrucciones del
+
+===== p.20 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+19
+fabricante.
+-
+Hacer y anotar una o más lecturas de 1 min.
+-
+Determinar la densidad húmeda in situ usando la curva de calibración previamente 
+establecida.
+El equipo utilizado en terreno es el modelo Troxler 3430, capaz de determinar rápidamente y con 
+precisión la humedad y la densidad de suelos, bases, agregados (áridos), hormigón y asfalto 
+(hormigón asfáltico), sin tener que recurrir a métodos de intervención física.
+Figura 5.
+Densímetro Nuclear Modelo Troxler 3430 (imagen referencia)
+La siguiente figura y tabla, presenta la ubicación con coordenadas UTM de los puntos de medición de 
+densidad in situ.
+
+===== p.21 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+20
+Figura 6.
+Ubicación de ensayo de densidad in situ
+Tabla 6.
+Coordenadas UTM ubicación ensayo de densidad in situ
+CALICATA
+ESTE
+NORTE
+C1
+267.847
+6.337.502
+C8
+267.840
+6.337.009
+C10
+267.712
+6.337.270
+C13
+268.146
+6.337.135
+C14
+268.355
+6.337.385
+C16
+267.737
+6.337.488
+C18
+268.189
+6.336.960
+C20
+268.288
+6.337.284
+Datum WGS 84 Huso 19H
+1.2.3.1
+Resultado del ensayo de densidad in situ
+En la siguiente tabla se presentan los resultados de las mediciones de densidad in situ.
+Resultados
+Calicatas
+C1
+C8
+C10
+C13
+C14
+C16
+C18
+C20
+Espesor capa (cm)
+30
+30
+30
+30
+30
+30
+30
+30
+Profundidad de ensayo (cm)
+30
+30
+30
+30
+30
+30
+30
+30
+D.C.H (kg/m³)
+1,838
+1,648
+1,738
+1,811
+1,761
+1,732
+1,837
+1,793
+D.C.S (kg/m³)
+1,758
+1,576
+1,643
+1,743
+1,656
+1,642
+1,738
+1,73
+
+===== p.22 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+21
+Los valores de densidad compactada húmeda (D.C.H) fluctúan entre 1,648 kg/m³ (C8) y 1,838 kg/m³ 
+(C1). En general, los valores son relativamente estables, con un ligero aumento hacia la calicata C1 
+(1,838) y una ligera disminución hacia C8 (1,648).
+Respecto a los valores de densidad compactada seca (D.C.S) hay una leve dispersión en las 
+mediciones obtenidas. El rango de D.C.S va desde 1,576 kg/m³ (C8) hasta 1,758 kg/m³ (C1), 
+mostrando algo de variabilidad entre las calicatas.
+1.2.3.2
+Análisis de resultados de ensayos in situ
+El suelo está conformado por estratos claramente diferenciados visualizándose un primer estrato 
+definido como cobertura vegetal de fácil excavación, alcanzando un rango de excavación de 
+aproximado 1 metro, bajo este estrato, aparece suelo maicillo, correspondiente a un material suelto 
+y granulado que proviene de la meteorización de rocas graníticas. 
+A partir de las calicatas prospectadas indican que el sector está conformado por suelos de 
+características similares que abarcan la totalidad del terreno.
+El ensayo de Infiltración de Porchet estableció un valor de 127,07 (mm/h), que según los rangos de 
+permeabilidad de la Soil Conservation Service, este suelo tiene una velocidad de infiltración 
+moderadamente elevada. En el ensayo realizado, se vinculó el valor de infiltración con el tipo de 
+suelo, según se detalla en la siguiente tabla. Este tipo de suelo fue determinado conforme al ensayo 
+de clasificación de suelos U.S.C.S.
+Tabla 7.
+Valores Típicos de Tasas de Infiltración en Suelos
+TIPO SUELO
+TASA DE 
+INFILTRACIÓN
+(mm/h)
+Arena
+Mayor de 30
+Arena Limosa
+20 – 30
+Limo
+10 – 20
+Arcilla Limosa
+5 – 10
+Arcilla
+1 - 5
+Fuente: Process Design Manual for Land Treatment of Wastewater (EPA, 1981)
+Tabla 8.
+Clasificación de suelos según ensayo de Porchet v/s Clasificación U.S.C.S
+N° Calicata 
+Permeabilidad 
+(mm/hr)
+Tipo de suelo 
+según valores 
+típicos de tasas de 
+infiltración
+Clasificación USCS de suelo ASTM 
+2487-00
+Permeabilidad en estado 
+compactado, según 
+clasificación USCS
+C1
+127,07
+Arena
+SP - SM  (arena mal graduada - 
+arena limosa)
+Arena permeable con finos 
+Semipermeable a impermeable
+
+===== p.23 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+22
+El valor de infiltración o conductividad hidráulica del suelo in situ, es concordante al tipo de suelo 
+clasificado, donde mayoritariamente predomina la arena con un porcentaje de finos de que no 
+supera el 9%, en el punto de medición.
+En cuanto a las mediciones de densidad in situ, los valores de densidad compactada seca (D.C.S) se 
+encuentran dentro del rango de la densidad máxima seca compactada (D.M.C.S), determinada en 
+laboratorio mediante el ensayo Proctor. Esta relación se aplica a suelos clasificados según el sistema 
+U.S.C.S. como SM – SP, que es el tipo de suelo encontrado en el terreno. Según la tabla de 
+Propiedades Geotécnicas de Suelos Compactados (Fuente: IDIEM, Instituto del Asfalto), la D.M.C.S. 
+para suelos de clasificación SP se encuentra en un rango de 1,64 a 2,04 kg/m³, mientras que para los 
+suelos de tipo SM, el rango es de 1,70 a 2,06 kg/m³.
+Resultados
+Calicatas
+C1
+C8
+C10
+C13
+C14
+C16
+C18
+C20
+D.C.S (kg/m³)
+1,758
+1,576
+1,643
+1,743
+1,656
+1,642
+1,738
+1,73
+Una vez realizado el ensayo Proctor sobre el suelo caracterizado, se podrá determinar con certeza el 
+grado de compactación del suelo en su estado natural en comparación con la D.M.C.S. obtenida.
+1.3.
+ENSAYOS DE LABORATORIO
+Durante el mes de diciembre de 2024, se tomaron las muestras representativas de suelo con el 
+objetivo de determinar en laboratorio las propiedades índices de los materiales, mediante ensayos 
+de caracterización física y de capacidad de soporte, correspondientes a granulometrías (Norma 
+8.102.1/LNV 105 MC Vol. 8 2010), Clasificación de Suelos U.S.C.S (ASTM D2487 – 06), Determinación 
+Contenido de humedad (NCh 1515 Of. 79), Proctor Modificado (NCh 1534/2 Of. 79), Densidad de 
+partículas sólidas (NCh 1532 Of. 80), CBR (NCh 1852 Of. 81), Proctor Modificado (NCh 1534/2 
+Of.1979), Límites de Consistencia (NCh 1517/1 y 2. Of. 1979) y Corte Directo (ASTM D3080/D3080 – 
+M11).
+1.3.1.
+UBICACIÓN DE TOMA DE MUESTRAS PARA ENSAYOS DE LABORATORIO
+En la siguiente imagen, se presentan los puntos de extracción de las muestras analizadas en 
+laboratorio. 
+
+===== p.24 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+23
+Figura 7.
+Ubicación calicatas explorativas donde se obtuvieron muestras para laboratorio
+En la tabla siguiente, se presentan las coordenadas UTM de las muestras tomadas y enviadas a 
+laboratorio.
+Tabla 9.
+Coordenadas UTM ubicación toma de muestras desde calicatas explorativas
+CALICATA
+ESTE
+NORTE
+C1
+267.847
+6.337.502
+C8
+267.840
+6.337.009
+C10
+267.712
+6.337.270
+C13
+268.146
+6.337.135
+C14
+268.355
+6.337.385
+C16
+267.737
+6.337.488
+C18
+268.189
+6.336.960
+C20
+268.288
+6.337.284
+Datum WGS 84 Huso 19H
+1.3.1.1
+Granulometría, límites de consistencia del suelo y humedad natural
+Los ensayos de caracterización realizados correspondieron a granulometrías, límites de Atterberg y 
+humedad natural. En la siguiente tabla se presentan los resultados obtenidos.
+PORCHET 2
+
+===== p.25 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+24
+Tabla 10.
+Resultados del análisis granulométrico realizado a suelos provenientes de 
+calicatas
+GRANULOMETRIA
+Calicata 
+Nº
+Tamiz
+3"
+2 
+1/2
+"
+2"
+1 
+1/2"
+1"
+3/4" 3/8"
+# 4
+# 10
+# 40
+# 
+200
+C1
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+88
+33
+9
+C8
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+86
+39
+14
+C10
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+80
+39
+12
+C13
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+79
+35
+12
+C14
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+76
+33
+10
+C16
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+83
+32
+9
+C18
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+89
+45
+13
+C20
+% Que pasa
+100
+100
+100
+100
+100
+100
+100
+100
+78
+31
+10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+0
+0
+1
+10
+100
+% Que pasa
+Abertura Tamices (mm)
+DISTRIBUCIÓN GRANULOMÉTRICA
+Calicata 01
+Calicata 08
+Calicata 10
+Calicata 13
+Calicata 14
+Calicata 16
+Calicata 18
+Calicata 20
+Figura 8.
+Distribución Granulométrica a muestras suelo natural extraídas desde calicatas 
+explorativas
+
+===== p.26 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+25
+Tabla 11.
+Resultados de límites de consistencia y clasificación de suelos (U.S.C.S. – 
+AASHTO) realizado a suelos provenientes de calicatas
+Calicata 
+Nº
+LÍMITES DE CONSISTENCIA
+CLASIFICACIÓN U.S.C.S.
+CLASIFICACIÓN AASHTO
+L. Líquido
+L. Plástico
+I. Plasticidad
+Símbolo
+Descripción
+Símbol
+o
+Descripción
+(%)
+(%)
+(%)
+C1
+NP
+SP-SM
+Arenas limpias pobremente graduadas
+A-1-b
+Gravas y arenas
+C8
+NP
+SM
+Arena limosa 
+A-1-b
+Gravas y arenas
+C10
+NP
+SP-SM
+Arenas limpias pobremente graduadas
+A-1-b
+Gravas y arenas
+C13
+NP
+SP-SM
+Arenas limpias pobremente graduadas
+A-1-b
+Gravas y arenas
+C14
+NP
+SP-SM
+Arenas limpias pobremente graduadas
+A-1-b
+Gravas y arenas
+C16
+NP
+SP-SM
+Arenas limpias pobremente graduadas
+A-1-b
+Gravas y arenas
+C18
+NP
+SM
+Arena limosa 
+A-1-b
+Gravas y arenas
+C20
+NP
+SP-SM
+Arenas limpias pobremente graduadas
+A-1-b
+Gravas y arenas
+Tabla 12.
+Resultados de humedad natural
+Resultados
+Calicatas
+C1
+C8
+C10
+C13
+C14
+C16
+C18
+C20
+Humedad natural (%)
+4,9
+2,2
+4,5
+4,0
+3,7
+3,3
+3,4
+5,5
+1.3.2.
+DENSIDAD DE PARTÍCULAS SÓLIDAS DE SUELO
+Los ensayos de densidad de partículas sólidas de suelo (NCh. 1532 Of .80) se realizaron a las 
+muestras de suelo tomadas.  En la tabla siguiente, se presentan los resultados obtenidos de los 
+ensayos realizados.  
+Tabla 13.
+Densidad de las partículas sólidas
+Resultados
+Calicatas
+C1
+C8
+C10
+C13
+C14
+C16
+C18
+C20
+Densidad de las partículas sólidas (gr/cm3)
+2,632
+2,664
+2,571
+2,585
+2,614
+2,589
+2,599
+2,577
+1.3.3.
+PROCTOR MODIFICADO
+La densidad seca máxima y la humedad óptima de las muestras extraídas fueron obtenidas en 
+laboratorio mediante el ensayo Proctor Modificado. En la tabla siguiente se presentan los resultados 
+obtenidos.
+Tabla 14.
+Proctor Modificado a muestras de suelo natural
+Resultados
+Calicatas
+C1
+C8
+C10
+C13
+C14
+C16
+C18
+C20
+D.M.C.S (kg/m³)
+2,03
+2,13
+2,02
+2,00
+2,02
+2,02
+2,01
+2,00
+Humedad Optima (%)
+9,5
+7,9
+7,2
+7,9
+7,3
+7,4
+7,8
+7,9
+
+===== p.27 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+26
+1.3.4.
+DETERMINACIÓN DE LA RAZÓN DE SOPORTE DE SUELOS COMPACTADOS EN 
+LABORATORIO (CBR)
+El ensayo de la razón de soporte de suelos compactados (NCh. 1852 Of .81) se realizó a cuatro de las 
+ocho muestras de suelo extraídas. En la tabla siguiente se presentan los resultados obtenidos.
+Tabla 15.
+Razón de Soporte de Suelos Compactados en Laboratorio (CBR)
+Resultados
+Calicatas
+C1
+C8
+C16
+C20
+CBR AL 95% DE LA D.M.C.S. A 0,2" DE PENETRACIÓN (%)
+21
+31
+30
+24
+1.3.5.
+DETERMINACIÓN DE PARÁMETROS RESISTENTES COHESIÓN Y ÁNGULO DE FRICCIÓN
+Para determinar los parámetros de resistencia al corte efectivos del suelo se les realizó el ensayo de 
+Corte Directo (ASTM D 3080/D3080M –23 "Método de Ensayo Estándar para Corte Directo de Suelo 
+Bajo Condiciones de Drenaje Consolidadas"). En la tabla siguiente, se presentan los resultados 
+obtenidos de los ensayos realizados.  
+Tabla 16.
+Resultados ensayo Corte Directo
+Calicatas
+(°)
+c (kPa)
+1
+33,5
+13,8
+16
+33,1
+10,7
+1.3.6.
+ANÁLISIS DE LOS RESULTADOS DE LABORATORIO
+Los ensayos de laboratorio realizado a los suelos muestreados en la zona en estudio permitieron 
+determinar sus principales características y propiedades geotécnicas, de utilidad para estudiar las 
+condiciones del suelo de fundación del proyecto y sus futuras instalaciones.
+Los ensayos de caracterización realizados indican que el suelo del sector de emplazamiento del 
+terreno se clasifica según la U.S.C.S. en los siguientes suelos.
+Tabla 17.
+Clasificación U.S.C.S. y % de finos
+Calicata
+Clasificación U.S.C.S.
+% de finos
+C1
+SP-SM
+9%
+C8
+SM
+14%
+C10
+SP-SM
+12%
+C13
+SP-SM
+12%
+C14
+SP-SM
+10%
+C16
+SP-SM
+9%
+C18
+SM
+13%
+C20
+SP-SM
+10%
+
+===== p.28 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+27
+Los  gráficos  de  distribución  granulométrica  confirman  la  homogeneidad  entre  las  muestras 
+analizadas, estableciendo para cada caso una distribución acorde al suelo identificado (SM: Arenas 
+limosas y SP-SM: Arenas limpias pobremente graduadas). Las muestras analizadas contienen 
+porcentajes de finos entre un 9% y 14%, lo cual es concordante con lo observado en la prospección in 
+situ.
+En relación a la densidad de partículas sólidas de los suelos analizados, los resultados obtenidos 
+indican que éstos se encontrarían entre 2,589 y  2,664 (gr/cm3), lo cual refleja homogeneidad 
+respecto a la distribución del suelo en el sector del proyecto.
+Los resultados de las densidades in situ se han correlacionado con los resultados del ensayo Proctor 
+modificado para determinar con certeza el grado de compactación del suelo en su estado natural en 
+comparación con la D.M.C.S. obtenida. En la siguiente tabla se presenta el grado de compactación 
+del suelo natural.
+Tabla 18.
+Compactación del suelo natural respecto a la D.M.C.S.
+Resultados
+Calicatas
+C1
+C8
+C10
+C13
+C14
+C16
+C18
+C20
+D.C.S (kg/m³)
+1,758
+1,576
+1,643
+1,743
+1,656
+1,642
+1,738
+1,73
+D.M.C.S (kg/m³)
+2,03
+2,13
+2,02
+2,00
+2,02
+2,02
+2,01
+2,00
+Compactación (%)
+87%
+74%
+81%
+87%
+82%
+81%
+87%
+87%
+El grado de compactación del suelo natural en promedio se encuentra por sobre el 80% de la 
+D.M.C.S. La variación no es muy significativa, lo que sugiere que la densidad del suelo no cambia de 
+manera drástica entre los diferentes puntos de medición.
+Por su parte, en cuanto a la capacidad de soporte del suelo, obtenida a través del ensayo CBR, 
+entregó el siguiente valor para el uso de suelo, según rango de valores CBR (NCh 1852 Of. 1981), 
+según es posible observar en la siguiente tabla.
+Tabla 19.
+Rango valores CBR (NCh 1852 Of. 1981)
+Muestra 
+de 
+Calicata
+CBR a 0,2" (%)
+CBR Clasificación cualitativa del uso 
+de suelo
+C1
+21
+ Excelente Sub-rasante
+C8
+31
+ Excelente Sub-rasante
+C16
+30
+ Excelente Sub-rasante
+C20
+24
+ Excelente Sub-rasante
+Del resultado obtenido para la muestra analizada, según la clasificación a partir del valor de CBR, 
+presenta condición excelente para su uso material de sub-rasante, es claro mencionar que las 
+muestras a este ensayo corresponden a aquellas emplazada donde irá el camino de acceso y 
+caminos operacionales interiores.
+
+===== p.29 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+28
+En cuanto a los parámetros resistentes del suelo obtenido del ensayo de corte directo, estos 
+concuerdan a lo establecido en la bibliografía para suelos arenosos limosos, por tanto, los rangos de 
+cohesión y ángulo de fricción obtenidos se ajustan a dichos valores.
+1.4.
+PROPIEDADES GEOTÉCNICAS DE LA ZONA DE EMPLAZAMIENTO DE LAS 
+INSTALACIONES DEL PROYECTO
+A continuación, se presentan las propiedades y características geotécnicas del suelo de fundación en 
+el área de emplazamiento del proyecto.
+1.4.1.
+COTAS DE FUNDACIÓN
+La profundidad del sello de fundación depende de las características de los estratos competentes 
+para alcanzar bajas deformaciones y soportar las cargas transmitidas por las estructuras. Por esto, es 
+recomendable que se asegure la ubicación de la fundación dentro del estrato portante de resistencia 
+y compresibilidad apropiadas, para así evitar fallas en la masa del suelo, giros y deformaciones 
+laterales y asentamientos diferenciales inadmisibles para las estructuras proyectadas. 
+A partir de los antecedentes y análisis obtenidos en terreno, específicamente de las estratigrafías 
+realizadas y de los resultados de laboratorio, se recomienda definir como profundidad mínima para 
+el sello de fundación, la cota -1,0 mt respecto a la cota de terreno original y dentro del segundo 
+estrato identificado in situ, el cual corresponde al terreno natural de baja alteración y siempre que 
+éste no muestre presencia de materia orgánica, contaminación o material poco compacto. 
+Si por condiciones de proyecto se debiera trabajar con profundidades mayores a las propuestas, se 
+recomienda alcanzar la zona de menor alteración del terreno, cuidando que el suelo de fundación 
+sea homogéneo y horizontal. La condición de homogeneidad y horizontalidad del sello, y se deberá 
+respetar  en  la  totalidad  de  las  fundaciones,  ya  que  de  lo  contrario  podrían  presentarse 
+asentamientos diferenciales ante cargas estáticas o ante solicitaciones dinámicas que provocarían 
+fallos en la vida en servicio de las estructuras. 
+1.4.2.
+CARACTERIZACIÓN GEOTÉCNICA DEL SUELO DE FUNDACIÓN 
+La caracterización y parámetros geotécnicos del suelo de fundación compactado, que servirá de 
+base para el diseño de las fundaciones de las instalaciones, fueron estimados a partir de suelos de 
+similares características (granulometría, propiedades índices y compacidad) y de la información 
+obtenida por los ensayos de reconocimiento y laboratorio. A continuación, se presentan los 
+parámetros geotécnicos estimados para los cálculos que serán realizados para estimar la capacidad 
+de soporte del suelo de fundación compactado, asentamientos esperados y para el diseño de las 
+estructuras de fundación. 
+
+===== p.30 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+29
+Tabla 20.
+Estimación de parámetros tenso deformacionales correspondiente al suelo de 
+fundación compactado.
+Parámetro
+Valor
+Densidad Natural (t
+1,576 (t/m3)
+Ángulo de fricción ()
+33o
+Cohesión (c) (ton/m2)
+1,07
+Módulo de deformación (E)
+1.500 x z (t/m2) (*)
+Módulo de deformación para cargas cíclicas (Eo)
+3 x E (t/m2)
+Coeficiente de Poisson ()
+0,30
+Aceleración efectiva (Ao/g)
+0,4
+(*) z en metros
+1.4.2.1
+Capacidad de soporte del suelo de fundación
+La capacidad de soporte admisible a la cota -1,00 m correspondiente a la cota mínima del sello de 
+fundación, dependerá de las propiedades tenso deformacionales del suelo y de la geometría de las 
+estructuras de fundación.  Para este análisis de fundaciones, se han adoptado las metodologías 
+propuestas por Terzaghi, para fundaciones en suelos con características similares a los estudiados y 
+bajo las restricciones de los asentamientos elásticos permisibles. 
+Las tensiones máximas admisibles se determinaron de acuerdo con la expresión para fundaciones 
+aisladas y cuadradas:
+qult = 1,3 *c* Nc + qs* Nq + 0,4*B* γ* Nγ
+Donde la tensión admisible es:
+Qadm  = qult
+F.S.
+Donde:
+F.S.
+=
+Factor de seguridad.
+γ 
+=
+Peso unitario del suelo de apoyo.
+B 
+=
+Ancho de la fundación.
+qs
+=
+Profundidad del sello de fundación.
+C
+=
+Cohesión del suelo.
+Nγ,Nq,Nc=
+Factores de capacidad de carga.  
+Para evaluar las tensiones máximas tolerables para un asentamiento total máximo probable "d", se 
+define a través de la expresión:
+Se = K*q*B*(1 - E
+So = 2*Se
+Donde:
+Se
+  =  asentamiento en la esquina (cm).
+Se
+  =  asentamiento en el centro (cm).
+K
+  =  Factor de forma.
+E
+  =  Módulo de elasticidad (Kg/cm2).
+
+===== p.31 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+30
+m
+  =  Coeficiente de Poisson.
+Compatibilizando ambos criterios y la experiencia de esta consultora en suelos similares, las 
+tensiones recomendadas son:
+Fundaciones del tipo zapata aislada:
+Condición estática:  
+Qadm estático = 4,0 + 1,0*B (kg/cm2)
+Condición sísmica: 
+Qadm sísmico = 5,0 + 1,0*B (kg/cm2)
+Donde “B” es el ancho de las fundaciones en metros.
+Asentamientos 
+ 
+ elásticos
+ 
+ 
+Los asentamientos elásticos o instantáneos del suelo de fundación se han calculado considerando el 
+subsuelo como un medio elástico, isotrópico y homogéneo, en donde se ha adoptado un coeficiente 
+de Poisson  m=0,30. Los asentamientos estimados para las presiones de contacto antes definidas son 
+y representativas para ambas estructuras son:
+Para zapata aislada:
+Condición estática: 
+Sestático = 0,027*B + 0,007*B2 (cm)
+Condición sísmica:
+Ssísmico = 0,011*B + 0,002*B2 (cm)
+Donde “B” es el ancho de la fundación en metros.
+1.4.2.2
+Período predominante de vibración del suelo (to)
+Conforme con lo planteado en la  Norma Nch 433 Of. 2010, de acuerdo con los antecedentes 
+geotécnicos mencionados en este estudio, el suelo de fundación se clasifica como tipo III. El Período 
+Predominante de Vibración que se define a continuación, podrá ser tomado por el Calculista en el 
+desarrollo del diseño estructural.
+To = 0,75 seg.
+
+===== p.32 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+31
+1.5.
+RESPONSABLE
+El profesional responsable de la elaboración del presente documento ha sido el Ingeniero Cristian 
+Vega H.
+Ing. Cristian Vega Herrera
+Rut: 13.227.439 – 8
+
+===== p.33 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 01 CERTIFICADOS DE LABORATORIO
+
+===== p.34 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 02 FICHAS CALICATAS EXPLORATIVAS
+
+===== p.35 =====
+ANEXO INFORME MECÁNICA DE SUELOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 03 RECOMENDACIONES CONSTRUCTIVAS

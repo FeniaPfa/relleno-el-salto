@@ -1,0 +1,15 @@
+
+===== p.0 =====
+CANALETA CAPTACION AGUA LAVADO
+ELEVACIÓN LATERAL
+ESCALA  1 : 50
+ELEVACIÓN FRONTAL
+ESCALA  1 : 50
+ELEVACIÓN POSTERIOR
+ESCALA  1 : 50
+PLANTA GALPON DE LAVADO
+ESCALA 1 : 50
+D S S
+a  m  b  i e  n t e
+i n g e n i e r í a
+i n n o v a c i ó n
