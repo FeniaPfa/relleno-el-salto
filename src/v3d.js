@@ -609,6 +609,7 @@ function sprite(cen,bor){
   var t=new THREE.CanvasTexture(c); t.minFilter=THREE.LinearFilter; return t;
 }
 var V=D.viento, ACC=45;                      /* tiempo acelerado 45× */
+var modoViento='pri';                        /* pri · sec · man */
 var vientoHacia=V.hacia, vientoVel=V.media;
 function dirViento(){
   var r=vientoHacia*Math.PI/180;
@@ -790,6 +791,8 @@ function rosaViento(){
   }
   sector(V.desde_min,V.desde_max,'#ffb067',.85);      /* de dónde viene */
   sector(V.sec_min,V.sec_max,'#ffb067',.26);
+  if(modoViento==='man')                            /* el supuesto del lector, en otro color */
+    sector((vientoHacia+145)%360,(vientoHacia+215)%360,'#8fb8d4',.30);
   var a=(vientoHacia-90)*Math.PI/180;
   var fl=E('path',{d:'M'+cx+' '+cy+'L'+(cx+Math.cos(a)*(R-4))+' '+(cy+Math.sin(a)*(R-4)),
     stroke:'#fff','stroke-width':1.6});
@@ -797,20 +800,54 @@ function rosaViento(){
   svg.appendChild(E('circle',{cx:cx+Math.cos(a)*(R-4),cy:cy+Math.sin(a)*(R-4),r:2.6,fill:'#fff'}));
   textoViento();
 }
+/* Cuantas de las catorce poblaciones caen en la pluma de ±35° para un rumbo dado.
+   El ancho es el mismo supuesto que declara la sección «Quién queda a sotavento». */
+function aSotavento(rumbo){
+  var dentro=(D.rumbos||[]).filter(function(r){
+    var d=Math.abs(((r.rumbo-rumbo+540)%360)-180);   /* separación angular, 0..180 */
+    return d<=35;
+  });
+  dentro.sort(function(a,b){return a.d-b.d});
+  return dentro;
+}
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
-  var pri = vientoHacia===V.hacia;
-  e.innerHTML = pri
+  if(modoViento==='man'){
+    var li=aSotavento(vientoHacia), n=li.length;
+    e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b> · <i>supuesto tuyo, no del expediente</i>'+
+      '<br>'+(n ? 'A sotavento: <b>'+n+'</b> de '+(D.rumbos||[]).length+
+                  ' poblaciones<br><span class="vq">'+li.slice(0,3).map(function(r){return r.n}).join(' · ')+
+                  (n>3?' …':'')+'</span>'
+            : 'Ninguna población queda a sotavento');
+    return;
+  }
+  e.innerHTML = modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
     : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario';
 }
-$('#w-pri').addEventListener('click',function(){
-  vientoHacia=V.hacia; this.setAttribute('aria-pressed','true');
-  $('#w-sec').setAttribute('aria-pressed','false'); redibujarRosa();});
-$('#w-sec').addEventListener('click',function(){
-  vientoHacia=V.sec_hacia; this.setAttribute('aria-pressed','true');
-  $('#w-pri').setAttribute('aria-pressed','false'); redibujarRosa();});
+/* ojo: `modo` ya existe en este ámbito (el basemap carto/sat de más arriba);
+   los tres scripts se empalman en un solo IIFE y comparten variables. */
+function fijarViento(m,rumbo){
+  modoViento=m; vientoHacia=rumbo;
+  ['pri','sec','man'].forEach(function(k){
+    var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
+  });
+  var mv=$('#vman'); if(mv) mv.hidden = m!=='man';
+  redibujarRosa();
+}
+$('#w-pri').addEventListener('click',function(){ fijarViento('pri',V.hacia) });
+$('#w-sec').addEventListener('click',function(){ fijarViento('sec',V.sec_hacia) });
+$('#w-man').addEventListener('click',function(){
+  var sl=$('#w-dir'); fijarViento('man', sl ? +sl.value : V.hacia);
+});
+(function(){
+  var sl=$('#w-dir'); if(!sl) return;
+  sl.addEventListener('input',function(){
+    if(modoViento!=='man') fijarViento('man',+this.value);
+    else { vientoHacia=+this.value; redibujarRosa(); }
+  });
+})();
 function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); }
 
 /* ---------- recorrido de cámara ---------- */

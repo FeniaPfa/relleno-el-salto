@@ -71,6 +71,10 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
 - **Colisión de clases CSS:** `.barra` fue usada a la vez para la barra fija de acción y para la
   barra estratigráfica del subsuelo; la segunda anulaba a la primera. La estratigráfica se llama
   ahora `.pila`. Cuidado al nombrar clases nuevas.
+- **Colisión de nombres entre los tres scripts:** comparten un solo IIFE, así que una
+  `function nueva(){}` que choque con un `var` ya existente se pierde en silencio —el `var`
+  la pisa al asignarse— y sólo falla al pulsar el control. Pasó con `modo`, que ya era el
+  basemap carto/sat; el control de viento tuvo que llamarse `fijarViento`.
 - **Variables de ámbito en `ubicarMarcas()`:** un `var` declarado dentro de un callback de
   `forEach` no existe en el siguiente. Ya rompió los rótulos del 3D una vez.
 - **Dos secciones remiten al visor del terreno** («actívalo como capa en el visor 3D del

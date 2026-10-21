@@ -446,11 +446,22 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .rosa svg{width:92px;height:92px;display:block}
 .rosa svg text{font-family:var(--cart)}
 .vd{font-family:var(--cart);font-size:13px;color:#c6cec7;line-height:1.55;margin-top:9px}
+.vd i{color:#8fb8d4;font-style:normal;font-size:12px}
+.vd .vq{color:#9aa49c;font-size:12px}
 .vd b{color:#f0b26a;font-weight:600}
 .vbtns{display:flex;gap:5px;margin-top:10px}
 .vbtns .tg{flex:1;padding:6px 5px;font-size:12.5px;min-height:32px;
   border-color:#4a5450;color:#c6cec7;text-align:center}
 .vbtns .tg[aria-pressed="true"]{background:#f0b26a;color:#17120a;border-color:#f0b26a}
+/* el tercer modo: el lector fija el rumbo. Va con otro color para que no se
+   confunda con los dos que declara el titular. */
+.vbtns #w-man[aria-pressed="true"]{background:#8fb8d4;color:#0d1620;border-color:#8fb8d4}
+.vman{margin-top:9px}
+.vman label{display:block;font-family:var(--cart);font-size:11.5px;letter-spacing:.04em;
+  text-transform:uppercase;color:#8d9890;margin-bottom:5px}
+.vman input[type=range]{width:100%;accent-color:#8fb8d4;height:22px;cursor:ew-resize}
+.vman input[type=range]:focus-visible{outline:2px solid #8fb8d4;outline-offset:3px}
+@media(pointer:coarse){.vman input[type=range]{height:34px}}
 
 
 /* rosa independiente para móvil y para la sección de pluma */
@@ -1010,6 +1021,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <div class="vbtns">
           <button class="tg" id="w-pri" aria-pressed="true">Predominante</button>
           <button class="tg" id="w-sec" aria-pressed="false">Secundario</button>
+          <button class="tg" id="w-man" aria-pressed="false">Manual</button>
+        </div>
+        <div class="vman" id="vman" hidden>
+          <label for="w-dir">Sopla hacia</label>
+          <input type="range" id="w-dir" min="0" max="355" step="5" value="10"
+                 aria-describedby="vtxt">
         </div>
       </div>
     </details>
