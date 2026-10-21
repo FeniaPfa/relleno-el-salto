@@ -1,0 +1,3484 @@
+### PÁGINAS TOTALES: 64
+
+===== p.1 =====
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ 
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA 
+DE INFLUENCIA 
+ 
+ 
+Documento Preparado por 
+ 
+ 
+ 
+ 
+Julio 2026
+
+===== p.2 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+2 
+ 
+ 
+ÍNDICE 
+2.1. 
+INTRODUCCIÓN.................................................................................................................. 6 
+2.2. 
+OBJETIVO ........................................................................................................................... 7 
+2.3. 
+METODOLOGÍA .................................................................................................................. 7 
+2.3.1. 
+ÁREA DE ESTUDIO Y ÁREA DE INFLUENCIA. .................................................................. 9 
+2.4. 
+DESCRIPCIÓN DEL PROYECTO: ........................................................................................... 9 
+2.4.1. 
+DESCRIPCIÓN DE LAS PARTES, ACCIONES Y OBRAS DEL PROYECTO. .......................... 12 
+2.4.2. 
+TIPOLOGÍA DEL PROYECTO O ACTIVIDAD, ASÍ COMO LAS APLICABLES A SUS PARTES, 
+OBRAS O ACCIONES, DE ACUERDO AL ARTÍCULO 3º DEL REGLAMENTO (ART. 18º C.2.4.) ...... 13 
+2.5. 
+FACTORES GENERADORES DE IMPACTO ......................................................................... 14 
+2.5.1. 
+FASE DE CONSTRUCCIÓN............................................................................................. 14 
+2.5.2. 
+FASE DE OPERACIÓN ................................................................................................... 17 
+2.5.3. 
+FASE DE CIERRE ........................................................................................................... 20 
+2.6. 
+SÍNTESIS DE LA IDENTIFICACIÓN DE ÁREAS DE ESTUDIO, ÁREAS DE INFLUENCIA Y 
+POTENCIAL SIGNIFICANCIA DE IMPACTOS .................................................................................... 22 
+2.6.1. 
+TABLA RESUMEN CARACTERIZACIÓN DE LAS ÁREAS DE ESTUDIO (AE) ...................... 22 
+2.6.2. 
+TABLA RESUMEN DETERMINACIÓN Y JUSTIFICACIÓN DEL AI E IMPACTOS 
+SIGNIFICATIVOS. ........................................................................................................................ 23 
+2.7. 
+ÁREA DE ESTUDIO PARA CADA COMPONENTE DEL MEDIO AMBIENTE .......................... 27 
+2.7.1. 
+CLIMA Y METEOROLOGÍA ............................................................................................ 27 
+2.7.2. 
+GEOLOGÍA .................................................................................................................... 28 
+2.7.3. 
+GEOMORFOLOGÍA Y RIESGOS NATURALES ................................................................. 29 
+2.7.4. 
+USO DEL TERRITORIO .................................................................................................. 30 
+2.7.5. 
+PROYECTOS CON RCA VIGENTE ................................................................................... 32 
+2.8. 
+ÁREA DE INFLUENCIA PARA CADA ELEMENTO DEL MEDIO AMBIENTE SUSCEPTIBLE DE SER 
+AFECTADO ..................................................................................................................................... 33 
+2.8.1. 
+CALIDAD DEL AIRE ....................................................................................................... 33 
+2.8.2. 
+OLORES ........................................................................................................................ 35 
+2.8.3. 
+RUIDO Y VIBRACIONES ................................................................................................ 36 
+2.8.4. 
+EDAFOLOGÍA ................................................................................................................ 38
+
+===== p.3 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+3 
+ 
+ 
+2.8.5. 
+HIDROLOGÍA ................................................................................................................ 40 
+2.8.6. 
+HIDROGEOLOGÍA ......................................................................................................... 41 
+2.8.7. 
+FLORA Y VEGETACIÓN ................................................................................................. 42 
+2.8.8. 
+FLORA NO VASCULAR .................................................................................................. 44 
+2.8.9. 
+ FAUNA TERRESTRE...................................................................................................... 46 
+2.8.10. 
+ENTOMOFAUNA ...................................................................................................... 49 
+2.8.11. 
+MEDIO HUMANO .................................................................................................... 51 
+2.8.12. 
+PAISAJE Y TURISMO ................................................................................................. 52 
+2.8.13. 
+PATRIMONIO ARQUEOLÓGICO. .............................................................................. 54 
+2.8.14. 
+PATRIMONIO CULTURAL PALEONTOLÓGICO. ......................................................... 56 
+2.8.15. 
+ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS .......................................................... 58 
+2.9. 
+IDENTIFICACIÓN DE LOS COMPONENTES AMBIENTALES SUSCEPTIBLES DE VERSE 
+AFECTADOS POR CAMBIO CLIMÁTICO .......................................................................................... 60 
+2.10. 
+CONCLUSIÓN .................................................................................................................... 62
+
+===== p.4 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+4 
+ 
+ 
+ÍNDICE DE FIGURAS 
+Figura 1: Esquema metodológico para la delimitación, justificación y descripción de las Áreas de 
+Influencia. ............................................................................................................................................ 8 
+Figura 2: Cartografía ubicación y localización político-administrativa del Proyecto. ....................... 10 
+Figura 3: Ubicación Centro Metropolitano de Gestión Integral de Residuos. .................................. 11 
+Figura 4: Layout general del proyecto............................................................................................... 13 
+Figura 5: Área de Estudio para el componente Climático y Meteorológico. .................................... 28 
+Figura 6: Área de Estudio para el componente Geológico del Proyecto. ......................................... 29 
+Figura 7: Área de Estudio para el componente Geomorfológico y de Riesgo Natural del Proyecto. 30 
+Figura 8: Área de Estudio para el Uso del Territorio del Proyecto. ................................................... 31 
+Figura 9: Área de Estudio para Proyectos con RCA cercanos al Proyecto......................................... 32 
+Figura 10: Área de influencia para el componente Calidad del Aire (MP y gases). .......................... 34 
+Figura 11: Área de influencia para el componente Calidad del Aire (MPS). ..................................... 34 
+Figura 12: Área de influencia asociada a olores y receptores evaluados. ........................................ 36 
+Figura 13: Área de influencia para el componente ruido y vibraciones. .......................................... 37 
+Figura 14: Área de influencia para el componente Edafológico/Suelo del Proyecto. ...................... 39 
+Figura 15: Área de influencia para el componente Hidrología. ........................................................ 40 
+Figura 16: Área de influencia para el componente Hidrogeológico del Proyecto. ........................... 41 
+Figura 17: Área de influencia para el componente Flora y Vegetación del Proyecto. ...................... 43 
+Figura 18: Área de influencia, componente Flora no vascular. ......................................................... 45 
+Figura 19: Área de influencia del proyecto, componente Fauna terrestre. ...................................... 48 
+Figura 20: Área de influencia del componente Entomofauna del Proyecto. .................................... 50 
+Figura 21: Área de influencia del proyecto, medio humano. ............................................................ 52 
+Figura 22: Área de influencia para el componente Paisaje y Turismo del Proyecto. ........................ 54 
+Figura 23: Área de influencia para el componente Patrimonio Arqueológico del Proyecto. ........... 55 
+Figura 24: Área de influencia para el componente Patrimonio Cultural Paleontológico. ................ 57 
+Figura 25: Área de influencia para el componente Áreas Protegidas y Sitios Prioritarios para la 
+conservación del Proyecto. ............................................................................................................... 59
+
+===== p.5 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+5 
+ 
+ 
+ÍNDICE DE TABLAS 
+ 
+Tabla 1: Partes y obras físicas del Proyecto. ..................................................................................... 12 
+Tabla 2: Identificación de Factores Generadores de Impacto, fase de construcción. ...................... 15 
+Tabla 3:  Identificación de Factores Generadores de Impacto, fase de operación ........................... 18 
+Tabla 4: Identificación de Factores Generadores de Impacto, fase de cierre. .................................. 20 
+Tabla 5: Resumen caracterización de las Áreas de Estudio (AE). ...................................................... 22 
+Tabla 6: Resumen para la determinación y justificación del Área de Influencia e impactos 
+significativos ...................................................................................................................................... 23 
+Tabla 7: Cálculo de Niveles de Inmisión de Ruido AI Fauna. ............................................................. 46 
+Tabla 9: Interacción y sensibilidad de componentes ambientales frente al cambio climático. ....... 60
+
+===== p.6 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+6 
+ 
+ 
+2.1. 
+INTRODUCCIÓN 
+Este capítulo determina, justifica y describe el Área de Influencia (AI) del proyecto "Centro Metropolitano 
+de Gestión Integral de Residuos" para cada componente ambiental susceptible de ser afectado. 
+De acuerdo con el artículo 18, letra d) del Reglamento del SEIA (D.S. N° 40/2012, modificado por el D.S. 
+N° 30/2024), el AI se define en función de los impactos potencialmente significativos y el espacio 
+geográfico donde se emplazan las obras del proyecto. El objetivo de esta delimitación, conforme al 
+artículo 2° del mismo reglamento, es establecer el espacio geográfico necesario para evaluar si el proyecto 
+genera los efectos del artículo 11 de la Ley, o bien, para justificar la inexistencia de dichos impactos. 
+De acuerdo con la “Guía área de influencia en el SEA” (segunda edición, 2026), la determinación del AI 
+corresponde a su delimitación espacial con límites claros, en tanto que la justificación del AI corresponde 
+a la entrega de la información que fundamenta dicha delimitación. Sobre esta base, el AI se determina y 
+justifica para cada elemento del medio ambiente que constituye un objeto de protección receptor de 
+potenciales impactos. 
+Para aquellos componentes que el RSEIA exige caracterizar pero que no constituyen, en sí mismos, objetos 
+de protección sobre los cuales se predicen y evalúan impactos, no corresponde el uso del concepto de 
+Área de Influencia. Respecto de ellos se determina y justifica un Área de Estudio (en adelante, AE), 
+entendida como el espacio geográfico que permite caracterizar el contexto en que se inserta el Proyecto, 
+comprender el comportamiento de otros componentes o descartar la ocurrencia de impactos. Conforme 
+a la Guía citada y a lo señalado en el artículo 18, letra e), del RSEIA, corresponden a esta categoría el clima 
+y la meteorología, la geología, la geomorfología y las áreas de riesgos geológicos y geomorfológicos, el 
+uso del territorio y su relación con la planificación territorial, y los proyectos o actividades que cuenten 
+con Resolución de Calificación Ambiental vigente. En particular, la caracterización de las áreas de riesgos 
+geológicos y geomorfológicos constituye un insumo para la identificación de amenazas que pudieran 
+afectar las obras y para la formulación del Plan de Prevención de Contingencias y de Emergencias previsto 
+en el artículo 18, letra j), del RSEIA, y no la evaluación de un impacto sobre dichos atributos. 
+Asimismo, conforme al artículo 12 bis del RSEIA, incorporado por el Decreto N° 30 de 2024, y a la “Guía 
+metodológica para la consideración del cambio climático en el SEIA” (Servicio de Evaluación Ambiental, 
+2024), la determinación y justificación del AI considera la identificación de los componentes susceptibles 
+de verse afectados por el cambio climático, cuando corresponda. 
+La caracterización detallada de los componentes del medio ambiente, tanto de aquellos receptores de 
+impactos como de aquellos respecto de los cuales se define un Área de Estudio, se desarrolla en el Capítulo 
+3 Línea de Base del presente Estudio de Impacto Ambiental.
+
+===== p.7 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+7 
+ 
+ 
+2.2. 
+OBJETIVO 
+1. Determinar, justificar y describir las áreas de influencia del Proyecto para cada elemento del 
+medio ambiente susceptible de ser afectado por sus partes, obras y acciones. 
+2. Determinar y justificar las áreas de estudio para los componentes que no constituyen objetos de 
+protección receptores de impactos. 
+3. Identificar los componentes ambientales susceptibles de verse afectados por el cambio climático. 
+2.3. 
+METODOLOGÍA  
+La determinación, justificación y descripción de las áreas de influencia del Proyecto se efectuó conforme 
+a los criterios establecidos en la “Guía áreas de influencia en el SEIA”, segunda edición, del Servicio de 
+Evaluación Ambiental, 2026. Para ello, se aplicó una metodología secuencial orientada a identificar, para 
+cada componente ambiental u objeto de protección susceptible de ser afectado, el espacio geográfico en 
+que se predice la ocurrencia de impactos ambientales derivados de las partes, obras y acciones del 
+Proyecto. 
+La metodología consideró, en primer término, la revisión de la descripción del Proyecto y la identificación 
+de sus Factores Generadores de Impacto (FGI), asociados a las fases de construcción, operación y cierre. 
+Posteriormente, dichos FGI fueron espacializados mediante cartografía, considerando la ubicación de las 
+obras permanentes y temporales, caminos de acceso, instalaciones operacionales, áreas de disposición, 
+zonas de tratamiento, superficies de intervención directa y demás áreas vinculadas al Proyecto. 
+Sobre esta base, se identificaron los componentes ambientales y objetos de protección potencialmente 
+expuestos, considerando sus atributos relevantes, singularidades ambientales, sensibilidad, distribución 
+espacial y relación funcional con el área de emplazamiento. La interacción entre los FGI y los componentes 
+receptores permitió realizar una predicción preliminar de impactos, considerando su extensión, forma de 
+propagación, duración y condición más desfavorable de ocurrencia, cuando correspondiera. 
+A partir de dicho análisis se delimitó el Área de Influencia para cada componente ambiental u objeto de 
+protección receptor de impactos. Cuando un componente no constituye por sí mismo un objeto de 
+protección, pero requiere ser caracterizado para comprender el contexto ambiental del Proyecto o apoyar 
+la predicción de impactos sobre otros componentes, se definió un Área de Estudio. Asimismo, para 
+emisiones o agentes físicos tales como material particulado, gases, olores, ruido o vibraciones, se 
+consideraron áreas de dispersión o propagación como insumo técnico para identificar la eventual 
+exposición de receptores. 
+Para los componentes o agentes ambientales cuya afectación se manifiesta mediante dispersión, 
+propagación o transporte en el medio, tales como emisiones atmosféricas, olores, ruido y vibraciones, la 
+delimitación se efectuó distinguiendo entre el área de dispersión o propagación y el Área de Influencia 
+propiamente tal. El área de dispersión o propagación corresponde al espacio modelado o estimado
+
+===== p.8 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+8 
+ 
+ 
+técnicamente en el cual se proyecta la presencia del agente físico o químico generado por el Proyecto. En 
+cambio, el Área de Influencia corresponde al espacio donde dicha dispersión o propagación puede 
+interactuar con uno o más objetos de protección o receptores ambientales, tales como población, 
+viviendas, actividades humanas, fauna, vegetación u otros componentes del medio ambiente susceptibles 
+de ser afectados. Por tanto, la modelación constituye un insumo técnico para la delimitación del Área de 
+Influencia, pero no la reemplaza automáticamente, debiendo justificarse en cada caso la relación entre el 
+factor generador de impacto, el agente de propagación, el receptor ambiental y el criterio técnico utilizado 
+para definir sus límites. 
+Finalmente, las áreas de influencia, áreas de estudio y áreas de dispersión fueron representadas 
+cartográficamente a una escala adecuada, indicando sus límites espaciales, superficie y criterios técnicos 
+de delimitación. La caracterización de los componentes ambientales se presenta en el Capítulo 3 Línea de 
+Base, mientras que la predicción y evaluación de impactos se desarrolla en el Capítulo 4 del presente 
+Estudio de Impacto Ambiental y en cuanto a la significancia de los impactos se describe en el Capítulo 5 
+de este EIA. 
+El esquema metodológico general aplicado para la delimitación, justificación y descripción de las áreas de 
+influencia se presenta en la Figura 1, elaborado sobre la base de los criterios establecidos por la Guía áreas 
+de influencia en el SEIA, segunda edición, del Servicio de Evaluación Ambiental. 
+ 
+Figura 1: Esquema metodológico para la delimitación, justificación y descripción de las Áreas de 
+Influencia.  
+Fuente: Guía Área de Influencia en el SEIA, 2026.
+
+===== p.9 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+9 
+ 
+ 
+2.3.1. ÁREA DE ESTUDIO Y ÁREA DE INFLUENCIA. 
+Antes de definir el Área de Influencia (AI) de un Objeto de Protección (OP), es necesario analizar un área 
+de estudio más amplia. Esto permite comprender el contexto ambiental general y predecir con mayor 
+certeza los límites de los impactos. 
+La diferencia clave entre estos dos conceptos radica en cómo se descartan los impactos: 
+● En el Área de Estudio (Macro): corresponde al espacio utilizado para levantar y caracterizar 
+antecedentes ambientales, territoriales o técnicos necesarios para comprender el emplazamiento 
+del Proyecto, identificar objetos de protección y apoyar la predicción de impactos. el Área de 
+Estudio puede ser más amplia que el Área de Influencia, pero no la reemplaza ni constituye por sí 
+misma el espacio de ocurrencia del impacto. 
+● En el Área de Influencia (AI): espacio geográfico cuyos atributos, elementos naturales o socio 
+culturales deben ser considerados con la finalidad de definir si el proyecto o actividad genera o 
+presenta alguno de los efectos, características o circunstancias del artículo 11 de la Ley, o bien 
+para justificar la inexistencia de dichos efectos, características o circunstancias”. 
+Según el artículo 18, letra e) del Reglamento del SEIA, existen componentes que se deben caracterizar en 
+la línea de base por obligación normativa, pero como no son Objetos de Protección (OP) en sí mismos, 
+sólo requieren definir un área de estudio y no un AI: 
+● Medio Físico: clima y meteorología, luminosidad, campos electromagnéticos, radiación, geología, 
+geomorfología y riesgos geológicos, cuando estos actúan como atributos de contexto o insumos 
+para la evaluación de otros componentes. En el caso de ruido y vibraciones, estos se abordan 
+como agentes físicos de propagación, cuya Área de Influencia se determina en función de su 
+interacción con receptores humanos, fauna u otros objetos de protección susceptibles de 
+afectación. 
+● Uso del Territorio y Planificación: Uso actual y planificado del suelo (según IPT), actividades 
+económicas/productivas relevantes y construcciones de importancia. 
+● Proyectos con RCA: Proyectos o actividades que ya cuenten con Resolución de Calificación 
+Ambiental vigente, estén operando o no. 
+● Áreas de Riesgo Natural: Las zonas de riesgo por fenómenos naturales sólo se describen 
+textualmente; bajo este enfoque conceptual, tampoco constituyen una AI. 
+2.4. 
+DESCRIPCIÓN DEL PROYECTO: 
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos”, consiste en la construcción y 
+operación de una instalación integral para el tratamiento de los residuos sólidos mediante compostaje, 
+reciclaje y disposición final de residuos sólidos domiciliarios y asimilables, ubicado en el kilómetro 102,5
+
+===== p.10 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+10 
+ 
+ 
+Km de la Ruta 60 – Troncal Sur que une las comunas de Viña del Mar y Quilpué en la Región de Valparaíso 
+y cuya área total de emplazamiento es de 63,1 ha dentro de un predio de 206 ha. El proyecto cuenta con 
+una Zona de Instalaciones Operacionales y Administrativas, Zona de Compostaje, Zona de Reciclaje, Zona 
+de Disposición de Residuos, Zona de Tratamiento de Lixiviados y Zona de Tratamiento de Biogás. Durante 
+la operación del proyecto se espera recibir 30.741.988 toneladas de residuos sólidos durante 25 años de 
+vida útil estimada y prestará servicio principalmente a la población de las comunas de la Región de 
+Valparaíso, con una tasa inicial de 2.500 ton/día. 
+ 
+Figura 2: Cartografía ubicación y localización político-administrativa del Proyecto.  
+Fuente: Capítulo 1, Descripción del Proyecto.
+
+===== p.11 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+11 
+ 
+ 
+  
+Figura 3: Ubicación Centro Metropolitano de Gestión Integral de Residuos.  
+Fuente: Capítulo 1, Descripción del Proyecto.
+
+===== p.12 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+12 
+ 
+ 
+2.4.1. DESCRIPCIÓN DE LAS PARTES, ACCIONES Y OBRAS DEL PROYECTO. 
+Tabla 1: Partes y obras físicas del Proyecto. 
+Zonas 
+N° 
+Descripción 
+Zona de Instalaciones Operacionales y 
+Administrativas 
+1 
+Caseta control de acceso 1 
+2 
+Camino acceso desde Ruta 60 – Troncal Sur 
+3 
+Caseta control de acceso 2 
+4 
+Caseta de pesaje 
+5 
+Báscula de pesaje 
+6 
+Oficinas administrativas y operativas 
+7 
+Galpón losa lavado de camiones 
+8 
+Galpón de mantención 
+9 
+Estacionamientos 
+10 
+Caminos interiores 
+11 
+Bodega RESPEL galpón de mantención 
+Zona de compostaje 
+12 
+Zona de trincheras 
+13 
+Cancha acopio material estructurante 
+14 
+Galpón compostaje 
+15 
+Oficinas compostaje 
+16 
+Zona de maduración 
+Zona de reciclaje 
+17 
+Galpón de reciclaje 
+18 
+Oficina reciclaje 
+19 
+Cancha contenedores reciclaje 
+Zona de disposición de residuos 
+20 
+Berma perimetral 
+21 
+Celda relleno sanitario 
+Zona de tratamiento de lixiviados 
+22 
+Bandejas evaporación 
+23 
+Piscinas de lixiviados 
+24 
+Planta tratamiento lixiviados 
+25 
+Bodega RESPEL tratamiento lixiviados 
+26 
+Oficina planta tratamiento lixiviados 
+Zona de tratamiento de biogás 
+27 
+Planta tratamiento biogás 
+28 
+Oficina planta tratamiento biogás 
+Fuente: Capítulo 1, Descripción del proyecto.
+
+===== p.13 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+13 
+ 
+ 
+ 
+Figura 4: Layout general del proyecto. 
+Fuente: Capítulo 1 Descripción del Proyecto.  
+ 
+2.4.2. TIPOLOGÍA DEL PROYECTO O ACTIVIDAD, ASÍ COMO LAS APLICABLES A SUS PARTES, OBRAS O 
+ACCIONES, DE ACUERDO AL ARTÍCULO 3º DEL REGLAMENTO (ART. 18º C.2.4.) 
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos” se somete al Sistema de Evaluación 
+de Impacto Ambiental (SEIA) en virtud de sus características que se relacionan con la siguiente tipología 
+establecida en el Artículo N°3 del D.S. N° 40/2013:  
+o) 
+Proyectos de saneamiento ambiental, tales como sistemas de alcantarillado y agua 
+potable, plantas de tratamiento de aguas o de residuos sólidos de origen domiciliario, rellenos 
+sanitarios, emisarios submarinos, sistemas de tratamiento y disposición de residuos industriales 
+líquidos o sólidos;  
+Se entenderá por proyectos de saneamiento ambiental al conjunto de obras, servicios, técnicas, 
+dispositivos o piezas que correspondan a:  
+o.5. Sistemas o plantas de tratamiento y/o eliminación de residuos sólidos de origen 
+domiciliario, que cumplan al menos alguna de las siguientes condiciones:
+
+===== p.14 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+14 
+ 
+ 
+o.5.1. Sistemas o plantas de eliminación de residuos sólidos de origen domiciliario, 
+incluidos los rellenos sanitarios, con una tasa de ingreso igual o mayor a treinta toneladas 
+día (30 t/día). 
+o.5.2. Sistemas o plantas de tratamiento de residuos sólidos de origen domiciliario, 
+incluidas las plantas de compostaje y las de biodigestión, con una tasa de ingreso igual o 
+mayor a cincuenta toneladas día (50 t/día). 
+o.7 Sistemas de tratamiento y/o eliminación de residuos industriales líquidos que 
+cumplan al menos alguna de las siguientes condiciones: 
+o.7.1. Que sus efluentes sin tratar se usen para el riego, aspersión y humectación 
+de terrenos o caminos, o se utilicen para el mismo efecto efluentes tratados, en 
+cumplimiento de la respectiva norma de emisión, en una cantidad igual o mayor 
+a cincuenta metros cúbicos día (50 m³/día) 
+o.7.2. Tratan un caudal de efluentes líquidos igual o superior a ciento sesenta 
+metros cúbicos día (160 m³/día). 
+ 
+2.5. 
+FACTORES GENERADORES DE IMPACTO 
+2.5.1. FASE DE CONSTRUCCIÓN  
+Durante la fase de construcción se ejecutarán las obras necesarias para habilitar el Centro, incluyendo el 
+replanteo de las áreas a intervenir, despeje de terreno, retiro de cobertura vegetal, habilitación del acceso 
+principal y caminos interiores, construcción de plataformas, berma perimetral, muros de contención, zona 
+de disposición final de residuos, zona de tratamiento de lixiviados, sistemas de impermeabilización, 
+drenajes, sistemas de almacenamiento y tratamiento de lixiviados, infraestructura para personal, sistemas 
+sanitarios, eléctricos, báscula, zona de lavado, controles de acceso, señalización y sistemas de emergencia. 
+Asimismo, se contempla la construcción de las plantas de reciclaje, compostaje y biogás, conforme a la 
+programación del Proyecto. En la tabla 2 se presentan los FGI identificados para esta fase:
+
+===== p.15 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+15 
+ 
+ 
+Tabla 2: Identificación de Factores Generadores de Impacto, fase de construcción. 
+CÓDIGO 
+FGI 
+FACTOR 
+GENERADOR DE 
+IMPACTO (FGI) 
+DESCRIPCIÓN 
+COMPONENTES 
+AMBIENTALES 
+POTENCIALMENTE 
+RELACIONADOS 
+FGI-C-01 
+Instalación de faenas 
+Habilitación de instalaciones temporales de 
+apoyo a la construcción, tales como oficinas, 
+servicios higiénicos, bodegas, zonas de 
+acopio, 
+estacionamientos, 
+grupo 
+electrógeno, 
+almacenamiento 
+de 
+combustible 
+y 
+manejo 
+transitorio 
+de 
+residuos. 
+Calidad del aire; ruido; 
+suelo; calidad de aguas; 
+medio humano; paisaje. 
+FGI-C-02 
+Limpieza, desbroce y 
+habilitación inicial del 
+terreno 
+Comprende el replanteo, despeje, retiro de 
+cobertura vegetal, escarpe superficial y 
+preparación inicial de las superficies donde 
+se 
+emplazarán 
+obras 
+temporales 
+y 
+permanentes. 
+Suelo; flora y vegetación; 
+fauna terrestre; calidad del 
+aire; ruido; geomorfología; 
+paisaje. 
+FGI-C-03 
+Habilitación 
+del 
+acceso 
+principal, 
+caminos interiores y 
+controles de acceso 
+Construcción del acceso principal, caminos 
+operacionales interiores, vías secundarias y 
+controles de acceso requeridos para el 
+tránsito 
+de 
+vehículos, 
+camiones 
+y 
+maquinaria. 
+Calidad del aire; ruido; 
+suelo; 
+geomorfología; 
+calidad de aguas; impacto 
+vial; medio humano; paisaje; 
+fauna terrestre; flora y 
+vegetación. 
+FGI-C-04 
+Construcción 
+de 
+cierre perimetral y 
+faja de seguridad 
+Delimitación física de las áreas del Proyecto 
+mediante cierres, portones, controles de 
+acceso y franjas de seguridad o cortafuego. 
+Suelo; flora y vegetación; 
+fauna 
+terrestre; 
+paisaje; 
+calidad del aire; ruido; áreas 
+de riesgo. 
+FGI-C-05 
+Construcción 
+de 
+plataformas 
+y 
+terraplenes 
+Conformación de plataformas destinadas al 
+emplazamiento 
+de 
+instalaciones 
+operacionales, 
+administrativas, 
+reciclaje, 
+compostaje, 
+disposición 
+de 
+residuos, 
+lixiviados y biogás. 
+Geomorfología; 
+suelo; 
+calidad 
+del 
+aire; 
+ruido; 
+hidrología; calidad de aguas; 
+paisaje; flora y vegetación. 
+FGI-C-06 
+Movimientos 
+de 
+tierra, excavaciones, 
+cortes y rellenos 
+Ejecución de excavaciones, cortes, rellenos, 
+nivelaciones, 
+compactaciones 
+y 
+conformación de superficies requeridas para 
+las distintas unidades del Proyecto. 
+Geomorfología; 
+suelo; 
+calidad 
+del 
+aire; 
+ruido; 
+hidrología; 
+hidrogeología; 
+calidad de aguas; flora y 
+vegetación; fauna terrestre; 
+medio 
+humano; 
+arqueología; paleontología; 
+paisaje. 
+FGI-C-07 
+Excavación 
+y 
+conformación 
+del 
+vaso 
+del 
+relleno 
+sanitario 
+Excavación y preparación del área destinada 
+a disposición final, incluyendo fondo del 
+vaso, pendientes, terreno de fundación y 
+condiciones para el manejo de lixiviados. 
+Geomorfología; 
+suelo; 
+hidrogeología; calidad de 
+aguas; hidrología; calidad 
+del aire; ruido; paisaje; áreas 
+de riesgo. 
+FGI-C-08 
+Construcción 
+de 
+bermas perimetrales 
+y 
+muros 
+de 
+contención 
+Ejecución 
+de 
+obras 
+de 
+contención, 
+confinamiento y estabilidad física asociadas a 
+la zona de disposición final de residuos. 
+Geomorfología; suelo; áreas 
+de riesgo; calidad del aire; 
+ruido; hidrología; paisaje.
+
+===== p.16 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+16 
+ 
+ 
+CÓDIGO 
+FGI 
+FACTOR 
+GENERADOR DE 
+IMPACTO (FGI) 
+DESCRIPCIÓN 
+COMPONENTES 
+AMBIENTALES 
+POTENCIALMENTE 
+RELACIONADOS 
+FGI-C-09 
+Preparación y acopio 
+de 
+material 
+de 
+cobertura 
+y 
+excedentes 
+de 
+excavación 
+Acopio temporal y reutilización de material 
+proveniente 
+de 
+excavaciones 
+para 
+plataformas, bermas, cobertura intermedia u 
+otras obras del Proyecto. 
+Calidad del aire; ruido; 
+suelo; 
+geomorfología; 
+calidad de aguas; paisaje. 
+FGI-C-10 
+Ejecución del sistema 
+de 
+impermeabilización 
+de 
+la 
+zona 
+de 
+disposición final 
+Preparación 
+del 
+suelo 
+de 
+soporte 
+e 
+instalación 
+de 
+los 
+elementos 
+de 
+impermeabilización del vaso del relleno 
+sanitario. 
+Suelo; 
+hidrogeología; 
+calidad 
+de 
+aguas; 
+geomorfología; calidad del 
+aire; ruido. 
+FGI-C-11 
+Construcción 
+del 
+sistema de drenaje y 
+manejo de lixiviados 
+Habilitación de drenajes internos, captación, 
+conducción y evacuación de lixiviados hacia 
+unidades de regulación, almacenamiento y 
+tratamiento. 
+Calidad 
+de 
+aguas; 
+hidrogeología; 
+suelo; 
+hidrología; geomorfología; 
+calidad del aire; ruido. 
+FGI-C-12 
+Construcción 
+de 
+sistemas 
+de 
+regulación, 
+almacenamiento 
+y 
+tratamiento 
+de 
+lixiviados 
+Habilitación 
+de 
+piscinas, 
+bandejas 
+de 
+evaporación, 
+infraestructura 
+de 
+almacenamiento y planta de tratamiento de 
+lixiviados. 
+Calidad 
+de 
+aguas; 
+hidrogeología; 
+suelo; 
+calidad 
+del 
+aire; 
+ruido; 
+olores; paisaje. 
+FGI-C-13 
+Construcción 
+de 
+obras de manejo de 
+aguas lluvias 
+Ejecución 
+de 
+drenajes, 
+desvíos 
+de 
+escorrentía, obras de conducción y sistemas 
+para evitar el ingreso de aguas limpias a 
+zonas de contacto con residuos. 
+Hidrología; calidad de aguas; 
+suelo; geomorfología; áreas 
+de riesgo; calidad del aire; 
+ruido. 
+FGI-C-14 
+Construcción 
+del 
+sistema de captación 
+y 
+tratamiento 
+de 
+biogás 
+Habilitación de chimeneas, redes, equipos e 
+infraestructura para captación, conducción y 
+quema controlada de biogás. 
+Calidad del aire; olores; 
+ruido; suelo; paisaje; medio 
+humano. 
+FGI-C-15 
+Construcción de la 
+planta de reciclaje 
+Habilitación 
+del 
+galpón, 
+obras 
+civiles, 
+montaje 
+de 
+equipos 
+y 
+áreas 
+para 
+clasificación, prensado, manejo y acopio 
+transitorio de materiales reciclables. 
+Calidad del aire; ruido; 
+suelo; calidad de aguas; 
+impacto 
+vial; 
+medio 
+humano; paisaje. 
+FGI-C-16 
+Construcción de la 
+planta de compostaje 
+Habilitación de obras civiles, galpón de 
+compostaje, trincheras, cancha de material 
+estructurante, 
+oficinas 
+e 
+instalaciones 
+asociadas 
+al 
+tratamiento 
+de 
+residuos 
+orgánicos. 
+Calidad del aire; ruido; 
+olores; suelo; calidad de 
+aguas; 
+paisaje; 
+medio 
+humano. 
+FGI-C-17 
+Construcción 
+de 
+instalaciones 
+operacionales, 
+administrativas y de 
+apoyo 
+Construcción de casetas, báscula, oficinas, 
+comedor, 
+camarines, 
+estacionamientos, 
+galpón de mantención, losa de lavado, 
+bodegas, servicios básicos y sistemas de 
+emergencia. 
+Calidad del aire; ruido; 
+suelo; calidad de aguas; 
+impacto 
+vial; 
+medio 
+humano; paisaje. 
+FGI-C-18 
+Tránsito de camiones, 
+vehículos 
+y 
+Circulación de camiones, maquinaria pesada, 
+vehículos livianos y equipos al interior del 
+Calidad del aire; ruido; 
+impacto 
+vial; 
+medio
+
+===== p.17 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+17 
+ 
+ 
+CÓDIGO 
+FGI 
+FACTOR 
+GENERADOR DE 
+IMPACTO (FGI) 
+DESCRIPCIÓN 
+COMPONENTES 
+AMBIENTALES 
+POTENCIALMENTE 
+RELACIONADOS 
+maquinaria 
+de 
+construcción 
+predio y por los accesos habilitados durante 
+la construcción. 
+humano; fauna terrestre; 
+suelo; calidad de aguas. 
+FGI-C-19 
+Manejo de residuos 
+de 
+construcción, 
+residuos domiciliarios 
+y residuos peligrosos 
+Generación, segregación, almacenamiento 
+temporal, transporte y retiro de residuos 
+producidos durante la fase de construcción. 
+Suelo; calidad de aguas; 
+calidad del aire; olores; 
+medio humano; paisaje. 
+FGI-C-20 
+Abastecimiento, 
+almacenamiento 
+y 
+uso de combustibles 
+e insumos 
+Manejo temporal de combustible, aceites, 
+lubricantes, grupos electrógenos e insumos 
+requeridos para maquinaria, equipos e 
+instalaciones de apoyo. 
+Suelo; calidad de aguas; 
+calidad del aire; ruido; áreas 
+de riesgo; medio humano. 
+FGI-C-21 
+Construcción 
+del 
+empalme de acceso 
+del Proyecto con la 
+Ruta 60 – Troncal Sur 
+Comprende las actividades asociadas a la 
+construcción del empalme de acceso del 
+Proyecto con la Ruta 60 y la habilitación del 
+acceso principal, incluyendo obras viales 
+menores, tránsito de maquinaria y vehículos 
+de apoyo, señalización provisoria, regulación 
+de tránsito y eventuales cortes parciales, 
+desvíos o restricciones temporales de 
+circulación durante la fase constructiva. 
+Impacto 
+vial; 
+medio 
+humano; calidad del aire; 
+ruido y vibraciones. 
+Fuente: Capítulo 4 Predicción y evaluación de impactos 
+ 
+2.5.2. FASE DE OPERACIÓN 
+Durante la fase de operación se desarrollarán las actividades propias del funcionamiento del Centro 
+Metropolitano de Gestión Integral de Residuos, asociadas principalmente a la recepción, control, pesaje, 
+clasificación, valorización, tratamiento y disposición final de residuos sólidos domiciliarios y asimilables. 
+Asimismo, se consideran las actividades de manejo de lixiviados, captación y quema de biogás, lavado de 
+camiones, control de olores, control de vectores, mantención de caminos, equipos e instalaciones, y 
+manejo de residuos generados por la propia operación. A continuación, en la tabla 3 se presentan los FGI 
+identificados para esta fase.
+
+===== p.18 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+18 
+ 
+ 
+Tabla 3:  Identificación de Factores Generadores de Impacto, fase de operación 
+CÓDIGO FGI 
+FACTOR 
+GENERADOR DE 
+IMPACTO (FGI) 
+DESCRIPCIÓN 
+COMPONENTES AMBIENTALES 
+POTENCIALMENTE 
+RELACIONADOS 
+FGI-O-01 
+Recepción, control, 
+pesaje y registro de 
+residuos 
+Ingreso de camiones al Centro, control 
+de acceso, pesaje en báscula, registro 
+de residuos y derivación hacia las 
+unidades de reciclaje, compostaje o 
+disposición final. 
+Calidad del aire; ruido; olores; 
+impacto vial; medio humano; 
+paisaje; flora y vegetación. 
+FGI-O-02 
+Tránsito 
+de 
+camiones, 
+vehículos 
+y 
+maquinaria 
+operacional 
+Circulación permanente de camiones 
+recolectores, 
+maquinaria 
+pesada, 
+vehículos livianos y equipos al interior 
+del predio y por los accesos habilitados. 
+Calidad del aire; ruido; impacto 
+vial; medio humano; fauna 
+terrestre; suelo; calidad de 
+aguas. 
+FGI-O-03 
+Operación 
+de 
+la 
+zona de reciclaje 
+Recepción, clasificación, separación, 
+prensado, acopio transitorio y despacho 
+de materiales reciclables al interior de la 
+planta de reciclaje. 
+Calidad del aire; ruido; olores; 
+suelo; calidad de aguas; impacto 
+vial; medio humano; paisaje. 
+FGI-O-04 
+Operación 
+de 
+la 
+zona 
+de 
+compostaje 
+Recepción y tratamiento de residuos 
+orgánicos mediante trincheras, acopio 
+de material estructurante, manejo de 
+pilas, maduración y obtención de 
+compost o material de cobertura, según 
+corresponda. 
+Calidad del aire; olores; ruido; 
+suelo; calidad de aguas; medio 
+humano; 
+paisaje; 
+fauna 
+terrestre. 
+FGI-O-05 
+Operación 
+de 
+la 
+zona de disposición 
+final 
+Disposición de residuos en el frente de 
+trabajo, extendido, conformación de 
+celdas, 
+compactación 
+y 
+avance 
+progresivo del relleno sanitario. 
+Calidad del aire; ruido; olores; 
+suelo; geomorfología; calidad de 
+aguas; hidrogeología; paisaje; 
+medio humano; fauna terrestre. 
+FGI-O-06 
+Compactación 
+y 
+conformación 
+de 
+residuos 
+Uso 
+de 
+maquinaria 
+pesada 
+para 
+distribuir, compactar y conformar capas 
+sucesivas de residuos dentro de la celda 
+de disposición final. 
+Calidad del aire; ruido; olores; 
+geomorfología; suelo; paisaje; 
+medio humano. 
+FGI-O-07 
+Aplicación 
+de 
+cobertura diaria e 
+intermedia 
+Aplicación de material de cobertura 
+sobre los residuos dispuestos, con el 
+objeto de controlar olores, dispersión 
+de 
+residuos 
+livianos, 
+vectores 
+y 
+exposición de la masa de residuos. 
+Calidad del aire; olores; suelo; 
+geomorfología; paisaje; fauna 
+terrestre; medio humano. 
+FGI-O-08 
+Manejo 
+y 
+reutilización 
+de 
+material 
+de 
+cobertura 
+Extracción, transporte interno, acopio y 
+uso de material disponible dentro del 
+predio 
+para 
+cobertura 
+diaria, 
+intermedia 
+u 
+otras 
+necesidades 
+operacionales. 
+Calidad del aire; ruido; suelo; 
+geomorfología; 
+calidad 
+de 
+aguas; paisaje. 
+FGI-O-09 
+Manejo, 
+almacenamiento y 
+tratamiento 
+de 
+lixiviados 
+Captación, 
+conducción, 
+almacenamiento, tratamiento y control 
+de lixiviados generados en la zona de 
+disposición 
+final 
+y 
+otras 
+áreas 
+operacionales. 
+Calidad de aguas; hidrogeología; 
+suelo; olores; calidad del aire; 
+áreas de riesgo; medio humano.
+
+===== p.19 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+19 
+ 
+ 
+CÓDIGO FGI 
+FACTOR 
+GENERADOR DE 
+IMPACTO (FGI) 
+DESCRIPCIÓN 
+COMPONENTES AMBIENTALES 
+POTENCIALMENTE 
+RELACIONADOS 
+FGI-O-10 
+Operación 
+de 
+piscinas y bandejas 
+de evaporación de 
+lixiviados 
+Funcionamiento 
+de 
+unidades 
+de 
+regulación, 
+almacenamiento 
+y 
+evaporación asociadas al sistema de 
+manejo de lixiviados del Proyecto. 
+Calidad de aguas; hidrogeología; 
+suelo; olores; calidad del aire; 
+paisaje; medio humano. 
+FGI-O-11 
+Operación 
+del 
+sistema 
+de 
+captación y quema 
+de biogás 
+Captación, 
+conducción 
+y 
+quema 
+controlada del biogás generado por la 
+degradación de residuos en la zona de 
+disposición final. 
+Calidad del aire; olores; ruido; 
+medio humano; paisaje. 
+FGI-O-12 
+Funcionamiento de 
+la losa de lavado de 
+camiones 
+Lavado de ruedas, carrocerías o bajos 
+de camiones, manejo de aguas de 
+lavado y conducción hacia sistemas de 
+tratamiento o reutilización. 
+Calidad de aguas; suelo; ruido; 
+calidad del aire; medio humano. 
+FGI-O-13 
+Manejo de aguas 
+lluvias 
+y 
+escorrentías 
+operacionales 
+Operación y mantención de obras de 
+drenaje, conducción y control de aguas 
+lluvias, diferenciando aguas limpias de 
+aguas de contacto. 
+Hidrología; calidad de aguas; 
+suelo; geomorfología; áreas de 
+riesgo. 
+FGI-O-14 
+Control de olores, 
+aves y vectores 
+Implementación de acciones de control 
+operacional orientadas a reducir olores, 
+presencia de aves, roedores, insectos u 
+otros vectores asociados al manejo de 
+residuos. 
+Olores; fauna terrestre; medio 
+humano; 
+calidad 
+del 
+aire; 
+paisaje. 
+FGI-O-15 
+Mantención 
+de 
+caminos, equipos, 
+maquinaria 
+e 
+instalaciones 
+Actividades de mantención preventiva y 
+correctiva 
+de 
+caminos 
+internos, 
+maquinaria, 
+camiones, 
+equipos, 
+galpones, sistemas de tratamiento e 
+infraestructura operacional. 
+Calidad del aire; ruido; suelo; 
+calidad 
+de 
+aguas; 
+medio 
+humano; áreas de riesgo. 
+FGI-O-16 
+Limpieza 
+y 
+mantención 
+general del Centro 
+Limpieza de áreas operacionales, retiro 
+de residuos dispersos, mantención de 
+orden interno, control de arrastre de 
+material 
+y 
+conservación 
+de 
+instalaciones. 
+Calidad del aire; olores; suelo; 
+calidad de aguas; paisaje; medio 
+humano. 
+FGI-O-17 
+Manejo de residuos 
+generados durante 
+la operación 
+Generación, 
+segregación, 
+almacenamiento temporal, transporte 
+y retiro de residuos domiciliarios, 
+residuos no peligrosos y residuos 
+peligrosos derivados de la operación y 
+mantención. 
+Suelo; calidad de aguas; olores; 
+calidad del aire; medio humano; 
+paisaje. 
+FGI-O-18 
+Abastecimiento 
+y 
+uso 
+de 
+insumos 
+operacionales 
+Uso 
+de 
+combustibles, 
+aceites, 
+lubricantes, energía, agua potable, 
+sustancias e insumos requeridos para la 
+operación de equipos, maquinaria, 
+plantas e instalaciones. 
+Suelo; calidad de aguas; calidad 
+del aire; ruido; áreas de riesgo; 
+medio humano. 
+Fuente: Capítulo 4 Predicción y evaluación de impactos
+
+===== p.20 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+20 
+ 
+ 
+2.5.3. FASE DE CIERRE 
+Durante la fase de cierre se ejecutarán las actividades destinadas a finalizar la operación del área de 
+disposición final y asegurar su estabilidad física, sanitaria y ambiental. Esta fase considera, entre otras 
+acciones, el cierre y sellado del relleno sanitario, inspección y mantención de la cobertura final, manejo 
+de aguas de escorrentía, control del sistema de lixiviados, mantención y control del sistema de biogás, 
+restauración morfológica de las áreas intervenidas, desmantelamiento de infraestructura no requerida y 
+seguimiento ambiental posterior. A continuación, se presentan los FGI identificados para esta fase. 
+Tabla 4: Identificación de Factores Generadores de Impacto, fase de cierre. 
+CÓDIGO 
+FGI 
+FACTOR GENERADOR 
+DE IMPACTO (FGI) 
+DESCRIPCIÓN 
+COMPONENTES 
+AMBIENTALES 
+POTENCIALMENTE 
+RELACIONADOS 
+FGI-CI-01 
+Tránsito de camiones, 
+vehículos y maquinaria 
+durante el cierre 
+Circulación de maquinaria, camiones y 
+vehículos requeridos para ejecutar 
+obras 
+de 
+cierre, 
+transporte 
+de 
+materiales, retiro de infraestructura y 
+mantenciones finales. 
+Calidad del aire; ruido; suelo; 
+impacto vial; medio humano; 
+fauna terrestre. 
+FGI-CI-02 
+Desmantelamiento 
+de 
+infraestructura 
+no 
+requerida 
+Retiro de instalaciones, equipos, 
+estructuras 
+o 
+elementos 
+operacionales que no sean necesarios 
+para la etapa de cierre y seguimiento 
+posterior. 
+Calidad del aire; ruido; suelo; 
+calidad de aguas; paisaje; 
+medio 
+humano; 
+áreas 
+de 
+riesgo. 
+FGI-CI-03 
+Sellado y cobertura final 
+del relleno sanitario 
+Ejecución de la cobertura final sobre 
+la superficie del relleno, incluyendo 
+adecuación de espesores, pendientes 
+y condiciones necesarias para el cierre 
+sanitario del área de disposición final. 
+Suelo; 
+geomorfología; 
+hidrogeología; 
+calidad 
+de 
+aguas; calidad del aire; olores; 
+paisaje. 
+FGI-CI-04 
+Restauración 
+morfológica 
+y 
+estabilización 
+de 
+superficies intervenidas 
+Perfilamiento, 
+regularización 
+y 
+estabilización de superficies, taludes y 
+áreas intervenidas, con el objeto de 
+favorecer la estabilidad física y la 
+integración del área al entorno. 
+Geomorfología; suelo; áreas de 
+riesgo; 
+hidrología; 
+paisaje; 
+calidad del aire; ruido. 
+FGI-CI-05 
+Mantención 
+de 
+la 
+cobertura de cierre 
+Inspección 
+visual, 
+mantención 
+y 
+reparación de la cobertura final del 
+relleno 
+sanitario, 
+considerando 
+eventuales asentamientos, erosión o 
+deterioro superficial. 
+Suelo; geomorfología; calidad 
+de 
+aguas; 
+hidrogeología; 
+paisaje. 
+FGI-CI-06 
+Manejo de aguas lluvias 
+y 
+escorrentías 
+superficiales 
+Mantención 
+y 
+operación 
+de 
+canalizaciones, obras de conducción y 
+sistemas de control de escorrentía 
+superficial durante el cierre y post 
+cierre. 
+Hidrología; calidad de aguas; 
+suelo; geomorfología; áreas de 
+riesgo. 
+FGI-CI-07 
+Manejo y control de 
+lixiviados en cierre y 
+post cierre 
+Operación, mantención y control del 
+sistema de captación, conducción, 
+almacenamiento, 
+tratamiento 
+o 
+Calidad 
+de 
+aguas; 
+hidrogeología; suelo; olores;
+
+===== p.21 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+21 
+ 
+ 
+CÓDIGO 
+FGI 
+FACTOR GENERADOR 
+DE IMPACTO (FGI) 
+DESCRIPCIÓN 
+COMPONENTES 
+AMBIENTALES 
+POTENCIALMENTE 
+RELACIONADOS 
+manejo de lixiviados remanentes 
+generados por la masa de residuos. 
+calidad 
+del 
+aire; 
+medio 
+humano. 
+FGI-CI-08 
+Mantención y control 
+del sistema de biogás 
+Mantención de drenes, chimeneas, 
+redes, 
+equipos 
+y 
+sistema 
+de 
+tratamiento o quema de biogás 
+durante el cierre y seguimiento 
+posterior. 
+Calidad del aire; olores; ruido; 
+medio humano; paisaje. 
+FGI-CI-09 
+Monitoreo 
+de 
+aguas 
+superficiales  
+Ejecución 
+de 
+controles 
+y 
+verificaciones de calidad de aguas 
+superficiales durante la fase de cierre 
+y post cierre, asociados al seguimiento 
+del comportamiento ambiental del 
+sitio y al control de eventuales efectos 
+sobre escorrentías o cursos de agua 
+receptores 
+Calidad de aguas; hidrología; 
+suelo; medio humano. 
+FGI-CI-10 
+Monitoreo 
+de 
+aguas 
+subterráneas 
+Ejecución 
+de 
+controles 
+y 
+verificaciones mediante pozos de 
+monitoreo durante la fase de cierre y 
+post cierre, orientados a evaluar el 
+comportamiento 
+de 
+las 
+aguas 
+subterráneas frente a la operación 
+histórica del relleno sanitario y al 
+manejo de lixiviados. 
+Hidrogeología; 
+calidad 
+de 
+aguas; suelo; medio humano. 
+FGI-CI-11 
+Revegetación 
+o 
+recuperación superficial 
+Implementación 
+de 
+cobertura 
+vegetal, empastado o recuperación 
+superficial de áreas intervenidas, 
+cuando corresponda, como parte de 
+la integración ambiental del sitio. 
+Suelo; flora y vegetación; 
+fauna 
+terrestre; 
+paisaje; 
+calidad del aire. 
+FGI-CI-12 
+Manejo 
+de 
+residuos 
+generados durante el 
+cierre 
+Segregación, 
+almacenamiento 
+temporal, transporte y disposición 
+autorizada de residuos generados por 
+actividades de cierre, mantención o 
+desmantelamiento. 
+Suelo; 
+calidad 
+de 
+aguas; 
+calidad 
+del 
+aire; 
+olores; 
+paisaje; medio humano. 
+FGI-CI-13 
+Seguimiento ambiental 
+posterior al cierre 
+Considera actividades generales de 
+inspección, control y mantención 
+posterior 
+al 
+cierre 
+definitivo, 
+incluyendo verificación de cobertura 
+final, estabilidad superficial, sistemas 
+de aguas lluvias, lixiviados, biogás y 
+demás obras de control ambiental. 
+Calidad 
+de 
+aguas; 
+hidrogeología; 
+hidrología; 
+calidad del aire; olores; suelo; 
+geomorfología; 
+áreas 
+de 
+riesgo; 
+medio 
+humano; 
+paisaje. 
+Fuente: Capítulo 4 Predicción y evaluación de impactos
+
+===== p.22 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+22 
+ 
+ 
+2.6. 
+SÍNTESIS DE LA IDENTIFICACIÓN DE ÁREAS DE ESTUDIO, ÁREAS DE INFLUENCIA Y 
+POTENCIAL SIGNIFICANCIA DE IMPACTOS 
+En este apartado se presenta una síntesis de la identificación y características de las Áreas de Estudio (AE) 
+establecidas para la caracterización de atributos de contexto físico y territorial del proyecto en la Tabla 5. 
+A través de la Tabla 6 se entrega una visión global y expedita de las Áreas de Influencia (AI) determinadas 
+para aquellos componentes que constituyen Objetos de Protección (OP) receptores de impactos. 
+Asimismo, se identifica de forma preliminar si el componente presenta la aptitud de recibir un impacto 
+potencialmente significativo asociado a las causales del Artículo 11 de la Ley N° 19.300. 
+2.6.1. TABLA RESUMEN CARACTERIZACIÓN DE LAS ÁREAS DE ESTUDIO (AE) 
+Tabla 5: Resumen caracterización de las Áreas de Estudio (AE). 
+Componente 
+ambiental 
+Área de Estudio 
+Características  
+Clima 
+y 
+Meteorología 
+Cuenca 
+atmosférica, 
+dominio 
+WRF/CALPUFF 
+84x84 km. 
+Comprende la cuenca atmosférica regional (Viña del Mar, Quilpué, 
+Concón). Presenta un clima con variabilidad estacional marcada, 
+predominancia de vientos del sector sur a sursuroeste y régimen de 
+precipitaciones invernales. Define las condiciones de contorno para la 
+dispersión de contaminantes y modula escenarios de riesgo climático. 
+El análisis bajo el escenario extremo RCP 8.5 (ARClim 2035–2065) 
+proyecta un incremento térmico de +1,4 °C y una reducción de 
+precipitaciones del 18,47%, regulando la sensibilidad de los 
+componentes físicos y bióticos. 
+Geología 
+Área 
+de 
+proyecto, 
+continuidad 
+litológica 
+y 
+microcuencas 
+que interactúan 
+el 
+área 
+de 
+proyecto. 
+Dominada litológicamente por un cuerpo intrusivo de composición 
+tonalitas (unidad Jlt, tonalitas de anfíbol-biotita) que abarca la mayor 
+parte de la superficie, el cual intruye a la Formación Ajial (hornfels de 
+metamorfismo de contacto) hacia el sur del área. Actúa como 
+descriptor del subsuelo. 
+Geomorfología 
+y 
+riesgos 
+naturales 
+Área 
+de 
+proyecto, 
+continuidad 
+litológica 
+y 
+microcuencas 
+que interactúan 
+el 
+área 
+de 
+proyecto. 
+Insertada en la Cordillera de la Costa, se caracteriza por un relieve 
+ondulado de cerros y quebradas intermitentes que drenan hacia el estero 
+Marga-Marga. Existen procesos erosivos (cárcavas) y laderas con 
+pendientes escarpadas (>40°) susceptibles a caídas de rocas. Proporciona 
+la base para el Plan de Prevención de Contingencias y Emergencias para 
+gestionar riesgos locales como el control de escorrentías extremas y 
+eventuales caídas de rocas menores. 
+Usos 
+del 
+territorio 
+El 
+área 
+de 
+estudio alcanza 
+Abarca los lineamientos normados por el PRC de Viña del Mar y el 
+PREMVAL, sobre una matriz de matorral, praderas y bosque, con suelos
+
+===== p.23 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+23 
+ 
+ 
+Componente 
+ambiental 
+Área de Estudio 
+Características  
+las 
+1984,5 
+hectáreas.  
+clase VII y VIII, no aptos para la actividad agrícola. Actúa como descriptor 
+de contexto que valida la compatibilidad del uso del suelo 
+(sanitario/industrial), confirmando que las obras no restringen la 
+conectividad, actividades económicas ni usos tradicionales preexistentes 
+en el entorno. 
+Proyectos 
+con 
+RCA 
+Buffer 1,5 km 
+en obras y 1 km 
+en ruta; 15,46 
+km² 
+Considera la envolvente espacial de instalaciones y el camino de acceso. 
+El catastro identificó solo el "Proyecto de Depuración y Neutralización de 
+Residuos Industriales Líquidos" (RCA N° 231/2000). Al verificarse que está 
+inactivo, se descarta el riesgo de sinergias o efectos ambientales 
+acumulativos en el área. 
+Fuente: Elaboración propia a partir de la información del Capítulo 3: Línea base del proyecto, Capítulo 
+4: Predicción y evaluación de impactos y Capítulo 5: Análisis del artículo 11.  
+2.6.2. TABLA RESUMEN DETERMINACIÓN Y JUSTIFICACIÓN DEL AI E IMPACTOS SIGNIFICATIVOS.  
+Tabla 6: Resumen para la determinación y justificación del Área de Influencia e impactos significativos 
+Componente 
+ambiental 
+Área de Influencia 
+¿Puede ser receptor de impactos potencialmente 
+significativos? 
+Sí/No 
+Justificación 
+Calidad 
+del 
+Aire 
+MP y Gases: 4.389 ha. 
+ 
+MPS: 1.711 ha. 
+No 
+Delimitada mediante modelación de dispersión 
+WRF-CALPUFF (envolvente superpuesta bajo el 
+escenario más desfavorable). Considera las 
+fuentes emisoras y 26 receptores discretos 
+(población y vegetación). No se superan las 
+normas primarias (MP10, MP2,5, NO₂, SO₂, CO) ni 
+secundarias (MPS bajo el límite referencial suizo). 
+La delimitación considera fuentes emisoras del 
+Proyecto, dispersión modelada de contaminantes 
+y receptores sensibles asociados a salud de la 
+población, vegetación y recursos naturales 
+renovables. 
+Olores 
+Máxima 
+concentración 
+interna: 12,4 ha. 
+ 
+Envolvente 
+de 
+propagación: 1.946 ha. 
+No 
+Determinada mediante modelación matemática 
+por fuentes de emisión (disposición, lixiviados, 
+compostaje, biogás). La envolvente modelada (1 
+uoE/m³, percentil 98) no intercepta a ninguno de 
+los 21 receptores humanos sensibles evaluados 
+en el entorno. Se descarta significancia y el 
+modelo LandGEM valida el control con la quema 
+de biogás.
+
+===== p.24 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+24 
+ 
+ 
+Componente 
+ambiental 
+Área de Influencia 
+¿Puede ser receptor de impactos potencialmente 
+significativos? 
+Sí/No 
+Justificación 
+Ruidos 
+y 
+Vibraciones 
+Medio Humano: Radio de 
+1.600 m (base 32 dBA). 
+ 
+Fauna: Radio de 650 m 
+(base 42 dBA). 
+No 
+Definida por la propagación acústica (escenario 
+conservador de 112 dBA Lw) y vibratoria desde las 
+fuentes hacia los objetos de protección. Las 
+modelaciones demuestran cumplimiento íntegro 
+del D.S. 38/2011 y niveles bajo los umbrales de 
+afectación conductual o fisiológica de la fauna 
+nativa (ej. el anfibio P. thaul queda fuera del radio 
+de impacto). 
+Edafología 
+suelo 
+130,9 
+ha 
+(área 
+de 
+intervención 
+directa 
++ 
+buffer perimetral de 50 
+m). 
+No 
+Delimitada considerando los FGI asociados a 
+excavaciones, tránsito de maquinaria, remoción de 
+vegetación, escarpe y movimientos de tierra, 
+incorporando un buffer de 50 m desde el borde de 
+las obras por la presencia de pendientes superiores 
+al 45% y alto riesgo de erosión. El Área de Influencia 
+alcanza 130,9 ha, se desarrolla sobre suelos de la 
+Serie Lo Vásquez y presenta predominio de suelos 
+Clase VIe2, seguidos por Clase VIII y VIIe2. No se 
+prevé un efecto significativo sobre el componente, 
+dado que el impacto es controlable mediante 
+rescate y reutilización del horizonte superficial, 
+manejo 
+de 
+escorrentías, 
+estabilización 
+de 
+superficies y cobertura final. 
+Hidrología 
+Microcuencas asociadas 
+a las quebradas que 
+interactúan con el 
+Proyecto 
+No 
+Determinada por el alcance de las obras de 
+intercepción, contención y manejo de escorrentías. 
+El diseño con 33 obras de atravieso y canales 
+perimetrales garantiza la continuidad hidrológica de 
+las 
+aguas 
+limpias, 
+evitando 
+alteraciones 
+significativas al régimen pluvial que aporta al estero 
+Marga-Marga. 
+Hidrogeología 
+A partir de la superficie de 
+obras 
+del 
+proyecto, 
+alcanzando las 78,14 ha. 
+No 
+Definida por la huella de la superficie de las obras. 
+El proyecto no extrae aguas subterráneas y altera de 
+manera localizada a la infiltración producto de las 
+obras de impermeabilización y compactación del 
+Proyecto. 
+Flora 
+y 
+vegetación 
+Definida por la superficie 
+de las obras, el efecto 
+borde asociado y la pluma 
+de dispersión de material 
+particulado sedimentable 
+Si 
+Se determina a partir de la unión de los polígonos 
+de afectación directa por pérdida de cobertura de 
+obras (82,22 ha), la afectación indirecta por efecto 
+borde (6,19 ha) y el área de deposición de material 
+particulado sedimentable (MPS) definida por la
+
+===== p.25 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+25 
+ 
+ 
+Componente 
+ambiental 
+Área de Influencia 
+¿Puede ser receptor de impactos potencialmente 
+significativos? 
+Sí/No 
+Justificación 
+isolínea 
+de 
+2 
+mg/m²/día, 
+alcanzando 
+una 
+envolvente máxima de 1710,71 hectáreas. Por otra 
+parte, las obras demandan la corta directa de 9,20 
+ha de Bosque Nativo esclerófilo y 41,05 ha de 
+formaciones xerofíticas (Ley N° 20.283). Se 
+identificaron 173 individuos en categorías de 
+amenaza, destacando Chloraea disoides (En Peligro 
+Crítico), 
+Alstroemeria 
+marticorenae, 
+Jubaea 
+chilensis y Drimys winteri (En Peligro). 
+Flora 
+no 
+vascular 
+ 1.710,71 ha definida por 
+la dispersión de Material 
+Particulado 
+sedimentable. 
+No 
+El Área de Influencia (AI) de flora no vascular abarca 
+1.710,71 ha en el bosque esclerófilo costero de Viña 
+del Mar. Esta delimitación se justifica por la alta 
+dependencia de hongos, líquenes y briófitas a 
+microhábitats específicos (suelo, rocas, cortezas). El 
+AI integra 82,22 ha de afectación directa por 
+pérdida de cobertura y sustratos asociada a las 
+obras, sumado a la afectación indirecta por 
+deposición de Material Particulado Sedimentable 
+(MPS), delimitada por la isolínea de 2 mg/m²/día 
+que altera las condiciones microambientales vitales 
+para el componente. 
+Fauna 
+vertebrados 
+terrestres 
+711,277 hectáreas (Radio 
+de 650 m 42 dBA.) 
+No 
+El Área de Influencia (AI) de fauna terrestre 
+corresponde a la envolvente espacial que integra los 
+impactos sobre las especies y su hábitat en el 
+bosque esclerófilo costero. Su delimitación une la 
+afectación directa (pérdida y modificación de 
+hábitat por instalación de obras y despeje) con la 
+afectación indirecta por ruido. Este último criterio 
+abarca un radio de 650 metros delimitado por la 
+isolínea de 42 dBA, un escenario acústico 
+conservador basado en el ruido de fondo natural 
+que permite evaluar la perturbación conductual y el 
+desplazamiento de la fauna silvestre. 
+Entomofauna 
+Emplazamiento de obras, 
+accesos área de 
+influencia (78,14 
+hectáreas)  
+No 
+Delimitada por áreas de intervención directa y 
+zonas de modificación microambiental indirecta 
+(humedad, 
+temperatura, 
+conectividad) 
+sobre 
+microhábitats de artrópodos. Impacto moderado 
+gracias a ciclos biológicos cortos, altas tasas de 
+recolonización y el mantenimiento de amplia 
+conectividad en áreas remanentes.
+
+===== p.26 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+26 
+ 
+ 
+Componente 
+ambiental 
+Área de Influencia 
+¿Puede ser receptor de impactos potencialmente 
+significativos? 
+Sí/No 
+Justificación 
+Medio humano 
+Manzanas y entidades 
+censales a menos de 
+2.000 m (Sectores: El 
+Salto Urbano/Rural, Las 
+Lomas y El Calichero). 
+No 
+Definida a partir de la envolvente técnica de 
+dispersión (emisiones, ruido, olor) y la proximidad 
+territorial de los asentamientos. Genera percepción 
+de vecindad y molestias transitorias controlables, 
+pero no altera significativamente los sistemas de 
+vida y costumbres (Art. 7) ni restringe actividades de 
+sustento (crianza caprina, recolección). 
+Paisaje 
+y 
+turismo 
+Envolvente de la cuenca 
+visual teórica restringida 
+a la Zona de Visibilidad 
+Media (radio de 3,5 km), 
+validada 
+mediante 
+análisis de intervisibilidad 
+bidireccional 
+con 
+6 
+Puntos de Observación 
+(PO) sensibles. 
+No 
+Para paisaje, el Área de Influencia corresponde al 
+entorno visual determinado mediante análisis de 
+intervisibilidad, dentro del radio de 3,5 km y seis 
+puntos de observación sensibles. Para turismo, el 
+análisis se aborda funcionalmente, verificando la 
+ausencia de ZOIT, atractivos turísticos registrados 
+por SERNATUR, flujos o actividades turísticos 
+relevantes 
+susceptibles 
+de 
+afectación. 
+En 
+consecuencia, 
+se 
+identifica 
+una 
+interacción 
+paisajística localizada y no significativa, mientras 
+que turismo se mantiene sin impacto valorizable. 
+Patrimonio 
+arqueológico 
+81,01 ha. 
+Polígono que circunscribe 
+la totalidad de las partes, 
+obras 
+y 
+acciones 
+temporales 
+y 
+permanentes 
+del 
+Proyecto. 
+No 
+Delimitada 
+por 
+el 
+espacio 
+geográfico 
+de 
+intervención directa y movimientos de tierra (FGI). 
+Justificada mediante revisión bibliográfica (radio de 
+10 km) y validada por una prospección pedestre 
+intensiva con transectas equidistantes a 20 m 
+(febrero 2025). La caracterización in situ constató la 
+ausencia total de sitios arqueológicos o hallazgos 
+aislados dentro del polígono, descartando efectos 
+del Art. 11. El riesgo subsuperficial fortuito se 
+aborda preventivamente mediante monitoreo 
+arqueológico estándar. 
+Patrimonio 
+paleontológico 
+Zonas de emplazamiento 
+de obras con excavación 
+profunda + buffer técnico 
+perimetral de 10 m. 
+No 
+Delimitada por áreas de intervención subsuperficial 
+y el potencial fosilífero de las unidades geológicas. 
+El polígono está dominado por rocas intrusivas 
+estériles, quedando la Formación Ajial (susceptible) 
+fuera 
+del 
+AI. 
+Impacto 
+calificado 
+como 
+moderado/preventivo, controlado por monitoreo 
+sectorial. 
+Áreas 
+protegidas 
+y 
+sitios 
+Intersección entre el área 
+de dispersión de material 
+particulado sedimentable 
+No 
+El Área de Influencia se determinó a partir de la 
+superposición entre la superficie de intervención 
+del Proyecto, el área de dispersión de material
+
+===== p.27 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+27 
+ 
+ 
+Componente 
+ambiental 
+Área de Influencia 
+¿Puede ser receptor de impactos potencialmente 
+significativos? 
+Sí/No 
+Justificación 
+prioritarios 
+para 
+la 
+conservación 
+del Proyecto y el Humedal 
+Urbano Estero Quilpué, 
+correspondiente a 5,541 
+ha 
+ 
+particulado sedimentable 
+y los objetos de 
+protección identificados en la Región de Valparaíso. 
+De dicho análisis se verificó que el único objeto de 
+protección alcanzado corresponde al Humedal 
+Urbano Estero Quilpué, sobre el cual la dispersión 
+de MPS incide en una superficie de 5,541 ha. El 
+humedal no es intervenido directamente por 
+partes, obras o acciones del Proyecto, no presenta 
+conectividad de drenaje con este y el Proyecto no 
+contempla descargas de efluentes líquidos hacia 
+cursos superficiales ni subterráneos. Ninguna otra 
+área protegida, área colocada bajo protección 
+oficial o sitio prioritario reconocido para efectos del 
+SEIA es alcanzado por la superficie de intervención 
+o por el área de dispersión del Proyecto. En 
+consecuencia, 
+no 
+se 
+identifican 
+impactos 
+potencialmente 
+significativos 
+sobre 
+este 
+componente. 
+Fuente: Elaboración propia a partir de la información del Capítulo 3: Línea base del proyecto, Capítulo 
+4: Predicción y evaluación de impactos y Capítulo 5: Análisis del artículo 11.  
+2.7. 
+ÁREA DE ESTUDIO PARA CADA COMPONENTE DEL MEDIO AMBIENTE  
+A continuación, se detallan las Áreas de Estudio definidas para aquellos componentes que el RSEIA exige 
+caracterizar para comprender el contexto ambiental del Proyecto CMGIR, pero que no constituyen en sí 
+mismos objetos de protección receptores de impactos. 
+2.7.1. CLIMA Y METEOROLOGÍA 
+Para la caracterización del componente Clima y Meteorología se define un área de estudio que comprende 
+la zona geográfica homogénea donde se emplazan las partes, obras y acciones del Proyecto, 
+correspondiente a las comunas de Viña del Mar, donde se localiza políticamente el Proyecto, y comunas 
+colindantes de Quilpué y Valparaíso. Esta delimitación territorial permite establecer el comportamiento 
+de las variables atmosféricas basales que interactúan con las obras del Proyecto. 
+De acuerdo con la Guía para la Descripción del Área de Influencia (SEA, 2026), el componente Clima y 
+Meteorología no es receptor de impactos directos del Proyecto, sino un atributo del medio físico que 
+condiciona el entorno. La adopción de las comunas de Viña del Mar y Quilpué y Valparaíso como unidad 
+territorial del área de estudio se fundamenta en que dichas comunas constituyen la escala espacial
+
+===== p.28 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+28 
+ 
+ 
+homogénea para la cual se dispone de información meteorológica y de proyecciones de cambio climático 
+representativas del área de emplazamiento. 
+ 
+Figura 5: Área de Estudio para el componente Climático y Meteorológico. 
+Fuente: Informe Línea de Base en Clima y Meteorología.  
+2.7.2. GEOLOGÍA 
+El Área de Estudio se acota mediante criterios de continuidad litológica e hidrográfica, comprendiendo la 
+superficie del proyecto y las microcuencas que interactúan con el área de instalaciones y el camino de 
+acceso proyectado. De este modo, se caracteriza el entorno directo del Proyecto. Asimismo, con el 
+propósito de contextualizar adecuadamente el área de estudio, se incorporan antecedentes de carácter 
+local y regional. 
+La geología del Área de Estudio está dominada litológicamente por un cuerpo intrusivo de composición 
+tonalítica (unidad Jlt, tonalitas de anfíbol-biotita) que abarca la mayor parte de la superficie, el cual intruye 
+a la Formación Ajial (hornfels de metamorfismo de contacto) hacia el sur del área. Ambas litologías
+
+===== p.29 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+29 
+ 
+ 
+presentan meteorización superficial, de mayor intensidad en la unidad tonalítica, donde se desarrolla un 
+suelo residual en superficie sobre roca fresca en profundidad. 
+ 
+Figura 6: Área de Estudio para el componente Geológico del Proyecto. 
+Fuente: Línea de Base Geológica.  
+2.7.3. GEOMORFOLOGÍA Y RIESGOS NATURALES  
+Esta área se delimita mediante criterios hidrográficos y de continuidad litológica, comprendiendo la 
+superficie del proyecto y las microcuencas que interactúan con el área de instalaciones y el camino de 
+acceso proyectado. 
+El área de estudio se encuentra en la macro unidad de la Cordillera de la Costa. El sector se caracteriza 
+por un relieve de colinas costeras y laderas con pendientes moderadas a escarpadas, donde existen zonas 
+con dinámicas erosivas locales y de evacuación de sedimentos en las quebradas intermitentes.
+
+===== p.30 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+30 
+ 
+ 
+La descripción geomorfológica se utiliza para comprender la dinámica del terreno y no se predicen 
+impactos directos sobre la geomorfología como objeto de protección con Área de influencia propia. A su 
+vez, el análisis de riesgos naturales resulta relevante el diseño del Plan de Prevención de Contingencias y 
+Emergencias frente a escenarios de riesgo naturales en el área del proyecto. 
+ 
+Figura 7: Área de Estudio para el componente Geomorfológico y de Riesgo Natural del Proyecto. 
+Fuente: Línea de Base Geomorfológica y Riesgos Naturales. 
+2.7.4. USO DEL TERRITORIO 
+El área de estudio comprende la superficie del Proyecto, el trazado del camino de acceso y el entorno 
+necesario para reconocer los usos de suelo, las actividades económicas y productivas y las construcciones 
+relevantes cercanas al área de proyecto.  El área de estudio alcanza las 1984,5 hectáreas 
+aproximadamente. 
+El Área de Estudio abarca los Instrumentos de Planificación Territorial (IPT) que aplican al polígono del 
+Proyecto y a los predios contiguos, involucrando la zona definida por el Plan Regulador Comunal (PRC) de 
+Viña del Mar y el Plan Regulador Metropolitano de Valparaíso (PREMVAL). En el área del Proyecto, de 
+acuerdo con el catastro de Uso de Suelo y Vegetación para la región de Valparaíso (CONAF, 2019), el uso 
+de suelo actual se encuentra dominado por superficies de carácter natural o sin uso productivo, asociadas 
+a praderas o matorral y bosque esclerófilo, quebradas y laderas con cobertura vegetacional variable. La
+
+===== p.31 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+31 
+ 
+ 
+capacidad de uso de suelo corresponde a suelos no arables (clases VI y superiores), con predominio de la 
+clase VIe2, condicionados principalmente por la pendiente y el riesgo de erosión.  
+Este antecedente funciona como descriptor de contexto para validar la compatibilidad de las instalaciones 
+proyectadas con los usos de suelo permitidos (equipamiento sanitario/industrial). Además, permite 
+comprender las dinámicas de ocupación humana y productiva de las zonas aledañas, corroborando que 
+el Proyecto consolida su carácter sanitario-operacional sin generar restricciones en la conectividad, 
+actividades económicas ni usos tradicionales preexistentes en el entorno, permitiendo evaluar las 
+potenciales interacciones del Proyecto con los usos actuales y planificados del territorio, las cuales son 
+abordadas en el Capítulo 4 como impactos no significativos. 
+ 
+Figura 8: Área de Estudio para el Uso del Territorio del Proyecto. 
+Fuente: Informe Línea de Base Uso del Territorio.
+
+===== p.32 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+32 
+ 
+ 
+2.7.5. PROYECTOS CON RCA VIGENTE 
+El Área de Estudio fue delimitada como la envolvente espacial que abarca el área de instalaciones del 
+Proyecto con un buffer de 1,5 km, junto a un buffer de 1 km en torno al camino de acceso, totalizando 
+una superficie de 15,46 km², identificándose un único proyecto en la zona de influencia: el "Proyecto de 
+Depuración y Neutralización de Residuos Industriales Líquidos" (RCA N° 231/2000) el cual tras su 
+inspección técnica ha sido declarado como inactivo. El levantamiento de este componente es esencial 
+para diagnosticar la existencia de otras actividades productivas o sanitarias reguladas en el entorno. Se 
+descarta la ocurrencia de impactos sinérgicos o efectos ambientales acumulativos. En consecuencia, el 
+CMGIR operará de forma independiente sin sobrecargar la capacidad de carga ambiental del territorio, 
+facilitando el diseño exclusivo de sus propias medidas de manejo y seguimiento. 
+ 
+Figura 9: Área de Estudio para Proyectos con RCA cercanos al Proyecto. 
+Fuente: Línea de Base Proyectos con RCA.
+
+===== p.33 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+33 
+ 
+ 
+2.8. 
+ÁREA DE INFLUENCIA PARA CADA ELEMENTO DEL MEDIO AMBIENTE SUSCEPTIBLE DE 
+SER AFECTADO  
+A continuación, se presenta el detalle de las Áreas de Influencias (AI) definidas para cada componente 
+ambiental susceptible de ser afectado por el Proyecto. Asimismo, en el Anexo 2.1 se incluyen las Áreas de 
+Influencia georreferenciadas en formato KMZ, para su visualización y revisión espacial.  
+2.8.1. CALIDAD DEL AIRE 
+Tomando en consideración lo dispuesto en los artículos 5 y 6 del RSEIA, así como los criterios establecidos 
+en la “Guía Calidad del Aire en el Área de Influencia de Proyectos que ingresan al SEIA” (SEA, 2015), la 
+definición del Área de Influencia para el componente calidad del aire se orienta a evaluar tanto el riesgo 
+para la salud de la población como la eventual afectación de los recursos naturales renovables asociada a 
+las emisiones atmosféricas del Proyecto. 
+El Proyecto se ubica en la comuna de Viña del Mar, Provincia y Región de Valparaíso, territorio que no se 
+encuentra declarado zona saturada ni latente para los contaminantes atmosféricos regulados, ni cuenta 
+con un Plan de Prevención y/o Descontaminación Atmosférica vigente aplicable a dichos contaminantes. 
+En las Figuras 10 y 11 se presentan las Áreas de Influencia asociadas al componente calidad del aire del 
+Proyecto. Su delimitación consideró, en primer término, la ubicación de las fuentes emisoras asociadas a 
+las partes, obras y acciones del Proyecto durante sus fases de construcción, operación y cierre, y, en 
+segundo término, la dispersión atmosférica de los contaminantes modelados bajo el escenario más 
+desfavorable. 
+La modelación de dispersión constituye el insumo técnico que permite identificar el espacio donde las 
+emisiones del Proyecto podrían modificar la calidad del aire respecto de la condición basal. Para estos 
+efectos, se consideró la superposición de las plumas de dispersión de material particulado y gases, 
+utilizando como límite exterior la envolvente resultante de los contaminantes modelados. De esta forma, 
+el Área de Influencia asociada a material particulado y gases comprende una superficie de 4.389 ha, 
+mientras que el Área de Influencia asociada a material particulado sedimentable corresponde a 1.711 ha. 
+Asimismo, se identificaron los receptores sensibles ubicados dentro o próximos a dichas envolventes, 
+considerando aquellos en los cuales existe un objeto de protección asociado a una norma primaria o 
+secundaria vigente en Chile, o bien a una norma de referencia aplicable. Lo anterior permite evaluar si, 
+producto del aporte del Proyecto, las concentraciones ambientales de los parámetros evaluados podrían 
+superar los límites normativos o de referencia correspondientes, tanto respecto de la salud de la 
+población como de los recursos naturales renovables susceptibles de afectación.
+
+===== p.34 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+34 
+ 
+ 
+ 
+Figura 10: Área de influencia para el componente Calidad del Aire (MP y gases). 
+ 
+Figura 11: Área de influencia para el componente Calidad del Aire (MPS). 
+Fuente: Modelación Emisiones Atmosféricas.
+
+===== p.35 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+35 
+ 
+ 
+2.8.2. OLORES 
+Tomando en consideración los lineamientos de la "Guía para la Evaluación de Olores en el SEIA", la 
+definición del Área de Influencia se orienta a evaluar la eventual generación de molestias odorantes sobre 
+la población y receptores sensibles aledaños a las fuentes emisoras del Proyecto (frentes de trabajo, 
+lixiviados, compostaje). El Proyecto se emplaza en un predio con características topográficas que actúan 
+como barrera natural (quebradas y laderas), donde las operaciones de disposición y tratamiento de 
+residuos introducen nuevas fuentes de emisión en la matriz territorial. 
+La dispersión de olor fue estimada mediante modelación matemática WRF-CALPUFF, bajo el escenario 
+operacional más desfavorable, definiéndose una envolvente de propagación odorante a partir de las 
+plumas de dispersión modeladas. La máxima concentración de olor se ubica al interior del predio del 
+Proyecto, abarcando una superficie aproximada de 12,4 ha. 
+Como criterio técnico de análisis se consideraron 21 receptores discretos en el entorno del Proyecto, 
+evaluando el cumplimiento del umbral de 1 uoE/m³, percentil 98, utilizado como referencia para 
+identificar la eventual percepción olfativa en receptores humanos. A partir de la modelación, la 
+envolvente de propagación odorante alcanza una superficie de 1.946 ha y se extiende principalmente 
+hacia el sur y suroeste del área del Proyecto. Dicha envolvente se considera un área de propagación de 
+olores y constituye el insumo técnico para determinar la eventual exposición de población, viviendas, 
+actividades humanas o receptores sensibles. De acuerdo con los resultados del estudio, la envolvente 
+modelada no intercepta receptores humanos sensibles, por lo que no se identifica exposición directa de 
+población dentro del área de propagación odorante. Sin perjuicio de ello, esta área se mantiene como 
+antecedente técnico para la justificación del análisis de olores y para la evaluación del impacto 
+correspondiente en el Capítulo 4.
+
+===== p.36 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+36 
+ 
+ 
+ 
+ 
+Figura 12: Área de influencia asociada a olores y receptores evaluados. 
+Fuente: Línea de Base Olores. 
+2.8.3. RUIDO Y VIBRACIONES 
+Para el análisis de ruido y vibraciones se consideraron las fuentes emisoras asociadas a las partes, obras y 
+acciones del Proyecto durante sus fases de construcción, operación y cierre, incluyendo maquinaria, 
+equipos, tránsito interno, frentes de trabajo, operación de instalaciones y circulación de camiones. Estos 
+agentes físicos no constituyen por sí mismos objetos de protección, sino medios de propagación que 
+pueden generar efectos sobre receptores sensibles, tales como población, viviendas, actividades humanas 
+y fauna terrestre. 
+En el caso del ruido, la delimitación se fundamentó en un escenario conservador de propagación acústica, 
+considerando el nivel máximo de emisión de potencia acústica del Proyecto, equivalente a 112 dBA Lw. 
+Para receptores humanos, se determinó un radio de análisis de 1.600 m en torno a las obras y partes del 
+Proyecto, calculado a partir del escenario más desfavorable y del menor nivel de línea base registrado en 
+asentamientos humanos, correspondiente al punto V1, con 32 dBA. Para fauna terrestre, se definió un 
+radio de análisis de 650 m desde los límites de las obras y frentes de trabajo, considerando la 
+susceptibilidad biológica frente a perturbaciones acústicas, la atenuación natural del terreno y el menor 
+nivel de línea base medido en zonas naturales, correspondiente al punto F2, con 42 dBA.
+
+===== p.37 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+37 
+ 
+ 
+Las áreas antes señaladas corresponden a áreas de propagación acústica utilizadas como insumo técnico 
+para identificar la eventual interacción del ruido con receptores humanos y fauna. En consecuencia, el 
+Área de Influencia asociada al impacto por ruido se define por la intersección entre las fuentes sonoras 
+del Proyecto, la propagación acústica estimada y la localización de receptores sensibles u objetos de 
+protección susceptibles de afectación. 
+En cuanto a vibraciones, se consideraron las actividades susceptibles de generar propagación vibratoria, 
+tales como circulación de maquinaria pesada, tránsito de camiones, excavaciones, compactaciones y 
+habilitación de obras. La delimitación se efectuó considerando la distancia entre las fuentes generadoras 
+y los receptores potencialmente sensibles, así como los criterios técnicos del estudio de vibraciones, 
+basados en metodologías de referencia de la Federal Transit Administration. En caso de que los niveles 
+estimados se mantengan bajo los criterios de referencia o no existan receptores dentro del área de 
+propagación relevante, se justifica la ausencia de un Área de Influencia específica para vibraciones, 
+manteniéndose el análisis como antecedente técnico de descarte. 
+ 
+ 
+Figura 13: Área de influencia para el componente ruido y vibraciones. 
+Fuente: Estudio de Ruido y Vibraciones
+
+===== p.38 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+38 
+ 
+ 
+2.8.4. EDAFOLOGÍA 
+La delimitación del Área de Influencia del componente suelo se rigió por la “Guía para la delimitación del 
+Área de Influencia en ecosistemas terrestres” (SEA, 2024), considerando los Factores Generadores de 
+Impacto (FGI) del Proyecto, tales como excavaciones, tránsito de maquinaria, remoción de vegetación, 
+escarpe y movimientos de tierra, entre otros. Para su delimitación se estableció un buffer de 50 metros 
+desde el borde de las obras, aplicando un criterio conservador dado que más de un tercio del área 
+presenta pendientes superiores al 45%, condición que implica un alto riesgo de erosión. Esta delimitación 
+permitió definir una superficie de 130,9 hectáreas, sobre la cual se ejecutó el esfuerzo de muestreo y 
+caracterización del componente. 
+El análisis edafológico permitió identificar la variabilidad del terreno y sus condiciones actuales, 
+reconociéndose seis Unidades Homogéneas de Suelo (UHS), entre las cuales predominan la UHS-2 “Ladera 
+media”, con un 39,8% de la superficie del Área de Influencia, y la UHS-3 “Ladera alta”, con un 32,1%. En 
+cuanto a la taxonomía CIREN, el Área de Influencia corresponde en un 100% a la Serie Lo Vásquez (Ultic 
+Haploxeralfs), caracterizada por suelos delgados, bien drenados y asociados a la clase VIIe. 
+Respecto de la Clase de Capacidad de Uso de Suelo (CCUS), los suelos del Área de Influencia se clasifican 
+mayoritariamente como Clase VIe2, la cual representa el 49,5% del AI de suelo. En segundo lugar, se 
+encuentran los suelos Clase VIII, que abarcan el 26,7% del área evaluada, seguidos por los suelos Clase 
+VIIe2, que corresponden al 21,4% del AI. Finalmente, un 2,4% de la superficie corresponde a sectores 
+donde no aplica la clasificación de capacidad de uso de suelo, debido a la intervención antrópica existente. 
+En relación con la capacidad de sustentar biodiversidad, el Área de Influencia presenta una categoría 
+media predominante, correspondiente al 62,9% de la superficie evaluada. Por su parte, la erosión actual 
+del área presenta un 54,9% de la superficie con erosión severa y un 36,6% con erosión moderada, mientras 
+que el 96,3% de la superficie se clasifica en categoría de riesgo de erosión “Muy alto” y “Alto”. Estos 
+antecedentes permiten justificar la delimitación del Área de Influencia del componente suelo y respaldan 
+su evaluación posterior en el Capítulo 4.
+
+===== p.39 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+39 
+ 
+ 
+ 
+Figura 14: Área de influencia para el componente Edafológico/Suelo del Proyecto. 
+Fuente: Línea Base Edafología.
+
+===== p.40 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+40 
+ 
+ 
+2.8.5. HIDROLOGÍA 
+El Área de Influencia hidrológica se define para el objeto de protección Aguas Superficiales, para evaluar 
+la modificación en la cantidad y calidad de los recursos hídricos superficiales que interactúan con las obras 
+del Proyecto. 
+De acuerdo con la clasificación del inventario de cuencas de la Biblioteca del Congreso Nacional (BCN), el 
+proyecto se encuentra ubicado en la subsubcuenca “05500 – Estero Marga-Marga”. A escala local, el 
+Proyecto se intercepta con una serie de microcuencas asociadas a quebradas de exposición norte que 
+tributan al el Estero Marga-Marga, antes de su confluencia con el Estero Quilpué. De este a oeste, se 
+identifican las quebradas denominadas Q1, Q2 y Q3, como los cauces principales que interactúan con el 
+área principal del Proyecto, además de quebradas menores (Q4 a Q13), que se interceptan con el camino 
+de acceso proyectado en la zona. 
+Conforme a la construcción de obras, el Proyecto intervendrá aquellos cauces naturales asociados a las 
+quebradas anteriormente mencionadas. Por otro lado, durante la fase de operación, el Proyecto no 
+contempla la descarga de efluentes hacia cuerpos de agua receptores, al operar en un circuito cerrado 
+con reutilización interna del agua tratada, producto del manejo de lixiviados provenientes del relleno 
+sanitario. El área de influencia se delimita a partir de las partes, obras y acciones del Proyecto y las 
+microcuencas asociadas a las quebradas Q1 a Q13, alcanzando una superficie de 429,57 hectáreas.  
+ 
+Figura 15: Área de influencia para el componente Hidrología.  
+Fuente: Caracterización Hidrológica.
+
+===== p.41 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+41 
+ 
+ 
+2.8.6. HIDROGEOLOGÍA 
+El Área de Influencia hidrológica se define para el objeto de protección Aguas Subterráneas, con el 
+propósito de evaluar las posibles alteraciones en sus atributos de calidad y volumen o capacidad de 
+infiltración. En el Proyecto, dichas alteraciones se asocian principalmente a las actividades constructivas 
+y de acondicionamiento de terreno que modifican localmente las condiciones de infiltración natural. 
+La Caracterización hidrogeológica no identifica la presencia de un acuífero definido en el sector del 
+Proyecto. Durante las distintas fases del proyecto, la principal interacción con el recurso hídrico 
+subterráneo corresponde a la alteración localizada de infiltración, producto de la impermeabilización y 
+compactación del suelo en la superficie de las obras. Por otro lado, la eventual infiltración de líquidos 
+lixiviados hacia el subsuelo constituye una vía controlada desde el diseño por el sistema de 
+impermeabilización basal, ejecutado bajo los requerimientos del D.S. N° 189/2005 del Minsal, el cual 
+opera como una barrera continua técnicamente impermeable que aísla del terreno natural. Asimismo, el 
+Proyecto no contempla la extracción de agua subterránea. 
+En consecuencia, el Área de Influencia se conforma a partir del área de las obras del Proyecto, alcanzando 
+una superficie 78,14 hectáreas. 
+ 
+Figura 16: Área de influencia para el componente Hidrogeológico del Proyecto. 
+Fuente: Informe Caracterización Hidrogeológica CMGIR.
+
+===== p.42 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+42 
+ 
+ 
+2.8.7. FLORA Y VEGETACIÓN 
+El Área de Influencia de Flora y Vegetación se define para el objeto de protección Plantas, con el propósito 
+de evaluar las posibles alteraciones producto de la instalación del Proyecto. Dichas alteraciones derivan 
+de la interacción directa con las obras y de los efectos indirectos generados por la alteración de efecto 
+borde y la dispersión de emisiones atmosféricas sedimentables 
+A escala regional y local, el área del Proyecto se inserta en la zona del Bosque esclerófilo costero. Las 
+formaciones de vegetación se estructuran principalmente por matorrales esclerófilos, matorrales con 
+suculentas y por renovales de bosque nativo esclerófilo. 
+La delimitación del Área de Influencia se justifica por la interacción espacial entre las partes, obras y 
+acciones del Proyecto y las formaciones vegetacionales susceptibles de afectación, considerando la 
+extensión en que podrían manifestarse impactos directos e indirectos sobre el componente. En este 
+sentido, el AI integra los polígonos asociados a la pérdida de cobertura vegetal, al efecto borde y a la 
+deposición de material particulado sedimentable, los cuales conforman la envolvente máxima del 
+componente. 
+Afectación por pérdida de cobertura: corresponde al espacio físico donde se prevé el despeje, remoción 
+y escarpe de vegetación por la habilitación de obras permanentes y temporales del Proyecto, incluyendo 
+la franja cortafuegos. Esta afectación comprende una superficie de 82,22 ha. 
+Afectación por Efecto Borde: Corresponde a la franja perimetral adyacente a las obras donde se prevén 
+cambios microclimáticos, pérdida de humedad edáfica y alteración estructural de la vegetación. Su 
+extensión se dimensionó mediante el factor estructural de Vita (1990) (2,5 x altura promedio del dosel), 
+aplicando una franja de 5 m para los matorrales abiertos de ladera y de 20 m para los bosques nativos 
+renovales de fondo de quebrada. En estos últimos, considerando una vida útil del Proyecto del orden de 
+25 años, el efecto borde se proyectó de forma conservadora sobre la talla adulta característica de la 
+formación (8 m) y no sobre la altura transitoria registrada en los levantamientos de información en 
+terreno, correspondientes principalmente a rebrotes vegetativos tras la pérdida del dosel aéreo en el 
+incendio de febrero de 2024. La superficie asociada a esta franja alcanza las 6,19 ha 
+Afectación por deposición de material particulado sedimentable: corresponde al área donde podría 
+manifestarse un efecto indirecto sobre la vegetación producto de la deposición de material particulado 
+sedimentable (MPS) sobre la superficie foliar, el suelo y otros sustratos asociados al componente. Esta 
+superficie fue determinada mediante la modelación de emisiones atmosféricas del Proyecto, utilizando 
+como criterio conservador de delimitación la isolínea de 2 mg/m²/día de MPS, equivalente al 1% del valor 
+de la Norma Suiza de referencia empleada para la protección de receptores secundarios. 
+En consecuencia, al integrar espacialmente los polígonos de afectación por obras, la franja de efecto borde 
+y el área de dispersión de material particulado sedimentable, la envolvente máxima del Área de Influencia 
+de la componente Flora y Vegetación alcanza una superficie total de 1710,71 hectáreas
+
+===== p.43 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+43 
+ 
+ 
+aproximadamente. Dentro de esta envoltura, la pluma de MPS de 2 mg/m²/día actúa como el límite 
+geográfico contenedor donde la alteración atmosférica indirecta sobre la vegetación se iguala a la 
+condición base del territorio. 
+ 
+Figura 17: Área de influencia para el componente Flora y Vegetación del Proyecto. 
+Fuente: Línea base Flora y vegetación.
+
+===== p.44 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+44 
+ 
+ 
+2.8.8. FLORA NO VASCULAR 
+En conformidad con los lineamientos metodológicos del Servicio de Evaluación Ambiental (SEA), el Área 
+de Influencia (AI) del componente Flora no vascular se define como el espacio geográfico donde se prevé 
+la ocurrencia de los impactos ambientales, directos e indirectos, generados por las actividades del 
+Proyecto sobre los taxones de hongos, líquenes y briófitas, así como sobre los microhábitats que sustentan 
+su ciclo vital. Espacialmente, el AI se localiza en la comuna de Viña del Mar, Región de Valparaíso, y 
+comprende una superficie total de 1.710,71 ha. Esta delimitación territorial corresponde a la envolvente 
+máxima de afectación, la cual integra el espacio físico de las obras y partes del Proyecto, la franja 
+cortafuegos y el área definida por la modelación de deposición de Material Particulado Sedimentable 
+(MPS). 
+A nivel ecosistémico, la superficie evaluada se inserta en relictos y formaciones de bosque esclerófilo 
+mediterráneo costero, dominadas biológicamente por las asociaciones vegetacionales de Lithraea 
+caustica - Cryptocarya alba, y Cryptocarya alba - Peumus boldus. En este tipo de formaciones, el 
+establecimiento, permanencia y reproducción de la flora criptogámica está estrictamente condicionado 
+por la presencia de sustratos específicos, tales como:  
+Sustratos edáficos y restos vegetales (suelo y hojarasca): Fundamentales para el desarrollo de briófitas 
+pioneras, líquenes terrícolas y la micobiota micorrícica, gracias a su capacidad de retención hídrica.  
+Sustratos lignificados (tronco vivo y madera en descomposición): Soportes naturales indispensables para 
+comunidades de líquenes corticícolas, briófitas epífitas y macromicetos xilófagos.  
+Sustratos líticos (afloramientos rocosos): Superficies estables y oligotróficas que albergan líquenes 
+saxícolas y briófitas adaptadas a condiciones extremas de asoleamiento.  
+Sustratos orgánicos: Material coprológico o restos en descomposición que permiten la proliferación de 
+taxones fúngicos coprófilos u oportunistas.  
+La extensión total del AI (1.710,71 ha) se justifica metodológicamente por la interacción espacial entre los 
+factores generadores de impacto del Proyecto y los hábitats idóneos para la flora no vascular. Se define a 
+partir de la integración de las siguientes áreas de afectación: 
+Afectación Directa (Pérdida de hábitat y sustratos): Abarca un polígono de 82,22 ha. Corresponde al 
+espacio físico donde las acciones de despeje, escarpe, remoción de cobertura vegetal, movimientos de 
+tierra, habilitación de caminos e instalación de obras (temporales y permanentes, incluyendo la franja 
+cortafuegos) provocarán la alteración, remoción o pérdida in situ de individuos, talos, colonias, 
+estructuras reproductivas y sustratos colonizables. 
+Afectación Indirecta (Deposición de MPS y alteración microambiental): Corresponde a la superficie 
+abarcada por la pluma de dispersión atmosférica del Proyecto. En este sector se generará una deposición 
+de Material Particulado Sedimentable (MPS) sobre la superficie foliar del ecosistema circundante y los
+
+===== p.45 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+45 
+ 
+ 
+sustratos descritos, fenómeno que altera indirectamente las condiciones óptimas de sombra, humedad y 
+calidad de los microhábitats criptogámicos. Para su delimitación espacial, se aplicó un criterio conservador 
+basado en la modelación de emisiones atmosféricas, utilizando la isolínea de 2 mg/m²/día de MPS 
+(equivalente al 1% de la Norma Suiza empleada como referencia para la protección de receptores 
+secundarios). 
+ 
+Figura 18: Área de influencia, componente Flora no vascular. 
+Fuente: Línea base Flora no vascular.
+
+===== p.46 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+46 
+ 
+ 
+2.8.9.      FAUNA TERRESTRE 
+El Área de Influencia del componente fauna terrestre corresponde a 711,277 hectáreas del espacio 
+geográfico donde se prevé la ocurrencia de impactos directos e indirectos sobre especies de fauna 
+silvestre y sus hábitats, considerando la localización de las partes, obras y acciones del Proyecto, los 
+factores generadores de impacto y las características ecológicas del medio receptor. 
+La delimitación del Área de Influencia se determina a partir de la unión de los polígonos asociados a los 
+principales impactos predichos sobre el componente, considerando tanto la afectación directa de hábitats 
+por obras como la afectación indirecta por propagación acústica. En este sentido, el AI integra la superficie 
+de intervención del Proyecto, incluyendo la zona central de excavación, obras permanentes y temporales, 
+caminos de acceso y sectores con remoción o modificación de cobertura vegetal, junto con el área definida 
+por la isolínea acústica de 42 dBA, utilizada como criterio conservador para representar la extensión 
+espacial en que podrían manifestarse perturbaciones sobre fauna terrestre. 
+El criterio acústico se fundamenta en el menor nivel de línea base de ruido registrado en zonas naturales 
+para fauna, correspondiente al punto F2, con 42 dBA, y en el escenario conservador de propagación 
+definido en el Estudio de Ruido y Vibraciones. En concordancia con el punto 2.8.3 del presente capítulo, 
+para fauna terrestre se consideró un radio de análisis de 650 m desde los límites de las obras y frentes de 
+trabajo, atendiendo la susceptibilidad biológica frente a perturbaciones acústicas, la atenuación natural 
+del terreno y el nivel de línea base medido en zonas naturales.  
+Tabla 7: Cálculo de Niveles de Inmisión de Ruido AI Fauna. 
+Nº 
+Cálculo de Niveles de Inmisión de Ruido Área de Influencia Fauna 
+Fase de 
+Construcción 
+Variable a Calcular 
+Símbolo Unidad 
+F1 
+1 
+Nivel de Potencia Acústica 
+Lw 
+dBA 
+112 
+2 
+Altura de la fuente de ruido 
+h0 
+m 
+1 
+3 
+Altura del punto de inmisión 
+hA 
+m 
+1,5 
+4 
+Altura media sobre el suelo 2 0 0 3 
+hm 
+m 
+1,25 
+5 
+Distancia 
+sm 
+m 
+650 
+6 
+Distancia recorrida sobre plantaciones 
+(< 200 m) 
+sD 
+m 
+0 
+7 
+Distancia recorrida sobre edificaciones 
+sG 
+m 
+0 
+8 
+Indice de Directividad 
+DI 
+dB 
+0 
+9 
+Angulo en el espacio (Ω x π) 
+Ω 
+Rad 
+2 
+10 
+Indice angular de propagación 
+K0 
+dB 
+3,0 
+11 
+Indice de distancia 
+Ds 
+dB 
+67,3 
+12 
+Coeficiente de absorción sonora del aire 
+αL 
+dB/m 
+2,00E-03
+
+===== p.47 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+47 
+ 
+ 
+13 
+Indice de absorción en el aire 
+DL 
+dB 
+1,30 
+14 
+Indice de atenuación por efectos meteorológicos y 
+suelo  
+DBM 
+dB 
+4,7 
+15 
+Indice de atenuación por efecto de pantallas acústicas 
+Dz 
+dB 
+0 
+16 
+Coeficiente de atenuación por plantaciones 
+αz 
+dB/m 
+0,05 
+17 
+Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m) 
+DD 
+dB 
+0 
+18 
+Indice de atenuación por efecto de edificios 
+DG 
+dB 
+0 
+19 
+Suma de DD + DG (< 15 dB) 
+DD + DG 
+dB 
+0 
+20 
+Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas 
+Rw 
+dB 
+0 
+21 
+Nivel de Presión Sonora en el Punto de inmisión; Nivel 
+LBR medido en punto F2 
+Linm,A 
+dBA 
+42 
+Fuente: Estudio de ruido y vibraciones. 
+Desde el punto de vista ecológico, el Área de Influencia comprende ambientes de bosque esclerófilo 
+mediterráneo costero, representados principalmente por asociaciones vegetacionales de Lithraea 
+caustica, Cryptocarya alba y Peumus boldus, los cuales constituyen hábitat, refugio y áreas de 
+alimentación, reproducción o desplazamiento para los grupos faunísticos evaluados, incluyendo aves, 
+mamíferos, micromamíferos, reptiles, anfibios y quirópteros. 
+La Línea de Base de Fauna Terrestre consideró campañas estacionales durante invierno y primavera de 
+2024, y verano y otoño de 2025, orientadas a caracterizar la fauna presente en el área del Proyecto 
+mediante transectos, puntos de observación, búsqueda activa, playback, observación nocturna, cámaras 
+trampa, trampas Sherman y detectores de murciélagos. En el área evaluada se identificaron especies 
+nativas y especies en categoría de conservación, por lo que la delimitación del AI considera tanto la 
+disponibilidad de hábitat como la potencial perturbación sobre el comportamiento, desplazamiento y 
+permanencia de la fauna silvestre. 
+Afectación directa sobre hábitat de fauna: corresponde a las zonas donde el despeje, escarpe, remoción 
+de cobertura vegetal, excavaciones, habilitación de caminos, tránsito de maquinaria e instalación de obras 
+podrían generar pérdida, reducción o modificación de hábitats disponibles, áreas de refugio, 
+alimentación, reproducción y desplazamiento de fauna terrestre. 
+Afectación indirecta por ruido: corresponde al área donde podrían manifestarse perturbaciones 
+conductuales sobre fauna terrestre producto de la propagación acústica generada por las actividades del 
+Proyecto. Para su delimitación se considera la isolínea de 42 dBA, asociada al menor nivel de línea base 
+de ruido registrado en zonas naturales para fauna, correspondiente al punto F2, empleada como criterio 
+conservador de delimitación espacial.
+
+===== p.48 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+48 
+ 
+ 
+En consecuencia, el Área de Influencia del componente fauna terrestre se define como la envolvente 
+resultante de la integración espacial entre las áreas de intervención directa del Proyecto y el área de 
+propagación acústica representada por la isolínea de 42 dBA. Esta delimitación permite identificar, 
+predecir y evaluar los impactos directos e indirectos sobre la disponibilidad y calidad del hábitat, así como 
+sobre el comportamiento, desplazamiento y permanencia de la fauna silvestre en el entorno del Proyecto. 
+ 
+Figura 19: Área de influencia del proyecto, componente Fauna terrestre. 
+Fuente: Línea de Base Fauna Terrestre.
+
+===== p.49 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+49 
+ 
+ 
+2.8.10. ENTOMOFAUNA 
+Para el componente entomofauna, se define un área de influencia aproximada de 78,14 hectáreas, 
+asociada principalmente a la zona central de excavación y a los sectores donde se producirán las mayores 
+intervenciones directas sobre la cobertura vegetal y los hábitats disponibles, incluyendo la zona 
+intervenida para las obras del camino de acceso. La delimitación considera que los principales impactos 
+potenciales corresponden a la pérdida y modificación de hábitat, perturbación por ruido, vibraciones, 
+iluminación y aumento de las actividades humanas durante las fases de construcción y operación del 
+proyecto. Desde el punto de vista ecológico, esta superficie comprende presencia de bosque esclerófilo 
+mediterráneo costero, el cual constituye hábitat y áreas de desplazamiento para el desarrollo de la 
+entomofauna registrada.  
+La delimitación del Área de Influencia se justifica por la presencia de ambientes con aptitud para el 
+desarrollo de entomofauna terrestre, particularmente sectores de matorral esclerófilo mediterráneo 
+costero y ambientes asociados a cobertura arbustiva y herbácea, suelo, hojarasca, rocas, vegetación en 
+regeneración y otros microhábitats utilizados por especies epigeas, voladoras, florícolas y de hábitos 
+vinculados al sustrato. Estos ambientes constituyen el soporte ecológico para los distintos grupos 
+registrados o potencialmente presentes, considerando su relación con la estructura de la vegetación, la 
+disponibilidad de refugio, alimento, sitios de oviposición, reproducción y desplazamiento. 
+La determinación del Área de Influencia considera las zonas donde las actividades del Proyecto podrían 
+generar efectos directos sobre el componente, principalmente por despeje, escarpe, remoción de 
+cobertura vegetal, excavaciones, habilitación de caminos, tránsito de maquinaria, compactación del suelo, 
+intervención de sustratos y modificación de microhábitats. Dichas acciones pueden provocar pérdida, 
+remoción o alteración de individuos, estados inmaduros, refugios, sitios de alimentación, oviposición, 
+reproducción y desplazamiento de la entomofauna terrestre. 
+Asimismo, la delimitación incorpora aquellos sectores donde podrían manifestarse efectos indirectos 
+sobre las condiciones ambientales que sustentan la presencia de entomofauna, tales como cambios en la 
+cobertura vegetal, humedad del suelo, temperatura superficial, disponibilidad de recursos florales, 
+estructura del matorral, estabilidad del sustrato, acumulación de material particulado y modificación de 
+la conectividad local entre microhábitats. Estos factores resultan relevantes debido a que la entomofauna 
+presenta una estrecha dependencia respecto de las condiciones del hábitat inmediato y de la 
+disponibilidad de recursos tróficos y reproductivos. 
+En consecuencia, el Área de Influencia del componente entomofauna terrestre se determina como el 
+espacio donde es posible identificar, predecir y evaluar los impactos ambientales directos e indirectos del 
+Proyecto sobre insectos, arácnidos y otros artrópodos terrestres, así como sobre los hábitats y 
+microhábitats que sustentan su presencia. Su límite se establece considerando la localización de las 
+partes, obras y acciones del Proyecto, la distribución de los ambientes prospectados, la ubicación de los
+
+===== p.50 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+50 
+ 
+ 
+transectos y puntos de muestreo, y la extensión espacial esperada de los factores generadores de impacto 
+sobre este componente. 
+ 
+Figura 20: Área de influencia del componente Entomofauna del Proyecto. 
+Fuente: Línea de Base Entomofauna.
+
+===== p.51 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+51 
+ 
+ 
+2.8.11. MEDIO HUMANO  
+La delimitación se inició a partir de la identificación del área de dispersión asociada a las potenciales 
+fuentes de afectación del Proyecto, considerando la integración de los resultados de los estudios 
+especializados de emisiones atmosféricas, ruido y vibraciones, y olores. Conforme a los criterios 
+metodológicos del SEA, dicha área de dispersión no constituye por sí misma el Área de Influencia del 
+componente, sino que corresponde a un insumo técnico inicial para identificar los sectores donde podrían 
+manifestarse cambios atribuibles al Proyecto. Lo anterior resulta relevante, dado que las plumas de 
+dispersión pueden abarcar sectores donde las concentraciones o niveles proyectados se encuentran bajo 
+los límites normativos o criterios de evaluación aplicables, y que por tanto no necesariamente presentan 
+capacidad de generar afectaciones sobre la población. 
+A partir de este análisis se definió un área de estudio utilizando las unidades geográficas de menor escala 
+disponibles para la caracterización territorial, correspondientes a manzanas censales en áreas urbanas y 
+entidades censales en áreas rurales, de acuerdo con el Censo de Población y Vivienda 2024. La utilización 
+de estas unidades permitió representar la distribución espacial de la población potencialmente expuesta, 
+caracterizar los grupos humanos localizados en el entorno del Proyecto e identificar los receptores 
+humanos que podrían presentar una relación territorial con las fuentes de afectación evaluadas. 
+La integración de los resultados de los estudios especializados, la distribución de los receptores humanos 
+identificados y la información levantada en terreno permitió delimitar el Área de Influencia del Medio 
+Humano, considerando los sectores poblados más consolidados ubicados a menos de 2.000 metros de las 
+líneas perimetrales del Proyecto. Como se observa en la Figura 21, la población considerada se localiza 
+exclusivamente hacia el norte del Proyecto, principalmente en torno a la Ruta Internacional 60-CH, eje 
+que articula la conectividad entre las comunas de Viña del Mar y Quilpué. Hacia el sur del Proyecto no se 
+identifican comunidades ni asentamientos humanos permanentes, predominando sectores de laderas y 
+áreas con escasa o nula ocupación residencial. 
+En este contexto, el Área de Influencia del Medio Humano comprende los sectores de El Salto Urbano y 
+El Salto Rural, en la comuna de Viña del Mar, y Las Lomas y El Calichero, en la comuna de Quilpué. Estos 
+sectores configuran un espacio de transición entre ámbitos urbanos y rurales, asociado a la expansión 
+periférica de ambas comunas, con dinámicas de movilidad cotidiana, acceso a servicios, educación, salud, 
+empleo y equipamientos vinculadas a los centros urbanos cercanos, junto con la persistencia de prácticas 
+rurales en sectores como El Salto Rural y El Calichero. 
+Considerando lo anterior, se define como Área de Influencia del Medio Humano el conjunto de manzanas 
+y entidades censales que conforman los sectores de El Salto Urbano, El Salto Rural, Las Lomas y El 
+Calichero, correspondientes a los grupos humanos que, por su proximidad al Proyecto y su relación 
+territorial con las potenciales fuentes de afectación evaluadas, podrían experimentar alteraciones 
+derivadas de su construcción, operación o cierre, o bien respecto de los cuales es posible justificar 
+fundadamente la inexistencia de tales afectaciones.
+
+===== p.52 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+52 
+ 
+ 
+     
+ 
+Figura 21: Área de influencia del proyecto, medio humano. 
+Fuente: Línea de base Medio Humano. 
+2.8.12. PAISAJE Y TURISMO 
+El Área de Influencia para el componente paisaje y turismo del Centro Metropolitano de Gestión Integral 
+de Residuos (CMGIR) se determinó considerando la relación entre las partes, obras y acciones del Proyecto 
+y los atributos visuales, escénicos y turísticos presentes en su entorno. Para el componente paisaje, la 
+delimitación se basó en el espacio desde el cual las obras permanentes y temporales del Proyecto podrían 
+ser percibidas visualmente, considerando la configuración topográfica del sector, la presencia de cerros y 
+quebradas, la cobertura vegetal, las condiciones de intervisibilidad y la localización de observadores 
+potenciales. En este contexto, el Proyecto se emplaza en un entorno caracterizado por relieve 
+accidentado, pendientes relevantes, presencia de vegetación esclerófila y quebradas, elementos que 
+condicionan tanto la visibilidad del Proyecto como la percepción del paisaje. Para la delimitación del Área 
+de Influencia se consideró el emplazamiento de las partes y obras del Proyecto, junto con un entorno 
+visual definido a partir del límite de la Zona de Visibilidad Media fijado en un radio de 3,5 km, distancia 
+umbral determinada por las condiciones micrometeorológicas y el relieve costero, a partir de la cual la 
+escala de las obras del Proyecto pierde nitidez frente al fondo paisajístico. Dentro de este radio se
+
+===== p.53 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+53 
+ 
+ 
+identificaron seis puntos de observación (PO) sensibles. Las cuencas visuales teóricas se proyectaron 
+cartográficamente desde las cotas máximas y obras del Proyecto hacia el territorio, efectuándose 
+posteriormente un análisis de intervisibilidad bidireccional con dichos PO mediante herramientas de 
+geoprocesamiento, lo que permitió reconocer con precisión los sectores visibles, parcialmente visibles y 
+no visibles respecto de las obras proyectadas. 
+El Área de Influencia de paisaje incorpora las unidades de paisaje presentes en el entorno visual del 
+Proyecto, incluyendo sectores de matorral, Estero Marga-Marga, centros poblados y áreas industriales. 
+Asimismo, se integraron con fines de control cartográfico el Jardín Botánico y el sector asociado al Palmar 
+Las Siete Hermanas, constatándose analíticamente su condición de nula visibilidad y resguardo 
+topográfico respecto a las obras. Estas unidades fueron consideradas en función de sus atributos 
+biofísicos, estéticos y estructurales, así como de su calidad visual, exposición y relación visual con el 
+Proyecto. De acuerdo con el análisis efectuado, la visibilidad externa hacia las principales obras del 
+Proyecto es parcial, baja o nula en gran parte del territorio evaluado, debido principalmente al relieve 
+accidentado, la condición de quebradas y el confinamiento topográfico del área de emplazamiento. 
+Respecto del componente turismo, el Área de Estudio se analizó bajo un enfoque funcional para verificar 
+la existencia de zonas de interés o flujos concurrentes. Al constatarse la total ausencia de Zonas de Interés 
+Turístico (ZOIT) según la Ley N° 20.423/10 o de atractivos registrados por SERNATUR en el sector, este 
+ámbito se consolida exclusivamente como un descriptor de contexto sin impactos asociados, ratificando 
+que el Proyecto no interferirá con las dinámicas recreativas o turísticas de las comunas aledañas. Para 
+ello, se consideraron los atributos asociados al valor turístico, tales como valor paisajístico, cultural y 
+patrimonial, servicios turísticos, actividades recreativas, flujos de visitantes y eventual presencia de zonas 
+de interés turístico. En consecuencia, el Área de Influencia de paisaje y turismo corresponde al entorno 
+visual y funcional en el cual las partes, obras y acciones del Proyecto podrían ser percibidas o relacionarse 
+con atributos paisajísticos y turísticos relevantes, constituyendo la base espacial para la evaluación de 
+eventuales impactos sobre este componente.
+
+===== p.54 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+54 
+ 
+ 
+ 
+Figura 22: Área de influencia para el componente Paisaje y Turismo del Proyecto. 
+Fuente: Línea de Base Paisaje y Turismo. 
+2.8.13. PATRIMONIO ARQUEOLÓGICO. 
+El Área de Influencia (AI) para el Objeto de Protección (OP) de Patrimonio Arqueológico se determinó 
+sobre una superficie total de 81,01 hectáreas. Esta delimitación espacial abarca la envolvente 
+georreferenciada de la totalidad de las partes, obras y acciones, tanto temporales como permanentes, 
+contempladas para las fases de construcción y operación del proyecto "Centro Metropolitano de Gestión 
+Integral de Residuos". 
+La caracterización arqueológica de la Línea de Base para el Área de Influencia (AI) se estructuró a partir 
+de un análisis iterativo que combinó la diagnosis de antecedentes secundarios con un riguroso 
+levantamiento de información primaria in situ. La metodología contempló la revisión analítica de registros 
+del Consejo de Monumentos Nacionales (CMN), el catastro de cuencas del MOP e informes arqueológicos 
+del SEIA en un radio de 10 km en torno al Proyecto. Esta fase previa sirvió de insumo para el diseño de 
+una campaña de prospección pedestre de carácter intensivo y sistemático, ejecutada mediante transectas 
+equidistantes con un distanciamiento estricto de 20 metros. Dicha estrategia de campo fue planificada 
+sobre la base de una modelación digital de elevaciones (DEM) y un mapa de pendientes automatizado en 
+SIG, lo cual permitió optimizar las rutas de exploración y controlar de manera científica las variables de
+
+===== p.55 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+55 
+ 
+ 
+accesibilidad, visibilidad y obtrusividad en todas las superficies destinadas a albergar las obras temporales 
+y permanentes del complejo. 
+Como resultado de la campaña de prospección superficial efectuada, se constató la total inexistencia de 
+bienes patrimoniales prehispánicos o históricos, tanto bajo la categoría de sitios arqueológicos como de 
+hallazgos aislados, al interior de los límites del polígono que conforma el Área de Influencia. En el contexto 
+territorial extra local, las herramientas de teledetección y la revisión bibliográfica identificaron la 
+presencia del hito MM3 – Piedra Tacita Marga-Marga 3 en el entorno circundante; sin embargo, este 
+recurso se emplaza a una distancia de aproximadamente 0,38 km fuera de los límites del área de 
+intervención, garantizando la total ausencia de superposiciones espaciales o riesgos de afectación directa 
+por los frentes de trabajo. La prospección pedestre se efectuó mediante transectas equidistantes de 20 
+m, alcanzando una cobertura del 80% del Área de Influencia actual, sin registrar hallazgos arqueológicos 
+superficiales dentro del área prospectada. 
+ 
+Figura 23: Área de influencia para el componente Patrimonio Arqueológico del Proyecto. 
+Fuente: Línea de Base en Patrimonio Arqueológico.
+
+===== p.56 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+56 
+ 
+ 
+2.8.14. PATRIMONIO CULTURAL PALEONTOLÓGICO.  
+El Área de Influencia del componente patrimonio cultural paleontológico corresponde al espacio 
+geográfico donde se prevé la interacción entre las partes, obras y acciones del Proyecto y el Objeto de 
+Protección asociado a este componente, constituido por piezas paleontológicas, yacimientos, niveles 
+fosilíferos, contextos sedimentarios y unidades geológicas que los contienen o pueden contenerlos. En 
+este sentido, su delimitación considera las superficies donde se ejecutarán obras temporales y 
+permanentes, así como las áreas asociadas a excavaciones, escarpes, movimientos de tierra, habilitación 
+de superficies, construcción de caminos, tránsito de vehículos, maquinaria y personas. 
+De acuerdo con los antecedentes del Proyecto, el Área de Influencia paleontológica comprende las zonas 
+donde se emplazarán las partes, obras y acciones del Proyecto, incorporando un buffer técnico de 
+delimitación de 10 m en torno a dichas superficies, según se representa en la figura 24. Esta delimitación 
+incluye las áreas asociadas a la instalación de faena, zonas de instalaciones operacionales y 
+administrativas, compostaje, reciclaje, disposición de residuos, tratamiento de lixiviados, tratamiento de 
+biogás, camino de acceso y caminos interiores operacionales, en la medida que dichas obras puedan 
+intervenir unidades geológicas caracterizadas en el presente estudio. 
+La delimitación del Área de Influencia se justifica por la naturaleza del componente paleontológico y por 
+el tipo de interacción esperada entre el Proyecto y el medio geológico receptor. En particular, las 
+actividades de acondicionamiento del terreno, escarpe, extracción de capa vegetal, excavaciones, cortes, 
+rellenos, terraplenes, compactación, nivelación, habilitación de plataformas, construcción de caminos y 
+tránsito de maquinaria constituyen factores generadores de impacto con capacidad de intervenir 
+materiales superficiales y subsuperficiales. En caso de interceptar unidades geológicas fosilíferas o 
+susceptibles, dichas acciones podrían generar remoción, fragmentación, desplazamiento, exposición o 
+pérdida de restos paleontológicos. 
+Para efectos de la caracterización del componente, la delimitación del Área de Influencia consideró la 
+distribución espacial de las obras del Proyecto, las superficies y profundidades máximas de intervención, 
+las unidades geológicas presentes y el potencial paleontológico asignado a dichas unidades. En el área 
+evaluada se identifican principalmente rocas intrusivas asignadas a Tonalitas y granodioritas de anfíbol-
+biotita, clasificadas con potencial paleontológico bajo a nulo o estéril. Por su parte, la Formación Ajial, de 
+carácter susceptible, fue reconocida fuera de los límites del Área de Influencia del Proyecto. 
+En consecuencia, el Área de Influencia del componente patrimonio cultural paleontológico se determina 
+como el espacio donde es posible identificar, describir, predecir y evaluar eventuales impactos sobre el 
+patrimonio paleontológico, considerando la localización de las partes, obras y acciones del Proyecto, las 
+superficies y profundidades de intervención, el buffer técnico de 10 m, la distribución de las unidades 
+geológicas y su respectivo potencial fosilífero. Su delimitación permite caracterizar la condición basal del 
+componente, evaluar la eventual afectación del Objeto de Protección y establecer recomendaciones de 
+manejo orientadas al resguardo del patrimonio cultural paleontológico.
+
+===== p.57 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+57 
+ 
+ 
+ 
+ 
+Figura 24: Área de influencia para el componente Patrimonio Cultural Paleontológico. 
+Fuente: Línea de Base Patrimonio Cultural Paleontológico.
+
+===== p.58 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+58 
+ 
+ 
+2.8.15. ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS 
+Para el componente áreas protegidas y sitios prioritarios para la conservación de la biodiversidad, el Área 
+de Influencia se determinó conforme al artículo 8 del Reglamento del SEIA, considerando la extensión, 
+magnitud y duración de la intervención de las partes, obras y acciones del Proyecto, así como de los 
+impactos que este genera, teniendo especial consideración los objetos de protección que se pretenden 
+resguardar. En el presente caso, el criterio que delimita el Área de Influencia corresponde a la extensión, 
+entendida como el alcance espacial del impacto sobre el objeto de protección, la cual se encuentra dada 
+por la interacción entre el área de dispersión de material particulado sedimentable del Proyecto y los 
+objetos de protección identificados. 
+La determinación del Área de Influencia siguió el marco conceptual de la Guía áreas de influencia en el 
+SEIA, segunda edición, del Servicio de Evaluación Ambiental, que distingue entre área de estudio, área de 
+dispersión y Área de Influencia. Bajo este enfoque, el área de estudio corresponde a una superficie 
+ampliada utilizada para caracterizar el contexto territorial e identificar los objetos de protección 
+presentes; el área de dispersión corresponde a la representación espacial de una emisión modelada sobre 
+el medio físico; y el Área de Influencia corresponde al espacio donde dicha dispersión interactúa con un 
+objeto de protección receptor. 
+Sobre esta base, se definió en primer término un área de estudio de escala regional, correspondiente a la 
+Región de Valparaíso, con el objeto de identificar las áreas protegidas, áreas colocadas bajo protección 
+oficial, humedales urbanos, sitios prioritarios y otros espacios de valor ambiental reconocidos en el marco 
+del SEIA o por instrumentos regionales de biodiversidad. Posteriormente, se consideró el área de 
+dispersión de material particulado sedimentable del Proyecto como insumo técnico del medio físico 
+modelado y se superpuso dicha área, junto con la superficie de intervención del Proyecto, con los objetos 
+de protección identificados. 
+A partir de esta superposición, se verifica que el único objeto de protección alcanzado por el Proyecto 
+corresponde al Humedal Urbano Estero Quilpué, área colocada bajo protección oficial en virtud de la Ley 
+N°21.202. Sobre dicho humedal, el área de dispersión de material particulado sedimentable incide en una 
+superficie de 5,541 ha, sin que exista intervención directa por partes, obras o acciones del Proyecto. 
+Cabe señalar que el Humedal Urbano Estero Quilpué no es alcanzado por la superficie de intervención del 
+Proyecto ni presenta conectividad de drenaje con este. Lo anterior se sustenta en que el Proyecto no 
+contempla descargas de efluentes líquidos hacia cursos superficiales ni subterráneos, y en que las 
+quebradas que interactúan con el área del Proyecto tributan al Estero Marga-Marga aguas arriba de su 
+confluencia con el Estero Quilpué. En consecuencia, no se identifica una vía de afectación hídrica directa 
+o funcional sobre dicho humedal.
+
+===== p.59 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+59 
+ 
+ 
+Asimismo, ninguna otra área colocada bajo protección oficial, área protegida ni sitio prioritario reconocido 
+para efectos del SEIA es alcanzado por la superficie de intervención o por el área de dispersión del 
+Proyecto. Por lo tanto, la delimitación del Área de Influencia del componente no se basa únicamente en 
+la presencia regional de áreas protegidas o sitios prioritarios, sino en la existencia de una interacción 
+espacial efectiva entre los Factores Generadores de Impacto del Proyecto y los objetos de protección 
+identificados. 
+En consecuencia, el Área de Influencia del componente áreas protegidas y sitios prioritarios para la 
+conservación corresponde a la intersección entre el área de dispersión de material particulado 
+sedimentable del Proyecto y el Humedal Urbano Estero Quilpué, con una superficie de 5,541 ha. Esta 
+delimitación permite evaluar la eventual interacción del Proyecto con dicho objeto de protección y, al 
+mismo tiempo, justificar la inexistencia de efectos adversos significativos sobre áreas protegidas, áreas 
+colocadas bajo protección oficial y sitios prioritarios para la conservación. 
+ 
+Figura 25: Área de influencia para el componente Áreas Protegidas y Sitios Prioritarios para la 
+conservación del Proyecto. 
+Fuente: Línea de Base Áreas Protegidas y Sitios Prioritarios para la conservación.
+
+===== p.60 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+60 
+ 
+ 
+2.9. 
+IDENTIFICACIÓN DE LOS COMPONENTES AMBIENTALES SUSCEPTIBLES DE VERSE 
+AFECTADOS POR CAMBIO CLIMÁTICO 
+De conformidad con el artículo 12 bis del Reglamento del SEIA (D.S. N° 30/2024) y la Guía metodológica 
+para la consideración del cambio climático en el SEIA (2024), se evaluó la susceptibilidad de los 
+componentes ambientales y la infraestructura del Proyecto frente a las proyecciones climáticas futuras. 
+Para este análisis, se utilizaron los antecedentes de la Línea Base Hidrológica (Riverine, 2025/2026), la cual 
+analiza los registros de la Estación Lago Peñuelas cruzados con los datos grillados del observatorio 
+CR2MET. Las proyecciones se sustentan en la plataforma Atlas de Riesgos Climáticos (ARClim) bajo el 
+escenario de emisiones más desfavorable (RCP 8.5) para el horizonte 2035-2065. Los resultados 
+evidencian dos tendencias macro en el área de estudio: un incremento térmico proyectado de +1,4 °C y 
+un déficit hídrico estructural (reducción de precipitaciones del 18,47%). 
+Tabla 8: Interacción y sensibilidad de componentes ambientales frente al cambio climático. 
+Componente 
+Ambiental 
+Amenaza 
+Climática 
+Identificada 
+(RCP 
+8.5 
+/ 
+CR2MET) 
+Interacción y Sensibilidad (Riesgo 
+Climático) 
+Justificación 
+y 
+Medidas 
+de 
+Adaptación del Proyecto 
+Flora 
+y 
+Vegetación  
+Déficit Hídrico e 
+Incremento 
+Térmico 
+Según ARClim, la cadena de impacto 
+"pérdida de flora por cambios de 
+precipitación" 
+arroja 
+un 
+Riesgo 
+Climático Alto (0,6933) en la comuna, 
+y un riesgo Moderado (0,3204) por 
+cambios 
+de 
+temperatura. 
+Esto 
+agudiza el estrés hídrico basal sobre 
+especies en conservación (ej. Jubaea 
+chilensis), elevando su vulnerabilidad 
+sistémica. 
+ La adaptación del Proyecto 
+considera 
+el 
+rescate 
+y 
+relocalización de especies de flora 
+en categoría de conservación, 
+viverización previa, propagación 
+por 
+semillas 
+y 
+propagación 
+vegetativa, junto con seguimiento 
+de 
+supervivencia, 
+estado 
+fitosanitario 
+y 
+desarrollo 
+reproductivo. 
+Además, 
+se 
+seleccionarán sitios receptores 
+con 
+condiciones 
+ambientales 
+similares al lugar de origen y se 
+excluirá la intervención directa de 
+rodales sensibles, favoreciendo la 
+permanencia 
+del 
+componente 
+frente a escenarios de menor 
+disponibilidad 
+hídrica 
+e 
+incremento de temperatura.
+
+===== p.61 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+61 
+ 
+ 
+Componente 
+Ambiental 
+Amenaza 
+Climática 
+Identificada 
+(RCP 
+8.5 
+/ 
+CR2MET) 
+Interacción y Sensibilidad (Riesgo 
+Climático) 
+Justificación 
+y 
+Medidas 
+de 
+Adaptación del Proyecto 
+Hidrología 
+y 
+Recursos 
+Hídricos  
+Déficit 
+Hídrico 
+Estructural 
+Menor 
+recarga 
+natural 
+de 
+la 
+subcuenca y mayor escasez de agua 
+dulce 
+disponible 
+para 
+consumo 
+humano y ecológico en la zona. 
+El Proyecto opera con 
+ independencia 
+hídrica 
+de 
+la 
+cuenca. La planta de tratamiento 
+de lixiviados (Ósmosis Inversa) 
+generará permeado (NCh 1.333) 
+que será 100% recirculado para 
+humectación vial, eliminando la 
+extracción de agua fresca. 
+Geomorfología y 
+Riesgos 
+Naturales 
+Eventos 
+Climáticos 
+Extremos 
+(Precipitaciones 
+intensas 
+concentradas) 
+Posible reactivación de procesos de 
+remoción en masa superficial y 
+crecidas 
+súbitas 
+debido 
+a 
+la 
+superación de la capacidad de 
+infiltración del suelo, incluso en un 
+contexto de tendencia a la aridez 
+general. 
+El diseño del Proyecto integra una 
+visión 
+preventiva: 
+incorpora 
+canales de coronación y obras de 
+disipación 
+de 
+energía 
+para 
+manejar crecidas excepcionales y 
+prevenir la afectación de la faena 
+ante eventos de remoción en 
+masa no cohesiva. 
+Edafología 
+y 
+Suelo 
+Sinergia Sequía - 
+Lluvias Extremas 
+La sequía prolongada deseca y reduce 
+la 
+cohesión 
+estructural 
+de 
+los 
+horizontes superficiales. Ante eventos 
+de lluvia concentrada, se magnifica 
+significativamente 
+el 
+Riesgo 
+de 
+Erosión 
+Potencial 
+(REP) 
+por 
+escorrentía en zonas de excavación o 
+desprovistas de cobertura. 
+El 
+Proyecto 
+integra 
+canales 
+perimetrales de coronación para 
+disipar la energía erosiva del agua. 
+En la fase de cierre, ejecuta un 
+plan de perfilamiento topográfico, 
+sellado y revegetación progresiva 
+que estabiliza mecánicamente la 
+matriz edáfica. 
+Fauna 
+Vertebrados 
+Terrestres  
+Variación 
+de 
+Precipitación 
+y 
+Temperatura 
+Según ARClim, las cadenas de impacto 
+de pérdida de fauna arrojan un Riesgo 
+Climático 
+Bajo 
+(0,3526 
+por 
+precipitación 
+y 
+0,336 
+por 
+temperatura). 
+Adicionalmente, 
+el 
+análisis 
+del 
+Mapa 
+de 
+Especies 
+proyecta que la gran mayoría de las 
+especies 
+locales 
+(ej. 
+Phrygilus 
+fruticeti) aumentarán su probabilidad 
+de presencia en el futuro (hasta 
++15,9%), 
+evidenciando 
+una 
+baja 
+sensibilidad basal al escenario. 
+Dado que el Riesgo Climático es 
+"Bajo" y la evaluación de impactos 
+(Capítulo 4) descarta alteraciones 
+significativas sobre las especies 
+(sin pérdida relevante de hábitat), 
+el 
+Proyecto 
+no 
+afecta 
+la 
+vulnerabilidad 
+de 
+la 
+fauna. 
+Consecuentemente, no se gatillan 
+medidas de adaptación climática, 
+aplicando únicamente las medidas 
+de 
+control 
+estándar. 
+Cabe 
+destacar que en la fase de cierre 
+del proyecto en el proceso de 
+revegetación progresiva ayudará a 
+la habilitación de hábitat propicio 
+para la fauna.
+
+===== p.62 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+62 
+ 
+ 
+Componente 
+Ambiental 
+Amenaza 
+Climática 
+Identificada 
+(RCP 
+8.5 
+/ 
+CR2MET) 
+Interacción y Sensibilidad (Riesgo 
+Climático) 
+Justificación 
+y 
+Medidas 
+de 
+Adaptación del Proyecto 
+Entomofauna 
+(Invertebrados) 
+(Objeto 
+de 
+Protección) 
+Variación 
+de 
+Precipitación 
+y 
+Temperatura 
+(Escenario 
+RCP 
+8.5, 2035-2065) 
+De acuerdo con la revisión de las 
+cadenas de impacto del sector 
+Biodiversidad en la plataforma oficial 
+ARClim, ninguna de las especies de 
+entomofauna registradas en el área 
+de estudio durante las campañas 
+(2024-2025) se encuentra catalogada 
+con riesgo de afectación por cambio 
+climático. 
+Al no existir evidencia oficial de 
+riesgo 
+climático 
+para 
+macroinvertebrados 
+locales 
+(según ARClim) y al haberse 
+descartado impactos significativos 
+por 
+parte 
+del 
+Proyecto, 
+se 
+descarta 
+una 
+condición 
+de 
+vulnerabilidad 
+sinérgica. 
+Por 
+tanto, no procede la aplicación de 
+medidas de adaptación climática. 
+Cabe destacar que en la fase de 
+cierre del proyecto en el proceso 
+de 
+revegetación 
+progresiva 
+ayudará a la habilitación de 
+hábitat propicio para la fauna. 
+2.10. CONCLUSIÓN  
+A partir del análisis sistemático desarrollado en el presente capítulo, se determinó, justificó y describió de 
+forma exhaustiva el Área de Influencia (AI) del proyecto "Centro Metropolitano de Gestión Integral de 
+Residuos (CMGIR)" para cada componente ambiental susceptible de verse afectado por sus obras, partes 
+y acciones. En estricta observancia del artículo 18, letra d) del Reglamento del SEIA (D.S. N° 40/2012) y las 
+directrices de la "Guía áreas de influencia en el SEIA" (Segunda Edición, 2026), las delimitaciones 
+espaciales no se asimilaron de forma automática al emplazamiento físico de la infraestructura. Por el 
+contrario, respondieron a una modelación de la interacción efectiva entre los Factores Generadores de 
+Impacto (FGI) de las fases de construcción, operación y cierre, y la distribución territorial de los objetos 
+de protección ambientales. 
+Este rigor metodológico permitió establecer una clara diferenciación analítica entre las Áreas de Estudio 
+(AE), concebidas como descriptores de contexto físico y territorial para dar soporte a la predicción, y las 
+Áreas de Influencia efectivas, delimitadas exclusivamente sobre aquellos componentes que actúan como 
+receptores funcionales de impactos, resguardando la suficiencia y pertinencia en la caracterización de sus 
+atributos y sensibilidades basales. 
+Para aquellos componentes cuya potencial afectación se transmite mediante vectores de dispersión 
+dinámica (Calidad del Aire, Compuestos Odorantes, Ruido y Vibraciones) los límites de las AI se definieron 
+cruzando las envolventes matemáticas de propagación bajo los escenarios operacionales y 
+meteorológicos más desfavorables (modelaciones WRF-CALPUFF y propagación acústica conservadora)
+
+===== p.63 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+63 
+ 
+ 
+con la localización georreferenciada de los receptores discretos humanos y ecológicos sensibles. Este 
+enfoque impidió la inclusión de áreas nominales de la pluma sin interacción real con objetos de 
+protección, optimizando el foco de la evaluación. 
+En paralelo, respecto de los componentes físicos, bióticos, humanos, patrimoniales y del medio construido 
+(suelo, hidrología, hidrogeología, flora y vegetación, flora no vascular, fauna vertebrada, entomofauna, 
+medio humano, paisaje y turismo, arqueología, paleontología, áreas protegidas y sitios prioritarios), las AI 
+se trazaron en función del alcance geoespacial de las perturbaciones físicas o funcionales directas e 
+indirectas. Destaca en esta línea el análisis visual integrado para Paisaje y Turismo (que incorporó cuencas 
+visuales, análisis de intervisibilidad y puntos de observación sensibles) así como la delimitación restrictiva 
+en Áreas Protegidas y Sitios Prioritarios, circunscrita estrictamente a los sectores donde se verificó una 
+conexión espacial o funcional efectiva con los atributos de conservación objeto de resguardo, tales como 
+el Sitio Prioritario Palmar Las Siete Hermanas o los ecosistemas hídricos locales. 
+En concordancia con los lineamientos de la Ley N° 21.455 (Ley Marco de Cambio Climático) y la Guía 
+metodológica para la consideración del cambio climático en el SEIA, la identificación de los componentes 
+susceptibles se ejecutó bajo un enfoque técnico eminentemente preventivo y precautorio. Utilizando los 
+escenarios proyectados por la plataforma oficial ARClim para el horizonte temporal cercano (período 
+2035-2065) bajo el forzante radiativo RCP 8.5, se determinó que el territorio de emplazamiento en la 
+comuna de Viña del Mar exhibe amenazas climáticas macro ambientales asociadas al incremento de la 
+temperatura media (+1,4 °C) y al déficit de precipitaciones (-18,47%). No obstante, el análisis 
+interdependiente de las líneas de base ratifica que los objetos de protección locales no presentan una 
+condición de vulnerabilidad latente que configure un riesgo sinérgico o acumulativo en coacción con las 
+actividades del Proyecto. 
+En el medio biótico, las cadenas de impacto para la fauna de vertebrados terrestres arrojan un Riesgo 
+Climático formalmente calificado como "Bajo", sustentado en una baja sensibilidad basal y una resiliencia 
+proyectada que anticipa incrementos en la probabilidad de presencia futura para la mayoría de los taxa 
+locales (ej. Phrygilus fruticeti); diagnóstico correlacionable con el de la entomofauna terrestre, donde la 
+revisión sistemática del sector Biodiversidad descartó especies en el área con registros oficiales de 
+vulnerabilidad climática. 
+Por su parte, respecto de los componentes físicos, las susceptibilidades intrínsecas de la Serie de suelo Lo 
+Vásquez frente a riesgos de erosión y la alteración de los regímenes pluviales en las subcuencas locales 
+(Quebradas Q1, Q2 y Q3) quedan plenamente neutralizadas y absorbidas por las salvaguardas de 
+ingeniería incorporadas en el diseño técnico del Proyecto. El manejo dinámico de la capa superficial 
+(TopSoil), la red de canales de contención perimetral, el balance de masas inerte, la autonomía operativa 
+de insumos básicos y el sistema avanzado multibarrera con ósmosis inversa para el tratamiento de 
+lixiviados, garantizan que la infraestructura se consolide como una obra de saneamiento ambientalmente 
+resiliente, adaptada y sustentable ante las amenazas climáticas regionales.
+
+===== p.64 =====
+CAPÍTULO 2 DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+64 
+ 
+ 
+Se concluye, por tanto, que las Áreas de Influencia determinadas en este capítulo constituyen una base 
+espacial y técnica suficiente, trazable y coherente para el desarrollo de la caracterización de línea de base, 
+la predicción y evaluación de impactos, y el análisis de los efectos, características o circunstancias del 
+artículo 11 de la Ley N°19.300.

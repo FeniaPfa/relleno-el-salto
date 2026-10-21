@@ -4,22 +4,35 @@ Análisis geoespacial independiente del Estudio de Impacto Ambiental del proyect
 «Centro Metropolitano de Gestión Integral de Residuos» (COSEMAR SpA), El Salto,
 Viña del Mar. Expediente SEIA **2168892026**.
 
-Sitio estático: un `index.html` y sus imágenes. Sin build, sin dependencias.
-La única librería externa es Three.js, desde cdnjs.
+**→ <https://feniapfa.github.io/seia-data/>**
 
-## Publicar en GitHub Pages
+Todo sale de los documentos que el propio titular presentó al SEIA, de cartografía suya
+reproyectada desde EPSG:32719, de OpenStreetMap y de imágenes Sentinel-2. Cada sección declara
+su fuente, su método y sus límites.
 
-1. Crea el repositorio y sube el contenido de esta carpeta a la raíz.
-2. En **Settings → Pages**, elige *Deploy from a branch*, rama `main`, carpeta `/ (root)`.
-3. Cuando quede en línea, reemplaza `USUARIO.github.io/cosemar-el-salto` por la URL
-   real en las etiquetas `og:url`, `og:image` y `canonical` del `index.html`
-   (o en `build_sitio.py`, variable `URL`, y vuelve a generar).
+## Construir
 
-Ese último paso importa: sin la URL correcta, al compartir el enlace por WhatsApp
-no aparece la tarjeta con imagen.
+```bash
+python3 build.py        # src/ → index.html
+```
 
-## Fuentes
+Sin dependencias ni build system. La única librería externa es Three.js, desde cdnjs.
+`index.html` es generado: edita `src/`.
 
-Todo sale del expediente público en `seia.sea.gob.cl`, de cartografía propia del
-titular reproyectada desde EPSG:32719, de OpenStreetMap y de imágenes Sentinel-2.
-Cada sección declara su fuente y su método.
+## Estructura
+
+```
+index.html          generado, lo sirve GitHub Pages
+src/                las fuentes
+build.py            arma index.html
+reordenar.py        cambia el orden de las secciones y renumera
+lee.py              extrae texto de un PDF (PyMuPDF)
+docs/               hallazgos verificados y fuentes
+expediente/texto/   73 documentos del expediente en texto, base de verificación
+CLAUDE.md           contexto para iterar con Claude Code
+```
+
+## Antes de cambiar algo
+
+Lee `CLAUDE.md`. Varias cosas que parecen arbitrarias resuelven un problema concreto: el orden
+de las secciones, la separación tipográfica entre cifras y voz, y las trampas del build.

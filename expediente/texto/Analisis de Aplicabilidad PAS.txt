@@ -1,0 +1,531 @@
+### PÁGINAS TOTALES: 17
+
+===== p.1 =====
+An´alisis de Aplicabilidad PAS 156/157
+Revisi´on B
+PROYECTO CENTRO METROPOLITANO DE GESTI´ON
+INTEGRAL DE RESIDUOS
+Desarrollado para:
+COSEMAR S.A.
+Presentado: 30 de abril de 2026
+Autor:
+RIVERINE SPA
+contacto@riverine.cl
+
+===== p.2 =====
+´Indice
+1. Introducci´on
+2
+2. Identificaci´on de Cauces
+3
+3. An´alisis de Aplicabilidad
+10
+4. Conclusiones
+16
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+1
+
+===== p.3 =====
+1.
+Introducci´on
+En el marco del proyecto “Centro Metropolitano de Gesti´on Integral de Residuos”, desa-
+rrollado por COSEMAR S.A, se ha solicitado a Riverine SpA la elaboraci´on de un an´alisis
+de aplicabilidad de los Permisos Ambientales Sectoriales (PAS) N°156 y N°157, confor-
+me a lo establecido en el Reglamento del Sistema de Evaluaci´on de Impacto Ambiental
+(RSEIA). El proyecto se ubica en la comuna de Vi˜na del Mar, Regi´on de Valpara´ıso, tal
+como se presenta en la Figura 1-1.
+Figura 1-1: Ubicaci´on general del proyecto CMGIR
+En el presente documento se ha realizado la identificaci´on de la red h´ıdrica en el ´area
+de emplazamiento del proyecto, reconoci´endose tres (3) cauces principales con m´ultiples
+tributarios. A partir de esta caracterizaci´on, se evalu´o su interacci´on con las obras proyec-
+tadas, con el fin de determinar la aplicabilidad de los Permisos Ambientales Sectoriales
+N°156 y N°157. Este an´alisis permite establecer si existen obras y partes del proyecto que
+se localizan dentro de ´areas de inundaci´on asociadas a eventos con per´ıodo de retorno
+de 100 a˜nos. Entre las obras evaluadas se consideran el camino de acceso, los caminos
+internos, las plataformas de instalaciones, los canales, la tuber´ıa, las piscinas de lixiviados
+y el relleno sanitario, entre otras.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+2
+
+===== p.4 =====
+2.
+Identificaci´on de Cauces
+Los cauces naturales sujetos a modificaci´on de cauce se encuentran en la comuna de Vi˜na
+del Mar, Regi´on de Valpara´ıso. En la Figura 2-2 se presenta el trazado del camino de
+acceso, el ´area y deslinde de terreno que involucra el proyecto CMGIR, as´ı como tambi´en
+la red de drenaje basada en la hidrograf´ıa se˜nalada en la carta IGM escala 1:50.000 para
+la zona del proyecto, de la cual se identifican el Estero Las Palmas, el Estero Marga
+Marga, el Estero Quilpu´e y el Estero Vi˜na del Mar. Cabe destacar que, para efectos de
+este documento, el Estero Marga Marga termina en la confluencia con el Estero Quilpu´e
+y, desde ah´ı, nace el Estero Vi˜na del Mar.
+Adicionalmente, en la hidrograf´ıa IGM se identifican m´ultiples quebradas sin nombre en
+la zona del Proyecto, de las cuales solo seis (6) interact´uan con el Proyecto, dos con el
+camino de acceso y 4 con el ´area del Proyecto correspondiente al relleno sanitario y sus
+instalaciones. Estas seis quebradas se ubican en el costado Sur de la Ruta 60 y correspon-
+den a tributarios del Estero Marga Marga. En la Tabla 2-1 se muestra la identificaci´on
+del Estero Marga Marga en la red h´ıdrica nacional.
+Figura 2-2: Identificaci´on de cauces naturales y artificiales presentes en la zona de estudio
+seg´un cartograf´ıa IGM escala 1:50.000.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+3
+
+===== p.5 =====
+Tabla 2-1: Identificaci´on seg´un red hidrogr´afica nacional.
+Cauce
+ID
+Cuenca
+Codigo ssubc
+Estero Marga Marga
+113821
+Estero Marga Marga
+0550
+Dado que en terreno y en la imagen satelital se observan multiples quebradas naturales,
+se gener´o una red h´ıdrica local en base al levantamiento topogr´afico del proyecto. Para la
+delimitaci´on de cauces se utiliz´o un umbral m´ınimo de 1 ha de cuenca aportante, criterio
+que permite representar adecuadamente las quebradas de fuerte pendiente presentes en el
+sector. La red obtenida se muestra en la Figura 2-3, en relaci´on con el trazado del camino
+proyectado. Cabe destacar que todos los cauces identificados en la cartograf´ıa IGM se
+encuentran contenidos en esta red local.
+Adicionalmente, debido a la gran cantidad de cauces sin nombre, se adopt´o una nomen-
+clatura jer´arquica basada en el orden de Hack. Este sistema asigna un n´umero i al cauce
+principal, j a sus tributarios directos y k a los tributarios de estos, permitiendo identificar
+cada cauce seg´un su posici´on dentro de la red de drenaje (Qi,j,k).
+Figura 2-3: Definici´on de red h´ıdrica con ´area aportante mayor a una (1) hect´area.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+4
+
+===== p.6 =====
+Respecto a las caracter´ısticas de los cauces, seg´un lo observado en terreno, los estos se
+clasifican como torrentes de escurrimiento espor´adico, con una aparente secci´on trapecial
+de taludes pronunciados (≈1:1 H:V). La cobertura vegetal que se observa en la zona
+de estudio posee un car´acter homog´eneo, tal como se muestra en las Figuras 2-4 y 2-5.
+Adicionalmente, se destaca que las quebradas son pronunciadas desde la cabecera de sus
+cuencas hasta la desembocadura en el Estero Marga-Marga y Estero Vi˜na del Mar, con
+una pendiente promedio del 30 %, sin terrazas ni planicies de inundaci´on evidentes.
+Figura 2-4: Fotograf´ıa representativa de las quebradas Q1, Q2 y Q3 en la zona de proyecto.
+Im´agenes capturadas de vuelo dron en terreno, con fecha 7 de Febrero de 2025.
+Figura 2-5: Fotograf´ıa representativa de las quebradas Q4 a Q13 en la zona de proyecto.
+Im´agenes capturadas de vuelo dron en terreno, con fecha 7 de Febrero de 2025.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+5
+
+===== p.7 =====
+La Figura 2-6 ilustra las caracter´ısticas morfol´ogicas de los cauces, las cuales se pueden
+agrupar en tres tipos generales: (a) lechos de gravas con laderas cubiertas por vegetaci´on
+alta y media, (b) lechos arenosos con taludes de sedimento fino y vegetaci´on, y (c) sec-
+ciones angostas con baja vegetaci´on y taludes de sedimento fino. Estas caracter´ısticas se
+observaron de manera consistente en todas las quebradas del sector.
+Figura 2-6: Fotograf´ıas representativas de distintos tramos observables en la quebrada
+Q2. (a) Secci´on de lecho con presencia de gravas y vegetaci´on. (b) Secci´on con vegetaci´on,
+lecho de arenas y taludes de sedimento fino. (c) Secci´on angosta de baja vegetaci´on, lecho
+arenoso y taludes de sedimento fino. Fotograf´ıas del 7 de Febrero de 2025.
+En particular, las quebradas que interact´uan con el Proyecto van desde la Q1 hasta la
+Q13. En cuanto a las quebradas Q1, Q2 y Q3, drenan sus aguas directamente en el Estero
+Marga Marga (ver Figura 2-7) aguas abajo de la ubicaci´on de las obras del Proyecto.
+En el caso de las quebradas Q4, Q5 y Q6, estas dirigen sus aguas hacia unas obras de
+arte (OA), ubicadas aguas abajo del camino de acceso, correspondientes a Alcantarillas
+de tuber´ıas de hormig´on que cruzan la ruta 60. Q4 se dirige de manera independiente
+hacia OA1, mientras que Q5 y Q6 confluyen y se dirigen hacia OA2 (ver Figura 2-8). Tras
+cruzar la Ruta 60, las aguas drenan hacia el Estero Marga Marga, aguas arriba del Estero
+Quilpu´e.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+6
+
+===== p.8 =====
+Figura 2-7: Vista en planta de la quebradas Q1, Q2 y Q3. a) Red de drenaje de las
+quebradas Q1, Q2 y Q3. b) Fotograf´ıa del vuelo dron en la zona de descarga Quebrada Q1
+en el Estero Marga Marga. c) Fotograf´ıa del vuelo dron en la zona de descarga Quebradas
+Q2 y Q3 en el Estero Marga Marga.
+Figura 2-8: Vista en planta de las quebradas Q4, Q5 y Q6. a) Red de drenaje de la
+quebradas Q4, Q5 y Q6. b) Fotograf´ıa tomada del vuelo dron desde aguas abajo de la
+obra de arte OA1. c) Fotograf´ıa tomada del vuelo dron desde aguas abajo de la obra de
+arte OA2.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+7
+
+===== p.9 =====
+En el caso de Q7, sus aguas se dirigen hacia la alcantarilla de tuber´ıa de hormig´on OA3
+(ver Figura 2-9). Luego, las aguas de esta quebradas son drenadas hacia el Estero Vi˜na
+del Mar, aguas abajo de la confluencia con el Estero Quilpu´e.
+Figura 2-9: Vista en planta de la quebrada Q7. a) Red de drenaje de la quebrada Q7. b)
+Fotograf´ıa tomada del vuelo dron desde aguas arriba de la obra de arte OA3. c) Fotograf´ıa
+tomada del vuelo dron desde aguas abajo de la obra de arte OA3.
+De manera similar, las quebradas Q8, Q9 y Q13 dirigen sus aguas hacia una obra de arte
+ubicada aguas abajo del camino proyectado. Esta obra de arte (OA4) donde confluyen
+Q8, Q9 y Q13, corresponde a una alcantarilla con tuber´ıa de hormig´on que cruza la ruta
+60 (ver Figura 2-10). Luego, las aguas de estas quebradas son drenadas hacia el Estero
+Vi˜na del Mar, aguas abajo de la confluencia con el Estero Quilpu´e.
+Finalmente, las quebradas Q10, Q11 y Q12 descargan sus aguas en el sistema de evacua-
+ci´on de aguas lluvias de la ruta 60, aguas abajo del camino proyectado. Las descargas,
+identificadas como D1, D2 y D3 (ver Figura 2-11), corresponden a canalizaciones de hor-
+mig´on. Posteriormente, estas aguas se dirigen al oeste por el sistema de aguas lluvias de
+la Ruta 60.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+8
+
+===== p.10 =====
+Figura 2-10: Vista en planta de las quebradas Q8, Q9 y Q13. a) Red de drenaje de las
+quebradas Q8, Q9 y Q13. b) Fotograf´ıa tomada del vuelo dron desde aguas abajo de la
+obra de arte OA4.
+Figura 2-11: Vista en planta de las quebradas Q10, Q11 y Q12. a) Red de drenaje de las
+quebradas Q10, Q11 y Q12. b) Imagen capturada desde el software Google Earth Pro de
+las descarga D2 y D3. c) Imagen capturada desde el software Google Earth Pro de las
+descarga D1 y D2.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+9
+
+===== p.11 =====
+3.
+An´alisis de Aplicabilidad
+Toda parte u obra del proyecto que implique alg´un tipo de modificaci´on en los cauces
+identificados en el Cap´ıtulo 2, requerir´a PAS 156 o 157 seg´un el tipo de obra. Las partes
+del proyecto que se analizan en este estudio son las siguientes:
+Caminos de acceso.
+Caminos interiores.
+Plataformas de instalaciones.
+Relleno Sanitario.
+Canales junto con sus obras de captaci´on y descarga.
+Tuber´ıa.
+En primer lugar, el camino de acceso proyectado interact´ua en m´ultiples puntos con la red
+h´ıdrica identificada, por lo que requiere la tramitaci´on de un PAS 156 por 18 atraviesos
+viales. En la Figura 3-12 se identifican los atraviesos de cauce generados a partir de la
+proyecci´on del camino de acceso, mientras que en la Tabla 3-2 se presentan los cauces a
+intervenir y las coordenadas de dichos atraviesos.
+Figura 3-12: Identificaci´on de interacciones entre el camino de acceso con cauces naturales.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+10
+
+===== p.12 =====
+Tabla 3-2: Resumen de interacciones entre el camino de acceso con cauces naturales.
+ID
+Nombre
+Cauces
+Coordenadas UTM
+Datum WGS 84, Huso 19S
+Este (m)
+Norte (m)
+1
+A-01
+Q7
+267.913
+6.339.024
+2
+A-02
+Q9
+267.752
+6.339.067
+3
+A-03
+Q8
+267.698
+6.339.058
+4
+A-04
+Q13
+267.686
+6.339.126
+5
+A-05
+Q12
+267.550
+6.339.171
+6
+A-06
+Q11
+267.480
+6.339.149
+7
+A-07
+Q10
+267.453
+6.339.136
+8
+A-08
+Q10
+267.461
+6.339.080
+9
+A-09
+Q11
+267.487
+6.339.094
+10
+A-10
+Q8
+267.676
+6.338.933
+11
+A-11
+Q7
+267.799
+6.338.873
+12
+A-12
+Q6
+267.863
+6.338.815
+13
+A-13
+Q5
+267.930
+6.338.706
+14
+A-14
+Q4
+268.055
+6.338.639
+15
+A-15
+Q3.2.4
+268.033
+6.338.453
+16
+A-16
+Q3.1.3
+268.005
+6.338.388
+17
+A-17
+Q3
+268.077
+6.338.062
+18
+A-18
+Q3.1.8
+268.153
+6.337.915
+Por otro lado, las Figuras 3-13 y 3-14 muestran las obras e instalaciones en el ´area del
+relleno sanitario. En particular, en la Figura 3-14, estas se presentan en conjunto con la
+red de cauces, con el fin de identificar las quebradas afectadas por el Proyecto.
+Figura 3-13: Obras asociadas al relleno sanitario y plataforma de instalaciones.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+11
+
+===== p.13 =====
+Figura 3-14: Cauces identificados que interact´uan con el ´area del Proyecto relacionado al
+relleno sanitario y plataforma de instalaciones.
+Para construir las obras e instalaciones necesarias para el funcionamiento del relleno sani-
+tario, se requiere rellenar parte de las quebradas para conformar las plataformas donde se
+dispondr´an las instalaciones de administraci´on y operaciones, caminos internos, zonas de
+lixiviados, entre otros. Seg´un la gu´ıa PAS 157 “Permiso para Efectuar Obras de Regulari-
+zaci´on o Defensa de Cauces Naturales” (SEA, 2022), la disposici´on o relleno de material
+en el cauce es considerado como obra de regularizaci´on y, por lo tanto, le es aplicable el
+PAS 157. Del mismo modo, el relleno sanitario consiste en la disposici´on de material sobre
+quebradas naturales, por lo que tambi´en le es aplicable dicho permiso.
+Adicionalmente, se proyecta la construcci´on de canales de contorno y un acueducto (tu-
+ber´ıa) del relleno sanitario, con el objeto de captar las aguas no contactadas provenientes
+de las ´areas aportantes aguas arriba del relleno. La Figura 3-15 muestra la red de drenaje
+artificial y la red de conducci´on proyectada.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+12
+
+===== p.14 =====
+Figura 3-15: Interacci´on de camino interno del proyecto con red de drenaje artificial.
+En la Tabla 3-3 se listan los cauces afectados por el conjunto de obras se˜naladas anterior-
+mente, todas ellas sujetas al PAS 157.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+13
+
+===== p.15 =====
+Tabla 3-3: Cauces identificados con posible intervenci´on por el proyecto.
+ID
+Componente proyecto
+Quebrada Intervenida
+1
+Plataforma: Zona Instalaciones Administra-
+tivas y Operacionales (Etapa 1)
+Q2, Q2.1.10, Q2.1.11
+2
+Plataforma: Zona de Compostaje (Etapa 1)
+Q2, Q2.1.12, Q3.1.15
+3
+Plataforma: Zona de Lixiviados (Etapa 1)
+Sin Intervenci´on
+4
+Plataforma: Zona de Lixiviados (Etapa 2)
+Q2.1.15
+5
+Plataforma: Piscina de Lixiviados (Etapa 1)
+Q2.1.9
+6
+Plataforma: Piscina de Lixiviados (Etapa 2)
+Q2.1.6
+7
+Plataforma: Bermas y muros (Etapa 1)
+Q2, Q2.1.12, Q2.1.9, Q2.2.4
+8
+Plataforma: Bermas y muros (Etapa 2)
+Q2.1.6, Q2.2
+9
+Plataforma: Bermas y muros (Etapa 3)
+Q1
+10
+Relleno Sanitario (Etapa 1)
+Q2, Q2.1.14, Q2.1.13, Q2.1.9
+11
+Relleno Sanitario (Etapa 2)
+Q2.1.6, Q2.2.1
+12
+Relleno Sanitario (Etapa 3)
+Q2.1.6,
+Q1,
+Q1.1.15,
+Q1.1.17,
+Q1.1.16
+13
+Caminos Interiores
+Q2, Q2.1.9, Q2.2.3, Q2.2.4
+14
+Captaciones, Canales y Descargas
+Q2,
+Q2.1.14,
+Q2.1.9,
+Q2.2.3,
+Q2.1.6, Q1, Q1.1.17, Q1.1.14
+15
+Tuber´ıa
+Q2, Q2.1.14
+Asimismo, en la Figura 3-15 se identifican los atraviesos proyectados en las zonas donde los
+canales interact´uan con los caminos, bermas y muros del proyecto. Para estos atraviesos,
+correspondientes a caminos interiores, es aplicable el PAS 156. La Tabla 3-4 indica la
+ubicaci´on de los 15 atraviesos proyectados.
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+14
+
+===== p.16 =====
+Tabla 3-4: Ubicaci´on de las obras en coordenadas UTM.
+ID
+Nombre
+Cauces
+artificiales
+Coordenadas UTM
+Datum WGS 84, Huso 19S
+Este (m)
+Norte (m)
+19
+A-19
+Canal 1.2
+267.808
+6.337.493
+20
+A-20
+Canal 1.4
+268.055
+6.337.345
+21
+A-21
+Canal 1.4
+268.164
+6.337.458
+22
+A-22
+Canal 1.3
+268.233
+6.337.313
+23
+A-23
+Canal 1.3
+268.266
+6.337.428
+24
+A-24
+Canal 2.0
+268.525
+6.337.217
+25
+A-25
+Tuber´ıa
+267.742
+6.337.159
+26
+A-26
+Canal 1.2
+267.704
+6.337.102
+27
+A-27
+Captaci´on 1
+267.827
+6.336.902
+28
+A-28
+Canal 3.1
+268.432
+6.336.694
+29
+A-29
+Canal 3.2
+268.503
+6.336.952
+30
+A-30
+Canal 2.0
+268.516
+6.337.207
+31
+A-31
+Canal 1.3
+268.215
+6.337.300
+32
+A-32
+Captaci´on 3
+268.137
+6.336.644
+33
+A-33
+Captaci´on 2
+268.003
+6.336.640
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+15
+
+===== p.17 =====
+4.
+Conclusiones
+Se ha realizado un estudio de la red h´ıdrica en la zona donde se construir´a el proyec-
+to “Centro Metropolitano de Gesti´on Integral de Residuos”. El objetivo del estudio fue
+determinar la interacci´on de las partes y obras del proyecto con los cauces naturales iden-
+tificados y determinar la aplicabilidad de los permisos ambientales sectoriales PAS 156 y
+PAS 157.
+Para este prop´osito se realiz´o un an´alisis hidrol´ogico de la zona, que incluy´o la iden-
+tificaci´on y caracterizaci´on geomorfol´ogica de los cauces. El an´alisis determin´o que las
+quebradas corresponden a torrentes de escurrimiento intermitente, activados ´unicamente
+durante eventos de precipitaci´on significativa. Se identificaron las quebradas Q1 a Q13,
+junto con sus tributarias.
+A partir de los resultados del an´alisis de la red h´ıdrica en la zona de estudio, se concluye
+que es necesaria la tramitaci´on del PAS 156 para un total de 33 atraviesos viales, 18
+asociados al camino de acceso, y 15 asociados a la interacci´on entre los caminos interiores
+y los canales proyectados.
+Adicionalmente, se requiere la tramitaci´on del PAS 157 debido a la regularizaci´on de cauces
+asociada al relleno sanitario y los movimientos de tierra necesarios para la habilitaci´on
+de las plataformas de las instalaciones, piscinas de lixiviados, caminos internos, as´ı como
+bermas y muros. Asimismo, aplica para los canales de contorno y un acueducto tipo
+tuber´ıa que atraviesa la Etapa 1, el cual conduce las aguas de las quebradas Q2 y Q2.1.14
+hacia el canal de contorno.
+A modo de resumen, en la Tabla 4-5 se presentan las obras a las cuales les aplica el PAS
+156/157.
+Tabla 4-5: Resumen an´alisis de aplicabilidad PAS.
+Obra
+Aplicabilidad
+Observaciones
+Camino de acceso
+PAS 156
+18 atraviesos viales
+Caminos interiores
+PAS 156
+15 atraviesos viales
+Plataformas
+PAS 157
+Regularizaci´on de cauce
+Relleno Sanitario
+PAS 157
+Regularizaci´on de cauce
+Canales de Contorno
+PAS 157
+Regularizaci´on de cauce
+Tuber´ıa
+PAS 157
+Regularizaci´on de cauce
+An´alisis de Aplicabilidad PAS 156/157 - CMGIR
+16

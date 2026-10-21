@@ -1,0 +1,257 @@
+### PÁGINAS TOTALES: 5
+
+===== p.1 =====
+Preparado por: 
+ Preparado para: 
+ 
+  
+GEAGRAM Ltda. 
+ COSEMAR SPA. 
+Providencia #1017 Of 41, Providencia 
+Región Metropolitana 
+ 5 Oriente #368, Viña del Mar  
+Región Valparaíso 
+geagram.informacion@gmail.com 
+  
+LÍNEA BASE DE EDAFOLOGÍA 
+ESTUDIO DE IMPACTO AMBIENTAL 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL 
+DE RESIDUOS 
+APÉNDICE 3: CRITERIOS ANÁLISIS DE SUELO
+
+===== p.2 =====
+EIA Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea de Base de Edafología 
+Apéndice 3: Criterios análisis de suelo 
+ 
+ 
+ 
+Junio, 2026. 
+ 
+ 
+LISTA DE CUADROS 
+Cuadro 1-1. Criterios de clasificación de pH del suelo y efectos esperables en las plantas 
+2 
+Cuadro 1-2. Criterios de clasificación sobre rangos de contenidos (%) de materia orgánica de suelos. 
+3 
+Cuadro 1-3. Criterios de clasificación sobre rangos de clases de salinidad. 
+3 
+Cuadro 1-4. Criterios de clasificación sobre rangos de clases de Sodicidad. 
+3 
+Cuadro 1-5. Criterios de interpretación sobre rangos de Carbonatos. 
+4 
+Cuadro 1-6. Criterios de interpretación sobre densidad aparente por el método del cilindro en diferentes 
+clases texturales. 
+4 
+Cuadro 1-7. Criterios de interpretación sobre clases de agua aprovechable. 
+4
+
+===== p.3 =====
+EIA Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea de Base de Edafología 
+Apéndice 3: Criterios análisis de suelo 
+ 
+ 
+ 
+Junio, 2026. 
+Página 2 de 5 
+ 
+1.0 TABLAS DE CRITERIOS PARA CARACTERIZACIÓN FISICO-QUÍMICA DEL 
+SUELO 
+ 
+Cuadro 1-1. Criterios de clasificación de pH del suelo y efectos esperables en las plantas  
+Rango de pH (H2O 
+1:2,5) 
+Término descriptivo 
+Efectos esperables 
+<3,5 
+Ultra ácido 
+Condiciones muy desfavorables. Toxicidad de Al. 
+3,6 – 4,4 
+Extremadamente ácido 
+Posible toxicidad por Al3+ y Mn. 
+4,5 – 5,0 
+Muy fuertemente ácido 
+Posible toxicidad por Al3+ y Mn. 
+5,1 – 5,5 
+Fuertemente ácido 
+Exceso: Co, Cu, Fe, Mn, Zn. Deficiencia: Ca, K, N, Mg, Mo, 
+P, S. Suelos sin carbonato de Calcio. Actividad bacteriana 
+pocas. 
+5,6 – 6,0 
+Moderadamente ácido 
+Adecuado para la mayoría de los cultivos. 
+6,1 – 6,5 
+Débilmente ácido 
+Máxima disponibilidad de nutrientes 
+6,6 – 7,3 
+Neutro 
+Mínimos efectos tóxicos. Bajo pH 7,0 no hay carbonato de 
+calcio 
+7,4 – 7,8 
+Débilmente alcalino 
+Suelos generalmente con CaCO3 
+7,9 – 8,4 
+Moderadamente 
+alcalino 
+Disminuye la disponibilidad de P y B. Deficiencia creciente 
+de Co, Cu, Fe, Mn y Zn. Clorosis férrica 
+8,5 – 9,0 
+Fuertemente alcalino 
+En suelos no sódicos, pueden haber MgCO3. Mayores 
+problemas de clorosis férrica. Toxicidad de B. 
+>9,0 
+Muy Fuertemente 
+alcalino 
+Presencia de carbonato de sodio. Suelo sódico. Toxicidad: 
+Na, B. Movilidad del P como Na3PO4. Actividad microbiana 
+pocas. Micronutrientes poco disponibles, excepto Mo. 
+Condiciones muy desfavorables. 
+Fuente: Havlin et al., 2017; Brady y Weil 2008; Schoeneberger et al. (2012).
+
+===== p.4 =====
+EIA Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea de base de edafología 
+Apéndice 3: Criterios análisis de suelo 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 3 de 5 
+ 
+Cuadro 1-2. Criterios de clasificación sobre rangos de contenidos (%) de materia orgánica de suelos. 
+Materia Orgánica 
+(%) 
+Categoría 
+Observaciones 
+<1,5 
+Muy bajo 
+Muy bajo contenido de N total, y muy pobre condición física y 
+biológica del suelo. 
+1,6 – 3,0 
+Bajo 
+Bajo contenido de N total, y pobre condición física y biológica del 
+suelo. 
+3,1 – 4,5 
+Medio 
+Contenido medio de N total, mejor condición física y biológica del 
+suelo sin ser óptima. 
+4,6 – 8,0 
+Alto 
+Contenido moderadamente alto de N total, buena condición física y 
+biológica del suelo, buen arraigamiento de raíces. 
+>8,1 
+Muy Alto 
+Alto contenido de N total, buena condición física del suelo, 
+estructurado, de buena aireación e infiltración y muy buen 
+arraigamiento de raíces. 
+Fuente: Adaptada de Sierra (2003). 
+ 
+Cuadro 1-3. Criterios de clasificación sobre rangos de clases de salinidad. 
+Salinidad (dS m-1) 
+Clasificación 
+0 <2 
+No salino 
+2 a <4 
+Ligeramente Salino 
+4 a <8 
+Moderadamente Salino 
+8 a <12 
+Muy Salino 
+12 o más 
+Extremadamente Salino 
+Fuente: SAG (2011, rectificada 2016). 
+ 
+Cuadro 1-4. Criterios de clasificación sobre rangos de clases de Sodicidad. 
+RAS (%) 
+Clasificación 
+<5 
+No sódico 
+5 – 13 
+Ligeramente Sódico 
+13 – 18 
+Moderadamente Sódico 
+18 - 28 
+Fuertemente Sódico 
+>28 
+Muy Fuertemente Sódico 
+Fuente: SAG (2011, rectificada 2016).
+
+===== p.5 =====
+EIA Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Línea de base de edafología 
+Apéndice 3: Criterios análisis de suelo 
+ 
+ 
+ 
+ 
+Junio, 2026. 
+Página 4 de 5 
+ 
+Cuadro 1-5. Criterios de interpretación sobre rangos de Carbonatos. 
+ 
+Carbonatos Totales 
+Rango (% CaCO3) 
+A0 
+No calcáreo 
+0%, sin efervescencia, ni visible, ni audible. 
+A1 
+Ligeramente calcáreo 
+<2%, efervescencia ligera, audible pero no visible. 
+A2 
+Moderadamente calcáreo 
+2 a <10%, efervescencia visible y audible. 
+A3 
+Fuertemente calcáreo 
+10 a <25%, con burbujas que forman espuma baja. 
+A4 
+Extremadamente calcáreo 
+25% o más, fuertemente efervescente con burbujas que 
+forman rápidamente una espuma alta 
+Fuente: SAG (2011, rectificada 2016). 
+ 
+Cuadro 1-6. Criterios de interpretación sobre densidad aparente por el método del cilindro en diferentes 
+clases texturales. 
+Clase textural 
+Rango observado (Mg m-3) 
+Clase textural 
+Rango observado (Mg m-3) 
+Arenoso 
+1,4 – 1,9 
+Arcilloso 
+0,9 – 1,4 
+Franco arenoso 
+1,4 – 1,8 
+Volcánicos 
+0,3 – 0,95 
+Franco 
+1,4 – 1,7 
+Orgánicos 
+0,15 – 0,45 
+Franco limoso 
+1,3 – 1,6 
+Compactados 
+1,5 – 1,9 
+Fuente: Sandoval et al., 2012. 
+ 
+Cuadro 1-7. Criterios de interpretación sobre clases de agua aprovechable. 
+Símbolo 
+Condición 
+Descripción 
+H1 
+Muy Buena 
+18 cm c.a. o más 
+H2 
+Buena 
+de 12 a <18 cm c.a. 
+H3 
+Regular 
+de 9,5 a <12 cm c.a. 
+H4 
+Pobre 
+de 5 a <9,5 cm c.a. 
+H5 
+Muy Pobre 
+menos de 5 cm c.a. 
+Fuente: Pauta SAG, 2011 rectificada 2016.

@@ -1,0 +1,528 @@
+### PÁGINAS TOTALES: 11
+
+===== p.1 =====
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ANEXO 
+PAS 146 
+ 
+ 
+Documento Preparado por: 
+                                                    
+ 
+ 
+ 
+ 
+ 
+ 
+Junio 2026
+
+===== p.2 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+1 
+ 
+ 
+INDICE DE CONTENIDOS 
+1. INTRODUCCIÓN .................................................................................................................. 2 
+Aplicabilidad del permiso ................................................................................................... 2 
+2. Permiso Ambiental Sectorial 146 ....................................................................................... 3 
+a.1) Descripción del proyecto ............................................................................................. 3 
+a.2) Especies, sexo y número de ejemplares estimados a cazar o capturar ....................... 3 
+a.3) Estado de las poblaciones a intervenir ........................................................................ 4 
+a.4) Metodologías de caza, captura y manejo .................................................................... 6 
+a.5) Lugar de captura y destino de los animales ............................................................ 6 
+a.6) Condiciones de transporte e instalaciones de cautiverio ............................................ 8 
+a.7) Cronograma de las actividades que se realizarán y período por el que se solicita el 
+permiso ........................................................................................................................... 8 
+3. Plan de Seguimiento ......................................................................................................... 10
+
+===== p.3 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+2 
+ 
+1. INTRODUCCIÓN 
+El presente permiso ambiental sectorial se fundamenta en el artículo 9° de la Ley N° 4.601 sobre 
+Caza, modificada por la Ley N° 19.473, y en el artículo 609 del Código Civil. En el marco de la 
+evaluación ambiental del proyecto Centro Metropolitano de Gestión Integral de Residuos (en 
+adelante, el Proyecto), su aplicación se circunscribe a la captura de ejemplares vinculada a una 
+medida de rescate y relocalización de fauna, en estricta conformidad con lo establecido en el artículo 
+146 del RSEIA, quedando excluida la caza. 
+El Proyecto contempla la construcción y operación de un centro de gestión integral de residuos 
+sólidos no peligrosos, mediante unidades de relleno sanitario, planta de compostaje, planta de 
+reciclaje, un sistema de tratamiento de lixiviados mediante ósmosis inversa y un sistema de 
+captación de biogás. La superficie total de la propiedad comprende 206 hectáreas, definiéndose un 
+área de intervención física total de 82,2 hectáreas. Dicha superficie de intervención se compone de 
+un polígono central de obras de 69,83 hectáreas, caracterizado por formaciones vegetales de 
+matorral esclerófilo y bosque nativo, y un camino y un camino de acceso a construir. 
+Aplicabilidad del permiso 
+Conforme al numeral 5.1, letra b), de la Guía de Trámite del PAS 146, el permiso resulta aplicable a 
+proyectos donde la superficie a intervenir afecte a reptiles y la velocidad de avance de las obras sea 
+mayor que la velocidad de desplazamiento de los ejemplares. 
+Para el área correspondiente al polígono principal de intervención directa (69,832 hectáreas), la 
+Línea de Base de Fauna Terrestre documentó la presencia de un ensamble de reptiles categorizado 
+de baja movilidad, compuesto por las especies Liolaemus lemniscatus, Liolaemus fuscus, Liolaemus 
+chiliensis y Philodryas chamissonis, todas clasificadas bajo la categoría de Preocupación Menor (LC). 
+Dado que la modificación en este polígono se ejecutará a una velocidad que supera la capacidad de 
+desplazamiento autónomo de estos taxones, resulta exigible aplicar la medida de rescate y 
+relocalización de manera previa al inicio de las obras. 
+Por su parte, la intervención asociada al camino de acceso principal, dada su configuración lineal, 
+queda excluida del alcance de la medida de rescate y relocalización. De acuerdo con los Criterios 
+Técnicos del SEA (2022), en obras de extensión lineal donde los desplazamientos de los ejemplares 
+implican movimientos de escala menor y existe continuidad ambiental perimetral, no procede el 
+rescate y relocalización de individuos. En consecuencia, los potenciales efectos sobre la 
+herpetofauna en el área del camino de acceso serán abordados mediante un plan de perturbación 
+controlada en el frente de avance, permitiendo la dispersión autónoma de los ejemplares.
+
+===== p.4 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+3 
+ 
+2. Permiso Ambiental Sectorial 146 
+a.1) Descripción del proyecto 
+La medida a ejecutar consiste en la implementación de un Plan de Rescate y Relocalización de fauna 
+silvestre, específicamente orientada a los ejemplares de la clase Reptilia con baja movilidad 
+autónoma presentes en el área de intervención principal del Proyecto (69,83 hectáreas), mediante 
+su captura y traslado hacia un sitio de destino con condiciones ambientales equivalentes, en forma 
+previa al inicio de las obras de construcción, con el objeto de evitar su muerte o atrapamiento 
+durante las faenas de despeje de vegetación y movimiento de tierras. 
+a.2) Especies, sexo y número de ejemplares estimados a cazar o capturar 
+Las actividades de captura se focalizarán exclusivamente en los taxones de la clase Reptilia asociados 
+a las unidades de vegetación y sustratos que serán removidos dentro del polígono de intervención 
+directa de 69,83 ha aproximadas. En el área de intervención los ambientes están asociados a 
+formaciones vegetales de matorral y bosque esclerófilo 
+De acuerdo con los registros primarios contenidos en el Anexo 5 de la Línea de Base de Fauna 
+Terrestre, se documenta la presencia efectiva tanto de hembras como de machos para las especies 
+objetivo en el área de estudio. Por consiguiente, la medida de rescate y relocalización se aplicará 
+sobre individuos de ambos sexos indistintamente. 
+Para cuantificar la abundancia potencial y el número de ejemplares estimados a capturar, se aplica 
+un método de extrapolación areal. El cálculo de la densidad poblacional para cada especie se realiza 
+con base en su abundancia y el área prospectada. Los valores utilizados para este análisis 
+corresponden a la campaña estacional más representativa (primavera), por presentar las 
+condiciones de mayor detectabilidad y riqueza para este grupo taxonómico. 
+Para determinar la densidad dentro del sitio de captura, se estimó un área efectiva de muestreo de 
+5,0 hectáreas (correspondiente a 5 transectos pedestres de 200 m x 50 m, equivalentes a 1,0 ha cada 
+uno, correspondientes a los Transectos 1, 9, 10, 11 y 12).  
+La estimación del número total de individuos a rescatar se calculó en función de la superficie del 
+ambiente a intervenir. Se establece como meta operativa un estimado mínimo a rescatar equivalente 
+al 75% de la abundancia potencial proyectada teóricamente, reconociendo las limitaciones físicas de 
+detectabilidad herpetológica y estableciendo este valor como el umbral de cumplimiento exigible. 
+A continuación, se presenta el detalle del cálculo de densidad poblacional y la estimación 
+cuantitativa de los individuos a rescatar en el área de intervención:
+
+===== p.5 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+4 
+ 
+Tabla 1. Densidad de reptiles potenciales y estimación de individuos a rescatar. 
+ 
+a.3) Estado de las poblaciones a intervenir  
+El ensamble herpetológico sujeto a intervención en el área del Proyecto se describe a partir de los 
+antecedentes técnicos oficiales contenidos en las Fichas de Antecedentes de Especie del Ministerio 
+del Medio Ambiente (MMA), correspondientes a los procesos del Reglamento para la Clasificación 
+de Especies Silvestres (RCE). A continuación, se detalla el estado biológico, ecológico y poblacional 
+de las especies objetivo: 
+• 
+Liolaemus lemniscatus (Lagartija lemniscata): 
+ 
+• 
+Estado de conservación y origen: Especie nativa (presente en Chile y Argentina), 
+clasificada en la categoría de Preocupación Menor (LC). 
+• 
+Distribución y hábitat: En el territorio nacional, se distribuye desde la Región de 
+Coquimbo hasta la Región de La Araucanía, abarcando desde el nivel del mar hasta 
+los 2.000 m s.n.m. Su hábitat predilecto corresponde a lugares de vegetación corta 
+y predominantemente seca, registrando preferencia por matas de cardo, faldas de 
+cerros y praderas de vegetación herbácea, incluyendo también plantaciones 
+silvícolas de pinos y eucaliptos. 
+• 
+Biología y estado poblacional: Corresponde a una especie de fenotipo pequeño 
+(aproximadamente 15 cm), de reproducción ovípara (deposita 3 a 4 huevos) y dieta 
+insectívora. Es señalada como la especie de lagartija más abundante del valle central 
+de Chile. 
+• 
+Amenazas: Los antecedentes oficiales indican que es una de las pocas especies que 
+registra una alta adaptación a la acción antrópica y a las modificaciones del hábitat, 
+por lo que se determina que no presenta amenazas actuales significativas. 
+ 
+• 
+Liolaemus fuscus (Lagartija oscura): 
+ 
+• 
+Estado de conservación y origen: Especie endémica de Chile, clasificada en la 
+categoría de Preocupación Menor (LC). 
+Especie 
+(Nombre 
+Científico) 
+Nombre 
+Común 
+Abundancia 
+(Campaña 
+Representativa) 
+Área 
+prospectada 
+(ha) 
+Densidad 
+(ind/ha) 
+Área 
+de 
+Intervención 
+(ha) 
+Abundancia 
+Potencial 
+(N°) 
+Estimado 
+mínimo 
+a 
+rescatar 
+(75%) 
+Sexo 
+Liolaemus 
+lemniscatus 
+Lagartija 
+lemniscata 
+13 
+5,0 
+2,60 
+69,832 
+181,56 
+136 
+Hembras 
+y machos 
+Philodryas 
+chamissonis 
+Culebra de 
+cola larga 
+5 
+5,0 
+1,00 
+69,832 
+69,83 
+52 
+Hembras 
+y machos 
+Liolaemus 
+fuscus 
+Lagartija 
+oscura 
+1 
+5,0 
+0,20 
+69,832 
+13,97 
+10 
+Hembras 
+y machos
+
+===== p.6 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+5 
+ 
+• 
+Distribución y hábitat: Su distribución confirmada abarca desde la Región de 
+Atacama hasta la Región del Biobío, habitando desde el nivel del mar hasta los 1.900 
+m s.n.m. Presenta una preferencia estricta por hábitats pedregosos ubicados en las 
+cercanías de elementos esclerófilos, tales como especies del género Puya y 
+cactáceas. 
+• 
+Biología y estado poblacional: Se caracteriza por una fisonomía frágil, es de 
+reproducción ovípara (deposita 2 a 3 huevos) y presenta una dieta insectívora. A 
+nivel poblacional, los censos de referencia la describen como una especie frecuente, 
+pero poco abundante dentro de las comunidades de lagartijas, desconociéndose sus 
+tendencias poblacionales exactas. 
+• 
+Amenazas: La principal amenaza documentada para sus poblaciones corresponde a 
+la modificación y destrucción de su microhábitat. 
+ 
+• 
+Liolaemus chiliensis (Lagarto chileno): 
+ 
+• 
+Estado de conservación y origen: Especie nativa (presente en Chile y Argentina), 
+clasificada en la categoría de Preocupación Menor (LC). 
+• 
+Distribución y hábitat: Se distribuye en los bosques mediterráneos y temperados, 
+abarcando en Chile desde la Región de Atacama hasta La Araucanía, en un rango 
+altitudinal de 100 a 1.200 m s.n.m. Sus preferencias de hábitat se concentran en 
+áreas con matorrales xerofíticos y esclerófilos. 
+• 
+Biología y estado poblacional: Es una especie que supera la longitud hocico-cloaca 
+de 80 a 100 mm, presenta una dieta insectívora y es ovípara, depositando entre 10 
+a 14 huevos. En términos poblacionales, se reporta como una especie frecuente, 
+pero con un bajo nivel de abundancia relativa. 
+• 
+Amenazas: Se desconoce su tendencia poblacional específica, estableciéndose que 
+sus poblaciones se ven afectadas por la pérdida de hábitats originada por la 
+transformación territorial, fundamentalmente en terrenos de uso agrícola y 
+silvícola. 
+ 
+• 
+Philodryas chamissonis (Culebra de cola larga): 
+ 
+• 
+Estado de conservación y origen: Especie endémica de Chile, clasificada 
+oficialmente en la categoría de Preocupación Menor (LC) según el 12° Proceso RCE. 
+• 
+Distribución y hábitat: Registra distribución desde la Región de Antofagasta hasta la 
+Región de Los Ríos, abarcando desde el nivel del mar hasta los 2.300 m s.n.m.. 
+Ecológicamente, se encuentra principalmente en lugares secos, utilizandos rocas y 
+matorrales como sitios de resguardo. 
+• 
+Biología y estado poblacional: Se trata de un depredador que se constituye como 
+la culebra más abundante y de distribución más amplia en el territorio nacional. Las 
+revisiones poblacionales indican que es una especie con densidades naturalmente
+
+===== p.7 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+6 
+ 
+bajas y poco común, aunque comparativamente más frecuente que otras especies 
+simpátricas de ofidios. No existen datos precisos acerca de sus tendencias 
+poblacionales. 
+• 
+Amenazas: Sus principales presiones de conservación se relacionan con la 
+proximidad a asentamientos humanos, donde registra mortalidad por interacción 
+directa y atropellos en vías de tránsito, sumado a la depredación por especies 
+domésticas introducidas, tales como perros y gatos. 
+ 
+a.4) Metodologías de caza, captura y manejo 
+Se aplicarán técnicas estandarizadas de captura directa y semi-directa ejecutadas por profesionales 
+calificados: 
+• 
+Captura Manual Directa: Se implementará mediante inspección visual activa (visual 
+encounter surveys) en los sectores priorizados para el movimiento de tierras. Se utilizarán 
+lazos herpetológicos de nylon fino acoplados a pértigas técnicas y guantes de manipulación 
+biológica.  
+ 
+• 
+Remoción Manual de Microrefugios: Inmediatamente antes del ingreso de la maquinaria 
+de escarpe, se realizará un despeje controlado de rocas sueltas, hojarasca y troncos caídos 
+para capturar ejemplares en estado de cripsis o refugio térmico. 
+ 
+• 
+Manejo Post-Captura: Cada espécimen será depositado individualmente en sacos de tela de 
+algodón permeable, limpios y libres de residuos químicos. Los sacos se rotularán con un 
+código de registro único identificando la transecta de origen y la hora de captura. Se 
+dispondrán en contenedores térmicos rígidos (cajas plásticas ventiladas) provistos de 
+amortiguación para evitar el estrés por vibración. 
+ 
+a.5) Lugar de captura y destino de los animales 
+ 
+• 
+Lugar de Captura: El sitio de captura de reptiles corresponde al área de obras permanentes 
+del Proyecto, cuya superficie es de 69,8 hectáreas aproximadamente. Los ambientes 
+registrados en el área corresponden a matorral y bosque esclerófilo. 
+ 
+• 
+Sitio de Destino (Relocalización): El área de relocalización se emplazará al interior del predio 
+del Proyecto, el cual posee una superficie total de 206 hectáreas. Los ejemplares capturados 
+serán liberados en los sectores definidos como Sitio 1 y Sitio 2, los cuales suman una 
+superficie conjunta de 70,43 hectáreas. Estos polígonos no serán intervenidos por las obras 
+y cumplen con los siguientes criterios de idoneidad estipulados en la normativa ambiental:
+
+===== p.8 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+7 
+ 
+ 
+Figura 1. Sitio de rescate y captura de reptiles 
+ 
+• 
+Distancia y Criterio de No Retorno: El sitio de destino se ubicará distanciado de las áreas de 
+intervención, específicamente a distancias mínimas entre 125 y 300 metros 
+aproximadamente que, sumada a la baja movilidad intrínseca de los reptiles, asegura el no 
+retorno de los individuos hacia las zonas de obras. 
+ 
+• 
+Capacidad de carga y equivalencia de hábitat: Para el desarrollo de la relocalización, se 
+seleccionaron dos polígonos (Sitio 1 y Sitio 2) dispuestos de forma distribuida en el predio, 
+con el fin de no sobrecargar la capacidad de carga natural de cada sector receptor. Durante 
+las prospecciones realizadas en el área de estudio, se identificaron las especies objetivo en 
+las zonas proyectadas para la relocalización. Los antecedentes levantados en las estaciones 
+de muestreo permiten establecer que los sectores definidos constituyen sitios potenciales e 
+idóneos para albergar a este tipo de fauna. Lo anterior se sustenta, además, en que las áreas 
+receptoras presentan formaciones vegetales estructural y funcionalmente similares a las 
+identificadas en el área de rescate, destacando la presencia de matorral con suculentas de 
+Puya chilensis y Colliguaja odorifera, bosque nativo renoval de Cryptocarya alba, y sectores
+
+===== p.9 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+8 
+ 
+de matorral dominados por Colliguaja odorifera y Chusquea cumingii. Esta correspondencia 
+fisonómica provee los microhábitats y refugios naturales necesarios para el establecimiento 
+de los individuos. De manera complementaria, cada punto de liberación al interior del área 
+de relocalización será georreferenciado, con el fin de facilitar la detección en campañas de 
+seguimiento. 
+ 
+• 
+Equivalencia de Superficie: Para dar cumplimiento normativo a los requerimientos de 
+capacidad de acogida, el área de destino conformada por los Sitios 1 y 2 cuenta con una 
+superficie total de 70,43 hectáreas, por lo que se consideran equivalentes en superficie 
+respecto del hábitat original que será intervenido (69,832 ha). Esta amplitud territorial 
+asegura un área de dispersión adecuada matemáticamente equivalente a la pérdida, 
+permitiendo que la liberación se realice de forma distanciada espacialmente para absorber 
+a los individuos sin generar sobrepoblación local. 
+ 
+ 
+a.6) Condiciones de transporte e instalaciones de cautiverio 
+El traslado de los ejemplares desde el sitio de captura hacia las áreas de relocalización resguardando 
+que el tiempo de cautiverio sea el menor posible. Los individuos serán transportados de forma 
+individual en receptáculos de tela permeable o cajas plásticas provistas de ventilación, oscurecidas 
+para emular condiciones de refugio y minimizar el estrés fisiológico y conductual. Durante el 
+transporte terrestre, los contenedores estarán resguardados de la radiación solar directa y las 
+vibraciones. No se contemplan instalaciones de cautiverio prolongado, ya que la liberación se 
+materializará durante el mismo día en el sitio de destino. 
+ 
+a.7) Cronograma de las actividades que se realizarán y período por el que se solicita el 
+permiso 
+Las actividades asociadas a la medida de rescate y relocalización se programarán e implementarán 
+de forma secuencial y obligatoriamente previa a las faenas de despeje de vegetación, escarpe de 
+suelo o movimientos de tierra en el polígono de intervención directa del Proyecto, el cual abarca una 
+superficie total de 69,8 hectáreas. 
+Dado que el Proyecto contempla un esquema de habilitación y construcción progresiva diferido en 
+tres etapas operacionales principales, el período total por el cual se solicita la vigencia del presente 
+permiso ambiental sectorial es de 12 meses. Se irá actualizando temporalmente con el objeto de dar 
+cobertura formal a todo el horizonte constructivo del Proyecto. Dicha distribución temporal se 
+detalla a continuación: 
+• 
+Etapa 1 Años 1: Comprende el polígono de intervención inicial donde se emplazarán la 
+primera fase operacional del relleno sanitario, las plataformas de las plantas de compostaje 
+y reciclaje, las instalaciones administrativas y las obras de infraestructura complementaria.
+
+===== p.10 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+9 
+ 
+• 
+Etapa 2 (Año 8): Involucra el polígono adyacente destinado a la primera ampliación 
+progresiva del relleno sanitario. Las faenas de perturbación y captura controlada en esta 
+zona se activarán durante el año 8 de desarrollo del Proyecto. 
+• 
+Etapa 3 (Año 15): Corresponde al sector final de intervención directa proyectado para 
+alcanzar la máxima capacidad de diseño del Proyecto.  
+Para evitar la recolonización del área, en todos los casos las campañas se realizarán de forma previa 
+a la intervención y/o al avance de la maquinaria de construcción, finalizando al menos cinco días 
+antes de las intervenciones y/o al avance de la maquinaria de construcción. 
+Tabla 2. Cronograma referencial de actividades a realizar.  
+ACTIVIDAD / MES / AÑO 
+MES 
+1 
+FASE DE CONST. 
+ETAPA 1 
+AÑO 
+1 
+AÑO 
+2 
+AÑO 
+3 
+AÑO 
+4 
+AÑO 
+5 
+AÑO 
+6 
+Solicitud de permiso de captura  
+X 
+Campaña de captura y relocalización 
+X 
+Campaña 1 de monitoreo y seguimiento  
+X 
+Campaña 2 de monitoreo y seguimiento  
+X 
+Campaña 3 de monitoreo y seguimiento  
+X 
+Campaña 4 de monitoreo y seguimiento  
+X 
+Campaña 5 de monitoreo y seguimiento  
+X 
+Campaña 6 de monitoreo y seguimiento  
+X 
+ 
+ACTIVIDAD / MES / AÑO 
+AÑO 
+7 
+AÑO 
+8 
+AÑO 
+9 
+AÑO 
+10 
+AÑO 
+11 
+AÑO 
+12 
+AÑO 
+13 
+AÑO 
+14 
+AÑO 
+15 
+AÑO 
+16 
+AÑO 
+17 
+AÑO 
+18 
+Solicitud de permiso de captura  
+X 
+X 
+Campaña de captura y relocalización  
+X 
+X 
+Campaña 1 de monitoreo y seguimiento  
+X 
+X 
+Campaña 2 de monitoreo y seguimiento  
+X 
+X 
+Campaña 3 de monitoreo y seguimiento  
+X 
+X 
+Campaña 4 de monitoreo y seguimiento  
+X 
+X 
+Campaña 5 de monitoreo y seguimiento  
+X 
+X 
+Campaña 6 de monitoreo y seguimiento  
+X 
+X
+
+===== p.11 =====
+PAS 146 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+10 
+ 
+3. Plan de Seguimiento 
+El programa de seguimiento ambiental para evaluar el éxito de la relocalización se estructurará bajo 
+los durante un período extendido de tres años posteriores a cada campaña de relocalización, 
+estructurado en seis campañas de seguimiento, las cuales se ejecutarán en las siguientes frecuencias 
+establecidas a partir de proyectos de referencia: 
+• 
+Campaña 1: Posterior a la relocalización (2 a 5 días después de la liberación). 
+• 
+Campaña 2: A los 30 días posteriores a la liberación. 
+• 
+Campaña 3: A los 60 días posteriores a la liberación. 
+• 
+Campaña 4: Al primer año posterior a la liberación (Año 1). 
+• 
+Campaña 5: Al segundo año posterior a la liberación (Año 2). 
+• 
+Campaña 6: Al tercer año posterior a la liberación (Año 3). 
+ 
+Durante estos seguimientos se medirán los parámetros principales (estimación de abundancia 
+absoluta, presencia/ausencia) y parámetros secundarios (uso efectivo de refugios, estado de las 
+poblaciones), empleando transectos de ancho fijo con búsqueda dirigida. Se reportarán los 
+indicadores de éxito en un plazo máximo de 120 días corridos tras la finalización de cada actividad, 
+bajo los lineamientos de la Res. Ex. 223/2015.

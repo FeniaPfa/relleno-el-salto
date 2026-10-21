@@ -1,0 +1,561 @@
+### PÁGINAS TOTALES: 3
+
+===== p.1 =====
+Fecha emisión informe
+:
+21/01/2026
+Entidad/dirección
+:
+Silob Chile, Javiera Carrera 839, Valparaíso, V Región
+Informe número:
+:
+A9482.2025
+Identificación      :  1 original
+Cliente
+:
+RIVERINE SPA
+Dirección Cliente
+:
+Huerfanos 1055, of. 503, Santiago, Región Metropolitana
+Proyecto Cliente :  No Aplica
+CARACTERISTICAS MUESTRA
+Muestra
+:
+Agua superficial
+Plan / Método muestreo
+:
+Definido por el Cliente / PS08 rev.77 - IS112 rev.10
+Identificación y tamaño de la muestra
+:
+M1 = Aguas Arriba del Estero Marga Marga
+Entidad Muestreadora
+:
+Silob Chile Laboratorio
+Fecha y hora Muestreo
+:
+29 de Diciembre de 2025 / 10:30 a 10:45 h     Fecha y hora Ingreso Laboratorio:  29 de Diciembre de 2025 / 12:43 h
+Lugar toma de muestra
+:
+RIVERINE SPA  / lat:33° 3' 36.79''S long: 71° 29' 2.11''W
+Tipo de envase
+:
+Vidrio y Plástico según corresponda
+Desviación al Procedimiento especificado en esta Norma:                         SÍ                        NO:  X
+ENSAYOS
+Identificación Método de
+Ensayo
+Preservante
+Acreditación
+por INN
+Fecha y Hora
+Inicio Análisis
+Fecha y Hora
+Término Análsis
+Química
+Alcalinidad Total (mg/L)
+SM 24th Edition Método 2320
+B
+S/P
+N/A
+29/12/2025 13:00
+29/12/2025 15:30
+Aluminio (mg/L)
+SM 24th Edition Método 3030
+K - 3111 D
+HNO3 pH<2
+LE 106
+13/01/2026 10:10
+16/01/2026 17:01
+Arsénico (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Bario (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Berilio (mg/L)
+SM 24th Edition Método 3030
+K - 3111 D
+HNO3 pH<2
+LE 106
+13/01/2026 10:10
+16/01/2026 17:01
+Boro (mg/L)
+SM 24th Edition Método 4500-
+B C
+HNO3 pH<2
+LE 106
+29/12/2025 13:00
+29/12/2025 17:00
+Cadmio (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Calcio (mg/L)
+SM 24th Edition Método 3030
+K - 3111 D
+HNO3 pH<2
+LE 106
+13/01/2026 10:10
+16/01/2026 17:01
+Cianuro Total (mg/L)
+SM 24th Edition Método 4500-
+CN E
+NaOH 10N pH>12
+LE 106
+29/12/2025 13:40
+30/12/2025 14:55
+Cloruro (mg/L)
+SM 24th Edition Método 4500-
+Cl B
+S/P
+N/A
+29/12/2025 13:00
+29/12/2025 13:30
+Cobalto (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Cobre (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Cromo Total (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+DBO5 (mg/L)
+SM 24ht Edition Método 5210
+B
+S/P
+N/A
+29/12/2025 16:00
+03/01/2026 16:00
+DQO (mg/L)
+NCh2313/24.Of97
+H2SO4 pH<2
+N/A
+29/12/2025 13:32
+29/12/2025 15:32
+Fluoruro (mg/L)
+SM 24th Edition Método 4500-
+F C
+S/P
+N/A
+09/01/2026 15:09
+09/01/2026 16:53
+Hierro (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Litio (mg/L)
+SM 24th Edition Método 3030
+K - 3111 B
+HNO3 pH<2
+LE 106
+13/01/2026 10:11
+16/01/2026 16:45
+Magnesio (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Manganeso (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Mercurio (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Molibdeno (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Níquel (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+N/A
+12/01/2026 08:00
+19/01/2026 16:30
+Nitrógeno amoniacal (mgNH3/L)
+SM 24th Edition Método 4500-
+NH3 D
+H2SO4 pH<2
+N/A
+29/12/2025 13:00
+29/12/2025 17:00
+Nitrógeno Kjeldahl (mg/L)
+SM 24th Edition Método 4500-
+N B
+H2SO4 pH<2
+N/A
+29/12/2025 13:00
+29/12/2025 17:30
+Plata (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Plomo (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Potasio Total (mg/L)
+SM 24th Edition Método 3030
+K - 3111 B
+HNO3 pH<2
+LE 106
+13/01/2026 10:11
+16/01/2026 16:45
+INFORME DE ENSAYO DE AGUA
+(RS 14.16)
+Javiera Carrera 839 - Casilla 1225 - Teléfono (56) 3221 890 00 - Valparaiso - Chile
+Oficinas de Atención: Arica - Iquique - Coquimbo - Valparaíso - Santiago - Puerto Montt - Punta Arenas
+E-mail:siloblaboratorio@silobchile.cl - www.silobchile.cl
+Silvia Díaz Araya
+Encargado Laboratorio de aguas
+SILOB CHILE
+Silob Chile es responsable sólo por los valores analíticos de las muestras analizadas
+Este informe no puede ser reproducido, en forma parcial o total, sin la aprobación escrita del Laboratorio
+El presente Informe de Ensayo no puede ser presentado ante la SMA
+Revisión:  28                   | Fecha Emisión:  26-07-2023
+Version digital
+Versión digital
+Página 1 de 3
+
+===== p.2 =====
+ENSAYOS
+Identificación Método de
+Ensayo
+Preservante
+Acreditación
+por INN
+Fecha y Hora
+Inicio Análisis
+Fecha y Hora
+Término Análsis
+Sólidos disueltos totales (mg/L)
+SM 24th Edition Método 2540
+C
+S/P
+LE 106
+29/12/2025 13:00
+30/12/2025 15:00
+Sólidos suspendidos totales (mg/L)
+SM 24th Edition Método 2540
+D
+S/P
+LE 106
+29/12/2025 17:00
+30/12/2025 17:00
+Selenio (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Sodio (mg/L)
+SM 24th Edition Método 3030
+K - 3111 B
+HNO3 pH<2
+LE 106
+13/01/2026 10:11
+16/01/2026 16:45
+Sodio porcentual (%)
+NCh1333.Of87 Cálculo
+-- --
+LE 106
+-- --
+-- --
+Sulfatos (mg/L)
+SM 24th Edition Método 4500
+SO4 D
+S/P
+N/A
+09/01/2026 08:00
+09/01/2026 16:00
+Vanadio (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Zinc (mg/L)
+SM 24th Edition Método 3030
+K - 3125 B
+HNO3 exento de Hg, pH<2
+LE 106
+12/01/2026 08:00
+19/01/2026 16:30
+Microbiología
+Coliformes fecales (NMP/100 ml)
+SM 24th Edition Método 9221
+E.1
+Na2S2O3+EDTA
+LE 045
+29/12/2025 13:14
+31/12/2025 13:20
+Físico-Química
+* Temperatura (T) (°C)
+SM 24th Edition Método 2550-
+B
+-- --
+OI 251
+29/12/2025 10:30
+29/12/2025 10:45
+Conductividad 25°C (uS/cm)
+SM 24th Edition Método 2510
+B
+S/P
+LE 106
+30/12/2025 10:00
+30/12/2025 11:00
+pH a * °C (T) (Unidades pH)
+ME-29-2007 SISS 2007
+-- --
+N/A
+29/12/2025 10:30
+29/12/2025 10:45
+Turbiedad (L) (NTU)
+SM 24th Edition Método 2130
+B
+S/P
+N/A
+29/12/2025 13:00
+29/12/2025 13:30
+N/A: No Acreditado         S/P: Sin Preservante
+Muestreo No Acreditado
+RESULTADOS
+ENSAYOS
+Límite Máximo
+Según NCh1333
+M1
+Química
+Alcalinidad Total (mg/L)
+--
+20
+Aluminio (mg/L)
+5
+1,63
+Arsénico (mg/L)
+0,1
+<0,005
+Bario (mg/L)
+4
+0,0589
+Berilio (mg/L)
+0,1
+<0,05
+Boro (mg/L)
+0,75
+<0,5
+Cadmio (mg/L)
+0,01
+<0,0008
+Calcio (mg/L)
+--
+79,7
+Cianuro Total (mg/L)
+0,2
+<0,01
+Cloruro (mg/L)
+200
+21,5
+Cobalto (mg/L)
+0,05
+<0,005
+Cobre (mg/L)
+0,2
+0,0079
+Cromo Total (mg/L)
+0,1
+<0,005
+DBO5 (mg/L)
+--
+<2
+DQO (mg/L)
+--
+31,3
+Fluoruro (mg/L)
+1
+0,173
+Hierro (mg/L)
+5
+0,4340
+Litio (mg/L)
+2,5
+<0,01
+Magnesio (mg/L)
+--
+18,7
+Manganeso (mg/L)
+0,2
+<0,005
+Mercurio (mg/L)
+0,001
+<0,0005
+Molibdeno (mg/L)
+0,01
+<0,005
+Níquel (mg/L)
+0,2
+<0,005
+Nitrógeno amoniacal (mgNH3/L)
+--
+1,12
+Nitrógeno Kjeldahl (mg/L)
+--
+1,22
+Plata (mg/L)
+0,2
+<0,005
+Plomo (mg/L)
+5
+<0,005
+Potasio Total (mg/L)
+--
+1,59
+Sólidos disueltos totales (mg/L)
+Ø Ver tabla
+442
+Sólidos suspendidos totales (mg/L)
+--
+19,2
+Selenio (mg/L)
+0,02
+<0,005
+Sodio (mg/L)
+--
+52,2
+Sodio porcentual (%)
+35
+29,01
+Informe número: A9482.2025
+INFORME DE ENSAYO DE AGUA
+(RS 14.16)
+Javiera Carrera 839 - Casilla 1225 - Teléfono (56) 3221 890 00 - Valparaiso - Chile
+Oficinas de Atención: Arica - Iquique - Coquimbo - Valparaíso - Santiago - Puerto Montt - Punta Arenas
+E-mail:siloblaboratorio@silobchile.cl - www.silobchile.cl
+Silvia Díaz Araya
+Encargado Laboratorio de aguas
+SILOB CHILE
+Silob Chile es responsable sólo por los valores analíticos de las muestras analizadas
+Este informe no puede ser reproducido, en forma parcial o total, sin la aprobación escrita del Laboratorio
+El presente Informe de Ensayo no puede ser presentado ante la SMA
+Revisión:  28                   | Fecha Emisión:  26-07-2023
+Página 2 de 3
+
+===== p.3 =====
+ENSAYOS
+Límite Máximo
+Según NCh1333
+M1
+Sulfatos (mg/L)
+250
+76,6
+Vanadio (mg/L)
+0,10
+<0,005
+Zinc (mg/L)
+2
+<0,02
+Microbiología
+Coliformes fecales (NMP/100 ml)
+1000
+23
+Físico-Química
+* Temperatura (T) (°C)
+--
+21,5
+Conductividad 25°C (uS/cm)
+Ø Ver tabla
+594
+pH a * °C (T) (Unidades pH)
+5.5 < M < 9
+7,35
+Turbiedad (L) (NTU)
+--
+21
+                 Ø
+Clasificación
+Conductividad específica, µ
+mhos/cm a 25°C
+Sólidos disueltos totales
+Agua con la cual generalmente no se observarán efectos perjudiciales
+c <= 750
+s <= 500
+Agua que puede tener efectos perjudiciales en cultivos sensibles
+750 < c <= 1.500
+500 < s <= 1.000
+Agua que puede tener efectos adversos en muchos cultivos y necesita
+de métodos de manejo cuidadosos
+1.500 < c <= 3.000
+1.000 < s <= 2.000
+Agua que puede ser usada para plantas tolerantes en suelos permeables
+con métodos de manejo cuidadosos
+3.000 < c <= 7.500 
+2.000 < s <= 5.000
+Informe número: A9482.2025
+INFORME DE ENSAYO DE AGUA
+(RS 14.16)
+Javiera Carrera 839 - Casilla 1225 - Teléfono (56) 3221 890 00 - Valparaiso - Chile
+Oficinas de Atención: Arica - Iquique - Coquimbo - Valparaíso - Santiago - Puerto Montt - Punta Arenas
+E-mail:siloblaboratorio@silobchile.cl - www.silobchile.cl
+Silvia Díaz Araya
+Encargado Laboratorio de aguas
+SILOB CHILE
+Silob Chile es responsable sólo por los valores analíticos de las muestras analizadas
+Este informe no puede ser reproducido, en forma parcial o total, sin la aprobación escrita del Laboratorio
+El presente Informe de Ensayo no puede ser presentado ante la SMA
+Revisión:  28                   | Fecha Emisión:  26-07-2023
+Página 3 de 3
+SILVIA ROSA
+DIAZ ARAYA
+www.ripit.cl
+Firmado digitalmente por
+SILVIA ROSA DIAZ ARAYA
+(CN): c=CL,
+email=s.diaz@silobchile.cl,
+fecha=21-01-2026 15:30:29

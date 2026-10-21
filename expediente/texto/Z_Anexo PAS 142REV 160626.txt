@@ -1,0 +1,528 @@
+### PÁGINAS TOTALES: 14
+
+===== p.1 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO PAS 142 BODEGA DE RESIDUOS PELIGROSOS 
+(RESPEL)
+Documento Preparado por:
+Mayo 2026
+
+===== p.2 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+i
+ÍNDICE
+1.
+INTRODUCCIÓN.............................................................................................................1
+2.
+PERMISO AMBIENTAL SECTORIAL MIXTO DEL ARTÍCULO 142........................................1
+2.1.
+A. DESCRIPCIÓN DEL SITIO DE ALMACENAMIENTO........................................................1
+2.2.
+B. ESPECIFICACIONES TÉCNICAS DE LAS CARACTERÍSTICAS CONSTRUCTIVAS DEL SITIO 
+DE ALMACENAMIENTO Y MEDIDAS DE PROTECCIÓN DE CONDICIONES AMBIENTALES. 4
+2.3.
+C.  CLASE  DE  RESIDUOS,  CANTIDADES,  CAPACIDAD  MÁXIMA  Y  PERIODO  DE 
+ALMACENAMIENTO.......................................................................................................6
+2.3.1.
+Fase de construcción.......................................................................................................7
+2.3.2.
+Fase de operación...........................................................................................................8
+2.3.3.
+Fase de cierre..................................................................................................................8
+2.4.
+D. MEDIDAS PARA MINIMIZAR CUALQUIER MECANISMO QUE PUEDA AFECTAR LA 
+CALIDAD DEL AGUA, AIRE, SUELO QUE PONGA EN RIESGO LA SALUD DE LA POBLACIÓN.
+9
+2.5.
+E.  CAPACIDAD  DE  RETENCIÓN  DE  ESCURRIMIENTOS  O  DERRAMES  DEL  SITIO  DE 
+ALMACENAMIENTO.......................................................................................................9
+2.6.
+F. PLAN DE CONTINGENCIA............................................................................................9
+2.7.
+G. PLAN DE EMERGENCIA.............................................................................................10
+ANEXO
+ANEX0 01 LAMINA EMPLAZAMIENTO BODEGAS DE RESPEL
+
+===== p.3 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+1. INTRODUCCIÓN 
+El proyecto del “Centro Metropolitano de Gestión Integral de Residuos” requiere el otorgamiento 
+del permiso ambiental sectorial señalado en el artículo 142 del Reglamento del Sistema de 
+Evaluación  de  Impacto Ambiental.  A  continuación,  se  presentarán  los  antecedentes  para la 
+acreditación del PAS 142.   
+2. PERMISO AMBIENTAL SECTORIAL MIXTO DEL ARTÍCULO 142
+El Permiso Sectorial Mixto del Artículo 142 señala lo siguiente: “Permiso para todo sitio destinado al 
+almacenamiento de residuos peligrosos.”. 
+El permiso para los sitios de almacenamiento de residuos peligrosos será el establecido en el artículo 
+29 del Decreto Supremo Nº 148, de 2003, del Ministerio de Salud. Reglamento sanitario sobre 
+manejo de residuos peligrosos.
+El requisito para su otorgamiento consiste en que el almacenamiento de residuos en un sitio no 
+afecte la calidad de las aguas, suelo y aire que pueda poner en riesgo la salud de la población.
+El proyecto considera la instalación de dos bodegas de residuos peligrosos. Una situada en el galpón 
+de mantención y la otra en la planta de tratamiento de lixiviado.
+A continuación, se señalan los antecedentes requeridos para solicitar el Permiso Ambiental Sectorial 
+Nº142.
+2.1.
+A. DESCRIPCIÓN DEL SITIO DE ALMACENAMIENTO
+El sitio de almacenamiento de residuos peligrosos corresponderá a dos bodegas cada una con un 
+sistema de contención de derrames, lo que permitirá almacenar de forma adecuada los residuos 
+peligrosos  sin  mezclar  residuos  de  características  de  peligrosidad  diferentes,  contendrá  la 
+señalización que dará cumplimiento a lo estipulado en el D.S. N°148/2003.
+Como resultado de la identificación de los potenciales generadores de residuos peligrosos en el 
+Centro Metropolitano de Gestión Integral de Residuos, se ha determinado la necesidad de instalar 
+una bodega junto al galpón de mantención y otra a un costado de las oficinas de la planta de 
+tratamiento de lixiviados. Cada una de estas bodegas contará con una superficie de 7,5 m².
+En la figura 1 se presenta el emplazamiento de las bodegas RESPEL N°1 y N°2.
+
+===== p.4 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+Figura 1.
+Emplazamiento general bodegas de RESPEL N°1 y N°2 
+A continuación, se presenta el emplazamiento y las coordenadas de cada bodega RESPEL.
+Figura 2.
+Emplazamiento bodega RESPEL N°1 - galpón de mantención.
+
+===== p.5 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+Tabla 1.
+Coordenadas bodega RESPEL N°1 - galpón de mantención
+ Punto
+Norte
+Este
+1
+6337439,00
+267786,16
+2
+6337441,60
+267787,03
+3
+6337440,62
+267790,06
+4
+6337438,06
+267789,19
+Figura 3.
+Emplazamiento bodega RESPEL N°2 - planta de tratamiento de lixiviados.
+Tabla 2.
+Coordenadas bodega RESPEL N°2 - planta de tratamiento de lixiviados 
+Punto
+Norte
+Este
+5
+6337420,35
+268016,99
+6
+6337419,70
+268019,61
+7
+6337417,25
+268016,22
+8
+6337416,59
+268018,84
+
+===== p.6 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+2.2.
+B. ESPECIFICACIONES TÉCNICAS DE LAS CARACTERÍSTICAS CONSTRUCTIVAS DEL 
+SITIO DE ALMACENAMIENTO Y MEDIDAS DE PROTECCIÓN DE CONDICIONES 
+AMBIENTALES.
+Ambos recintos cumplirán con lo establecido en los artículos 33, 34 y 35 del D.S. N°148/2003 del 
+MINSAL, asegurando el cumplimiento de las características mínimas exigidas. En este sentido, las 
+bodegas contarán con lo siguiente:
+
+Se acondicionará una bodega prefabricada de RESPEL con resistencia al fuego (RF).
+
+Existirá una base continua (radier), sobre la cual se anclará la bodega.
+
+Se contará con un cierre perimetral de a lo menos 1,80 metros de altura que impida el libre 
+acceso de personas y animales. 
+
+Se garantizará que se minimizará la volatilización, el arrastre o la lixiviación y, en general, 
+cualquier otro mecanismo de contaminación del medio ambiente que pueda afectar a la 
+población. 
+
+Tendrá una capacidad de retención de escurrimientos o derrames no inferior al volumen del 
+contenedor  de  mayor  capacidad  ni  al  20%  del  volumen  total  de  los  contenedores 
+almacenados. 
+
+Contará con señalización de acuerdo con la Norma Chilena NCh 2.190 Of. 93. 
+
+Se  contempla  un  extintor  de  polvo  seco  de  10  kg  al  interior  de  cada  sector  de 
+almacenamiento 
+
+Cabe señalar que el periodo máximo de almacenamiento de los residuos es de 6 meses. Para 
+esto se contará con una planilla de ingresos y egresos. 
+Se adjunta ficha técnica de la bodega RESPEL propuesta.
+Se consulta la provisión e instalación de un tipo de bodega prefabricada para residuos peligrosos con 
+una capacidad para 16 tambores de 200 litros, lo que permite el almacenamiento transitorio de 
+residuos peligrosos y da cumplimento al Artículo 33 del D.S. N°148/2003 del Ministerio de 
+Salud “REGLAMENTO SANITARIO SOBRE MANEJO DE RESIDUOS PELIGROSOS”.
+Este tipo de bodegas cuentan con un sistema de contención de derrame, a través de bateas de 
+retención incorporadas en la misma, dando cumplimiento a que el volumen de contención no sea 
+menor que el contenedor de mayor capacidad ni al 20% del volumen total de los contenedores 
+almacenados, de acuerdo con lo indicado por la norma sanitaria antes mencionada. El volumen de 
+contención es de 1.875 litros.
+Cabe señalar que cada bodega RESPEL incluye:
+
+Extintor PQS 10kg al 90% con gabinete
+
+Sensor de humo inalámbrico, con alcance de 20m2
+
+Bomba de extracción manual y KIT Antiderrame
+
+Buzón para almacenamiento de HDS
+
+Señaléticas de acuerdo a la NCh 1411 – 2190
+
+Cerradura Antipánico
+
+===== p.7 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+La bodega RESPEL (residuos peligrosos) para 16 tambores incorpora una cerradura antipánico (barra 
+antipánico) con un mecanismo que garantiza la apertura de la bodega desde su interior accionando 
+la barra horizontal en cualquier punto de su longitud efectiva, en dirección de salida. La cerradura 
+incluye un juego de llaves que permite el cierre total de la bodega para que solo el personal 
+autorizado pueda ingresar a está.
+ 
+
+Resistencia al fuego RF120
+La bodega de residuos peligrosos está construida perimetralmente con paneles RF120 que están 
+compuesto de 2 planchas de acero y en su interior lana mineral (es decir panel tipo sándwich) de 100 
+milímetros de espesor, con una densidad nominal de 100kg/m3, lo que otorga una resistencia al 
+fuego de 120 minutos de exposición directa.
+
+===== p.8 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+
+Superficie de Grating
+Las bodegas de residuos peligrosos de Ecostandard o similar cuentan con un sistema de contención 
+de bateas y con una superficie de parrilla metálica 25mm (Parrilla Grating) con resistencia de carga 
+de 1,2 ton/m2, lo que permite una superficie sólida para los residuos a almacenar y permite que los 
+derrames ocurridos dentro de la bodega caigan directamente al sistema de contención de está.
+ 
+
+Ventilación Natural
+El tipo de ventilación será natural, a través de celosías instaladas de manera contrapuesta, 
+generando con ello, un adecuado recambio de aire, evitando eventuales acumulaciones de gases al 
+interior de la bodega.
+2.3.
+C.  CLASE  DE  RESIDUOS,  CANTIDADES,  CAPACIDAD  MÁXIMA  Y  PERIODO  DE 
+ALMACENAMIENTO
+Un residuo peligroso, es un desecho con propiedades intrínsecas que ponen en riesgo la salud de las 
+personas o que pueden causar daño al medio ambiente. Algunas de dichas propiedades pueden ser, 
+la inflamabilidad, la toxicidad, la corrosividad, la reactividad y la radiactividad. 
+Durante el desarrollo del proyecto, la gestión de los residuos peligrosos se realizará conforme a la 
+normativa vigente, en recintos cerrados y adecuados para su almacenamiento temporal. Para ello, 
+se habilitarán bodegas especialmente acondicionadas con pisos impermeables y bandeja de
+
+===== p.9 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+contención, ventilación y señalización visible, con acceso restringido al personal autorizado. Los 
+residuos se mantendrán clasificados y rotulados según su tipo, en envases cerrados y en buen 
+estado.
+Cabe señalar que se implementarán registros de ingreso y salida de los residuos, permitiendo un 
+adecuado control y trazabilidad de estos. Se capacitará al personal encargado del manejo y 
+almacenamiento de los residuos, con énfasis en lo relacionado con las medidas de seguridad.
+Finalmente, de manera periódica, los residuos serán retirados por una empresa autorizada con 
+certificación sanitaria para su manejo y traslado a un sitio de disposición final de residuos peligrosos, 
+seleccionado por su proximidad al Proyecto. Este procedimiento garantizará el cumplimiento de la 
+normativa vigente y asegurará una gestión segura y responsable de los residuos, minimizando los 
+riesgos ambientales y sanitarios.
+2.3.1.
+Fase de construcción
+Durante la fase de construcción se habilitará una bodega al interior de la instalación de faenas en un 
+sector seguro, nivelado y alejado de fuentes de calor o ignición, asegurando el cumplimiento de la 
+normativa ambiental y de seguridad industrial.
+En dicha bodega se gestionarán residuos de aceites y lubricantes, baterías, filtros, paños o guaipes 
+contaminados con aceites o lubricantes, mangueras de aceites, entre otros provenientes de 
+mantenciones menores a realizar en la instalación de faenas.
+Esta bodega será cerrada y cumplirá con los criterios de diseño y las exigencias establecidas en el 
+Título IV "Del Almacenamiento" del D.S. N°148/2003.
+Se estima que la generación de residuos peligrosos durante la fase de construcción del proyecto sea 
+la que se indica a continuación. 
+Tabla 3.
+Estimación de Residuos Peligrosos para genera en la fase de construcción.
+Descripción del Residuo Peligroso
+Cantidad Residuos
+Peligrosos mensual
+(Ton/mes)
+Cantidad de 
+Residuos 
+Peligrosos al año
+(Ton/año)
+Aceites y Lubricantes
+0,250
+3,00
+Baterías
+0,025
+0,300
+Filtros
+0,005
+0,060
+Paños o guaipes contaminados
+0,002
+0,024
+Mangueras contaminadas
+0,010
+0,120
+TOTAL
+0,292
+3,504
+
+===== p.10 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+2.3.2.
+Fase de operación
+Durante la fase de operación, se generarán residuos asociados al manejo de sustancias peligrosas, 
+tanto en el galpón de mantención como en el sector de la planta de tratamiento de lixiviados. Por 
+ello, será necesario habilitar las Bodegas N°1 y N°2, que deberán contar con características 
+equivalentes a la bodega utilizada durante la fase de construcción. La bodega instalada en la fase de 
+construcción podrá reubicarse en cualquiera de los dos emplazamientos previstos para las bodegas 
+de operación, garantizando la continuidad en la gestión segura de los residuos peligrosos.
+Se estima que la generación de residuos peligrosos durante la fase de operación sea la que se 
+presenta en la siguiente tabla.
+Tabla 4.
+Estimación de Residuos Peligrosos para generar en la fase de operación.
+Bodega N°1
+Bodega N°2
+Tipo de Residuo Peligroso
+Cantidad de 
+Residuos
+Peligrosos 
+mensual
+(Ton/mes)
+Cantidad 
+de 
+Residuos 
+Peligrosos 
+al año
+(Ton/año)
+Cantidad de 
+Residuos
+Peligrosos a 
+generar en 
+la fase de 
+operación
+(Ton 
+Totales)
+Cantidad 
+Residuos
+Peligrosos 
+mensual
+(Ton/mes
+)
+Cantidad de 
+Residuos 
+Peligrosos al 
+año
+(Ton/año)
+Cantidad 
+de 
+Residuos
+Peligrosos 
+a generar 
+en la fase 
+de 
+operación.
+(Ton 
+Totales)
+Aceites y Lubricantes
+0,05
+0,6
+18,00
+0,05
+0,6
+18,00
+Baterías
+0,03
+0,36
+10,8
+0,03
+0,36
+10,8
+Filtros
+0,01
+0,12
+3,6
+0,01
+0,12
+3,6
+Paños o guaipes 
+contaminados
+0,002
+0,024
+0,72
+0,002
+0,024
+0,72
+Mangueras contaminadas
+0,01
+0,12
+3,6
+0,01
+0,12
+3,6
+TOTAL
+0,102
+1,224
+36,72
+0,102
+1,224
+36,72
+2.3.3.
+Fase de cierre
+Durante la fase de cierre del Proyecto, los residuos peligrosos generados serán gestionados en la 
+Bodega N°1 ubicada junto al galpón de mantención, hasta que se complete el desmantelamiento 
+total de las instalaciones, incluida la Bodega N°2. Posteriormente, todos los residuos almacenados 
+serán retirados por una empresa autorizada para su disposición final en un sitio especializado, 
+garantizando el cumplimiento de la normativa vigente y minimizando los impactos ambientales.
+Se estima que la generación de residuos peligrosos durante la fase de cierre del proyecto sea la que 
+se presenta en la siguiente tabla.
+
+===== p.11 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+Tabla 5.
+Estimación de Residuos Peligrosos para generar en la fase de cierre.
+BODEGA N°1 - Galpón de Mantención
+Descripción del Residuo 
+Peligroso
+Cantidad Residuos
+Peligrosos mensual
+(Ton/mes)
+Cantidad de 
+Residuos 
+Peligrosos al 
+año
+(Ton/año)
+Aceites y Lubricantes
+0,025
+0,30
+Baterías
+0,015
+0,18
+Filtros
+0,003
+0,036
+Paños o guaipes 
+contaminados
+0,001
+0,012
+Mangueras contaminadas
+0,01
+0,12
+TOTAL
+0,054
+0,648
+2.4.
+D. MEDIDAS PARA MINIMIZAR CUALQUIER MECANISMO QUE PUEDA AFECTAR 
+LA CALIDAD DEL AGUA, AIRE, SUELO QUE PONGA EN RIESGO LA SALUD DE LA 
+POBLACIÓN.
+Para minimizar cualquier mecanismo que pueda afectar la calidad del agua, aire y suelo que ponga 
+en riesgo la salud de la población, los residuos de carácter peligrosos que se generen serán 
+dispuestos en la bodega construida para dichos efectos, cumpliendo con las especificaciones 
+técnicas solicitadas en el D.S. N°148/2003. Para evitar la emanación de compuestos volátiles al aire, 
+los residuos serán dispuestos en contenedores cerrados.
+2.5.
+E. CAPACIDAD DE RETENCIÓN DE ESCURRIMIENTOS O DERRAMES DEL SITIO DE 
+ALMACENAMIENTO
+El sistema de contención de derrames funciona a través de bateas de retención incorporadas en la 
+bodega, dando cumplimiento a que el volumen de contención no sea menor que el contenedor de 
+mayor capacidad ni al 20% del volumen total de los contenedores almacenados, de acuerdo con lo 
+indicado por el Artículo 33 del D.S. N°148/2003 del Ministerio de Salud “REGLAMENTO SANITARIO 
+SOBRE MANEJO DE RESIDUOS PELIGROSOS”. Además, contará con una superficie de parrilla 
+metálica 25mm con resistencia de carga de 1,2 ton/m2, lo que permite una superficie sólida para los 
+residuos  a  almacenar  y  permite  que  los  derrames  ocurridos  dentro  de  la  bodega  caigan 
+directamente al sistema de contención de está. 
+2.6.
+F. PLAN DE CONTINGENCIA
+Como medida de contingencias, se llevará un registro cada vez que ingresen residuos peligrosos a la 
+bodega. De acuerdo con las capacidades de contención de cada residuo se verificará la necesidad de 
+retiro con un transportista y disposición final autorizado. Cabe señalar, que, de acuerdo con la
+
+===== p.12 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+planilla de ingresos y egresos, cualquier residuo peligroso no podrá sobrepasar los 6 meses de 
+almacenamiento en la bodega.
+Para evitar situaciones de riesgos habrá un encargado del ingreso y egresos de residuos peligrosos 
+de la bodega, así como una capacitación para los trabajadores.
+Ante derrames se tomarán las siguientes medidas:
+
+Identificar el origen del derrame y detener inmediatamente la fuente de este para evitar que 
+llegue a alguna fuente de agua o infiltre al suelo. 
+
+Dar aviso oportuno al personal encargado de la zona de la presencia de la emergencia. 
+
+Aislar el área afectada, suspender las operaciones de dicha área y controlar posibles fuentes 
+de ignición. 
+
+Determinar el área de alcance del derrame y confinarlo con diques de arena, aserrín o 
+materiales  absorbentes,  evitando  que  el  material  derramado  entre  al  sistema  de 
+alcantarillado, al suelo o entre en contacto con agua u otro líquido. 
+
+Recoger, limpiar y secar el material derramado con materiales absorbentes, tales como 
+aserrín o arena y recolectar con baldes u otros recipientes el derrame. Durante esta 
+operación se deberán utilizar guantes impermeables y no se deberá aplicar agua ni otro 
+liquido sobre el derrame. 
+
+Almacenar los materiales contaminados con el material derramado, tales como aserrín o 
+arena en contenedores adecuados para estos residuos dentro de la bodega de residuos 
+peligrosos, alejados de fuentes de ignición y protegidos del agua. 
+
+El material derramado se depositará en los contenedores correspondientes para ser 
+almacenado en la bodega de residuos peligrosos y, posteriormente, enviarlos a destinatario 
+autorizado. 
+
+Se dejará el lugar completamente limpio. 
+
+El Encargado de área debe llenar un registro o informe del Incidente/Accidente Ambiental, el 
+que debe incluir un análisis de causas del derrame, las medidas preventivas y correctivas a 
+adoptar y la res puesta de la organización ante la emergencia. Lo anterior con el objeto de 
+efectuar una readecuación del Plan de Contingencia si fuera necesario. 
+2.7.
+G. PLAN DE EMERGENCIA
+Dentro de las emergencias que pudiesen ocurrir, corresponden a amagos de incendio en el cobertizo 
+de almacenamiento de residuos. Para actuar ante este tipo de emergencia se procederá a hacer uso 
+del sistema de extinción.
+El sistema contará con un extintor PQS 10kg al 90% que se encuentra en el exterior de la bodega de 
+RESPEL.
+En caso de derrames en el interior de la bodega, este será canalizado a la batea de retención 
+incorporada en la bodega, dando cumplimiento a que el volumen de contención no sea menor que el 
+contenedor de mayor capacidad ni al 20% del volumen total de los contenedores almacenados. 
+Posteriormente al derrame se realizará la limpieza y el retiro de los residuos capturados en la batea. 
+Los residuos serán retirados por empresa de transportes autorizadas y llevados a sitios autorizados 
+para estos fines.
+
+===== p.13 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+Cualquier incidente producido en el manejo de residuos peligrosos será informado a la autoridad 
+sanitaria pertinente.
+
+===== p.14 =====
+ANEXO PAS 142
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEX0 01 LAMINA EMPLAZAMIENTO BODEGAS DE RESPEL

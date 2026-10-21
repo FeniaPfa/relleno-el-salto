@@ -1,0 +1,642 @@
+### PÁGINAS TOTALES: 17
+
+===== p.1 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+LÍNEA DE BASE
+CLIMA Y METEOROLOGÍA
+Documento Preparado por:
+                                                    
+Junio 2026
+
+===== p.2 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 1
+INDICE
+1.
+INTRODUCCIÓN................................................................................................................................2
+2.
+OBJETIVOS........................................................................................................................................2
+2.1 Objetivo general.............................................................................................................................2
+2.2 Objetivos específicos.....................................................................................................................2
+3.
+METODOLOGÍA Y FUENTES DE INFORMACIÓN...............................................................................3
+1.
+ÁREA DE ESTUDIO............................................................................................................................3
+2.
+RED DE ESTACIONES DE MONITOREO DE REFERENCIA...................................................................4
+3.
+MARCO CLIMATOLÓGICO Y CARACTERIZACIÓN CLIMÁTICA...........................................................5
+6.1 Influencia del Relieve Local y Factores Microclimáticos................................................................6
+6.2 Variabilidad Interanual: Fenómeno El Niño-Oscilación del Sur (ENSO)........................................6
+4.
+CARACTERIZACION DE VARIABLES METEOROLÓGICAS...................................................................7
+7.1 Temperatura..................................................................................................................................7
+7.2 Precipitación..................................................................................................................................8
+7.2.1 Hidroclima histórico................................................................................................................8
+7.5 Régimen de vientos.......................................................................................................................9
+7.5.1 Régimen de vientos anual.......................................................................................................9
+7.5.2 Régimen de vientos en la estación de verano......................................................................10
+7.5.2 Régimen de vientos en la estación de otoño.......................................................................10
+7.5.2 Régimen de vientos en la estación de invierno....................................................................11
+7.5.2 Régimen de vientos en la estación de otoño...........................................................11
+7.6 Altura de la capa límite..........................................................................................................12
+8. CAMBIO CLIMÁTICO...........................................................................................................................13
+10. CONCLUSIONES................................................................................................................................14
+11. REFERENCIAS....................................................................................................................................15
+
+===== p.3 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 2
+1. INTRODUCCIÓN
+El presente informe expone la línea de base del componente Clima y Meteorología del Proyecto 
+“Centro Metropolitano de Gestión Integral de Residuos” (en adelante, el Proyecto), sometido al 
+Sistema de Evaluación de Impacto Ambiental (SEIA) mediante un Estudio de Impacto Ambiental 
+(EIA). La caracterización se elabora conforme al artículo 18 del Reglamento del Sistema de 
+Evaluación de Impacto Ambiental (D.S. N° 40/2013 del Ministerio del Medio Ambiente) y a la Ley 
+N° 21.455 (Ley Marco de Cambio Climático).
+El Proyecto consiste en la construcción y operación de una instalación destinada al tratamiento 
+integral de residuos sólidos domiciliarios y asimilables, contemplando procesos de compostaje, 
+reciclaje y disposición final de residuos. Se emplaza en la comuna de Viña del Mar, provincia y 
+Región de Valparaíso, en el kilómetro 102,5 de la Ruta 60 Troncal Sur, vía que conecta las comunas 
+de Viña del Mar y Quilpué. El área de emplazamiento corresponde a 78 ha, inserta dentro de un 
+predio de 206 ha, a una altitud aproximada entre 200 y 400 m s.n.m.
+La iniciativa considera diversas áreas funcionales para su operación, entre ellas una zona de 
+instalaciones operacionales y administrativas, una zona de compostaje, una zona de reciclaje, una 
+zona de disposición de residuos, una zona de tratamiento de lixiviados y una zona de tratamiento 
+de biogás. Durante su operación se proyecta recibir un total de 30.741.988 toneladas de residuos 
+sólidos durante una vida útil estimada de 25 años, con una tasa inicial de recepción de 2.500 
+ton/día, prestando servicio principalmente a la población de las comunas de la Región de 
+Valparaíso.
+De acuerdo con la Guía para la Descripción del Área de Influencia (SEA, 2026), el componente 
+Clima y Meteorología constituye un atributo del medio físico y no un objeto de protección 
+ambiental. En consecuencia, no se determina un área de influencia para este componente, sino 
+un área de estudio que permite caracterizar las variables atmosféricas basales que interactúan 
+con el diseño de la infraestructura y con la dispersión de las emisiones del Proyecto. La 
+caracterización se presenta a partir de información oficial de estaciones de monitoreo, la 
+modelación meteorológica realizada por el Proyecto y de las proyecciones climáticas de la 
+plataforma ARClim Ministerio del Medio Ambiente.
+2. OBJETIVOS
+2.1 Objetivo general
+Caracterizar  el  componente  Clima  y  Meteorología  en  el  área  de  estudio  del  Proyecto, 
+describiendo el comportamiento basal de variables atmosféricas y su condición proyectada bajo 
+escenarios de cambio climático.
+2.2 Objetivos específicos
+•
+Delimitar el área de estudio del componente Clima y Meteorología 
+•
+Identificar  la  red  de  estaciones  meteorológicas  de  referencia,  justificando  su 
+representatividad.
+•
+Establecer la clasificación climática en el área de emplazamiento
+•
+Describir variables meteorológicas en el área de emplazamiento
+
+===== p.4 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 3
+•
+Integrar la variable de cambio climático mediante las proyecciones del Atlas de Riesgos 
+Climáticos para Chile (ARClim).
+3.  METODOLOGÍA Y FUENTES DE INFORMACIÓN
+La caracterización se sustenta en información oficial de la red hidrometeorológica de la Dirección 
+General  de  Aguas,  en  la  modelación  meteorológica  del  área  de  emplazamiento  y  en  las 
+proyecciones de cambio climático del Ministerio del Medio Ambiente en su plataforma ARClim. 
+Para la caracterización climatológica basal (temperatura, precipitación y régimen estacional) se 
+adopta  como  estación  de  referencia  la  estación  DGA  Lago  Peñuelas,  en  atención  a  su 
+representatividad  altitudinal  respecto  del  predio,  a  la  extensión  de  sus  registros  y  a  la 
+disponibilidad simultánea de precipitación y temperatura para un período comparable (1990-
+2020). Para la caracterización del régimen de vientos se utilizan los resultados de la modelación 
+WRF para el año 2025, contenidos en el Anexo 4.2 Informe de Modelación Meteorológica.
+La modelación WRF corresponde a un modelo numérico de cuatro dimensiones, recomendado 
+por la Guía para el Uso de Modelos de Calidad del Aire en el SEIA (2023) para la generación de 
+datos meteorológicos. El detalle de la configuración del modelo, de su dominio y de la validación 
+de su desempeño se documenta en el referido Informe de Modelación Meteorológica.
+1. ÁREA DE ESTUDIO
+Para la caracterización del componente Clima y Meteorología se define un área de estudio que 
+comprende la zona geográfica donde se emplazan las partes, obras y acciones del Proyecto, 
+correspondiente a las comunas de Viña del Mar, donde se localiza políticamente el Proyecto, y de 
+las comunas colindantes de Quilpué y Valparaíso. Esta delimitación territorial permite establecer 
+el comportamiento de las variables atmosféricas basales que interactúan con el Proyecto.
+La adopción de las comunas de Viña del Mar, Quilpué y Valparaíso como unidad territorial del 
+área de estudio se fundamenta en que dichas comunas constituyen la escala espacial para la cual 
+se dispone de información meteorológica y de proyecciones de cambio climático representativas 
+del área de emplazamiento, según las plataformas oficiales del Ministerio del Medio Ambiente. La 
+caracterización considera una serie de tiempo que permite identificar promedios, variabilidades y 
+tendencias climáticas.
+
+===== p.5 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 4
+Figura 1. Área de Estudio
+2. RED DE ESTACIONES DE MONITOREO DE REFERENCIA
+Para la caracterización climatológica se consideró la red hidrometeorológica de la Dirección 
+General de Aguas (DGA). Se seleccionó la estación Lago Peñuelas por su cercanía al Proyecto, 
+representatividad geográfica, disponibilidad histórica y continuidad de registros, además de 
+contar  con  información  simultánea  de  precipitación  y  temperatura  durante  un  período 
+comparable (1990-2020). En la Tabla 1 se presenta el catastro de estaciones DGA cercanas al área 
+del Proyecto.
+Tabla 1: Características de las estaciones meteorológicas de referencia
+Nombre
+Código DGA
+ESTE 
+UTM 19S
+NORTE 
+UTM 19 S
+Altura (m 
+s.n.m.)
+Registros 
+Precipitaciones
+Registros 
+Temperatura
+Cerro Colorado 
+05510005-5
+255,602
+6,336,195
+510
+2014 - 2024
+-
+Lago Peñuelas
+05510002-0
+261,547
+6,329,351
+360
+1974 - 2024
+1974 - 2018
+Las Piedras
+05500001-8
+-71,312
+-33,156
+225
+1991 - 2020
+-
+Rodelillo
+05510001-2
+258,601
+6,339,711
+110
+1971 - 2024
+-
+
+===== p.6 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 5
+Nombre
+Código DGA
+ESTE 
+UTM 19S
+NORTE 
+UTM 19 S
+Altura (m 
+s.n.m.)
+Registros 
+Precipitaciones
+Registros 
+Temperatura
+Valparaíso
+05510007-1
+256,611
+6,340,781
+44
+2016 - 2024
+-
+Las Salinas
+05500003-4
+261,948
+6,345,242
+20
+2013 - 2024
+-
+3. MARCO CLIMATOLÓGICO Y CARACTERIZACIÓN CLIMÁTICA
+De acuerdo con la clasificación climática de Köppen-Geiger (Vásquez et al., 2025), el área de 
+emplazamiento  del  Proyecto  en  la  comuna  de  Viña  del  Mar,  se  clasifica  como  un  clima 
+Mediterráneo  de  Lluvia  Invernal  (Csb).  Esta  tipología  se  caracteriza  por  una  marcada 
+estacionalidad pluviométrica con concentración de precipitaciones durante los meses de invierno 
+y un período estival seco y templado.
+Figura 2. Área de Estudio Clasificación climática de Chile para el período histórico (a) y futuro (b). Recuadro 
+rojo indica la zona costera de la región de Valparaíso. Extraído de (Vásquez y Mendoza, 2024)
+
+===== p.7 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 6
+El régimen climático del área de estudio se encuentra regulado a escala regional por tres 
+elementos principales de la circulación atmosférica del Pacífico Suroriental:
+
+Anticiclón  del  Pacífico  Sur  (APS): Sistema  semipermanente  de  alta  presión  que 
+promueve condiciones de estabilidad atmosférica. Durante la temporada estival, el APS se 
+desplaza hacia mayores latitudes, bloqueando el paso de sistemas frontales de lluvia y 
+generando cielos despejados y temperaturas templadas en Chile central. (Garreaud, 
+2009).
+
+Corriente Fría de Humboldt y Capa Marina: La presencia de aguas frías frente a la costa 
+favorece el enfriamiento de la capa inferior de la atmósfera, contribuyendo, junto con la 
+subsidencia asociada al Anticiclón Subtropical del Pacífico, al desarrollo de una inversión 
+térmica marina y de nubosidad baja costera. Estos procesos modulan la temperatura 
+superficial y favorecen condiciones de estabilidad atmosférica en el área de estudio 
+(Garreaud, 2009).
+
+Vaguadas Costeras (Bajas Presiones): Ocurrencia periódica de gradientes de presión 
+que inducen la penetración de aire húmedo marítimo hacia el interior o, en su fase de 
+término, el desarrollo de vientos locales del Este con disminución de la humedad relativa 
+y aumento térmico (Garreaud y Rutllant, 2003)
+3.1 Influencia del Relieve Local y Factores Microclimáticos
+El clima general de la región se adapta a la topografía específica del área de emplazamiento. La 
+presencia de la Cordillera de la Costa, junto con el sistema de quebradas y cerros que 
+conforman la cuenca local del Estero Marga-Marga, actúa como un modulador del flujo de aire 
+y de la temperatura a escala local:
+
+Efecto de Encajonamiento y Drenaje Térmico: La topografía accidentada orienta el 
+comportamiento de las masas de aire. Durante la noche, el enfriamiento del suelo genera 
+un flujo de aire frío que desciende por las laderas y quebradas (vientos catabáticos).
+
+Calentamiento Diurno y Entrada de Brisa: Durante el día, la radiación solar sobre las 
+laderas continentales rompe la estabilidad nocturna, activando corrientes ascendentes y 
+facilitando la entrada de la brisa marina del sector Sur a Suroeste (S–SW). 
+3.2 Variabilidad Interanual: Fenómeno El Niño-Oscilación del Sur (ENSO)
+La regularidad del clima mediterráneo en el área de estudio presenta variaciones de escala 
+interanual conducidas por el fenómeno El Niño-Oscilación del Sur (ENSO) en sus dos fases 
+contrapuestas (Garreaud, 2009):
+
+Fase El Niño (ENSO Positivo): Asociada al calentamiento anómalo de las aguas del 
+Océano Pacífico Ecuatorial. En Chile central, esta fase se traduce en un debilitamiento del 
+Anticiclón del Pacífico Sur y un incremento en la frecuencia e intensidad de los sistemas 
+frontales invernales, derivando en años con precipitaciones sobre lo normal y eventos de 
+lluvia intensa en periodos acotados.
+
+Fase La Niña (ENSO Negativo): Caracterizada por el enfriamiento anómalo de las aguas 
+ecuatoriales y el fortalecimiento del APS. En la zona central de Chile, esta fase intensifica y 
+prolonga las condiciones de sequía meteorológica, reduciendo los montos acumulados
+
+===== p.8 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 7
+anuales de  agua caída e incrementando la frecuencia de días  con alta estabilidad 
+atmosférica y bajas temperaturas mínimas invernales.
+4. CARACTERIZACION DE VARIABLES METEOROLÓGICAS
+En la Tabla 2 se presentan los promedios mensuales y anuales de las variables hidroclimáticas del 
+período histórico 1990-2020, correspondientes a la estación Lago Peñuelas. La tabla incluye la 
+precipitación  (P),  la  temperatura  máxima  diaria  (Tx),  la  temperatura media  diaria  (Tm),  la 
+temperatura mínima diaria (Tn).
+Tabla 2: Promedios mensuales y anuales de variables hidroclimáticas entre 1990 y 2020
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Anual
+P (mm)
+0,2
+1,1
+5,2
+18,2
+101,
+4
+172,
+4
+118,
+1
+104,
+1
+45,7 20,5
+4,2
+2,8
+593,8
+Tx (°C)
+23,9 23,4 22,7 20,2
+17,6
+15,4
+14,6
+15,7
+17,0 18,9 20,8 22,4
+19,4
+Tm (°C)
+17,3 16,9 16,1 13,9
+12,0
+10,3
+9,4
+10,3
+11,6 13,1 14,8 16,2
+13,5
+Tn (°C)
+10,8 10,2
+9,4
+7,7
+6,4
+5,3
+4,1
+4,9
+6,3
+7,4
+8,5
+9,9
+7,6
+Precipitación (P), temperatura máxima diaria (Tx), media diaria (Tm) y mínima diaria (Tn) en Lago Peñuelas; 
+caudal (Q) en el Estero Marga-Marga en desembocadura. Fuente: Capítulo 3.3 Caracterización Hidrológica
+7.1 Temperatura
+La temperatura presenta un ciclo anual definido, con los valores medios mensuales más altos en 
+verano y los más bajos en invierno. Según la estación Lago Peñuelas (período 1990-2020), la 
+temperatura media diaria anual alcanza 13,5 °C, con una temperatura máxima diaria media anual 
+de 19,4 °C y una temperatura mínima diaria media anual de 7,6 °C. Los meses más cálidos 
+corresponden a enero y febrero, con temperaturas medias de 17,3 °C y 16,9 °C respectivamente, 
+mientras que los meses más fríos corresponden a julio y junio, con 9,4 °C y 10,3 °C.
+Figura 3. Climograma de la estación meteorológica Lago Peñuelas para el período 1990-2020. Curva roja, 
+negra  y  azul  corresponden  a  la  media  mensual  de  temperaturas  máximas,  medias  y  mínimas 
+respectivamente. Barras azules indican la media de las precipitaciones acumuladas mensuales. Fuente: 
+Capítulo 3.3 Caracterización Hidrológica
+
+===== p.9 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 8
+Complementariamente, la modelación WRF para el año 2025 en el punto de grilla representativo 
+del emplazamiento indica una temperatura media de 15,58 °C, con el 90 % de los datos 
+comprendido entre 9,68 °C y 23,20 °C (percentiles 5 y 95). El ciclo diario modelado muestra un 
+aumento progresivo de la temperatura a partir de las 06:00–07:00 horas, con máximos en la tarde 
+entre las 13:00 y 15:00 horas, y valores mínimos durante la madrugada, entre las 04:00 y 06:00 
+horas. La diferencia entre la media anual observada en Lago Peñuelas y la media del año 
+modelado por WRF es consistente con la representatividad de un único año de modelación y con 
+el sesgo del modelo descrito en el acápite 5.5.
+7.2 Precipitación
+La  precipitación  presenta  un  régimen  marcadamente  estacional.  Según  la  estación  Lago 
+Peñuelas (1990-2020), la precipitación media anual alcanza 593,8 mm, concentrada entre los 
+meses de mayo y septiembre. Los mayores montos mensuales medios se registran en junio 
+(172,4 mm), julio (118,1 mm), agosto (104,1 mm) y mayo (101,4 mm), mientras que los meses de 
+verano (enero, febrero y diciembre) presentan valores prácticamente nulos.
+La modelación WRF para el año 2025 reproduce este régimen estacional, con acumulados 
+concentrados en el período frío del año. El mes con mayor precipitación acumulada modelada 
+corresponde a agosto, con 138,2 mm, seguido por junio con 134,6 mm y julio con 108,0 mm. 
+Durante los meses estivales no se registra precipitación acumulada en la modelación.
+7.2.1 Hidroclima histórico
+Considerando la estación Lago Peñuelas (DGA), la Figura 4 presenta las series de tiempo
+de precipitación, temperatura media y temperaturas.
+
+===== p.10 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 9
+Figura 4. Series de tiempo de la estación Lago Peñuelas a 9,6 km del proyecto. (a): Precipitación 
+acumulada diaria. (b) Temperatura media diaria. (c) Temperaturas máxima y mínima diarias. Zona 
+sombreada destaca el período 1990-2020. Datos originales sin información rellenada. Fuente: Capítulo 3.3 
+Caracterización Hidrológica
+Como primera observación, las series evidencian una marcada fluctuación interanual, tanto en 
+los montos de precipitación como en las temperaturas. Esta variabilidad es coherente con el 
+fenómeno El Niño-Oscilación del Sur descrito en el acápite 3.2: los años más lluviosos tienden a 
+coincidir con la fase cálida (El Niño), asociada al debilitamiento del Anticiclón del Pacífico Sur y a 
+una mayor frecuencia de sistemas frontales, mientras que los años más secos se relacionan con la 
+fase fría (La Niña) y el fortalecimiento de dicho anticiclón. Sobre esta variabilidad natural se 
+observa,  además,  una  tendencia decreciente  de  la  precipitación  en  las  décadas  recientes, 
+consistente con las proyecciones de cambio climático presentadas en el capítulo respectivo.
+7.5 Régimen de vientos
+El régimen de vientos se caracterizó a partir de los datos horarios modelados por WRF para el año 
+2025, mediante rosas de los vientos anual y estacionales. La velocidad media del viento durante el 
+período analizado es de 5,73 m/s, con el 90 % de los datos comprendido entre 0,33 m/s y 11,26 
+m/s (percentiles 5 y 95). La dirección predominante corresponde al sector sur (S) y sur suroeste 
+(SSO), con ocurrencias secundarias desde el cuadrante noroeste. El ciclo diario muestra menores 
+velocidades durante la mañana y mayores intensidades durante la tarde, con un máximo entre 
+las 17:00 y 18:00 horas.
+
+===== p.11 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 10
+7.5.1 Régimen de vientos anual
+Las direcciones predominantes del viento modelado se concentran principalmente en el sector 
+sur, destacando las componentes S, SSO y SO. En particular, la dirección sur (S) presenta la mayor 
+frecuencia, seguida por la componente sur-suroeste (SSO), lo que indica un predominio de 
+vientos  provenientes  del  cuadrante  sur.  La  rosa  de  los  vientos  muestra  que  las  mayores 
+frecuencias se asocian a velocidades moderadas y altas provenientes principalmente del sur y 
+sur-suroeste, especialmente en los rangos superiores a 3,6 m/s. 
+La distribución de la velocidad del viento indica una frecuencia de vientos calmos de 6,9 %. En 
+tanto, las categorías de mayor velocidad presentan las frecuencias más altas: el rango 5,7-8,8 m/s 
+alcanza un 23,4 %, mientras que las velocidades mayores a 8,8 m/s representan un 24,4 %, siendo 
+esta última la categoría predominante. La modelación WRF muestra un régimen de viento 
+dominado por componentes del sur a sur-suroeste, con una alta proporción de velocidades 
+moderadas a intensas.
+Figura 5. Régimen de vientos anuales modelados. Fuente: Capítulo 4.2 Modelación Meteorológica
+7.5.2 Régimen de vientos en la estación de verano
+Las  direcciones  predominantes  del  viento  modelado  se  concentran  principalmente  en  el 
+cuadrante sur, destacando las componentes sur-suroeste (SSO) y sur (S). La dirección SSO 
+presenta la mayor frecuencia, seguida por la componente S. Las mayores frecuencias se asocian a 
+velocidades moderadas y altas provenientes del sur-suroeste y sur, especialmente en los rangos 
+superiores a 3,6 m/s. La distribución indica una frecuencia de vientos calmos de 5,3 %. Las 
+categorías con mayor frecuencia corresponden a velocidades mayores a 8,8 m/s, con 25,7 %, 
+seguidas por el rango 3,6–5,7 m/s, con 22,5 %, y el rango 5,7–8,8 m/s, con 21,1 %.
+
+===== p.12 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 11
+Figura 6. Régimen de vientos de verano modelados. Fuente: Capítulo 4.2 Modelación Meteorológica
+7.5.2 Régimen de vientos en la estación de otoño
+Las direcciones predominantes se concentran principalmente en el cuadrante sur, destacando las 
+componentes sur (S) y sur suroeste (SSO). La dirección S presenta la mayor frecuencia, seguida 
+por la componente SSO. Las mayores frecuencias se asocian a velocidades moderadas y altas 
+provenientes del sur y sur suroeste, especialmente en los rangos superiores a 3,6 m/s. La 
+distribución indica una  frecuencia  de vientos  calmos de  9,5  %. Las  categorías  con mayor 
+frecuencia corresponden a velocidades mayores a 8,8 m/s, con 22,7 %, seguidas por el rango 3,6–
+5,7 m/s, con 20,7 %, y el rango 5,7–8,8 m/s, con 19,7 %.
+Figura 7. Régimen de vientos de otoño modelados. Fuente: Capítulo 4.2 Modelación Meteorológica
+7.5.2 Régimen de vientos en la estación de invierno
+Las direcciones predominantes se concentran principalmente en la componente sur (S), la cual 
+presenta la mayor frecuencia durante esta estación. Se identifican ocurrencias secundarias en 
+direcciones cercanas al sur suroeste (SSO) y, en menor medida, en el cuadrante norte. Las 
+mayores  frecuencias  se  asocian  a  velocidades  moderadas  y  altas  provenientes  del  sur, 
+especialmente en los rangos superiores a 3,6 m/s. La distribución indica una frecuencia de vientos 
+calmos de 7,8 %. Las categorías con mayor frecuencia corresponden al rango 5,7–8,8 m/s, con 
+29,7 %, seguido por las velocidades mayores a 8,8 m/s, con 19,4 %, y el rango 3,6–5,7 m/s, con 17,2 
+%.
+
+===== p.13 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 12
+Figura 8. Régimen de vientos de invierno modelados. Fuente: Capítulo 4.2 Modelación Meteorológica
+7.5.2 Régimen de vientos en la estación de otoño
+Las direcciones predominantes se concentran principalmente en el cuadrante sur, destacando las 
+componentes sur (S) y sur suroeste (SSO). La dirección S presenta la mayor frecuencia, seguida 
+por la componente SSO. Las mayores frecuencias se asocian a velocidades moderadas y altas 
+provenientes del sur y sur suroeste, especialmente en los rangos superiores a 3,6 m/s. La 
+distribución indica una  frecuencia  de vientos  calmos de  4,9  %. Las  categorías  con mayor 
+frecuencia corresponden a velocidades mayores a 8,8 m/s, con 30,0 %, seguidas por el rango 5,7–
+8,8 m/s, con 23,3 %, y el rango 3,6–5,7 m/s, con 19,8 %.
+Figura 9. Régimen de vientos de verano modelados. Fuente: Capítulo 4.2 Modelación Meteorológica
+7.6 Altura de la capa límite
+La altura de la capa límite atmosférica modelada por WRF para el año 2025 presenta una media de 
+386,27 m, con el 90 % de los datos comprendido entre 114,55 m y 790,14 m (percentiles 5 y 95). Se 
+identifica un ciclo diario definido, con valores mínimos durante la madrugada (cercanos a 250–
+270 m entre las 04:00 y 06:00 horas) y máximos entre el mediodía y la tarde (cercanos a 580–590 m 
+entre  las  12:00  y  15:00  horas).  Esta  condición  favorece  mejores  condiciones  de  mezcla 
+atmosférica durante el día, aspecto relevante para la dispersión de emisiones.
+En la figura 10 se puede observar el ciclo diario de la altura de la capa límite modelada por WRF,
+
+===== p.14 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 13
+para el año 2025.
+Figura 10. Ciclo diario modelado de la altura de la capa límite, año 2025. Fuente: Capítulo 4.2 Modelación 
+Meteorológica
+En  términos  generales,  la  altura  de  la  capa  límite  corresponde  al  espesor  de  atmósfera 
+influenciado por la superficie.
+Durante la noche y la madrugada, la ausencia de radiación solar entrante da lugar a un intenso 
+enfriamiento radiativo de la superficie terrestre. Este proceso térmico primario enfría la capa de 
+aire adyacente al suelo, aumentando su densidad y estabilizando fuertemente la atmósfera 
+inferior, lo que reduce la mezcla vertical y contrae la capa límite a sus mínimos diarios. Esta 
+condición de estabilidad térmica basal se ve reforzada por la topografía local mediante el drenaje 
+de este aire frío y denso a través de las laderas y quebradas. Finalmente, el crecimiento vertical de 
+este estrato queda acotado en altura por la inversión de subsidencia asociada al Anticiclón del 
+Pacífico Sur y al enfriamiento inferior provocado por la capa marina de la corriente de Humboldt
+Durante la tarde, la radiación solar directa produce el calentamiento del suelo, generando 
+turbulencia y corrientes ascendentes que expanden la capa de mezcla hasta su máximo, dinámica 
+que es favorecida por la entrada de la brisa predominante del sector sur a suroeste. De forma 
+episódica, el paso de vaguadas costeras altera esta profundidad. 
+En conjunto, la modelación constata que la atmósfera resulta más estable de noche y en la 
+mañana temprana, y más desarrollada durante la tarde, manteniendo coherencia con el régimen 
+térmico y de vientos caracterizado para el área de estudio.
+8. CAMBIO CLIMÁTICO
+Conforme a la Ley N° 21.455 (Ley Marco de Cambio Climático) y a la Guía metodológica para la 
+consideración del cambio climático en el SEIA, se incorporan las proyecciones climáticas futuras 
+del  Atlas  de  Riesgos  Climáticos  para  Chile  (ARClim),  plataforma  del  Ministerio  del  Medio 
+Ambiente.
+
+===== p.15 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 14
+El análisis considera el escenario SSP5-8.5, correspondiente a un escenario de altas emisiones de 
+gases de efecto invernadero, el cual representa la condición más desfavorable para efectos de 
+evaluación ambiental, comparando el período histórico 1980-2010 con el período futuro 2035-
+2065.
+La caracterización se presenta para las comunas de Viña del Mar, donde se emplaza políticamente 
+el Proyecto, y de Quilpué, comuna colindante. Las variables analizadas corresponden a la 
+precipitación  acumulada  anual,  la  temperatura  media  anual,  el  número  de  días  con 
+precipitaciones intensas y la precipitación máxima diaria.
+Tabla 9-1: Precipitación acumulada anual
+Comuna
+Provincia
+1980–2010 
+[mm]
+2035–2065 
+[mm]
+Cambio [%]
+Viña del Mar
+Valparaíso
+447,8
+384,0
+-14,3
+Quilpué
+Marga Marga
+489,0
+424,6
+-13,2
+Fuente: ARClim
+Los resultados muestran una disminución proyectada de la precipitación anual acumulada, del 
+orden de 13–14 %, consistente con las tendencias de aridificación proyectadas para la zona 
+central de Chile.
+Tabla 3: Temperatura media anual
+Comuna
+Provincia
+1980–2010 [°C]
+2035–2065 [°C]
+Diferencia [°C]
+Viña del Mar
+Valparaíso
+14,9
+16,4
++1,5
+Quilpué
+Marga Marga
+13,4
+15,1
++1,6
+Fuente: ARClim
+Se observa un aumento de la temperatura media anual, cercano a 1,5–1,6 °C hacia el período 
+2035-2065.
+Tabla 4: Días con precipitaciones intensas, mayores a 10 mm
+Comuna
+Provincia
+1980–2010
+2035–2065
+Diferencia
+Viña del Mar
+Valparaíso
+13,9
+11,9
+-2,0
+Quilpué
+Marga Marga
+15,2
+12,9
+-2,3
+Fuente: ARClim
+Se proyecta una disminución en el número anual de días con precipitaciones intensas, coherente 
+con la reducción de la precipitación total, lo que no excluye la ocurrencia de eventos extremos 
+aislados.
+Tabla 5: Precipitación máxima diaria
+Comuna
+Provincia
+1980–2010 
+[mm]
+2035–2065 
+[mm]
+Cambio [%]
+Viña del Mar
+Valparaíso
+58,8
+56,2
+-4,4
+Quilpué
+Marga Marga
+62,4
+60,3
+-3,4
+Fuente: ARClim
+
+===== p.16 =====
+EIA Centro Metropolitano de Gestión Integral de Residuos – Línea de Base de Clima y Meteorología
+Página 15
+Las  variaciones  proyectadas  en  la  precipitación  máxima  diaria  son  moderadas,  con  leves 
+disminuciones porcentuales, lo que indica que, aun bajo un escenario de reducción de lluvias, los 
+eventos diarios intensos continúan siendo un factor relevante en el área de estudio.
+En síntesis, los resultados obtenidos a partir de ARClim muestran, para ambas comunas, una 
+tendencia proyectada a la disminución de la precipitación anual acumulada, del orden de 13–14 
+%, junto con un incremento de la temperatura media anual cercano a 1,5–1,6 °C hacia el período 
+2035-2065, además de una disminución en el número de días con precipitaciones intensas y 
+variaciones moderadas en la precipitación máxima diaria.
+10. CONCLUSIONES
+El área de emplazamiento del Proyecto se caracteriza por un clima templado mediterráneo con 
+estación seca prolongada, con una temporada húmeda y fría entre abril y octubre y una 
+temporada cálida y seca entre noviembre y marzo. La temperatura media diaria anual, según la 
+estación de referencia Lago Peñuelas para el período 1990-2020, alcanza 13,5 °C, con máxima 
+diaria media de 19,4 °C y mínima diaria media de 7,6 °C. La precipitación media anual alcanza 
+593,8 mm, concentrada en los meses de invierno.
+El régimen de vientos, caracterizado mediante la modelación WRF para el año 2025, presenta una 
+velocidad media de 5,73 m/s y una dirección predominante del sector sur a sur suroeste, con 
+intensificación diurna en horas de la tarde. La altura media de la capa límite alcanza 386,27 m, con 
+un ciclo diario definido de mínimos nocturnos y máximos diurnos.
+Respecto de la variable de cambio climático, las proyecciones de ARClim bajo el escenario SSP5-
+8.5 indican, para las comunas de Viña del Mar y Quilpué, una disminución de la precipitación 
+anual acumulada del orden de 13-14 % y un aumento de la temperatura media anual cercano a 
+1,5-1,6  °C  hacia  el  período  2035-2065,  con  una  disminución  del  número  de  días  con 
+precipitaciones intensas y variaciones moderadas en la precipitación máxima diaria.
+
+===== p.17 =====
+11. REFERENCIAS
+Ministerio del Medio Ambiente. Reglamento del Sistema de Evaluación de Impacto Ambiental, 
+D.S. N° 40/2013.
+Ley N° 21.455, Ley Marco de Cambio Climático.
+Servicio de Evaluación Ambiental (SEA). Guía para la Descripción del Área de Influencia, 2017.
+Servicio de Evaluación Ambiental (SEA). Guía para el Uso de Modelos de Calidad del Aire en el SEIA, 
+2023.
+Ministerio del Medio Ambiente. Atlas de Riesgos Climáticos para Chile (ARClim).
+Dirección General de Aguas (DGA). Registros de la estación Lago Peñuelas (05510002-0).
+Sistema de Información Nacional de Calidad del Aire (SINCA), Ministerio del Medio Ambiente.
+Dirección de Vialidad, Ministerio de Obras Públicas. Manual de Carreteras.
+Garreaud, R. D. (2009).  The Andes climate and weather. Advances in Geosciences, 22, 3–11. 
+https://doi.org/10.5194/adgeo-22-3-2009
+Garreaud, R. D., & Rutllant, J. (2003). Coastal Lows along the Subtropical West Coast of South 
+America: Numerical Simulation of a Typical Case. Monthly Weather Review, 131, 891–908
+Vásquez, N. A., Mendoza, P. A., Lagos-Zuñiga, M., Scaff, L., Muñoz-Castro, E., & Vargas, X. (2025). 
+Robust spatial changes in climate classes: Insights from bias-corrected CMIP6 models across 
+Chile. Environmental Research Letters, 20(1), 014061. 
+https://doi.org/10.1088/1748-9326/ad9d5b
