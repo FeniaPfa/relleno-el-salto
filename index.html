@@ -393,7 +393,7 @@ footer .imprimir{display:inline-block;margin-top:10px}
 @media(max-width:720px){
   body{font-size:16.5px;line-height:1.62}
   .vhint{max-width:calc(100% - 150px);font-size:12px;padding:5px 8px;line-height:1.35}
-  .vhint .ancho{display:none}
+  .vhint .ancho{display:none} .v3 .vhint .angosto{display:inline}
   .wrap{padding:0 18px 40px}
   section{padding-top:40px}
   .shd{margin-bottom:18px}
@@ -628,6 +628,16 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .filo figcaption b{color:var(--acc);font-weight:600}
 /* ---- corte del subsuelo ---- */
 .v3 .panel.p2{top:12px}
+.pie.lee{display:flex;flex-wrap:wrap;gap:6px 22px;padding-top:0}
+.pie.lee span{display:inline-flex;gap:8px;align-items:baseline}
+.pie.lee .sw{display:inline-block;width:10px;height:10px;flex-shrink:0;border-radius:1px}
+.pie.lee .sw.ert{background:linear-gradient(90deg,#1f3fbf,#2fbf5a,#f2e33a,#e8492b,#7a1f7a)}
+/* en celular el panel del corte no puede tapar el bloque */
+@media(max-width:720px){
+  .v3 .panel.p2{top:8px;right:8px;width:auto;padding:8px 10px}
+  .v3 .panel.p2 .ph{display:none}
+  .v3 .panel.p2 label{font-size:12.5px;min-height:26px;padding:2px 0}
+}
 .v3 .pie{font-family:var(--cart);font-size:14px;color:#aab4ac;margin:0;
   padding:11px 16px;border-top:1px solid #39413c;background:#0d1014}
 .v3 .pie b{color:#fbf7ec;font-weight:600}
@@ -1266,6 +1276,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       </div>
     </div>
     <p class="pie" id="ert-pie"></p>
+    <p class="pie lee"><span><i class="sw" style="background:#ffd166"></i>fondo del vaso, cota 200</span>
+      <span><i class="sw ert"></i>sección geofísica del titular: su escala de resistividad está en la imagen de abajo</span></p>
   </div>
 
   <div class="mapbox" style="margin-top:26px">
