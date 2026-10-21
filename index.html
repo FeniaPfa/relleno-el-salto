@@ -1567,14 +1567,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   de biogás que el titular declara usar.</p>
   <div class="charts" style="margin-top:26px">
     <div class="chart">
-      <h3>El gas no se va cuando cierra el relleno</h3>
-      <div class="cs">LandGEM · k = 0,05 año⁻¹ · L₀ = 170 m³/Mg</div>
+      <h3>El gas sigue 35 años después de cerrar</h3>
+      <div class="cs">Millones de m³ de metano al año · LandGEM · k = 0,05 año⁻¹ · L₀ = 170 m³/Mg</div>
       <svg id="c-ch4" viewBox="0 0 460 260"></svg>
       <div class="cfoot" id="f-ch4"></div>
     </div>
     <div class="chart">
       <h3>Una montaña de 60 metros sobre la quebrada</h3>
-      <div class="cs">Sobre la huella de 51,34 ha · densidad compactada 1,0 t/m³</div>
+      <div class="cs">Espesor medio de la masa · huella de 51,34 ha · densidad 1,0 t/m³</div>
       <svg id="c-masa" viewBox="0 0 460 260"></svg>
       <div class="cfoot" id="f-masa"></div>
     </div>
@@ -2465,23 +2465,31 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var p=D.proy;
   function linea(svgSel,xs,ys,opts){
     var svg=$(svgSel),W=460,H=260,ml=46,mr=12,mt=16,mb=34;
-    var maxy=Math.max.apply(null,ys), maxx=Math.max.apply(null,xs);
+    var maxx=Math.max.apply(null,xs), paso=opts.paso, maxy=Math.ceil(Math.max.apply(null,ys)/paso)*paso;
     var X=function(v){return ml+(W-ml-mr)*v/maxx};
     var Y=function(v){return mt+(H-mt-mb)*(1-v/maxy)};
-    [0,.25,.5,.75,1].forEach(function(f){
-      var y=Y(maxy*f);
+    /* franja posterior al cierre: la alarma del gráfico de metano */
+    if(opts.cierre){
+      svg.appendChild(el('rect',{x:X(opts.cierre),y:mt,width:X(maxx)-X(opts.cierre),height:Y(0)-mt,
+        fill:'var(--ink3)','fill-opacity':.12}));
+      var tc=el('text',{x:(X(opts.cierre)+X(maxx))/2,y:mt+16,'font-size':12.5,'font-weight':600,
+        'font-family':'var(--cart)',fill:'var(--ink)','text-anchor':'middle'});
+      tc.textContent=(maxx-opts.cierre)+' años después del cierre'; svg.appendChild(tc);
+    }
+    for(var v=0;v<=maxy+1e-9;v+=paso){
+      var y=Y(v);
       svg.appendChild(el('line',{x1:ml,x2:W-mr,y1:y,y2:y,stroke:'var(--grid)','stroke-width':1}));
-      var t=el('text',{x:ml-8,y:y+3.5,'font-size':10,'font-family':'var(--cart)',
+      var t=el('text',{x:ml-8,y:y+4,'font-size':12,'font-family':'var(--cart)',
         fill:'var(--ink3)','text-anchor':'end'});
-      t.textContent=opts.fmt(maxy*f); svg.appendChild(t);
-    });
+      t.textContent=opts.fmt(v); svg.appendChild(t);
+    }
     [1,10,20,25,40,60].forEach(function(v){
       if(v>maxx)return;
-      var t=el('text',{x:X(v),y:H-mb+16,'font-size':10,'font-family':'var(--cart)',
+      var t=el('text',{x:X(v),y:H-mb+16,'font-size':12,'font-family':'var(--cart)',
         fill:'var(--ink3)','text-anchor':'middle'});
       t.textContent=v; svg.appendChild(t);
     });
-    var tl=el('text',{x:X(maxx/2),y:H-mb+30,'font-size':10,'font-family':'var(--cart)',
+    var tl=el('text',{x:X(maxx/2),y:H-mb+31,'font-size':12,'font-family':'var(--cart)',
       fill:'var(--ink3)','text-anchor':'middle'}); tl.textContent='año de operación';
     svg.appendChild(tl);
     var d='',a='';
@@ -2492,14 +2500,20 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     svg.appendChild(el('path',{d:a,fill:opts.col,'fill-opacity':.13}));
     svg.appendChild(el('path',{d:d,fill:'none',stroke:opts.col,'stroke-width':1.8,
       'stroke-linejoin':'round'}));
+    if(opts.ref){
+      var yr=Y(opts.ref.v);
+      svg.appendChild(el('line',{x1:ml,x2:W-mr,y1:yr,y2:yr,stroke:'var(--ink2)','stroke-width':1.2,'stroke-dasharray':'5 4'}));
+      var tr=el('text',{x:ml+6,y:yr-6,'font-size':12.5,'font-family':'var(--cart)',fill:'var(--ink2)'});
+      tr.textContent=opts.ref.t; svg.appendChild(tr);
+    }
     if(opts.mark!=null){
       var mx=X(opts.mark), my=Y(ys[xs.indexOf(opts.mark)]);
       svg.appendChild(el('line',{x1:mx,x2:mx,y1:my,y2:Y(0),stroke:opts.col,
         'stroke-width':1,'stroke-dasharray':'3 3','stroke-opacity':.6}));
       svg.appendChild(el('circle',{cx:mx,cy:my,r:4,fill:opts.col,
         stroke:'var(--surf)','stroke-width':1.6}));
-      var tm=el('text',{x:Math.min(mx+8,W-mr-4),y:my-9,'font-size':11,'font-weight':600,
-        'font-family':'var(--doc)',fill:opts.col,
+      var tm=el('text',{x:Math.min(mx+8,W-mr-4),y:my-9,'font-size':14,'font-weight':600,
+        'font-family':'var(--cifra)',fill:opts.col,
         'text-anchor':mx>W*.7?'end':'start'});
       tm.textContent=opts.markLabel; svg.appendChild(tm);
     }
@@ -2507,9 +2521,9 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
 
   linea('#c-ch4', p.anios, p.ch4_m3_anio, {
-    col:'var(--warn)', mark:p.pico.anio,
-    markLabel:(p.pico.ch4_m3/1e6).toFixed(0)+' M m³',
-    fmt:function(v){return (v/1e6).toFixed(0)+'M'}
+    col:'var(--blue)', mark:p.pico.anio, paso:50e6, cierre:p.pico.anio,
+    markLabel:(p.pico.ch4_m3/1e6).toFixed(0)+' millones de m³ · cierre',
+    fmt:function(v){return (v/1e6).toFixed(0)}
   });
   $('#f-ch4').innerHTML='Millones de metros cúbicos de metano por año. El máximo llega en el '+
     'año <b>'+p.pico.anio+'</b>, justo al cerrar el relleno — y el gas sigue saliendo '+
@@ -2519,11 +2533,14 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     'cuando el relleno cierra, y sigue emitiendo durante 35 años más.');
 
   var anios25=p.anios.slice(0,25);
-  linea('#c-masa', anios25, p.acumulado_t.slice(0,25), {
-    col:'var(--acc)', mark:25, markLabel:'30,7 M t',
-    fmt:function(v){return (v/1e6).toFixed(0)+'M'}
+  /* la altura, no las toneladas: es la unidad que se ve desde la calle */
+  var hfin=p.altura_m[24];
+  linea('#c-masa', anios25, p.altura_m.slice(0,25), {
+    col:'var(--blue)', mark:25, paso:20, ref:{v:20*3,t:'edificio de 20 pisos · 60 m'},
+    markLabel:String(hfin).replace('.',',')+' m',
+    fmt:function(v){return v+' m'}
   });
-  $('#f-masa').innerHTML='Toneladas acumuladas. El espesor de basura sobre el terreno crece de <b>'+
+  $('#f-masa').innerHTML='Metros de espesor medio año a año. El espesor de basura sobre el terreno crece de <b>'+
     p.altura_m[0].toString().replace('.',',')+' m</b> en el año 1 a <b>'+
     p.espesor_m['1.0'].toString().replace('.',',')+' m</b> al cierre: el alto de un '+
     '<b>edificio de 20 pisos</b>, extendido sobre 51 hectáreas.';
