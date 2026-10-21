@@ -76,7 +76,9 @@ function mobiliario(){
   var n=target.clone().add(new THREE.Vector3(0,0,-1000)).project(cam);
   var e=target.clone().add(new THREE.Vector3(1000,0,0)).project(cam);
   var nx=(n.x-o.x)*w/2, ny=-(n.y-o.y)*h/2;
-  _mobN.setAttribute('transform','rotate('+(Math.atan2(nx,-ny)*180/Math.PI).toFixed(1)+' 22 22)');
+  var ang=Math.atan2(nx,-ny)*180/Math.PI;
+  if(isFinite(ang))   /* antes del primer cuadro la cámara aún no proyecta: daba NaN */
+    _mobN.setAttribute('transform','rotate('+ang.toFixed(1)+' 22 22)');
   var px=Math.hypot((e.x-o.x)*w/2,-(e.y-o.y)*h/2);
   if(px>0){
     var mpp=1000/px, L=100, opciones=[100,200,500,1000,2000,5000];
@@ -314,7 +316,21 @@ var DESVIOS=[0,-20,20,-40,40,-62,62,-86,86];
 /* Las que quedan bajo la pluma con el viento vigente. Es el mismo conjunto que
    lista el panel: así lo que se lee en la lista es lo que se nombra en el mapa,
    y el resto se queda en punto. */
-var bajoPluma={};
+var bajoPluma={}, conMarca=null;
+/* De las 168 del catastro solo 115 caen dentro del recuadro de terreno que se
+   dibuja; el resto queda fuera del mapa aunque esté a sotavento. Hay que decirlo:
+   si no, la lista promete 44 y el mapa enseña 7, y parece que falta algo. */
+var conMarcaN=-1;
+function tieneMarca(n){
+  /* se reconstruye si cambió el número de marcas: cacheado a secas, la primera
+     llamada ocurría antes de construirMarcas() y dejaba el mapa vacío para siempre,
+     con lo que TODAS salían como «fuera del recuadro» */
+  if(!conMarca || conMarcaN!==marcas.length){
+    conMarca={}; conMarcaN=marcas.length;
+    marcas.forEach(function(m){ conMarca[m.n]=1 });
+  }
+  return !!conMarca[n];
+}
 function marcarPluma(){
   bajoPluma={};
   (typeof aSotavento==='function' ? aSotavento(vientoHacia) : []).forEach(function(b){ bajoPluma[b.n]=1 });
@@ -895,7 +911,9 @@ function listaSotavento(li){
                  : abierta ? 'ocultar la lista' : 'ver las '+n+' completas';
   ul.hidden = !abierta;
   ul.innerHTML = n ? li.map(function(b){
-      return '<li>'+b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km</span></li>';
+      var en=tieneMarca(b.n);
+      return '<li'+(en?'':' class="afuera" title="queda fuera del recuadro del mapa"')+'>'+
+             b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km'+(en?'':' ·')+'</span></li>';
     }).join('')
     : '<li class="vacia">ninguna en este rumbo</li>';
 }
@@ -911,6 +929,7 @@ function textoViento(){
   if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
   if(modoViento==='man'){
     var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
+    var fuera=li.filter(function(b){ return !tieneMarca(b.n) }).length;
     /* Un dato por línea: junto en un párrafo, el ancho del rumbo (5° frente a
        355°) hacía saltar el salto de línea y el bloque crecía 20 px. */
     e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b><br><i>supuesto tuyo, no del expediente</i>'+
@@ -920,6 +939,7 @@ function textoViento(){
          porque si una ocupa más que la otra, el deslizador salta al cruzar un
          rumbo donde el conteo cae a cero. */
       '<br>A sotavento: <b>'+(n || 'ninguna')+'</b> de '+T+' comunidades' +
+      (fuera ? '<br><span class="vq">'+fuera+' quedan fuera del recuadro del mapa</span>' : '') +
       '<br><span class="vq">catastro abierto, radio de 6 km</span>';
     listaSotavento(li);
     return;
@@ -976,7 +996,9 @@ function ecoFlotante(){
   if(et) et.textContent=vientoHacia+'°';
   if(nm){
     var li=(typeof aSotavento==='function') ? aSotavento(vientoHacia) : [];
-    nm.innerHTML = (li.length ? '<b>'+li.length+'</b> comunidades a sotavento'
+    var enMapa=li.filter(function(b){ return tieneMarca(b.n) }).length;
+    nm.innerHTML = (li.length ? '<b>'+li.length+'</b> a sotavento'+
+                                (enMapa<li.length ? ' · '+enMapa+' en el mapa' : '')
                               : 'nadie a sotavento') +
                    (modoViento==='man' ? ' · supuesto tuyo' : '');
   }
