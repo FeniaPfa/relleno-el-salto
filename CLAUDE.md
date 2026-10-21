@@ -61,6 +61,27 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   `forEach` no existe en el siguiente. Ya rompió los rótulos del 3D una vez.
 - **Dos secciones remiten al visor del terreno** («actívalo como capa en el visor 3D del
   comienzo»): `incendio` y `cuenca` deben ir después de `terreno`.
+- **Una `ShapeGeometry` tumbada al plano XZ queda mirando hacia abajo.** La forma vive en XY;
+  al mapear (x,y)→(x,·,y) se invierte el giro de cada triángulo y el renderer descarta la cara.
+  La tapa de la masa de residuos estuvo invisible así durante semanas sin que nada fallara.
+  Hay que invertir el índice (ver `dibujarMasa`) o usar `DoubleSide`.
+- **`reordenar.py` apunta a `web/plantilla.html`**, ruta que ya no existe: hoy es `src/`.
+
+## Verificación visual sin abrir el navegador
+
+Chrome headless con SwiftShader renderiza el WebGL. Dos trampas: la captura se toma al
+`load` de la página, antes de que el visor pinte, así que hay que retrasar el `load` (una
+imagen desde un servidor que demora unos segundos); y si se lanzan varias capturas en
+paralelo contra `python3 -m http.server`, `altura.png` puede no cargar y el terreno sale plano.
+
+```bash
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu \
+  --use-angle=swiftshader --enable-unsafe-swiftshader --hide-scrollbars \
+  --window-size=1500,1150 --timeout=30000 --screenshot=cap.png http://127.0.0.1:8765/envoltorio.html
+```
+
+El envoltorio es un HTML con un `<iframe src="index.html">` que, tras cargar, hace
+`scrollIntoView` sobre `#cv`, y puede pulsar `#b-sat` o mover `#tl` desde `contentDocument`.
 
 ## Rendimiento: el pendiente más importante
 

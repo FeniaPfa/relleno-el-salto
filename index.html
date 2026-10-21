@@ -293,8 +293,20 @@ footer b{color:var(--ink);font-weight:600}
   font-size:14px;color:#e2e6e0;padding:5px 0;cursor:pointer;min-height:28px}
 .panel input{accent-color:#e1676b;width:15px;height:15px;margin:0;flex-shrink:0}
 .panel .sw{width:10px;height:10px;flex-shrink:0;border-radius:1px}
-.vhint{position:absolute;left:12px;bottom:12px;font-family:var(--cart);font-size:13px;
-  color:#aab4ac;background:rgba(13,16,20,.85);padding:7px 10px;border:1px solid #39413c;z-index:3}
+.vhint{position:absolute;left:12px;bottom:12px;max-width:calc(100% - 200px);font-family:var(--cart);
+  font-size:13px;color:#aab4ac;background:rgba(13,16,20,.85);padding:7px 10px;border:1px solid #39413c;z-index:3}
+/* mobiliario cartográfico: norte que gira con la cámara, escala a la distancia del foco, atribución */
+.mob{position:absolute;right:12px;bottom:10px;z-index:3;pointer-events:none;display:flex;
+  flex-direction:column;align-items:flex-end;gap:5px;font-family:var(--cart);color:#e2e6e0}
+.mob .fila{display:flex;align-items:flex-end;gap:12px}
+.mob .norte{width:40px;height:40px;display:block;filter:drop-shadow(0 0 2px #14161a) drop-shadow(0 0 1px #14161a)}
+.mob .norte text{font-family:var(--cart)}
+.escala{display:flex;flex-direction:column;align-items:flex-end;font-size:11.5px;line-height:1;
+  padding-bottom:4px;text-shadow:0 0 3px #14161a,0 0 3px #14161a}
+.escala .esb{height:6px;width:80px;border:1.5px solid #e2e6e0;border-top:0;margin-bottom:4px;
+  filter:drop-shadow(0 0 1px #14161a)}
+.atrib{font-size:10.5px;color:#b4bcb3;letter-spacing:.01em;text-align:right;
+  text-shadow:0 0 3px #14161a,0 0 3px #14161a,0 0 5px #14161a}
 .marca{position:absolute;left:0;top:0;width:0;height:0;pointer-events:none;z-index:2;
   opacity:0;transition:opacity .18s;will-change:transform}
 /* el punto se queda clavado donde está el lugar; solo el texto se aparta */
@@ -794,12 +806,24 @@ img{max-width:100%}
     </div>
     <div class="cv" id="cv">
       <div class="vhint">Arrastra para girar · acerca para ver más nombres · pasa el cursor por un punto</div>
+      <div class="mob" id="mob" aria-hidden="true">
+        <div class="fila">
+          <div class="escala"><div class="esb" id="esb"></div><span id="est">1 km</span></div>
+          <svg class="norte" viewBox="0 0 44 44"><g id="norteG">
+            <circle cx="22" cy="22" r="19" fill="none" stroke="#fbf7ec" stroke-opacity=".28"/>
+            <path d="M22 10 L27 26 L22 23 L17 26 Z" fill="#fbf7ec"/>
+            <path d="M22 23 L27 26 L22 38 L17 26 Z" fill="#fbf7ec" fill-opacity=".32"/>
+            <text x="22" y="8.5" font-size="8" font-weight="600" text-anchor="middle" fill="#fbf7ec">N</text>
+          </g></svg>
+        </div>
+        <div class="atrib" id="atrib">Elevación: Terrain Tiles, Mapzen/AWS</div>
+      </div>
     </div>
     <details class="ctrl" id="ctrl3d" open>
       <summary>Capas, simulación y viento</summary>
       <div class="panel">
         <div class="ph">Capas</div>
-        <label><input type="checkbox" id="L-masa" checked><span class="sw" style="background:#ff7a45"></span>Masa de residuos</label>
+        <label><input type="checkbox" id="L-masa" checked><span class="sw" style="background:#e0612e"></span>Masa de residuos</label>
         <label><input type="checkbox" id="L-predio" checked><span class="sw" style="background:#f2f5ef"></span>Deslinde 206 ha</label>
         <label><input type="checkbox" id="L-exca" checked><span class="sw" style="background:#ffc957"></span>Excavación</label>
         <label><input type="checkbox" id="L-lix" checked><span class="sw" style="background:#4fc3f7"></span>Lixiviados</label>
@@ -2890,6 +2914,34 @@ function place(){
     target.y+rad*Math.cos(ph),
     target.z+rad*Math.sin(ph)*Math.cos(th));
   cam.lookAt(target);
+  mobiliario();
+}
+
+/* ---------- mobiliario: norte, escala y atribución ---------- */
+/* el norte y la escala se calculan proyectando desde el punto que mira la cámara:
+   en perspectiva la escala solo vale a esa distancia, como en cualquier visor 3D */
+var _mobN=null,_mobB=null,_mobT=null,_mobA=null;
+function mobiliario(){
+  if(!_mobN){ _mobN=document.getElementById('norteG'); _mobB=document.getElementById('esb');
+              _mobT=document.getElementById('est'); _mobA=document.getElementById('atrib'); }
+  if(!_mobN) return;
+  var w=cv.clientWidth,h=cv.clientHeight; if(!w||!h) return;
+  cam.updateMatrixWorld();
+  var o=target.clone().project(cam);
+  var n=target.clone().add(new THREE.Vector3(0,0,-1000)).project(cam);
+  var e=target.clone().add(new THREE.Vector3(1000,0,0)).project(cam);
+  var nx=(n.x-o.x)*w/2, ny=-(n.y-o.y)*h/2;
+  _mobN.setAttribute('transform','rotate('+(Math.atan2(nx,-ny)*180/Math.PI).toFixed(1)+' 22 22)');
+  var px=Math.hypot((e.x-o.x)*w/2,-(e.y-o.y)*h/2);
+  if(px>0){
+    var mpp=1000/px, L=100, opciones=[100,200,500,1000,2000,5000];
+    for(var i=0;i<opciones.length;i++) if(opciones[i]/mpp<=130) L=opciones[i];
+    _mobB.style.width=(L/mpp).toFixed(0)+'px';
+    _mobT.textContent=L>=1000?(L/1000)+' km':L+' m';
+  }
+  _mobA.textContent = modo==='sat'
+    ? 'Esri, Maxar, Earthstar Geographics · Elevación: Mapzen'
+    : 'Elevación: Terrain Tiles, Mapzen/AWS';
 }
 
 /* ---------- terreno como bloque ---------- */
@@ -3053,7 +3105,7 @@ function urbano(){
 }
 
 /* ---------- masa de residuos ---------- */
-var masa=null, masaBase=0, masaShapes=null, centroU=[0.5,0.5];
+var masa=null, masaBase=0, masaShapes=null, centroU=[0.5,0.5], masaCima=-1e9;
 function prepararMasa(){
   masaShapes=formaDe(L.residuos.g);
   var s=0,n=0,su=0,sv=0;
@@ -3064,27 +3116,44 @@ function prepararMasa(){
 }
 function dibujarMasa(esp){
   if(masa){sc.remove(masa);masa.traverse(function(o){if(o.geometry)o.geometry.dispose()});masa=null}
+  masaCima=-1e9;
   if(esp<=0.5||!masaShapes) return;
   var k=K(), topY=(masaBase+esp)*k, gr=new THREE.Group();
+  masaCima=topY;
   var gc=new THREE.ShapeGeometry(masaShapes), p=gc.attributes.position;
   for(var i=0;i<p.count;i++) p.setXYZ(i,p.getX(i),topY,p.getY(i));
+  /* la forma vive en XY y se tumba al plano XZ: eso invierte el giro de cada triángulo
+     y la tapa queda mirando hacia abajo, invisible desde arriba. Se devuelve el giro. */
+  var ix=gc.index.array;
+  for(var t=0;t<ix.length;t+=3){var tmp=ix[t+1];ix[t+1]=ix[t+2];ix[t+2]=tmp}
+  gc.index.needsUpdate=true;
   p.needsUpdate=true; gc.computeVertexNormals();
-  gr.add(new THREE.Mesh(gc,new THREE.MeshLambertMaterial({color:0xff7a45,
-    emissive:0x3a1206})));
-  var pos=[];
+  /* naranjo terroso: saturado, pero del color de la tierra removida y no de un rotulador */
+  gr.add(new THREE.Mesh(gc,new THREE.MeshLambertMaterial({color:0xb8491f,
+    emissive:0x160602,polygonOffset:true,polygonOffsetFactor:1,polygonOffsetUnits:1})));
+  var pos=[], borde=[];
   anillos(L.residuos.g).forEach(function(pl){pl.forEach(function(ring){
     for(var j=0;j<ring.length-1;j++){
       var A=uv(ring[j][0],ring[j][1]),B=uv(ring[j+1][0],ring[j+1][1]);
       var ax=wx(A[0]),az=wz(A[1]),bx=wx(B[0]),bz=wz(B[1]);
       var ay=Math.min(hAt(A[0],A[1])*k,topY-2),by=Math.min(hAt(B[0],B[1])*k,topY-2);
       pos.push(ax,ay,az,bx,by,bz,ax,topY,az, bx,by,bz,bx,topY,bz,ax,topY,az);
+      borde.push(ax,topY+1.5,az, bx,topY+1.5,bz);
     }
   })});
   var gw=new THREE.BufferGeometry();
   gw.setAttribute('position',new THREE.Float32BufferAttribute(pos,3));
   gw.computeVertexNormals();
-  gr.add(new THREE.Mesh(gw,new THREE.MeshLambertMaterial({color:0xd44f24,
-    emissive:0x2a0c03})));
+  /* las paredes dejan ver algo del terreno que tapan: la masa se asienta en vez de flotar */
+  gr.add(new THREE.Mesh(gw,new THREE.MeshLambertMaterial({color:0x9a3a16,
+    emissive:0x1c0702,transparent:true,opacity:.86,side:THREE.DoubleSide,
+    polygonOffset:true,polygonOffsetFactor:1,polygonOffsetUnits:1})));
+  /* borde superior oscuro: separa la coronación del terreno y de la pared */
+  var gb=new THREE.BufferGeometry();
+  gb.setAttribute('position',new THREE.Float32BufferAttribute(borde,3));
+  var rim=new THREE.LineSegments(gb,new THREE.LineBasicMaterial({color:0x4a1707,
+    transparent:true,opacity:.9}));
+  rim.renderOrder=5; gr.add(rim);
   masa=gr; masa.renderOrder=4; sc.add(gr);
   masa.visible=chkOn('L-masa');
 }
@@ -3130,11 +3199,19 @@ function ubicarMarcas(){
   var w=cv.clientWidth,h=cv.clientHeight,on=chkOn('L-barrios');
   var flota = !(window.matchMedia&&window.matchMedia('(max-width:900px)').matches);
   var reserva = flota?226:10, ANCHO=210;
-  var hueco=null;
-  if(flota){
-    var vb=document.getElementById('vbox');
-    if(vb){ var a=vb.getBoundingClientRect(), b=cv.getBoundingClientRect();
-      hueco=[a.left-b.left-8,a.top-b.top-6,a.right-b.left+8,a.bottom-b.top+6] }
+  /* huecos donde no se escribe: la rosa de los vientos (si flota) y el mobiliario */
+  var huecos=[], bcv=cv.getBoundingClientRect();
+  function hueco(id,m){
+    var e=document.getElementById(id); if(!e) return;
+    var a=e.getBoundingClientRect();
+    huecos.push([a.left-bcv.left-m,a.top-bcv.top-m,a.right-bcv.left+m,a.bottom-bcv.top+m]);
+  }
+  if(flota) hueco('vbox',8);
+  hueco('mob',6);
+  function choca(x0,x1,y){
+    for(var i=0;i<huecos.length;i++){ var q=huecos[i];
+      if(x1>q[0]&&x0<q[2]&&y>q[1]&&y<q[3]) return true }
+    return false;
   }
   var enPantalla=[];
   marcas.forEach(function(m){
@@ -3176,8 +3253,7 @@ function ubicarMarcas(){
   var conRotulo={};
   cand.forEach(function(it){
     var x0=it.izq?it.x-ANCHO:it.x, x1=it.izq?it.x:it.x+ANCHO, dy=it.ty-it.y;
-    if(dy>DERIVA||it.ty<14||it.ty>h-10||
-       (hueco&&x1>hueco[0]&&x0<hueco[2]&&it.ty>hueco[1]&&it.ty<hueco[3])) return;
+    if(dy>DERIVA||it.ty<14||it.ty>h-10||choca(x0,x1,it.ty)) return;
     conRotulo[it.n]=1;
     it.el.classList.toggle('izq',it.izq);
     it.el.classList.add('rot');
@@ -3338,12 +3414,12 @@ dom.addEventListener('wheel',function(e){
 $('#b-sat').addEventListener('click',function(){
   var b=this;
   cargarSat(function(){
-    modo='sat'; construirTerreno();
+    modo='sat'; construirTerreno(); mobiliario();
     b.setAttribute('aria-pressed','true'); $('#b-rel').setAttribute('aria-pressed','false');
   });
 });
 $('#b-rel').addEventListener('click',function(){
-  modo='carto'; construirTerreno();
+  modo='carto'; construirTerreno(); mobiliario();
   this.setAttribute('aria-pressed','true'); $('#b-sat').setAttribute('aria-pressed','false');
 });
 var bc=document.getElementById('b-curv');
@@ -3375,32 +3451,51 @@ function dirViento(){
 }
 
 /* ---------- pluma de gases ---------- */
-var NP=1400, pluma=null, pPos=null, pDat=[];
+/* cada partícula nace pequeña y densa sobre la fuente y se expande mientras se diluye:
+   el tamaño y la opacidad van por edad, en el shader, para que lea como gas y no como chispas */
+var NP=1600, pluma=null, pPos=null, pEd=null, pDat=[], plumaMat=null;
+var PLUMA_VS=[
+  'uniform float esc; attribute float ed; varying float vE;',
+  'void main(){ vE=ed; vec4 mv=modelViewMatrix*vec4(position,1.0);',
+  '  float tam=mix(110.0,520.0,sqrt(ed));',
+  '  gl_PointSize=min(tam*esc/-mv.z,260.0); gl_Position=projectionMatrix*mv; }'].join('\n');
+var PLUMA_FS=[
+  'uniform sampler2D map; varying float vE;',
+  'void main(){ float a=texture2D(map,gl_PointCoord).a;',
+  '  float f=pow(1.0-vE,1.4)*0.55;',
+  '  vec3 c=mix(vec3(0.98,0.72,0.46),vec3(0.80,0.62,0.50),vE);',
+  '  gl_FragColor=vec4(c*a*f,a*f); }'].join('\n');
 function crearPluma(){
-  pPos=new Float32Array(NP*3);
+  pPos=new Float32Array(NP*3); pEd=new Float32Array(NP);
   var g=new THREE.BufferGeometry();
   g.setAttribute('position',new THREE.BufferAttribute(pPos,3));
-  var col=new Float32Array(NP*3);
-  g.setAttribute('color',new THREE.BufferAttribute(col,3));
-  pluma=new THREE.Points(g,new THREE.PointsMaterial({size:95,map:sprite(
-    'rgba(255,214,160,.95)','rgba(255,150,70,.42)'),
-    transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,
-    sizeAttenuation:true,vertexColors:true,opacity:.62}));
+  g.setAttribute('ed',new THREE.BufferAttribute(pEd,1));
+  plumaMat=new THREE.ShaderMaterial({
+    uniforms:{map:{value:sprite('rgba(255,255,255,1)','rgba(255,255,255,.4)')},esc:{value:300}},
+    vertexShader:PLUMA_VS, fragmentShader:PLUMA_FS,
+    /* mezcla normal y no aditiva: humo que vela el terreno, no una luz que lo enciende */
+    transparent:true,depthWrite:false,premultipliedAlpha:true,blending:THREE.NormalBlending});
+  pluma=new THREE.Points(g,plumaMat);
   pluma.frustumCulled=false; pluma.renderOrder=6; sc.add(pluma);
   for(var i=0;i<NP;i++) pDat.push(nacerP(Math.random()*13));
   pluma.visible=chkOn('L-pluma');
+  escalaPluma();
+}
+/* la atenuación por distancia se calcula como en PointsMaterial: media altura del lienzo en píxeles reales */
+function escalaPluma(){
+  if(plumaMat) plumaMat.uniforms.esc.value=cv.clientHeight*0.5*ren.getPixelRatio();
 }
 function nacerP(edad){
   var e=D.emis[(Math.random()*D.emis.length)|0], p=uv(e[0],e[1]);
+  /* el gas sale de la superficie del relleno: sobre la masa cuando la hay, si no del suelo */
   return {u:p[0],v:p[1],x:wx(p[0]),z:wz(p[1]),
-          y:hAt(p[0],p[1])*K()+8+Math.random()*25,
+          y:Math.max(hAt(p[0],p[1])*K(),masaCima)+8+Math.random()*25,
           t:edad||0, vida:9+Math.random()*7,
           lat:(Math.random()-.5), sube:.5+Math.random()*1.3};
 }
 function pasoPluma(dt){
   if(!pluma||!pluma.visible) return;
   var d=dirViento(), per=new THREE.Vector3(-d.z,0,d.x), k=K();
-  var col=pluma.geometry.attributes.color.array;
   for(var i=0;i<NP;i++){
     var q=pDat[i]; q.t+=dt;
     if(q.t>q.vida){ pDat[i]=nacerP(0); q=pDat[i]; }
@@ -3413,11 +3508,10 @@ function pasoPluma(dt){
     var suelo=hWorld(q.x,q.z)*k+6;
     if(q.y<suelo) q.y=suelo;
     pPos[i*3]=q.x; pPos[i*3+1]=q.y; pPos[i*3+2]=q.z;
-    var f=1-q.t/q.vida;                       /* se diluye al alejarse */
-    col[i*3]=f*1.0; col[i*3+1]=f*0.62; col[i*3+2]=f*0.32;
+    pEd[i]=Math.min(q.t/q.vida,1);
   }
   pluma.geometry.attributes.position.needsUpdate=true;
-  pluma.geometry.attributes.color.needsUpdate=true;
+  pluma.geometry.attributes.ed.needsUpdate=true;
 }
 
 /* ---------- escorrentía ---------- */
@@ -3596,6 +3690,7 @@ function pasoTour(dt){
 function resize(){
   var w=cv.clientWidth,h=cv.clientHeight; if(!w||!h)return;
   ren.setSize(w,h,false);cam.aspect=w/h;cam.updateProjectionMatrix();
+  escalaPluma(); mobiliario();
 }
 addEventListener('resize',resize);
 var vis=true;
