@@ -1518,8 +1518,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="intro">Estar dentro del área de influencia no es un detalle técnico: define quién es
   parte afectada reconocida y sobre quién deben evaluarse los impactos.</p>
   <figure class="filo">
-    <h3>Las excluidas por metros</h3>
-    <svg id="c-filo" viewBox="0 0 700 250"></svg>
+    <h3>El borde pasa a 72 metros de Botania</h3>
+    <svg id="c-filo" viewBox="0 0 700 500"></svg>
     <figcaption><i>Botania</i> queda <b>72 metros</b> fuera del límite. <i>Cumbres de Quilpué</i>,
     <b>77</b>. El borde del área de influencia pasa justo por delante de ellas.</figcaption>
   </figure>
@@ -2645,26 +2645,66 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   function E(t,a,x){var n=document.createElementNS(NS,t);for(var k in a)n.setAttribute(k,a[k]);
     if(x!=null)n.textContent=x;return n}
   if(svg&&A.al_filo){
-    var W=700,H=250,ml=200,mr=96,mt=14,mb=28, L=A.al_filo;
-    var max=Math.max.apply(null,L.map(function(x){return x.borde}));
-    max=Math.ceil(max/50)*50;
-    var bh=(H-mt-mb)/L.length;
-    L.forEach(function(x,i){
-      var y=mt+i*bh+bh*.22, h2=bh*.44, w=(W-ml-mr)*x.borde/max;
-      svg.appendChild(E('rect',{x:ml,y:y,width:(W-ml-mr),height:h2,fill:'var(--surf2)'}));
-      svg.appendChild(E('rect',{x:ml,y:y,width:w.toFixed(1),height:h2,fill:'var(--acc)'}));
-      svg.appendChild(E('text',{x:ml-12,y:y+h2*.76,'font-size':14,'font-weight':600,
-        fill:'var(--ink)','text-anchor':'end'},x.n));
-      svg.appendChild(E('text',{x:ml+w+10,y:y+h2*.78,'font-size':15,'font-weight':600,
-        fill:'var(--acc)'},x.borde+' m'));
+    /* una regla en metros: el borde del área en cero, cada población en su fila.
+       El nombre va encima de su línea para que resista el ancho de un celular. */
+    var dentro=(A.detalle||[]).filter(function(x){return x.dentro});
+    var filas=dentro.map(function(x){return {n:x.n,dentro:true}})
+      .concat(A.al_filo.map(function(x){return {n:x.n,borde:x.borde}}));
+    /* en pantallas angostas el lienzo se dibuja más estrecho, para que el texto no tenga que crecer */
+    function dibujaFilo(){
+    while(svg.firstChild) svg.removeChild(svg.firstChild);
+    var ang=svg.clientWidth&&svg.clientWidth<560;
+    var W=ang?400:700, RH=ang?54:50, top=ang?78:58, bx=ang?96:170, x1=W-(ang?58:70), MAXM=150;
+    var H=top+filas.length*RH+44;
+    svg.setAttribute('viewBox','0 0 '+W+' '+H);
+    var X=function(m){return bx+(x1-bx)*m/MAXM};
+    var cerca=A.al_filo.filter(function(x){return x.borde<MAXM}).length;
+    var rojas=A.al_filo.slice().sort(function(a,b){return a.borde-b.borde}).slice(0,2)
+      .map(function(x){return x.n});
+    /* zona interior, rejilla y escala */
+    svg.appendChild(E('rect',{x:20,y:top-14,width:bx-20,height:filas.length*RH+10,
+      fill:'var(--green)','fill-opacity':.08}));
+    svg.appendChild(E('text',{x:bx-12,y:top-22,'font-size':12.5,fill:'var(--green)',
+      'text-anchor':'end','font-weight':600},ang?'dentro':'dentro del área'));
+    svg.appendChild(E('text',{x:bx+12,y:top-22,'font-size':12.5,fill:'var(--ink2)'},
+      ang?'fuera →':'fuera, a esta distancia del borde →'));
+    [0,50,100,150].forEach(function(m){
+      svg.appendChild(E('line',{x1:X(m),x2:X(m),y1:top-14,y2:top+filas.length*RH-4,
+        stroke:'var(--grid)','stroke-width':1}));
+      svg.appendChild(E('text',{x:X(m),y:top+filas.length*RH+16,'font-size':12.5,
+        fill:'var(--ink3)','text-anchor':'middle'},m+' m'));
     });
-    svg.appendChild(E('line',{x1:ml,x2:ml,y1:mt,y2:H-mb+4,stroke:'var(--warn)',
-      'stroke-width':2.4,'stroke-dasharray':'8 5'}));
-    svg.appendChild(E('text',{x:ml,y:H-mb+20,'font-size':12.5,fill:'var(--warn)',
-      'text-anchor':'middle'},'límite del área de influencia'));
+    svg.appendChild(E('line',{x1:bx,x2:bx,y1:top-14,y2:top+filas.length*RH,
+      stroke:'var(--warn)','stroke-width':2.4,'stroke-dasharray':'8 5'}));
+    svg.appendChild(E('text',{x:bx,y:top+filas.length*RH+34,'font-size':12.5,fill:'var(--warn)',
+      'text-anchor':'middle','font-weight':600},'borde del área de influencia'));
+    /* la cifra de la alarma, escrita en el gráfico */
+    svg.appendChild(E('text',{x:ang?20:W-20,y:24,'font-size':17,'font-weight':600,fill:'var(--ink)',
+      'text-anchor':ang?'start':'end'},cerca+' poblaciones a menos de '+MAXM+' m del borde'));
+    filas.forEach(function(f,i){
+      var y=top+i*RH, yl=y+22;
+      var col=f.dentro?'var(--green)':(rojas.indexOf(f.n)>=0?'var(--acc)':'var(--ink3)');
+      svg.appendChild(E('text',{x:f.dentro?(ang?20:bx-14):bx+12,y:(f.dentro&&!ang)?yl+5:y+6,
+        'text-anchor':(f.dentro&&!ang)?'end':'start','font-size':14,'font-weight':600,
+        fill:f.dentro?'var(--ink)':(rojas.indexOf(f.n)>=0?'var(--ink)':'var(--ink2)')},f.n));
+      if(f.dentro){
+        svg.appendChild(E('circle',{cx:bx,cy:yl,r:6,fill:col}));
+        return;
+      }
+      svg.appendChild(E('line',{x1:bx,x2:X(f.borde),y1:yl,y2:yl,stroke:col,'stroke-width':3}));
+      svg.appendChild(E('circle',{cx:X(f.borde),cy:yl,r:7,fill:col}));
+      svg.appendChild(E('text',{x:X(f.borde)+13,y:yl+5,'font-size':15,'font-weight':600,fill:col},
+        Math.round(f.borde)+' m'));
+    });
+    }
+    dibujaFilo();
+    var anchoFilo=svg.clientWidth;
+    addEventListener('resize',function(){ if(Math.abs(svg.clientWidth-anchoFilo)>40){
+      anchoFilo=svg.clientWidth; dibujaFilo(); if(typeof escalaTodo==='function') escalaTodo(); } });
     svg.setAttribute('role','img');
-    svg.setAttribute('aria-label','Metros que separan a cada población excluida del borde del '+
-      'área de influencia declarada. Botania queda a 72 metros, Cumbres de Quilpué a 77.');
+    svg.setAttribute('aria-label','Distancia de cada población al borde del área de influencia '+
+      'que declaró el titular. Dentro: '+dentro.map(function(x){return x.n}).join(' y ')+'. Fuera: '+
+      A.al_filo.map(function(x){return x.n+' a '+Math.round(x.borde)+' metros'}).join(', ')+'.');
   }
   var tb=document.getElementById('tbl-ai');
   /* solo las que están dentro y las seis que quedan al filo: el resto repite «excluida» */
