@@ -1339,9 +1339,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <svg id="m4" viewBox="0 0 980 600" role="img"
       aria-label="Recorridos de escorrentía superficial desde el relleno hasta el Estero Marga-Marga, pasando junto al Humedal Urbano Estero Quilpué."></svg>
     <div class="leg">
-      <span><i style="background:#5ad7f5"></i>Recorrido de escorrentía</span>
-      <span><i style="background:#2fb7c4"></i>Estero Marga-Marga y Quilpué</span>
-      <span><i style="background:#6fd3f5;opacity:.6;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
+      <span><i style="background:#ff8a5c"></i>Recorrido de escorrentía desde el relleno</span>
+      <span><i style="background:#8fb3c1"></i>Estero Marga-Marga y Quilpué</span>
+      <span><i style="background:#8fb3c1;opacity:.6;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
+      <span><i style="background:transparent;border:2px solid #fbf7ec;border-radius:50%"></i>Punto de contacto</span>
       <span><i style="background:var(--acc)"></i>Zona de disposición</span>
     </div>
   </div>
@@ -2108,25 +2109,24 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   /* humedal protegido */
   (D.areas||[]).forEach(function(ar){
     if(ar.id!=='humedal') return;
-    svg.appendChild(el('path',{d:pathOf(ar.g,P),fill:'#6fd3f5','fill-opacity':.45,
-      stroke:'#6fd3f5','stroke-width':2}));
+    svg.appendChild(el('path',{d:pathOf(ar.g,P),fill:'#8fb3c1','fill-opacity':.32,
+      stroke:'#8fb3c1','stroke-width':1.6}));
   });
   /* cauces nombrados */
   var gCau=el('g',{});
   Object.keys(E.cauces).forEach(function(k){
-    gCau.appendChild(el('path',{d:pathLinea(E.cauces[k],P),fill:'none',stroke:'#2fb7c4',
-      'stroke-width':3.2,'stroke-opacity':.9,'stroke-linecap':'round'}));
+    /* el agua, apagada: el sujeto es lo que sale del relleno */
+    gCau.appendChild(el('path',{d:pathLinea(E.cauces[k],P),fill:'none',stroke:'#8fb3c1',
+      'stroke-width':2.2,'stroke-opacity':.85,'stroke-linecap':'round'}));
   });
   svg.appendChild(gCau);
   /* recorridos */
   var gHil=el('g',{});
   (E.hilos||[]).forEach(function(hh){
-    gHil.appendChild(el('path',{d:pathLinea(hh.g,P),fill:'none',
-      stroke:hh.src==='lixiviados'?'#9ae6ff':'#5ad7f5',
-      'stroke-width':hh.src==='lixiviados'?1.8:1.3,'stroke-opacity':.55,
-      'stroke-linecap':'round'}));
+    gHil.appendChild(el('path',{d:pathLinea(hh.g,P),fill:'none',stroke:'#ff8a5c',
+      'stroke-width':1.2,'stroke-opacity':.4,'stroke-linecap':'round'}));
   });
-  gHil.appendChild(el('path',{d:pathLinea(E.troncal,P),fill:'none',stroke:'#5ad7f5',
+  gHil.appendChild(el('path',{d:pathLinea(E.troncal,P),fill:'none',stroke:'#ff8a5c',
     'stroke-width':3.4,'stroke-opacity':.95,'stroke-linecap':'round'}));
   svg.appendChild(gHil);
   /* el proyecto */
@@ -2143,17 +2143,26 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var bz=bboxOf(L.residuos.g,[180,90,-180,-90]);
   var pz=P((bz[0]+bz[2])/2,(bz[1]+bz[3])/2);
   rot(pz[0]+16,pz[1]+5,'relleno proyectado','#ffb9a4');
+  /* cotas: los puntos se calcularon con shapely sobre estas mismas geometrías */
+  function cota(ll,dx,dy,lineas,anc){
+    if(!ll) return; var q=P(ll[0],ll[1]);
+    svg.appendChild(el('circle',{cx:q[0].toFixed(1),cy:q[1].toFixed(1),r:7,fill:'none',
+      stroke:'#fbf7ec','stroke-width':2.2}));
+    svg.appendChild(el('line',{x1:q[0],y1:q[1],x2:q[0]+dx,y2:q[1]+dy-4,stroke:'#fbf7ec','stroke-width':1.2}));
+    lineas.forEach(function(l,i){
+      var t=rot(q[0]+dx+(anc==='end'?-4:4),q[1]+dy+i*19,l,'#fbf7ec',i?13:15);
+      if(anc) t.setAttribute('text-anchor',anc);
+    });
+  }
+  cota(E.p_quilpue,-60,-70,['a '+E.d_quilpue_m+' m del Estero Quilpué','y a '+E.d_humedal_m+' m del humedal'],'end');
+  cota(E.p_marga,40,-56,['llega al Marga-Marga','a '+String(Math.round(E.km_al_marga*10)/10).replace('.',',')+' km del deslinde']);
+  var tt=rot(24,40,'Los '+E.n_rutas+' recorridos terminan en el mismo estero','#fbf7ec',22);
   Object.keys(E.cauces).forEach(function(k){
     var cb=bboxLinea(E.cauces[k],[180,90,-180,-90]);
     var q=P((cb[0]+cb[2])/2,(cb[1]+cb[3])/2);
-    if(q[0]>70&&q[0]<W-70&&q[1]>24&&q[1]<H-24)
-      rot(q[0],q[1]-9,k.replace(' - Jardín Botánico',''),'#8fe3ec',12.5);
-  });
-  (D.areas||[]).forEach(function(ar){
-    if(ar.id!=='humedal') return;
-    var hb=bboxOf(ar.g,[180,90,-180,-90]);
-    var q=P((hb[0]+hb[2])/2,(hb[1]+hb[3])/2);
-    rot(q[0]+12,q[1]-6,'Humedal Urbano protegido','#bdeaff',12.5);
+    /* el Marga-Marga y el Quilpué los nombran las cotas; aquí solo los demás */
+    if(k!=='Estero Marga-Marga'&&k!=='Estero Quilpué'&&q[0]>70&&q[0]<W-70&&q[1]>24&&q[1]<H-24)
+      rot(q[0],q[1]-9,k.replace(' - Jardín Botánico',''),'#bcd3dc',12.5);
   });
   /* escala */
   (function(){
