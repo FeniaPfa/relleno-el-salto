@@ -1,7 +1,11 @@
 /* ============ corte del subsuelo: las 11 secciones geofísicas ============ */
 (function(){
-if(typeof THREE==='undefined'||!D.sub||!D.terr) return;
-var cv=document.getElementById('cv2'); if(!cv) return;
+var cv=document.getElementById('cv2'); if(!cv||!D.sub||!D.terr) return;
+function sinWebGL(c){
+  c.innerHTML='<p class="sinwebgl">Tu navegador no puede mostrar el corte del subsuelo. '+
+    'La sección geofísica elegida se muestra más abajo como imagen.</p>';
+}
+if(typeof THREE==='undefined'){ sinWebGL(cv); return; }
 var S=D.sub, M=D.terr, N=M.n, EX=1.5, BASE=70;
 
 /* ---------- ventana: el predio con holgura ---------- */
@@ -31,7 +35,9 @@ function hUV(u,v){return hGlobal(bb[0]+u*(bb[2]-bb[0]),
   2*(Math.atan(Math.exp(Y0+v*(Y1-Y0)))-Math.PI/4)*180/Math.PI)}
 
 /* ---------- escena ---------- */
-var ren=new THREE.WebGLRenderer({antialias:true,alpha:false});
+var ren;
+try { ren=new THREE.WebGLRenderer({antialias:true,alpha:false}); }
+catch(e){ sinWebGL(cv); return; }
 ren.setPixelRatio(Math.min(devicePixelRatio,2));
 ren.localClippingEnabled=true;
 /* el bloque se abre justo en el perfil elegido */

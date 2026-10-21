@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://feniapfa.github.io/seia-data/sitemap.xml

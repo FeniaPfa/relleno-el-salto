@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-CL">
 <head>
 <meta charset="utf-8">
-<title>Expediente COSEMAR El Salto</title>
+<title>Relleno sanitario COSEMAR en El Salto, Viña del Mar: lo que dice el expediente</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+<link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&family=Spectral+SC:wght@500;600&family=Fira+Sans+Condensed:wght@400;500;600&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&display=swap">
 <style>
 /* ===================================================================
@@ -97,7 +99,7 @@ section{padding-top:64px;position:relative}
 .shd .n{position:absolute;left:-62px;top:-4px;width:46px;text-align:right;
   font-family:var(--doc);font-weight:300;font-size:30px;line-height:1;color:var(--ink3);
   font-variant-numeric:lining-nums}
-.shd .src{display:block;font-family:var(--sc);font-size:12.5px;font-weight:500;
+.shd .src{display:block;margin:0;font-family:var(--sc);font-size:12.5px;font-weight:500;
   letter-spacing:.02em;color:var(--ink3);margin-top:5px}
 @media(max-width:1180px){
   .shd .n{position:static;display:block;width:auto;text-align:left;font-size:17px;
@@ -127,7 +129,7 @@ section{padding-top:64px;position:relative}
 .umbral{margin-top:14px}
 .umbral .riel{position:relative;height:12px;background:var(--surf2);
   border:1px solid var(--line)}
-.umbral .fill{position:absolute;inset:0 auto 0 0;background:var(--warn)}
+.umbral .fill{position:absolute;top:0;bottom:0;left:0;background:var(--warn)}
 .umbral .tope{position:absolute;top:-4px;bottom:-4px;right:0;width:2px;background:var(--acc)}
 .umbral .pie{display:flex;justify-content:space-between;margin-top:6px;
   font-family:var(--cart);font-size:12.5px;color:var(--ink2)}
@@ -238,6 +240,26 @@ footer{margin-top:76px;padding-top:30px;border-top:1px solid var(--bistre);
   font-size:15px;color:var(--ink2);line-height:1.75;max-width:70ch}
 footer b{color:var(--ink);font-weight:600}
 
+/* ---------- utilidades de accesibilidad ---------- */
+.vh{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;padding:0;margin:-1px}
+.indice{display:flex;flex-wrap:wrap;gap:6px 14px;margin:26px 0 0;font-family:var(--cart);font-size:14px;line-height:1.5}
+.indice a{color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--line)}
+.indice a:hover,.indice a:focus-visible{color:var(--acc);border-bottom-color:var(--acc)}
+.indice a b{color:var(--acc)}
+.aviso-js{margin:20px 0 0;padding:12px 16px;border:1px solid var(--warn);color:var(--ink2);font-size:15px}
+.plazo .d .ult{font-size:.5em;font-weight:600;margin:0}
+.firma{color:var(--ink)}
+footer .imprimir{display:inline-block;margin-top:10px}
+@media print{
+  :root,:root[data-theme="dark"]{--bg:#fff;--surf:#fff;--surf2:#f2f2f2;--sunk:#f2f2f2;--ink:#000;--ink2:#333;--ink3:#555;
+    --line:#999;--line2:#bbb;--acc:#8a1a22;--blue:#1f4f66;--green:#2f5a3a;--warn:#6a4a0a;color-scheme:light}
+  body{background:#fff;color:#000;font-size:11pt}
+  .v3,.cv,.panel,.viento,.plazo,.btn,.indice,.vhint,.tg,.toggles,.play,.tl,.ctrl,.imprimir,.aviso-js,.barra-cta{display:none!important}
+  a{color:#000}
+  a[href^="http"]::after{content:" (" attr(href) ")";font-size:8.5pt;color:#444;word-break:break-all}
+  section{break-inside:avoid-page}
+  .shd{break-after:avoid}
+}
 /* ---------- barra fija de acción en móvil ---------- */
 /* cinta de peligro: decorativa, nunca porta información */
 .cinta{display:block;height:5px;
@@ -286,7 +308,7 @@ footer b{color:var(--ink);font-weight:600}
   padding:12px 16px;border-bottom:1px solid var(--line);background:var(--surf)}
 .ctrl>summary{display:none}
 .panel{position:absolute;top:calc(var(--barra3d,58px) + 12px);right:12px;width:210px;background:rgba(13,16,20,.9);
-  border:1px solid #39413c;padding:12px 13px;backdrop-filter:blur(6px);z-index:3}
+  border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .panel .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
   color:#9aa49c;margin-bottom:9px}
 .panel label{display:flex;align-items:center;gap:9px;font-family:var(--cart);
@@ -324,7 +346,7 @@ footer b{color:var(--ink);font-weight:600}
 .marca.cerca .tx{color:#ffb9a4}
 .marca.cerca .km{color:#f0c3b2}
 .viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;background:rgba(13,16,20,.9);
-  border:1px solid #39413c;padding:12px 13px;backdrop-filter:blur(6px);z-index:3}
+  border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .viento .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
   color:#9aa49c;margin-bottom:9px}
 .rosa{display:flex;justify-content:center}
@@ -513,7 +535,7 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .foto{margin:30px 0 0;border:1px solid var(--line);background:var(--surf)}
 .fwrap{position:relative;line-height:0;background:#0d1014}
 .fwrap img{display:block;width:100%;height:auto}
-.fwrap svg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.fwrap svg{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
 .fbtns{display:flex;flex-wrap:wrap;gap:10px;padding:12px 16px;border-top:1px solid var(--line)}
 .foto figcaption{padding:4px 16px 16px;display:grid;gap:7px}
 .foto .cit{font-family:var(--doc);font-size:17px;line-height:1.56;color:var(--ink);
@@ -617,22 +639,31 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 .marca.hov .pt{background:#ffd166;box-shadow:0 0 0 1.6px #14161a,0 0 10px rgba(255,209,102,.6)}
 
 </style>
-<meta name="description" content="Análisis geoespacial independiente del Estudio de Impacto Ambiental del relleno sanitario COSEMAR en El Salto, Viña del Mar. Expediente SEIA 2168892026. La participación ciudadana cierra el 3 de noviembre de 2026.">
+<meta name="description" content="Qué dice el Estudio de Impacto Ambiental del relleno sanitario COSEMAR en El Salto, Viña del Mar, y cómo observar antes del 3 de noviembre de 2026.">
+<meta name="robots" content="index,follow,max-image-preview:large">
 <meta name="author" content="Análisis independiente">
 <link rel="canonical" href="https://feniapfa.github.io/seia-data/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_CL">
 <meta property="og:site_name" content="Expediente COSEMAR El Salto">
 <meta property="og:title" content="Lo que dice el expediente del relleno de El Salto">
-<meta property="og:description" content="Hay casas a 820 metros. El viento sopla hacia ellas. De 23 literales evaluados, el estudio reconoce un solo impacto significativo. Plazo para observar: 3 de noviembre.">
+<meta property="og:description" content="El propio titular ubica casas a 676 metros. El viento sopla hacia ellas. De 23 literales evaluados, el estudio reconoce un solo impacto significativo. Plazo para observar: 3 de noviembre.">
 <meta property="og:url" content="https://feniapfa.github.io/seia-data/">
-<meta property="og:image" content="https://feniapfa.github.io/seia-data/social.jpg">
+<meta property="og:image" content="https://feniapfa.github.io/seia-data/social.jpg?v=2">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="Vista del cerro de El Salto desde Pompeya Sur con el texto: Lo que dice el expediente del relleno de El Salto. Plazo para observar: 3 de noviembre de 2026.">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Lo que dice el expediente del relleno de El Salto">
+<meta name="twitter:description" content="El propio titular ubica casas a 676 metros. El viento sopla hacia ellas. De 23 literales evaluados, reconoce un solo impacto significativo. Plazo: 3 de noviembre.">
+<meta name="twitter:image" content="https://feniapfa.github.io/seia-data/social.jpg?v=2">
 <meta name="theme-color" content="#14161a" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#f3f1ec" media="(prefers-color-scheme: light)">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9888;</text></svg>">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"AnalysisNewsArticle","headline":"Lo que dice el expediente del relleno sanitario de El Salto","inLanguage":"es-CL","datePublished":"2026-10-20","url":"https://feniapfa.github.io/seia-data/","image":"https://feniapfa.github.io/seia-data/social.jpg?v=2","author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/seia-data"},"about":{"@type":"Thing","name":"Expediente SEIA 2168892026, Centro Metropolitano de Gestión Integral de Residuos, Cosemar SpA, El Salto, Viña del Mar"},"isBasedOn":["https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026"],"license":"https://creativecommons.org/licenses/by/4.0/"}
+</script>
 <style>
 :root{color-scheme:light dark}
 *{box-sizing:border-box}
@@ -664,9 +695,15 @@ img{max-width:100%}
   </div>
 </header>
 
-<div class="wrap">
+<main class="wrap">
 
-<section id="hallazgos" style="padding-top:38px">
+<nav class="indice" aria-label="Contenido de la página">
+  <a href="#observar"><b>Cómo ingresar una observación</b></a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a>
+</nav>
+<noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
+
+<section id="hallazgos" style="padding-top:38px" aria-labelledby="t-hallazgos">
+  <h2 id="t-hallazgos" class="vh">Lo esencial, en cinco cifras</h2>
   <p class="intro">El propio titular ubica <b>21 unidades habitacionales</b> alrededor del predio
   para modelar sus olores. La más cercana queda a <b>676 metros</b> del perímetro. El viento sopla
   desde el relleno hacia ellas casi todo el año. Y <b>19 de los 25 organismos del Estado</b> que se
@@ -687,9 +724,9 @@ img{max-width:100%}
     </div>
     <div>
       <div class="v c-warn">96,6<span class="u">%</span></div>
-      <div class="k">Del límite legal de polvo fino respirable, según la modelación del <b>propio titular</b>. El aire ya está casi lleno.</div>
+      <div class="k">Del límite legal de polvo fino respirable, según la modelación del <b>propio titular</b>.</div>
       <div class="umbral"><div class="riel"><div class="fill" style="width:96.6%"></div>
-        <div class="tope" title="Límite legal"></div></div>
+        <div class="tope"></div></div>
         <div class="pie"><span>aire ya ocupado</span><span>límite legal</span></div></div>
       <div class="s">Capítulo 5, análisis del artículo 11.</div>
     </div>
@@ -716,9 +753,9 @@ img{max-width:100%}
   </div>
 </section>
 
-<section id="admite">
+<section id="admite" aria-labelledby="t-admite">
   <div class="shd"><span class="n">1</span>
-    <h2>Veintitrés preguntas, una respuesta<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">Cap. 6</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Cap. 7</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Cap. 20</a></span></h2></div>
+    <h2 id="t-admite">Veintitrés preguntas, una respuesta</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">Cap. 6</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Cap. 7</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Cap. 20</a></p></div>
   <p class="intro">La ley obliga a encadenar tres cosas. Primero, el estudio debe revisar
   <b>uno por uno los literales del Artículo 11</b> y decir en cuáles genera un efecto adverso
   significativo. Después debe proponer una medida para cada uno de esos efectos. Y después debe
@@ -788,8 +825,8 @@ img{max-width:100%}
   </div>
 </section>
 
-<section id="terreno">
-  <div class="shd"><span class="n">2</span><h2>El relleno sobre el terreno real<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_15_Planos_11.rar" target="_blank" rel="noopener">Anexo 1.5 Planos</a></span></h2></div>
+<section id="terreno" aria-labelledby="t-terreno">
+  <div class="shd"><span class="n">2</span><h2 id="t-terreno">El relleno sobre el terreno real</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_15_Planos_11.rar" target="_blank" rel="noopener">Anexo 1.5 Planos</a></p></div>
   <p class="intro">La basura se acumularía en una quebrada hasta coronar en la
   <b>cota 350</b>. Sobre el espesor final, el propio expediente da dos cifras que no coinciden:
   su Tabla 40 declara <b>80 metros de espesor promedio</b>, y dividir la capacidad que declara
@@ -878,8 +915,8 @@ img{max-width:100%}
   que el titular no publicó.</p>
 </section>
 
-<section id="mapa">
-  <div class="shd"><span class="n">3</span><h2>Dónde está y quién vive alrededor<span class="src">Cartografía WGS84 del expediente · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a></span></h2></div>
+<section id="mapa" aria-labelledby="t-mapa">
+  <div class="shd"><span class="n">3</span><h2 id="t-mapa">Dónde está y quién vive alrededor</h2><p class="src">Cartografía WGS84 del expediente · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a></p></div>
   <div class="maps">
     <div class="mapbox" id="box1">
       <div class="maptop">
@@ -943,10 +980,10 @@ img{max-width:100%}
   de un barrio.</p>
 <div class="tw" style="margin-top:22px">
     <table>
-      <thead><tr><th>Sector</th>
-        <th style="text-align:right">Al deslinde del predio</th>
-        <th style="text-align:right">A la zona de disposición</th>
-        <th>Cómo se midió</th></tr></thead>
+      <th scope="col"ead><tr><th scope="col">Sector</th>
+        <th scope="col" style="text-align:right">Al deslinde del predio</th>
+        <th scope="col" style="text-align:right">A la zona de disposición</th>
+        <th scope="col">Cómo se midió</th></tr></thead>
       <tbody id="tbl-dist"></tbody>
     </table>
   </div>
@@ -962,9 +999,9 @@ img{max-width:100%}
   <span class="flag f-ok">borde a borde</span> son las defendibles.</p>
 </section>
 
-<section id="incendio">
+<section id="incendio" aria-labelledby="t-incendio">
   <div class="shd"><span class="n">4</span>
-    <h2>Todo esto ya se quemó una vez<span class="src">Sentinel-2 · dNBR · ene–feb 2024 · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Cap. 8</a></span></h2></div>
+    <h2 id="t-incendio">Todo esto ya se quemó una vez</h2><p class="src">Sentinel-2 · dNBR · ene–feb 2024 · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Cap. 8</a></p></div>
   <p class="intro">El <b>99,7 % del predio</b> donde se proyecta el relleno ardió en el megaincendio
   de febrero de 2024. No una parte: prácticamente todo. Y donde iría la <b>zona de tratamiento de
   lixiviados</b> ardió el <b>100 %</b>, con severidad alta en el 74 % de esa superficie.</p>
@@ -998,8 +1035,8 @@ img{max-width:100%}
   del viento predominante que declara el Anexo 4.2 del expediente: desde el sitio hacia las casas.</p>
   <div class="tw" style="margin-top:28px">
     <table>
-      <thead><tr><th>Superficie</th><th style="text-align:right">Quemada</th>
-        <th style="text-align:right">Severidad moderada-alta o mayor</th></tr></thead>
+      <th scope="col"ead><tr><th scope="col">Superficie</th><th scope="col" style="text-align:right">Quemada</th>
+        <th scope="col" style="text-align:right">Severidad moderada-alta o mayor</th></tr></thead>
       <tbody id="tbl-quema"></tbody>
     </table>
   </div>
@@ -1024,9 +1061,9 @@ img{max-width:100%}
   donde el titular declara con qué medios cuenta. Conteo de menciones en ambos:</p>
   <div class="tw" style="margin-top:22px">
     <table>
-      <thead><tr><th>Medio de extinción</th>
-        <th style="text-align:right">Menciones en el Cap. 1</th>
-        <th style="text-align:right">Menciones en el Cap. 8</th></tr></thead>
+      <th scope="col"ead><tr><th scope="col">Medio de extinción</th>
+        <th scope="col" style="text-align:right">Menciones en el Cap. 1</th>
+        <th scope="col" style="text-align:right">Menciones en el Cap. 8</th></tr></thead>
       <tbody id="tbl-fuego"></tbody>
     </table>
   </div>
@@ -1049,9 +1086,9 @@ img{max-width:100%}
   en la Adenda.</p>
 </section>
 
-<section id="subsuelo">
+<section id="subsuelo" aria-labelledby="t-subsuelo">
   <div class="shd"><span class="n">5</span>
-    <h2>Lo que hay debajo<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar" target="_blank" rel="noopener">Cap. 3.4 · Anexo 1 Estudio geofísico ERT</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a></span></h2></div>
+    <h2 id="t-subsuelo">Lo que hay debajo</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar" target="_blank" rel="noopener">Cap. 3.4 · Anexo 1 Estudio geofísico ERT</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a></p></div>
   <p class="intro">El expediente trae un estudio que nadie ha citado: <b>once tomografías de
   resistividad eléctrica</b>, 643 electrodos con coordenadas, que radiografían el subsuelo del
   predio en profundidad. Son las secciones de colores de abajo, y en el
@@ -1103,7 +1140,7 @@ img{max-width:100%}
       <b>24.331.032 m³ de residuos</b> de los cuarenta metros de material permeable.
       En la barra de al lado mediría <b>la milésima parte de un píxel</b>.</div>
       <div class="tw" style="margin-top:18px">
-        <table><tbody id="tbl-barrera"></tbody></table>
+        <table><th scope="col"ead class="vh"><tr><th scope="col">Capa</th><th scope="col">Espesor</th><th scope="col">Permeabilidad</th></tr></thead><tbody id="tbl-barrera"></tbody></table>
       </div>
       <p class="note" style="margin-top:14px">Debe mantener su integridad los 25 años de
       operación y todo el post-cierre. El PAS 141 del propio expediente sitúa la
@@ -1120,9 +1157,9 @@ img{max-width:100%}
   no un mapa. La exageración vertical del bloque es ×1,8 y las secciones van a esa misma escala.</p>
 </section>
 
-<section id="falla">
+<section id="falla" aria-labelledby="t-falla">
   <div class="shd"><span class="n">6</span>
-    <h2>La palabra que no aparece<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023 · Cap. 3.5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Cap. 4</a></span></h2></div>
+    <h2 id="t-falla">La palabra que no aparece</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023 · Cap. 3.5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Cap. 4</a></p></div>
   <p class="intro">En 2023, antes de presentar el estudio, el titular encargó un informe geológico
   a sus propios consultores. Esto es lo que le entregaron:</p>
   <blockquote class="cita">Se confirma la existencia de una <b>falla potencialmente activa</b> y
@@ -1172,9 +1209,9 @@ img{max-width:100%}
   Fallas Marga-Marga, y que esa evaluación quede en el Capítulo 4 con su medida y su seguimiento.</p>
 </section>
 
-<section id="escorrentia">
+<section id="escorrentia" aria-labelledby="t-escorrentia">
   <div class="shd"><span class="n">7</span>
-    <h2>Dónde termina el agua<span class="src">Trazado D8 sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/214_Cap_33_Hidrologia.rar" target="_blank" rel="noopener">Cap. 3.3</a></span></h2></div>
+    <h2 id="t-escorrentia">Dónde termina el agua</h2><p class="src">Trazado D8 sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/214_Cap_33_Hidrologia.rar" target="_blank" rel="noopener">Cap. 3.3</a></p></div>
   <p class="intro">Si algo escurre del relleno, el terreno decide hacia dónde.
   <b>Ciento veinte recorridos</b> trazados desde la zona de disposición y las piscinas de
   lixiviados, siguiendo la máxima pendiente celda por celda. <b>Los 120 terminan en el mismo lugar</b>: el Estero
@@ -1220,9 +1257,9 @@ img{max-width:100%}
   predio baja hacia el sistema Marga-Marga – Quilpué. No hacia otro lado.</p>
 </section>
 
-<section id="vial">
+<section id="vial" aria-labelledby="t-vial">
   <div class="shd"><span class="n">8</span>
-    <h2>El tránsito que no se modeló<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18 Estudio de Impacto Vial</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a></span></h2></div>
+    <h2 id="t-vial">El tránsito que no se modeló</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18 Estudio de Impacto Vial</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a></p></div>
   <p class="intro">El estudio de impacto vial del proyecto modela <b>182 viajes de camión al día</b>
   y concluye que no hay impacto. Pero nunca dice <b>cuánto carga cada camión</b>, ni menciona que
   el relleno pasa de <b>2.466 toneladas diarias</b> el primer año a <b>4.460 en el año 25</b>,
@@ -1293,8 +1330,8 @@ img{max-width:100%}
   estudio</b>, no un cálculo externo: el tonelaje sale del Capítulo 1 y los viajes del Capítulo 3.18.</p>
 </section>
 
-<section id="pluma">
-  <div class="shd"><span class="n">9</span><h2>Quién queda a sotavento<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2 Modelación meteorológica</a></span></h2></div>
+<section id="pluma" aria-labelledby="t-pluma">
+  <div class="shd"><span class="n">9</span><h2 id="t-pluma">Quién queda a sotavento</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2 Modelación meteorológica</a></p></div>
   <p class="intro">Las catorce poblaciones más cercanas están <b>todas al norte o al noreste</b>
   del relleno: ninguna supera el rumbo 51,4° y ninguna baja del 359°. <b>Ninguna queda a
   barlovento.</b> <i>Botania</i> está a 1,9° y <i>Cumbres de Quilpué</i> a 359°: sobre el eje
@@ -1330,9 +1367,9 @@ img{max-width:100%}
   expediente. Lo que esta tabla muestra es la geometría del problema, que es condición necesaria.</p>
 </section>
 
-<section id="influencia">
+<section id="influencia" aria-labelledby="t-influencia">
   <div class="shd"><span class="n">10</span>
-    <h2>A quién reconoce el estudio<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a> · shapefile AI_MedioHumano del expediente</span></h2></div>
+    <h2 id="t-influencia">A quién reconoce el estudio</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a> · shapefile AI_MedioHumano del expediente</p></div>
   <p class="intro">El titular dibujó un <b>Área de Influencia del Medio Humano de 3.487 hectáreas</b>
   y la acompañó al expediente como archivo cartográfico. Cruzado ese polígono con las
   veintiséis poblaciones más cercanas: <b>dos quedan dentro. Veinticuatro quedan fuera.</b></p>
@@ -1346,8 +1383,8 @@ img{max-width:100%}
   </figure>
   <div class="tw" style="margin-top:28px">
     <table>
-      <thead><tr><th>Población</th><th style="text-align:right">Distancia al botadero</th>
-        <th style="text-align:right">Distancia al borde del AI</th><th>¿La reconoce el estudio?</th></tr></thead>
+      <th scope="col"ead><tr><th scope="col">Población</th><th scope="col" style="text-align:right">Distancia al botadero</th>
+        <th scope="col" style="text-align:right">Distancia al borde del AI</th><th scope="col">¿La reconoce el estudio?</th></tr></thead>
       <tbody id="tbl-ai"></tbody>
     </table>
   </div>
@@ -1363,8 +1400,8 @@ img{max-width:100%}
   referencia; para las que tienen polígono residencial, por su borde.</p>
 </section>
 
-<section id="proyecciones">
-  <div class="shd"><span class="n">11</span><h2>El gas que sigue después del cierre<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · LandGEM v3.02 (US EPA)</span></h2></div>
+<section id="proyecciones" aria-labelledby="t-proyecciones">
+  <div class="shd"><span class="n">11</span><h2 id="t-proyecciones">El gas que sigue después del cierre</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · LandGEM v3.02 (US EPA)</p></div>
   <p class="intro">El relleno opera 25 años, pero <b>el gas sigue saliendo 35 años más</b>
   después del cierre. Nadie vive al lado de un relleno durante veinticinco años: vive al lado
   durante sesenta.</p>
@@ -1414,9 +1451,9 @@ img{max-width:100%}
   post-cierre.</p>
 </section>
 
-<section id="paisaje">
+<section id="paisaje" aria-labelledby="t-paisaje">
   <div class="shd"><span class="n">12</span>
-    <h2>Lo que dibujaron que se verá<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar" target="_blank" rel="noopener">Anexo 4.5 Evaluación Paisajística</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf" target="_blank" rel="noopener">Cap. 3.15</a></span></h2></div>
+    <h2 id="t-paisaje">Lo que dibujaron que se verá</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar" target="_blank" rel="noopener">Anexo 4.5 Evaluación Paisajística</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf" target="_blank" rel="noopener">Cap. 3.15</a></p></div>
   <p class="intro">Toda la evaluación de paisaje del proyecto se apoya en <b>un solo fotomontaje</b>,
   tomado desde Pompeya Sur. Es esta imagen, y es del titular.</p>
   <p class="intro">Mírala con el pie de foto delante: el escenario que dibujaron
@@ -1424,7 +1461,7 @@ img{max-width:100%}
 
   <figure class="foto" id="fotobox">
     <div class="fwrap">
-      <img src="paisaje.jpg" id="fimg" loading="lazy"
+      <img src="paisaje.jpg" id="fimg" loading="lazy" width="1342" height="753"
         alt="Fotomontaje del titular: vista del relleno desde el sector Pompeya Sur, a unos 2 km. El macizo corona el cerro al fondo, tras las casas y el cerco del primer plano.">
       <svg id="fsvg" viewBox="0 0 1342 753" preserveAspectRatio="none" aria-hidden="true"></svg>
     </div>
@@ -1450,9 +1487,9 @@ img{max-width:100%}
   exactamente estará cada cosa.</p>
 </section>
 
-<section id="cuenca">
+<section id="cuenca" aria-labelledby="t-cuenca">
   <div class="shd"><span class="n">13</span>
-    <h2>Desde dónde se va a ver<span class="src">Cuenca visual sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a></span></h2></div>
+    <h2 id="t-cuenca">Desde dónde se va a ver</h2><p class="src">Cuenca visual sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a></p></div>
   <p class="intro">De las dieciséis poblaciones más cercanas, <b>quince tienen línea de vista
   al macizo</b> desde sus calles. No es una metáfora: es geometría. Una masa de 60 metros sobre una loma de 278
   llega a los <b>338 metros de altura</b>, y en un relieve de quebradas eso se ve desde lejos.</p>
@@ -1486,16 +1523,16 @@ img{max-width:100%}
   huella; la forma final de la corona la define el Plan de Cierre, no analizado aquí.</p>
 </section>
 
-<section id="pronunciamientos">
-  <div class="shd"><span class="n">14</span><h2>Cómo se pronunció el Estado<span class="src"><a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">Expediente electrónico</a> · oficios 30 a 58</span></h2></div>
+<section id="pronunciamientos" aria-labelledby="t-pronunciamientos">
+  <div class="shd"><span class="n">14</span><h2 id="t-pronunciamientos">Cómo se pronunció el Estado</h2><p class="src"><a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">Expediente electrónico</a> · oficios 30 a 58</p></div>
   <p class="intro">Diecinueve servicios públicos objetaron el estudio. Solo dos lo aprobaron
   sin reparos. <b>Esto no lo dicen los vecinos: lo dice el Estado</b>, oficio por oficio,
   en el expediente electrónico.</p>
   <div class="tally" style="margin-top:24px">
-    <span><b class="c-acc">19</b>con observaciones</span>
-    <span><b class="c-green">2</b>conformes</span>
-    <span><b class="c-warn">1</b>pronunciamiento municipal</span>
-    <span><b style="color:var(--ink3)">3</b>no participan</span>
+    <span><b class="c-acc">19</b> con observaciones</span>
+    <span><b class="c-green">2</b> conformes</span>
+    <span><b class="c-warn">1</b> pronunciamiento municipal</span>
+    <span><b style="color:var(--ink3)">3</b> no participan</span>
   </div>
   <div class="mx" id="mx"></div>
   <p class="note">El oficio 1337 de la Municipalidad de Viña del Mar figura como
@@ -1503,9 +1540,9 @@ img{max-width:100%}
   otros diecinueve. Su contenido no fue verificado en este análisis: conviene leerlo antes de citarlo.</p>
 </section>
 
-<section id="observar">
+<section id="observar" aria-labelledby="t-observar">
   <div class="shd"><span class="n">15</span>
-    <h2>Cómo se ingresa una observación<span class="src">Ley 19.300 · D.S. 40/2012 · <a href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">formulario PAC</a></span></h2></div>
+    <h2 id="t-observar">Cómo se ingresa una observación</h2><p class="src">Ley 19.300 · D.S. 40/2012 · <a href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">formulario PAC</a></p></div>
   <p class="intro">El Artículo 29 de la Ley 19.300 habilita a <b>cualquier persona, natural o
   jurídica</b> —incluidas juntas de vecinos y organizaciones— a observar, sin costo; para hacerlo
   por el portal electrónico hace falta ClaveÚnica. La ley obliga a la <b>autoridad evaluadora</b>
@@ -1543,9 +1580,15 @@ img{max-width:100%}
   están marcados como tales. Las proyecciones usan parámetros por defecto de LandGEM, no los
   valores específicos del titular, que están en el Anexo 4 del expediente.<br>
   <b>Esta página es un análisis técnico independiente</b> construido sobre documentos públicos.
-  No representa al titular ni a ningún organismo del Estado.
+  No representa al titular ni a ningún organismo del Estado.<br>
+  <b>Quién firma.</b> <span class="firma">[nombre o colectivo · contacto]</span> ·
+  Publicado el 20 de octubre de 2026 · última actualización el <b>21 de octubre de 2026</b> ·
+  Código, datos y método: <a href="https://github.com/FeniaPfa/seia-data" target="_blank" rel="noopener">github.com/FeniaPfa/seia-data</a> ·
+  Texto y mapas bajo licencia CC BY 4.0; datos de OpenStreetMap bajo ODbL ·
+  Sin cookies ni analítica: las únicas conexiones externas son las fuentes tipográficas y la librería 3D.
+  <a class="imprimir" href="#" onclick="window.print();return false">Imprimir esta página</a>
 </footer>
-</div>
+</main>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
@@ -1557,9 +1600,21 @@ var D = JSON.parse(document.getElementById('D').textContent);
 var $ = function(s){return document.querySelector(s)};
 
 /* ---- plazo ---- */
-var hoy=new Date(), fin=new Date(2026,10,3);
-var dd=Math.max(0,Math.ceil((fin-hoy)/864e5));
-$('#dias').innerHTML=dd+'<span>días</span>';
+/* el plazo cierra el 3 de noviembre inclusive: el límite es la medianoche del 4 */
+var hoy=new Date(), fin=new Date(2026,10,4);
+var dd=Math.ceil((fin-hoy)/864e5);
+if(dd>1) $('#dias').innerHTML=dd+'<span>días</span>';
+else if(dd===1){ $('#dias').innerHTML='<span class="ult">último día</span>';
+  $('.plazo .t').textContent='para observar · cierra hoy, 3 de noviembre'; }
+else { document.body.classList.add('cerrado');
+  $('#dias').innerHTML='<span class="ult">plazo cerrado</span>';
+  $('.plazo .t').textContent='la participación ciudadana cerró el 3 de noviembre';
+  $('.plazo .cta').textContent='Seguir el expediente →';
+  $('.plazo').href='https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026';
+  var bo=$('#observar .btn'); if(bo){ bo.textContent='El plazo cerró: seguir el expediente en el SEA →'; bo.href=$('.plazo').href; }
+  var no=$('#observar .note'); if(no) no.innerHTML='<b>El plazo cerró el 3 de noviembre de 2026.</b> Las observaciones '+
+    'ingresadas se responden en la Adenda del titular y en la Resolución de Calificación Ambiental. Si la Adenda '+
+    'modifica sustantivamente el proyecto, se abre un nuevo período de participación (art. 92 del D.S. 40).'; }
 
 /* ---- proyección mercator ---- */
 function merc(lon,lat){
@@ -2540,8 +2595,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   D.sub.barrera.forEach(function(c){
     var tr=document.createElement('tr');
     if(c.e==='1,5 mm') tr.className='clave';
-    tr.innerHTML='<td>'+c.n+'</td><td class="num">'+c.e+'</td>'+
-      '<td class="num">'+(c.k?'k = '+c.k:'')+'</td>';
+    tr.innerHTML='<td>'+c.n+'</td><td class="num" data-th="Espesor">'+c.e+'</td>'+
+      '<td class="num" data-th="Permeabilidad">'+(c.k?'k = '+c.k:'')+'</td>';
     tb.appendChild(tr);
   });
 })();
@@ -2659,7 +2714,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var tr=document.createElement('tr');
     if(!f[1]&&!f[2]) tr.className='cero';
     tr.innerHTML='<td>'+f[0]+'</td>'+
-      '<td class="num">'+f[1]+'</td><td class="num">'+f[2]+'</td>';
+      '<td class="num" data-th="Menciones en el Cap. 1">'+f[1]+'</td>'+
+      '<td class="num" data-th="Menciones en el Cap. 8">'+f[2]+'</td>';
     tb.appendChild(tr);
   });
 })();
@@ -2693,9 +2749,14 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 
 /* ================= visor 3D del terreno ================= */
 (function(){
-if(typeof THREE==='undefined'){ return; }
-var M=D.terr, S=M.ancho_m, N=M.n;
+/* sin Three.js o sin WebGL, el lienzo explica por qué está vacío y la página sigue */
+function sinWebGL(c){
+  c.innerHTML='<p class="sinwebgl">Tu navegador no puede mostrar el modelo 3D. '+
+    'Lo esencial está en el texto, en las cifras y en los mapas de esta página.</p>';
+}
 var cv=$('#cv');
+if(typeof THREE==='undefined'){ sinWebGL(cv); return; }
+var M=D.terr, S=M.ancho_m, N=M.n;
 var my=function(lat){return Math.log(Math.tan(Math.PI/4+lat*Math.PI/360))};
 var MY0=my(M.lat0), MY1=my(M.lat1);
 function uv(lon,lat){return [(lon-M.lon0)/(M.lon1-M.lon0),(my(lat)-MY0)/(MY1-MY0)]}
@@ -2822,7 +2883,9 @@ function matCarto(){
 
 
 /* ---------- renderer ---------- */
-var ren=new THREE.WebGLRenderer({antialias:true});
+var ren;
+try { ren=new THREE.WebGLRenderer({antialias:true}); }
+catch(e){ sinWebGL(cv); return; }
 ren.setPixelRatio(Math.min(devicePixelRatio,2));
 cv.appendChild(ren.domElement);
 var sc=new THREE.Scene();
@@ -3644,8 +3707,12 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
 
 /* ============ corte del subsuelo: las 11 secciones geofísicas ============ */
 (function(){
-if(typeof THREE==='undefined'||!D.sub||!D.terr) return;
-var cv=document.getElementById('cv2'); if(!cv) return;
+var cv=document.getElementById('cv2'); if(!cv||!D.sub||!D.terr) return;
+function sinWebGL(c){
+  c.innerHTML='<p class="sinwebgl">Tu navegador no puede mostrar el corte del subsuelo. '+
+    'La sección geofísica elegida se muestra más abajo como imagen.</p>';
+}
+if(typeof THREE==='undefined'){ sinWebGL(cv); return; }
 var S=D.sub, M=D.terr, N=M.n, EX=1.5, BASE=70;
 
 /* ---------- ventana: el predio con holgura ---------- */
@@ -3675,7 +3742,9 @@ function hUV(u,v){return hGlobal(bb[0]+u*(bb[2]-bb[0]),
   2*(Math.atan(Math.exp(Y0+v*(Y1-Y0)))-Math.PI/4)*180/Math.PI)}
 
 /* ---------- escena ---------- */
-var ren=new THREE.WebGLRenderer({antialias:true,alpha:false});
+var ren;
+try { ren=new THREE.WebGLRenderer({antialias:true,alpha:false}); }
+catch(e){ sinWebGL(cv); return; }
 ren.setPixelRatio(Math.min(devicePixelRatio,2));
 ren.localClippingEnabled=true;
 /* el bloque se abre justo en el perfil elegido */

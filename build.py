@@ -8,7 +8,7 @@ plantilla.html (en el marcador "})();\\n</script>"), inyecta
 datos.json en el marcador /*__DATOS__*/ y envuelve todo en un HTML completo.
 Valida la sintaxis del bloque <script> final si hay node disponible.
 """
-import io, os, re, shutil, subprocess, sys
+import io, os, re, shutil, subprocess, sys, datetime
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 SRC  = os.path.join(AQUI, 'src')
@@ -32,6 +32,8 @@ def main():
 
     assert pleno.count('/*__DATOS__*/') == 1
     pleno = pleno.replace('/*__DATOS__*/', leer('datos.json'))
+    assert pleno.count('{fecha}') == 1
+    pleno = pleno.replace('{fecha}', fecha())
 
     # el bloque <script> final, comprobado con node si está disponible
     bloque = re.findall(r'<script>(.*?)</script>', pleno, re.S)[-1]
@@ -52,6 +54,16 @@ def main():
     kb = os.path.getsize(os.path.join(AQUI, 'index.html')) / 1024
     print('index.html  %.1f KB  ·  %d secciones' % (kb, pleno.count('<section id=')))
 
+def fecha():
+    """Fecha del último commit, en palabras; si no hay git, la de hoy."""
+    try:
+        iso = subprocess.run(['git','log','-1','--format=%cs'], capture_output=True, text=True, cwd=AQUI).stdout.strip()
+        d = datetime.date.fromisoformat(iso) if iso else datetime.date.today()
+    except Exception:
+        d = datetime.date.today()
+    meses = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre']
+    return '%d de %s de %d' % (d.day, meses[d.month-1], d.year)
+
 def envolver(s):
     """El fragmento se escribió para el envoltorio de los artifacts; aquí hay que ponerlo."""
     i = s.index('</style>') + len('</style>')
@@ -61,7 +73,7 @@ def envolver(s):
              'html{-webkit-text-size-adjust:100%}\nbody{margin:0}\nimg{max-width:100%}\n'
              '[hidden]{display:none!important}\n</style>')
     social = io.open(os.path.join(SRC, 'social.html'), encoding='utf-8').read().replace('{url}', URL)
-    return ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
+    return ('<!DOCTYPE html>\n<html lang="es-CL">\n<head>\n<meta charset="utf-8">\n'
             + cabeza.strip() + '\n' + social + reset
             + '\n</head>\n<body>\n' + cuerpo.strip() + '\n</body>\n</html>\n')
 

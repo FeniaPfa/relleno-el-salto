@@ -1,8 +1,13 @@
 /* ================= visor 3D del terreno ================= */
 (function(){
-if(typeof THREE==='undefined'){ return; }
-var M=D.terr, S=M.ancho_m, N=M.n;
+/* sin Three.js o sin WebGL, el lienzo explica por qué está vacío y la página sigue */
+function sinWebGL(c){
+  c.innerHTML='<p class="sinwebgl">Tu navegador no puede mostrar el modelo 3D. '+
+    'Lo esencial está en el texto, en las cifras y en los mapas de esta página.</p>';
+}
 var cv=$('#cv');
+if(typeof THREE==='undefined'){ sinWebGL(cv); return; }
+var M=D.terr, S=M.ancho_m, N=M.n;
 var my=function(lat){return Math.log(Math.tan(Math.PI/4+lat*Math.PI/360))};
 var MY0=my(M.lat0), MY1=my(M.lat1);
 function uv(lon,lat){return [(lon-M.lon0)/(M.lon1-M.lon0),(my(lat)-MY0)/(MY1-MY0)]}
@@ -21,7 +26,9 @@ function hAt(u,v){
 function hWorld(x,z){return hAt(x/S+0.5,-z/S+0.5)}
 
 /* ---------- renderer ---------- */
-var ren=new THREE.WebGLRenderer({antialias:true});
+var ren;
+try { ren=new THREE.WebGLRenderer({antialias:true}); }
+catch(e){ sinWebGL(cv); return; }
 ren.setPixelRatio(Math.min(devicePixelRatio,2));
 cv.appendChild(ren.domElement);
 var sc=new THREE.Scene();
