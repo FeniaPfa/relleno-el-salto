@@ -438,7 +438,11 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .marca.cerca .ln{background:#ff7a45}
 .marca.cerca .tx{color:#ffb9a4}
 .marca.cerca .km{color:#f0c3b2}
-.viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;background:rgba(13,16,20,.9);
+/* Con la lista de sotavento abierta el panel crecía hasta 745 px sobre un lienzo
+   de 706 y cortaba el deslizador: se limita al alto del mapa y scrollea. */
+.viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;
+  max-height:calc(100% - var(--barra3d,58px) - 24px);overflow-y:auto;
+  overscroll-behavior:contain;background:rgba(13,16,20,.9);
   border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .viento .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
   color:#9aa49c;margin-bottom:9px}
@@ -448,6 +452,21 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .vd{font-family:var(--cart);font-size:13px;color:#c6cec7;line-height:1.55;margin-top:9px}
 .vd i{color:#8fb8d4;font-style:normal;font-size:12px}
 .vd .vq{color:#9aa49c;font-size:12px}
+/* La lista completa de quien queda a sotavento. Va plegada para no comerse el
+   mapa, y su estado vive en el botón —no en el texto, que se reescribe entero
+   cada vez que se mueve el deslizador. */
+.vmas{display:block;width:100%;margin-top:7px;padding:5px 6px;font-family:var(--cart);
+  font-size:12px;background:transparent;color:#8fb8d4;border:1px solid #3f4d57;
+  border-radius:2px;cursor:pointer;text-align:center}
+.vmas:hover{border-color:#8fb8d4}
+.vmas:focus-visible{outline:2px solid #8fb8d4;outline-offset:2px}
+@media(pointer:coarse){.vmas{min-height:38px}}
+.viento.ancho{width:238px}
+.vlist{margin:6px 0 0;padding:0 0 0 2px;list-style:none;max-height:190px;overflow-y:auto;
+  font-family:var(--cart);font-size:12px;color:#b9c2ba;line-height:1.5;
+  border-top:1px solid #333c44;-webkit-overflow-scrolling:touch}
+.vlist li{display:flex;justify-content:space-between;gap:8px;padding:2px 6px 2px 0}
+.vlist li span{color:#8d9890;font-variant-numeric:tabular-nums;flex:none}
 .vd b{color:#f0b26a;font-weight:600}
 /* Los dos del titular caben en una fila; «Manual» no (los tres piden 215 px en un
    panel de 176) y además es de otra naturaleza: va en su propia fila, a lo ancho. */
@@ -1021,6 +1040,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <div class="ph">Viento · WRF del titular</div>
         <div class="rosa"><svg viewBox="0 0 86 86" id="rosa"></svg></div>
         <div class="vd" id="vtxt"></div>
+        <button class="vmas" id="w-mas" hidden aria-expanded="false" aria-controls="vlist"></button>
+        <ol class="vlist" id="vlist" hidden></ol>
         <div class="vbtns">
           <button class="tg" id="w-pri" aria-pressed="true">Predominante</button>
           <button class="tg" id="w-sec" aria-pressed="false">Secundario</button>

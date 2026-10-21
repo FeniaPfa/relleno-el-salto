@@ -822,6 +822,31 @@ function aSotavento(rumbo){
   dentro.sort(function(a,b){return a.d-b.d});
   return dentro;
 }
+/* Pinta la lista completa. El botón conserva su estado abierto/cerrado entre
+   movimientos del deslizador, porque vive fuera del innerHTML que se reescribe. */
+function listaSotavento(li){
+  var bt=$('#w-mas'), ul=$('#vlist');
+  if(!bt||!ul) return;
+  if(!li || !li.length){
+    bt.hidden=true; ul.hidden=true; ul.innerHTML='';
+    var p0=$('#vbox'); if(p0) p0.classList.remove('ancho');
+    return;
+  }
+  bt.hidden=false;
+  var abierta = bt.getAttribute('aria-expanded')==='true';
+  bt.textContent = abierta ? 'ocultar la lista' : 'ver las '+li.length+' completas';
+  ul.hidden = !abierta;
+  var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho',abierta);
+  ul.innerHTML = li.map(function(b){
+    return '<li>'+b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km</span></li>';
+  }).join('');
+}
+$('#w-mas') && $('#w-mas').addEventListener('click',function(){
+  var abierta=this.getAttribute('aria-expanded')==='true';
+  this.setAttribute('aria-expanded',String(!abierta));
+  listaSotavento(aSotavento(vientoHacia));
+});
+
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
   if(modoViento==='man'){
@@ -831,8 +856,10 @@ function textoViento(){
                   li.slice(0,3).map(function(b){return b.n}).join(' · ')+(n>3?' …':'')+'</span>'
             : 'Ninguna de las '+T+' comunidades queda a sotavento') +
       '<br><span class="vq">catastro abierto, radio de 6 km</span>';
+    listaSotavento(li);
     return;
   }
+  listaSotavento(null);
   e.innerHTML = modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
