@@ -77,6 +77,27 @@ como solicitud.
 
 ### Tanda B: un día, gráficos (por impacto esperado)
 
+**Hecha el 21 de octubre, un commit por gráfico.** Lo aplicado y lo que quedó fuera:
+
+- B1 área de influencia, B2 polar, B6 tres cifras de camiones y B7 proyecciones: completos.
+- B3 escorrentía: completo. Las cotas usan puntos calculados con shapely
+  (`escorrentia.p_quilpue`, `p_humedal`, `p_marga`). Sobre las líneas del bundle la distancia
+  mínima da 95 m al Quilpué y 124 m al humedal, frente a 90 y 120 publicados.
+- B4 incendio: cifra en el mapa, cuatro rótulos, barras en la tabla. **Pendiente:** la rampa de
+  severidad de un solo tono exige regenerar `cicatriz.png`.
+- B5 mapa: `#m2` dibuja el Sitio Prioritario y el solape achurado (`palmar_solape`, 3,76 ha sobre
+  el bundle, 3,79 publicadas); `#m1` con áreas apagadas, seis rótulos y lo esencial al inicio.
+  **Pendiente:** rótulos con desapilado en X o callout lateral, y reducir los toggles.
+- B8 subsuelo: guía de lectura bajo el visor y panel compacto en celular. La interpretación de
+  colores de resistividad no está en el texto extraído, así que no se afirma.
+- B9 fotomontaje: abre en «Lo que no muestra», marcadores numerados que corresponden a la lista.
+  **Pendiente:** comparador de cortina.
+- B10 cuenca: cifra en el mapa y lista de poblaciones. **Pendiente:** pintar solo el suelo
+  residencial con vista, que exige cruzar `cuenca.png` con `D.residencial` en Python.
+
+**A revisar en el texto:** la sección 13 dice «quince tienen línea de vista al macizo». Los datos
+dan vista en las 16 desde alguna parte de sus calles, y en 15 desde al menos la mitad.
+
 | # | Gráfico | Cambio | Esfuerzo |
 |---|---|---|---|
 | B1 | Área de influencia `#c-filo` | Eje de distancia con el límite como línea en 0, puntos dentro y fuera, escala real 0–150 m, solo 72 y 77 en rojo, cifra escrita «6 poblaciones a menos de 150 m del borde». Tabla a `<details>` | 4 h |
