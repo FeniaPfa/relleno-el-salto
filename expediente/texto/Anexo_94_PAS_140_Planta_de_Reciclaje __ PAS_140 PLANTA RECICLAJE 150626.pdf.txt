@@ -1,0 +1,3691 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+PERMISO AMBIENTAL SECTORIAL 140
+PLANTA DE RECICLAJE
+Documento Preparado por:
+Mayo 2026
+
+===== p.1 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+ÍNDICE
+1.
+INTRODUCCIÓN.............................................................................................................3
+2.
+GENERALIDADES............................................................................................................4
+3.
+CONTENIDOS TÉCNICOS Y FORMALES GENERALES.........................................................5
+3.1.
+A.1 DESCRIPCIÓN Y PLANOS DEL SITIO...........................................................................5
+3.1.1.
+DESCRIPCIÓN DEL LUGAR DE EMPLAZAMIENTO DE LA INSTALACIÓN DE RESIDUOS....9
+3.2.
+A.2 DESCRIPCIÓN DE VARIABLES METEOROLÓGICAS RELEVANTES..............................26
+3.2.1.
+CLIMA Y METEOROLOGÍA.............................................................................................26
+3.2.2.
+HIDROCLIMA HISTÓRICO...............................................................................................27
+3.2.3.
+VARIABILIDAD ESTACIONAL..........................................................................................28
+3.2.4.
+VELOCIDAD DEL VIENTO...............................................................................................29
+3.3.
+A.3  ESTIMACIÓN  Y  CARACTERIZACIÓN  CUALITATIVA  Y  CUANTITATIVA  DE  LOS 
+RESIDUOS A TRATAR....................................................................................................34
+3.3.1.
+FASE CONSTRUCCIÓN...................................................................................................34
+3.3.2.
+FASE OPERACIÓN..........................................................................................................35
+3.3.3.
+FASE DE CIERRE.............................................................................................................39
+3.4.
+A.4 DISEÑO DE LA PLANTA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO Y 
+LAS UNIDADES Y EQUIPAMIENTO................................................................................40
+3.4.1.
+DIAGRAMA DE FLUJO....................................................................................................40
+3.4.2.
+DESCRIPCIÓN DETALLADA DE LA INSTALACIÓN DE MANEJO DE RESIDUOS................41
+3.4.3.
+CARACTERÍSTICAS CONSTRUCTIVAS DE LA INSTALACIÓN............................................44
+3.5.
+A.5 FORMAS DE ABATIMIENTO DE EMISIONES Y DE CONTROL Y MANEJO DE RESIDUOS
+.....................................................................................................................................48
+3.5.1.
+FASE CONSTRUCCIÓN...................................................................................................48
+3.5.2.
+FASE OPERACIÓN..........................................................................................................48
+3.5.3.
+FASE DE CIERRE.............................................................................................................49
+3.6.
+A.6 DESCRIPCIÓN DEL SISTEMA DE MANEJO DE RECHAZOS.........................................49
+3.6.1.
+CONTROL AL INGRESO DE RESIDUOS Y CRITERIOS DE RECHAZO.................................49
+3.6.2.
+GESTIÓN DE RECHAZOS GENERADOS EN EL PROCESO PRODUCTIVO..........................50
+3.7.
+A.7 PLAN DE VERIFICACIÓN Y SEGUIMIENTO DE LOS RESIDUOS A SER TRATADOS Y 
+RECHAZADOS...............................................................................................................50
+3.8.
+A.8 PLAN DE CONTINGENCIAS......................................................................................53
+3.8.1.
+OBJETIVO.......................................................................................................................53
+3.8.2.
+ROLES Y RESPONSABILIDADES......................................................................................54
+3.8.3.
+TÉRMINOS Y DEFINICIONES..........................................................................................54
+3.8.4.
+PLAN DE CONTINGENCIA Y EMERGENCIA.....................................................................56
+3.9.
+A9 PLAN DE EMERGENCIA............................................................................................64
+4.
+CONTENIDOS  TÉCNICOS  Y  FORMALES  TRATÁNDOSE  DE  ALMACENAMIENTO  DE 
+RESIDUOS.....................................................................................................................73
+4.1.
+E.1 ESPECIFICACIONES TÉCNICAS DE LAS CARACTERÍSTICAS CONSTRUCTIVAS DEL SITIO 
+DE ALMACENAMIENTO Y MEDIDAS DE PROTECCIÓN DE CONDICIONES AMBIENTALES73
+4.1.1.
+ESPECIFICACIONES TÉCNICAS CONSTRUCTIVAS...........................................................73
+4.1.2.
+IDENTIFICACIÓN DE LAS DISTANCIAS A OTRAS CONSTRUCCIONES AL INTERIOR DE LA 
+PROPIEDAD...................................................................................................................73
+
+===== p.2 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+4.1.3.
+DESCRIPCIÓN DETALLADA DE LOS SISTEMAS DE CONTROL DE ESCURRIMIENTOS O 
+DERRAMES, DE VENTILACIÓN.......................................................................................74
+4.1.4.
+DESCRIPCIÓN DEL SISTEMA DE LAVADO E HIGIENIZACIÓN DE CONTENEDORES.........74
+4.1.5.
+DESCRIPCIÓN DE LA ZONA DE CARGA Y DESCARGA DE RESIDUOS..............................75
+4.2.
+E.2 CAPACIDAD MÁXIMA DE ALMACENAMIENTO........................................................75
+4.3.
+E.3 DESCRIPCIÓN DEL TIPO DE ALMACENAMIENTO, TALES COMO A GRANEL O EN 
+CONTENEDORES...........................................................................................................76
+4.3.1.
+FASE CONSTRUCCIÓN...................................................................................................76
+4.3.2.
+FASE OPERACIÓN..........................................................................................................79
+4.3.3.
+FASE CIERRE..................................................................................................................82
+ANEXOS
+ANEXO 01. LAYOUT GENERAL
+ANEXO 02. PLANO DESCRIPCIÓN DEL SITIO
+ANEXO 03. PLANOS DE PLANTA, ELEVACIÓN Y CORTES DE LA PLANTA DE RECICLAJE 
+
+===== p.3 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+1. INTRODUCCIÓN
+El  proyecto  “Centro  Metropolitano  de  Gestión  Integral  de  Residuos”,  contempla  entre  sus 
+instalaciones operacionales una  planta de reciclaje de residuos domiciliarios, la cual generará 
+residuos sólidos asimilables a domiciliarios (RSD) y residuos sólidos industriales no peligrosos 
+(RSINP), durante sus fases de construcción, operación y cierre. Por lo tanto, se contempla la 
+habilitación de áreas para el almacenamiento temporal de los residuos asimilables a domiciliarios y 
+residuos industriales no peligrosos generados por la planta.
+Considerando lo anterior, la planta de reciclaje requiere tramitar el Permiso Ambiental Sectorial 
+(PAS), establecido en el artículo 140 del Título VII del D.S. Nº40/2012 del Ministerio de Medio 
+Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA), correspondiente al 
+“Permiso para la construcción, reparación, modificación y ampliación de cualquier planta de 
+tratamiento de basuras y desperdicios de cualquier clase, o para la instalación de todo lugar 
+destinado a la acumulación, selección, industrialización, comercio disposición final de basuras y 
+desperdicios de cualquier clase”, cuya norma fundante está contenida en el artículo 79º y 80º del 
+Decreto con Fuerza de Ley Nº725, del año 1967, del Ministerio de Salud Pública, Código Sanitario.
+Los requisitos para su otorgamiento consisten en que las condiciones de saneamiento y seguridad 
+eviten un riesgo a la salud de la población.
+A continuación, se presentan los contenidos técnicos y formales para acreditar el cumplimiento del 
+presente Permiso Ambiental Sectorial, de acuerdo lo estipulado en el artículo 140 del RSEIA y sus 
+literales aplicables:
+a) Generales: 
+a.1. Descripción y planos del sitio. 
+a.2. Descripción de variables meteorológicas relevantes. 
+a.3. Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar.
+a.4. Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y 
+equipamiento. 
+a.5. Formas de abatimiento de emisiones y de control y manejo de residuos. 
+a.6. Descripción del sistema de manejo de rechazos. 
+a.7. Plan de verificación y seguimiento de los residuos a ser tratados y rechazados. 
+a.8. Plan de contingencias. 
+a.9. Plan de emergencia.
+e) Tratándose de almacenamiento de residuos, además de lo señalado en las letras desde a.1) hasta 
+a.9): 
+e.1. Especificaciones técnicas de las características constructivas del sitio de almacenamiento y 
+medidas de protección de condiciones ambientales. 
+e.2. Capacidad máxima de almacenamiento. 
+e.3. Descripción del tipo de almacenamiento, tales como a granel o en contenedores.
+
+===== p.4 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+2. GENERALIDADES
+Como se indicó anteriormente, la planta de reciclaje contempla la habilitación de áreas para el 
+almacenamiento temporal de los residuos asimilables a domiciliarios y residuos industriales no 
+peligrosos generados durante su construcción, operación y cierre, para las cuales es necesario 
+solicitar el Permiso Ambiental Sectorial establecido en el artículo 140, del Reglamento del SEIA.
+En términos generales, durante la fase de construcción de la planta de reciclaje los residuos se 
+almacenarán temporalmente en una batea para luego ser dispuestos en el frente de trabajo del 
+relleno sanitario. A su vez en la fase de operación se habilitarán áreas de acopio para los residuos 
+generados por las actividades de la planta de reciclaje y un patio de acopio exterior, donde se 
+almacenarán los residuos provenientes de otros lugares y que serán tratados en la Planta de 
+Reciclaje tales como:
+
+Papel y cartón
+
+PET
+
+Envases de hojalatas
+
+Envases de aluminio
+
+Envases de vidrio (transparente, café, verde) 
+Durante la fase de operación del Proyecto, la Planta de Reciclaje recibirá como materia prima los 
+residuos señalados anteriormente, para su segregación contribuyendo así al cierre del ciclo de la 
+economía circular en Chile.
+Cabe destacar que los residuos gestionados en la Planta no serán generados por las actividades 
+propias del Centro Metropolitano de Gestión Integral de Residuos, sino que serán recibidos desde 
+fuentes  externas.  Entre  estas  se  incluyen  empresas  gestoras  de  residuos,  municipalidades, 
+recicladores de base y otros actores del sistema, todo en el marco de la Ley N°20.920, promulgada 
+en 2016, que establece el marco para la gestión de residuos, la responsabilidad extendida del 
+productor (REP) y el fomento al reciclaje.
+
+===== p.5 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+3. CONTENIDOS TÉCNICOS Y FORMALES GENERALES
+3.1.
+A.1 DESCRIPCIÓN Y PLANOS DEL SITIO
+El proyecto Centro Metropolitano de Gestión Integral Residuos se desarrollará en un predio de 
+propiedad privada ubicado en el kilómetro 102,5 de la Ruta 60-CH, también conocida como Troncal 
+Sur, principal vía de conexión entre las comunas de Viña del Mar y Quilpué, en la Región de 
+Valparaíso. El terreno cuenta con una superficie total de  206 hectáreas, de las cuales  63,10 
+hectáreas han sido destinadas específicamente para la implementación del proyecto. Este centro 
+contempla diversas instalaciones orientadas a la gestión integral de residuos, entre las que se 
+incluye una planta de compostaje destinada al tratamiento de residuos sólidos domiciliarios, restos 
+de feria y mercado, así como residuos vegetales derivados de podas.
+En este contexto, el presente Permiso Ambiental Sectorial 140 (PAS 140) tiene por objetivo 
+establecer  las  medidas  técnicas  y  operacionales  necesarias  para  prevenir  riesgos  sanitarios 
+asociados a la operación de la  planta de reciclaje, resguardando la salud de las personas y la 
+protección del medio ambiente. El PAS se enmarca en los lineamientos exigidos por la autoridad 
+sanitaria y constituye una herramienta clave para asegurar el cumplimiento de la normativa vigente 
+en materia de manejo y tratamiento de residuos.
+Con  el  propósito  de  complementar  la  descripción  territorial  y  facilitar  la  comprensión  del 
+emplazamiento del proyecto, a continuación, se presenta una imagen satelital del predio donde se 
+desarrollará el Centro Metropolitano de Gestión Integral Residuos. Esta visualización permite 
+apreciar la localización estratégica del terreno en relación con las principales vías de acceso, así 
+como su integración con el entorno geográfico y urbano de la comuna de Viña del Mar.
+
+===== p.6 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+Deslinde 
+Terreno
+Cierre 
+perimetral
+A Quilpué
+A Viña del 
+Mar
+Figura 1.
+Ubicación Centro Metropolitano de Gestión Integral Residuos
+Las coordenadas geográficas de los vértices que delimitan el predio donde se emplazará el proyecto 
+Centro Metropolitano de Gestión Integral Residuos, referidas al datum WGS 84, se detallan en la 
+siguiente tabla. 
+Tabla 1.
+Coordenadas UTM de vértice (Datum WGS 84 Huso 19-H)
+Cuadro de Coordenadas y Vértices del Predio
+Vértice
+U.T.M (Norte)
+U.T.M (Este)
+V1
+       6.337.772 
+           267.889 
+V2
+       6.337.552 
+           268.950 
+V3
+       6.337.004 
+           268.910 
+V4
+       6.336.188 
+           268.538 
+V5
+       6.336.265 
+           267.899 
+V6
+       6.336.430 
+           267.365 
+V7
+       6.337.033 
+           267.264 
+Fuente: Elaboración propia
+Para una mejor comprensión del uso del terreno destinado al proyecto, a continuación, se presenta 
+una imagen que muestra la distribución general de las instalaciones contempladas en el Centro 
+Metropolitano de Gestión Integral Residuos. Esta representación permite visualizar la disposición 
+espacial de cada componente del centro dentro del predio de  63,10 hectáreas, destacando la 
+relación funcional entre las distintas unidades operativas proyectadas.
+
+===== p.7 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+3
+2
+1
+6
+5
+5
+4
+Figura 2.
+Instalaciones relacionadas con la gestión de residuos
+Como se visualiza en la figura anterior, la Planta de compostaje se emplaza en el sector oriente del 
+área habilitada para el desarrollo del proyecto Centro Metropolitano de Gestión Integral Residuos, 
+dentro de los límites del predio ubicado en el kilómetro 102,5 de la Ruta 60-CH. 
+A continuación, se detallan las coordenadas geográficas de los vértices que delimitan la superficie de 
+la planta de compostaje, referidas al datum WGS 84, las cuales permiten identificar con precisión su 
+emplazamiento dentro del área del proyecto.
+
+===== p.8 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+Figura 3.
+Planta de reciclaje
+Tabla 2.
+Cuadro de coordenadas planta de reciclaje
+ Cuadro de Coordenadas
+Punto #
+U.T.M (Norte)
+U.T.M (Este)
+1
+6337325,44
+267957,82
+2
+6337318,78
+267989,17
+3
+6337289,21
+267982,89
+4
+6337295,87
+267951,54
+5
+6337354,21
+267856,66
+6
+6337323,09
+267949,22
+7
+6337299,38
+267941,25
+8
+6337330,44
+267848,69
+9
+6337346,83
+267907,02
+10
+6337345,27
+267911,64
+11
+6337339,54
+267909,71
+12
+6337343,02
+267899,35
+A fin de complementar esta descripción, en Anexo Planos del presente EIA se encuentran las 
+siguientes láminas:
+
+Layout general.
+
+Plano Descripción del sitio – Planta de compostaje, que presentan las distancias a los cursos 
+de agua superficial o subterránea, fuentes destinadas a la producción de agua para el 
+consumo humano, viviendas, establecimientos educacionales, establecimientos de atención 
+de salud, entre otros.
+
+Planos de planta, elevación y cortes de la planta de compostaje.
+
+===== p.9 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+La zona de reciclaje ha sido diseñada para operar bajo criterios de eficiencia operativa, seguridad 
+ambiental y cumplimiento normativo, en el marco de lo establecido por la Ley N°20.920 y demás 
+regulaciones aplicables.
+3.1.1.
+DESCRIPCIÓN DEL LUGAR DE EMPLAZAMIENTO DE LA INSTALACIÓN DE RESIDUOS
+3.1.1.1
+ESTUDIO DE MECÁNICA DE SUELOS
+En Anexo Informe de Mecánica de Suelo de la EIA, se presenta un estudio de mecánica de suelos del 
+sitio. Se destaca un extracto de la permeabilidad y capacidad de soporte del sueño.
+3.1.1.1.1
+Ensayos de nivel variable o ensayo porchet
+La NCh3610:2020 Geotecnia - Determinación de la conductividad hidráulica saturada de campo, 
+describe cuatro métodos de ensayos para la estimación de la conductividad hidráulica saturada de 
+campo en un suelo donde no se detecte nivel freático dentro de la profundidad de exploración. 
+De los cuatro métodos señalados en la NCh 3610:2020, se utilizará el Ensayo de nivel variable o 
+ensayo Porchet. 
+Este ensayo de terreno consiste en llenar de agua una cavidad de diámetro d y profundidad H, 
+midiendo el descenso del nivel del agua dentro de ella a través del tiempo. A la profundidad donde 
+es de interés medir la conductividad hidráulica estimada en terreno, se debe excavar un cilindro al 
+interior de la calicata cuyas dimensiones se ajusten a lo indicado en la NCh 3610:2020, y que se 
+relaciona con el tamaño máximo de las partículas del suelo. 
+A modo de verificar las dimensiones de la cavidad, es necesario realizar la medición de su diámetro
+en 2 secciones (Inferior y superior) con 2 dimensiones preferentemente ortogonales entre sí, c. 
+Además, la altura se debe medir en al menos 3 puntos equidistantes entre sí en su manto y uno al 
+centro. 
+Finalmente, se deberá llenar de agua la cavidad, hasta quedar a ras con la superficie del terreno. 
+Luego se esperará que el agua descienda un par de centímetros, dependiendo de la profundidad de 
+la cavidad y se procederá a medir el descenso de la superficie libre debido a la infiltración a través del 
+fondo y las paredes. El tiempo de descenso del nivel del agua, se realizará cada 2 cm., ayudados por 
+medio de una regla graduada, provista de un sistema de flotación en el extremo que estará en 
+contacto con el nivel del agua.
+
+===== p.10 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+Figura 4.
+Ensayo infiltración de Porchet (imagen referencial)
+La siguiente figura y tabla, presenta la ubicación con coordenadas UTM de los ensayos de infiltración 
+de Porchet en terreno.
+Figura 5.
+Ubicación de Ensayo de Porchet
+Tabla 3.
+Coordenadas UTM ubicación Ensayo de Porchet
+CALICATA
+ESTE
+NORTE
+C1
+267.847
+6.337.502
+Datum WGS 84 Huso 19H
+Resultado del ensayo de Porchet
+
+===== p.11 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+El resultado obtenido indica que a nivel superficial la tasa de infiltración del primer estrato de suelo 
+es de 127,07 (mm/h) en el punto de medición (calicata C1). En la siguiente tabla, se presenta el 
+resultado obtenido.
+Tabla 4.
+Resultados de ensayo de Porchet realizado en terreno. 
+N° Calicata 
+Permeabilidad 
+(cm/seg)
+Permeabilidad 
+(m/seg)
+Permeabilida
+d (mm/hr)
+Permeabilidad 
+(cm/hr)
+Permeabilidad según Soil 
+Conservation Service
+C1
+3,53E-03
+3,5E-05
+127,07
+12,71
+Moderadamente Elevada
+3.1.1.1.2
+Ensayo densidad in situ
+El procedimiento de toma de densidad in situ se basa en lo señalado en las referencias normativas 
+NCh1516.Of79 Determinación de la densidad en terreno - Método nuclear o Método 8.502.2, 
+diciembre 2003, Manual de Carretera V8.
+El método permite determinar la densidad total o densidad húmeda de suelos, contenido de 
+humedad y agregados pétreos in situ, por la atenuación de los rayos gamma cuando la fuente 
+gamma y el detector gamma, o ambos, permanecen en o cerca de la superficie. 
+Para operar estos equipos es esencial la instrucción previa del operador sobre los procedimientos 
+rutinarios de seguridad, tales como chequeos de fuga de la fuente, utilización y evaluación del 
+dosímetro, uso de contadores, etc.
+El procedimiento realizado por el operador del laboratorio para la medición con densímetro nuclear 
+deberá cumplir con lo siguiente:
+
+Seleccionar un lugar donde el medidor en posición de ensaye esté por lo menos a 150 mm de 
+distancia de cualquier proyección vertical.
+
+Prepare el sitio de ensaye de la siguiente manera:
+-
+Remover todo el material suelto y disgregado y cualquier material adicional si es 
+necesario para dejar expuesta la parte superior del material a ensayar.
+-
+Preparar  un  área  horizontal  de  tamaño  suficiente  para  acomodar  el  medidor, 
+aplanándola hasta dejarla lisa de modo de obtener el máximo contacto entre el 
+medidor y el área que se va a ensayar.
+-
+El máximo espacio debajo del medidor no excederá de 3 mm. Use finos del lugar o arena 
+fina para llenar estos huecos y empareje la superficie con una placa rígida u otra 
+herramienta adecuada.
+
+Proceder con el ensayo de la siguiente manera:
+-
+Asentar el medidor firmemente.
+-
+Mantener toda otra fuente radiactiva lejos del medidor para evitar que afecte las 
+medidas.
+-
+Emplear un tiempo de estabilización para el equipo de acuerdo a las instrucciones del
+fabricante.
+-
+Hacer y anotar una o más lecturas de 1 min.
+
+===== p.12 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12
+-
+Determinar la densidad húmeda in situ usando la curva de calibración previamente 
+establecida.
+El equipo utilizado en terreno es el modelo Troxler 3430, capaz de determinar rápidamente y con 
+precisión la humedad y la densidad de suelos, bases, agregados (áridos), hormigón y asfalto 
+(hormigón asfáltico), sin tener que recurrir a métodos de intervención física.
+Figura 6.
+Densímetro Nuclear Modelo Troxler 3430 (imagen referencia)
+La siguiente figura y tabla, presenta la ubicación con coordenadas UTM de los puntos de medición de 
+densidad in situ.
+
+===== p.13 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13
+Figura 7.
+Ubicación de ensayo de densidad in situ
+Tabla 5.
+Coordenadas UTM ubicación ensayo de densidad in situ
+CALICATA
+ESTE
+NORTE
+C1
+267.847
+6.337.502
+C8
+267.840
+6.337.009
+C10
+267.712
+6.337.270
+C13
+268.146
+6.337.135
+C14
+268.355
+6.337.385
+C16
+267.737
+6.337.488
+C18
+268.189
+6.336.960
+C20
+268.288
+6.337.284
+Datum WGS 84 Huso 19H
+Resultado del ensayo de densidad in situ
+En la siguiente tabla se presentan los resultados de las mediciones de densidad in situ.
+Resultados
+Calicatas
+PORCHET 2
+
+===== p.14 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14
+Espesor capa (cm)
+30
+30
+30
+30
+30
+30
+30
+30
+Profundidad de ensayo (cm)
+30
+30
+30
+30
+30
+30
+30
+30
+D.C.H (kg/m³)
+1,838
+1,648
+1,738
+1,811
+1,761
+1,732
+1,837
+1,793
+D.C.S (kg/m³)
+1,758
+1,576
+1,643
+1,743
+1,656
+1,642
+1,738
+1,73
+Los valores de densidad compactada húmeda (D.C.H) fluctúan entre 1,648 kg/m³ (C8) y 1,838 kg/m³ 
+(C1). En general, los valores son relativamente estables, con un ligero aumento hacia la calicata C1 
+(1,838) y una ligera disminución hacia C8 (1,648).
+Respecto a los valores de densidad compactada seca (D.C.S) hay una leve dispersión en las 
+mediciones obtenidas. El rango de D.C.S va desde 1,576 kg/m³ (C8) hasta 1,758 kg/m³ (C1), 
+mostrando algo de variabilidad entre las calicatas.
+3.1.1.2
+ESTUDIO QUE DÉ CUENTA DE POTENCIALES PELIGROS NATURALES
+En  Anexo 3.6. Línea de Base Geomorfológica y Riesgos Naturales del EIA, se presentan los 
+principales aspectos requeridos. A continuación, presenta un resumen de los principales riesgos 
+naturales.
+3.1.1.2.1
+Riesgos Sísmico
+No hay duda de que los riesgos tectónicos existen, pero no directos, ya que hemos comprobado que 
+ninguna de las zonas de cizalla reconocidas en el predio podrían ser activas ya que ninguna de las 
+superficies Cuaternarias del predio demuestra alguna afectación por estas trazas. Sin embargo, la 
+zona de cizalla Marga Marga es probablemente una zona de debilidad que amplifica los efectos de 
+un terremoto cercano, dados los registros sísmicos y de destrucción de estructuras asociadas a la 
+traza de esta falla. Por ello toda construcción deberá efectuarse con las mismas regulaciones 
+antisísmicas que aplican a las construcciones civiles ya efectuadas en el área.
+3.1.1.2.2
+Riesgo de inundación por Tsunami
+Considerando que el proyecto se localiza en la cordillera de la costa, por sobre los 180 m s.n.m., es 
+que se descarta el peligro de inundación por tsunami.
+3.1.1.2.3
+Riesgo volcánico
+Considerando que el proyecto se localiza en la cordillera de la costa, a más de 100 km de las zonas 
+volcánicas asociadas al margen occidental de Sudamérica, no existen riesgos volcánicos en el área 
+del proyecto.
+3.1.1.2.4
+Riesgo de remoción en masa
+Procesos de tipo cohesivo y semi cohesivo
+
+===== p.15 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+15
+No se identificaron zonas con riesgo asociado a procesos de remoción en masa de tipo cohesivo o 
+semicohesivo,  tales  como  deslizamientos  de  ladera  (landslides)  y  flujos  subsidiarios  como 
+avalanchas de rocas o detritos.
+Procesos de tipo no cohesivo  
+La caída de rocas corresponde a un proceso identificado, aunque limitado en el área de estudio, 
+particularmente se presenta en sectores donde concurren las siguientes condiciones: i) presencia de 
+afloramientos rocosos expuestos, aunque escasos, y ii) pendientes superiores a 40°–45.
+Procesos de tipo fluido
+No se identificaron riesgos asociados a flujos de tipo fluido, desde flujos de fluides normal hasta 
+hiperconcentrados.  Los  flujos  hiperconcentrados  reconocidos  han  generado  depósitos  de 
+pequeña magnitud y se restringen principalmente a sectores altos del área de estudio. Desde las 
+partes medias del área hacia aguas abajo, se estima que los flujos son predominantemente 
+acuosos, sin evidencias de transporte masivo de sedimentos.  
+ 
+No se observaron depósitos atribuibles a flujos densos, tales como debris flows o mudflows. La 
+ocurrencia de este tipo de procesos se considera poco probable, dado el bajo contenido de arcillas 
+identificado en los suelos y depósitos locales, condición que limita la generación de flujos con 
+comportamiento reológico denso. 
+3.1.1.3
+GEOLOGÍA DEL SITIO
+En Anexo 3.5. Línea de Base Geológica del EIA, se presentan los principales aspectos requeridos. A 
+continuación, presenta un resumen de los principales aspectos geológicos.
+La geología del área de estudio está dominada litológicamente por un cuerpo intrusivo de 
+composición tonalítica que abarca casi la totalidad del área de estudio, el cual instruye a rocas tipo 
+hornfels  en  hacia  el  sur  del  área.  Ambas  litologías  muestran  meteorización  superficial, 
+identificándose con mayor intensidad en la unidad tonalítica, donde se ha generado un suelo 
+residual en superficie, donde se han identificado claros perfiles de meteorización asociados a una 
+roca fresca en profundidad. 
+ 
+Desde el punto de vista tectónico-estructural, se reconoce un dominio estructural de orientación 
+predominantes noroeste (NW), asociado a la Zona de Falla Marga Marga (ZFMM), confirmando la 
+existencia de una traza de falla a unos 600 m al norte de las instalaciones del Proyecto. Esta falla 
+coincidiría con la traza de la falla de Marga Marga propuesta por Gana (1996), no obstante, estudios 
+posteriores (Muñoz, 2013; Maldonado et al. 2021) proponen que dicha traza principal se ubicaría 
+más al norte, en el valle del estero homónimo. De la revisión en terreno, no fue posible asociar esta 
+falla a un rompimiento reciente por lo que se concluye que correspondería a una zona de cizalla no 
+activa. 
+ 
+Por otra parte, en términos geotécnicos se han reconocido condiciones potencialmente favorables 
+en el macizo rocoso, dominado por tonalita, para la estabilidad de las construcciones proyectadas. 
+
+===== p.16 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+16
+Tampoco se identificó resto paleontologico alguno, ni elementos que reviertan un valor patrimonial 
+geo-cientifico.
+Figura 8.
+Mapa geológico del área de estudio
+3.1.1.4
+ESTUDIO HIDROLÓGICO DEL SITIO
+En Anexo 3.4 Línea de Base Hidrogeológica del presente Estudio de Impacto Ambiental, se presenta 
+la Línea Base Hidrológica del sitio y su área de influencia, a continuación una resumen de los 
+principales aspectos del estudio.
+Para una caracterización exhaustiva de la red hidrográfica en el área de intervención, se consideran 
+las bases de datos del IGM y BCN, junto con la topografía de alta resolución del proyecto. A partir de 
+estas fuentes, se identifican los cauces y quebradas que drenan el área del proyecto hacia el Estero 
+Marga-Marga. Así mismo, se complementa el análisis con el reconocimiento de cuerpos de agua 
+mediante las observaciones de terreno y el análisis de imágenes satelitales.
+
+===== p.17 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+17
+3.1.1.4.1
+Identificación de cauces
+Inicialmente, la Figura 8 muestra la hidrografía obtenida de la Biblioteca del Congreso Nacional 
+(BCN). En ella se observa que solo dos cauces, con dirección sur a norte, interactúan con el proyecto. 
+Ambas son quebradas sin nombre, tributarias del Estero Marga-Marga, ubicadas aguas arriba de su 
+confluencia con el Estero Quilpué y del viaducto “Marga-Marga” del Troncal Sur (Ruta CH-60).
+Figura 9.
+Cauces identificados en la red hídrica de la Biblioteca del Congreso Nacional 
+(BCN) y su relación con el área de intervención
+Análogamente, la Figura 9 muestra la hidrografía del IGM. En ella se observan las mismas dos 
+quebradas identificadas por la BCN, pero con un mayor número de tributarios. Adicionalmente, esta 
+base de datos presenta una tercera quebrada hacia el oeste, la cual se observa interactuar 
+directamente con el camino de acceso al proyecto.
+Dadas estas observaciones, según la topografía de detalle disponible, la Figura 10 identifica los 
+cauces con una longitud mínima de 10 metros que drenan áreas de al menos 1 hectárea (0,01 km2). 
+En ella se observa una correspondencia semejante con la red de cauces nacional, resaltando las 
+quebradas identificadas tanto por la BCN como por el IGM, y sus respectivos tributarios.
+Excluyendo el Estero Marga-Marga, y considerando de este a oeste las quebradas que tributan al 
+mismo, se identifican en la Figura 11 las quebradas  Q1,  Q2 y  Q3 como aquellos drenajes más 
+relevantes para la interacción del sistema hídrico con el proyecto. Además, en la zona occidental 
+donde se proyecta el camino de acceso, se identifican quebradas menores nombradas como Q4, Q5, 
+Q6, Q7, Q8, Q9 y Q10.
+
+===== p.18 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+18
+Figura 10.
+Cauces identificados en la red hídrica del Instituto Geográfico Militar (IGM) y su 
+relación con el área de intervención
+
+===== p.19 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+19
+Figura 11.
+Cauces que drenan al menos 1 hectárea según el levantamiento topográfico de 
+detalle en el área de estudio y aquellos consistentes con la cartografía IGM
+De manera similar, se identifican los distintos tributarios a las quebradas principales, clasificando la 
+red de drenaje según el orden jerárquico de Hack. Dicha clasificación resulta particularmente útil 
+para identificar los cauces en la medida que estos tributan al cauce principal, ya que, a diferencia de 
+otros ordenes jerárquicos (e.g Strahler), el orden de Hack asigna el número 0 al cauce más largo, el 1 
+a sus tributarios directos, el 2 a los tributarios de estos, y así sucesivamente, asociando un número 
+entero n al tributario n-ésimo del cauce de mayor longitud.
+Destacando la nomenclatura empleada para clasificar los tributarios, las Figuras 12 y 13 ilustran el 
+detalle de la identificación de cauces en relación con el camino de acceso del proyecto. Asimismo, la 
+Figura 14 presenta los cauces identificados en el área principal de intervención.
+
+===== p.20 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+20
+Figura 12.
+Quebradas identificadas y sus tributarias en relación con la parte baja del camino 
+de acceso
+Figura 13.
+Quebradas identificadas y sus tributarias con relación a la parte alta del camino 
+de acceso
+
+===== p.21 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+21
+Figura 14.
+Quebradas identificadas y sus tributarias en relación con el área principal de 
+intervención
+A modo de síntesis, la Figura 15 muestra una fotografía panorámica de las quebradas mayores 
+obtenida a partir de un vuelo dron, resumiendo los cauces identificados en un esquema conceptual. 
+En cuanto a ellos, en terreno se observó que las quebradas presentan características similares en 
+términos de granulometría, sección de escurrimiento, meandrosidad y cobertura de suelo, con 
+ciertas heterogeneidades que se ilustran cualitativamente en la Figura 16.
+Según lo observado, los cauces se clasifican como torrentes de escurrimiento esporádico, con 
+taludes pronunciados (≈1:1 H:V) y sección relativamente homogénea. La rugosidad varía levemente 
+producto a la presencia de rocas, vegetación y sedimentos como arenas gruesas en el lecho o finos 
+en los taludes. Por último, se destaca que las quebradas son pronunciadas desde la cabecera hasta 
+su desembocadura en el Estero Marga-Marga, sin terrazas ni planicies de inundación evidentes.
+
+===== p.22 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+22
+Figura 15.
+Figura 3-9. Quebradas identificadas para el proyecto en vista panorámica desde 
+el Estero Marga-Marga hacia el sur. Quebradas (línea continua azul) y divisoria de aguas 
+aproximada (línea segmentada rosada). Fotografía del 7 de febrero de 2025
+Figura 16.
+Fotografías representativas de distintos tramos observables en la quebrada Q2. 
+(a) Sección de lecho con presencia de gravas y vegetación. (b) Sección con vegetación, lecho 
+de arenas y taludes de sedimento fino. (c) Sección angosta de baja vegetación, lecho 
+arenoso y taludes de sedimento fino. Fotografías del 7 de febrero de 2025
+
+===== p.23 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+23
+3.1.1.4.2
+Identificación de cuerpos de agua
+En cuanto a los cuerpos de agua, dentro del área de intervención no se observa ninguna laguna, 
+humedal o zona de acumulación. No obstante, tal como ilustra la Figura 17, aguas abajo del 
+proyecto, en la desembocadura de la quebrada Q1 y Q3 se identifican los cuerpos de agua CA1 y CA6 
+asociados al Estero Marga-Marga y que se formaron a raíz de procesos de extracción de áridos.
+Según el inventario de humedales del Ministerio del Medio Ambiente (MMA, 2015), ninguno de los 
+cuerpos de agua identificados se clasifica como tal. No obstante, el Estero Marga-Marga, Estero 
+Quilpué y Estero Viña del Mar sí están reconocidos como humedales (“HU-RS-3897 - Estero Viña del 
+Mar”).
+Figura 17.
+Cuerpos de agua y humedales identificados en el Estero Marga-Marga y Estero 
+Viña del Mar en relación a las quebradas del proyecto
+Imágenes satelitales historia de los últimos 20 años revelan que los cuerpos de agua identificados 
+son una consecuencia de la extracción de áridos en el Estero Marga-Marga. Como muestra la Figura 
+18, en el verano de 2003 el estero presentaba un flujo continuo, mientras que actualmente se 
+encuentra fragmentado en sucesivos afloramientos de agua subterránea y cuerpos de agua 
+menores. La Figura 19 muestra fotografías actuales de los cuerpos de agua CA1 y CA6, poniendo en 
+evidencia la fragmentación del cauce.
+
+===== p.24 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+24
+Figura 18.
+Imágenes satelitales (Google Earth) del Estero Marga-Marga aguas abajo del 
+proyecto. (a) Cauce en febrero 2003. (b) Cuerpo de agua CA1 inexistente en febrero de 2003. 
+(c) Cauce en febrero 2024. (d) Cuerpo de agua CA1 en febrero de 2024
+Figura 19.
+Cuerpos de agua identificados. (a) Fotografía hacia el oeste del CA6. (b) 
+Fotografía hacia el este del CA1. Fotografías del 07 de febrero de 2025
+Fuera de los evidentes cambios morfológicos que ha experimentado el cauce a lo largo de los años, 
+los impactos humanos desde una perspectiva ecológica-ambiental son claros y visibles. Como indica 
+la Figura 20, la confluencia entre las quebradas del proyecto y el Estero Marga-Marga presenta un 
+alto grado de intervención humana, reflejado, por un lado, en la presencia de caminos y huellas 
+vehiculares probablemente asociadas a los proyectos de extracción de áridos, y por otro, en la 
+acumulación frecuente de basura y escombros, los cuales se ubican tanto en el lecho del cauce 
+como en los cuerpos de agua asociados.
+
+===== p.25 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+25
+Figura 20.
+Basurales y escombros en el Estero Marga-Marga. (a) Ortofoto del proyecto 
+evidenciando basuras y escombros en el lecho del cauce. (b) Desembocadura de la quebrada 
+Q3 y residuos. (c) Basuras al costado del cuerpo de agua CA1
+3.1.1.5
+ESTUDIO HIDROGEOLÓGICO DEL SITIO
+En Anexo 3.4. Línea de Base Geológica del EIA, se presentan los principales aspectos requeridos. A 
+continuación, presenta un resumen de los principales aspectos hidrogeológicos.
+El área del proyecto se localiza en el sector sureste de Viña del Mar, dentro de la unidad 
+morfoestructural de la Cordillera de la Costa, compuesta por rocas ígneas intrusivas jurásicas, 
+principalmente tonalitas y granodioritas pertenecientes a la Unidad Limache (Jlt). Estas se formaron 
+por enfriamiento de magma a gran profundidad hace más de 145 millones de años y han intruido y 
+alterado térmicamente unidades más antiguas como la Formación Ajial (Ja), aunque esta última no 
+ha sido reconocida con claridad en el área del proyecto. 
+La información estratigráfica disponible proviene de pozos profundos ubicados hacia el valle, donde 
+se registran capas de maicillo, arenas y arcillas, con presencia de roca cristalina desde los 50 m de 
+profundidad. No obstante, estos antecedentes no representan adecuadamente las condiciones del 
+sitio, ya que se ubican a menor altitud y podrían estar influenciados por la descarga del valle 
+correspondiente al estero Viña del Mar. 
+De forma particular para el área del proyecto, la geología local muestra un terreno dominado por un 
+manto de material disgregado tipo "maicillo", derivado de la meteorización de los intrusivos 
+granitoides. Las calicatas realizadas en el área confirman esta cobertura homogénea, evidenciando 
+dos niveles principales: una capa vegetal superficial (hasta 1 m) y un segundo estrato de maicillo con 
+escasos finos. En una de las calicatas (n°19), se identificó roca de alta dureza a 1,6 m de profundidad, 
+
+===== p.26 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+26
+lo que sugiere una meteorización y/o alteración diferencial en la zona, lo que se traduce en la 
+aparición de roca a distintas profundidades. 
+Los perfiles ERT muestran un aumento progresivo de resistividad con la profundidad, permitiendo 
+estimar espesores variables de la unidad meteorizada (“maicillo”) entre 15 y 40 m, que se dispone 
+sobre un basamento rocoso compacto e impermeable. Esta variación de la profundidad de la roca se 
+debe principalmente a la meteorización diferencial. 
+Respecto a la presencia de agua subterránea, los valores de resistividad obtenidos en los perfiles ERT 
+no evidencian la presencia de un acuífero en el sector. Sin embargo, la permeabilidad obtenida en el 
+ensayo Porchet, junto a la presencia puntual de agua en la calicata 23, indican que las aguas lluvias 
+podrían infiltrarse y almacenarse de forma temporal en la zona meteorizada (“maicillo”). A su vez, 
+que escurrirían aguas abajo hacia zonas más deprimidas. Por último, la acumulación de aguas 
+subterráneas estará fuertemente condicionada a las precipitaciones y a los espesores de la capa de 
+“maicillo” de alta permeabilidad y la profundidad de la roca, adicionalmente, la presencia de capas 
+arcillosas disminuye la posibilidad de almacenamiento y podría favorecer el escurrimiento 
+superficial y subterráneo hacia zonas más bajas
+3.2.
+A.2 DESCRIPCIÓN DE VARIABLES METEOROLÓGICAS RELEVANTES
+3.2.1.
+CLIMA Y METEOROLOGÍA 
+Los antecedentes presentados en el presente punto se detallan en el Anexo 3.3 Línea de Base 
+Hidrológica - Caracterización Hidrológica del presente Estudio de Impacto Ambiental. Se presenta 
+a continuación un extracto de los principales aspectos del estudio.
+Para caracterizar el hidroclima se consideró la literatura reciente y los criterios técnicos establecidos 
+por el Servicio de Evaluación Ambiental (SEA). Específicamente, para el análisis de variables 
+hidrológicas, se considera el monitoreo de la red hidro-meteorológica de la Dirección General de 
+Aguas (DGA).
+Las cuencas afectadas por el proyecto no presentan control fluviométrico ni sedimentológico. Sin 
+embargo, al revisar la red de monitoreo nacional, se constató que la cuenca del Estero Viña del Mar 
+tampoco dispone de mediciones continuas de caudal en ninguno de sus tramos o tributarios, de 
+manera que la caracterización hídrica del cauce se realiza necesariamente mediante métodos 
+indirectos.
+Para ello, se identifican estaciones meteorológicas cercanas con registros extensos de temperatura
+y precipitación. La Figura 21 resume las estaciones seleccionadas, mientras que la Figura 22 muestra 
+su ubicación en relación con la cuenca del Estero Viña del Mar.
+Considerando los alcances de la línea base, se decide analizar la información de la estación 
+“05510002 - Lago Peñuelas” debido a su cercanía al proyecto, representatividad geográfica, 
+disponibilidad histórica y continuidad de registros. Además, esta estación se destaca entre las demás 
+por  contar  con  información  simultánea  de  precipitación  y  temperatura  durante  un  periodo 
+comparable.
+
+===== p.27 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+27
+Figura 21.
+Catastro de estaciones meteorológicas DGA cercanas al área del proyecto.
+En rojo destaca la estación escogida para el análisis estadístico.
+Figura 22.
+Estaciones meteorológicas cercanas al proyecto y a la cuenca del Estero Viña del 
+Mar
+3.2.2.
+HIDROCLIMA HISTÓRICO
+Considerando la estación Lago Peñuelas (DGA), la Figura 23 presenta las series de tiempo de 
+precipitación, temperatura media y temperaturas extremas utilizadas para el diagnóstico del 
+hidroclima  del  proyecto.  Como  primera  observación,  los  datos  evidencian  fluctuaciones 
+significativas en la escala interanual, estacional y diaria, las cuales serían analizadas con mayor 
+detalle en la siguiente sección.
+
+===== p.28 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+28
+Figura 23.
+Series de tiempo de la estación Lago Peñuelas a 9,6 km del proyecto. (a): 
+Precipitación acumulada diaria. (b) Temperatura media diaria. (c) Temperaturas máxima y 
+mínima diarias. Zona sombreada destaca el periodo 1990-2020. Datos originales sin 
+información rellenada.
+3.2.3.
+VARIABILIDAD ESTACIONAL
+La Figura 24 muestra la variación estacional típica de precipitación y temperatura en la estación Lago 
+Peñuelas (DGA). En ella se observa un ciclo caracterizado por una temporada húmeda y fría entre 
+abril y octubre, y una temporada cálida y seca entre noviembre y marzo. Durante los meses de 
+invierno (junio y julio), las precipitaciones acumulan montos de 160 a 180 mm mensuales, mientras 
+que en los meses de verano son prácticamente nulas. A nivel de eventos puntuales, la Figura 24 
+evidencia tormentas extremas que han acumulado montos mayores a 200 mm en un sólo día. 
+
+===== p.29 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+29
+Figura 24.
+Climograma de la estación meteorológica Lago Peñuelas para el periodo 1990-
+2020. Curva roja, negra y azul corresponden a la media mensual de temperaturas máximas, 
+medias y mínimas respectivamente. Barras azules indican la media de las precipitaciones 
+acumuladas mensuales.
+En cuanto a las temperaturas, los meses de junio, julio y agosto presentan valores templados, con 
+promedios cercanos a 10°C, mientras que en diciembre, enero y febrero predominan temperaturas 
+cálidas, con promedios de aproximadamente 17°C. En cuanto al ciclo diurno promedio, las máximas 
+de verano oscilan entre 20°C y 24°C, y las mínimas invernales fluctúan entre 4°C y 6°C, no obstante, 
+como muestra la Figura 24, durante eventos extremos y específicos, se registran temperaturas de 
+verano superiores a 30°C y heladas invernales inferiores a 0°C.
+La Figura 25 indica los valores medios mensuales de las variables hidroclimáticas evaluadas en el 
+periodo histórico.
+Figura 25.
+Promedios mensuales y anuales de variables hidroclimáticas entre 1990 y 2020. 
+Precipitación (P), temperatura máxima diaria (Tx), media diaria (Tm) y mínima diaria (Tn) en 
+Lago Peñuelas. Caudal (Q) en el Estero Viña del Mar en desembocadura.
+3.2.4.
+VELOCIDAD DEL VIENTO
+En Anexo 3.1. Línea de Base de Clima y Meteorología del EIA, se presentan los principales aspectos 
+requeridos. A continuación, presenta un resumen de los principales aspectos del elemento viento.
+
+===== p.30 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+30
+Se analizó el comportamiento de los parámetros meteorológicos utilizando datos modelado por el 
+modelo WRF, para el año 2025. Se analizó información de velocidad de viento y dirección del viento 
+desde el 1 de enero de 2025 a las 00:00 hasta el 31 de diciembre de 2025 a las 23:00, con datos 
+horarios.
+A continuación, se representan la rosa de los vientos y las frecuencias de la rapidez del viento 
+construidas con los datos modelados para el punto de emplazamiento del proyecto.
+Tabla 6.
+Rosa y distribución de la velocidad del viento, modeladas por WRF
+Rosa y distribución de la velocidad del viento
+Características
+Anual
+-Las  direcciones  predominantes  del  viento 
+modelado se concentran principalmente en el 
+sector sur, destacando las componentes S, 
+SSO y SO. En particular, la dirección sur (S) 
+presenta la mayor frecuencia, seguida por la 
+componente sur -suroeste (SSO), lo que indica 
+un predominio de vientos provenientes del 
+cuadrante sur.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores frecuencias se asocian a velocidades 
+moderadas
+ 
+y
+ 
+altas
+ 
+provenientes 
+principalmente  del  sur  y  sur  -  suroeste, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento 
+indica una frecuencia de vientos calmos de 
+6,9%.  En  tanto,  las  categorías  de  mayor 
+velocidad presentan las frecuencias más altas: 
+el  rango  5,7–8,8  m/s  alcanza  un  23,4%, 
+mientras que las velocidades mayores a 8,8 
+m/s representan un 24,4%, siendo esta última 
+la categoría predominante.
+-Finalmente, la modelación WRF muestra un 
+régimen  de  viento  dominado  por 
+componentes del sur a sur suroeste, con una 
+alta proporción de velocidades moderadas a 
+intensas.
+
+===== p.31 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+31
+Rosa y distribución de la velocidad del viento
+Características
+Verano
+-Para el periodo de verano, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en el cuadrante 
+sur,  destacando  las  componentes  sur  - 
+suroeste  (SSO)  y  sur  (S).  En  particular,  la 
+dirección SSO presenta la mayor frecuencia, 
+seguida por la componente S, lo que indica un 
+predominio  de  vientos  provenientes  del 
+sector sur durante esta estación.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades  moderadas  y 
+altas provenientes del sur - suroeste y sur, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento en 
+verano  indica  una  frecuencia  de  vientos 
+calmos de 5,3%. Las categorías con mayor 
+frecuencia  corresponden  a  velocidades 
+mayores a 8,8 m/s, con 25,7%, seguidas por el 
+rango 3,6–5,7 m/s, con 22,5%, y el rango 5,7–
+8,8 m/s, con 21,1%.
+-En general, durante el verano la modelación 
+WRF muestra un régimen de viento dominado 
+por componentes del sur - suroeste a sur, con 
+una  alta  proporción  de  velocidades 
+moderadas a intensas.
+
+===== p.32 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+32
+Rosa y distribución de la velocidad del viento
+Características
+Otoño
+-Para el periodo de otoño, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en el cuadrante 
+sur, destacando las componentes sur (S) y sur 
+suroeste (SSO). En particular, la dirección S 
+presenta la mayor frecuencia, seguida por la 
+componente SSO, lo que indica un predominio 
+de  vientos  provenientes  del  sector  sur 
+durante esta estación.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades  moderadas  y 
+altas  provenientes  del  sur  y  sur  suroeste, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento en 
+otoño indica una frecuencia de vientos calmos 
+de 9,5%. Las categorías con mayor frecuencia 
+corresponden a velocidades mayores a 8,8 
+m/s, con 22,7%, seguidas por el rango 3,6–5,7 
+m/s, con 20,7%, y el rango 5,7–8,8 m/s, con 
+19,7%.
+-En  conclusión,  durante  el  otoño  la 
+modelación  WRF  muestra  un  régimen  de 
+viento dominado por componentes del sur a 
+sur suroeste, con una proporción importante 
+de velocidades moderadas a intensas.
+
+===== p.33 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+33
+Rosa y distribución de la velocidad del viento
+Características
+Invierno
+-Para el periodo de invierno, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en la componente 
+sur (S), la cual presenta la mayor frecuencia 
+durante esta estación. También se identifican 
+ocurrencias  secundarias  en  direcciones 
+cercanas al sur suroeste (SSO) y, en menor 
+medida, en el cuadrante norte.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades  moderadas  y 
+altas provenientes del sur, especialmente en 
+los rangos superiores a 3,6 m/s.
+-La distribución de la velocidad del viento en 
+invierno  indica  una  frecuencia  de  vientos 
+calmos de 7,8%. Las categorías con mayor 
+frecuencia  corresponden  al  rango  5,7–8,8 
+m/s, con 29,7%, seguido por las velocidades 
+mayores a 8,8 m/s, con 19,4%, y el rango 3,6–
+5,7 m/s, con 17,2%.
+-Se  concluye  que,  durante  el  invierno  la 
+modelación  WRF  muestra  un  régimen  de 
+viento dominado por la componente sur, con 
+una proporción  importante  de  velocidades 
+moderadas a intensas, especialmente entre 
+5,7 y 8,8 m/s.
+
+===== p.34 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+34
+Rosa y distribución de la velocidad del viento
+Características
+Primavera
+-Para el periodo de primavera, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en el cuadrante 
+sur, destacando las componentes sur (S) y sur 
+suroeste (SSO). En particular, la dirección S 
+presenta la mayor frecuencia, seguida por la 
+componente SSO, lo que indica un predominio 
+de  vientos  provenientes  del  sector  sur 
+durante esta estación.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades  moderadas  y 
+altas  provenientes  del  sur  y  sur  suroeste, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento en 
+primavera indica una frecuencia de vientos 
+calmos de 4,9%. Las categorías con mayor 
+frecuencia  corresponden  a  velocidades 
+mayores a 8,8 m/s, con 30,0%, seguidas por el 
+rango 5,7–8,8 m/s, con 23,3%, y el rango 3,6–
+5,7 m/s, con 19,8%.
+-En  síntesis,  durante  la  primavera  la 
+modelación  WRF  muestra  un  régimen  de 
+viento dominado por componentes del sur a 
+sur  suroeste,  con  una  alta  proporción  de 
+velocidades moderadas a intensas.
+3.3.
+A.3 ESTIMACIÓN Y CARACTERIZACIÓN CUALITATIVA Y CUANTITATIVA DE LOS 
+RESIDUOS A TRATAR
+La estimación y caracterización cualitativa y cuantitativa de los residuos a tratar durante las 
+diferentes fases del proyecto se presentan a continuación.
+3.3.1.
+FASE CONSTRUCCIÓN
+Durante la fase de construcción se generarán residuos sólidos domiciliarios y asimilables, además de 
+residuos sólidos industriales no peligrosos, producto del consumo diario de los trabajadores y las 
+actividades propias de la obra. 
+
+===== p.35 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+35
+En base a las siguientes premisas de cálculo, se ha estimado el volumen de estos residuos, los cuales 
+serán almacenados temporalmente en el sitio hasta su disposición final en el frente de trabajo del 
+Relleno Sanitario del proyecto, el cual se encontrará operativo durante dicha etapa.
+
+Producción per cápita por trabajador
+:
+1 kg trab/día
+
+N° de trabajadores 
+:
+12 trabajadores
+
+Días de trabajo al mes
+:
+26
+
+Densidad basura suelta
+ :  0,15  ton/m³  (Fuente:  Tchobanoglous, 
+1993)
+
+Factor de generación RSINP
+:
+0,26 m³/m²
+
+Superficie planta reciclaje
+:
+2.606 m²
+
+Duración fase de construcción
+:
+4 meses
+
+Días de operación de la planta a la semana
+: 
+6 días
+Tabla 7.
+Generación de residuos durante la fase de construcción
+Tipología
+Detalle
+Generación Diaria
+Generación total
+Volumen total
+Residuos sólidos 
+domiciliarios
+Residuos 
+orgánicos, envases, 
+papeles, restos de 
+alimentos, entre 
+otros
+12 kg/día
+1,25 ton
+8,32 m³
+Residuos sólidos 
+industriales no 
+peligrosos
+Despuntes de 
+madera, fierro, 
+plásticos, 
+hormigón, 
+escombros y otros 
+desechos de 
+construcción 
+inertes
+0,98 ton/día
+101,63 ton
+677,56 m³
+3.3.2.
+FASE OPERACIÓN
+3.3.2.1
+RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES 
+Durante la fase de operación del proyecto se generarán residuos sólidos domiciliarios y asimilables, 
+producto del consumo diario de los trabajadores en las distintas instalaciones. En función de esta 
+actividad y considerando las bases de cálculo detalladas a continuación, se ha estimado el volumen 
+de residuos que deberán ser gestionados en el sitio.
+
+Producción per cápita por trabajador
+:
+1 kg trab/día
+
+N° de trabajadores 
+:
+24 trabajadores
+
+Días de trabajo al mes
+:
+26
+
+Densidad basura suelta
+ : 
+0,15
+ 
+ton/m³
+ 
+(Fuente: 
+
+===== p.36 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+36
+Tchobanoglous, 1993)
+
+Duración fase de operación
+:
+22 años 
+Tabla 8.
+Generación de residuos durante la fase de operación
+Tipología
+Detalle
+Generación Diaria
+Generación Total
+Volumen total
+Residuos sólidos 
+domiciliarios
+Residuos 
+orgánicos, envases, 
+papeles, restos de 
+alimentos,  entre 
+otros
+24 kg/día
+164,74 ton
+1098,24 m³
+3.3.2.2
+RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES RECHAZADOS
+Durante la fase de operación se generarán residuos sólidos domiciliarios y asimilables que no podrán 
+ser valorizados y, por tanto, deberán ser rechazados. En base a las siguientes premisas de cálculo, se 
+ha  estimado  el  volumen  de  estos  residuos,  los  cuales  serán  gestionados  conforme  a  los 
+procedimientos establecidos y disposición final se realizará en el relleno sanitario del proyecto que 
+se encontrará operativo. 
+
+Ingreso máximo
+:
+80 ton/día
+
+Tasa de rechazo promedio
+:
+8%
+
+Densidad basura suelta                             : 
+0,15 ton/m³ (Fuente: Tchobanoglous, 1993)
+Tabla 9.
+Generación de residuos sólidos domiciliarios y asimilables rechazados durante la 
+fase de operación
+Tipología
+Ingreso residuos 
+potencialmente 
+reciclable 
+Toneladas /día
+% Rechazo
+promedio 
+Material 
+Rechazo 
+Toneladas /día
+Material Rechazo 
+m³ /día
+Papel, cartón, PET, 
+envases de hojalata, 
+envases de aluminio, 
+vidrio
+80
+8%
+6,62
+44 m³/día
+Se estima que, durante todo el período de operación de la planta de reciclaje, se generará del orden 
+de 52.000 toneladas de residuos sólidos domiciliarios y asimilables rechazados en el proceso 
+productivo.
+Cabe señalar que, en su fase de máxima operación, la Planta de Reciclaje está proyectada para 
+recibir un volumen de hasta 80 toneladas diarias de residuos. Sin embargo, durante el periodo inicial 
+de funcionamiento, el ingreso de materiales será gradual, en función del avance de las políticas de 
+educación ambiental y de las intervenciones comunitarias orientadas a fomentar la segregación en 
+origen de residuos potencialmente valorizables.
+
+===== p.37 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+37
+3.3.2.3
+RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES DURANTE EL PROCESO 
+PRODUCTIVO
+A continuación, se presenta un resumen de las principales tipologías de residuos inorgánicos que se 
+espera recibir en la Planta de Reciclaje, junto con la estimación de tasas de generación respectivas. 
+Esta información se ha elaborado en base a datos de referencia de generación de estudios de 
+caracterización, experiencias comparables y proyecciones propias del proyecto, considerando el 
+contexto territorial y el potencial de valorización identificado para cada fracción.
+Tabla 10.
+Generación de residuos sólidos domiciliarios y asimilables durante el proceso 
+productivo
+Residuo
+Descripción
+PAPEL
+Origen: Recicladores de base, o municipalidades o asociaciones municipales 
+con personalidad jurídica u otros.
+Cantidad: Se estima que, del total de 50 toneladas diarias que ingresarán a la 
+planta de reciclaje, aproximadamente un 15% corresponderá a papeles, lo que 
+equivale a 7,5 toneladas por día.
+Manejo y tratamiento: Los residuos papeles que ingresen a la planta de 
+reciclaje serán separados mediante un proceso de clasificación manual y/o 
+mecánica, con el fin de retirar contaminantes como plásticos, papeles sucios, 
+entre otros. Una vez segregado el papel reciclable, este será compactado y 
+almacenado temporalmente en fardos.
+Destino del material reciclado: Plantas especializadas en reciclaje de papel o 
+clientes que lo utilizarán como materia prima para la fabricación de nuevos 
+productos. Este proceso contribuye significativamente a la reducción en el uso 
+de recursos naturales.
+CARTÓN
+Origen: Recicladores de base, o municipalidades o asociaciones municipales 
+con personalidad jurídica u otros.
+Cantidad: Se estima que, del total de 50 toneladas diarias que ingresarán a la 
+planta de reciclaje, aproximadamente un 32% corresponderá a cartones, lo que 
+equivale a 16 toneladas por día.
+Manejo y tratamiento: Los cartones que ingresen a la planta de reciclaje serán 
+separados mediante un proceso de clasificación manual y/o mecánica, con el 
+fin de retirar contaminantes como plásticos, papeles sucios, entre otros. Una 
+vez  segregado  el  cartón  reciclable,  este  será  compactado  y  almacenado 
+temporalmente en fardos.
+
+===== p.38 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+38
+Residuo
+Descripción
+Destino del material reciclado: Plantas especializadas en reciclaje de cartón o 
+clientes que lo podrán reutilizar en la fabricación de nuevos productos como 
+cajas, embalajes y cartón corrugado. El reciclaje del cartón no solo permite 
+extender  la  vida  útil  de  este  recurso,  sino  que  también  reduce 
+significativamente la necesidad de utilizar fibras vírgenes, el consumo de agua y 
+energía en los procesos productivos, y la cantidad de residuos enviados a 
+disposición final.
+PET
+Origen: Recicladores de base, o municipalidades o asociaciones municipales 
+con personalidad jurídica u otros.
+Cantidad: Se estima que, del total de 50 toneladas diarias que ingresarán a la 
+planta de reciclaje, aproximadamente un 12% corresponderá a PET, lo que 
+equivale a 6 toneladas por día.
+Manejo y tratamiento: Los envases PET que ingresen a la planta de reciclaje 
+serán separados mediante un proceso de clasificación manual y/o mecánica, 
+con el fin de retirar contaminantes, papeles sucios, entre otros. Una vez 
+segregado el PET reciclable, podrá ser triturado y ensacado o compactado y 
+almacenado temporalmente en fardos, dependiendo del destino final.
+Destino del material reciclado: Plantas especializadas en reciclaje de PET o 
+clientes que lo podrán reutilizar en la fabricación de nuevos envases, láminas 
+plásticas, fibras textiles y componentes industriales. Este proceso permite 
+reducir la demanda de resina plástica virgen, disminuir las emisiones de gases 
+de efecto invernadero asociadas a la producción de plásticos y evitar que 
+grandes volúmenes de residuos terminen en rellenos sanitarios o cuerpos de 
+agua, contribuyendo así a una economía circular más eficiente y sostenible.
+ENVASES DE HOJALATAS
+Origen: Recicladores de base, o municipalidades o asociaciones municipales 
+con personalidad jurídica u otros.
+Cantidad: Se estima que, del total de 50 toneladas diarias que ingresarán a la 
+planta de reciclaje, aproximadamente un 4% corresponderá a envases de 
+hojalatas, lo que equivale a 2 toneladas por día.
+Manejo y tratamiento: Los envases de hojalata recuperados en la planta de 
+reciclaje serán separados mediante clasificación manual y/o magnética, con el 
+fin de eliminar contaminantes y otros materiales no ferrosos. Posteriormente, 
+serán compactados y almacenados en bloques o fardos para su envío a plantas 
+recicladoras de metales o a clientes industriales
+
+===== p.39 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+39
+Residuo
+Descripción
+Destino del material reciclado: Plantas especializadas en reciclaje de hojalatas. 
+En estas instalaciones, el material es fundido y reutilizado como materia prima 
+en la fabricación de nuevos productos metálicos, como envases, componentes 
+automotrices o materiales de construcción. Este proceso permite aprovechar 
+un  recurso  altamente  reciclable,  reduce  la  necesidad  de  extracción  de 
+minerales  vírgenes  y  contribuye  significativamente  a  la  disminución  del 
+impacto ambiental asociado a la producción primaria de metales.
+ENVASES DE ALUMINIO
+Origen: Recicladores de base, o municipalidades o asociaciones municipales 
+con personalidad jurídica u otros.
+Cantidad: Se estima que, del total de 50 toneladas diarias que ingresarán a la 
+planta de reciclaje, aproximadamente un 5% corresponderá a envases de 
+aluminio, lo que equivale a 2,5 toneladas por día.
+Manejo y tratamiento: Los envases de aluminio serán separados en la planta 
+mediante  procesos  de  clasificación  manual  y/o  sensores  que  permiten 
+diferenciar los metales no ferrosos. Una vez segregados, los envases serán 
+compactados y almacenados para su posterior envío a plantas especializadas 
+en reciclaje de metales o a clientes industriales
+Destino del material reciclado: Plantas especializadas en reciclaje de aluminio. 
+En estas instalaciones, el aluminio reciclado se funde y se transforma en 
+materia prima para la fabricación de nuevos productos, como latas, piezas 
+automotrices,  perfiles  para  construcción  o  componentes  electrónicos.  El 
+reciclaje  de  aluminio  es  altamente  eficiente,  ya  que  permite  recuperar 
+prácticamente  el  100  %  del  material,  con  un  consumo  energético 
+significativamente menor respecto a la producción primaria, lo que reduce las 
+emisiones de gases de efecto invernadero y la presión sobre los recursos 
+minerales
+VIDRIO
+Origen: Recicladores de base, o municipalidades o asociaciones municipales 
+con personalidad jurídica u otros.
+Cantidad: Se estima que, del total de 50 toneladas diarias que ingresarán a la 
+planta de reciclaje, aproximadamente un 32% corresponderá a vidrios, lo que 
+equivale a 16 toneladas por día.
+Manejo y tratamiento: Los envases de vidrio serán separados en la planta 
+mediante clasificación manual y mecánica, diferenciando principalmente por 
+color (verde, ámbar y transparente) y eliminando elementos contaminantes 
+como tapas, etiquetas y residuos orgánicos. Luego del proceso de limpieza y 
+selección, el vidrio será almacenado y enviado a plantas especializadas o a 
+clientes industriales donde se fundirá y reutilizará como materia prima en la 
+fabricación de nuevos envases o productos de vidrio.
+
+===== p.40 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+40
+Residuo
+Descripción
+Destino del material reciclado: Plantas especializadas en reciclaje de vidrio. El 
+vidrio es un material 100 % reciclable que no pierde calidad en el proceso, lo 
+que permite su recuperación infinita. Este ciclo contribuye significativamente a 
+la reducción del consumo de materias primas vírgenes, energía y emisiones 
+asociadas al proceso de producción.
+Se estima que, durante todo el período de operación de la planta de reciclaje, se generarán 
+aproximadamente 405.000 toneladas de residuos sólidos domiciliarios y asimilables con potencial 
+de valorización. Estos materiales podrán reincorporarse como materia prima en nuevos procesos 
+productivos, contribuyendo de manera significativa a la reducción del consumo de recursos vírgenes 
+y a la disminución de emisiones asociadas a la disposición final de residuos.
+3.3.3.
+FASE DE CIERRE
+Al igual que en la fase de construcción se generarán residuos sólidos domiciliarios y asimilables, 
+además de  residuos sólidos industriales no peligrosos, producto del  consumo diario de  los 
+trabajadores y las actividades propias del desmantelamiento de las instalaciones. 
+En base a las siguientes premisas de cálculo, se ha estimado el volumen de estos residuos, los cuales 
+serán almacenados temporalmente en el sitio hasta su disposición final en un sitio autorizado.
+
+Producción per cápita por trabajador
+:
+1 kg trab/día
+
+N° de trabajadores 
+:
+10 trabajadores
+
+Días de trabajo al mes
+:
+26
+
+Densidad basura suelta
+ :  0,15  ton/m³  (Fuente:  Tchobanoglous, 
+1993)
+
+Factor de generación RSINP - cierre
+:
+0,10 m³/m²
+
+Superficie planta reciclaje
+:
+2.606 m²
+
+Duración fase de cierre
+:
+4 meses
+Tabla 11.
+Generación de residuos durante la fase de cierre
+Tipología
+Detalle
+Generación Diaria Generación total Volumen total
+Residuos sólidos 
+domiciliarios
+Residuos orgánicos, envases, 
+papeles, restos de alimentos, 
+entre otros
+12 kg/día
+1,25 ton
+8,32 m³
+Residuos sólidos 
+industriales no 
+peligrosos
+Despuntes de madera, fierro, 
+plásticos, hormigón, 
+escombros y otros desechos 
+de construcción inertes
+0,98 ton
+39,09 ton
+677,56 m³
+
+===== p.41 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+41
+3.4.
+A.4 DISEÑO DE LA PLANTA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO 
+Y LAS UNIDADES Y EQUIPAMIENTO
+3.4.1.
+DIAGRAMA DE FLUJO
+A continuación, se presenta el diagrama de flujo de la planta de reciclaje que representa de forma 
+esquemática las distintas etapas del proceso productivo, desde la recepción de los residuos hasta la 
+salida de los materiales valorizados y el manejo de los rechazos. Este flujo contempla las operaciones 
+principales de clasificación, separación, acondicionamiento y almacenamiento.
+Figura 26.
+Flujo proceso planta de reciclaje
+Cabe precisar que el Proyecto contempla la recepción de los siguientes residuos reciclables: papel, 
+cartón y plásticos (PET), además de vidrios, envases de aluminio y hojalata. En la eventualidad de 
+que los residuos reciclables lleguen mezclados con residuos sólidos asimilables a domiciliarios 
+contaminados,  estos  serán  considerados  rechazo  del  proceso,  siendo  almacenados 
+transitoriamente en un contenedor que se dispondrá en el extremo de la cinta, para su posterior 
+derivación al relleno sanitario que se encontrará operativo. 
+Se estima que el tiempo de permanencia de los residuos con potencial de reciclaje en la estación de 
+recepción, clasificación y segregación, no superará los dos días aproximadamente. 
+3.4.2.
+DESCRIPCIÓN DETALLADA DE LA INSTALACIÓN DE MANEJO DE RESIDUOS
+La instalación está diseñada para el manejo, clasificación y valorización de residuos sólidos 
+reciclables domiciliarios y asimilables, con una capacidad proyectada de procesamiento de un peak 
+
+===== p.42 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+42
+50 toneladas por día. El diseño considera principios de eficiencia operativa, seguridad laboral y 
+cumplimiento normativo, priorizando la recuperación de materiales valorizables y la minimización 
+de los rechazos.
+3.4.2.1
+ESPECIFICACIONES DE DISEÑO Y PRINCIPALES UNIDADES OPERATIVAS
+A continuación, se detallan las principales especificaciones técnicas de la instalación, así como las 
+unidades operativas que conforman su infraestructura. Cada una de estas unidades cumple 
+funciones  específicas  dentro  del  flujo  de  procesamiento  de  residuos,  desde  la  recepción  y 
+clasificación hasta el acopio y despacho de materiales reciclables.
+
+Control de ingreso: Portón de acceso con caseta de control, punto en el cual el personal realizará 
+la inspección visual y control documental, para dar el paso a la zona de pesaje.
+
+Zona de descarga y preclasificación: Superficie de hormigón con pendiente controlada, canaletas 
+para escurrimientos.
+
+Línea  de  clasificación:  Compuesta  por  cintas  transportadoras,  plataformas  elevadas  para 
+clasificación  manual,  separadores  magnéticos,  trómeles  (si  aplica),  y  eventualmente 
+separadores ópticos para fracciones plásticas.
+
+Área de acondicionamiento: Equipamiento complementario como trituradoras, ventiladores o 
+molinos, utilizados en función del tipo de material a procesar.
+
+Zona de enfardado: fuerza de prensado de 68 toneladas.
+
+Área  de  almacenamiento  temporal:  Superficie  techada  para  resguardo  de  materiales 
+valorizados, con señalización y organización por tipo de residuo.
+
+Zona de rechazo: Espacio segregado para almacenamiento de materiales no valorizables, con 
+retiro periódico hacia relleno sanitario.
+
+Oficinas y servicios anexos: Incluye áreas administrativas con servicios higiénicos para el 
+personal.
+3.4.2.2
+MAQUINARIAS Y EQUIPOS PRINCIPALES
+En la tabla siguiente se presentan las maquinarias y equipos principales para el buen funcionamiento 
+de la planta la planta de reciclaje. Estos elementos han sido seleccionados en función de los 
+requerimientos operativos del proceso de recepción, clasificación, tratamiento y acopio de residuos 
+valorizables,  asegurando  eficiencia,  continuidad  operativa  y  cumplimiento  de  los  estándares 
+técnicos y sanitarios aplicables.
+
+===== p.43 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+43
+Equipo
+Cantidad
+Función 
+principal
+Especificaciones técnicas
+Potencia
+Cinta de 
+alimentación con 
+tambor desgarrador 
+/ dosificador
+1
+Movimiento 
+continuo de 
+residuos
+Largo 1,2 m
+Ancho 7 cm
+4 Hp
+Cinta de elevación
+1
+Movimiento 
+continuo de 
+residuos
+Largo 1,2 m
+Ancho 16 cm
+5,5 Hp
+Cinta de 
+preclasificación
+1
+Movimiento 
+continuo de 
+residuos
+Largo 1,2 m
+Ancho 12 cm
+4 Hp
+Cinta de 
+transferencia 
+rechazo
+1
+Movimiento 
+continuo de 
+residuos
+Largo 0,8 m
+Ancho 26 cm
+4 Hp
+Cinta salida de 
+rechazo
+1
+Movimiento 
+continuo de 
+residuos
+Largo 0,8 m
+Ancho 5 cm
+2 Hp
+Prensa hidráulica
+1
+Compactación 
+de materiales 
+reciclables
+Fuerza de prensado 68 
+ton. Cilindro de prensado 
+diámetro 8” (200 mm). 
+Cilindro de
+tensión diámetro 150 
+mm (6”).
+Tamaño aproximado de 
+fardo 1.0x0.8x1.2 m
+Atado automático 
+mediante 4 alambres.
+30 CV
+Grúa horquilla
+1
+Traslado de 
+residuos 
+enfardados
+Capacidad residual de 
+1750 Kg a máxima altura
+Altura máxima levante 
+4.700 mm
+57 Hp
+3.4.2.3
+INSUMOS REQUERIDOS
+Para el funcionamiento continuo y eficiente de la Planta de Reciclaje, se requiere el abastecimiento 
+regular de diversos insumos operacionales. Estos insumos son necesarios para el desarrollo de las 
+actividades diarias de recepción, clasificación, limpieza, mantenimiento de equipos y resguardo de 
+condiciones sanitarias adecuadas. A continuación, se detallan los principales insumos considerados, 
+junto con sus características generales.
+
+Energía eléctrica trifásica.
+
+Agua potable para uso sanitario y limpieza (3,6 m³/día).
+
+Materiales de embalaje (flechillas, etiquetas, pallets).
+
+Equipos de protección personal (guantes, cascos, mascarillas).
+
+Lubricantes, repuestos y suministros menores para mantenimiento.
+
+===== p.44 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+44
+3.4.2.4
+EFICIENCIAS ESPERADAS DEL PROCESO
+El rendimiento de la Planta de Reciclaje se mide a través de diversas métricas de eficiencia, las cuales 
+son clave para evaluar el éxito operativo y la sostenibilidad del proyecto. En este apartado, se 
+presentan las eficiencias esperadas. Estas eficiencias están basadas en datos operacionales de 
+plantas similares, capacidades tecnológicas de los equipos y el grado de segregación de residuos 
+logrado por las políticas de educación comunitaria. 
+
+Tasa de recuperación de materiales valorizables:
+Se estima una eficiencia de entre 85% y 95% en residuos segregados en origen, dependiendo 
+del tipo de flujo.
+
+Reducción de volumen de residuos enviados a disposición final:
+Reducción proyectada del 92%, considerando el desvío de materiales reciclables.
+
+Capacidad de procesamiento:
+Hasta 80 toneladas/día en un turno operativo de 8 horas, ajustable según la demanda.
+3.4.2.5
+DIMENSIONAMIENTO DE LA PLANTA DE RECICLAJE
+El  dimensionamiento  de  la  Planta  de  Reciclaje  ha  sido  elaborado  en  base  a  tres  variables 
+fundamentales: la proyección de los volúmenes de residuos a tratar, la superficie requerida para 
+cada  etapa  del  proceso  operativo  y  la  dotación  de  personal  necesaria  para  asegurar  un 
+funcionamiento eficiente y continuo. Estas variables han sido consideradas con el propósito de 
+garantizar que la infraestructura responda adecuadamente a la demanda proyectada desde el inicio 
+de las operaciones, así como a su evolución futura, en concordancia con las políticas de valorización 
+de residuos y el fortalecimiento de la participación ciudadana. 
+A continuación, se detalla un resumen técnico que contempla los principales aspectos considerados 
+en el dimensionamiento.
+
+Dimensionamiento de áreas:
+
+Recepción: 500 m²
+
+Clasificación: 600 m²
+
+Almacenamiento: 500 m²
+
+Zona de rechazo: 250 m²
+
+Circulaciones y patios: 700 m²
+
+Proyección de generación de residuos reciclables:
+Según datos históricos y proyecciones municipales, se estima un ingreso anual del orden de 
+9.500 toneladas, con crecimiento del 3,2% anual. Esto sustenta la capacidad de diseño de la 
+planta.
+
+Dotación de personal:
+
+Turno base: 19 personas (clasificadores, operadores).
+
+Administración y servicios: 5 personas.
+
+===== p.45 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+45
+3.4.3.
+CARACTERÍSTICAS CONSTRUCTIVAS DE LA INSTALACIÓN
+3.4.3.1
+ÁREA DE RECEPCIÓN
+Corresponde a una zona pavimentada, contigua al galpón que alberga la planta de reciclaje.
+3.4.3.2
+GALPÓN PRINCIPAL
+Estructura metálica de tipo modular con cubierta de acero galvanizado, con altura libre suficiente 
+(mínimo 8 m) para permitir el uso de maquinaria como cargadores frontales, cintas transportadoras 
+y prensas. En términos generales se considera:
+
+Pavimento  de  hormigón  de  alta  resistencia,  diseñado  para  soportar  el  tránsito  de 
+maquinaria y equipos semi pesados.
+
+Estructura metálica con techumbre resistente a la intemperie, que permitirá la protección de 
+los residuos y equipos frente a condiciones climáticas.
+
+Sistema  de  iluminación  artificial  adecuado  para  operación  diurna  y  nocturna, 
+eventualmente, cumpliendo con las normas de seguridad laboral.
+
+Sistema de captación de aguas lluvias que impide el ingreso al interior de la planta de 
+reciclaje, y en el exterior evitará acumulaciones y su desvío a cursos naturales del terreno.
+
+Rutas de circulación claramente definidas para vehículos y personal, con señalización 
+horizontal y vertical.
+3.4.3.3
+SELECCIÓN Y CLASIFICACIÓN
+La etapa de selección y clasificación se desarrolla en un área equipada con estructuras y tecnologías 
+diseñadas para optimizar la eficiencia del proceso y garantizar la calidad  de los materiales 
+valorizables. Esta zona cuenta con plataformas elevadas para el personal operador, permitiendo 
+una visibilidad adecuada y condiciones ergonómicas durante la clasificación manual.
+Los residuos son transportados mediante cintas transportadoras que recorren la línea de selección, 
+permitiendo la separación por tipo de material (plásticos, papeles, cartones, metales, entre otros). 
+Adicionalmente, se incorporan equipos mecánicos y automáticos según las necesidades operativas, 
+tales como  separadores magnéticos para extraer metales ferrosos,  trómeles rotatorios para 
+separar por tamaño, y sistemas de aspiración o soplado para fracciones livianas.
+El diseño considera iluminación adecuada, ventilación cruzada o forzada, señalización de seguridad y 
+medidas de prevención de riesgos laborales, garantizando un entorno de trabajo seguro y eficiente.
+
+===== p.46 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+46
+Figura 27.
+Tolva de recepción y cinta elevadora
+Figura 28.
+Correa y plataforma de clasificación de materiales reciclables
+3.4.3.4
+ÁREA DE ENFARDADO Y EMBALAJE
+Área al interior del galpón con acceso para maquinarias, pavimentada, con señalización clara y 
+capacidad para apilar fardos en pallets o racks. Se incluye espacio de maniobra para grúas horquilla 
+o montacargas.
+En este sector se instalarán los equipos reductores de volumen tales como enfardadora de residuos, 
+de manera de compactar, consolidar carga y posterior derivación de los residuos valorizables.
+ 
+Figura 29.
+Equipos reducción de volumen
+
+===== p.47 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+47
+Figura 30.
+Pilas de fardos y elevador de fardos
+3.4.3.5
+ÁREA DE RESIDUOS RECHAZADOS
+Espacio segregado para contenedores open top que permiten el almacenamiento temporal de 
+residuos no valorizables hasta su traslado al relleno sanitario.
+Figura 31.
+Cinta transportadora de material rechazo
+3.4.3.6
+OFICINAS Y SERVICIOS ANEXOS
+La planta contempla la habilitación de un área destinada a oficinas administrativas y servicios 
+anexos, con el fin de garantizar condiciones adecuadas para el personal operativo y administrativo. 
+Este sector incluye una oficina de administración, equipada para labores de coordinación operativa, 
+gestión documental y atención a visitas técnicas. 
+
+===== p.48 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+48
+3.4.3.7
+URBANIZACIÓN Y ACCESOS
+Vías de acceso y circulación internas estabilizadas, con señalética de seguridad, zonas de carga y 
+descarga diferenciadas, y estacionamientos para vehículos livianos y pesados. Se contempla un 
+cierre perimetral completo y portones controlados del Centro Metropolitano de Gestión Integral de 
+Residuos.
+3.4.3.8
+INFRAESTRUCTURA SANITARIA Y AMBIENTAL
+Sistema de aguas lluvias y aguas servidas, luminarias LED, sistema de extinción de incendios 
+(extintores, redes húmedas) y puntos de almacenamiento de EPP.
+3.5.
+A.5 FORMAS DE ABATIMIENTO DE EMISIONES Y DE CONTROL Y MANEJO DE 
+RESIDUOS
+La gestión ambiental de la Planta de Reciclaje del Centro Metropolitano de Gestión Integral de 
+Residuos  considera  estrategias  diferenciadas  para  cada  una  de  las  fases  del  proyecto  —
+construcción, operación y cierre— con el objetivo de minimizar las emisiones al entorno y manejar 
+adecuadamente los residuos generados en cada etapa. A continuación, se describen las principales 
+medidas contempladas.
+3.5.1.
+FASE CONSTRUCCIÓN
+Durante esta etapa, se priorizará el control de emisiones y la gestión de residuos asociados a las 
+actividades de obra.
+Control de emisiones:
+
+Aplicación de riego periódico en caminos interiores y superficies expuestas para controlar 
+polvo.
+
+Cobertura de materiales acopiados con lonas o mallas, especialmente áridos y tierra.
+
+Control de velocidad de los vehículos en tránsito dentro del predio.
+
+Mantención periódica de maquinaria para evitar emisiones excesivas de gases y ruidos.
+Control de residuos:
+
+Separación de residuos de construcción (escombros, maderas, metales) para su valorización 
+o disposición.
+
+Instalación de contenedores diferenciados en el área de faenas.
+
+Disposición periódica de residuos no valorizables en el Relleno Sanitario.
+
+Gestión de residuos domiciliarios generados por los trabajadores (estimados en función del 
+personal diario).
+
+===== p.49 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+49
+3.5.2.
+FASE OPERACIÓN
+Durante la operación, se implementarán medidas orientadas a mitigar emisiones propias del 
+proceso de tratamiento y a garantizar una gestión eficiente de los residuos generados.
+Control de emisiones:
+
+Control de polvo mediante humectación de áreas de tránsito y patios de acopio.
+
+Ventilación natural y/o forzada en zonas de clasificación de residuos.
+
+Limpieza regular de las áreas operativas para evitar acumulación de residuos.
+
+Mantención de equipos de tratamiento y vehículos utilizados en la operación.
+Control de residuos:
+
+Registro diario del ingreso y clasificación de residuos recibidos.
+
+Separación de residuos valorizables y rechazo, con seguimiento a su disposición o reciclaje.
+
+Gestión  de  residuos  operacionales  (plásticos  contaminados,  envases,  residuos  de 
+mantenimiento).
+
+Disposición segura de residuos no valorizables en el relleno sanitario del proyecto.
+
+Educación y capacitación permanente del personal en gestión de residuos y protocolos 
+ambientales.
+3.5.3.
+FASE DE CIERRE
+En la etapa de cierre se contemplan medidas orientadas a minimizar impactos remanentes y 
+asegurar la correcta disposición de los residuos acumulados.
+Control de emisiones:
+
+Retiro de materiales y equipos que puedan generar emisiones residuales.
+
+Control de polvo durante actividades de desmantelamiento mediante riego localizado.
+
+Evaluación de eventuales emisiones asociadas al cierre de zonas de acopio.
+Control de residuos:
+
+Plan de limpieza final y retiro de todos los residuos almacenados o remanentes.
+
+Eliminación o reciclaje de estructuras desmontables, equipos y materiales sobrantes.
+
+Informe de cierre con inventario y trazabilidad de los residuos gestionados.
+3.6.
+A.6 DESCRIPCIÓN DEL SISTEMA DE MANEJO DE RECHAZOS
+La planta de reciclaje dispone de un sistema de manejo de rechazos diseñado para optimizar la 
+eficiencia operativa del proceso y garantizar que los residuos valorizables mantengan los estándares 
+de  calidad  requeridos.  Los  rechazos  corresponden  a  aquellos  materiales  que,  debido  a  sus 
+características físicas, químicas o por contaminación cruzada, no pueden ser valorizados mediante 
+los procesos implementados en la planta. Estos residuos serán gestionados de forma segura y 
+
+===== p.50 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+50
+dispuestos finalmente en el relleno sanitario del proyecto, el cual se encontrará en operación al 
+momento de la puesta en marcha de la planta.
+3.6.1.
+ CONTROL AL INGRESO DE RESIDUOS Y CRITERIOS DE RECHAZO
+Al momento de la recepción de residuos, se implementa un sistema de control riguroso destinado a 
+verificar que los materiales ingresados cumplan con los criterios establecidos para su reciclaje. Este 
+control se realiza de forma presencial por personal capacitado, en el área de pesaje o punto de 
+descarga, antes de que los residuos ingresen al proceso productivo de la planta de reciclaje.
+Cada carga recibida es sometida a una inspección visual preliminar, que tiene por objeto identificar 
+la presencia de elementos no reciclables, contaminantes, peligrosos o que no correspondan al tipo 
+de residuo autorizado por la planta. En esta inspección se consideran, entre otros, los siguientes 
+criterios de rechazo:
+
+Presencia  de  residuos  orgánicos,  restos  de  alimentos  o  material  en  estado  de 
+descomposición.
+
+Residuos peligrosos (pilas, baterías, aceites, solventes, residuos sanitarios, entre otros).
+
+Mezcla de materiales que impida su clasificación o valorización (por ejemplo, plásticos con 
+alto contenido de tierra o restos de cemento adherido).
+
+Materiales altamente contaminados con sustancias líquidas o lodosas.
+
+Residuos que no corresponden a la categoría aceptada por la planta.
+En caso de detectarse alguno de estos elementos, se procederá a rechazar total o parcialmente la 
+carga, dejando constancia en un acta de no conformidad, la cual será firmada por el transportista y el 
+responsable de recepción. Esta acta especificará las razones del rechazo y las acciones a seguir, que 
+pueden incluir el retiro inmediato del material o su segregación y tratamiento diferenciado, si 
+corresponde.
+Este sistema de control al ingreso tiene como objetivo asegurar la eficiencia del proceso de reciclaje, 
+evitar la contaminación de materiales valorizables y cumplir con la normativa ambiental vigente.
+3.6.2.
+GESTIÓN DE RECHAZOS GENERADOS EN EL PROCESO PRODUCTIVO
+Durante el desarrollo del proceso productivo, se generan rechazos como resultado de la separación 
+y clasificación de materiales que no cumplen con las condiciones necesarias para su valorización. 
+Estos  rechazos  pueden  incluir  materiales  contaminados,  impropios,  mezclados  en  forma  no 
+recuperable o deteriorados por su exposición a agentes externos.
+El manejo de estos residuos se realiza de forma sistemática en cada etapa del proceso, mediante la 
+identificación, segregación y retiro inmediato de los materiales no reciclables. Los operadores, 
+debidamente  capacitados,  son  responsables  de  separar  estos  elementos  y  depositarlos  en 
+contenedores específicos, debidamente rotulados, ubicados en zonas habilitadas para tal efecto 
+dentro de la planta.
+
+===== p.51 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+51
+Los rechazos son cuantificados y registrados diariamente, lo que permite hacer seguimiento a los 
+volúmenes generados y detectar posibles desviaciones en la calidad del residuo recibido o en la 
+eficiencia del proceso. Esta información es integrada al sistema de trazabilidad y control de calidad, 
+como insumo para la mejora continua de la operación.
+Finalmente,  los  rechazos  acumulados  son  trasladados  de  manera  segura  a  un  área  de 
+almacenamiento temporal, desde donde son enviados al relleno sanitario del proyecto autorizado, 
+conforme a la normativa vigente y los procedimientos internos de la planta.
+3.7.
+A.7 PLAN DE VERIFICACIÓN Y SEGUIMIENTO DE LOS RESIDUOS A SER TRATADOS Y 
+RECHAZADOS
+La Planta de Reciclaje del proyecto implementará un plan integral de control, verificación y 
+seguimiento de los residuos, con el fin de garantizar una gestión segura, eficiente y trazable de todos 
+los flujos de residuos que ingresan a la planta, así como de aquellos que se generan durante el 
+proceso productivo o se rechazan porque no cumplen los estándares establecidos.
+Este plan contempla las siguientes componentes fundamentales:
+a)
+Registro de ingreso de residuos: Todos los residuos que ingresen a la planta serán 
+identificados, clasificados y registrados mediante un sistema de control documental que 
+incluirá la fecha de ingreso, tipo de residuo, cantidad estimada, procedencia, transportista y 
+condición  del  material.  Este  registro  será  gestionado  mediante  formatos  físicos  y/o 
+plataformas digitales con respaldo automático.
+b)
+Verificación en el punto de recepción: Se establecerá un punto de control inicial donde 
+personal capacitado realizará una inspección visual y documental del residuo. En esta etapa 
+se validará que los residuos correspondan a las tipologías aceptadas para tratamiento en la 
+planta. Los residuos no conformes serán rechazados o derivados al relleno sanitario según 
+corresponda.
+c)
+Seguimiento interno de residuos tratados: Una vez aceptados, los residuos seguirán rutas 
+operativas internas predefinidas según su clasificación. Se llevará un seguimiento de las 
+cantidades tratadas, pérdidas del proceso, material valorizado y material rechazado. Este 
+seguimiento se integrará con los reportes de operación y será auditado periódicamente.
+d)
+Gestión de residuos generados internamente:  Las actividades propias de la operación 
+generarán residuos como residuos domiciliarios de trabajadores, materiales contaminados 
+o embalajes. Estos serán almacenados temporalmente en áreas autorizadas para luego ser 
+trasladados al relleno sanitario.
+e)
+Control de almacenamiento temporal:  Todas las áreas de almacenamiento temporal 
+estarán  debidamente  señalizadas  y  equipadas  para  evitar  derrames,  mezclas  o 
+acumulaciones no autorizadas. Se llevará un control de inventario de residuos almacenados, 
+indicando su permanencia máxima en planta según la normativa vigente.
+f)
+Trazabilidad y reporte:  El plan contempla mecanismos de trazabilidad para todos los 
+residuos tratados o generados, desde su ingreso hasta su valorización, eliminación o 
+despacho. Se elaborarán reportes mensuales y anuales que servirán de base para auditorías 
+internas, informes a la autoridad competente y procesos de mejora continua.
+
+===== p.52 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+52
+g)
+Capacitación y revisión periódica: Todo el personal involucrado en el manejo de residuos 
+será capacitado en protocolos operativos y de seguridad. Además, el plan será revisado y 
+actualizado  periódicamente  en  función  de  los  resultados  operacionales,  cambios 
+normativos o introducción de nuevas tecnologías en la planta.
+Este plan constituye una herramienta clave para asegurar el cumplimiento de los principios de 
+responsabilidad ambiental, eficiencia operativa y transparencia en la gestión de residuos dentro de 
+la planta de reciclaje.
+
+===== p.53 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+53
+3.8.
+A.8 PLAN DE CONTINGENCIAS
+De acuerdo con lo exigido en el literales a.8) del artículo 140 del D.S. Nº40/2012 a continuación, se 
+detalla el Plan de Prevención de Contingencias y Emergencias asociado a las eventuales situaciones 
+de riesgo identificadas en las fases de construcción, operación y cierre del Proyecto.
+El objetivo del Plan de Prevención de Contingencias y Emergencias es minimizar los niveles de 
+incertidumbre asociados a las eventuales situaciones de riesgo al medio ambiente y describir las 
+acciones a adoptar frente a la ocurrencia de incidentes que pudiesen afectar al medioambiente, 
+trabajadores e instalaciones del Proyecto.
+3.8.1.
+OBJETIVO
+El objetivo del Plan de Prevención de Contingencias y Emergencias es establecer un conjunto de 
+procedimientos, recursos y responsabilidades que permitan prevenir, responder  y recuperar 
+eficazmente frente a situaciones de emergencia o eventos inesperados que puedan afectar la salud 
+y seguridad de las personas, el medio ambiente, la infraestructura o la continuidad operativa de la 
+planta de reciclaje. Este plan busca minimizar los riesgos, reducir el impacto de los incidentes y 
+garantizar una actuación coordinada y oportuna ante cualquier eventualidad.
+3.8.1.1
+OBJETIVOS ESPECÍFICOS
+Para alcanzar el propósito general del Plan de Contingencia y Emergencia, se establecen los 
+siguientes objetivos específicos, los cuales permiten estructurar una respuesta organizada frente a 
+situaciones críticas. Estos objetivos buscan fortalecer la capacidad de prevención, preparación y 
+reacción del personal, así como proteger la integridad de las personas, los recursos de la planta y el 
+entorno ante cualquier eventualidad.
+
+Identificar los riesgos y amenazas potenciales que puedan afectar la operación normal de la 
+planta de reciclaje.
+
+Establecer protocolos de actuación ante distintos tipos de emergencias, como incendios, 
+derrames, accidentes laborales, cortes de energía, entre otros.
+
+Definir roles, responsabilidades y líneas de comunicación claras para una respuesta eficiente 
+ante contingencias.
+
+Proteger la integridad física del personal, visitantes y contratistas mediante medidas 
+preventivas y correctivas.
+
+Minimizar los impactos ambientales negativos derivados de situaciones de emergencia.
+
+Asegurar la continuidad operacional en la medida de lo posible, o el restablecimiento rápido 
+de las operaciones.
+
+Capacitar al personal en la identificación de riesgos y en la correcta aplicación de los 
+procedimientos de emergencia.
+
+===== p.54 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+54
+3.8.2.
+ROLES Y RESPONSABILIDADES
+En caso de una contingencia, es fundamental que cada integrante del equipo de la planta de reciclaje 
+asuma funciones específicas previamente definidas, con el fin de asegurar una respuesta rápida, 
+eficaz y coordinada frente a cualquier evento. En la tabla siguiente se detallan los roles y 
+responsabilidades asignados a cada cargo.
+Tabla 12.
+Roles y responsabilidades 
+CARGO
+FUNCIÓN EN CONTINGENCIA
+Jefe de Planta
+Coordinar respuesta general, informar a autoridades.
+Encargado de Seguridad
+Activar planes de evacuación y primeros auxilios.
+Responsable Ambiental
+Supervisar mitigación de impactos y registro de eventos.
+Supervisor de Turno
+Ejecutar acciones inmediatas según procedimiento.
+Operarios
+Su  misión  general  será  activar  alarma  de  emergencia, 
+paralización de maquinarias y equipos de procesos, corte del 
+suministro eléctrico y obedecer toda instrucción que emane 
+del Coordinador 
+Reportar incidentes y seguir instrucciones de seguridad.
+3.8.3.
+TÉRMINOS Y DEFINICIONES
+Con el fin de facilitar la comprensión del plan de contingencia y emergencia, a continuación, se 
+incluyen las definiciones de términos claves utilizados en las medidas de prevención, contingencia y 
+respuesta ante emergencias.
+Término
+Definición
+Contingencia
+Situación de riesgo generada por actividades humanas o fenómenos 
+naturales que puede comprometer la integridad de personas, ecosistemas 
+o  instalaciones.  Puede  presentar  distintos  niveles,  desde  una  alerta 
+preventiva hasta eventos que requieren acciones de emergencia.
+Emergencia
+Evento  imprevisto  que  interrumpe  el  funcionamiento  normal  de  un 
+sistema y representa un riesgo para la vida humana, animal, el medio 
+ambiente o los bienes materiales. Incluye situaciones que amenazan 
+parcial o totalmente la estabilidad operativa.
+Evacuación
+Acción de desalojar de manera ordenada y segura un recinto o área ante la 
+declaración de una emergencia, con el fin de resguardar la integridad de 
+las personas.
+Vía de evacuación
+Ruta señalizada, continua y despejada que permite el desplazamiento 
+seguro  desde  cualquier  punto  de  la  instalación  hasta  una  zona  de 
+
+===== p.55 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+55
+Término
+Definición
+seguridad.
+Zona de seguridad
+Espacio al aire libre destinado al resguardo temporal de personas durante 
+una emergencia. Debe estar libre de elementos que puedan representar 
+riesgos, como árboles, cables eléctricos o estructuras inestables.
+Incendio
+Fuego  de  gran  magnitud  que  puede  causar  daños  a  personas, 
+instalaciones y al medio ambiente. Requiere intervención inmediata.
+Amago de incendio
+Inicio de fuego que es detectado y controlado rápidamente, sin ocasionar 
+daños significativos.
+Explosión
+Liberación violenta  de  energía  que  produce  un  aumento  brusco  de 
+volumen y presión, generalmente asociado a reacciones químicas o físicas, 
+con potencial destructivo.
+Sismo o Terremoto
+Movimiento súbito del terreno provocado por el desplazamiento de 
+placas tectónicas y la liberación de energía acumulada en la corteza 
+terrestre. Puede afectar severamente la infraestructura y poner en riesgo 
+la vida humana.
+Derrame
+Liberación  no  controlada  de  sustancias,  principalmente  líquidas  y 
+potencialmente tóxicas, que pueden provocar contaminación ambiental o 
+riesgos a la salud.
+Accidente
+Suceso no deseado, que trae como consecuencia lesiones a las personas, 
+daño material o al medio ambiente.
+
+===== p.56 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+56
+3.8.4.
+PLAN DE CONTINGENCIA Y EMERGENCIA
+A continuación, se presenta el plan de contingencias y emergencias para la planta de reciclaje.
+Situación de riesgo o contingencia de incendios
+Riesgo de incendio forestal de carácter 
+natural o antrópico y Riesgo de incendio 
+industrial, de carácter natural o antrópico. 
+Incendios; se define como la probabilidad que la población, 
+dependiendo de su presencia y conducta, inicie un incendio 
+forestal o industrial. 
+Fase del proyecto a la que 
+aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada
+Planta de reciclaje y Áreas Anexas
+Acciones o medidas a implementar para 
+prevenir la contingencia 
+Descripción: Probabilidad que ocurra un siniestro incendiario de 
+carácter forestal en los alrededores del predio o predios aledaños, 
+producto de las altas temperaturas y vientos en meses de verano, 
+donde las temperaturas sobrepasan los 30° Celcius, o bien por 
+intervención antrópica o en las instalaciones del proyecto, producto 
+de algún corte eléctrico o mala manipulación de artefactos que 
+puedan generar este tipo de siniestros. 
+Objetivo:  Garantizar la protección a la integridad física del personal 
+de Proyecto, así como también evitar la ocurrencia de eventos que 
+pongan en riesgos la salud ocupacional de los trabajadores. 
+Plazos: Desde el primer día hasta el término de la vida útil del 
+proyecto. 
+Lugar  de  implementación:  En  todo  el  proyecto  y  su  área  de 
+influencia. 
+Oportunidad:  Será por medio de la   actualización periódica de la 
+Identificación de peligros y evaluación de los riesgos asociados a la 
+actividad a ejecutar. 
+Indicador de cumplimiento:  Número de simulacros. 
+Acciones: 
+1.‐ Riesgo de incendio forestal de carácter natural o antrópico. 
+Capacitaciones  e  Inducciones  a  los  trabajadores  sobre  la 
+prevención de incendios forestales. Construcción de una obra 
+cortafuego  perimetral.  Mantención  anual  de  los  cortafuegos. 
+Franja adicional de desbroce y poda. Implementación de Red Seca. 
+Disposición de estanques o similares en puntos estratégicos para el 
+primer combate de incendio. Disposición de camión aljibes de 
+manera permanente en dependencias del proyecto. Instalación de 
+letreros camineros con mensajes relativos a  la  prevención de 
+incendios forestales. Establecer una comunicación y contacto con el 
+cuerpo de bomberos de la Comuna de Viña del Mar. 
+2.‐ Riesgo de incendio industrial, de carácter natural o antrópico. 
+Disposición en las instalaciones del proyecto los elementos de 
+extinción de incendios adecuados (extintores, etc.), realizando las 
+mantenciones  periódicas,  según  se  establece  en  la  normativa 
+vigente. Se realizarán capacitaciones a trabajadores en el correcto 
+uso de los elementos de protección y combate contra incendios. 
+Identificación y señalización de zonas donde esté expresamente 
+
+===== p.57 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+57
+prohibido cualquier actividad que pueda generar chispas, tales 
+como encender fuego, fumar, portar o mantener elementos que 
+puedan ocasionar chispas, entre otros. 
+Forma de control y seguimiento 
+Se elaborará el plan de prevención contra incendios y programas de 
+prevención de riesgos que cuenten a lo menos con las siguientes 
+medidas generales aplicables para todas las fases del Proyecto. 
+Además, estas medidas de control y seguimiento aplicaran para 
+todo  el  personal  involucrado  incluyendo  contratistas  y 
+subcontratistas. 
+a)
+Identificación  de  peligros  y  evaluación  de  los 
+riesgos asociados a la actividad a ejecutar. 
+b)
+Cumplimiento de la normativa vigente. 
+c)
+Reglamento interno de seguridad e Higiene. 
+d)
+Desarrollo de instructivos y/o procedimientos de trabajos. 
+e)
+Programas de Capacitación 
+f)
+Desarrollo de entrenamientos y simulacros. 
+g)
+Capacitación sobre los Elementos de Protección Personal 
+(EPP). 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+SÍSMICO
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de reciclaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Descripción: Las instalaciones del Proyecto se diseñarán según las 
+normas  y/o  estándares  nacionales  e  internacionales  para  la 
+resistencia sísmica, por lo que será construido con la capacidad de 
+resistir  sismos  de  magnitudes  esperables  para  la  Región  de 
+Valparaíso. 
+Objetivo: Garantizar la protección a la integridad física del personal 
+y del medio ambiente del área de influencia del Proyecto. 
+Plazos: Desde el día uno del proyecto hasta el término de su vida 
+útil. 
+Lugar  de  implementación:  Se  aplicará  a  todo  el  personal 
+involucrado directa o indirectamente en la ejecución del Proyecto, 
+en sus fases de: construcción, operación y cierre, abarcando a toda 
+el área de las actividades del Proyecto, que se encuentre dentro del 
+área de influencia del proyecto. 
+Indicador de cumplimiento: Número de simulacros realizados al 
+año/número ideal de simulacros al año.  
+a)
+Se dispondrá de una estrategia de evacuación en caso de 
+sismos, la cual será difundida a todo el personal. 
+b)
+Contar con zonas de seguridad y puntos de encuentro 
+seguro para sus trabajadores y tener un plan de acción ante la 
+emergencia.  
+c)
+Se  realizarán  simulacros  para  todo  el  personal  que 
+
+===== p.58 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+58
+desarrolle sus actividades dentro del proyecto, con el fin de estar 
+preparados en caso de un eventual sismo o terremoto. 
+d)
+En caso de ocurrir un siniestro de gran escala se activará 
+inmediatamente el Plan de Emergencias. 
+e)
+En caso de ocurrir un siniestro de gran escala, se verificará 
+posteriormente los daños causados en las instalaciones.
+Formas de control y seguimiento 
+El  plan  de  emergencia  será  revisado  y  probado  a  través  de 
+simulacros. El experto en prevención de riesgos en conjunto con el 
+Jefe  de  Planta,  programarán  los  simulacros,  los  que  serán 
+informados en el formulario de Informe de Simulacro. 
+Para cada simulacro, la jefatura del área nombrará un observador, 
+quien es responsable de evaluar si dicho simulacro se realiza de 
+acuerdo con lo establecido en el plan correspondiente. 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+ 
+Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+De inundación por precipitaciones extremas
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de Reciclaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Acciones: 
+a)
+Emplazamiento  de  instalaciones  fuera  de  las  áreas 
+expuestas a inundaciones.  
+b)
+Mantener las rutas y caminos de acceso con las pendientes 
+que permitan el escurrimiento de las aguas. Además, deben contar 
+con su carpeta de rodado en buen estado.  
+c)
+Construcción de canales de aguas lluvias. 
+Formas de control y seguimiento 
+Se realizarán inspecciones semanales de canales de aguas lluvias 
+por el personal de operación. 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+Situación de riesgo o contingencia por Accidentes Laborales
+RIESGO 
+Por accidentes laborales
+Fase del proyecto a la que aplica 
+Todas sus fases, excepto el riesgo por caídas de árboles que sería 
+solo en la etapa de construcción. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de Reciclaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Descripción: El riesgo laboral es la posibilidad de que un trabajador 
+sufra una enfermedad o accidente laboral. 
+
+===== p.59 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+59
+Objetivo: Garantizar la protección a la integridad física del personal 
+de Proyecto, así como también evitar la ocurrencia de eventos que 
+pongan en riesgos la salud ocupacional de los trabajadores. 
+Plazos: Desde el primer día hasta el término de la vida útil del 
+proyecto. 
+Lugar de implementación: En todo proyecto y su área de influencia. 
+Oportunidad: Será por medio de la actualización periódica de la 
+Identificación de peligros y evaluación de los riesgos asociados a la 
+actividad a ejecutar.  
+Indicador de cumplimiento: Se considerarán los resultados de las 
+Inspecciones preventivas, Inspecciones  de  comportamiento  del 
+trabajador y la Investigación de incidentes. 
+Acciones:  
+ 1.‐ Riesgo de caída del trabajador por distinto y mismo nivel. Utilizar 
+calzado de seguridad para el tipo de trabajo o actividad a realizar. 
+Además,  se  deberá  usar  guantes  en  todo  momento  de  una 
+actividad.  
+Mantener  las  vías  de  paso  señalizadas,  despejadas,  limpias  y 
+demarcadas.  
+Si las zonas de paso o el suelo se encuentran de forma no adecuada, 
+se avisará de inmediato al responsable de prevención de riesgos. 
+En el caso de caídas desde distinto nivel, todo trabajador que 
+trabaje sobre 1,80 metros de altura llevara su arnés de trabajo en 
+altura debidamente revisado y autorizado. 
+ 
+2.‐ Riesgo por contacto eléctrico.  
+Todo objeto o herramienta de carácter eléctrico que se utilice 
+deberá  estar  certificada  y  en  óptimas  condiciones  de 
+funcionamiento. 
+Todos los trabajos con herramientas eléctricas se deberán usar los 
+EPP  requeridos,  como  guantes  para  riesgo  eléctrico,  lentes 
+protectores, entre otros.  
+Las  actividades  solo  se  realizarán  por  personal  capacitado  y 
+autorizado  en  temas  eléctricos.  Además,  se  realizará 
+capacitaciones  en manejo de  herramienta  eléctricas.  Uso  de 
+señalética correspondiente. Según Norma Chilena 1411. 
+Se elaborará un procedimiento específico para los trabajos con 
+energía eléctrica, el cual será difundido a todo trabajador que 
+realice actividades de este tipo. 
+ 
+3.‐ Riesgo de interacción hombre‐máquina.  
+Se  mantendrán  debidamente  señalizados  y  segregados  con 
+barreras duras (pretil, new jersey de cemento, entre otros), los 
+caminos internos para vehículos y los para peatones. 
+Cada vez que un operador o chofer descienda de su máquina, 
+deberá primeramente detener y apagar su vehículo antes de salir 
+de él.  Se deberá mantener una distancia adecuada entre un 
+trabajador y una maquina en movimiento y/o operación. 
+ 
+4.‐ Riesgo por caída de árboles (Fase de construcción). 
+
+===== p.60 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+60
+El  personal  que  realice  la  tala  de  árboles  será  personal  con 
+experiencia y autorizado.  Utilizar herramientas que dirijan la caída 
+como cuñas, entre otros.  
+Realizar un corte correcto para dirigir la caída del árbol.  Se 
+respetará la distancia de seguridad por la caída del árbol, doble de 
+su altura aproximadamente.
+Avistar si hay personas cerca de la zona de caída del árbol y dar 
+aviso.  
+Si hay fuertes vientos, se deberá suspender la actividad. 
+ 
+6.‐  Atrapamiento  por  y  entre  objetos,  Cortes  por  objetos  y/o 
+herramientas.  
+Uso de sus EPP adecuados para las actividades a ejecutar, como, 
+casco de seguridad, zapatos de seguridad, lentes de protección, 
+guantes de protección, o cualquier otra EPP para alguna actividad 
+más específica.  
+Para intervenir en un equipo con partes móviles o en su proximidad, 
+siempre que sea posible, se deberá desconectar y/o inactivar el 
+equipo. 
+Realizar un correcto uso de la herramienta que se ocupará para la 
+actividad, realizar lectura previa de instructivos. 
+ 
+7.‐ Exposición a ruido, polvo, vibración y radiaciones UV (radiación 
+solar).  
+Capacitaciones  a  los  trabajadores  sobre  estos  temas,  para 
+garantizar que se tome conciencia de los riesgos que produce la 
+exposición a dichos factores. 
+Uso de todos sus Elementos de Protección Personal (EPP), como 
+caso de seguridad, guantes de seguridad, lentes con protección UV, 
+bloqueador solar, protectores auditivos, y en el caso de un trabajo 
+con  exposición  a  polvo  intenso,  será  obligatorio  el  uso  de 
+mascarillas de protección respiratoria. 
+Uso de letreros informativos y de seguridad en terreno.
+Formas de control y seguimiento 
+Se  contempla  elaborar  planes  y  programas  de  prevención  de 
+riesgos  que  cuenten  a  lo  menos  con  las  siguientes  medidas 
+generales aplicables para todas las fases del Proyecto. Además, 
+estas medidas de control y seguimiento aplicaran para todo el 
+personal involucrado incluyendo contratistas y subcontratistas. 
+a)
+Identificación de peligros y evaluación de los riesgos 
+asociados a la actividad a ejecutar. 
+b)
+Cumplimiento de la normativa vigente. 
+c)
+Reglamento interno de seguridad e Higiene. 
+d)
+Desarrollo de instructivos y/o procedimientos de trabajos. 
+e)
+Inspecciones preventivas 
+f)
+Inspecciones de comportamiento del trabajador 
+g)
+Investigación de incidentes 
+h)
+Capacitación sobre los Elementos de Protección Personal 
+(EPP). 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se deberá comunicar al Centro de Atención y/o Policlínico más 
+cercano o al Organismo Administrador Mutual de Seguridad de la 
+
+===== p.61 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+61
+situación para que se haga presente en el lugar y proceda a la 
+atención y posterior traslado del lesionado, según lo señalado en la 
+legislación vigente.
+ 
+Situación de riesgo o contingencia por Riesgos Operacionales
+RIESGO 
+Operacionales
+Fase del proyecto a la que aplica 
+Fase de operación y cierre, excepto el Riesgo por derrame de 
+sustancias peligrosas en el suelo que se aplicaría a todas las fases 
+del proyecto. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de Reciclaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Descripción: Riesgos que se puedan producir por alguna falla o error 
+en la operación del proyecto.  
+ 
+Objetivo: Evitar daños al medio ambiente del área de influencia del 
+Proyecto  y  sus  alrededores  en  caso  de  eventuales  incidentes 
+antrópicos.  
+ 
+Plazos: Desde el primer día hasta el término de la vida útil del 
+proyecto.
+Lugar de implementación: En todo proyecto y su área de influencia. 
+ 
+Oportunidad: Será por medio de la actualización periódica de la 
+Identificación de peligros y evaluación de los riesgos asociados a la 
+actividad a ejecutar.  
+ 
+Indicador de cumplimiento: (i) monitoreos de la calidad de las 
+aguas. (ii) Registro de mantenciones al día de los equipos. (iii) 
+registro  de  desratizaciones  (iii)  número  de  trabajadores 
+capacitados. (iv) cumplimiento de la normativa vigente. 
+ 
+Acciones:  
+ 
+1.‐ Riesgo por presencia de vectores comunes.
+ 
+Se realizará una limpieza periódica de las ruedas de camiones y 
+contenedores,  así  como  también  de  los  caminos  de  acceso, 
+retirando  los  residuos  que  eventualmente  pudieran  ser 
+derramados por los vehículos.  
+ 
+Se realizará limpieza y aseo diario en las instalaciones por un 
+personal de aseo capacitado.
+Se realizará desratización frecuentemente en el recinto, lo cual será 
+realizado y supervisado por una empresa especializada y autorizada 
+en la materia.  
+ 
+Para evitar la potencial afección sanitaria de personas, se realizará 
+
+===== p.62 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+62
+un estricto control del ingreso de personas no autorizadas a la 
+planta. Este control se hará mediante puestos de vigilancia que 
+impedirán  el  ingreso  de  recuperadores  de  especies  para  su 
+posterior comercialización. Esta medida se complementará con la 
+construcción del cierre perimetral, lo cual evitará el ingreso de 
+personal ajeno a la obra.  
+ 
+Mantener aislado sanitariamente el recinto mediante la formación 
+de un cordón sanitario que impida la infestación de la planta por 
+roedores y el paso de especies animales desde y hacia el recinto. 
+2.‐ Riesgo por derrame de sustancias peligrosas en el suelo. 
+ 
+Se dispondrá de un Plan de emergencias que especifique las 
+medidas preventivas y correctivas para el control de derrames de 
+sustancias y residuos peligrosos, ya sean combustibles, aceites 
+lubricantes, etc.  
+ 
+Cumplimiento de los requerimientos dispuestos en el D.S. Nº 
+18/2009, derogado por el D.S. No 43/2016 del Ministerio de Salud 
+“Aprueba  Reglamento  de  almacenamiento  de  sustancias 
+peligrosas” y en el D.S. Nº 148/2003 del Ministerio de Salud 
+“Aprueba  Reglamento  sanitario  sobre  manejo  de  residuos 
+peligrosos”.  
+ 
+Se dispondrá de una bodega para el almacenamiento de residuos 
+peligrosos, cumpliendo a cabalidad con lo exigido en la normativa 
+vigente.  
+ 
+Se dispondrá de una estación de emergencias ambientales que 
+contendrá a lo menos un kit anti derrames, materiales absorbentes 
+y neutralizantes,  palas plásticas,  escobillones,  botas de  goma, 
+guantes de látex, paños de limpieza, bolsas para disponer el suelo 
+contaminado, entre otros.  
+ 
+En  todos  los  sitios  donde  se  almacene  o  manipulen  residuos 
+peligrosos se encontrará disponible la respectiva hoja de seguridad 
+(HDS).  
+ 
+Mantención periódica de los equipos y maquinarias. 
+ 
+Inspección periódica de las tuberías y mangueras empleadas para 
+llenar los generadores eléctricos.  
+ 
+Emplear siempre mantas absorbentes situándolas debajo de los 
+bidones en el momento de traspasar combustible. 
+ 
+Emplear embudos o boquillas especiales que permitan conducir la 
+totalidad del combustible al recipiente destino. 
+Nunca repostar los equipos o maquinarias sobre una superficie muy 
+inclinada ni llenar bidones sobre superficies inestables que puedan 
+provocar el volcado de los mismos mientras se están llenando. 
+
+===== p.63 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+63
+Transportar  los  bidones  perfectamente  cerrados  durante  las 
+operaciones de trasvase que precisen movimiento de combustible. 
+Tener en cuenta, al abrir un tapón, que los bidones pueden tener 
+vapores y gases liberados a presión. 
+ 
+Realizar las maniobras de aprovisionamiento entre dos personas 
+siempre que sea posible.  
+ 
+Emplear preferentemente bombas de pequeño caudal para realizar 
+el trasvase, aunque se trate de pocos litros. 
+ 
+Almacenar  toda  manguera,  o  recipiente  no  específico  de 
+combustibles, pero que haya sido empleado con este fin en el lugar 
+donde se guarden las mangueras de combustible. 
+ 
+Se  realizará  capacitación  al  personal  en  temas  de  manejo  y 
+almacenamiento de sustancias y residuos peligrosos.
+Formas de control y seguimiento 
+Se  contempla  elaborar  planes  y  programas  de  prevención  de 
+riesgos  que  cuenten  a  lo  menos  con  las  siguientes  medidas 
+generales aplicables para todas las fases del Proyecto. 
+ 
+Además, estas medidas de control y seguimiento aplicarán para 
+todo  el  personal  involucrado  incluyendo  contratistas  y 
+subcontratistas.  
+a)
+Identificación de peligros y evaluación de los riesgos 
+asociados a la actividad a ejecutar. 
+b)
+Cumplimiento de la normativa vigente. 
+c)
+Reglamento interno de seguridad e Higiene. 
+d)
+Desarrollo de instructivos y/o procedimientos de trabajos.
+e)
+Inspecciones preventivas 
+f)
+Inspecciones de comportamiento del trabajador 
+g)
+Investigación de incidentes 
+h)
+Capacitaciones ambientales. 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se deberá dar aviso a la SEREMI DE SALUD; según lo señalado en la 
+legislación vigente dependiendo del riesgo asociado. 
+3.9.
+A9 PLAN DE EMERGENCIA
+A continuación, se presenta el plan de emergencia para la planta de reciclaje.
+Situación de riesgo o contingencia de incendios
+Riesgo de incendio forestal de carácter 
+natural o antrópico y Riesgo de incendio 
+industrial, de carácter natural o antrópico. 
+Incendios; se define como la probabilidad que la población, 
+dependiendo de su presencia y conducta, inicie un incendio 
+forestal o industrial. 
+Fase del proyecto a la que 
+Todas sus fases
+
+===== p.64 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+64
+aplica 
+Emplazamiento, parte, obra o acción 
+asociada
+Planta de reciclaje y Áreas Anexas
+Acciones o medida a implementar para 
+controlar la emergencia
+Descripción: En el caso de que se materialice un incendio tanto en 
+las  instalaciones  (industrial),  como  de  carácter  forestal  en  la 
+periferia del predio, se seguirá el plan de acción correspondiente. 
+Objetivo: Proporcionar los lineamientos organizacionales y técnicos 
+para responder a las Emergencias de posible ocurrencia en el 
+trayecto hacia o desde el proyecto. Lugar de implementación: En 
+todo el proyecto y su área de influencia. 
+Oportunidad:  Una  vez  establecidas  las  acciones  correctivas  o 
+preventivas adecuadas y definitivas, se deberá diseñar un plan de 
+acción en donde se defina claramente:  
+a)
+La descripción de las acciones a tomar para dar solución a 
+la no conformidad.  
+b)
+La identificación de los responsables que aplicarán las 
+acciones correctivas.  
+c)
+Las fechas límites de aplicación.  
+d)
+El seguimiento que se dará a las acciones establecidas para 
+determinar que hubieran sido las más apropiadas. 
+Una vez que se determine que las acciones fueron implementadas y 
+se ha dado solución a la no conformidad, se procede al cierre de 
+esta. Posteriormente se verificará el operar de la acción correctiva 
+para evaluar su efectividad. Indicador de cumplimiento: Estará 
+dado por la Investigación de accidentes y/o incidentes Acciones: En 
+caso de detectar humo o llama, se dará un aviso de alerta de 
+emergencia a través de alarma sonora, a viva voz y/o por el medio 
+de comunicación más cercano (teléfono, radio, etc.). Al momento 
+de activarse la alarma de incendio, el personal deberá evacuar 
+hacia los Puntos de Encuentro de Emergencias (PEE), y el personal 
+capacitado en manejo de extintores y/o combate de incendios 
+procederá a extinguir el amago de incendio con el dispositivo de 
+extintor correspondiente al tipo de fuego que se haya originado. En 
+el caso de que el incendio ya sea declarado y no pueda ser 
+controlado por el personal, se procederá a las entidades externas 
+que corresponda, en este caso cuerpo de bomberos de Viña del 
+Mar. Tener conocimiento de las Vías de Evacuación y Puntos de 
+Encuentro de Emergencias (PEE) en las áreas de trabajo. En caso de 
+incendio  evacuar  ordenadamente,  evitar  el  pánico,  caminar  a 
+velocidad normal, no correr. Ayudar a evacuar a las personas que 
+presenten problemas. Otorgar los primeros auxilios en caso de ser 
+necesario. No tener actitudes temerarias, que puedan poner en 
+riesgo  la  integridad  física  propia  y  de  las  otras  personas.  Si 
+eventualmente el fuego alcanzará a encender la ropa que lleve 
+puesta, no se deberá salir corriendo, sino que deberá dejarse caer 
+al suelo y comenzar a rodar una y otra vez, hasta lograr sofocar las 
+llamas, cubriéndose en todo momento el rostro con las manos. Una 
+vez que se haya evacuado, el personal no podrá devolverse hasta 
+que haya sido superada la emergencia. 
+En caso de incendio mayor se requerirá ayuda externa de Brigadas 
+Profesionales  de  Combate  de  Incendios  Forestales  (CONAF). 
+
+===== p.65 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+65
+Mantención e inspección de herramientas y equipos para que estén 
+en estado óptimo cuando se requieran. Dar aviso al Encargado de 
+Operación para que éste realice las coordinaciones con CONAF, 
+bomberos,  carabineros,  ONEMI  y  vecinos  si  la  emergencia  lo 
+requiere. Coordinar las acciones de control durante la Emergencia a 
+la  espera  de  la  llegada  de  organismos  especializados  como 
+Bomberos o CONAF. Mantener comunicación con el Jefe de Planta, 
+Prevencionista y con los grupos de apoyo externo. Ordenar la 
+revisión y recuento de los elementos usados. Emitir un informe final 
+sobre la emergencia al Jefe de Planta.
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+SÍSMICO
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de reciclaje y Áreas Anexas
+Acciones  o  medida  a  implementar  para 
+controlar la emergencia 
+Descripción: Se ejecutará un plan de acción, donde se le entregará a 
+todo el personal, una guía de acción a seguir en el caso de 
+producirse  una  emergencia  por  Movimientos  Telúricos,  de  tal 
+forma de tomar todas las medidas preventivas que correspondan y 
+así minimizar al máximo los riesgos, que pudiesen ocasionar daños 
+a las personas. 
+Objetivo: Proporcionar los lineamientos organizacionales y técnicos 
+para responder a la Emergencia  de  posible ocurrencia en las 
+actividades y obras realizadas en el Proyecto, dentro de todas sus 
+fases. 
+Lugar  de  implementación:  Se  aplicará  a  todo  el  personal 
+involucrado directa o indirectamente en la ejecución del Proyecto, 
+en sus fases de: construcción, operación y cierre, abarcando a toda 
+el área de las actividades del Proyecto, que se encuentre en el área 
+de influencia. 
+Oportunidad: Se indicarán en el formulario de evaluación ante 
+emergencias en la sección de recomendaciones. 
+Indicador  de  cumplimiento:  Resultado  del  análisis  de  los 
+procedimientos. 
+Acciones antes del movimiento telúrico:  
+a)
+Se  deberá  mantener  la  calma,  controlando  cualquier 
+posible caso de pánico entre el personal.  
+b)
+Evacuar al personal de las áreas de trabajo, oficinas y/o 
+instalaciones de faena, por las vías de evacuación correspondientes 
+hacia los Puntos de Encuentro de Emergencias (PEE) establecidos; 
+se deberá velar porque ésta esté libre de riesgos de: caída de 
+objetos, materiales, luminarias o cortes de cables de alta tensión, 
+los cuales pudiesen tener graves consecuencias para las personas. 
+c)
+En lo posible los responsables de áreas deberán velar por: 
+cortar el suministro de agua, gas, y sistemas eléctricos asociados a 
+sus áreas de trabajo, apagar motores de equipos, etc., siempre y 
+
+===== p.66 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+66
+cuando el realizar estas actividades no implique poner en riesgo su 
+integridad física.  
+d)
+Quedará prohibido reingresar a las instalaciones a buscar 
+cualquier pertenencia o salvaguardar cualquier objeto, equipo o 
+material  durante  el  movimiento  telúrico.  El  acceso  quedará 
+restringido hasta que se identifiquen y evalúen los riesgos asociados 
+y derivados de este evento por personal de Prevención de Riesgos, 
+quienes serán los responsables de autorizar el reingreso a las áreas 
+de trabajo.  
+e)
+Si  el  movimiento  sísmico  es  demasiado  fuerte  y  los 
+trabajadores no puedan mantenerse en pie, se deberá solicitar que 
+se sienten o arrodillen en el área del PEE, protegiendo su cabeza, y 
+solo deberán ponerse de pie una vez finalizado el movimiento 
+telúrico.  
+f)
+Si eventualmente personal se quedara en el interior de las 
+áreas de trabajo siendo imposibilitada su evacuación, estos deberán 
+usar el concepto de “triángulo de vida”, ubicándose en posición fetal 
+al costado de un elemento u objeto de mayor tamaño o peso, para 
+que en caso de desplome de algún elemento superior o lateral se 
+genere un espacio vacío entre ellos, lo cual podrá salvaguardar la 
+vida de las personas.  
+Acciones después del movimiento telúrico:  
+a)
+Una vez finalizado el evento se deberá verificar que el 
+personal se encuentra en su totalidad en el PEE, y en buenas 
+condiciones, ayudando a aquellos que lo necesitan. 
+b)
+Se procederá a prestar atención de Primeros Auxilios al 
+personal que haya sufrido algún tipo de lesión menor producto de 
+este evento, esta actividad solo podrá ser realizada por personal 
+debidamente  capacitado.  En  el  caso  de  lesiones  mayores  se 
+procederá  a  informar  a  las  entidades  que  corresponda  para 
+trasladar al lesionado al Centro Asistencial más cercano para su 
+evaluación.  
+c)
+Se deberá tener especial cuidado con cables eléctricos que 
+se  hayan  cortado  por  efectos  del  movimiento  telúrico,  y  que 
+pudiesen entrar en contacto directo con el personal, o con los 
+objetos que se encuentran cerca o en contacto con ellos, ya que 
+estos podrían provocar un posible puente eléctrico que pudiese 
+ocasionar un accidente con graves consecuencias. 
+d)
+Después de un movimiento telúrico significativo, se deberá 
+permanecer en estado constante de alerta, ya que se seguirán 
+suscitando réplicas de magnitud igualmente considerables.
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+ Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+De inundación por precipitaciones extremas
+
+===== p.67 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+67
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de Reciclaje y Áreas Anexas
+Acciones  o  medida  a  implementar  para 
+controlar la emergencia 
+Descripción:  En  caso  de  que  ocurra,  se  deberá  considerar  la 
+siguiente metodología para actuar ante una eventual emergencia 
+climática. 
+Objetivo: Proporcionar los lineamientos organizacionales y técnicos 
+para responder a las Emergencias de posible ocurrencia en las 
+actividades y obras realizadas en el Proyecto, dentro de todas sus 
+fases. 
+Lugar  de  implementación:  Planta  de  Reciclaje.  Indicador  de 
+cumplimiento: Se realizará por medio del formulario de evaluación 
+ante Emergencia. 
+Acciones:  
+a)
+En caso de precipitaciones extremas, el supervisor deberá 
+inmediatamente, evacuar a todo el personal del área, dirigiéndolo y 
+trasladándolo a una zona segura.  
+b)
+Se deberá esperar a que la lluvia baje su intensidad para 
+retomar los trabajos, previo a esto se deberá evaluar si las altas 
+precipitaciones  causaron  algún  daño  material  dentro  de  las 
+instalaciones. 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+Situación de riesgo o contingencia por Accidentes Laborales
+RIESGO 
+Por accidentes laborales
+Fase del proyecto a la que aplica 
+Todas sus fases, excepto el riesgo por caídas de árboles que sería 
+solo en la etapa de construcción. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de Reciclaje y Áreas Anexas
+Acciones  o  medida  a  implementar  para 
+controlar la emergencia 
+Descripción:  Todo  personal  que  realice  labores  en  la  fase 
+Construcción,  operación  y  cierre  del  Proyecto,  tendrán  sus 
+diferentes  responsabilidades  de  acuerdo  con  el  cargo  que  le 
+corresponda. Las responsabilidades serán repartidas entre el Jefe 
+de  Planta,  Encargado  de  Seguridad,  Responsable  Ambiental, 
+Supervisor de Turno y Operarios.
+Objetivo: Proporcionar los lineamientos organizacionales y técnicos 
+para responder a las Emergencias de posible ocurrencia en las 
+actividades y obras realizadas en el Proyecto, dentro de todas sus 
+fases.  
+Lugar de implementación: Toda el área de influencia del proyecto. 
+Oportunidad:  Una  vez  establecidas  las  acciones  correctivas  o 
+preventivas adecuadas y definitivas, se deberá diseñar un plan de 
+acción en donde se defina claramente:  
+a)
+La descripción de las acciones a tomar para dar solución a 
+la no conformidad.  
+b)
+La identificación de los responsables que aplicarán las 
+acciones correctivas.  
+
+===== p.68 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+68
+c)
+Las fechas límites de aplicación.  
+d)
+El seguimiento que se dará a las acciones establecidas para 
+determinar que hubieran sido las más apropiadas. 
+e)
+Una  vez  que  se  determine  que  las  acciones  fueron 
+implementadas y se ha dado solución a la no conformidad, se 
+procede a su cierre. Posteriormente se verificará el accionar de la 
+acción correctiva para evaluar su efectividad. 
+ 
+Indicador de cumplimiento: Estará dado por la Investigación de 
+accidentes y/o incidentes. 
+ 
+Acciones: 
+Realizar una evaluación visual de las lesiones del accidentado, sin 
+tocarlo ni moverlo, sólo procediendo a abrigarlo. 
+Comunicar en forma inmediata a los niveles de la organización que 
+corresponda  según  el  flujograma  de  emergencias/accidente 
+asociado al área.  
+Verificar estabilidad de signos vitales (pulso, respiración) y estado 
+de conciencia.  
+Si  la  persona  no  respira,  solo  personal  capacitado  podrá 
+proporcionar  los  Primeros  Auxilios,  realizando  la  resucitación 
+cardiopulmonar (RCP) al afectado si procede. No se deberá dejar 
+por ningún motivo al lesionado solo.  Se deberá procurar mantener 
+a todo el personal ajeno, alejado del lugar del accidente. 
+Comenzar con la investigación del incidente. 
+En caso de Riesgo por contacto eléctrico Proceder a cortar la 
+corriente para desenergizar el circuito, está prohibido tomar a la 
+persona afectada que aún se encuentre en contacto con la fuente 
+de energía. Si no es posible cortar la corriente, personal capacitado 
+procederá a sacar a la persona utilizando para ello un elemento no 
+conductor (madera seca o pértiga de rescate), para evitar ser 
+afectado por la energización. Una vez retirada la persona del lugar, y 
+a raíz del choque eléctrico no respira y su corazón ha dejado de latir, 
+se aplicará la resucitación cardiopulmonar (RCP), hasta que la 
+víctima  muestre  signos  de  recuperación  y  llegue  personal 
+capacitado de los organismos competentes para su traslado al 
+Centro Asistencial más próximo.
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se deberá comunicar al Centro de Atención y/o Policlínico más 
+cercano o al Organismo Administrador Mutual de Seguridad de la 
+situación para que se haga presente en el lugar y proceda a la 
+atención y posterior traslado del lesionado, según lo señalado en la 
+legislación vigente.
+ 
+Situación de riesgo o contingencia por Riesgos Operacionales
+RIESGO 
+Operacionales
+Fase del proyecto a la que aplica 
+Fase de operación y cierre, excepto el Riesgo por derrame de 
+sustancias peligrosas en el suelo que se aplicaría a todas las fases 
+del proyecto. 
+Emplazamiento, parte, obra o acción 
+Planta de Reciclaje y Áreas Anexas
+
+===== p.69 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+69
+asociada 
+Acciones  o  medida  a  implementar  para 
+controlar la emergencia 
+Descripción:  Todo  personal  que  realice  labores  en  la  fase 
+Construcción,  operación  y  cierre  del  Proyecto,  tendrán  sus 
+diferentes  responsabilidades  de  acuerdo  con  el  cargo  que  le 
+corresponda. Las responsabilidades serán repartidas entre el Jefe 
+de  Planta,  Encargado  de  Seguridad,  Responsable  Ambiental, 
+Supervisor de Turno y Operarios.
+ 
+Objetivo: Proporcionar los lineamientos organizacionales y técnicos 
+para responder a las Emergencias de posible ocurrencia en las 
+actividades y obras realizadas en el Proyecto, dentro de todas sus 
+fases.  
+ 
+Lugar de implementación: Toda el área de influencia del proyecto 
+Oportunidad:  Una  vez  establecidas  las  acciones  correctivas  o 
+preventivas adecuadas y definitivas, se deberá diseñar un plan de 
+acción en donde se defina claramente:  
+a)
+La descripción de las acciones a tomar para dar solución a 
+la no conformidad.  
+b)
+La identificación de los responsables que aplicarán las 
+acciones correctivas.  
+c)
+Las fechas límites de aplicación.  
+d)
+El seguimiento que se dará a las acciones establecidas para 
+determinar que hubieran sido las más apropiadas. 
+e)
+Una  vez  que  se  determine  que  las  acciones  fueron 
+implementadas y se ha dado solución a la no conformidad, se 
+procede a su cierre.  Posteriormente se verificará el accionar de la 
+acción correctiva para evaluar su efectividad. 
+ 
+Indicador de cumplimiento: (i) Estará dado por la Investigación de 
+accidentes  y/o  incidentes,  (ii)  existencia  de  denuncias,  (iii) 
+evaluaciones  periódicas  de  las  cubiertas,  (iv)  cantidad  de 
+reparaciones durante el año.  
+Acciones:  
+ 
+1. Presencia de vectores. En caso de existir una proliferación de 
+vectores  al  interior  de  la  planta,  se  adoptarán  las  siguientes 
+medidas:  
+Se establecerá un cerco perimetral que impedirá el ingreso de 
+animales a la planta.  
+  
+Se realizará una limpieza periódica de los camiones y contenedores, 
+así como también de los caminos de acceso, retirando los residuos 
+que eventualmente pudieran ser derramados por los vehículos. 
+ 
+Se realizará una limpieza diaria de todas las instalaciones, en 
+especial de las áreas donde se manipularán los residuos. 
+
+===== p.70 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+70
+ 
+Se realizará el retiro diario de todas las basuras generadas en estos 
+sectores.  
+Se realizará un mejoramiento en el sistema de cordón sanitario. 
+ 
+Se  solicitará  a  la  Autoridad Sanitaria,  en  casos  necesarios,  el 
+permiso correspondiente para realizar la fumigación, desratización 
+u otra acción que se deba realizar para disminuir la presencia de 
+vectores en el área de trabajo.  
+ 
+2. Derrame de Sustancias Peligrosas. 
+ 
+En caso de materializarse un evento de contaminación del suelo por 
+derrame de sustancias peligrosas, se seguirá el siguiente plan de 
+acción.  
+ 
+Se dispondrá de una estación de emergencias que disponga de un 
+kit antiderrames totalmente equipado.  
+ 
+Realizar las labores de limpieza del área afectada. 
+ 
+Las personas a cargo de la labor de limpieza deben utilizar los EPP 
+adecuados.  
+ 
+Utilizar elementos de contención de derrames menores a fin de 
+detener el derrame.  
+ 
+Las personas a cargo de la labor de limpieza deben utilizar los EPP 
+adecuados y contarán con las capacitaciones correspondientes. 
+ 
+Despejar y delimitar el área afectada. 
+ 
+Prohibir el acceso a personas ajenas a la zona afectada. 
+ 
+Segregar el área afectada. 
+ 
+No tocar el producto derramado con las manos. 
+ 
+Absorber el derrame mediante sistema de paños absorbentes o 
+turba  para  luego  proceder  al  retiro  del  suelo  contaminado 
+utilizando palas o escobillones y disponer en contenedores de 200 
+litros rotulados con el residuo a descartar y transportar al sector de 
+acopio transitorio de residuos peligrosos sólidos, ubicado al interior 
+de la faena.  
+ 
+Lavar o desechar los elementos de protección personal utilizados.
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se deberá dar aviso a la SEREMI DE SALUD; según lo señalado en la 
+legislación vigente dependiendo del riesgo asociado. 
+
+===== p.71 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+71
+
+===== p.72 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+72
+4. CONTENIDOS TÉCNICOS Y FORMALES TRATÁNDOSE DE 
+ALMACENAMIENTO DE RESIDUOS 
+4.1.
+E.1 ESPECIFICACIONES TÉCNICAS DE LAS CARACTERÍSTICAS CONSTRUCTIVAS DEL 
+SITIO DE  ALMACENAMIENTO  Y  MEDIDAS DE PROTECCIÓN  DE CONDICIONES 
+AMBIENTALES
+4.1.1.
+ESPECIFICACIONES TÉCNICAS CONSTRUCTIVAS 
+4.1.1.1
+MATERIALIDAD DE LA CUBIERTA
+La cubierta se ejecutará con planchas de zincalum 5V prepintadas, fijadas mediante tornillos 
+autoroscantes y con sello de neoprén en uniones.
+4.1.1.2
+ESTRUCTURA SOPORTANTE
+La estructura es metálica, conformada por perfiles estructurales tubulares Rectangulares, Tubest® 
+con tratamiento anticorrosivo según norma ASTM A123, acero A42-27 ES. Las columnas y vigas 
+están ancladas a fundaciones de hormigón armado, diseñadas conforme a cargas de operación y 
+vientos locales.
+4.1.1.3
+ PISO
+El  pavimento  es  de  hormigón  armado  de  resistencia  mínima  G25,  con  acabado  fratasado 
+mecánicamente y pendiente hacia canaletas de evacuación. El diseño permite el tránsito de 
+montacargas y almacenamiento seguro de fardos, pallets o contenedores.
+4.1.1.4
+SISTEMA DE VENTILACIÓN
+Se utiliza ventilación natural mediante aberturas superiores y laterales protegidas con malla 
+metálica. En zonas cerradas o de alta generación de polvo, se consideran extractores mecánicos 
+forzados,  con  capacidad  acorde  a  la  renovación  mínima  de  aire  requerida  (mínimo  6 
+renovaciones/hora).
+4.1.1.5
+RESISTENCIA AL FUEGO DE COMPONENTES
+Los elementos estructurales metálicos y la cubierta cuentan con clasificación de resistencia al fuego 
+tipo RF-30. Se consideran extintores y señalética en cumplimiento con la normativa vigente DS 
+N°594 y la Ordenanza General de Urbanismo y Construcciones (OGUC).
+4.1.2.
+IDENTIFICACIÓN DE LAS DISTANCIAS A OTRAS CONSTRUCCIONES AL INTERIOR DE LA 
+PROPIEDAD 
+La Planta de Reciclaje se emplaza dentro del predio destinado al Centro Metropolitano de Gestión 
+Integral de Residuos, el cual alberga diversas instalaciones asociadas a la gestión de residuos. En este 
+
+===== p.73 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+73
+contexto, en el plano de layout general se puede identificar la ubicación relativa de la planta 
+respecto a otras construcciones presentes en el interior de la propiedad. (Anexo 01)
+En la tabla siguiente se presentan las distancias aproximadas, medidas en línea recta, entre la Planta 
+de Reciclaje y las principales construcciones del Centro Metropolitano de Gestión Integral de 
+Residuos. 
+Instalación
+Distancia 
+Planta de compostaje
+170 m
+Galpón de mantención 
+110 m
+Planta quema de biogás 
+190 m
+Planta de lixiviados 
+210 m
+Oficinas administración y 
+operacionales 
+170 m
+4.1.3.
+DESCRIPCIÓN DETALLADA DE LOS SISTEMAS DE CONTROL DE ESCURRIMIENTOS O 
+DERRAMES, DE VENTILACIÓN
+Todas  las  áreas  donde  se  manipulan  residuos  (zona  de  recepción,  clasificación,  lavado  y 
+almacenamiento) están construidas sobre losa de hormigón armado, con pendiente mínima del 2% 
+orientada hacia canaletas colectoras. Estas canaletas conducen los potenciales líquidos hacia un 
+sistema de captación.
+Respecto a la ventilación, el diseño de la planta considera ventilación natural mediante vanos 
+superiores protegidos con malla. En áreas cerradas (oficinas, baños), se incorporan extractores 
+mecánicos que aseguran una tasa mínima de 6 renovaciones de aire por hora, según normativa DS 
+594, si corresponde.
+Ambos sistemas forman parte de las medidas de control ambiental y de higiene industrial de la 
+planta, reduciendo riesgos para el personal, previniendo la contaminación del entorno y asegurando 
+el cumplimiento de la normativa sanitaria y ambiental vigente.
+4.1.4.
+DESCRIPCIÓN DEL SISTEMA DE LAVADO E HIGIENIZACIÓN DE CONTENEDORES
+La limpieza e higienización de los contenedores utilizados en la operación de la planta se realizará en 
+la planta de lavado de camiones, la cual está equipada con los sistemas necesarios para asegurar una 
+remoción efectiva de residuos adheridos, control de olores y reducción de carga microbiológica.
+El sistema contempla el uso de agua a alta presión mediante hidrolavadoras industriales, con opción 
+de aplicar detergentes biodegradables en ciclos de limpieza programados, según el nivel de 
+suciedad. Las operaciones de lavado se efectúan sobre una losa de hormigón impermeabilizada, 
+diseñada con pendiente y canaletas para la conducción de aguas residuales hacia un sistema de 
+pretratamiento,  compuesto  por  una  cámara  de  decantación  y  una  cámara  separadora  de 
+
+===== p.74 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+74
+hidrocarburos. Posteriormente, estas aguas son derivadas a una planta de tratamiento, que 
+permitirá su reutilización contribuyendo a la eficiencia hídrica del sistema.
+Las actividades de lavado se programarán con una frecuencia determinada según el tipo de residuos 
+contenidos y las condiciones climáticas, asegurando que los contenedores regresen a operación en 
+condiciones sanitarias adecuadas. Se mantendrá un registro de limpiezas, y el personal a cargo 
+contará con elementos de protección personal y capacitación en procedimientos de higienización.
+Este sistema contribuye al cumplimiento de las normas sanitarias y al control de vectores, olores y 
+riesgos operacionales en la planta.
+4.1.5.
+DESCRIPCIÓN DE LA ZONA DE CARGA Y DESCARGA DE RESIDUOS
+La planta cuenta con una zona habilitada específicamente para la carga y descarga de residuos, 
+diseñada para facilitar las operaciones logísticas de recepción de materiales reciclables y el 
+despacho de productos valorizados, garantizando condiciones de seguridad, orden y eficiencia.
+Esta área se encuentra ubicada en un sector pavimentado con losa de hormigón armado, resistente 
+al tránsito de vehículos pesados y con pendiente controlada para evitar acumulación de líquidos. La 
+superficie cuenta con canaletas perimetrales que conducen posibles escurrimientos hacia el sistema 
+de tratamiento.
+4.2.
+E.2 CAPACIDAD MÁXIMA DE ALMACENAMIENTO
+Considerando la cantidad estimada de residuos generados durante las fases de construcción, 
+operación y cierre del proyecto, se detallan a continuación las capacidades de almacenamiento total 
+de los sitios (contenedores) mencionados previamente en la siguiente tabla.
+Fase 
+Residuo
+Capacidad 
+máxima de 
+almacenamiento
+Frecuencia de 
+retiro 
+Disposición final
+Construcción
+Residuos sólidos 
+domiciliarios y asimilables
+480 lts/semana
+1 vez por semana
+Relleno Sanitario 
+Residuos Sólidos Industriales 
+No Peligrosos
+42,4 m³/semana
+1 vez por semana
+Relleno Sanitario 
+Operación
+Residuos sólidos 
+domiciliarios y asimilables
+960 lts/semana
+1 vez por semana
+Relleno Sanitario 
+Residuos Sólidos 
+domiciliarios y asimilables 
+inorgánicos rechazados
+28,0 m³/día
+Diaria
+Relleno Sanitario 
+Residuos sólidos 
+domiciliarios y asimilables 
+inorgánicos para el proceso 
+productivo
+969 m²
+Diaria
+Cierre
+Residuos Sólidos 
+domiciliarios y asimilables
+200 lts/semana
+1 vez por semana
+Sitio disposición 
+final autorizado
+Residuos Sólidos Industriales 
+19,6 m³/semana
+1 vez por semana
+Sitio disposición 
+
+===== p.75 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+75
+Fase 
+Residuo
+Capacidad 
+máxima de 
+almacenamiento
+Frecuencia de 
+retiro 
+Disposición final
+No Peligrosos
+final autorizado
+4.3.
+E.3 DESCRIPCIÓN DEL TIPO DE ALMACENAMIENTO, TALES COMO A GRANEL O EN 
+CONTENEDORES
+La planta contempla el almacenamiento temporal de residuos en contenedores de distintas 
+capacidades, en función del tipo de residuo, volumen y frecuencia de retiro, lo cuales se presentan a 
+continuación.
+4.3.1.
+FASE CONSTRUCCIÓN
+4.3.1.1
+SITIO DE ALMACENAMIENTO DE RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES
+Durante la etapa de construcción, se habilitará un sitio específico para el almacenamiento temporal 
+de residuos sólidos domiciliarios y asimilables (residuos orgánicos, envases, papeles, restos de 
+alimentos, entre otros) generados por el personal en faena.
+A fin de estimar la generación de RSD y asimilables se considera que un trabajador genera 1 kg/día 
+de RSD, cuya densidad es del orden de 0,15 kg/m³ (fuente: Estudio de caracterización de la Región 
+Metropolitana - 2006).
+Tabla 13.
+Estimación de generación y almacenamiento de residuos sólidos domésticos y 
+asimilables 
+Tipología
+Cantidad 
+Personas
+Total
+kg/día
+litros/semana
+Sistema de almacenamiento 
+Residuos Sólidos 
+Domésticos o 
+asimilables
+12
+12
+480
+2 contenedores de 240 lts
+En virtud de lo expuesto, se dispondrán 2 contenedores plásticos de 240 litros, tipo domiciliario, 
+estancos,  con  tapa  y  ruedas,  ubicados  en  sectores  cercanos  a  las  zonas  de  trabajo.  Estos 
+receptáculos estarán  claramente  señalizados y  serán  mantenidos en  condiciones de  higiene 
+adecuadas, a fin de evitar la proliferación de vectores y malos olores.
+La recolección de los residuos sólidos asimilables a domiciliarios se realizará 1 vez a la semana por 
+parte del personal del Centro Metropolitano de Gestión Integral de Residuos. Estos residuos serán 
+trasladados internamente hasta el frente de trabajo del relleno sanitario, el cual se encontrará 
+operativo durante la fase de construcción de la planta de reciclaje. Esta disposición se efectuará 
+conforme a los procedimientos establecidos para la gestión interna de residuos.
+En la figura siguiente se presenta el emplazamiento referencial de los contenedores propuestos. 
+Cabe señalar que la ubicación de los contenedores podrá ser modificada durante el desarrollo de las 
+faenas, en función de variables técnicas y metodológicas propias del proceso constructivo. No 
+obstante, su emplazamiento se mantendrá siempre dentro del perímetro autorizado del Proyecto.
+
+===== p.76 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+76
+Figura 32.
+Ubicación referencial de contenedores de 240 litros – etapa construcción
+Figura 33.
+Imagen referencial contenedor 240 litros
+4.3.1.2
+SITIO DE ALMACENAMIENTO DE RESIDUOS SÓLIDOS INDUSTRIALES NO PELIGROSOS 
+Los residuos sólidos industriales no peligrosos (RSINP) son aquellos desechos inertes que por sus 
+características, formas o volumen no son asimilables a residuos domiciliarios, pero no presentan las 
+características de peligrosidad definidas en el DS 148/2004 “Reglamento sanitario sobre manejo de 
+residuos peligrosos”. Estos residuos se generarán durante la fase de construcción de la planta de 
+reciclaje, y estarán compuestos por despuntes de madera, fierro, plásticos, hormigón, escombros y 
+otros  desechos  de  construcción  inertes.  Considerando  el  factor  de  generación  información 
+entregada por el proyecto Construye 2025, cuyo promedio es de 0,26 m³/m² similar al dato 
+analizado por el Ministerio de Vivienda y urbanismo (MINVU), se obtiene la tasa de generación de 
+residuos que se presenta en la siguiente tabla considerando un almacenamiento temporal en 
+contenedores tipo open top de 20 m³ con una frecuencia de retiro una vez a la semana por parte del 
+personal del Centro Metropolitano de Gestión Integral de Residuos.
+Tabla 14.
+Estimación de generación y almacenamiento RSINP
+
+===== p.77 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+77
+Tipología
+M² 
+construido
+M³ 
+total
+Duración de la fase 
+construcción 
+semanas
+m³/
+semana
+Sistema de almacenamiento 
+RSINP
+2.606
+677,61
+16
+42,4
+3 contenedores tipo open top 
+de 20 m³
+Por lo tanto, se dispondrán 3 contenedores tipo open top de 20 m³ emplazados según se muestra en 
+la imagen siguiente.
+Cabe señalar que su ubicación podrá ser modificada durante el desarrollo de las faenas, en función 
+de  variables  técnicas  y  metodológicas  propias  del  proceso  constructivo.  No  obstante,  su 
+emplazamiento se mantendrá siempre dentro del perímetro autorizado del Proyecto. El área 
+destinada al acopio contará con la señalización correspondiente, indicando el tipo de residuos 
+permitidos.
+Figura 34.
+Ubicación contenedores open top 20 m³
+Figura 35.
+Imagen referencial contenedor open top 20 m³
+Estos residuos serán trasladados internamente hasta el frente de trabajo del relleno sanitario, el 
+cual se encontrará operativo durante la fase de construcción de la planta de reciclaje. Esta 
+
+===== p.78 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+78
+disposición se efectuará conforme a los procedimientos establecidos para la gestión interna de 
+residuos.
+4.3.2.
+FASE OPERACIÓN 
+4.3.2.1
+SITIO DE ALMACENAMIENTO RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES
+Al igual que en la fase de construcción, durante la fase de operación se habilitará un sector destinado 
+al almacenamiento temporal de residuos sólidos domiciliarios y asimilables, generados por el 
+personal de la Planta de Reciclaje. Estos residuos estarán compuestos principalmente de materia 
+orgánica y en un porcentaje menor de otros componentes. 
+Si consideramos que un trabajador genera 1 kg/día de RSD, cuya densidad es del orden de 0,15 
+kg/m³ (fuente: Estudio de caracterización de la Región Metropolitana - 2006), se obtiene la tasa de 
+generación de RSD y asimilables durante la operación de la planta de reciclaje.
+Tabla 15.
+Estimación de generación y almacenamiento de residuos sólidos domésticos y 
+asimilables 
+Tipología
+Cantidad 
+Personas
+Total
+kg/día
+litros/semana
+Sistema de 
+almacenamiento 
+Residuos Sólidos 
+Domésticos o asimilables
+24 trabajadores
+24 kg 
+trab/día
+960
+4 contenedores de 240 lts
+En virtud de lo expuesto, se estima que se generarán aproximadamente entre 960 litros/semana de 
+Residuos Sólidos Domiciliarios (RSD) y asimilables. Por lo tanto, estos residuos serán almacenados 
+en 4 contenedores cerrados y estancos de 240 litros, con un tiempo máximo de almacenamiento de 
+una semana. 
+La recolección de estos residuos será realizada de forma periódica por personal del Centro 
+Metropolitano de Gestión Integral de Residuos, quienes los trasladarán al frente de trabajo del 
+relleno sanitario que se encontrará operativo. Esta gestión se desarrollará bajo procedimientos 
+internos  previamente  establecidos, asegurando el  cumplimiento  de  la  normativa  sanitaria  y 
+ambiental aplicable.
+
+===== p.79 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+79
+Figura 36.
+Ubicación referencial de contenedores de 240 litros – etapa operación
+4.3.2.2
+SITIO DE ALMACENAMIENTO DE RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES 
+INORGÁNICOS RECHAZADOS
+Al interior de la Planta de Reciclaje se habilitará un sitio específico para el almacenamiento temporal 
+de los residuos sólidos domiciliarios y asimilables inorgánicos que son rechazados durante el 
+desarrollo de las distintas etapas del proceso productivo. Entre estos se incluyen restos de 
+materiales no valorizables tales como residuos de embalaje y rechazos del proceso de clasificación. 
+Considerando las siguientes bases de cálculo se obtienen los volúmenes de rechazos a almacenar en 
+forma transitoria.
+
+Ingreso máximo
+:
+50 ton/día
+
+Tasa de rechazo promedio
+:
+8%
+
+Densidad basura suelta
+: 
+0,15 kg/m³
+Tabla 16.
+Generación total de rechazos durante la fase de operación
+Tipología
+Detalle
+Material 
+Rechazo 
+m³ /día
+Sistema de Almacenamiento 
+Residuos sólidos domiciliarios y 
+asimilables rechazados
+Envases, papeles, 
+restos de alimentos 
+contaminados entre 
+otros
+28 m³/día
+contenedor 30 m³
+Para su manejo, se dispondrá 1 contenedor de alta resistencia con una capacidad de 30 m³, el cual 
+estará ubicado en un punto estratégico del área operativa. Este contenedor estará debidamente 
+señalizado y permanecerá cerrados para evitar derrames, dispersión por viento u otros impactos al 
+entorno.
+
+===== p.80 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+80
+El retiro de estos residuos se realizará de manera diaria o conforme a las necesidades operativas, y 
+estará a cargo del personal del Centro Metropolitano de Gestión Integral de Residuos. 
+La disposición final se llevará a cabo en el frente de trabajo del relleno sanitario que se encontrará 
+operativo, conforme a la normativa vigente y a los procedimientos internos de gestión de residuos 
+del Proyecto.
+Figura 37.
+Ubicación referencial del contenedor de 30 m³ rechazos– etapa operación
+Figura 38.
+Imagen referencial contenedor 30 m³
+
+===== p.81 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+81
+4.3.2.3
+PATIO DE DESCARGA DE RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES 
+INORGÁNICOS PARA EL PROCESO PRODUCTIVO
+Contiguo al galpón en el cual funcionará la línea de proceso, se dispondrá un área habilitada como 
+patio  de  descarga.  Esta  área  tendrá  una  superficie  aproximada  de  969  m²  y  contará  con 
+contenedores del tipo open top, jaulas metálicas, maxisacos, maxibidones u otros recipientes 
+adecuados, según el tipo y volumen del material a gestionar.
+Los contenedores estarán ubicados sobre una superficie pavimentada, lo que permitirá una limpieza 
+eficiente, evitará escurrimientos al suelo y facilitará el movimiento de la maquinaria operacional.
+La descarga se realizará de forma separada, manteniendo los residuos organizados por tipo y en 
+contenedores debidamente señalizados. Estos rótulos indicarán claramente el tipo de residuo 
+contenido, facilitando la trazabilidad y reduciendo el riesgo de mezclas indeseadas.
+En la figura siguiente se presenta el emplazamiento referencial propuesto para dicha zona de acopio 
+temporal.
+Figura 39.
+Ubicación sitio de acopio de materiales inorgánicos para el proceso productivo
+4.3.3.
+FASE CIERRE
+4.3.3.1
+SITIO DE ALMACENAMIENTO DE RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES 
+Durante la fase de cierre del Proyecto, se habilitarán áreas específicas para el acopio temporal de 
+residuos sólidos domiciliarios (RSD) y residuos sólidos industriales no peligrosos (RSINP), cuyas 
+características serán similares a las definidas para la etapa de construcción. Estas áreas estarán 
+debidamente señalizadas y acondicionadas para asegurar una gestión segura y conforme a la 
+normativa ambiental vigente.
+
+===== p.82 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+82
+Cabe señalar que, en esta etapa, no se contempla la realización de tratamientos de residuos. Las 
+actividades se limitarán exclusivamente al almacenamiento temporal de los residuos generados 
+durante  el  desmantelamiento  de  la  planta  y  obras  civiles,  los  cuales  serán  posteriormente 
+transportados para su disposición final en el relleno sanitario ubicado al interior del Centro 
+Metropolitano de Gestión Integral de Residuos. Sin perjuicio de lo anterior, se promoverá la 
+reutilización  y  reciclaje  de  aquellos  residuos  que  así  lo  permitan,  priorizando  prácticas  de 
+valorización.
+Si consideramos que un trabajador genera 1 kg/día de RSD, cuya densidad es del orden de 0,15 
+kg/m³ (fuente: Estudio de caracterización de la Región Metropolitana - 2006) se obtiene la siguiente 
+tasa de generación de RSD y asimilables.
+Tabla 17.
+Estimación semanal de Residuos Sólidos Domésticos y asimilables
+Tipología
+Cantidad Personas
+Total
+kg/día
+litros/semana
+Sistema de 
+almacenamiento 
+Residuos Sólidos 
+Domésticos o 
+asimilables
+10 trabajadores
+10 kg/día
+400
+2 contenedores de 240 lts
+En virtud de lo expuesto, se dispondrá 2 contenedores plásticos de 240 litros, tipo domiciliario, 
+estancos, con tapa y ruedas, ubicados cerca de las zonas de trabajo. Este receptáculo estará 
+claramente señalizado y será mantenido en condiciones de higiene adecuadas, a fin de evitar la 
+proliferación de vectores y malos olores.
+La recolección de los residuos sólidos asimilables a domiciliarios se realizará de manera periódica 
+por una empresa experta que los transportará a un sitio de disposición final autorizado.
+En la figura siguiente se presenta el emplazamiento referencial propuesto para dicha zona de 
+acopio. Cabe señalar que la ubicación de los contenedores podrá ser modificada durante el 
+desarrollo de las faenas, en función de variables técnicas y metodológicas propias del proceso 
+constructivo.  No  obstante,  su  emplazamiento  se  mantendrá  siempre  dentro  del  perímetro 
+autorizado del Proyecto.
+
+===== p.83 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+83
+Figura 40.
+Ubicación referencial del contenedor de 240 litros – fase de cierre
+4.3.3.2
+SITIO DE ALMACENAMIENTO DE RESIDUOS SÓLIDOS INDUSTRIALES NO PELIGROSOS 
+Los residuos sólidos industriales no peligrosos (RSINP) son aquellos desechos inertes que por sus 
+características, formas o volumen no son asimilables a residuos domiciliarios, pero no presentan las 
+características de peligrosidad definidas en el DS 148/2004 “Reglamento sanitario sobre manejo de 
+residuos  peligrosos”.  Estos  residuos  se  generarán  durante  la  fase  de  cierre  producto  del 
+desmantelamiento de la planta de reciclaje, y estarán compuestos por despuntes de madera, fierro, 
+plásticos, hormigón, escombros y otros desechos de construcción inertes. 
+Se consideramos un factor de generación de 0,10 m³/m² se obtiene la tasa de generación estimada 
+durante la fase de cierre. 
+Tabla 18.
+Estimación semanal de Residuos Sólidos industriales no peligrosos 
+Tipología
+M² construido
+M³ total
+Duración de 
+la fase 
+construcción 
+semanas
+m³/semana
+Sistema de 
+almacenamiento 
+RSINP
+2.606
+260,60 m³
+16
+16,28
+1 contenedor tipo 
+open top de 20 m³
+Se considera la instalación de un contenedor tipo open top de 20 m³ para el almacenamiento 
+temporal de los RSINP, cuya frecuencia de retiro será una vez a la semana por parte de una empresa 
+externa que los trasladará a un sitio de disposición final autorizado. 
+
+===== p.84 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+84
+Figura 41.
+Ubicación referencial del contenedor de 20 m³ – fase de cierre
+Cabe señalar que su ubicación podrá ser modificada durante el desarrollo de las faenas, en función 
+de  variables  técnicas  y  metodológicas  propias  del  proceso  constructivo.  No  obstante,  su 
+emplazamiento se mantendrá siempre dentro del perímetro autorizado del Proyecto. El área 
+destinada al acopio contará con la señalización correspondiente, indicando el tipo de residuos 
+permitidos.
+
+===== p.85 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 01. LAYOUT GENERAL
+
+===== p.86 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 02. PLANO DESCRIPCIÓN DEL SITIO
+
+===== p.87 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 03. PLANOS DE PLANTA, ELEVACIÓN Y CORTES DE LA 
+PLANTA DE RECICLAJE
+
+===== p.88 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 04. ESTUDIO DE MECÁNICA DE SUELOS
+
+===== p.89 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE RECICLAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+ANEXO 05. LÍNEA BASE HIDROLÓGICA

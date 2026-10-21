@@ -1,0 +1,2246 @@
+
+===== p.0 =====
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE 
+RESIDUOS 
+ 
+Capítulo 13  
+Relación del Proyecto con las políticas, Planes y Programas 
+de desarrollo 
+ 
+ 
+ 
+ 
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.1 =====
+ 
+1 
+ 
+13. RELACIÓN DEL PROYECTO CON POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO 
+2 
+13.1. INTRODUCCIÓN 
+2 
+13.2. OBJETIVO 
+3 
+13.3. METODOLOGIA 
+3 
+13.4. POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO REGIONAL O COMUNAL HALLADOS 4 
+13.4.1. POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO REGIONAL 
+4 
+13.4.1.1 ESTRATEGIA REGIONAL DE DESARROLLO VALPARAÍSO 2020 (ERD) 
+4 
+13.4.1.2 ESTRATEGIA REGIONAL DE INNOVACIÓN REGIÓN DE VALPARAÍSO 2014 – 
+2020 
+9 
+13.4.1.3 PLAN DE ACCIÓN REGIÓN DE VALPARAÍSO / SECTOR TURISMO 2014–2018 11 
+13.4.1.4 ESTRATEGIA Y PLAN DE ACCIÓN PARA LA CONSERVACIÓN DE LA 
+BIODIVERSIDAD – REGIÓN DE VALPARAÍSO (2005) 
+12 
+13.4.1.5 POLÍTICA DE DESARROLLO Y SOSTENIBILIDAD HÍDRICA PARA LA REGIÓN DE 
+VALPARAÍSO, 2021. 
+14 
+13.4.1.6 PLAN REGIONAL DE INFRAESTRUCTURA Y GESTIÓN DEL RECURSO HÍDRICO 
+REGIÓN DE VALPARAÍSO 2012 –2021. 
+16 
+13.4.1.7 PLAN REGIONAL PARA LA REDUCCIÓN DE RIESGOS DE DESASTRE (2018). 
+18 
+13.4.2. POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO COMUNAL 
+19 
+13.4.2.1 PLAN DE DESARROLLO COMUNAL VIÑA DEL MAR 2018 - 2022 
+19 
+13.4.2.2 PLAN DE ACCIÓN COMUNAL DE CAMBIO CLIMATICO, PARA LA COMUNA DE 
+VIÑA DEL MAR (2024) 
+21 
+13.5. CONCLUSIÓN 
+23 
+13.6. REFERENCIAS BIBLIOGRÁFICAS 
+24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.2 =====
+ 
+2 
+13. RELACIÓN DEL PROYECTO CON POLÍTICAS, PLANES Y PROGRAMAS DE 
+DESARROLLO 
+ 
+13.1. INTRODUCCIÓN 
+ 
+En el presente capítulo se expone la relación del proyecto “Centro de Metropolitano de Gestión 
+Integral de Residuos” (en adelante, “el Proyecto”) con las Políticas, Planes y Programas de 
+desarrollo (PPP) a nivel nacional, regional y comunal, conforme a lo exigido por el marco normativo 
+ambiental vigente. 
+ 
+Este análisis se fundamenta en lo dispuesto en el inciso primero del artículo 9° de la Ley N° 19.300 
+sobre Bases Generales del Medio Ambiente, así como en el artículo 13° del D.S. N° 40/2012, 
+Reglamento del Sistema de Evaluación de Impacto Ambiental (SEIA), modificado por el D.S. N° 
+30/2023 del Ministerio del Medio Ambiente (MMA). Dichas disposiciones establecen que los 
+titulares deben describir la forma en que sus proyectos se relacionan con: 
+ 
+● 
+Políticas, planes y programas de desarrollo regional. 
+● 
+Planes de desarrollo comunal (PLADECO). 
+● 
+Estrategia Climática de Largo Plazo. 
+● 
+Planes sectoriales de mitigación y adaptación al cambio climático. 
+● 
+Planes de acción regionales y comunales frente al cambio climático. 
+● 
+Planes estratégicos de recursos hídricos en cuencas. 
+● 
+Planes sectoriales para la gestión del riesgo de desastres. 
+ 
+Adicionalmente, se consideran las directrices del Oficio ORD. N° 101958 de la Dirección Ejecutiva 
+de CONAMA, del 30 de junio de 2010, el cual establece que solo se reconocerán los PPP que hayan 
+sido aprobados formalmente mediante acto administrativo por el Gobierno Regional o las 
+respectivas municipalidades, conforme a la Ley N° 19.175 Orgánica Constitucional sobre Gobierno 
+y Administración Regional. 
+ 
+Asimismo, se integra lo establecido en la Ley N° 21.455 (Ley Marco de Cambio Climático) y la Guía 
+Metodológica para la Consideración del Cambio Climático en el SEIA (SEA, enero 2023), donde se 
+instruye identificar y analizar la relación del proyecto con los instrumentos territoriales vigentes 
+vinculados al cambio climático. 
+ 
+En este contexto, se analiza cómo el Proyecto se vincula con las estrategias, objetivos y lineamientos 
+establecidos en los PPP vigentes en la Región de Valparaíso y en las comunas de Viña del Mar, 
+dentro del área de influencia del Proyecto. 
+ 
+ 
+ 
+ 
+
+===== p.3 =====
+ 
+3 
+13.2. OBJETIVO 
+ 
+El objetivo general de este capítulo es determinar la relación entre las obras y actividades del 
+Proyecto y los Planes, Políticas y Programas (PPP) de desarrollo vigentes en la Región de Valparaíso 
+y en las comunas de Viña del Mar. 
+ 
+Objetivos específicos: 
+● 
+Identificar si la tipología del Proyecto, conforme al SEIA, se encuentra reconocida en alguno 
+de los objetivos estratégicos o definiciones de los PPP vigentes. 
+● 
+Determinar si las acciones y componentes del Proyecto favorecen, perjudican o se 
+relacionan de manera neutra con los lineamientos establecidos en los PPP regionales y 
+comunales. 
+ 
+13.3. METODOLOGÍA 
+ 
+La metodología aplicada para analizar la relación del Proyecto con los PPP consideró las siguientes 
+etapas: 
+ 
+1. Identificación de instrumentos de planificación vigentes. 
+Se revisaron fuentes oficiales, tales como el Servicio de Información Ambiental (SINIA), el Ministerio 
+del Medio Ambiente (MMA), el Gobierno Regional de Valparaíso y las Ilustres Municipalidades de 
+Viña del Mar, para identificar los PPP vigentes. 
+2. Revisión documental y solicitud de información. 
+Se recopilaron los textos oficiales disponibles de los PPP identificados, realizando también 
+solicitudes de información vía Ley de Transparencia cuando fue necesario. 
+3. Caracterización de los PPP relevantes. 
+Se extrajeron y sistematizaron los contenidos clave de cada PPP, tales como objetivos generales, 
+específicos, lineamientos estratégicos y componentes ambientales, climáticos o territoriales. 
+4. Análisis de concordancia y vinculación. 
+Se compararon las obras, partes y acciones del Proyecto con los objetivos y lineamientos de los PPP, 
+identificando el tipo de relación (favorable, neutra o perjudicial) en cada caso. 
+5. Clasificación de relaciones. 
+Se sistematizó el análisis mediante la asignación de una categoría cualitativa a cada relación 
+identificada: 
+o 
+Favorable: El Proyecto contribuye o se alinea con el objetivo del PPP. 
+o 
+Neutra: El Proyecto no afecta ni contribuye directamente. 
+o 
+Perjudicial: El Proyecto afecta negativamente los objetivos de los PPP. 
+ 
+
+===== p.4 =====
+ 
+4 
+13.4. POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO REGIONAL O COMUNAL 
+HALLADOS 
+ 
+En esta sección se identifican y describen los principales instrumentos de planificación territorial y 
+sectorial vigentes que presentan coincidencia espacial con el emplazamiento del Proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos”. Se considera su pertinencia, vigencia y la relación 
+con los objetivos y acciones del Proyecto. 
+Cabe precisar que aquellos instrumentos que han sido evaluados estratégicamente conforme al 
+SEIA, serán abordados en detalle en el capítulo correspondiente a “Relación con políticas y planes 
+evaluados estratégicamente”. 
+ 
+A continuación, en la Tabla 1, se presenta un resumen de los principales instrumentos vigentes a 
+nivel regional y comunal, utilizados como base para el análisis: 
+ 
+Tabla 1: Políticas, planes o Programas de la región del Valparaíso y de las comunas Viña del Mar 
+Escala 
+Política, Plan o Programa 
+Observaciones 
+Región de 
+Valparaíso 
+Estrategia Regional de Desarrollo Valparaíso 
+2020 (ERD) 
+Documento base de planificación 
+regional, aprobado por el GORE. 
+Estrategia Regional de Innovación Región de 
+Valparaíso 2014 – 2020 
+Aunque desactualizada, aún está 
+citada en documentos regionales. 
+Plan De Acción Región De Valparaíso / Sector 
+Turismo 2014–2018 
+Relevante por las sinergias con el 
+entorno turístico-regional. 
+Estrategia y Plan de Acción para la Conservación 
+de la Biodiversidad, Región de Valparaíso, 2005 
+Referente 
+ambiental, 
+especialmente por la cercanía a 
+áreas naturales. 
+Política de desarrollo y sostenibilidad hídrica 
+para la región de Valparaíso, 2021. 
+Relevante para la gestión hídrica del 
+proyecto. 
+Plan Regional de Infraestructura y Gestión del 
+Recurso Hídrico Región de Valparaíso 2012 –
+2021. 
+Complementa el enfoque hídrico y 
+de servicios ecosistémicos. 
+Plan regional para la reducción de riesgos y 
+desastres (2018-2022) 
+Relevante para la gestión de 
+contingencias y emergencias del 
+proyecto. 
+Comuna 
+de 
+Viña 
+del Mar 
+Plan de Desarrollo Comunal 2018 – 2022, Viña 
+del Mar 
+Último 
+plan 
+aprobado 
+formalmente. 
+Alinea 
+objetivos 
+urbanos y ambientales. 
+ 
+Plan de acción comunal de cambio climático, 
+Plan para la comuna de Viña del Mar. 
+Documento 
+base 
+para 
+la 
+articulación institucional fortalece 
+coherencia y gobernanza climática 
+Fuente: Elaboración propia. 
+13.4.1. 
+POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO REGIONAL 
+ 
+13.4.1.1 ESTRATEGIA REGIONAL DE DESARROLLO VALPARAÍSO 2020 (ERD) 
+En cumplimiento de lo dispuesto en el artículo 13 del D.S. N° 40/2012, modificado por el D.S. N° 
+30/2023, este capítulo presenta el análisis de relación entre el proyecto “Centro Metropolitano de 
+
+===== p.5 =====
+ 
+5 
+Gestión Integral de Residuos” y la Estrategia Regional de Desarrollo (ERD) de la Región de 
+Valparaíso, instrumento aprobado por el Gobierno Regional que orienta el desarrollo regional en 
+un horizonte al año 2020. 
+ 
+La ERD se estructura en torno a cinco áreas estratégicas, cada una de las cuales contiene ejes y 
+objetivos específicos que guían la acción pública regional. Estas dimensiones están enfocadas en 
+el crecimiento económico, equidad social, sustentabilidad ambiental, identidad regional y 
+gobernanza, principios alineados con los pilares del desarrollo sostenible. 
+ 
+A continuación, se presenta la Tabla 2, de vinculación entre los objetivos estratégicos de la ERD y las 
+acciones del proyecto, indicando el tipo de relación cualitativa identificada. 
+ 
+ 
+Tabla 2: Análisis de Relación del Proyecto con la Estrategia Regional de Desarrollo (ERD) Región 
+de Valparaíso (2020). 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Crecimiento Económico 
+Dinamización 
+del 
+sistema productivo 
+regional 
+para 
+el 
+crecimiento 
+económico 
+y 
+la 
+generación 
+de 
+empleo 
+Potenciar a la región como un destino turístico 
+nacional e internacional. 
+Favorable. El Proyecto generará 
+empleo 
+directo 
+e 
+indirecto 
+y 
+promueve el desarrollo económico 
+local 
+mediante 
+mayor 
+infraestructura ambiental. 
+Aumentar la capacidad de transferencia de 
+carga en los puertos marítimos de la región. 
+Fortalecer el desarrollo del sector logístico de 
+apoyo al transporte intermodal. 
+Ampliar, mejorar y definir las redes de 
+transporte 
+terrestre 
+propiciando 
+la 
+multimodalidad. 
+Potenciar 
+a 
+la 
+Región como 
+un 
+polo 
+agroalimentario. 
+Promover encadenamientos con el sector de la 
+minería. 
+Atraer inversión extranjera directa a la región 
+de Valparaíso. 
+Impulso 
+al 
+emprendimiento y a 
+la 
+innovación, 
+favoreciendo 
+la 
+generación 
+de 
+oportunidades y la 
+competitividad 
+regional. 
+Promover procesos de innovación en las 
+empresas de menor tamaño de la región. 
+Favorable, el proyecto introduce 
+innovación tecnológica en el manejo 
+de 
+residuos, 
+fomentando 
+el 
+emprendimiento 
+vinculado 
+al 
+reciclaje. 
+Aumentar 
+los 
+niveles 
+de 
+inversión 
+en 
+investigación y desarrollo (I+D). 
+Impulsar una cultura de valoración de la 
+innovación y el emprendimiento en la 
+comunidad regional. 
+Fortalecer el desarrollo de emprendimientos 
+innovadores en la región. 
+Consolidar a la región como un polo 
+universitario de excelencia. 
+
+===== p.6 =====
+ 
+6 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Promover 
+acuerdos 
+internacionales 
+que 
+potencien la investigación y desarrollo (I+D). 
+Valorización 
+de 
+capital 
+humano 
+regional 
+potenciando 
+las 
+competencias 
+técnico-
+profesionales. 
+Promover la educación técnico profesional en 
+la región. 
+Favorable. 
+Se 
+contempla 
+capacitación 
+laboral 
+y 
+técnico-
+operativa en la fase de operación del 
+proyecto, 
+mejorando 
+las 
+competencias laborales locales. 
+Fortalecer los vínculos de la educación técnico 
+profesional con las instituciones de educación 
+superior y los sectores productivos 
+Incentivar prácticas de formación continua o 
+permanente para trabajadores. 
+Desarrollar competencias para la innovación en 
+trabajadores vinculados a empresas de menor 
+tamaño. 
+Equidad Social 
+Disposición de un 
+sistema 
+de 
+seguridades 
+que 
+contribuya a superar 
+las situaciones de 
+pobreza 
+y 
+vulnerabilidad 
+social. 
+Mejorar el acceso a la atención de salud 
+oportuna, segura y de buena calidad. 
+Neutra.  El proyecto no se relaciona 
+con este lineamiento estratégico, sin 
+embargo, no se contrapone al 
+cumplimiento de éste. 
+ 
+Garantizar 
+a 
+la 
+población 
+de 
+estratos 
+socioeconómicos medios y bajos el acceso a 
+viviendas de buena calidad. 
+Garantizar a los pobladores que habitan en 
+campamentos 
+el 
+acceso 
+a 
+soluciones 
+habitacionales integrales. 
+Aumentar 
+la 
+cobertura 
+de 
+educación 
+preescolar. 
+Disminuir la deserción escolar en los niveles de 
+enseñanza básica y media. 
+Promover el acceso de mujeres y jóvenes al 
+mundo laboral. 
+Superar las situaciones de pobreza e indigencia 
+en la región. 
+Generar 
+condiciones 
+para 
+favorecer 
+la 
+integración de las personas con capacidades 
+diferenciadas. 
+Integración de las 
+personas 
+mayores 
+procurando 
+una 
+vejez digna, activa y 
+con calidad de vida. 
+Fortalecer la coordinación de los organismos 
+públicos y privados vinculados a las personas 
+mayores. 
+Neutra. No tiene incidencia directa 
+en este ámbito, pero no genera 
+perjuicio. 
+Inducir un cambio cultural en la población que 
+contribuya a un mayor conocimiento y respeto 
+de los derechos y la dignidad de las personas 
+mayores. 
+Generar espacios de participación para las 
+personas mayores en la región. 
+Generar condiciones para un mejor estado de 
+salud funcional de las personas mayores. 
+Asegurar 
+mejores 
+condiciones 
+de 
+infraestructura y equipamiento para las 
+
+===== p.7 =====
+ 
+7 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+instituciones de acogida de personas mayores 
+abandonadas. 
+Fortalecimiento 
+de 
+la identidad regional 
+y 
+la 
+diversidad 
+cultural. 
+Reconocer, proteger y poner en valor el 
+patrimonio cultural de la región. 
+Favorable. 
+Favorece 
+entornos 
+limpios y ordenados, mejorando el 
+atractivo turístico y cultural. 
+Fomentar el desarrollo de iniciativas culturales 
+locales. 
+Potenciar el turismo cultural de la región. 
+Favorecer la participación cultural de la 
+población y su acceso a los bienes y servicios de 
+consumo cultural. 
+Sustentabilidad Ambiental 
+Construcción de una 
+región 
+habitable, 
+saludable y segura 
+para 
+una 
+mejor 
+calidad de vida en 
+sus 
+asentamientos 
+urbanos y rurales. 
+Aumentar la disponibilidad de parques y áreas 
+verdes urbanas para esparcimiento de uso 
+público. 
+Favorable. 
+Central 
+al 
+proyecto 
+Mejora la gestión de residuos con 
+criterios modernos y sostenibles, 
+Integra 
+control 
+de 
+emisiones, 
+manejo de lixiviados y biogás, 
+promoviendo 
+un 
+enfoque 
+ambientalmente sustentable. 
+Aumentar la cobertura de sistemas de 
+saneamiento 
+básico 
+y 
+electrificación 
+domiciliaria en ciudades y localidades rurales. 
+Recuperar y revalorizar el borde costero para la 
+población y sus actividades productivas. 
+Proporcionar mayor seguridad a los hogares y 
+espacios públicos. 
+Promover el mejoramiento del transporte 
+público intercomunal e interprovincial. 
+Fomentar la práctica de actividades deportivas 
+y físicas recreativas, formativas y competitivas. 
+Disponer de una gestión integral de residuos 
+sólidos 
+domiciliarios 
+y 
+asimilables 
+a 
+domiciliarios (RSD) y (RSAD). 
+Proteger a la población frente a riesgos de 
+origen natural y antrópico. 
+Preservación, 
+conservación 
+y 
+promoción 
+del 
+medio ambiente y la 
+biodiversidad, 
+haciendo 
+un 
+uso 
+sustentable de los 
+recursos naturales. 
+Identificar sitios terrestres y marinos con valor 
+biológico en la región para su preservación y 
+conservación. 
+Favorable. 
+Integra 
+revegetación, 
+control de vectores y uso de especies 
+nativas, aportando a la conservación 
+indirecta. 
+Promover la gestión de los pasivos ambientales 
+existentes en la región. 
+Procurar una mejor regulación de los usos de 
+suelo 
+para 
+fines 
+industriales 
+en 
+los 
+instrumentos de planificación territorial. 
+Asegurar un mayor control de la calidad del aire 
+y agua para el uso sustentable de la población y 
+sus actividades productivas. 
+Promover el uso de energías renovables no 
+convencionales (ERNC). 
+Manejo sustentable 
+de 
+los 
+recursos 
+hídricos 
+en 
+respuesta 
+a 
+las 
+demandas 
+de 
+la 
+población 
+y 
+sus 
+Aumentar la disponibilidad de recursos hídricos 
+para riego. 
+Favorable. 
+Emplea 
+tecnologías 
+limpias que optimizan el uso del agua 
+y protegen ecosistemas. 
+Incorporar nuevas tecnologías en la gestión de 
+recursos hídricos. 
+Asegurar la disponibilidad de agua potable para 
+consumo humano. 
+
+===== p.8 =====
+ 
+8 
+Fuente: Elaboración propia. Con base en la Estrategia Regional de Desarrollo (ERD) de la Región de 
+Valparaíso (2020) 
+ 
+El proyecto “Centro Metropolitano de Gestión Integral de Residuos” presenta una relación 
+ampliamente favorable con la Estrategia Regional de Desarrollo de Valparaíso 2020. Contribuye 
+significativamente al crecimiento económico regional mediante la generación de empleo, la 
+promoción de la innovación y el fortalecimiento del capital humano técnico. En el ámbito ambiental, 
+su diseño y operación responden directamente a los objetivos de sustentabilidad, incorporando 
+tecnologías de tratamiento de residuos, control de emisiones, revegetación con especies nativas y 
+gestión eficiente del recurso hídrico. Asimismo, apoya la planificación territorial y la mejora de la 
+infraestructura pública regional. El proyecto integra además mecanismos de participación 
+ciudadana y educación ambiental, fortaleciendo la identidad regional y el compromiso social. Se 
+identifican relaciones neutras en algunos objetivos relacionados con vivienda, salud, o relaciones 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+actividades 
+productivas. 
+Gestión Territorial 
+Fomento 
+a 
+la 
+integración 
+plena 
+entre los territorios 
+que conforman la 
+región: 
+continentales 
+e 
+insulares. 
+Implementar 
+un 
+sistema 
+integrado 
+de 
+información para los territorios de la región. 
+Favorable. La ubicación y diseño del 
+Proyecto responden a criterios de 
+planificación territorial y eficiencia 
+de servicios. 
+Promover espacios regionales de integración 
+interprovincial. 
+Fomentar 
+la 
+desconcentración 
+de 
+la 
+institucionalidad regional. 
+Apoyar la integración de las localidades aisladas 
+existentes en la región. 
+Promover el desarrollo endógeno y sustentable 
+de los territorios especiales de Isla de Pascua y 
+Archipiélago de Juan Fernández 
+Inserción 
+internacional de la 
+región fortaleciendo 
+su posicionamiento 
+en 
+el 
+corredor 
+bioceánico central. 
+Promover las relaciones internacionales de la 
+región. 
+Neutra. El proyecto no tiene un 
+enfoque 
+directo 
+en 
+relaciones 
+internacionales. Sin embargo, no 
+interfiere 
+ni 
+perjudica 
+el 
+cumplimiento 
+de 
+este 
+objetivo 
+estratégico 
+Afianzar las relaciones con Argentina. 
+Afianzar las relaciones con las regiones del 
+corredor bioceánico central (CBC). 
+Aumentar el acceso de los servicios y productos 
+regionales a los mercados internacionales. 
+Fortalecimiento 
+de 
+la 
+institucionalidad 
+regional procurando 
+una gestión pública 
+descentralizada 
+en 
+concordancia con las 
+demandas 
+de 
+los 
+territorios. 
+Fortalecer al Gobierno Regional de Valparaíso 
+con nuevas competencias. 
+Favorable. Mejora la infraestructura 
+ambiental regional y la capacidad 
+operativa de manejo de residuos. 
+Lograr un mayor nivel de complementariedad 
+entre 
+los 
+instrumentos 
+de 
+planificación 
+comunal y regional. 
+Instalar 
+y 
+desplegar 
+un 
+enfoque 
+de 
+mejoramiento continuo y de excelencia en la 
+gestión institucional del gobierno regional 
+Difundir la gestión del gobierno regional en 
+todos los territorios de la región. 
+Promover la asociación entre el gobierno 
+regional, servicios públicos y municipios para la 
+ejecución de proyectos de impacto comunal o 
+intercomunal. 
+
+===== p.9 =====
+ 
+9 
+internacionales, en los que no existe una incidencia directa, pero sin perjuicios. No se constatan 
+impactos negativos en ninguno de los ejes estratégicos. En resumen, el proyecto se alinea con los 
+pilares del desarrollo regional sostenible, fortaleciendo la planificación ambiental, la gobernanza 
+territorial y la calidad de vida de las comunidades. 
+ 
+13.4.1.2 ESTRATEGIA REGIONAL DE INNOVACIÓN REGIÓN DE VALPARAÍSO 2014 – 2020 
+La Estrategia Regional de Innovación (ERI) de Valparaíso 2014-2020 constituye un instrumento clave 
+de planificación territorial impulsado por el Gobierno Regional, cuyo propósito es fortalecer el 
+Sistema Regional de Innovación (SRI) mediante el fomento de capacidades, capital humano y 
+articulación público-privada para el desarrollo sostenible. Este instrumento fue construido de 
+manera participativa, integrando a universidades, centros de investigación, empresarios, 
+emprendedores y organismos públicos, y define una visión orientada a posicionar a la región como 
+un referente en innovación aplicada a sectores estratégicos. 
+ 
+La ERI se articula en seis ejes estratégicos, que abordan ámbitos como la innovación empresarial, el 
+fortalecimiento del capital humano, la innovación social, la cultura emprendedora, la interconexión 
+del SRI y la institucionalidad regional para la innovación. Además, focaliza sus acciones en polos de 
+competitividad priorizados: agroalimentario, logístico, turístico e industrias creativas; y en tres áreas 
+transversales: recurso hídrico, energía y TICs. 
+ 
+A continuación, en la Tabla 3, se presenta la relación cualitativa entre estos ejes estratégicos y el 
+proyecto, destacando sus contribuciones al ecosistema de innovación regional. 
+ 
+Tabla 3: Estrategia Regional de Innovación Región de Valparaíso 2014 – 2020 y su relación con el 
+proyecto. 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Innovación 
+empresarial y creación 
+de 
+empresas 
+innovadoras 
+Desarrollar capacidades estratégicas y de 
+innovación en las empresas. 
+Favorable. 
+El 
+proyecto 
+incorpora 
+tecnologías modernas en gestión de 
+residuos, fomentando innovación en el 
+sector. 
+Crear nuevas empresas innovadoras. 
+Favorable. 
+promueve 
+emprendimientos asociados a reciclaje 
+y 
+economía 
+circular, 
+habilitando 
+oportunidades de negocio. 
+Capital humano para 
+la innovación 
+Capacitar a los actores del sistema 
+regional de innovación en habilidades y 
+competencias de innovación. 
+Favorable. 
+Contempla 
+formación 
+técnica y operativa del personal, 
+fortaleciendo capacidades locales. 
+Apoyar la inserción de personas expertas 
+en 
+innovación 
+en 
+empresas, 
+para 
+fortalecer el desarrollo de procesos de 
+innovación. 
+Favorable. Contempla capacitación 
+técnica y operativa para trabajadores, 
+fortaleciendo capacidades locales en 
+gestión ambiental. 
+Impulsar y fortalecer las capacidades 
+técnicas para dar respuesta a los 
+requerimientos 
+tecnológicos 
+de 
+las 
+empresas de la región. 
+Favorable. El proyecto responde a 
+desafíos técnicos complejos, lo que 
+impulsa la especialización local. 
+Innovación social 
+Diseñar, generar y poner en marcha 
+metodologías participativas que aporten 
+soluciones innovadoras, para lograr una 
+Favorable. 
+Incorpora 
+un 
+aula 
+ambiental 
+y 
+acciones 
+educativas 
+orientadas 
+a 
+la 
+comunidad, 
+
+===== p.10 =====
+ 
+10 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+sostenibilidad 
+social, 
+económica 
+y 
+medioambiental. 
+fomentando innovación con impacto 
+social. 
+Incorporar innovación y tecnologías para 
+la resolución de problemas sociales. 
+Favorable. Aplica tecnología moderna 
+para abordar problemas como la 
+gestión de residuos y la educación 
+ambiental. 
+Introducir y aplicar ideas y prácticas 
+novedosas en el ámbito de la gestión 
+pública con la finalidad de generar valor 
+social 
+Favorable. La gestión moderna del 
+proyecto aporta a la mejora de la 
+institucionalidad ambiental local. 
+Cultura de innovación 
+y emprendimiento 
+Promover 
+el 
+emprendimiento 
+y 
+la 
+innovación en la comunidad regional. 
+Favorable. Se fomenta la cultura 
+ambiental 
+y 
+del 
+reciclaje, 
+con 
+posibilidades 
+de 
+emprendimientos 
+asociados. 
+Promover 
+el 
+emprendimiento 
+y 
+la 
+innovación en el ámbito educativo. 
+Favorable. Contempla programas de 
+educación ambiental y visitas guiadas 
+para escolares y estudiantes. 
+Estructuración 
+e 
+interrelación 
+del 
+Sistema Regional de 
+Información (SRI) 
+Impulsar infraestructuras y espacios de 
+encuentro entre los actores regionales. 
+Favorable. El proyecto se integra al SRI 
+mediante alianzas con municipios y 
+entidades 
+técnicas, 
+promoviendo 
+sinergias institucionales. 
+Impulsar estructuras de apoyo a la 
+intermediación. 
+Favorable. 
+El 
+proyecto 
+articula 
+relaciones con municipios, actores 
+técnicos y sociales, fortaleciendo redes 
+territoriales. 
+Potenciar la vigilancia estratégica e 
+inteligencia 
+competitiva 
+para 
+la 
+realimentación 
+de 
+la 
+planificación 
+estratégica. 
+Favorable. El enfoque territorial y 
+funcional 
+del 
+proyecto 
+respalda 
+decisiones basadas en planificación 
+eficiente. 
+Institucionalidad 
+regional 
+para 
+la 
+innovación 
+Implementar el Sistema de Gobernanza 
+de la ERI. 
+Favorable. La vinculación temprana 
+con actores públicos y privados y el 
+cumplimiento normativo promoviendo 
+coherencia institucional. 
+Mejorar el diseño y gestión de los 
+instrumentos de apoyo a la innovación. 
+Favorable. Aporta experiencia práctica 
+para fortalecer políticas públicas de 
+innovación 
+territorial 
+y 
+gestión 
+ambiental. 
+Impulsar 
+la 
+descentralización 
+y 
+desconcentración de competencias para 
+el fomento de la innovación regional. 
+Favorable. 
+Refuerza 
+capacidades 
+regionales en temas ambientales y de 
+gestión de residuos. 
+Implementar acciones y mecanismos de 
+coordinación entre entidades públicas y 
+privadas. 
+Favorable. El proyecto ha involucrado 
+distintos actores institucionales en su 
+desarrollo. 
+Fuente: Elaboración propia. Con base Estrategia Regional de Innovación Región de Valparaíso 
+(2014 – 2020) 
+ 
+El proyecto mantiene una relación completamente favorable con los ejes estratégicos de la 
+Estrategia Regional de Innovación de Valparaíso. Se configura como una iniciativa de alto valor 
+
+===== p.11 =====
+ 
+11 
+tecnológico y social, al incorporar infraestructura moderna para la gestión de residuos, procesos 
+operacionales eficientes y medidas de educación ambiental. Aporta directamente al fortalecimiento 
+del capital humano mediante la capacitación técnica de trabajadores y la promoción de prácticas 
+sostenibles. En el plano de la innovación social, el proyecto propone soluciones concretas a 
+problemáticas ambientales que afectan a comunidades vulnerables, incorporando participación 
+ciudadana e iniciativas educativas. También fomenta el emprendimiento local en torno a la 
+economía circular y promueve una cultura de innovación desde el ámbito comunitario y escolar. Su 
+desarrollo ha implicado la articulación con actores públicos y privados, consolidando su integración 
+al ecosistema de innovación regional. Además, entrega insumos prácticos para el mejoramiento de 
+instrumentos de apoyo a la innovación, fortaleciendo la institucionalidad territorial. En conjunto, el 
+proyecto representa un modelo coherente con los principios de la ERI, al vincular tecnología, 
+participación y sostenibilidad en un enfoque de desarrollo territorial inteligente. 
+ 
+13.4.1.3 PLAN DE ACCIÓN REGIÓN DE VALPARAÍSO / SECTOR TURISMO 2014–2018 
+Este plan fue desarrollado por la Dirección Regional de SERNATUR y aprobado por el Gobierno 
+Regional de Valparaíso como instrumento de planificación estratégica del sector turismo a nivel 
+regional. Si bien corresponde al período 2014–2018, sigue siendo un referente para el análisis de 
+alineación territorial del proyecto, al no existir a la fecha un instrumento regional posterior de 
+similar carácter publicado oficialmente. 
+ 
+El plan se estructura sobre cinco líneas estratégicas que abordan temas prioritarios para el 
+desarrollo del turismo regional: promoción, desarrollo de productos turísticos, infraestructura 
+habilitante, calidad y capital humano, integrándose coherentemente con las orientaciones de la 
+Estrategia Regional de Desarrollo (ERD) y la Estrategia Regional de Innovación (ERI). A continuación, 
+se presenta un análisis de relación cualitativa entre estas líneas estratégicas y el proyecto (Tabla 4). 
+ 
+Tabla 4: Plan De Acción Región De Valparaíso / Sector Turismo (2014–2018) y su relación con el 
+proyecto. 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Promoción Nacional e 
+Internacional 
+Mejorar el posicionamiento turístico regional 
+a nivel nacional e internacional, fomentando 
+circuitos y atractivos distintivos. 
+Neutra. El Proyecto no promueve 
+directamente destinos turísticos, 
+aunque contribuye a la mejora 
+ambiental del entorno regional. 
+Desarrollo de Oferta 
+de 
+Actividades 
+y 
+Productos en Destino 
+Diversificar la oferta turística mediante el 
+fortalecimiento de experiencias locales, 
+inclusivas y sustentables. 
+Favorable. Incluye aula ambiental y 
+actividades 
+comunitarias 
+que 
+enriquecen experiencias turísticas 
+responsables. 
+Puesta en Valor de 
+Destinos 
+e 
+Infraestructura 
+Habilitante 
+Fortalecer la infraestructura asociada a los 
+destinos 
+turísticos, 
+mejorando 
+accesos, 
+servicios y valorización patrimonial. 
+Favorable. Aporta infraestructura 
+moderna para la gestión ambiental, 
+relevante para destinos con alta 
+carga turística. 
+Calidad 
+Elevar los estándares de calidad de servicios 
+turísticos 
+mediante 
+certificaciones, 
+capacitación y fomento a la innovación. 
+Favorable. 
+Contempla 
+buenas 
+prácticas 
+operacionales 
+y 
+sostenibilidad, 
+alineadas 
+con 
+estándares de calidad turística. 
+
+===== p.12 =====
+ 
+12 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Capital Humano 
+Fortalecer las competencias técnicas, de 
+gestión y asociatividad de los actores 
+turísticos locales. 
+Favorable. El proyecto contempla 
+formación técnica y operativa, 
+fortaleciendo capital humano en 
+sectores vinculados al turismo. 
+Fuente: Elaboración propia. Con base en Plan De Acción Región De Valparaíso / Sector Turismo 
+(2014–2018). 
+ 
+El análisis evidencia que, si bien el proyecto no se enmarca explícitamente en la actividad turística, 
+su diseño y enfoque ambiental presentan una contribución significativa a varios de los objetivos 
+estratégicos del plan, particularmente en aspectos de sustentabilidad, capital humano y calidad de 
+servicios. Al ser un proyecto que mejora la gestión integral de residuos en la región, aporta 
+indirectamente a la experiencia de los visitantes y al posicionamiento de la región como destino 
+limpio, ordenado y consciente de su entorno. De esta forma, se reconoce su valor como iniciativa 
+coherente con los principios del turismo responsable promovidos por el instrumento, incluso más 
+allá de su vocación principal. 
+ 
+13.4.1.4 ESTRATEGIA Y PLAN DE ACCIÓN PARA LA CONSERVACIÓN DE LA BIODIVERSIDAD – 
+REGIÓN DE VALPARAÍSO (2005) 
+La Estrategia y Plan de Acción para la Conservación de la Diversidad Biológica de la Región de 
+Valparaíso, elaborada por CONAMA y el PNUD en 2005, fue pionera en establecer lineamientos 
+concretos para la protección de los ecosistemas y especies nativas a nivel regional. Aunque ha 
+pasado tiempo desde su publicación, muchos de sus objetivos y directrices siguen plenamente 
+vigentes, especialmente considerando la alta fragilidad ecológica de los ecosistemas mediterráneos 
+presentes en la región. 
+ 
+El documento establece líneas de acción para la conservación in situ y ex situ, el control de especies 
+exóticas invasoras, la educación ambiental, la restauración de ecosistemas degradados, y el fomento 
+del uso sustentable de los recursos naturales, entre otros. Asimismo, identifica sitios prioritarios de 
+conservación y propone acciones específicas por ecorregión (terrestre, marina, de aguas 
+continentales e insular). A continuación, en la Tabla 5, se presentan los ejes estratégicos relevantes 
+del plan y su relación con el proyecto. 
+ 
+Tabla 5: Estrategia Y Plan De Acción Para La Conservación De La Diversidad Biológica– Región De 
+Valparaíso (2005) y su relación con el proyecto.  
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Conservación in situ 
+de 
+ecosistemas 
+y 
+poblaciones 
+Establecer y proteger sitios prioritarios para la 
+conservación 
+ecológica, 
+manteniendo 
+procesos evolutivos y hábitats clave. 
+Favorable. Aunque no se ubica en 
+un sitio prioritario, el Proyecto 
+aporta a la conservación mediante 
+diseño sustentable y protección 
+ambiental indirecta. 
+Implementar 
+soluciones 
+a 
+problemas 
+sanitarios como microbasurales, líquidos 
+percolados, etc. En sitios prioritarios. 
+Favorable. Aunque no se ubica en 
+un sitio prioritario, el Proyecto 
+aporta a la disposición de basura y 
+tratamiento de percolados. 
+
+===== p.13 =====
+ 
+13 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Control de especies 
+exóticas invasoras. 
+Controlar especies exóticas que afectan la 
+biodiversidad local, especialmente en áreas 
+sensibles. 
+ 
+Favorable. El proyecto contempla 
+control de vectores y evita la 
+expansión de especies invasoras a 
+través del manejo adecuado de 
+residuos. 
+Fomentar el uso de especies nativas para la 
+recuperación de ambientes urbanos y rurales. 
+Favorable. El proyecto contempla 
+plantaciones de especies nativas 
+como medida de control de olores 
+molestos. 
+Educación 
+y 
+concienciación 
+ambiental 
+Promover la comprensión y valoración de la 
+biodiversidad mediante acciones educativas 
+dirigidas a la comunidad. 
+Favorable. 
+Considera 
+un 
+aula 
+ambiental 
+y 
+programas 
+de 
+participación que fortalecen el 
+conocimiento comunitario sobre 
+biodiversidad. 
+Recuperación 
+de 
+ecosistemas 
+degradados y especies 
+con 
+problemas 
+de 
+conservación 
+Recuperar 
+áreas 
+ecológicamente 
+deterioradas mediante restauración activa y 
+buenas prácticas. 
+Favorable. El uso de tecnologías de 
+control de impactos y revegetación 
+promueve 
+la 
+recuperación 
+ecológica de zonas intervenidas. 
+Fomento 
+de 
+la 
+integración social para 
+la 
+prevención 
+del 
+deterioro ambiental 
+Educación 
+ambiental, 
+participación 
+ciudadana, comunicación pública. 
+Favorable. 
+Incorpora 
+un 
+aula 
+ambiental y acciones educativas 
+orientadas 
+a 
+la 
+comunidad, 
+fomentando un impacto social. 
+Impulsar la creación y fortalecimiento de 
+grupos locales para la fiscalización, protección 
+y control de actividades que generan 
+deterioro ambiental. 
+Neutra, porque si bien el proyecto 
+no se opone a la organización 
+comunitaria, su implementación no 
+necesariamente 
+incentiva 
+la 
+fiscalización o vigilancia social de 
+manera directa. 
+Fomento 
+productivo 
+del uso sustentable de 
+los recursos naturales 
+Promover 
+actividades 
+productivas 
+sustentables 
+en 
+los 
+sectores 
+forestal, 
+agropecuario, pesquero y turístico.  
+Favorable. 
+Aporta 
+al 
+uso 
+sustentable 
+mediante 
+infraestructura 
+moderna 
+y 
+programas educativos con enfoque 
+en economía circular. 
+Fuente: Elaboración propia. Con base en Estrategia Y Plan De Acción Para La Conservación De La 
+Diversidad Biológica– Región De Valparaíso (2005). 
+ 
+El proyecto mantiene una relación completamente favorable con los ejes estratégicos de la 
+Estrategia Y Plan De Acción Para La Conservación De La Diversidad Biológica– Región De 
+Valparaíso (2005), como la conservación in situ de ecosistemas y poblaciones, el control de especies 
+exóticas invasoras, la recuperación de ecosistemas degradados, la educación y concienciación 
+ambiental, y el fomento productivo del uso sustentable de los recursos naturales. Todos estos 
+objetivos se relacionan de manera favorable con el proyecto, ya que, aunque no se ubica en un sitio 
+prioritario de conservación, contribuye de forma indirecta a la protección ambiental mediante un 
+diseño sustentable, control de vectores, tratamiento adecuado de residuos y revegetación con 
+especies nativas. 
+ 
+
+===== p.14 =====
+ 
+14 
+Además, el proyecto incorpora un aula ambiental que fortalece la participación y el conocimiento 
+comunitario sobre biodiversidad, apoyando la concienciación social. También impulsa la 
+restauración de zonas intervenidas y promueve prácticas vinculadas a la economía circular y el uso 
+racional de recursos. 
+ 
+En síntesis, el proyecto está alineado con los lineamientos de la estrategia regional de biodiversidad, 
+pues aporta a la conservación indirecta de hábitats, la prevención del deterioro ambiental y el 
+fortalecimiento de la educación ambiental como herramienta clave para la protección de la 
+biodiversidad regional. 
+ 
+13.4.1.5 POLÍTICA DE DESARROLLO Y SOSTENIBILIDAD HÍDRICA PARA LA REGIÓN DE 
+VALPARAÍSO, 2021. 
+La Política de Desarrollo y Sostenibilidad Hídrica de la Región de Valparaíso, liderada por el Consejo 
+Hídrico Regional y el Gobierno Regional, constituye un instrumento estratégico de carácter regional 
+que busca asegurar la disponibilidad y gestión sustentable del recurso hídrico. Fue aprobada 
+mediante Resolución Exenta Nº 1723 y su gobernanza formalizada por la Resolución Nº 79 del 28 
+de enero de 2021. Su vigencia está proyectada hasta al menos el año 2030, conforme al calendario 
+oficial de evaluación establecido en su reglamento. 
+ 
+Esta política establece una hoja de ruta de largo plazo para enfrentar la escasez hídrica, fortalecer 
+la institucionalidad regional y garantizar el acceso equitativo al agua para el consumo humano, la 
+producción y la conservación ambiental. 
+ 
+Se sustenta en tres pilares estratégicos: seguridad y aumento de la oferta hídrica, sostenibilidad de 
+la demanda, y gobernanza del recurso. A partir de ellos se presenta la Tabla 6, con el análisis que 
+vincula estos pilares y sus respectivos ejes estratégicos con el proyecto. 
+ 
+Tabla 6: Política de desarrollo y sostenibilidad hídrica para la región de Valparaíso, 2021. Y su 
+relación con el proyecto. 
+Pilares  
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Seguridad 
+y 
+aumento de la 
+oferta de agua 
+Habilitación de nuevas 
+fuentes 
+de 
+aprovisionamiento 
+-Incrementar el reúso de 
+aguas residuales. 
+-Incrementar la disponibilidad 
+de agua desalada. 
+-Potenciar el uso de aguas 
+atmosféricas. 
+Favorable. 
+El 
+proyecto 
+contempla 
+sistemas 
+de 
+tratamiento y reúso de aguas 
+residuales 
+para 
+procesos 
+operativos, 
+reduciendo 
+el 
+consumo de agua potable. 
+El proyecto no contempla 
+desalación ni captación de 
+agua atmosférica. 
+Infraestructura 
+de 
+captación, acumulación, 
+conducción, distribución y 
+saneamiento. 
+-Mejorar la infraestructura de 
+captación, 
+conducción, 
+distribución y/o acumulación. 
+-Aumentar la infraestructura 
+de captación, conducción, 
+distribución y/o acumulación. 
+-Mejorar la infraestructura de 
+saneamiento básico.  
+Favorable. Reduce riesgos de 
+contaminación 
+hídrica 
+mediante manejo adecuado 
+de 
+lixiviados 
+y 
+aguas 
+residuales. Complementa el 
+sistema regional al evitar 
+vertidos 
+ilegales 
+y 
+microbasurales que afectan 
+las fuentes de agua. 
+
+===== p.15 =====
+ 
+15 
+Pilares  
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+-Aumentar la cobertura de 
+saneamiento básico.  
+-Fomentar el uso sostenible 
+de aguas subterráneas 
+Restauración 
+de 
+ecosistemas 
+hídricos 
+(terrestres) 
+Restaurar los ecosistemas 
+hídricos (terrestres). 
+Favorable. 
+Contribuye 
+indirectamente 
+a 
+la 
+restauración 
+ambiental 
+mediante 
+revegetación 
+y 
+control 
+de 
+escorrentías 
+contaminantes. 
+Sustentabilidad 
+de la demanda 
+del agua 
+Uso eficiente del recurso. 
+-Incrementar el uso eficiente 
+del recurso para consumo 
+productivo. 
+-Incrementar el uso eficiente 
+del recurso para consumo 
+humano. 
+Favorable. El proyecto aplica 
+tecnologías para optimizar el 
+uso de agua en procesos 
+operativos, 
+reduciendo 
+pérdidas 
+y 
+consumo 
+innecesario. 
+Disminuye la presión sobre las 
+fuentes de agua potable al 
+promover reúso y tratamiento 
+interno de aguas residuales. 
+Conservación 
+de 
+ecosistemas 
+hídricos 
+(terrestres). 
+Identificar el estado de los 
+sistemas 
+hídricos 
+de 
+las 
+cuencas hidrográficas. 
+Neutra. 
+No 
+tiene 
+como 
+objetivo 
+directo 
+evaluar 
+cuencas hidrográficas, ni se 
+contrapone a este objetivo. 
+Sistemas 
+productivos 
+agrícolas adaptados al 
+cambio climático. 
+Promover 
+sistemas 
+productivos 
+agrícolas 
+adaptados 
+al 
+cambio 
+climático. 
+Neutra. No está enfocado en 
+producción agrícola, ni se 
+contrapone a este objetivo. 
+Gobernanza 
+y 
+gestión hídrica 
+Institucionalidad regional. -Institucionalizar gobernanza 
+para la implementación y 
+seguimiento de la política. 
+-Incorporar 
+la 
+dimensión 
+hídrica en la formulación de 
+instrumentos 
+de 
+planificación, ordenamiento y 
+desarrollo regional. 
+-Fortalecer la fiscalización del 
+uso del recurso hídrico. 
+-Gestionar 
+integradamente 
+los recursos hídricos a nivel 
+de cuenca. 
+-Implementar un sistema de 
+información hídrica regional. 
+Neutra. 
+No 
+genera 
+información directa para un 
+sistema 
+regional, 
+aunque 
+puede proveer datos útiles 
+para monitoreo ambiental o 
+reducir la carga contaminante 
+sobre las cuencas locales, 
+contribuyendo 
+indirectamente 
+a 
+la 
+institucionalidad regional. 
+Conformación 
+y 
+fortalecimiento 
+de 
+las 
+organizaciones 
+y 
+capacitación 
+de 
+los 
+usuarios del agua. 
+Constituir y fortalecer a las 
+organizaciones de usuarios 
+del agua y APR. 
+Neutra. No está orientado a la 
+gestión comunitaria de agua, 
+tampoco se contrapone a este 
+objetivo estratégico. 
+
+===== p.16 =====
+ 
+16 
+Fuente: Elaboración propia. Con base en Política de desarrollo y sostenibilidad hídrica para la 
+región de Valparaíso, 2021. 
+ 
+El proyecto demuestra una alta concordancia con los objetivos establecidos por la Política de 
+Desarrollo y Sostenibilidad Hídrica de la Región de Valparaíso, con sus objetivos de seguridad y 
+aumento de la oferta de agua, la sustentabilidad de la demanda y la gobernanza y gestión hídrica 
+regional. 
+ 
+En materia de seguridad y aumento de la oferta, el proyecto destaca por su aporte al reúso de aguas 
+residuales tratadas, la mejora del saneamiento básico y la prevención de contaminación difusa, lo 
+que alivia la presión sobre las fuentes hídricas locales y contribuye indirectamente a la restauración 
+de ecosistemas hídricos. Aunque no incorpora tecnologías de desalación ni captación de aguas 
+atmosféricas, su infraestructura no interfiere con estos desarrollos regionales. 
+ 
+Respecto a la sustentabilidad de la demanda, se alinea con los objetivos de uso eficiente del recurso 
+tanto para consumo productivo como para evitar impactos sobre el abastecimiento humano, gracias 
+a procesos de optimización hídrica y tratamiento interno. Asimismo, aunque no realiza 
+directamente evaluaciones sobre el estado de las cuencas ni fomenta sistemas agrícolas adaptados 
+al cambio climático, contribuye indirectamente al reducir las fuentes de contaminación que afectan 
+la calidad de los cuerpos de agua. 
+ 
+En el pilar de gobernanza y gestión hídrica, el proyecto fortalece la institucionalidad regional, ya que 
+se articula con autoridades ambientales y municipales, aportando a la fiscalización y seguimiento 
+del uso hídrico. Además, al reducir la presión contaminante sobre las cuencas, facilita la gestión 
+integrada de los recursos hídricos y aporta datos útiles para futuras estrategias de monitoreo 
+ambiental. Sin embargo, su relación es neutra en aspectos como la generación de sistemas 
+regionales de información hídrica o la conformación de organizaciones de usuarios del agua, dado 
+que no forman parte de su alcance directo. 
+ 
+En conjunto, el proyecto actúa como un complemento relevante para la gestión hídrica regional, 
+mejorando el saneamiento, optimizando procesos y evitando impactos sobre los ecosistemas 
+acuáticos, lo que refuerza los principios de seguridad, sustentabilidad y gobernanza hídrica a nivel 
+territorial. 
+ 
+13.4.1.6 PLAN REGIONAL DE INFRAESTRUCTURA Y GESTIÓN DEL RECURSO HÍDRICO REGIÓN DE 
+VALPARAÍSO 2012 –2021. 
+Este instrumento fue elaborado por el Ministerio de Obras Públicas (MOP) en el marco de su proceso 
+de planificación estratégica regional, con el propósito de orientar las inversiones en infraestructura 
+y gestión hídrica en la Región de Valparaíso. Su elaboración involucró una amplia participación de 
+actores públicos y privados, abordando de forma integrada los desafíos en tres ejes 
+clave: logística, gestión del recurso hídrico y ciudad y patrimonio. 
+ 
+Aunque su vigencia estaba originalmente proyectada hasta el año 2021, el plan conserva valor como 
+referente técnico y estratégico para evaluar iniciativas que inciden en la infraestructura territorial y 
+en el uso sustentable del recurso hídrico. A continuación, se analiza su relación con el proyecto, 
+considerando los objetivos específicos definidos para cada eje (Tabla 7). 
+
+===== p.17 =====
+ 
+17 
+ 
+Tabla 7: Plan Regional de Infraestructura y Gestión del Recurso Hídrico Región de Valparaíso 
+(2012 –2021) y su relación con el proyecto. 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Logística 
+Potenciar, a través de la provisión y gestión de 
+infraestructura, 
+un 
+modelo 
+logístico 
+multimodal con énfasis en el modo vial, que 
+incorpore los impactos de las proyecciones de 
+cargas y tránsito de pasajeros y de las 
+actividades regionales. 
+Favorable. 
+Contribuye 
+a 
+la 
+eficiencia del sistema regional 
+mediante infraestructura funcional 
+al 
+manejo 
+de 
+residuos 
+y 
+conectividad sectorial. 
+Gestión del Recurso 
+Hídrico 
+Potenciar una gestión integrada del agua a 
+nivel de cuencas, enfatizando la eficiencia en 
+el uso del recurso, el desarrollo de 
+infraestructura que incorpore innovación, la 
+identificación y desarrollo de nuevas fuentes 
+de agua y el fortalecimiento de las 
+instituciones 
+públicas 
+y 
+privadas 
+involucradas, permitiendo de esta forma 
+asegurar la satisfacción de las necesidades de 
+consumo 
+humano 
+y 
+de 
+las 
+distintas 
+actividades productivas. 
+Favorable. Aporta al control y 
+resguardo 
+del 
+recurso 
+hídrico 
+mediante sistemas modernos de 
+tratamiento y educación ambiental. 
+Ciudad y Patrimonio 
+Potenciar el desarrollo de las ciudades con 
+foco en su habitabilidad, calidad de vida, su 
+valor patrimonial, a través del desarrollo de 
+infraestructura pública institucional y vialidad 
+urbana, así como el mejoramiento de bordes 
+costeros, incorporando a los procesos de 
+planificación 
+de 
+infraestructura 
+el 
+entendimiento de la relación espacio-
+territorio- entorno. 
+Favorable. 
+Promueve 
+el 
+ordenamiento territorial, mejora la 
+infraestructura pública y contempla 
+la 
+valorización 
+paisajística 
+y 
+patrimonial del entorno. 
+Fuente: Elaboración propia. Con base en Plan Regional de Infraestructura y Gestión del Recurso 
+Hídrico Región de Valparaíso (2012 –2021). 
+ 
+El proyecto muestra una clara alineación con los lineamientos estratégicos de este plan, al contribuir 
+al desarrollo logístico mediante infraestructura especializada, promover el uso eficiente y 
+sustentable del recurso hídrico y fortalecer la calidad urbana y patrimonial del entorno. Si bien el 
+instrumento ha cumplido su período de vigencia formal, sigue vigente como marco de referencia 
+para evaluar iniciativas que inciden en el desarrollo territorial equilibrado de la Región de 
+Valparaíso. 
+ 
+No se identificaron otros instrumentos regionales estratégicos vigentes con incidencia directa sobre 
+el proyecto, más allá de los ya analizados en este capítulo. 
+ 
+Una vez abordado el marco regional, se procede a analizar la coherencia del proyecto con los 
+instrumentos de planificación comunal vigentes en su área de influencia directa. 
+ 
+
+===== p.18 =====
+ 
+18 
+13.4.1.7 PLAN REGIONAL PARA LA REDUCCIÓN DE RIESGOS DE DESASTRE (2018). 
+El Plan regional para la reducción de riesgo de desastres de la Región de Valparaíso tiene por 
+objetivo identificar el conjunto de acciones, iniciativas de inversión, proyectos y programas 
+orientados a la Reducción del Riesgo de Desastres en la región, en coherencia con el marco nacional 
+e internacional en gestión de riesgos y desastres (GRD), con enfoque en las etapas de mitigación y 
+preparación. 
+ 
+Tabla 8: Plan regional para la reducción de riesgos de desastres (2018) y su relación con el 
+proyecto. 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Fortalecimiento 
+institucional. 
+-Mantener actualizados los planes de GRD 
+regionales, 
+sectoriales, 
+provinciales 
+y 
+comunales.  
+-Sensibilizar e integrar al sector privado 
+empresarial al quehacer de la GRD de la 
+región agrupados en polos industriales 
+(Minería, puertos e industria petroquímica, 
+agrícola). 
+-Sensibilizar e integrar a la sociedad civil 
+organizada en la GRD de la región.  
+-Realizar estudios en Gestión del Riesgo de 
+Desastres (GRD) en la región, mediante 
+acuerdos asociativos entre universidades y 
+organismos científico-técnicos. 
+-Constituir formalmente mesas de trabajo 
+por 
+amenaza 
+(Sismo 
+Tsunami, 
+Meteorológica, 
+Incendios 
+Forestales, 
+Materiales Peligrosos, Remociones en Masa 
+y Marejadas). 
+Favorable. 
+Contribuye 
+a 
+la 
+eficiencia del sistema regional 
+mediante infraestructura funcional 
+al 
+manejo 
+de 
+residuos 
+y 
+conectividad sectorial. 
+Fortalecimiento de los 
+Sistemas de Monitoreo 
+y Alerta Temprana. 
+-Fortalecer un sistema de comunicación 
+robusta que actúe en situaciones de 
+emergencias de manera eficiente.  
+-Crear un sistema estadístico y de registro, 
+con representatividad espacial suficiente, 
+que permita realizar evaluaciones post y 
+obtener lecciones aprendidas (PENGRD). 
+- Desarrollar líneas de trabajos sobre la 
+variable de marejadas. 
+-Fortalecer los sistemas de monitoreo que 
+permitan detectar de manera oportuna las 
+amenazas, dentro del ámbito de las 
+competencias de cada actor involucrado en 
+Favorable. Aporta al control y 
+resguardo 
+del 
+recurso 
+hídrico 
+mediante sistemas modernos de 
+tratamiento y educación ambiental. 
+Fortalecimiento de la 
+cultura 
+preventiva 
+y 
+auto aseguramiento. 
+-Insertar a todo nivel académico conceptos 
+y fundamentos de GRD en instituciones de 
+educación.  
+-Fortalecimiento de las capacidades de 
+respuesta comunitarias. 
+Favorable. El proyecto cuenta con 
+un 
+plan 
+de 
+emergencia 
+y 
+contingencias durante las fases de 
+construcción, operación y cierre. 
+
+===== p.19 =====
+ 
+19 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+-Promover el intercambio de conocimientos 
+técnicos en GRD entre los integrantes del 
+SRPC y la ciudadanía. 
+Reducción 
+de 
+los 
+Factores 
+Subyacentes 
+del Riesgo (FSR). 
+-Elaboración de cartografías en SIG con 
+datos de peligros de amenazas en la región.  
+-Vincular la GRD a los instrumentos de 
+Ordenamiento.  
+-Desarrollar un trabajo colaborativo con los 
+municipios de la región para la reducción de 
+los FRS. 
+Neutro. El proyecto no se relaciona 
+ni se contrapone con este objetivo 
+Fortalecimiento de la 
+preparación ante los 
+desastres para lograr 
+una respuesta eficaz. 
+-Proyecto de Telecomunicaciones que 
+enlaza internamente a los integrantes del 
+Sistema de Protección Civil de la Provincia 
+de Isla de Pascua.  
+-Ejecutar en la región un programa de 
+simulacros y simulaciones. 
+Neutra. El proyecto no se relaciona 
+ni se contrapone con este objetivo. 
+Fuente: Elaboración propia. Con base en Plan regional para la reducción de riesgos de desastres 
+(2018). 
+ 
+13.4.2. 
+POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO COMUNAL 
+Los Planes de Desarrollo Comunal (PLADECO) son los instrumentos rectores de la planificación 
+estratégica local, definidos por la Ley Orgánica Constitucional de Municipalidades. Su propósito es 
+orientar el desarrollo de cada comuna mediante objetivos, metas y acciones coherentes con las 
+aspiraciones de su comunidad. 
+ 
+Para efectos del presente análisis, se consideran dos: 
+● Plan de desarrollo comunal de Viña del Mar (2018–2022), último instrumento aprobado y 
+vigente a la fecha, pese a estar en proceso de actualización. 
+● Plan de acción comunal de cambio climático plan para la comuna de Viña del Mar (2024). 
+Estos documentos permiten identificar la coherencia territorial, funcional y planes de acción del 
+proyecto en relación con los lineamientos comunales. A continuación, se presenta el análisis de 
+ambos documentos. 
+ 
+13.4.2.1 PLAN DE DESARROLLO COMUNAL VIÑA DEL MAR 2018 - 2022 
+El Plan de Desarrollo Comunal (PLADECO) de Viña del Mar 2018–2022 constituye el instrumento 
+oficial de planificación estratégica vigente al momento de esta evaluación. Fue aprobado por el 
+Concejo Municipal mediante Decreto Alcaldicio N° 281, y establece lineamientos para el desarrollo 
+urbano, social, ambiental e institucional de la comuna, analizados en la Tabla 8. 
+Actualmente, se encuentra en proceso de actualización, con una amplia participación ciudadana a 
+través del proceso “Viña Decide 2023”. No obstante, al no existir una nueva versión publicada y 
+aprobada formalmente, este documento sigue siendo el marco referencial válido para efectos de 
+evaluación ambiental y territorial. 
+ 
+Tabla 9: Plan De Desarrollo Comunal Viña Del Mar (2018 – 2022). Y su relación con el proyecto. 
+
+===== p.20 =====
+ 
+20 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Desarrollo 
+ambiental 
+local. 
+-Integrar los elementos naturales de la 
+comuna a las dinámicas urbanas de manera 
+armónica. 
+-Promover la corresponsabilidad de la 
+comunidad en los temas ambientales de la 
+Comuna. 
+-Mejorar la gestión de residuos en los 
+espacios públicos. 
+Favorable. El proyecto mejora la 
+infraestructura comunal en materia 
+de residuos sólidos, beneficiando a 
+diversos sectores y reduciendo 
+desigualdades urbanas. 
+Desarrollo Económico y 
+Productivo 
+-Ordenar el comercio ambulante presente 
+en el espacio público para integrarlo al 
+circuito económico comunal. 
+-Planificar 
+la 
+gestión, 
+distribución 
+y 
+ejecución del presupuesto según criterios 
+acordados y aprobados. 
+-Consolidar y diversificar la competitividad 
+del sector turístico en la comuna. 
+Neutra. El Proyecto no se relaciona 
+con estos objetivos ni lineamientos 
+estratégicos, 
+sin 
+embargo, 
+no 
+constituye un impedimento para su 
+materialización 
+Desarrollo 
+Estratégico 
+Institucional 
+-Elaborar una política institucional de 
+planificación coordinada en y entre las 
+distintas direcciones y departamentos. 
+-Planificar 
+la 
+gestión, 
+distribución 
+y 
+ejecución del presupuesto, según criterios 
+acordados y aprobados. 
+-Establecer 
+protocolos 
+de 
+gestión 
+institucional que promuevan la elaboración, 
+ejecución y gestión de iniciativas. 
+Neutra. El Proyecto no se relaciona 
+con estos objetivos ni lineamientos 
+estratégicos, 
+sin 
+embargo, 
+no 
+constituye un impedimento para su 
+materialización 
+Desarrollo 
+Urbano 
+Territorial 
+-Monitorear el estado de la red vial e 
+infraestructura asociada para determinar 
+inversiones. 
+-Desarrollar un diagnóstico normativo en 
+relación con los estacionamientos. 
+-Fomentar el uso de modos de viaje 
+distintos al automóvil. 
+Neutra. El Proyecto no se relaciona 
+con estos objetivos ni lineamientos 
+estratégicos, 
+sin 
+embargo, 
+no 
+constituye un impedimento para su 
+materialización 
+Salud. 
+-Confeccionar diagnóstico comunal de 
+salud. 
+-Mejorar inclusión de adultos mayores, 
+inmigrantes, personas con discapacidad. 
+-Promover la cultura de vida sana. 
+-Alcanzar un mejor bienestar de los vecinos. 
+Favorable. El Proyecto no se 
+relaciona directamente, pero el 
+aseo y ornato de los espacios 
+comunes mejora el bienestar de los 
+ciudadanos al percibir una ciudad 
+mas limpia. 
+Educación 
+-Generar proceso de involucramiento en el 
+aprendizaje de los apoderados de alumnos 
+en establecimientos municipales. 
+-Mejorar las condiciones de trabajo de 
+profesores y alumnos en establecimientos 
+municipales. 
+- Colaborar y acompañar el proceso de 
+transformación de la educación pública 
+para 
+el 
+buen 
+diagnóstico 
+de 
+su 
+funcionamiento. 
+Neutra. El Proyecto no se relaciona 
+con estos objetivos ni lineamientos 
+estratégicos, 
+sin 
+embargo, 
+no 
+constituye un impedimento para su 
+materialización 
+
+===== p.21 =====
+ 
+21 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Cultura y deporte 
+-Incrementar la labor educativa en la 
+práctica del deporte en espacios públicos 
+(responsabilidades y derechos). 
+- Proteger y capacitar a la población en el 
+desarrollo responsable de deportes y 
+entornos naturales. 
+Neutra. El Proyecto no se relaciona 
+con estos objetivos ni lineamientos 
+estratégicos, 
+sin 
+embargo, 
+no 
+constituye un impedimento para su 
+materialización 
+Desarrollo Comunitario 
+y 
+Participación 
+Ciudadana 
+-Confeccionar una política comunal que 
+coordine distintas áreas sociales de la 
+comuna. 
+-Mejorar la participación ciudadana con 
+distintas herramientas dependiendo del 
+perfil del ciudadano. 
+-Reconocer el perfil y condiciones de la 
+población vulnerable y en situación de 
+campamentos y allegados. 
+-Mejorar el diagnóstico social comunal 
+reconociendo el perfil y condiciones de 
+población. 
+Favorable. Incorpora mecanismos 
+de participación comunitaria en la 
+etapa de diseño y futura operación, 
+fortaleciendo la corresponsabilidad 
+ciudadana. 
+Fuente: Elaboración propia. Con base en Plan De Desarrollo Comunal Viña Del Mar (2018 – 2022). 
+ 
+El proyecto se integra eficazmente con los ejes estratégicos del PLADECO, especialmente en el 
+ámbito del desarrollo ambiental local, al mejorar la infraestructura de residuos sólidos, embellecer 
+espacios públicos y promover la corresponsabilidad ciudadana, contribuyendo a reducir 
+desigualdades urbanas y revitalizar la comuna. Aunque su impacto en el desarrollo económico, 
+institucional, urbano-territorial, educativo y deportivo es neutro—sin obstaculizar sus líneas—su 
+contribución al bienestar comunitario a través del aseo y ornato refuerza indirectamente áreas 
+como salud. Además, promueve la participación ciudadana mediante mecanismos de 
+corresponsabilidad en su diseño y operación, alineándose con el enfoque participativo del PLADECO, 
+que enfatiza la planificación inclusiva y la toma de decisiones colectivas. 
+ 
+Su rol como proyecto municipal en el pro de la gestión ambiental refuerza la coherencia de las 
+políticas comunales, fortaleciendo la gobernanza local y la capacidad colectiva para desarrollar 
+iniciativas integrales y sustentables. 
+ 
+13.4.2.2 PLAN DE ACCIÓN COMUNAL DE CAMBIO CLIMATICO, PARA LA COMUNA DE VIÑA DEL 
+MAR (2024) 
+El Plan de Acción Comunal de Cambio Climático (PACCC) de Viña del Mar es su integración 
+coherente con otros instrumentos de política ambiental y territorial, lo que lo convierte en una pieza 
+clave dentro del marco más amplio de las políticas públicas regionales y nacionales. Este fue 
+aprobado por el Decreto Alcaldicio N° 1675/2024 el 31 de diciembre de 2024. Este documento 
+establece los lineamientos en materia de ambiental para la mitigación y adaptación de los proyectos 
+al cambio climático, evaluando la vulnerabilidad y la gestión de riesgos climáticos, fomentando la 
+participación ciudadana e institucional como.  
+ 
+Tabla 10: Plan de acción comunal de cambio climático de Viña del Mar (2024) y su relación con el 
+proyecto. 
+
+===== p.22 =====
+ 
+22 
+Ejes Estratégicos 
+Objetivos Estratégicos 
+Relación con el Proyecto 
+Mitigación y Adaptación al 
+Cambio Climático 
+-Reducir emisiones de GEI (transporte, 
+energía, carbono negro). 
+-Implementar medidas de adaptación 
+frente 
+a 
+amenazas 
+climáticas 
+(inundaciones, olas de calor, sequías) 
+Favorable. Mediante tratamiento 
+de residuos y biogás, el proyecto 
+ayuda a reducir emisiones locales 
+de metano y otros GEI. 
+Adicionalmente 
+protege 
+los 
+entornos urbanos al evitar focos de 
+contaminación 
+y 
+potenciar 
+infraestructura 
+que 
+mejora 
+la 
+resiliencia. 
+Vulnerabilidad y Gestión de 
+Riesgos Climáticos 
+Caracterizar la vulnerabilidad comunal 
+frente a eventos extremos (incendios, 
+inundaciones, sequía) 
+Neutral No desarrolla diagnóstico 
+de vulnerabilidad, pero previene 
+riesgos 
+ambientales 
+indirectos 
+relacionados con residuos. 
+Monitoreo, 
+Reporte 
+y 
+Evaluación (MRV) 
+Establecer mecanismos de seguimiento 
+participativo de las medidas climáticas 
+Favorable. Puede aportar datos 
+reales sobre eficiencia y emisiones, 
+sirviendo como caso práctico para 
+sistemas de monitoreo local. 
+Gobernanza e Integración 
+Institucional 
+Fortalecer la institucionalidad local y su 
+articulación con planificación territorial. 
+Favorable. El proyecto operará en 
+alianza con organismos públicos y 
+privados, 
+consolidando 
+la 
+gobernanza emergente del cambio 
+climático comunal. 
+Comunicación, Educación y 
+Participación Ciudadana 
+Difundir el plan con enfoque inclusivo y 
+fomentar la participación comunitaria 
+Favorable. 
+Incorpora 
+un 
+aula 
+ambiental y actividades educativas, 
+promoviendo 
+participación 
+ciudadana y mensajes sostenibles. 
+Fuente: Elaboración propia. Con base en Plan de acción comunal de cambio climático de Viña del 
+Mar (2024). 
+ 
+El Centro Metropolitano de Gestión Integral de Residuos tiene una relación ampliamente favorable 
+con la mayoría de los ejes del PACCC. Destaca especialmente en los ámbitos de mitigación, al 
+contribuir a la reducción de emisiones de GEI; adaptación, al fortalecer la infraestructura y 
+resiliencia urbana; gobernanza, al operar con múltiples actores institucionales; y educación y 
+participación ciudadana, gracias a acciones concretas de enseñanza y activación comunitaria. Su 
+aporte también puede servir para sistemas de monitoreo participativo, reforzando el seguimiento 
+local de las políticas climáticas. Solo en el eje de vulnerabilidad y gestión de riesgos su relación es 
+neutra, ya que no incluye diagnósticos específicos, aunque ayuda a reducir riesgos ambientales 
+indirectos. 
+ 
+ 
+
+===== p.23 =====
+ 
+23 
+13.5. CONCLUSIÓN 
+ 
+El Centro Metropolitano de Gestión Integral de Residuos se perfila como una iniciativa ejemplar 
+dentro del conjunto de políticas, planes y programas regionales de Valparaíso, mostrando una alta 
+coherencia y sinergia con sus objetivos estratégicos. Su aporte al desarrollo regional se refleja en la 
+generación de empleo, la promoción del emprendimiento y el fortalecimiento del capital humano 
+técnico, al tiempo que impulsa la sustentabilidad ambiental mediante tecnologías avanzadas de 
+tratamiento de residuos, eficiencia hídrica y restauración ecológica. En materia de innovación, el 
+proyecto actúa como un catalizador al incorporar infraestructura moderna, educación ambiental y 
+economía circular, promoviendo la formación técnica, la cultura innovadora y la colaboración entre 
+actores del ecosistema regional. Asimismo, añade valor al turismo sustentable, mejorando la 
+gobernanza pública-privada, enriqueciendo la experiencia territorial con espacios limpios e 
+informativos y contribuyendo a la capacitación de profesionales y emprendedores del sector. En el 
+ámbito de la gestión hídrica, destaca por su capacidad de reutilizar aguas residuales, optimizar el 
+uso del recurso y reducir la presión sobre las fuentes naturales, fortaleciendo la institucionalidad, la 
+fiscalización y la gestión integrada de las cuencas. En resumen, el proyecto convierte los desafíos 
+ambientales en oportunidades de crecimiento, institucionalidad y empoderamiento comunitario, 
+articulando sostenibilidad, innovación y desarrollo socioeconómico en una estrategia regional 
+coherente y efectiva. 
+ 
+El Centro Metropolitano de Gestión Integral de Residuos representa una pieza fundamental dentro 
+de la estrategia comunal de Viña del Mar, tal como lo plantea el nuevo PLADECO 2024-2028. Su 
+alineación con los ejes de desarrollo ambiental local y participación ciudadana destaca por la 
+mejora concreta de la infraestructura de residuos sólidos, embellecimiento de espacios urbanos, y 
+fomento de corresponsabilidad comunitaria 
+ 
+Además, su capacidad para involucrar a la ciudadanía en diseño y operación fortalece los principios 
+de planificación participativa y gobernanza local establecidos en el PLADECO. En sectores como 
+desarrollo económico, institucional, urbano, educativo y deportivo, el proyecto no presenta efectos 
+directos, pero tampoco genera barreras, contribuyendo como un complemento beneficioso sin 
+interferir con otras líneas de acción municipales. En conjunto, esta iniciativa refuerza de modo 
+efectivo la coherencia, inclusividad y operatividad del instrumento comunal. 
+ 
+En consecuencia, se concluye que el Proyecto no sólo se ajusta al marco normativo del SEIA, sino 
+que también contribuye activamente a las estrategias de desarrollo sustentable del territorio, 
+siendo una iniciativa relevante para la consolidación de un modelo regional más inclusivo, 
+ambientalmente responsable y alineado con los desafíos del siglo XXI. 
+ 
+ 
+
+===== p.24 =====
+ 
+24 
+13.6. REFERENCIAS BIBLIOGRÁFICAS 
+● CONAMA - PNUD (2005). Estrategia y Plan de Acción para la Conservación de la Biodiversidad, 
+Región de Valparaíso. Recuperado de: https://biodiversidad.mma.gob.cl/avance-actualizacion- 
+erb-valparaiso/  
+● Consejo Hídrico Regional - GORE Valparaíso (2021). Política de Desarrollo y Sostenibilidad 
+Hídrica 
+para 
+la 
+Región 
+de 
+Valparaíso. 
+Recuperado 
+de: 
+https://www.gobiernovalparaiso.cl/desarrolloSostenibilidadHidrica.php  
+● Gobierno Regional de Valparaíso (2014). Estrategia Regional de Innovación Región de 
+Valparaíso 2014–2020. Recuperado de: https://www.gobiernovalparaiso.cl/eri.php  
+● Gobierno Regional de Valparaíso (2020). Estrategia Regional de Desarrollo de Valparaíso 2020. 
+Recuperado de: https://www.gobiernovalparaiso.cl/estrategiaRegional.php  
+● Ley N° 19.300. Sobre Bases Generales del Medio Ambiente.  
+● Ley N° 21.455. Ley Marco de Cambio Climático. 
+● Ministerio de Obras Públicas (2012). Plan Regional de Infraestructura y Gestión del Recurso 
+Hídrico 
+Región 
+de 
+Valparaíso 
+2012–2021. 
+Recuperado 
+de: 
+https://proactiva.subdere.gov.cl/handle/123456789/188  
+● Ministerio del Medio Ambiente (2023). D.S. N° 30/2023 que modifica el D.S. N° 40/2012 del 
+Reglamento del SEIA. 
+● Municipalidad de Viña del Mar (2018). Plan de Desarrollo Comunal 2018–2022. Recuperado de: 
+https://transparencia.munivina.cl/p/17-actos-y-resoluciones/78/plan-de-desarrollo-
+comunal.html  
+● Municipalidad de Viña del Mar (2024) Plan de acción comunal de cambio climático plan para la 
+comuna de Viña del Mar. Recuperado de: https://www.munivina.cl/paccc/  
+● ONEMI Valparaíso (2018) Plan regional para la reducción de riesgos de desastres. Recuperado 
+de: https://web.senapred.cl/plan-de-emergencia-regional-valparaiso/  
+● Oficio ORD. N° 101958 de CONAMA (30 de junio de 2010). 
+● SERNATUR Valparaíso (2018). Plan de Acción Región de Valparaíso / Sector Turismo 2014–2018. 
+Recuperado de: 
+● Servicio de Evaluación Ambiental (2023). Guía Metodológica para la Consideración del Cambio 
+Climático en el SEIA. 
+ 

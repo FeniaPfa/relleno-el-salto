@@ -1,0 +1,4044 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+PERMISO AMBIENTAL SECTORIAL 140
+PLANTA DE COMPOSTAJE
+Documento Preparado por:
+Mayo 2025
+
+===== p.1 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+ÍNDICE
+1.
+INTRODUCCIÓN
+3
+2.
+GENERALIDADES
+5
+3.
+CONTENIDOS TÉCNICOS Y FORMALES GENERALES
+6
+3.1.
+A.1 DESCRIPCIÓN Y PLANOS DEL SITIO
+6
+3.1.1.
+DESCRIPCIÓN DEL LUGAR DE EMPLAZAMIENTO DE LA INSTALACIÓN DE RESIDUOS 11
+3.2.
+A.2 DESCRIPCIÓN DE VARIABLES METEOROLÓGICAS RELEVANTES
+28
+3.2.1.
+CLIMA Y METEOROLOGÍA
+28
+3.2.2.
+HIDROCLIMA HISTÓRICO
+29
+3.2.3.
+VARIABILIDAD ESTACIONAL
+30
+3.2.4.
+VELOCIDAD DEL VIENTO
+31
+3.3.
+A.3  ESTIMACIÓN  Y  CARACTERIZACIÓN  CUALITATIVA  Y  CUANTITATIVA  DE  LOS 
+RESIDUOS A TRATAR
+36
+3.3.1.
+FASE CONSTRUCCIÓN
+36
+3.3.2.
+FASE OPERACIÓN
+39
+3.3.3.
+FASE DE CIERRE
+42
+3.4.
+A.4 DISEÑO DE LA PLANTA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO Y 
+LAS UNIDADES Y EQUIPAMIENTO
+44
+3.4.1.
+DIAGRAMA DE FLUJO
+44
+3.4.2.
+DESCRIPCIÓN DETALLADA DE LA INSTALACIÓN DE MANEJO DE RESIDUOS
+45
+3.4.3.
+CARACTERÍSTICAS CONSTRUCTIVAS DE LA INSTALACIÓN
+50
+3.5.
+A.5 FORMAS DE ABATIMIENTO DE EMISIONES Y DE CONTROL Y MANEJO DE RESIDUOS
+55
+3.5.1.
+FASE CONSTRUCCIÓN
+56
+3.5.2.
+FASE OPERACIÓN
+56
+3.5.3.
+FASE DE CIERRE
+59
+3.6.
+A.6 DESCRIPCIÓN DEL SISTEMA DE MANEJO DE RECHAZOS
+59
+3.6.1.
+CONTROL AL INGRESO DE RESIDUOS Y CRITERIOS DE RECHAZO
+59
+3.6.2.
+GESTIÓN DE RECHAZOS GENERADOS EN EL PROCESO PRODUCTIVO
+60
+3.7.
+A.7 PLAN DE VERIFICACIÓN Y SEGUIMIENTO DE LOS RESIDUOS A SER TRATADOS Y 
+RECHAZADOS
+60
+3.8.
+A.8 PLAN DE CONTINGENCIAS Y PLAN DE EMERGENCIA
+62
+3.8.1.
+OBJETIVO
+62
+3.8.2.
+ROLES Y RESPONSABILIDADES
+63
+3.8.3.
+TÉRMINOS Y DEFINICIONES
+63
+3.8.4.
+PLAN DE CONTINGENCIA
+65
+3.9.
+A.9 PLAN DE EMERGENCIA
+74
+4.
+CONTENIDOS  TÉCNICOS  Y  FORMALES  TRATÁNDOSE  DE  PLANTAS  DE  MANEJO  DE 
+RESIDUOS ORGÁNICOS
+83
+4.1.
+c.1 - DESCRIPCIÓN DEL SISTEMA PERIMETRAL DE INTERCEPCIÓN Y EVACUACIÓN DE 
+ESCORRENTÍAS SUPERFICIALES
+83
+4.1.1.
+DESCRIPCIÓN DE LAS VARIABLES DE DISEÑO
+84
+
+===== p.2 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+4.1.2.
+PLANO  Y  CARTOGRAFÍA  QUE  GRAFIQUE  EL  EMPLAZAMIENTO  DE  LAS  OBRAS 
+REQUERIDAS DENTRO DEL PREDIO
+85
+4.2.
+c.2 - DESCRIPCIÓN DEL SISTEMA DE RECOLECCIÓN Y EVACUACIÓN DE LAS AGUAS QUE 
+PRECIPITEN SOBRE LA PLANTA
+85
+4.2.1.
+DESCRIPCIÓN DE LOS SISTEMAS DE IMPERMEABILIZACIÓN
+86
+4.2.2.
+DESCRIPCIÓN DE LAS VARIABLES DE DISEÑO CONSIDERADAS EN EL SITIO
+86
+4.2.3.
+DESCRIPCIÓN DE LOS SISTEMAS DE RECOLECCIÓN, EVACUACIÓN O DESCARGA DE 
+AGUAS LLUVIAS
+87
+4.2.4.
+PLANO Y CARTOGRAFÍA DEL ÁREA DE TRATAMIENTO
+88
+4.3.
+c.3  -  DESCRIPCIÓN  DEL  SISTEMA  DE  MONITOREO  DE  LA  CALIDAD  DEL  AGUA 
+SUBTERRÁNEA
+88
+4.3.1.
+IDENTIFICACIÓN,  UBICACIÓN  GEORREFERENCIADA  Y  PROFUNDIDAD  (M)  DE  LOS 
+POZOS DE MONITOREO
+88
+4.3.2.
+PLANO CON LA UBICACIÓN DE LOS POZOS DE MONITOREO
+89
+4.3.3.
+PARÁMETROS DE INTERÉS SANITARIO INCLUIDOS EN EL MONITOREO, FRECUENCIA 
+DE MUESTREO Y PERIODICIDAD DE INFORMES
+89
+4.3.4.
+CARACTERIZACIÓN DE LA CALIDAD BASAL DEL AGUA SUBTERRÁNEA EN EL ÁREA DE 
+EMPLAZAMIENTO DE LA PLANTA, PREVIO A SU INSTALACIÓN Y OPERACIÓN
+89
+4.4.
+c.4 - PROGRAMA DE CONTROL DE PARÁMETROS CRÍTICOS DE LA OPERACIÓN DE LA 
+PLANTA.
+90
+4.4.1.
+DESCRIPCIÓN  DE  LAS  VARIABLES  OPERACIONALES  QUE  SE  UTILIZARÁN  PARA 
+CONTROLAR EL PROCESO DE TRATAMIENTO DE LOS RESIDUOS ORGÁNICOS
+90
+4.4.2.
+IDENTIFICACIÓN DE LAS ACCIONES O MEDIDAS QUE SE APLICARÁN Y FORMAS DE 
+CONTROL PARA NO SUPERAR LA CAPACIDAD DE TRATAMIENTO DIRECTO DE LA 
+PLANTA
+91
+
+===== p.3 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+1. INTRODUCCIÓN
+El proyecto “Centro Metropolitano de  Gestión Integral de Residuos”  contempla, entre sus 
+instalaciones  operativas,  una  Planta  de  Compostaje destinada  al  tratamiento  de  residuos 
+domiciliarios orgánicos, restos provenientes de ferias y mercados, así como residuos vegetales 
+derivados de podas. Durante las fases de construcción, operación y cierre, esta planta generará 
+residuos sólidos asimilables a domiciliarios (RSD) y residuos sólidos industriales no peligrosos 
+(RSINP). En función de ello, el proyecto considera la habilitación de áreas específicas para el 
+almacenamiento temporal de estos residuos, conforme a las exigencias técnicas y normativas 
+aplicables, asegurando una gestión adecuada y segura durante todo el ciclo de vida del proyecto.
+Considerando lo anterior, la planta de compostaje requiere tramitar el Permiso Ambiental Sectorial 
+(PAS), establecido en el artículo 140 del Título VII del D.S. Nº40/2012 del Ministerio de Medio 
+Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA), correspondiente al 
+“Permiso para la construcción, reparación, modificación y ampliación de cualquier planta de 
+tratamiento de basuras y desperdicios de cualquier clase, o para la instalación de todo lugar 
+destinado a la acumulación, selección, industrialización, comercio disposición final de basuras y 
+desperdicios de cualquier clase”, cuya norma fundante está contenida en el artículo 79º y 80º del 
+Decreto con Fuerza de Ley Nº725, del año 1967, del Ministerio de Salud Pública, Código Sanitario.
+Los requisitos para su otorgamiento consisten en que las condiciones de saneamiento y seguridad 
+eviten un riesgo a la salud de la población.
+A continuación, se presentan los contenidos técnicos y formales para acreditar el cumplimiento del 
+presente Permiso Ambiental Sectorial, de acuerdo lo estipulado en el artículo 140 del RSEIA y sus 
+literales aplicables:
+a) Generales: 
+a.1. Descripción y planos del sitio. 
+a.2. Descripción de variables meteorológicas relevantes. 
+a.3. Estimación y caracterización cualitativa y cuantitativa de los residuos a tratar.
+a.4. Diseño de la planta de tratamiento que incluya diagrama de flujo y las unidades y 
+equipamiento. 
+a.5. Formas de abatimiento de emisiones y de control y manejo de residuos. 
+a.6. Descripción del sistema de manejo de rechazos. 
+a.7. Plan de verificación y seguimiento de los residuos a ser tratados y rechazados. 
+a.8. Plan de contingencias. 
+a.9. Plan de emergencia.
+c) Tratándose de plantas de manejo de residuos orgánicos, además de lo señalado en las letras 
+desde a.1 hasta a.9 
+c.1  Descripción  del  sistema  perimetral  de  intercepción  y  evacuación  de  escorrentías 
+superficiales. 
+c.2 Descripción del sistema de recolección y evacuación de las aguas que precipiten sobre la 
+planta. 
+
+===== p.4 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+c.3 Descripción del sistema de monitoreo de la calidad del agua subterránea. 
+c.4 Programa de control de parámetros críticos de la operación de la planta. 
+
+===== p.5 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+2. GENERALIDADES
+La planta de compostaje contempla la habilitación de áreas para el almacenamiento temporal de los 
+residuos asimilables a domiciliarios y residuos industriales no peligrosos generados durante su 
+construcción, operación y cierre, para las cuales es necesario solicitar el Permiso Ambiental Sectorial 
+establecido en el artículo 140, del Reglamento del SEIA.
+En términos generales, durante la fase de construcción de la planta de compostaje los residuos se 
+almacenarán temporalmente en una batea para luego ser dispuestos en el frente de trabajo del 
+relleno sanitario que se encontrará operativo. A su vez en la fase de operación se habilitarán áreas 
+de acopio para los residuos generados por las actividades de la planta de compostaje y un patio de 
+acopio, donde se almacenarán los residuos provenientes de otros lugares y que serán tratados en la 
+Planta de compostaje tales como:
+●Residuos domiciliarios orgánicos
+●Restos de feria y mercados
+●Restos de poda
+Durante la fase de operación del proyecto, la planta de compostaje recibirá como materia prima los 
+residuos  previamente  mencionados.  Estos  serán  sometidos  a  un  proceso  controlado  de 
+transformación biológica, mediante el cual se degradarán y estabilizarán, dando como resultado un 
+producto final: compost de calidad apto para su uso como mejorador del suelo.
+Cabe destacar que los residuos gestionados en la planta de compostaje no serán generados por las 
+actividades  propias  del  Centro  Metropolitano  de  Gestión  Integral  Residuos,  sino  que  serán 
+recepcionados desde fuentes externas. Entre estas se incluyen empresas gestoras de residuos, 
+municipalidades, recicladores de base y otros actores vinculados a la gestión de residuos orgánicos. 
+Esta operación se enmarca en los lineamientos de la Estrategia Nacional de Residuos Orgánicos 
+(ENRO), impulsada por el Ministerio del Medio Ambiente, que promueve la valorización de la 
+fracción orgánica de los residuos sólidos como medida clave para avanzar hacia una economía 
+circular y reducir la disposición final en rellenos sanitarios.
+
+===== p.6 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+3. CONTENIDOS TÉCNICOS Y FORMALES GENERALES
+3.1.
+A.1 DESCRIPCIÓN Y PLANOS DEL SITIO
+El proyecto Centro Metropolitano de Gestión Integral Residuos se desarrollará en un predio de 
+propiedad privada ubicado en el kilómetro 102,5 de la Ruta 60-CH, también conocida como Troncal 
+Sur, principal vía de conexión entre las comunas de Viña del Mar y Quilpué, en la Región de 
+Valparaíso. El terreno cuenta con una superficie total de  206 hectáreas, de las cuales  63,10 
+hectáreas han sido destinadas específicamente para la implementación del proyecto. Este centro 
+contempla diversas instalaciones orientadas a la gestión integral de residuos, entre las que se 
+incluye una planta de compostaje destinada al tratamiento de residuos sólidos domiciliarios, restos 
+de feria y mercado, así como residuos vegetales derivados de podas.
+En este contexto, el presente Permiso Ambiental Sectorial 140 (PAS 140) tiene por objetivo 
+establecer  las  medidas  técnicas  y  operacionales  necesarias  para  prevenir  riesgos  sanitarios 
+asociados a la operación de la planta de compostaje, resguardando la salud de las personas y la 
+protección del medio ambiente. El PAS se enmarca en los lineamientos exigidos por la autoridad 
+sanitaria y constituye una herramienta clave para asegurar el cumplimiento de la normativa vigente 
+en materia de manejo y tratamiento de residuos.
+Con  el  propósito  de  complementar  la  descripción  territorial  y  facilitar  la  comprensión  del 
+emplazamiento del proyecto, a continuación, se presenta una imagen satelital del predio donde se 
+desarrollará el Centro Metropolitano de Gestión Integral Residuos. Esta visualización permite 
+apreciar la localización estratégica del terreno en relación con las principales vías de acceso, así 
+como su integración con el entorno geográfico y urbano de la comuna de Viña del Mar.
+
+===== p.7 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+Figura 1.
+Ubicación Centro Metropolitano de Gestión Integral Residuos
+Las coordenadas geográficas de los vértices que delimitan el predio donde se emplazará el proyecto 
+Centro Metropolitano de Gestión Integral Residuos, referidas al datum WGS 84, se detallan en la 
+siguiente tabla. 
+Tabla 1.Coordenadas UTM de vértice (Datum WGS 84 Huso 19-H)
+Cuadro de Coordenadas y Vértices del Predio
+Vértice
+U.T.M (Norte)
+U.T.M (Este)
+V1
+       6.337.772 
+           267.889 
+V2
+       6.337.552 
+           268.950 
+V3
+       6.337.004 
+           268.910 
+V4
+       6.336.188 
+           268.538 
+V5
+       6.336.265 
+           267.899 
+V6
+       6.336.430 
+           267.365 
+V7
+       6.337.033 
+           267.264 
+Fuente: Elaboración propia
+Para una mejor comprensión del uso del terreno destinado al proyecto, a continuación, se presenta 
+una imagen que muestra la distribución general de las instalaciones contempladas en el Centro 
+Metropolitano de Gestión Integral Residuos. Esta representación permite visualizar la disposición 
+
+===== p.8 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+espacial de cada componente del centro dentro del predio de  63,10 hectáreas, destacando la 
+relación funcional entre las distintas unidades operativas proyectadas.
+Figura 2.
+Instalaciones relacionadas con la gestión de residuos
+Como se visualiza en la figura anterior, la Planta de compostaje se emplaza en el sector oriente del 
+área habilitada para el desarrollo del proyecto Centro Metropolitano de Gestión Integral Residuos, 
+dentro de los límites del predio ubicado en el kilómetro 102,5 de la Ruta 60-CH. 
+A continuación, se detallan las coordenadas geográficas de los vértices que delimitan la superficie de 
+la planta de compostaje, referidas al datum WGS 84, las cuales permiten identificar con precisión su 
+emplazamiento dentro del área del proyecto.
+
+===== p.9 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+Figura 3.
+Layout zona de compostaje y reciclaje
+
+===== p.10 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+Tabla 2.Cuadro de coordenadas planta de compostaje
+TABLA DE PUNTOS
+Punto #
+Norte
+Este
+1
+6337366,87
+267687,48
+2
+6337347,57
+267722,52
+3
+6337254,94
+267671,48
+4
+6337274,27
+267636,42
+5
+6337329,49
+267811,30
+6
+6337309,04
+267817,51
+7
+6337316,94
+267774,97
+8
+6337297,87
+267780,76
+9
+6337381,25
+267756,14
+10
+6337382,57
+267761,37
+11
+6337380,28
+267765,68
+12
+6337376,07
+267760,68
+13
+6337401,39
+267707,70
+14
+6337362,53
+267782,85
+15
+6337339,72
+267771,05
+16
+6337378,58
+267695,90
+17
+6337310,81
+267768,74
+18
+6337227,44
+267723,19
+19
+6337250,70
+267680,63
+20
+6337334,06
+267726,18
+A fin de complementar esta descripción, en Anexo Planos del presente EIA se encuentran las 
+siguientes láminas:
+▪
+Layout general.
+▪
+Plano Descripción del sitio – Planta de compostaje, que presentan las distancias a los cursos 
+de agua superficial o subterránea, fuentes destinadas a la producción de agua para el 
+consumo  humano,  viviendas,  establecimientos  educacionales,  establecimientos  de 
+atención de salud, entre otros.
+▪
+Planos de planta, elevación y cortes de la planta de compostaje.
+La zona de compostaje ha sido diseñada considerando criterios de eficiencia operativa, seguridad 
+ambiental y cumplimiento normativo. Su operación se enmarca dentro de la legislación ambiental y 
+sanitaria vigente, incorporando los lineamientos establecidos por la Estrategia Nacional de Residuos 
+Orgánicos (ENRO) y demás regulaciones aplicables, con el fin de asegurar una gestión responsable y 
+sustentable de los residuos orgánicos.
+
+===== p.11 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+3.1.1.
+DESCRIPCIÓN DEL LUGAR DE EMPLAZAMIENTO DE LA INSTALACIÓN DE RESIDUOS
+3.1.1.1
+ESTUDIO DE MECÁNICA DE SUELOS
+En Anexo Informe de Mecánica de Suelo del EIA, se presenta un estudio de mecánica de suelos del 
+sitio. Se destaca un extracto de la permeabilidad y capacidad de soporte del sueño.
+3.1.1.1.1
+Ensayos de nivel variable o ensayo porchet
+La NCh3610:2020 Geotecnia - Determinación de la conductividad hidráulica saturada de campo, 
+describe cuatro métodos de ensayos para la estimación de la conductividad hidráulica saturada de 
+campo en un suelo donde no se detecte nivel freático dentro de la profundidad de exploración. 
+De los cuatro métodos señalados en la NCh 3610:2020, se utilizará el Ensayo de nivel variable o 
+ensayo Porchet. 
+Este ensayo de terreno consiste en llenar de agua una cavidad de diámetro d y profundidad H, 
+midiendo el descenso del nivel del agua dentro de ella a través del tiempo. A la profundidad donde 
+es de interés medir la conductividad hidráulica estimada en terreno, se debe excavar un cilindro al 
+interior de la calicata cuyas dimensiones se ajusten a lo indicado en la NCh 3610:2020, y que se 
+relaciona con el tamaño máximo de las partículas del suelo. 
+A modo de verificar las dimensiones de la cavidad, es necesario realizar la medición de su diámetro
+en 2 secciones (Inferior y superior) con 2 dimensiones preferentemente ortogonales entre sí, c. 
+Además, la altura se debe medir en al menos 3 puntos equidistantes entre sí en su manto y uno al 
+centro. 
+Finalmente, se deberá llenar de agua la cavidad, hasta quedar a ras con la superficie del terreno. 
+Luego se esperará que el agua descienda un par de centímetros, dependiendo de la profundidad de 
+la cavidad y se procederá a medir el descenso de la superficie libre debido a la infiltración a través del 
+fondo y las paredes. El tiempo de descenso del nivel del agua, se realizará cada 2 cm., ayudados por 
+medio de una regla graduada, provista de un sistema de flotación en el extremo que estará en 
+contacto con el nivel del agua.
+
+===== p.12 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12
+Figura 4.
+Ensayo infiltración de Porchet (imagen referencial)
+La siguiente figura y tabla, presenta la ubicación con coordenadas UTM de los ensayos de infiltración 
+de Porchet en terreno.
+Figura 5.
+Ubicación de Ensayo de Porchet
+Tabla 3.Coordenadas UTM ubicación Ensayo de Porchet
+CALICATA
+ESTE
+NORTE
+C1
+267.847
+6.337.502
+
+===== p.13 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13
+Datum WGS 84 Huso 19H
+Resultado del ensayo de Porchet
+El resultado obtenido indica que a nivel superficial la tasa de infiltración del primer estrato de suelo 
+es de 127,07 (mm/h) en el punto de medición (calicata C1). En la siguiente tabla, se presenta el 
+resultado obtenido.
+Tabla 4.Resultados de ensayo de Porchet realizado en terreno. 
+N° Calicata 
+Permeabilidad 
+(cm/seg)
+Permeabilidad 
+(m/seg)
+Permeabilida
+d (mm/hr)
+Permeabilida
+d (cm/hr)
+Permeabilidad según 
+Soil Conservation 
+Service
+C1
+3,53E-03
+3,5E-05
+127,07
+12,71
+Moderadamente 
+Elevada
+3.1.1.1.2
+Ensayo densidad in situ
+El procedimiento de toma de densidad in situ se basa en lo señalado en las referencias normativas 
+NCh1516.Of79 Determinación de la densidad en terreno - Método nuclear o Método 8.502.2, 
+diciembre 2003, Manual de Carretera V8.
+El método permite determinar la densidad total o densidad húmeda de suelos, contenido de 
+humedad y agregados pétreos in situ, por la atenuación de los rayos gamma cuando la fuente 
+gamma y el detector gamma, o ambos, permanecen en o cerca de la superficie. 
+Para operar estos equipos es esencial la instrucción previa del operador sobre los procedimientos 
+rutinarios de seguridad, tales como chequeos de fuga de la fuente, utilización y evaluación del 
+dosímetro, uso de contadores, etc.
+El procedimiento realizado por el operador del laboratorio para la medición con densímetro nuclear 
+deberá cumplir con lo siguiente:
+●Seleccionar un lugar donde el medidor en posición de ensaye esté por lo menos a 150 mm 
+de distancia de cualquier proyección vertical.
+●Prepare el sitio de ensaye de la siguiente manera:
+
+===== p.14 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14
+-
+Remover todo el material suelto y disgregado y cualquier material adicional si es 
+necesario para dejar expuesta la parte superior del material a ensayar.
+-
+Preparar  un  área  horizontal  de  tamaño  suficiente  para  acomodar  el  medidor, 
+aplanándola hasta dejarla lisa de modo de obtener el máximo contacto entre el 
+medidor y el área que se va a ensayar.
+-
+El máximo espacio debajo del medidor no excederá de 3 mm. Use finos del lugar o 
+arena fina para llenar estos huecos y empareje la superficie con una placa rígida u otra 
+herramienta adecuada.
+●Proceder con el ensayo de la siguiente manera:
+-
+Asentar el medidor firmemente.
+-
+Mantener toda otra fuente radiactiva lejos del medidor para evitar que afecte las 
+medidas.
+-
+Emplear un tiempo de estabilización para el equipo de acuerdo con las instrucciones del
+fabricante.
+-
+Hacer y anotar una o más lecturas de 1 min.
+-
+Determinar la densidad húmeda in situ usando la curva de calibración previamente 
+establecida.
+El equipo utilizado en terreno es el modelo Troxler 3430, capaz de determinar rápidamente y con 
+precisión la humedad y la densidad de suelos, bases, agregados (áridos), hormigón y asfalto 
+(hormigón asfáltico), sin tener que recurrir a métodos de intervención física.
+Figura 6.
+Densímetro Nuclear Modelo Troxler 3430 (imagen referencia)
+La siguiente figura y tabla, presenta la ubicación con coordenadas UTM de los puntos de medición de 
+densidad in situ.
+
+===== p.15 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+15
+Figura 7.
+Ubicación de ensayo de densidad in situ
+Tabla 5.Coordenadas UTM ubicación ensayo de densidad in situ
+CALICATA
+ESTE
+NORTE
+C1
+267.847
+6.337.502
+C8
+267.840
+6.337.009
+C10
+267.712
+6.337.270
+C13
+268.146
+6.337.135
+C14
+268.355
+6.337.385
+C16
+267.737
+6.337.488
+C18
+268.189
+6.336.960
+C20
+268.288
+6.337.284
+Datum WGS 84 Huso 19H
+
+===== p.16 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+16
+Resultado del ensayo de densidad in situ
+En la siguiente tabla se presentan los resultados de las mediciones de densidad in situ.
+Resultados
+Calicatas
+C1
+C8
+C10
+C13
+C14
+C16
+C18
+C20
+Espesor capa (cm)
+30
+30
+30
+30
+30
+30
+30
+30
+Profundidad de ensayo (cm)
+30
+30
+30
+30
+30
+30
+30
+30
+D.C.H (kg/m³)
+1,838
+1,648
+1,738
+1,811
+1,761
+1,732
+1,837
+1,793
+D.C.S (kg/m³)
+1,758
+1,576
+1,643
+1,743
+1,656
+1,642
+1,738
+1,73
+Los valores de densidad compactada húmeda (D.C.H) fluctúan entre 1,648 kg/m³ (C8) y 1,838 kg/m³ 
+(C1). En general, los valores son relativamente estables, con un ligero aumento hacia la calicata C1 
+(1,838) y una ligera disminución hacia C8 (1,648).
+Respecto a los valores de densidad compactada seca (D.C.S) hay una leve dispersión en las 
+mediciones obtenidas. El rango de D.C.S va desde 1,576 kg/m³ (C8) hasta 1,758 kg/m³ (C1), 
+mostrando algo de variabilidad entre las calicatas.
+3.1.1.2
+ESTUDIO QUE DÉ CUENTA DE POTENCIALES PELIGROS NATURALES
+En  Anexo 3.6. Línea de Base Geomorfológica y Riesgos Naturales del EIA, se presentan los 
+principales aspectos requeridos. A continuación, presenta un resumen de los principales riesgos 
+naturales.
+3.1.1.2.1
+Riesgos Sísmico
+No hay duda de que los riesgos tectónicos existen, pero no directos, ya que hemos comprobado que 
+ninguna de las zonas de cizalla reconocidas en el predio podrían ser activas ya que ninguna de las 
+superficies Cuaternarias del predio demuestra alguna afectación por estas trazas. Sin embargo, la 
+zona de cizalla Marga Marga es probablemente una zona de debilidad que amplifica los efectos de 
+un terremoto cercano, dados los registros sísmicos y de destrucción de estructuras asociadas a la 
+traza de esta falla. Por ello toda construcción deberá efectuarse con las mismas regulaciones 
+antisísmicas que aplican a las construcciones civiles ya efectuadas en el área.
+3.1.1.2.2
+Riesgo de inundación por Tsunami
+Considerando que el proyecto se localiza en la cordillera de la costa, por sobre los 180 m s.n.m., es 
+que se descarta el peligro de inundación por tsunami.
+
+===== p.17 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+17
+3.1.1.2.3
+Riesgo volcánico
+Considerando que el proyecto se localiza en la cordillera de la costa, a más de 100 km de las zonas 
+volcánicas asociadas al margen occidental de Sudamérica, no existen riesgos volcánicos en el área 
+del proyecto.
+3.1.1.2.4
+Riesgo de remoción en masa
+Procesos de tipo cohesivo y semi cohesivo
+No se identificaron zonas con riesgo asociado a procesos de remoción en masa de tipo cohesivo o 
+semicohesivo,  tales  como  deslizamientos  de  ladera  (landslides)  y  flujos  subsidiarios  como 
+avalanchas de rocas o detritos.
+Procesos de tipo no cohesivo  
+La caída de rocas corresponde a un proceso identificado, aunque limitado en el área de estudio, 
+particularmente se presenta en sectores donde concurren las siguientes condiciones: i) presencia de 
+afloramientos rocosos expuestos, aunque escasos, y ii) pendientes superiores a 40°–45.
+Procesos de tipo fluido
+No se identificaron riesgos asociados a flujos de tipo fluido, desde flujos de fluides normal hasta 
+hiperconcentrados.  Los  flujos  hiperconcentrados  reconocidos  han  generado  depósitos  de 
+pequeña magnitud y se restringen principalmente a sectores altos del área de estudio. Desde las 
+partes medias del área hacia aguas abajo, se estima que los flujos son predominantemente 
+acuosos, sin evidencias de transporte masivo de sedimentos.  
+ 
+No se observaron depósitos atribuibles a flujos densos, tales como debris flows o mudflows. La 
+ocurrencia de este tipo de procesos se considera poco probable, dado el bajo contenido de arcillas 
+identificado en los suelos y depósitos locales, condición que limita la generación de flujos con 
+comportamiento reológico denso. 
+3.1.1.3
+GEOLOGÍA DEL SITIO
+En Anexo 3.5. Línea de Base Geológica del EIA, se presentan los principales aspectos requeridos. A 
+continuación, presenta un resumen de los principales aspectos geológicos.
+La geología del área de estudio está dominada litológicamente por un cuerpo intrusivo de 
+composición tonalítica que abarca casi la totalidad del área de estudio, el cual instruye a rocas tipo 
+hornfels  en  hacia  el  sur  del  área.  Ambas  litologías  muestran  meteorización  superficial, 
+identificándose con mayor intensidad en la unidad tonalítica, donde se ha generado un suelo 
+residual en superficie, donde se han identificado claros perfiles de meteorización asociados a una 
+roca fresca en profundidad. 
+
+===== p.18 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+18
+ 
+Desde el punto de vista tectónico-estructural, se reconoce un dominio estructural de orientación 
+predominantes noroeste (NW), asociado a la Zona de Falla Marga Marga (ZFMM), confirmando la 
+existencia de una traza de falla a unos 600 m al norte de las instalaciones del Proyecto. Esta falla 
+coincidiría con la traza de la falla de Marga Marga propuesta por Gana (1996), no obstante, estudios 
+posteriores (Muñoz, 2013; Maldonado et al. 2021) proponen que dicha traza principal se ubicaría 
+más al norte, en el valle del estero homónimo. De la revisión en terreno, no fue posible asociar esta 
+falla a un rompimiento reciente por lo que se concluye que correspondería a una zona de cizalla no 
+activa. 
+ 
+Por otra parte, en términos geotécnicos se han reconocido condiciones potencialmente favorables 
+en el macizo rocoso, dominado por tonalita, para la estabilidad de las construcciones proyectadas. 
+Tampoco se identificó resto paleontologico alguno, ni elementos que reviertan un valor patrimonial 
+geo-cientifico.
+
+===== p.19 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+19
+Figura 8.
+Mapa geológico del área de estudio
+3.1.1.4
+ESTUDIO HIDROLÓGICO DEL SITIO
+En Anexo 3.4 Línea de Base Hidrogeológica del presente Estudio de Impacto Ambiental, se presenta 
+la Línea Base Hidrológica del sitio y su área de influencia, a continuación, un resumen de los 
+principales aspectos del estudio.
+Para una caracterización exhaustiva de la red hidrográfica en el área de intervención, se consideran 
+las bases de datos del IGM y BCN, junto con la topografía de alta resolución del proyecto. A partir de 
+estas fuentes, se identifican los cauces y quebradas que drenan el área del proyecto hacia el Estero 
+Marga-Marga. Así mismo, se complementa el análisis con el reconocimiento de cuerpos de agua 
+mediante las observaciones de terreno y el análisis de imágenes satelitales.
+3.1.1.4.1
+Identificación de cauces
+Inicialmente, la Figura 9 muestra la hidrografía obtenida de la Biblioteca del Congreso Nacional 
+(BCN). En ella se observa que solo dos cauces, con dirección sur a norte, interactúan con el proyecto. 
+Ambas son quebradas sin nombre, tributarias del Estero Marga-Marga, ubicadas aguas arriba de su 
+confluencia con el Estero Quilpué y del viaducto “Marga-Marga” del Troncal Sur (Ruta CH-60).
+Figura 9.
+Cauces identificados en la red hídrica de la Biblioteca del Congreso Nacional 
+(BCN) y su relación con el área de intervención
+
+===== p.20 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+20
+Análogamente, la Figura 9 muestra la hidrografía del IGM. En ella se observan las mismas dos 
+quebradas identificadas por la BCN, pero con un mayor número de tributarios. Adicionalmente, esta 
+base de datos presenta una tercera quebrada hacia el oeste, la cual se observa interactuar 
+directamente con el camino de acceso al proyecto.
+Dadas estas observaciones, según la topografía de detalle disponible, la Figura 10 identifica los 
+cauces con una longitud mínima de 10 metros que drenan áreas de al menos 1 hectárea (0,01 km2). 
+En ella se observa una correspondencia semejante con la red de cauces nacional, resaltando las 
+quebradas identificadas tanto por la BCN como por el IGM, y sus respectivos tributarios.
+Excluyendo el Estero Marga-Marga, y considerando de este a oeste las quebradas que tributan al 
+mismo, se identifican en la Figura 11 las quebradas  Q1,  Q2 y  Q3 como aquellos drenajes más 
+relevantes para la interacción del sistema hídrico con el proyecto. Además, en la zona occidental 
+donde se proyecta el camino de acceso, se identifican quebradas menores nombradas como Q4, Q5, 
+Q6, Q7, Q8, Q9 y Q10.
+Figura 10.
+Cauces identificados en la red hídrica del Instituto Geográfico Militar (IGM) y su 
+relación con el área de intervención
+
+===== p.21 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+21
+Figura 11.
+Cauces que drenan al menos 1 hectárea según el levantamiento topográfico de 
+detalle en el área de estudio y aquellos consistentes con la cartografía IGM
+De manera similar, se identifican los distintos tributarios a las quebradas principales, clasificando la 
+red de drenaje según el orden jerárquico de Hack. Dicha clasificación resulta particularmente útil 
+para identificar los cauces en la medida que estos tributan al cauce principal, ya que, a diferencia de 
+otros ordenes jerárquicos (e.g Strahler), el orden de Hack asigna el número 0 al cauce más largo, el 1 
+a sus tributarios directos, el 2 a los tributarios de estos, y así sucesivamente, asociando un número 
+entero n al tributario n-ésimo del cauce de mayor longitud.
+Destacando la nomenclatura empleada para clasificar los tributarios, las Figuras 12 y 13 ilustran el 
+detalle de la identificación de cauces en relación con el camino de acceso del proyecto. Asimismo, la 
+Figura 14 presenta los cauces identificados en el área principal de intervención.
+
+===== p.22 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+22
+Figura 12.
+Quebradas identificadas y sus tributarias en relación con la parte baja del 
+camino de acceso
+Figura 13.
+Quebradas identificadas y sus tributarias con relación a la parte alta del camino 
+de acceso
+
+===== p.23 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+23
+Figura 14.
+Quebradas identificadas y sus tributarias en relación con el área principal de 
+intervención
+A modo de síntesis, la Figura 15 muestra una fotografía panorámica de las quebradas mayores 
+obtenida a partir de un vuelo dron, resumiendo los cauces identificados en un esquema conceptual. 
+En cuanto a ellos, en terreno se observó que las quebradas presentan características similares en 
+términos de granulometría, sección de escurrimiento, meandrosidad y cobertura de suelo, con 
+ciertas heterogeneidades que se ilustran cualitativamente en la Figura 16.
+Según lo observado, los cauces se clasifican como torrentes de escurrimiento esporádico, con 
+taludes pronunciados (≈1:1 H:V) y sección relativamente homogénea. La rugosidad varía levemente 
+producto a la presencia de rocas, vegetación y sedimentos como arenas gruesas en el lecho o finos 
+en los taludes. Por último, se destaca que las quebradas son pronunciadas desde la cabecera hasta 
+su desembocadura en el Estero Marga-Marga, sin terrazas ni planicies de inundación evidentes.
+
+===== p.24 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+24
+Figura 15.
+Figura 3-9. Quebradas identificadas para el proyecto en vista panorámica desde 
+el Estero Marga-Marga hacia el sur. Quebradas (línea continua azul) y divisoria de aguas 
+aproximada (línea segmentada rosada). Fotografía del 7 de febrero de 2025
+Figura 16.
+Fotografías representativas de distintos tramos observables en la quebrada Q2. 
+(a) Sección de lecho con presencia de gravas y vegetación. (b) Sección con vegetación, lecho 
+de arenas y taludes de sedimento fino. (c) Sección angosta de baja vegetación, lecho 
+arenoso y taludes de sedimento fino. Fotografías del 7 de febrero de 2025
+
+===== p.25 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+25
+3.1.1.4.2
+Identificación de cuerpos de agua
+En cuanto a los cuerpos de agua, dentro del área de intervención no se observa ninguna laguna, 
+humedal o zona de acumulación. No obstante, tal como ilustra la Figura 17, aguas abajo del 
+proyecto, en la desembocadura de la quebrada Q1 y Q3 se identifican los cuerpos de agua CA1 y CA6 
+asociados al Estero Marga-Marga y que se formaron a raíz de procesos de extracción de áridos.
+Según el inventario de humedales del Ministerio del Medio Ambiente (MMA, 2015), ninguno de los 
+cuerpos de agua identificados se clasifica como tal. No obstante, el Estero Marga-Marga, Estero 
+Quilpué y Estero Viña del Mar sí están reconocidos como humedales (“HU-RS-3897 - Estero Viña del 
+Mar”).
+Figura 17.
+Cuerpos de agua y humedales identificados en el Estero Marga-Marga y Estero 
+Viña del Mar en relación con las quebradas del proyecto
+Imágenes satelitales historia de los últimos 20 años revelan que los cuerpos de agua identificados 
+son una consecuencia de la extracción de áridos en el Estero Marga-Marga. Como muestra la Figura 
+18, en el verano de 2003 el estero presentaba un flujo continuo, mientras que actualmente se 
+encuentra fragmentado en sucesivos afloramientos de agua subterránea y cuerpos de agua 
+menores. La Figura 19 muestra fotografías actuales de los cuerpos de agua CA1 y CA6, poniendo en 
+evidencia la fragmentación del cauce.
+
+===== p.26 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+26
+Figura 18.
+Imágenes satelitales (Google Earth) del Estero Marga-Marga aguas abajo del 
+proyecto. (a) Cauce en febrero 2003. (b) Cuerpo de agua CA1 inexistente en febrero de 2003. 
+(c) Cauce en febrero 2024. (d) Cuerpo de agua CA1 en febrero de 2024
+Figura 19.
+Cuerpos de agua identificados. (a) Fotografía hacia el oeste del CA6. (b) 
+Fotografía hacia el este del CA1. Fotografías del 07 de febrero de 2025
+Fuera de los evidentes cambios morfológicos que ha experimentado el cauce a lo largo de los años, 
+los impactos humanos desde una perspectiva ecológica-ambiental son claros y visibles. Como indica 
+la Figura 20, la confluencia entre las quebradas del proyecto y el Estero Marga-Marga presenta un 
+alto grado de intervención humana, reflejado, por un lado, en la presencia de caminos y huellas 
+vehiculares probablemente asociadas a los proyectos de extracción de áridos, y por otro, en la 
+acumulación frecuente de basura y escombros, los cuales se ubican tanto en el lecho del cauce 
+como en los cuerpos de agua asociados.
+
+===== p.27 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+27
+Figura 20.
+Basurales y escombros en el Estero Marga-Marga. (a) Ortofoto del proyecto 
+evidenciando basuras y escombros en el lecho del cauce. (b) Desembocadura de la quebrada 
+Q3 y residuos. (c) Basuras al costado del cuerpo de agua CA1
+3.1.1.5
+ESTUDIO HIDROGEOLÓGICO DEL SITIO
+En Anexo 3.4. Línea de Base Geológica del EIA, se presentan los principales aspectos requeridos. A 
+continuación, presenta un resumen de los principales aspectos hidrogeológicos.
+El área del proyecto se localiza en el sector sureste de Viña del Mar, dentro de la unidad 
+morfoestructural de la Cordillera de la Costa, compuesta por rocas ígneas intrusivas jurásicas, 
+principalmente tonalitas y granodioritas pertenecientes a la Unidad Limache (Jlt). Estas se formaron 
+por enfriamiento de magma a gran profundidad hace más de 145 millones de años y han intruido y 
+alterado térmicamente unidades más antiguas como la Formación Ajial (Ja), aunque esta última no 
+ha sido reconocida con claridad en el área del proyecto. 
+La información estratigráfica disponible proviene de pozos profundos ubicados hacia el valle, donde 
+se registran capas de maicillo, arenas y arcillas, con presencia de roca cristalina desde los 50 m de 
+profundidad. No obstante, estos antecedentes no representan adecuadamente las condiciones del 
+sitio, ya que se ubican a menor altitud y podrían estar influenciados por la descarga del valle 
+correspondiente al estero Viña del Mar. 
+De forma particular para el área del proyecto, la geología local muestra un terreno dominado por un 
+manto de material disgregado tipo "maicillo", derivado de la meteorización de los intrusivos 
+granitoides. Las calicatas realizadas en el área confirman esta cobertura homogénea, evidenciando 
+
+===== p.28 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+28
+dos niveles principales: una capa vegetal superficial (hasta 1 m) y un segundo estrato de maicillo con 
+escasos finos. En una de las calicatas (n°19), se identificó roca de alta dureza a 1,6 m de profundidad, 
+lo que sugiere una meteorización y/o alteración diferencial en la zona, lo que se traduce en la 
+aparición de roca a distintas profundidades. 
+Los perfiles ERT muestran un aumento progresivo de resistividad con la profundidad, permitiendo 
+estimar espesores variables de la unidad meteorizada (“maicillo”) entre 15 y 40 m, que se dispone 
+sobre un basamento rocoso compacto e impermeable. Esta variación de la profundidad de la roca se 
+debe principalmente a la meteorización diferencial. 
+Respecto a la presencia de agua subterránea, los valores de resistividad obtenidos en los perfiles ERT 
+no evidencian la presencia de un acuífero en el sector. Sin embargo, la permeabilidad obtenida en el 
+ensayo Porchet, junto a la presencia puntual de agua en la calicata 23, indican que las aguas lluvias 
+podrían infiltrarse y almacenarse de forma temporal en la zona meteorizada (“maicillo”). A su vez, 
+que escurrirían aguas abajo hacia zonas más deprimidas. Por último, la acumulación de aguas 
+subterráneas estará fuertemente condicionada a las precipitaciones y a los espesores de la capa de 
+“maicillo” de alta permeabilidad y la profundidad de la roca, adicionalmente, la presencia de capas 
+arcillosas disminuye la posibilidad de almacenamiento y podría favorecer el escurrimiento 
+superficial y subterráneo hacia zonas más bajas
+3.2.
+A.2 DESCRIPCIÓN DE VARIABLES METEOROLÓGICAS RELEVANTES
+3.2.1.
+CLIMA Y METEOROLOGÍA 
+Los antecedentes presentados en el presente punto se detallan en el Anexo 3.3 Línea de Base 
+Hidrológica - Caracterización Hidrológica del presente Estudio de Impacto Ambiental. Se presenta 
+a continuación un extracto de los principales aspectos del estudio.
+Para caracterizar el hidroclima se consideró la literatura reciente y los criterios técnicos establecidos 
+por el Servicio de Evaluación Ambiental (SEA). Específicamente, para el análisis de variables 
+hidrológicas, se considera el monitoreo de la red hidro-meteorológica de la Dirección General de 
+Aguas (DGA).
+Las cuencas afectadas por el proyecto no presentan control fluviométrico ni sedimentológico. Sin 
+embargo, al revisar la red de monitoreo nacional, se constató que la cuenca del Estero Viña del Mar 
+tampoco dispone de mediciones continuas de caudal en ninguno de sus tramos o tributarios, de 
+manera que la caracterización hídrica del cauce se realiza necesariamente mediante métodos 
+indirectos.
+Para ello, se identifican estaciones meteorológicas cercanas con registros extensos de temperatura
+y precipitación. La Figura 21 resume las estaciones seleccionadas, mientras que la Figura 22 muestra 
+su ubicación en relación con la cuenca del Estero Viña del Mar.
+
+===== p.29 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+29
+Considerando los alcances de la línea base, se decide analizar la información de la estación 
+“05510002 - Lago Peñuelas” debido a su cercanía al proyecto, representatividad geográfica, 
+disponibilidad histórica y continuidad de registros. Además, esta estación se destaca entre las demás 
+por  contar  con  información  simultánea  de  precipitación  y  temperatura  durante  un  periodo 
+comparable.
+Figura 21.
+Catastro de estaciones meteorológicas DGA cercanas al área del proyecto.
+En rojo destaca la estación escogida para el análisis estadístico.
+Figura 22.
+Estaciones meteorológicas cercanas al proyecto y a la cuenca del Estero Viña del 
+Mar
+3.2.2.
+HIDROCLIMA HISTÓRICO
+
+===== p.30 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+30
+Considerando la estación Lago Peñuelas (DGA), la Figura 23 presenta las series de tiempo de 
+precipitación, temperatura media y temperaturas extremas utilizadas para el diagnóstico del 
+hidroclima  del  proyecto.  Como  primera  observación,  los  datos  evidencian  fluctuaciones 
+significativas en la escala interanual, estacional y diaria, las cuales serían analizadas con mayor 
+detalle en la siguiente sección.
+Figura 23.
+Series de tiempo de la estación Lago Peñuelas a 9,6 km del proyecto. (a): 
+Precipitación acumulada diaria. (b) Temperatura media diaria. (c) Temperaturas máxima y 
+mínima diarias. Zona sombreada destaca el periodo 1990-2020. Datos originales sin 
+información rellenada.
+3.2.3.
+VARIABILIDAD ESTACIONAL
+La Figura 24 muestra la variación estacional típica de precipitación y temperatura en la estación Lago 
+Peñuelas (DGA). En ella se observa un ciclo caracterizado por una temporada húmeda y fría entre 
+abril y octubre, y una temporada cálida y seca entre noviembre y marzo. Durante los meses de 
+
+===== p.31 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+31
+invierno (junio y julio), las precipitaciones acumulan montos de 160 a 180 mm mensuales, mientras 
+que en los meses de verano son prácticamente nulas. A nivel de eventos puntuales, la Figura 24 
+evidencia tormentas extremas que han acumulado montos mayores a 200 mm en un sólo día. 
+Figura 24.
+Climograma de la estación meteorológica Lago Peñuelas para el periodo 1990-
+2020. Curva roja, negra y azul corresponden a la media mensual de temperaturas máximas, 
+medias y mínimas respectivamente. Barras azules indican la media de las precipitaciones 
+acumuladas mensuales.
+En cuanto a las temperaturas, los meses de junio, julio y agosto presentan valores templados, con 
+promedios cercanos a 10°C, mientras que en diciembre, enero y febrero predominan temperaturas 
+cálidas, con promedios de aproximadamente 17°C. En cuanto al ciclo diurno promedio, las máximas 
+de verano oscilan entre 20°C y 24°C, y las mínimas invernales fluctúan entre 4°C y 6°C, no obstante, 
+como muestra la Figura 24, durante eventos extremos y específicos, se registran temperaturas de 
+verano superiores a 30°C y heladas invernales inferiores a 0°C.
+La Figura 25 indica los valores medios mensuales de las variables hidroclimáticas evaluadas en el 
+periodo histórico.
+Figura 25.
+Promedios mensuales y anuales de variables hidroclimáticas entre 1990 y 2020. 
+Precipitación (P), temperatura máxima diaria (Tx), media diaria (Tm) y mínima diaria (Tn) en 
+Lago Peñuelas. Caudal (Q) en el Estero Viña del Mar en desembocadura.
+
+===== p.32 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+32
+3.2.4.
+VELOCIDAD DEL VIENTO
+En Anexo 3.1. Línea de Base de Clima y Meteorología del EIA, se presentan los principales aspectos 
+requeridos. A continuación, presenta un resumen de los principales aspectos del elemento viento.
+Se analizó el comportamiento de los parámetros meteorológicos utilizando datos modelado por el 
+modelo WRF, para el año 2025. Se analizó información de velocidad de viento y dirección del viento 
+desde el 1 de enero de 2025 a las 00:00 hasta el 31 de diciembre de 2025 a las 23:00, con datos 
+horarios.
+A continuación, se representan la rosa de los vientos y las frecuencias de la rapidez del viento 
+construidas con los datos modelados para el punto de emplazamiento del proyecto.
+Tabla 6.Rosa y distribución de la velocidad del viento, modeladas por WRF
+Rosa y distribución de la velocidad del viento
+Características
+A
+n
+u
+a
+l
+-Las  direcciones  predominantes  del  viento 
+modelado se concentran principalmente en el 
+sector sur, destacando las componentes S, 
+SSO y SO. En particular, la dirección sur (S) 
+presenta la mayor frecuencia, seguida por la 
+componente sur -suroeste (SSO), lo que indica 
+un predominio de vientos provenientes del 
+cuadrante sur.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores frecuencias se asocian a velocidades 
+moderadas
+ 
+y
+ 
+altas
+ 
+provenientes 
+principalmente  del  sur  y  sur  -  suroeste, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento 
+indica una frecuencia de vientos calmos de 
+6,9%.  En  tanto,  las  categorías  de  mayor 
+velocidad presentan las frecuencias más altas: 
+el  rango  5,7–8,8  m/s  alcanza  un  23,4%, 
+mientras que las velocidades mayores a 8,8 
+m/s representan un 24,4%, siendo esta última 
+la categoría predominante.
+-Finalmente, la modelación WRF muestra un 
+régimen  de  viento  dominado  por 
+componentes del sur a sur suroeste, con una 
+alta proporción de velocidades moderadas a 
+intensas.
+
+===== p.33 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+33
+Rosa y distribución de la velocidad del viento
+Características
+V
+e
+r
+a
+n
+o
+-Para el periodo de verano, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en el cuadrante 
+sur,  destacando  las  componentes  sur  - 
+suroeste  (SSO)  y  sur  (S).  En  particular,  la 
+dirección SSO presenta la mayor frecuencia, 
+seguida por la componente S, lo que indica un 
+predominio  de  vientos  provenientes  del 
+sector sur durante esta estación.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades moderadas y 
+altas provenientes del sur - suroeste y sur, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento en 
+verano  indica  una  frecuencia  de  vientos 
+calmos de 5,3%. Las categorías con mayor 
+frecuencia  corresponden  a  velocidades 
+mayores a 8,8 m/s, con 25,7%, seguidas por el 
+rango 3,6–5,7 m/s, con 22,5%, y el rango 5,7–
+8,8 m/s, con 21,1%.
+-En general, durante el verano la modelación 
+WRF muestra un régimen de viento dominado 
+por componentes del sur - suroeste a sur, con 
+una  alta  proporción  de  velocidades 
+moderadas a intensas.
+
+===== p.34 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+34
+Rosa y distribución de la velocidad del viento
+Características
+O
+t
+o
+ñ
+o
+-Para el periodo de otoño, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en el cuadrante 
+sur, destacando las componentes sur (S) y sur 
+suroeste (SSO). En particular, la dirección S 
+presenta la mayor frecuencia, seguida por la 
+componente SSO, lo que indica un predominio 
+de  vientos  provenientes  del  sector  sur 
+durante esta estación.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades moderadas y 
+altas  provenientes  del  sur  y  sur  suroeste, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento en 
+otoño indica una frecuencia de vientos calmos 
+de 9,5%. Las categorías con mayor frecuencia 
+corresponden a velocidades mayores a 8,8 
+m/s, con 22,7%, seguidas por el rango 3,6–5,7 
+m/s, con 20,7%, y el rango 5,7–8,8 m/s, con 
+19,7%.
+-En  conclusión,  durante  el  otoño  la 
+modelación  WRF  muestra  un  régimen  de 
+viento dominado por componentes del sur a 
+sur suroeste, con una proporción importante 
+de velocidades moderadas a intensas.
+
+===== p.35 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+35
+Rosa y distribución de la velocidad del viento
+Características
+I
+n
+v
+i
+e
+r
+n
+o
+-Para el periodo de invierno, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en la componente 
+sur (S), la cual presenta la mayor frecuencia 
+durante esta estación. También se identifican 
+ocurrencias  secundarias  en  direcciones 
+cercanas al sur suroeste (SSO) y, en menor 
+medida, en el cuadrante norte.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades moderadas y 
+altas provenientes del sur, especialmente en 
+los rangos superiores a 3,6 m/s.
+-La distribución de la velocidad del viento en 
+invierno  indica  una  frecuencia  de  vientos 
+calmos de 7,8%. Las categorías con mayor 
+frecuencia  corresponden  al  rango  5,7–8,8 
+m/s, con 29,7%, seguido por las velocidades 
+mayores a 8,8 m/s, con 19,4%, y el rango 3,6–
+5,7 m/s, con 17,2%.
+-Se  concluye  que,  durante  el  invierno  la 
+modelación  WRF  muestra  un  régimen  de 
+viento dominado por la componente sur, con 
+una proporción  importante  de  velocidades 
+moderadas a intensas, especialmente entre 
+5,7 y 8,8 m/s.
+
+===== p.36 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+36
+Rosa y distribución de la velocidad del viento
+Características
+P
+r
+i
+m
+a
+v
+e
+r
+a
+-Para el periodo de primavera, las direcciones 
+predominantes  del  viento  modelado  se 
+concentran principalmente en el cuadrante 
+sur, destacando las componentes sur (S) y sur 
+suroeste (SSO). En particular, la dirección S 
+presenta la mayor frecuencia, seguida por la 
+componente SSO, lo que indica un predominio 
+de  vientos  provenientes  del  sector  sur 
+durante esta estación.
+-La  rosa  de  los  vientos  muestra  que  las 
+mayores
+ 
+frecuencias
+ 
+se
+ 
+asocian 
+principalmente  a velocidades moderadas y 
+altas  provenientes  del  sur  y  sur  suroeste, 
+especialmente en los rangos superiores a 3,6 
+m/s.
+-La distribución de la velocidad del viento en 
+primavera indica una frecuencia de vientos 
+calmos de 4,9%. Las categorías con mayor 
+frecuencia  corresponden  a  velocidades 
+mayores a 8,8 m/s, con 30,0%, seguidas por el 
+rango 5,7–8,8 m/s, con 23,3%, y el rango 3,6–
+5,7 m/s, con 19,8%.
+-En  síntesis,  durante  la  primavera  la 
+modelación  WRF  muestra  un  régimen  de 
+viento dominado por componentes del sur a 
+sur  suroeste,  con  una  alta  proporción  de 
+velocidades moderadas a intensas.
+3.3.
+A.3 ESTIMACIÓN Y CARACTERIZACIÓN CUALITATIVA Y CUANTITATIVA DE LOS 
+RESIDUOS A TRATAR
+La estimación y caracterización cualitativa y cuantitativa de los residuos a tratar durante las 
+diferentes fases del proyecto se presentan a continuación.
+3.3.1.
+FASE CONSTRUCCIÓN
+Durante la fase de construcción se generarán residuos sólidos domiciliarios y asimilables, además de 
+residuos sólidos industriales no peligrosos, producto del consumo diario de los trabajadores y las 
+actividades propias de la obra de construcción. 
+
+===== p.37 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+37
+En base a las siguientes premisas de cálculo, se ha estimado el volumen de estos residuos, los cuales 
+serán almacenados temporalmente en el sitio hasta su disposición final en el frente de trabajo del 
+Relleno Sanitario del proyecto, el cual se encontrará operativo durante esta etapa.
+▪
+Producción per cápita por trabajador
+:
+1 kg trab/día
+▪
+N° de trabajadores 
+:
+10 trabajadores
+▪
+Días de trabajo al mes
+:
+26
+▪
+Densidad basura suelta
+: 
+0,15  ton/m³  (Tchobanoglous, 
+1993)
+▪
+Factor de generación RSINP
+: 
+0,26 m³/m²
+▪
+Superficie planta compostaje
+: 
+2.210,18 m²
+▪
+Duración fase de construcción
+: 
+3 meses
+▪
+Días de operación de la planta a la semana
+: 
+6 días
+Tabla 7.Generación de residuos durante la fase de construcción
+Tipología
+Detalle
+Generación Diaria
+Generación total
+Volumen total
+Residuos sólidos 
+domiciliarios
+Residuos orgánicos, 
+envases, papeles, 
+restos de alimentos, 
+entre otros
+10 kg/día
+0,78 ton
+5,2 m³
+Residuos sólidos 
+industriales no 
+peligrosos
+Despuntes de 
+madera, fierro, 
+plásticos, hormigón, 
+escombros y otros 
+desechos de 
+construcción inertes
+1,11 ton/día
+86,20 ton
+574 m³
+En virtud de lo expuesto, se estima la necesidad de implementar los siguientes sistemas de 
+almacenamiento para residuos sólidos domésticos y asimilables, con el fin de asegurar una gestión 
+eficiente y segura de los residuos que se generen durante este período.
+Tabla 8.Sistema de almacenamiento y disposición final de residuos sólidos domésticos y 
+asimilables 
+Tipología
+Cantidad 
+Personas
+Total
+kg/día
+litros/semana
+Sistema de 
+almacenamiento 
+Disposición final
+
+===== p.38 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+38
+Residuos 
+Sólidos 
+Domésticos o 
+asimilables
+10 trabajadores
+10 kg 
+trab/día
+400
+2 contenedores de 
+240 lts
+Relleno sanitario - 
+Centro 
+Metropolitano de 
+gestión integral de 
+residuos
+En virtud de lo expuesto, se dispondrán 2 contenedores plásticos de 240 litros, tipo domiciliario, 
+estancos,  con  tapa  y  ruedas,  ubicados  en  sectores  cercanos  a  las  zonas  de  trabajo.  Estos 
+receptáculos estarán  claramente  señalizados y  serán  mantenidos en  condiciones de  higiene 
+adecuadas, a fin de evitar la proliferación de vectores y malos olores.
+Figura 26.
+Imagen referencial contenedor 240 litros
+La recolección de los residuos sólidos asimilables a domiciliarios se realizará 1 vez a la semana por 
+parte del personal del Centro Metropolitano de Gestión Integral Residuos. Estos residuos serán 
+trasladados internamente hasta el frente de trabajo del relleno sanitario, el cual se encontrará 
+operativo durante la fase de construcción de la planta de compostaje. Esta disposición se efectuará 
+conforme a los procedimientos establecidos para la gestión interna de residuos.
+Tabla 9.Sistema de almacenamiento y disposición final de RSINP
+Tipologí
+a
+M² 
+construido
+M³ 
+total
+Duración de 
+la fase 
+construcción 
+semanas
+m³/
+semana
+Sistema de 
+almacenamiento 
+Disposición final
+RSINP
+2.173,4 m²
+565 m³
+12
+47,09
+2 contenedores 
+tipo open top de 30 
+m³
+Relleno sanitario - 
+Centro Metropolitano 
+de gestión integral de 
+residuos
+Por otra parte, se dispondrán 2 contendores tipo open top de 30 m³, cuya ubicación podrá ser 
+modificada durante el desarrollo de las faenas, en función de variables técnicas y metodológicas 
+propias del proceso constructivo. No obstante, su emplazamiento se mantendrá siempre dentro del 
+perímetro  autorizado del  Proyecto.  El  área  destinada  al  acopio  contará  con  la  señalización 
+correspondiente, indicando el tipo de residuos permitidos.
+
+===== p.39 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+39
+Figura 27.
+Imagen referencial contenedor open top 30 m³
+Estos residuos serán trasladados internamente hasta el frente de trabajo del relleno sanitario, el 
+cual se encontrará operativo durante la fase de construcción de la planta de compostaje. Esta 
+disposición se efectuará conforme a los procedimientos establecidos para la gestión interna de 
+residuos.
+3.3.2.
+FASE OPERACIÓN
+3.3.2.1
+RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES 
+Durante la fase de operación del proyecto se generarán residuos sólidos domiciliarios y asimilables, 
+producto del consumo diario de los trabajadores en las distintas instalaciones. En función de esta 
+actividad y considerando las bases de cálculo detalladas a continuación, se ha estimado el volumen 
+de residuos que deberán ser gestionados en el sitio.
+▪
+Producción per cápita por trabajador
+:
+1 kg trab/día
+▪
+N° de trabajadores 
+:
+8 trabajadores
+▪
+Días de trabajo al mes
+:
+26
+▪
+Densidad basura suelta
+: 
+0,15 kg/m³
+▪
+Duración fase de operación
+:
+22 años 
+Tabla 10.
+Generación de residuos durante la fase de operación
+Tipología
+Detalle
+Generación Diaria
+Generación Total
+Volumen total
+Residuos sólidos 
+domiciliarios
+Residuos  orgánicos, 
+envases,  papeles, 
+restos de alimentos, 
+entre otros
+8 kg/día
+54,91 ton
+366,08 m³
+
+===== p.40 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+40
+En virtud de lo expuesto, se estima la necesidad de implementar los siguientes sistemas de 
+almacenamiento para residuos sólidos domésticos y asimilables, con el fin de asegurar una gestión 
+eficiente y segura de los residuos que se generen durante este período.
+Tabla 11.
+Sistema de almacenamiento y disposición final de residuos sólidos domiciliarios 
+y asimilables 
+Total
+kg/día
+litros/semana
+Sistema de 
+almacenamiento 
+Frecuencia de retiro 
+Disposición final
+8 kg/día
+320
+2 contenedores de 240 
+lts
+1 vez a la semana
+Relleno sanitario - Centro 
+Metropolitano de gestión 
+integral de residuos
+En virtud de lo expuesto, se estima que se generarán aproximadamente entre 320 litros/semana de 
+Residuos Sólidos Domiciliarios (RSD) y asimilables. Por lo tanto, estos residuos serán almacenados 
+en 2 contenedores cerrados y estancos de 240 litros, con un tiempo máximo de almacenamiento de 
+una semana. 
+Figura 28.
+Imagen referencial contenedor 240 litros
+La recolección de estos residuos será realizada de forma periódica por personal del Centro 
+Metropolitano de Gestión Integral Residuos, quienes los trasladarán al frente de trabajo del relleno 
+sanitario que se encontrará operativo. Esta gestión se desarrollará bajo procedimientos internos 
+previamente establecidos, asegurando el cumplimiento de la normativa sanitaria y ambiental 
+aplicable.
+3.3.2.2
+RESIDUOS SÓLIDOS DOMICILIARIOS Y ASIMILABLES RECHAZADOS
+Durante la fase de operación se generarán residuos orgánicos que no podrán ser compostados y, por 
+tanto, deberán ser rechazados. En base a las siguientes premisas de cálculo, se ha estimado el 
+volumen  de  estos  residuos,  los  cuales  serán  gestionados  conforme  a  los  procedimientos 
+establecidos y disposición final se realizará en el relleno sanitario del proyecto que se encontrará 
+operativo. 
+▪
+Ingreso máximo diario
+:
+94 ton/día
+
+===== p.41 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+41
+▪
+Tasa de rechazo promedio
+:
+2%
+▪
+Densidad basura suelta
+: 
+0,15 ton/m³
+Tabla 12.
+Generación de residuos rechazados durante la fase de operación
+Tipología
+Ingreso residuos 
+potencialmente 
+reciclable 
+Toneladas /día
+% Rechazo
+promedio 
+Material 
+Rechazo 
+Toneladas /día
+Material Rechazo 
+m³ /día
+Residuos orgánicos con 
+fracciones de / papel / 
+plástico / inorgánicos 
+entre otros
+94
+1,0%
+0,94
+6 m³/día
+Se estima que, durante todo el período de operación de la planta de compostaje, se generará del 
+orden de 6.450 toneladas de residuos rechazados en el proceso productivo.
+Cabe señalar que, en su fase de máxima operación, la planta de compostaje está proyectada para 
+recibir  hasta  94  toneladas  diarias  de  residuos. Sin  embargo,  durante  el  periodo  inicial  de 
+funcionamiento, el ingreso de materiales será gradual, en función del avance de las políticas de 
+educación ambiental y de las intervenciones comunitarias orientadas a fomentar la segregación en 
+origen de residuos orgánicos.
+Por otra parte, el manejo y almacenamiento de este tipo de residuos se realizará conforme a lo 
+detallado en la siguiente tabla.
+Tabla 13.
+Sistema de almacenamiento y disposición final de rechazos
+Generación
+m³/día
+m³/semana
+Sistema de 
+almacenamiento 
+Frecuencia de retiro 
+Disposición final
+6 m³/día
+37,60
+1 contenedor 20 m³
+2 veces a la semana
+Relleno sanitario - Centro 
+Metropolitano de gestión 
+integral de residuos
+Por lo tanto, se dispondrá 1 contenedor de alta resistencia con una capacidad de 20 m³, el cual 
+estará ubicado en un punto estratégico del área operativa. Este contenedor estará debidamente 
+señalizado y permanecerá cerrados para evitar derrames, dispersión por viento u otros impactos al 
+entorno.
+El retiro de estos residuos se realizará 2 veces a la semana o conforme a las necesidades operativas, 
+y estará a cargo del personal del Centro Metropolitano de Gestión Integral Residuos. 
+La disposición final se llevará a cabo en el frente de trabajo del relleno sanitario que se encontrará 
+operativo, conforme a la normativa vigente y a los procedimientos internos de gestión de residuos 
+del Proyecto.
+
+===== p.42 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+42
+3.3.2.3
+RESIDUOS ORGÁNICOS DURANTE EL PROCESO PRODUCTIVO
+Durante el proceso productivo se contempla la gestión de residuos orgánicos provenientes de 
+fuentes domiciliarias, ferias libres, mercados y restos de poda. Estos materiales serán sometidos a 
+un proceso de compostaje aeróbico controlado, cuyas etapas y características operativas se detallan 
+en la siguiente tabla.
+Tabla 14.
+Etapas y características del proceso productivo
+Residuo
+Descripción
+COMPOST 
+Y/O 
+MEJORADOR DE SUELOS
+Origen: Recicladores de base, o municipalidades o asociaciones municipales con 
+personalidad jurídica u otros.
+Cantidad: Se estima que la tasa máxima de ingreso de residuos orgánicos a la planta de 
+compostaje es de 94 toneladas diarias a lo largo la operación proyectada. Durante 
+este periodo, se prevé una tasa de rechazo decreciente, desde un 2% inicial hasta un 
+1%, en la medida en que se implementen y mejoren los sistemas de segregación en 
+origen por parte de los generadores. Con base en estas proyecciones, se estima que la 
+planta producirá un total aproximado de 300.000 toneladas de compost durante su 
+operación,  lo  que  contribuirá  significativamente  a  la  reducción  de  los  residuos 
+dispuestos en rellenos sanitarios, fomentando la economía circular y aportando de 
+manera concreta a la protección del medio ambiente. 
+Manejo y tratamiento: Los residuos orgánicos ingresados a la planta serán sometidos a 
+un proceso de compostaje aeróbico controlado, que incluye etapas de recepción, 
+pretratamiento, conformación de pilas, volteo periódico y maduración. El manejo 
+operativo considerará la adecuada aireación, humedad y temperatura para asegurar 
+un proceso eficiente y la obtención de un compost de calidad, conforme a la normativa 
+vigente. Los residuos no compostables o rechazados serán segregados y gestionados 
+mediante almacenamiento temporal para su disposición final en el relleno sanitario del 
+proyecto.
+Destino  del  material  compostado:  El  compost  producido  será  destinado 
+principalmente a su uso como enmienda orgánica en suelos agrícolas, forestales, áreas 
+verdes urbanas y proyectos de recuperación de suelos degradados. Este material, una 
+vez que cumpla con los parámetros de calidad establecidos por la normativa vigente, 
+podrá ser comercializado o entregado a entidades públicas, privadas o comunidades 
+locales, promoviendo así la valorización de residuos orgánicos y el cierre del ciclo de la 
+materia orgánica.
+Se estima que, durante todo el período de operación de la planta de compostaje, se generarán 
+aproximadamente  300.000 toneladas de compost y/o mejorador de suelos con potencial de 
+valorización. Esta producción representa un aporte significativo a la reducción de residuos orgánicos 
+dispuestos en rellenos sanitarios, promoviendo prácticas de economía circular y contribuyendo de 
+manera efectiva a la protección del medio ambiente y la recuperación de suelos.
+Esta información se ha elaborado en base a datos de referencia de generación de estudios de 
+caracterización, experiencias comparables y proyecciones propias del proyecto, considerando el 
+contexto territorial.
+
+===== p.43 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+43
+3.3.3.
+FASE DE CIERRE
+Al igual que en la fase de construcción se generarán residuos sólidos domiciliarios y asimilables, 
+además de  residuos sólidos industriales no peligrosos, producto del  consumo diario de  los 
+trabajadores y las actividades propias del desmantelamiento de las instalaciones. 
+En base a las siguientes premisas de cálculo, se ha estimado el volumen de estos residuos, los cuales 
+serán almacenados temporalmente en el sitio hasta su disposición final en un sitio autorizado.
+▪
+Producción per cápita por trabajador
+:
+1 kg trab/día
+▪
+N° de trabajadores 
+:
+8 trabajadores
+▪
+Días de trabajo al mes
+:
+26
+▪
+Densidad basura suelta
+: 
+0,15 kg/m³
+▪
+Factor de generación RSINP - cierre
+:
+0,10 m³/m²
+▪
+Superficie planta compostaje
+:
+2.210,18 m²
+▪
+Duración fase de cierre
+:
+3 meses
+Tabla 15.
+Generación de residuos durante la fase de cierre
+Tipología
+Detalle
+Generación 
+Diaria
+Generación 
+total
+Volumen 
+total
+Residuos sólidos 
+domiciliarios
+Residuos orgánicos, envases, papeles, 
+restos de alimentos, entre otros
+8 kg/día
+0,62 ton
+4,16 m³
+Residuos sólidos 
+industriales no 
+peligrosos
+Despuntes de madera, fierro, 
+plásticos, hormigón, escombros y 
+otros desechos de construcción 
+inertes
+2,79 m³/día
+32,60 ton
+217,34 m³
+En virtud de lo expuesto, se estima la necesidad de implementar los siguientes sistemas de 
+almacenamiento para residuos sólidos domésticos y asimilables, con el fin de asegurar una gestión 
+eficiente y segura de los residuos que se generen durante este período.
+Tabla 16.
+Sistema de almacenamiento y disposición final de residuos sólidos domésticos y 
+asimilables 
+Generación 
+litros/semana
+Sistema de almacenamiento 
+Frecuencia de 
+
+===== p.44 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+44
+kg/día
+retiro 
+8 kg/día
+320
+2 contenedores de 240 L
+1 vez a la semana
+En virtud de lo expuesto, se dispondrá 2 contenedores plásticos de 240 litros, tipo domiciliario, 
+estancos, con tapa y ruedas, ubicados cerca de las zonas de trabajo. Este receptáculo estará 
+claramente señalizado y será mantenido en condiciones de higiene adecuadas, a fin de evitar la 
+proliferación de vectores y malos olores.
+Figura 29.
+Imagen referencial contenedor 240 litros
+La recolección de los residuos sólidos asimilables a domiciliarios se realizará de manera periódica 
+por una empresa experta que los transportará a un sitio de disposición final autorizado.
+Tabla 17.
+Sistema de almacenamiento y disposición final de RSINP
+Generación
+m³
+m³/semana
+Sistema de 
+almacenamiento 
+Frecuencia de 
+retiro 
+217,34 m³
+18,11
+1 contenedor tipo open 
+top de 20 m³
+1 vez a la semana
+Se considera la instalación de un contenedor tipo open top de 20 m³ para el almacenamiento 
+temporal de los RSINP, cuya frecuencia de retiro será una vez a la semana por parte de una empresa 
+externa que los trasladará a un sitio de disposición final autorizado. 
+Cabe señalar que su ubicación podrá ser modificada durante el desarrollo de las faenas, en función 
+de  variables  técnicas  y  metodológicas  propias  del  proceso  constructivo.  No  obstante,  su 
+emplazamiento se mantendrá siempre dentro del perímetro autorizado del Proyecto. El área 
+destinada al acopio contará con la señalización correspondiente, indicando el tipo de residuos 
+permitidos.
+3.4.
+A.4 DISEÑO DE LA PLANTA DE TRATAMIENTO QUE INCLUYA DIAGRAMA DE FLUJO 
+Y LAS UNIDADES Y EQUIPAMIENTO
+
+===== p.45 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+45
+3.4.1.
+DIAGRAMA DE FLUJO
+A continuación, se presenta el diagrama de flujo de la planta de compostaje, el cual describe de 
+manera esquemática las distintas etapas del proceso productivo, desde la recepción de los residuos 
+orgánicos hasta la obtención del compost final y la gestión de los materiales rechazados. El flujo 
+considera las operaciones principales de clasificación, separación de impropios, acondicionamiento 
+de la mezcla y almacenamiento, todas ellas orientadas a optimizar la eficiencia del proceso y 
+asegurar la calidad del producto final.
+Figura 30.
+Flujo proceso planta de compostaje
+Cabe  precisar  que  el  Proyecto  contempla  la  recepción  de  residuos  orgánicos  asimilables  a 
+domiciliarios, tales como restos de frutas y  verduras, poda  y  jardinería, entre  otros. En  la 
+eventualidad  de  que  estos  residuos  lleguen  mezclados  con  materiales  no  compostables  o 
+contaminados, tales como plásticos, vidrios o metales, dichos elementos serán considerados 
+rechazo del proceso. Estos serán almacenados transitoriamente en un contenedor dispuesto al final 
+de la línea de pretratamiento, para su posterior derivación al relleno sanitario que se encontrará 
+operativo.
+3.4.2.
+DESCRIPCIÓN DETALLADA DE LA INSTALACIÓN DE MANEJO DE RESIDUOS
+
+===== p.46 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+46
+La instalación está diseñada para la valorización de residuos orgánicos mediante su transformación 
+en compost y/o mejorador de suelos, con una capacidad proyectada de procesamiento de hasta 94 
+toneladas por día en su punto máximo. El diseño considera criterios de eficiencia operativa, 
+seguridad laboral y cumplimiento normativo, priorizando la transformación de la fracción orgánica 
+en compost de calidad y la adecuada gestión de los rechazos no compostables.
+3.4.2.1
+ESPECIFICACIONES DE DISEÑO Y PRINCIPALES UNIDADES OPERATIVAS
+A continuación, se presentan las principales especificaciones técnicas de la instalación, junto con las 
+unidades operativas que conforman su infraestructura. Cada una de estas unidades cumple una 
+función específica dentro del flujo de procesamiento de residuos orgánicos, abarcando las etapas de 
+recepción, tratamiento, maduración y almacenamiento del compost final.
+a)
+Control de ingreso: Portón de acceso con caseta de control, punto en el cual el personal 
+realizará la inspección visual y control documental, para dar el paso a la zona de pesaje.
+b) Control de Tonelaje: Una vez efectuado el ingreso de los vehículos al proyecto, se procederá al 
+control de tonelaje en el sector de la báscula, instancia en la cual se registrará el peso bruto de 
+cada vehículo transportador de residuos. Posteriormente, luego de realizada la descarga del 
+material en el área correspondiente, el vehículo deberá retornar a la báscula para efectuar el 
+pesaje de tara, permitiendo determinar el peso neto de residuos ingresados.
+c)
+Recepción: En esta etapa, los residuos orgánicos son recibidos en la planta y descargados en una 
+zona destinada para su inspección inicial. Se realiza una revisión visual y manual para identificar 
+y retirar materiales no orgánicos o contaminantes, como plásticos, metales o vidrios, que 
+puedan interferir con el proceso de compostaje o afectar la calidad del producto final. Esta 
+selección garantiza que los residuos que ingresen al proceso sean aptos para la degradación 
+biológica, asegurando una transformación eficiente y un compost de buena calidad.
+d) Mezcla y acondicionamiento mecánico: Los residuos orgánicos recepcionados y previamente 
+inspeccionados serán sometidos a una etapa de mezcla y acondicionamiento mecánico, cuyo 
+objetivo será homogenizar las características físicas y químicas del material de entrada, 
+generando condiciones adecuadas para el desarrollo eficiente del proceso de compostaje 
+aeróbico.
+Durante esta etapa, los residuos serán combinados con material estructurante vegetal, tales 
+como restos de poda, chip, triturado vegetal u otros materiales lignocelulósicos compatibles, 
+con el propósito de:
+-
+Regular la relación carbono/nitrógeno (C/N), 
+-
+Mejorar la porosidad y permeabilidad de la mezcla, 
+-
+Favorecer la aireación interna, 
+-
+Controlar el contenido de humedad, 
+-
+Optimizar las condiciones para la actividad microbiológica. 
+La mezcla y acondicionamiento será realizada mediante maquinaria de apoyo, considerando 
+equipos tales como cargador frontal, retroexcavadora u otro equipo mecánico equivalente, 
+
+===== p.47 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+47
+permitiendo la conformación homogénea del material previo a su ingreso a las unidades de 
+compostaje activo.
+Una vez acondicionada, la mezcla será trasladada a las trincheras de compostaje para el inicio de 
+la fase de tratamiento biológico inicial.
+e)
+Zona  de  trincheras:  En  esta  etapa,  los  residuos  orgánicos  previamente  mezclados  y 
+acondicionados, serán ingresados a un sistema de compostaje en trincheras para el desarrollo 
+de la fase activa de biodegradación aeróbica.
+Las  trincheras  corresponden  a  unidades  construidas  en  hormigón,  impermeabilizadas  y 
+provistas de sistemas de aireación y cobertura mediante geomembrana o similar, permitiendo la 
+bioestabilización, higienización y reducción de humedad del material orgánico.
+Posteriormente, el material estabilizado y de mejor calidad proveniente de las trincheras será 
+trasladado a un proceso de maduración final en pilas de compostaje.
+f)
+Zona de maduración: Los residuos orgánicos serán dispuestos en pilas alineadas. Durante esta 
+etapa, las pilas serán sometidas a volteos mecánicos periódicos mediante el uso de una 
+retroexcavadora, con apoyo de operadores, permitiendo mantener condiciones aeróbicas 
+adecuadas para favorecer la actividad microbiana responsable de la degradación y estabilización 
+de la materia orgánica.
+El proceso completo de maduración tendrá una duración estimada de 30 días, período durante 
+el cual el material evolucionará desde una etapa activa de descomposición hasta alcanzar 
+condiciones adecuadas de estabilización. A medida que las pilas completan su ciclo operativo, el 
+material estabilizado será retirado y el espacio podrá reutilizarse para la conformación de 
+nuevas pilas con material fresco.
+El control de humedad de las pilas se realizará mediante riego superficial, ajustando las 
+condiciones operacionales según los requerimientos del proceso biológico. En caso de utilizar 
+agua  potable  o  agua  sin  carga  contaminante  para  el  control  de  humedad,  el  material 
+estabilizado podrá cumplir las condiciones para ser clasificado como compost, conforme a la 
+normativa y criterios técnicos aplicables.
+g)
+Tamizado: Los residuos podrán ser procesados mediante un tamiz mecánico (tromel) y la ayuda 
+de una retroexcavadora o cargador frontal para recuperar la fracción igual o menor a 16 mm 
+denominada Compost. Para mejorador de suelo no es necesario siempre tamizar. 
+h) Ensacado/almacenaje: con la retroexcavadora o cargador frontal los residuos son almacenados 
+en contenedores para ser transportados al destino final.
+i)
+Área  de  almacenamiento  temporal: Superficie  techada  para  resguardo  de  materiales 
+valorizados, con señalización y organización por tipo de residuo.
+j)
+Zona de rechazo: Espacio segregado para almacenamiento de materiales no compostables, con 
+retiro periódico hacia el relleno sanitario.
+
+===== p.48 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+48
+k)
+Oficinas y servicios anexos: Incluye áreas administrativas con servicios higiénicos para el 
+personal.
+3.4.2.2
+MAQUINARIAS Y EQUIPOS PRINCIPALES
+La siguiente tabla presenta las maquinarias y equipos principales contemplados para el adecuado 
+funcionamiento de la planta de compostaje. La selección de estos recursos ha sido realizada en 
+función de los requerimientos operativos asociados a las etapas de recepción, clasificación, 
+tratamiento y acopio de los residuos orgánicos valorizables, asegurando eficiencia operativa, 
+continuidad del proceso y cumplimiento de los estándares técnicos, ambientales y sanitarios 
+aplicables.
+Equipo
+Cantidad
+Función 
+principal
+Especificaciones 
+técnicas
+Retroexcavadora/
+cargador frontal
+1
+Carga, 
+descarga y 
+movimiento de 
+residuos y 
+compost.
+Capacidad: 0,3–1 m³
+Criba o trómel
+1
+Separación de 
+impurezas y 
+obtención de 
+compost 
+refinado.
+Malla intercambiable; 
+granulometría regulable.
+Sistema de riego manual 
+o automático
+-
+Control de 
+humedad en 
+las pilas.
+Mangueras, aspersores o 
+sistema por goteo.
+Termómetros de 
+compostaje
+2
+Monitoreo de 
+la temperatura 
+interna de las 
+pilas.
+Rango 0–100 °C; sondas 
+de acero inoxidable.
+Balanzas
+1
+Control de 
+peso compost 
+generado
+Distintas capacidades
+Ensacadora
+1
+Dosificación y 
+envasado del 
+compost final 
+en sacos para 
+Capacidad: 3–10 t/h 
+(según modelo)
+semiautomática o 
+automática
+
+===== p.49 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+49
+Equipo
+Cantidad
+Función 
+principal
+Especificaciones 
+técnicas
+su 
+comercializació
+n o 
+distribución. 
+Compatible con sacos de 
+25, 40 o 50 kg
+Puede incluir cinta 
+transportadora y 
+sellador térmico
+3.4.2.3
+INSUMOS REQUERIDOS
+Para  el  funcionamiento  continuo  y  eficiente  de  la  Planta  de  Compostaje,  se  requiere  el 
+abastecimiento regular de diversos insumos operacionales. Estos insumos son necesarios para el 
+desarrollo de las actividades diarias de recepción, clasificación, limpieza, mantenimiento de equipos 
+y resguardo de condiciones sanitarias adecuadas. A continuación, se detallan los principales insumos 
+considerados, junto con sus características generales.
+▪
+Energía eléctrica trifásica.
+▪
+Agua potable para uso sanitario y limpieza.
+▪
+Materiales de embalaje (flechillas, etiquetas, pallets).
+▪
+Equipos de protección personal (guantes, cascos, mascarillas).
+▪
+Lubricantes, repuestos y suministros menores para mantenimiento.
+3.4.2.4
+EFICIENCIAS ESPERADAS DEL PROCESO
+El rendimiento de la planta de compostaje se evalúa a través de indicadores clave de eficiencia, los 
+cuales permiten medir la eficacia operativa del sistema, el grado de valorización de los residuos 
+orgánicos y su contribución a la reducción de residuos enviados a disposición final. Las eficiencias 
+aquí descritas se basan en experiencias de operación en instalaciones de características similares, el 
+desempeño proyectado de los equipos utilizados y las condiciones de segregación en origen de los 
+residuos orgánicos.
+▪
+Tasa de valorización de residuos orgánicos:
+Se estima una eficiencia de estabilización y conversión de residuos orgánicos en compost de 
+entre 70% y 80% en peso seco, considerando una adecuada segregación en origen y control 
+de humedad.
+▪
+Reducción de volumen de residuos enviados a disposición final:
+Se proyecta una reducción del volumen inicial de residuos orgánicos recibidos, debido al 
+proceso de descomposición biológica y manejo de rechazos no compostables.
+
+===== p.50 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+50
+▪
+Capacidad de procesamiento:
+La planta está diseñada para una capacidad máxima de procesamiento de hasta 94 
+toneladas por día, en un turno operativo de 8 horas, ajustable según la estacionalidad de la 
+generación y disponibilidad de residuos.
+3.4.2.5
+DIMENSIONAMIENTO DE LA PLANTA DE COMPOSTAJE
+El diseño de la Planta de Compostaje se ha desarrollado considerando tres variables fundamentales: 
+la generación de residuos orgánicos a tratar, la superficie requerida para cada una de las etapas del 
+proceso (recepción, acondicionamiento, tratamiento biológico, maduración, cribado y acopio), y la 
+dotación de personal necesaria para asegurar una operación eficiente, segura y continua.
+Estas variables han sido analizadas con el objetivo de garantizar que la infraestructura sea adecuada 
+a la demanda proyectada desde el inicio de las operaciones. Lo anterior se enmarca en las políticas 
+de valorización de residuos orgánicos, la reducción de disposición final y el fortalecimiento de la 
+participación ciudadana en la segregación en origen.
+A continuación, se detalla un resumen técnico que contempla los principales aspectos considerados 
+en el dimensionamiento.
+▪
+Dimensionamiento de áreas:
+✔Zona de Trincheras: 6.031 m²
+✔Cancha acopio material estructurante: 1.117 m²
+✔Galpón de compostaje: 2.173,40 m²
+✔Oficinas: 36,78 m²
+✔Zona de maduración: 4.600 m²
+▪
+Tasa de tratamiento de residuos reciclables:
+Según datos históricos y proyecciones municipales, se estima un ingreso anual del orden de 
+34.800 toneladas.
+▪
+Dotación de personal:
+✔Turno base: 6 personas (operadores).
+✔Administración y servicios: 2 personas.
+3.4.3.
+CARACTERÍSTICAS CONSTRUCTIVAS DE LA INSTALACIÓN
+
+===== p.51 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+51
+La  Planta  de  Compostaje  ha  sido  diseñada  con  criterios  de  funcionalidad,  durabilidad  y 
+cumplimiento normativo, considerando las condiciones operativas del proceso y los estándares 
+ambientales y sanitarios aplicables. La infraestructura contempla áreas definidas para la recepción, 
+pretratamiento, compostaje en trincheras de hormigón, maduración, cribado, acopio de compost y 
+almacenamiento de rechazos.
+Las edificaciones y estructuras principales están conformadas por superficies pavimentadas en 
+hormigón o estabilizadas con ripio compactado, según el tipo de actividad a realizar. Las trincheras 
+de compostaje, construidas en hormigón armado, aseguran la contención del material y la 
+impermeabilización del proceso, reduciendo el riesgo de infiltraciones al suelo. Se incorpora un 
+sistema de drenaje para la recolección de líquidos y una red de riego para el control de humedad en 
+las pilas.
+El diseño general considera cubiertas en zonas sensibles al agua lluvia (como cribado y acopio de 
+compost), cierre perimetral, iluminación de seguridad, señalización operativa y accesos para 
+maquinaria. La distribución de las áreas funcionales busca optimizar el flujo del proceso, la seguridad 
+del personal y la eficiencia del uso del terreno disponible.
+A continuación, se presentan las principales unidades que conforman la infraestructura de la planta 
+de compostaje, junto con una descripción detallada de sus características constructivas, funciones 
+específicas dentro del proceso y consideraciones técnicas relevantes para su operación.
+3.4.3.1
+ÁREA DE RECEPCIÓN
+El área de recepción constituye el primer punto de ingreso de los residuos orgánicos al sistema de 
+compostaje, al interior del galpón de compostaje. Esta zona ha sido diseñada para permitir una 
+descarga segura, ordenada y eficiente de los residuos provenientes de diversas fuentes.
+El área de recepción contará con una plataforma de hormigón armado de alta resistencia, con una 
+pendiente suave dirigida hacia un canal de recolección de líquidos. La superficie cuenta con 
+dimensiones adecuadas para el ingreso de camiones recolectores y su maniobra de descarga, así 
+como espacio para la inspección visual del contenido y la segregación inicial de elementos no 
+compostables.
+Al interior del galpón, los residuos orgánicos recepcionados y previamente inspeccionados serán 
+sometidos a una etapa de mezcla y acondicionamiento mecánico, cuyo objetivo será homogenizar 
+las características físicas y químicas del material de entrada, generando condiciones adecuadas para 
+el desarrollo eficiente del proceso de compostaje aeróbico. Durante esta etapa, los residuos serán 
+combinados con material estructurante vegetal, tales como restos de poda, chip, triturado vegetal u 
+otros  materiales  lignocelulósicos  compatibles.  La  mezcla  y  acondicionamiento  será  realizada 
+mediante  maquinaria  de  apoyo,  considerando  equipos  tales  como  cargador  frontal, 
+retroexcavadora u otro equipo mecánico equivalente, permitiendo la conformación homogénea del 
+material previo a su ingreso a las unidades de compostaje activo. 
+
+===== p.52 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+52
+El área está delimitada y señalizada, con acceso restringido al personal autorizado, y contempla 
+elementos de contención perimetral, iluminación, y eventualmente una cubierta liviana que 
+permita operar en condiciones climáticas adversas. La operación en esta zona es asistida por 
+maquinaria menor (como retroexcavadoras), que facilita el traslado del material hacia las siguientes 
+etapas del proceso.
+3.4.3.2
+ZONA DE TRINCHERAS
+La zona de trincheras está conformada por una serie de estructuras construidas en hormigón 
+armado, diseñadas para albergar el proceso de estabilización aeróbica de residuos orgánicos bajo 
+condiciones controladas. Cada trinchera contará con un sistema que permita la incorporación de 
+aire a la pila mediante ventiladores (aireador). Esta solución estructural permite mejorar la 
+durabilidad, impermeabilidad y operatividad del sistema, facilitando su limpieza y reduciendo 
+riesgos de contaminación al suelo.
+Cada trinchera presenta una geometría rectangular con dimensiones promedio de 7 metros de 
+ancho, 2,0 metros de alto y hasta 40 metros de largo. Las trincheras están dispuestas en paralelo, 
+separadas por pasillos de circulación compactados o pavimentados, que permiten el tránsito de 
+maquinaria de apoyo, como miniexcavadoras o cargadores frontales.
+Las paredes laterales y fondo de las trincheras están construidos en hormigón armado de resistencia 
+mínima G-25 (f'c ≥ 250 kg/cm²), con un espesor de al menos 15 cm, incorporando juntas de 
+dilatación y pendiente mínima hacia un sistema de recolección de líquidos. La impermeabilización 
+puede complementarse con aditivos en el hormigón o recubrimientos especiales según el nivel de 
+exigencia sanitaria del proyecto.
+
+===== p.53 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+53
+Figura 31.
+Imágenes referenciales trincheras
+Estas unidades permitirán tratar y bioestabilizar los residuos mediante una tecnología de aireación 
+forzada y gestión automatizada, de fácil operación, bajo consumo energético y minimización de 
+emisiones (percolados, olores, etc).
+3.4.3.3
+ZONA DE MADURACION
+El área destinada a la zona de maduración de las pilas de compostaje contará con una superficie 
+pavimentada y/o impermeabilizada, construida con materiales de alta resistencia mecánica y 
+química, aptos para soportar el tránsito permanente de maquinaria pesada, equipos de volteo y 
+camiones asociados a la operación. Esta superficie tendrá además una pendiente controlada, 
+permitiendo conducir de manera segura las aguas lluvias y los líquidos generados durante el proceso 
+hacia las respectivas obras de recolección.
+Con el objeto de prevenir infiltraciones al suelo y minimizar potenciales afectaciones ambientales, la 
+infraestructura incorporará un sistema de manejo de escurrimientos compuesto por canaletas, 
+cunetas y/o drenes perimetrales, los cuales conducirán las aguas de contacto y eventuales lixiviados 
+hacia unidades de almacenamiento, recirculación o tratamiento, según corresponda al diseño 
+definitivo del proyecto. Asimismo, las aguas lluvias no contaminadas podrán ser segregadas 
+mediante sistemas de drenaje independientes, evitando su mezcla con líquidos provenientes de la 
+operación.
+La configuración del área permitirá la disposición ordenada de las pilas en líneas paralelas, 
+manteniendo distancias operacionales adecuadas para el desplazamiento seguro de equipos y 
+personal.  Adicionalmente,  el  sector  podrá  contemplar  cierres  perimetrales,  señalización 
+operacional, iluminación y abastecimiento de agua para el control de humedad y limpieza de las 
+instalaciones.
+
+===== p.54 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+54
+3.4.3.4
+GALPÓN DE COMPOSTAJE
+Estructura metálica de tipo modular con cubierta de acero galvanizado, con altura libre suficiente 
+(mínimo 8 m) para permitir el uso de maquinaria como cargadores frontales, cintas transportadoras 
+y prensas. En términos generales se considera:
+▪
+Pavimento  de  hormigón  de  alta  resistencia,  diseñado  para  soportar  el  tránsito  de 
+maquinaria y equipos semi pesados.
+▪
+Estructura metálica con techumbre resistente a la intemperie, que permitirá la protección 
+de los residuos y equipos frente a condiciones climáticas.
+▪
+Sistema  de  iluminación  artificial  adecuado  para  operación  diurna  y  nocturna, 
+eventualmente, cumpliendo con las normas de seguridad laboral.
+▪
+Sistema de captación de aguas lluvias que impide el ingreso al interior de la planta de 
+compostaje, y en el exterior evitará acumulaciones y su desvío a cursos naturales del 
+terreno.
+▪
+Rutas de circulación claramente definidas para vehículos y personal, con señalización 
+horizontal y vertical.
+▪
+Red de ductos para aspirar y conducir el aire hacia un biofiltro.
+3.4.3.5
+ÁREA DE TAMIZADO
+El área de tamizado corresponde a la etapa del proceso donde el compost estabilizado es sometido a 
+un cribado mecánico con el fin de separar las fracciones finas útiles del material no compostado o 
+elementos gruesos, como restos de poda, plásticos u otros impropios que puedan haber resistido el 
+proceso biológico.
+Esta área está conformada por una plataforma de hormigón armado o superficie estabilizada, 
+diseñada para soportar el peso de la maquinaria utilizada y facilitar el movimiento de cargadores y 
+operadores. Se instala una criba rotatoria (trómel) o criba vibratoria, con capacidad acorde al 
+volumen de producción, equipada con mallas de selección de distintos diámetros, normalmente 
+entre 10 y 25 mm, según el estándar del producto final.
+El área de tamizado incluye zonas diferenciadas para el acopio del compost cribado (fracción fina), el 
+rechazo grueso (fracción no compostable), y la carga de sacos o transporte a almacenamiento. La 
+operación es asistida por minicargadores u otra maquinaria liviana para el abastecimiento continuo 
+de la criba.
+Se contemplan medidas de control de polvo, señalización de seguridad y una eventual cubierta 
+liviana para proteger el equipo y el material durante condiciones climáticas adversas. Este proceso 
+es clave para asegurar la calidad comercial y agronómica del compost, cumpliendo con los 
+
+===== p.55 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+55
+parámetros establecidos por la NCh2880/2015. Por otra parte, la instalación deberá cumplir con los 
+requisitos establecidos en la NCh 3382/2016 (Gestión de Residuos - Plantas de compostaje - 
+Consideraciones para el diseño y operación) que establece las directrices y requerimientos técnicos 
+obligatorios para el diseño, instalación y operación segura de plantas de compostaje a nivel 
+industrial.
+Figura 32.
+Imagen referencial tromel 
+3.4.3.6
+ÁREA DE ENSACADO 
+El área de ensacado corresponde a la etapa final del proceso productivo de la planta de compostaje, 
+donde el compost estabilizado y cribado es acondicionado para su distribución y comercialización. 
+Esta zona ha sido diseñada para garantizar un envasado eficiente, seguro y conforme a las 
+condiciones sanitarias y operativas del proyecto.
+La infraestructura consiste en una superficie pavimentada de hormigón nivelada al interior del 
+galpón  principal,  con  espacio  suficiente  para  la  instalación  de  la  ensacadora  automática  o 
+semiautomática, zonas de acopio temporal de compost cribado y áreas para el almacenamiento de 
+sacos llenos. El área contempla conexión eléctrica para la operación del equipo, iluminación 
+adecuada para turnos extendidos y acceso para vehículos menores que retiran el producto final.
+El sistema de ensacado permite dosificar el compost en formatos de presentación variable (por 
+ejemplo, 25 o 50 kg), favoreciendo su manejo logístico y comercial. Esta operación es realizada por 
+personal capacitado, con apoyo de maquinaria como bandas transportadoras y paletizadoras 
+manuales, lo que asegura continuidad operativa y reducción del esfuerzo físico.
+Se incorpora señalización de seguridad, equipos de protección personal y medidas de control de 
+polvo, en línea con los estándares laborales y sanitarios aplicables.
+
+===== p.56 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+56
+Figura 33.
+Imagen referencial - ensacadora
+3.4.3.7
+ÁREA DE RESIDUOS RECHAZADOS
+Espacio segregado para contenedores open top que permiten el almacenamiento temporal de 
+residuos compostables hasta su traslado al relleno sanitario.
+3.4.3.8
+OFICINAS Y SERVICIOS ANEXOS
+La planta contempla la habilitación de un área destinada a oficinas administrativas y servicios 
+anexos, con el fin de garantizar condiciones adecuadas para el personal operativo y administrativo. 
+Este sector incluye una oficina de administración, equipada para labores de coordinación operativa, 
+gestión documental y atención a visitas técnicas. 
+3.4.3.9
+ACCESOS Y ÁREAS DE CIRCULACION
+Vías de acceso y circulación internas estabilizadas, con señalética de seguridad, zonas de carga y 
+descarga diferenciadas, y estacionamientos para vehículos livianos y pesados. Se contempla un 
+cierre perimetral completo y portones controlados del Centro Metropolitano de Gestión Integral 
+Residuos.
+3.4.3.10 INFRAESTRUCTURA SANITARIA Y AMBIENTAL
+Sistema de aguas lluvias y aguas servidas, luminarias LED, sistema de extinción de incendios 
+(extintores, redes húmedas) y puntos de almacenamiento de EPP.
+3.5.
+A.5 FORMAS DE ABATIMIENTO DE EMISIONES Y DE CONTROL Y MANEJO DE 
+RESIDUOS
+La gestión ambiental de la Planta de compostaje del proyecto considera estrategias diferenciadas 
+para cada una de las fases del proyecto —construcción, operación y cierre— con el objetivo de 
+
+===== p.57 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+57
+minimizar las emisiones al entorno y manejar adecuadamente los residuos generados en cada 
+etapa. A continuación, se describen las principales medidas contempladas.
+3.5.1.
+FASE CONSTRUCCIÓN
+Durante esta etapa, se priorizará el control de emisiones y la gestión de residuos asociados a las 
+actividades de obra.
+Control de emisiones:
+▪
+Aplicación de riego periódico en caminos interiores y superficies expuestas para controlar 
+polvo.
+▪
+Cobertura de materiales acopiados con lonas o mallas, especialmente áridos y tierra.
+▪
+Control de velocidad de los vehículos en tránsito dentro del predio.
+▪
+Mantención periódica de maquinaria para evitar emisiones excesivas de gases y ruidos.
+Control de residuos:
+▪
+Separación de residuos de construcción (escombros, maderas, metales) para su valorización 
+o disposición.
+▪
+Instalación de contenedores diferenciados en el área de faenas.
+▪
+Disposición periódica de residuos no valorizables en el Relleno Sanitario.
+▪
+Gestión de residuos domiciliarios generados por los trabajadores (estimados en función del 
+personal diario).
+3.5.2.
+FASE OPERACIÓN
+Durante la operación, se implementarán medidas orientadas a mitigar emisiones propias del 
+proceso de tratamiento y a garantizar una gestión eficiente de los residuos generados.
+Control de emisiones:
+▪
+Control de polvo mediante humectación de áreas de tránsito y patios de acopio.
+▪
+Ventilación natural en zonas de clasificación de residuos.
+▪
+Limpieza regular de las áreas operativas para evitar acumulación de residuos.
+▪
+Mantención de equipos de tratamiento y vehículos utilizados en la operación.
+▪
+Dentro del galpón de compostaje existirá una red de ductos cuya finalidad será aspirar el 
+
+===== p.58 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+58
+aire del recinto y conducirlo hacia un biofiltro, para renovar el aire del galpón en la descarga 
+y en la mezcla, evitando cualquier fuga de olores. En las figuras siguientes se muestran los 
+ductos de aspiración que serán instalados en el galpón.
+ 
+Figura 34.
+Imagen referencial ducto de aspiración 
+Figura 35.
+Imagen referencial de biofiltro
+▪
+En el sector oriente y sur de la zona de maduración final (pilas de compostaje), se 
+implementará un sistema odorante perimetral, el que se utilizará un tratamiento de olores, 
+el cual consiste en generar una nube odorífica, que neutraliza o modifica el aire por medio 
+de la aplicación de ciertos productos. La atomización se realizará con un sistema básico de 
+tubería de PVC para agua, con nebulizadores metálicos de gota fina y una bomba trifásica de 
+1HP para dar la presión necesaria al sistema de atomización.  El producto por aplicar podrá 
+ser un controlador de olor (perfume), diluyendo 20 litros de producto por 1000 litros de 
+agua o un encapsulador de olor, diluyendo 1 litro de producto por 1000 litros de agua. El 
+producto podría reducir componentes mal olientes tales como ácido sulfhídrico y amonio en 
+un 95%, bióxido de azufre, mercaptanos etílicos y metílicos en un 97% al contacto.
+Los nebulizadores metálicos o boquillas serán distribuidas cada 12 metros, en postación de 
+madera de 3”. 
+
+===== p.59 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+59
+Figura 36.
+Emplazamiento sistema odorante
+Figura 37.
+Detalle sistema odorante
+Control de residuos:
+▪
+Registro diario del ingreso y clasificación de residuos recibidos.
+▪
+Separación de residuos compostables y rechazo, con seguimiento a su disposición o traslado 
+final.
+▪
+Disposición segura de residuos no compostables en el relleno sanitario del proyecto.
+
+===== p.60 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+60
+▪
+Educación y capacitación permanente del personal en gestión de residuos y protocolos 
+ambientales.
+3.5.3.
+FASE DE CIERRE
+En la etapa de cierre se contemplan medidas orientadas a minimizar impactos remanentes y 
+asegurar la correcta disposición de los residuos acumulados.
+Control de emisiones:
+▪
+Retiro de materiales y equipos que puedan generar emisiones residuales.
+▪
+Control de polvo durante actividades de desmantelamiento mediante riego localizado.
+▪
+Evaluación de eventuales emisiones asociadas al cierre de zonas de acopio.
+Control de residuos:
+▪
+Plan de limpieza final y retiro de todos los residuos almacenados o remanentes.
+▪
+Eliminación o reciclaje de estructuras desmontables, equipos y materiales sobrantes.
+▪
+Informe de cierre con inventario y trazabilidad de los residuos gestionados.
+3.6.
+A.6 DESCRIPCIÓN DEL SISTEMA DE MANEJO DE RECHAZOS
+La planta de compostaje dispone de un sistema de manejo de rechazos orientado a optimizar la 
+eficiencia del proceso y asegurar que el compost final cumpla con los estándares de calidad 
+establecidos. Los rechazos corresponden a materiales que, por su composición física, presencia de 
+contaminantes o falta de biodegradabilidad, no pueden ser incorporados al proceso de compostaje. 
+Estos residuos serán retirados de forma segura durante las etapas de recepción, pretratamiento o 
+tamizado, y serán almacenados temporalmente en contenedores habilitados para su posterior 
+disposición en el relleno sanitario del proyecto, el cual estará en operación al momento de la puesta 
+en marcha de la planta.
+3.6.1.
+ CONTROL AL INGRESO DE RESIDUOS Y CRITERIOS DE RECHAZO
+Al momento de la recepción de residuos, se implementa un sistema de control riguroso destinado a 
+verificar que los materiales ingresados cumplan con los criterios establecidos para su compostaje. 
+Este control se realiza de forma presencial por personal capacitado, en el área de pesaje o punto de 
+descarga, antes de que los residuos ingresen al proceso productivo de la planta de compostaje.
+Cada carga recibida es sometida a una inspección visual preliminar, que tiene por objeto identificar 
+la presencia de elementos no reciclables, contaminantes, peligrosos o que no correspondan al tipo 
+
+===== p.61 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+61
+de residuo autorizado por la planta. En esta inspección se consideran, entre otros, los siguientes 
+criterios de rechazo:
+▪Presencia  de  residuos  orgánicos,  restos  de  alimentos  o  material  en  estado  de 
+descomposición.
+▪Residuos peligrosos (pilas, baterías, aceites, solventes, residuos sanitarios, entre otros).
+▪Mezcla de materiales que impida su compostaje (por ejemplo, plásticos, vidrios entre 
+otros).
+▪Materiales altamente contaminados con sustancias líquidas o lodosas.
+▪Residuos que no corresponden a la categoría aceptada por la planta.
+En caso de detectarse alguno de estos elementos, se procederá a rechazar total o parcialmente la 
+carga, dejando constancia en un acta de no conformidad, la cual será firmada por el transportista y el 
+responsable de recepción. Esta acta especificará las razones del rechazo y las acciones a seguir, que 
+pueden incluir el retiro inmediato del material o su segregación y tratamiento diferenciado, si 
+corresponde.
+Este sistema de control al ingreso tiene como objetivo asegurar la eficiencia del proceso de 
+compostaje,  evitar  la  contaminación  de  materiales  valorizables  y  cumplir  con  la  normativa 
+ambiental vigente.
+3.6.2.
+GESTIÓN DE RECHAZOS GENERADOS EN EL PROCESO PRODUCTIVO
+Durante el desarrollo del proceso de compostaje, se generan ciertos residuos que no pueden ser 
+compostados debido a su naturaleza, a su estado de contaminación o a su incompatibilidad con las 
+condiciones del proceso biológico. Estos rechazos se identifican principalmente en las etapas de 
+recepción, pretratamiento y tamizado, y pueden incluir plásticos, vidrios, metales, textiles, residuos 
+sanitarios u otros elementos impropios presentes en la fracción orgánica.
+La planta de compostaje cuenta con un sistema de gestión de rechazos diseñado para minimizar su 
+generación y asegurar su adecuado manejo. Los materiales no compostables detectados son 
+separados  manual  o  mecánicamente,  almacenados  de  forma  transitoria  en  contenedores 
+dispuestos en áreas específicas, y retirados periódicamente para su disposición final segura en el 
+relleno sanitario del proyecto, el cual estará operativo de forma simultánea con la planta.
+Además, se implementarán medidas de control y seguimiento para cuantificar y caracterizar los 
+rechazos, lo que permitirá identificar oportunidades de mejora en la calidad de la fracción orgánica 
+ingresada y retroalimentar las estrategias de educación ambiental y separación en origen. Esta 
+gestión integral busca reducir el impacto ambiental del proceso, optimizar los índices de valorización 
+y cumplir con los estándares técnicos y sanitarios establecidos por la normativa vigente.
+
+===== p.62 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+62
+3.7.
+A.7 PLAN DE VERIFICACIÓN Y SEGUIMIENTO DE LOS RESIDUOS A SER TRATADOS Y 
+RECHAZADOS
+La Planta de Compostaje del proyecto implementará un plan integral de control, verificación y 
+seguimiento de los residuos, con el fin de garantizar una gestión segura, eficiente y trazable de todos 
+los flujos de residuos que ingresan a la planta, así como de aquellos que se generan durante el 
+proceso productivo o se rechazan porque no cumplen los estándares establecidos.
+Este plan contempla las siguientes componentes fundamentales:
+a)
+Registro de ingreso de residuos: Todos los residuos que ingresen a la planta serán 
+identificados, clasificados y registrados mediante un sistema de control documental que 
+incluirá la fecha de ingreso, tipo de residuo, cantidad estimada, procedencia, transportista y 
+condición  del  material.  Este  registro  será  gestionado  mediante  formatos  físicos  y/o 
+plataformas digitales con respaldo automático.
+b) Verificación en el punto de recepción: Se establecerá un punto de control inicial donde 
+personal capacitado realizará una inspección visual y documental del residuo. En esta etapa 
+se validará que los residuos correspondan a las tipologías aceptadas para tratamiento en la 
+planta. Los residuos no conformes serán rechazados o derivados al relleno sanitario según 
+corresponda.
+c)
+Seguimiento interno de residuos tratados: Una vez aceptados, los residuos seguirán rutas 
+operativas internas predefinidas según su tratamiento. Se llevará un seguimiento de las 
+cantidades tratadas, pérdidas del proceso, material valorizado y material rechazado. Este 
+seguimiento se integrará con los reportes de operación y será auditado periódicamente.
+d) Gestión de residuos generados internamente:  Las actividades propias de la operación 
+generarán residuos como residuos domiciliarios de trabajadores, materiales contaminados 
+o embalajes. Estos serán almacenados temporalmente en áreas autorizadas para luego ser 
+trasladados al relleno sanitario.
+e)
+Control de almacenamiento temporal:  Todas las áreas de almacenamiento temporal 
+estarán  debidamente  señalizadas  y  equipadas  para  evitar  derrames,  mezclas  o 
+acumulaciones no autorizadas. Se llevará un control de inventario de residuos almacenados, 
+indicando su permanencia máxima en planta según la normativa vigente.
+f)
+Trazabilidad y reporte:  El plan contempla mecanismos de trazabilidad para todos los 
+residuos tratados o generados, desde su ingreso hasta su valorización, eliminación o 
+despacho. Se elaborarán reportes mensuales y anuales que servirán de base para auditorías 
+internas, informes a la autoridad competente y procesos de mejora continua.
+g)
+Capacitación y revisión periódica: Todo el personal involucrado en el manejo de residuos 
+será capacitado en protocolos operativos y de seguridad. Además, el plan será revisado y 
+actualizado  periódicamente  en  función  de  los  resultados  operacionales,  cambios 
+normativos o introducción de nuevas tecnologías en la planta.
+Este plan constituye una herramienta clave para asegurar el cumplimiento de los principios de 
+responsabilidad ambiental, eficiencia operativa y transparencia en la gestión de residuos dentro de 
+la planta de compostaje.
+
+===== p.63 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+63
+
+===== p.64 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+64
+3.8.
+A.8 PLAN DE CONTINGENCIAS Y PLAN DE EMERGENCIA
+De acuerdo con lo exigido en el literales a.8) del artículo 140 del D.S. Nº40/2012 a continuación, se 
+detalla el Plan de Prevención de Contingencias y Emergencias asociado a las eventuales situaciones 
+de riesgo identificadas en las fases de construcción, operación y cierre del Proyecto.
+El objetivo del Plan de Prevención de Contingencias y Emergencias es minimizar los niveles de 
+incertidumbre asociados a las eventuales situaciones de riesgo al medio ambiente y describir las 
+acciones a adoptar frente a la ocurrencia de incidentes que pudiesen afectar al medioambiente, 
+trabajadores e instalaciones del Proyecto.
+3.8.1.
+OBJETIVO
+El objetivo del Plan de Prevención de Contingencias y Emergencias es establecer un conjunto de 
+procedimientos, recursos y responsabilidades que permitan prevenir, responder  y recuperar 
+eficazmente frente a situaciones de emergencia o eventos inesperados que puedan afectar la salud 
+y seguridad de las personas, el medio ambiente, la infraestructura o la continuidad operativa de la 
+planta de compostaje. Este plan busca minimizar los riesgos, reducir el impacto de los incidentes y 
+garantizar una actuación coordinada y oportuna ante cualquier eventualidad.
+3.8.1.1
+OBJETIVOS ESPECÍFICOS
+Para alcanzar el propósito general del Plan de Contingencia y Emergencia, se establecen los 
+siguientes objetivos específicos, los cuales permiten estructurar una respuesta organizada frente a 
+situaciones críticas. Estos objetivos buscan fortalecer la capacidad de prevención, preparación y 
+reacción del personal, así como proteger la integridad de las personas, los recursos de la planta y el 
+entorno ante cualquier eventualidad.
+▪
+Identificar los riesgos y amenazas potenciales que puedan afectar la operación normal de la 
+planta de compostaje.
+▪
+Establecer protocolos de actuación ante distintos tipos de emergencias, como incendios, 
+derrames, accidentes laborales, cortes de energía, entre otros.
+▪
+Definir roles, responsabilidades y líneas de comunicación claras para una respuesta eficiente 
+ante contingencias.
+▪
+Proteger la integridad física del personal, visitantes y contratistas mediante medidas 
+preventivas y correctivas.
+▪
+Minimizar los impactos ambientales negativos derivados de situaciones de emergencia.
+▪
+Asegurar la continuidad operacional en la medida de lo posible, o el restablecimiento rápido 
+de las operaciones.
+
+===== p.65 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+65
+▪
+Capacitar al personal en la identificación de riesgos y en la correcta aplicación de los 
+procedimientos de emergencia.
+3.8.2.
+ROLES Y RESPONSABILIDADES
+En caso de una contingencia, es fundamental que cada integrante del equipo de la planta de 
+compostaje  asuma  funciones  específicas  previamente  definidas,  con  el  fin  de  asegurar  una 
+respuesta rápida, eficaz y coordinada frente a cualquier evento. En la tabla siguiente se detallan los 
+roles y responsabilidades asignados a cada cargo.
+Tabla 18.
+Roles y responsabilidades 
+CARGO
+FUNCIÓN EN CONTINGENCIA
+Jefe de Planta
+Coordinar respuesta general, informar a autoridades.
+Encargado de Seguridad
+Activar planes de evacuación y primeros auxilios.
+Responsable Ambiental
+Supervisar mitigación de impactos y registro de eventos.
+Supervisor de Turno
+Ejecutar acciones inmediatas según procedimiento.
+Operarios
+Su  misión  general  será  activar  alarma  de  emergencia, 
+paralización de maquinarias y equipos de procesos, corte del 
+suministro eléctrico y obedecer toda instrucción que emane 
+del Coordinador 
+Reportar incidentes y seguir instrucciones de seguridad.
+3.8.3.
+TÉRMINOS Y DEFINICIONES
+Con el fin de facilitar la comprensión del plan de contingencia y emergencia, a continuación, se 
+incluyen las definiciones de términos claves utilizados en las medidas de prevención, contingencia y 
+respuesta ante emergencias.
+Término
+Definición
+Contingencia
+Situación de riesgo generada por actividades humanas o fenómenos 
+naturales  que  puede  comprometer  la  integridad  de  personas, 
+ecosistemas o instalaciones. Puede presentar distintos niveles, desde una 
+alerta preventiva hasta eventos que requieren acciones de emergencia.
+
+===== p.66 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+66
+Término
+Definición
+Emergencia
+Evento imprevisto que interrumpe el funcionamiento normal de un 
+sistema y representa un riesgo para la vida humana, animal, el medio 
+ambiente o los bienes materiales. Incluye situaciones que amenazan 
+parcial o totalmente la estabilidad operativa.
+Evacuación
+Acción de desalojar de manera ordenada y segura un recinto o área ante 
+la declaración de una emergencia, con el fin de resguardar la integridad 
+de las personas.
+Vía de evacuación
+Ruta señalizada, continua y despejada que permite el desplazamiento 
+seguro desde cualquier punto de la instalación hasta una zona de 
+seguridad.
+Zona de seguridad
+Espacio al aire libre destinado al resguardo temporal de personas durante 
+una emergencia. Debe estar libre de elementos que puedan representar 
+riesgos, como árboles, cables eléctricos o estructuras inestables.
+Incendio
+Fuego  de  gran  magnitud  que  puede  causar  daños  a  personas, 
+instalaciones y al medio ambiente. Requiere intervención inmediata.
+Amago de incendio
+Inicio de fuego que es detectado y controlado rápidamente, sin ocasionar 
+daños significativos.
+Explosión
+Liberación violenta de energía que produce un aumento brusco de 
+volumen y presión, generalmente asociado a reacciones químicas o 
+físicas, con potencial destructivo.
+Sismo o Terremoto
+Movimiento súbito del terreno provocado por el desplazamiento de 
+placas tectónicas y la liberación de energía acumulada en la corteza 
+terrestre. Puede afectar severamente la infraestructura y poner en riesgo 
+la vida humana.
+Derrame
+Liberación  no  controlada  de  sustancias,  principalmente  líquidas  y 
+potencialmente tóxicas, que pueden provocar contaminación ambiental 
+o riesgos a la salud.
+Accidente
+Suceso no deseado, que trae como consecuencia lesiones a las personas, 
+daño material o al medio ambiente.
+
+===== p.67 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+67
+3.8.4.
+PLAN DE CONTINGENCIA
+A continuación, se presenta el plan de contingencias y emergencias para la planta de compostaje.
+Situación de riesgo o contingencia de incendios
+Riesgo de incendio forestal de carácter 
+natural o antrópico y Riesgo de incendio 
+industrial, de carácter natural o antrópico. 
+Incendios; se define como la probabilidad que la población, 
+dependiendo de su presencia y conducta, inicie un incendio 
+forestal o industrial. 
+Fase del proyecto a la 
+que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada
+Planta de compostaje y Áreas Anexas
+Acciones o medidas a implementar para 
+prevenir la contingencia 
+Descripción: Probabilidad que ocurra un siniestro incendiario de 
+carácter  forestal  en  los  alrededores  del  predio  o  predios 
+aledaños, producto de las altas temperaturas y vientos en meses 
+de verano, donde las temperaturas sobrepasan los 30° Celsius, o 
+bien  por  intervención  antrópica  o  en  las  instalaciones  del 
+proyecto, producto de algún corte eléctrico o mala manipulación 
+de artefactos que puedan generar este tipo de siniestros. 
+Objetivo:  Garantizar la protección a la integridad física del 
+personal de Proyecto, así como también evitar la ocurrencia de 
+eventos  que  pongan en riesgos  la salud ocupacional  de  los 
+trabajadores. 
+Plazos: Desde el primer día hasta el término de la vida útil del 
+proyecto. 
+Lugar de implementación: En todo el proyecto y su área de 
+influencia. 
+Oportunidad:  Será por medio de la   actualización periódica de la 
+Identificación de peligros y evaluación de los riesgos asociados a 
+la actividad a ejecutar. 
+Indicador de cumplimiento: Número de simulacros. 
+Acciones: 
+1.‐ Riesgo de incendio forestal de carácter natural o antrópico. 
+Capacitaciones  e  Inducciones  a  los  trabajadores  sobre  la 
+prevención de incendios forestales. Construcción de una obra 
+cortafuego perimetral. Mantención anual de los cortafuegos. 
+Franja adicional de desbroce y poda. Implementación de Red 
+Seca. Disposición de estanques o similares en puntos estratégicos 
+para el primer combate de incendio. Disposición de camión 
+aljibes de manera permanente en dependencias del proyecto. 
+Instalación de letreros camineros con mensajes relativos a la 
+prevención de incendios forestales. Establecer una comunicación 
+y contacto con el cuerpo de bomberos de la Comuna de Viña del 
+Mar.  
+2.‐ Riesgo de incendio industrial, de carácter natural o antrópico. 
+Disposición en las instalaciones del proyecto los elementos de 
+extinción de incendios adecuados (extintores, etc.), realizando las 
+
+===== p.68 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+68
+mantenciones periódicas, según se establece en la normativa 
+vigente. Se realizarán capacitaciones a trabajadores en el correcto 
+uso de los elementos de protección y combate contra incendios. 
+Identificación y señalización de zonas donde esté expresamente 
+prohibido cualquier actividad que pueda generar chispas, tales 
+como encender fuego, fumar, portar o mantener elementos que 
+puedan ocasionar chispas, entre otros. 
+Forma de control y seguimiento 
+Se elaborará el plan de prevención contra incendios y programas 
+de  prevención  de  riesgos  que  cuenten  a  lo  menos  con  las 
+siguientes medidas generales aplicables para todas las fases del 
+Proyecto.  Además,  estas  medidas  de  control  y  seguimiento 
+aplicaran  para  todo  el  personal  involucrado  incluyendo 
+contratistas y subcontratistas. 
+a)
+Identificación de peligros y evaluación de los riesgos 
+asociados a la actividad a ejecutar.  
+b)
+Cumplimiento de la normativa vigente. 
+c)
+Reglamento interno de seguridad e Higiene. 
+d)
+Desarrollo de instructivos y/o procedimientos de 
+trabajos. 
+e)
+Programas de Capacitación 
+f)
+Desarrollo de entrenamientos y simulacros. 
+g)
+Capacitación sobre los Elementos de Protección 
+Personal (EPP). 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+
+===== p.69 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+69
+Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+SÍSMICO
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Descripción: Las instalaciones del Proyecto se diseñarán según las 
+normas  y/o  estándares  nacionales  e  internacionales  para  la 
+resistencia sísmica, por lo que será construido con la capacidad de 
+resistir  sismos  de  magnitudes  esperables  para  la  Región  de 
+Valparaíso. 
+Objetivo:  Garantizar  la  protección  a  la  integridad  física  del 
+personal  y  del  medio  ambiente  del  área  de  influencia  del 
+Proyecto. 
+Plazos: Desde el día uno del proyecto hasta el término de su vida 
+útil. 
+Lugar  de  implementación:  Se  aplicará  a  todo  el  personal 
+involucrado  directa  o  indirectamente  en  la  ejecución  del 
+Proyecto,  en sus  fases  de:  construcción,  operación  y cierre, 
+abarcando a toda el área de las actividades del Proyecto, que se 
+encuentre dentro del área de influencia del proyecto. 
+Indicador de cumplimiento: Número de simulacros realizados al 
+año/número ideal de simulacros al año.  
+a)
+Se dispondrá de una estrategia de evacuación en caso de 
+sismos, la cual será difundida a todo el personal. 
+b)
+Contar con zonas de seguridad y puntos de encuentro 
+seguro para sus trabajadores y tener un plan de acción ante la 
+emergencia.  
+c)
+Se  realizarán  simulacros  para  todo  el  personal  que 
+desarrolle sus actividades dentro del proyecto, con el fin de estar 
+preparados en caso de un eventual sismo o terremoto. 
+d)
+En caso de ocurrir un siniestro de gran escala se activará 
+inmediatamente el Plan de Emergencias. 
+e)
+En  caso  de  ocurrir  un  siniestro  de  gran  escala,  se 
+verificará posteriormente los daños causados en las instalaciones.
+Formas de control y seguimiento 
+El  plan  de  emergencia  será  revisado  y  probado  a  través  de 
+simulacros. El experto en prevención de riesgos en conjunto con el 
+Jefe  de  Planta,  programarán  los  simulacros,  los  que  serán 
+informados en el formulario de Informe de Simulacro. 
+Para cada simulacro, la jefatura del área nombrará un observador, 
+quien es responsable de evaluar si dicho simulacro se realiza de 
+acuerdo con lo establecido en el plan correspondiente. 
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+
+===== p.70 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+70
+ 
+ 
+Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+De inundación por precipitaciones extremas
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Acciones: 
+a)
+Emplazamiento  de  instalaciones  fuera  de  las  áreas 
+expuestas a inundaciones.  
+b)
+Mantener  las  rutas  y  caminos  de  acceso  con  las 
+pendientes que permitan el escurrimiento de las aguas. Además, 
+deben contar con su carpeta de rodado en buen estado. 
+c)
+Construcción de canales de aguas lluvias. 
+Formas de control y seguimiento 
+Se realizarán inspecciones semanales de canales de aguas lluvias 
+por el personal de operación. 
+Oportunidad y vías de comunicación a la 
+SMA  de  la  activación  del  Plan  de 
+Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+Situación de riesgo o contingencia por Accidentes Laborales
+RIESGO 
+Por accidentes laborales
+Fase del proyecto a la que aplica 
+Todas sus fases, excepto el riesgo por caídas de árboles que sería 
+solo en la etapa de construcción. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Descripción:  El  riesgo  laboral  es  la  posibilidad  de  que  un 
+trabajador sufra una enfermedad o accidente laboral. 
+Objetivo:  Garantizar  la  protección  a  la  integridad  física  del 
+personal de Proyecto, así como también evitar la ocurrencia de 
+eventos  que  pongan  en  riesgos  la  salud  ocupacional  de  los 
+trabajadores.  
+Plazos: Desde el primer día hasta el término de la vida útil del 
+proyecto. 
+Lugar  de  implementación:  En  todo  proyecto  y  su  área  de 
+influencia.  
+Oportunidad: Será por medio de la actualización periódica de la 
+Identificación de peligros y evaluación de los riesgos asociados a 
+la actividad a ejecutar.  
+Indicador de cumplimiento: Se considerarán los resultados de las 
+Inspecciones preventivas, Inspecciones de comportamiento del 
+trabajador y la Investigación de incidentes. 
+
+===== p.71 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+71
+Acciones:  
+ 1.‐ Riesgo de caída del trabajador por distinto y mismo nivel. 
+Utilizar calzado de seguridad para el tipo de trabajo o actividad a 
+realizar. Además, se deberá usar guantes en todo momento de 
+una actividad.  
+Mantener las vías de paso señalizadas, despejadas, limpias y 
+demarcadas.  
+Si las zonas de paso o el suelo se encuentran de forma no 
+adecuada, se avisará de inmediato al responsable de prevención 
+de riesgos.  
+En el caso de caídas desde distinto nivel, todo trabajador que 
+trabaje sobre 1,80 metros de altura llevara su arnés de trabajo en 
+altura debidamente revisado y autorizado. 
+ 
+2.‐ Riesgo por contacto eléctrico.  
+Todo objeto o herramienta de carácter eléctrico que se utilice 
+deberá  estar  certificada  y  en  óptimas  condiciones  de 
+funcionamiento. 
+Todos los trabajos con herramientas eléctricas se deberán usar 
+los EPP requeridos, como guantes para riesgo eléctrico, lentes 
+protectores, entre otros.  
+Las actividades solo se realizarán por personal capacitado y 
+autorizado  en  temas  eléctricos.  Además,  se  realizará 
+capacitaciones en manejo de herramienta eléctricas.  Uso de 
+señalética correspondiente. Según Norma Chilena 1411. 
+Se elaborará un procedimiento específico para los trabajos con 
+energía eléctrica, el cual será difundido a todo trabajador que 
+realice actividades de este tipo. 
+ 
+3.‐ Riesgo de interacción hombre‐máquina.  
+Se  mantendrán  debidamente  señalizados  y  segregados  con 
+barreras duras (pretil, new jersey de cemento, entre otros), los 
+caminos internos para vehículos y los para peatones. 
+Cada vez que un operador o chofer descienda de su máquina, 
+deberá primeramente detener y apagar su vehículo antes de salir 
+de él.  Se deberá mantener una distancia adecuada entre un 
+trabajador y una maquina en movimiento y/o operación. 
+ 
+4.‐ Riesgo por caída de árboles (Fase de construcción). 
+El personal que realice la tala de árboles será personal con 
+experiencia y autorizado.  Utilizar herramientas que dirijan la 
+caída como cuñas, entre otros.  
+Realizar un corte correcto para dirigir la caída del árbol.  Se 
+respetará la distancia de seguridad por la caída del árbol, doble de 
+su altura aproximadamente.
+Avistar si hay personas cerca de la zona de caída del árbol y dar 
+aviso.  
+Si hay fuertes vientos, se deberá suspender la actividad. 
+
+===== p.72 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+72
+ 
+6.‐ Atrapamiento por y entre objetos, Cortes por objetos y/o 
+herramientas.  
+Uso de sus EPP adecuados para las actividades a ejecutar, como, 
+casco de seguridad, zapatos de seguridad, lentes de protección, 
+guantes de protección, o cualquier otra EPP para alguna actividad 
+más específica.  
+Para  intervenir  en  un  equipo  con  partes  móviles  o  en  su 
+proximidad, siempre que sea posible, se deberá desconectar y/o 
+inactivar el equipo. 
+Realizar un correcto uso de la herramienta que se ocupará para la 
+actividad, realizar lectura previa de instructivos. 
+ 
+7.‐ Exposición a ruido, polvo, vibración y radiaciones UV (radiación 
+solar).  
+Capacitaciones  a  los  trabajadores  sobre  estos  temas,  para 
+garantizar que se tome conciencia de los riesgos que produce la 
+exposición a dichos factores. 
+Uso de todos sus Elementos de Protección Personal (EPP), como 
+caso de seguridad, guantes de seguridad, lentes con protección 
+UV, bloqueador solar, protectores auditivos, y en el caso de un 
+trabajo con exposición a polvo intenso, será obligatorio el uso de 
+mascarillas de protección respiratoria. 
+Uso de letreros informativos y de seguridad en terreno.
+Formas de control y seguimiento 
+Se contempla elaborar planes y programas de prevención de 
+riesgos que cuenten a lo menos con las siguientes medidas 
+generales aplicables para todas las fases del Proyecto. Además, 
+estas medidas de control y seguimiento aplicaran para todo el 
+personal involucrado incluyendo contratistas y subcontratistas. 
+a)
+Identificación de peligros y evaluación de los riesgos 
+asociados a la actividad a ejecutar. 
+b)
+Cumplimiento de la normativa vigente. 
+c)
+Reglamento interno de seguridad e Higiene. 
+d)
+Desarrollo de instructivos y/o procedimientos de 
+trabajos. 
+e)
+Inspecciones preventivas 
+f)
+Inspecciones de comportamiento del trabajador 
+g)
+Investigación de incidentes 
+h)
+Capacitación sobre los Elementos de Protección 
+Personal (EPP). 
+Oportunidad y vías de comunicación a la 
+SMA  de  la  activación  del  Plan  de 
+Emergencia 
+Se deberá comunicar al Centro de Atención y/o Policlínico más 
+cercano o al Organismo Administrador Mutual de Seguridad de la 
+situación para que se haga presente en el lugar y proceda a la 
+atención y posterior traslado del lesionado, según lo señalado en 
+la legislación vigente.
+ 
+
+===== p.73 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+73
+Situación de riesgo o contingencia por Riesgos Operacionales
+RIESGO 
+Operacionales
+Fase del proyecto a la que aplica 
+Fase de operación y cierre, excepto el Riesgo por derrame de 
+sustancias peligrosas en el suelo que se aplicaría a todas las fases 
+del proyecto. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones o medidas a implementar 
+para prevenir la contingencia 
+Descripción: Riesgos que se puedan producir por alguna falla o 
+error en la operación del proyecto.  
+ 
+Objetivo: Evitar daños al medio ambiente del área de influencia 
+del Proyecto y sus alrededores en caso de eventuales incidentes 
+antrópicos.  
+ 
+Plazos: Desde el primer día hasta el término de la vida útil del 
+proyecto.
+Lugar  de  implementación:  En  todo  proyecto  y  su  área  de 
+influencia.  
+ 
+Oportunidad: Será por medio de la actualización periódica de la 
+Identificación de peligros y evaluación de los riesgos asociados a 
+la actividad a ejecutar.  
+ 
+Indicador de cumplimiento: (i) monitoreos de la calidad de las 
+aguas. (ii) Registro de mantenciones al día de los equipos. (iii) 
+registro  de  desratizaciones  (iii)  número  de  trabajadores 
+capacitados. (iv) cumplimiento de la normativa vigente. 
+ 
+Acciones:  
+ 
+1.‐ Riesgo por presencia de vectores comunes.
+ 
+Se realizará una limpieza periódica de las ruedas de camiones y 
+contenedores, así como también de los caminos de acceso, 
+retirando  los  residuos  que  eventualmente  pudieran  ser 
+derramados por los vehículos.  
+ 
+Se realizará limpieza y aseo diario en las instalaciones por un 
+personal de aseo capacitado.
+
+===== p.74 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+74
+Se realizará desratización frecuentemente en el recinto, lo cual 
+será realizado y supervisado por una empresa especializada y 
+autorizada en la materia.  
+ 
+Para  evitar  la  potencial  afección  sanitaria  de  personas,  se 
+realizará  un  estricto  control  del  ingreso  de  personas  no 
+autorizadas a la planta. Este control se hará mediante puestos de 
+vigilancia que impedirán el ingreso de recuperadores de especies 
+para  su  posterior  comercialización.  Esta  medida  se 
+complementará con la construcción del cierre perimetral, lo cual 
+evitará el ingreso de personal ajeno a la obra. 
+ 
+Mantener  aislado  sanitariamente  el  recinto  mediante  la 
+formación de un cordón sanitario que impida la infestación de la 
+planta por roedores y el paso de especies animales desde y hacia 
+el recinto.
+  
+2.‐ Riesgo por derrame de sustancias peligrosas en el suelo. 
+ 
+Se dispondrá de un Plan de emergencias que especifique las 
+medidas preventivas y correctivas para el control de derrames de 
+sustancias y residuos peligrosos, ya sean combustibles, aceites 
+lubricantes, etc.  
+ 
+Cumplimiento de los requerimientos dispuestos en el D.S. Nº 
+18/2009, derogado por el D.S. No 43/2016 del Ministerio de Salud 
+“Aprueba  Reglamento  de  almacenamiento  de  sustancias 
+peligrosas” y en el D.S. Nº 148/2003 del Ministerio de Salud 
+“Aprueba  Reglamento  sanitario  sobre  manejo  de  residuos 
+peligrosos”.  
+ 
+Se dispondrá de una bodega para el almacenamiento de residuos 
+peligrosos, cumpliendo a cabalidad con lo exigido en la normativa 
+vigente.  
+ 
+Se dispondrá de una estación de emergencias ambientales que 
+contendrá  a  lo  menos  un  kit  anti  derrames,  materiales 
+absorbentes y neutralizantes, palas plásticas, escobillones, botas 
+de  goma,  guantes  de  látex,  paños  de  limpieza,  bolsas  para 
+disponer el suelo contaminado, entre otros. 
+ 
+En todos los sitios donde se almacene o manipulen residuos 
+peligrosos  se  encontrará  disponible  la  respectiva  hoja  de 
+seguridad (HDS).  
+ 
+Mantención periódica de los equipos y maquinarias. 
+ 
+Inspección periódica de las tuberías y mangueras empleadas para 
+
+===== p.75 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+75
+llenar los generadores eléctricos.  
+ 
+Emplear siempre mantas absorbentes situándolas debajo de los 
+bidones en el momento de traspasar combustible. 
+ 
+Emplear embudos o boquillas especiales que permitan conducir la 
+totalidad del combustible al recipiente destino. 
+Nunca repostar los equipos o maquinarias sobre una superficie 
+muy inclinada ni llenar bidones sobre superficies inestables que 
+puedan provocar el volcado de los mismos mientras se están 
+llenando.  
+Transportar  los  bidones  perfectamente  cerrados  durante  las 
+operaciones  de  trasvase  que  precisen  movimiento  de 
+combustible. Tener en cuenta, al abrir un tapón, que los bidones 
+pueden tener vapores y gases liberados a presión. 
+ 
+Realizar las maniobras de aprovisionamiento entre dos personas 
+siempre que sea posible.  
+ 
+Emplear  preferentemente  bombas  de  pequeño  caudal  para 
+realizar el trasvase, aunque se trate de pocos litros. 
+ 
+Almacenar  toda  manguera,  o  recipiente  no  específico  de 
+combustibles, pero que haya sido empleado con este fin en el 
+lugar donde se guarden las mangueras de combustible. 
+ 
+Se  realizará  capacitación al  personal  en temas de manejo  y 
+almacenamiento de sustancias y residuos peligrosos.
+Formas de control y seguimiento 
+Se contempla elaborar planes y programas de prevención de 
+riesgos que cuenten a lo menos con las siguientes medidas 
+generales aplicables para todas las fases del Proyecto. 
+ 
+Además, estas medidas de control y seguimiento aplicarán para 
+todo  el  personal  involucrado  incluyendo  contratistas  y 
+subcontratistas.  
+a)
+Identificación de peligros y evaluación de los riesgos 
+asociados a la actividad a ejecutar. 
+b)
+Cumplimiento de la normativa vigente. 
+c)
+Reglamento interno de seguridad e Higiene. 
+d)
+Desarrollo de instructivos y/o procedimientos de 
+trabajos.
+e)
+Inspecciones preventivas 
+f)
+Inspecciones de comportamiento del trabajador 
+g)
+Investigación de incidentes 
+h)
+Capacitaciones ambientales. 
+Oportunidad y vías de comunicación a la 
+SMA  de  la  activación  del  Plan  de 
+Se deberá dar aviso a la SEREMI DE SALUD; según lo señalado en 
+la legislación vigente dependiendo del riesgo asociado. 
+
+===== p.76 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+76
+Emergencia 
+3.9.
+A.9 PLAN DE EMERGENCIA
+A continuación, se presenta el plan de emergencias para la planta de compostaje.
+Situación de riesgo o contingencia de incendios
+Riesgo de incendio forestal de carácter 
+natural o antrópico y Riesgo de incendio 
+industrial, de carácter natural o antrópico. 
+Incendios; se define como la probabilidad que la población, 
+dependiendo de su presencia y conducta, inicie un incendio 
+forestal o industrial. 
+Fase del proyecto a la 
+que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada
+Planta de compostaje y Áreas Anexas
+Acciones o medida a implementar para 
+controlar la emergencia
+Descripción: En el caso de que se materialice un incendio tanto en 
+las instalaciones (industrial), como de carácter forestal en la 
+periferia del predio, se seguirá el plan de acción correspondiente. 
+Objetivo:  Proporcionar  los  lineamientos  organizacionales  y 
+técnicos para responder a las Emergencias de posible ocurrencia 
+en  el  trayecto  hacia  o  desde  el  proyecto.  Lugar  de 
+implementación: En todo el proyecto y su área de influencia. 
+Oportunidad: Una vez establecidas las acciones correctivas o 
+preventivas adecuadas y definitivas, se deberá diseñar un plan de 
+acción en donde se defina claramente:  
+a)
+La descripción de las acciones a tomar para dar solución a 
+la no conformidad.  
+b)
+La identificación de los responsables que aplicarán las 
+acciones correctivas.  
+c)
+Las fechas límites de aplicación.  
+d)
+El seguimiento que se dará a las acciones establecidas 
+para determinar que hubieran sido las más apropiadas. 
+Una  vez  que  se  determine  que  las  acciones  fueron 
+implementadas y se ha dado solución a la no conformidad, se 
+procede al cierre de esta. Posteriormente se verificará el operar 
+de la acción correctiva para evaluar su efectividad. Indicador de 
+cumplimiento: Estará dado por la Investigación de accidentes y/o 
+
+===== p.77 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+77
+incidentes Acciones: En caso de detectar humo o llama, se dará un 
+aviso de alerta de emergencia a través de alarma sonora, a viva 
+voz y/o por el medio de comunicación más cercano (teléfono, 
+radio, etc.). Al momento de activarse la alarma de incendio, el 
+personal  deberá  evacuar  hacia  los  Puntos  de  Encuentro  de 
+Emergencias  (PEE),  y  el  personal  capacitado  en  manejo  de 
+extintores y/o combate de incendios procederá a extinguir el 
+amago de incendio con el dispositivo de extintor correspondiente 
+al tipo de fuego que se haya originado. En el caso de que el 
+incendio ya sea declarado y no pueda ser controlado por el 
+personal, se procederá a las entidades externas que corresponda, 
+en  este  caso  cuerpo  de  bomberos  de  Viña  del  Mar.  Tener 
+conocimiento de las Vías de Evacuación y Puntos de Encuentro de 
+Emergencias (PEE) en las áreas de trabajo. En caso de incendio 
+evacuar ordenadamente, evitar el pánico, caminar a velocidad 
+normal, no correr. Ayudar a evacuar a las personas que presenten 
+problemas.  Otorgar  los  primeros  auxilios  en  caso  de  ser 
+necesario. No tener actitudes temerarias, que puedan poner en 
+riesgo la integridad física propia y de las otras personas. Si 
+eventualmente el fuego alcanzará a encender la ropa que lleve 
+puesta, no se deberá salir corriendo, sino que deberá dejarse caer 
+al suelo y comenzar a rodar una y otra vez, hasta lograr sofocar las 
+llamas, cubriéndose en todo momento el rostro con las manos. 
+Una vez que se haya evacuado, el personal no podrá devolverse 
+hasta que haya sido superada la emergencia. 
+En  caso  de  incendio  mayor  se  requerirá  ayuda  externa  de 
+Brigadas  Profesionales  de  Combate  de  Incendios  Forestales 
+(CONAF). Mantención e inspección de herramientas y equipos 
+para que estén en estado óptimo cuando se requieran. Dar aviso 
+al  Encargado  de  Operación  para  que  éste  realice  las 
+coordinaciones con CONAF, bomberos, carabineros, ONEMI y 
+vecinos si la emergencia lo requiere. Coordinar las acciones de 
+control durante la Emergencia a la espera de la llegada de 
+organismos especializados como Bomberos o CONAF. Mantener 
+comunicación con el Jefe de Planta, Prevencionista y con los 
+grupos de apoyo externo. Ordenar la revisión y recuento de los 
+elementos usados. Emitir un informe final sobre la emergencia al 
+Jefe de Planta.
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+SÍSMICO
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones  o  medida  a  implementar  para Descripción: Se ejecutará un plan de acción, donde se le entregará 
+a todo el personal, una guía de acción a seguir en el caso de 
+
+===== p.78 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+78
+controlar la emergencia 
+producirse una emergencia por Movimientos Telúricos, de tal 
+forma de tomar todas las medidas preventivas que correspondan y 
+así minimizar al máximo los riesgos, que pudiesen ocasionar daños 
+a las personas. 
+Objetivo:  Proporcionar  los  lineamientos  organizacionales  y 
+técnicos para responder a la Emergencia de posible ocurrencia en 
+las actividades y obras realizadas en el Proyecto, dentro de todas 
+sus fases. 
+Lugar  de  implementación:  Se  aplicará  a  todo  el  personal 
+involucrado directa o indirectamente en la ejecución del Proyecto, 
+en sus fases de: construcción, operación y cierre, abarcando a toda 
+el área de las actividades del Proyecto, que se encuentre en el área 
+de influencia. 
+Oportunidad: Se indicarán en el formulario de evaluación ante 
+emergencias en la sección de recomendaciones. 
+Indicador  de  cumplimiento:  Resultado  del  análisis  de  los 
+procedimientos. 
+Acciones antes del movimiento telúrico:  
+a)
+Se  deberá  mantener  la  calma,  controlando  cualquier 
+posible caso de pánico entre el personal.  
+b)
+Evacuar al personal de las áreas de trabajo, oficinas y/o 
+instalaciones de faena, por las vías de evacuación correspondientes 
+hacia los Puntos de Encuentro de Emergencias (PEE) establecidos; 
+se deberá velar porque ésta esté libre de riesgos de: caída de 
+objetos, materiales, luminarias o cortes de cables de alta tensión, 
+los cuales pudiesen tener graves consecuencias para las personas. 
+c)
+En lo posible los responsables de áreas deberán velar por: 
+cortar el suministro de agua, gas, y sistemas eléctricos asociados a 
+sus áreas de trabajo, apagar motores de equipos, etc., siempre y 
+cuando el realizar estas actividades no implique poner en riesgo su 
+integridad física.  
+d)
+Quedará prohibido reingresar a las instalaciones a buscar 
+cualquier pertenencia o salvaguardar cualquier objeto, equipo o 
+material  durante  el  movimiento  telúrico.  El  acceso  quedará 
+restringido  hasta  que  se  identifiquen  y  evalúen  los  riesgos 
+asociados y derivados de este evento por personal de Prevención 
+de  Riesgos,  quienes  serán  los  responsables  de  autorizar  el 
+reingreso a las áreas de trabajo.  
+e)
+Si  el  movimiento  sísmico  es  demasiado  fuerte  y  los 
+trabajadores no puedan mantenerse en pie, se deberá solicitar que 
+se sienten o arrodillen en el área del PEE, protegiendo su cabeza, y 
+solo deberán ponerse de pie una vez finalizado el movimiento 
+telúrico.  
+f)
+Si eventualmente personal se quedara en el interior de las 
+áreas  de  trabajo  siendo  imposibilitada  su  evacuación,  estos 
+deberán usar el concepto de “triángulo de vida”, ubicándose en 
+posición fetal al costado de un elemento u objeto de mayor tamaño 
+o peso, para que en caso de desplome de algún elemento superior 
+
+===== p.79 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+79
+o lateral se genere un espacio vacío entre ellos, lo cual podrá 
+salvaguardar la vida de las personas.  
+Acciones después del movimiento telúrico:  
+a)
+Una vez finalizado el evento se deberá verificar que el 
+personal se encuentra en su totalidad en el PEE, y en buenas 
+condiciones, ayudando a aquellos que lo necesitan. 
+b)
+Se procederá a prestar atención de Primeros Auxilios al 
+personal que haya sufrido algún tipo de lesión menor producto de 
+este evento, esta actividad solo podrá ser realizada por personal 
+debidamente  capacitado.  En  el  caso  de  lesiones  mayores  se 
+procederá  a  informar  a  las  entidades  que  corresponda  para 
+trasladar al lesionado al Centro Asistencial más cercano para su 
+evaluación.  
+c)
+Se deberá tener especial cuidado con cables eléctricos que 
+se hayan cortado por efectos del movimiento telúrico, y que 
+pudiesen entrar en contacto directo con el personal, o con los 
+objetos que se encuentran cerca o en contacto con ellos, ya que 
+estos podrían provocar un posible puente eléctrico que pudiese 
+ocasionar un accidente con graves consecuencias. 
+d)
+Después  de  un  movimiento  telúrico  significativo,  se 
+deberá permanecer en estado constante de alerta, ya que se 
+seguirán  suscitando  réplicas  de  magnitud  igualmente 
+considerables.
+Oportunidad y vías de comunicación a la 
+SMA de la activación del Plan de Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+ 
+Medidas y Estrategias de Contingencia para Riesgos Naturales
+RIESGO 
+De inundación por precipitaciones extremas
+Fase del proyecto a la que aplica 
+Todas sus fases
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones o medida a implementar para 
+controlar la emergencia 
+Descripción: En caso de que ocurra, se deberá considerar la 
+siguiente metodología para actuar ante una eventual emergencia 
+climática. 
+Objetivo:  Proporcionar  los  lineamientos  organizacionales  y 
+técnicos para responder a las Emergencias de posible ocurrencia 
+en las actividades y obras realizadas en el Proyecto, dentro de 
+todas sus fases. 
+Lugar de implementación: Planta de compostaje. Indicador de 
+cumplimiento:  Se  realizará  por  medio  del  formulario  de 
+evaluación ante Emergencia. 
+Acciones:  
+a)
+En  caso  de  precipitaciones  extremas,  el  supervisor 
+deberá inmediatamente, evacuar a todo el personal del área, 
+dirigiéndolo y trasladándolo a una zona segura. 
+
+===== p.80 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+80
+b)
+Se deberá esperar a que la lluvia baje su intensidad para 
+retomar los trabajos, previo a esto se deberá evaluar si las altas 
+precipitaciones  causaron  algún  daño  material  dentro  de  las 
+instalaciones. 
+Oportunidad y vías de comunicación a la 
+SMA  de  la  activación  del  Plan  de 
+Emergencia 
+Se informará a las autoridades competentes según la legislación 
+vigente. 
+ 
+Situación de riesgo o contingencia por Accidentes Laborales
+RIESGO 
+Por accidentes laborales
+Fase del proyecto a la que aplica 
+Todas sus fases, excepto el riesgo por caídas de árboles que sería 
+solo en la etapa de construcción. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones o medida a implementar para 
+controlar la emergencia 
+Descripción:  Todo  personal  que  realice  labores  en  la  fase 
+Construcción,  operación  y  cierre  del  Proyecto,  tendrán  sus 
+diferentes responsabilidades de acuerdo con el cargo que le 
+corresponda. Las responsabilidades serán repartidas entre el Jefe 
+de  Planta,  Encargado  de  Seguridad,  Responsable  Ambiental, 
+Supervisor de Turno y Operarios.
+Objetivo:  Proporcionar  los  lineamientos  organizacionales  y 
+técnicos para responder a las Emergencias de posible ocurrencia 
+en las actividades y obras realizadas en el Proyecto, dentro de 
+todas sus fases.  
+Lugar de implementación: Toda el área de influencia del 
+proyecto. 
+Oportunidad: Una vez establecidas las acciones correctivas o 
+preventivas adecuadas y definitivas, se deberá diseñar un plan de 
+acción en donde se defina claramente:  
+a)
+La descripción de las acciones a tomar para dar solución a 
+la no conformidad.  
+b)
+La identificación de los responsables que aplicarán las 
+acciones correctivas.  
+c)
+Las fechas límites de aplicación.  
+d)
+El seguimiento que se dará a las acciones establecidas 
+para determinar que hubieran sido las más apropiadas. 
+e)
+Una  vez  que  se  determine  que  las  acciones  fueron 
+implementadas y se ha dado solución a la no conformidad, se 
+procede a su cierre. Posteriormente se verificará el accionar de la 
+acción correctiva para evaluar su efectividad. 
+ 
+Indicador de cumplimiento: Estará dado por la Investigación de 
+accidentes y/o incidentes. 
+ 
+Acciones: 
+Realizar una evaluación visual de las lesiones del accidentado, sin 
+
+===== p.81 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+81
+tocarlo ni moverlo, sólo procediendo a abrigarlo. 
+Comunicar en forma inmediata a los niveles de la organización 
+que corresponda según el flujograma de emergencias/accidente 
+asociado al área.  
+Verificar estabilidad de signos vitales (pulso, respiración) y estado 
+de conciencia.  
+Si  la  persona  no  respira,  solo  personal  capacitado  podrá 
+proporcionar los Primeros Auxilios, realizando la resucitación 
+cardiopulmonar (RCP) al afectado si procede. No se deberá dejar 
+por  ningún  motivo  al  lesionado  solo.   Se  deberá  procurar 
+mantener  a  todo  el  personal  ajeno,  alejado  del  lugar  del 
+accidente.  
+Comenzar con la investigación del incidente. 
+En caso de Riesgo por contacto eléctrico Proceder a cortar la 
+corriente para des energizar el circuito, está prohibido tomar a la 
+persona afectada que aún se encuentre en contacto con la fuente 
+de  energía.  Si  no  es  posible  cortar  la  corriente,  personal 
+capacitado procederá a sacar a la persona utilizando para ello un 
+elemento no conductor (madera seca o pértiga de rescate), para 
+evitar  ser afectado  por la energización.  Una  vez retirada la 
+persona del lugar, y a raíz del choque eléctrico no respira y su 
+corazón  ha  dejado  de  latir,  se  aplicará  la  resucitación 
+cardiopulmonar (RCP), hasta que la víctima muestre signos de 
+recuperación y llegue personal capacitado de los organismos 
+competentes para su traslado al Centro Asistencial más próximo.
+Oportunidad y vías de comunicación a la 
+SMA  de  la  activación  del  Plan  de 
+Emergencia 
+Se deberá comunicar al Centro de Atención y/o Policlínico más 
+cercano o al Organismo Administrador Mutual de Seguridad de la 
+situación para que se haga presente en el lugar y proceda a la 
+atención y posterior traslado del lesionado, según lo señalado en 
+la legislación vigente.
+ 
+Situación de riesgo o contingencia por Riesgos Operacionales
+RIESGO 
+Operacionales
+Fase del proyecto a la que aplica 
+Fase de operación y cierre, excepto el Riesgo por derrame de 
+sustancias peligrosas en el suelo que se aplicaría a todas las fases 
+del proyecto. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Planta de compostaje y Áreas Anexas
+Acciones o medida a implementar para 
+controlar la emergencia 
+Descripción:  Todo  personal  que  realice  labores  en  la  fase 
+Construcción,  operación  y  cierre  del  Proyecto,  tendrán  sus 
+diferentes responsabilidades de acuerdo con el cargo que le 
+
+===== p.82 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+82
+corresponda. Las responsabilidades serán repartidas entre el Jefe 
+de  Planta,  Encargado  de  Seguridad,  Responsable  Ambiental, 
+Supervisor de Turno y Operarios.
+ 
+Objetivo:  Proporcionar  los  lineamientos  organizacionales  y 
+técnicos para responder a las Emergencias de posible ocurrencia 
+en las actividades y obras realizadas en el Proyecto, dentro de 
+todas sus fases.  
+ 
+Lugar de implementación: Toda el área de influencia del proyecto 
+Oportunidad: Una vez establecidas las acciones correctivas o 
+preventivas adecuadas y definitivas, se deberá diseñar un plan de 
+acción en donde se defina claramente:  
+a)
+La descripción de las acciones a tomar para dar solución a 
+la no conformidad.  
+b)
+La identificación de los responsables que aplicarán las 
+acciones correctivas.  
+c)
+Las fechas límites de aplicación.  
+d)
+El seguimiento que se dará a las acciones establecidas 
+para determinar que hubieran sido las más apropiadas. 
+e)
+Una  vez  que  se  determine  que  las  acciones  fueron 
+implementadas y se ha dado solución a la no conformidad, se 
+procede a su cierre.  Posteriormente se verificará el accionar de la 
+acción correctiva para evaluar su efectividad. 
+ 
+Indicador de cumplimiento: (i) Estará dado  por  la  Investigación 
+de accidentes y/o incidentes, (ii) existencia de denuncias, (iii) 
+evaluaciones  periódicas  de  las  cubiertas,  (iv)  cantidad  de 
+reparaciones durante el año.  
+Acciones:  
+ 
+1. Presencia de vectores. En caso de existir una proliferación de 
+vectores al interior de la planta, se adoptarán las siguientes 
+medidas:  
+Se establecerá un cerco perimetral que impedirá el ingreso de 
+animales a la planta.  
+  
+Se  realizará  una  limpieza  periódica  de  los  camiones  y 
+contenedores, así como también de los caminos de acceso, 
+retirando  los  residuos  que  eventualmente  pudieran  ser 
+derramados por los vehículos.  
+ 
+Se realizará una limpieza diaria de todas las instalaciones, en 
+especial de las áreas donde se manipularán los residuos. 
+ 
+
+===== p.83 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+83
+Se realizará el retiro diario de todas las basuras generadas en estos 
+sectores.  
+Se realizará un mejoramiento en el sistema de cordón sanitario. 
+ 
+Se solicitará a la Autoridad Sanitaria, en casos necesarios, el 
+permiso  correspondiente  para  realizar  la  fumigación, 
+desratización u otra acción que se deba realizar para disminuir la 
+presencia de vectores en el área de trabajo. 
+ 
+2. Derrame de Sustancias Peligrosas. 
+ 
+En caso de materializarse un evento de contaminación del suelo 
+por derrame de sustancias peligrosas, se seguirá el siguiente plan 
+de acción.  
+ 
+Se dispondrá de una estación de emergencias que disponga de un 
+kit antiderrames totalmente equipado.  
+ 
+Realizar las labores de limpieza del área afectada. 
+ 
+Las personas a cargo de la labor de limpieza deben utilizar los EPP 
+adecuados.  
+ 
+Utilizar elementos de contención de derrames menores a fin de 
+detener el derrame.  
+ 
+Las personas a cargo de la labor de limpieza deben utilizar los EPP 
+adecuados y contarán con las capacitaciones correspondientes. 
+ 
+Despejar y delimitar el área afectada. 
+ 
+Prohibir el acceso a personas ajenas a la zona afectada. 
+ 
+Segregar el área afectada. 
+ 
+No tocar el producto derramado con las manos. 
+ 
+Absorber el derrame mediante sistema de paños absorbentes o 
+turba  para  luego  proceder  al  retiro  del  suelo  contaminado 
+utilizando palas o escobillones y disponer en contenedores de 200 
+litros rotulados con el residuo a descartar y transportar al sector 
+de acopio transitorio de residuos peligrosos sólidos, ubicado al 
+interior de la faena.  
+ 
+Lavar o desechar los elementos de protección personal utilizados.
+Oportunidad y vías de comunicación a la 
+SMA  de  la  activación  del  Plan  de 
+Se deberá dar aviso a la SEREMI DE SALUD; según lo señalado en 
+la legislación vigente dependiendo del riesgo asociado. 
+
+===== p.84 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+84
+Emergencia 
+
+===== p.85 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+85
+4. CONTENIDOS  TÉCNICOS  Y  FORMALES  TRATÁNDOSE  DE  PLANTAS  DE 
+MANEJO DE RESIDUOS ORGÁNICOS
+4.1.
+c.1 - DESCRIPCIÓN DEL SISTEMA PERIMETRAL DE INTERCEPCIÓN Y EVACUACIÓN 
+DE ESCORRENTÍAS SUPERFICIALES 
+El manejo de las aguas lluvias propuesto para el interior del área de proyecto contempla la 
+evacuación de éstas mediante canales abiertos. Estos permitirán captar la escorrentía de origen 
+pluvial que se generará en los diferentes componentes del proyecto, conduciendo y descargando 
+las aguas hacia la red de quebradas existentes en los costado Norte y Este del área de proyecto. 
+Por otro lado, el proyecto interceptará el escurrimiento intermitente de tipo pluvial que conducen 
+las quebradas Q2, Q2.1.14, Q1 y Q1.1.17. Se proponen obras de captación que permiten dirigir la 
+escorrentía de las quebradas hacia la red de canales internos del proyecto, usando como criterio 
+de diseño que el flujo sea evacuado en las quebradas que originalmente recibían estas aguas, 
+evitando con ello el trasvasije de cuencas.
+La solución de saneamiento antes descrita se detalla en la figura siguiente, en la cual se muestra la 
+ubicación de los puntos de captación y quebradas involucradas, trazado de la red de canales 
+propuesta al interior del proyecto y, por último, los puntos de descarga de las aguas lluvias hacia 
+quebradas  existentes.  Las  obras  componentes  del  manejo  de  aguas  lluvias  señaladas 
+anteriormente se describirán en detalle a continuación.
+
+===== p.86 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+86
+Figura 38.
+Vista en planta obras manejo aguas lluvias del proyecto: red de canales, puntos 
+de captación y descargas.
+Para el área de proyecto se diseñaron un total de 10 canales abiertos que tendrán por finalidad 
+captar y conducir hasta el punto de descarga la escorrentía de origen pluvial que se genere 
+durante  eventos  de  precipitación,  por  lo  que  no  conducirán  escurrimientos  de  manera 
+permanente. Para el trazado y definición altimétrica de los canales se trabajó con la topografía 
+definida en la situación “con proyecto” considerando el escenario en que el relleno se encuentra 
+impermeabilizado totalmente. De igual manera, se respetaron los trazados y cotas definidas para 
+caminos interiores y berma del proyecto, generando obras de atravieso (OA) bajo la rasante en 
+estos puntos de interferencia.
+En la siguiente tabla se presenta la ubicación en coordenadas UTM Datum WGS 84-Huso 19 S 
+referenciales para el área del proyecto, así como también de los vértices que señalan el inicio y fin 
+de los canales.
+Tabla 19.
+Coordenadas vértices inicio – fin de obras de canalización proyectadas
+Obra
+Coordenadas UTM Datum WGS 84, Huso 19 S
+Vértice
+Inicio
+Este
+(m)
+Norte
+(m)
+Vértice
+Final
+Este
+(m)
+Norte
+(m)
+CANAL 1.0
+VI-01
+267.826
+6.336.906
+VF-01
+267.885
+6.336.680
+CANAL 1.1
+VI-02
+267.720
+6.336.867
+VF-02
+267.824
+6.336.905
+CANAL 1.2
+VI-03
+267.717
+6.336.867
+VF-03
+268.085
+6.337.547
+CANAL 1.3
+VI-04
+267.707
+6.337.102
+VF-04
+268.248
+6.337.492
+CANAL 1.4
+VI-05
+267.723
+6.337.222
+VF-05
+268.221
+6.337.488
+CANAL 2.0
+VI-06
+268.514
+6.337.205
+VF-06
+268.490
+6.337.434
+CANAL 2.1
+VI-07
+268.218
+6.337.298
+VF-07
+268.514
+6.337.205
+CANAL 2.2
+VI-08
+268.500
+6.336.954
+VF-08
+268.514
+6.337.205
+CANAL 3.1
+VI-09
+268.002
+6.336.643
+VF-09
+268.514
+6.336.763
+CANAL 3.2
+VI-10
+268.434
+6.336.702
+VF-10
+268.683
+6.337.031
+4.1.1.
+DESCRIPCIÓN DE LAS VARIABLES DE DISEÑO 
+El  diseño  del  sistema  perimetral  de  intercepción  y  evacuación  de  escorrentías  superficiales 
+considerará una serie de variables técnicas e hidrológicas orientadas a asegurar su correcto 
+funcionamiento y estabilidad operacional. Entre las principales variables de diseño se consideran las 
+siguientes:
+●
+Precipitación  de  diseño: Se  utilizarán  antecedentes  climáticos  e  hidrológicos 
+representativos del área de emplazamiento del proyecto, considerando intensidades de 
+precipitación asociadas a eventos de lluvia con períodos de retorno acordes al nivel de 
+riesgo y características de la infraestructura proyectada. 
+
+===== p.87 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+87
+●
+Topografía del terreno: Se considerará la pendiente natural y configuración geomorfológica 
+del predio, permitiendo definir sentidos de escurrimiento, ubicación de obras de captación y 
+trazado de canales o cunetas. 
+●
+Caudal de escorrentía: La estimación de caudales se efectuará considerando superficies 
+aportantes,  coeficientes  de  escorrentía  asociados  al  tipo  de  cobertura  superficial  y 
+características de impermeabilización de las áreas operacionales. 
+●
+Capacidad hidráulica de las obras: Las secciones y dimensiones de cunetas, canaletas y 
+drenes serán definidas en función de los caudales proyectados, velocidades de flujo 
+admisibles y criterios de seguridad hidráulica. 
+●
+Condiciones geotécnicas y estabilidad: Se considerarán las características del suelo de 
+fundación y estabilidad de taludes, incorporando medidas de protección frente a erosión, 
+socavación o deterioro de las obras. 
+●
+Segregación de aguas: El diseño contemplará la diferenciación entre aguas lluvias limpias y 
+aguas de contacto provenientes de sectores operacionales, evitando mezclas innecesarias y 
+disminuyendo la generación de lixiviados. 
+●
+Operación y mantención: Las obras serán diseñadas considerando accesibilidad para 
+inspección, limpieza y mantención periódica, asegurando su funcionamiento continuo 
+durante la vida útil del proyecto.
+4.1.2.
+PLANO Y CARTOGRAFÍA QUE GRAFIQUE EL EMPLAZAMIENTO DE LAS OBRAS REQUERIDAS 
+DENTRO DEL PREDIO 
+En el Permiso Sectorial 157, se incorporan los planos y cartografías que permiten identificar el 
+emplazamiento de las obras asociadas al sistema de intercepción, conducción y evacuación de 
+escurrimientos superficiales dentro del predio del proyecto.
+4.2.
+c.2 - DESCRIPCIÓN DEL SISTEMA DE RECOLECCIÓN Y EVACUACIÓN DE LAS AGUAS 
+QUE PRECIPITEN SOBRE LA PLANTA
+El sistema de recolección y evacuación de aguas lluvias de la planta de compostaje ha sido diseñado 
+para garantizar un manejo adecuado de las precipitaciones, minimizando riesgos de erosión del 
+terreno y contaminación de suelos o cuerpos de agua cercanos.
+La infraestructura contempla la captación de aguas pluviales mediante superficies impermeables 
+estratégicamente  inclinadas,  como  techumbres,  losas  y  pavimentos,  las  cuales  conducen  el 
+escurrimiento  hacia  canales  perimetrales  o  canaletas  de  recolección.  Estas  canaletas  están 
+conectadas a un sistema de tuberías y/o zanjas drenantes que dirigen el flujo hacia un punto de 
+descarga controlado.
+
+===== p.88 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+88
+En  las  zonas  expuestas  del  área  operativa  (como  la  plataforma  de  maduración),  se  han 
+implementado pendientes adecuadas para facilitar el escurrimiento superficial hacia cunetas 
+revestidas o fosas de infiltración. 
+Finalmente, las aguas limpias son descargadas hacia un sistema de infiltración al terreno natural, 
+conforme a la normativa ambiental vigente. El diseño asegura que las aguas lluvias no se mezclen 
+con aguas contaminadas del proceso, manteniendo la eficiencia operativa y la protección ambiental 
+del entorno.
+4.2.1.
+DESCRIPCIÓN DE LOS SISTEMAS DE IMPERMEABILIZACIÓN 
+La planta de compostaje está equipada con sistemas de impermeabilización destinados a prevenir la 
+infiltración de líquidos generados durante el proceso de compostaje, resguardando así la integridad 
+del suelo y el entorno.
+Las zonas operativas con riesgo de generación de líquidos —como la zona de recepción de residuos 
+orgánicos, el área de mezcla, las plataformas de compostaje y el sector de almacenamiento de 
+compost maduro— serán construidas sobre radieres de hormigón armado. Estos radieres actúan 
+como una barrera física eficaz ante posibles filtraciones y, al mismo tiempo, permiten una operación 
+eficiente de maquinaria pesada, como cargadores frontales y volteadoras de compost.
+Las juntas y puntos de transición entre losas o superficies serán sellados con materiales específicos, 
+tales como sellos acrílicos u otros productos compatibles, con el fin de asegurar la continuidad del 
+sistema y evitar filtraciones por fisuras, asentamientos diferenciales o dilataciones estructurales.
+En las áreas sin riesgo de generación de líquidos —como vías de tránsito, patios de maniobra y 
+bodegas cerradas— se contempla el uso de pavimentos permeables o soluciones de bajo impacto. 
+Estas permiten el manejo adecuado de las aguas lluvias, sin afectar la seguridad ambiental ni el 
+funcionamiento general de la planta.
+4.2.2.
+DESCRIPCIÓN DE LAS VARIABLES DE DISEÑO CONSIDERADAS EN EL SITIO
+El diseño de la planta de compostaje ha considerado las condiciones específicas del sitio, con el fin 
+de asegurar su operatividad, durabilidad y compatibilidad ambiental. A continuación, se detallan las 
+principales variables de diseño tenidas en cuenta:
+a) Topografía y pendiente del terreno:
+Se consideró la morfología del terreno para definir la distribución de las áreas operativas. Las 
+pendientes naturales se aprovecharon para facilitar el escurrimiento de aguas lluvias y líquidos, 
+dirigiéndolos hacia puntos de recolección o tratamiento. Las plataformas de operación se nivelarán 
+según requerimientos técnicos, asegurando una pendiente mínima del 1 al 2% para el adecuado 
+drenaje superficial.
+b) Características del suelo:
+
+===== p.89 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+89
+Se evaluaron las propiedades geotécnicas del suelo para determinar su capacidad de soporte, 
+permeabilidad y estabilidad. En función de estos resultados, se definieron los espesores de los 
+radieres y la necesidad de implementar capas de base o subbase estabilizada en las zonas de tránsito 
+y operación.
+c) Clima y régimen de precipitaciones:
+El diseño incorpora elementos de manejo de aguas lluvias adaptados al régimen pluviométrico local, 
+considerando eventos de lluvia intensos. Se definieron pendientes, canaletas, pozos de infiltración y 
+superficies  impermeables  para  evitar  acumulaciones  de  agua  y  proteger  los  procesos  de 
+compostaje.
+d) Vientos dominantes:
+Se tomaron en cuenta los vientos predominantes en la zona para orientar adecuadamente las zonas 
+de recepción, volteo y maduración, de modo de minimizar molestias por olores y optimizar la 
+aireación natural del material orgánico en proceso.
+e) Accesibilidad y circulación interna:
+Se diseñaron accesos vehiculares adecuados al tránsito de camiones, maquinaria pesada y personal 
+operativo, estableciendo rutas internas pavimentadas o estabilizadas, con radios de giro adecuados 
+y pendientes compatibles con la operación segura de equipos.
+f) Protección ambiental y distancias a cuerpos sensibles:
+Se respetaron las distancias mínimas a cuerpos de agua, viviendas y otras áreas sensibles, conforme 
+a la normativa vigente. Asimismo, se considera la implementación de barreras vegetales o físicas 
+para mitigar impactos paisajísticos, acústicos y por dispersión de material particulado u olores.
+Estas variables son fundamentales para asegurar un diseño funcional, seguro y ambientalmente 
+compatible con el entorno donde se emplaza la planta.
+4.2.3.
+DESCRIPCIÓN DE LOS SISTEMAS DE RECOLECCIÓN, EVACUACIÓN O DESCARGA DE AGUAS 
+LLUVIAS
+El diseño de la planta contempla un sistema integral de manejo de aguas lluvias, cuyo objetivo es 
+recolectar, conducir y evacuar de manera segura las precipitaciones que se generen sobre las 
+superficies que conforman la planta de compostaje, evitando encharcamientos, erosión del terreno 
+e  infiltraciones  no  deseadas  que  puedan  comprometer  la  operación  o  generar  impactos 
+ambientales.
+a)
+Recolección:
+Las aguas lluvias que precipitan sobre las cubiertas y superficies (radieres, techumbres, plataformas 
+de  operación, patios de  maniobra)  son  captadas  mediante  pendientes dirigidas y  canaletas 
+perimetrales. Las superficies se han diseñado con inclinaciones mínimas del 1 a 2% que permiten el 
+escurrimiento superficial hacia canaletas de recolección.
+
+===== p.90 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+90
+b) Conducción y evacuación:
+Las aguas captadas son dirigidas mediante un sistema de canaletas, tuberías y zanjas revestidas 
+hacia puntos de descarga definidos.
+c)
+Descarga:
+Las aguas lluvias limpias se descargan en forma controlada hacia sistemas de infiltración en el 
+terreno natural, fosas de infiltración o zanjas drenantes. Todas las descargas se han diseñado para 
+prevenir erosión y asegurar la disipación de energía, minimizando impactos sobre el entorno.
+d) Prevención de contaminación:
+Se han considerado medidas para evitar que las aguas lluvias se mezclen con líquidos que pudiese 
+producir el proceso. Para ello, se establecen barreras físicas y drenajes independientes entre zonas 
+limpias y zonas operativas. Además, el diseño incorpora filtros o trampas de sólidos en los puntos 
+críticos, que permiten retener materiales particulados antes de la descarga final.
+El sistema ha sido dimensionado considerando la pluviometría histórica del sitio, para asegurar su 
+correcto funcionamiento incluso bajo condiciones de lluvia intensa.
+4.2.4.
+PLANO Y CARTOGRAFÍA DEL ÁREA DE TRATAMIENTO
+En el Permiso Sectorial 157, se incorporan los planos y cartografías que permiten identificar el 
+emplazamiento de las obras asociadas al sistema de intercepción, conducción y evacuación de 
+escurrimientos superficiales dentro del predio del proyecto.
+4.3.
+c.3 - DESCRIPCIÓN DEL SISTEMA DE MONITOREO DE LA CALIDAD DEL AGUA 
+SUBTERRÁNEA
+4.3.1.
+IDENTIFICACIÓN, UBICACIÓN GEORREFERENCIADA Y PROFUNDIDAD (M) DE LOS POZOS 
+DE MONITOREO 
+Como parte de las medidas de control ambiental, el proyecto contempla la habilitación de una red 
+de monitoreo compuesta por cinco (5) pozos de observación, emplazados estratégicamente aguas 
+abajo de las instalaciones, en el sector de las quebradas.
+En la siguiente tabla se presenta la identificación y ubicación de georreferenciada de los 5 pozos de 
+monitoreo de aguas subterráneas.
+Vértice
+DATUM WGS 84
+Este
+Norte
+P-1
+268082.0
+6337540.0
+P-2
+268225.0
+6337482.0
+P-3
+268484.0
+6337396.0
+P-4
+268580.0
+6337358.0
+P-5
+268521.0
+6336825.0
+
+===== p.91 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+91
+La profundidad de estas perforaciones no será rígida, estimándose en un rango variable de entre 15 
+y 40 metros bajo el nivel del terreno. Esta estimación técnica se sustenta en los resultados de la 
+caracterización geofísica local mediante Tomografía de Resistividad Eléctrica (ERT), la cual demostró 
+que el subsuelo presenta un estrato superficial permeable de roca meteorizada, denominado 
+localmente como "maicillo". El espesor de esta capa es sumamente irregular a lo largo del predio 
+debido a la meteorización diferencial que afecta a las rocas ígneas intrusivas (granitoides jurásicos) 
+de la zona.
+4.3.2.
+PLANO CON LA UBICACIÓN DE LOS POZOS DE MONITOREO
+En la siguiente figura se presenta plano con el emplazamiento de los pozos de monitoreo.
+Figura 39.
+Ubicación de pozos de observación
+
+===== p.92 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+92
+4.3.3.
+PARÁMETROS DE INTERÉS SANITARIO INCLUIDOS EN EL MONITOREO, FRECUENCIA DE 
+MUESTREO Y PERIODICIDAD DE INFORMES
+Los parámetros a monitorear corresponderán a los señalados en la Tabla N°1 de la NCh N°1.333, con 
+una frecuencia de muestreo y entrega de informes semestral.
+4.3.4.
+CARACTERIZACIÓN DE LA CALIDAD BASAL DEL AGUA SUBTERRÁNEA EN EL ÁREA DE 
+EMPLAZAMIENTO DE LA PLANTA, PREVIO A SU INSTALACIÓN Y OPERACIÓN
+La caracterización se realizará una vez construidos los pozos según la siguiente programación.
+Vértice
+Cronograma
+Fase de 
+construcción
+P-1
+Año 2
+Construcción
+P-2
+Año 2
+Construcción
+P-3
+Año 6
+Operación
+P-4
+Año 6
+Operación
+P-5
+Año 15
+Operación
+4.4.
+c.4 - PROGRAMA DE CONTROL DE PARÁMETROS CRÍTICOS DE LA OPERACIÓN DE 
+LA PLANTA. 
+4.4.1.
+DESCRIPCIÓN DE LAS VARIABLES OPERACIONALES QUE SE UTILIZARÁN PARA CONTROLAR 
+EL PROCESO DE TRATAMIENTO DE LOS RESIDUOS ORGÁNICOS
+En la siguiente tabla se presenta la descripción de las variables operacionales que se utilizarán para 
+controlar el proceso de tratamiento de los residuos orgánicos en la planta de compostaje, con su 
+respectiva frecuencia de medición.
+Tabla 20.
+Variables operacionales para el control del proceso de los residuos orgánicos
+Variable
+Descripción
+Frecuencia medición
+Temperatura
+Fundamental para asegurar la actividad 
+microbiana, desinfección (eliminación de 
+patógenos) y progreso del compostaje. 
+Diaria
+Humedad 
+(contenido de agua 
+en la mezcla) 
+Necesaria para que los microorganismos trabajen 
+de forma óptima, pero debe mantenerse en un 
+rango controlado para evitar condiciones 
+anaeróbicas.
+1 vez a la semana
+pH
+El nivel de acidez / alcalinidad influye en la 
+actividad microbiana; un pH inadecuado puede 
+inhibir la descomposición. 
+1 vez al mes
+Relación Carbono:
+Nitrógeno (C:N) 
+Para que la descomposición sea eficiente, la 
+mezcla de residuos debe tener un buen equilibrio 
+Mensual
+
+===== p.93 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+93
+entre carbono (material “seco”, hojas, aserrín, 
+etc.) y nitrógeno (material “verde”, restos 
+vegetales frescos, residuos de cocina, etc.). 
+Frecuencia de 
+volteo / aireación / 
+oxigenación 
+En compostaje aeróbico, es clave asegurar una 
+ventilación adecuada para que los 
+microorganismos obtengan oxígeno; el volteo 
+sirve también para homogenizar la pila, controlar 
+temperatura y humedad. 
+1 vez a la semana
+Tamaño de 
+partícula / 
+granulometría / 
+porosidad de la 
+mezcla
+Afecta la superficie de contacto para los 
+microorganismos y la aireación; partículas muy 
+grandes ralentizan la descomposición, muy finas 
+pueden compactar la mezcla y dificultar el aire. 
+Mensual
+4.4.2.
+IDENTIFICACIÓN DE LAS ACCIONES O MEDIDAS QUE SE APLICARÁN Y FORMAS DE 
+CONTROL PARA NO SUPERAR LA CAPACIDAD DE TRATAMIENTO DIRECTO DE LA PLANTA 
+Contará con un control riguroso de la cantidad de residuos que ingresarán cumplir con plazos de 
+maduración y ciclos de compostajes y en caso de que sobrepase la capacidad de tratamiento ya sea 
+por sobrecarga de residuos o desperfectos en el proceso se recurrirá a disponer en el relleno 
+sanitario.
+
+===== p.94 =====
+PERMISO AMBIENTAL SECTORIAL 140 – PLANTA DE COMPOSTAJE
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS

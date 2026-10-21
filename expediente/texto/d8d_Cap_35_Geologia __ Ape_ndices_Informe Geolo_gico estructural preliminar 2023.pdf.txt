@@ -1,0 +1,524 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+Daniel Gómez Michea 
+Miguel Cáceres Munizaga 
+Noviembre 2023 
+RECONOCIMIENTO GEOLÓGICO-ESTRUCTURAL 
+DEL COMPLEJO PARA TRATAMIENTO Y 
+DISPOSICIÓN DE RESIDUOS SÓLIDOS URBANOS 
+VIÑA DEL MAR 
+
+===== p.1 =====
+RESUMEN EJECUTIVO 
+• El terreno donde se pretende emplazar el proyecto está conformado 
+íntegramente por rocas ígneas intrusivas que no contienen material fosilífero. 
+• Se confirma la existencia de una falla potencialmente activa y perteneciente 
+a la Zona de Fallas Marga Marga en el extremo norte del complejo, la cual 
+compromete el cierre perimetral. 
+• Una falla noreste se presenta en la parte central, la que bordea el margen 
+occidental 
+del 
+relleno, 
+no 
+obstante, 
+dada 
+sus 
+características 
+e 
+investigaciones de otros autores, se considera inactiva. 
+• El retroceso de cerca de 200 m hacia el sur de parte del cierre perimetral 
+evitará que la traza de la falla activa quede dentro del complejo. De ejecutar 
+está modificación, no existen parámetros geológicos que impidan construir el 
+complejo. 
+• Se destaca que toda el área es próxima a un sistema de fallas considerado 
+activo (Zona de Fallas Marga Marga) y que todo el sector está clasificado 
+preliminarmente como de alto riesgo sísmico, lo que debe ser considerado 
+desde el punto de vista ingenieril. 
+ 
+ 
+ 
+
+===== p.2 =====
+CONTENIDOS 
+ 
+ANTECEDENTES GENERALES .................................................................................................. 1 
+INTRODUCCIÓN .......................................................................................................................... 1 
+UBICACIÓN Y ACCESOS .......................................................................................................... 1 
+OBJETIVOS .................................................................................................................................. 2 
+METODOLOGÍA ........................................................................................................................... 2 
+Pre-Terreno .............................................................................................................................. 2 
+Terreno ...................................................................................................................................... 2 
+Gabinete .................................................................................................................................... 2 
+LIMITACIONES ............................................................................................................................ 2 
+GEOLOGÍA DISTRITAL ................................................................................................................. 3 
+GEOLOGIA DEL PROYECTO ....................................................................................................... 5 
+• 
+Unidad tonalita de hornblenda y biotita (TON) ........................................................... 5 
+• 
+Subunidad Diques Microdioríticos (DF) ....................................................................... 5 
+• 
+Subunidad Diques Pegmatíticos (DP) ........................................................................... 6 
+ESTRUCTURAS ............................................................................................................................... 8 
+Sistema estructural Noroeste (NW) ....................................................................................... 9 
+Sistema estructural Noreste (NE) ........................................................................................ 10 
+DISCUSIÓN ..................................................................................................................................... 11 
+CONCLUSIONES ........................................................................................................................... 13 
+RECOMENDACIONES ................................................................................................................. 14 
+REFERENCIAS .............................................................................................................................. 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.3 =====
+1 
+ 
+ANTECEDENTES GENERALES 
+INTRODUCCIÓN 
+El Artículo 11 del Decreto N°189 que regula las condiciones sanitarias y de 
+seguridad básicas en los rellenos sanitarios, indica que estos no deben situarse 
+sobre la traza de fallas activas, entendiéndose estas como “una ruptura (o zona) en 
+la corteza terrestre donde un bloque se deslizó respecto del otro durante el periodo 
+geológico Holoceno, es decir, hace menos de 11.700 años”. Considerando lo 
+anterior, este informe presenta un levantamiento geológico-estructural para un 
+sector localizado inmediatamente al sur de la ciudad de Quilpué y en donde se 
+desea construir un complejo de tratamiento y disposición de residuos sólidos. 
+UBICACIÓN Y ACCESOS 
+La zona se localiza cerca de 2 km al sur del puente “Las Cucharas, Ruta CH-
+60” y cerca de 5 km al este de Viña del Mar, Región de Valparaíso. Desde Viña del 
+Mar se accede después del primer peaje, tomando un paso bajo nivel en dirección 
+sur hasta entrar al sector norte del polígono por senderos y lomajes a pie. Desde 
+Quilpué se puede acceder por la misma ruta anterior, o bien, a pie desde el 
+Condominio Valle del Sol, pasando por senderos establecidos en dirección 
+suroeste, para llegar por el este del área del polígono (Fig. 1). 
+ 
+Figura 1. Mapa de ubicación del proyecto. En verde el polígono del proyecto, en rojo la ruta (sendero) 
+utilizada para ingresar y en magenta, la ruta propuesta para el tránsito vehicular. 
+
+===== p.4 =====
+2 
+ 
+OBJETIVOS 
+Caracterizar la geología del prospecto con especial énfasis en la 
+identificación de sus controles estructurales, con la finalidad de comprobar si existen 
+fallas activas que impidan su construcción o que fuercen su modificación. 
+METODOLOGÍA 
+Pre-Terreno 
+Análisis bibliográfico y de reporte preliminar, reconocimiento del área a través 
+de imágenes satelitales de alta resolución e identificación preliminar de rutas y 
+lugares a visitar.  
+Terreno 
+La salida a terreno se efectuó entre lunes 23 y martes 24 de octubre del 2023, 
+acampando una noche en el sector más oriental del área del proyecto. Las rutas 
+fueron diseñadas para visitar la mayor cantidad de lineamientos estructurales 
+reconocidos en la fase de pre-terreno. Durante las rutas se realizó levantamiento 
+fotográfico georreferenciado de alta resolución por Dron y cámaras fotográficas. En 
+total se levantaron 29 puntos, considerando 3 puntos de control. 
+Gabinete 
+Posterior a la fase de terreno se procedió a la elaboración de una base de 
+datos de los puntos levantados y se realizaron descripciones de nueve muestras de 
+roca para la definición de unidades geológicas con la finalidad de generar un mapa 
+geológico a partir del mapeo en físico y digital, acompañado de dos perfiles y la 
+elaboración de este informe. 
+LIMITACIONES 
+Durante la fase de terreno no ocurrieron limitaciones de gran importancia. Por 
+motivos de seguridad personal, se utilizó el ingreso a pie desde el sector residencial 
+“Condominio Valle del Sol”, a metros de la bajada hacia el Estero Marga Marga, 
+para seguir camino por cerca de tres horas a través de senderos y lomajes en 
+dirección oeste, hasta llegar al área de estudio. 
+ 
+ 
+
+===== p.5 =====
+3 
+ 
+GEOLOGÍA DISTRITAL 
+El mapa geológico del área Valparaíso-Curacaví (Gana et al.,1996) describe 
+el entorno del área del proyecto, considerando tanto unidades ígneas plutónicas, 
+como también una metamórfica indiferenciada (Fig. 2). Estas unidades representan 
+casi la totalidad del área de estudio y se describen a continuación. 
+Unidades intrusivas (Jurásico tardío) 
+• Tonalitas de anfíbol-biotita (Jlt) 
+Predominantemente corresponde a tonalitas y granodioritas de hornblenda-
+biotita, gris claro, de grano medio a grueso y con escasas inclusiones 
+microdioríticas (<1%) subredondeadas; exhiben textura hipidiomórfica granular, 
+conteniendo plagioclasa zonada, ocasionalmente con bordes rnirmekíticos, 
+ortoclasa y microclina pertítica, hornblenda reemplazada por biotita, que aparece 
+normalmente en grandes láminas automorfas entrecrecidas en forma lamelar 
+con titanita. Abundante apatito, circón y epidota como accesorios y opacos 
+granulares asociados a los minerales máficos. Afloran en una franja continua 
+nor-noroeste de 55 km de largo, entre Quilpué y Curacaví. Poseen contactos 
+graduales con rocas de la unidad Jp. lntruye a las formaciones Ajial y Horqueta, 
+generando en ellas, zonas de alteración hidrotermal. Intruida por granitoides del 
+Cretácico con formación de zonas de enclaves magmáticos (este de Curacaví). 
+Edades K-Ar en biotita en el intervalo 150-165 Ma; en anfíbola 161±4 Ma; 
+isócrona Rb-Sr en roca total: 173±28 Ma (Hervé et at., 1988). Esta unidad 
+correspondería casi en su totalidad a los afloramientos dentro del área de este 
+proyecto. 
+• Tonalitas y monzodioritas cuarcíferas (Jp) 
+Comprende tonalitas de hornblenda-biotita y monzodioritas cuarcíferas que 
+forman un plutón de 42 km de longitud. Son rocas de color gris oscuro, grano 
+muy variable, desde grueso a fino, qua contiene abundantes inclusiones básicas 
+alargadas (1-10%) subparalelas, de 0,1-1 m de longitud. Las rocas presentan 
+texturas alotriomórfica granular e inequigranular seriada, con plagioclasa 
+rnicropertítica de bordes mirmekíticos, anfíbola con embahiamientos de 
+plagioclasa e inclusiones poikilíticas de cuarzo. Contienen 60-65% Si02; son 
+rocas calcoalcalinas, metaluminosas a moderadamente peraluminosas, tipo I. 
+lntruye a granitoides paleozoicos y tiene contactos graduales con granitoides 
+jurásicos de la unidad Jlt, estando cortada por enjambre de diques de 
+composición diorítica, granítica y aplítica. Edades K-Ar en biotita:160±4, 158±4, 
+153±4 Ma; y en anfibola: 129±8 Ma. 
+
+===== p.6 =====
+4 
+ 
+Unidades metamórficas (Jurásico temprano-medio) 
+• Formación Ajial indiferenciada (Ja) 
+Corresponde a secuencias indiferenciadas de protolito volcánico-sedimentario 
+(lavas andesíticas y tobas con intercalaciones de areniscas y lutitas 
+continentales) con facies metamórfica de contacto y deformación tectónica que 
+usualmente obliteran la textura original. Según Gana et al. (1996), esta unidad 
+se encontraría aflorando en el extremo sur del polígono de este proyecto. 
+ 
+Unidades no consolidades (Holoceno) 
+• Depósitos aluviales (Qa, Qc, Qf)  
+Bajo esta denominación se agrupan los depósitos aluviales, coluviales, fluviales 
+y de remoción en masa que conforman las partes bajas de los valles y causes 
+actuales, así como también, una parte del sustrato sobre el que se emplaza la 
+ciudad de Quilpué. 
+ 
+ 
+Figura 2. Geología del entorno del proyecto con la estructuras cartografiadas por Gana et al. (1996). 
+ 
+ 
+
+===== p.7 =====
+5 
+ 
+GEOLOGIA DEL PROYECTO 
+El proyecto se caracteriza por presentar escasa variedad litológica, 
+presentándose unidades intrusivas mayores como tonalitas y menores como 
+diques. 
+• Unidad tonalita de hornblenda y biotita (TON) 
+Definición y relaciones de contacto. Corresponde a extensos cuerpos 
+plutónicos grises blanquecinos a rojizos cuando están meteorizados. En algunos 
+sectores se encuentra intruida por dos familias de diques (pegmatíticos, DP y 
+microdioríticos, DF). 
+Distribución y litología. Aflora de manera generalizada en todo el proyecto, 
+tanto en las cotas más altas (sur del polígono) como también en las partes más 
+bajas (norte del polígono). Su textura es fanerítica equigranular (parcialmente 
+inequigranular) de grano medio a grueso con cristales de plagioclasa (52-59%) 
+y hornblenda subhedral (3-23%) con biotita entrecrecida (5-10%) subhedral a 
+euhedral, muscovita subhedral (5-10%), clinopiroxeno subhedral a euhedral, 
+cuarzo anhedral (41-48%) y ortoclasa (3-6%). Como accesorios presenta escasa 
+titanita como alteración en hornblenda, epidota y clorita leve en máficos, además 
+de finas vetillas de cuarzo, feldespato potásico y muscovita. 
+ 
+Figura 3. Ejemplares de la unidad plutónica TON. Se observan biotitas con bordes oxidados y cristales verdosos 
+de hornblenda. 
+• Subunidad Diques Microdioríticos (DF) 
+Definición y relaciones de contacto. Cuerpos intrusivos menores grises 
+oscuro que intruyen a la unidad TON con un marcado control estructural noreste, 
+presentando algunos de sus contactos oxidación con goethita. No se 
+identificaron relaciones de corte entre esta subunidad y los diques pegmatíticos 
+(DP). 
+Distribución y litología. Afloran como diques orientados N25-30°E/80°NW en 
+el sector oriental del área de estudio, emplazados principalmente paralelos a 
+estructuras inferidas y a fuerte diaclasamiento de misma orientación (sistema 
+
+===== p.8 =====
+6 
+ 
+estructural NE). Corresponden a diques de color gris oscuro a verdosos de 
+textura fanerítica microgranular con plagioclasas y clinopiroxenos hasta 1 mm y 
+hornblendas finas. Presentan silicificación moderada a fuerte con pirita 
+diseminada (1%), magnetismo leve a nulo encontrándose la magnetita oxidada 
+y/o martitizada. 
+• Subunidad Diques Pegmatíticos (DP) 
+Definición y relaciones de contacto. Corresponden a diques blanquecinos a 
+amarillentos de composición félsica y textura pegmatítica con cuarzo, ortoclasa 
+subhedral y biotita subhedral a euhedral de hasta 2 cm. Intruye a la unidad TON 
+con un marcado control estructural noroeste (NW), presentando un contacto neto 
+y a veces sinuoso, incluso en sectores alterando a la unidad TON levemente con 
+feldespato potásico. 
+Distribución. Afloran con distribución N50W/subverticales en la zona centro-
+norte del área de estudio, emplazados principalmente paralelos a lineamientos 
+y fallas inferidas de misma orientación (sistema estructural NW). 
+ 
+Figura 4. Fotografías de las subunidades de diques DF y DP.  
+
+===== p.9 =====
+7 
+ 
+ 
+Figura 5. Mapa geológico 1:10.000 del sector donde se desea emplazar el proyecto. 
+ 
+ 
+ 
+ 
+ 
+
+===== p.10 =====
+8 
+ 
+ESTRUCTURAS 
+Según Gana, et al. (1996) dentro de los límites del proyecto se encontrarían 
+estructuras noroeste paralelas a la Zona de Fallas Marga Marga tanto en el extremo 
+norte del polígono como en la parte meridional (Fig. 1), la primera correspondería a 
+una falla mientras que la segunda a un lineamiento. Además, fuera del polígono se 
+presenta otro en dirección noreste, el cual sería posterior y cortaría al sistema 
+noroeste.  
+Los datos de terreno indican que la deformación dentro del área de estudio 
+es de carácter frágil, caracterizado por sistemas estructurales noroeste y noreste 
+persistente en todo el prospecto (Tabla 1). Ambos están conformados por fallas, 
+lineamientos (alineación de quebradas) y múltiples familias de diaclasas (fracturas) 
+(Fig. 6).  
+ 
+Tabla 1. Orientaciones estructurales principales. (Dir 1: principal, Dir 2: secundaria; Di 3: terciaria). 
+ 
+Figura 6. Rosetas con tendencias principales de las estructuras. Se observa en el círculo N°4 las tendencias 
+de las principales intersecciones a lo largo de los corredores ~N50°W/80NE y N30-50°E/80°NW. 
+
+===== p.11 =====
+9 
+ 
+Si bien en el mapa (Fig. 5) se observan varias estructuras, la mayoría de 
+estas corresponden a lineamientos geológicos, es decir, rasgos lineales (capa, 
+dique, fractura, quebrada, etc.) que en este caso corresponde con quebradas, 
+portezuelos y zonas fracturadas, que se alinean en una dirección preferencial 
+noroeste y noreste subordinado (Tabla 1; Fig. 6). Misma situación se observa con 
+las diaclasas o zonas diaclasadas, las que corresponden a fracturas que no tienen 
+movimiento (Taba 1; Fig. 6). 
+Sistema estructural Noroeste (NW) 
+Sistema principal conformado por un conjunto de estructuras cuya influencia 
+puede ser inferida producto de la orientación de las diaclasas como las de 
+quebradas en todo el proyecto (Fig 7). Solo en el extremo norte del complejo se 
+identificó una zona de fallas de actitud principal N50°W a N75°W y manteo de 
+80°NE, reconociéndose estrías en dirección N70-80°W y rake 10-15°W, que 
+indicarían movimientos de rumbo (sinestral y dextral), con una zona de daño que 
+puede alcanzar cerca de 140 m con fracturas continuas y espaciadas cada 1-3 m 
+(Fig. 7). Además, controla la orientación de los diques pegmatíticos (DP). 
+Esta orientación predominante al noroeste, es paralela al Sistema de Fallas 
+Marga-Marga, considerándose parte de esta. 
+ 
+ 
+Figura 7. Derecha: aspecto de la falla noroeste (N80°W/15°N) que afecta el cierre perimetral en su parte norte, 
+se nota el control estructural que ejerce en el fracturamiento (punto 1.06); Izquierda: plano de falla estriado 
+(líneas amarillas) denotando el movimiento de esta estructura (punto 1.05). Ubicaciones en el mapa superior 
+izquierdo. 
+ 
+
+===== p.12 =====
+10 
+ 
+Sistema estructural Noreste (NE) 
+Sistema secundario conformado por estructuras con orientaciones 
+principales N25-30°E y manteo de 80°NW. El desarrollo de este sistema ocurre en 
+todo el polígono estudiado, pero más espaciado que el sistema noroeste y 
+principalmente se concentra en la zona central sugerido por la orientación de 
+profundas quebradas y fracturas, presentándose perpendicular al sistema 
+estructural NW. Solo en un punto ubicado en la parte centro-suroeste se 
+reconocieron evidencias de movimiento en esta, hallándose estrías de falla N10°E 
+y rake 22°S (Fig. 8) acompañadas de fuerte diaclasamiento y control geomorfológico 
+de quebradas con asociación de diques microdioríticos paralelos a este sistema (Ver 
+mapa geológico). El sistema acumula zonas de afectación estructural observada de 
+3-40 m en las quebradas noreste, principalmente en el sector oriental del polígono, 
+considerando también roca competente con fracturas continuas y discontinuas 
+espaciadas de 0,6-2 m. 
+ 
+Figura 8. Panorámica del punto 2.18 mostrando una falla del sistema noreste, la cual tiene de 2m de ancho y 
+estrías N10°E/22°S gris blanquecino desarrolladas en la unidad TON. Ubicación en recuadro inferior izquierdo. 
+ 
+ 
+ 
+
+===== p.13 =====
+11 
+ 
+DISCUSIÓN 
+El mapa regional de Gana et al. (1996) muestra que la parte suroeste del 
+prospecto correspondería a los equivalentes metamórficos de la Formación Ajal, no 
+obstante, no se hallaron afloramientos de este tipo litológico, por lo que todo el 
+proyecto está asentado sobre rocas ígneas intrusivas (unidad TON) carente de 
+material fosilífero, las que por sus características petrográficas serian 
+correlacionables con la Unidad de Tonalitas de Hornblenda y Biotita (Jlt). No 
+obstante, no se descartan variaciones composicionales dentro de esta misma. Por 
+su parte, se identificaron unidades intrusivas menores (DF y DP) que no habían sido 
+reportadas anteriormente. Estos diques muestran un control estructural bien 
+marcado hacia el noroeste y noreste, respectivamente, aunque no se observaron 
+evidencias de temporalidad entre ambas subunidades.  
+En términos estructurales, el sector donde se quiere emplazar el complejo 
+está próximo a la Zona de Fallas Marga-Marga (SFMM), sistema orientado noroeste 
+que se considera potencialmente activo (Thorson, 1999; Sabaj, 2008; Muñoz, 2013; 
+Maldonado et al. 2021). Ahora bien, varios autores sitúan su traza más al norte del 
+prospecto, sobre la quebrada por donde corre el estero homónimo y que es una 
+clara discontinuidad geomorfológica (Thorson, 1999; Muñoz, 2013; Maldonado et al. 
+2021). Preliminarmente, se había identificado que un ramal de esta afectaba el 
+proyecto en el sector norte, mientras que otra estructura inferida lo haría en la parte 
+meridional (Cáceres, 2023). Los datos de terreno identificaron dos sistemas 
+estructurales, uno principal noroeste y otro secundario al noreste y confirmaron la 
+existencia de la falla en la porción norte del prospecto, validando su locación y 
+evidencias de que estuvo activa en algún momento del tiempo, no obstante, la 
+simple observación geológica no permite conocer si está activa y, determinarlo, 
+requeriría de técnicas analíticas complementarias. Sin embargo, su orientación, 
+extensión, tamaño de zona de daño y su proximidad (< 1 km) con la traza propuesta 
+de la SFMM la hacen una candidata para ser considerada como un ramal de esta y, 
+dado que esta se considera potencialmente activa, se concluye que aquella 
+estructura tendría el mismo carácter. 
+Por otro lado, el sistema de estructuras noreste reconocido en este trabajo 
+es considerado secundario dada la escasa expresión que tiene, sin embargo, 
+también en un punto se pudieron observar evidencias de desplazamiento, sin 
+embargo, dada su escasa extensión, menor expresión superficial y estar orientado 
+perpendicular al SFMM, es poco relevante. Esto, es apoyado también por el trabajo 
+de Sabaj (2008) quien efectivamente identifica estas estructuras hacia el suroeste, 
+(fuera del área de estudio), pero no las incluye dentro de las 15 identificadas como 
+las de mayor potencial sismógénico en 40 km a la redonda (Fig. 9), así también, 
+Muñoz (2013) no las incluye al evaluar el riesgo símico en Viña del Mar. 
+
+===== p.14 =====
+12 
+ 
+ 
+Figura 9. Izquierda: mapa determinístico preliminar de peligro sísmico en base a las aceleraciones horizontales 
+máximas (PGA) estimadas para las fallas potencialmente activas; Derecha: mapa preliminar determinístico de 
+peligro sísmico asociado a 15 estructuras identificadas como las de mayor potencial sismogénica. Nótese la 
+ausencia de estructuras noreste en la zona del proyecto y la presencia de fallas activas noroeste (Modificado 
+de Sabaj, 2008) 
+Finalmente, se debe mencionar que la ZFMM se considera potencialmente 
+activa, mostrando evidencias de su movimiento y produciendo daños tanto en el 
+terremoto de 1985 (Thorson, 1999) como en el del 2010 (Muñoz, 2013). Sabaj 
+(2008) indica que la estructura tendría la capacidad de generar un terremoto que 
+podría llegar a una magnitud 6.8, provocando aceleraciones de gravedad de 49.5%g 
+(Tabla 2).  
+Falla 
+Tipo 
+Rumbo 
+Mw 
+LRS 
+(km) 
+PGA 
+(%g) 
+D (km) 
+40%g 
+Localidades con 
+peligro alto 
+(PGA>40%g) 
+Intensidad 
+(MSK) 
+Marga-
+Marga 
+ND 
+315 
+6.8 
+31.4 
+49 
+7.2 
+Quilpué 
+Villa alemana 
+El Pangue 
+8 
+8 
+9 
+Tabla 2. Datos sísmicos para la falla Marga-Marga. (ND mecanismo no determinado; Mw: magnitud; LRS: 
+largo ruptura en superficie; PGA: aceleraciones horizontales máximas. (Tomado de Sabaj, 2008) 
+ 
+ 
+ 
+ 
+ 
+
+===== p.15 =====
+13 
+ 
+CONCLUSIONES 
+El terreno donde se pretende emplazar el complejo se conforma por rocas 
+ígneas intrusivas carentes de material fosilífero. Este está casi totalmente dominado 
+por la Unidad de Tonalitas de Hornblenda y Biotita (TON) y de manera secundaria 
+por cuerpos plutónicos secundarios dispuestos al noreste como al noroeste, 
+siguiendo las principales orientaciones estructurales. 
+En el proyecto se reconocieron dos sistemas estructurales, uno noreste y otro 
+noroeste, este último se considera como principal y es paralelo al SFMM, zona de 
+falla que considera potencialmente activo. Los trabajos de campo confirmaron la 
+existencia de una falla en el extremo norte del prospecto que afectaría el cierre 
+perimetral, aunque no al relleno sensu stricto. Si bien se observaron evidencias de 
+su movimiento, no se pudo determinar si se encuentra activa, sin embargo, dada 
+sus características, orientación y proximidad a la traza propuesta SFMM por varios 
+autores (quebrada estero Marga Marga), esta falla se considera potencialmente 
+activa. 
+Secundariamente el sistema noreste se considera secundario e inactivo dado 
+su extensión y antecedentes bibliográficos. 
+Finalmente se concluye que hay una falla activa en el sector asociada al 
+SFMM y dada su posición afectaría la porción norte del cierre perimetral. La 
+modificación de la geometría de este último evitaría que la estructura quede dentro 
+de complejo, por lo que no habría impedimentos para la instalación del complejo 
+(apego estricto a la ley). No obstante, toda la zona está clasificada preliminarmente 
+como de alto riesgo sísmico, lo que debe ser considerado desde el punto de vista 
+ingenieril. 
+ 
+ 
+
+===== p.16 =====
+14 
+ 
+RECOMENDACIONES 
+Modificar la geometría del cierre perimetral en su extremo noreste, 
+haciéndolo retroceder unos 200 m, de manera de dejar fuera del complejo la falla y 
+dejando un buffer de 150 m (Fig. 9). 
+Si bien las rocas ígneas intrusivas son consideradas impermeables, la gran 
+cantidad de fracturas y el cruce entre estas puede haber incrementado la 
+permeabilidad, por lo que un estudio hidrogeológico es altamente recomendado.  
+ 
+Si se continúa con las labores y desarrollo del proyecto, se recomienda 
+realizar un estudio fundado de remociones en masa dentro de la nueva área 
+rediseñada, debido principalmente a los distintos sistemas estructurales, la 
+meteorización de las rocas y a la geomorfología, quebradas y pendientes altas 
+desarrolladas sobre todo en el sector sur. 
+Se recomienda, si es que se desconoce, tomar contacto con la empresa 
+ENERGAS S.A, debido a la existencia de conductos gasificados que cruzan semi 
+enterrados el área del proyecto. 
+ 
+Figura 10. Recomendación de modificación de cierre perimetral para evitar la estructura y dejar un buffer de 
+seguridad cercano a 150 m.  
+ 
+
+===== p.17 =====
+15 
+ 
+REFERENCIAS 
+Cáceres, M. 2023. Diagnóstico geológico preliminar del complejo para tratamiento 
+y disposición de residuos sólidos urbanos Viña del Mar. Reporte interno Analytica 
+Chañar. 10 p. 
+Gana, P., Wall, R., Gutiérrez, A. 1996. Mapa geológico del área de Valparaíso-
+Curacaví, regiones de Valparaíso y Metropolitana. 
+Hervé, F., Munizaga, F., Parada, M. A., Brook, M., Pankhurst, R. J., Snelling, N. J., 
+y Drake, R. 1988. Granitoids of the Coast Range of central Chile: geochronology 
+and geologic setting. Journal of South American Earth Sciences, 1(2), 185-194. 
+Maldonado, V., Contreras, M., Melnick, D. 2021. A comprehensive database of 
+active and potentially-active continental faults in Chile at 1:25.000 scale. Scientific 
+Data 8(20): 1-13. 
+Muñoz, E. 2013. Susceptibilidad de remociones en masa y de respuesta sísmica 
+asociada a fallas mayores en zona urbanas. Estudio de caso en Viña del Mar, V 
+región. Tesis para optar al grado de Magíster en Ciencias Mención Geología, 
+Universidad de Chile. 177 p. 
+Sabaj, R. 2008. Identificación y caracterización de estructuras potencialmente 
+activas en la cordillera de la costa entre los 33° y 33°45’S. Memoria para optar al 
+título de Geólogo, Universidad de Chile. 98 p. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pm_fv_consolidado_cosemar" id="pm_fv_consolidado_cosemar">
+	<SimpleField name="Nombre" type="string"></SimpleField>
+	<SimpleField name="Este" type="float"></SimpleField>
+	<SimpleField name="Norte" type="float"></SimpleField>
+</Schema>
+<Folder><name>pm_fv_consolidado_cosemar</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM40</SimpleData>
+		<SimpleData name="Este">268919</SimpleData>
+		<SimpleData name="Norte">6337415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4755346657909,-33.077323080095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM33</SimpleData>
+		<SimpleData name="Este">268320</SimpleData>
+		<SimpleData name="Norte">6337003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4820443945465,-33.0809103260171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM34</SimpleData>
+		<SimpleData name="Este">268836</SimpleData>
+		<SimpleData name="Norte">6337236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4764662724966,-33.0789212885403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM07</SimpleData>
+		<SimpleData name="Este">268623</SimpleData>
+		<SimpleData name="Norte">6337659</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4786382253246,-33.0750630857915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM21</SimpleData>
+		<SimpleData name="Este">268519</SimpleData>
+		<SimpleData name="Norte">6337528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4797846165371,-33.0762232873989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM01</SimpleData>
+		<SimpleData name="Este">267811</SimpleData>
+		<SimpleData name="Norte">6337719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4873145131903,-33.0743501114588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM47</SimpleData>
+		<SimpleData name="Este">268320</SimpleData>
+		<SimpleData name="Norte">6337743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.48186350516,-33.0742441873503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM49</SimpleData>
+		<SimpleData name="Este">268003</SimpleData>
+		<SimpleData name="Norte">6337878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4852179457151,-33.0729555601454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM39</SimpleData>
+		<SimpleData name="Este">267579</SimpleData>
+		<SimpleData name="Norte">6337457</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4898656819756,-33.0766638706611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM45</SimpleData>
+		<SimpleData name="Este">268455</SimpleData>
+		<SimpleData name="Norte">6337325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4805232616871,-33.0780417073251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM23</SimpleData>
+		<SimpleData name="Este">268198</SimpleData>
+		<SimpleData name="Norte">6337119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4833264566183,-33.0798442425668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM37</SimpleData>
+		<SimpleData name="Este">268720</SimpleData>
+		<SimpleData name="Norte">6337534</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4776315472926,-33.0762102080719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM14</SimpleData>
+		<SimpleData name="Este">268674</SimpleData>
+		<SimpleData name="Norte">6336992</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.478255650546,-33.0810858210911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM11</SimpleData>
+		<SimpleData name="Este">268238</SimpleData>
+		<SimpleData name="Norte">6336732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.482991840682,-33.0833335703543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM02</SimpleData>
+		<SimpleData name="Este">267762</SimpleData>
+		<SimpleData name="Norte">6337045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4880058721763,-33.080416341061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM05</SimpleData>
+		<SimpleData name="Este">268046</SimpleData>
+		<SimpleData name="Norte">6337272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4849134566793,-33.0784258207333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM48</SimpleData>
+		<SimpleData name="Este">267900</SimpleData>
+		<SimpleData name="Norte">6337477</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4864168726935,-33.0765509936539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM10</SimpleData>
+		<SimpleData name="Este">268550</SimpleData>
+		<SimpleData name="Norte">6336884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4796156966513,-33.0820325816788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM26</SimpleData>
+		<SimpleData name="Este">267491</SimpleData>
+		<SimpleData name="Norte">6337231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.490857428214,-33.0786849552943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM44</SimpleData>
+		<SimpleData name="Este">268081</SimpleData>
+		<SimpleData name="Norte">6338316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.48427322413,-33.0690277332884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM24</SimpleData>
+		<SimpleData name="Este">268645</SimpleData>
+		<SimpleData name="Norte">6337441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4784568174329,-33.0770332645781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM46</SimpleData>
+		<SimpleData name="Este">268711</SimpleData>
+		<SimpleData name="Norte">6336757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4779233347684,-33.0832131870755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM38</SimpleData>
+		<SimpleData name="Este">268028</SimpleData>
+		<SimpleData name="Norte">6337621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4850167551186,-33.0752832052733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM25</SimpleData>
+		<SimpleData name="Este">267531</SimpleData>
+		<SimpleData name="Norte">6337091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4904667481635,-33.0799469998424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM17</SimpleData>
+		<SimpleData name="Este">267598</SimpleData>
+		<SimpleData name="Norte">6337087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4897507001261,-33.0800018841816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM03</SimpleData>
+		<SimpleData name="Este">267887</SimpleData>
+		<SimpleData name="Norte">6337281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.486610030541,-33.0783144336912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM27</SimpleData>
+		<SimpleData name="Este">268023</SimpleData>
+		<SimpleData name="Norte">6338680</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4848017053061,-33.0657332709373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM31</SimpleData>
+		<SimpleData name="Este">267638</SimpleData>
+		<SimpleData name="Norte">6338923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4888541273769,-33.0634613298418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM30</SimpleData>
+		<SimpleData name="Este">267565</SimpleData>
+		<SimpleData name="Norte">6336985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4901374300219,-33.0809165746415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM13</SimpleData>
+		<SimpleData name="Este">268265</SimpleData>
+		<SimpleData name="Norte">6337377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4825415671869,-33.077526329584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM06</SimpleData>
+		<SimpleData name="Este">267916</SimpleData>
+		<SimpleData name="Norte">6336874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4864007243746,-33.0819884493636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM12</SimpleData>
+		<SimpleData name="Este">267937</SimpleData>
+		<SimpleData name="Norte">6336700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4862244308049,-33.0835635954708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM04</SimpleData>
+		<SimpleData name="Este">268464</SimpleData>
+		<SimpleData name="Norte">6337117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4804795661054,-33.0799180760583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM41</SimpleData>
+		<SimpleData name="Este">267781</SimpleData>
+		<SimpleData name="Norte">6336900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4878436303131,-33.0817288195299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM20</SimpleData>
+		<SimpleData name="Este">268949</SimpleData>
+		<SimpleData name="Norte">6336974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4753239769846,-33.0813081982807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM15</SimpleData>
+		<SimpleData name="Este">268073</SimpleData>
+		<SimpleData name="Norte">6336856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4847278724442,-33.0821841203831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM42</SimpleData>
+		<SimpleData name="Este">267619</SimpleData>
+		<SimpleData name="Norte">6337220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4894942147001,-33.0788059712415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM35</SimpleData>
+		<SimpleData name="Este">268081</SimpleData>
+		<SimpleData name="Norte">6337751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4844099293412,-33.0741177081003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM09</SimpleData>
+		<SimpleData name="Este">268839</SimpleData>
+		<SimpleData name="Norte">6336538</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4766106817872,-33.0852166736825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM19</SimpleData>
+		<SimpleData name="Este">268246</SimpleData>
+		<SimpleData name="Norte">6337588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4826937928381,-33.0756261582996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM43</SimpleData>
+		<SimpleData name="Este">267944</SimpleData>
+		<SimpleData name="Norte">6336457</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4862067436584,-33.085750522226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM32</SimpleData>
+		<SimpleData name="Este">267760</SimpleData>
+		<SimpleData name="Norte">6336562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4881520307125,-33.0847676337221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM18</SimpleData>
+		<SimpleData name="Este">268448</SimpleData>
+		<SimpleData name="Norte">6336495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4808049336395,-33.0855146488692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM28</SimpleData>
+		<SimpleData name="Este">267284</SimpleData>
+		<SimpleData name="Norte">6336913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4931561273052,-33.0815027173773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM29</SimpleData>
+		<SimpleData name="Este">267219</SimpleData>
+		<SimpleData name="Norte">6337024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.49383009647,-33.0804883679758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM36</SimpleData>
+		<SimpleData name="Este">267431</SimpleData>
+		<SimpleData name="Norte">6336523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.491689119826,-33.0850450002331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM22</SimpleData>
+		<SimpleData name="Este">267762</SimpleData>
+		<SimpleData name="Norte">6336315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4881966063893,-33.086995694677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM08</SimpleData>
+		<SimpleData name="Este">268035</SimpleData>
+		<SimpleData name="Norte">6336246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4852927022054,-33.0876776135393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#pm_fv_consolidado_cosemar">
+		<SimpleData name="Nombre">PM16</SimpleData>
+		<SimpleData name="Este">268389</SimpleData>
+		<SimpleData name="Norte">6336332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4814767702492,-33.0869719126714</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

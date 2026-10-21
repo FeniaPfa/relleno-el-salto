@@ -1,0 +1,2617 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+RESUMEN EJECUTIVO 
+ 
+ 
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.1 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+1 
+ 
+1 
+ANTECEDENTES GENERALES DEL PROYECTO 
+1.1 
+IDENTIFICACIÓN DEL TITULAR Y ANTECEDENTES GENERALES 
+• 
+Identificación del Titular: El proponente es COSEMAR SpA (RUT 96.827.370-1), con domicilio en 13 Norte 853, 
+Piso 9, Viña del Mar, representado legalmente por don José Luis Navajas Rodríguez (RUT 12.584.678-5). 
+• 
+Nombre del Proyecto: “Centro Metropolitano de Gestión Integral de Residuos”. 
+• 
+Monto Estimado de la Inversión: Se estima una inversión total de 40 millones de dólares. 
+• 
+Vida Útil: La vida útil estimada para el proyecto es de 25 años. 
+• 
+Origen del Ingreso: Se declara expresamente que la presentación de este EIA no deriva de un requerimiento de 
+ingreso, programa de cumplimiento de la Superintendencia del Medio Ambiente (SMA), o de una sentencia 
+judicial. 
+• 
+Objetivo General: Proporcionar una solución regional de largo plazo para la gestión y disposición final de 
+residuos sólidos domiciliarios y asimilables, en cumplimiento de los estándares del D.S. N° 189/2005, 
+privilegiando la economía circular y minimizando las externalidades sanitarias de sitios no autorizados. 
+• 
+Tipología: El Artículo 3° del Reglamento del SEIA establece el ingreso obligatorio para los “Proyectos de 
+saneamiento ambiental, tales como sistemas de alcantarillado y agua potable, plantas de tratamiento de aguas 
+o de residuos sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, sistemas de tratamiento 
+y disposición de residuos industriales líquidos o sólidos”. El Proyecto calza con esta definición al consistir en una 
+infraestructura sanitaria e industrial de escala regional, cuyo objetivo es la valorización (compostaje y reciclaje) 
+y la disposición final segura de residuos sólidos domiciliarios y asimilables de la Región de Valparaíso. El complejo 
+se emplazará sobre una superficie de 63,1 ha de un predio que abarca un total de 206 ha de propiedad del 
+Titular. 
+• 
+Subtipologías de Residuos Sólidos Domiciliarios (Letra o.5): 
+• 
+Subtipología o.5.1 Sistemas o plantas de eliminación de residuos sólidos de origen domiciliario, incluidos 
+los rellenos sanitarios, con una tasa de ingreso igual o mayor a treinta toneladas día (30 t/día): la zona de 
+Relleno Sanitario ha sido diseñado técnicamente para recibir y confinar una tasa de ingreso inicial de 2.500 
+toneladas/día de residuos sólidos domiciliarios y asimilables. El Proyecto prevé la eliminación y 
+compactación segura de un volumen acumulado de 30.741.988 toneladas de residuos a lo largo de sus 25 
+años de vida útil. 
+• 
+Subtipología o.5.2 Sistemas o plantas de tratamiento de residuos sólidos de origen domiciliario, incluidas 
+las plantas de compostaje y las de biodigestión, con una tasa de ingreso igual o mayor a cincuenta toneladas 
+día (50 t/día): El CMGIR integra dos plantas de valorización cuyas capacidades superan individualmente el 
+límite de 50 t/día: 
+1. 
+Planta de Compostaje: Su capacidad industrial nominal de diseño es de 94 toneladas/día 
+(equivalente a 2.900 toneladas/mes), superando el límite reglamentario. 
+2. 
+Planta de Reciclaje: Dimensionada para una capacidad operativa de 80 toneladas/día, excediendo 
+también el límite de la tipología. 
+Subtipologías de Residuos Industriales Líquidos (Letra o.7) 
+• 
+Subtipología o.7.1 Uso de efluentes tratados para humectación de terrenos o caminos en una cantidad igual 
+o mayor a cincuenta metros cúbicos día (50 m³/día): Los lixiviados basales captados se conducirán a la 
+Planta de Tratamiento de Lixiviados (PTLIX), la cual utiliza filtración avanzada por Ósmosis Inversa de doble 
+etapa para purificar el agua bajo el estándar de calidad de la norma NCh 1.333 Of. 78. Este efluente 
+permeado se reutilizará en su totalidad para el riego y la humectación de las vías de tránsito internas para 
+controlar el polvo. El caudal de agua tratada en la PTLIX y posteriormente reutilizada para humectación 
+alcanza un promedio de 183 m³/día en régimen inicial y se estabiliza en 228 m³/día, superando 
+holgadamente el umbral reglamentario de 50 m³/día. 
+• 
+Subtipología o.7.2 Tratamiento de un caudal de efluentes líquidos igual o superior a ciento sesenta metros 
+cúbicos día (160 m³/día): La planta de Tratamiento de Lixiviados ha sido dimensionada con una capacidad 
+máxima nominal de 380 m³/día. Su capacidad de tratamiento supera el umbral de 160 m³/día establecido 
+por la normativa, configurándose la aplicabilidad directa del literal 
+
+===== p.2 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+2 
+ 
+1.2 
+LOCALIZACIÓN, SUPERFICIES Y REPRESENTACIÓN GEORREFERENCIADA 
+El proyecto se localiza en la Región de Valparaíso, Provincia de Valparaíso, Comuna de Viña del Mar, específicamente en 
+el kilómetro 102,5 de la Ruta 60 - Troncal Sur. 
+• 
+Superficies: El predio de emplazamiento posee una superficie total de 206 hectáreas, de las cuales el proyecto 
+utilizará directamente 63,1 hectáreas (631.013,75 m²) para sus zonas de tratamiento, más una superficie de 
+intervención adicional de 7,7 hectáreas para el desarrollo del camino de acceso principal. 
+• 
+Representación Cartográfica (Datum WGS84 - Huso 19-H): Los vértices que delimitan el predio principal son: 
+ 
+ 
+ 
+Cuadro de vértices de la propiedad 
+V1 
+Este 267.889 
+Norte 6.337.772 
+V2 
+Este 268.950 
+Norte 6.337.552 
+V3 
+Este 268.910 
+Norte 6.337.004 
+V4 
+Este 268.538 
+Norte 6.336.188 
+V5 
+Este 267.899 
+Norte 6.336.265 
+V6 
+Este 267.365 
+Norte 6.336.430 
+V7 
+Este 267.264 
+Norte 6.337.033 
+ 
+1.3 
+DISTRIBUCIÓN DEL LAYOUT POR ZONAS DEL PROYECTO 
+La ingeniería de detalle distribuye el recinto en seis (6) áreas funcionales operativas permanentes, optimizando los flujos 
+logísticos y de valorización: 
+1. 
+Zona de Instalaciones Operacionales y Administrativas (108.610,35 m²): Incluye el camino de acceso 
+pavimentado (77.304 m²), casetas de control, oficina y báscula de pesaje digital con capacidad para 40 toneladas, 
+galpón de mantención mecánica de 539,73 m², losa de lavado de camiones con recirculación y bodegas de 
+RESPEL. 
+2. 
+Zona de Compostaje (13.958,18 m²): Compuesta por 12 trincheras de hormigón de fermentación activa (6.031 
+m²), galpón de compostaje cerrado (2.173,40 m²) provisto de un biofiltro de olores y área de maduración de 
+pilas (4.600 m²). 
+3. 
+Zona de Reciclaje (3.575,20 m²): Contempla el galpón de reciclaje (2.557,10 m²) para el pretratamiento y 
+clasificación de productos prioritarios de la Ley REP, oficinas asociadas y una cancha de acopio de fardos (969 
+m²). 
+4. 
+Zona de Disposición de Residuos (480.784,77 m²): Alberga la celda del relleno sanitario (449.951,13 m²) y la 
+berma de contención perimetral (30.833,64 m²). 
+
+===== p.3 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+3 
+ 
+5. 
+Zona de Tratamiento de Lixiviados (21.625,41 m²): Constituida por las bandejas de evaporación (13.110 m²), 
+piscinas de acumulación (7.399 m²) y la Planta de Tratamiento de Líquidos Lixiviados (PTLIX) de 1.058 m². 
+6. 
+Zona de Tratamiento de Biogás (2.459,84 m²): Incorpora la planta de quema de biogás (2.418 m²) y oficinas de 
+control de emisiones. 
+1.4 
+RESILIENCIA Y ADAPTACIÓN AL CAMBIO CLIMÁTICO 
+El proyecto demuestra una resiliencia climática frente a las principales amenazas comunales de Viña del Mar, 
+caracterizadas por olas de calor extremas y una sequía en fuerte aumento. El diseño anula su vulnerabilidad hídrica 
+mediante la Planta de Tratamiento de Lixiviados, logrando una autosuficiencia absoluta para el agua industrial de riego y 
+lavado. A través de la recirculación de sus propios riles depurados suprime la necesidad de consumir agua fresca de la red 
+pública y evita el tránsito de camiones aljibe, acoplándose directamente a los objetivos de adaptación del Plan de Acción 
+Regional de Cambio Climático. 
+1.5 
+PARTES OBRAS Y ACCIONES 
+Nombre de la Parte, Obra o 
+Acción 
+Objetivo 
+Instalación de Faenas Provisoria Albergar de forma temporal las oficinas técnicas, administrativas, comedores, 
+vestidores, servicios higiénicos y áreas de taller durante las fases constructivas iniciales, 
+asegurando el cumplimiento de las condiciones sanitarias básicas para el personal 
+contratista bajo el estándar del D.S. N° 594/1999. 
+Sectores de Acopio Temporal (1 
+y 2) 
+Almacenar y segregar de manera diferenciada el suelo orgánico de escarpe para 
+salvaguardar la fracción biológicamente activa que se reutilizará en la restauración 
+vegetal y sellado final y el maicillo inerte de excavación, viabilizando la estrategia de 
+balance de masas. 
+Camino de Acceso Principal 
+(asfaltado) 
+Conectar de manera segura la Ruta 60-CH con las plataformas operativas interiores, 
+absorbiendo pendientes de hasta 8% y soportando el flujo vehicular pesado continuo 
+según las exigencias de diseño del Manual de Carreteras del MOP. 
+Obras de Atravieso Hidrológico Conducir de forma ordenada los flujos pluviales esporádicos bajo la rasante de las vías 
+vehiculares, manteniendo inalterada la dinámica hidrológica de las microcuencas y 
+previniendo procesos de erosión. 
+Caminos 
+Interiores 
+Operacionales 
+Proveer vías transitables secundarias y expeditas que conecten de forma interna las 
+distintas zonas del complejo durante toda su vida útil. 
+Plataformas Estructurales  
+Configurar explanadas niveladas, estables y compactadas mediante movimientos de 
+tierra compensado, que sirvan de base de fundación mecánica segura para los galpones 
+y unidades de proceso. 
+Cierre 
+Perimetral 
+Relleno 
+Sanitario 
+Impedir físicamente el acceso fortuito de fauna silvestre, animales domésticos o 
+personas ajenas a la zona de disposición de celdas activas, cumpliendo el estándar 
+mínimo de 1,80 m de altura del D.S. N° 189/2005. 
+Cierre Perimetral Instalaciones  Delimitar físicamente y resguardar las áreas de reciclaje, compostaje, tratamiento de 
+lixiviados, biogás y la zona administrativa general. 
+Faja Cortafuego  
+Proteger las instalaciones operativas e industriales ante eventuales incendios forestales 
+del entorno rural mediante cortes superficiales de vegetación, derivando la biomasa 
+resultante a la planta de compostaje. 
+Casetas de Control y Portón de 
+Acceso 
+Controlar el ingreso de personas, vehículos y camiones transportadores de residuos, 
+manteniendo comunicación radial interna continua para coordinar la logística del 
+recinto. 
+Oficinas 
+Administrativas 
+y 
+Operativas 
+Centralizar la gestión técnica y operativa del complejo, resguardar las condiciones de 
+higiene y bienestar del personal según la normativa laboral. 
+Estación 
+Meteorológica 
+Continua 
+Registrar parámetros microclimáticos locales en tiempo real para optimizar de forma 
+dinámica el balance hídrico de lixiviados, los sistemas de evaporación estival y el 
+funcionamiento preventivo del sistema de olores. 
+Báscula y Oficina de Pesaje 
+Controlar, verificar y registrar digitalmente el peso bruto, tara y neto de los camiones 
+para certificar la cantidad, origen y trazabilidad del residuo que ingresa a disposición o 
+valorización. 
+Losa de Lavado de Ruedas de 
+Camiones 
+Limpiar los neumáticos y chasis de los vehículos recolectores antes de su salida del 
+complejo para evitar el arrastre de basura y evitar olores. 
+Galpón de Mantención 
+Realizar mantenciones preventivas y reparaciones mecánicas menores para asegurar la 
+continuidad ininterrumpida del servicio de disposición final. 
+
+===== p.4 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+4 
+ 
+Bodegas de Almacenamiento 
+RESPEL 
+Almacenar transitoriamente, bajo condiciones de confinamiento, estanqueidad 
+perimetral y seguridad química, los residuos peligrosos generados en las mantenciones 
+y en los procesos de tratamiento. 
+Sistemas de Suministro Eléctrico 
+(Generadores 
+y 
+Paneles 
+Fotovoltaicos) 
+Abastecer de forma continua y autónoma los procesos industriales y servicios del 
+complejo mediante grupos electrógenos principales y de reserva, optimizando el 
+consumo de diésel con una planta solar de 330 paneles. 
+Planta de Reciclaje 
+Separar, clasificar y acondicionar productos prioritarios inorgánicos de envases y 
+embalajes, desviando estos materiales de la disposición final para dar cumplimiento a 
+las metas de la Ley REP. 
+Planta de Compostaje 
+Estabilizar mediante fermentación aeróbica forzada los residuos orgánicos limpios 
+segregados en origen, transformándolos en compost comercial o en material de 
+cobertura biológica para la clausura de celdas. 
+Zona Relleno Sanitario 
+Realizar el confinamiento y compactación diaria definitiva, segura, higiénica y 
+controlada de la fracción de residuos sólidos domiciliarios y asimilables no valorizables 
+en celdas selladas. 
+Sistema de Impermeabilización 
+Basal Multi-capa 
+Aislar de forma continua la base y taludes de la celda de disposición (GCL Bentonita, 
+geomembrana HDPE de 1,5 mm y geotextil), impidiendo de forma absoluta la infiltración 
+de lixiviados o gases hacia el subsuelo. 
+Sistema de Recolección de 
+Lixiviados  
+Captar gravitacionalmente los líquidos percolados de las celdas y evacuarlos hacia pozos 
+perimetrales, minimizando la carga hidráulica basal sobre la barrera impermeable. 
+Planta 
+de 
+Tratamiento 
+de 
+Lixiviados  
+Depurar percolados mediante reactores biológicos (UASB-SBR) y Ósmosis Inversa de 
+doble etapa para producir agua industrial reutilizable (NCh 1.333), eliminando el rechazo 
+concentrado en bandejas de evaporación estival ("Vertimiento Cero"). 
+Pozos 
+de 
+Recirculación 
+de 
+Lixiviados 
+Reinyectar de manera mecánica y controlada lixiviados crudos en la masa de residuos 
+compactados estables para acelerar los procesos de biodegradación orgánica y 
+optimizar la producción de biogás. 
+Sistema de Chimeneas de Biogás Captar, drenar y evacuar pasivamente las presiones de gas metano formadas en el 
+interior de la masa de basura por efecto de la biodegradación anaeróbica. 
+Planta de Extracción Activa y 
+Quema de Biogás 
+Aspirar forzadamente las emisiones de biogás de las celdas y someterlas a una 
+combustión térmica de alta eficiencia (99% de destrucción de metano) para controlar el 
+biogás, abatir olores molestos y mitigar GEI. 
+Sistema de Manejo de Aguas 
+Lluvias 
+Interceptar, canalizar perimetralmente y restituir de forma gravitacional las escorrentías 
+pluviales limpias de las quebradas aportantes, evitando su contacto con los residuos 
+para anular la generación extra de lixiviados. 
+Pozos 
+de 
+Monitoreo 
+de 
+Observación Subsuperficial  
+Controlar de manera estacional y analítica la calidad del escurrimiento de agua 
+subterránea transitoria de maicillo aguas abajo del depósito, detectando de forma 
+temprana eventuales anomalías de estanqueidad. 
+ 
+1.6 
+DESCRIPCIÓN DE LAS FASES DE CONSTRUCCIÓN, OPERACIÓN Y CIERRE 
+1.6.1 
+FASE DE CONSTRUCCIÓN 
+Habilitación de Instalación de Faena y área de Acopio: Se acondicionará un sector para la instalación de faenas, utilizando 
+estructuras desmontables tipo contenedor marítimo para albergar las dependencias técnicas, administrativas y de 
+seguridad. Este recinto se dotará de una caseta de control de acceso de estructura metálica y áreas compactadas 
+destinadas al estacionamiento seguro de maquinaria pesada y vehículos de transporte. Para viabilizar la estrategia de 
+"cero exportación" de áridos, se habilitará el Sector de Acopio 1 (3,75 ha) dentro de la huella de la Etapa 1 del relleno. En 
+este espacio se removerá y segregará de manera selectiva la capa de suelo orgánico superficial (escarpe de los primeros 
+20 a 40 cm de profundidad) con el fin de preservar sus propiedades biológicas y edáficas. Este material constituirá la 
+reserva estratégica que se reutilizará de manera inmediata en la restauración de taludes, muros de contención y, 
+posteriormente, en la cobertura vegetal de clausura. Por su parte, el material inerte y granular resultante de las 
+excavaciones se acopiará de forma independiente para su posterior uso en la conformación de plataformas, bermas y 
+como material de cobertura diaria durante la operación. Luego, de acuerdo con el avance de las excavaciones, se habilitará 
+el Sector de Acopio 2 (4,0 ha) para replicar el mismo el mismo procedimiento de segregación y almacenamiento. 
+Infraestructura Vial y Atraviesos Hidrológicos: El acceso principal al complejo se estructurará mediante la construcción 
+de un camino de acceso de 3,54 km de longitud y un ancho de calzada de 7 metros, configurando dos pistas de tránsito 
+pesado con una pendiente máxima del 8%. Su estructura comprenderá una subbase granular de 30 cm, una base granular 
+
+===== p.5 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+5 
+ 
+de 20 cm y una carpeta de rodadura asfáltica de 7 cm. La vía dispondrá de barreras metálicas de contención, señalética 
+normativa y un sistema de iluminación sustentable mediante paneles solares. 
+Se ejecutarán obras de atravieso hidrológico en el camino de acceso y obras adicionales en los caminos operacionales 
+internos. Estas estructuras consistirán en alcantarillas de tubería de Polietileno de Alta Densidad (HDPE), cajones 
+prefabricados de hormigón armado o badenes de hormigón, incorporarán revestimientos de mampostería en sus zonas 
+de entrada y salida para evitar procesos de erosión. También, se habilitarán cinco caminos interiores secundarios de 10 m 
+de ancho con carpeta de rodado de material granular compactado en el interior del recinto. 
+Preparación del Vaso de Disposición (Etapa 1): Es la excavación general del vaso perfilando el fondo con pendientes y 
+contra-pendientes que confluyen en el eje hidráulico basal. Para garantizar la estabilidad de la masa de residuos, se 
+construirán muros de contención estructurales de tierra armada y terraplenes que actuarán como diques de contención 
+en la zona baja del relieve, impidiendo la escorrentía exterior hacia el vaso. 
+Sobre la superficie excavada y compactada del vaso, se procederá al montaje del sistema de impermeabilización basal 
+continuo, compuesto de forma secuencial por: 
+1. 
+Una barrera secundaria de arcilla geosintética (GCL Bentonita, conductividad k = 10⁻⁹ cm/s). 
+2. 
+Una geomembrana de Polietileno de Alta Densidad (HDPE) de 1,5 mm de espesor (k = 10⁻¹² cm/s) soldada por 
+termofusión de doble cordón. 
+3. 
+Una capa de geotextil no tejido punzonado de 400 g/m² para protección antipunzonamiento. 
+4. 
+Una carpeta de tránsito de 40 cm de espesor capa protectora de suelo seleccionado, colocada mediante para 
+permitir el ingreso seguro de vehículos y evitar rompimiento de la impermeabilización de suelo. 
+Las láminas se anclarán en zanjas perimetrales de 80x80 cm excavadas en el hombro de los taludes del vaso. Las soldaduras 
+se ensayarán mediante pruebas de inyección de aire a presión y métodos no destructivos de vacío (Vacuum Testing) para 
+descartar porosidades. 
+Obras Civiles de Plantas de Valorización y Control: Se ejecutarán los movimientos de tierra y las fundaciones de hormigón 
+armado para la conformación de cuatro plataformas operativas. En estas explanadas se construirán las estructuras de los 
+galpones cerrados para las plantas de reciclaje y compostaje. 
+Se implementará la base de la Planta de Tratamiento de Lixiviados (PTLIX), proyectada para operar a partir del momento 
+en que los percolados acumulados alcancen el 50% de la capacidad de las piscinas iniciales de acumulación. Se perforarán 
+los primeros dos pozos de observación subterránea (P-1 y P-2) en la formación de roca meteorizada o maicillo permeable, 
+deteniendo la excavación al alcanzar la roca basal sana impermeable para monitorear el escurrimiento subsuperficial 
+estacional. Adicionalmente, se dispondrá la red inicial de chimeneas de ventilación pasiva de biogás, estructuradas con 
+tubos ranurados de HDPE de 200 mm rodeados por un tramo de bolones de piedra de 6 a 8 pulgadas de diámetro. 
+Plan de Manejo Biológico: Previo al despeje físico del terreno, se llevarán a cabo campañas estacionales de microruteos 
+de verificación de flora en peligro. Durante el periodo de latencia de las especies, se procederá al rescate manual de las 
+estructuras subterráneas de reserva (bulbos, tubérculos y rizomas) de geófitas endémicas (Alstroemeria marticorenae, 
+Chloraea cristata y Chloraea disoides), excavando a profundidades mayores de 20 cm para asegurar su integridad y 
+trasladarlas inmediatamente a un vivero especializado para su propagación ex situ 
+1.6.1.1 
+Recursos renovables a extraer fase de construcción 
+• 
+Extracción y Conservación de Suelo Orgánico: Durante las obras iniciales de preparación del terreno, se realizará 
+el escarpe superficial selectivo de la capa vegetal del suelo asociado a la Etapa 1 del Relleno Sanitario. Este 
+recurso orgánico no será tratado bajo ninguna circunstancia como residuo de construcción; sino que, será 
+segregado y acopiado de manera temporal y segura en el Sector de Acopio 1. El objetivo de este procedimiento 
+es protegerlo de sus propiedades físicas y biológicas, asegurando su disponibilidad para las labores de 
+restauración y cobertura vegetal para las actividades de cierre y sellado de el área de relleno sanitario. 
+• 
+ (Plan de Manejo Biológico): Como medida de mitigación y previo a cualquier remoción física de suelo o 
+vegetación en las áreas de faena, se activará el Plan de Manejo Biológico. Este contempla: 
+o 
+La realización de microruteos de verificación. 
+o 
+La ejecución de capacitaciones obligatorias en materia ambiental para todo el personal de terreno. 
+o 
+Rescate y Extracción Manual: Durante el periodo de latencia de las especies, se procederá a la 
+extracción manual de los órganos subterráneos de reserva (bulbos, tubérculos o rizomas) de tres 
+
+===== p.6 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+6 
+ 
+especies de geófitas endémicas y protegidas identificadas dentro del área de intervención. La 
+excavación se realizará a una profundidad mínima de 20 cm para garantizar la integridad de las 
+estructuras. 
+o 
+Viverización: Los órganos rescatados serán trasladados de inmediato a un vivero especializado, 
+acompañados de muestras de su sustrato de origen, para iniciar un proceso controlado de viverización 
+y propagación ex situ. 
+ 
+1.6.2 
+FASE DE OPERACIÓN 
+Recepción y Control de Pesaje: Los camiones de transporte ingresarán por el camino de acceso pavimentado hasta el 
+segundo punto de control perimetral. Se registrará obligatoriamente el peso bruto y la tara de los vehículos mediante una 
+báscula digital de 40 toneladas de capacidad, provista de una plataforma de hormigón armado y un software de registro 
+histórico que garantiza la trazabilidad del tipo, cantidad y origen del residuo que ingresa al complejo. 
+Operación de la Planta de Reciclaje: Esta planta operará con un sistema semiautomático diseñado para procesar una tasa 
+de hasta 10 toneladas por hora de productos prioritarios, principalmente envases y embalajes. Los camiones descargarán 
+el material en un foso de recepción provisto de una tolva pulmón que alimenta uniformemente la línea de clasificación. 
+Los materiales ingresarán a una plataforma de estructura metálica elevada con pisos antideslizantes, donde operarios 
+realizarán la clasificación y separación manual de cartón, papel, vidrios, plásticos (PET) y metales. 
+Los plásticos se segregarán por tipo de resina y color para su molienda, mientras que el papel, cartón y metales se 
+compactarán en fardos mediante prensas mecánicas horizontales y verticales para su posterior despacho en camiones 
+autorizados. El material no valorizable o de rechazo se derivará mediante una cinta transportadora de salida hacia 
+contenedores para su disposición final directa en el relleno sanitario. 
+Operación de la Planta de Compostaje: Diseñada para valorizar 94 toneladas por día de residuos orgánicos limpios 
+segregados en origen. Los residuos se descargarán en un galpón cerrado que opera bajo presión negativa para capturar el 
+aire interno mediante una red de ductos de aspiración forzada que lo conduce hacia un biofiltro de olores. El material 
+orgánico se mezclará mecánicamente con material estructurante vegetal, por ejemplo, chips de madera, en una relación 
+de 1:2 en volumen para optimizar la humedad y la relación carbono/nitrógeno. 
+La fermentación activa se llevará a cabo en 12 trincheras de hormigón, equipadas con sopladores individuales en su base 
+que inyectan aireación forzada. El proceso se sellará con una geomembrana semipermeable que retiene los compuestos 
+odorantes, controlándose las variables de temperatura y humedad en tiempo real mediante un sistema automatizado 
+PLC. Tras un ciclo de 20 a 30 días, el sustrato se trasladará a la zona de maduración descubierta, conformando pilas que 
+recibirán volteos mecánicos semanales con retroexcavadora para mantener las condiciones aeróbicas y evitar la 
+generación de metano. El compost final se tamizará con una malla de 16 mm, ensacándose en maxi sacos para su 
+comercialización. Los rechazos biológicos del tamizado se destinarán internamente como suelo de cobertura para la 
+restauración de la geoforma del relleno sanitario. 
+Operación en Zona de Relleno Sanitario: Los residuos se descargarán al pie del frente de trabajo activo, el cual se confinará 
+a un ancho máximo de 20 metros para minimizar el área expuesta, y serán esparcidos por un bulldozer en capas sucesivas 
+de 20 a 30 cm. La compactación mecánica se realizará en taludes con una relación máxima de 1V:3H hasta alcanzar una 
+densidad de diseño de 1,0 ton/m³. Al término de cada jornada diaria, se aplicará mecánicamente una capa de suelo 
+compactado de material de cobertura diario de 30 cm de espesor con una conductividad hidráulica k ≤ 10⁻⁴ cm/s. Este 
+sello aísla herméticamente los residuos, induce condiciones anaeróbicas estables, previene incendios y evita la 
+proliferación de vectores y olores, además de evitar la infiltración de aguas lluvias. 
+Las Etapas 2 y 3 del vaso del relleno se excavarán secuencialmente a medida que avance el llenado del vaso. El suelo 
+orgánico de escarpe de estas nuevas etapas será extraído e incorporado de forma inmediata como cobertura vegetal final 
+de 40 cm en las celdas terminadas de las etapas previas, evitando el deterioro microbiológico del suelo por acopio 
+prolongado.  
+Manejo de Lixiviados: Los líquidos percolados acumulados en la base del relleno se captarán de forma gravitacional 
+mediante una red de tuberías ranuradas de HDPE diámetro 315 mm cubiertas con gaviones de grava para protegerlas de 
+la carga mecánica. Las tuberías conducirán los líquidos con una pendiente hacia 14 pozos perimetrales duales de captación 
+de HDPE corrugado de 3.500 mm empotrados en piscinas estancas de hormigón armado para retener eventuales fugas. 
+
+===== p.7 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+7 
+ 
+Desde los pozos, los percolados se bombearán a la Planta de Tratamiento de Lixiviados, la cual depurará los flujos mediante 
+un sistema multi barrera: 
+• 
+Tratamiento Biológico: Reactores anaeróbicos UASB y reactores aeróbicos SBR en estanques de acero 
+esmaltado. 
+• 
+Tratamiento Físico-Químico: Flotación por Aire Disuelto (DAF), deshidratación de lodos mediante espesadores 
+y filtros prensa (generando lodos secos con humedad menor al 75% que se disponen en el relleno o se integran 
+a la planta de compostaje), y filtración avanzada por zeolita y carbón activado. 
+• 
+Tratamiento Terciario: Ósmosis Inversa de doble etapa que generará agua purificada bajo la norma NCh 1.333, 
+la cual se reutilizará en la humectación de los caminos interiores del recinto, suprimiendo la necesidad de 
+suministros externos. 
+El rechazo salino concentrado es del orden del 20%-30% del volumen de la ósmosis, se confinará durante el invierno en 
+una piscina bifuncional de 15.000 m³. En época estival, este líquido se derivará hacia tres bandejas de evaporación 
+permanentes y una bandeja temporal, equipadas con un sistema perimetral de recirculación por aspersión sobre la 
+geomembrana para acelerar la evaporación solar. El lixiviado crudo también podrá ser recirculado mecánicamente 
+mediante bombas móviles en 7 pozos de infiltración de 3 m de diámetro y 6 m de profundidad para acelerar la 
+descomposición de los residuos en el relleno. 
+Manejo y Tratamiento de Biogás: El gas acumulado en el relleno sanitario será extraído forzadamente mediante 
+sopladores centrífugos multi-etapas desde la red progresiva de 81 chimeneas de HDPE ranurado. El gas se conducirá por 
+redes colectoras hacia un sistema de acondicionamiento de biogás. Posteriormente, el flujo se dirigirá a un complejo de 4 
+antorchas modulares de quema controlada, diseñadas para operar de forma automatizada con una eficiencia de 
+destrucción térmica del metano del 99% 
+1.6.2.1 
+Recursos renovables a extraer fase de operación 
+Para la habilitación de los vasos de las etapas sucesivas, se contempla la remoción del horizonte edáfico biológicamente 
+activo sobre las siguientes superficies: 
+• 
+Etapa 2 (Años 7 al 13) 
+• 
+Etapa 3 (Años 14 al 25) 
+A diferencia de la fase de construcción, el suelo orgánico extraído de forma secuencial en estas etapas se trasladará e 
+incorporará de manera inmediata como cobertura vegetal final (espesor de 40 cm) sobre las celdas de las etapas previas 
+que ya hayan alcanzado su cota de coronamiento. Esta sinergia operativa evita el acopio prolongado de tierra que degrade 
+su calidad microbiológica y asegura la autosuficiencia de suelo para la restauración paisajística y el cierre. 
+• 
+Relocalización y Monitoreo de Flora Rescatada: Se completará el Plan de Manejo Biológico mediante la 
+relocalización gradual de los ejemplares de geófitas propagados en el vivero hacia el sector receptor definitivo 
+con equivalencia ecológica, localizado dentro del mismo predio del titular. El área de destino contará con las 
+siguientes salvaguardas: 
+o 
+Protección perimetral física para impedir perturbaciones o daños de terceros. 
+o 
+Monitoreo y Seguimiento Biológico: Un programa de seguimiento por un periodo mínimo de 5 años. 
+o 
+Criterio de Éxito: La medida de mitigación biótica se calificará como exitosa únicamente si se alcanza 
+una tasa de supervivencia igual o superior al 70% de los individuos relocalizados al término del 
+quinto año de seguimiento 
+1.6.3 
+FASE DE CIERRE 
+Desmantelamiento de Infraestructura: Se procederá al desmantelamiento y retiro físico de la totalidad de las 
+instalaciones provisionales desmontables, incluyendo oficinas administrativas modulares, vestuarios, comedores y áreas 
+de talleres. Asimismo, se desmantelará el equipamiento de las plantas de valorización (Planta de Reciclaje y Planta de 
+Compostaje). 
+Se desmontará también la planta de quema de biogás, desensamblando las redes de conducción aérea, secadores, 
+sistemas de desulfuración y equipos de aspiración mecánica. Para el manejo de los percolados residuales, la Planta de 
+Tratamiento de Lixiviados (PTLIX), sus piscinas y el sistema de bandejas de evaporación estival se mantendrán operativos 
+durante los primeros 5 años de la etapa de post-cierre. Una vez que los flujos de líquidos cesen por efecto de la 
+impermeabilización de la cobertura final, se procederá a la demolición de las estructuras de hormigón de la planta, 
+
+===== p.8 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+8 
+ 
+remoción de las geomembranas de las piscinas, relleno de los fosos con material inerte compactado e integración del 
+relieve. Se conservarán de manera permanente el cierre perimetral, los portones de acceso y la caseta de control en la 
+Ruta 60-CH para evitar el acceso de terceros no autorizados o tomas de terreno. 
+Sellado Definitivo del Relleno Sanitario: Posterior al cese de la disposición de residuos, se contemplará un periodo de 
+estabilización para consolidar los asentamientos físicos y biológicos de la masa de residuos compactados. Una vez 
+consolidada la superficie de la celda final, se procederá a la rectificación geométrica de las pendientes y los taludes de las 
+terrazas. Se instalará un sistema de sellado definitivo continuo con un espesor total de 160 cm, estructurado de la siguiente 
+forma: 
+• 
+Sello Base (120 cm de espesor): Capa compactada de suelo limpio, inerte y homogéneo, colocada en capas 
+sucesivas y densificada mecánicamente mediante pasadas de rodillo pesado hasta garantizar una conductividad 
+hidráulica inferior o igual a k = 1x10⁻⁵ cm/s. Este espesor, que duplica la exigencia mínima reglamentaria, actúa 
+como una barrera estanca que anula la infiltración de aguas pluviales y frena la generación de nuevos lixiviados. 
+• 
+Capa de Suelo Vegetal (40 cm de espesor): Extendida directamente sobre la superficie del sello base, utilizando 
+el material de escarpe orgánico fresco conservado de las excavaciones previas. Esta capa protege contra 
+procesos de erosión hídrica, controla las emisiones difusas de biogás y sirve de sustrato nutricional para el 
+desarrollo de la vegetación nativa. 
+Restauración de la Morfología y Paisajismo: Se ejecutarán acciones de restauración morfológica y paisajística sobre la 
+cobertura vegetal de sellado. Se implementará la siembra y plantación de especies de flora nativa locales de rápido 
+desarrollo y cobertura. Estas especies actuarán como plantas nodrizas, regulando las condiciones de humedad y sombra 
+del suelo para facilitar el establecimiento de especies arbóreas nativas de crecimiento lento, acelerando la reinserción del 
+ecosistema. En los taludes de las plataformas y terrazas del relleno se sembrarán especies arbustivas provistas de sistemas 
+radiculares profundos con el fin de proporcionar sustentación mecánica a las laderas y prevenir deslizamientos locales de 
+tierra.  
+Plan de Mantenimiento y Control Post-Cierre: Se operará y mantendrá los sistemas de control ambiental durante un 
+período ininterrumpido de 20 años post-cierre. El plan contempla las siguientes acciones técnicas sistemáticas: 
+• 
+Monitoreo Topográfico: Levantamientos topográficos periódicos de alta precisión para evaluar y corregir la 
+deformabilidad física, asentamientos diferenciales o agrietamientos de la masa de residuos compactados. 
+• 
+Mantención de Cobertura: Inspección visual y reparación inmediata de cárcavas, grietas o zonas de erosión en 
+la capa de sellado final de 160 cm. 
+• 
+Manejo de Aguas Lluvias: Limpieza en invierno y verano de la red de escorrentía pluvial, garantizando el correcto 
+desvío de las escorrentías de aguas limpias y evitando que tomen contacto con el área de celdas selladas. 
+• 
+Control del Biogás: Operación remanente del sistema de captación activa de biogás, disminuyendo 
+progresivamente el funcionamiento de las antorchas (reduciendo la quema hasta quedar con solo una antorcha 
+operativa al año 20 post-cierre) conforme descienda de forma natural el flujo de gas metano. 
+• 
+Monitoreo Subsuperficial y Calidad de Aguas: Monitoreo continuo del escurrimiento subsuperficial estacional 
+y la calidad del agua en los cinco pozos de observación de la red perimetral. 
+ 
+1.7 
+CRONOLOGÍA DE LAS FASES DEL PROYECTO 
+• 
+Inicio de Fase de Construcción: Se proyecta para el año 2028, condicionado a la obtención de la Resolución de 
+Calificación Ambiental (RCA) favorable y los permisos sectoriales correspondientes. El hito que define el inicio 
+sistemático es la obra provisoria de "Instalación de Faenas". 
+• 
+Fase de Construcción (2 años de obras iniciales): Corresponde a la habilitación del camino de acceso, 
+plataformas generales y la impermeabilización de la Etapa N°1 del relleno sanitario. No obstante, durante los 
+primeros 22 años de operación se realizarán obras constructivas para habilitar de forma secuencial las Etapas 
+N°2 y N°3 y la puesta en marcha de las plantas de tratamiento. 
+• 
+Inicio de Fase de Operación: Estimado para el año 2030, una vez aprobadas las instalaciones por la Autoridad 
+Sanitaria Regional. Posee una duración de 25 años. 
+• 
+Fase de Cierre y Post-Cierre (20 años en total): Se estima su inicio en el año 2055. Las actividades de 
+desmantelamiento principal tendrán una duración de 12 meses, seguidas de un plan sistemático de monitoreo 
+y post-cierre de 19 años para lixiviados y biogás. 
+ 
+
+===== p.9 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+9 
+ 
+1.8 
+EMISIONES Y RESIDUOS POR FASE. 
+1.8.1 
+EMISIONES Y RESIDUOS FASE DE CONSTRUCCIÓN 
+• 
+Emisiones Atmosféricas: Se asocian de manera fundamental a los movimientos de tierra y al tránsito de flotas de 
+maquinaria pesada. En el Año 1, las emisiones estimadas alcanzan un total de 31,72 toneladas/año de Partículas 
+Totales en Suspensión (PTS), 8,06 de material particulado de diámetro inferior a 10 micrómetros (MP10), 2,67 de 
+material particulado fino (MP2,5), 6,19 de óxidos de nitrógeno (NOx), 3,47 de monóxido de carbono (CO), 0,57 de 
+compuestos orgánicos volátiles (COV), 0,12 de dióxido de azufre (SO2), 0,01 de amoníaco (NH3) y 0,2 de carbono 
+negro (BC). Para el Año 2, estas cifras se incrementan marginalmente, alcanzando un valor de 37,42 ton/año de PTS, 
+8,69 de MP10, 4,35 de MP2,5, 9,01 de NOx, 5,61 de CO, 0,83 de COV, 0,13 de SO2, 0,01 de NH3 y 0,35 de BC.  
+• 
+Gases de efecto invernadero (GEI): La maquinaria y equipos generarán 1,26 toneladas de dióxido de carbono 
+equivalente (ton CO2eq/año) durante el primer año y 1,04 ton CO2eq/año en el segundo año.  
+• 
+Ruido: La modelación diurna de fuentes fijas asociadas a la construcción de las instalaciones proyecta niveles de 
+inmisión de entre 27 y 36 dBA (con un peak de 36 dBA en el receptor rural R7), mientras que la construcción de los 
+caminos de acceso inducirá emisiones de ruido de entre 31 y 52 dBA, garantizando en todos los casos el cumplimiento 
+del D.S. N° 38/2011 del MMA. Para las fuentes móviles, el ruido por transporte vial alcanzará un máximo diurno de 
+40 dBA en el receptor R1A, cumpliendo con la Norma de la Confederación Suiza 814.41.  
+• 
+Vibraciones: Las vibraciones mecánicas de las instalaciones registrarán un nivel máximo de velocidad de partículas 
+(PPV) de 0,00045 in/s y una molestia humana de 50 VdB en R7, mientras que la construcción de caminos arrojará un 
+PPV máximo de 0,00507 in/s y un nivel de molestia de 71 VdB en R1A, situándose holgadamente bajo los límites 
+recomendados por la FTA (0,2 in/s para daño estructural y 72 VdB para molestia a las personas).  
+• 
+Olores: Esta fase no generará olores. 
+• 
+Residuos líquidos domésticos o aguas servidas: registrarán un caudal de máxima dotación de 7,5 m³/día, basado en 
+una dotación de 50 trabajadores con un consumo de 150 L/persona/día. Estas aguas servidas serán gestionadas 
+temporalmente con una instalación sanitaria particular y provisoria con drenes de infiltración, además, mediante 
+baños químicos provistos de mantención regular por una empresa debidamente autorizada para las zonas de trabajo 
+móviles. Residuos sólidos domésticos y asimilables (RSD) derivados del personal se estiman en 1,3 toneladas/mes 
+(con un volumen aproximado de 0,13 m³/mes), recolectándose en contenedores estancos con tapas para su posterior 
+disposición final externa por un gestor autorizado.  
+• 
+Residuos sólidos industriales no peligrosos (RSINP): Serán despuntes de maderas, metales, plásticos, hormigón y 
+escombros inertes, se proyecta una producción total de 264,41 m³ para la zona de instalaciones operacionales y 
+administrativas, 574,65 m³ en compostaje, 677,61 m³ en reciclaje, 290,27 m³ en la planta de lixiviados y 639,56 m³ 
+en biogás.  
+• 
+Residuos peligrosos (RESPEL): Serán principalmente aceites usados, baterías de plomo, filtros y paños contaminados, 
+se acopiarán de manera transitoria en la Bodega N° 1 de la instalación de faena bajo el amparo del D.S. N° 148/2004, 
+estimándose una generación mensual de 0,292 toneladas (3,504 ton/año). 
+• 
+Lodo: No se registrará producción de lodos en la fase de construcción. 
+1.8.2 
+EMISIONES Y RESIDUOS FASE DE OPERACIÓN 
+• 
+Emisiones atmosféricas: Al inicio de esta etapa, en el Año 3, las emisiones estimadas corresponden a 196,55 
+toneladas/año de PTS, 52,97 de MP10, 13,78 de MP2,5, 183,37 de CO, 18,54 de NOx, 3,28 de SOx, 0,06 de NH₃, 
+2.258,62 de COV, 0,32 de BC, 9,42 de NO2 y 1,65 de HCL. Hacia el período de máxima recepción de residuos (Año 25), 
+el inventario reporta un incremento significativo en las tasas de emisión, alcanzando 400,84 ton/año de PTS, 126,71 
+de MP10, 49,20 de MP2,5, 777,46 de CO, 276,90 de NOx, 29,18 de SOx, 15,38 de NH₃, 18.810,81 de COV, 10,17 de 
+BC, 37,73 de NO2 y 6,63 de HCL.  
+• 
+Gases de efecto invernadero (GEI): Serán por efecto de la biodegradación anaeróbica y la quema de biogás inician 
+en 82.530,04 toneladas de CO2eq/año (Año 3) y alcanzan un peak de 565.875,79 ton CO2eq/año en el año 25.  
+• 
+Ruido: Las fuentes fijas operacionales generarán inmisiones diurnas de entre 28 y 37 dBA (con un máximo de 37 dBA 
+en el receptor R7), cumpliendo cabalmente los límites normativos del D.S. N° 38/2011. En el escenario simultáneo, 
+donde coexisten faenas operativas con el crecimiento de las celdas (construcción de Etapas 2 y 3), el nivel de ruido 
+total proyectado oscila entre 31 y 40 dBA en los receptores, resguardando con holgadura la zona rural restrictiva de 
+42 dBA.  
+• 
+Vibraciones: Estarán asociadas a la maquinaria fija operacional resultarán inocuas, proyectando un PPV de 0,00053 
+in/s y una molestia humana de 51 VdB en R7, muy por debajo de los límites de la FTA. 
+
+===== p.10 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+10 
+ 
+• 
+Olores: se controlará mediante el material de cobertura diario de 30 cm de espesor y nebulizadores perimetrales de 
+neutralización molecular, limitando el aporte odorífico a una concentración máxima acumulada del percentil 98 de 
+apenas 0,58 uoE/m³ en el receptor R1, lo que califica como insignificante frente a la norma de referencia. 
+• 
+Residuos Líquidos aguas servidas: Serán de tipo domésticas alcanzarán un caudal diario equivalente a 11,85 m³/día 
+o 308 m³/mes, para servir a 79 trabajadores. Estas aguas recibirán tratamiento biológico primario y secundario en 
+una planta de lodos activados, destinándose el efluente purificado para la humectación de caminos interiores.  
+• 
+Lixiviados: Serán generados al interior del relleno sanitario. Estos liquidos se depurarán en la planta de tratamiento 
+de lixiviados mediante reactores UASB, SBR, DAF y Ósmosis Inversa de doble etapa, produciendo agua permeable 
+bajo la norma NCh 1.333 para uso industrial, mientras que el rechazo salino del 20-30% se evaporará de forma 
+definitiva en bandejas de evaporación permanentes y temporales.  
+• 
+RIL de lavado de camiones: generará un caudal diario de Riles de 9,75 m³ para una rotación de 65 vehículos, operando 
+en circuito cerrado con tratamiento y recirculación del 100%.  
+• 
+Residuos sólidos domésticos y asimilables (RSD): Serán generados por el personal que opere el centro del complejo, 
+se calcula los siguientes volúmenes por zona: Zona Administrativa, 320 litros en Compostaje, 960 litros en Reciclaje, 
+200 litros en la Planta de Lixiviados y 160 litros en la Planta de Biogás, derivándose en su totalidad hacia la disposición 
+directa en el frente activo de celdas.  
+• 
+Residuos peligrosos (RESPEL): Serán generados en los galpones de mantención y en la planta de lixiviados, sumarán 
+0,102 toneladas/mes por bodega (Bodega N° 1 y N° 2), totalizando 36,72 toneladas por bodega en toda la fase 
+operativa.  
+• 
+Lodos: Serán acumulados al término de cada proceso corresponden a 15,15 L/día (5,53 m³/año) de lodo crudo en 
+fosas sépticas, 9,75 L/día (3,56 m³/año) de sedimentos inertes de la losa de lavado, y una producción diaria de lodos 
+deshidratados que proviene de la PTLIX de 6,76 m³/día en la Etapa I y de 4,92 m³/día en la Etapa II (total acumulado 
+de 11,68 m³/día con una humedad inferior al 75%). Los lodos crudos de las fosas sépticas serán retirados por 
+empresas limpia fosas autorizadas, en el caso del lodo deshidratado será trasladado al frente de trabajo. 
+1.8.3 
+EMISIONES Y RESIDUOS FASE DE CIERRE 
+ 
+• 
+Emisiones atmosféricas: corresponden a 37,84 toneladas/año de Partículas Sedimentables (MPS), 17,44 de MP10, 
+16,13 de MP2,5, 262,95 de NOx, 747,01 de CO, 18,45 de COV, 27,56 de SO2, 0,19 de NH3 y 8,82 de BC. Una vez 
+concluida la reintegración biológica hacia el Año 47, la tasa de emisiones se reduce drásticamente, registrándose 
+11,13 ton/año de MPS, 8,69 de MP10, 7,95 de MP2,5, 111,71 de NOx, 24,09 de CO, 9,12 de COV, 7,34 de SO2 y 4,33 
+de BC.  
+• 
+Gases de efecto invernadero (GEI): asociada principalmente a la captura residual y quema controlada de biogás 
+disminuye en el tiempo, reportándose un volumen de 20.336.060,90 ton CO2eq/año al inicio de esta fase (Año 28) y 
+alcanzando solo 23.280,51 ton CO2eq/año en el Año 47 de post-cierre.  
+• 
+Ruido: el ruido generado por el desmantelamiento de infraestructuras fijas proyecta inmisiones diurnas de entre 26 
+y 35 dBA (con un máximo de 35 dBA en R7), cumpliendo plenamente con el D.S. N° 38/2011 del MMA.  
+• 
+Vibraciones: Serán las remanentes de las faenas se mantendrán extremadamente bajas, con un PPV máximo de 
+0,00032 in/s y una molestia humana estimada de 47 VdB en el receptor R7, descartándose cualquier riesgo de daño 
+estructural. Olores, el sellado final definitivo de 160 cm de espesor continuo anulará de forma completa las emisiones 
+biogénicas del relleno, disminuyendo el factor de emisión odorífera a una tasa insignificante de apenas 0,24 uoE/m²s. 
+• 
+Residuos líquidos o aguas servidas: se estiman en un caudal diario de 7.500 litros (7,5 m³/día), equivalente a un 
+acumulado mensual de 195 m³ para una dotación de 50 trabajadores contratistas, tratándose a través de la 
+infraestructura biológica preexistente o baños químicos complementarios. 
+• 
+Lixiviados: Serán remanentes que disminuirán progresivamente de volumen debido a la impermeabilización de la 
+cobertura final de 160 cm, manteniéndose operativa la Planta de forma de depurar el caudal residual durante los 
+primeros 5 años del monitoreo post-cierre.  
+• 
+Residuos sólidos domésticos y asimilables (RSD): Estos sumarán una tasa promedio de 2.000 litros/semana 
+(acumulando 6,24 toneladas totales en la fase de 12 meses) 
+• 
+Residuos sólidos industriales no peligrosos (RSINP): Se obtendrán del desmantelamiento físico de los galpones, 
+alcanzarán un volumen total de 940,96 m³, retirándose transitoriamente en contenedores open top de 20 m³ hacia 
+vertederos industriales autorizados.  
+• 
+Residuos peligrosos (RESPEL): Serán generados por el desarmado de instalaciones de mantención se acopiarán de 
+forma transitoria en la Bodega N° 1 del galpón, estimándose en 0,054 toneladas/mes (0,648 ton/año).  
+
+===== p.11 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+11 
+ 
+• 
+Lodos: Se proyecta 9,59 L/día (3,50 m³/año) de lodo crudo en fosas sépticas y una generación de lodos deshidratados 
+de la PTLIX de 11,39 m³/día (Año 25) que decrecerá sostenidamente hasta llegar a 7,53 m³/día al quinto año del post-
+cierre (Año 30), mermando un 33,83% la tasa de lodos del tratamiento de percolados, los cuales serán derivados a 
+un depósito externo autorizado. 
+1.9 
+TABLA DE SUMINISTROS BÁSICOS POR FASE 
+Parámetro 
+Técnico 
+Fase de Construcción 
+Fase de Operación 
+Fase de Cierre 
+Mano de Obra 
+Promedio 
+50 trabajadores 
+79 trabajadores 
+50 trabajadores 
+Combustible 
+Diésel 
+1.825 
+litros/día 
+(abastecimiento 
+local 
+por 
+camión surtidor a estanque 
+SEC) 
+1.820 litros/día (almacenamiento 
+en instalaciones autorizadas por la 
+SEC) 
+1.007 litros/día (para maquinaria 
+pesada 
+de 
+mantención 
+y 
+nivelación) 
+Abastecimiento 
+Eléctrico 
+Grupo electrógeno autónomo 
+de 38 kVA insonorizado 
+Sistemas de generadores (80, 144, 
+400 y dos de 350 kVA) apoyados por 
+330 paneles fotovoltaicos 
+Grupo electrógeno de 38 kVA para 
+faenas de desmantelamiento 
+Agua Potable 
+150 L/persona/día (camiones 
+aljibe a estanque con cloración 
+simple 
+y 
+dispensadores 
+portátiles) 
+150 L/persona/día (79 personas, 
+estanque semi enterrado cloración 
+automática) 
+150 
+L/persona/día 
+(para 
+las 
+cuadrillas 
+de 
+obras 
+de 
+desmantelamiento) 
+Agua Industrial 
+20 m³/día (camiones aljibe 
+externos 
+autorizados 
+para 
+humectación de caminos) 
+20 m³/día inicialmente (transita a 
+autonomía completa con permeado 
+de ósmosis de la PTLIX bajo NCh 
+1.333) 
+Sin 
+consumo 
+externo 
+(abastecimiento 
+autónomo 
+remanente mediante el agua 
+permeada de la PTLIX) 
+Manejo de Aguas 
+Servidas 
+7,5 m³/día (baños químicos y 
+duchas modulares retirados 
+por gestor certificado) 
+11,85 m³/m-mes (planta de lodos 
+activados con estanque de 10.000 L 
+para reúso e infiltración controlada 
+en drenes) 
+7,5 m³/día (baños químicos para 
+frentes 
+móviles 
+y 
+comedor 
+remanente) 
+Alimentación 
+y 
+Alojamiento 
+Comedor 
+habilitado 
+sin 
+manipulación de alimentos; 
+pernoctación en Viña del 
+Mar/Quilpué 
+Comedor sin 
+manipulación 
+de 
+alimentos; pernoctación externa de 
+trabajadores 
+Comedor 
+remanente 
+para 
+trabajadores; 
+pernoctación 
+externa en zonas urbanas 
+Transporte 
+Logístico 
+Minibús (4 frecuencias/día) y 
+camionetas diurnas 
+Minibús 
+(4 
+frecuencias/día) 
+y 
+camionetas de supervisión 
+Minibús (2 frecuencias/día) y 
+camionetas de cierre 
+ 
+2 
+DETERMINACIÓN DEL ÁREA DE INFLUENCIA 
+Componente 
+Justificación del Área de Influencia del Proyecto Determinación del Área de Influencia del Proyecto 
+Clima 
+y 
+meteorología 
+El clima y la meteorología no podrían ser 
+afectados por las obras o actividades del Proyecto. 
+Sin embargo, corresponde a un atributo que 
+permite evaluar impactos sobre la calidad del aire. 
+Para este componente se considera un área de 
+estudio (AE) a escala regional para el análisis 
+climático y a escala local para la variable 
+meteorológica, la que abarca las estaciones 
+meteorológicas utilizadas para la descripción de 
+este componente 
+Calidad del Aire 
+Se justifica por la necesidad de evaluar el 
+transporte y la dispersión de material particulado 
+y gases generados por las emisiones del proyecto, 
+asegurando el resguardo de la salud de la 
+población y de los recursos naturales. 
+Delimitada mediante la envolvente de la pluma de 
+dispersión modelada con WRF-CALPUFF bajo el 
+escenario meteorológico más desfavorable. Define 
+4.389 ha para Material Particulado y Gases, y 1.711 
+ha para Material Particulado Sedimentable (MPS). 
+Olores 
+Fundamentada en la dispersión odorante de las 
+fuentes operacionales (frentes de trabajo, 
+compostaje y lixiviados). Utiliza un enfoque 
+Determinada por la isolínea de 1 uoE/m³ (percentil 
+98) para el escenario operacional más desfavorable, 
+cubriendo una envolvente de 1.946 ha (con 
+
+===== p.12 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+12 
+ 
+preventivo para evitar molestias o alteraciones en 
+la calidad de vida de asentamientos humanos. 
+concentraciones máximas internas restringidas a 
+12,4 ha dentro del predio). 
+Ruido 
+y 
+Vibraciones 
+Justificada por la propagación de ondas sonoras y 
+vibratorias generadas por la maquinaria pesada y 
+tránsito de camiones (potencia de fuente de hasta 
+112 dBA) hacia los receptores humanos y 
+biológicos más sensibles. 
+Establecida por las curvas isofónicas de propagación 
+acústica hasta interceptar los menores niveles de 
+ruido basal medidos: 32 dBA (punto V1) para 
+asentamientos humanos y 42 dBA (punto F2, radio 
+de 650 m) para fauna silvestre. 
+Edafología 
+(Suelo) 
+Justificada por el riesgo de alteración física del 
+recurso debido a las obras de escarpe, 
+excavaciones y tránsito de maquinarias, sumado a 
+la alta susceptibilidad a la erosión hídrica del 
+terreno por pendientes escarpadas de laderas 
+superiores al 45%. 
+Delimitada mediante un área de obras físicas más 
+un buffer técnico perimetral de 50 metros, 
+totalizando 130,9 ha sobre las cuales se realizaron 
+calicatas y muestreos de suelo. 
+Hidrología 
+Fundamentada en la interacción directa de las 
+plataformas de diseño y el camino de acceso con 
+los cauces de escorrentía superficial que 
+alimentan y tributan hacia la cuenca del Estero 
+Marga-Marga. 
+Determinada por el límite geográfico de las 
+microcuencas asociadas a las quebradas Q1, Q2 y 
+Q3 (cauces principales) y quebradas menores (Q4 a 
+Q13), abarcando 429,57 ha de red de drenaje. 
+Hidrogeología 
+Justificada por la necesidad de asegurar la 
+estanqueidad y evitar riesgos de contaminación 
+del flujo subsuperficial por potencial infiltración 
+de lixiviados provenientes del vaso de disposición 
+final o de las plantas de tratamiento. 
+Acotada a la proyección vertical directa de la zona 
+de disposición final (celdas del relleno sanitario) y 
+piscinas de regulación de lixiviados, totalizando 
+78,14 ha. 
+Flora 
+y 
+Vegetación 
+Justificada por la afectación directa producto de la 
+corta y despeje de vegetación nativa esclerófila y 
+formaciones xerofíticas, la alteración por efecto 
+borde y la depositación de Material Particulado 
+Sedimentable (MPS) en las hojas de especies 
+protegidas. 
+Definida por una envolvente máxima de 1.710,71 
+ha, obtenida mediante la suma geométrica de las 
+áreas de obras (82,22 ha), la franja de efecto borde 
+(6,19 ha) y la isolínea de depositación de MPS mayor 
+o igual a 2 mg/m²/día (1% de la Norma Suiza de 
+referencia). 
+Flora no Vascular Fundamentada en la sensibilidad de hongos, 
+líquenes 
+y 
+briófitas 
+criptogámicas 
+a 
+las 
+alteraciones microclimáticas (humedad y luz) y a 
+la depositación de polvo sedimentable sobre los 
+troncos, rocas y suelo que actúan como sus 
+sustratos biológicos clave. 
+Coincide espacialmente con la envolvente del 
+componente vegetal de 1.710,71 ha, incorporando 
+las zonas de obras directas y la pluma de dispersión 
+de MPS superior a los 2 mg/m²/día. 
+Fauna 
+Silvestre 
+(Vertebrados) 
+Justificada por la pérdida de hábitat biológico 
+debido al despeje de terreno, y la perturbación o 
+alteración conductual (especialmente en época 
+reproductiva) provocada por el ruido de las 
+maquinarias de construcción y operación del 
+relleno. 
+Delimitada por la envolvente espacial de 711,277 
+ha, que integra el polígono de intervención directa 
+de las obras físicas con el área de dispersión acústica 
+limitada por la isófona de 42 dBA (punto F2, 
+equivalente a un radio de 650 m desde la fuente de 
+ruido). 
+Entomofauna 
+Fundamentada 
+en 
+el 
+resguardo 
+de 
+las 
+comunidades de artrópodos terrestres de baja 
+movilidad que habitan el suelo y la hojarasca 
+superficial que serán removidos durante el 
+escarpe y las excavaciones. 
+Limitada a la superficie de intervención directa del 
+vaso del relleno sanitario, caminos internos y 
+plataformas operacionales, totalizando 78,14 ha. 
+
+===== p.13 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+13 
+ 
+Medio Humano 
+Justificada por la potencial exposición de grupos 
+humanos a molestias o ruidos generados por el 
+tránsito de camiones recolectores y la operación 
+del centro, permitiendo descartar alteraciones en 
+sus sistemas de vida o costumbres. 
+Delimitada por las manzanas urbanas y entidades 
+rurales (Censo 2024) que se localizan a una distancia 
+menor a 2.000 metros en torno al predio del 
+proyecto (sectores El Salto, Las Lomas y El 
+Calichero). 
+Paisaje y Turismo Justificada por la potencial alteración de la calidad 
+visual del entorno por la introducción de 
+elementos 
+antropogénicos 
+(obras 
+e 
+infraestructura del relleno), y para descartar 
+afectación a flujos turísticos o zonas de interés 
+(ZOIT). 
+Determinada por la cuenca visual teórica del 
+proyecto restringida a un radio de 3,5 km (Zona de 
+Visibilidad 
+Media) 
+analizada 
+mediante 
+intervisibilidad bidireccional sobre 6 Puntos de 
+Observación (PO) sensibles. 
+Patrimonio 
+Arqueológico 
+Se justifica por el riesgo de destrucción o 
+alteración irreversible de bienes o depósitos 
+arqueológicos subsuperficiales preexistentes no 
+detectados durante la remoción y excavación 
+profunda de los terrenos. 
+Circunscrita estrictamente al polígono de las partes 
+y obras físicas del proyecto, totalizando 81,01 ha 
+que fueron evaluadas mediante prospección 
+pedestre intensiva (transectas cada 20 m). 
+Patrimonio 
+Paleontológico 
+Justificada por la necesidad de prevenir la pérdida 
+de material fosilífero con valor científico durante 
+los movimientos de tierra profundos, en caso de 
+interceptar estratos geológicos con potencial 
+paleontológico. 
+Determinada por la superficie de excavación de las 
+obras del proyecto más un buffer técnico de 
+seguridad de 10 metros en torno a las mismas. 
+Áreas Protegidas 
+y 
+Sitios 
+Prioritarios 
+Se justifica por la cercanía espacial a ecosistemas 
+bajo protección legal y para garantizar la no 
+afectación de sus objetos de conservación por el 
+transporte indirecto de material particulado 
+sedimentable (MPS). 
+Delimitada por la superficie de 5,541 ha donde se 
+superpone la isolínea de depositación de MPS (2 
+mg/m²/día) con el polígono oficial del Humedal 
+Urbano Estero Quilpué. 
+ 
+3 
+LÍNEA DE BASE 
+3.1 
+Clima 
+y 
+meteorología 
+El área del Proyecto se clasifica con un clima mediterráneo de lluvia invernal (Csb), caracterizado por 
+temporadas húmedas en invierno y periodos secos y cálidos en verano. Estadísticamente, la 
+temperatura media anual alcanza los 13,5 °C, mientras que las precipitaciones suman un promedio 
+anual de 593,8 mm, concentradas principalmente en los meses de invierno. El régimen de vientos 
+muestra una predominancia de direcciones del sector sur y sur-suroeste, con mayores intensidades 
+durante la tarde, y la altura media de la capa límite es de 386,27 m, lo que favorece la mezcla 
+atmosférica diurna. Finalmente, bajo un escenario de altas emisiones (SSP5-8.5) para el periodo 2035-
+2065, se proyecta una disminución de las precipitaciones anuales entre un 13% y un 14%, junto con un 
+aumento de la temperatura media de 1,5 a 1,6 °C en las comunas de Viña del Mar y Quilpué. 
+3.2 Calidad del 
+aire 
+El área del proyecto no se encuentra sujeta a Planes de Prevención o Descontaminación Atmosférica 
+(PPDA) y no está declarada como zona saturada ni latente para MP10 o MP2,5. 
+MP10: Las concentraciones medidas cumplen con la normativa primaria vigente para promedios diarios 
+y anuales. No se registraron eventos de alerta, preemergencia o emergencia durante el periodo 
+analizado. 
+MP2,5: El promedio anual se mantiene bajo los límites normativos. Sin embargo, el percentil 98 de los 
+promedios diarios mostró una superación puntual del límite durante 2024, mientras que en 2025 los 
+niveles se mantuvieron dentro de la norma. 
+Eventos Extraordinarios: Las alzas excepcionales en las concentraciones detectadas en febrero de 2024 
+se vinculan directamente a los incendios forestales ocurridos en la región; por tanto, se consideran 
+datos atípicos y no representativos de la operación habitual. 
+Tendencias Temporales: Se identificaron mayores concentraciones de contaminantes en invierno, 
+particularmente en horarios vespertinos y de madrugada, asociados a un aumento de emisiones 
+residenciales y condiciones meteorológicas menos favorables para la dispersión. 
+
+===== p.14 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+14 
+ 
+Si bien se cumplen las normas vigentes, el estudio identifica condiciones de latencia (niveles iguales o 
+superiores al 80% de la norma) en varios parámetros evaluados (MP10 anual/diario y MP2,5 
+anual/diario), lo que sugiere un seguimiento atento de la calidad del aire en el área. 
+3.3 Hidrología 
+La Línea de Base Hidrológica, caracteriza el sistema de aguas superficiales entre Viña del Mar y Quilpué 
+para evaluar potenciales impactos. Metodológicamente, se ajusta al artículo 19 del RSEIA y a las 
+directrices de recursos hídricos y cambio climático del SEA. El área del proyecto se inserta en la 
+subsubcuenca del Estero Marga-Marga, interactuando con las quebradas esporádicas Q1, Q2 y Q3 en 
+la zona de obras, y Q4 a Q13 en el camino de acceso. El terreno presenta un relieve escarpado con 
+pendientes del 20% al 40% y suelos de textura arena-franco-arcillosa de Grupo Hidrológico C, con 
+potencial de escorrentía medio-alto y arrastre de sedimentos. Aunque no existen cuerpos de agua 
+naturales en el predio, aguas abajo se identifican las lagunas artificiales CA1 y CA6 (originadas por 
+extracción histórica de áridos) en el Estero Marga-Marga, cauce protegido como Humedal Urbano 
+Estero Viña del Mar. Finalmente, bajo un régimen pluvial histórico de 593,8 mm, las proyecciones de 
+cambio climático (2030-2060, RCP8.5) sugieren aumentos de temperatura de hasta 1,3 °C, mermas en 
+las lluvias de hasta 17,3% y una reducción en la escorrentía de la cuenca de entre 10% y 23% 
+3.4 Hidrogeología Determinó que el área se emplaza sobre un basamento de rocas intrusivas jurásicas (tonalitas y 
+granodioritas) de la Unidad Limache, las cuales actúan como una barrera impermeable y otorgan una 
+importancia hidrogeológica nula al sitio. Mediante tomografías eléctricas (ERT), se estimó que sobre 
+este basamento se dispone una capa de alteración superficial o "maicillo" con espesores variables de 
+entre 15 y 40 metros. Las prospecciones geofísicas descartan la existencia de un acuífero definido en el 
+sector. No obstante, los ensayos Porchet en la zona de maicillo evidencian una velocidad de infiltración 
+moderadamente alta (127,07 mm/h), lo que permite que las aguas de lluvia se infiltren y acumulen 
+temporalmente de forma estacional en dicha cobertura. Finalmente, el informe confirma que no 
+existen captaciones de agua registradas dentro del radio de restricción de 600 metros, localizándose la 
+más cercana a más de 3 km de distancia. 
+3.5 Geología 
+La geología del área de estudio está dominada litológicamente por un cuerpo intrusivo de composición 
+tonalítica (Jlt) que abarca casi la totalidad del terreno, el cual intruye hacia el sur a rocas tipo hornfels 
+de la Formación Ajial (Ja). Ambas unidades muestran meteorización superficial, identificándose con 
+mayor intensidad en la tonalita, donde se genera un suelo residual superficial que grada a roca fresca 
+en profundidad. Geotécnicamente, el macizo rocoso presenta condiciones favorables para la 
+estabilidad de las obras; la alteración física y química explica la baja coherencia mecánica cerca de la 
+superficie de la peneplanicie, mientras que la calidad de la roca aumenta hacia el fondo de las 
+quebradas. Tectónicamente, la Zona de Falla Marga-Marga (ZFMM) se localiza a unos 600 metros al 
+norte de las instalaciones, descartándose fallas subsidiarias o rupturas superficiales modernas en el 
+predio. Asimismo, las zonas de cizalla Norte (ZCN) y Sur (ZCS) corresponden a estructuras antiguas no 
+activas, asociadas a la resistencia erosiva diferencial y a contactos litológicos transicionales, 
+respectivamente. Finalmente, se constata la total ausencia de restos paleontológicos o elementos de 
+valor patrimonial geocientífico. 
+3.6 Geomorfología 
+y riesgos naturales 
+Los resultados del estudio geomorfológico y de riesgos naturales en el predio, emplazado en la 
+Cordillera de la Costa entre los 180 y 365 m s.n.m., concluyen que la zona presenta un relieve muy 
+ondulado modelado por tres superficies geomórficas principales ajustadas al nivel de base del Estero 
+Marga-Marga. Se determinó una alta densidad de cárcavas; las desconectadas poseen origen antrópico 
+por sobrepastoreo histórico y están actualmente inmovilizadas, mientras que las conectadas registran 
+procesos de incisión recientes. En cuanto a riesgos geológicos, se descarta la ocurrencia de 
+deslizamientos de ladera (landslides) o flujos de detritos y barro debido a la escasez crítica de arcilla en 
+los suelos locales, así como los peligros de tsunami y vulcanismo. Los procesos de inestabilidad activa 
+identificados se limitan a la caída de rocas puntual en laderas con pendientes superiores a 40°-45° en 
+el margen austral, y a la potencial generación de ondas de choque hidráulicas por aumentos de 
+escorrentía en las quebradas principales ante precipitaciones extremas. Finalmente, se descartan fallas 
+activas superficiales dentro del predio, situándose la Falla Marga-Marga a 600 metros al norte. 
+3.7 Edafología 
+El estudio del recurso suelo en el área de influencia identificó seis Unidades Homogéneas de Suelo 
+(UHS), dominadas por la UHS-2 (Ladera media, 39,8%) y la UHS-3 (Ladera alta, 32,1%). 
+Taxonómicamente, pertenecen a la Serie Lo Vásquez (Ultic Haploxeralfs). Físico-químicamente, 
+presentan un pH moderadamente ácido (5,6-6,0), son no salinos, no sódicos (RAS 0,38-2,42%) y carecen 
+de carbonatos. La Clase de Capacidad de Uso de Suelo (CCUS) determinó un predominio absoluto de 
+suelos no arables: clase VIe2 (49,5%), seguido por clase VIII (26,7%) y VIIe2 (21,4%), limitados por 
+
+===== p.15 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+15 
+ 
+pendiente y riesgo de erosión. La erosión actual es predominantemente severa (54,9% del área) y 
+moderada (36,6%). Asimismo, el Riesgo de Erosión Actual (REA) es de nivel Muy Alto (60,9%) y Alto 
+(35,4%). La Capacidad de Sustentar Biodiversidad (CSB) es mayormente Media (62,9%) y Muy Baja 
+(34,8%). Finalmente, un 11,2% del área (14,7 ha) intersecta superficialmente con el Sitio Prioritario 
+"Palmar Las Siete Hermanas,  El Salto", caracterizado por suelos clase VIII y VIe2 con CSB muy baja 
+3.8 
+Ruido 
+y 
+Vibraciones 
+La caracterización basal registró niveles de ruido diurno entre 32 y 62 dBA y nocturno entre 30 y 51 dBA 
+en los receptores de asentamientos humanos (V1-V5), mientras que en los puntos de fauna (F1-F3) 
+fluctuó entre 44 y 47 dBA de día y 42 y 45 dBA de noche. Las vibraciones basales se situaron muy por 
+debajo del umbral de percepción humana, con un valor de velocidad peak (PPV) máximo de 0,00154 
+mm/s en el periodo diurno. 
+Las modelaciones de ruido para las fases de construcción (111 dBA), operación (112 dBA) y cierre ( 110 
+dBA) proyectaron niveles de inmisión máximos de 36 dBA, 37 dBA y 35 dBA respectivamente en los 
+receptores, asegurando el cumplimiento estricto del D.S. N° 38/11 MMA, incluso bajo la operación 
+simultánea de obras y faenas (máximo de 40 dBA). Asimismo, el ruido por tránsito de vehículos pesados 
+cumple holgadamente con la Norma Suiza de referencia. En vibraciones, el escenario más restrictivo de 
+construcción de caminos arrojó un PPV máximo de 0,00507 in/s para daño estructural (límite FTA de 
+0,2 in/s) y un nivel de molestia máximo de 71 VdB (límite FTA de 72 VdB). Durante la operación y el 
+cierre, los niveles de molestia máximos disminuyeron a 51 VdB y 47 VdB respectivamente, ratificando 
+el cumplimiento de los estándares de la FTA en todas las fases evaluadas. 
+3.9 Flora vascular Mediante un esfuerzo de muestreo distribuidos en seis campañas —estacionales, se validó la presencia 
+de 243 especies vasculares terrestres. De estas, destaca un elevado endemismo correspondiente a 107 
+taxas (44,03% del total) y el registro de 19 especies en categoría de conservación, sobresaliendo 
+Chloraea disoides (CR), Alstroemeria marticorenae (EN), Jubaea chilensis (EN), Drimys winteri (EN) y 
+Chloraea cristata (VU). 
+La ocupación del territorio está dominada por el recubrimiento de matorrales (81,31%), identificándose 
+veinte formaciones vegetales, donde la más representativa es el Matorral de Colliguaja odorifera 
+(21,86%). Respecto a las formaciones reguladas por la Ley N° 20.283, se catastraron 157,88 ha, 
+subdivididas en formaciones xerofíticas (106,61 ha), bosques nativos (22,39 ha), plantaciones forestales 
+(26,23 ha) y bosques nativos de preservación (2,65 ha), localizándose estos últimos a más de 100 metros 
+fuera de la huella de intervención directa del proyecto. Finalmente, se determinó la concurrencia de 
+siete criterios de singularidad ambiental (S-8 al S-14), asociados a la presencia de estas formaciones 
+protegidas, especies bajo amparo oficial, endemismo crítico. 
+3.10 
+Flora 
+no 
+Vascular 
+La caracterización registró un total de 16 especies de flora no vascular, compuestas por 8 taxa de 
+hongos, 4 de líquenes y 4 de briófitas, detectadas durante las campañas de invierno 2024 y otoño 2025. 
+Estos componentes criptógamos se distribuyen principalmente sobre el suelo y la hojarasca asociados 
+a los pisos vegetacionales de bosque esclerófilo mediterráneo costero de Lithraea caustica - 
+Cryptocarya alba y de Cryptocarya alba - Peumus boldus. Con respecto a su estado de conservación, la 
+totalidad de los taxa identificados se encuentra en la categoría de "No Evaluado" (NE), descartándose 
+la presencia de especies bajo categoría de amenaza oficial en el área. En el ámbito biogeográfico, los 
+hongos y líquenes mostraron un dominio exclusivo de elementos de distribución cosmopolita, mientras 
+que las briófitas registran especies de origen nativo de Chile, destacando la presencia de Barbula 
+costesii. 
+3.11 
+Fauna 
+Terrestre 
+La caracterización registró la biodiversidad de mamíferos, aves, reptiles y anfibios en el área de 
+influencia del proyecto para identificar potenciales impactos de las obras y evaluar la sensibilidad 
+ambiental del territorio. A través de cuatro campañas de terreno ejecutadas entre 2024 y 2025, 
+empleando metodologías como transectos, cámaras trampa, trampas Sherman y detectores de 
+murciélagos, se identificaron 13 especies en alguna categoría de conservación, destacando el zorro 
+culpeo y la culebra de cola larga (ambas Vulnerables), así como el sapito de cuatro ojos (Casi 
+Amenazado). 
+3.12 Entomofauna La caracterización de la entomofauna terrestre se elaboró para identificar especies, diversidad, 
+abundancia y su estado de conservación. El informe consolida los resultados de las campañas de terreno 
+realizadas en 2024, y 2025 en el marco del Estudio de Impacto Ambiental (EIA) del proyecto. La 
+metodología combinó transectos de trampas de caída, trampas de colores, trampas pegajosas y 
+búsquedas activas (red entomológica y volteo de piedras). Durante las prospecciones se registró una 
+riqueza de dos Clases (Arachnida e Insecta), siete Órdenes, 42 Familias y 66 Especies.  
+
+===== p.16 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+16 
+ 
+3.13 Arqueología La Línea de Base de Patrimonio Arqueológico determinó que el Área de Influencia (AI) del proyecto 
+comprende 81,01 hectáreas. La campaña de prospección arqueológica pedestre superficial, realizada 
+mediante transectas equidistantes a 20 metros, logró una cobertura efectiva del 80% (64,804 ha) del 
+AI. El 20% restante (14,768 ha) se clasificó como no prospectable debido a riesgos de seguridad física 
+para el equipo, asociados a pendientes acentuadas y muy acentuadas (superiores a 16°), suelo inestable 
+y una alta densidad de vegetación. No se registraron hallazgos ni sitios arqueológicos superficiales 
+dentro de las áreas prospectadas del AI. A nivel bibliográfico, el bien patrimonial registrado más cercano 
+corresponde al sitio MM3 - Piedra Tacita Marga-Marga 3, el cual se localiza a 0,38 km de distancia, fuera 
+de los límites del proyecto, constatándose que no presenta una proyección espacial hacia el AI. El resto 
+de los bienes patrimoniales identificados en el entorno se ubican a una distancia igual o superior a 1,13 
+km. 
+3.14 Paleontología La Línea de Base de Patrimonio Paleontológico determinó que el Área de Influencia (AI) del proyecto, 
+que abarca las superficies de excavación de las obras más un buffer técnico de 10 metros, se emplaza 
+sobre un terreno dominado por la unidad Tonalitas y granodioritas de anfíbol-biotita (Jlt). Esta unidad, 
+de origen intrusivo jurásico, es de naturaleza paleontológicamente estéril debido a que sus condiciones 
+de formación de alta temperatura son incompatibles con la preservación orgánica. Si bien la Formación 
+Ajial (Ja) posee un potencial clasificado como susceptible a nivel regional, la cartografía de detalle a 
+escala 1:10.000 demostró que sus afloramientos se localizan estrictamente fuera de los límites del Área 
+de Influencia. Por otra parte, la prospección paleontológica de terreno sobre 15 puntos de control (LR01 
+a LR15) descartó la presencia de hallazgos, restos o indicios fósiles en superficie o en los perfiles 
+expuestos evaluados. En consecuencia, los resultados científicos del informe permiten categorizar la 
+totalidad del Área de Influencia con un potencial paleontológico bajo a nulo, quedando clasificada bajo 
+la categoría de estéril. 
+3.15 
+Paisaje 
+y 
+Turismo 
+el proyecto se emplaza en la subzona Borde Costero, sobre un relieve con pendientes superiores al 30%, 
+rugosidad media y vegetación nativa de matorral y bosque esclerófilo. Mediante un análisis de 
+intervisibilidad con seis puntos de observación, se delimitó un área de influencia de 3,5 km, constatando 
+que la morfología accidentada confina visualmente las obras, haciendo que la visibilidad desde los 
+receptores distantes sea baja o nula. Se identificaron seis Unidades de Paisaje, donde la zona de 
+emplazamiento directo (UP.1 Matorral) posee calidad visual Media —afectada por los incendios 
+forestales de febrero de 2024—, mientras que las unidades de valor Medio-Alto (Jardín Botánico y El 
+Palmar) quedan totalmente ajenas por distancia. Finalmente, se constata la total ausencia de servicios, 
+actividades o Zonas de Interés Turístico (ZOIT) dentro de este radio, situándose los hitos patrimoniales 
+e históricos de Viña del Mar a más de 3,5 km de distancia, lo que asegura la nula afectación a la 
+conectividad y flujos turísticos de la comuna. 
+3.16 
+Areas 
+protegidas y sitios 
+prioritarios 
+El análisis territorial descartó la afectación o superposición con unidades del SNASPE (siendo la Reserva 
+Nacional Lago Peñuelas la más cercana a 2,5 km), Santuarios de la Naturaleza (como el Palmar El Salto 
+a 1,8 km) o Sitios Ramsar. Asimismo, ninguno de los cinco Sitios Prioritarios oficiales para el SEIA 
+interactúa con el proyecto. Respecto a otras designaciones, el área de obras se emplaza en la Zona de 
+Transición de la Reserva de la Biosfera La Campana-Peñuelas. Finalmente, se identificó superposición 
+física del camino de acceso con el sitio prioritario regional Palmar Las Siete Hermanas - El Salto, el cual 
+no constituye un objeto de protección oficial para el SEIA, derivándose su caracterización a las líneas 
+de base de flora y fauna. 
+3.17 
+Uso 
+del 
+territorio 
+y 
+relación 
+con 
+la 
+planificación 
+territorial 
+El Proyecto se localiza en el Área Rural de la comuna de Viña del Mar. El uso de suelo real está dominado 
+por coberturas naturales sin actividad productiva, asociadas a praderas, matorral y bosque esclerófilo, 
+cuyas características agrológicas corresponden en su totalidad a suelos no arables de clases VIe2 
+(49,5%), VIII (26,7%) y VIIe2 (21,4%). En el entorno se identifican actividades de extracción de áridos y 
+de oro artesanal de baja intensidad en el Estero Marga-Marga, asentamientos residenciales dispersos 
+en el sector Calichero (a 1,4 km), y construcciones de infraestructura vial y energética correspondientes 
+a la Ruta 60 (Troncal Sur), la línea de alta tensión San Luis-Agua Santa 220kv y un gasoducto de Gasvalpo. 
+En términos de planificación, los terrenos de las obras principales se emplazan en el Área Rural del 
+PREMVAL, zona donde dicho instrumento permite el uso de infraestructura sanitaria. Por su parte, el 
+trazado proyectado para el camino de acceso (3,8 km) intersecta la Zona de Extensión Urbana 2 (ZEU 
+2), áreas urbanas consolidadas y se superpone con la faja reservada para la propuesta Vía Expresa VE-
+2v. Finalmente, se constata la total ausencia de Zonas de Interés Turístico (ZOIT) vigentes en el área- 
+3.18 Impacto Vial El Proyecto no genera impactos sobre la infraestructura vial en su área de influencia. Las evaluaciones 
+operacionales en la Ruta 60 (punto de control PC1) indican que actualmente la vía opera con un 
+excelente Nivel de Servicio (LOS A), un grado de saturación del 31,60% y demoras nulas en la hora punta 
+tarde. La demanda máxima proyectada es de 50 viajes/hora en la fase de operación (con un total de 
+
+===== p.17 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+17 
+ 
+402 viajes/día). Las modelaciones operacionales demuestran que la incorporación de los flujos del 
+Proyecto mantendrá un óptimo desempeño vial: en la fase de construcción (año 2027), el incremento 
+de 3 veh/hora generará demoras menores a 11 segundos, operando en LOS A y B; mientras que en la 
+fase de operación (año 2028), la adición de 23 veh/hora inducirá demoras inferiores a 12 segundos, 
+conservando los niveles de servicio LOS A y B, y sin producir colas vehiculares. En consecuencia, los 
+resultados descartan cualquier obstrucción, restricción a la libre circulación, afectación a la 
+conectividad o un aumento significativo de los tiempos de desplazamiento de la población 
+3.19 
+Medio 
+Humano 
+Identificó un Área de Influencia que abarca los sectores de El Salto (Urbano y Rural), Las Lomas y El 
+Calichero, concentrando una población permanente de 1.673 habitantes, predominantemente urbana 
+(95,6%) y con un índice de masculinidad de 108,6. Demográficamente, predomina el rango etario de 14 
+a 59 años (66,5%), con un 13,8% de población inmigrante y un 8,2% de autoidentificación indígena 
+concentrados en Las Lomas. En bienestar social, se evidencian brechas de infraestructura básica: el 
+33,3% de las viviendas depende de camiones aljibe para el abastecimiento de agua y un 25,2% carece 
+de conexión a la red de energía eléctrica. Respecto a la evaluación bajo el Artículo 7 del D.S. N° 40/2012, 
+el estudio concluye la ausencia de impactos significativos sobre los sistemas de vida y costumbres. 
+Específicamente, se descarta la alteración de actividades de sustento ganadero por el confinamiento 
+de las obras físicas en un predio privado cerrado, no se proyecta afectación a la conectividad al 
+mantenerse el nivel de servicio óptimo (LOS A/B) en la Ruta 60-CH, y se descartan alteraciones en el 
+acceso a servicios básicos o comunitarios al operar el proyecto con sistemas autónomos de agua, 
+energía y saneamiento, registrando emisiones de ruido, olores y material particulado bajo los límites 
+normativos en todos los receptores 
+3.20 
+Proyectos 
+con RCA 
+Determinó un área de estudio de 15,46 km², conformada por el polígono de instalación del proyecto 
+más un buffer de 1,5 km, y un buffer de 1 km para el camino de acceso. A través de la plataforma 
+cartográfica del SEIA, se identificaron preliminarmente siete iniciativas aprobadas dentro de un radio 
+de 10 km de distancia. De la evaluación detallada de colindancia, se descartó la "Planta de Compostaje 
+Luz Verde" tras constatarse un error técnico en su georreferenciación espacial pública. Así, el único 
+proyecto relevante analizado dentro del límite del área fue el de "Depuración y Neutralización de 
+Residuos Industriales Líquidos" (RCA Exenta N° 231/2000), correspondiente a un sistema de 
+tratamiento de Riles (tipología o.7) en Viña del Mar. El análisis del historial de esta instalación evidenció 
+que, con una vida útil proyectada de 10 años y operaciones verificadas en 2005, el proyecto se 
+encuentra actualmente inactivo y posterior a su etapa de abandono. En consecuencia, los resultados 
+del informe confirman la inexistencia de efectos sinérgicos o acumulativos con el proyecto en 
+evaluación. 
+ 
+4 
+PREDICCIÓN Y EVALUACIÓN DE IMPACTO AMBIENTAL. 
+ 
+Componente 
+Impacto ambiental 
+Código 
+Resultado (valoración, significancia y 
+fase del proyecto) 
+Calidad del Aire 
+Alteración de la calidad del aire por el 
+aumento 
+de 
+emisiones 
+de 
+material 
+particulado y gases de combustión. 
+CA-C-01 • Valoración: IM -25 a -38 (Moderado 
+Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Ruido y Vibraciones 
+Alteración de los niveles de ruido y 
+vibraciones asociada a actividades de 
+construcción. 
+RUV-C-01 • Valoración: IM -26 a -29 (Moderado 
+Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Geomorfología 
+y 
+Riesgos Naturales 
+Alteración de la morfología superficial del 
+terreno producto de la construcción del 
+Proyecto. 
+GM-C-01 • Valoración: IM -40 a -44 (Moderado 
+Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Geomorfología 
+y 
+Riesgos Naturales 
+Alteración temporal de las condiciones de 
+estabilidad y escurrimiento superficial del 
+terreno. 
+GM-C-02 • Valoración: IM -25 a -26 (Moderado 
+Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Edafología / Suelos 
+Pérdida del recurso natural suelo producto 
+de la construcción del Proyecto. 
+SU-C-01 • Valoración: IM -43 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+
+===== p.18 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+18 
+ 
+Hidrología 
+Modificación de la red de drenaje por 
+construcción de obras de intercepción de 
+aguas lluvia. 
+HI-C-01 
+• Valoración: IM -28 a -35 (Moderado 
+Negativo). 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Hidrología 
+Control de escorrentías superficiales 
+HI-C-02 
+• Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Hidrogeología 
+Alteración potencial de la calidad de las 
+aguas subterráneas. 
+HG-C-01 • Valoración: IM -28 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Hidrogeología 
+Resguardo de la calidad de las aguas 
+subterráneas mediante 
+el control de 
+infiltraciones (Impacto Favorable). 
+HG-C-02 • Valoración: IM +42 (Moderado Positivo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Calidad de Aguas 
+Alteración potencial de la calidad de las 
+aguas superficiales. 
+AG-C-01 • Valoración: IM -26 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Calidad de Aguas 
+Resguardo de la calidad de las aguas 
+superficiales 
+AG-C-02 • Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Flora y Vegetación 
+Pérdida de individuos o ejemplares de 
+especies en categoría de conservación. 
+FV-C-01 • Valoración: IM -56 (Severo Negativo) 
+• Significancia: Sinificativo. 
+• Fase: Construcción. 
+Flora y Vegetación 
+Pérdida de superficie con vegetación nativa. FV-C-02 • Valoración: IM -44 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Flora y Vegetación 
+Alteración de superficie con vegetación 
+nativa producto del efecto borde de las 
+obras. 
+FV-C-03 • Valoración: IM -44 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Flora y Vegetación 
+Alteración de hábitat de especies de flora en 
+categoría de amenaza. 
+FV-C-04 • Valoración: IM -43 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Flora No Vascular 
+Pérdida y alteración de flora no vascular. 
+FNV-C-01 • Valoración: IM -33 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Fauna Vertebrados 
+Perturbación y desplazamiento de fauna 
+terrestre por actividades del Proyecto. 
+FT-C-01 
+• Valoración: IM -26 a -42 (Moderado 
+Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Entomofauna 
+Alteración 
+de 
+entomofauna 
+y 
+sus 
+condiciones de hábitat por actividades del 
+Proyecto. 
+ET-C-01 
+• Valoración: IM -36 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Patrimonio 
+Arqueológico 
+Afectación 
+potencial 
+del 
+patrimonio 
+arqueológico durante la construcción del 
+Proyecto. 
+AQ-C-01 • Valoración: IM -30 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Patrimonio 
+Paleontológico 
+Afectación 
+potencial 
+del 
+patrimonio 
+paleontológico 
+por 
+actividades 
+de 
+construcción. 
+PA-C-01 • Valoración: IM -30 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Impacto Vial 
+Alteración potencial de la circulación vial 
+local por actividades del Proyecto. 
+IV-C-01 
+• 
+Valoración: 
+IM 
+-23 
+(Irrelevante 
+Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+
+===== p.19 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+19 
+ 
+Impacto Vial 
+Restricción temporal de la circulación vial 
+local por construcción del empalme de 
+acceso. 
+IV-C-02 
+• 
+Valoración: 
+IM 
+-23 
+(Irrelevante 
+Negativo) 
+• Significancia: No Significativo. 
+• Fase: Construcción. 
+Usos del Territorio 
+Alteración potencial de los usos actuales del 
+territorio por actividades del Proyecto. 
+UT-C-01 • Valoración: IM -39 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Medio Humano 
+Alteración 
+potencial 
+de 
+actividades 
+cotidianas y dinámica local en el área de 
+influencia. 
+MU-C-01 • Valoración: IM -23 a -26 (Irrelevante / 
+Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Medio Humano 
+Variación de la demanda de mano de obra, 
+bienes y servicios locales por actividades del 
+Proyecto 
+MU-C-02 • Valoración: IM +25 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Paisaje 
+Alteración baja de los atributos paisajísticos 
+y de la percepción visual del área por 
+incorporación de obras. 
+PT-C-01 • 
+Valoración: 
+IM 
+-24 
+(Irrelevante 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Construcción. 
+Componente 
+Impacto ambiental 
+Código 
+Resultado (valoración, significancia y fase 
+del proyecto) 
+Calidad del Aire 
+Alteración de la calidad del aire por el 
+aumento 
+de 
+emisiones 
+de 
+material 
+particulado y gases de combustión. 
+CA-O-01 • Valoración: IM -28 a -36 (Moderado 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Ruido y Vibraciones 
+Alteración de los niveles de ruido y 
+vibraciones asociada a actividades de 
+operación. 
+RUV-O-
+01 
+• Valoración: IM -32 a -35 (Moderado 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Olores 
+Alteración potencial de la calidad odorante 
+por emisiones de olor del Proyecto. 
+OL-O-01 • Valoración: IM -36 a -42 (Moderado 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Geomorfología 
+y 
+Riesgos Naturales 
+Modificación geomorfológica progresiva. 
+GM-O-01 • Valoración: IM -39 a -40 (Moderado 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Geomorfología 
+y 
+Riesgos Naturales 
+Alteración temporal de las condiciones de 
+estabilidad y escurrimiento superficial del 
+terreno. 
+GM-O-02 • Valoración: IM -36 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Edafología / Suelos 
+Pérdida del recurso natural suelo producto 
+de la operación del Proyecto. 
+SU-O-01 • Valoración: IM -29 a -36 (Moderado 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Hidrología 
+Control y conducción del drenaje superficial 
+asociado a aguas lluvias 
+HI-O-01 • Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Hidrogeología 
+Alteración potencial de la calidad de las 
+aguas subterráneas. 
+HG-O-01 • Valoración: IM -36 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Hidrogeología 
+Resguardo de la calidad de las aguas 
+subterráneas 
+mediante 
+el 
+control 
+de 
+infiltraciones 
+HG-O-02 • Valoración: IM +32 a +42 (Moderado 
+Positivo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+
+===== p.20 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+20 
+ 
+Calidad de Aguas 
+Alteración potencial de la calidad de las 
+aguas superficiales. 
+AG-O-01 • Valoración: IM -33 a -36 (Moderado 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Calidad de Aguas 
+Resguardo de la calidad de las aguas 
+superficiales 
+AG-O-02 • Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Flora y Vegetación 
+Acumulación 
+de 
+material 
+particulado 
+sedimentable sobre la vegetación. 
+FV-O-01 • Valoración: IM -44 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Flora No Vascular 
+Pérdida y alteración de flora no vascular. 
+FNV-O-01 • Valoración: IM -35 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Fauna Vertebrados 
+Perturbación y desplazamiento de fauna 
+terrestre por actividades del Proyecto. 
+FT-O-01 • Valoración: IM -36 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Entomofauna 
+Alteración 
+de 
+entomofauna 
+y 
+sus 
+condiciones de hábitat por actividades del 
+Proyecto. 
+ET-O-01 • Valoración: IM -35 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Impacto Vial 
+Alteración potencial de la circulación vial 
+local por actividades del Proyecto. 
+IV-O-01 
+• Valoración: IM -35 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Usos del Territorio 
+Alteración potencial de los usos actuales del 
+territorio por actividades del Proyecto. 
+UT-O-01 • Valoración: IM -40 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Medio Humano 
+Alteración 
+potencial 
+de 
+actividades 
+cotidianas y dinámica local en el área de 
+influencia. 
+MU-O-01 • Valoración: IM -36 a -42 (Moderado 
+Negativo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Medio Humano 
+Variación de la demanda de mano de obra, 
+bienes y servicios locales por actividades del 
+Proyecto 
+MU-O-02 • Valoración: IM +42 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Operación. 
+Calidad del Aire 
+Alteración de la calidad del aire por el 
+aumento 
+de 
+emisiones 
+de 
+material 
+particulado y gases de combustión. 
+CA-CI-01 • Valoración: IM -24 a -26 (Irrelevante a 
+Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Ruido y Vibraciones 
+Alteración de los niveles de ruido y 
+vibraciones asociada a actividades de cierre. 
+RUV-CI-
+01 
+• Valoración: IM -26 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Olores 
+Alteración potencial de la calidad odorante 
+por emisiones de olores en cierre. 
+OL-CI-01 • Valoración: IM -38 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Geomorfología 
+y 
+Riesgos Naturales 
+Estabilización morfológica final de las 
+superficies intervenidas mediante las obras 
+de cierre 
+GM-CI-01 • Valoración: IM +42 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Geomorfología 
+y 
+Riesgos Naturales 
+Estabilización física del terreno y regulación 
+del escurrimiento superficial durante cierre y 
+post cierre 
+GM-CI-02 • Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Edafología / Suelos 
+Rescate y Reposición del recurso natural 
+suelo producto del cierre del Proyecto 
+SU-CI-01 • Valoración: IM +36 a +42 (Moderado 
+Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+
+===== p.21 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+21 
+ 
+Hidrología 
+Control y conducción del escurrimiento y 
+drenaje superficial de aguas lluvias 
+HI-CI-01 • Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Hidrogeología 
+Alteración potencial de la calidad de las 
+aguas subterráneas asociada a lixiviados 
+remanentes. 
+HG-CI-01 • Valoración: IM -38 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Hidrogeología 
+Resguardo de la calidad de las aguas 
+subterráneas 
+mediante 
+el 
+control 
+y 
+monitoreo de infiltraciones 
+HG-CI-02 • Valoración: IM +35 (Moderado Positivo) 
+• Significancia: No Significativo. 
+• Fase: Cierre. 
+Calidad de Aguas 
+Alteración potencial de la calidad de las 
+aguas superficiales asociada a lixiviados 
+remanentes. 
+AG-CI-01 • Valoración: IM -38 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Calidad de Aguas 
+Resguardo de la calidad de las aguas 
+superficiales mediante el programa de 
+monitoreo en cierre 
+AG-CI-02 • Valoración: IM +35 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Flora y Vegetación 
+Recuperación de la cobertura vegetal en 
+superficies intervenidas 
+FV-CI-01 • Valoración: IM +36 a +42 (Moderado 
+Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Flora No Vascular 
+Recuperación gradual de microhábitats para 
+la 
+flora 
+no 
+vascular 
+en 
+superficies 
+intervenidas 
+FNV-CI-
+01 
+• Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Fauna Vertebrados 
+Perturbación temporal de fauna en cierre 
+(derivada de la maquinaria, ruido y personal 
+en las demoliciones). 
+FT-CI-01 • Valoración: IM -27 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Fauna Vertebrados 
+Recuperación gradual de hábitat para fauna 
+silvestre  
+FT-CI-02 • Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Entomofauna 
+Recuperación gradual de condiciones de 
+hábitat para entomofauna en superficies 
+intervenidas 
+ET-CI-01 • Valoración: IM +36 (Moderado Positivo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Impacto Vial 
+Alteración temporal de las condiciones de 
+tránsito por actividades del cierre. 
+IV-CI-01 • Valoración: IM -21 (Irrelevante Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Usos del Territorio 
+Alteración potencial de los usos actuales del 
+territorio por actividades del cierre 
+UT-CI-01 • Valoración: IM -36 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Medio Humano 
+Alteración 
+potencial 
+de 
+actividades 
+cotidianas y dinámica local en el área de 
+influencia. 
+MU-CI-01 • Valoración: IM -27 (Moderado Negativo) 
+• Significancia: No Significativo 
+• Fase: Cierre. 
+Medio Humano 
+Variación de la demanda de mano de obra, 
+bienes y servicios locales por cierre del 
+Proyecto. 
+MU-CI-02 • Valoración: IM -25 (Moderado Negativo) 
+• Significancia: No Significativo. 
+• Fase: Cierre 
+ 
+5 
+EFECTOS, CARACTERÍSTICAS O CIRCUNSTANCIAS DEL ARTICULO 11 
+ANÁLISIS DEL ARTÍCULO 5: RIESGO PARA LA SALUD DE LA POBLACIÓN 
+
+===== p.22 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+22 
+ 
+• 
+Calidad del Aire (Letra a): Mediante el sistema de modelación WRF–CALPUFF sobre 26 receptores discretos 
+(viviendas), evaluando el Año 27 (escenario operacional más desfavorable por máxima conformación de celdas), 
+se descartó la superación de normas primarias de calidad ambiental para material particulado (MP10, MP2,5) y 
+gases (NO₂, SO₂, CO). Incluso sumando la línea base (estación SINCA Quilpué-Gimnasio), los valores máximos de 
+MP10 diario alcanzan 94,38 µg/m³ (72,6% de la norma) y de MP10 anual llegan a 37,02 µg/m³ (74,0% de la norma). 
+Para el caso más exigente (MP2,5 diario), el receptor Rh06 alcanza un 96,6% de la norma; no obstante, este valor 
+está determinado casi en su totalidad por la línea base preexistente (93,0%), siendo el aporte marginal y 
+transitorio del Proyecto de tan solo un 3,6%. 
+• 
+Ruido y Vibraciones (Letra b): Las emisiones de ruido de fuentes fijas —modeladas bajo la norma internacional 
+ISO 9613-2— arrojaron un cumplimiento íntegro del D.S. N° 38/2011 MMA en la totalidad de los 8 receptores 
+humanos evaluados. El escenario combinado de construcción y operación simultánea proyecta inmisiones 
+máximas de 40 dBA en el receptor R7, bajo el límite más restrictivo de 42 dBA. Para las fuentes móviles (tránsito 
+vial), el método alemán RLS-90 validó el cumplimiento de la Norma Suiza OPB 814.41 de referencia (máximo 
+modelado de 40 dBA en R1A vs. límite de 65 dBA). En vibraciones, los niveles se sitúan holgadamente bajo los 
+límites de la FTA para daño estructural (máximo 0,00053 in/s vs. límite de 0,2 in/s) y molestia humana (máximo 
+51 VdB vs. límite de 72 VdB). 
+• 
+Matriz Agua y Suelo (Letra c): No se configuran vías de exposición debido a que el proyecto opera con reutilización 
+de aguas tratadas en circuito cerrado (aguas servidas y lavado bajo NCh 1.333). Los lixiviados son captados 
+mediante un sistema de impermeabilización basal y conducidos a tratamiento para recirculación o evaporación, 
+descartando infiltraciones o descargas superficiales. 
+• 
+Emisión de Olores y Biogás (Letra d): La modelación de odorantes (WRF-CALPUFF) evaluada contra la norma de 
+referencia de la Región de Lombardía (2012) en 21 receptores determinó concentraciones máximas del percentil 
+98 de 0,58 uoE/m³ en R1, muy por debajo de los límites normativos que oscilan entre 1 y 3 uoE/m³ para distancias 
+mayores a 500 metros. El biogás será controlado dinámicamente mediante el modelo LandGEM con un diseño 
+secuencial de 81 chimeneas y un sistema de extracción forzada activa que deriva el flujo a una antorcha con 99% 
+de eficiencia en destrucción de metano 
+ 
+ANÁLISIS DEL ARTÍCULO 6: EFECTO ADVERSO SIGNIFICATIVO SOBRE RECURSOS NATURALES RENOVABLES 
+• 
+Suelo (Letra a): La línea base edafológica de 130,9 hectáreas (Serie Lo Vásquez) expone un suelo no arable 
+severamente degradado por erosión histórica (91,5% del AI). Aunque el riesgo de erosión potencial (REP) 
+incrementa en 31,6 ha la categoría "Muy Alto", las medidas operacionales de ingeniería controlan la pérdida física 
+del recurso mediante la remoción selectiva del horizonte biológicamente activo (TopSoil de 20 cm) que será 
+acopiado y reutilizado de manera inmediata como cobertura vegetal final de 40 cm en el cierre de celdas previas, 
+superando la exigencia del D.S. N° 189/2005. 
+• 
+Flora y Vegetación (Letra b - Significativo): Se prevé la remoción física de 80,39 ha de vegetación. El análisis de 
+singularidades determinó la afectación severa del impacto FV-C-01 por pérdida directa de ejemplares 
+amenazados: Chloraea disoides (En Peligro Crítico), que cuenta con solo 50 individuos registrados en el país, 
+Alstroemeria marticorenae (En Peligro), endémica de distribución regional costera muy restringida, y Chloraea 
+cristata (Vulnerable). Los rodales de canelo y palma chilena (bosque nativo de preservación) se ubican a más de 
+100 metros del área de obras, descartando impactos por remoción física y por depositación de MPS. 
+• 
+Fauna Terrestre, Criptógamas y Entomofauna (Letra b): El impacto sobre vertebrados (zorro culpeo en categoría 
+VU y sapito de cuatro ojos en NT) es moderado, comprometiéndose medidas de perturbación controlada y 
+rescate/relocalización de reptiles Liolaemus mediante la aplicación del PAS 146. Para flora no vascular (16 taxa NE 
+de amplia distribución) y entomofauna (37,9% endémicas no restringidas), los impactos se valoran como 
+moderados y no significativos. 
+• 
+MPS, Ruido de Fauna y Química (Letras d, e, f): Las mermas fisiológicas por material particulado sedimentable 
+(MPS) se descartan, registrando un aporte máximo modelado de 48,42 mg/m²/día, muy inferior al límite de la 
+Norma Suiza de referencia (200 mg/m²/día). El ruido operacional no supera los umbrales de la Guía Fauna del SEA 
+(ej. Pleurodema thaul se localiza a 130 m, fuera del radio crítico de 40 m). Las bodegas RESPEL e 
+impermeabilización basal doble barrera impiden fugas químicas al entorno. 
+• 
+Agua, Exóticas y Resiliencia Climática (Letras g, h, i): Se descartan alteraciones hídricas por la total ausencia de 
+extracción y descarga de caudales y por la inexistencia de un acuífero definido. El control de vectores mediante 
+cobertura diaria de 30 cm de suelo compactado evita la proliferación de especies exóticas. La resiliencia climática 
+se resguarda mediante la valorización orgánica (compostaje), captura de biogás y humectación de caminos con 
+aguas tratadas por ósmosis inversa (NCh 1.333), eliminando consumos de agua fresca 
+ 
+ANÁLISIS DEL ARTÍCULO 7: REASENTAMIENTO DE COMUNIDADES HUMANAS O ALTERACIÓN SIGNIFICATIVA DE SUS 
+SISTEMAS DE VIDA Y COSTUMBRES 
+
+===== p.23 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+23 
+ 
+• 
+Recursos de Sustento y Usos Tradicionales (Letra a): Aunque se identificó crianza de animales en pequeña escala 
+en Las Lomas y El Salto, la restricción de acceso se descarta debido a que las obras se confinarán en un predio 
+privado cercado de 63,10 ha dentro de una propiedad mayor de 206 ha, manteniendo disponibles amplios 
+sectores de laderas adyacentes para el pastoreo. La recolección histórica artesanal de oro en el estero Marga 
+Marga tampoco registrará interferencias físicas, al no contemplarse obras o acciones sobre el cauce. No se 
+identifican usos ceremoniales, medicinales ni espirituales indígenas al interior del área. 
+• 
+Conectividad y Libre Circulación (Letra b): La Ruta 60-CH posee un nivel de servicio óptimo (LOS A) en hora punta 
+tarde (1.111 vehículos/hora). Las modelaciones con software SIDRA demostraron que el flujo inducido por el 
+proyecto en su fase más exigente (operación con 23 viajes/hora) será absorbido holgadamente por la 
+infraestructura vial, manteniendo niveles de servicio favorables (LOS A y B), con incrementos marginales de 
+demora promedio inferiores a 12 segundos y sin generación de colas vehiculares. 
+• 
+Bienes, Servicios e Infraestructura Básica (Letra c): Los equipamientos de valor comunitario, tales como la sede 
+social de la Junta de Vecinos El Salto y los puntos de reunión de Las Lomas, no sufrirán afectación de acceso ni 
+deterioro en su calidad de uso. Las modelaciones técnicas de ruido (D.S. N° 38/2011), vibraciones (FTA), calidad 
+del aire (WRF-CALPUFF) y dispersión de olores (Norma de Lombardía) confirman concentraciones de inmisión 
+sistemáticamente bajo los estándares de salud y confort en todos los receptores. Las brechas de servicios básicos 
+identificadas en línea de base (como abastecimiento por camión aljibe en un 33,3% de viviendas) corresponden a 
+condiciones basales preexistentes independientes del Proyecto. 
+• 
+Tradiciones, Cohesión Social y Arraigo (Letra d): Las prácticas vecinales, festividades y reuniones de comités 
+locales se localizan y desarrollan a más de 1,8 km al norte de las obras, descartando cualquier impedimento de 
+uso o alteración sobre el sentimiento de arraigo y cohesión social de los grupos humanos 
+ 
+ANÁLISIS DEL ARTÍCULO 8: LOCALIZACIÓN Y VALOR AMBIENTAL DEL TERRITORIO 
+La evaluación técnica espacial determina que si bien el Proyecto se localiza próximo a recursos naturales relevantes y 
+un área colocada bajo protección oficial, se descarta la susceptibilidad de afectación significativa sobre sus objetos de 
+protección: 
+• 
+Humedal Urbano Declarado (HU-0053): El único elemento bajo protección oficial que intersecta espacialmente 
+con el Área de Influencia corresponde al Humedal Urbano Estero Quilpué. Esta superposición equivale 
+exclusivamente a un polígono de 5,54 hectáreas donde la pluma de dispersión aérea de material particulado 
+sedimentable (MPS) interseca con el humedal. Dado que el Proyecto no contempla descargas de efluentes 
+industriales ni posee conectividad de drenaje superficial o subterráneo con dicho cuerpo de agua, la 
+susceptibilidad de afectación ambiental se restringe únicamente a la depositación de polvo, la cual se mantendrá 
+bajo el estricto límite de la norma suiza de referencia, descartando efectos adversos significativos. 
+• 
+SNASPE y Santuarios de la Naturaleza: Se descarta de forma categórica la superposición física o afectación de sus 
+objetos de protección con la Reserva Nacional Lago Peñuelas (distante a 2,5 km al sureste de las obras), el 
+Santuario de la Naturaleza Palmar El Salto (cuyo polígono físico no intersecta el área de dispersión del Proyecto) 
+y el Santuario Acantilados Federico Santa María (a ~12 km de distancia). No se registra interacción con Sitios 
+Ramsar ni con los cinco Sitios Prioritarios oficiales reconocidos para efectos del SEIA en la región. 
+• 
+Valor Ambiental del Territorio: El predio del Proyecto se sitúa en la Zona de Transición de la Reserva de la Biosfera 
+La Campana-Peñuelas. Por otra parte, la construcción del camino de acceso intersecta una sección periférica de 
+3,85 ha del Sitio Prioritario regional (Estrategia Regional de Biodiversidad) Palmar Las Siete Hermanas-El Salto. 
+Dado que esta designación regional no constituye un sitio prioritario oficial bajo el amparo de la letra d) del artículo 
+11 del SEIA, la evaluación de su valor ecológico fue canalizada y resguardada directamente a través de las 
+caracterizaciones bióticas de las líneas de base de Flora y Vegetación, garantizando que el Proyecto no alterará su 
+valor ambiental global 
+ 
+ANÁLISIS DEL ARTÍCULO 9: VALOR PAISAJÍSTICO O TURÍSTICO 
+• 
+Obstrucción de Visibilidad (Letra a): A partir del análisis del área de intervisibilidad con un radio de detalle de 3,5 
+km desde seis Puntos de Observación (PO) clave, se determinó que la visibilidad externa hacia el Proyecto es 
+acotada y muy heterogénea. La topografía accidentada y la diferencia de altitud confinan visualmente las 
+instalaciones de disposición final. El PO.2 (viaducto Marga-Marga) y el PO.6 (acceso al Jardín Botánico) presentan 
+visibilidad nula hacia las obras. Los puntos PO.3, PO.4 y PO.5 presentan visibilidad parcial o baja, atenuada por la 
+distancia y el relieve. Desde los miradores habitados, las colinas y sus atributos dominantes siguen siendo 
+apreciables de forma clara, determinando que los elementos antrópicos (maquinaria o galpones) no interrumpen 
+la lectura espacial del paisaje. La fase de cierre contempla el desmantelamiento de infraestructuras y la 
+revegetación morfológica progresiva con especies nativas, reduciendo de forma irreversible el contraste visual. 
+• 
+Alteración de Atributos del Paisaje (Letra b): Las obras principales se emplazan en la Unidad de Paisaje 1 (UP.1 
+Matorral), calificada con calidad visual media y que presenta baja naturalidad debido al daño físico preexistente 
+
+===== p.24 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+24 
+ 
+provocado por los incendios forestales de febrero de 2024. Si bien se alterarán atributos biofísicos localizados 
+(como color, textura y cobertura del suelo en 63,10 ha), no existe una transformación integral del carácter de esta 
+unidad de paisaje. Las unidades de mayor valor visual y ecológico de la zona, correspondientes a la UP.5 (Jardín 
+Botánico) y la UP.6 (Santuario de la Naturaleza Palmar Siete Hermanas), calificadas con calidad visual media-alta, 
+se localizan a distancias considerables del Proyecto, manteniéndose totalmente ajenas a cualquier intervención 
+física y visual. En el ámbito turístico, el Proyecto se califica como de nulo impacto (PT-NI) al descartarse 
+interferencias sobre atractivos, accesos o flujos de visitantes, dada la inexistencia de Zonas de Interés Turístico 
+(ZOIT) vigentes en el radio evaluado 
+ 
+ANÁLISIS DEL ARTÍCULO 10: ALTERACIÓN DEL PATRIMONIO CULTURAL 
+• 
+Monumentos Nacionales y Bienes Arqueológicos (Letra a): La caracterización superficial se sustentó en una 
+campaña de prospección pedestre intensiva mediante transectas equidistantes de 20 metros, alcanzando una 
+cobertura efectiva del 80% de las 81,01 ha del Área de Influencia arqueológica. El 20% restante se clasificó como 
+inaccesible por condiciones de seguridad física (pendientes pronunciadas superiores a 16° y vegetación densa de 
+matorral). No se registraron hallazgos, fragmentos ni sitios arqueológicos superficiales dentro de las áreas 
+prospectadas. Con respecto al entorno, el monumento registrado más cercano corresponde al sitio MM3 - Piedra 
+Tacita Marga-Marga 3, ubicado a 0,38 km de distancia, fuera de los límites del Proyecto. Dadas las características 
+accidentadas del relieve y la distancia física, el informe concluye que este monumento no presenta proyección 
+espacial hacia el Proyecto, descartando cualquier riesgo de remoción o alteración permanente. 
+• 
+Bienes del Patrimonio Histórico e Indígena (Letra b): El análisis territorial descartó la presencia de inmuebles 
+históricos, elementos arquitectónicos urbanos de conservación o lugares de significación y memoria indígena 
+dentro del predio. El estudio paleontológico, validado con una prospección de terreno sobre 15 puntos de control 
+estratigráfico (LR01 a LR15), determinó que el Proyecto se asienta sobre la unidad geológica Tonalitas y 
+granodioritas (Jlt) de origen intrusivo jurásico, la cual es de naturaleza paleontológicamente estéril debido a sus 
+condiciones formacionales de alta temperatura. Los afloramientos con potencial paleontológico (Formación Ajial) 
+se ubican estrictamente fuera del polígono de obras. 
+• 
+Manifestaciones Culturales y Folclore (Letra c): El Proyecto no se superpone ni afecta lugares donde se lleven a 
+cabo manifestaciones habituales, celebraciones religiosas, festividades comunales o prácticas consuetudinarias 
+de pueblos originarios, concentrándose el patrimonio inmaterial y artístico de Viña del Mar en el sector costero 
+urbano a más de 3,5 km de distancia 
+ 
+ 
+6 
+RIESGO PARA LA SALUD DE LA POBLACIÓN. 
+Sobre la base de los resultados del análisis detallado de los efectos, características y circunstancias del artículo 11 de la 
+Ley N° 19.300, presentados en el Capítulo 5 de este Estudio de Impacto Ambiental, se concluye fundadamente que las 
+emisiones, residuos y efluentes que generará el Proyecto en todas sus fases no son susceptibles de provocar riesgo para 
+la salud de la población, descartándose la concurrencia de la circunstancia del Artículo 5 del Reglamento del SEIA. Lo 
+anterior se sustenta en que el aporte combinado de material particulado y gases cumple con las normas primarias de 
+calidad ambiental vigentes en todos los receptores evaluados; las emisiones de ruido y vibraciones respetan estrictamente 
+los límites del D.S. N° 38/2011 MMA y los criterios de la FTA; y los sistemas de diseño de ingeniería sanitaria de circuito 
+cerrado, impermeabilización basal y control perimetral de odorantes aseguran que el manejo de efluentes, residuos y 
+biogás no genere rutas de exposición contaminante hacia la población. 
+ 
+7 
+PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN 
+La medida tiene como objetivo reducir la afectación directa sobre estas especies mediante las siguientes acciones del Plan 
+de Manejo Biológico: 
+1. 
+Prospección Previa: Realización de 2 a 3 campañas de microruteo en temporada de primavera-verano, previas 
+al despeje de terreno, para georreferenciar los 13 individuos basales y detectar posibles emergencias 
+estacionales adicionales. 
+2. 
+Rescate en Latencia: Extracción manual de los órganos subterráneos de reserva durante el otoño (periodo de 
+latencia), colectando muestras del sustrato original para conservar asociaciones micorrícicas. 
+3. 
+Viverización y Ensayos: Conservación de los ejemplares en un centro especializado por un periodo mínimo de 
+24 meses. Se contempla la recolección de semillas de A. marticorenae y ensayos de propagación vegetativa de 
+las tres especies para resguardar la variabilidad genética. 
+4. 
+Relocalización Gradual: Traslado secuencial de los individuos hacia un sitio receptor definitivo dentro del predio 
+que garantice la mayor equivalencia ecológica posible. 
+5. 
+Monitoreo (5 años): Seguimiento de la supervivencia, fitosanidad y funcionalidad reproductiva de los 
+ejemplares. 
+
+===== p.25 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+25 
+ 
+Indicadores de Éxito: La efectividad de la medida se evaluará bajo dos metas al término de los 5 años: alcanzar una tasa 
+de supervivencia igual o superior al 70% de los individuos rescatados y relocalizados, y constatar la restitución de sus 
+funciones biológicas mediante el desarrollo vegetativo y reproductivo (floración y fructificación) en el sitio receptor 
+ 
+8 
+PLAN DE SEGUIMIENTO DE LAS VARIABLES AMBIENTALES RELEVANTES 
+Componente Flora y Vegetación  
+Impacto 
+Significativo 
+Asociado 
+FV-C-01: Pérdida de ejemplares de flora en categoría de conservación 
+Medida Asociada 
+Mitigación: Rescate y relocalización de las especies Alstroemeria Marticorena, 
+Chloraea cristata y Chloraea disoides. 
+Fase de ejecución 
+Construcción  
+Ubicación de los puntos de 
+control 
+Se ejecutará la medida de rescate sobre todo los ejemplares de Alstroemeria 
+Marticorena, Chloraea cristata y Chloraea disoides ubicados en el área de 
+intervención del Proyecto, previamente identificados, marcados y georreferenciados.  
+Los ejemplares serán relocalizados en un sitio el cual deberá presentar condiciones 
+ambientales similares a las del lugar de origen, manteniendo la mayor equivalencia 
+ecológica posible. En el sitio receptor cada ejemplar mantendrá la codificación 
+asignada durante la identificación previo al rescate y será georreferenciado.  
+Parámetros y limites 
+Durante los monitoreos se evaluarán los siguientes parámetros 
+ 
+Para considerar que la medida fue exitosa se evaluaran los siguientes puntos: 
+- 
+Al término del período de monitoreo, al menos el 70% de los individuos 
+efectivamente rescatados y relocalizados presentan condición de supervivencia.  
+- 
+Al término del período de monitoreo, los individuos relocalizados deberán 
+evidenciar el restablecimiento de sus funciones biológicas en el sitio receptor. 
+Duración y frecuencia 
+El plan de seguimiento tiene una duración mínima de cinco años a contar de los 
+primeros ejemplares relocalizados.  
+Debido a la estrategia de supervivencia de las especies basada en órganos 
+subterráneos de reserva y a la inexistencia de estructuras áreas durante la temporada 
+de otoño-inviernos. Los monitoreos se concentrarán en la témpora de primavera-
+verano, identificando las etapas de crecimiento área, floración y fructificación de cada 
+especie.  
+Método de medición 
+Se evaluará la supervivencia de cada ejemplar identificado con su respectiva 
+codificación en el binomio vivo o muerto. Además, se observará y registrará la 
+presencia de crecimiento vegetativo, reproductivo, estado fitosanitarios, etc., 
+mediate observación directa.  
+Frecuencia de entrega de 
+informes 
+Se elaborará un primer informe con las actividades de rescate y viverización de los 
+ejemplares, correspondiente al primer año de ejecución de la medida de mitigación.  
+Se generará un informe anual, correspondiente a la temporada de primavera-verano, 
+durante los 5 años de monitoreo.  
+ 
+9 
+PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+9.1 
+MEDIDAS DE PREVENCIÓN DE CONTINGENCIAS 
+a) 
+Riesgo Sismos: Las instalaciones permanentes y celdas del proyecto se diseñan bajo estrictos estándares sísmicos 
+nacionales para resistir sismos severos esperables en la Región de Valparaíso. Se contempla la difusión interna de 
+estrategias de evacuación a Puntos de Encuentro de Emergencia (PEE) y la realización de simulacros semestrales. 
+b) 
+Riesgo de Inundaciones por precipitaciones extremas: Considera la localización de las instalaciones operativas clave 
+fuera de zonas naturales expuestas a inundaciones de quebradas. Los caminos interiores mantendrán pendientes de 
+
+===== p.26 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+26 
+ 
+escurrimiento adecuadas y se construirá una red de 10 canales trapezoidales abiertos para interceptar y desviar la 
+escorrentía pluvial limpia de las microcuencas. 
+c) 
+Riesgo de Incendios Forestales: Se habilitará y mantendrá de forma paralela al cierre perimetral una faja cortafuego 
+de 10 metros de ancho libre de vegetación. El desbroce de la biomasa se realizará a ras de suelo sin remoción de 
+escarpe para evitar activar procesos erosivos en el maicillo basal, derivando los restos vegetales a la planta de 
+compostaje. 
+d) 
+Riesgos de incendios en instalaciones: Prohibición estricta de fumar en dependencias administrativas o de 
+valorización, realización de trabajos de soldadura con mantas ignífugas, disposición de extintores (PQS o ) con 
+mantención al día y almacenamiento normado de combustibles en bodegas de RESPEL. 
+e) 
+Riesgos de incendios en masa de basura: Control visual y documental de residuos incompatibles en la báscula de 
+pesaje, confinamiento del frente de descarga a un ancho máximo de 20 metros y aplicación obligatoria al final de 
+cada jornada de un sello de suelo compactado de 30 cm de espesor (que duplica la exigencia mínima del D.S. N° 189). 
+f) 
+Riesgos de Accidentes laborales: Uso obligatorio de EPP estándar, utilización de arnés y doble cola de vida para 
+labores sobre 1,80 metros de altura, trabajos eléctricos limitados a instaladores autorizados por la SEC, y segregación 
+física de los caminos peatonales y vehiculares mediante pretiles o barreras de hormigón. 
+g) 
+Riesgos por presencia de vectores comunes: Lavado diario de neumáticos de camiones en la losa de lavado con 
+recirculación de aguas, aseo y limpieza cotidiana de todas las dependencias, y mantención de un programa mensual 
+de desratización y desinsectación por empresa especializada, rotando el ingrediente activo cada dos meses para no 
+generar resistencia biológica. 
+h) 
+Riesgos de deslizamiento de taludes de tierra o celdas: Supervisión visual del estado de compactación del relleno, 
+taludes conformados bajo una relación estable de pendiente de 1V:3H, y control topográfico mensual de 
+movimientos o asentamientos de la masa de residuos mediante hitos fijos en cotas definitivas. 
+i) 
+Riesgos de derrames de sustancias peligrosas en el suelo: Capacitación de conductores y manipuladores de 
+combustibles, uso de EPP y almacenamiento transitorio de aceites y lubricantes en dos bodegas RESPEL de 7,5 m² 
+provistas de cubas de contención de derrames que garantizan un manejo seguro conforme al D.S. N° 148. 
+j) 
+Riesgos Colisión o volcamiento de camiones y/o maquinaria pesada: Choferes calificados con licencias vigentes, 
+mantenimiento preventivo y revisiones técnicas al día de la flota, aseguramiento de la carga de camiones antes de 
+circular por el recinto y límite de velocidad interior estricto de 30 km/h debidamente señalizado. 
+k) 
+Riesgos Fugas y emisiones de biogás: Protocolo de mantenimiento preventivo de líneas, válvulas y cabezales de 
+succión, compactación rigurosa del material de cobertura (30 cm) para evitar fugas superficiales y construcción 
+sistemática de la red de 81 chimeneas de captación posterior al coronamiento final de cada celda respectiva. 
+l) 
+Riesgos de falla en el sistema de bombeo de lixiviados: Revisiones periódicas del estado operativo del sistema de 
+impulsión y cañerías del sistema colector, mantención programada y recambio preventivo de los equipos de bombeo 
+al cumplir la vida útil recomendada por el fabricante. 
+m) Riesgos de taponamiento de los drenes de recolección de lixiviados: Instalación de una red de piezómetros de nivel 
+basal sobre el vaso del relleno sanitario, cuyos reportes de presión hidráulica serán analizados permanentemente, y 
+construcción de drenes en las celdas intermedias del relleno. 
+n) 
+Riesgos de Fuga de lixiviados: Revestimiento con hormigón o geomembrana de las bermas perimetrales del sistema 
+de drenaje, dotación de drenes de pie de talud e intermedias, y un programa permanente de mantención de las 
+cunetas perimetrales y del sistema de bombeo. 
+o) 
+Riesgos de infiltración de lixiviado por falla o fisura del sistema de impermeabilización: Aseguramiento y Control 
+de Calidad (QA/QC) riguroso por parte de organismos externos certificados durante la instalación de doble capa basal 
+impermeable (Bentonita GCL y geomembrana de HDPE de 1,5 mm), verificada con pruebas de presión de aire y 
+ensayos de vacío). 
+p) 
+Riesgos ingreso de fauna silvestre al proyecto: Cierre perimetral completo del recinto con malla galvanizada 
+reforzada que impida el paso de mamíferos terrestres medianos y grandes, y uso obligatorio de contenedores 
+herméticos con tapa para los residuos domésticos en zonas de comedor. 
+q) 
+Riesgos Caída de fauna silvestre a las piscinas: Cierres de seguridad específicos con mallas o barandas en estanques 
+de almacenamiento, habilitación de rampas de escape de fauna o flotadores en lagunas y bandejas de evaporación, 
+e inspección visual diaria matutina. 
+r) 
+Imposibilidad de acceso al frente de trabajo: Diseño y conservación de la infraestructura vial interna del relleno 
+mediante bases estabilizadas compactadas y pendientes que permitan el escurrimiento, sumado a la disponibilidad 
+de maquinaria de apoyo (retroexcavadora/motoniveladora) para despeje. 
+s) 
+Generación de olores: Frente activo confinado a un ancho máximo de 20 metros con cobertura de suelo diaria de 30 
+cm, galpón de compostaje operando a presión negativa con aireación forzada conectada a un biofiltro de alta 
+eficiencia, y sistema perimetral automatizado de nebulización molecular neutralizante. 
+t) 
+Derrame o descarga accidental de fosas sépticas: Inspección y limpieza física de fosas sépticas con una frecuencia 
+mínima semestral, revisión mensual del estado de estanques y válvulas de descarga, y almacenamiento de kits de 
+emergencia con cal, palas y material absorbente. 
+
+===== p.27 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+27 
+ 
+9.2 
+PROCEDIMIENTO DE RESPUESTAS ANTE EMERGENCIAS 
+a) 
+Sismo: Control de pánico y evacuación del personal por vías demarcadas hacia los Puntos de Encuentro de 
+Emergencia (PEE) alejados de líneas eléctricas, corte preventivo de suministros básicos, uso de la posición de 
+"triángulo de vida" en caso de atrapamiento en oficinas e inspección estructural previa al reingreso. 
+b) 
+Lluvias intensas e inundaciones: Reubicación rápida de bienes materiales expuestos, monitoreo visual continuo del 
+francobordo de las piscinas de acumulación y arriendo urgente de motobombas de achique de lixiviados y retiro 
+mediante camiones aljibe autorizados para tratamiento externo en caso de sobreacumulación. 
+c) 
+Incendio en instalaciones: Amago comunicado de inmediato a viva voz, control del fuego incipiente mediante 
+extintores portátiles PQS o (evitando el uso de agua), evacuación gateando a ras de suelo en presencia de humo 
+denso y aviso de urgencia a Bomberos, Carabineros y ambulancias del SAMU. 
+d) 
+Colisión o volcamiento de camiones internos: Delimitación física y segregación inmediata del área del siniestro para 
+evitar choques secundarios, contención de fugas de combustible y activación de primeros auxilios por los socorristas 
+internos ante lesionados. 
+e) 
+Derrame de sustancias peligrosas en suelo: Supresión inmediata de fuentes de ignición en el área, contención rápida 
+del hidrocarburo mediante barreras absorbentes del kit de emergencias, retiro mecánico del suelo contaminado con 
+palas de bronce (que no generen chispas) y acopio en contenedores IBC estancos en el patio de RESPEL. 
+f) 
+Deslizamiento de taludes de tierra o celdas: Ante la detección de grietas o sobrepresión hidráulica en los 
+piezómetros, activación inmediata del bombeo de lixiviados basales. Si ocurre el deslizamiento fuera de la celda, 
+desalojo de la basura con maquinaria del Relleno hacia un sector habilitado, escarpe del suelo natural contaminado 
+y cobertura prioritaria con tierra y zeolita. 
+g) 
+Incendios forestales: Activación de la Brigada de Emergencia interna provista de herramientas de combate, 
+notificación urgente a CONAF y Bomberos, cierre del acceso perimetral a camiones externos, cobertura total con 
+suelo de los frentes de basura activos y humectación de áreas colindantes a oficinas. 
+h) 
+Daño en sistema de bombeo de lixiviados: Coordinación de urgencia con técnico de mantención, reinicio inmediato 
+de la impulsión conectando la bomba de emergencia de redundancia de respaldo instalada in situ, y arriendo 
+temporal de bombas de achique externas para evitar sobreacumulación en piscinas. 
+i) 
+Taponamiento de drenes de recolección de lixiviados: Bombeo prioritario de percolados hacia piscinas de 
+almacenamiento perimetrales para rebajar niveles hidráulicos basales. Si es necesario para acceder al dren obstruido, 
+excavación y acopio temporal de la basura, procediendo a su restitución y compactación posterior. 
+j) 
+Fugas de lixiviados (Escurrimiento Superficial): Encausamiento rápido levantando diques y pretiles de tierra con 
+maquinaria pesada, confinamiento de la zona afectada en un radio de 30 metros, succión con camiones limpiafosas 
+y eventual retiro del suelo contaminado. Si alcanza un curso superficial (Estero Marga-Marga), succión del cauce, 
+inyección de agua limpia aguas arriba y monitoreo ETFA. 
+k) 
+Explosión por taponamientos de ductos de sistema de extracción de biogás: Suspensión inmediata de la succión 
+activa forzada de sopladores perimetrales, evacuación del personal en las inmediaciones de la planta de biogás, 
+habilitación de accesos para socorristas externos y eliminación de fuentes de ignición. 
+l) 
+Incendios en la masa de basura: Extinción del fuego incipiente con equipos de espuma destinados en el área por el 
+Encargado de Depósitos, y maniobras inmediatas de segregación y sofocación física mediante aplicación de tierra de 
+cobertura con excavadoras pesadas y camiones aljibe del relleno. 
+m) Infiltración de lixiviado por fallas o fisuras del sistema de impermeabilización: Ante alzas anómalas en los 
+parámetros de calidad física o química registrados por la red de 5 pozos de monitoreo subsuperficial: aumento de 
+frecuencia de muestreo, incremento de la recirculación de lixiviados, disminución de la superficie de frente activo y 
+cobertura temporal con geomembrana de HDPE de las celdas inactivas. 
+ 
+10 PAN DE CUMPLIMIENTO DE LAS LEGISLACIÓN AMBIENTAL 
+10.1 
+NORMATIVA DE CARÁCTER GENERAL 
+• 
+D.S. N° 100/2005 del Ministerio Secretaría General de la Presidencia: Fija el texto refundido, coordinado y 
+sistematizado de la Constitución Política de la República de Chile. 
+• 
+Ley N° 19.300/1994 del Ministerio Secretaría General de la Presidencia: Aprueba la Ley de Bases Generales del 
+Medio Ambiente. 
+• 
+Ley N° 21.455/2022 del Ministerio del Medio Ambiente: Ley Marco de Cambio Climático. 
+• 
+D.S. N° 40/2012 del Ministerio del Medio Ambiente: Reglamento del Sistema de Evaluación de Impacto Ambiental. 
+• 
+D.S. N° 1/2013 del Ministerio del Medio Ambiente: Aprueba el Reglamento del Registro de Emisiones y 
+Transferencias de Contaminantes (RETC). 
+• 
+Resolución Exenta N° 1.518/2013 del Ministerio del Medio Ambiente: Fija el texto refundido, coordinado y 
+sistematizado de la Resolución Exenta N° 574 de 2012 de la SMA, sobre remisión de antecedentes de Resoluciones 
+de Calificación Ambiental (RCA). 
+
+===== p.28 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+28 
+ 
+• 
+Resolución Exenta N° 223/2015 (referida también como N° 233/2015) del Ministerio del Medio Ambiente: Dicta 
+instrucciones de carácter general sobre la elaboración del Plan de Seguimiento de Variables Ambientales, los 
+Informes de Seguimiento Ambiental y la remisión de información al Sistema Electrónico de Seguimiento Ambiental. 
+• 
+Resolución Exenta N° 1.610/2018 del Ministerio del Medio Ambiente / SMA: Dicta instrucciones de carácter general 
+sobre deberes de actualización de Planes de Prevención de Contingencias y Planes de Emergencia 
+ 
+10.2 
+NORMATIVA AMBIENTAL DE CARÁCTER ESPECIFICO 
+• 
+D.S. N° 138/2005 del Ministerio de Salud: Establece la obligación de declarar emisiones de fuentes fijas que indica 
+(aplicable a los grupos electrógenos mayores a 20 kW del proyecto). 
+• 
+D.S. N° 144/1961 del Ministerio de Salud: Establece normas para evitar emanaciones o contaminantes atmosféricos 
+de cualquier naturaleza. 
+• 
+Decreto N° 38/2021 del Ministerio del Medio Ambiente: Establece la norma de emisión para grupos electrógenos. 
+• 
+D.S. N° 47/1992 del Ministerio de Vivienda y Urbanismo: Fija el nuevo texto de la Ordenanza General de la Ley de 
+Urbanismo y Construcciones (OGUC), regulando medidas de control de polvo, humectación de terrenos, lavado de 
+ruedas y transporte cubierto. 
+• 
+D.S. N° 279/1983 del Ministerio de Salud: Aprueba el Reglamento para el Control de la Emisión de Contaminantes de 
+Vehículos Motorizados de Combustión Interna. 
+• 
+D.S. N° 211/1991 del Ministerio de Transportes y Telecomunicaciones: Normas sobre emisiones de vehículos 
+motorizados livianos. 
+• 
+D.S. N° 4/1994 del Ministerio de Transportes y Telecomunicaciones: Establece la norma de emisión de contaminantes 
+aplicable a los vehículos motorizados y fija el procedimiento para su control. 
+• 
+D.S. N° 54/1994 del Ministerio de Transportes y Telecomunicaciones: Establece normas de emisión aplicables a 
+vehículos motorizados medianos. 
+• 
+D.S. N° 55/1994 del Ministerio de Transportes y Telecomunicaciones: Establece normas de emisión aplicables a 
+vehículos motorizados pesados. 
+• 
+D.S. N° 75/1987 del Ministerio de Transportes y Telecomunicaciones: Establece condiciones para el transporte de 
+cargas a granel y medidas para evitar la caída de materiales o dispersión de polvo a la atmósfera. 
+• 
+Decreto N° 12/2022 del Ministerio del Medio Ambiente: Establece la Norma Primaria de Calidad Ambiental para 
+Material Particulado Respirable MP10. 
+• 
+Decreto N° 12/2012 del Ministerio del Medio Ambiente: Establece la norma de calidad primaria para material 
+particulado respirable MP2,5. 
+• 
+Resolución Exenta N° 431/2021 de la Superintendencia del Medio Ambiente (SMA): Aprueba la instrucción de 
+carácter específico para la remisión de reportes de datos operacionales y ambientales para rellenos sanitarios. 
+• 
+D.S. N° 594/2000 (y N° 594/1999) del Ministerio de Salud: Reglamento sobre condiciones sanitarias y ambientales 
+básicas en los lugares de trabajo, en lo referido a captación y control de agentes de contaminación ambiental. 
+• 
+D.S. N° 38/2011 (también citado como Decreto N° 38/2021) del Ministerio del Medio Ambiente: Establece la Norma 
+de Emisión de Ruidos Generados por Fuentes que Indica. 
+• 
+D.S. N° 47/1992 del Ministerio de Vivienda y Urbanismo: Ordenanza General de la Ley de Urbanismo y Construcciones 
+(OGUC) en lo relativo a límites y horarios de emisión de ruidos por construcción. 
+• 
+D.S. N° 594/2000 del Ministerio de Salud: Reglamento sobre condiciones sanitarias y ambientales básicas en los 
+lugares de trabajo, regulando los límites de exposición ocupacional a ruidos y vibraciones. 
+• 
+D.S. N° 189/2005 (citado también como N° 189/2008) del Ministerio de Salud: Aprueba el Reglamento sobre 
+Condiciones Sanitarias y de Seguridad Básicas en los Rellenos Sanitarios. 
+• 
+D.F.L. N° 1/1989 del Ministerio de Salud: Determina las materias que requieren de una autorización sanitaria expresa 
+(instalaciones de acumulación, selección o disposición final de basuras). 
+• 
+D.F.L. N° 725/1967 del Ministerio de Salud: Código Sanitario, otorgando competencia para autorizar y vigilar el 
+funcionamiento de los sitios de disposición final. 
+• 
+D.S. N° 594/1999 del Ministerio de Salud: Reglamento sobre condiciones sanitarias y ambientales básicas en los 
+lugares de trabajo, en lo particular a las exigencias para el almacenamiento, transporte y declaración de residuos 
+industriales. 
+• 
+D.S. N° 148/2003 del Ministerio de Salud: Aprueba el Reglamento Sanitario sobre el Manejo de Residuos Peligrosos 
+(RESPEL). 
+• 
+D.F.L. N° 725/1967 del Ministerio de Salud: Código Sanitario, en su Artículo 73 que prohíbe la descarga de aguas 
+servidas y residuos industriales en fuentes o masas de agua sin depuración previa. 
+• 
+D.S. N° 594/1999 del Ministerio de Salud: Reglamento sobre condiciones sanitarias y ambientales básicas en los 
+lugares de trabajo, fijando las condiciones para la conducción, tratamiento e infiltración de aguas servidas domésticas 
+y disposición de lodos. 
+
+===== p.29 =====
+ 
+RESUMEN EJECUTIVO. CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS. 
+29 
+ 
+• 
+Ley N° 17.288/1970 del Ministerio de Educación: Legisla sobre Monumentos Nacionales, estableciendo la obligación 
+de denunciar inmediatamente cualquier hallazgo de carácter arqueológico, antropológico o paleontológico y 
+paralizar obras. 
+• 
+Ley N° 20.283 del Ministerio de Agricultura: Sobre Recuperación del Bosque Nativo y Fomento Forestal, regulando 
+planes de manejo de corta y medidas de protección de biodiversidad, suelos y cursos de agua. 
+• 
+D.L. N° 701/1974 del Ministerio de Agricultura: Fija el régimen legal de los terrenos forestales o preferentemente 
+aptos para la forestación. 
+• 
+Ley N° 19.473/1996 del Ministerio de Agricultura: Sustituye el texto de la Ley N° 4.601, Sobre Caza, regulando la 
+protección de la fauna silvestre. 
+• 
+D.F.L. N° 458/1976 del Ministerio de Vivienda y Urbanismo: Ley General de Urbanismo y Construcciones, regulando 
+las autorizaciones para construcciones industriales y de equipamiento fuera de los límites urbanos (Artículo 55). 
+• 
+D.S. N° 47/1992 del Ministerio de Vivienda y Urbanismo: Fija el texto de la Ordenanza General de la Ley de 
+Urbanismo y Construcciones (OGUC). 
+• 
+D.S. N° 119/2017 (o Reglamento de 2016) de la Superintendencia de Electricidad y Combustibles (SEC): Reglamento 
+de Seguridad de las Plantas de Biogás. 
+• 
+D.S. N° 160/2008 del Ministerio de Economía, Fomento y Reconstrucción (SEC): Reglamento de Seguridad para las 
+Instalaciones y Operaciones de Combustibles Líquidos 
+ 
+10.3 
+PERMISOS AMBIENTALES SECTORIALES 
+Artículo 138: Permiso para la construcción, reparación, modificación y ampliación de cualquier obra pública o particular 
+destinada a la evacuación, tratamiento o disposición final de desagües, aguas servidas de cualquier naturaleza (aplicable 
+a la planta de tratamiento de aguas servidas modular y fosas sépticas) 
+Artículo 139: Permiso para la construcción, reparación, modificación y ampliación de cualquier obra pública o particular 
+destinada a la evacuación, tratamiento o disposición final de residuos industriales o mineros (aplicable a la Planta de 
+Tratamiento de Líquidos Lixiviados y la losa de lavado de camiones) 
+Artículo 140: Permiso para la construcción, reparación, modificación y ampliación de cualquier planta de tratamiento de 
+basuras y desperdicios de cualquier clase o para la instalación de todo lugar destinado a la acumulación, selección, 
+industrialización, comercio o disposición final de basuras y desperdicios de cualquier clase (aplicable a la Planta de 
+Reciclaje y a la Planta de Compostaje) 
+Artículo 141: Permiso para la construcción, reparación, modificación y ampliación de relleno sanitario (aplicable a la celda 
+de disposición final de residuos domésticos y asimilables) 
+Artículo 142: Permiso para los sitios de almacenamiento de residuos peligrosos (aplicable a las dos bodegas modulares de 
+RESPEL) 
+Artículo 146: Permiso para la caza o captura de ejemplares de animales de especies protegidas para fines de investigación, 
+para el establecimiento de centros de reproducción o criaderos y para la utilización sustentable del recurso (aplicable al 
+Plan de Captura y Relocalización de fauna de baja movilidad) 
+Artículo 148: Permiso para corta de bosque nativo (aplicable a la intervención del suelo forestal del predio) 
+Artículo 151: Permiso para la corta, destrucción o descepado de formaciones xerofíticas 
+Artículo 156: El permiso para efectuar modificaciones de cauce (aplicable a obras de atraviesos hidrológicos en quebradas) 
+Artículo 157: El permiso para efectuar obras de regularización o defensa de cauces naturales (aplicable a canales abiertos 
+para la gestión pluvial) 
+Artículo 160: El permiso para subdividir y urbanizar terrenos rurales o para construcciones fuera de los límites urbanos. 
+ 
+11 COMPROMISOS AMBIENTALES VOLUNTARIOS  
+• 
+Compromiso 1: Implementación de Plan de Gestión Comunitaria. 
+• 
+Compromiso 2: Restricción y gestión de luminarias para minimización de contaminación lumínica. 
+• 
+Compromiso 3: Formación ciudadana Aula Tierra Viva. 
+• 
+Compromiso 4: Contratación de Mano de Obra Loca 
+• 
+Compromiso 5: Plan de Perturbación Controlada: (Liolaemus lemniscatus, Philodryas chamissonis, Liolaemus fuscus) 

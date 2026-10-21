@@ -1,0 +1,2814 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE 
+RESIDUOS 
+ 
+ 
+CAPÍTULO 8.  
+PLAN DE PREVENCIÓN DE CONTINGENCIAS Y 
+EMERGENCIAS 
+ 
+ 
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Junio 2026 
+
+===== p.1 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+0 
+ 
+ 
+ 
+ 
+ÍNDICE 
+ 
+ 
+8 
+PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS ..............................3 
+8.1 
+INTRODUCCIÓN ......................................................................................................... 3 
+8.2 
+Objetivo ..................................................................................................................... 3 
+8.2.1 Objetivo General ........................................................................................................ 3 
+8.2.2 Objetivo Especifico ..................................................................................................... 3 
+8.3 
+Alcance ....................................................................................................................... 4 
+8.4 
+glosario ....................................................................................................................... 4 
+8.5 
+responsables y responsabilidades ............................................................................. 5 
+8.6 
+Identificación de Riesgos ........................................................................................... 7 
+8.7 
+Plan de prevención de contingencias ........................................................................ 8 
+8.7.1 Riesgo Sismos ............................................................................................................. 8 
+8.7.2 Riesgo de Inundaciones por precipitaciones extremas .............................................. 9 
+8.7.3 Riesgo de Incendios Forestales .................................................................................. 9 
+8.7.4 Riesgos de incendios en instalaciones ..................................................................... 10 
+8.7.5 Riesgos de incendios en masa de basura ................................................................. 10 
+8.7.6 Riesgos de Accidentes laborales .............................................................................. 11 
+8.7.7 Riesgos por presencia de vectores comunes ............................................................ 13 
+8.7.8 Riesgos de deslizamiento de taludes de tierra o celdas .......................................... 14 
+8.7.9 Riesgos de derrames de sustancias peligrosas en el suelo ...................................... 14 
+8.7.10 Riesgos Colision o volcamiento de camiones y/o maquinaria pesada .................... 15 
+8.7.11 Riesgos Fugas y emisones de biogás ....................................................................... 16 
+8.7.12 Riesgos de falla en el sistema de bombeo de lixiviados .......................................... 17 
+8.7.13 Riesgos de taponamiento de los drenes de recolección de lixiviados. ..................... 17 
+8.7.14 Riesgos de Fuga de lixiviados. .................................................................................. 18 
+8.7.15 Riesgos de infiltración de lixiviado por falla o fisura del sistema de 
+impermeabilización .................................................................................................. 18 
+8.7.16 Riesgos ingreso de fauna silvestre al proyecto ........................................................ 19 
+8.7.17 Riesgos Caída de fauna silvestre a las piscinas ........................................................ 20 
+8.7.18 Imposibilidad de acceso al frente de trabajo ........................................................... 21 
+8.7.19 Generación de olores ............................................................................................... 22 
+8.7.20 Derrame o descarga accidental de fosas sépticas ................................................... 25 
+8.8 
+Plan de Emergencias ................................................................................................ 26 
+8.8.1 Clasificacion de emergencias ................................................................................... 26 
+8.8.2 Organización de emergencia ................................................................................... 26 
+8.8.3 Procedimiento General ante Emergencias .............................................................. 27 
+8.8.4 Procedimiento General ante Emergencias .............................................................. 30 
+8.8.4.1 Oportunidad y vias de comunicación a la superintendencia del medio ambiente .. 30 
+8.8.5 Procedimiento General ante Emergencias .............................................................. 31 
+8.8.6 Simulacro ante situaciones de emergencia. ............................................................ 31 
+8.8.7 Procedimiento Especificos ante situación de emergencia. ..................................... 31 
+
+===== p.2 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+1 
+ 
+ 
+ 
+ 
+8.8.7.1 Sismo ........................................................................................................................ 31 
+8.8.7.2 Lluvia intensas e inundaciones................................................................................. 33 
+8.8.7.3 Incendio en instalaciones ......................................................................................... 33 
+8.8.7.4 Colision o volvamiento de camiones internos .......................................................... 35 
+8.8.7.5 Derrame de sustancias peligrosas en suelo ............................................................. 35 
+8.8.7.6 Deslizamiento de taludes de tierra o celdas ............................................................ 36 
+8.8.7.7 Incendios forestales. ................................................................................................ 37 
+8.8.7.8 Daño en sistema de bombeo de lixiviados. .............................................................. 38 
+8.8.7.9 Taponamiento de drenes de recolección de lixiviados. ........................................... 38 
+8.8.7.10 Fugas de lixiviados ................................................................................................. 39 
+8.8.7.11 Explocion por taponamientos de ductos de sistema de extracción de biogás ...... 41 
+8.8.7.12 Incendios en la masa de basura ............................................................................ 41 
+8.8.7.13 Infiltración de lixiviado por fallas o fisuras del sistema de impermeabilización. .. 43 
+8.8.8 Oportunidad y vías de comunicación a la SMA de activación del plan de 
+emergencia .............................................................................................................. 43 
+8.8.9 Procedimiento Específicos ante situación de emergencia. ..................................... 43 
+8.8.10 Revisión del plan de emergencias. .......................................................................... 44 
+ 
+ 
+Índice de Tablas 
+Tabla 1: Responsabilidades de cada equipo de la organización 
+3 
+Tabla 2: Riegos identificados en las distintas fases del proyecto. 
+5 
+Tabla 3:  Plan de prevención de contingencia – Riesgo Sismos 
+6 
+Tabla 4: Plan de prevención de contingencia – Inundaciones por precipitaciones extremas 
+6 
+Tabla 5: Plan de prevención de contingencia – Riesgo de Incendios Forestales 
+7 
+Tabla 6: Plan de prevención de contingencia – Riesgo de Incendios en Instalaciones 
+7 
+Tabla 7: Plan de prevención de contingencia – Riesgo de Incendios en Masa de Basura. 
+8 
+Tabla 8: Plan de prevención de contingencia – Accidentes laborales 
+9 
+Tabla 9: Plan de prevención de contingencia – Riesgo por presencia de vectores comunes 
+11 
+Tabla 10: Plan de prevención de contingencia – Deslizamiento de taludes de tierra o celdas 
+11 
+Tabla 11: Plan de prevención de contingencia – Riesgo de derrame de sustancias peligrosas en el 
+suelo 
+12 
+Tabla 12: Plan de prevención de contingencia – Colisión o Volcamiento de camiones y/o 
+maquinaria pesada internos 
+13 
+Tabla 13: Plan de prevención de contingencia – Fugas o emisiones de biogás 
+13 
+Tabla 14: Plan de prevención de contingencia – Riesgo de falla en el sistema de bombeo de 
+lixiviados. 
+14 
+Tabla 15: Plan de prevención de contingencia – Riesgo de taponamiento de los drenes de 
+recolección de lixiviados. 
+15 
+Tabla 16:Plan de prevención de contingencia – Riesgo de Fuga de lixiviados 
+15 
+Tabla 17: Plan de prevención de contingencia – Riesgo de infiltración de lixiviado por falla o fisura 
+del sistema de impermeabilización 
+16 
+Tabla 18: Plan de prevención de contingencia – Riesgo ingreso de fauna silvestre al proyecto 
+17 
+Tabla 19: Plan de prevención de contingencia – Riesgo de caída de fauna silvestre a las piscinas 18 
+
+===== p.3 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+2 
+ 
+ 
+ 
+ 
+Tabla 20: Plan de prevención de contingencia – Riesgo Imposibilidad de acceso al frente de 
+trabajo. 
+18 
+Tabla 21: Plan de prevención de contingencia – Generación de olores molestos. 
+19 
+Tabla 22: Plan de prevención de contingencia – Riesgo de derrame o descarga accidental de fosa 
+séptica 
+20 
+Tabla 23: Posibles emergencias identificadas en las distintas fases del proyecto. 
+21 
+Tabla 24: Plan de Emergencia – Sismos. 
+26 
+Tabla 25: Plan de Emergencia – Lluvias Intensas e inundaciones. 
+28 
+Tabla 26: Plan de Emergencia – Incendios en instalaciones. 
+28 
+Tabla 27: Plan de Emergencia – Colisión o volcamiento de camiones internos. 
+30 
+Tabla 28: Plan de Emergencia – Derrame de sustancias peligrosas en suelo 
+31 
+Tabla 29: Plan de Emergencia – Deslizamiento de taludes de tierra o celdas 
+31 
+Tabla 30: Plan de Emergencia – Incendios forestales 
+32 
+Tabla 31: Plan de Emergencia – Daños en el sistema de bombeo de lixiviados 
+33 
+Tabla 32: Plan de Emergencia – Taponamiento de drenes de recolección de lixiviados 
+34 
+Tabla 33: Plan de Emergencia – Fugas de lixiviados 
+35 
+Tabla 34: Plan de Emergencia – Explosión por taponamiento de ductos de sistema de extracción de 
+biogás 
+36 
+Tabla 35: Plan de Emergencia – Incendios en la masa de basura 
+37 
+Tabla 36: Plan de Emergencia – Infiltración de lixiviado por fallas o fisuras del sistema de 
+impermeabilización 
+38 
+ 
+ 
+Índice de figuras 
+ 
+Figura 1: Organización de emergencia 
+27 
+Figura 2: Diagrama de Flujo de procedimiento general de emergencia 
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.4 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+3 
+ 
+ 
+ 
+ 
+ 
+8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+ 
+8.1 INTRODUCCIÓN 
+ 
+Según lo señalado en el literal j) del artículo 18 del Reglamento del Sistema de Evaluación 
+Ambiental D.S. N°40/2012, un Estudio de Impacto Ambiental debe contener un Plan de Prevención 
+de Contingencias y de Emergencias, asociado a las eventuales situaciones de riesgo o contingencia 
+identificadas.  
+ 
+En base al párrafo 2 del Título IV del Reglamento, los artículos 103 y 104 señalan que, el Plan de 
+prevención de contingencias “deberá identificar las situaciones de riesgo o contingencia que puedan 
+afectar el medio ambiente o la población y describir las acciones o medidas a implementar para 
+evitar que éstas se produzcan o minimizar la probabilidad de ocurrencia”. Por otra parte, “el Plan de 
+emergencias deberá describir las acciones a implementar en caso de que se produzca una 
+emergencia. El objetivo de estas medidas es controlar la emergencia y/o minimizar sus efectos sobre 
+el medio ambiente o la población. Asimismo, indicará la oportunidad y vías de comunicación a la 
+Superintendencia de la activación de dicho Plan”. 
+  
+El presente Capítulo expone el Plan de Contingencias y Emergencias, para el Proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos” (en adelante, “el Proyecto”) el cual incorpora:  
+ 
+- Plan para prevenir contingencias. 
+- Plan para enfrentar y cómo actuar en situaciones de emergencia. 
+ 
+8.2 OBJETIVO 
+8.2.1 Objetivo General 
+ 
+El presente documento tiene por objetivo describir el plan de prevención de contingencia y plan de 
+emergencia que se aplicará en el proyecto a modo de establecer las acciones que permitan al 
+personal actuar de forma oportuna como eficaz para evitar que se afecte o interrumpa el normal 
+desarrollo operacional del Proyecto.  
+ 
+Definir, implementar y difundir las actividades que deben desarrollarse para enfrentar casos o 
+situaciones de emergencia, que puedan afectar el medio ambiente, la salud de las personas y/o 
+causar daño a las instalaciones y equipos que se encuentren en el recinto del proyecto. 
+ 
+De la misma forma, las directrices de este documento permitirán que, con su cumplimiento, no se 
+provoque daño en el medio ambiente, en su entorno y de las personas. 
+8.2.2 Objetivo Especifico 
+• Identificar las situaciones de riesgo asociadas al presente Proyecto, en relación con su 
+tipología y lugar de emplazamiento.  
+• Definir las acciones y medidas a implementar para evitar o minimizar las situaciones de 
+contingencias.  
+
+===== p.5 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+4 
+ 
+ 
+ 
+ 
+• Identificar las situaciones de emergencia al presente Proyecto, en relación con su tipología y 
+lugar de emplazamiento.  
+• Definir las acciones y medidas a implementar para controlar o mitigar las situaciones de 
+emergencia sobre el medio ambiente o a la población.  
+ 
+8.3 ALCANCE 
+El presente plan es aplicable ante toda situación de riesgo identificado para el Proyecto, y aplica a 
+todas las personas que se encuentran al interior de sus instalaciones durante la ocurrencia de un 
+evento. 
+ 
+ 
+8.4 GLOSARIO 
+Accidente: Evento no planeado cuya ocurrencia implica riesgo de daño a la salud e integridad de las 
+personas, y/o de perjuicios para las instalaciones y/o el medioambiente (ejemplo: incendio, 
+explosión, intoxicación). Este evento debe ser enfrentado mediante los lineamientos establecidos 
+en el presente Plan de Contingencias. 
+ 
+Brigada: Grupo de trabajadores organizados y debidamente capacitados para realizar acciones 
+previstas en el Plan bajo la dirección de un Jefe de Brigada que reporta al Jefe de Contingencia. 
+ 
+Comando: Conjunto de personas que se deben constituir como equipo de apoyo al jefe de 
+Contingencia, durante la contingencia y que tienen asignadas funciones, responsabilidades y 
+autoridad explícitamente especificadas para la realización de comunicaciones, atención a 
+lesionados, atención a daños ambientales y atención a daños a instalaciones. 
+ 
+Contingencia: Estado de perturbación de algún componente del sistema del proyecto, que pueda 
+poner en peligro la integridad de las personas y/o la estabilidad del relleno, ya sea en forma parcial 
+o total. Este estado de perturbación se considera que comienza desde el instante en el que el 
+elemento perturbador se presenta y se extiende hasta que el sistema recobra su estado de 
+normalidad en la operación. 
+ 
+Emergencia: Se entenderá como emergencia, toda aquella situación que pueda generar personas 
+lesionadas, daños a los bienes y/o al medio ambiente, que requieran de una acción para controlarla. 
+ 
+Evacuación: Abandono masivo de una dependencia o sector, hacia lugares más seguros previamente 
+destinados denominados zona de seguridad.  
+ 
+Incidente: Evento no planeado y poco frecuente que se puede identificar como una desviación de 
+las condiciones normales de operación, suceso cuyas consecuencias constituyen un riesgo aceptable 
+para las personas, instalaciones y medioambiente, conforme a la legislación y normativa vigente. El 
+nivel de este evento es menor que en el caso de accidente y no es causante de una contingencia. 
+ 
+Jefe de Contingencia: Es quien debe asumir la dirección de Plan de Contingencia del proyecto. 
+ 
+
+===== p.6 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+5 
+ 
+ 
+ 
+ 
+Medida de Mitigación: Implementación o aplicación de cualquier política, estrategia, obra o acción, 
+tendiente a eliminar o minimizar los impactos adversos que pueden presentarse producto de una 
+emergencia ambiental. 
+ 
+Plan de emergencia: Conjunto de actividades y procedimientos para controlar situaciones de 
+emergencia, en el menor tiempo posible y recuperar la capacidad operativa de la organización. 
+ 
+Plan de Contingencias: Conjunto de actividades y procedimientos elaborados para controlar una 
+situación de contingencia y recuperar la capacidad operativa del área o sector en contingencia con 
+el menor daño posible a las personas y en el menor tiempo posible. 
+ 
+Riesgo: Es una medida de la probabilidad de que ocurra la situación de peligro. 
+ 
+Riesgos antrópicos: Comprenden todos aquellos eventos naturales excepcionales, tales como 
+sucesos sísmicos o meteorológicos como temporales de lluvias entre otros similares, que puedan 
+generar daño a las personas y causar deterioro total o parcial en las instalaciones del Proyecto. 
+ 
+Riesgos Naturales: se refiere a eventos accidentales cuyo origen o factor desencadenante se 
+relaciona directamente con actividades humanas. Estos riesgos estarán presentes durante todas las 
+fases del Proyecto. 
+ 
+Situación de Peligro: Es una condición física, química o biológica capaz de causar daño a las personas, 
+instalaciones o medioambiente (ejemplo: incendio, explosión, intoxicación).  
+ 
+Vías de Escape: Las vías previstas para la salida más expedita de los recintos debidamente 
+señalizadas. 
+ 
+Zona de seguridad: Es la zona aislada y determinada como libre de peligro en caso de emergencias, 
+en donde deben reunirse todos los trabajadores, de ser evacuados. 
+ 
+8.5 RESPONSABLES Y RESPONSABILIDADES 
+A continuación, se indican y especifican las funciones de cada equipo de la organización. 
+Tabla 1: Responsabilidades de cada equipo de la organización 
+Responsable 
+Obligaciones y Responsabilidades 
+Gerente 
+- Verificar la elaboración e implementación del Plan de Contingencias y 
+Emergencias para el proyecto Centro Metropolitano de Gestión 
+Integral de Residuos 
+- Designar al Jefe de Contingencia. 
+- Supervisar el cumplimiento de las exigencias descritas en el Plan de 
+Contingencias y Emergencias.  
+- Supervisar las actividades desarrolladas por el Jefe de Contingencias.  
+- Revisar y actualizar periódicamente el Plan de Contingencias y 
+Emergencias. 
+
+===== p.7 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+6 
+ 
+ 
+ 
+ 
+Jefe de Planta 
+- Asumir la dirección de la aplicación del presente Plan de 
+Contingencias ante la ocurrencia de cualquier incidente situación de 
+peligro y/o emergencia. 
+- Designar jefes de Contingencia sustitutos, fijando el respectivo orden 
+de precedencia, de forma que, en caso de ausencia del jefe titular, en 
+todo momento exista en funciones un jefe. 
+- Encargado de activar el Plan de contingencia y emergencia y dirigir su 
+ejecución.  
+- Diseñar y coordinar la ejecución de los programas de capacitación a 
+todo el personal que trabaje en el Proyecto. 
+- Debe asegurarse de que el encargado de extinción, los brigadistas y 
+socorristas conozcan el plan de contingencias y sus respectivas 
+funciones y responsabilidades. 
+Encargado 
+en 
+prevención de riesgos 
+y Medio Ambiente 
+- Elaborar y asegurar la implementación de un Plan de Contingencias 
+para el proyecto. 
+- Mantener actualizado el Plan de Contingencias. 
+- Capacitar a todos los involucrados acerca de los conocimientos 
+necesarios de lo establecido en el Plan de Contingencias y los 
+documentos relacionados a este. 
+- Verificar su funcionamiento. 
+Coordinador 
+de 
+la 
+Emergencia 
+Es el responsable de liderar el control de la Emergencia, deberá: 
+- Convocar al Comando de Emergencia cuando lo amerite,  
+- Establecer la estrategia de control y de comunicación. 
+Coordinador 
+de 
+Comunicaciones 
+Es el responsable de entregar información a las autoridades y 
+comunidad en general. 
+Brigadistas 
+- Cumplir cabalmente con las instrucciones descritas en este 
+documento.  
+- Desarrollar y dirigir las actividades específicas definidas en el Plan de 
+Contingencias y en sus documentos asociados. 
+- Estarán a cargo de dirigir todas las actividades durante la situación de 
+emergencia. 
+- Deben encargarse de señalizar y mantener siempre despejadas las 
+vías de evacuación en caso de emergencia. 
+- Dirigir de manera ordenada y adecuada la evacuación en caso de 
+emergencia. 
+- Mantener siempre el control sobre el personal, con la finalidad de 
+evitar tumultos y/o situaciones de pánico. 
+Socorristas 
+- Cumplir cabalmente con las instrucciones descritas en este 
+documento.  
+- Desarrollar y dirigir las actividades específicas definidas en el Plan de 
+Contingencias y en sus documentos asociados. 
+- Analizar las consecuencias de una emergencia y clasificar al personal 
+de acuerdo con la gravedad de sus lesiones a fin de brindar una mejor 
+atención. 
+
+===== p.8 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+7 
+ 
+ 
+ 
+ 
+- Optimizar las condiciones actuales y preparar al personal considerado 
+de urgencia para su pronta evacuación hacia un centro de atención 
+especializado. 
+- Tener botiquines equipados de medicamentos de uso en caso de 
+emergencia y llevar un adecuado control para su suministro. 
+Contratista 
+- Conocer y cumplir con el “Plan de Contingencia y Emergencias” 
+Visitas 
+- Cumplir con las instrucciones del trabajador del Proyecto responsable 
+de su persona y todas las medidas de seguridad que apliquen a éste 
+ 
+ 
+8.6 IDENTIFICACIÓN DE RIESGOS 
+De acuerdo con la tipología del Proyecto y las características de su área de emplazamiento, los 
+riesgos identificados para sus diferentes fases, según su origen antrópicos o naturales, se indican a 
+continuación; 
+ 
+Tabla 2: Riegos identificados en las distintas fases del proyecto. 
+Riesgo 
+Fase 
+C
+o
+n
+s
+t
+r
+u
+c
+c
+i
+ó
+n 
+O
+p
+e
+r
+a
+c
+i
+ó
+n 
+ 
+C
+i
+e
+r
+r
+e 
+Natural 
+Sismo 
+X 
+X 
+X 
+Inundación por precipitaciones extremas 
+X 
+X 
+X 
+Incendios forestales 
+X 
+X 
+X 
+Antrópico 
+Incendios en instalaciones 
+X 
+X 
+ 
+Incendios en masa de basura 
+ 
+X 
+ 
+Inestabilidad y/o deslizamiento de taludes de tierra o celdas 
+X 
+X 
+ 
+Accidentes laborales 
+X 
+X 
+X 
+Presencia de vectores comunes 
+ 
+X 
+X 
+Deslizamiento de taludes de tierra o celdas 
+X 
+X 
+X 
+Derrame de sustancias peligrosas en el suelo 
+X 
+X 
+X 
+Colisión o volcamientos de camiones y/o maquinaria pesada 
+X 
+X 
+X 
+Fugas y emisiones de biogás 
+ 
+X 
+X 
+Fallas en el sistema de bombeo de lixiviado 
+ 
+X 
+X 
+Taponamiento de los drenes de recolección de lixiviados 
+ 
+X 
+X 
+Fugas de lixiviados. 
+ 
+X 
+X 
+
+===== p.9 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+8 
+ 
+ 
+ 
+ 
+Infiltración de lixiviado por falla o fisura en sistema de 
+impermeabilización 
+ 
+X 
+X 
+Ingreso fauna silvestre al proyecto 
+ 
+X 
+X 
+Caída de fauna silvestre a las piscinas  
+ 
+X 
+X 
+Imposibilidad de acceso al frente de trabajo 
+ 
+X 
+ 
+Generación de olores molestos 
+ 
+X 
+X 
+Derrame o descargas accidentales de fosas sépticas  
+ 
+X 
+X 
+ 
+8.7 PLAN DE PREVENCIÓN DE CONTINGENCIAS  
+Ya identificados los eventuales riesgos relacionados al Proyecto, se indica a continuación las 
+medidas generales de prevención y control de éstos.  
+El Titular elaborará planes y programas de prevención de riesgos que cuenten a lo menos con las 
+siguientes medidas generales aplicables para todas las fases del Proyecto. Además, estas medidas 
+se aplicarán para todo el personal involucrado incluyendo contratistas. 
+ 
+8.7.1 
+RIESGO SISMOS 
+ 
+Tabla 3:  Plan de prevención de contingencia – Riesgo Sismos 
+Riesgo o Contingencia   
+Sismo, movimiento telúrico 
+Fase del proyecto a la que aplica   
+Todas sus fases 
+Emplazamiento, parte, obra o acción 
+asociada  
+Todas las obras del proyecto 
+Acciones o medidas a 
+implementar 
+para prevenir la contingencia  
+a) Las instalaciones del Proyecto se diseñarán según las normas y/o 
+estándares nacionales e internacionales para la resistencia sísmica, 
+por lo que será construido con la capacidad de resistir sismos de 
+magnitudes esperables para la Región de Valparaíso.  
+b) Se dispondrá de una estrategia de evacuación en caso de sismos, la 
+cual será difundida a todo el personal.   
+c) Contar con zonas de seguridad y puntos de encuentro seguro para 
+sus trabajadores y tener un plan de acción ante la emergencia.   
+d) Se realizarán simulacros para todo el personal que desarrolle sus 
+actividades dentro del proyecto, con el fin de estar preparados en 
+caso de un eventual sismo o terremoto.  
+e) En caso de ocurrir un siniestro de gran escala se activará 
+inmediatamente el Plan de Emergencias.  
+f) En caso de ocurrir un siniestro de gran escala, se verificará 
+posteriormente los daños causados en las instalaciones. 
+Formas de control y seguimiento  
+El plan de emergencia será revisado y probado a través de un simulacro 
+semestral. El experto en prevención de riesgos en conjunto con la 
+Jefatura del área, programarán los simulacros. La jefatura del área es 
+responsable de la organización de los simulacros. Los que serán 
+informados en el formulario de Informe de Simulacro. Para cada 
+simulacro, la jefatura del área nombrará un observador, quien es 
+responsable de evaluar si dicho simulacro se realiza de acuerdo con lo 
+establecido en el plan correspondiente.  
+ 
+
+===== p.10 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+9 
+ 
+ 
+ 
+ 
+8.7.2 
+RIESGO DE INUNDACIONES POR PRECIPITACIONES EXTREMAS 
+ 
+Tabla 4: Plan de prevención de contingencia – Inundaciones por precipitaciones 
+extremas 
+Riesgo o Contingencia   
+Evento climático adverso, que implique una gran generación de aguas 
+lluvias, que de alguna forma implique una acción urgente. 
+Fase del proyecto a la que aplica   
+Todas sus fases 
+Emplazamiento, parte, obra o acción 
+asociada  
+Todas las obras del proyecto y áreas de influencia. 
+Acciones  o  medidas  a 
+implementar para prevenir la 
+contingencia  
+Acciones:  
+a) Emplazamiento de instalaciones fuera de las áreas expuestas a 
+inundaciones.   
+b) Mantener las rutas y caminos de acceso con las pendientes que 
+permitan el escurrimiento de las aguas. Además, deben contar con 
+su carpeta de rodado en buen estado.   
+c) Construcción de canales de aguas lluvias.  
+Formas de control y seguimiento  
+a) Se realizarán inspecciones semanales de canales de aguas lluvias 
+por el personal de operación.  
+b) Se realizará al menos una vez al año un Simulacro en caso de que 
+ocurra un evento de este tipo.  
+ 
+8.7.3 
+RIESGO DE INCENDIOS FORESTALES   
+ 
+Tabla 5: Plan de prevención de contingencia – Riesgo de Incendios Forestales   
+ Riesgo o Contingencia   
+Incendio que afecta las inmediaciones al predio de proyecto, que 
+por efectos de variables atmosféricas puede afectar o afecta las 
+instalaciones operativas. 
+Fase del proyecto a la que aplica 
+Fase de construcción, operación y cierre 
+Emplazamiento, parte, obra o acción 
+asociada 
+Zonas cubiertas de vegetación, ubicadas principalmente en los 
+alrededores del área de emplazamiento del Proyecto. 
+Acciones o medidas a implementar 
+para prevenir la contingencia    
+a) Se habilitarán zanjas como cortafuegos en el perímetro de las 
+instalaciones.  
+b) Construcción de un cierre perimetral de las áreas del proyecto  
+c) Inspecciones periódicas del cierre perimetral y cortafuegos. 
+d)  Instalación de señalética preventiva. 
+e) Se dispondrá de extintores en un área señalizada y accesible.  
+f) 
+Se capacitará al personal sobre el control de los incendios y el 
+uso de extintores, lo cual será puesto en práctica en los 
+simulacros a realizar.   
+Forma de control y seguimiento  
+a) Registro de todas las capacitaciones y simulacros realizados. 
+b) Registro de las inspecciones realizadas.  
+c) Extintores en correctas condiciones.  
+d) Señaléticas en correctas condiciones. 
+ 
+
+===== p.11 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+10 
+ 
+ 
+ 
+ 
+8.7.4 
+RIESGOS DE INCENDIOS EN INSTALACIONES 
+ 
+Tabla 6: Plan de prevención de contingencia – Riesgo de Incendios en Instalaciones   
+Riesgo o Contingencia   
+Riesgo de Incendios en Instalaciones   
+Fase del proyecto a la que aplica 
+Fase de construcción, operación y cierre 
+Emplazamiento, parte, obra o acción 
+asociada 
+Oficinas, bodegas y dependencias. 
+Acciones o medidas a implementar 
+para prevenir la contingencia    
+a) Se prohibirá fumar en las áreas. 
+b) Las labores de soldadura se realizarán a una distancia 
+prudente de los elementos inflamables, en junto con la 
+utilización de mantas ignifugas para prevenir la proyección de 
+partículas incandescentes. 
+c) Disposición en las instalaciones del proyecto los elementos de 
+extinción de incendios adecuados (extintores, etc.), realizando 
+las mantenciones periódicas, según se establece en la 
+normativa vigente.  
+d) Se realizarán capacitaciones a trabajadores en el correcto uso 
+de los elementos de protección y combate contra incendios.  
+e) Identificación 
+y 
+señalización 
+de 
+zonas 
+donde 
+esté 
+expresamente prohibido cualquier actividad que pueda 
+generar chispas, tales como encender fuego, fumar, portar o 
+mantener elementos que puedan ocasionar chispas, entre 
+otros.  
+f) 
+Los materiales inflamables serán almacenados en espacios 
+especialmente habilitados, cumpliendo la normativa vigente  
+g) Control de los productos combustibles, manteniendo el orden 
+y limpieza en el almacenamiento y disponiendo sólo del stock 
+necesario. 
+Forma de control y seguimiento  
+a) Registro de todas las capacitaciones y simulacros realizados. 
+b) Registro de las inspecciones realizadas.  
+c) Extintores en correctas condiciones.  
+d) Señaléticas en correctas condiciones. 
+ 
+ 
+ 
+8.7.5 
+RIESGOS DE INCENDIOS EN MASA DE BASURA 
+ 
+Tabla 7: Plan de prevención de contingencia – Riesgo de Incendios en Masa de Basura. 
+ Riesgo o Contingencia   
+Incendio de la masa de basura en los frentes de trabajo. 
+Fase del proyecto a la que aplica 
+Fase de Operación. 
+Emplazamiento, parte, obra o acción 
+asociada 
+Celdas de Relleno sanitario. 
+
+===== p.12 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+11 
+ 
+ 
+ 
+ 
+Acciones o medidas a implementar 
+para prevenir la contingencia    
+a) Se mantendrá un control de los residuos recepcionados. 
+b) Los residuos depositados en el relleno serán cubiertos 
+adecuadamente de manera permanente. 
+c) Se dispondrá de material de cobertura suficiente cerca de los 
+frentes de trabajo. 
+d) Se dispondrá de extintores en un área señalizada y accesible.  
+e) Se capacitará al personal sobre el control de los incendios y el 
+uso de extintores, lo cual será puesto en práctica en los 
+simulacros a realizar. 
+Forma de control y seguimiento  
+a) Registro de todas las capacitaciones y simulacros realizados.  
+b) Registro del control de residuos recepcionados.  
+c) Extintores en correctas condiciones. 
+ 
+ 
+8.7.6 
+RIESGOS DE ACCIDENTES LABORALES 
+ 
+Tabla 8: Plan de prevención de contingencia – Accidentes laborales 
+Riesgo o Contingencia   
+Posibilidad de que un trabajador sufra una enfermedad o accidente 
+laboral. 
+Fase del proyecto a la que aplica   
+Todas sus fases. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Todas las obras del proyecto y áreas de influencia 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+Debido a las diversas naturalezas de que pueden originar esta 
+contingencia, se describen las acciones que se deben realizar según la 
+naturaleza del riesgo que los origina: 
+ 1.‐ Riesgo de caída del trabajador por distinto y mismo nivel.  
+a) Utilizar calzado de seguridad para el tipo de trabajo o actividad a 
+realizar. Además, se deberá usar guantes en todo momento de una 
+actividad.  
+b) Mantener las vías de paso señalizadas, despejadas, limpias y 
+demarcadas. 
+c) Si las zonas de paso o el suelo se encuentran de forma no adecuada, 
+se avisará de inmediato al responsable de prevención de riesgos. 
+d) En el caso de caídas desde distinto nivel, todo trabajador que trabaje 
+sobre 1,80 metros de altura llevará su arnés de trabajo en altura y 
+dos colas de vida, los cuales tienen que ser debidamente revisado y 
+autorizado para su uso.  
+2.‐ Riesgo por contacto eléctrico.   
+a) Todo objeto o herramienta de carácter eléctrico que se utilice 
+deberá 
+estar 
+certificada 
+y 
+en 
+óptimas 
+condiciones 
+de 
+funcionamiento.  
+b) Todos los trabajos con herramientas eléctricas se deberán usar los 
+EPP requeridos, como guantes para riesgo eléctrico, lentes 
+protectores, entre otros.   
+c) Las actividades solo se realizarán por personal capacitado y 
+autorizado en temas eléctricos. Además, se realizará capacitaciones 
+
+===== p.13 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+12 
+ 
+ 
+ 
+ 
+en manejo de herramientas eléctricas.  Uso de señalética 
+correspondiente. Según Norma Chilena 1411.   
+d) Se elaborará un procedimiento específico para los trabajos con 
+energía eléctrica, el cual será difundido a todo trabajador que realice 
+actividades de este tipo.  
+3.‐ Riesgo de interacción hombre‐máquina.   
+a) Se mantendrán debidamente señalizados y segregados con barreras 
+duras (pretil, new jersey de cemento, entre otros), los caminos 
+internos para vehículos y los para peatones.   
+b) Cada vez que un operador o chofer descienda de su máquina, deberá 
+primeramente detener y apagar su vehículo antes de salir de él.  Se 
+deberá mantener una distancia adecuada entre un trabajador y una 
+máquina en movimiento y/o operación.   
+4.‐ Riesgo por caída de árboles (Fase de construcción).   
+a) El personal que realice la tala de árboles será personal con 
+experiencia y autorizado.  Utilizar herramientas que dirijan la caída 
+como cuñas, entre otros.   
+b) Realizar un corte correcto para dirigir la caída del árbol.  Se respetará 
+la distancia de seguridad por la caída del árbol, doble de su altura 
+aprox.   
+c) Avistar si hay personas cerca de la zona de caída del árbol y dar aviso. 
+d) Si hay fuertes vientos, se deberá suspender la actividad.   
+  
+5.‐ Atrapamiento por y entre objetos, Cortes por objetos y/o 
+herramientas.   
+a) Uso de sus EPP adecuados para las actividades a ejecutar, como, 
+casco de seguridad, zapatos de seguridad, lentes de protección, 
+guantes de protección, o cualquier otra EPP para alguna actividad 
+más específica.   
+b) Para intervenir en un equipo con partes móviles o en su proximidad, 
+siempre que sea posible, se deberá desconectar y/o inactivar el 
+equipo.  
+c) Realizar un correcto uso de la herramienta que se ocupará para la 
+actividad, realizar lectura previa de instructivos.   
+  
+6.‐ Exposición a ruido, polvo, vibración y radiaciones UV (radiación solar). 
+a) Capacitaciones a los trabajadores sobre estos temas, para garantizar 
+que se tome conciencia de los riesgos que produce la exposición a 
+dichos factores.  
+b) Uso de todos sus Elementos de Protección Personal (EPP), como 
+caso de seguridad, guantes de seguridad, lentes con protección UV, 
+bloqueador solar, protectores auditivos, y en el caso de un trabajo 
+con exposición a polvo intenso, será obligatorio el uso de mascarillas 
+de protección respiratoria.  
+c) Uso de letreros informativos y de seguridad en terreno. 
+
+===== p.14 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+13 
+ 
+ 
+ 
+ 
+Formas de control y seguimiento  
+Se contempla elaborar planes y programas de prevención de riesgos que 
+cuenten a lo menos con las siguientes medidas generales aplicables para 
+todas las fases del Proyecto. Además, estas medidas de control y 
+seguimiento aplicarán para todo el personal involucrado incluyendo 
+contratistas y subcontratistas.   
+a) Identificación de peligros y evaluación de los riesgos asociados a la 
+actividad a ejecutar.   
+b) Cumplimiento de la normativa vigente.   
+c) Reglamento interno de seguridad e Higiene.   
+d) Desarrollo de instructivos y/o procedimientos de trabajos.  
+e) Inspecciones preventivas   
+f) Inspecciones de comportamiento del trabajador   
+g) Investigación de incidentes   
+h) Capacitación sobre los Elementos de Protección Personal (EPP).  
+ 
+8.7.7 
+RIESGOS POR PRESENCIA DE VECTORES COMUNES 
+ 
+Tabla 9: Plan de prevención de contingencia – Riesgo por presencia de vectores comunes  
+Riesgo o Contingencia   
+Riesgo de transmisión de enfermedades infecciosas debido a la presencia 
+de insectos y animales portadores.  
+Fase del proyecto a la que aplica   
+Fase de Operación y Cierre  
+Emplazamiento, parte, obra o acción 
+asociada  
+Todas las instalaciones del proyecto 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Se realizará una limpieza periódica de las ruedas de camiones y 
+contenedores, así como también de los caminos de acceso, 
+retirando los residuos que eventualmente pudieran ser derramados 
+por los vehículos.   
+b) Se realizará limpieza y aseo diario en las instalaciones por un 
+personal de aseo capacitado. 
+c) Se realizará desratización frecuentemente en el recinto, lo cual será 
+realizado y supervisado por una empresa especializada y autorizada 
+en la materia.   
+d) Para evitar la potencial afección sanitaria de personas, se realizará 
+un estricto control del ingreso de personas no autorizadas a la 
+planta. Este control se hará mediante puestos de vigilancia que 
+impedirán el ingreso de recuperadores de especies para su 
+posterior comercialización. Esta medida se complementará con la 
+construcción del cierre perimetral, lo cual evitará el ingreso de 
+personal ajeno a la obra.   
+e) Mantener aislado sanitariamente el recinto mediante la formación 
+de un cordón sanitario que impida la infestación de la planta por 
+roedores y el paso de especies animales desde y hacia el recinto.   
+Formas de control y seguimiento  
+a) Bitácora de desratización y control de vectores, con informes 
+emitidos por la empresa autorizada, incluyendo fecha de aplicación, 
+productos utilizados y resultados observados. 
+b) Realizar limpieza diaria de áreas operativas e instalaciones. 
+c) Mantener contenedores y receptáculos cerrados y en buen estado, 
+para evitar la proliferación de vectores. 
+
+===== p.15 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+14 
+ 
+ 
+ 
+ 
+d) inspección periódica del estado del cierre perimetral y del 
+cumplimiento del cordón sanitario. 
+e) Monitoreo visual diario de presencia de vectores (roedores, moscas, 
+mosquitos) por parte del personal de aseo y operación, con reporte 
+inmediato a encargados ambientales ante cualquier hallazgo. 
+f) 
+Capacitaciones registradas a personal sobre buenas prácticas de 
+manejo sanitario, con lista de asistencia, contenido impartido y 
+frecuencia de realización. 
+ 
+8.7.8 
+RIESGOS DE DESLIZAMIENTO DE TALUDES DE TIERRA O CELDAS 
+ 
+Tabla 10: Plan de prevención de contingencia – Deslizamiento de taludes de tierra o 
+celdas 
+Riesgo o Contingencia   
+Riesgo de deslizamiento incontrolado de muros, celdas y taludes de 
+tierra 
+Fase del proyecto a la que aplica   
+Todas las fases del proyecto 
+Emplazamiento, parte, obra o acción 
+asociada  
+Caminos de acceso, zonas de acopio, relleno sanitario y sus sectores 
+aledaños.  
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Se realizarán periódicamente supervisiones y monitoreos a las 
+paredes del relleno, con el fin de mantener una buena estabilidad 
+y no provocar desmoronamientos.   
+b) Mantener un control topográfico de la masa de residuos que 
+permitan contar y definir las zonas con riesgo de deslizamiento.   
+c) Instalar hitos topográficos en la masa de residuos en sectores de 
+cotas definitivas, los cuales deberán ser controlados 
+mensualmente para verificar los movimientos de la masa de 
+residuos.   
+Formas de control y seguimiento  
+a) Registro de inspecciones al relleno sanitario, en cuanto al estado de 
+su compactación, aparición de fisuras o posibles deslizamientos. 
+b) Registro de las mantenciones realizadas a las cunetas de cobertura. 
+c) Registro de capacitaciones realizadas al personal. 
+ 
+ 
+ 
+ 
+8.7.9 
+RIESGOS DE DERRAMES DE SUSTANCIAS PELIGROSAS EN EL SUELO 
+ 
+Tabla 11: Plan de prevención de contingencia – Riesgo de derrame de sustancias 
+peligrosas en el suelo 
+Riesgo o Contingencia   
+Riesgo por derrame de sustancias peligrosas como aceites, combustibles, 
+residuos peligrosos, etc. 
+Fase del proyecto a la que aplica   
+Todas las fases del proyecto 
+Emplazamiento, parte, obra o acción 
+asociada  
+Área de almacenamiento de combustible, caminos internos, relleno 
+sanitario, almacenamiento de residuos peligrosos. 
+
+===== p.16 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+15 
+ 
+ 
+ 
+ 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Se capacitará a todos los trabajadores respecto a las medidas del 
+Plan y en especial a los conductores y manipuladores de sustancias 
+peligrosas, sobre las medidas asociadas a los derrames de aceites 
+y/o combustibles.  
+b) El personal que manipule sustancias peligrosas será provisto de los 
+EPP necesarios para realizar dicha labor.  
+c) Las áreas de almacenamiento de sustancias peligrosas y bodega de 
+residuos peligrosos contarán con un sistema de contención de 
+derrames y serán inspeccionadas periódicamente. Además, se 
+contará con un kit antiderrames.  
+d) Todos los conductores de la Planta contarán con su licencia de 
+conducir respectiva y vigente.  
+e) Todos los camiones serán sometidos a las respectivas 
+mantenciones preventivas y correctivas.  
+f) 
+Todos los camiones contarán con sus revisiones técnicas al día. 
+Formas de control y seguimiento  
+a) Registro de capacitaciones realizadas al personal. 
+b) Registro de la entrega de EPP.  
+c) Registro de inspecciones de las áreas de almacenamiento de 
+sustancias peligrosas y bodega de residuos peligrosos.  
+d) Registro de licencias de conducir de conductores de la Planta.  
+e) Registro de mantenciones y revisiones técnicas de camiones. 
+ 
+8.7.10 RIESGOS COLISION O VOLCAMIENTO DE CAMIONES Y/O MAQUINARIA PESADA 
+  
+Tabla 12: Plan de prevención de contingencia – Colisión o Volcamiento de camiones y/o 
+maquinaria pesada internos  
+Riesgo o Contingencia   
+Riesgo de Choques y/o volcamiento de camiones y maquinaria pesada 
+dentro del recinto del proyecto. 
+Fase del proyecto a la que aplica   
+Fase de construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Relleno Sanitario y caminos internos. 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Todos los conductores deberán acreditar su calificación, mediante 
+la presentación de su licencia de conducir adecuada para la clase del 
+vehículo a utilizar y vigente. 
+b) Todos los camiones y maquinarias contarán con sus mantenciones 
+preventivas y revisiones técnicas al día 
+c) La carga de los camiones debe estar asegurada y revisada previa a 
+la circulación dentro del recinto del relleno sanitario. 
+d) Se capacitará al personal respecto a las medidas del plan de 
+contingencia y emergencia, en especial al personal que entre a las 
+celdas sobre las medidas asociadas al riesgo Colisión y/o 
+volcamiento de vehículo para dar rápida asistencia.  
+e) Se exigirá el cumplimiento de la velocidad máxima de tránsito 
+permitida al interior del proyecto de 30 km/h y se encontrará 
+debidamente señalizada en las vías de tránsito interiores. 
+f) 
+Se establecerá procedimiento asociados al transporte de residuos, 
+donde se identificarán los riesgos y peligros asociados a esta labor 
+con el fin de ejecutarlos de manera apropiada. 
+
+===== p.17 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+16 
+ 
+ 
+ 
+ 
+Formas de control y seguimiento  
+a) Registro del personal capacitado. 
+b) Registro de licencia de conducir de los conductores al día. 
+c) Registro de mantención y revisiones técnicas al día de los vehículos 
+y maquinarias utilizadas. 
+d) Registro de instalación de señaléticas de velocidad máxima 
+permitida. 
+e) Registro de elaboración de procedimientos. 
+ 
+8.7.11 RIESGOS FUGAS Y EMISONES DE BIOGÁS 
+ 
+Tabla 13: Plan de prevención de contingencia – Fugas o emisiones de biogás  
+Riesgo o Contingencia   
+Escape de biogás desde el interior de las líneas de transporte o de las 
+celdas de relleno sanitario. 
+Fase del proyecto a la que aplica   
+Fase de operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Celdas de relleno sanitario, sistema de captación y conducción de biogás. 
+Chimenea de biogás. 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Se establecerá un protocolo de mantención y operación del sistema 
+de captación y conducción del biogás.  
+b) Realización de inspecciones periódicas al sistema de captación y 
+conducción de biogás, verificando el estado estructural de ductos, 
+pozos y válvulas. 
+c) Monitoreo continuo de presión y caudal en los pozos de captación, 
+con registro digital y análisis de desviaciones respecto a parámetros 
+normales.  
+d) Uso de equipos de detección de gases (metano, dióxido de carbono 
+y otros) para identificar y localizar emisiones no deseadas. 
+e) Se capacitará al personal respecto a las medidas del Plan, y en 
+especial al personal que corresponda, sobre las inspecciones 
+periódicas de control y mantención del Sistema de Recolección y 
+Manejo de Lixiviado y Sistema de captación y conducción de Biogás.  
+f) 
+La instalación del sistema de captación de biogás será posterior al 
+coronamiento de cada celda respectiva. Este protocolo, permitirá 
+construir pozos de biogás amplios, estables y de calidad. 
+g) El material de cobertura se verificará en su colocación y 
+compactación de modo tal de evitar fugas a través del material.  
+h) Se realizará una inspección periódica de la cubierta de protección 
+residuos sólidos domiciliarios y asimilables, la cual incluye la 
+evaluación de la consolidación superficial del terreno, el 
+deslizamiento del suelo y la erosión de la superficie, con la finalidad 
+de evitar fugas de biogás, así como también los pozos y ductos de 
+extracción de biogás. 
+Formas de control y seguimiento  
+a) Ejecución de mantenciones preventivas programadas a los 
+componentes del sistema (válvulas, ductos, colectores, antorchas). 
+b) Uso de equipos de detección de gases (metano, dióxido de carbono 
+y otros) para identificar y localizar emisiones no deseadas. 
+c) Capacitación anual del personal responsable de la operación y 
+mantenimiento del sistema, con énfasis en detección temprana y 
+respuesta ante contingencias. 
+
+===== p.18 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+17 
+ 
+ 
+ 
+ 
+d) Registro de alertas o eventos anómalos detectados en el sistema de 
+biogás, con trazabilidad de las acciones correctivas aplicadas. 
+e) Planilla de mantención preventiva del sistema de captación y 
+conducción de biogás. 
+ 
+8.7.12 RIESGOS DE FALLA EN EL SISTEMA DE BOMBEO DE LIXIVIADOS 
+ 
+Tabla 14: Plan de prevención de contingencia – Riesgo de falla en el sistema de bombeo 
+de lixiviados.  
+Riesgo o Contingencia   
+Daño y/o falla en el sistema de bombeo por falta de energía, daño en 
+bombas de impulsión y/o rotura de cañerías.  
+Fase del proyecto a la que aplica   
+Fase de operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Planta de tratamiento de lixiviado, sistema de recolección y manejo de 
+lixiviados  
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Se revisará periódicamente el estado del funcionamiento del 
+sistema de bombeo.  
+b) Se realizarán las mantenciones respectivas tanto al sistema de 
+bombeo como al Sistema de Recolección y Manejo de Lixiviados 
+completo.  
+c) Se realizará el cambio de las bombas que hayan cumplido con la vida 
+útil establecida por el fabricante.  
+d) Se capacitará al personal respecto a las medidas del Plan, y en 
+especial al personal que corresponda, sobre las inspecciones 
+periódicas de control del estado de la bomba de extracción de 
+lixiviados y su mantención. 
+Formas de control y seguimiento  
+a) Registro de las inspecciones realizadas al Sistema de Recolección y 
+Manejo de Lixiviados.  
+b) Registro de las mantenciones y cambios realizados al sistema de 
+bombeo.  
+c) Registro de capacitaciones realizadas al personal. 
+ 
+8.7.13 RIESGOS DE TAPONAMIENTO DE LOS DRENES DE RECOLECCIÓN DE LIXIVIADOS. 
+ 
+Tabla 15: Plan de prevención de contingencia – Riesgo de taponamiento de los drenes 
+de recolección de lixiviados. 
+Riesgo o Contingencia   
+Obstrucción de los drenes de recolección de lixiviado   
+Fase del proyecto a la que aplica   
+Fase de operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Sistema de recolección de lixiviados.  
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Instalación de piezómetros en el área del relleno sanitario, cuyos 
+informes de medición serán revisados permanentemente.  
+b) Los drenes serán construidos en las celdas intermedias del relleno 
+sanitario.  
+
+===== p.19 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+18 
+ 
+ 
+ 
+ 
+c) Se realizarán las respectivas mantenciones periódicas tanto a 
+cunetas como al Sistema de Recolección y Manejo de Lixiviados 
+completo.  
+d) Inspecciones a los drenes de lixiviados cuando fuera posible su 
+inspección física.  
+e) Se capacitará al personal respecto a las medidas del Plan, y en 
+especial al personal que corresponda, sobre la interpretación de los 
+niveles de presión que se registren por los piezómetros y sobre las 
+inspecciones periódicas de control y mantención del Sistema de 
+Recolección y Manejo de Lixiviado. 
+Formas de control y seguimiento  
+a) Informes de lectura de piezómetros.  
+b) Registro de las inspecciones y mantenciones realizadas al Sistema de 
+Recolección y Manejo de Lixiviados. 
+c) Registro de las inspecciones a los drenes de lixiviados.  
+d) Registro de capacitaciones realizadas al personal. 
+ 
+8.7.14 RIESGOS DE FUGA DE LIXIVIADOS. 
+ 
+Tabla 16:Plan de prevención de contingencia – Riesgo de Fuga de lixiviados 
+Riesgo o Contingencia   
+Obstrucción de los drenes de recolección de lixiviado   
+Fase del proyecto a la que aplica   
+Fase de operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Celdas de Relleno sanitario, Sistema de recolección de lixiviados y 
+manejo de lixiviados. 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Las bermas perimetrales del Sistema estarán revestidas de 
+hormigón o geomembrana.  
+b) El Sistema estará provisto de drenes de lixiviados en las celdas 
+intermedias y además de drenes de pie de talud. 
+c) Se llevarán a cabo actividades de limpieza y mantenimiento de las 
+cunetas y drenes perimetrales, así como también se realizarán las 
+inspecciones y mantenciones respectivas del sistema de bombeo.  
+d) Se capacitará al personal respecto a las medidas del Plan, y en 
+especial al personal que corresponda, sobre las inspecciones 
+periódicas de control y mantención del Sistema de Recolección y 
+Manejo de Lixiviado. 
+Formas de control y seguimiento  
+a) Registro de las inspecciones y mantenciones realizadas al Sistema de 
+Recolección y Manejo de Lixiviados.  
+b) Registro de capacitaciones realizadas al personal. 
+ 
+8.7.15 RIESGOS DE INFILTRACIÓN DE LIXIVIADO POR FALLA O FISURA DEL SISTEMA DE IMPERMEABILIZACIÓN 
+ 
+Tabla 17: Plan de prevención de contingencia – Riesgo de infiltración del lixiviado por 
+falla o fisura del sistema de impermeabilización 
+Riesgo o Contingencia   
+Mal funcionamiento del sistema de impermeabilización de las celdas y/o 
+las piscinas de lixiviado   
+Fase del proyecto a la que aplica   
+Fase de operación. 
+
+===== p.20 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+19 
+ 
+ 
+ 
+ 
+Emplazamiento, parte, obra o acción 
+asociada  
+Celdas de Relleno sanitario, Sistema de recolección de lixiviados y 
+manejo de lixiviados, piscinas de lixiviado, bandejas de evaporación. 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Durante la construcción del sistema de impermeabilización se 
+implementará un Plan de Aseguramiento y Control de Calidad 
+estricto, de manera de asegurar la estanqueidad del sistema de 
+impermeabilización a implementar, no admitiéndose posibilidades 
+de falla en las uniones ni en las superficies de emplazamiento de las 
+diferentes capas de impermeabilización. 
+b) El plan será realizado para toda la instalación del sistema de 
+impermeabilización de geosintéticos basal, el sistema de 
+impermeabilización de geosintéticos de taludes, el sistema de 
+recolección y extracción de lixiviados, la instalación de la carpeta de 
+tránsito o grava, el cual consiste en un sistema planificado de 
+inspecciones y procedimientos que permiten controlar y 
+monitorear en todo momento, mediante organismos externos 
+certificados, las características de la instalación y de los materiales 
+con el fin de dar cumplimiento a las especificaciones de diseño. 
+c) El sistema estará provisto de drenes de lixiviados en las celdas 
+intermedias y además de drenes de pie de talud. 
+d) Se llevarán a cabo actividades de limpieza y mantenimiento de las 
+cunetas y drenes perimetrales, así como también se realizarán las 
+inspecciones y mantenciones respectivas del sistema de bombeo. 
+e) Se capacitará al personal respecto a las medidas del Plan, y en 
+especial al personal que corresponda, sobre las inspecciones 
+periódicas de control y mantención del Sistema de Recolección y 
+Manejo de Lixiviado. 
+Formas de control y seguimiento  
+a) Registro Plan de aseguramiento y control de calidad 
+b) Registro de las inspecciones y mantenciones realizadas al Sistema de 
+Recolección y Manejo de Lixiviados.  
+c) Registro de capacitaciones realizadas al personal. 
+ 
+8.7.16 RIESGOS INGRESO DE FAUNA SILVESTRE AL PROYECTO 
+ 
+Tabla 18: Plan de prevención de contingencia – Riesgo ingreso de fauna silvestre al 
+proyecto 
+Riesgo o Contingencia   
+Ingreso no controlado de fauna silvestre al interior del área del proyecto, 
+con potencial riesgo para la integridad de los animales, el personal y el 
+correcto funcionamiento de las operaciones. 
+Fase del proyecto a la que aplica   
+Fase de operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Áreas abiertas del proyecto, caminos interiores, zonas de descarga y 
+frente de trabajo del relleno sanitario 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Instalación de un cierre perimetral completo del recinto con 
+materiales que impidan el paso de animales terrestres de mediano 
+y gran tamaño, tales como mallas galvanizadas reforzadas y/o 
+estructuras físicas adecuadas. 
+b) Monitoreo permanente de puntos vulnerables en el perímetro, 
+realizando inspecciones regulares para detectar accesos no 
+autorizados o daños en el cierre. 
+
+===== p.21 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+20 
+ 
+ 
+ 
+ 
+c) Disposición de contenedores cerrados y para residuos, en especial 
+en zonas de alimentación del personal. 
+d) Señalética preventiva en áreas críticas para advertir sobre la 
+posibilidad de presencia de fauna y normas de actuación del 
+personal. 
+e) Capacitación al personal respecto a los riesgos asociados al ingreso 
+de fauna silvestre, enfatizando en la no interacción ni alimentación 
+de animales que pudieran ingresar. 
+f) 
+Coordinación con organismos especializados (CONAF, SAG u otros) 
+en caso de ingreso reiterado o especies protegidas. 
+Formas de control y seguimiento  
+a) Registro y control de inspecciones perimetrales y mantenimiento del 
+cerco. 
+b) Reportes de avistamientos o interacciones con fauna, detallando 
+tipo de especie, lugar y acciones tomadas. 
+c) Supervisión periódica por parte del encargado ambiental del 
+proyecto para verificar cumplimiento de las medidas preventivas y 
+aplicación de protocolos ante avistamientos. 
+ 
+ 
+8.7.17 RIESGOS CAÍDA DE FAUNA SILVESTRE A LAS PISCINAS 
+ 
+Tabla 19: Plan de prevención de contingencia – Riesgo de caída de fauna silvestre a las 
+piscinas 
+Riesgo o Contingencia   
+Caída accidental de fauna silvestre (mamíferos, aves, reptiles u otros) en 
+piscinas del proyecto, tales como estanques de lixiviados, bandejas de 
+evaporación, causando daño a la fauna. 
+Fase del proyecto a la que aplica   
+Fase de operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Piscinas de lixiviados, bandejas de evaporación, canales abiertos o 
+cualquier infraestructura hídrica expuesta. 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Instalación de cierres perimetrales de seguridad en todas las 
+piscinas, con mallas resistentes o barandas metálicas que impidan 
+el acceso accidental de fauna. Monitoreo permanente de puntos 
+vulnerables en el perímetro, realizando inspecciones regulares para 
+detectar accesos no autorizados o daños en el cierre. 
+b) Implementación de rampas de escape o flotadores o mallas en las 
+piscinas que permitan la salida voluntaria de animales que 
+eventualmente caigan al agua.  
+c) Monitoreo diario visual del estado de las piscinas, especialmente 
+durante las primeras horas del día, para detectar animales en riesgo 
+o caídos. 
+d) Señalización preventiva visible que advierta la presencia de cuerpos 
+de agua peligrosos, tanto para el personal como para la fauna. 
+e) Capacitación al personal en protocolos de rescate y manejo de 
+fauna silvestre, asegurando que las intervenciones se realicen sin 
+poner en riesgo la seguridad de los trabajadores ni la del animal. 
+f) 
+Coordinación con organismos especializados (SAG, CONAF, centros 
+de rescate) para la atención de fauna herida o en situación crítica. 
+
+===== p.22 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+21 
+ 
+ 
+ 
+ 
+Formas de control y seguimiento  
+a) Bitácora de inspección diaria de las piscinas, con registro de 
+hallazgos, estado de cierres y dispositivos de escape.  
+b) Registro de incidentes con fauna, indicando fecha, especie, estado 
+del animal, ubicación y acción adoptada. 
+c) Verificación del cumplimiento del plan de inspecciones por parte del 
+encargado ambiental del proyecto. 
+d) Registro de capacitaciones del personal en temas de manejo y 
+rescate de fauna silvestre. 
+ 
+8.7.18 IMPOSIBILIDAD DE ACCESO AL FRENTE DE TRABAJO 
+ 
+Tabla 20: Plan de prevención de contingencia – Riesgo Imposibilidad de acceso al frente 
+de trabajo. 
+Riesgo o Contingencia   
+Imposibilidad de acceso temporal al frente de trabajo operativo del 
+relleno sanitario debido a eventos como anegamientos, colapso de 
+caminos internos, deslizamientos menores, presencia de obstáculos 
+físicos o fallas mecánicas en equipos críticos para el acceso. 
+Fase del proyecto a la que aplica   
+Fase de operación 
+Emplazamiento, parte, obra o acción 
+asociada  
+Caminos de acceso internos, zona activa del relleno sanitario (frente de 
+trabajo), zonas de descarga, vías de circulación de maquinaria y camiones 
+recolectores. 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Diseño y mantención periódica de caminos internos, asegurando 
+pendientes adecuadas, buena compactación y revestimiento para 
+permitir el seguro transito durante todo el año. 
+b) Implementación de un plan de conservación de infraestructura vial 
+interna, que incluya limpieza de canales, bacheo, reparación de 
+hundimientos y mantención de plataformas de trabajo. 
+c) Instalación de señalización de rutas alternativas o desvíos 
+temporales dentro del proyecto para mantener la operatividad ante 
+obstrucciones. 
+d) Contar con equipos de apoyo en terreno (retroexcavadoras, 
+motoniveladoras y/o camiones tolva) disponibles para despeje o 
+habilitación de accesos alternativos en caso de emergencia y/o falla 
+de maquinaria pesada critica. 
+e) Evaluación diaria del estado de los caminos y frentes operativos por 
+parte del personal de operación, especialmente posterior a eventos 
+climáticos adversos. 
+f) 
+Capacitación al personal sobre los procedimientos operacionales en 
+caso de bloqueo de accesos, incluyendo activación del plan de 
+emergencia si corresponde. 
+g) Mantener un plan de contingencia de disposición temporal, 
+considerando zonas alternativas de descarga o acopio de residuos en 
+caso de que el frente de trabajo principal no esté operativo. 
+Formas de control y seguimiento  
+a) Bitácora de inspección diaria de accesos y caminos internos, 
+registrada por el encargado de operación o encargado de caminos. 
+b) Informe mensual de mantención de infraestructura vial. 
+c) Registro de eventos de inaccesibilidad, indicando causas, duración, 
+sectores afectados y medidas adoptadas. 
+
+===== p.23 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+22 
+ 
+ 
+ 
+ 
+d) Registro de capacitaciones y simulacros asociados a contingencias de 
+acceso y logística operacional. 
+e) Verificación del estado operativo de la maquinaria crítica destinada 
+al despeje y reacondicionamiento de accesos. 
+ 
+8.7.19 GENERACIÓN DE OLORES  
+ 
+Tabla 21: Plan de prevención de contingencia – Generación de olores molestos. 
+ 
+Riesgo o Contingencia   
+Exposición de residuos, infiltración de aguas o procesos 
+erosivos, proliferación de vectores y generación de olores por 
+residuos expuestos 
+Fase del proyecto a la que aplica   
+Fase de Operación. 
+Emplazamiento, parte, obra o 
+acción asociada  
+Relleno sanitario cubierto 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+-Mantener la cobertura operacional de las áreas inactivas; 
+inspeccionar la presencia de grietas, asentamientos, erosión o 
+exposición de residuos; reparar los sectores descubiertos; 
+mantener bermas y drenajes. 
+-Minimizar la superficie activa; realizar una descarga ordenada 
+y esparcimiento en capas de 20 a 30 cm; mantener 
+compactación permanente; aplicar cobertura diaria con suelo 
+compactado de 30 cm; y prohibir dejar residuos expuestos 
+durante la noche 
+Formas de control y seguimiento  
+Registro diario de inspección de cobertura y registro de 
+reparaciones. 
+Bitácora de frente de trabajo y registro de cobertura diaria 
+ 
+ 
+ 
+Riesgo o Contingencia   
+Piscinas de lixiviados y Bandejas de evaporación. Rebalse, fugas 
+de líquidos percolados y condiciones anaeróbicas (olores). Daño 
+estructural (ruptura de carpeta) y emanación de olores. 
+Fase del proyecto a la que aplica   
+Fase de Operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Piscinas de lixiviados 
+
+===== p.24 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+23 
+ 
+ 
+ 
+ 
+Acciones o medidas a implementar para 
+prevenir la contingencia  
+-Mantener los niveles operacionales evitando la 
+sobreacumulación; inspeccionar la aparición de costras, espuma, 
+coloración o condiciones anaeróbicas; mantener el sistema de 
+impermeabilización y detección de fugas; y aplicar nebulización 
+cuando corresponda 
+  
+- Mantener los niveles operacionales evitando la 
+sobreacumulación; inspeccionar la aparición de costras, espuma, 
+coloración o condiciones anaeróbicas; mantener el sistema de 
+impermeabilización y detección de fugas; y aplicar nebulización 
+cuando corresponda 
+Formas de control y seguimiento  
+Registro de nivel, inspección visual y registro de mantenciones 
+ 
+ 
+ 
+Riesgo o Contingencia   
+Zona de mezcla compostaje, Trincheras de compostaje 
+Descomposición prematura y emisión de olores molestos. 
+Falla en el proceso aeróbico (generación de olores y detención 
+del compostaje). 
+Fase del proyecto a la que aplica   
+Fase de Operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Zona de mezcla compostaje y Trincheras de compostaje 
+Acciones o medidas a implementar para 
+prevenir la contingencia  
+Operar exclusivamente en galpón o sector controlado; 
+mantener la proporción adecuada de material estructurante; 
+evitar la permanencia prolongada de residuos frescos; operar el 
+sistema de captación y biofiltro; y mantener la limpieza del área. 
+  
+Mantener la aireación forzada y la cobertura semipermeable; 
+controlar la humedad, temperatura y tiempo de permanencia; y 
+revisar constantemente los sopladores y membranas 
+Formas de control y seguimiento  
+Registro de recepción, mezcla, humedad y operación del 
+biofiltro 
+ 
+ 
+
+===== p.25 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+24 
+ 
+ 
+ 
+ 
+Riesgo o Contingencia   
+Pilas de maduración   
+Anegamiento y formación de zonas anaeróbicas. 
+Fase del proyecto a la que aplica   
+Fase de Operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Pilas de maduración 
+Acciones o medidas a implementar para 
+prevenir la contingencia  
+Mantener las condiciones aeróbicas mediante un volteo 
+programado y control de humedad; y evitar el anegamiento o 
+la formación de zonas anaeróbicas 
+Formas de control y seguimiento  
+Bitácora de volteo y humedad 
+ 
+ 
+ 
+Riesgo o Contingencia   
+Vías y transporte interno 
+Anegamiento y formación de zonas anaeróbicas. 
+Fase del proyecto a la que aplica   
+Fase de Operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Pilas de maduración 
+Acciones o medidas a implementar para 
+prevenir la contingencia  
+Mantener las condiciones aeróbicas mediante un volteo 
+programado y control de humedad; y evitar el anegamiento o la 
+formación de zonas anaeróbicas 
+Formas de control y seguimiento  
+Bitácora de volteo y humedad 
+ 
+ 
+Riesgo o Contingencia   
+Sistema de nebulización 
+Falla en la mitigación de olores en las áreas críticas. 
+Fase del proyecto a la que aplica   
+Fase de Operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Sistema de nebulización 
+
+===== p.26 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+25 
+ 
+ 
+ 
+ 
+Acciones o medidas a implementar para 
+prevenir la contingencia  
+Operar los sistemas en sectores de compostaje, reciclaje, 
+lixiviados, bandejas y frente activo, ajustándose a las condiciones 
+operacionales y meteorológicas; y mantener adecuadamente la 
+dosificación y las boquillas 
+Formas de control y seguimiento  
+Registro de operación, consumo de producto neutralizador y 
+mantenciones 
+ 
+ 
+ 
+8.7.20 DERRAME O DESCARGA ACCIDENTAL DE FOSAS SÉPTICAS  
+ 
+Tabla 22: Plan de prevención de contingencia – Riesgo de derrame o descarga accidental 
+de fosa séptica 
+Riesgo o Contingencia   
+Derrame o descarga accidental de lodos provenientes del manejo de 
+fosas sépticas. 
+Fase del proyecto a la que aplica   
+Fase de operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Fosas sépticas propias del proyecto, áreas de operación sanitaria, 
+Acciones o medidas a implementar 
+para prevenir la contingencia  
+a) Cumplir con el plan de inspección y limpieza mínima de las fosas 
+sépticas 
+b) Capacitación del personal responsable sobre riesgos sanitarios, uso 
+de EPP y contención de derrames. 
+c) Revisión previa de las condiciones estructurales de las fosas y sus 
+válvulas de descarga o succión. 
+d) Uso de herramientas y equipos en buen estado para la extracción y 
+traslado de lodos (bombas, estanques móviles, mangueras). 
+e) Disposición de kit de emergencia con cal, absorbentes, palas, 
+barreras y elementos de limpieza. 
+f) 
+Protocolo de limpieza y sanitización del área tras cada operación de 
+retiro. 
+g) Inspección  
+Formas de control y seguimiento  
+a) Registro de operación de retiro de lodos. 
+b) Bitácora de inspección preventiva. 
+c) Registro de capacitaciones del personal. 
+ 
+ 
+
+===== p.27 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+26 
+ 
+ 
+ 
+ 
+8.8 PLAN DE EMERGENCIAS 
+ 
+8.8.1 
+CLASIFICACION DE EMERGENCIAS  
+ 
+Las emergencias se dividen en internas y externas, de acuerdo a su origen y naturaleza. Su 
+clasificación además dependerá del tipo de riesgo, ya sea antropogénico y natural, de acuerdo a lo 
+indicado en la tabla a continuación:  
+ 
+Tabla 23: Posibles emergencias identificadas en las distintas fases del proyecto.  
+Clasificación Emergencia 
+Externa 
+● Sismo 
+● Lluvias intensas e inundaciones 
+● Incendios forestales 
+Interna 
+● Colisión o Volcamiento de camiones internos 
+● Inestabilidad y/o deslizamiento de taludes de tierra o celdas 
+● Derrame de sustancias peligrosas  
+● Daño en sistema de bombeo de lixiviados 
+● Incendios en instalaciones 
+● Taponamiento de drenes de recolección de lixiviados 
+● Generación de olores molestos 
+● Fugas de lixiviados 
+●  
+● Explosión por taponamiento de ductos de sistema de extracción de 
+biogás 
+● Incendios en la masa de basura. 
+● Infiltración de lixiviados por fallas o fisuras del sistema de 
+impermeabilización.  
+ 
+8.8.2 
+ORGANIZACIÓN DE EMERGENCIA 
+ 
+La organización de emergencias está compuesta por los responsables del Plan. La jerarquía 
+de cada parte que compone la organización se presenta a continuación: 
+ 
+ 
+
+===== p.28 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+27 
+ 
+ 
+ 
+ 
+Figura 1: Organización de emergencia 
+ 
+ 
+8.8.3 
+PROCEDIMIENTO GENERAL ANTE EMERGENCIAS  
+La detección de una Emergencia puede ser realizada por cualquier trabajador que se 
+encuentre en la Planta y/o fuera de ella, según corresponda. La persona que detecte una 
+emergencia debe dar aviso de lo observado al Coordinador de Emergencia. 
+ 
+El Coordinador de la Emergencia realizará una evaluación preliminar de la Emergencia y 
+dependiendo del peligro que presente a personas e instalaciones genera la alarma de 
+evacuación hacia las zonas de seguridad.  
+ 
+Al mismo tiempo, y tras evaluar la necesidad de activar el correspondiente Plan de 
+Emergencia, el Coordinador de Emergencia comunica al Coordinador de Brigada para 
+activar la Brigada e informa antecedentes, tales como:  
+• ¿Qué es lo que ocurrió?  
+• ¿Dónde ocurrió?,  
+• ¿Magnitud de la emergencia?,  
+• ¿Cómo llegar?  
+ 
+El Coordinador de la Emergencia indicará al Coordinador de Comunicaciones realizar 
+comunicado a las personas establecidas en Listado de Comunicaciones Internas y Externas, 
+si corresponde. Si fuera el caso, el Coordinador de Comunicaciones, y solamente él se 
+comunicará directamente con la prensa.  
+ 
+El Comando de Emergencia evalúa el requerimiento de recursos internos y externos para el 
+control de la Emergencia (ambulancia, bomberos, carabineros). Al mismo tiempo se evalúa 
+la necesidad de realizar la comunicación a los vecinos.  
+ 
+ 
+Coordinador de 
+emergencia 
+Coordinador de 
+Brigada 
+Coordinador de 
+Comunicaciones 
+Capitán de brigada 
+ 
+Comando de 
+emergencia 
+Personal de 
+brigada 
+
+===== p.29 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+28 
+ 
+ 
+ 
+ 
+Por medio de los recursos internos y/o externos utilizados se realiza el control de la 
+Emergencia hasta lograr condiciones normales. Cuando la situación está bajo control el 
+personal puede retornar a sus labores. Posteriormente se convoca al equipo de 
+investigación quien realizará investigación e informe de la emergencia ocurrida y de los 
+mecanismos de control. 
+ 
+Finalmente, a continuación, se presenta el diagrama de flujo del procedimiento general 
+ante emergencias antes descrito: 
+ 
+Figura 2: Diagrama de Flujo de procedimiento general de emergencia 
+
+===== p.30 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.31 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+30 
+ 
+ 
+ 
+ 
+8.8.4 
+PROCEDIMIENTO GENERAL ANTE EMERGENCIAS  
+Sistema de Comunicación Ante Emergencias El sistema de comunicación ante emergencias 
+se divide en interna y externa, cuyos procedimientos se detallan a continuación: 
+ 
+Comunicación Interna 
+ 
+Cualquier persona que detecte una emergencia debe dar aviso de lo observado, por medio 
+de radio y el canal interno del proyecto o teléfono celular al coordinador de emergencia 
+ 
+En caso de una Emergencia fuera de horario hábil, el personal de guardia o de Planta deberá 
+comunicarse de acuerdo con el siguiente orden:  
+1. Coordinador de Emergencia. 
+2. Coordinador de Brigada. 
+3. Coordinador de Comunicaciones. 
+ 
+La identificación y número de contactos de cada Coordinador serán de acceso para todo el 
+personal.  
+ 
+Los operadores de planta, más voluntarios de Brigada de Emergencia, mantendrán 
+operativa en todo momento una radio de comunicaciones permanente por medio del Canal 
+ex. En caso de una Emergencia, indicar por este medio “Emergencia en…”, indicando sitio 
+específico donde ocurre.  
+ 
+Comunicación Externa  
+Si la Emergencia amerita comunicación inmediata con los servicios de emergencia externos, 
+coordinadores anteriores podrán realizar la comunicación correspondiente a las entidades 
+pertinentes, como SAMU, Bomberos, Conaf, PDI, etc. 
+ 
+8.8.4.1 OPORTUNIDAD Y VIAS DE COMUNICACIÓN A LA SUPERINTENDENCIA DEL MEDIO AMBIENTE 
+ 
+De acuerdo a lo establecido en el Artículo 104 del RSEA, a continuación, se indica la 
+oportunidad y vías de comunicación a la Superintendencia del Medio Ambiente de la 
+activación del Plan de Emergencias.  
+ 
+La notificación a la Superintendencia del Medio Ambiente de la activación del Plan de 
+Emergencias será gestionada por el Coordinador de Comunicación, el cual entregará la 
+siguiente información, dentro de un plazo de 24 horas de ocurrido el evento:  
+• Identificación de la empresa,  
+• Identificación de la emergencia,  
+• Descripción del incidente donde se detalle fecha, hora, lugar, causas, medidas de 
+control y efectos no deseados provocados. 
+ 
+
+===== p.32 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+31 
+ 
+ 
+ 
+ 
+8.8.5 
+PROCEDIMIENTO GENERAL ANTE EMERGENCIAS  
+ 
+Todos los trabajadores deberán ser capacitados en el Plan de Emergencia una vez ingresen 
+a la operación en Planta y cada vez que se modifique este plan de emergencia. 
+ 
+La brigada de emergencia tendrá un Plan de actividades anual, donde está incluida la 
+capacitación y entrenamiento. 
+ 
+8.8.6 SIMULACRO ANTE SITUACIONES DE EMERGENCIA. 
+ 
+La realización de simulacros cumple la vital función de preparar al personal y Brigada de 
+Emergencia, a fin de que conozcan cómo deben actuar en caso de presentarse una 
+emergencia real; y así no ceder al pánico al encontrarse sometido a presiones externas y 
+ajenas a su vida normal.  
+ 
+Acorde a lo anterior es importante que la realización de simulacros sean lo más parecidos a 
+la realidad, comenzando por simulacros parciales y con pre-aviso, hasta llegar a efectuar sin 
+aviso e involucrando a todos los elementos de la empresa y ajenos.  
+ 
+La frecuencia de realización de los simulacros será anual, variando los escenarios de la 
+emergencia.  
+ 
+El simulacro anual, el cual junto con cualquier situación de emergencia deberá quedar 
+registrado y documentado en el Registro de Emergencia. 
+ 
+ 
+8.8.7 PROCEDIMIENTO ESPECIFICOS ANTE SITUACIÓN DE EMERGENCIA. 
+ 
+En las tablas a continuación se presentan todas las medidas y acciones a implementar para 
+controlar la emergencia, de acuerdo a las distintas situaciones de riesgo identificadas en la  
+Tabla 21 del presente Plan. 
+ 
+ 
+8.8.7.1 SISMO  
+Tabla 24: Plan de Emergencia – Sismos. 
+Sismo 
+Fase del proyecto a la que aplica   
+Fase de Construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Todas las obras del proyecto y áreas de influencia. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+Acciones durante el movimiento telúrico:  
+a) Se deberá mantener la calma, controlando cualquier posible caso de 
+pánico entre el personal.   
+b) Evacuar al personal de las áreas de trabajo, oficinas y/o instalaciones 
+
+===== p.33 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+32 
+ 
+ 
+ 
+ 
+de faena, por las vías de evacuación correspondientes hacia los 
+Puntos de Encuentro de Emergencias (PEE) establecidos; se deberá 
+velar porque ésta esté libre de riesgos de: caída de objetos, 
+materiales, luminarias o cortes de cables de alta tensión, los cuales 
+pudiesen tener graves consecuencias para las personas.   
+c) En lo posible los responsables de áreas deberán velar por: cortar el 
+suministro de agua, gas, y sistemas eléctricos asociados a sus áreas 
+de trabajo, apagar motores de equipos, etc., siempre y cuando el 
+realizar estas actividades no implique poner en riesgo su integridad 
+física.   
+d) Quedará prohibido reingresar a las instalaciones a buscar cualquier 
+pertenencia o salvaguardar cualquier objeto, equipo o material 
+durante el movimiento telúrico. El acceso quedará restringido hasta 
+que se identifiquen y evalúen los riesgos asociados y derivados de 
+este evento por personal de Prevención de Riesgos, quienes serán 
+los responsables de autorizar el reingreso a las áreas de trabajo.   
+e) Si el movimiento sísmico es demasiado fuerte y los trabajadores no 
+puedan mantenerse en pie, se deberá solicitar que se sienten o 
+arrodillen en el área del PEE, protegiendo su cabeza, y solo deberán 
+ponerse de pie una vez finalizado el movimiento telúrico.   
+f) 
+Si eventualmente personal se quedará en el interior de las áreas de 
+trabajo siendo imposibilitada su evacuación, estos deberán usar el 
+concepto de “triángulo de vida”, ubicándose en posición fetal al 
+costado de un elemento u objeto de mayor tamaño o peso, para que 
+en caso de desplome de algún elemento superior o lateral se genere 
+un espacio vacío entre ellos, lo cual podrá salvaguardar la vida de las 
+personas.   
+ 
+Acciones después del movimiento telúrico:   
+a) Una vez finalizado el evento se deberá verificar que el personal se 
+encuentra en su totalidad en el PEE, y en buenas condiciones, 
+ayudando a aquellos que lo necesitan.   
+b) Se procederá a prestar atención de Primeros Auxilios al personal que 
+haya sufrido algún tipo de lesión menor producto de este evento, 
+esta actividad solo podrá ser realizada por personal debidamente 
+capacitado. En el caso de lesiones mayores se procederá a informar 
+a las entidades que corresponda para trasladar al lesionado al Centro 
+Asistencial más cercano para su evaluación.   
+c) Se deberá tener especial cuidado con cables eléctricos que se hayan 
+cortado por efectos del movimiento telúrico, y que pudiesen entrar 
+en contacto directo con el personal, o con los objetos que se 
+encuentran cerca o en contacto con ellos, ya que estos podrían 
+provocar un posible puente eléctrico que pudiese ocasionar un 
+accidente con graves consecuencias.   
+Después de un movimiento telúrico significativo, se deberá permanecer 
+en estado constante de alerta, ya que se seguirán suscitando réplicas de 
+magnitud igualmente considerables. 
+
+===== p.34 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+33 
+ 
+ 
+ 
+ 
+ 
+8.8.7.2 LLUVIA INTENSAS E INUNDACIONES  
+Tabla 25: Plan de Emergencia – Lluvias Intensas e inundaciones. 
+Lluvias intensas e inundaciones 
+Fase del proyecto a la que aplica   
+Fase de Construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Zonas bajas del área de emplazamiento del proyecto. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+En caso de lluvias extremadamente intensas que produzcan 
+inundaciones y amenacen las estructuras de la Planta, se realizará lo 
+siguiente:  
+a) Organizar al personal para reubicar los bienes que se encuentren en 
+riesgo de daño.  
+b) Impedir la circulación vehicular en la vía de acceso al sector 
+afectado. 
+c) En caso de que el Coordinador de Emergencia establezca la 
+necesidad de evacuación, los trabajadores se dirigirán hacia las 
+zonas de seguridad definidas. 
+ 
+Medidas Inmediatas  
+a) El Coordinador de la Emergencia deberá gestionar los recursos 
+necesarios para controlar posibles fallas en drenes o canales de agua 
+lluvia y/o aumento de nivel de piscinas de lixiviado (ejemplo 
+contratación de bombas o motobombas de achique, servicios de 
+tratamiento de lixiviado a tercero y mano de obra adicional)  
+b) Se hace una inspección permanente a todos los canales de aguas 
+lluvias con el objeto de verificar que el agua lluvia sea descargada 
+adecuadamente.  
+c) En caso de encontrar elementos que puedan obstruir estos canales 
+inmediatamente se solicita la remoción de ellos.  
+d) Se realiza monitoreo permanente de las piscinas de lixiviado.  
+e) En caso de que el nivel se encontrara por sobre el máximo permitido, 
+se contratará servicio de tratamiento externo de lixiviado. Se realiza 
+retiro por medio de camiones y derivados a empresas autorizadas. 
+f) 
+Impedir la circulación vehicular en la vía de acceso al sector. 
+Medidas Posteriores  
+a) El Coordinador de Comunicaciones informará a las autoridades 
+pertinentes y a la comunidad en general si es necesario.  
+b) Posteriormente el evaluarán los daños causados y se coordinará la 
+habilitación de las vías de accesos para que se normalice el ingreso 
+de residuos al proyecto. 
+ 
+ 
+ 
+ 
+8.8.7.3 INCENDIO EN INSTALACIONES  
+Tabla 26: Plan de Emergencia – Incendios en instalaciones. 
+Incendios en instalaciones 
+
+===== p.35 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+34 
+ 
+ 
+ 
+ 
+Fase del proyecto a la que aplica   
+Fase de Construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Oficinas, bodegas e instalaciones. 
+Acciones o medidas a implementar 
+para Controlar la emergencia 
+1 medidas Inmediatas (Respuesta Inicial y Evacuación) 
+a) 
+Alerta y Comunicación: El personal que detecte el amago 
+comunicará el evento de forma inmediata a los trabajadores más 
+cercanos y solicitará la presencia del Coordinador de Brigada. El 
+Coordinador de Comunicaciones informará a las autoridades 
+pertinentes y a las comunidades vecinas según los protocolos 
+internos establecidos.  
+b) 
+Control Inicial: El personal capacitado procederá al control del 
+amago de incendio utilizando extintores distribuidos en el área 
+(priorizando Polvo Químico Seco PQS o 𝐶𝑂2) o mediante elementos 
+como tierra, evitando el uso generalizado de agua.  
+c) 
+Evacuación Segura: Todo el personal no perteneciente a la brigada 
+o línea de supervisión deberá evacuar hacia las zonas de seguridad 
+definidas. Si la vía de evacuación presenta humo, se avanzará a ras 
+de suelo (gateando). En caso de encontrarse dentro de oficinas o 
+salones, se palpará la puerta con el dorso de la mano antes de abrirla 
+y se cerrará al salir para frenar la propagación.  
+d) 
+Conducta de Conductores y Operadores: Los operadores de grúas 
+horquillas o vehículos en movimiento deberán estacionar las 
+unidades de forma inmediata sin obstaculizar las vías de evacuación, 
+apagar el motor e incorporarse a pie a las líneas de evacuación.  
+e) 
+Protección del Personal: En caso de que la ropa de un trabajador se 
+encienda, este no debe correr, sino arrojarse al suelo y rodar. El 
+personal interno tendrá la obligación de guiar y coordinar la 
+evacuación de visitas o personal externo.  
+2. Medidas de Control del Siniestro (Gestión de la Emergencia) 
+a) 
+Comando de Incidentes: Las determinaciones técnicas para el 
+control del siniestro serán adoptadas exclusivamente por el 
+Coordinador 
+de 
+Emergencias. 
+El 
+ingreso 
+de 
+operadores 
+especializados a la zona afectada para maniobras con maquinarias 
+críticas requerirá la autorización expresa de dicho coordinador, 
+previa evaluación de riesgos.  
+b) 
+Soporte Técnico Especializado: Si el incendio involucra el 
+almacenamiento de residuos y se desconoce su naturaleza química, 
+el Coordinador de Emergencias solicitará el apoyo directo del 
+Experto Químico de planta o del Encargado de Residuos Peligrosos 
+para determinar la estrategia de extinción más segura.  
+c) 
+Activación de Apoyos Externos: Si la magnitud del siniestro supera 
+la capacidad de respuesta de la Brigada de Emergencia interna, el 
+Coordinador de Emergencias solicitará de forma inmediata la 
+intervención de los organismos públicos de respuesta (Bomberos, 
+Carabineros, SAMU).  
+3. Medidas Posteriores (Evaluación y Rehabilitación) 
+a) 
+Evaluación de Infraestructura y Seguridad: Una vez controlado el 
+evento, el Coordinador de Emergencias, en conjunto con el área de 
+Prevención de Riesgos y las jefaturas de área, realizará una 
+inspección exhaustiva de las instalaciones para verificar la total 
+
+===== p.36 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+35 
+ 
+ 
+ 
+ 
+extinción del fuego, evaluar los daños estructurales y determinar si 
+el sector es apto para el reinicio de faenas o si requiere cierre para 
+reparaciones.  
+b) 
+Evaluación Ambiental Sectorial: El área ambiental del Proyecto 
+inspeccionará el entorno para cuantificar los potenciales impactos 
+ambientales derivados del siniestro (como generación de riles de 
+extinción o afectación de suelos) y establecerá las medidas de 
+mitigación o reparación correspondientes a la magnitud del evento. 
+ 
+ 
+8.8.7.4 COLISION O VOLVAMIENTO DE CAMIONES INTERNOS 
+Tabla 27: Plan de Emergencia – Colisión o volcamiento de camiones internos. 
+Colisión o volcamientos de camiones internos  
+Fase del proyecto a la que aplica   
+Fase de Construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Relleno Sanitario y caminos internos. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+En caso de que se registre una colisión o volcamiento de camiones  
+internos, se llevarán a cabo las siguientes acciones:  
+• Se delimitará el área donde se produjo el incidente.  
+• En caso de derrame de residuos, se contendrán fugas o dispersión de  
+ellos. En caso de que la fuga de residuos se realice durante la carga, se  
+suspenderá la operación del camión para corregir las fallas.  
+Oportunidad y vías de comunicación 
+a la SMA de activación del plan de 
+emergencia  
+La notificación a la Superintendencia del Medio Ambiente de la 
+activación del Plan de Emergencias será gestionada por el Coordinador 
+de Comunicación, el cual entregará la siguiente información, dentro de 
+un plazo de 24 horas de ocurrido el evento:  
+- Identificación de la empresa  
+- Identificación de la emergencia  
+- Descripción del incidente donde se detalle fecha, hora, lugar, causas, 
+medidas de control y efectos no deseados provocados.   
+ 
+8.8.7.5 DERRAME DE SUSTANCIAS PELIGROSAS EN SUELO 
+Tabla 28: Plan de Emergencia – Derrame de sustancias peligrosas en suelo 
+Derrame de sustancias peligrosas en suelo 
+Fase del proyecto a la que aplica   
+Fase de Construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Área de almacenamiento de combustible, caminos internos, Relleno 
+Sanitario, almacenamiento de residuos peligroso. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+Cuando se presente algún derrame de aceites y/o combustibles, se 
+llevarán a cabo las siguientes acciones:  
+a) Se advertirá a los colindantes del sector del suceso para evitar la 
+operación de fósforos, cocinas u otros, mientras se adoptan las 
+medidas de corrección.  
+b) Se contendrá el derrame con el kit antiderrames disponible en el 
+área de almacenamiento de sustancias.  
+c) En caso de que la fuga se produzca durante la operación de un 
+vehículo o equipo, se suspenderá su operación para corregir fallas.  
+
+===== p.37 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+36 
+ 
+ 
+ 
+ 
+En caso de que la fuga se derive del estanque de almacenamiento 
+de combustible debido a fisuras o fallas, se gestionará su reparación. 
+ 
+8.8.7.6 DESLIZAMIENTO DE TALUDES DE TIERRA O CELDAS  
+Tabla 29: Plan de Emergencia – Deslizamiento de taludes de tierra o celdas 
+Deslizamiento de taludes de tierra o celdas 
+Fase del proyecto a la que aplica   
+Fase de Construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Caminos de acceso, zonas de acopio, relleno sanitario y sus sectores 
+aledaños. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+Cuando el nivel de presión esté cerca del límite, de acuerdo a informes 
+de piezómetros, se presenten grietas anormales en el relleno sanitario, 
+y en especial, cuando se haya rebalsado la presión del piezómetro o 
+cuando ocurra un deslizamiento, se realizarán las siguientes acciones: 
+a) Se evaluará si el problema de presión es derivado de la acumulación 
+de líquidos, de ser así, se procederá a bombear los lixiviados.  
+b) En caso de grietas, se procederá a rellenar con material de 
+cobertura. 
+c) Para neutralizar olores, se cubrirá la superficie del relleno sanitario 
+con tierra o zeolita. 
+Adicionalmente se identificarán medidas particulares de emergencia, 
+según sea el caso, las cuales se detallan a continuación: 
+ 
+Medidas inmediatas: 
+a) El coordinador de emergencia determina si el problema es producto 
+de sobrepresión derivado por acumulación de líquidos. De ser así, se 
+coordinará el bombeo de lixiviados. 
+b) En caso de formación de grieta se procederá a rellenar con material 
+de cobertura. 
+c) Coordinará soluciones de control que asegure la contención para el 
+deslizamiento controlado. 
+d) Si se produce deslizamiento (material de cobertura o residuos 
+depositados) fuera del relleno sanitario, coordinará acciones con las 
+instituciones pertinentes y procederá a desalojar la masa de 
+residuos o tierra con apoyo de la maquinaria necesaria. 
+e) Aplicar medidas para neutralizar olores, cubriendo con cobertura. 
+Medidas posteriores: 
+a) Desalojar los residuos que impidan la circulación expedita de 
+personal y vehicular.  
+b) Habilitar un sector de la celda del relleno sanitario para recepcionar 
+los desechos deslizados.  
+c) Limpiar y trasladar los desechos hacia el sector de la celda 
+habilitada.  
+d) Desalojar el suelo contaminado. 
+e) Reponer el suelo contaminado con material adecuado.  
+f) 
+Reconstruir el muro o muros necesarios para volver a la normalidad. 
+g) Reconstruir los drenes de lixiviados o agua lluvias y en general todas 
+estructuras afectadas 
+
+===== p.38 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+37 
+ 
+ 
+ 
+ 
+ 
+8.8.7.7 INCENDIOS FORESTALES. 
+Tabla 30: Plan de Emergencia – Incendios forestales  
+Incendios forestales 
+Fase del proyecto a la que aplica   
+Fase de Construcción, operación y cierre. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Zonas cubiertas de vegetación, ubicadas principalmente en los 
+alrededores del área de emplazamiento del proyecto. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+Cuando se detecte la presencia de humo o fuego en los sectores de 
+vegetación, se realizará lo siguiente:  
+1. Se organizará y dotará de herramientas al personal capacitado para 
+acudir al amago de incendio.  
+2. En caso de que las condiciones lo ameriten, se solicitará apoyo a las 
+unidades de emergencia respectivas.  
+3. En caso de que el Coordinador de Emergencia establezca la 
+necesidad de evacuación, los trabajadores se dirigirán hacia las 
+zonas de seguridad definidas.  
+4. Finalizada la emergencia, se verificarán posibles daños en las 
+instalaciones de la Planta. 
+Adicionalmente, se identifican medidas particulares asociadas al Plan de 
+Emergencia y Contingencias del proyecto, las cuales se detallan a 
+continuación: 
+ 
+Medidas Inmediatas: 
+Una vez detectado un incendio forestal en áreas colindantes al proyecto, 
+se deberá realizar lo siguiente: 
+1. Activar plan de emergencia de planta y funcionamiento de brigada 
+de emergencia. 
+2. Informar a CONAF y Bomberos de condición de peligro de Planta 
+3. Maquinaria queda a disposición del Coordinador de Emergencia con 
+el objeto de prestar asistencia en caso necesario. 
+4. Cerrar el acceso de camiones con residuos al interior de Planta  
+5. Cubrir inmediatamente todos los frentes de trabajo en ambos 
+depósitos.  
+6. Retirar hacia bodega residuos industriales que puedan estar a la 
+intemperie en Patio de Segregación. 
+7. Humedecer zonas aledañas a edificaciones operativas.  
+8. Personal ajeno a la Brigada debe evacuar de las instalaciones.  
+9. Pavesas 
+que 
+puedan 
+ingresar 
+deberán 
+ser 
+extinguidas 
+inmediatamente por personal de Brigada con tierra. 
+Medidas posteriores: 
+1. El Gerente Planta informará a las autoridades pertinentes y a la 
+comunidad del control de la Emergencia. 
+2. Bomberos y CONAF, cuando estén presentes, inspeccionarán junto 
+con Gerente Planta el lugar antes de hacer retiro.  
+3. Se revisarán los daños causados a la infraestructura existente y se 
+presentará un plan de remediación. 
+ 
+
+===== p.39 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+38 
+ 
+ 
+ 
+ 
+8.8.7.8 DAÑO EN SISTEMA DE BOMBEO DE LIXIVIADOS. 
+Tabla 31: Plan de Emergencia – Daños en el sistema de bombeo de lixiviados  
+Daños en el sistema de bombeo de lixiviados 
+Fase del proyecto a la que aplica   
+Fase de operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Planta de tratamiento de lixiviado, sistema de recolección y manejo de 
+lixiviados. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+En caso de que la bomba presente fallas mecánicas, o cuando se 
+suspenda el bombeo de lixiviados por daños, se llevarán a cabo las 
+siguientes acciones:  
+1. Se coordinará de manera inmediata la reparación de las bombas con 
+el técnico de mantenimiento.  
+2. Se reiniciará el sistema utilizando la bomba de emergencia, y de ser 
+necesario, como medida temporal y mientras se lleva a cabo la 
+reparación del sistema, se coordinará el arriendo de una bomba de 
+emergencia para dar apoyo.  
+3. En caso de que la bomba haya sufrido daños severos o se requiera 
+de mucho tiempo para su reparación, se procederá a la adquisición 
+de una nueva bomba.  
+ 
+Adicionalmente, se identifican medidas particulares asociadas al Plan de 
+Emergencia y Contingencias del proyecto, las cuales se detallan a 
+continuación:  
+ 
+Medidas Inmediatas  
+1. El Coordinador de la Emergencia coordinará el arreglo de las bombas 
+con el Supervisor de Planta.  
+2. Se reiniciará el bombeo utilizando la bomba de emergencia, y si es 
+necesario se deberá arrendar bombas adicionales, hasta superar la 
+emergencia. 
+3. Se 
+coordinarán 
+soluciones 
+de 
+control 
+que 
+aseguren 
+el 
+funcionamiento de bombeo de lixiviados.  
+ 
+Medidas Posteriores: 
+1. Reparar las bombas dañadas de manera urgente. 
+2. Adquirir otras bombas si los daños son severos o van a tardar mucho 
+tiempo en ser superados. 
+ 
+ 
+8.8.7.9 TAPONAMIENTO DE DRENES DE RECOLECCIÓN DE LIXIVIADOS. 
+Tabla 32: Plan de Emergencia – Taponamiento de drenes de recolección de lixiviados  
+Taponamientos de drenes de recolección de lixiviados 
+Fase del proyecto a la que aplica   
+Fase de Operación 
+Emplazamiento, parte, obra o acción 
+asociada  
+Sistema de recolección y manejo de lixiviados. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+Cuando se observen lixiviados fluyendo fuera de uno o varios ductos de 
+gases, cuando el nivel de lixiviados se encuentre en un 50% del límite de 
+recolección, y en especial, cuando se rebase el límite máximo permitido 
+
+===== p.40 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+39 
+ 
+ 
+ 
+ 
+(85 a 90%), se llevarán a cabo las siguientes medidas:  
+1. Se procederá al bombeo de los lixiviados hacia una zona que permita 
+su evacuación para revisar el o los ductos de gases y/o drenes 
+afectados.  
+2. En caso de ser necesario, se excavarán los residuos del relleno 
+sanitario, disponiéndolos temporalmente en los frentes de trabajo, 
+los cuales serán restituidos inmediatamente de terminado el 
+incidente.  
+3. Posterior al bombeo, se rehabilitarán y/o reconstruirán, según 
+corresponda, los drenes y/o ductos afectados. 
+Adicionalmente, se identifican medidas particulares asociadas al Plan de 
+Emergencia y Contingencias del proyecto, las cuales se detallan a 
+continuación: 
+ 
+Medidas Inmediatas: 
+1. El Coordinador de la Emergencia habilitará la vía de acceso, para 
+facilitar la intervención de medios externos. 
+2. Coordinar de manera inmediata: evacuaciones de personal, habilitar 
+una celda del depósito para recibir los desechos provocados por el 
+derrame y encausar los lixiviados. 
+3. Coordinar que la brigada de emergencia actúe en forma inmediata, 
+para minimizar los daños. 
+Medidas posteriores: 
+1. Reconstruir las vías de acceso. 
+2. Reconstruir las infraestructuras afectadas, suelo de soporte, 
+geomembrana, ductos de gases, drenes de lixiviados, etc.  
+3. Retirar los desechos y lixiviados que hayan afectado cuerpo de agua 
+o a la comunidad.  
+4. Reponer el suelo contaminado. 
+ 
+8.8.7.10 FUGAS DE LIXIVIADOS 
+Tabla 33: Plan de Emergencia – Fugas de lixiviados  
+Fugas de lixiviados 
+Fase del proyecto a la que aplica   
+Fase de Operación 
+Emplazamiento, parte, obra o acción 
+asociada  
+Celdas de Relleno sanitario, Sistema de recolección de lixiviados y 
+manejo de lixiviados. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+Cuando se detecta la presencia de lixiviados fuera del sistema de drenaje 
+normal, se llevarán a cabo las siguientes medidas:  
+1. Se coordinarán trabajos de encausamiento y retención de los 
+lixiviados, para evitar que estos se dispersen.  
+2. De ser posible, se usará zeolita para neutralizar olores.  
+3. Se hará uso de camión aljibe para el traslado de lixiviados hacia el 
+relleno sanitario.  
+4. Se repararán las estructuras que dieron origen al incidente. 
+Adicionalmente, se identifican medidas particulares asociadas al Plan de 
+Emergencia y Contingencias del proyecto, las cuales se detallan a 
+continuación: 
+
+===== p.41 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+40 
+ 
+ 
+ 
+ 
+ 
+Medidas Inmediatas: 
+1. El Encargado del área procederá a coordinar los trabajos de 
+encausamiento y retención de los lixiviados derramados y avisar en 
+forma inmediata de la situación al Coordinador de la Emergencia. 
+2. Con maquinaria pesada, se debe generar contención a los lixiviados 
+derramados, con el objeto de evitar escurrimiento hacia afuera de 
+planta y previniendo alcance a canales y esteros colindantes.  
+3. Los lixiviados deben ser retirados junto con los elementos 
+contaminados y se procede a la limpieza de la zona afectada.  
+4. El Coordinador de Comunicaciones informará a las autoridades 
+pertinentes y a las comunidades vecinas.  
+5. Siempre se deben identificar con certeza el producto derramado, 
+tomando en cuenta una eventual incompatibilidad de los productos 
+que se pudiese producir. 
+6. Al detectarse derrames de magnitud mayor, se activará Plan de 
+Emergencia de Planta. Para ello la persona que lo detecte, deberá 
+informar el hecho de manera inmediata al jefe de Área y al 
+Coordinador de Brigada, ya sea por radio o a viva voz indicando 
+“Emergencia: Derrame Mayor”.  
+7. Personal de la Brigada, deberá confinar el área afectada utilizando 
+cinta de peligro (disponible en Brigada), la zona del derrame en un 
+radio de 30 metros. Se deberá considerar la dirección del viento, 
+observando el cataviento de la planta, para así posicionarse en zona 
+adecuada. 
+8. El Coordinador de Brigada deberá identificar cantidad y residuo 
+derramado, para posteriormente definir la forma en la cual deberá 
+ser controlada la emergencia. 
+9. Solo podrá intervenir personal perteneciente a la Brigada de 
+Emergencia, los que previamente deberán equiparse con los 
+elementos de protección personal aptos para iniciar los trabajos de 
+control.  
+10. Retirar otros productos desde las inmediaciones que interfieran con 
+las maniobras de control o pudiesen reaccionar.  
+11. En caso de residuos líquidos preparar diques o barreras de 
+contención con material absorbente.  
+12. Donde exista acumulación de producto derramado (dique o barrera) 
+agregar material absorbente en exceso para contener todo el 
+producto derramado. 
+13. Utilizar palas, escobillones y recipientes apropiados para recoger el 
+residuo o material absorbente contaminado.  
+14. Desmontar y limpiar prolijamente el equipo y los elementos 
+utilizados.  
+15. Se deberá realizar un reporte de Hallazgo para este tipo de derrames 
+y/o derrames que puedan afectar a terceros fuera de Planta. 
+Medidas posteriores: 
+1. Reparar las estructuras y/o ductos que originaron la falla y posterior 
+derrame.  
+
+===== p.42 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+41 
+ 
+ 
+ 
+ 
+2. En caso de alcanzar algún canal y/o estero, se debe succionar toda 
+la cantidad que alcanzó a dichos estero e inyectarle agua de estero, 
+aguas arriba. 
+3. El suelo contaminado se procederá a su retiro y almacenamiento de 
+contenedor IBC y se dispondrá en el patio de residuos peligrosos 
+para posterior retiro por una empresa especializada. 
+4. Reconstruir los sistemas de conducción  
+5. Realizar análisis causal del evento  
+6. Realizar medidas ingenieriles correctivas  
+7. En caso de afectar un efluente el Coordinador de Comunicaciones 
+deberá Informar a las autoridades pertinentes, Dirección General de 
+Aguas y la Superintendencia del Medio Ambiente de la V región.  
+8. En caso de afectar cursos de agua, se realizará muestreo y análisis 
+de calidad de agua estará a cargo de una entidad ETFA. 
+9. Reconstruir toda instalación operativa afectada, con el fin de volver 
+a la normalidad.  
+ 
+ 
+8.8.7.11 EXPLOCION POR TAPONAMIENTOS DE DUCTOS DE SISTEMA DE EXTRACCIÓN DE BIOGÁS  
+Tabla 34: Plan de Emergencia – Explosión por taponamiento de ductos de sistema de 
+extracción de biogás   
+Explosión por taponamiento de ductos de sistema de extracción de biogás   
+Fase del proyecto a la que aplica   
+Fase de operación 
+Emplazamiento, parte, obra o acción 
+asociada  
+Relleno Sanitario y en especial, Sistema de Extracción y conducción de 
+Biogás, planta de quema de biogás. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+Cuando el nivel de presión esté cerca del límite o cuando se observen 
+lixiviados fluyendo por los ductos de gases, y en especial, en caso de que 
+se produzca una explosión, se procederá a realizar lo siguiente: 
+ 
+1. Se habilitará una vía de acceso para facilitar la intervención de 
+instituciones de socorro. 
+2. Se evacuarán los heridos en caso de que corresponda.  
+3. Se habilitará una celda del relleno sanitario para recibir los desechos 
+dispersos.  
+4. Se causarán los lixiviados. 
+5. Se construirá la infraestructura afectada. 
+ 
+ 
+ 
+8.8.7.12 INCENDIOS EN LA MASA DE BASURA 
+Tabla 35: Plan de Emergencia – Incendios en la masa de basura 
+Incendios en la masa de basura 
+Fase del proyecto a la que aplica   
+Fase de operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Relleno sanitario. 
+Acciones o medidas a implementar Cuando se detecte la presencia de material incandescente en el frente 
+
+===== p.43 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+42 
+ 
+ 
+ 
+ 
+para Controlar la emergencia  
+de trabajo o cuando haya un incendio en la masa interna de basura, se 
+procederá a realizar lo siguiente:  
+1. Con el apoyo de maquinaria, se procederá a apagar los desechos 
+incandescentes utilizando tierra o extintor. 
+2. En caso de ser necesario, se pedirá apoyo a las unidades de 
+emergencia respectivas (bomberos).  
+3. En caso de que el Coordinador de Emergencia establezca la 
+necesidad de evacuación, los trabajadores se dirigirán hacia las 
+zonas de seguridad definidas. 
+4. Una vez controlada la emergencia, se debe verificar que los 
+desechos incandescentes hayan sido cubiertos totalmente. 
+Adicionalmente, se identifican medidas particulares asociadas al Plan de 
+Emergencia y Contingencias del proyecto, las cuales se detallan a 
+continuación: 
+ 
+Medidas Inmediatas: 
+1. En caso de descubrir un fuego incipiente dentro de las celdas de 
+relleno sanitario, el trabajador que lo detecte deberá informar de 
+manera inmediata a Encargado de Depósitos, quien evaluará y 
+controlará la emergencia con los dispositivos de extinción de 
+incendios de espuma destinados en el área, de ser necesario, 
+solicitará apoyo de excavadora del área, la cual realizará maniobras 
+de segregación y sofocación para extinguir el fuego con tierra 
+dispuesta en el área. También podrá solicitar el apoyo del camión 
+aljibe para la extinción de material incandescente. 
+2. Adicionalmente debe informar vía Radio portátil y/o celular, al 
+Coordinador de Emergencias para activar el Plan de Emergencias y 
+solicitar 
+inmediatamente 
+al 
+Coordinador 
+de 
+Brigada 
+el 
+equipamiento de sus brigadistas para que asistan al evento y apoyen 
+en el control de este. 
+3. Si se detecta que la concentración de metano es alta (de acuerdo 
+con la medición de LEL), se establecerán las medidas necesarias para 
+evacuar a los trabajadores de la Planta y eliminar todas las fuentes 
+de ignición. 
+4. El Coordinador de la Emergencia solicitará el apoyo de bomberos en 
+caso de que el incendio no pueda ser controlado por medio propios 
+de la empresa y se hará cargo del control de la emergencia. 
+5. El Coordinador de Comunicaciones informará a las autoridades 
+pertinentes y a la comunidad vecina si es necesario. En caso de 
+peligro potencial de afectación a la comunidad aledaña, se deberá 
+determinar en conjunto con la autoridad sanitaria, las medidas de 
+protección adecuadas. 
+Medidas posteriores: 
+1. Bomberos, cuando esté presente, inspeccionará junto con el 
+Gerente Planta o Experto en Prevención de Riesgos el lugar antes de 
+hacer el retiro.  
+2. El Gerente Planta y Experto en Prevención de Riesgos deberán 
+asegurarse de que los desechos incandescentes hayan sido 
+cubiertos totalmente. 
+
+===== p.44 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+43 
+ 
+ 
+ 
+ 
+ 
+8.8.7.13 INFILTRACIÓN DE LIXIVIADO POR FALLAS O FISURAS DEL SISTEMA DE IMPERMEABILIZACIÓN. 
+ 
+Tabla 36: Plan de Emergencia – Infiltración del lixiviado por fallas o fisuras del sistema 
+de impermeabilización 
+Infiltración de lixiviado por fallas o fisuras del sistema de impermeabilización 
+Fase del proyecto a la que aplica   
+Fase de operación. 
+Emplazamiento, parte, obra o acción 
+asociada  
+Celdas de Relleno sanitario, Sistema de recolección de lixiviados y 
+manejo de lixiviados, piscinas de lixiviado, bandejas de evaporación. 
+Acciones o medidas a implementar 
+para Controlar la emergencia  
+En caso de detectarse alguna alza o desviaciones en los parámetros de 
+análisis de agua en el control de los pozos aguas, respecto a estos se 
+realizarán las siguientes acciones:  
+1. Se aumentará la frecuencia de monitoreo  
+2. En lo que respecta al relleno, se aumentará la frecuencia de bombeo 
+de los líquidos lixiviados contenidos.  
+3. Se procederá a disminuir el frente de trabajo y tapar con HDPE las 
+áreas no operativas expuestas del relleno y depósito. 
+4. 
+En relación con los parámetros que se vieron superados y la 
+data histórica, se procederá a efectuar un estudio de riesgos 
+que permita identificar la magnitud de una eventual afectación. 
+ 
+8.8.8 OPORTUNIDAD Y VÍAS DE COMUNICACIÓN A LA SMA DE ACTIVACIÓN DEL PLAN DE EMERGENCIA 
+ 
+La notificación a la Superintendencia del Medio Ambiente de la activación del Plan de 
+Emergencias será gestionada por el Coordinador de Comunicación, el cual entregará la 
+siguiente información, dentro de un plazo de 24 horas de ocurrido el evento:  
+● Identificación de la empresa  
+● Identificación de la emergencia  
+● Descripción del incidente donde se detalle fecha, hora, lugar, causas, medidas de 
+control y efectos no deseados provocados. 
+ 
+8.8.9 PROCEDIMIENTO ESPECÍFICOS ANTE SITUACIÓN DE EMERGENCIA. 
+Después de ocurrida la emergencia y cuando se haya establecido la condición normal de 
+operación, se reunirán el Gerente del proyecto, Jefe de planta y el Encargado en prevención 
+de riesgos y Medio Ambiente, con el fin de evaluar: 
+ 
+1. Causas que generaron la emergencia  
+2. Forma de enfrentarla  
+3. Canales de comunicación y decisiones tomadas  
+4. Para declarar el fin de la emergencia se debe conformar lo siguiente:  
+5. Los equipos de emergencia externos deben haberse retirado de las instalaciones.  
+6. Si existieron condiciones externas para la emergencia, la información referente al 
+siniestro debe llegar de personal externo (vecinos, autoridad)  
+
+===== p.45 =====
+ 
+CAPÍTULO 8 PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+44 
+ 
+ 
+ 
+ 
+7. No deben existir condiciones de peligro anormales para cualquier trabajador que 
+ingrese al área. Para ello el Coordinador de la Emergencia deberá revisar 
+minuciosamente el área siniestrada con el fin de cuantificar daños, evaluar nuevos 
+riesgos y/o verificar condición normal.  
+8. Operadores en terreno deberán informar situación de planta.  
+9. Una vez verificado lo anterior, el Coordinador de Emergencia autoriza volver a 
+condición normal y el correspondiente ingreso al área. 
+10. Cada trabajador de la compañía vuelve a sus funciones cotidianas.  
+11. El encargado de comunicaciones informa a los vecinos y autoridades que fueron 
+informadas previamente sobre la emergencia señalando el fin de ésta.  
+12. Este análisis, deberá generar acciones preventivas y/o correctivas dirigidas a 
+mejorar condiciones de operación y este Plan de emergencia. 
+ 
+8.8.10 REVISIÓN DEL PLAN DE EMERGENCIAS. 
+El Plan deberá ser revisado una vez al año como mínimo y/o después de acontecida una 
+emergencia de cualquier índole estipulada en este documento. 
+ 

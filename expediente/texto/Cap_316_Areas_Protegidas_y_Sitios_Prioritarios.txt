@@ -1,0 +1,996 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS 
+PRIORITARIOS
+Documento Preparado por:
+Mayo 2026
+
+===== p.1 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1 | 18
+ÍNDICE
+1. INTRODUCCIÓN
+3
+2. OBJETIVOS
+3
+2.1 Objetivo General
+3
+2.2 Objetivos Específicos
+3
+3. DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA
+4
+3.1 Área de estudio
+4
+3.2 Área de dispersión de material particulado sedimentable
+4
+3.3 Superposición del área de dispersión y de la superficie de intervención con los objetos de 
+protección
+4
+3.4 Determinación del Área de Influencia
+5
+4. METODOLOGÍA
+6
+5. RESULTADOS
+9
+5.1 Sistema Nacional de Áreas Silvestres Protegidas del Estado (SNASPE)
+9
+5.2 Santuarios de la Naturaleza
+9
+5.3 Otras áreas colocadas bajo protección oficial (Reservas Forestales, Bien Nacional 
+Protegido, Sitios Ramsar y áreas marinas)
+10
+5.4 Zonas de Interés Turístico (ZOIT)
+10
+5.5 Humedal Urbano Estero Quilpué, Sector Quilpué
+11
+5.6 Sitios Prioritarios para la Conservación de la Biodiversidad
+13
+5.7 Otras Designaciones
+13
+5.8 Resumen
+16
+6. CONCLUSIONES
+17
+7. REFERENCIAS
+18
+
+===== p.2 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2 | 18
+ÍNDICE DE TABLAS
+Tabla 1. Áreas Protegidas y Áreas Colocadas Bajo Protección Oficial para efectos del SEIA
+Tabla 2. Reclasificación de categorías de protección conforme a la Ley N°21.600 (SBAP)
+Tabla 3. Áreas SNASPE en la Región de Valparaíso y relación con el Proyecto
+Tabla 4. Santuarios de la Naturaleza en la Región de Valparaíso y relación con el Proyecto
+Tabla 5. Zonas de Interés Turístico vigentes en la Región de Valparaíso y relación con el Proyecto
+Tabla 6. Humedal Urbano identificado en el área de estudio
+Tabla 7. Sitios Prioritarios reconocidos para efectos del SEIA – Región de Valparaíso
+Tabla 8. Relación espacial del Proyecto con la zonificación de la Reserva de la Biosfera La 
+Campana-Peñuelas
+Tabla 9. Resumen de áreas bajo protección oficial, áreas protegidas y sitios prioritarios, y su 
+relación con el Área de Influencia del Proyecto
+ÍNDICE DE FIGURAS
+Figura 1. Área de Influencia del componente Áreas Protegidas y Sitios Prioritarios para la 
+Conservación (intersección del área de dispersión de MPS con el Humedal Urbano Estero 
+Quilpué)
+Figura  2.  Relación  espacial  del  Proyecto  con  Áreas  Protegidas  y  Áreas  Colocadas  Bajo 
+Protección Oficial
+Figura 3. Relación espacial del Proyecto con Sitios Prioritarios
+Figura 4. Relación espacial del Proyecto con la Reserva de la Biosfera La Campana-Peñuelas
+
+===== p.3 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3 | 18
+1. INTRODUCCIÓN
+De conformidad con lo dispuesto en el literal e.7) del artículo 18 del Reglamento del Sistema de 
+Evaluación de Impacto Ambiental (D.S. N°40/2012, del Ministerio del Medio Ambiente, en 
+adelante el Reglamento del SEIA), el presente capítulo contiene la Línea de Base del componente 
+Áreas Protegidas y Sitios Prioritarios para la Conservación de la Biodiversidad correspondiente al 
+Estudio de Impacto Ambiental (EIA) del proyecto Centro Metropolitano de Gestión Integral de 
+Residuos (CMGIR), emplazado en la comuna de Viña del Mar, Región de Valparaíso.
+El Artículo 8° del Reglamento del SEIA (DS. N° 40/2012) establece que se entenderá que el 
+proyecto o actividad se localiza en o próxima a poblaciones, recursos y áreas protegidas, sitios 
+prioritarios para la conservación, humedales protegidos, glaciares o a un territorio con valor 
+ambiental, cuando estos se encuentren en el área de influencia del proyecto o actividad. Define 
+las áreas protegidas como porciones de territorio delimitadas geográficamente y establecidas 
+mediante acto administrativo de autoridad competente, colocadas bajo protección oficial con la 
+finalidad de asegurar la diversidad biológica, tutelar la preservación de la naturaleza o conservar 
+el patrimonio ambiental. Para evaluar la susceptibilidad de afectación de recursos y áreas 
+protegidas, sitios prioritarios, humedales protegidos, glaciares o territorios con valor ambiental, el 
+mismo artículo dispone considerar la extensión, magnitud o duración de la intervención de las 
+partes, obras o acciones, así como de los impactos generados por el proyecto o actividad, 
+teniendo en especial consideración los objetos de protección que se pretenden resguardar.
+De lo anterior se desprende que un objeto de protección se encuentra en el Área de Influencia del 
+Proyecto cuando es alcanzado por las partes, obras y acciones del Proyecto o por los impactos 
+que este genera. En consecuencia, la determinación del Área de Influencia de este componente 
+considera tanto la intervención física directa sobre los polígonos protegidos como las vías de 
+impacto del Proyecto que alcanzan dichos objetos, entre ellas la depositación de material 
+particulado sedimentable (MPS).
+Los  sitios  prioritarios  para  la  conservación  de  la  biodiversidad  relevantes  para  el  SEIA 
+corresponden a aquellos reconocidos mediante el Oficio Ordinario SEA N°100143/2010, cuya 
+intersección con el Área de Influencia configura la causal del artículo 11, letra d) de la Ley 
+N°19.300. Los sitios prioritarios identificados por instrumentos regionales que no integran dicho 
+listado no constituyen objetos de protección para efectos del SEIA.
+2. OBJETIVOS
+2.1 Objetivo General
+Identificar  las  áreas  bajo  protección  oficial,  áreas  protegidas  y  sitios  prioritarios  para  la 
+conservación de la biodiversidad, y determinar el Área de Influencia del componente.
+2.2 Objetivos Específicos
+
+Identificar, en el área de estudio de escala regional (Región de Valparaíso), las áreas 
+colocadas  bajo  protección  oficial,  áreas  protegidas  y  sitios  prioritarios  para  la 
+conservación.
+
+Representar el área de dispersión de material particulado sedimentable del Proyecto, en 
+tanto insumo del medio físico modelado, y superponerla con los objetos de protección 
+identificados.
+
+===== p.4 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4 | 18
+
+Determinar el Área de Influencia del componente como la porción de los objetos de 
+protección alcanzada por las partes, obras y acciones del Proyecto o por sus impactos.
+3. DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA
+La determinación del Área de Influencia se realizó teniendo como base los lineamientos y criterios 
+señalados en la Guía para la Descripción del Área de Influencia en el SEIA (SEA, 2ª edición, 
+2026). Según dicho documento, el área de influencia de un proyecto o actividad se define como "el 
+área o espacio geográfico, cuyos atributos, elementos naturales o socioculturales deben ser 
+considerados con la finalidad de definir si el proyecto o actividad genera o presenta alguno de los 
+efectos, características o circunstancias del artículo 11 de la Ley, o bien para justificar la 
+inexistencia de dichos efectos o circunstancias".
+La determinación del Área de Influencia de este componente se desarrolla conforme al marco 
+conceptual de la referida Guía, que distingue el área de estudio, el área de dispersión y el área de 
+influencia. El área de estudio corresponde a la superficie ampliada que se caracteriza para 
+comprender  el  contexto  ambiental  en  que  se  localiza  el  Proyecto;  el  área  de  dispersión 
+corresponde a la representación de una emisión sobre el medio físico que ha sido modelada; y el 
+área de influencia representa la extensión de impactos sobre un objeto de protección receptor. La 
+secuencia metodológica aplicada considera, sucesivamente, la definición del área de estudio, la 
+representación del área de dispersión de MPS, la superposición de esta con los objetos de 
+protección presentes, y la determinación del Área de Influencia resultante.
+3.1 Área de estudio
+Para la identificación y contextualización de los objetos de protección se consideró un área de 
+estudio de escala regional, correspondiente a la Región de Valparaíso. Esta área constituye el 
+insumo técnico para reconocer la totalidad de las áreas colocadas bajo protección oficial, áreas 
+protegidas y sitios prioritarios reconocidos para efectos del SEIA, y no corresponde por sí misma 
+al Área de Influencia del componente.
+3.2 Área de dispersión de material particulado sedimentable
+El artículo 8 del Reglamento del SEIA dispone considerar los impactos generados por el Proyecto 
+sobre los objetos de protección, además de la intervención de sus partes, obras y acciones. Entre 
+dichos  impactos  se  encuentra  la  depositación  de  material  particulado  sedimentable,  cuya 
+representación espacial corresponde al área de dispersión de MPS modelada para el Proyecto 
+(Modelación de Emisiones Atmosféricas). 
+3.3 Superposición del área de dispersión y de la superficie de intervención con los 
+objetos de protección
+La superposición de la superficie de intervención de las partes, obras y acciones permanentes y 
+temporales del Proyecto y del área de dispersión de MPS con los polígonos de los objetos de 
+protección reconocidos para efectos del SEIA arroja el siguiente resultado:
+
+Humedal Urbano Estero Quilpué: área colocada bajo protección oficial en virtud de la 
+Ley N°21.202, alcanzada por el área de dispersión de MPS del Proyecto en una 
+intersección de 5,541 hectáreas. No es alcanzada por la superficie de intervención del 
+Proyecto ni presenta conectividad de drenaje con el sector de este.
+
+Restantes áreas colocadas bajo protección oficial y áreas protegidas (SNASPE, 
+Santuarios de la Naturaleza, Reservas Forestales, Sitios Ramsar, Parques Marinos y 
+Áreas Marinas Costeras Protegidas): ninguna es alcanzada por la superficie de 
+intervención ni por el área de dispersión del Proyecto (ver secciones 5.1 a 5.4).
+
+===== p.5 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5 | 18
+
+Sitios prioritarios reconocidos para efectos del SEIA (Oficio N°100143/10): ninguno 
+de los cinco sitios prioritarios identificados en la Región de Valparaíso es alcanzado por 
+la superficie de intervención ni por el área de dispersión del Proyecto (ver sección 5.6).
+3.4 Determinación del Área de Influencia
+El Área de Influencia del componente corresponde a la porción del objeto de protección alcanzada 
+por los impactos del Proyecto, que en el presente caso queda constituida por la intersección del 
+área de dispersión de material particulado sedimentable con el Humedal Urbano Estero Quilpué, 
+con una superficie de 5,54 hectáreas. Esta pertenencia al Área de Influencia deriva de que el 
+humedal es alcanzado por un impacto del Proyecto y es independiente de la magnitud de dicho 
+impacto, de modo que el objeto de protección se mantiene en el Área de Influencia con 
+prescindencia de si la afectación resulta marginal o significativa, materia que no se resuelve en 
+esta etapa.
+Figura 1. Área de Influencia del componente Áreas Protegidas y Sitios Prioritarios para la Conservación (intersección 
+del área de dispersión de MPS con el Humedal Urbano Estero Quilpué)
+
+===== p.6 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6 | 18
+4. METODOLOGÍA
+La identificación y caracterización de las áreas protegidas, áreas colocadas bajo protección 
+oficial, sitios prioritarios para la conservación de la biodiversidad y otras designaciones de interés 
+para  la  conservación  se  realizó  mediante  revisión  bibliográfica  y  análisis  de  información 
+geoespacial,  siguiendo  el  marco  normativo  e  instructivo  del  SEA.  Las  principales  fuentes 
+consultadas fueron las siguientes:
+
+Registro Nacional de Áreas Protegidas del Ministerio del Medio Ambiente.
+
+Análisis territorial de la plataforma del SEA (fecha de descarga 11/05/2026).
+
+Sistema de Información y Monitoreo de Biodiversidad (SIMBIO) del Ministerio del Medio 
+Ambiente.
+
+Consejo de Monumentos Nacionales de Chile.
+
+Estrategia y Plan de Acción para la Conservación de la Diversidad Biológica, Región de 
+Valparaíso (CONAMA-PNUD, 2005).
+
+Oficios Ordinarios SEA N°130844/2013, N°161081/2016 y N°100143/2010.
+
+Modelación de Emisiones Atmosféricas del Proyecto, de la cual proviene el área de 
+dispersión de material particulado sedimentable (MPS) empleada como insumo para la 
+determinación del Área de Influencia. Ante la inexistencia de una norma nacional de 
+calidad  para  MPS,  la  modelación  adopta  como  referencia  la  Ordenanza  de  la 
+Confederación Suiza sobre Control de Contaminación del Aire, que fija un límite de 200 
+mg/m²·día como deposición promedio anual. La isolínea de máxima extensión del área de 
+dispersión corresponde al 1,0% de dicha norma, esto es, 2,0 mg/m²·día, con la cual el área 
+de dispersión de MPS alcanza una superficie de 1.711 ha. Esta superficie constituye el 
+insumo espacial sobre el cual se determina el Área de Influencia del componente, 
+mediante su intersección con los objetos de protección presentes.
+La verificación de la intersección espacial se efectuó mediante el cruce de capas vectoriales en la 
+plataforma de análisis territorial del SEA y con software de información geográfica QGIS, 
+superponiendo la superficie de intervención del Proyecto y el área de dispersión de MPS con los 
+polígonos de los objetos de protección identificados.
+Los instructivos del SEA distinguen dos conceptos: las áreas protegidas, relevantes para el 
+artículo 10 de la Ley N°19.300, y las áreas colocadas bajo protección oficial, relevantes para el 
+artículo 11. Ambos conceptos se presentan de forma consolidada en la Tabla 1, que identifica, 
+para cada categoría, su condición de área protegida y/o de área colocada bajo protección oficial.
+Tabla 1. Áreas Protegidas y Áreas Colocadas Bajo Protección Oficial para efectos del SEIA
+N°
+Categoría
+Área 
+Protegida 
+(Art. 10)
+Área Colocada 
+Bajo Protección 
+Oficial (Art. 11)
+Fuente SEA / normativa
+1
+Parque Nacional o Parque Nacional 
+de Turismo
+Sí
+Sí
+ORD D.E. N°130844/13
+2
+Reserva Nacional
+Sí
+Sí
+ORD D.E. N°130844/13
+3
+Monumento Natural
+Sí
+Sí
+ORD D.E. N°130844/13
+4
+Reserva de Región Virgen
+Sí
+Sí
+ORD D.E. N°130844/13
+5
+Santuario de la Naturaleza
+Sí
+Sí
+ORD D.E. N°130844/13
+6
+Parque Marino
+Sí
+Sí
+ORD D.E. N°130844/13
+7
+Reserva Marina
+Sí
+Sí
+ORD D.E. N°130844/13
+
+===== p.7 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7 | 18
+N°
+Categoría
+Área 
+Protegida 
+(Art. 10)
+Área Colocada 
+Bajo Protección 
+Oficial (Art. 11)
+Fuente SEA / normativa
+8
+Reserva de Bosque o Reserva 
+Forestal
+Sí
+Sí
+ORD D.E. N°130844/13
+9
+Acuífero que alimenta vegas y 
+bofedales (Regiones XV, I y II)
+Sí
+Sí
+ORD D.E. N°130844/13
+10
+Bien Nacional Protegido o Inmueble 
+Fiscal para Fines de Conservación 
+Ambiental
+Sí
+Sí
+ORD D.E. N°130844/13
+11
+Área Marina Costera Protegida o 
+AMCP de Múltiples Usos (con 
+objetivo de protección ambiental)
+Sí
+Sí
+ORD D.E. N°130844/13
+12
+Humedal de Importancia 
+Internacional - Lista Ramsar
+No
+Sí
+ORD D.E. N°130844/13
+13
+Monumento Histórico
+No
+Sí
+ORD D.E. N°130844/13
+14
+Zona Típica o Pintoresca
+No
+Sí
+ORD D.E. N°130844/13
+15
+Zona de Interés Turístico
+No
+Sí
+ORD D.E. N°130844/13 / 
+Ley N°20.423
+16
+Zona de Conservación Histórica
+No
+Sí
+ORD N°161081/16
+17
+Inmuebles de Conservación 
+Histórica
+No
+Sí
+ORD N°161081/16
+18
+Humedales declarados sitios 
+prioritarios para la conservación de 
+la biodiversidad
+No
+Sí
+ORD N°161081/16
+19
+Humedal Urbano declarado
+Sí
+Sí
+Ley  N°21.202  /  D.S. 
+N°15/2020 MMA
+20
+Áreas de protección de recurso de 
+valor natural dictadas con sujeción a 
+la OGUC
+No
+Sí
+ORD N°161081/16
+Conforme se presenta en la Tabla 1, las categorías N°1 a 11 constituyen tanto áreas protegidas 
+para efectos del artículo 10 de la Ley N°19.300 como áreas colocadas bajo protección oficial para 
+efectos del artículo 11. Las categorías N°12 a 20 corresponden exclusivamente a áreas colocadas 
+bajo  protección  oficial.  Adicionalmente,  los  sitios  prioritarios  para  la  conservación  de  la 
+biodiversidad reconocidos mediante el Oficio N°100143/10 constituyen la categoría relevante 
+para la causal del artículo 11, letra d) de la Ley N°19.300.
+Reclasificación conforme a la Ley N°21.600 (SBAP)
+La Ley N°21.600, que crea el Servicio de Biodiversidad y Áreas Protegidas (SBAP) y el Sistema 
+Nacional de Áreas Protegidas, reorganiza las categorías de protección en seis clases, según el 
+grado de protección y el manejo pretendido. La correspondencia entre las categorías vigentes y 
+las categorías del SBAP se presenta en la Tabla 2. 
+Tabla 2. Reclasificación de categorías de protección conforme a la Ley N°21.600 (SBAP)
+N°
+Categoría SBAP (Ley N°21.600)
+Categorías vigentes que agrupa
+1
+Reserva de Región Virgen
+Reserva de Región Virgen
+2
+Parque Nacional
+Parque Nacional, Parque Marino
+
+===== p.8 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8 | 18
+N°
+Categoría SBAP (Ley N°21.600)
+Categorías vigentes que agrupa
+3
+Monumento Natural
+Monumento Natural
+4
+Reserva Nacional
+Reserva Nacional, Reserva Forestal, Reserva Marina
+5
+Área de Conservación de Múltiples Usos
+Área Marina Costera Protegida de Múltiples Usos
+6
+Área  de  Conservación  de  Pueblos 
+Indígenas o Espacio Costero Marino de 
+Pueblos Originarios
+Categorías con administración de pueblos indígenas
+De acuerdo con las disposiciones transitorias La Ley N°21.600, la administración en terreno del 
+Programa de Áreas Silvestres Protegidas continúa transitoriamente a cargo de la Corporación 
+Nacional Forestal (CONAF) hasta la concreción del traspaso definitivo de competencias al SBAP 
+(programado para 2027). Por este motivo, en el presente estudio se mantiene la denominación 
+operativa SNASPE para hacer referencia a los Parques Nacionales, Reservas Nacionales y 
+Monumentos Naturales administrados por CONAF e integrados al SNAP.
+5. RESULTADOS
+A continuación se presenta la revisión de las categorías identificadas en la Tabla 1, verificando su 
+presencia en el área de estudio y su relación espacial con la superficie de intervención y el área de 
+dispersión del Proyecto. La revisión se organiza agrupando las categorías según su naturaleza: 
+las áreas del Sistema Nacional de Áreas Silvestres Protegidas del Estado (SNASPE), que 
+comprenden las categorías de Parque Nacional, Reserva Nacional y Monumento Natural; los 
+Santuarios de la Naturaleza; las restantes áreas colocadas bajo protección oficial (Otras áreas 
+colocadas bajo protección oficial (Reservas Forestales, Bien Nacional Protegido, Sitios Ramsar y 
+áreas marinas)); las Zonas de Interés Turístico; el Humedal Urbano declarado; y los Sitios 
+Prioritarios para la Conservación de la Biodiversidad reconocidos para efectos del SEIA. Las 
+designaciones que no constituyen objetos de protección para este componente se tratan en el 
+apartado de Otras Designaciones.
+5.1 Sistema Nacional de Áreas Silvestres Protegidas del Estado (SNASPE)
+En la Región de Valparaíso se registran siete áreas pertenecientes al SNASPE, se listan aquellas 
+situadas en el Chile continental.
+Tabla 3. Áreas SNASPE en la Región de Valparaíso y relación con el Proyecto
+N°
+Nombre
+Categoría
+Sup. (ha)
+Comuna
+Año
+Dist. 
+aprox.
+1
+Parque Nacional La 
+Campana
+Parque 
+Nacional
+8.000
+Olmué / Hijuelas
+1967
+~34 km 
+NE
+2
+Reserva Nacional Lago 
+Peñuelas
+Reserva 
+Nacional
+9.262
+Casablanca/Quilpué/
+Valparaíso/Viña del Mar
+1952
+~2,5 
+km SE
+3
+Monumento Natural Isla 
+Cachagua
+Monumento 
+Natural
+4,5
+Zapallar
+1989
+~40 km 
+N
+4
+Reserva Nacional Río 
+Blanco
+Reserva 
+Nacional
+4.496
+Los Andes
+1932
+~80 km 
+NE
+5
+Reserva Nacional El Yali
+Reserva 
+Nacional
+520
+Santo Domingo
+1996
+~75 km 
+S
+
+===== p.9 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9 | 18
+Ninguna de las áreas del SNASPE es alcanzada por la superficie de intervención ni por el área de 
+dispersión  del Proyecto.  El  área  más  cercana  es la Reserva  Nacional Lago Peñuelas, a 
+aproximadamente 2,5 km al sureste. Ninguna integra el Área de Influencia del componente.
+5.2 Santuarios de la Naturaleza
+En la Región de Valparaíso se encuentran declaradas 15 áreas bajo esta figura.
+Tabla 4. Santuarios de la Naturaleza en la Región de Valparaíso y relación con el Proyecto
+N°
+Nombre
+Comuna
+Año
+Distancia aprox. al  
+Proyecto
+1
+SN Palmar El Salto
+Viña del Mar
+1998
+~1,8 km NO
+2
+SN Campo Dunar de La Punta de 
+Concón
+Concón / Viña del Mar
+1994-2013
+~15 km NO
+3
+SN Roca Oceánica
+Concón
+1990
+~16 km NO
+4
+SN Bosque Las Petras de Quintero Quintero
+1994
+~30 km N
+5
+SN Isla de Cachagua
+Zapallar
+1979
+~40 km N
+6
+SN  Acantilados  Federico  Santa 
+María
+Valparaíso
+2006
+~12 km SO
+7
+SN Serranía El Ciprés
+San Felipe
+2006
+~45 km NE
+8
+SN Humedal de Tunquén
+Algarrobo/Casablanca
+2015
+~30 km SO
+9
+SN Islote Pájaros Niños
+Algarrobo
+1978
+~50 km S
+10
+SN Islote Peña Blanca
+Algarrobo
+1982
+~55 km S
+11
+SN El Zaino - Laguna El Copín
+Santa María
+2020
+~50 km E
+12
+SN Quebrada de Córdova
+El Quisco
+2017
+~55 km S
+13
+SN Laguna El Peral
+El Tabo
+1975
+~60 km S
+14
+SN Predio Santa Inés
+Los Vilos / La Ligua
+2020
+~80 km N
+15
+SN Islas oceánicas Salas y Gómez Isla de Pascua
+1976
+Insular
+Ningún Santuario de la Naturaleza es alcanzado por la superficie de intervención ni por el área de 
+dispersión del Proyecto. El Santuario de la Naturaleza Palmar El Salto (D.S. N°805/1998) se 
+localiza en la zona sur de la comuna de Viña del Mar; su polígono no es intersectado por el 
+Proyecto. Los restantes Santuarios se localizan a más de 12 km. Ninguno integra el Área de 
+Influencia del componente.
+5.3  Otras  áreas  colocadas  bajo  protección  oficial  (Reservas  Forestales,  Bien 
+Nacional Protegido, Sitios Ramsar y áreas marinas)
+Las Reservas Forestales Lago Peñuelas y Río Blanco se localizan a más de 2,5 km del Proyecto, 
+en tanto el Bien Nacional Protegido Quebrada de Córdova, única área de esta categoría en la 
+región, se ubica a aproximadamente 55 km al sur, y los Sitios Ramsar de la región (Humedal El 
+Yali y Parque Andino Juncal) a más de 100 km. Las categorías de Monumentos Históricos y 
+Zonas Típicas presentes en la región se emplazan en sectores urbanos consolidados, fuera de la 
+superficie de intervención y del área de dispersión de material particulado sedimentable del 
+Proyecto.
+Las categorías marinas de la región, correspondientes a Parques Marinos y Áreas Marinas 
+Costeras Protegidas de Múltiples Usos, se localizan en el sector insular (Archipiélago de Juan 
+Fernández e Isla de Pascua) o en el litoral centro-sur de la región, a distancias que superan 
+
+===== p.10 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10 | 18
+largamente el alcance del Proyecto. Por su parte, en la Región de Valparaíso no existen Reservas 
+Marinas declaradas, y la categoría de Acuíferos que alimentan vegas y bofedales no resulta 
+aplicable por restricción territorial, al ser exclusiva de las Regiones XV, I y II.
+En consecuencia, ninguna de estas categorías es alcanzada por las partes, obras o acciones del 
+Proyecto ni por su área de dispersión de material particulado sedimentable (MPS), descartándose 
+su integración en el Área de Influencia del componente
+5.4 Zonas de Interés Turístico (ZOIT)
+Las Zonas de Interés Turístico se declaran conforme a la Ley N° 20.423 y al Decreto Supremo N° 
+30/2016 del Ministerio de Economía, Fomento y Turismo, y constituyen una categoría de área 
+colocada bajo protección oficial para efectos del SEIA (Oficio Ordinario D.E. N° 130844/2013). En 
+la Región de Valparaíso se encuentran vigentes cinco ZOIT, cuya relación espacial con el 
+Proyecto se presenta en la Tabla 5.
+Tabla 5. Zonas de Interés Turístico vigentes en la Región de Valparaíso y relación con el 
+Proyecto
+N°
+ZOIT
+Instrumento
+Dist. aprox. al Proyecto
+1
+ZOIT Valparaíso
+Ley N°20.423 / Decreto N°30
+~10-15 km SO
+2
+ZOIT Casablanca
+Ley N°20.423 / Decreto N°30
+~30 km SO
+3
+ZOIT Olmué
+Ley N°20.423 / Decreto N°30
+~35 km NE
+4
+ZOIT Putaendo
+Ley N°20.423 / Decreto N°30
+~90 km NE
+5
+ZOIT Robinson Crusoe
+Ley N°20.423 / Decreto N°30
+Insular
+5.5 Humedal Urbano Estero Quilpué, Sector Quilpué
+En virtud de la Ley N° 21.202 y el D.S. N° 15/2020 del MMA, la lista de humedales urbanos 
+declarados constituye una categoría de área colocada bajo protección oficial para efectos del 
+SEIA (Oficio Ord. N° 161081/2016). Mediante la Resolución Exenta N° 1.138 del Ministerio del 
+Medio Ambiente, publicada el 18 de diciembre de 2021, se reconoció a solicitud de la I. 
+Municipalidad de Quilpué el Humedal Urbano Estero Quilpué, Sector Quilpué, correspondiente a 
+un  humedal  continental,  natural,  ribereño  y  permanente,  con  una  superficie  total  de  20,3 
+hectáreas, ubicado parcialmente dentro del límite urbano de la comuna de Quilpué.
+Tabla 6. Humedal Urbano identificado en el área de estudio
+Nombre
+Código
+Comuna
+Acto de 
+declaración
+Superficie 
+declarada
+Vía de relación 
+con el Proyecto
+Humedal Urbano 
+Estero Quilpué, 
+Sector Quilpué
+HU-0053
+Quilpué
+Res. Ex. 
+N°1138/2021 MMA 
+(Ley N°21.202)
+20,3 ha
+Área de 
+dispersión de 
+MPS (5,541 ha en 
+el AI)
+El Humedal Urbano Estero Quilpué no es alcanzado por la superficie de intervención del Proyecto 
+ni presenta conectividad de drenaje con este, ya que el Proyecto no descarga riles a cursos de 
+agua superficiales ni subterráneos, y las quebradas de exposición norte intervenidas tributan al 
+Estero Marga-Marga aguas arriba de su confluencia con el Estero Quilpué. Sí es alcanzado, en 
+cambio, por el área de dispersión de material particulado sedimentable del Proyecto, en una 
+intersección de 5,541 hectáreas, por lo que se encuentra en el Área de Influencia del componente.
+
+===== p.11 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11 | 18
+Figura 2. Relación espacial del Proyecto con Áreas Protegidas y Áreas colocadas bajo Protección oficial
+5.6 Sitios Prioritarios para la Conservación de la Biodiversidad 
+El Oficio Ordinario N°100143/2010 del SEA reconoce, para la Región de Valparaíso, cinco sitios 
+prioritarios cuya intersección configura la causal del artículo 11, letra d) de la Ley N°19.300.
+Tabla 7. Sitios Prioritarios reconocidos para efectos del SEIA – Región de Valparaíso
+N°
+Nombre
+Ambiente
+Relación
+Alcanzado por 
+el Proyecto
+1
+SP Cordillera El Melón
+Terrestre
+~25 km SE
+No
+2
+SP Bosques de Zapallar
+Terrestre
+~45 km N
+No
+3
+SP Laguna Verde
+Terrestre y Humedal Costero
+~30 km SO
+No
+4
+SP Los Molles - Pichidangui
+Terrestre
+~120 km N
+No
+
+===== p.12 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12 | 18
+N°
+Nombre
+Ambiente
+Relación
+Alcanzado por 
+el Proyecto
+5
+SP Altos de Petorca y Alicahue
+Terrestre
+~80 km NE
+No
+Ninguno de los cinco sitios prioritarios reconocidos para efectos del SEIA es alcanzado por la 
+superficie de intervención ni por el área de dispersión del Proyecto. El más cercano es el SP 
+Cordillera El Melón, a aproximadamente 25 km al sureste. En consecuencia, el Proyecto no se 
+localiza en o próximo a ningún sitio prioritario en los términos del artículo 11, letra d) de la Ley 
+N°19.300, y ninguno integra el Área de Influencia del componente.
+5.7 Otras Designaciones
+De manera complementaria a las áreas colocadas bajo protección oficial y a los sitios prioritarios 
+reconocidos para efectos del SEIA, se identifican en el territorio otras designaciones de interés 
+para la conservación de la biodiversidad, que si bien no constituyen objetos de protección para la 
+determinación del Área de Influencia de este componente, se incorporan como antecedente.
+En  primer  término,  los  sitios  prioritarios  definidos  por  la  Estrategia  Regional  de 
+Biodiversidad de Valparaíso (CONAMA-PNUD, 2005), entre los cuales el sitio Palmar Las Siete 
+Hermanas - El Salto se superpone con la superficie de intervención del camino de acceso a 
+construir por el Proyecto. 
+Figura 3. Relación espacial del Proyecto con Sitios Prioritarios
+
+===== p.13 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13 | 18
+En segundo término, el Plan de Recuperación, Conservación y Gestión de las Ranitas de 
+Darwin (Rhinoderma darwinii y  Rhinoderma rufum), RECOGE0018, aprobado mediante 
+Decreto N°38/2026 del Ministerio del Medio Ambiente. El alcance territorial del Plan abarca la 
+distribución histórica conjunta de ambas especies, que se extiende por la Cordillera de la Costa 
+entre Zapallar (Región de Valparaíso) y Concepción, y desde Concepción hasta las cercanías de 
+Puerto Aysén, comprendiendo diez regiones del país. De las dos especies, Rhinoderma rufum (En 
+Peligro Crítico) es la asociada históricamente a la Región de Valparaíso, extremo norte de su 
+distribución en la Cordillera de la Costa, sin registros confirmados desde 1981. La superposición 
+del área de estudio con el alcance del Plan corresponde a una designación de escala macrozonal. 
+La Línea de Base de Fauna Terrestre del Proyecto no registró esta especie en los levantamientos 
+de terreno, ni figuró como fauna potencial.
+En tercer término, se analiza la Reserva de la Biosfera La Campana-Peñuelas, designación 
+internacional del Programa El Hombre y la Biosfera (MaB) de la UNESCO. Fue declarada en 1984 
+y ampliada en 2009, alcanzando una superficie oficial de 238.216 hectáreas que abarca territorios 
+de las provincias de Valparaíso, Marga Marga, Quillota, San Felipe de Aconcagua y San Antonio 
+en la Región de Valparaíso, e incluye la comuna de Viña del Mar. Respecto de su gestión, el 
+marco de referencia territorial se asoció al Plan de Gestión Reserva de Biosfera La Campana-
+Peñuelas (2009-2013). 
+A partir de la cartografía vectorial oficial disponible en la plataforma SIMBIO del MMA (RBIO-002), 
+se evaluó la interacción del Proyecto con las unidades funcionales de la Reserva (Tabla 8 y Figura 
+4). De este análisis se determina que el área de obras del Proyecto se emplaza dentro de los 
+límites de la Zona de Transición, definida conforme al Marco Estatutario de la Red Mundial de 
+Reservas de la Biosfera (UNESCO, 1995) como la unidad de uso múltiple orientada al desarrollo 
+socioeconómico sostenible y al emplazamiento de actividades productivas e infraestructura 
+regional. 
+Asimismo, el diagnóstico territorial asociado a la zonificación de la Reserva identifica a la Zona de 
+Transición como la matriz espacial donde se concentran y coexisten las actividades económicas, 
+productivas, la infraestructura y los asentamientos humanos de la macrozona, contexto dentro del 
+cual se enmarca la superficie del Proyecto.
+Tabla 8. Relación espacial del Proyecto con la zonificación de la Reserva de la Biosfera La 
+Campana-Peñuelas
+Zonificación de la Reserva
+Unidad de origen
+Relación espacial con el Proyecto
+Zona Núcleo
+Parque Nacional La Campana 
+y Reserva Nacional Lago 
+Peñuelas
+Sin superposición
+Zona de Amortiguación
+Franjas de resguardo 
+perimetral adyacentes a las 
+Zonas Núcleo
+Sin superposición 
+Zona de Transición
+Áreas exteriores de uso 
+múltiple y desarrollo sostenible 
+El área del Proyecto se emplaza 
+dentro de sus límites
+
+===== p.14 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14 | 18
+ 
+Figura 4. Relación espacial del Proyecto con la Reserva de la Biósfera La Campana-Peñuelas
+
+===== p.15 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+15 | 18
+5.8 Resumen
+Los antecedentes identificados en el área de estudio se presentan en la tabla 9, que integra las 
+áreas colocadas bajo protección oficial y demás designaciones de la Región de Valparaíso, 
+incluyendo Santuarios de la Naturaleza, Monumentos Históricos, Zonas Típicas o Pintorescas y 
+Zonas de Interés Turístico. 
+Tabla 9. Resumen de áreas bajo protección oficial, áreas protegidas y sitios prioritarios, y 
+su relación con el Área de Influencia del Proyecto
+Categoría
+Nombre
+ 
+/ 
+designación
+Vía de relación con el 
+Proyecto
+Marco 
+normativo
+Integra AI
+Humedal Urbano 
+Declarado
+Humedal Urbano 
+Estero Quilpué
+Área de dispersión de 
+MPS (5,541 ha)
+Ley N°21.202 / 
+Art. 10 y 11
+Sí
+SNASPE (Reserva 
+Nacional)
+Reserva Nacional 
+Lago Peñuelas
+~2,5 km SE
+Art. 10 y 11
+No
+Santuario de la 
+Naturaleza
+SN Palmar El Salto
+Polígono no 
+intersectado
+Art. 10 y 11
+No
+Santuario de la 
+Naturaleza
+SN Acantilados 
+Federico Santa 
+María
+~12 km SO
+Art. 10 y 11
+No
+SP para efectos del 
+SEIA (Oficio 
+100143/10)
+SP Cordillera El 
+Melón
+~25 km SE
+Art. 11 letra d)
+No
+Zona de Interés 
+Turístico
+ZOIT Valparaíso
+~10-15 km SO
+Ley N°20.423 / 
+Art. 11
+No
+Otras designaciones 
+(SP Estrategia 
+Regional 
+Biodiversidad)
+Palmar Las Siete 
+Hermanas - El Salto
+Superposición con 
+superficie de 
+intervención camino de 
+acceso
+Complementario
+No
+Otras designaciones 
+(Plan RECOGE)
+RECOGE0018 
+(Ranitas de Darwin, 
+R. darwinii y R. 
+rufum)
+Alcance macrozonal
+Complementario
+No
+Otras designaciones 
+(Reserva de la 
+Biosfera)
+La Campana-
+Peñuelas (UNESCO 
+MaB)
+Predio del Proyecto en 
+zona de transición
+Complementario 
+No
+6. CONCLUSIONES
+Determinación del Área de Influencia: el componente Áreas Protegidas y Sitios Prioritarios para 
+la Conservación de la Biodiversidad presenta un Área de Influencia, determinada conforme a la 
+Guía Áreas de Influencia en el SEIA 2026. El Área de Influencia corresponde a la intersección del 
+área de dispersión de material particulado sedimentable con el Humedal Urbano Estero Quilpué, 
+con una superficie de 5,541 hectáreas. 
+Áreas bajo protección oficial: el Humedal Urbano Estero Quilpué integra el Área de Influencia 
+por la vía de la depositación de material particulado sedimentable, donde los resultados muestran 
+concentraciones del orden del 1 al 10% de la norma suiza de referencia, que fija un límite de 200 
+mg/m²·día  como  deposición  promedio  anual.  Por  otro  lado,  este  humedal  no  presenta 
+
+===== p.16 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+16 | 18
+conectividad de drenaje con las quebradas que interactúan con el Proyecto. Por lo tanto, se 
+descarta una afectación significativa sobre este objeto de protección
+Sitios prioritarios para efectos del SEIA (Oficio N°100143/10): ninguno de los cinco sitios 
+prioritarios  reconocidos  para  la  Región  de  Valparaíso  es  alcanzado  por  la  superficie  de 
+intervención ni por el área de dispersión del Proyecto.
+Otras designaciones: los sitios prioritarios definidos por la Estrategia Regional de Biodiversidad 
+de Valparaíso (Palmar Las Siete Hermanas - El Salto y Quebrada Quiteño Las Palmas), el Plan de 
+Recuperación, Conservación y Gestión de las Ranitas de Darwin (RECOGE0018) y la Reserva de 
+la Biosfera La Campana-Peñuelas se analizaron de manera complementaria. Si bien el sitio 
+Palmar Las Siete Hermanas - El Salto se superpone con la superficie de intervención y el predio 
+del Proyecto se emplaza dentro de la zona de transición de la Reserva de la Biosfera, ninguna de 
+estas designaciones constituye un objeto de protección para efectos de la determinación del Área 
+de Influencia de este componente, por cuanto no integran las categorías de áreas protegidas ni de 
+áreas colocadas bajo protección oficial reconocidas por el SEIA. 
+
+===== p.17 =====
+LINEA DE BASE ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+17 | 18
+7. REFERENCIAS
+Comisión Nacional del Medio Ambiente (CONAMA) – Programa de las Naciones Unidas para el Desarrollo 
+(PNUD), 2005. Estrategia y Plan de Acción para la Conservación de la Diversidad Biológica, Región de 
+Valparaíso.
+Consejo  de  Monumentos  Nacionales  de  Chile  (CMN),  2021.  Monumentos.  [En  línea] 
+https://www.monumentos.gob.cl/monumentos.
+Ley N°20.423/2010 del Ministerio de Economía, Fomento y Turismo. Del Sistema Institucional para el 
+Desarrollo del Turismo.
+Ley N°21.600/2023. Crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas 
+Protegidas.
+Gobierno Regional de Valparaíso, 2009. Plan de Gestión Reserva de Biosfera La Campana-Peñuelas 
+(2009-2013). Valparaíso, Chile.
+Subsecretaría  de  Turismo,  2025.  Zonas  de  Interés  Turístico  declaradas.  [En  línea] 
+https://www.subturismo.gob.cl.
+Decreto Supremo N°40/2012 del Ministerio del Medio Ambiente. Reglamento del Sistema de Evaluación de 
+Impacto Ambiental, y sus modificaciones refundidas 2024.
+Decreto Supremo N°805/1998 del Ministerio de Educación. Declara Santuario de la Naturaleza "Palmar El 
+Salto", comuna de Viña del Mar.
+Decreto N°38/2026 del Ministerio del Medio Ambiente. Aprueba Plan de Recuperación, Conservación y 
+Gestión de las Ranitas de Darwin (Rhinoderma darwinii y R. rufum). Publicado el 09 de abril de 2026.
+Ley N°19.300/1994 del Ministerio Secretaría General de la Presidencia. Sobre Bases Generales del Medio 
+Ambiente.
+Ley N°21.202/2020. Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos.
+Ministerio  del  Medio  Ambiente  (MMA),  2023.  Registro  Nacional  de  Áreas  Protegidas.  [En  línea] 
+http://areasprotegidas.mma.gob.cl/.
+Ministerio del Medio Ambiente (MMA), 2023. Inventario Nacional de Humedales. Sistema de Información y 
+Monitoreo de Biodiversidad (SIMBIO). https://simbio.mma.gob.cl.
+Ministerio del Medio Ambiente (MMA), 2021. Resolución Exenta N°852/2021. Declara Humedal Urbano 
+Estero Quilpué.
+Servicio de Evaluación Ambiental (SEA), 2026. Guía para la Descripción del Área de Influencia en el SEIA, 
+2ª edición.
+Servicio de Evaluación Ambiental (SEA), 2010. Oficio Ordinario N°100143/2010. Complementa y actualiza 
+el instructivo Sitios Prioritarios para la Conservación en el SEIA.
+Servicio de Evaluación Ambiental (SEA), 2013. Oficio Ordinario D.E. N°130844/2013. Uniforma criterios y 
+exigencias técnicas sobre áreas colocadas bajo protección oficial y áreas protegidas para efectos del SEIA.
+Servicio de Evaluación Ambiental (SEA), 2016. Oficio Ordinario D.E. N°161081/2016. Complementa Oficio 
+Ordinario D.E. N°130844/2013.

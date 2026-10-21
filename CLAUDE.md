@@ -23,7 +23,14 @@ propios documentos del titular. Cuidar eso vale más que cualquier cifra adicion
 python3 build.py        # src/ → index.html (valida sintaxis con node si está)
 ```
 
-`index.html` es **generado**: no lo edites a mano, se sobreescribe. Edita `src/`.
+`index.html` y `que-puede-pasar.html` son **generados**: no los edites a mano, se
+sobreescriben. Edita `src/`.
+
+La segunda página —el recorrido del expediente y sus desenlaces— sale de `src/plazos.html`.
+Es estática: no usa `datos.json` ni los visores, así que lo único que recibe del build es el
+bloque de variables de color, inyectado en el marcador `/*__TOKENS__*/` desde
+`src/plantilla.html`. **Eso existe para que la paleta no pueda divergir entre las dos
+páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 
 | archivo | qué es |
 |---|---|
@@ -34,6 +41,7 @@ python3 build.py        # src/ → index.html (valida sintaxis con node si está
 | `src/datos.json` | el bundle completo (~255 KB), se inyecta en el marcador |
 | `src/social.html` | etiquetas Open Graph, Twitter y JSON-LD; `{url}` lo reemplaza build.py |
 | `src/social-img.html` | plantilla de `social.jpg` (1200×630). Se renderiza con Chrome headless, ver abajo |
+| `src/plazos.html` | la vista «Qué puede pasar»: mapa del procedimiento y sus desenlaces |
 
 `proyecciones.py` regenera las series de masa, metano y camiones desde la tabla de producción
 anual del Capítulo 1. **No está conectado al build**: escribe `data/proyecciones.json` y sus
@@ -176,3 +184,21 @@ anual y está ahora escrita en `proyecciones.py`.
 
 **La lección común:** cuando una cifra agregada cuadra, no asumas que la serie que la produce
 cuadra. Verifica los extremos.
+
+## El archivo del expediente
+
+`expediente/` es una copia de todo lo que el SEIA publicaba del expediente 2168892026:
+60 documentos, 97 adjuntos, 4.335 páginas de PDF más 42 documentos que en el SEIA **sólo
+existen como página web**. Se archiva porque el expediente es un sitio que el servicio
+puede cambiar o retirar. Empieza por [`expediente/INDICE.md`](expediente/INDICE.md).
+
+Al repositorio va sólo el texto (29 MB). Los binarios (1,5 GB) no caben;
+`expediente/manifiesto.json` guarda URL, tamaño y SHA-256 de cada uno para rebajarlos y
+comprobar que son los mismos. Los scripts que lo reconstruyen están en `archivo/`, con
+las trampas documentadas en [`archivo/LEEME.md`](archivo/LEEME.md).
+
+**Hay un pendiente abierto:** 268 páginas son imágenes sin capa de texto y siguen sin
+extraer. Están señalizadas en el texto como `===== p.N · sin texto =====`, y
+[`expediente/PENDIENTE-OCR.md`](expediente/PENDIENTE-OCR.md) lista cuáles son, cuáles
+importan y cómo lanzarlo. Lo que más pesa ahí es `ORD_2132_SAG`, un pronunciamiento con
+observaciones que está entero en imagen.

@@ -1,0 +1,406 @@
+
+===== p.0 =====
+CENTRO METROPOLITANO 
+DE GESTIÓN INTEGRAL DE RESIDUOS
+LÍNEA DE BASE 
+USO DEL TERRITORIO Y SU RELACIÓN CON LA 
+PLANIFICACIÓN TERRITORIAL
+Documento Preparado por:
+                                                    
+Junio 2026
+
+===== p.1 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+INDICE DE CONTENIDOS
+1. INTRODUCCIÓN...................................................................................................................1
+2. OBJETIVOS.......................................................................................................................2
+2.1 Objetivo general........................................................................................................2
+2.2 Objetivos específicos.................................................................................................2
+3. Área de Estudio...............................................................................................................2
+4. METODOLOGÍA................................................................................................................3
+4.1. Marco de Referencia Normativo..................................................................................4
+6. RESULTADOS....................................................................................................................4
+6.1 Uso de suelo real.......................................................................................................5
+6.2 Uso de suelo planificado...........................................................................................7
+6.3 Actividades económicas y productivas relevantes..................................................11
+6.4 Construcciones relevantes......................................................................................11
+7. SÍNTESIS DE RESULTADOS..............................................................................................12
+8. REFERENCIAS.................................................................................................................14
+
+===== p.2 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+2
+1. INTRODUCCIÓN
+El presente capítulo corresponde a la línea de base del componente Usos del Territorio y su relación 
+con la Planificación Territorial del Estudio de Impacto Ambiental del proyecto Centro Metropolitano 
+de Gestión Integral de Residuos (en adelante, el Proyecto). Su elaboración da cumplimiento a lo 
+dispuesto en el artículo 18, letra e.9), del D.S. N°40/2012 del Ministerio del Medio Ambiente, 
+Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA).
+Conforme a dicha disposición, la caracterización del componente describe el uso de suelo y la 
+capacidad de uso de suelo, los instrumentos de planificación territorial vigentes y otros instrumentos 
+de ordenamiento territorial relevantes, las actividades económicas y productivas relevantes, y las 
+construcciones relevantes presentes en el área de estudio.
+El Proyecto se localiza en la comuna de Viña del Mar, al sur de la Ruta 60, en un sector emplazado 
+fuera de los límites urbanos definidos por los instrumentos de planificación territorial, en territorio 
+clasificado  como  Área  Rural.  El  acceso  se  materializa  mediante  un  camino  proyectado  de 
+aproximadamente 3,8 km que conecta las instalaciones con la Ruta 60.
+2. OBJETIVOS
+2.1 Objetivo general
+Caracterizar el uso del territorio y su relación con la planificación territorial en el área de estudio del 
+Proyecto, de acuerdo con los contenidos mínimos establecidos en el artículo 18, letra e.9), del RSEIA 
+y con los lineamientos de la Guía para la Descripción del Uso del Territorio en el SEIA.
+2.2 Objetivos específicos
+-
+Describir el uso de suelo actual y la capacidad de uso de suelo en el área de estudio.
+-
+Identificar los instrumentos de planificación territorial vigentes y los instrumentos de 
+ordenamiento territorial relevantes, y describir la zonificación que recae sobre el área de 
+estudio.
+-
+Identificar las actividades económicas y productivas relevantes, existentes o planificadas.
+-
+Identificar las construcciones relevantes de infraestructura, equipamiento, vivienda, espacio 
+público y actividades productivas.
+3. Área de Estudio
+El área de estudio del componente se define de conforme a los estipulado en la Guía para la 
+Descripción del Área de Influencia en el SEIA (2° ed., 2026), donde los elementos del uso del 
+territorio y de la planificación territorial constituyen atributos y no objetos de protección, por lo que 
+no se define un área de influencia para ellos, sino un área de estudio.
+El área de estudio comprende la superficie del Proyecto, el trazado del camino de acceso y el entorno 
+necesario para reconocer los usos de suelo, las actividades económicas y productivas y las 
+
+===== p.3 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+3
+construcciones relevantes cercanas al área de proyecto.  El área de estudio alcanza las 1984,5 
+hectáreas aproximadamente. 
+La ubicación referencial del Proyecto, en coordenadas UTM Datum WGS84, Huso 19 S, corresponde 
+a 268.115 m E y 6.337.100 m N. Se ubica aproximadamente a 3,0 km al sureste del entorno urbano 
+de la comuna de Viña del Mar y a 2,0 km al suroeste del entorno urbano de la comuna de Quilpué.
+Figura 1. Área de Estudio
+4. METODOLOGÍA
+La caracterización del componente se desarrolló a partir de las siguientes fuentes y procedimientos:
+-
+Guía para la Descripción del Uso del Territorio en el SEIA: Lineamientos generales a 
+considerar en la caracterización del uso del territorio.
+
+===== p.4 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+4
+-
+Uso de suelo actual: Clasificación de cobertura sobre la base del Catastro de Uso de Suelo y 
+Vegetación de CONAF (2019), revisión de imágenes satelitales de alta resolución, elementos 
+espaciales  reconocidos  en  OpenStreetMap,  reconocimiento  en  terreno  y  revisión  de 
+antecedentes desde la Linea de Base en Medio Humano del Proyecto.
+-
+Capacidad de uso de suelo: Información primaria de la Línea de Base de Edafología del 
+Proyecto.
+-
+Uso de suelo planificado: Revisión de las ordenanzas y planos oficiales del PREMVAL, del 
+Plan Regulador Comunal de Viña del Mar, así como de los instrumentos de ordenamiento 
+territorial relevantes.
+-
+Actividades  económicas,  productivas  y  construcciones  relevantes: Revisión  de 
+antecedentes secundarios (incluida la Línea de Base de Medio Humano del Proyecto), y 
+reconocimiento en terreno.
+4.1. Marco de Referencia Normativo
+La  caracterización  del  componente  considera,  con  carácter  descriptivo,  el  siguiente  marco 
+normativo:
+-
+Ley N°19.300, sobre Bases Generales del Medio Ambiente, y  D.S. N°40/2012 (RSEIA), 
+artículo 18 letra e.9).
+-
+Ley General de Urbanismo y Construcciones (LGUC), DFL N°458/1975. El artículo 55 dispone 
+que, fuera de los límites urbanos, las construcciones de infraestructura requieren, previo a la 
+aprobación de la Dirección de Obras Municipales, el informe favorable de la Secretaría 
+Regional Ministerial de Vivienda y Urbanismo y del Servicio Agrícola correspondiente. El 
+artículo 59, en su texto vigente fijado por la Ley N°20.791, declara afectos a utilidad pública 
+los terrenos de los planes reguladores destinados a vialidad, parques, plazas y demás 
+espacios públicos, sin plazo de caducidad.
+-
+Ordenanza General de Urbanismo y Construcciones (OGUC), D.S. N°47/1992. Los artículos 
+2.1.24 y 2.1.25 establecen los seis tipos de uso de suelo (residencial, equipamiento, 
+actividades productivas, infraestructura, espacio público y área verde). El artículo 2.1.29 
+regula el uso de suelo infraestructura, distinguiendo entre las edificaciones o instalaciones y 
+las redes o trazados, y dispone que los trazados de infraestructura se entienden siempre 
+admitidos, sujetándose a las disposiciones de los organismos competentes. El artículo 2.1.17 
+regula las áreas de riesgo y zonas no edificables como áreas restringidas al desarrollo 
+urbano.
+-
+Instrumentos de planificación territorial: Plan Regulador Metropolitano de Valparaíso 
+(PREMVAL), Plan Regulador Comunal de Viña del Mar (PRC Viña del Mar).
+-
+Guías del SEA: Guía para la Descripción del Uso del Territorio en el SEIA (2013) y Guía para la 
+Descripción del Área de Influencia en el SEIA (2° ed., 2026)
+
+===== p.5 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+5
+6. RESULTADOS
+6.1 Uso de suelo real
+6.1.1 Uso de suelo actual
+De acuerdo al catastro de Uso de Suelo y Vegetación para la región de Valparaíso (CONAF, 2019), el 
+uso de suelo actual en el área de estudio se encuentra dominado por superficies de carácter natural 
+o sin uso productivo, asociadas a praderas o matorral y bosque esclerófilo, quebradas y laderas con 
+cobertura vegetacional variable. A 1,3 km aproximados al norte del límite del área de Proyecto, se 
+reconocen cuerpos de agua en el entorno del Estero Marga-Marga. De manera complementaria se 
+reconocen usos de infraestructura, asociados a la Ruta 60 - Troncal Sur, la línea de alta tensión San 
+Luis-Agua  Santa  220kv,  así  como  usos  residenciales  dispersos  en  el  sector  Calichero, 
+aproximadamente a 1,4 km al noreste del límite del área de Proyecto. 
+Figura 2. Uso de suelo actual
+
+===== p.6 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+6
+6.1.2 Capacidad de uso de suelo
+La capacidad de uso de suelo se caracteriza a partir de la Línea de Base de Edafología del Proyecto. La 
+totalidad  del  área  evaluada  corresponde  a  suelos no  arables,  cuyas  limitaciones  se  asocian 
+principalmente a la pendiente, al riesgo de erosión y a otras restricciones físicas del terreno. La clase 
+de capacidad de uso predominante es la VIe2, seguida por las clases VIII y VIIe2, según se detalla en 
+la Tabla 1.
+Tabla 1. Clase de capacidad de uso de suelo (CCUS) en el área evaluada por la Línea de Base de 
+Edafología.
+Clase de capacidad de uso
+Superficie (ha)
+Porcentaje (%)
+VIe2
+64,9
+49,5
+VIII
+34,9
+26,7
+VIIe2
+28,0
+21,4
+No aplica (sector intervenido)
+3,1
+2,4
+Total
+130,9
+100,0
+Fuente: Línea de Base de Edafología del Proyecto (GEAGRAM, 2026).
+Figura 3. Capacidad de Uso de Suelo. Fuente: Elaboración propia
+
+===== p.7 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+7
+La condición de suelos no arables, de clases VI y superiores, refleja un escenario de limitaciones 
+severas para el desarrollo agrícola, restringiendo el potencial productivo del suelo al ámbito forestal 
+y de conservación de recursos naturales 
+6.2 Uso de suelo planificado
+6.2.1 Instrumentos de planificación territorial
+En el área de estudio se reconocen instrumentos de planificación territorial vigentes asociados a la 
+comuna de Viña del Mar, los que se indican en la Tabla 2.
+Tabla 2. Instrumentos de planificación territorial vigentes
+Instrumento
+Nivel
+Promulgación
+Plan Regulador Metropolitano de 
+Valparaíso (PREMVAL)
+Intercomunal / Metropolitano
+Res. N°31/4/128, GORE Valparaíso, 
+25-10-2013
+Plan Regulador Comunal de Viña 
+del Mar
+Comunal
+D.A. N°10.949, 13-12-2002 
+Plan Regulador Metropolitano de Valparaíso (PREMVAL)
+El Plan Regulador Metropolitano de Valparaíso (PREMVAL) fue aprobado mediante la Res. N° 
+31/4/128  del  Gobierno  Regional  de  Valparaíso,  con  fecha  25-10-2013.  Este  instrumento  de 
+planificación regula las áreas metropolitanas de la Región de Valparaíso y el Satélite Borde Costero 
+Quintero-Puchuncaví, abarcando específicamente las comunas de Valparaíso, Viña del Mar, Concón, 
+Quilpué, Villa Alemana, Casablanca, Quintero y la zona sur de Puchuncaví hasta la Ruta Nogales.
+
+===== p.8 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+8
+Figura 3. Plan Regulador Metropolitano de Valparaíso y su relación espacial con el Proyecto.
+El área de Proyecto se emplaza en el Área Rural (AR) del PREMVAL, fuera de las zonas urbanas y de 
+extensión urbana del instrumento. En el Área Rural, conforme al artículo 52 de la Ordenanza del 
+PREMVAL, las autorizaciones se ajustan a lo establecido en el artículo 55 de la LGUC. 
+Por otro lado, el PREMVAL clasifica las instalaciones de manejo de residuos sólidos no peligrosos 
+como  infraestructura  sanitaria  de  impacto  intercomunal  y,  en  su  artículo  7,  contempla  el 
+emplazamiento de instalaciones de manejo de residuos sólidos domiciliarios no peligrosos en el Área 
+Rural, ajustándose al artículo 55 de la LGUC y al artículo 2.1.29 de la OGUC.
+
+===== p.9 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+9
+El trazado del camino de acceso intersecta la Zona de Extensión Urbana 2 (ZEU 2) del PREMVAL y 
+Áreas urbanas consolidadas (AU), esta última se rige por los establecido en los respectivos planes 
+reguladores comunales. 
+Las normas de uso de suelo de para Zona de Extensión Urbana 2 (ZEU 2) se presentan en la Tabla 3.
+Tabla 3. Usos de suelo de la Zona de Extensión Urbana 2 (ZEU 2) del PREMVAL.
+Usos
+Descripción
+Usos permitidos
+Residencial; actividades productivas inofensivas; equipamiento; infraestructura 
+de transporte destinada a terminales de locomoción colectiva urbana; 
+infraestructura sanitaria destinada a captación y tratamiento de agua potable y 
+aguas servidas; espacio público; área verde.
+Usos prohibidos
+Todos los no indicados precedentemente y, en particular, las actividades 
+productivas e infraestructura sanitaria destinadas a plantas de tratamiento de 
+residuos sólidos y rellenos sanitarios.
+Sobre la ZEU 2 se reconoce la faja de la Vía Expresa propuesta VE-2v, de 50 m de ancho, 
+correspondiente a la vialidad estructurante propuesta del PREMVAL. Esta faja se encuentra afecta a 
+declaratoria de utilidad pública conforme al artículo 59 de la LGUC. El trazado del camino de acceso 
+del Proyecto se contrapone con la faja reservada para la VE-2v.
+El camino de acceso del Proyecto corresponde, desde el punto de vista de la OGUC, a un trazado de 
+infraestructura de transporte. 
+Adicionalmente, sobre sectores del área de Proyecto se reconoce el Área de Riesgo Natural por 
+Pendientes (AR NP) del PREMVAL, como área restringida al desarrollo urbano (condicionante). 
+Plan Regulador Comunal de Viña del Mar 
+El Plan Regulador Comunal (PRC) de Viña del Mar fue aprobado mediante el Decreto Alcaldicio N° 
+10.949, con fecha 04-10-2022. Es instrumento establecido en La Ley General de Urbanismo y 
+Construcciones (L.G.U.C.) para regular y orientar el desarrollo urbano de una comuna (Figura 4.)
+
+===== p.10 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+10
+Figura 4. Plan Regulador Comunal de Viña del Mar y su relación espacial con el Proyecto
+El Plan Regulador Comunal tiene efecto normativo sobre el territorio urbano comunal, por lo que no 
+resulta aplicable directamente al área del Proyecto, emplazado en Área Rural. El trazado del camino 
+de acceso intersecta la zona B-14c. La unidad B-14c establece las infraestructuras residenciales, de 
+equipamiento y espacio público del Plan Regulador Comunal, las que se individualizan en la Tabla 4.
+Tabla 4. Usos de suelo de la Zona B-14c del Plan Regulador de Viña del Mar
+Usos
+Descripción
+Usos permitidos
+Residencial, Equipamiento, Espacio Público, mayor detalle en Ordenanza
+Usos prohibidos
+Todos los no mencionados como permitidos.
+
+===== p.11 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+11
+6.2.2 Instrumentos de ordenamiento territorial
+Se identifican los instrumentos de ordenamiento territorial relevantes para el área de estudio. El Plan 
+Regional de Ordenamiento Territorial (PROT) de la Región de Valparaíso se encuentra en proceso de 
+evaluación ambiental estratégica, por lo que no constituye un instrumento vigente de carácter 
+normativo. En el área de estudio no se reconoce Zona de Interés Turístico (ZOIT). La relación del 
+Proyecto con las políticas, planes y programas de desarrollo regional y comunal, incluidos los planes 
+de cambio climático atingentes, se desarrolla en el Capítulo 13 del EIA.
+Tabla 5. Instrumentos de ordenamiento territorial y su aplicabilidad al área de estudio.
+Instrumento
+Estado / vigencia
+Aplicabilidad al área de estudio
+Plan Regional de Ordenamiento 
+Territorial (PROT) de Valparaíso
+En proceso de evaluación 
+ambiental estratégica
+No constituye instrumento 
+vigente de carácter normativo
+Zonificación del Borde Costero 
+(ZBC) de la Región de Valparaíso
+No se reconoce en el área de 
+estudio
+No aplica; el área de estudio se 
+fuera del área regulada por este 
+instrumento
+Zona de Interés Turístico (ZOIT)
+No se reconoce en el área de 
+estudio
+No aplica
+6.3 Actividades económicas y productivas relevantes
+En el área de estudio se reconocen actividades extractivas en el sector del Estero Marga-Marga, 
+correspondientes a la extracción de áridos y a la extracción artesanal de oro, esta última de carácter 
+tradicional y baja intensidad. 
+En el entorno se reconocen las localidades de El Salto, Las Lomas y El Calichero, cuya matriz 
+productiva, de acuerdo con el Censo 2024, se asocia principalmente al comercio, a la construcción y 
+al transporte y almacenamiento (Linea de Base en Medio Humano). La conectividad del área se 
+estructura en torno a la Ruta 60 – Troncal Sur. 
+6.4 Construcciones relevantes
+En el área de estudio se identifican como construcciones relevantes la Ruta 60 - Troncal Sur, la línea 
+de alta tensión San Luis-Agua Santa 220kv y la servidumbre para el gasoducto propiedad de 
+Gasvalpo, según se indica en la Tabla 5. 
+Tabla 6. Construcciones relevantes en el área de estudio.
+N°
+Construcción
+Tipo (OGUC)
+1
+Ruta 60 - Troncal Sur
+Infraestructura de transporte
+2
+Línea de alta tensión San Luis-Agua Santa 220kv
+Infraestructura energética
+3
+Gasoducto
+Infraestructura energética
+
+===== p.12 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+12
+Figura 7. Construcciones relevantes en el área de estudio
+7. SÍNTESIS DE RESULTADOS
+En el área del Proyecto, de acuerdo al catastro de Uso de Suelo y Vegetación para la región de 
+Valparaíso (CONAF, 2019), el uso de suelo actual se encuentra dominado por superficies de carácter 
+natural o sin uso productivo, asociadas a praderas o matorral y bosque esclerófilo, quebradas y 
+laderas con cobertura vegetacional variable.
+La capacidad de uso de suelo corresponde a suelos no arables (clases VI y superiores), con 
+predominio de la clase VIe2, condicionados principalmente por la pendiente y el riesgo de erosión. 
+El Proyecto se emplaza en el Área Rural del PREMVAL. El uso de infraestructura sanitaria para el 
+manejo de residuos sólidos domiciliarios no peligrosos se encuentra contemplado para el Área Rural 
+
+===== p.13 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+13
+por el artículo 7 de la Ordenanza del PREMVAL, ajustándose a lo dispuesto en el artículo 55 de la 
+LGUC y en el artículo 2.1.29 de la OGUC. En consecuencia, el uso previsto por el Proyecto no presenta 
+incompatibilidades de acuerdo al PREMVAL. Por su parte, el Plan Regulador Comunal de Viña del Mar 
+no resulta aplicable al área de Proyecto, por regir sobre el territorio urbano comunal.
+El camino de acceso, en su condición de trazado de infraestructura de transporte, se entiende 
+siempre admitido conforme al artículo 2.1.29 de la OGUC. Su intersección puntual con la faja de la 
+Vía Expresa propuesta VE-2v, no inhabilita la faja reservada ni interrumpe la continuidad de la 
+vialidad estructurante proyectada. 
+En  consecuencia,  el  Proyecto  resulta  territorialmente  compatible  con  los  instrumentos  de 
+planificación territorial vigentes, sin que se evidencien conflictos de uso de suelo, condicionado a la 
+tramitación del informe favorable del artículo 55 de la LGUC.
+
+===== p.14 =====
+LINEA DE BASE – USO DEL TERRITORIO Y SU RELACIÓN CON LA PLANIFICACIÓN TERRITORIAL
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+14
+8. REFERENCIAS
+-
+Ley N°19.300, sobre Bases Generales del Medio Ambiente.
+-
+D.S. N°40/2012, Ministerio del Medio Ambiente, Reglamento del SEIA.
+-
+DFL N°458/1975, Ley General de Urbanismo y Construcciones, y sus modificaciones (Ley 
+N°19.939; Ley N°20.791).
+-
+D.S. N°47/1992, Ministerio de Vivienda y Urbanismo, Ordenanza General de Urbanismo y 
+Construcciones.
+-
+Plan Regulador Metropolitano de Valparaíso (PREMVAL). Res. N°31/4/128, GORE Valparaíso, 
+2013.
+-
+Plan Regulador Comunal de Viña del Mar. D.A. N°10.949, 2002.
+-
+Plan Seccional de Viña del Mar. D.A. N°11.092, 2012.
+-
+Servicio de Evaluación Ambiental. Guía para la Descripción del Uso del Territorio en el SEIA.
+-
+Servicio de Evaluación Ambiental (2026). Guía para la Descripción del Área de Influencia en 
+el SEIA, 2° ed.
+-
+Corporación Nacional Forestal (CONAF, 2019). Catastro de Uso de Suelo y Vegetación.
+-
+Línea de Base de Edafología del Proyecto (GEAGRAM, 2026).
+-
+Linea de Base de Medio Humano del Proyecto (Renova Service, 2026)

@@ -1,0 +1,4652 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+PROYECTO: “Centro Metropolitano de Gestión Integral de 
+Residuos” 
+LÍNEA DE BASE FLORA Y VEGETACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abril, 2026 
+ 
+ 
+
+===== p.1 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 2 de 108 
+ 
+ELABORACIÓN  
+ 
+Elaborado por 
+Aprobado por 
+Simón Devia 
+XXXXX 
+ 
+REVISIONES 
+ 
+ 
+ 
+Rev. 
+Revisado por 
+Revisado por 
+Aprobado por 
+Descripción 
+Nombre 
+A 
+ 
+ 
+ 
+ 
+Cargo 
+ 
+ 
+ 
+Nombre 
+B 
+ 
+ 
+ 
+ 
+Cargo 
+ 
+ 
+ 
+Nombre 
+C 
+ 
+ 
+ 
+ 
+Cargo 
+ 
+ 
+ 
+Nombre 
+0 
+ 
+ 
+ 
+ 
+Cargo 
+ 
+ 
+ 
+ 
+
+===== p.2 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 3 de 108 
+ 
+CONTENIDO 
+RESUMEN ................................................................................................................................ 8 
+1. 
+INTRODUCCIÓN ........................................................................................................ 10 
+2. 
+OBJETIVOS ................................................................................................................. 11 
+2.1. 
+OBJETIVO GENERAL ......................................................................................................... 11 
+2.2. 
+OBJETIVOS ESPECÍFICOS .................................................................................................. 11 
+3. 
+MATERIALES Y MÉTODOS .......................................................................................... 12 
+3.1. 
+DESCRIPCIÓN DEL ÁREA DE ESTUDIO .............................................................................. 12 
+3.2. 
+LEVANTAMIENTO DE INFORMACIÓN EN TERRENO ....................................................................... 12 
+3.3. 
+REVISIÓN DE INFORMACIÓN BIBLIOGRÁFICA ................................................................... 15 
+3.4. 
+FOTOINTERPRETACIÓN DE IMÁGENES ............................................................................... 15 
+3.5. 
+DISEÑO DE MUESTREO ..................................................................................................... 16 
+3.6. 
+PUNTOS Y ESFUERZO DE MUESTREO .................................................................................. 16 
+3.7. 
+PARCELAS DE INVENTARIO FLORÍSTICO (BRAUN-BLANQUET) ........................................... 21 
+3.8. 
+CARTA DE OCUPACIÓN DE TIERRAS (COT) ................................................................... 22 
+3.9. 
+MICRORUTEO DE PALMA CHILENA Y CANELO ................................................................. 22 
+3.10. 
+PARCELAS DE INVENTARIO FORESTAL .............................................................................. 25 
+3.11. 
+PROCESAMIENTO DE LA INFORMACIÓN .......................................................................... 25 
+3.11.1. 
+Caracterización de la flora vascular terrestre .......................................................... 25 
+3.11.2. 
+Riqueza y composición florística .............................................................................. 25 
+3.11.3. 
+Origen fitogeográfico y tipo biológico ..................................................................... 26 
+3.11.4. 
+Especies listadas en el Decreto N.º 68/2009 ............................................................ 27 
+3.11.5. 
+Especies en categoría de conservación .................................................................... 27 
+3.11.6. 
+Presencia de especies endémicas ............................................................................. 29 
+3.11.7. 
+Caracterización de la vegetación terrestre .............................................................. 30 
+3.11.8. 
+Tipos biológicos ........................................................................................................ 30 
+3.11.9. 
+Cobertura ................................................................................................................. 30 
+3.11.10. 
+Especies dominantes (ED) ........................................................................................ 31 
+3.11.11. 
+Grado de alteración de la vegetación ...................................................................... 31 
+3.11.12. 
+Descripción de recubrimientos de suelo ................................................................... 32 
+3.11.13. 
+Criterios de Sensibilidad Ambiental para la flora y vegetación ............................... 33 
+3.11.14. 
+Formaciones reguladas por Ley N.º 20.283 ............................................................. 35 
+3.11.15. 
+Análisis de biodiversidad .......................................................................................... 38 
+3.11.15.1 
+Índices de Diversidad y Equidad .................................................................................................... 38 
+3.12. 
+ANÁLISIS DE LA VARIABLE CAMBIO CLIMÁTICO ................................................................ 39 
+4. 
+RESULTADOS .............................................................................................................. 41 
+
+===== p.3 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 4 de 108 
+ 
+4.1. 
+REVISIÓN DE ANTECEDENTES ............................................................................................ 41 
+4.1.1. 
+Marco biogeográfico ................................................................................................... 41 
+4.2. 
+CARACTERIZACIÓN DE LA FLORA VASCULAR TERRESTRE .................................................. 47 
+4.2.1. 
+Riqueza y composición florística .................................................................................. 47 
+4.2.2. 
+Origen fitogeográfico y tipo biológico ......................................................................... 49 
+4.2.3. 
+Especies listadas en el Decreto N.º 68/2009 ............................................................... 51 
+4.2.4. 
+Especies en categoría de conservación ........................................................................ 52 
+4.2.5. 
+Presencia de especies endémicas ................................................................................ 53 
+4.3. 
+CARACTERIZACIÓN DE LA VEGETACIÓN.......................................................................... 53 
+4.3.1. 
+Recubrimiento de suelo ............................................................................................... 53 
+4.3.2. 
+Formaciones vegetales ................................................................................................ 55 
+4.3.3. 
+Formaciones vegetales reguladas por Ley N.º 20.283 ................................................ 68 
+a) 
+Rodalización de bosques nativos, bosques nativos de preservación y validación en 
+terreno ....................................................................................................................................... 70 
+b) 
+Bosques nativos de preservación fuera del área de intervención ................................... 74 
+4.4. 
+ANÁLISIS DE SINGULARIDAD DE LA FLORA Y VEGETACIÓN DEL ÁREA DE ESTUDIO .................................. 75 
+4.5. 
+ANÁLISIS DE LA VARIABLE CAMBIO CLIMÁTICO .............................................................................. 85 
+4.6. 
+ANÁLISIS DE BIODIVERSIDAD ...................................................................................................... 91 
+5. 
+CONCLUSIONES ............................................................................................................ 96 
+6. 
+REFERENCIAS ............................................................................................................. 99 
+7. 
+ANEXOS ................................................................................................................... 103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.4 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 5 de 108 
+ 
+ÍNDICE DE TABLAS 
+TABLA 3-1: ESFUERZO DE MUESTREO .................................................................................................................. 12 
+TABLA 3-2. CAMPAÑAS COMPLEMENTARIAS DE FLORA Y VEGETACIÓN ............................................................ 13 
+TABLA 3-3. ESFUERZO DE MUESTREO .................................................................................................................. 17 
+TABLA 3-4: CODIFICACIÓN “ABUNDANCIA RELATIVA DE FLORA” SEGÚN CRITERIO DE BRAUN- BLANQUET (1979)
+ ................................................................................................................................................................. 21 
+TABLA 3-5: CATEGORÍAS DE CONSERVACIÓN DE ESPECIES SEGÚN DS N°29/2012 (MMA .............................. 28 
+TABLA 3-6: CODIFICACIÓN DE TIPOS BIOLÓGICOS ............................................................................................ 30 
+TABLA 3-7: CÓDIGOS E ÍNDICES DE COBERTURAS VEGETACIONALES ................................................................. 30 
+TABLA 3-8: DETERMINACIÓN DEL GRADO DE ALTERACIÓN DE LAS FORMACIONES VEGETALES ........................... 31 
+TABLA 3-9: DESCRIPCIÓN DE LOS RECUBRIMIENTOS DE SUELO ............................................................................ 32 
+TABLA 3-10. CRITERIOS DE SINGULARIDAD ......................................................................................................... 34 
+TABLA 3-11: CONDICIONES PARA IDENTIFICACIÓN DE FORMACIONES XEROFÍTICAS .......................................... 36 
+TABLA 4-1: MARCO VEGETACIONAL DEL ÁREA DE ESTUDIO DEL PROYECTO ....................................................... 41 
+TABLA 4-2: ESPECIES DE FLORA VASCULAR LISTADAS EN EL D. N° 68/2009 (MINAGRI) EN EL ÁREA DE ESTUDIO 
+DEL PROYECTO .......................................................................................................................................... 51 
+TABLA 4-3: ESPECIES EN CATEGORÍA DE CONSERVACIÓN REGISTRADAS EN EL ÁREA DE ESTUDIO ........................ 52 
+TABLA 4-4: ESPECIE ENDÉMICAS EN EL ÁREA DE ESTUDIO.................................................................................... 53 
+TABLA 4-5: RECUBRIMIENTOS DE SUELO PRESENTES EN EL ÁREA DE ESTUDIO DEL PROYECTO ................................ 53 
+TABLA 4-6: FORMACIONES VEGETALES PRESENTES EN EL ÁREA DE ESTUDIO DEL PROYECTO ................................. 55 
+TABLA 4-7. SUPERFICIE FORMACIONES VEGETALES REGULADAS POR LEY N° 20.283 ......................................... 68 
+TABLA 4-8: CRITERIOS DE SINGULARIDAD AMBIENTAL DE LA FLORA VASCULAR APLICABLES ................................ 75 
+TABLA 4-9: ESPECIES CLASIFICADAS EN CATEGORÍA DE CONSERVACIÓN CATALOGADAS COMO 
+“AMENAZADAS”, INCLUYENDO LA CATEGORÍA “CASI AMENAZADA”. ..................................................... 78 
+TABLA 4-10: ESPECIES NATIVAS O ENDÉMICAS REGISTRADAS EN EL ÁREA DE ESTUDIO QUE SE ENCUENTRAN 
+CERCANO AL LÍMITE DE SU DISTRIBUCIÓN GEOGRÁFICA LATITUDINAL ......................................................... 82 
+TABLA 4-11: PROBABILIDAD DE PRESENCIA DE ESPECIES EN EL ÁREA DE ESTUDIO DEL PROYECTO PARA UN 
+PERIODO FUTURO (AÑOS 2035 – 2065) ................................................................................................... 88 
+TABLA 4-12: ÍNDICE DE RIESGO CLIMÁTICO PARA LA PERDIDA DE FLORA POR CAMBIOS DE PRECIPITACIÓN EN LA 
+COMUNA DE VIÑA DEL MAR ..................................................................................................................... 90 
+TABLA 4-13: ÍNDICE DE RIESGO CLIMÁTICO PARA LA PERDIDA DE FLORA POR CAMBIOS DE TEMPERATURA EN LA 
+COMUNA DE VIÑA DEL MAR ..................................................................................................................... 91 
+TABLA 4-14: FORMACIONES VEGETALES PRESENTES EN EL ÁREA DE ESTUDIO DEL PROYECTO CON SU RIQUEZA E 
+ÍNDICES DE DIVERSIDAD Y EQUIDAD. .......................................................................................................... 92 
+ 
+ 
+ 
+ 
+ÍNDICE DE FIGURAS 
+FIGURA 3-1: ÁREA DE ESTUDIO Y OBRAS DEL PROYECTO .................................................................................... 14 
+FIGURA 3-2: DISTRIBUCIÓN ESPACIAL DE PUNTOS DE MUESTREO EN EL ÁREA DE ESTUDIO DEL PROYECTO DURANTE 
+LAS CAMPAÑAS DE INVIERNO Y PRIMAVERA 2024; Y VERANO Y OTOÑO 2025 ......................................... 18 
+
+===== p.5 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 6 de 108 
+ 
+FIGURA 3-3. RECORRIDO PEDESTRE Y PUNTOS DE MUESTREO MICRORUTEO  FUENTE: ELABORACIÓN PROPIA, 
+2025. ....................................................................................................................................................... 19 
+FIGURA 3-4. RECORRIDO PEDESTRE (MICRORUTEO) CANELO Y PALMA CHILENA  ............................................... 20 
+FIGURA 3-5. COBERTURAS REFERENCIALES ......................................................................................................... 23 
+FIGURA 3-6. DISCONTINUIDAD DEL DOSEL DETECTADA CON NDVI Y VALIDADA EN TERRENO ............................ 24 
+FIGURA 4-1: FORMACIONES VEGETALES DE GAJARDO (1994) QUE INTERCEPTA EL ÁREA DE ESTUDIO DEL 
+PROYECTO ................................................................................................................................................ 43 
+FIGURA 4-2: FORMACIONES VEGETALES DE LUEBERT Y PLISCOFF (2017) QUE INTERCEPTA EL ÁREA DE ESTUDIO DEL 
+PROYECTO ................................................................................................................................................ 46 
+FIGURA 4-3. RIQUEZA DE FLORA VASCULAR POR FAMILIA TAXONÓMICA REGISTRADA EN EL ÁREA DE ESTUDIO DEL 
+PROYECTO ................................................................................................................................................ 48 
+FIGURA 4-4. RIQUEZA ESTACIONAL REGISTRADA EN BASE AL ESFUERZO DE MUESTREO EN EL ÁREA DE ESTUDIO POR 
+CAMPAÑA Y ACUMULADA ........................................................................................................................ 49 
+FIGURA 4-5. NÚMERO TOTAL DE ESPECIES CLASIFICADO POR ORIGEN FITOGEOGRÁFICO EN EL ÁREA DE ESTUDIO 
+DEL PROYECTO .......................................................................................................................................... 50 
+FIGURA 4-6. NÚMERO TOTAL DE ESPECIES CLASIFICADO POR HÁBITO DE CRECIMIENTO EN EL ÁREA DE ESTUDIO 
+DEL PROYECTO .......................................................................................................................................... 50 
+FIGURA 4-7: UBICACIÓN ESPACIAL DE LOS RECUBRIMIENTOS DE SUELOS PRESENTES EN EL ÁREA DE ESTUDIO DEL 
+PROYECTO ................................................................................................................................................ 54 
+FIGURA 4-8. FORMACIONES VEGETALES EN EL ÁREA DE ESTUDIO ........................................................................ 57 
+FIGURA 4-9: FORMACIONES VEGETALES REGULADAS POR LEY N°20.283. ........................................................ 69 
+FIGURA 4-10. ORTOMOSAICO - MATORRAL ARBORESCENTE: NO CUMPLE CON ANCHO MÍNIMO DE 40 M ....... 71 
+FIGURA 4-11. DISCONTINUIDAD DEL DOSEL DETECTADA CON NDVI Y VALIDADA EN TERRENO.......................... 72 
+FIGURA 4-12. AJUSTE DE RODALIZACIÓN EN FUNCIÓN DEL NDVI Y VALIDACIÓN DE TERRENO .......................... 73 
+FIGURA 4-13. RODALES DE BOSQUE NATIVO DE PRESERVACIÓN DE CANELO Y PALMA CHILENA ........................ 74 
+FIGURA 4-14. UBICACIÓN DE ESPECIES CLASIFICADAS COMO “CASI AMENAZADAS” EN EL ÁREA DE ESTUDIO... 79 
+FIGURA 4-15. UBICACIÓN DE ESPECIES CLASIFICADAS COMO “AMENAZADAS” EN EL ÁREA DE ESTUDIO. .......... 80 
+FIGURA 4-18: ÁREA DE ESTUDIO DEL PROYECTO EN UN SITIO PRIORITARIO PARA LA CONSERVACIÓN DE LA 
+BIODIVERSIDAD. ........................................................................................................................................ 84 
+FIGURA 4-17: ÍNDICES DE DIVERSIDAD DE SHANNON-WIENER, ÍNDICE DE PIELOU (E) Y RIQUEZA FLORÍSTICA DE 
+LAS FORMACIONES VEGETALES IDENTIFICADAS EN EL ÁREA DE ESTUDIO DEL PROYECTO .............................. 93 
+FIGURA 4-18: ÍNDICE DE DIVERSIDAD DE SHANNON-WIENER, ÍNDICE DE PIELOU (E) Y RIQUEZA FLORÍSTICA DE LAS 
+FORMACIONES VEGETALES PRESENTE EN EL ÁREA DE ESTUDIO POR CADA CAMPAÑA (INVIERNO Y 
+PRIMAVERA 2024; VERANO Y OTOÑO 2025) ........................................................................................... 95 
+ 
+ÍNDICE DE FOTOGRAFÍA 
+ 
+ 
+FOTOGRAFÍA 4-1: FISIONOMÍA DE BOSQUE NATIVO RENOVAL DE CRYPTOCARYA ALBA ................................... 58 
+FOTOGRAFÍA 4-2: FISIONOMÍA DE BOSQUE NATIVO RENOVAL DE CRYPTOCARYA ALBA, PEUMUS BOLDUS Y 
+SCHINUS LATIFOLIUS ................................................................................................................................... 59 
+
+===== p.6 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 7 de 108 
+ 
+FOTOGRAFÍA 4-3: FISIONOMÍA DE MATORRAL ARBORESCENTE DE CRYPTOCARYA ALBA, PEUMUS BOLDUS Y 
+SCHINUS LATIFOLIUS ................................................................................................................................... 60 
+FOTOGRAFÍA 4-4: FISIONOMÍA DE MATORRAL CON SUCULENTAS DE PUYA BETERONIANA Y COLLIGUAJA 
+ODORIFERA ............................................................................................................................................... 61 
+FOTOGRAFÍA 4-5: FISIONOMÍA DE MATORRAL CON SUCULENTAS DE PUYA CHILENSIS Y COLLIGUAJA ODORÍFERA
+ ................................................................................................................................................................. 62 
+FOTOGRAFÍA 4-6: FISIONOMÍA DE MATORRAL DE CHUSQUEA CUMINGII ........................................................... 63 
+FOTOGRAFÍA 4-7: FISIONOMÍA DE MATORRAL DE COLLIGUAJA ODORIFERA ..................................................... 64 
+FOTOGRAFÍA 4-8: FISIONOMÍA DE MATORRAL DE COLLIGUAJA ODORIFERA Y CHUSQUEA CUMINGII ................ 65 
+FOTOGRAFÍA 4-9: FISIONOMÍA DE MATORRAL DE RETANILLA TRINERVIA ............................................................ 66 
+FOTOGRAFÍA 4-10: FISIONOMÍA DE PLANTACIÓN FORESTAL DE PINUS RADIATA ................................................. 67 
+ 
+ 
+ 
+ 
+
+===== p.7 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 8 de 108 
+ 
+RESUMEN 
+El presente documento corresponde a la Línea de Base de Flora y Vegetación Vascular 
+Terrestre del proyecto "Centro Metropolitano de Gestión Integral de Residuos" (CMGIR), 
+cuyo titular es Ebi y COSEMAR S.A., emplazado en la comuna de Viña del Mar, provincia de 
+Valparaíso. El proyecto contempla una intervención directa de 82,30 ha, considerando 
+obras permanentes y camino de acceso. El área de estudio abarca 325,44 ha, determinada 
+mediante buffer sobre el área del proyecto e incluyendo la continuidad de las formaciones 
+vegetales adyacentes. 
+La caracterización se realizó mediante seis instancias de terreno: cuatro campañas 
+estacionales (invierno y primavera 2024; verano y otoño 2025) con 49 puntos de muestreo 
+cada una; una campaña de microruteo de Jubaea chilensis y Drimys winteri (diciembre 
+2025) con 42 puntos y 30,49 km recorridos; y una campaña de inventario forestal (marzo-
+abril 2026) con 39 parcelas para cuantificar formaciones reguladas por la Ley N° 20.283, 
+totalizando 277 puntos en 23 días efectivos. Las metodologías aplicadas incluyeron 
+inventarios florísticos Braun-Blanquet, Carta de Ocupación de Tierras (COT) e Inventario 
+Forestal, complementadas con fotointerpretación en QGIS apoyada por un ortomosaico 
+de vuelo dron de 5 cm de pixel y un raster NDVI elaborado en Google Earth Engine con 
+imágenes Sentinel-2 del año 2021, previo al incendio que afectó el área en 2024. 
+Se registraron 243 especies de flora vascular terrestre, con predominio de hábito herbáceo 
+perenne (41,15%) y origen fitogeográfico endémico (44,03%; 107 especies). Las familias más 
+representativas fueron Asteraceae, Fabaceae y Poaceae. Se identificaron 33 especies 
+listadas en el D.S. N° 68/2009 (MINAGRI) y 19 especies en categorías de conservación, 
+destacando Jubaea chilensis y Drimys winteri (EN), Chloraea disioides (CR), Chloraea 
+cristata (VU) y Alstroemeria marticorenae (EN).  
+Se determinaron cinco recubrimientos de suelo — con predominio de Matorrales (81,31%) 
+— y veinte formaciones vegetales, siendo la más representativa el Matorral de Colliguaja 
+odorifera (21,86%), seguido del Matorral con suculentas de Puya chilensis y Colliguaja 
+odorifera (19,83%). Los bosques nativos renovales se concentran en fondos de quebrada. 
+Respecto de las formaciones reguladas por Ley N° 20.283, se identificaron 157,88 ha: bosque 
+nativo (22,39 ha), bosque nativo de preservación (2,65 ha), formaciones xerofíticas (106,61 
+ha) y plantación forestal (26,23 ha). Los bosques nativos de preservación corresponden a 
+tres rodales ubicados fuera del área de intervención directa, determinados por la presencia 
+de canelo y palma chilena. 
+Se identificaron siete singularidades ambientales (S-8 a S-14), incluyendo presencia de 
+bosque nativo de preservación, especies bajo protección oficial, especies amenazadas, 
+endemismo elevado, distribución restringida, especies en límite de distribución latitudinal y 
+colindancia con sitios prioritarios para la conservación. El análisis de cambio climático 
+proyecta un riesgo Alto para pérdida de flora por reducción de precipitaciones (IRC = 
+
+===== p.8 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 9 de 108 
+ 
+0,6933) y Moderado por aumento de temperatura (IRC = 0,3204) hacia 2065. Los índices de 
+diversidad de Shannon-Weaver evidenciaron mayor riqueza en bosques nativos renovales 
+(H' = 3,259) frente a la plantación forestal (H' = 1,854), con variaciones estacionales 
+asociadas principalmente al ciclo de herbáceas anuales. 
+En síntesis, la presente línea de base constituye un documento técnico que integra, de 
+manera coherente y rigurosa, métodos de campo estandarizados, análisis de biodiversidad, 
+herramientas de teledetección de alta resolución y normativa ambiental vigente, logrando 
+una caracterización completa y territorialmente precisa del componente flora y 
+vegetación del área de estudio. La profundidad del muestreo, la cobertura estacional de 
+las campañas y la validación sistemática en terreno de los resultados obtenidos en gabinete 
+otorgan a este informe el nivel de robustez técnica necesario para sustentar sus 
+conclusiones. 
+.
+
+===== p.9 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 10 de 108 
+ 
+1. 
+INTRODUCCIÓN 
+El proyecto “Centro Metropolitano de Gestión Integral de Residuos”, en adelante el 
+Proyecto; cuyo titular corresponde a Ebi y COSEMAR S.A. El proyecto se ubica al interior de 
+la provincia de Valparaíso, en la comuna de Viña del Mar, localizándose al sureste de la 
+ciudad de Viña del Mar y al suroeste de la ciudad de Quilpué.  
+El proyecto consiste en la gestión de residuos principalmente domiciliarios, contemplando 
+un área de obras permanentes de 82,30 ha. Dentro de esta misma superficie, , se contempla 
+la construcción de un camino de aproximadamente 4,0 km de longitud con una de 
+superficie de 8,51 hectáreas (incluidos movimientos de tierra). El área de estudio del 
+proyecto se encuentra a una altitud de 280 metros sobre el nivel del mar aproximadamente. 
+La línea de base se ha elaborado en consideración a lo descrito en el Artículo 18 letra e.2 
+del Decreto Supremo anteriormente citado, del Ministerio del Medio Ambiente (MMA), que 
+describe y detalla el texto del Reglamento del Sistema de Evaluación de Impacto 
+Ambiental (RSEIA), donde se indica que la línea de base del componente Plantas 
+Vasculares deberá considerar la identificación, ubicación, distribución, diversidad y 
+abundancia de las especies, identificando aquellas especies que se encuentren en alguna 
+categoría de conservación, entre otros. Se detalla la metodología utilizada y los resultados 
+obtenidos durante cuatro (4) campañas de terreno que comenzaron en invierno 2024 hasta 
+otoño del 2025, donde se siguieron los criterios técnicos bajo el marco legal anteriormente 
+señalado; además de los procedimientos definidos en las guías del Servicio de Evaluación 
+Ambiental desarrolladas para estos efectos. 
+Como parte del componente, la vegetación se encuentra descrita a partir de las 
+formaciones y sus distintas asociaciones de especies, denominadas formaciones 
+vegetacionales. Se entrega información de sus especies y tipos biológicos dominantes, junto 
+con sus rangos de cobertura. Además, se presenta la distribución cartográfica y la 
+proporción de ocupación de las asociaciones dentro del área de estudio. En este contexto, 
+y para descartar la afectación de los bosques nativos de preservación (BNP) en el área de 
+estudio, se llevaron a cabo dos campañas de terreno adicionales: microruteo de palma 
+chilena (Jubaea chilensis) y canelo (Drymis winteri) y campaña de inventario forestal. 
+La flora vascular se describe a través de la composición florística y la abundancia relativa 
+de las especies registradas para cada formación vegetacional.  
+Con la finalidad de determinar elementos sensibles del componente, se analizaron las 
+singularidades de acuerdo con lo sugerido por los servicios ambientales en las Guías del SEA 
+mencionadas anteriormente, además de la Guía de Evaluación Ambiental - Criterios para 
+la participación de CONAF en el SEIA (CONAF, 2020). 
+ 
+ 
+
+===== p.10 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 11 de 108 
+ 
+2. 
+OBJETIVOS 
+2.1. 
+Objetivo general 
+El objetivo general es caracterizar el componente flora y vegetación asociado al Proyecto 
+“Centro Metropolitano de Gestión Integral de Residuos”, identificando las singularidades y 
+sensibilidades ambientales presentes, especialmente en lo referente a formaciones 
+vegetales reguladas por la Ley N° 20.283 sobre Recuperación de Bosque Nativo y Fomento 
+Forestal. 
+2.2. 
+Objetivos específicos 
+• 
+Identificar y caracterizar la flora vascular terrestre presente en el área de estudio del 
+proyecto a caracterizar. 
+• 
+Determinar la riqueza florística, su origen fitogeográfico, cobertura, y hábito de 
+crecimiento. 
+• 
+Determinar las formaciones vegetales presentes en el área de estudio. 
+• 
+Establecer la distribución espacial de las formaciones vegetales. 
+• 
+Verificar la presencia en el área del proyecto especies de flora que se encuentren en 
+alguna categoría de conservación, e identificar su sensibilidad frente a la ejecución 
+del proyecto. 
+• 
+Determinar la presencia o ausencia de formaciones vegetales sensibles o singulares, 
+especialmente, aquellas reguladas por la Ley N° 20.283 sobre Recuperación de Bosque 
+Nativo y Fomento Forestal. 
+• 
+Analizar la presencia de singularidades ambientales asociadas a la vegetación y flora 
+vascular terrestre en el área de estudio. 
+ 
+ 
+
+===== p.11 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 12 de 108 
+ 
+3. 
+MATERIALES Y MÉTODOS 
+3.1. 
+Descripción del Área de Estudio 
+El emplazamiento del proyecto se encuentra en la comuna de Viña del Mar, provincia de 
+Valparaíso, región de Valparaíso. En relación al componente flora y vegetación, se 
+identificó la presencia y abundancia de flora, se clasificó según su estado de conservación 
+y categorizó las formaciones vegetacionales existentes, siguiendo las pautas establecidas 
+por la Guía metodológica para la descripción de ecosistemas terrestres (SEA, 2025), Guía 
+Áreas de Influencia (SEA, 2026) y la Guía de Evaluación Ambiental “Criterios para la 
+participación de CONAF en el SEIA” (CONAF, 2020). 
+Considerando lo anterior, el área total del proyecto ocupa una superficie de 82,30 ha de 
+intervención directa. Para determinar el área de estudio, se aplicó un buffer de 
+aproximadamente 200 m sobre el área del proyecto, donde muchas veces se sobrepasó 
+dicha distancia, con el objetivo de incluir la continuidad de las formaciones vegetales. De 
+la misma manera, se aplicó un buffer de aproximadamente 50 m alrededor del camino 
+proyectado, considerando su ubicación en la ladera media de la topografía. Ambas 
+proyecciones del área de estudio se basaron en imágenes satelitales disponibles, y se tuvo 
+en cuenta la topografía del terreno y las curvas de nivel. Como resultado, el área de estudio 
+totaliza una superficie de 325,44 ha (Figura 3-1). 
+3.2. 
+Levantamiento de información en terreno 
+El levantamiento de información en terreno fue realizado durante la temporada de invierno 
+(septiembre 2024), primavera (noviembre 2024), verano (enero 2025) y otoño (mayo 2025) 
+(Tabla 3-1).  
+Tabla 3-1: Esfuerzo de muestreo  
+Campaña 
+Fecha 
+Invierno 2024 
+10 al 13 de septiembre de 2024 
+Primavera 2024 
+18 al 21 de noviembre de 2024 
+Verano 2025 
+13 al 16 de enero de 2025 
+Otoño 2025 
+12 al 15 de mayo de 2025 
+Fuente: Elaboración propia, 2025. 
+Cabe señalar que, entre el 21 y 23 de diciembre de 2025, se realizó un microruteo de palma 
+chilena y canelo, con el objeto de tener certeza de la ubicación, distribución y abundancia 
+de los individuos de estas especies en el área de estudio. Adicionalmente, durante los días 
+
+===== p.12 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 13 de 108 
+ 
+lunes 30 de marzo y jueves 2 de abril de 2026, se realizó una última campaña de terreno, 
+con el objeto de cuantificar las formaciones xerofíticas, bosques nativos y bosques nativos 
+de preservación presentes en el área de estudio (Tabla 3-2). 
+Tabla 3-2. Campañas complementarias de Flora y Vegetación 
+Campaña 
+Fecha 
+Microruteo 
+21 al 23 de diciembre de 2025 
+Inventario Forestal 
+30 de marzo al 2 de abril de 2026 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+
+===== p.13 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 14 de 108 
+ 
+Figura 3-1: Área de estudio y obras del proyecto 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+
+===== p.14 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 15 de 108 
+ 
+3.3. 
+Revisión de información bibliográfica 
+Durante esta etapa se definió y caracterizó el marco biogeográfico en el que se inserta el 
+Área de Estudio del proyecto, por medio de una revisión bibliográfica de trabajos realizados 
+a la fecha, como publicaciones científicas, informes emanados del Estado de Chile, 
+Universidades, Fundaciones y/u ONG´s. 
+Particularmente, el análisis biogeográfico del componente Flora y Vegetación vascular, fue 
+abordado tomando como base el Sistema Básico de Clasificación de la Vegetación 
+Natural de Chile desarrollado por Gajardo (1994) y la Sinopsis Bioclimática y Vegetacional 
+de Chile de Luebert y Pliscoff (2017).  
+La clasificación propuesta por Gajardo (1994) se desarrolló a partir de criterios fisionómicos-
+estructurales, antecedentes de terreno y antecedentes bibliográficos y establece una 
+clasificación de tipo jerárquico para la vegetación de Chile con cuatro niveles de 
+agregación. A saber: Región Ecológica - Subregión Ecológica - Formación Vegetal - 
+Comunidad tipo. Los tres primeros niveles poseen representación cartográfica y por ende 
+rangos de distribución. El cuarto nivel desagrega las formaciones vegetales sobre la base 
+de criterios de tipo micro ambiental y nivel de alteración por procesos catastróficos 
+naturales o por efectos de influencia antrópica. Para cada una de estas comunidades el 
+sistema entrega especies vegetales que caracterizan estas formaciones, acorde a su mayor 
+o menor participación en la composición florística. 
+La clasificación propuesta por Luebert y Pliscoff (2017) se realizó a partir de criterios 
+bioclimáticos (termotipos y ombrotipos, que definen los pisos bioclimáticos) y 
+vegetacionales, cuya unidad básica de análisis está constituida por el concepto de piso 
+vegetacional, definido como “espacios caracterizados por un conjunto de comunidades 
+vegetales zonales con estructura y fisonomía uniforme, situadas bajo condiciones 
+mesoclimáticas homogéneas, que ocupan una posición determinada a lo largo de un 
+gradiente de elevación, a una escala espacio-temporal específica”, éstos tienen 
+representación cartográfica. Adicionalmente se consideraron estudios de flora y 
+vegetación cercanos al AE y Líneas de base ambientales. 
+3.4. 
+Fotointerpretación de imágenes  
+El trabajo de fotointerpretación tiene como objetivo analizar la información extraída 
+mediante el análisis de imágenes satelitales, considerando el recubrimiento del suelo. Para 
+ello se utilizó las imágenes disponibles en Google Earth/Bing Maps, además de ortomosaico 
+de un vuelo dron de 5 cm de pixel proporcionadas por el cliente, con imágenes previas al 
+incendio que afectó el área de estudio el verano de 2024. Este trabajo se realizó en forma 
+visual y directamente en formato digital mediante QGIS 3.34.1. 
+La discriminación en la fotointerpretación se realizó en base a tono/color, textura y 
+estructura (Etienne y Prado, 1982). Los polígonos generados, que dan cuenta de las 
+
+===== p.15 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 16 de 108 
+ 
+unidades homogéneas de vegetación, son homologados a alguna de las categorías de 
+recubrimiento del suelo.  
+Adicionalmente, para facilitar y afinar el dibujo, se calculó para el área de estudio el índice 
+NDVI. El cálculo del índice NDVI se hizo en Google Earth Engine (GEE) a partir de un mosaico 
+de imágenes Sentinel-2 (BOA) entre el 01.01.2021 hasta el 31.12.21, previo al incendio del 
+2024. Lo anterior, con el objetivo de evaluar la vegetación en su mejor condición y no 
+subestimar las coberturas de copa arbórea, así como tampoco los anchos y continuidad 
+de los rodales definidos como bosques. 
+Con la información de fotointerpretación se procedió a la generación de planos de trabajo 
+para el desarrollo de la campaña de terreno. Estos incluyen la imagen satelital de fondo y 
+el contorno de las unidades descritas. Sobre éstas, se ubican las unidades muestrales para 
+el levantamiento de información en terreno. 
+3.5. 
+Diseño de Muestreo 
+Para todos los efectos, se utilizaron parcelas de muestreo circulares de 500 m2, en las cuales 
+se aplicaron, dependiendo del propósito, las metodologías de Braun-Blanquet, Carta de 
+Ocupación de Tierras (COT) y/o Inventario Forestal. 
+El tipo de muestreo utilizado en terreno corresponde al diseño estratificado (Matteucci y 
+Colma, 1982), donde los estratos corresponden a los tipos de formaciones vegetales 
+fotointerpretadas durante la etapa preliminar, siendo en estos estratos ubicados los puntos 
+de muestreo. 
+Los puntos de muestreo se distribuyeron de modo de abarcar la mayor diversidad vegetal 
+del área, intentando comprender la mayor proporción de las unidades (polígonos) 
+vegetales.  
+3.6. 
+Puntos y esfuerzo de muestreo 
+Para la determinación de la riqueza y abundancia de la flora, así como para la 
+caracterización de la vegetación, se realizaron 49 puntos de muestreo en el área de 
+estudio, con el fin de obtener una caracterización detallada de las formaciones vegetales 
+presentes a lo largo de las cuatro (4) campañas realizadas (Figura 3-2). Cabe mencionar 
+que, en todos estos puntos de muestreo, se realizaron inventarios florísticos mediante la 
+metodología de Braun-Blanquet y caracterización de la vegetación mediante La Carta de 
+Ocupación de Tierras (COT).  
+Los puntos de muestreo y el recorrido pedestre realizado en el contexto del microruteo de 
+palma chilena y canelo en el área de estudio se muestra en la Figura 3-3. Durante esta 
+actividad se realizaron 42 puntos de muestreo, en donde se levantó la información referente 
+al porcentaje de cobertura de copa del dosel arbóreo y arbustivo, considerando hasta 3 
+especies principales en cada estrato. La cobertura de copa fue estimada en terreno 
+
+===== p.16 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 17 de 108 
+ 
+mediante apreciación visual, considerando la proyección horizontal de las copas arbóreas, 
+de acuerdo con los criterios de la Carta de Ocupación de Tierras (Etienne y Prado, 1982). 
+También, se revisaron los límites del dosel arbóreo y se validaron las discontinuidades del 
+dosel identificadas en gabinete. Cabe señalar que para esta actividad se caminaron 30,49 
+km, poniendo énfasis en los hábitats de estas especies, las cuales se caracterizan por estar 
+a media ladera y fondos de quebrada respectivamente. 
+Finalmente, en aquellas formaciones determinadas como bosque nativo y formaciones 
+xerofíticas, se realizó una campaña adicional de caracterización y validación con 17 y 22 
+Parcelas 
+de 
+Inventario 
+Forestal 
+respectivamente, 
+con 
+el 
+fin 
+de 
+determinar 
+cuantitativamente las densidades y coberturas de las especies listadas en el Decreto N° 
+68/2009, del Ministerio de Agricultura, que Oficializa el listado de especies autóctonas del 
+país, las cuales están sujetas a la aplicación de Ley N°20.283. En la Figura 3-4 se muestra la 
+distribución espacial de los puntos de muestreo. 
+Tabla 3-3. Esfuerzo de muestreo 
+N 
+Campaña 
+Número puntos de 
+muestreo 
+Número de días efectivos 
+1 
+Invierno 2024 
+49 
+4 
+2 
+Primavera 2024 
+49 
+4 
+3 
+Verano 2025 
+49 
+4 
+4 
+Otoño 2025 
+49 
+4 
+5 
+Microruteo 2025 
+42 
+3 
+6 
+Inventario forestal 2026 
+39 
+4 
+TOTAL 
+277 
+23 
+Fuente: Elaboración propia, 2025 
+ 
+ 
+
+===== p.17 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 18 de 108 
+ 
+Figura 3-2: Distribución espacial de puntos de muestreo en el área de estudio del proyecto 
+durante las campañas de invierno y primavera 2024; y verano y otoño 2025 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+
+===== p.18 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 19 de 108 
+ 
+Figura 
+3-3. 
+Recorrido 
+pedestre 
+y 
+puntos 
+de 
+muestreo 
+microruteo 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+
+===== p.19 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 20 de 108 
+ 
+Figura 3-4. Recorrido pedestre (microruteo) canelo y palma chilena 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+
+===== p.20 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 21 de 108 
+ 
+En el Anexo 2 se presentan los puntos de muestreo correspondientes a las campañas de 
+invierno y primavera de 2024, y verano y otoño de 2025, el recorrido pedestre (track) y 
+puntos de muestreo asociados al microruteo de palma chilena y canelo, y los puntos de 
+muestreo de la campaña complementaria de formaciones reguladas por la Ley N° 20.283.  
+3.7. 
+Parcelas de inventario florístico (Braun-Blanquet) 
+Para fines de esta caracterización, se entenderá como “flora”, al conjunto de especies 
+vegetales presentes en el área de estudio, caracterizadas taxonómicamente, como 
+elementos aislados, de los que interesan las particularidades de cada taxón a nivel de 
+especie, tales como su estado de conservación u origen biogeográfico (Gajardo, 1994). Es 
+decir, entenderemos por flora, a la lista taxonómica de especies y sus características 
+biológicas y de singularidad asociadas. 
+En particular, la flora vascular está referida a aquellas especies de flora con estructuras 
+internas para la conducción, conformando xilema y floema, clasificándose en esta 
+definición las categorías taxonómicas de Pteridophyta, Gimnospermas y Angiospermas, 
+éstas últimas clasificadas tradicionalmente como Monocotiledóneas y Dicotiledóneas 
+(Teillier, 2006). 
+El registro de la flora vascular terrestre se realizó por observación directa en los puntos de 
+muestreo para todas las campañas estacionales, los cuales fueron distribuidos en las 
+unidades cartográficas delimitadas previamente (fotointerpretadas), a modo de abarcar 
+la mayor diversidad vegetal del área. En cada parcela de muestreo, se realizó un inventario 
+de la flora presente, registrando el nombre científico de la especie, tipo biológico y la 
+estimación de su abundancia relativa por medio de la metodología de Braun-Blanquet 
+(1979) (Tabla 3-4). 
+Tabla 3-4: Codificación “abundancia relativa de flora” según criterio de Braun- Blanquet 
+(1979) 
+Código 
+Cobertura/Abundancia 
+p 
+Especie ubicada fuera de la unidad de muestreo, pero dentro de la 
+formación vegetal. 
+r 
+Individuo solitario, cobertura despreciable. 
++ 
+Pocos individuos, cobertura <1% de la unidad de muestreo. 
+1 
+Numerosos individuos, cobertura <5% de la unidad de muestreo. 
+2 
+Cobertura entre un 5 a 25% de la unidad de muestreo. 
+3 
+Cualquier número de individuos, cobertura entre 25 y 50% de la unidad de 
+muestreo. 
+4 
+Cualquier número de individuos, cobertura entre 50 y 75% de la unidad de 
+muestreo. 
+5 
+Cualquier número de individuos, cobertura >75% de la unidad de muestreo. 
+Fuente: Elaboración propia, 2025. En base a la metodología de Braun-Blanquet (1979). 
+
+===== p.21 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 22 de 108 
+ 
+3.8. 
+Carta de Ocupación de Tierras (COT) 
+El enfoque empleado para la descripción de la estructura de la vegetación consiste en 
+caracterizar y clasificar las comunidades de plantas en formaciones vegetales.  
+Se entenderá como “formación vegetal” al conjunto de plantas de una o varias especies 
+que comparten características de forma y comportamiento (Godron et al. 1968, Etienne y 
+Prado, 1982); las características incluyen aspectos estructurales de abundancia, 
+estratificación y cobertura, es decir, es la expresión de la flora en un área determinada, más 
+la dimensión de abundancia, estratificación y dominancia, entre otras. Este enfoque 
+fisonómico está basado en los conceptos de estratificación y cobertura, permitiendo dar 
+una imagen de la disposición vertical y horizontal de las especies en terreno (in situ). 
+La delimitación y caracterización de las formaciones vegetales se desarrolló en base al 
+método de La Carta de Ocupación de Tierras (COT) descrito por Etienne y Prado (1982). 
+Éste consiste en un proceso de clasificación fisionómica de la vegetación, descrito por los 
+tipos biológicos que se presenten en la comunidad (suculento, herbáceo, arbustivo o leñoso 
+bajo, y leñoso alto). Además, se caracterizan cada uno de éstos en relación con cobertura, 
+estratificación y especies dominantes: 
+• 
+La cobertura o recubrimiento, representa la proporción del terreno que es 
+ocupada por la vegetación o por su proyección horizontal. Este criterio da una 
+idea de la abundancia de los diferentes tipos biológicos. 
+• 
+La estratificación constituye el corte vertical en la formación, permitiendo distinguir 
+y clasificar los rangos de altura en los cuales se sitúan los tipos biológicos presentes 
+en la formación vegetal. 
+• 
+Las especies dominantes corresponden a aquellas plantas cuyas características 
+morfológicas 
+o 
+abundancia 
+marcan 
+fisonómicamente 
+la 
+vegetación, 
+determinándose en base a los tipos biológicos de mayor representatividad en 
+cada formación vegetal. 
+3.9. 
+Microruteo de palma chilena y canelo 
+La metodología consistió en recorrer sistemáticamente cada una de las quebradas 
+correspondientes a lo que se denominó área de estudio. Durante el recorrido, el trabajo 
+principal era detectar nuevos individuos de canelo y palma chilena que no hubieran sido 
+catastrados durante las campañas estacionales. La ubicación de cada individuo de 
+canelo y palma chilena fue registrada mediante GPS portátil, generando una base 
+georreferenciada para su análisis espacial. Adicionalmente, se tomaron datos de la altura, 
+estado fenológico y estado fitosanitario de los individuos. 
+Complementariamente, se hicieron puntos de muestreo circulares de 500 m2, donde se 
+levantó la información referente al porcentaje de cobertura de copa del dosel arbóreo y 
+
+===== p.22 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 23 de 108 
+ 
+arbustivo, sobre todo en aquellos rodales donde se tuvo registro de las especies de interés. 
+La cobertura de copa fue estimada en terreno mediante apreciación visual, considerando 
+la proyección horizontal de las copas arbóreas, de acuerdo con los criterios de la Carta de 
+Ocupación de Tierras (Etienne y Prado, 1982)y SEA (2025)(Figura 3-5).  
+Figura 3-5. Coberturas referenciales 
+ 
+Fuente: Guía metodológica para la descripción de ecosistemas terrestres (SEA, 2025) 
+ 
+ 
+
+===== p.23 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 24 de 108 
+ 
+También, se revisaron los límites (ancho) del dosel arbóreo y se validaron o descartaron las 
+discontinuidades del dosel identificadas en gabinete (Figura 3-6). 
+Figura 3-6. Discontinuidad del dosel detectada con NDVI y validada en terreno 
+ 
+Fuente: Elaboración propia, 2025 
+
+===== p.24 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 25 de 108 
+ 
+3.10. Parcelas de Inventario Forestal 
+Las parcelas de inventario forestal corresponden a un método fisionómico y estructural, el 
+cual nos permite obtener información respecto a parámetros forestales de árboles, donde 
+también se puede utilizar para formaciones arbustivas. Este método nos puede indicar la 
+composición, densidad, estado de desarrollo, altura dominante, área basal y existencias en 
+volumen de una formación vegetal. Asimismo, las parcelas de muestreo forestal permiten 
+determinar el tipo impacto ambiental del área como la modificación de la población, 
+cambio en sus propiedades y pérdida de una comunidad de flora o vegetación 
+(vegetación arbórea o arbustiva). 
+De acuerdo con las variables cuantitativas que se pueden obtener de este método, tales 
+como la composición de especies (número de árboles o arbustos de una determinada 
+especie) y densidad (número de árboles o arbustos por unidad de superficie). Los 
+parámetros utilizados y recopilados en terreno fueron: 
+• 
+Diámetro a la altura del pecho del rodal (DAP). 
+• 
+Diámetro de copa (N-S; E-W). 
+• 
+Cuantificación de individuos por especie en el área de muestreo. 
+• 
+Estructura actual, Estado de Desarrollo, Estado Sanitario 
+3.11. Procesamiento de la información 
+3.11.1. Caracterización de la flora vascular terrestre 
+Se entenderá por Flora al conjunto de especies vegetales vasculares que se pueden 
+encontrar en una zona determinada. Para su identificación se establece un muestreo a 
+través de parcelas. Cada parcela es georreferenciada y asociada a la formación vegetal 
+correspondiente, registrando las especies presentes y generando un catastro florístico del 
+área de estudio. Junto con lo anterior, y de modo complementario, durante el recorrido 
+entre unidades muestrales se registran aquellas especies que no se encuentran presentes 
+en las parcelas. 
+Aquellas especies que no fue posible identificar en terreno, se herborizaron y determinaron 
+en gabinete. 
+3.11.2. Riqueza y composición florística  
+La información recogida de las especies y su abundancia relativa (Braun-Blanquet), por 
+punto de muestreo, fue almacenada digitalmente en una base de datos de consulta (ver 
+Anexo 4 (Base de Datos Consolidado de Flora y Vegetación). De esta manera, se elaboró 
+un listado florístico de la riqueza total presente en el área de estudio de acuerdo con los 
+
+===== p.25 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 26 de 108 
+ 
+registros obtenidos en las cuatro (4) campañas realizadas, con la respectiva clasificación 
+taxonómica de las especies. 
+La revisión final de las colectas botánicas que no pudieron ser identificadas en terreno 
+(herbarios florísticos) y la determinación/confirmación de especies, estuvo a cargo de los 
+especialistas en terreno. Para efectos de nomenclatura binaria y del correcto nombre de 
+las especies de plantas, se ha seguido lo propuesto por el índice internacional de nombres 
+de plantas (The International Plant Names Index [IPNI]: www.ipni.org) y el Catálogo de las 
+Plantas Vasculares del Cono Sur (Rodriguez et al., 2018). 
+Los listados florísticos por punto de muestreo fueron complementados con los atributos de 
+caracterización de la vegetación a la que pertenecía el punto. Además, para cada una 
+de las especies de la base de datos de flora se determinó su origen geográfico, tipo 
+biológico, abundancia relativa y, de corresponder, su estado de conservación y/o 
+protección. Estos criterios, que se describen a continuación, permitieron caracterizar las 
+especies vegetales en términos de la singularidad ambiental que entregan a la formación 
+vegetal donde se encuentran presentes, de acuerdo con los criterios indicados en la Guía 
+de Evaluación Ambiental (CONAF, 2020) y la Guia para la predicción y evaluación de 
+impactos sobre Ecosistemas Terrestres (SEA, 2025). 
+3.11.3. Origen fitogeográfico y tipo biológico 
+En cuanto al origen fitogeográfico de las especies, se consultó el Catálogo de las Plantas 
+Vasculares del Cono Sur (Rodríguez et al., 2018). De acuerdo con esta referencia, las 
+especies se clasificaron de la siguiente forma: 
+• 
+Endémicas: aquellas con una distribución natural restringida en Chile, acotada a 
+un área o ecosistema determinado. 
+• 
+Nativas: especies con una distribución natural dentro de los límites geográficos 
+de Chile. 
+• 
+Adventicias o introducidas: especies introducidas, sin una distribución natural 
+dentro de Chile.  
+• 
+Naturalizadas: las cuales corresponden a plantas que, no siendo oriundas de un 
+país, medra en este y se propaga como si fuese autóctona. 
+Las formas de crecimiento y/o tipos biológicos considerados para el inventario florístico en 
+terreno fueron: 
+• 
+Árboles: Especies de fuste generalmente leñoso, que en su estado adulto y en 
+condiciones normales de hábitat puede alcanzar, a lo menos, cinco metros de 
+altura, o una menor en condiciones ambientales que limiten su desarrollo (Ley 
+20.283). 
+
+===== p.26 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 27 de 108 
+ 
+• 
+Arbustos: Especies leñosas, ramificadas desde la base que alcanzan alturas 
+máximas aproximadas a 2 metros (Etienne & Prado, 1982). 
+• 
+Hierbas perennes: Especies de tejidos no lignificados, cuyo ciclo de vida se 
+concluye en varios años, dado que poseen órganos de resistencia que, durante 
+estaciones desfavorables, se mantienen -como raíces, rizomas, bulbos o tubérculos 
+subterráneos en estado de letargo-, a partir de los cuales rebrotan (Raven, Evert & 
+Eichhorn, 1992, modificado). 
+• 
+Hierbas anuales: Especies de tejidos no lignificados, cuyo ciclo de vida completo 
+se concluye en una estación. Sobreviven a estaciones desfavorables mediante 
+semillas en latencia, las cuales hacen de nexo entre una estación de crecimiento 
+y la siguiente (Raven et al. 1992, modificado). 
+• 
+Parásitas: Especies heterótrofas, principalmente herbáceas, que dependen total o 
+parcialmente de otros individuos para su subsistencia, por lo que viven a expensas 
+de otras plantas, de las que toman agua y nutrientes para cumplir su ciclo de vida 
+(Marticorena, Alarcón, Abello & Atala, 2010, modificado). 
+• 
+Suculentas: Especies que presentan una fisiología muy particular, en cuanto al 
+almacenamiento de agua y a la fijación de anhídrido carbónico. Sus hojas, tallos 
+y/o raíces son más carnosas de lo habitual, debido al desarrollo de tejidos de 
+almacenamiento de agua, entre otros rasgos, asociados a su carácter xerofítico 
+(Benoit, 1989; Señoret & Acosta, 2013, modificado). 
+3.11.4. Especies listadas en el Decreto N.º 68/2009 
+Las especies arbóreas o arbustivas originarias del país fueron determinadas de acuerdo con 
+el Decreto N° 68/2009 del Ministerio de Agricultura, el que establece, aprueba y oficializa 
+las especies arbóreas y arbustivas del país. 
+3.11.5. Especies en categoría de conservación 
+Para determinar la categoría de conservación de las especies de flora, se consideraron los 
+instrumentos oficiales de clasificación de especies. Para ello, se utilizaron las categorías de 
+conservación vigentes según el Reglamento de Clasificación de Especies (RCE), esto 
+comprende los D.S. Nº 151/2007, D.S. Nº 50/2008, D.S. Nº 51/ y D.S. Nº 23/2009 del Ministerio 
+Secretaría General de la Presidencia (MINSEGPRES); y los D.S. Nº 33/2011; D.S. Nº 41/2012; 
+D.S. Nº 42/2012, D.S. Nº 19/2013, D.S. N° 13/2013, D.S. N° 52/2014, D.S. N° 38/2015, D.S. N° 
+16/2016, D.S. N° 6/2017, D.S. N° 79/2018, D.S. Nº23/2019, D.S. N° 16/2020, D.S. N° 44/2021, D.S. 
+Nº 10/2023, D.S. N° 2/2024 y D.S. N° 54/2025 del Ministerio del Medio Ambiente (MMA). 
+Las categorías de conservación utilizadas se basan en el Reglamento para la Clasificación 
+de Especies Silvestres según Estado de Conservación vigente a la fecha, D.S. N° 29/2012 
+
+===== p.27 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 28 de 108 
+ 
+(MMA), el cual se basa en las tipologías definidas por la Unión Internacional para la 
+Conservación de la Naturaleza (UICN, 2001). Ver Tabla 3-5. 
+Tabla 3-5: Categorías de conservación de especies según DS N°29/2012 (MMA 
+Categoría 
+Simbología 
+Descripción 
+Extinto 
+EX 
+Un taxón está Extinto cuando no queda ninguna duda 
+razonable de que el último individuo existente ha muerto. 
+Se 
+presume 
+que 
+un 
+taxón 
+está 
+Extinto 
+cuando 
+prospecciones exhaustivas de sus hábitats, conocidos y/o 
+esperados 
+en 
+momentos 
+apropiados 
+(diarios, 
+estacionales, anuales) y a lo largo de su distribución 
+histórica, no ha podido detectar un solo individuo. Las 
+prospecciones deberán ser realizadas en períodos de 
+tiempo apropiados al ciclo de vida y formas de vida del 
+taxón. 
+Extinto en 
+estado 
+silvestre 
+EW 
+Un taxón está Extinto en Estado Silvestre cuando solo 
+sobrevive en cultivo, cautividad o como población 
+(poblaciones) naturalizadas completamente fuera de su 
+distribución natural. Se presume que un taxón está Extinto 
+en Estado Silvestre cuando prospecciones exhaustivas de 
+sus hábitats, conocidos y/o esperados, en los momentos 
+apropiados (diarios, estacionales, anuales), y a lo largo de 
+su área de distribución histórica, no han podido detectar 
+un solo individuo. Las prospecciones deberán ser 
+realizadas en períodos de tiempos apropiados al ciclo de 
+vida y formas de vida del taxón. 
+En Peligro 
+Crítico 
+CR 
+Un taxón está En Peligro Crítico cuando la mejor evidencia 
+disponible indica que cumple con cualquiera de los 
+criterios “A” a “E” para En Peligro Crítico y, por 
+consiguiente, se considera que está enfrentando un riesgo 
+extremadamente alto de extinción en un estado silvestre. 
+En Peligro 
+EN 
+Un taxón está En Peligro cuando la mejor evidencia 
+disponible indica que cumple con cualquiera de los 
+criterios “A” a “E” para En Peligro y, por consiguiente, se 
+considera que está enfrentando un riesgo muy alto de 
+extinción es estado silvestre. 
+Vulnerable 
+VU 
+Un taxón es Vulnerable cuando la mejor evidencia 
+disponible indica que cumple cualquiera de los criterios 
+
+===== p.28 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 29 de 108 
+ 
+Categoría 
+Simbología 
+Descripción 
+“A” a “E” para Vulnerable y, por consiguiente, se 
+considera que está enfrentando un riesgo alto de 
+extinción en estado silvestre. 
+Casi 
+Amenazado 
+NT 
+Un taxón está Casi Amenazado cuando ha sido evaluado 
+según los criterios y no satisface, actualmente, los criterios 
+para En Peligro Crítico, En Peligro o Vulnerable; pero está 
+próximo a satisfacer los criterios o posiblemente los 
+satisfaga, en el futuro cercano. 
+Preocupación 
+Menor 
+LC 
+Un taxón se considera de Preocupación Menor cuando, 
+habiendo sido evaluado, no cumple con ninguno de los 
+criterios que definen las categorías En Peligro Crítico, En 
+Peligro, Vulnerable o Casi Amenazado. Se incluyen en esta 
+categoría taxones abundantes y de amplia distribución. 
+Datos 
+Insuficientes 
+DD 
+Un taxón se incluye en la categoría de Datos Insuficientes 
+cuando no hay información adecuada para hacer una 
+evaluación, directa o indirecta, de su riesgo de extinción 
+basándose en la distribución y/o condición de la 
+población. Un taxón en esta categoría puede estar bien 
+estudiado, y su biología ser bien conocida, pero carecer 
+de los datos apropiados sobre su abundancia y/o 
+distribución. Datos Insuficientes no es, por lo tanto, una 
+categoría de amenaza. 
+Fuente: Elaboración propia, 2025; en base a D.S. N° 29/2012. 
+3.11.6. Presencia de especies endémicas 
+Respecto al origen fitogeográfico endémico de las especies de flora vascular terrestre en 
+Chile; si bien el número de especies comparado con otros países sudamericanos no es muy 
+alto, el rasgo más destacado de nuestra flora vascular es su marcadísima singularidad 
+(Marticorena, 1990), con un 50% de especies endémicas del país. Este alto grado de 
+endemismo se debe a la virtual condición de insularidad que tiene Chile continental cuya 
+flora vascular ha evolucionado en un marco de aislamiento geográfico conferido 
+principalmente por el desierto de Atacama, la cordillera de los Andes y el océano Pacífico. 
+El grado de endemismo se incrementa, si se consideran las floras insulares, únicas, de los 
+archipiélagos de Juan Fernández y de las islas Desventuradas (MMA, 2018). 
+En el área de estudio del proyecto, y de acuerdo con las metodologías mencionadas 
+anteriormente, fueron identificadas y clasificadas todas las especies de flora vascular 
+
+===== p.29 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 30 de 108 
+ 
+terrestre con un origen fitogeográfico endémico, debido a que son consideradas especies 
+de valor ambiental por su restricción biogeográfica. De este modo, una especie endémica 
+es aquella cuya distribución natural se restringe al territorio nacional, pudiendo incluso estar 
+restringida a una región política administrativa, una región biogeográfica, una isla o una 
+zona particular del país. 
+3.11.7. Caracterización de la vegetación terrestre 
+La metodología utilizada para su identificación y caracterización corresponde a la Carta 
+de Ocupación de Tierras (COT), que es actualmente el método más utilizado y reconocido 
+para describir la vegetación, con distintos propósitos y a diferentes escalas. Mediante este 
+procedimiento se logra una imagen o representación del estado actual de la cubierta 
+vegetal según criterios de fisonomía y dominancia, los cuales definen unidades 
+homogéneas de vegetación denominadas “Formaciones Vegetacionales”. 
+3.11.8. Tipos biológicos 
+Definen la vegetación en cuatro tipos fundamentales: leñoso alto (árboles), leñoso bajo 
+(arbustos), suculento (cactáceas y bromeliáceas) o herbáceo (hierbas anuales y perennes). 
+Ver Tabla 3-6. 
+Tabla 3-6: Codificación de tipos biológicos 
+Tipo biológico 
+Código 
+Tipo 
+Leñoso Alto 
+LA 
+Árboles 
+Leñoso Bajo 
+LB 
+Arbustos 
+Suculento 
+S 
+Cactáceas y bromeliáceas 
+Herbáceo 
+H 
+Hierbas anuales y perennes 
+Fuente: Elaboración propia, 2025; en base a Etienne y Prado (1982) 
+3.11.9. Cobertura 
+Representa la proporción del terreno que es ocupada por la vegetación o por su 
+proyección horizontal y se estima visualmente. Ver Tabla 3-7. 
+Tabla 3-7: Códigos e índices de coberturas vegetacionales 
+Cobertura (%) 
+Densidad 
+Código 
+Índice 
+1 - 5 
+Muy escasa 
+me 
+1 
+5 - 10 
+Escasa 
+e 
+2 
+10 - 25 
+Muy clara 
+mc 
+3 
+25 - 50 
+Clara 
+c 
+4 
+
+===== p.30 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 31 de 108 
+ 
+Cobertura (%) 
+Densidad 
+Código 
+Índice 
+50 - 75 
+Semi densa 
+sd 
+5 
+75 - 90 
+Densa 
+d 
+6 
+90 - 100 
+Muy densa 
+md 
+7 
+Fuente: Elaboración propia, 2025; en base a Etienne y Prado (1982) 
+3.11.10. 
+Especies dominantes (ED) 
+Corresponden 
+a 
+aquellas 
+plantas 
+cuyas 
+características 
+morfológicas 
+marcan 
+fisonómicamente la vegetación, determinándose en base a los tipos biológicos de mayor 
+representatividad en cada formación vegetal. En general, estas especies deben presentar 
+un recubrimiento a lo menos igual al porcentaje mínimo escogido para la zona ecológica 
+considerada. 
+La principal ventaja de presentar de esta manera los antecedentes, radica en que es 
+fácilmente comprendida en la lectura de resultados. Por otra parte, al existir categorías 
+predefinidas, el trabajo de fotointerpretación y generalización de la información se ve 
+simplificado. 
+3.11.11. 
+Grado de alteración de la vegetación 
+Durante la caracterización del área de estudio, se definió el grado de alteración de la 
+vegetación, a través de un índice, en relación con su condición inicial o natural, y/o de su 
+grado de intervención antrópica. Este grado fue determinado visualmente en terreno de 
+acuerdo con los criterios semi cuantitativos señalados en la Tabla 3-8. 
+Tabla 3-8: Determinación del grado de alteración de las formaciones vegetales 
+Grado de 
+alteración 
+Características 
+Código 
+Vegetación en 
+estado natural 
+Estructura primaria no modificada. Composición florística 
+netamente 
+autóctona. 
+Sin 
+signos 
+de 
+intervención 
+antrópica. 
+1 
+Vegetación 
+semi-natural 
+Estructura inicial modificada. Composición florística 
+mayoritariamente autóctona. Evidencia de intervención 
+antrópica 
+(Ej: 
+Explotación, 
+corta, 
+descepado; 
+movimientos de tierra, presencia de caminos u otras 
+interrupciones en la continuidad de las formaciones 
+vegetales). 
+2 
+Vegetación 
+intervenida 
+Estructura primaria totalmente modificada. Composición 
+florística 
+mayoritariamente 
+alóctona. 
+Evidencia 
+de 
+intervención 
+antrópica 
+(Ej: 
+Explotación, 
+corta, 
+descepado; movimientos de tierra, presencia de caminos 
+3 
+
+===== p.31 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 32 de 108 
+ 
+Grado de 
+alteración 
+Características 
+Código 
+u otras interrupciones en la continuidad de las 
+formaciones vegetales). 
+Fuente: Elaboración propia, 2025. 
+3.11.12. 
+Descripción de recubrimientos de suelo 
+A partir de la información generada en la fotointerpretación y la validación realizada en 
+terreno, se delimitaron unidades homogéneas con respecto al recubrimiento de suelo. Estas 
+unidades se definen y describen en la Tabla 3-9, de acuerdo con lo establecido en la 
+metodología COT (Etienne & Prado, 1982) y las adaptaciones propuestas por el equipo 
+profesional. 
+Tabla 3-9: Descripción de los recubrimientos de suelo 
+Recubrimiento de suelo 
+Descripción 
+Praderas 
+Formaciones 
+conformadas 
+principalmente 
+por 
+especies 
+herbáceas que conforman coberturas superiores al 25%. 
+Matorrales 
+Formaciones conformadas principalmente por especies arbustivas 
+con coberturas superiores al 10%. 
+Matorral arborescente 
+Formaciones con especies arbóreas con coberturas entre el 10-
+25%, pero que no conforman bosque nativo por no tener un ancho 
+mínimo de 40 m, y una superficie de por lo menos 5.000 m2. 
+Plantaciones forestales 
+Formaciones conformadas principalmente con una única especie 
+objetivo, presentando un espaciamiento regular entre individuos. 
+Bosque nativo 
+Formaciones vegetales en las que predominan especies arbóreas 
+autóctonas y que ocupa una superficie de por lo menos 5.000 m2, 
+con un ancho mínimo de 40 m, con cobertura que supere el 10% 
+de dicha superficie total en condiciones áridas y semiáridas y el 25% 
+en circunstancias más favorables. 
+Cultivo agrícola 
+Formación de especies de hortalizas con fines productivos de 
+agricultura. 
+Área urbana 
+Zona de unidades habitacionales en áreas rurales. 
+Cuerpos de agua 
+Área o extensión de agua sobre la tierra, de origen natural o 
+artificial que debido a la escala de su visualización es representada 
+a través de geometrías tipo polígono.  
+30 jun 2021  
+Fuente: Elaboración propia, 2025. 
+
+===== p.32 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 33 de 108 
+ 
+3.11.13. 
+Criterios de Sensibilidad Ambiental para la flora y vegetación  
+Con la finalidad de determinar elementos sensibles del componente para una correcta 
+identificación y calificación de los potenciales impactos ambientales producidos por la 
+ejecución del Proyecto, se analizaron las singularidades de acuerdo con lo sugerido por los 
+servicios ambientales en la Guía de Evaluación Ambiental - Criterios para la participación 
+de CONAF en el SEIA (CONAF, 2020), y la Guia para la predicción y evaluación de impactos 
+sobre Ecosistemas Terrestres (SEA, 2025), los cuales se listan a continuación: 
+ 
+ 
+
+===== p.33 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 34 de 108 
+ 
+Tabla 3-10. Criterios de singularidad 
+Cod. 
+Criterio evaluado 
+S-1 
+Presencia de suelo frágil altamente erosionable o móvil (por ejemplo, suelo de altas pendientes, dunas, 
+suelo de borde costero, entre otros).  
+S-2 
+Presencia de suelo degradado o con potencial presencia de contaminantes o contaminado.  
+S-3 
+Presencia de suelo relevante para la recarga de acuíferos.  
+S-4 
+Presencia de formaciones vegetales únicas o de baja representatividad nacional.  
+S-5 
+Presencia de formaciones vegetales relictuales.  
+S-6 
+Presencia de formaciones vegetales remanentes.  
+S-7 
+Presencia de formaciones vegetales frágiles cuya existencia se ve amenazada por escasez de recursos 
+o fenómenos poblacionales que restringen su crecimiento y mantención en el tiempo.  
+S-8 
+Presencia de bosque nativo de preservación que contienen especies clasificadas según su estado de 
+conservación de acuerdo con lo estipulado en la Ley N.º 19.300.  
+S-9 
+Presencia de especies vegetales que están bajo protección oficial.  
+S-10 
+Presencia de especies clasificadas según su estado de conservación como amenazadas, incluyendo 
+la categoría “casi amenazadas”.  
+S-11 
+Presencia de especies endémicas.  
+S-12 
+Presencia de especies de distribución restringida o cuya población es reducida o baja en número.  
+S-13 
+Actividad del proyecto que se localiza en o cercana al límite de distribución geográfica de una o más 
+especies nativas (latitudinal o altitudinal).  
+S-14 
+Actividad del proyecto que se localiza en o colindante a un sitio prioritario para la conservación de la 
+biodiversidad.  
+S-15 
+Actividad del proyecto que se localiza en o colindante a área bajo protección oficial.  
+S-16 
+Actividad del proyecto que se localiza en o colindante a área protegida privada.  
+S-17 
+Presencia de árboles y arbustos aislados ubicados en lugares específicos del territorio, identificados 
+según decretos dictados de conformidad al artículo 4 de la Ley N.º 18.378.  
+S-18 
+Actividad del proyecto que se localiza en o colindante a vegas y/o bofedales que pudieran verse 
+afectados por el ascenso o descenso de los niveles de aguas subterráneas.  
+S-19 
+Actividad del proyecto que se localiza en o colindante a glaciares.  
+S-20 
+Actividad del proyecto que se localiza en o colindante a humedales de zonas áridas, semiáridas o 
+subhúmedas.  
+S-21 
+Presencia de un ecosistema amenazado.  
+S-22 
+Actividad del proyecto que se localiza en territorio con valor ambiental.  
+S-23 
+Otras singularidades ambientales.  
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+
+===== p.34 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 35 de 108 
+ 
+3.11.14. 
+Formaciones reguladas por Ley N.º 20.283 
+En el contexto de la clasificación de la vegetación efectuada en el área de estudio, se 
+analizaron las formaciones vegetales reguladas por la Ley N°20.283. A continuación, se 
+detallan los criterios de identificación: 
+Bosque nativo 
+El bosque nativo está definido en el artículo 2° de la Ley N° 20.283/2008, como aquellas 
+formaciones vegetales constituidas por especies autóctonas, en las que predominan 
+árboles y que ocupan una superficie mayor a 5.000 m2 con un ancho mínimo de 40 metros 
+y cuya cobertura de copa arbórea supera el 10% de dicha superficie en condiciones áridas 
+y semiáridas. La importancia en la identificación de estas formaciones vegetales es que su 
+intervención implica un procedimiento especial regulado por la Ley N°20.283. 
+Bosque nativo de Preservación 
+Para determinar la presencia de unidades vegetales definidas como Bosque Nativo de 
+Preservación, se tomó como criterio la definición presente en el artículo N.º 2 de la Ley 20.283 
+la que señala que Bosque Nativo de Preservación es “aquél, cualquiera sea su superficie, 
+que presente o constituya actualmente hábitat de especies vegetales protegidas 
+legalmente o aquéllas clasificadas en las categorías de 'peligro de extinción', 'vulnerables', 
+'raras', 'insuficientemente conocidas' o 'fuera de peligro'; o que corresponda a ambientes 
+únicos o representativos de la diversidad biológica natural del país, cuyo manejo sólo 
+puede hacerse con el objetivo del resguardo de dicha diversidad”.  
+Cabe señalar que la determinación de los bosques nativos de preservación consideró, tal 
+como señala la Ley N° 20.283 en su definición de bosque, que tuvieran al menos 40 m de 
+ancho y un 10% de cobertura de copa arbórea, manteniendo el criterio de no considerar 
+una superficie mínima, a diferencia de los 5.000 m2 para bosque nativo. 
+Formaciones xerofíticas 
+Para identificar las unidades vegetales determinadas como Formación Xerofítica, se tomó 
+como criterio la definición de lo estipulado en el artículo 2° numeral 14 de la Ley N° 20.283, 
+que define como formación xerofítica a “formación vegetal, constituida por especies 
+autóctonas, preferentemente arbustivas o suculentas, de áreas de condiciones áridas o 
+semiáridas ubicadas entre las Regiones I y VI, incluidas la Metropolitana y la XV y en las 
+depresiones interiores de las Regiones VII y VIII”. 
+Se regula la corta, destrucción o descepado de Formaciones Xerofíticas, que se ejecuten 
+en los proyectos o actividades definidos en el art. 10º de la Ley Nº19.300 y art. 3º del D.S. N.º 
+40, de 2012, del Ministerio del Medio Ambiente. 
+
+===== p.35 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 36 de 108 
+ 
+Para efectos de identificar a estas formaciones, se considerarán los siguientes criterios, que 
+complementan en mejor medida la definición establecida en la Ley N°20.283 y su D.S. N°93, 
+ambos del Ministerio de Agricultura: 
+• 
+El estrato predominante de la formación vegetal debe ser el arbustivo o suculento. 
+De existir especies arbóreas nativas en dicha formación vegetal, su cobertura de 
+copa debe ser menor a la requerida en la definición legal de bosque. 
+• 
+Las especies nativas corresponden a aquellas listadas en el D. N°68/2009 (MINAGRI), 
+así como de sus modificaciones, según corresponda. 
+• 
+El sector por intervenir debe encontrarse en áreas de condiciones áridas o 
+semiáridas. En este contexto, la definición legal establece la ubicación geográfica 
+de estas áreas entre las Regiones XV a VI, incluida la Región Metropolitana de 
+Santiago. 
+• 
+La depresión interior de las Regiones VII y VIII se homologará a las áreas identificadas 
+como “Depresión intermedia” de acuerdo con lo definido en el documento 
+"Colección Geográfica de Chile, Tomo II Geomorfología" publicado en el año 1983 
+por el Instituto Geográfico Militar. De esta manera, se considerarán exclusivamente 
+las áreas de aquellas comunas que formen parte de la Depresión intermedia. 
+Tratándose de la corta, destrucción o descepado de formaciones xerofíticas, será 
+obligatoria la presentación y aprobación previa por la Corporación Nacional Forestal, de 
+un plan de trabajo, de acuerdo con el inciso 3 del art. 3° del D.S. N° 93/2008 (MINAGRI) y sus 
+modificaciones, cuando tales formaciones reúnan la totalidad de las siguientes condiciones 
+que se muestran en la Tabla 3-11. 
+Tabla 3-11: Condiciones para identificación de formaciones xerofíticas 
+Ubicación geográfica 
+Superficie 
+mínima 
+(ha) 
+Ancho 
+mínimo 
+(m) 
+Especies 
+nativas 
+Densidad 
+mínima 
+(individuos / ha) 
+Norte del río Elqui hasta 
+el límite norte del país 
+1 
+20 
+Carácter 
+xerofítico 
+No aplica 
+Sur del río Elqui hasta el 
+límite norte de la región 
+de Valparaíso 
+1 
+40 
+Carácter 
+xerofítico 
+300 
+Región de Valparaíso 
+hasta la región del Bio 
+Bío, incluida la región 
+Metropolitana 
+1 
+40 
+Carácter 
+xerofítico 
+500 
+Fuente: Guía de Evaluación Ambiental. Criterios para la participación de CONAF en el 
+SEIA, 2020. 
+ 
+ 
+
+===== p.36 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 37 de 108 
+ 
+En relación con la Tabla 3-11 se debe considerar lo siguiente: 
+• 
+La superficie total de la formación xerofítica debe ser mayor o igual a una hectárea, 
+pudiendo intervenir (corta, destrucción o descepado) un área menor dentro de 
+dicha formación. Para superficie, ancho y densidad se considerarán los valores 
+mínimos para determinar la obligatoriedad de presentar un plan de trabajo, según 
+corresponda. 
+• 
+Para el caso de las Regiones XV, I, II, III y IV (en esta región sólo al norte del río Elqui) 
+no será exigible una densidad mínima para la formación. 
+• 
+Desde la Región V hasta la VIII Región, incluida la Región Metropolitana de Santiago, 
+los individuos en estado adulto deberán tener una altura mínima de 1 metro. 
+En el SEIA la regulación aplicará para el instrumento denominado “Plan de Trabajo para 
+cortar, descepar o intervenir Formaciones Xerofíticas”. Corresponde al Permiso Ambiental 
+Sectorial Mixto del art. N° 151 del D.S. N° 40, del 2012, del Ministerio del Medio Ambiente. 
+ 
+ 
+
+===== p.37 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 38 de 108 
+ 
+3.11.15. 
+Análisis de biodiversidad 
+3.11.15.1 Índices de Diversidad y Equidad 
+i. 
+Índice de diversidad de Shannon-Weaver 
+Este índice es una medición de la diversidad expresada a partir del número de especies 
+(riqueza específica) y su abundancia relativa. El valor del índice tiene significado para 
+mediciones temporales en un sitio de muestreo o en ambientes semejantes. En este estudio 
+se compararon los valores entre formaciones vegetales de toda el área de estudio. La 
+fórmula es la siguiente: 
+ 
+Donde,  
+H´= Índice de diversidad de Shannon-Weaver. 
+pi = Proporción de individuos que pertenecen a la i-ésima especie. 
+S = Número máximo de especies registradas. 
+ 
+ii. 
+Índice de equidad de Pielou 
+Este índice es una medición de cuan cercanos en números se encuentran las especies en 
+un ambiente. Matemáticamente es definido como un índice de diversidad que cuantifica 
+que tan igual es la comunidad numéricamente.  Dicho número varía de 0 a 1, en donde las 
+comunidades menos equitativas (y por tanto donde existen especies claramente 
+dominantes) poseen valores cercanos a 0.  
+La fórmula es la siguiente: 
+ 
+Donde, 
+H’max: Es el valor máximo posible de H’ (índice de Shannon- Weaver), es decir si todas las 
+especies estuvieran igualmente distribuidas y es igual a:  
+
+===== p.38 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 39 de 108 
+ 
+ 
+3.12. Análisis de la variable cambio climático  
+El calentamiento global de origen antrópico produce una serie de respuestas en los distintos 
+niveles de la biodiversidad (genes, especies, ecosistemas y paisajes) y sus efectos podrían 
+ser graves para la continuidad de la especie (Pliscoff y Uribe, 2020). Entre las respuestas más 
+conocidas y estudiadas en todo el mundo, se encuentra la distribución geográfica de 
+especies y ecosistemas (Walther et al. 2002, Parmesan et al. 2003), con un patrón de 
+movimiento latitudinal (hacia los polos) y longitudinal (hacia zonas de mayor altitud) (Root 
+et al. 2003, Parmesan 2006). 
+Los movimientos de las especies implican una reestructuración de las comunidades y 
+ecosistemas de los que forman parte y, por lo tanto, un cambio en la magnitud de los 
+servicios que prestan para el bienestar humano (Pliscoff y Uribe 2020, Schröter et al. 2005). 
+Las modificaciones en los rangos de distribución pueden ser considerados como una 
+respuesta de las especies tendiente a evadir condiciones térmicas extremas (Pliscoff y Uribe 
+2020, Walther et al. 2005). 
+Para analizar la variable de cambio climático, se siguió la pauta de la “Guía Metodológica 
+para la consideración del Cambio Climático en el SEIA” (SEA, 2024), determinando así el 
+riesgo climático presente en el área de estudio. Asimismo, la información entregada por la 
+guía se complementa con el “Atlas de riesgo climático (ARClim)”, creado por el Ministerio 
+de Medio Ambiente; donde se presenta el riesgo climático a nivel comunal, determinado 
+a partir de la amenaza, exposición y sensibilidad; asociándose a 52 “cadenas de impactos”. 
+Estas cadenas están vinculadas a parámetros tales como biodiversidad, inundaciones 
+(costeras o fluviales), salud humana, sequías, incendios forestales, entre muchos otros.  
+El Riesgo al cambio climático presente en el área de estudio se definirá por la siguiente 
+formula, según la guía metodológica mencionada anteriormente: 
+Riesgo = Promedio (Amenaza + Exposición + Sensibilidad) 
+Donde: 
+• 
+Amenaza: corresponde a la diferencia entre el clima actual y el futuro, definido 
+para la temperatura media anual y precipitación anual. 
+• 
+Exposición: se define a partir de la categoría de conservación en la lista roja de 
+ecosistemas de Chile (Pliscoff 2015), que representa la disponibilidad de superficie 
+con vegetación natural en cada ecosistema. 
+• 
+Sensibilidad: se obtiene de la multiplicación entre el Margen de seguridad, esto es, 
+la diferencia entre la mediana del límite climático observado en todas las especies 
+
+===== p.39 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 40 de 108 
+ 
+presentes en un píxel y las condiciones climáticas medias a largo plazo; y la 
+Capacidad adaptativa de las especies, que es la amplitud de nicho, que, para 
+este análisis, corresponde a la amplitud climática. Los valores son normalizados en 
+escala 0 a 1, donde 1 indica mayor Sensibilidad. 
+• 
+Riesgo: representa la desviación de los márgenes climáticos actuales respecto del 
+futuro que podrían soportar el conjunto de especies de flora en un píxel de 5 km. 
+Finalmente, se agrupan los valores de Riesgo en cuantiles, para obtener cinco 
+niveles (muy bajo, bajo, medio, alto, muy alto) para flora por comunas a escala 
+nacional. Los valores son normalizados en escala 0 a 1, donde 1 indica mayor 
+Riesgo. 
+A su vez, ARClim contiene una sección denominada “Explorador de Amenazas Climáticas” 
+que, con una resolución de 5x5 km2, permite la visualización en línea de más de 50 índices 
+climáticos actuales y proyectados a un futuro de mediano plazo (años 2035-2065). A partir 
+de ello se pueden construir, bajo la metodología de “cadenas de impactos”, otros riesgos 
+climáticos que no se visualicen en el ARClim y que sean relevantes para la exposición del 
+proyecto y de los componentes ambientales. Para el área de estudio se utilizaron 
+concretamente los resultados obtenidos para las amenazas climáticas de Temperatura 
+media anual (ºC) y Precipitación acumulada media anual (mm) en la comuna de Viña del 
+Mar. 
+ 
+ 
+
+===== p.40 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 41 de 108 
+ 
+4. 
+RESULTADOS 
+4.1. 
+Revisión de antecedentes 
+4.1.1. Marco biogeográfico 
+De acuerdo con el esquema biogeográfico, y tal como se presenta en la Tabla 4-1, 
+conforme a la bibliografía utilizada se identificaron los siguientes ambientes vegetacionales 
+en el área de estudio (Gajardo, 1994; Luebert y Pliscoff, 2017). 
+Tabla 4-1: Marco vegetacional del área de estudio del proyecto 
+Gajardo (1994) 
+Luebert y Pliscoff (2017) 
+Región 
+Ecológica 
+Subregión 
+Ecológica 
+Formación 
+vegetal 
+Piso vegetacional 
+Matorral y 
+Bosque 
+esclerófilo 
+Bosque 
+esclerófilo 
+Bosque 
+esclerófilo 
+costero 
+Bosque esclerófilo mediterráneo 
+costero de Lithraea caustica y 
+Cryptocarya alba 
+Bosque esclerófilo mediterráneo 
+costero de Cryptocarya alba y 
+Peumus boldus 
+Fuente: Elaboración propia, 2025. 
+Según Gajardo (1994), el área de estudio se encuentra inserto en la región vegetacional 
+que se extiende a través de la zona centro de Chile, cuya característica física dominante 
+es la presencia de condiciones climáticas del tipo mediterráneo, es decir, inviernos fríos y 
+lluviosos con veranos cálidos y secos. Las precipitaciones aumentan progresivamente de 
+norte a sur y es patrón fundamental en la distribución de las formaciones vegetales la 
+presencia de las cordilleras de la Costa y de los Andes. 
+Los paisajes de la zona son complejos, debido a que corresponde al territorio nacional con 
+mayor densidad de población, reflejando una alteración en las comunidades vegetales; 
+asimismo, se encuentra en una zona de transición climatica, generando una 
+interpenetración con otras regiones; por otro lado, las comunidades vegetales que se 
+forman en el área costera, permiten una variación en su composición floristica. Predominan 
+los arbustos altos de hojas esclerófilas, pero también se encuentran arbustos bajos xerófitos, 
+arbustos espinosos, suculentas y árboles esclerófilos y laurifolios con gran desarrollo en altura. 
+Hay un paisaje vegetal en que dominan los arbustos altos y los árboles, correspondientes a 
+menudo a un estado de regeneración por monte bajo de las especies arbóreas esclerófilas 
+y, en algunos casos, laurifolias. Se extiende generalmente por las laderas de ambas 
+cordilleras, destacando una composición variable de acuerdo con la exposicioón a la 
+radiación solar. Su composición florística es muy variada y rica, contando entre sus 
+
+===== p.41 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 42 de 108 
+ 
+elementos a numerosas especies de tipo laurifolio relictual y, en la estrata herbácea, a una 
+alta proporción de especies introducidas. 
+El área de estudio se encuentra inserto en la formación vegetal del bosque esclerófilo 
+costero, corresponde a un bosque alterado, mostrando la presencia de diferentes estados 
+regenerativos. Se distribuye en un sector costero favorable en las laderas de la cordillera de 
+la costa. 
+En la  
+ 
+
+===== p.42 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 43 de 108 
+ 
+Figura 4-1 se puede observar la formación vegetal del Bosque esclerófilo costero que 
+intercepta en el área de estudio del proyecto. 
+ 
+ 
+
+===== p.43 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 44 de 108 
+ 
+Figura 4-1: Formaciones vegetales de Gajardo (1994) que intercepta el Área de estudio 
+del proyecto 
+ 
+Fuente: Elaboración propia, 2025. 
+
+===== p.44 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 45 de 108 
+ 
+Las comunidades presentes en esta sub-región corresponden a: Beilschmiedia miersii – 
+Crinodendron patagua; Cryptocarya alba – Schinus latifolius; Jubaea chilensis – Lithraea 
+caustica; Lithraea caustica – Peumus boldus; Drimys winteri – Luma chequen. 
+De acuerdo con lo establecido por Luebert y Pliscoff (2017) se describen dos pisos 
+vegetacionales del área de estudio del proyecto como Bosque esclerófilo mediterráneo 
+costero de Bosque esclerófilo mediterráneo costero de Lithraea caustica y Cryptocarya 
+alba; y Bosque esclerófilo mediterráneo costero de Cryptocarya alba y Peumus boldus, 
+encontrándose en la formación con mayor extensión en la zona mediterránea de Chile 
+central. Estas formaciones se encuentran en las partes bajas de la costa y el interior bajo 
+condiciones semiáridas a húmedas. Las especies dominantes corresponden a árboles de 
+hoja dura. Por otro lado, las zonas costeras, más húmedas, se encuentran fuertemente 
+dominadas por elementos lauri-esclerófilos como Cryptocarya alba y Peumus boldus, 
+mientras que, en las zonas interiores, más secas, tienden a ser dominadas por especies 
+como Quillaja saponaria, Lithraea caustica y Kageneckia oblonga. 
+Respecto a la formación de Bosque esclerófilo mediterráneo costero de Cryptocarya alba 
+– Peumus boldus, estas se distribuyen en laderas occidentales de la cordillera de la Costa 
+en la región de Valparaíso entre los 100 – 300 metros sobre el nivel del mar, insertas en los 
+pisos bioclimáticos mesomediterráneo seco y subhúmedo inferior hiperoceánico y 
+oceánico. Cabe destacar que las perturbaciones antrópicas, tales como incendios y cortas 
+recurrentes, producen una degradación del bosque original, dando paso a la invasión de 
+matorrales espinosos y esclerófilos como Retanilla trinerva, Gutierrezia resinosa, 
+Muehlenbeckia hastulata y Baccharis linearis.  
+Las comunidades vegetacionales que se asocian a este piso vegetacional, corresponden 
+a bosques de Dasyphyllum excelsum y Persea lingue; matorrales de Sophora macrocarpa y 
+Lobelia excelsa; asociándose con especies como Proustia pyrifolia, Cissus striata, 
+Lardizabala biternata y Tropaeolum ciliatum. De igual manera, esta formación vegetal se 
+puede asociar con matorrales de Colliguaja odorífera, y presencia de suculentas como 
+Puya berteroniana y Trichocereus chiloensis y en zonas más húmedas de fondos de 
+quebradas, se puede asociar con Beilschmiedia miersii y Crinodendron patagua. Por otro 
+lado, en sectores es posible observar esta formación vegetal mezclada con individuos de 
+Jubaea chilensis y espinales de Vachellia caven. 
+Para el caso de la formación de Bosque esclerófilo mediterráneo costero de Lithraea 
+caustica – Cryptocarya alba, esta se distribuye en zonas bajas de la vertiente occidental 
+de la cordillera de la Costa de la región de Valparaíso, entre los 0 – 900 metros sobre el nivel 
+del mar, insertándose en los pisos bioclimáticos termomediterráneo superior y 
+mesomediterráneo inferior semiárido superior y seco hiperoceánico. Asimismo, como fue 
+descrito para la formación vegetal anterior, provocándose una degradación en la 
+estructura del bosque original, de la misma forma favorece el establecimiento de especies 
+arbustivas y herbáceas más xerofíticas. 
+
+===== p.45 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 46 de 108 
+ 
+Las comunidades vegetacionales que se asocian a este piso vegetacional, corresponden 
+a bosques de Cryptocarya alba, Peumus boldus y Schinus latifolius; matorrales esclerófilos y 
+espinosos de Colliguaja odorífera, Escallonia pulverulenta, Eupatorium glechonophyllum, 
+Lobelia excelsa, Retanilla trinerva y otros. Respecto a las especies herbáceas que 
+acompañan la formación vegetal, se encuentran Solenomelus pedunculatus y Mulpia 
+myuros. En algunos sectores se puede asociar con Jubaea chilensis, como en algunas 
+quebradas con Aextoxicon punctatum; sin embargo, gran parte de esta formación vegetal 
+ha sido remplazada por espinales de Vachellia caven. 
+En la  
+ 
+
+===== p.46 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 47 de 108 
+ 
+Figura 4-2 se pueden observar las formaciones vegetacionales que interceptan el área de 
+estudio del proyecto. 
+ 
+ 
+
+===== p.47 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 48 de 108 
+ 
+Figura 4-2: Formaciones vegetales de Luebert y Pliscoff (2017) que intercepta el área de 
+estudio del proyecto 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+
+===== p.48 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 49 de 108 
+ 
+4.2. 
+Caracterización de la flora vascular terrestre 
+4.2.1. Riqueza y composición florística  
+Se identificaron un total de 243 especies de plantas vasculares terrestres durante 
+levantamiento de información realizado en el área de estudio en las campañas de invierno 
+y primavera 2025; y verano y otoño 2025. Las especies identificadas fueron clasificadas de 
+acuerdo con su taxonomía, origen fitogeográfico y hábito de crecimiento de cada una. 
+En el total de especies que fueron identificadas en el área de estudio (243), se pueden 
+identificar de la clase Magnoliopsida, 213 especies; mientras que la clase Tracheophyta 
+presenta 25 especie y la clase Pteridophyta presenta cinco (5) (Ver Figura 4-3). 
+Las especies registradas se distribuyen en 70 familias, siendo la más representativa en el área 
+de estudio la familia Asterácea con 38 especies identificadas, representando el 15,64% del 
+total de especies; seguido de las familias Fabaceae y Poaceae con 17 (7,0%) y 14 (5,76%) 
+especies, respectivamente.  
+De acuerdo con los resultados de riqueza de especies por campaña y el número de 
+especies acumuladas obtenidos del área de estudio, la mayor riqueza florística se registró 
+durante la campaña de primavera 2024, con 162 registros de flora vascular terrestre, 
+seguida por la de otoño 2025, con 126 registros. La alta riqueza observada en primavera 
+coincide con el desarrollo natural de especies herbáceas característico de esta estación, 
+las que se vieron favorecidas por las precipitaciones del invierno 2024 y la constante 
+presencia de niebla oceánica (camanchaca), condiciones que propiciaron el desarrollo 
+tanto de especies herbáceas perennes como anuales. 
+La curva de acumulación muestra un aumento significativo entre campañas (Figura 4-4), 
+con excepción del verano 2025, que presentó solo 17 especies nuevas. No obstante, en la 
+campaña de otoño 2025 se registró un incremento significativo con 35 especies nuevas, lo 
+cual puede atribuirse a las precipitaciones ocurridas en marzo y mayo de 2025, que 
+favorecieron el desarrollo de especies adaptadas a la estación otoñal. 
+ 
+
+===== p.49 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 50 de 108 
+ 
+Figura 4-3. Riqueza de flora vascular por familia taxonómica registrada en el área de 
+estudio del proyecto 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+
+===== p.50 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 51 de 108 
+ 
+Figura 4-4. Riqueza estacional registrada en base al esfuerzo de muestreo en el Área de 
+estudio por campaña y acumulada 
+ 
+Fuente: Elaboración propia, 2025. 
+4.2.2. Origen fitogeográfico y tipo biológico 
+Respecto a los 243 taxa de flora vascular terrestre identificados en el área de estudio, el 
+origen fitogeográfico más representativo corresponde a endémico con 107 especies, las 
+que corresponden al 44,03% del total; seguido de especies de origen nativo con 79 taxa 
+(32,51%) y 57 especies de origen introducida (23,46%), ver  
+ 
+ 
+ 
+ 
+ 
+Figura 4-5. 
+Durante las campañas realizadas (invierno, primavera, verano y otoño), de acuerdo con las 
+243 taxa de flora vascular terrestre, se identificaron cinco (5) tipos biológicos en el área de 
+estudio, siendo la más representativa hierba perenne con 100 especies (41,15%); seguido 
+de los hábitos hierba anual y arbustivo con 60 especies (24,69%) y 68 especies (27,98%), 
+respectivamente. Por otro lado, los hábitos de crecimiento que tuvieron menores registros a 
+lo largo de las campañas estacionales corresponden a arbóreo con 17 especies (5,76%) y 
+suculentas con sólo una (1) especie (0,41%), ver Figura 4-6. 
+ 
+
+===== p.51 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 52 de 108 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 4-5. Número total de especies clasificado por origen fitogeográfico en el área de 
+estudio del proyecto 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+Figura 4-6. Número total de especies clasificado por hábito de crecimiento en el área de 
+estudio del proyecto 
+
+===== p.52 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 53 de 108 
+ 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+ 
+
+===== p.53 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 54 de 108 
+ 
+4.2.3. Especies listadas en el Decreto N.º 68/2009 
+Para las campañas estacionales de invierno y primavera 2024; y verano y otoño 2025, se 
+registraron 33 especies listadas en el D. N.º 68/2009 (MINAGRI) que establece y oficializa la 
+nómina de especies Arbóreas y Arbustivas originarias del país (ver Tabla 4-2).  
+Respecto al total de especies (243), las especies que se encuentran listadas en el D.S. N.° 
+68/2009, representan el 13,58% de la riqueza florística total. 
+Tabla 4-2: Especies de flora vascular listadas en el D. N° 68/2009 (MINAGRI) en el área de 
+estudio del proyecto 
+N° 
+Nombre científico 
+Nombre común 
+1 
+Adesmia loudonia H. et A. 
+- 
+2 
+Aristotelia chilensis (Molina) Stuntz 
+Maqui 
+3 
+Azara celastrina D. Don 
+Corcolén 
+4 
+Azara dentata Ruiz & Pav. 
+Corcolén 
+5 
+Baccharis linearis (Ruiz & Pav.) Pers. 
+Chilca 
+6 
+Baccharis rhomboidalis Remy 
+- 
+7 
+Chusquea cumingii Nees 
+Quila chica 
+8 
+Cryptocarya alba (Molina) Looser 
+Peumo 
+9 
+Drimys winteri J.R. Forst. & G. Forst. 
+Canelo 
+10 
+Echinopsis chiloensis (Colla) Friedrich & G.D. Rowley 
+Quisco 
+11 
+Escallonia pulverulenta (Ruiz & Pav.) Pers. 
+Corontillo 
+12 
+Escallonia rubra (Ruiz & Pav.) Pers. 
+Siete camisas 
+13 
+Flourensia thurifera (Molina) DC. 
+Incienso 
+14 
+Jubaea chilensis (Molina) Baill. 
+Palma chilena 
+15 
+Lithrea caustica (Molina) Hook. & Arn. 
+Litre 
+16 
+Llagunoa glandulosa (Hook. & Arn.) G. Don 
+Árbol de cuentas 
+17 
+Lobelia excelsa Bonpl. 
+Tupa 
+18 
+Lobelia polyphylla Hook. & Arn. 
+Tabaco del diablo 
+19 
+Luma apiculata (DC.) Burret 
+Arrayán 
+20 
+Luma chequen (Molina) A. Gray 
+Chequén 
+21 
+Maytenus boaria Molina 
+Maitén 
+22 
+Myrceugenia correifolia (Hook. & Arn.) O. Berg 
+Petrillo 
+23 
+Myrceugenia exsucca (DC.) O. Berg 
+Pitra 
+24 
+Myrceugenia obtusa (DC.) O. Berg 
+Rarán 
+25 
+Myrceugenia rufa (Colla) Skottsb. ex Kausel 
+Arrayán de hoja roja 
+26 
+Peumus boldus Molina 
+Boldo 
+27 
+Podanthus mitiqui Lindl. 
+Mitique 
+28 
+Puya berteroniana Mez 
+Chagual 
+29 
+Puya chilensis Molina 
+Chagual 
+
+===== p.54 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 55 de 108 
+ 
+N° 
+Nombre científico 
+Nombre común 
+30 
+Quillaja saponaria Molina 
+Quillay 
+31 
+Schinus latifolius (Gillies ex Lindl.) Engl. 
+Molle 
+32 
+Schinus polygamus (Cav.) Cabrera 
+Huingán 
+33 
+Vachellia caven (Molina) Seigler & Ebinger 
+Espino 
+Fuente: Elaboración propia, 2025; en base a D. N° 68/2009 (MINAGRI). 
+4.2.4. Especies en categoría de conservación 
+En el marco de lo establecido en el D.S. N° 41/2011 (MMA), que aprueba el reglamento 
+para la Clasificación de Especies Silvestres según estado de Conservación; del total de 
+especies registradas en el área de estudio (243), se identificaron 19 especies clasificadas en 
+alguna categoría de conservación. En la Tabla 4-3 se puede observar la categoría 
+correspondiente a cada especie y número de proceso donde fue clasificada la especie. 
+Tabla 4-3: Especies en categoría de conservación registradas en el área de estudio 
+Especie 
+Nombre 
+común 
+Categoría de 
+conservación 
+Fuente 
+Adiantum chilense Kaulf. 
+Palito negro 
+LC (Precaución menor) 
+DS 19/2012 MMA 
+Adiantum scabrum Kaulf. 
+Palito negro 
+LC (Precaución menor) 
+DS 38/2015 MMA 
+Alstroemeria hookeri 
+subsp. hookeri Lodd. 
+Lirio costero 
+LC (Precaución menor) 
+DS 19/2012 MMA 
+Alstroemeria hookeri 
+subsp. recumbens Lodd. 
+Lirio costero 
+LC (Precaución menor) 
+DS 19/2012 MMA 
+Alstroemeria marticorenae 
+Negritto & C.M. Baeza 
+Lirio de 
+campo 
+EN (En Peligro) 
+DS 44/2021 MMA 
+Alstroemeria pulchra var. 
+máxima Sims (Phil.) 
+Mariposa 
+del campo 
+LC (Precaución menor) 
+DS 13/2013 MMA 
+Alstroemeria pulchra Sims 
+Mariposa 
+del campo 
+LC (Precaución menor) 
+DS 13/2013 MMA 
+Blechnum hastatum Kaulf. 
+Palmilla 
+LC (Precaución menor) 
+DS 19/2012 MMA 
+Chloraea cristata Lindl. 
+- 
+VU (Vulnerable) 
+DS 41/2011 MMA 
+Chloraea disoides Lindl. 
+- 
+CR (En Peligro Crítico) 
+DS 41/2011 MMA 
+Conanthera campanulata 
+Lindl. 
+Papita del 
+campo 
+LC (Precaución menor) 
+DS 13/2013 MMA 
+Drimys winteri var. chilensis 
+J.R. Forst. & G. Forst. 
+Canelo 
+EN (En Peligro) 
+DS 06/2017 MMA 
+Echinopsis chiloensis 
+(Colla) Friedrich & G.D. 
+Rowley 
+Quisco 
+NT (Casi amenazada) 
+DS 41/2011 MMA 
+Jubaea chilensis (Molina) 
+Baill. 
+Palma 
+chilena 
+EN (En Peligro) 
+DS 16/2020 MMA 
+Luma chequen (Molina) A. 
+Gray 
+Chequén 
+LC (Precaución menor) 
+DS 10/2023 MMA 
+
+===== p.55 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 56 de 108 
+ 
+Especie 
+Nombre 
+común 
+Categoría de 
+conservación 
+Fuente 
+Myrceugenia correifolia 
+(Hook. & Arn.) O. Berg 
+Petrillo 
+LC (Precaución menor) 
+DS 13/2013 MMA 
+Myrceugenia rufa (Colla) 
+Skottsb. ex Kausel 
+Arrayán de 
+hoja roja 
+NT (Casi amenazada) 
+DS 13/2013 MMA 
+Pteris chilensis Desv. 
+Pesebre 
+LC (Precaución menor) 
+DS 19/2012 MMA 
+Puya chilensis Molina 
+Chagual 
+LC (Precaución menor) 
+DS 42/2011 MMA 
+Fuente: Elaboración propia, 2025. 
+4.2.5. Presencia de especies endémicas 
+En el área de estudio, durante las cuatro (4) campañas realizadas, fueron registradas 107 
+especies de flora vascular terrestre de origen fitogeográfico endémico, de un total de 243; 
+las especies endémicas comprenden el 44,03% de la riqueza florística identificada. Estás se 
+pueden observar en la Tabla 4-4.  
+Tabla 4-4: Especie endémicas en el área de estudio 
+Origen fitogeográfico 
+N° de especies 
+Porcentaje (%) 
+Endémica 
+107 
+44,03% 
+Introducida 
+57 
+23,46% 
+Nativa 
+79 
+32,51% 
+Total 
+243 
+100% 
+Fuente: Elaboración propia, 2025. 
+ 
+4.3. 
+Caracterización de la vegetación 
+4.3.1. Recubrimiento de suelo  
+Como resultado del levantamiento de información en terreno, se determinaron cinco (5) 
+tipos de recubrimientos de suelo presentando una superficie total de 325,44 hectáreas en 
+el área de estudio (Tabla 4-5). 
+Tabla 4-5: Recubrimientos de suelo presentes en el área de estudio del proyecto 
+Recubrimiento de suelo 
+Área (ha) 
+Porcentaje (%) 
+Caminos 
+3,12 
+0,96 
+Plantación forestal 
+25,68 
+7,89 
+Matorral arborescente 
+7,00 
+2,15 
+Matorral 
+264,60 
+81,31 
+Bosque nativo 
+25,04 
+7,69 
+Total 
+325,44 
+100,00 
+Fuente: Elaboración propia, 2025. 
+
+===== p.56 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 57 de 108 
+ 
+El recubrimiento de suelo que abarca mayor superficie en el área de estudio del Proyecto 
+corresponde a Matorrales, con 263,84 hectáreas (81,06%), seguido del recubrimiento de 
+Plantación forestal y Bosque nativo, con 7,89% y 7,69% respectivamente. Cabe señalar que 
+el bosque nativo se ubica principalmente en fondos de quebrada y, en algunos casos, a 
+media ladera (Figura 4-7). 
+Figura 4-7: Ubicación espacial de los recubrimientos de suelos presentes en el área de 
+estudio del proyecto 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+
+===== p.57 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 58 de 108 
+ 
+4.3.2. Formaciones vegetales 
+En el área de estudio, se identificaron veinte (20) tipos de formaciones vegetales, las cuales 
+se conforman principalmente de Matorrales, Bosque Nativo y Plantaciones forestales. En la 
+Tabla 4-6 se detallan las diferentes formaciones vegetales descritas en el área de estudio. 
+Tabla 4-6: Formaciones vegetales presentes en el área de estudio del proyecto 
+N.º 
+Formaciones vegetales 
+Área (ha) 
+Porcentaje (%) 
+1 
+Bosque nativo renoval de Cryptocarya alba 
+14,39 
+4,42 
+2 
+Bosque nativo renoval de Cryptocarya alba, 
+Peumus boldus y Schinus latifolius 
+10,65 
+3,27 
+3 
+Matorral arborescente Colliguaja odorifera y 
+Cryptocarya alba 
+0,08 
+0,02 
+5 
+Matorral arborescente de Colliguaja odorifera 
+1,58 
+0,49 
+6 
+Matorral arborescente de Cryptocarya alba, 
+Peumus boldus y Schinus latifolius 
+2,24 
+0,69 
+7 
+Matorral arborescente de Quillaja saponaria y 
+Colliguaja odorifera 
+0,26 
+0,08 
+8 
+Matorral arborescente de Retanilla trinervia 
+0,07 
+0,02 
+9 
+Matorral arborescente renoval de Lithraea 
+caustica 
+0,12 
+0,04 
+10 
+Matorral arborescente de Chusquea cumingii, 
+Cryptocarya alba y Peumus boldus 
+0,37 
+0,11 
+11 
+Matorral arborescente de Cryptocarya alba 
+1,73 
+0,53 
+12 
+Matorral arborescente de Retanilla trinervia y 
+Schinus latifolius 
+0,32 
+0,10 
+13 
+Matorral con suculentas de Puya beteroniana y 
+Colliguaja odorifera 
+23,27 
+7,15 
+14 
+Matorral con suculentas de Puya chilensis y 
+Colliguaja odorifera 
+64,55 
+19,83 
+15 
+Matorral de Chusquea cumingii 
+5,84 
+1,79 
+16 
+Matorral de Colliguaja odorifera 
+71,12 
+21,86 
+
+===== p.58 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 59 de 108 
+ 
+N.º 
+Formaciones vegetales 
+Área (ha) 
+Porcentaje (%) 
+17 
+Matorral de Colliguaja odorifera y Chusquea 
+cumingii 
+59,48 
+18,27 
+18 
+Matorral de Colliguaja odorifera y Lithraea 
+caustica 
+0,51 
+0,16 
+19 
+Matorral de Retanilla trinervia 
+39,20 
+12,04 
+20 
+Matorral de Retanilla trinervia y Schinus latifolius 
+0,31 
+0,10 
+21 
+Plantación de Pinus radiata 
+26,23 
+8,06 
+22 
+No aplica 
+3,12 
+0,96 
+Total general 
+325,44 
+100,00 
+Fuente: Elaboración propia, 2025. 
+La ubicación espacial de las formaciones vegetales en base a La Carta de Ocupación de 
+Tierras (COT), se presentan en Anexo 6 (Figura 4-8).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.59 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 60 de 108 
+ 
+Figura 4-8. Formaciones vegetales en el área de estudio 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+
+===== p.60 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 61 de 108 
+ 
+A continuación, se describen las principales formaciones vegetales presentes en el área 
+de estudio: 
+4.3.2.1.1 
+Bosque nativo renoval de Cryptocarya alba 
+La formación vegetal de bosque nativo renoval de Cryptocarya alba abarca el 14,39% del 
+área de estudio, lo que equivale a 4,42 hectáreas. Esta formación se clasifica como un 
+renoval, ya que es un bosque que ha surgido tras una catástrofe natural, en este caso de 
+un incendio forestal, a partir principalmente de reproducción vegetativa. Los individuos de 
+Cryptocarya alba en esta área presentan alturas similares, que oscilan entre los 1 y 2 metros, 
+con diámetros que varían entre 2 y 4 centímetros. Se desarrolla en una zona sin alguna 
+exposición mayoritariamente, debido a que esta formación vegetal fue registrada en 
+quebradas en el área de estudio; sin embargo, en algunas ocasiones se desarrolla en áreas 
+con exposición noreste. La altitud de esta formación se identifica entre 190 a 270 metros 
+sobre el nivel del mar, y la cobertura promedio varía entre el 25% y el 50%, dominando casi 
+en su totalidad la especie Cryptocarya alba. 
+Fotografía 4-1: Fisionomía de Bosque Nativo Renoval de Cryptocarya alba 
+Fuente: Elaboración propia, 2025. 
+
+===== p.61 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 62 de 108 
+ 
+4.3.2.1.2 
+Bosque nativo renoval de Cryptocarya alba, Peumus boldus y Schinus latifolius 
+La formación vegetal de bosque nativo renoval de Cryptocarya alba, Peumus boldus y 
+Schinus latifolius abarca el 10,65% del área de estudio, lo que equivale a 3,27 hectáreas. 
+Esta formación se clasifica como un renoval, ya que es un bosque que ha surgido tras una 
+catástrofe natural, en este caso de un incendio forestal, a partir de reproducción vegetativa 
+principalmente. Los individuos representativos de esta formación vegetal presentan alturas 
+similares, que oscilan entre los 1 y 2 metros, con diámetros que varían entre 2 y 4 centímetros. 
+Se desarrolla en una zona con exposición norte con pendientes que oscilan entre el 10% y 
+30%, a una altitud entre los 150 y 300 metros sobre el nivel del mar y una cobertura promedio 
+que varía entre el 10% y el 50%, presentando en algunos casos coberturas entre el 50% y 
+75%.  
+Fotografía 4-2: Fisionomía de Bosque Nativo Renoval de Cryptocarya alba, Peumus boldus 
+y Schinus latifolius 
+ 
+ 
+ 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+
+===== p.62 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 63 de 108 
+ 
+4.3.2.1.3 
+Matorral arborescente de Cryptocarya alba, Peumus boldus y Schinus latifolius 
+La formación vegetal de matorral arborescente de Cryptocarya alba, Peumus boldus y 
+Schinus latifolius abarca el 0,69% del área de estudio, lo que equivale a 2,24 hectáreas.  
+Esta formación se clasifica como matorral arborescente, ya que no cumple con el criterio 
+de 40 m de ancho necesario para ser clasificada como bosque nativo, a pesar de poseer 
+coberturas arbóreas superiores al 10%. Lo mismo ocurre con los otros tipos de matorral 
+arborescentes, denominamos Matorral arborescente “Colliguaja odorifera y Cryptocarya 
+alba”, “Matorral arborescente de Colliguaja odorífera”, “Matorral arborescente de Quillaja 
+saponaria y Colliguaja odorífera”, “Matorral arborescente de Retanilla trinervia”, “Matorral 
+arborescente renoval de Lithraea caustica”, “Matorral arborescente de Chusquea 
+cumingii”, “Cryptocarya alba y Peumus boldus” y “Matorral arborescente de Cryptocarya 
+alba” y “Matorral arborescente de Retanilla trinervia y Schinus latifolius”, los cuales en 
+conjunto totalizan 4,53 ha adicionales, equivalentes al 1,39%. 
+Los individuos representativos de esta formación vegetal presentan alturas similares, que 
+oscilan entre los 1 y 2 metros, con diámetros que varían entre 2 y 4 centímetros. Se desarrolla 
+principalmente en fondos de quebrada, con pendientes que oscilan entre el 30% y 50%, a 
+una altitud entre los 150 y 300 metros sobre el nivel del mar y una cobertura promedio que 
+varía entre el 10% y el 50%, presentando en algunos casos coberturas entre el 50% y 75%. 
+Fotografía 4-3: Fisionomía de Matorral arborescente de Cryptocarya alba, Peumus boldus 
+y Schinus latifolius 
+
+===== p.63 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 64 de 108 
+ 
+Fuente: Elaboración propia, 2025. 
+ 
+4.3.2.1.4 
+Matorral con suculentas de Puya beteroniana y Colliguaja odorifera 
+La formación vegetal de matorral, compuesta principalmente por Puya berteroana y 
+Colliguaja odorifera, representa el 7,15% del área de estudio, lo que equivale a 23,27 
+hectáreas. Esta formación se desarrolla principalmente en laderas orientadas al norte y 
+noroeste, con pendientes que oscilan entre el 30% y el 70%. La altitud de esta formación 
+varía entre los 150 y 310 metros sobre el nivel del mar, y la cobertura promedio fluctúa entre 
+el 10% y el 25%, mostrando diferencias según la inclinación del terreno con coberturas de 
+25% al 50%. 
+Fotografía 4-4: Fisionomía de Matorral con suculentas de Puya beteroniana y Colliguaja 
+odorifera 
+ 
+
+===== p.64 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 65 de 108 
+ 
+Fuente: Elaboración propia, 2025. 
+4.3.2.1.5 
+Matorral con suculentas de Puya chilensis y Colliguaja odorífera 
+La formación vegetal de matorral, compuesta principalmente por Puya chilensis y 
+Colliguaja odorifera y, representa el 19,83% del área de estudio, lo que equivale a 64,55 
+hectáreas. Esta formación se desarrolla principalmente en laderas orientadas al norte y 
+noroeste, con pendientes que oscilan entre el 30% y el 70%. La altitud de esta formación 
+varía entre los 150 y 310 metros sobre el nivel del mar, y la cobertura promedio fluctúa entre 
+el 10% y el 25%, mostrando diferencias según la inclinación del terreno con coberturas de 
+25% al 50%. 
+Fotografía 4-5: Fisionomía de Matorral con suculentas de Puya chilensis y Colliguaja 
+odorífera 
+
+===== p.65 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 66 de 108 
+ 
+Fuente: Elaboración propia, 2025. 
+4.3.2.1.6 
+Matorral de Chusquea cumingii 
+La formación vegetal de matorral, compuesta principalmente por Chusquea cumingii, 
+representa el 1,79% del área de estudio, lo que equivale a 5,84 hectáreas. Esta formación 
+se desarrolla principalmente en laderas orientadas al noreste, norte y noroeste. Presenta 
+pendientes que oscilan entre el 15% y el 50%. La altitud de esta formación varía entre los 160 
+y 350 metros sobre el nivel del mar, y la cobertura promedio fluctúa entre el 10% y el 50%, 
+mostrando diferencias según la inclinación del terreno. 
+Fotografía 4-6: Fisionomía de Matorral de Chusquea cumingii 
+
+===== p.66 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 67 de 108 
+ 
+Fuente: Elaboración propia, 2025. 
+4.3.2.1.7 
+Matorral de Colliguaja odorifera 
+La formación vegetal de matorral, compuesta principalmente por Colliguaja odorifera, 
+representa el 21,86% del área de estudio, lo que equivale a 71,12 hectáreas. Esta formación 
+comprende la mayor superficie en comparación con las otras formaciones descritas, 
+desarrollándose principalmente en laderas orientadas al noreste, norte y noroeste. Presenta 
+pendientes que oscilan entre el 15% y el 50%. La altitud de esta formación varía entre los 160 
+y 350 metros sobre el nivel del mar, y la cobertura promedio fluctúa entre el 10% y el 50%, 
+mostrando diferencias según la inclinación del terreno. 
+Fotografía 4-7: Fisionomía de Matorral de Colliguaja odorifera 
+
+===== p.67 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 68 de 108 
+ 
+Fuente: Elaboración propia, 2025. 
+4.3.2.1.8 
+Matorral de Colliguaja odorifera y Chusquea cumingii 
+La formación vegetal presenta una fisonomía de matorral, abarcando el 18,27% del área 
+de estudio, lo que equivale a 59,48 hectáreas. Se encuentra principalmente en laderas 
+con exposición sureste y noroeste, con pendientes que oscilan entre el 10% y el 50%, a una 
+altitud promedio de 240 metros sobre el nivel del mar. La cobertura promedio de la 
+vegetación varía entre el 10% y el 25%. 
+Fotografía 4-8: Fisionomía de Matorral de Colliguaja odorifera y Chusquea cumingii 
+ 
+ 
+
+===== p.68 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 69 de 108 
+ 
+Fuente: Elaboración propia, 2025. 
+4.3.2.1.9 
+Matorral de Retanilla trinervia 
+La formación vegetal presenta una fisonomía de matorral, abarcando el 12,04% del área 
+de estudio, lo que equivale a 39,20 hectáreas. Se encuentra principalmente en laderas 
+con exposición sureste y noroeste, con pendientes que oscilan entre el 10% y el 50%, a una 
+altitud promedio de 240 metros sobre el nivel del mar. La cobertura promedio de la 
+vegetación varía entre el 10% y el 25%. 
+Fotografía 4-9: Fisionomía de Matorral de Retanilla trinervia 
+Fuente: Elaboración propia, 2025. 
+4.3.2.1.10 
+Plantación forestal de Pinus radiata 
+La formación vegetal presenta una fisonomía de plantación forestal, compuesta 
+principalmente por la especie arbórea Pinus radiata. Se caracteriza por estar conformada 
+por una única especie y tener un orden estructurado en la separación entre individuos. Los 
+árboles alcanzan alturas que varían entre 18 y 22 metros, con diámetros que oscilan entre 
+15 y 25 centímetros, alineándose con la estructura típica de una plantación, destacando 
+que dicha plantación fue afectada por un incendio forestal. Esta formación abarca el 8,06% 
+del área de estudio, equivalente a 26,23 hectáreas. Se localiza principalmente en laderas 
+
+===== p.69 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 70 de 108 
+ 
+con exposición norte y sureste, en pendientes que varían entre el 30% y 60%. Su altitud se 
+extiende entre los 380 a 480 metros sobre el nivel del mar, y la cobertura promedio de la 
+vegetación varía entre el 25% y el 50%. 
+Fotografía 4-10: Fisionomía de Plantación forestal de Pinus radiata 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+ 
+
+===== p.70 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 71 de 108 
+ 
+4.3.3. Formaciones vegetales reguladas por Ley N.º 20.283 
+En el área de estudio del proyecto se analizaron todas las unidades vegetacionales de 
+acuerdo con los datos obtenidos en todas las campañas de terreno. De acuerdo a lo 
+estipulado en la Ley N.º 20.283 y su reglamento, las siguientes formaciones serán intervenidas 
+por el proyecto:  
+- 
+Bosque nativo: Tratándose de la corta de cualquier tipo de bosque nativo según lo 
+señalado en el artículo 5° de la Ley 20.283, deberá presentarse previo un plan de 
+manejo forestal, ya sea para bosque nativo o bosque nativo de preservación como 
+se presenta en el área de estudio del proyecto. 
+- 
+Formaciones xerofíticas: tratándose de la corta, destrucción o descepado de 
+formaciones xerofíticas, será obligatoria la presentación y aprobación previa por la 
+Corporación Nacional Forestal (CONAF) de un plan de trabajo, según lo señalado 
+en el inciso 3° del Artículo 3° del D.S. N° 93 de 2008, del Ministerio de Agricultura y sus 
+modificaciones posteriores (D.S. N°26/2011, MINAGRI). 
+Adicionalmente, en el área de estudio, fuera del área de intervención, se identificaron 
+rodales de bosques nativos de preservación de canelo y palma chilena y plantaciones de 
+pino radiata (Tabla 4-7).  
+Tabla 4-7. Superficie formaciones vegetales reguladas por Ley N° 20.283 
+Recubrimiento de suelo 
+Área (ha) 
+Porcentaje (%) 
+Bosque nativo 
+22,39 
+14,18 
+Bosque nativo de preservación (BNP) 
+2,65 
+1,68 
+Formación xerofítica (FX) 
+106,61 
+67,53 
+Plantación forestal (plantación) 
+26,23 
+16,61 
+Total 
+157,88 
+100,00 
+Fuente: Elaboración propia, 2025. 
+A continuación, en la Figura 4-9 se presenta la ubicación y distribución de las formaciones 
+vegetales que se encuentran sujetas a regulación referente a la Ley N.º 20.283: 
+ 
+
+===== p.71 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre 
+ 
+ 
+ 
+Página 72 de 108 
+ 
+Figura 4-9: Formaciones vegetales reguladas por Ley N°20.283.  
+ 
+Fuente: Elaboración propia, 2025. 
+
+===== p.72 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 73 de 108 
+ 
+a) Rodalización de bosques nativos, bosques nativos de preservación y validación 
+en terreno 
+Tal como se mencionó en el acápite 3.4. Fotointerpretación de imágenes, para esta 
+actividad se utilizaron las imágenes disponibles en Google Earth/Bing Maps, un 
+ortomosaico de un vuelo dron de 5 cm de pixel proporcionadas por el cliente del año 
+2023, y un Raster del índice NDVI calculado con el mosaico de imágenes Sentinel-2 
+(BOA) entre el 01.01.2021 hasta el 31.12.21, previo al incendio del 2024, todos disponibles 
+en el Anexo 8.  
+Para la rodalización de los bosques nativos se tuvo en cuenta que estas formaciones 
+deben contar con un ancho mínimo de 40 m, una superficie mínima de 5.000 m2 y una 
+cobertura de copa igual o superior al 10%. Todos los rodales en los que el dosel 
+dominante correspondía a especies arbóreas pertenecientes al D. N° 68/2009 
+cumplieron con el porcentaje mínimo de cobertura de copa. En su mayoría, estos 
+rodales se encontraban circunscritos a los fondos de quebrada. Sin embargo, muchos 
+de ellos no cumplían con la condición de tener al menos 40 m de ancho, justamente 
+por estar confinados a los fondos de quebrada, quedando clasificados como Matorrales 
+arborescentes (Figura 4-10). Cabe señalar que los anchos fueron calculados en QGIS, 
+siendo validados algunos casos en el terreno de microruteo (Figura 4-10). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.73 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 74 de 108 
+ 
+Figura 4-10. Ortomosaico - Matorral arborescente: no cumple con ancho mínimo de 40 
+m 
+Fuente: Elaboración propia, 2025 
+ 
+ 
+ 
+ 
+
+===== p.74 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 75 de 108 
+ 
+ 
+Por su parte, mediante campaña de terreno de microruteo, se validaron las 
+discontinuidades del dosel detectadas en gabinete, tal y como se muestra en la Figura 
+4-11. 
+Figura 4-11. Discontinuidad del dosel detectada con NDVI y validada en terreno 
+ 
+Fuente: Elaboración propia, 2025. 
+
+===== p.75 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 76 de 108 
+ 
+Cabe señalar que, dado la condición de que los árboles en el área de estudio se 
+encontraban en los fondos de quebrada, la herramienta del NDVI sirvió 
+significativamente para mejorar la rodalización y delimitación de los bosques nativos, y 
+en consecuencia, de los bosques nativos de preservación (). 
+Figura 4-12. Ajuste de rodalización en función del NDVI y validación de terreno 
+Fuente: Elaboración propia, 2025. 
+
+===== p.76 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 77 de 108 
+ 
+b) Bosques nativos de preservación fuera del área de intervención 
+Respecto de los bosques nativos de preservación, a más de 100 m fuera de las áreas de 
+intervención del proyecto, se identificaron tres rodales que cumplen con estas 
+características, tal y como se muestra en la Figura 4-13. 
+Figura 4-13. Rodales de bosque nativo de preservación de canelo y palma chilena 
+Fuente: Elaboración propia, 2025. 
+
+===== p.77 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 78 de 108 
+ 
+4.4. 
+Análisis de singularidad de la flora y vegetación del área de estudio 
+Con respecto a la flora vascular terrestre registrada, se presenta a continuación un 
+cuadro que sintetiza la singularidad ambiental de las formaciones vegetales y especies 
+presentes en el área de estudio, en el marco de lo definido por la Guía de Evaluación 
+Ambiental “Criterios para la participación de CONAF en el SEIA” (CONAF, 2020) y la Guía 
+para la predicción y evaluación de impactos sobre ecosistemas terrestres (SEA, 2025). 
+Ver Tabla 4-8. 
+Tabla 4-8: Criterios de singularidad ambiental de la flora vascular aplicables 
+Cod
+. 
+Criterio evaluado 
+Aplica 
+No 
+Aplica 
+S-1 
+Presencia de suelo frágil altamente erosionable o móvil 
+(por ejemplo, suelo de altas pendientes, dunas, suelo de 
+borde costero, entre otros).  
+ 
+X 
+S-2 
+Presencia de suelo degradado o con potencial presencia 
+de contaminantes o contaminado.  
+ 
+X 
+S-3 
+Presencia de suelo relevante para la recarga de 
+acuíferos.  
+ 
+X 
+S-4 
+Presencia de formaciones vegetales únicas o de baja 
+representatividad nacional.  
+ 
+X 
+S-5 
+Presencia de formaciones vegetales relictuales.  
+ 
+X 
+S-6 
+Presencia de formaciones vegetales remanentes.  
+ 
+X 
+S-7 
+Presencia de formaciones vegetales frágiles cuya 
+existencia se ve amenazada por escasez de recursos o 
+fenómenos poblacionales que restringen su crecimiento y 
+mantención en el tiempo.  
+ 
+X 
+S-8 
+Presencia de bosque nativo de preservación que 
+contienen especies clasificadas según su estado de 
+conservación de acuerdo con lo estipulado en la Ley N.º 
+19.300.  
+X 
+ 
+S-9 
+Presencia de especies vegetales que están bajo 
+protección oficial.  
+X 
+ 
+S-10 
+Presencia de especies clasificadas según su estado de 
+conservación 
+como 
+amenazadas, 
+incluyendo 
+la 
+categoría “casi amenazadas”.  
+X 
+ 
+S-11 
+Presencia de especies endémicas.  
+X 
+ 
+S-12 
+Presencia de especies de distribución restringida o cuya 
+población es reducida o baja en número.  
+X 
+ 
+S-13 
+Actividad del proyecto que se localiza en o cercana al 
+límite de distribución geográfica de una o más especies 
+nativas (latitudinal o altitudinal).  
+X 
+ 
+S-14 
+Actividad del proyecto que se localiza en o colindante a 
+un 
+sitio 
+prioritario 
+para 
+la 
+conservación 
+de 
+la 
+biodiversidad.  
+X 
+ 
+
+===== p.78 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 79 de 108 
+ 
+Cod
+. 
+Criterio evaluado 
+Aplica 
+No 
+Aplica 
+S-15 
+Actividad del proyecto que se localiza en o colindante a 
+área bajo protección oficial.  
+ 
+X 
+S-16 
+Actividad del proyecto que se localiza en o colindante a 
+área protegida privada.  
+ 
+X 
+S-17 
+Presencia de árboles y arbustos aislados ubicados en 
+lugares específicos del territorio, identificados según 
+decretos dictados de conformidad al artículo 4 de la Ley 
+N.º 18.378.  
+ 
+X 
+S-18 
+Actividad del proyecto que se localiza en o colindante a 
+vegas y/o bofedales que pudieran verse afectados por el 
+ascenso o descenso de los niveles de aguas subterráneas.  
+ 
+X 
+S-19 
+Actividad del proyecto que se localiza en o colindante a 
+glaciares.  
+ 
+X 
+S-20 
+Actividad del proyecto que se localiza en o colindante a 
+humedales de zonas áridas, semiáridas o subhúmedas.  
+ 
+X 
+S-21 
+Presencia de un ecosistema amenazado.  
+ 
+X 
+S-22 
+Actividad del proyecto que se localiza en territorio con 
+valor ambiental.  
+ 
+X 
+S-23 
+Otras singularidades ambientales.  
+ 
+X 
+Fuente: Elaboración propia, en base a CONAF (2020) y SEA (2025). 
+En cuanto a la tabla de singularidad presentada previamente, se aplican los códigos S-
+8, S-9, S-10, S-11, S-12, S-13 y S-14, los que corresponden a los criterios de singularidad 
+para la flora y vegetación vascular terrestre en el área de estudio. A continuación, se 
+detallan dichos criterios: 
+- 
+Código S-8 “Presencia de bosque nativo de preservación que contienen 
+especies clasificadas según su estado de conservación de acuerdo con lo 
+estipulado en la Ley N.º 19.300.” 
+Respecto de las formaciones reguladas por la Ley N° 20.283, se identificaron en el área 
+de estudio: bosque nativo (22,39 ha; 14,18%), bosque nativo de preservación (BNP) (2,65 
+ha; 1,68%), formaciones xerofíticas (106,61 ha; 67,53%) y plantación forestal (26,23 ha; 
+16,61%), totalizando 157,88 ha sujetas a regulación. Los bosques nativos de preservación 
+corresponden a tres rodales ubicados a más de 100 m fuera del área de intervención 
+directa del proyecto, determinados por la presencia de Jubaea chilensis y Drimys winteri, 
+ambas clasificadas como En Peligro (EN). 
+- 
+Código S-9 “Presencia de especies vegetales que están bajo protección oficial” 
+La especie arbórea Jubaea chilensis se encuentra bajo protección oficial de acuerdo 
+con los siguientes dos (2) criterios:  
+ 
+
+===== p.79 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 80 de 108 
+ 
+- 
+Según lo establecido en el Decreto N.º 908/1941 el cual “Declara Forestales Los 
+Terrenos Que Comprenden Zonas De Vegetación Natural De Palma Chilena y 
+Reglamenta Su Explotación”.  
+ 
+- 
+La especie Jubaea chilensis se encuentra clasificada en categoría de 
+conservación "En Peligro" (EN) respecto al Decreto Supremo N.º 16/2020 del 
+Ministerio de Medio Ambiente. 
+ 
+En el área de estudio fueron observadas 6 individuos de Jubaea chilensis, distribuidas al 
+norte y suroeste del área. Cabe mencionar que los ejemplares se distribuyen en 
+formaciones vegetales de tipo matorrales.  
+ 
+
+===== p.80 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 81 de 108 
+ 
+- 
+Código S-10 “Presencia de especies clasificadas según su estado de 
+conservación como amenazadas, incluyendo la categoría casi amenazada”  
+Fueron identificadas siete (7) especies catalogadas como amenazadas o casi 
+amenazadas que se detallan en la Tabla 4-9. 
+Tabla 4-9: Especies clasificadas en categoría de conservación catalogadas como 
+“Amenazadas”, incluyendo la categoría “Casi amenazada”. 
+N° 
+Especie 
+Categoría de 
+conservación 
+Decreto 
+1 
+Alstroemeria marticorenae Negritto & C.M. 
+Baeza 
+EN (En Peligro) 
+DS 44/2021 MMA 
+2 
+Chloraea cristata Lindl. 
+VU (Vulnerable) 
+DS 41/2011 MMA 
+3 
+Chloraea disoides Lindl. 
+CR (En Peligro Crítico) 
+DS 41/2011 MMA 
+4 
+Drimys winteri var. chilensis J.R. Forst. & G. 
+Forst. 
+EN (En Peligro) 
+DS 06/2017 MMA 
+5 
+Echinopsis chiloensis (Colla) Friedrich & G.D. 
+Rowley 
+NT (Casi amenazada) 
+DS 41/2011 MMA 
+6 
+Jubaea chilensis (Molina) Baill. 
+EN (En Peligro) 
+DS 16/2020 MMA 
+7 
+Myrceugenia rufa (Colla) Skottsb. ex Kausel 
+NT (Casi amenazada) 
+DS 13/2013 MMA 
+Fuente: Fuente: Elaboración propia, 2025 
+En el área de estudio del proyecto se identificaron dos (2) especies que se encuentran 
+catalogadas como Casi “Amenazadas (NT) correspondientes a Myrceugenia rufa y 
+Echinopsis chiloensis. Dichas especies se encuentran ubicadas en laderas con 
+pendientes de 20% a 50% tanto en el sector norte como sur del área de estudio (Figura 
+4-14).  
+Por otro lado, en la Figura 4-15 se muestran las especies que se encuentran catalogadas 
+como “amenazadas”, siendo Alstroemeria marticorenae clasificada como En Peligro 
+(EN); la especie Chloraea disioides como En Peligro Critico (CR); Chloraea cristata como 
+Vulnerable (VU) y las especies arbóreas Drimys winteri y Jubaea chilensis, ambas 
+clasificadas como En Peligro (EN). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.81 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 82 de 108 
+ 
+Figura 4-14. Ubicación de especies clasificadas como “Casi amenazadas” en el área 
+de estudio. 
+ 
+Fuente: Elaboración propia, 2025 
+ 
+ 
+ 
+
+===== p.82 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 83 de 108 
+ 
+Figura 4-15. Ubicación de especies clasificadas como “Amenazadas” en el área de 
+estudio. 
+ 
+Fuente: Elaboración propia, 2025. 
+- 
+Código S-11: “Presencia de especies endémicas” 
+Las especies endémicas son aquellas cuya distribución natural se restringe al territorio 
+nacional, pudiendo incluso estar restringida a una región política administrativa, una 
+región biogeográfica, una isla o una zona particular del país (SEA, 2015). 
+Por otro lado, la presencia de especies endémicas, producto de su marcada restricción 
+
+===== p.83 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 84 de 108 
+ 
+biogeográfica, forman ambientes singulares, como ocurre en el área de estudio del 
+proyecto; las que se presentan en todas las unidades muestrales realizadas, destacando 
+que el 44,03% de la riqueza floristica total identificada, son de origen endémico. 
+Respecto al analisis de especies endémicas presentes en el área de estudio, siete (7) 
+formaciones vegetales poseen al menos una (1) o más especies en origen endémico 
+como dominante en la formación, resultando gran parte del área de estudio como un 
+área singular ambientalmente, considerando especies del tipo arbóreas, arbustivas y 
+herbáceas. Por otro lado, la formación de Plantación forestal de Pinus radiata, se 
+compone como especie dominante de origen introducida; sin embargo, en la 
+formación se encuentran especies endémicas con hábito arbóreo, arbustivo y 
+herbáceo, presentando cobreturas menores al 1%. 
+De acuerdo con el análisis de las especies endémicas presentes en el área de estudio, 
+se identificaron 107 especies con esta distribución fitogeográfica, resultando toda el 
+área de estudio con la presencia de al menos dos (2) o más especies endémicas en las 
+formaciones vegetales. Cabe destacar que en todas las campañas fueron registradas 
+especies de origen fitogeográfico endémico en los 49 puntos de muestreo. 
+- 
+Código S-12: “Presencia de especies de distribución restringida o cuya 
+población es reducida o baja en número” 
+Respecto a especies con una distribución geográfica restringida o cuya población es 
+reducidas, se encuentran las especies Alstroemeria marticorenae y Jubaea chilensis. 
+o 
+Jubaea chilensis, se trata de una especie con una distribución 
+geográfica restringida en el territorio nacional, encontrándose pequeñas 
+poblaciones desde el sur del río Limarí, en la región de Coquimbo, hasta 
+el sur de la localidad de Tapihue, en la región del Maule (Rodríguez, 1983). 
+Es importante destacar que las poblaciones de J. chilensis a lo largo de 
+su distribución presentan un estimado promedio de 9.883 individuos. Sin 
+embargo, al excluir las poblaciones de los sectores de Ocoa, Cocalán y 
+Viña 
+del 
+Mar-Valparaíso, 
+este 
+número 
+promedio 
+disminuye 
+considerablemente a aproximadamente 898 individuos. 
+o 
+Alstroemeria marticorenae, corresponde a una especie de hábito de 
+crecimiento herbáceo, con una distribución geográfica únicamente en 
+la región de Valparaíso. De la misma forma, de acuerdo a la ficha de 
+clasificación de especies del Ministerio de Medio Ambiente (MMA), su 
+distribución es muy restringida a la costa de la Región de Valparaíso 
+(Finot, 2018). Crece en los cerros y caminos de la Via las Palmas, Agua 
+Santa, Limonares, Sausalito, Gomez Carreño, Reñaca Alto, Laguna 
+Verde, hasta Zapallar por el norte y Algarrobo por el sur (Solari, 2015). 
+ 
+ 
+
+===== p.84 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 85 de 108 
+ 
+- 
+Código S-13: “Actividad del proyecto que se localiza en o cercana al límite de 
+distribución geográfica de una o más especies nativas (latitudinal o altitudinal)” 
+La actividad del proyecto se localiza cercano al límite de distribución geográfica de la 
+especie Alstroemeria marticorenae, el cómo fue mencionado anteriormente, de 
+acuerdo a los estudios poblacionales de la especie, el área de estudio del proyecto se 
+encuentra cercano a cerros y caminos de las Vía Las Palmas, Agua Santa y Limonares. 
+Se registraron un total de 35 especies que se encuentran cercanas al límite de su 
+distribución geográfica latitudinal, destacando que registros de las especies se 
+encuentran en los 49 puntos de muestreo realizados en el área de estudio durante las 
+cuatro (4) campañas de línea de base. 
+ En la Tabla 4-10 se listan las 35 especies que se encuentran cercano a su límite de 
+distribución geográfica latitudinal; mencionando que, del total de especies, 28 (80,0%) 
+poseen un origen fitogeográfico endémico, mientras que 7 (20,0%) corresponden a 
+especies de origen nativo. 
+Tabla 4-10: Especies nativas o endémicas registradas en el área de estudio que se 
+encuentran cercano al límite de su distribución geográfica latitudinal 
+Especie 
+Origen fitogeográfico 
+Hábito 
+Adesmia microphylla 
+Endémica 
+Arbusto 
+Alstroemeria hookeri subsp. hookeri 
+Endémica 
+Hierba perenne 
+Alstroemeria hookeri subsp. recumbens 
+Endémica 
+Hierba perenne 
+Alstroemeria ligtu 
+Endémica 
+Hierba perenne 
+Alstroemeria marticorenae 
+Endémica 
+Hierba perenne 
+Alstroemeria maxima 
+Endémica 
+Hierba perenne 
+Baccharis poeppigiana 
+Endémica 
+Arbusto 
+Calandrinia ciliata 
+Nativa 
+Hierba anual 
+Calceolaria dentata 
+Nativa 
+Arbusto 
+Calceolaria rubiginosa 
+Endémica 
+Arbusto 
+Calceolaria thyrsiflora 
+Endémica 
+Arbusto 
+Chloraea bletioides 
+Endémica 
+Hierba perenne 
+Chloraea cristata 
+Endémica 
+Hierba perenne 
+Chloraea disoides 
+Endémica 
+Hierba perenne 
+Conanthera bifolia 
+Endémica 
+Hierba perenne 
+Conanthera trimaculata 
+Endémica 
+Hierba perenne 
+Cryptantha alyssoides 
+Endémica 
+Hierba perenne 
+Dioscorea bryoniifolia 
+Endémica 
+Hierba perenne 
+Erigeron fasciculatus 
+Endémica 
+Hierba perenne 
+Escallonia rubra 
+Nativa 
+Arbusto 
+Flourensia thurifera 
+Endémica 
+Arbusto 
+
+===== p.85 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 86 de 108 
+ 
+Especie 
+Origen fitogeográfico 
+Hábito 
+Fuchsia magellanica 
+Nativa 
+Arbusto 
+Glycyrrhiza astragalina 
+Nativa 
+Arbusto 
+Haplopappus litoralis 
+Endémica 
+Arbusto 
+Haplopappus poeppigianus 
+Endémica 
+Arbusto 
+Juncus capillaceus 
+Nativa 
+Hierba perenne 
+Lepechinia salviae 
+Endémica 
+Arbusto 
+Leucocoryne coquimbensis 
+Endémica 
+Hierba perenne 
+Myrceugenia rufa 
+Endémica 
+Arbusto 
+Nothoscordum gramineum 
+Nativa 
+Hierba perenne 
+Phytolacca chilensis 
+Endémica 
+Arbusto 
+Pseudognaphalium landbeckii 
+Endémica 
+Hierba perenne 
+Retanilla ephedra 
+Endémica 
+Arbusto 
+Samolus latifolius 
+Endémica 
+Hierba perenne 
+Zephyranthes advena 
+Endémica 
+Hierba perenne 
+Elaboración: Geoverde, 2025. 
+- 
+Código S-14: “Actividad del proyecto que se localiza en o colindante a un sitio 
+prioritario para la conservación de la biodiversidad” 
+La actividad del proyecto se encuentra en parte dentro de un sitio prioritario para la 
+conservación de la biodiversidad, abarcando los sitios Palmar Las Siete Hermanas - El 
+Salto y Quebrada Quiteño Las Palmas, los cuales están incluidos en las estrategias 
+nacionales de conservación de la biodiversidad. En la Figura 4-16 se puede observar el 
+área de estudio del proyecto y su superposición con los dos sitios prioritarios 
+mencionados. 
+Sin embargo, cabe señalar que dichos sitios prioritarios no están reconocidos por el 
+artículo octavo transitorio de la Ley N° 21.600, no encontrándose listados en el ORD. D.E. 
+N° 100143/2010, del Servicio de Evaluación Ambiental. 
+ 
+ 
+ 
+ 
+
+===== p.86 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 87 de 108 
+ 
+Figura 4-16: Área de estudio del proyecto en un sitio prioritario para la conservación de 
+la biodiversidad. 
+ 
+Fuente: Elaboración propia, 2025.
+
+===== p.87 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 88 de 108 
+ 
+4.5. 
+Análisis de la variable cambio climático 
+Los resultados del análisis sobre la variable cambio climático en el área de estudio del 
+proyecto se realizaron a nivel comunal, específicamente en la comuna de Viña del Mar. 
+Se evaluaron las especies durante las campañas de invierno y primavera 2024, y verano 
+y otoño 2025, utilizando el “Mapa de Especies” de la plataforma digital “Atlas de Riesgos 
+Climáticos para Chile”, disponible en el Ministerio de Medio Ambiente. Asimismo, se 
+examinó el área de estudio en relación con el componente de biodiversidad, donde se 
+identificaron 14 “cadenas de impacto”, centrándose en las cadenas de “Pérdida de 
+flora por cambios de temperatura” y “Pérdida de flora por cambios de precipitación”. 
+Además, se identificaron riesgos climáticos asociados a amenazas presentes en la 
+comuna de Viña del Mar para un futuro mediano, considerando la temperatura media 
+y la precipitación acumulada anual. Esto sugiere que la continuidad de la vegetación 
+en la zona podría verse afectada. 
+Respecto a las amenazas climáticas presentes en la comuna de Viña del Mar, se 
+analizaron específicamente los datos de temperatura media anual (ºC) y precipitación 
+acumulada anual (mm), las que pueden generar un impacto en la flora y vegetación 
+del área, principalmente en su cobertura vegetacional.  
+La temperatura media anual histórica para la comuna de Viña del Mar es de 14,8 ºC, 
+observándose en el  
+ 
+
+===== p.88 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 89 de 108 
+ 
+Gráfico 4-1 un aumento de 0,95 ºC para periodos posteriores al año 2030.  
+ 
+ 
+
+===== p.89 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 90 de 108 
+ 
+Gráfico 4-1: Temperatura media anual (ºC) en una serie de tiempo (años 1980-2065) en 
+la comuna de Viña del Mar 
+ 
+Fuente: En base a Información de mapas de Amenazas Climáticas del “Atlas de Riesgo 
+Climático para Chile”. 
+Por otro lado, la precipitación acumulada anual (mm) para la comuna de Viña del Mar 
+presenta un registro histórico de 446,03 mm, registrando un descenso del 18,47%. De 
+acuerdo con el  
+ 
+
+===== p.90 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 91 de 108 
+ 
+Gráfico 4-2, se observa una disminución significativa posterior al año 2037, proyectando 
+una precipitación acumulada anual de 363,63 mm. 
+ 
+ 
+
+===== p.91 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 92 de 108 
+ 
+Gráfico 4-2: Precipitación acumulada anual (mm) en una serie de tiempo (años 1980-
+2065) en la comuna de Viña del Mar 
+ 
+Fuente: En base a Información de mapas de Amenazas Climáticas del “Atlas de Riesgo 
+Climático para Chile”. 
+De acuerdo con las 243 especies registradas en las campañas de muestreo (invierno, 
+primavera, verano y otoño) realizadas en el área de estudio, solo se analizaron aquellas 
+presentes en el Mapa de Especies del Atlas de Riesgos Climáticos para Chile, que 
+consideró un (1) sector de 5x5 km2 para determinar la probabilidad de presencia de las 
+especies en un clima futuro. Ver análisis a continuación en  
+Tabla 4-11. 
+Se analizaron en total de 90 especies, de las cuales 16 presentan un cambio negativo 
+respecto a su probabilidad de presencia en un clima futuro en el área de estudio; a 
+diferencia del resto de las especies (74), éstas presentaron un aumento en su 
+probabilidad de presencia en el área. Cabe destacar el aumento en la probabilidad 
+de presencia de las especies Myrceugenia rufa y Flourensia thurifera en un clima futuro 
+con 49,2% y 32,7%, respectivamente, respecto al actual clima histórico. De la misma 
+manera, las especies Adesmia tenella (10,7%), Moscharia pinnatifida (22,8%), 
+Convolvulus chilensis (21,9%) y Lobelia polyphylla (21,7%) registran probabilidades de 
+aumento en su población sobre el 20% en un clima futuro. 
+Por otro lado, la especie Monnina linearifolia presenta una disminución en su 
+probabilidad de presencia del 21,6%, lo que podría poner en riesgo su desarrollo en el 
+área específicamente muestreada. De manera similar, las especies Luma apiculata (-
+
+===== p.92 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 93 de 108 
+ 
+14,5%), Alstroemeria ligtu (-13,3%) y Azara serrata (-11,1%) muestran descensos en su 
+probabilidad de presencia. Asimismo, especies singulares como Drimys winteri lo hará en 
+un 0,4%.  
+Tabla 4-11: Probabilidad de presencia de especies en el área de estudio del proyecto 
+para un periodo futuro (años 2035 – 2065) 
+Especie 
+Clima histórico 
+Clima futuro 
+Cambio 
+Acaena pinnatifida 
+24,3 
+16,4 
+-8 
+Adesmia tenella 
+50,5 
+78,4 
+27,9 
+Adenopeltis serrata 
+88,3 
+98,3 
+10 
+Adiantum chilense 
+82,2 
+86,6 
+4,3 
+Alstroemeria ligtu 
+78,1 
+64,8 
+-13,3 
+Aristeguietia salvia 
+94,6 
+99,9 
+5,3 
+Aristolochia chilensis 
+54,2 
+62,4 
+8,1 
+Aristotelia chilensis 
+83,6 
+92 
+8,3 
+Asteriscium chilense 
+91,6 
+91,4 
+-0,2 
+Azara celastrina 
+91,1 
+97,5 
+6,4 
+Azara serrata 
+70,4 
+59,3 
+-11,1 
+Baccharis glutinosa 
+94,4 
+99,3 
+4,9 
+Baccharis linearis 
+88,4 
+94,8 
+6,3 
+Baccharis rhomboidalis 
+34,5 
+26,2 
+-8,3 
+Baccharis salicifolia 
+92,2 
+99,1 
+6,8 
+Blechnum hastatum 
+78,1 
+74,7 
+-3,5 
+Bromus berteroanus 
+87,4 
+96,5 
+9 
+Calandrinia compressa 
+93,2 
+98,4 
+5,2 
+Calceolaria corymbosa 
+89,9 
+94,3 
+4,4 
+Calceolaria dentata 
+26,2 
+21,8 
+-4,4 
+Calceolaria integrifolia 
+91,8 
+94,4 
+2,6 
+Calceolaria thyrsiflora 
+70,8 
+74,1 
+3,3 
+Camissonia dentata 
+96,5 
+99,3 
+2,8 
+Cestrum parqui 
+93,5 
+98,6 
+5 
+Chiropetalum berterianum 
+76,6 
+92,3 
+15,7 
+Cissus striata 
+76 
+85,4 
+9,4 
+Clarkia tenella 
+89,8 
+88,4 
+-1,5 
+Colletia hystrix 
+89,5 
+90,4 
+1,4 
+Colliguaja odorifera 
+83,8 
+96,2 
+12,4 
+Conanthera bifolia 
+37,2 
+34,9 
+-2,4 
+Conanthera campanulata 
+97,5 
+99,8 
+2,2 
+Convolvulus chilensis 
+72,2 
+94,1 
+21,9 
+
+===== p.93 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 94 de 108 
+ 
+Especie 
+Clima histórico 
+Clima futuro 
+Cambio 
+Cryptocarya alba 
+81,5 
+91,4 
+9,9 
+Cuscuta chilensis 
+91,1 
+96,4 
+5,3 
+Cyperus eragrostis 
+96,3 
+99,9 
+3,6 
+Drimys winteri 
+86 
+85,5 
+-0,4 
+Ephedra chilensis 
+79 
+85,8 
+6,9 
+Eryngium paniculatum 
+60,3 
+64,6 
+4,3 
+Escallonia illinita 
+62,8 
+79,4 
+16,6 
+Escallonia pulverulenta 
+91,6 
+96,4 
+4,8 
+Escallonia revoluta 
+92,1 
+98,4 
+6,3 
+Escallonia rubra 
+94,3 
+99,8 
+5,5 
+Flourensia thurifera 
+45,9 
+78,6 
+32,7 
+Fuchsia magellanica 
+66,9 
+59,3 
+-7,6 
+Geranium core-core 
+93,9 
+96,8 
+2,9 
+Gochnatia foliolosa 
+96 
+99,1 
+3,1 
+Leucocoryne ixioides 
+89,2 
+99,3 
+10,1 
+Linum macraei 
+97,6 
+100 
+2,4 
+Lithraea caustica 
+79,8 
+83,8 
+4,1 
+Loasa triloba 
+96,4 
+100 
+3,5 
+Lobelia excelsa 
+90,6 
+98,7 
+8,1 
+Lobelia polyphylla 
+76,3 
+98,1 
+21,7 
+Luma apiculata 
+49,3 
+34,8 
+-14,5 
+Luma chequen 
+88,1 
+93,8 
+5,7 
+Madia sativa 
+83,5 
+85,6 
+2,1 
+Margyricarpus pinnatus 
+86,1 
+90,7 
+4,6 
+Maytenus boaria 
+86,8 
+93,4 
+6,6 
+Monnina linearifolia 
+88,5 
+66,9 
+-21,6 
+Montiopsis trifida 
+27,5 
+47,3 
+19,8 
+Moscharia pinnatifida 
+73,1 
+95,8 
+22,8 
+Muehlenbeckia hastulata 
+83,4 
+94,1 
+10,7 
+Mutisia subulata 
+84,2 
+95,3 
+11,1 
+Myrceugenia correifolia 
+78,6 
+80,6 
+2 
+Myrceugenia exsucca 
+92 
+98 
+6 
+Myrceugenia obtusa 
+90,1 
+91,3 
+1,2 
+Myrceugenia rufa 
+41,3 
+90,6 
+49,3 
+Nassella chilensis 
+89,4 
+97,6 
+8,1 
+Otholobium glandulosum 
+80,1 
+91,6 
+11,5 
+
+===== p.94 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 95 de 108 
+ 
+Especie 
+Clima histórico 
+Clima futuro 
+Cambio 
+Oxalis rosea 
+71,5 
+80,2 
+8,7 
+Pasithea caerulea 
+91,1 
+91,8 
+0,7 
+Peumus boldus 
+85,7 
+87,3 
+1,6 
+Podanthus mitiqui 
+84,9 
+96,7 
+11,8 
+Proustia cuneifolia 
+59,7 
+73,6 
+13,9 
+Proustia pyrifolia 
+77,3 
+76,1 
+-1,2 
+Quillaja saponaria 
+60,9 
+62,8 
+2 
+Quinchamalium chilense 
+88,5 
+90,6 
+2,1 
+Retanilla trinervia 
+84,1 
+98 
+13,9 
+Schinus latifolius 
+81 
+94,7 
+13,7 
+Schinus polygamus 
+82,4 
+88,3 
+5,8 
+Schizanthus pinnatus 
+93,1 
+97,6 
+4,5 
+Sisyrinchium arenarium 
+73 
+71,5 
+-1,5 
+Solenomelus pedunculatus 
+95,7 
+99,5 
+3,9 
+Stellaria chilensis 
+98,9 
+99,9 
+1,1 
+Teucrium bicolor 
+95,7 
+99,8 
+4,1 
+Trichopetalum plumosum 
+95,6 
+99,6 
+4 
+Triptilion spinosum 
+96,9 
+99,1 
+2,2 
+Tropaeolum tricolor 
+80,8 
+87,3 
+6,5 
+Tweedia birostrata 
+96,7 
+99,9 
+3,3 
+Vachellia caven 
+77,6 
+89,7 
+12,1 
+Wahlenbergia linarioides 
+93,5 
+93,1 
+-1,4 
+Fuente: Elaboración propia, en base al Mapa de especies del “Atlas de Riesgo Climático para 
+Chile”. 
+De acuerdo con el índice de riesgo climático, para la perdida de flora por cambios de 
+precipitación en la comuna de Viña del Mar, en la  
+ 
+Tabla 4-12 se presentan los valores de Amenaza, Exposición y Sensibilidad, obteniendo 
+un índice de riesgo climático “Alto” para la comuna de Viña del Mar, con un valor de 
+0,6933.  
+ 
+Tabla 4-12: Índice de riesgo climático para la perdida de flora por cambios de 
+precipitación en la comuna de Viña del Mar 
+Índice 
+Valor 
+Comuna de Viña del Mar 
+Índice de amenaza 
+0,2966 
+
+===== p.95 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 96 de 108 
+ 
+Índice 
+Valor 
+Comuna de Viña del Mar 
+Índice de exposición 
+0,3618 
+Índice de sensibilidad 
+1 
+Índice de riesgo 
+0,6933 
+Capacidad adaptiva 
+1 
+Margen de seguridad 
+1 
+Riqueza especies 
+96 
+Superficie protegida (ha) 
+0 
+Fuente: Elaboración propia, 2025; en base al “Atlas de Riesgo Climático para Chile”. 
+El índice de riesgo climático para la perdida de flora por cambios de temperatura para 
+la comuna de Viña del Mar corresponde a 0,3204, que se traduce en un riesgo climático 
+“Moderado”. En la Tabla 4-13 se pueden observar los diferentes valores obtenidos, de 
+acuerdo con los distintos índices analizados. 
+Tabla 4-13: Índice de riesgo climático para la perdida de flora por cambios de 
+temperatura en la comuna de Viña del Mar 
+Índice 
+Valor 
+Comuna de Viña del Mar 
+Índice de amenaza 
+0,2157 
+Índice de exposición 
+0,3618 
+Índice de sensibilidad 
+0,2291 
+Índice de riesgo 
+0,3204 
+Capacidad adaptiva 
+1 
+Margen de seguridad 
+0,2291 
+Riqueza especies 
+96 
+Superficie protegida (ha) 
+0,01 
+Fuente: Elaboración propia, 2025; en base al “Atlas de Riesgo Climático para Chile”. 
+ 
+4.6. 
+Análisis de biodiversidad  
+De acuerdo con los valores de riqueza acumulada en las cuatro (4) campañas, tenemos 
+que el Bosque nativo renoval de Cryptocarya alba y Peumus boldus tiene la mayor 
+riqueza (171 especies), a diferencia de la Plantación forestal de Pinus radiata que posee 
+la menor riqueza de especies con 59 registros (ver Tabla 4-14). 
+ 
+El índice de Pielou mide cómo las especies están distribuidas uniformemente dentro de 
+la comunidad. La formación con la mayor equitatividad es el Bosque nativo renoval de 
+Lithraea caustica y Schinus latifolius (0,719), lo que sugiere una distribución más uniforme 
+de las especies respecto a su cobertura relativa dentro de la formación. Por otro lado, 
+la formación con menor equitatividad es la Plantación forestal de Pinus radiata (0,455), 
+
+===== p.96 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 97 de 108 
+ 
+indicando que algunas especies dominan más que otras, particularmente las especies 
+dominante de la formación, como es el caso de la especie Pinus radiata, la que domina 
+la formación a ser un monocultivo, permitiendo eventualmente la regeneración de otras 
+especies en el estrato secundario con coberturas que no superan el 10%. 
+ 
+En cuanto al índice de Shannon-weaver la formación con mayor diversidad es el Bosque 
+nativo renoval de Lithraea caustica y Schinus latifolius (3,259), lo que sugiere una 
+comunidad con unas abundancias relativamente altas y una buena distribución de las 
+especies. Mientras que la formación con menor diversidad es la Plantación forestal de 
+Pinus radiata (1,854), debido a su menor riqueza y equitatividad entre las especies que 
+conforman la formación vegetal, esto al tratarse de una plantación forestal 
+(monocultivo), dominando en más del 70% de cobertura de la formación una única 
+especie. 
+ 
+Tabla 4-14: Formaciones vegetales presentes en el área de estudio del proyecto con su 
+riqueza e índices de diversidad y equidad. 
+Formaciones vegetales 
+Riqueza 
+Índice de 
+Pielou 
+Índice de 
+Shannon-Weaver 
+Bosque nativo renoval de Cryptocarya alba 
+109 
+0,644 
+3,020 
+Bosque nativo renoval de Cryptocarya alba y 
+Peumus boldus 
+147 
+0,590 
+2,946 
+Bosque nativo renoval de Cryptocarya alba, 
+Peumus boldus y Schinus latifolius 
+171 
+0,583 
+2,999 
+Bosque nativo renoval de Lithraea caustica y 
+Schinus latifolius 
+93 
+0,719 
+3,259 
+Matorral con suculentas de Colliguaja odorifera 
+y Puya chilensis 
+135 
+0,584 
+2,862 
+Matorral de Colliguaja odorifera 
+141 
+0,592 
+2,930 
+Matorral de Retanilla trinervia 
+90 
+0,669 
+3,012 
+Plantación forestal de Pinus radiata 
+59 
+0,455 
+1,854 
+Fuente: Elaboración propia, 2025. 
+ 
+ 
+ 
+ 
+
+===== p.97 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 98 de 108 
+ 
+Figura 4-17: Índices de diversidad de Shannon-Wiener, Índice de Pielou (E) y riqueza florística de las formaciones vegetales identificadas en 
+el área de estudio del proyecto 
+ 
+Fuente: Elaboración propia, 2025. 
+
+===== p.98 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 99 de 108 
+ 
+La diversidad registrada en cada formación vegetal varia estacionalmente, la que se 
+asocia con la riqueza florística registrada y su abundancia. De la misma manera, esta 
+variación se debe al estado de desarrollo de algunas especies, particularmente 
+herbáceas que tienen su proceso vegetativo en estaciones como invierno o primavera 
+y se caracterizan por tener crecimientos anuales. 
+Los mayores valores del índice de Shannon-Weaver se registraron durante la campaña 
+de invierno de 2024 para la mayoría de las formaciones vegetales. La única excepción 
+fue la formación de Bosque nativo renoval de Cryptocarya alba y Peumus boldus, que 
+alcanzó su valor máximo en la campaña de primavera del mismo año. En cuanto al 
+índice de equidad de Pielou, los valores más altos también se observaron en la 
+campaña de invierno de 2024 para las ocho (8) formaciones vegetales descritas en el 
+área de estudio. Cabe destacar que, en dicha campaña, los valores del índice de 
+Shannon-Weaver fueron relativamente similares entre las distintas formaciones, variando 
+entre 2,972 para la formación de Matorral de Retanilla trinervia y 3,162 para el Bosque 
+nativo renoval de Cryptocarya alba. 
+De manera similar, el índice de Pielou presentó sus valores más altos en invierno para 
+todas las formaciones, destacando un valor de equidad de 0,804 para el Bosque nativo 
+renoval de Cryptocarya alba. En contraste, la formación de Matorral con suculentas de 
+Colliguaja odorífera y Puya chilensis registró el menor valor, con 0,701. 
+Según la Figura 4-18, se observa que entre las campañas de primavera 2024 y verano 
+2025 se presentan las mayores diferencias en los índices de diversidad de Shannon-
+Weaver y equidad de Pielou. Esto podría atribuirse al efecto estacional de las herbáceas 
+anuales presentes en invierno y primavera de 2024, en contraste con la estación de 
+verano 2025, lo que explicaría la variación en la riqueza de especies. Por ejemplo, en las 
+estaciones de invierno y primavera se registró un promedio de 64 especies por formación 
+vegetal, mientras que en verano y otoño de 2025 este valor disminuyó a 43 especies por 
+formación. 
+
+===== p.99 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 100 de 108 
+ 
+Figura 4-18: Índice de diversidad de Shannon-Wiener, Índice de Pielou (E) y riqueza florística de las formaciones vegetales presente en 
+el área de estudio por cada campaña (invierno y primavera 2024; verano y otoño 2025) 
+ 
+Fuente: Elaboración propia, 2025
+
+===== p.100 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 101 de 108 
+ 
+5. 
+CONCLUSIONES 
+El proyecto "Centro Metropolitano de Gestión Integral de Residuos", cuyo titular es Ebi y 
+COSEMAR S.A., se ubica al interior de la provincia de Valparaíso, en la comuna de Viña 
+del Mar, al sureste de la ciudad de Viña del Mar y suroeste de Quilpué, a una altitud 
+aproximada de 280 metros sobre el nivel del mar. El proyecto considera un área de obras 
+permanentes de 69,83 ha, más la construcción de un camino de aproximadamente 4,0 
+km con 8,51 ha de superficie, totalizando 82,30 ha de intervención directa. 
+Se realizó una caracterización integral de flora y vegetación vascular terrestre mediante 
+seis (6) instancias de muestreo: cuatro campañas estacionales en invierno (septiembre 
+2024), primavera (noviembre 2024), verano (enero 2025) y otoño (mayo 2025), con 49 
+puntos de muestreo cada una; una campaña complementaria de microruteo de Jubaea 
+chilensis y Drimys winteri entre el 21 y 23 de diciembre de 2025, con 42 puntos de muestreo 
+y 30,49 km recorridos; y una campaña de inventario forestal entre el 30 de marzo y 2 de 
+abril de 2026, con 39 parcelas distribuidas en formaciones de bosque nativo (17 parcelas) 
+y formaciones xerofíticas (22 parcelas), para la cuantificación de formaciones reguladas 
+por la Ley N° 20.283. El esfuerzo de muestreo total alcanzó 277 puntos en 23 días efectivos 
+de terreno.  
+El área de estudio abarca una superficie total de 325,44 hectáreas, determinada 
+mediante un buffer de aproximadamente 200 m sobre el área del proyecto y 50 m 
+alrededor del camino proyectado. La delimitación de las formaciones vegetales fue 
+apoyada por fotointerpretación en QGIS 3.34.1, utilizando imágenes Google Earth/Bing 
+Maps, un ortomosaico de vuelo dron de 5 cm de pixel previo al incendio de 2024, y un 
+raster NDVI elaborado en Google Earth Engine con imágenes Sentinel-2 (BOA) del período 
+enero-diciembre 2021. El NDVI resultó ser una herramienta clave para mejorar la 
+rodalización y delimitación de los bosques nativos en fondos de quebrada, permitiendo 
+validar y ajustar las discontinuidades del dosel identificadas en gabinete mediante las 
+campañas de microruteo. 
+El área de estudio se enmarca en la región del "Matorral y Bosque esclerófilo", Sub-Región 
+"Bosque esclerófilo", formación vegetal del "Bosque esclerófilo costero" según Gajardo 
+(1994). Según Luebert y Pliscoff (2017), corresponde a los pisos vegetacionales "Bosque 
+esclerófilo mediterráneo costero de Lithraea caustica y Cryptocarya alba" y "Bosque 
+esclerófilo mediterráneo costero de Cryptocarya alba y Peumus boldus". 
+Se identificaron un total de 243 especies de flora vascular terrestre a lo largo de las cuatro 
+campañas estacionales. La campaña de primavera 2024 registró la mayor riqueza con 171 
+especies, seguida por otoño 2025 con 126. En promedio, las campañas de invierno y 
+primavera registraron 64 taxa por formación, mientras que en verano y otoño este valor 
+descendió a 43, lo que se explica principalmente por el carácter estacional de las especies 
+
+===== p.101 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 102 de 108 
+ 
+herbáceas anuales. Las familias más representativas fueron Asteraceae (38 especies), 
+Fabaceae (17 especies) y Poaceae (14 especies). El hábito predominante correspondió a 
+hierbas perennes (41,15%). En cuanto al origen fitogeográfico, las especies endémicas 
+constituyeron la mayor proporción con 107 especies (44,03%), seguidas de nativas (32,51%) 
+e introducidas (23,46%). 
+Se registraron 33 especies listadas en el D.S. N° 68/2009 (MINAGRI), entre las cuales las 
+especies dominantes de las formaciones vegetales del área de estudio fueron 
+Cryptocarya alba, Peumus boldus, Schinus latifolius y Puya chilensis. En relación con las 
+categorías de conservación, se registraron 19 especies, destacando tres clasificadas 
+como En Peligro (EN): Alstroemeria marticorenae, Drimys winteri y Jubaea chilensis; una 
+Vulnerable (VU): Chloraea cristata; una En Peligro Crítico (CR): Chloraea disioides; y dos 
+Casi Amenazadas (NT): Echinopsis chiloensis y Myrceugenia rufa. 
+Se determinaron cinco (5) recubrimientos de suelo en el área de estudio: Matorrales 
+(264,60 ha; 81,31%), Plantación forestal (25,68 ha; 7,89%), Bosque nativo (25,04 ha; 7,69%), 
+Matorral arborescente (7,00 ha; 2,15%) y Caminos (3,12 ha; 0,96%). Se definieron veinte (20) 
+formaciones vegetales, siendo las más representativas el Matorral de Colliguaja odorifera 
+(71,12 ha; 21,86%), el Matorral con suculentas de Puya chilensis y Colliguaja odorifera (64,55 
+ha; 19,83%), el Matorral de Colliguaja odorifera y Chusquea cumingii (59,48 ha; 18,27%) y 
+el Matorral de Retanilla trinervia (39,20 ha; 12,04%). Las formaciones de bosque nativo 
+renoval se encuentran confinadas principalmente a fondos de quebrada, destacando el 
+Bosque nativo renoval de Cryptocarya alba (14,39 ha; 4,42%) y el Bosque nativo renoval 
+de Cryptocarya alba, Peumus boldus y Schinus latifolius (10,65 ha; 3,27%). Adicionalmente, 
+se identificaron formaciones de matorral arborescente que, si bien presentan coberturas 
+arbóreas superiores al 10%, no cumplen con el ancho mínimo de 40 m exigido por la Ley 
+N° 20.283 para ser clasificadas como bosque nativo, totalizando 6,77 ha en conjunto. 
+Respecto de las formaciones reguladas por la Ley N° 20.283, se identificaron en el área de 
+estudio: bosque nativo (22,39 ha; 14,18%), bosque nativo de preservación (BNP) (2,65 ha; 
+1,68%), formaciones xerofíticas (106,61 ha; 67,53%) y plantación forestal (26,23 ha; 16,61%), 
+totalizando 157,88 ha sujetas a regulación. Los bosques nativos de preservación 
+corresponden a tres rodales ubicados a más de 100 m fuera del área de intervención 
+directa del proyecto, determinados por la presencia de Jubaea chilensis y Drimys winteri, 
+ambas clasificadas como En Peligro (EN). Cabe destacar que 6 individuos de Jubaea 
+chilensis fueron registrados y georreferenciados en el área de estudio, distribuidos en 
+formaciones de bosque nativo y matorrales en los sectores norte y suroeste. 
+Se cumplieron siete (7) criterios de singularidades ambientales (S-8 a S-14), en el marco de 
+la Guía de Evaluación Ambiental de CONAF (2020) y la Guía para la descripción del Área 
+de estudio del SEA (2024): presencia de bosque nativo de preservación y formaciones 
+xerofíticas con especies en categoría de conservación (S-8); presencia de Jubaea chilensis 
+bajo protección oficial según D.S. N° 908/1941 y clasificada como EN (S-9); presencia de 
+
+===== p.102 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 103 de 108 
+ 
+siete (7) especies en categorías de conservación amenazadas o casi amenazadas (S-10); 
+presencia de 107 especies endémicas representando el 44,03% de la riqueza florística total 
+(S-11); presencia de especies de distribución restringida como Jubaea chilensis y 
+Alstroemeria marticorenae (S-12); 35 especies cercanas a su límite de distribución 
+latitudinal, 28 de ellas de origen endémico (S-13); y ubicación del área de estudio en parte 
+de los sitios prioritarios para la conservación Palmar Las Siete Hermanas – El Salto y 
+Quebrada Quiteño Las Palmas (S-14). 
+El índice de riesgo climático para la pérdida de flora por cambios de precipitación fue 
+categorizado como "Alto" (0,6933) y por cambios de temperatura como "Moderado" 
+(0,3204), ambos para la comuna de Viña del Mar. El análisis de probabilidad de presencia 
+futura (2035-2065) mostró que 74 de las 90 especies evaluadas presentarán una mejor 
+adaptabilidad a las condiciones climáticas proyectadas, destacando Myrceugenia rufa 
+(+49,2%) y Flourensia thurifera (+32,7%). Sin embargo, 16 especies disminuirán su 
+probabilidad de presencia, particularmente Monnina linearifolia (-21,6%), Luma apiculata (-
+14,5%), Alstroemeria ligtu (-13,3%) y Azara serrata (-11,1%). 
+Los índices de biodiversidad presentaron variaciones estacionales significativas entre 
+primavera 2024 y verano 2025, asociadas al ciclo de las herbáceas anuales. La formación 
+más diversa en promedio fue el Bosque nativo renoval de Lithraea caustica y Schinus 
+latifolius (H' = 3,259; E = 0,719), mientras que la menor diversidad se registró en la Plantación 
+forestal de Pinus radiata (H' = 1,854; E = 0,455), lo que refleja el efecto del monocultivo sobre 
+la equidad y riqueza de especies. 
+En síntesis, el presente estudio constituye una caracterización exhaustiva y de alta 
+resolución del componente flora y vegetación vascular terrestre del área de estudio, 
+alcanzando un nivel de detalle metodológico acorde a los estándares habitualmente 
+exigidos en el marco del SEIA. El esfuerzo de muestreo acumulado, seis instancias de 
+terreno, 277 puntos de muestreo y 23 días efectivos de trabajo, junto con la integración de 
+tecnologías de teledetección como el NDVI derivado de imágenes Sentinel-2 y el 
+ortomosaico de vuelo dron de 5 cm de resolución, permitieron una rodalización precisa y 
+fundada de los bosques nativos, bosques nativos de preservación y formaciones 
+xerofíticas, validada rigurosamente en terreno. Esta combinación de metodologías 
+convencionales y herramientas geoespaciales de avanzada garantiza que los límites 
+definidos para las formaciones reguladas por la Ley N° 20.283, incluyendo los bosques 
+nativos de preservación, reflejan fielmente la realidad ecológica del territorio, dotando al 
+proyecto de una línea de base robusta y técnicamente sólida. 
+ 
+ 
+
+===== p.103 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 104 de 108 
+ 
+6. 
+REFERENCIAS 
+Corporación Nacional Forestal (CONAF). 2020. GUÍA DE EVALUACIÓN AMBIENTAL. Criterios 
+para la participación de CONAF en el SEIA. Santiago, Chile. 159 pp. Comisión 
+Nacional del Medio Ambiente (CONAMA) y Centro de Ecología Aplicada (CEA). 
+2006. 
+Etienne, M. y Prado, C. 1982. Descripción de la vegetación mediante la cartografía de 
+ocupación de tierras (COT). Ciencias Agrícolas N°10. Fac. Cs. Agrarias, Veterinarias 
+y Forestales. Universidad de Chile. 120 pp. 
+Gajardo, R. 1994. La vegetación natural de Chile: clasificación y distribución geográfica. 
+Editorial Universitaria, Santiago (Chile). 166 pp.  
+Godron M., Ph Daget, L Emberger, E Le Floc'h, G Long, J Poissonet, Ch. Sauvage, JP 
+Wacquant. 1968. Code pour le relevé méthodique de la végétation et du milieu. 
+C.N.R.S. Paris. 1 vol. 292 p 
+Luebert, F. y Pliscoff, P. 2017. Sinopsis climática y vegetacional de Chile. Editorial Universitaria. 
+381 pp. 
+Ministerio de Medio Ambiente. (Marzo, 2025). Mapa de perdida de flora por cambios de 
+precipitación. Atlas de Riesgos Climáticos para Chile, Ministerio de Medio Ambiente.  
+https://arclim.mma.gob.cl/atlas/view/biodiversidad_flora_precip/ 
+Ministerio de Medio Ambiente. (Marzo, 2025). Mapa de perdida de flora por cambios de 
+temperatura. Atlas de Riesgos Climáticos para Chile, Ministerio de Medio Ambiente. 
+https://arclim.mma.gob.cl/atlas/view/biodiversidad_flora_temperatura/ 
+Ministerio de Medio Ambiente. (Marzo, 2025). Mapa de amenazas climáticas temperatura 
+media y precipitación acumulada. Atlas de Riesgos Climáticos para Chile, Ministerio 
+de Medio Ambiente. https://arclim.mma.gob.cl/amenazas/ 
+Ministerio de Medio Ambiente. (Marzo, 2025). Mapa de Especies. Atlas de Riesgos Climáticos 
+para 
+Chile, 
+Ministerio 
+de 
+Medio 
+Ambiente. 
+https://arclim.mma.gob.cl/biodiversity/home/ 
+Ministerio del Medio Ambiente. 2018. Biodiversidad de Chile. Patrimonio y Desafíos. Tercera 
+Edición. Tomo I, 440 páginas. Santiago de Chile. 
+MINSEGPRES. Decreto Supremo N° 29/2012. Aprueba reglamento para la clasificación de 
+especies silvestres. Ministerio secretaria general de la Presidencia. Santiago, Chile. 
+MINSEGPRES. Decreto Supremo Nº 151/2007. Chile. Oficializa primera clasificación de 
+especies silvestres según su estado de conservación. Ministerio Secretaría General de la 
+Presidencia. Santiago, Chile. Diario Oficial, 24 de marzo de 2007. 
+
+===== p.104 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 105 de 108 
+ 
+MINSEGPRES. Decreto Supremo Nº 50/2008. Chile. Aprueba y oficializa nómina para el 
+segundo proceso de clasificación de especies según su estado de conservación. 
+Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 30 de 
+junio de 2008. 
+MINSEGPRES. Decreto Supremo Nº 51/2008. Chile. Aprueba y oficializa nómina para el tercer 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 30 de junio de 
+2008. 
+MINSEGPRES. Decreto Supremo Nº 23/2009. Chile. Aprueba y oficializa nómina para el 
+cuarto proceso de clasificación de especies según su estado de conservación. 
+Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 7 de 
+mayo de 2009. 
+MMA. Decreto Supremo N° 33/2011. Chile. Aprueba y oficializa nómina para el quinto 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 27 de febrero de 
+2012. 
+MMA. Decreto Supremo N° 41/2011. Chile. Aprueba y oficializa nómina para el sexto 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 11 de abril de 
+2012. 
+MMA. Decreto Supremo N° 42/2011. Chile. Aprueba y oficializa nómina para el séptimo 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 11 de abril de 
+2012. 
+MMA. Decreto Supremo N° 19/2012. Chile. Aprueba y oficializa nómina para el octavo 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 11 de febrero de 
+2013. 
+MMA. Decreto Supremo N° 13/2013. Chile. Aprueba y oficializa nómina para el noveno 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 25 de julio de 
+2013. 
+MMA. Decreto supremo N° 52/2014. Chile. Aprueba y oficializa nómina para el décimo 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+del Medio Ambiente. Santiago, Chile. Diario oficial, 29 de agosto de 2014. 
+MMA. Decreto supremo N° 38/2015. Chile. Aprueba y oficializa nómina para el undécimo 
+proceso de clasificación de especies según su estado de conservación. Ministerio del Medio 
+Ambiente. Santiago, Chile. Diario oficial, 04 de diciembre de 2015. 
+
+===== p.105 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 106 de 108 
+ 
+MMA. Decreto Supremo N° 16/2016. Chile. Aprueba y oficializa nómina para el duodécimo 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+del Medio Ambiente. Santiago, Chile. Diario oficial, 30 de septiembre de 2016. 
+MMA. Decreto Supremo N° 6/2017. Chile. Aprueba y oficializa nómina para el décimo tercer 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+del Medio Ambiente. Santiago, Chile. Diario oficial, 02 de junio de 2017. 
+MMA. Decreto Supremo N° 79/2018. Chile. Aprueba y oficializa nómina para el décimo 
+cuarto proceso de clasificación de especies según su estado de conservación. 
+Ministerio del Medio Ambiente. Santiago, Chile. Diario oficial, 19 de diciembre de 
+2018. 
+MMA. Decreto Supremo N° 23/2019. Chile. Aprueba y oficializa nómina para el décimo 
+quinto proceso de clasificación de especies según su estado de conservación. 
+Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 10 de 
+julio de 2020. 
+MMA. Decreto Supremo N° 16/2020. Chile. Aprueba y oficializa nómina para el décimo sexto 
+proceso de clasificación de especies según su estado de conservación. Ministerio 
+Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 27 de octubre 
+de 2020. 
+MMA. Decreto Supremo N° 44/2021. Chile. Aprueba y oficializa nómina para el décimo 
+séptimo proceso de clasificación de especies según su estado de conservación. 
+Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 30 de 
+diciembre de 2021. 
+MMA. Decreto Supremo N° 10/2023. Chile. Aprueba y oficializa nómina para el décimo 
+octavo proceso de clasificación de especies según su estado de conservación. 
+Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 06 de 
+octubre de 2023. 
+MMA. Decreto Supremo N° 2/2024. Chile. Aprueba y oficializa nómina para el décimo 
+noveno proceso de clasificación de especies según su estado de conservación. 
+Ministerio Secretaría General de la Presidencia. Santiago, Chile. Diario oficial, 07 de 
+mayo de 2024. 
+Pliscoff, P.; Uribe, D., 2020. Informe Proyecto ARClim: Biodiversidad. Centro de Cambio 
+Global UC coordinado por Centro de Ciencia del Clima y la Resiliencia y Centro de 
+Cambio Global UC para el Ministerio del Medio Ambiente a través de La Deutsche 
+Gesellschaft für Internationale Zusammenarbeit (GIZ). Santiago. 
+SEA, 2023. Guía metodológica para la consideración del cambio climático en el SEIA. 
+Primera edición, Santiago, Chile. 
+
+===== p.106 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 107 de 108 
+ 
+SEA, 2024. Guía para la descripción del Área de estudio. Descripción de los componentes 
+Suelo, Flora y Fauna de Ecosistemas Terrestres en el SEIA. Editorial SEA. 98 pp. 
+Teillier, S. (2006). Flora vascular. En Comisión Nacional de Medio Ambiente (CONAMA) (Ed.). 
+Biodiversidad de Chile: patrimonios y desafíos (pp.310-339). Santiago, Chile: 
+CONAMA. 
+Zuloaga, F., Morrone, O. y Belgrano, M. (eds.) 2008a. Catálogo de las Plantas Vasculares del 
+Cono Sur (Argentina, Sur de Brasil, Chile, Paraguay y Uruguay). Volumen 1. 
+Pteridophyta, Gymnospermae y Monocotyledoneae. Monographs in Systematic 
+Botany from the Missouri Botanical Garden 107: 1-983. 
+Zuloaga, F., Morrone, O. y Belgrano, M. (eds.) 2008b. Catálogo de las Plantas Vasculares del 
+Cono Sur (Argentina, Sur de Brasil, Chile, Paraguay y Uruguay). Volumen 2. 
+Dicotyledoneae: 
+Acanthaceae 
+– 
+Fabaceae 
+(Abarema 
+– 
+Schizolobium). 
+Monographs in Systematic Botany from the Missouri Botanical Garden 107: 985-2286. 
+Zuloaga, F., Morrone, O. y Belgrano, M. (eds.) 2008c. Catálogo de las Plantas Vasculares del 
+Cono Sur (Argentina, Sur de Brasil, Chile, Paraguay y Uruguay). Volumen 3. Dicotyledoneae: 
+Fabaceae (Senna - Zygia) – Zygophyllaceae. Monographs in Systematic Botany from the 
+Missouri Botanical Garden 107: 2287-334 
+ 
+ 
+ 
+
+===== p.107 =====
+Proyecto Centro Metropolitano de Gestión Integral de Residuos - CMGIR 
+Informe de Línea de Base de Flora y Vegetación Vascular Terrestre - 
+Consolidado 
+ 
+ 
+ 
+Página 108 de 108 
+ 
+7. 
+ANEXOS 
+ANEXO 1. Listado de profesionales durante las campañas de invierno y primavera (2024) y 
+verano y otoño (2025). 
+ANEXO 2. Puntos de muestreo durante las campañas (invierno, primavera, verano y otoño). 
+ANEXO 3. Riqueza florística total en el área de estudio. 
+ANEXO 4. Base de datos flora y vegetación consolidado de las campañas de invierno, 
+primavera, verano y otoño. 
+ANEXO 5. Puntos de muestreo consolidado de las campañas realizadas. 
+ANEXO 6. Cartografía de Ocupación de Tierras (COT) del Área de estudio del Proyecto.  
+ANEXO 7. Plantilla Darwin Core consolidado de las campañas de invierno, primavera, 
+verano y otoño. 
+ANEXO 8. NDVI y ortofoto 2023 
+ 
+ 
+ 
+ 
+A 
+15x 

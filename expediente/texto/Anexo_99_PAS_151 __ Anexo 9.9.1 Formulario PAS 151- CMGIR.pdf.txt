@@ -1,0 +1,3087 @@
+
+===== p.0 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 1 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N° 
+ 
+ 
+Fecha  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Uso CONAF) 
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL 
+PAS 1511  
+ 
+1. 
+ANTECEDENTES DEL O LOS PREDIOS OBJETO DE INTERVENCIÓN 
+ 
+1.1. 
+Individualización del interesado/a 
+Nombre o razón social 
+interesado/a: 
+CENTRO METROPOLITANO DE GEST
+INTEGRAL DE RESIDUOS 
+RUT: 
+96.827.370-1 
+Correo electrónico: 
+ 
+Fono: 
+ 
+Tipo de interesado: 
+Manejo integral de residuos y recolección 
+ 
+1.2. 
+Resolución de calificación ambiental: 
+Nombre del proyecto: 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+N° RCA aprobada: 
+Proyecto en etapa de tramitación ambiental 
+Región: 
+ 
+Fecha: 
+ 
+Enlace a RCA: 
+http:// 
+ 
+1.3. 
+Antecedentes generales del/de los predio/s.  
+Nombre del predio: 
+Ver Tabla 1 
+Predio N°: 
+Ver Tabla 1 
+Nombre o razón social del 
+propietario/a: 
+Ver Tabla 1 
+RUT: 
+Ver Tabla 1 
+Región: 
+Ver Tabla 1 
+Provincia: 
+Ver Tabla 1 
+Rol de avalúo N°: 
+Ver Tabla 1 
+Comuna: 
+Ver Tabla 1 
+Superficie total del predio (ha), según: 
+Título de dominio: 
+Ver Tabla 3
+ 
+ 
+Estudio Técnico: 
+Ver Tabla 3 
+ 
+ 
+Tabla 1. Antecedentes del predio 
+N° 
+predio 
+Nombre del predio 
+Nombre del 
+propietario 
+Rol de 
+Avalúo 
+Comuna 
+Provinci
+a 
+Región 
+1 
+Rayo de Mar 
+Quiscal S.A. 
+5022-02 
+Viña del 
+Mar 
+Valparaí
+so 
+Valparaí
+so 
+2 
+PC 22 - 23 SC E EX HDA 7 
+HERMANAS  
+Quiscal S.A. 
+5026-17 
+Viña del 
+Mar 
+Valparaí
+so 
+Valparaí
+so 
+ 
+ 
+ 
+ 
+1 Para dar cumplimiento a lo dispuesto en el artículo 151° del D.S. N° 40, de 2012, del Ministerio del Medio Ambiente 
+y el artículo 60° de la Ley N° 20.283 sobre Recuperación del Bosque Nativo y Fomento Forestal. 
+
+===== p.1 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 2 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+ 
+Coordenadas UTM (Datum WGS 84): 
+Huso:  
+ 
+ 
+Tabla 2. Coordenadas referencia predios 
+N° predio 
+Señalar punto de referencia 
+N 
+E 
+1 
+Centro del polígono 
+6.338.300,85 
+268.685,61 
+2 
+Centro del polígono 
+6.337.045,73 
+266.787,17 
+ 
+Tabla 3. Superficies prediales 
+N° Predio 
+Título de dominio 
+Servicio Impuestos 
+Internos 
+Estudio Técnico 
+1 
+S/I 
+S/I 
+1.392,34 
+2 
+S/I 
+S/I 
+161,94 
+S/I. Sin información, se establecerá durante la tramitación sectorial, conforme a la obtención de la RCA favorable 
+ 
+Tabla 4. Vías de acceso, según predio 
+N° 
+predio 
+Vías de acceso 
+1 
+El acceso al predio se encuentra en la comuna Viña del Mar, por ruta 60, el ingreso es en el portón de acceso 
+a la Subestación Eléctrica Agua Santa. Se debe seguir el camino interior a la izquierda de dicha subestación 
+por aproximadamente 11 km. 
+2 
+El acceso al predio se encuentra en la comuna Viña del Mar, por ruta 60, el ingreso es en el portón de acceso 
+a la Subestación Eléctrica Agua Santa. Se debe seguir el camino interior a la izquierda de dicha subestación 
+por aproximadamente 11 km. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.2 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 3 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+2. 
+DESCRIPCIÓN DE LAS OBRAS ASOCIADAS A LA INTERVENCIÓN 
+ 
+2.1. 
+Tipología del proyecto  
+ 
+Tipología principal: 
+o.5. Sistemas o plantas de tratamiento y/o eliminación de residuos 
+sólidos de origen domiciliario, que cumplan al menos alguna de las 
+siguientes condiciones: 
+Tipología secundaria 2: 
+o.5.1. Sistemas o plantas de eliminación de residuos sólidos de origen 
+domiciliario, incluidos los rellenos sanitarios, con una tasa de ingreso 
+igual o mayor a treinta toneladas día (30 t/día). 
+ 
+o.5.2. Sistemas o plantas de tratamiento de residuos sólidos de origen 
+domiciliario, incluidas las plantas de compostaje y las de biodigestión, 
+con una tasa de ingreso igual o mayor a cincuenta toneladas día (50 
+t/día). 
+Tipología principal: 
+o.7 Sistemas de tratamiento y/o eliminación de residuos industriales 
+líquidos que cumplan al menos alguna de las siguientes condiciones: 
+Tipología secundaria 3: 
+o.7.1. Que sus efluentes sin tratar se usen para el riego, aspersión y 
+humectación de terrenos o caminos, o se utilicen para el mismo efecto 
+efluentes tratados, en cumplimiento de la respectiva norma de emisión, 
+en una cantidad igual o mayor a cincuenta metros cúbicos día (50 m³/día) 
+ 
+o.7.2. Traten un caudal de efluentes líquidos igual o superior a ciento 
+sesenta metros cúbicos día (160 m³/día) 
+ 
+2.2. 
+Descripción de las obras  
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos” consiste en la construcción y operación de 
+una instalación integral para el tratamiento de los residuos sólidos mediante compostaje, reciclaje y disposición 
+final de residuos sólidos domiciliarios e industriales asimilables. El Centro se ubicará en el kilómetro 102,5 de 
+la Ruta 60 - Troncal Sur (uniendo las comunas de Viña del Mar y Quilpué en la Región de Valparaíso), y abarca 
+un área total de emplazamiento de 63,10 hectáreas insertas dentro de un predio de 206 hectáreas, en el caso 
+del camino de acceso este posee una superficie de 8,8 hectárea. 
+Para su funcionamiento, el Proyecto cuenta con unidades segregadas: Zona de Instalaciones Operacionales y 
+Administrativas, Zona de Compostaje, Zona de Reciclaje, Zona de Tratamiento de Lixiviados, Zona de 
+Tratamiento de Biogás y la Zona de Disposición de Residuos. 
+La habilitación de la Zona de Disposición de Residuos (vaso) y la zona de manejo de lixiviados no se ejecutará 
+en su totalidad durante la fase de construcción inicial, sino que será intervenida de manera progresiva durante 
+la fase de operación de acuerdo con Plan de Crecimiento del Proyecto. Esta superficie se ha subdividido en 3 
+etapas de desarrollo a lo largo de sus 25 años de vida útil. 
+Bajo esta configuración escalonada, durante la operación del proyecto se espera recibir 30.741.988 toneladas 
+de residuos sólidos, prestando servicio principalmente a la población de las comunas de la Región de 
+Valparaíso, con una tasa inicial de 2.500 ton/día. 
+Las obras y superficies del proyecto se listan a continuación en la Tabla 6: 
+ 
+Tabla 6. Obras y superficies del proyecto. 
+Zonas 
+N° 
+Descripción 
+Superficie 
+[m²] 
+1 
+Caseta control de acceso 1 
+9,76  
+ 
+2 Según artículo 3° del D.S. N° 40/2012 MMA. 
+3 Según artículo 3° del D.S. N° 40/2012 MMA. 
+
+===== p.3 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 4 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Zona de Instalaciones Operacionales y 
+Administrativas 
+2 
+Camino acceso desde Ruta 60 – 
+Troncal Sur 
+77.304,00  
+3 
+Caseta control de acceso 2 
+9,76  
+4 
+Caseta de pesaje 
+7,32  
+5 
+Báscula de pesaje 
+86,00  
+6 
+Oficinas administrativas y operativas 
+275,77  
+7 
+Galpón losa lavado de camiones 
+79,98  
+8 
+Galpón de mantención 
+539,73  
+9 
+Estacionamientos 
+1.233,00  
+10 
+Caminos interiores 
+29.056,39  
+11 
+Bodega 
+RESPEL 
+galpón 
+de 
+mantención 
+8,64  
+Zona de compostaje 
+12 
+Zona de trincheras 
+6.031,00  
+13 
+Cancha 
+acopio 
+material 
+estructurante 
+1.117,00  
+14 
+Galpón compostaje 
+2.173,40  
+15 
+Oficinas compostaje 
+36,78  
+Zona de reciclaje 
+16 
+Galpón de reciclaje 
+2.557,10  
+17 
+Oficina reciclaje 
+49,10  
+18 
+Cancha contenedores reciclaje 
+969,00  
+Zona de disposición de residuos 
+19 
+Berma perimetral 
+35.433,64  
+20 
+Celda relleno sanitario 
+449.951,13  
+Zona de tratamiento de lixiviados 
+21 
+Bandejas evaporación 
+13.110,00  
+22 
+Piscinas de lixiviados 
+7.399,00  
+23 
+Planta tratamiento lixiviados 
+1.058,00  
+24 
+Bodega 
+RESPEL 
+tratamiento 
+lixiviados 
+8,64  
+25 
+Oficina planta tratamiento lixiviados 
+49,77  
+Zona de tratamiento de biogás 
+26 
+Planta tratamiento biogás 
+2.418,00  
+27 
+Oficina planta tratamiento biogás 
+41,84  
+Total 
+631.013,75 
+ 
+ 
+ 
+ 
+3. 
+DESCRIPCIÓN DEL ÁREA Y DE LA FORMACIÓN XEROFÍTICA A INTERVENIR 
+ 
+3.1. 
+Suelo 
+ 
+4 Se deben definir los sectores de acuerdo a los siguientes rangos de pendiente: 0 - 10%, 10 - 30%, 30% - 45%. 
+Predio N° 
+N° 
+sector 
+Superficie 
+Sector (ha) 
+Rango Pendiente 
+(%)4 
+Suelo granítico 
+(si/no) 
+Grado de Erosión 
+1 
+1 
+69,86 
+10-30 
+no 
+Moderada 
+1 
+4 
+4,05 
+10-30 
+no 
+Moderada 
+1 
+2 
+0,06 
+10-30 
+no 
+Moderada 
+2 
+3 
+8,33 
+10-30 
+no 
+Severa 
+Observaciones: 
+Los sectores 1,2,3 y 4 corresponden a las obras identificadas en la cartografía con el mismo número 
+correlativo: CMGIR, Movimiento tierra camino, Franja cortafuego e Instalación de faena 
+respectivamente. 
+
+===== p.4 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 5 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+3.2. 
+Hidrografía 
+Predio 
+Nº 
+Área  
+Nº 
+ 
+Masas o cursos de agua 
+ 
+Temporalidad 
+Distancia al 
+área a 
+intervenir (m) 
+Ancho 
+del cauce 
+(m) 
+1 
+1 
+Q1 
+Temporal 
+0 
+2 
+1 
+1 
+Q1.1.15 
+Temporal 
+0 
+2 
+1 
+1 
+Q1.1.16 
+Temporal 
+0 
+2 
+1 
+1 
+Q1.1.17 
+Temporal 
+0 
+2 
+1 
+1 
+Q2 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.10 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.11 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.12 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.13 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.14 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.5 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.6 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.1.9 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.2 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.2.1 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.2.3 
+Temporal 
+0 
+2 
+1 
+1 
+Q2.2.4 
+Temporal 
+0 
+2 
+1 
+1 
+Q3.1.15 
+Temporal 
+0 
+2 
+2 
+2 
+Q3 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q3.1.3 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q3.1.7 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q3.2.4 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q3.2.4 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q4 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q5 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q6 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q7 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q7 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q8 
+Temporal 
+0 
+1,5 
+ 
+Factores limitantes del suelo: 
+Pendiente, Franco Arenoso 37,85 ha; Franco Arcillo Arenoso 33, 61 ha. 
+ 
+ 
+
+===== p.5 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 6 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Predio 
+Nº 
+Área  
+Nº 
+ 
+Masas o cursos de agua 
+ 
+Temporalidad 
+Distancia al 
+área a 
+intervenir (m) 
+Ancho 
+del cauce 
+(m) 
+2 
+2 
+Q9 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q10 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q11 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q12 
+Temporal 
+0 
+1,5 
+2 
+2 
+Q13 
+Temporal 
+0 
+1,5 
+ 
+3.3. 
+Especies de fauna en categoría de conservación 
+Predio Nº 
+Especies 
+Categoría de conservación 
+1 
+Falco peregrinus 
+LC 
+1 
+Liolaemus lemniscatus 
+LC 
+1 
+Liolaemus fuscus 
+LC 
+1 
+Liolaemus chiliensis 
+LC 
+1 
+Liolaemus tenuis 
+LC 
+1 
+Phylodryas chamissonis 
+LC 
+1 
+Pleurodema thaul 
+NT 
+1 
+Lycalopex culpaeus 
+VU 
+1 
+Tadarida brasiliensis 
+LC 
+1 
+Histiotus montanus 
+LC 
+1 
+Histiotus macrotus 
+LC 
+1 
+Lasiurus varius 
+LC 
+1 
+Myotis arescens 
+LC 
+ 
+3.4. 
+Información sobre la formación xerofítica a intervenir 
+ 
+a) Descripción y justificación de la metodología de muestreo5 
+ 
+Fecha de muestreo: 30 de marzo al 02 abril de 2026 
+Descripción: 
+ 
+Se realizó un muestreo aleatorio en los estratos identificados en la línea de base como “Matorrales” que 
+tuvieran al menos 40 m de ancho y una superficie mínima de 1 ha. Sobre ellos se aplicaron parcelas de 
+inventario forestal de 500 m2 para cuantificar la densidad mínima de 400 indv/ha de especies nativas 
+de acuerdo al D N° 68/2009, del Ministerio de Agricultura 
+ 
+ 
+ 
+ 
+5 Entregar archivo en formato Excel con la información de las parcelas del inventario y estadígrafos asociados, con 
+sus coordenadas de inicio y final (o coordenada central), las que deben quedar señaladas en terreno con pintura 
+visible y permanente. 
+
+===== p.6 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 7 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Justificación de la metodología: 
+ 
+En formaciones xerofíticas la densidad de individuos arbóreos y arbustivos varía gradualmente en 
+función de la disponibilidad hídrica, edáfica y la exposición, sin transiciones bruscas dentro de un mismo 
+tipo fisonómico. Esta variación continua y de baja frecuencia espacial es precisamente el escenario para 
+el cual el MAS produce estimadores eficientes, ya que el error de muestreo depende principalmente de 
+la varianza global de la población y no de una estructura espacial que requeriría otros diseños de 
+muestreo. Bajo distribución aleatoria o levemente agregada, el MAS produce estimadores insesgados y 
+con varianza mínima entre los diseños simples disponibles (Krebs 1999; Southwood & Henderson 2000). 
+ 
+b) Descripción cualitativa de la formación xerofítica 
+ 
+ 
+Las principales formaciones vegetacionales que cumplen con lo establecido en la Ley N°20.283 para ser 
+clasificadas como formaciones xerofíticas fueron: 
+ 
+- 
+Matorral con suculentas de Puya berteroniana y Colliguaja odorífera 
+- 
+Matorral de Puya chilensis y Colliguaja odorífera 
+- 
+Matorral de Chusquea cumingii 
+- 
+Matorral de Colliguaja odorifera 
+- 
+Matorral de Colliguaja odorifera y Chusquea cumingii  
+ 
+La descripción detallada de cada una de ellas se encuentra en el capítulo 3 en la Línea de Base de Flora 
+y Vegetación (vascular). 
+ 
+ 
+ 
+ 
+ 
+c) Composición de especies por sector 
+ 
+Predio N°_1____ Sector N°__1,2,3,4____ 
+ 
+Nombre 
+científico 
+especie 
+Hábito 
+Dispone de 
+métodos de 
+propagación 
+documentado
+s (si/no) 
+Fuente de 
+información 
+que 
+documenta 
+método de 
+propagación 
+Densidad 
+(Ind./ha) 
+Subtotal 
+densidad 
+(Ind./ha) 
+Subtotal 
+Cobertura 
+(%) 
+En nómina 
+de 
+especies6 
+Adesmia 
+loudonia 
+Arbusto 
+No 
+N/A 
+800 
+20.960 
+40% 
+Azara 
+celastrina 
+Arbusto 
+No 
+N/A 
+140 
+Baccharis 
+linearis 
+Arbusto 
+Si 
+Sánchez 
+Villegas, O. 
+Ensayo de 
+propagación 
+vegetativa 
+mediante 
+estacas de 
+Baccharis 
+linearis. 
+Universidad 
+de Talca 
+1.000 
+Chusquea 
+cumingii 
+Arbusto 
+No 
+N/A 
+15.460 
+ 
+6 D.S. N°68, de 2009, del Ministerio de Agricultura. 
+
+===== p.7 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 8 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Flourensia 
+thurifera 
+Arbusto 
+No 
+N/A 
+300 
+Lithraea 
+caustica 
+Árbol 
+Si 
+Serra, M. T., 
+Cabello, A., & 
+Gajardo, R. 
+(1986). 
+Propagación 
+de especies 
+nativas 
+chilenas para 
+programas de 
+restauración. 
+Boletín 
+Técnico 
+CONAF, 12, 1–
+45. 
+880 
+Lobelia 
+excelsa 
+Arbusto 
+No 
+N/A 
+180 
+Peumus 
+boldus 
+Árbol 
+Si 
+Cabello, A., 
+Seemann, P., 
+Grez, I., & 
+Montenegro, 
+G. (1991). 
+Propagation 
+of boldo 
+(Peumus 
+boldus Mol.) 
+by stem 
+cuttings. 
+Journal of 
+Horticultural 
+Science, 66(3), 
+337–340. 
+80 
+Podanthu
+s mitiqui 
+Arbusto 
+No 
+N/A 
+520 
+Puya 
+berteronia
+na 
+Suculenta 
+Si 
+Riedemann, 
+P., & 
+Aldunate, G. 
+(2014). Flora 
+nativa de valor 
+ornamental. 
+Identificación 
+y propagación. 
+Santiago, 
+Chile: 
+Fundación 
+Claudio Gay. 
+240 
+Puya 
+chilensis 
+Suculenta 
+Si 
+Riedemann, 
+P., & 
+Aldunate, G. 
+(2014). Flora 
+nativa de valor 
+ornamental. 
+Identificación 
+y propagación. 
+Santiago, 
+Chile: 
+Fundación 
+Claudio Gay. 
+560 
+Quillaja 
+saponaria 
+Árbol 
+Si 
+Prehn, D., 
+Serrano, C., 
+Berríos, C. G., 
+& Arce-
+Johnson, P. 
+(2003). 
+Micropropaga
+140 
+
+===== p.8 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 9 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ción de 
+Quillaja 
+saponaria Mol. 
+a partir de 
+semillas. 
+Bosque, 24(2), 
+3–12 
+Schinus 
+latifolia 
+Árbol 
+Si 
+León-Lobos, 
+P., Way, M., 
+Aranda, P., & 
+Lima, C. 
+(2012). 
+Manual para 
+la 
+propagación 
+de plantas 
+nativas de la 
+zona central 
+de Chile. 
+Santiago, 
+Chile: Instituto 
+de Ecología y 
+Biodiversidad 
+(IEB). 
+640 
+Schinus 
+polygama 
+Árbol 
+Si 
+León-Lobos, 
+P., Way, M., 
+Aranda, P., & 
+Lima, C. 
+(2012). 
+Manual para 
+la 
+propagación 
+de plantas 
+nativas de la 
+zona central 
+de Chile. 
+Santiago, 
+Chile: Instituto 
+de Ecología y 
+Biodiversidad 
+(IEB). 
+20 
+ 
+ 
+ 
+ 
+ 
+Total 
+sectores: 
+20.960 
+40% 
+ 
+ 
+Observaciones: 
+ 
+Para estos efectos, se consideraron las densidades de todas las especies presentes en la nómina del D. 
+N°68/2009, del Ministerio de Agricultura, tanto árboles, arbustos y suculentas. De manera práctica, y 
+considerando las superficies acotadas de las obras del proyecto, se presentaron los 4 sectores de 
+manera conjunta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d) Especies de flora singular, representativa y/o en categoría de conservación 
+Predio 
+N° 
+Sector 
+N° 
+Especie 
+En nómina de 
+especies (si/no) 
+Valor 
+Singular/ 
+Representativa 
+Categoría de 
+conservación 
+N° de Decreto 
+MMA 
+
+===== p.9 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 10 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones generales: 
+ 
+Para las áreas de intervención del PAS 151, ninguna de las especies estudiadas se encuentra en 
+categoría de conservación de acuerdo al 19° proceso de clasificación de especies. 
+ 
+ 
+ 
+e) Localización y valor ambiental del territorio 
+Predio 
+N° 
+Sector 
+N° 
+Próximo a: 
+Poblaciones 
+Recursos 
+protegidos 
+Áreas 
+protegidas 
+Sitios 
+prioritarios 
+para la 
+conservación 
+Humedales 
+protegidos 
+Glaciares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proximidad y descripción: 
+ 
+Ninguna de las áreas de intervención del PAS 151 se localiza en un territorio con valor ambiental 
+ 
+ 
+f) Emplazamiento en áreas de protección de la Ley N° 18.378 
+Decreto N° 
+Año decreto 
+Predio(s) N° 
+Sector (es) N° 
+Área (s) de 
+revegetación N° 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones: 
+Ninguna de las áreas de intervención del PAS 151 se localiza en áreas de protección de la Ley N° 18.378 
+ 
+ 
+4. 
+OBJETIVO Y CALENDARIO DE ACTIVIDADES 
+ 
+4.1. 
+Objetivo del plan de trabajo 
+La intervención tiene como objetivo el despeje completo de la vegetación para la habilitación de obras  
+y partes que conforman el Proyecto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2. 
+Calendario de actividades 
+ 
+a) Obras de carácter temporal 
+Tipo de 
+obra 
+Actividad 
+Descripción de la 
+actividad 
+Predio(s) 
+N° 
+Sector 
+(es) N° 
+Superficie a 
+intervenir (ha) 
+Año de 
+intervención  
+Inicio 
+Término 
+
+===== p.10 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 11 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Descripción: 
+El proyecto no contempla obras de carácter temporal que intervengan formaciones vegetacionales 
+reguladas por el PAS 151. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b) Obras de carácter permanente 
+Tipo de 
+obra 
+Actividad 
+Descripción de 
+la actividad 
+Predio(s) 
+N° 
+Sector 
+(es) N° 
+Superficie a 
+intervenir 
+(ha) 
+Año de 
+intervención  
+Inicio 
+Término 
+CMGIR 
+Descepado Descepado de 
+la 
+cobertura 
+vegetal 
+1 
+1 
+36,16 
+2030 
+2045 
+Camino 
+Descepado Descepado de 
+la 
+cobertura 
+vegetal 
+1,2 
+3 
+3,06 
+2030 
+2031 
+Cortafuegos Descepado Descepado de 
+la 
+cobertura 
+vegetal 
+1 
+4 
+1,82 
+2031 
+2045 
+ 
+Descripción: 
+Para la habilitación de todas las obras señaladas se requiere la intervención de 41,04 ha de formaciones 
+xerofíticas. 
+ 
+ 
+ 
+5. 
+ACTIVIDADES DE REVEGETACIÓN DE ESPECIES NATIVAS  
+ 
+Estos antecedentes se presentarán durante la tramitación sectorial una vez aprobada la RCA. 
+ 
+5.1. 
+Antecedentes del predio(s) (si es distinto al predio de corta)  
+ 
+Nombre o razón social del 
+propietario/a: 
+ 
+RUT: 
+ 
+Nombre del predio: 
+ 
+Predio N°: 
+ 
+Región: 
+ 
+Provincia: 
+ 
+Rol de avalúo N°: 
+ 
+Comuna: 
+ 
+ 
+Superficie total del predio (ha), según: 
+Título de dominio: 
+ 
+ 
+ 
+Estudio Técnico: 
+ 
+ 
+
+===== p.11 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 12 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Coordenadas UTM (Datum WGS 84): 
+Huso:  
+ 
+ 
+Punto de referencia 
+Coordenadas UTM 
+Este (m) 
+Norte (m) 
+Acceso predial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vías de acceso al predio y datos de contacto: 
+ 
+ 
+ 
+5.2. 
+Descripción cualitativa de las áreas de revegetación 
+ 
+Descripción general: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.3. 
+Características del suelo en las áreas de revegetación 
+ 
+Predio 
+N° 
+Área 
+N° 
+Superficie 
+(ha) 
+Clase de capacidad 
+de uso 
+Rango de 
+pendiente 
+(%) 
+Grado 
+de 
+erosión 
+Profundidad 
+(cm) 
+Exposición 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.4. 
+Factores limitantes de las áreas propuestas para la actividad de revegetación 
+ 
+Descripción general: 
+ 
+ 
+ 
+ 
+ 
+5.5. 
+Actividades para el establecimiento y desarrollo de la revegetación: 
+ 
+Actividad 
+Descripción de la actividad 
+Predio(s) N° 
+Área(s) N° 
+Año 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones: 
+ 
+ 
+ 
+
+===== p.12 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 13 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+5.6. 
+Calendario de la revegetación 
+ 
+Predio N° 
+Área N° 
+Superficie (ha) 
+Especie(s) 
+Densidad 
+(ind./ha.) 
+Año 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones:  
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.13 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 14 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+6. 
+EFECTO LOCAL DE LA INTERVENCIÓN 
+ 
+ 
+a.- Humedales, cuerpos y cursos de agua: 
+El proyecto no considerara la intervención de humedales y cuerpos de agua. Respecto a los cursos de 
+agua, son de carácter estacional, relacionados a quebradas propias de la topografía del sector en 
+estudio.  
+ 
+ 
+ 
+b.- Suelos: 
+El proyecto no considera la intervención de suelos agrícolas. 
+ 
+ 
+ 
+c.- Diversidad biológica: 
+Respecto a la diversidad biológica, el proyecto no genera efectos negativos, dado que todas las 
+especies se encuentran ampliamente representadas, tanto en el área de estudio como a nivel 
+regional, sin intervenir especies en categoría de conservación. 
+ 
+ 
+ 
+ 
+  
+7. 
+MEDIDAS DE PROTECCIÓN AMBIENTAL 
+ 
+Todas las medidas establecidas en este capítulo deben ser pertinentes, verificables, medibles y 
+cuantificables, para efectos de su fiscalización.  
+ 
+Aquellas medidas que sean graficables, deberán ser representadas en la cartografía adjunta a una escala 
+adecuada para su comprensión, señalando explícitamente la dimensión, cabida y localización de las 
+mismas. 
+ 
+7.1. 
+Medidas para la protección de humedales, cuerpos y cursos de agua:  
+- 
+Prohibición de depositar el material o desecho de la corta en sectores próximos a quebradas o 
+cursos de agua, con el fin de no provocar atascamientos de agua. 
+- 
+Los desechos vegetales provenientes de las cortas serán eliminados mediante transporte a 
+botaderos autorizados, para evitar su arrastre a cursos de agua en caso de eventos de 
+precipitaciones extremos. 
+- 
+Prohibición de botar o enterrar residuos de cualquier índole en zonas de cursos de aguas 
+temporales o permanentes. 
+- 
+Todos los desechos, serán depositados en contenedores de basura adecuados y debidamente 
+señalizados. Esto incluye: las áreas de trabajo, baños químicos o cualquier fuente de 
+contaminación de manera de evitar cualquier tipo de afectación en la calidad de las aguas que 
+pueda pasar con posterioridad a la construcción de las obras. 
+- 
+Prohibición de disposición y almacenaje de residuos peligrosos y asimilables a domiciliarios. 
+- 
+Se prohibirá el uso del fuego y quemas de cualquier tipo. 
+- 
+Se prohibirá el lavado de equipos y maquinarias en el frente de trabajo. 
+- 
+Todos los residuos del funcionamiento de maquinarias, mantención y/o reparación deberán ser 
+depositados en contenedores herméticos, transportados y eliminados como residuos 
+peligrosos. 
+- 
+Se dispondrá de áreas exclusivas para el manejo de combustibles y materiales contaminantes, 
+las que estarán debidamente señalizadas y contarán con una capa protectora y aislante, de 
+manera de evitar la contaminación por derrame e infiltración de combustible a las napas 
+
+===== p.14 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 15 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+freáticas. Además, la mantención de maquinaría y vehículos en general se deberá realizar en 
+lugares habilitados para esto, fuera de los frentes de trabajo. 
+- 
+Se evitará que los materiales producto de la construcción y remoción de suelos se depositen 
+sobre estas zonas. Todo material edáfico extraído, será depositado en sectores alejados de 
+cursos de agua y donde no entorpezca el cauce natural del agua o escorrentía que se observa 
+durante eventos de lluvia. 
+- 
+Se desarrollarán capacitaciones al personal, alusivas a la protección de los cursos de agua 
+cercanos, al tránsito sólo por áreas previamente delimitadas, al uso de las zonas exclusivas de 
+recarga de combustible y eliminación de desechos y materiales contaminantes ya sea líquidos 
+o sólidos; y todas aquellas acciones que eviten degradar el recurso hídrico. Para ello se 
+realizarán charlas previas a todo el personal en faena, las cuales se presentarán a través de 
+métodos visuales para su adecuado reconocimiento y, como se ha mencionado, se mantendrá 
+registro de ello. 
+- 
+Tanto el diseño como la construcción de obras considera no obstruir el libre escurrimiento de 
+los cauces naturales de aguas y manantiales. 
+- 
+En la fase de operación, el material o desecho de corta que se obtenga de la intervención de las 
+superficies definidas en el plan de Crecimiento del Proyecto será derivada a la planta de 
+compostaje en el mismo proyecto. 
+ 
+ 
+7.2. 
+Medidas para la protección de suelos 
+- 
+Todas las actividades relacionadas con la corta de formaciones xerofíticas serán restringidas 
+estrictamente a las áreas de intervención solicitadas en el presente documento, con el objetivo 
+de evitar la libre circulación por zonas no autorizadas, minimizar la compactación, erosión y 
+contaminación del suelo de sectores adyacentes. Para ello se delimitará el área de trabajo y se 
+capacitará previamente al personal informando de cual será esta superficie. 
+- 
+Durante las faenas de intervención, no se permitirá al personal de terreno, mantener 
+almacenado, ni botar o enterrar en el suelo basuras ni otro tipo de residuos líquidos o sólidos 
+(tales como bolsas y envases plásticos, etc.). Todos los desechos, ya sea minerales u orgánicos 
+serán depositados en contenedores de basura adecuados y debidamente señalizados. 
+- 
+El tránsito de vehículos y equipo pesado se realizará sólo por áreas delimitadas (caminos de 
+acceso definidos y habilitados), razón por la cual se minimizará la compactación de suelos 
+producto del tránsito vehicular. 
+- 
+Se desarrollarán capacitaciones anuales al personal, alusivas a la protección del suelo, al tránsito 
+sólo por áreas previamente delimitadas, al uso de las zonas exclusivas de recarga de 
+combustible y eliminación de desechos. Previo al ingreso de cualquier trabajador a faena deberá 
+ser capacitado en estas materias. Se mantendrá un registro digital de ello. 
+- 
+Al finalizar las actividades de despeje de la vegetación, los sitios de las obras y zonas contiguas 
+se entregarán en óptimas condiciones de limpieza y libres de cualquier material de desecho. 
+- 
+En el área de intervención se prohibirá el almacenamiento de productos químicos y 
+combustibles u otras sustancias peligrosas. 
+- 
+Con el fin de evitar cualquier tipo de derrame y la eventual contaminación de suelos no se 
+realizará mantención ni carga de combustible de maquinarias ni equipos de construcción en el 
+área de intervención. En casos excepcionales, se contará con procedimientos de trabajo y planes 
+de contingencia. 
+- 
+Se dispondrá de un área exclusiva para la recarga de combustible de equipos (p.e motosierras), 
+en donde se dispondrá una bandeja antiderrame, además de una capa o liner para protección 
+de derrames. En caso de ocurrencia, se controlará el derrame de forma inmediata, se retirará 
+el suelo contaminado y se eliminará como residuo peligroso. Para lo anterior se dispondrá de 
+un kit de contención de derrames primario de sustancias peligrosas (hidrocarburos). 
+- 
+Se prohibirá el uso del fuego y quemas de cualquier tipo. 
+ 
+ 
+ 
+ 
+
+===== p.15 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 16 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+7.3. 
+Medidas de prevención contra incendios forestales  
+ 
+a) Nivel de riesgo de los sectores intervenidos y áreas de revegetación 
+Predio N° 
+Sector/Área 
+N° 
+Nivel de riesgo 
+Variables de riesgo potencial 
+1 
+1,2,3,4 
+Medio - bajo 
+La susceptibilidad de la formación de matorral 
+xerofítico frente a incendios forestales está 
+asociada a la disponibilidad y características del 
+combustible vegetal, considerando aspectos 
+como la cobertura, densidad y continuidad de la 
+vegetación, la acumulación de material seco y la 
+presencia 
+de 
+especies 
+con 
+elevada 
+inflamabilidad. Asimismo, influyen variables 
+climáticas tales como las altas temperaturas, la 
+baja humedad relativa y la ocurrencia de vientos 
+intensos, las cuales favorecen el inicio y 
+propagación del fuego. A su vez, factores 
+topográficos como la pendiente y exposición de 
+las laderas pueden incrementar la velocidad de 
+avance de un incendio. Finalmente, la cercanía 
+a caminos, sectores habitados u otras fuentes 
+potenciales de ignición de origen antrópico 
+constituye un elemento relevante en la 
+evaluación del riesgo. En conjunto, estas 
+variables permiten caracterizar el riesgo 
+potencial de incendios y la vulnerabilidad de la 
+vegetación presente en el área de estudio. 
+2 
+3 
+Medio - bajo 
+ 
+ 
+ 
+ 
+Observaciones: 
+El sector presenta una cobertura vegetal aproximada del 40%, compuesta principalmente por especies 
+esclerófilas y xerofíticas. La presencia antrópica es reducida, debido a las dificultades de acceso 
+características del área de estudio. La vegetación se organiza en formaciones de matorral y matorral 
+arborescente, con escasa acumulación de residuos vegetales y ausencia de otros materiales 
+inflamables relevantes, por lo que el riesgo potencial de incendio se considera bajo a medio-bajo. 
+ 
+ 
+b) Descripción y cuantificación de medidas de prevención  
+• 
+Se capacitará a todos los trabajadores en procedimientos de trabajo seguro para las actividades 
+que puedan presentar riesgos de incendios; y se realizarán charlas de inducción y sensibilización 
+en temas educación ambiental y prevención de incendios forestales, dando énfasis 
+principalmente a los factores de riesgo en cuanto a actividades y comportamientos habituales 
+de las personas que pueden provocar focos de incendios. Además, se le entregarán nociones 
+teóricas básicas con respecto al comportamiento del fuego y los métodos de combate de 
+incendios forestales. Estas charlas serán implementadas por un encargado ambiental en el 
+frente de trabajo, y se reforzarán al inicio de la temporada de incendios a lo largo de la 
+implementación de obras y operación del proyecto. 
+• 
+El personal será capacitado en el uso de extintores, y de la organización del personal en caso de 
+ocurrencia de algún foco, hasta la llegada de los organismos especializados. Esta charla será 
+realizada al momento de ingreso del trabajador. 
+• 
+Se difundirá entre los trabajadores el plan de acción en caso de siniestro. Esta medida será 
+implementada al momento de ingreso del trabajador, evaluando e identificando las zonas 
+críticas tanto dentro del área de trabajo como en su entorno. 
+
+===== p.16 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 17 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+• 
+Los operarios tendrán prohibido realizar cualquier tipo de acción que pueda generar riesgo de 
+incendio, tal como fumar, arrojar fósforos, realizar fogatas o manejar sustancias inflamables en 
+zonas no habilitadas. 
+• 
+Los equipos, maquinarias, herramientas, instalaciones eléctricas y sectores de almacenamiento 
+de sustancias y residuos peligrosos tendrán medidas especiales tendientes a evitar que 
+provoquen incendios forestales, tales medidas corresponden a: Labores de control, mantención 
+y despeje de vegetación alrededor de ellos, instalación de extintores manuales debidamente 
+señalizados, entre otros. 
+• 
+Se priorizará realizar las actividades de corta durante los meses de otoño, primavera o invierno, 
+con el objeto de evitar la temporada alta de incendios forestales. En caso de no ser posible, se 
+revisará la información oficial de CONAF con respecto a las zonas vulnerables durante la 
+temporada de incendios y se reforzarán las medidas de prevención en dichas zonas. 
+• 
+Al inicio de cada temporada de incendios y para reforzar las medidas de prevención, se 
+realizarán capacitaciones a los trabajadores, las cuales contemplan los siguientes temas: 
+- 
+Conocer los sistemas y protecciones contra incendios del equipo, maquinarias e instalaciones 
+de su área de trabajo. 
+- 
+Conocer el punto de encuentro de emergencia (PEE). 
+- 
+Conocer los riesgos del área donde se desempeñará asociados a incendio y sus controles 
+(ejemplo: no fumar, no portar encendedor, etc.) 
+- 
+Conocer el plan local de emergencia, identificando el actuar en caso de incendio, cuando aplica 
+o no una primera respuesta del operador, y los elementos a utilizar. 
+• 
+Cuando CONAF alerte del inicio de temporada de incendio, se decretará alerta temprana 
+preventiva, lo que significará las siguientes acciones: 
+- 
+Informar a toda el área con riesgo de incendio forestal de esta condición. 
+- 
+Restringir los trabajos en caliente en estas áreas. 
+- 
+Revisar que equipos de control de incendios se encuentren operativos. 
+• 
+Todos los frentes de trabajo contarán con equipos de radio y telefonía celular que permitan dar 
+aviso ante cualquier condición riesgosa que implique un posible incendio forestal, o bien la 
+ocurrencia de un evento, realizando las coordinaciones correspondientes con las brigadas 
+profesionales (CONAF- Bomberos). Estos equipos estarán en responsabilidad del encargado del 
+trabajo y encargado ambiental. Además, se encontrarán publicados los números de emergencia 
+de CONAF (130), Bomberos (132), Carabineros (133). 
+• 
+Se establecerán zonas de seguridad, vías de escape y punto de encuentro (PEE) ante la 
+posibilidad de un incendio forestal durante todas las fases del Proyecto. 
+• 
+Se desarrollará un control de acceso a las Instalaciones de Faenas para toda aquella sustancia 
+inflamable. 
+• 
+Solo personal autorizado podrá ingresar al área de trabajo. 
+• 
+El desecho material producto de la corta, será eliminado para evitar la acumulación de 
+combustible y derivado a un botadero autorizado. 
+• 
+Además de los equipos y herramientas que se utilicen para realizar la faena de roce, habrá 
+herramientas e implementos básicos para el combate inicial de un incendio mientras ingresa 
+personal experto, tales como palas, rozones, rastrillos y bombas de espalda, entre otros 
+elementos. 
+• 
+Deberá haber como mínimo una unidad de herramienta de combate inicial en cada cuadrilla de 
+trabajo. 
+• 
+Al finalizar cada jornada, todas las herramientas utilizadas, ya sea motosierras, palas, alguna 
+herramienta de control de incendios, entre otras, serán limpiadas y se les realizará la respectiva 
+mantención, con el objetivo de dejarlas operativas para la siguiente jornada laboral. 
+• 
+Las herramientas y equipos de combate serán revisados mensualmente durante las actividades 
+de corta, reemplazando aquellos que ya no se encuentren en condiciones óptimas o hayan 
+cumplido su vida útil. En caso de pérdida o daño de algún equipo o herramienta ésta será 
+reemplazada de inmediato. 
+ 
+
+===== p.17 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 18 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+c) Descripción y dimensión de medidas de mitigación 
+• 
+En todos los frentes de trabajo existirá un equipo de radio y telefonía celular para dar aviso en 
+caso de que ocurra un siniestro y recibir las instrucciones para iniciar el combate, cuando 
+corresponda. Estos equipos de radio serán complementarios al uso de celular, en caso de existir 
+sectores con baja cobertura de telefonía móvil. 
+• 
+Estos equipos estarán en responsabilidad del encargado del trabajo y encargado ambiental, con 
+el objeto de dar aviso ante cualquier condición riesgosa que implique un posible incendio 
+forestal, o bien la ocurrencia de un evento, realizando las coordinaciones correspondientes con 
+las brigadas profesionales (CONAF-Bomberos). 
+ 
+ 
+ 
+7.4. 
+Medidas adoptadas para asegurar la diversidad biológica  
+ 
+7.4.1. Medidas de protección a la fauna en categoría de conservación 
+ 
+Actividad o medida 
+Descripción 
+Parámetros 
+Calendario 
+Inspección previa del 
+área de intervención 
+Realizar 
+una 
+prospección 
+inmediatamente antes 
+del 
+inicio 
+de 
+las 
+actividades de corta y 
+despeje para verificar la 
+presencia de ejemplares 
+de 
+fauna 
+silvestre, 
+refugios, madrigueras, 
+nidos 
+o 
+sitios 
+de 
+reproducción. 
+100% de las áreas de 
+intervención 
+serán 
+inspeccionadas por un 
+profesional competente 
+previo al inicio de las 
+obras. 
+Antes del inicio de las 
+actividades de corta y 
+despeje de vegetación 
+Restricción de tránsito 
+y velocidad 
+Limitar la circulación de 
+maquinaria y vehículos 
+a 
+rutas 
+previamente 
+definidas para reducir el 
+riesgo de atropello o 
+perturbación de fauna. 
+Tránsito exclusivo por 
+caminos habilitados y 
+velocidad máxima de 20 
+km/h 
+durante 
+las 
+labores de despeje. 
+Durante toda la etapa 
+de ejecución de las 
+actividades. 
+Capacitación ambiental 
+al personal 
+nformar 
+al 
+personal 
+sobre las especies de 
+fauna 
+potencialmente 
+presentes, categorías de 
+conservación 
+y 
+procedimientos frente a 
+hallazgos. 
+Inducción 
+ambiental 
+obligatoria para el 100% 
+del 
+personal 
+que 
+participe 
+en 
+las 
+actividades de despeje. 
+Previo al inicio de las 
+actividades. 
+Prohibición de captura 
+o 
+perturbación 
+de 
+fauna 
+Prohibir expresamente 
+la 
+captura, 
+manipulación, 
+alimentación o daño a 
+ejemplares de fauna 
+silvestre. 
+Medida aplicable a todo 
+el 
+personal 
+y 
+contratistas durante las 
+actividades de despeje. 
+Durante 
+toda 
+la 
+ejecución 
+de 
+las 
+actividades. 
+Monitoreo de hallazgos 
+de fauna 
+Registrar 
+y 
+reportar 
+hallazgos de fauna en 
+categoría 
+de 
+conservación 
+durante 
+las 
+actividades 
+de 
+intervención. 
+Registro 
+georreferenciado 
+de 
+observaciones 
+y 
+aplicación de medidas 
+de protección cuando 
+corresponda. 
+Durante toda la etapa 
+de despeje. 
+
+===== p.18 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 19 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+Observaciones: 
+Para tener en consideración en el caso de hallazgos: 
+- 
+Detener inmediatamente las actividades en el sector del hallazgo. 
+- 
+Delimitar el área para evitar el ingreso de personal o maquinaria. 
+- 
+Registrar el hallazgo (fecha, coordenadas, fotografías, especie observada o evidencia). 
+- 
+Evaluar la situación por parte del encargado ambiental o especialista en fauna. 
+- 
+Implementar medidas de protección, tales como exclusión temporal, modificación local de las 
+actividades o redefinición de accesos. 
+- 
+Reanudar las actividades únicamente cuando se verifique que no existe riesgo de afectación 
+para los individuos o sus refugios. 
+- 
+Informar a la autoridad competente cuando se trate de especies clasificadas en categorías 
+Amenazada (Vulnerable, En Peligro o En Peligro Crítico), o cuando la magnitud del hallazgo así 
+lo amerite. 
+ 
+ 
+7.4.2. Medidas de protección a la flora adyacente 
+Actividad o medida 
+Descripción 
+Parámetros 
+Calendario 
+Demarcación de áreas 
+de intervención 
+Delimitar en terreno las 
+superficies autorizadas 
+para la corta y despeje 
+de vegetación, evitando 
+intervenciones fuera de 
+las áreas aprobadas 
+Demarcación visible del 
+100% de las áreas de 
+intervención antes del 
+inicio de las obras 
+Previo al inicio de las 
+actividades de corta. 
+Protección 
+de 
+vegetación fuera del 
+área de intervención 
+Resguardar 
+la 
+vegetación 
+ubicada 
+fuera de los límites 
+autorizados 
+mediante 
+señalización y control 
+operacional. 
+Prohibición de corta, 
+poda, tránsito o acopio 
+de materiales fuera de 
+las áreas demarcadas. 
+Durante 
+toda 
+la 
+ejecución 
+de 
+las 
+actividades. 
+Restricción de tránsito 
+de maquinaria 
+Limitar la circulación de 
+maquinaria y vehículos 
+a caminos y sectores 
+previamente definidos. 
+Tránsito exclusivo por 
+rutas habilitadas y áreas 
+autorizadas. 
+Durante 
+toda 
+la 
+ejecución 
+de 
+las 
+actividades. 
+Capacitación ambiental 
+al personal 
+Informar al personal 
+sobre las especies de 
+flora 
+presentes, 
+especies protegidas y 
+límites de intervención 
+autorizados. 
+Inducción ambiental al 
+100% 
+del 
+personal 
+previo al ingreso al área 
+de trabajo. 
+Antes del inicio de las 
+actividades y cuando 
+ingrese 
+nuevo 
+personal. 
+Capacitación de áreas 
+ambientalmente 
+sensibles 
+Informar al personal de 
+la ubicación de las 
+especies en categoría 
+de conservación fuera 
+del 
+área 
+de 
+intervención. 
+Inducción ambiental al 
+100% 
+del 
+personal 
+previo al ingreso al área 
+de trabajo. 
+Antes del inicio de las 
+actividades y cuando 
+ingrese 
+nuevo 
+personal. 
+Protocolo de hallazgo 
+de flora en categoría de 
+conservación 
+Ante la detección de 
+individuos 
+no 
+identificados 
+previamente 
+y 
+clasificados en alguna 
+categoría 
+de 
+conservación, 
+se 
+suspenderán 
+las 
+Registro 
+georreferenciado, 
+registro fotográfico y 
+establecimiento de un 
+área 
+de 
+exclusión 
+temporal alrededor del 
+hallazgo. 
+Durante 
+toda 
+la 
+ejecución 
+de 
+las 
+actividades. 
+
+===== p.19 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 20 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+actividades en el sector 
+y se evaluarán medidas 
+de 
+protección 
+específicas. 
+ 
+Observaciones: 
+En caso de detectarse ejemplares de flora clasificados en alguna categoría de conservación que no hayan 
+sido identificados durante los levantamientos previos, las actividades serán suspendidas en el sector 
+involucrado. El hallazgo será registrado mediante coordenadas geográficas y registro fotográfico, 
+estableciéndose un área de exclusión temporal que impida su afectación. Posteriormente, un 
+especialista evaluará la condición del ejemplar y determinará las medidas de manejo correspondientes, 
+pudiendo incluir la redefinición local de las actividades, el ajuste de los límites de intervención o la 
+implementación de medidas específicas de protección, según corresponda y de acuerdo con los 
+requerimientos de la autoridad competente. 
+ 
+ 
+7.4.3. Medidas de protección para la revegetación  
+Este acápite se desarrollará en el trámite sectorial, una vez obtenida la respectiva RCA. 
+ 
+ 
+7.5. 
+Otras actividades o medidas propuestas 
+Actividad 
+Descripción 
+Parámetros 
+Calendario 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones: 
+No se contemplan otras medidas adicionales 
+ 
+ 
+8. 
+CARTOGRAFÍA DIGITAL GEORREFERENCIADA  
+  
+Los elementos a representar en la cartografía digital georreferenciada y planos en papel son los siguientes: 
+ 
+La cartografía deberá entregarse en formato shapefile y sus respectivas copias de planos en papel (con el 
+mismo huso expuesto en el punto 1.3.5 y el sistema de referencia WGS 84). 
+ 
+Se debe mantener en el tiempo la codificación o nomenclatura utilizada para identificar los diferentes 
+sectores o unidades del predio, si corresponde.  
+ 
+ 
+8.1. 
+Plano General 
+ 
+En este plano, se debe representar gráficamente: 
+ 
+• 
+Límites del (de los) predios, norte magnético y grilla de coordenadas U.T.M. 
+• 
+Puntos de acceso al predio 
+• 
+Límites a nivel comunal y provincial. 
+• 
+Caminos de acceso. 
+• 
+Superficies con bosque nativo, plantaciones forestales y formaciones xerofíticas, adyacentes a los 
+sectores a intervenir. 
+• 
+Límite de sectores a intervenir  
+• 
+Red hidrográfica, según ID señalado en el cuadro 3.2. 
+
+===== p.20 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 21 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+• 
+En caso de cercanía específica, señalar distancia a glaciares, humedales (artículo 1° literal j del D.S. N° 
+82/2010 MINAGRI) y áreas protegidas del D.S. N° 40/2012 MMA). 
+ 
+7.2. Plano de Intervención a la formación xerofítica 
+ 
+En este plano, se debe representar gráficamente: 
+ 
+• 
+Límites del (de los) predio(s), norte magnético y grilla de coordenadas U.T.M. 
+• 
+Límite de sectores a intervenir, indicando obras permanentes y temporales. 
+• 
+Caminos internos. 
+• 
+Red hidrográfica según ID señalado en el cuadro 3.2. 
+• 
+Grado de erosión. 
+• 
+Rangos de pendiente, de acuerdo a los siguientes intervalos (en porcentaje): 
+0-10%; 10-30%; 30-45%; 45% y más 
+• 
+Ubicación de las parcelas de muestreo o transectos efectuados.  
+• 
+Señalar los puntos de referencia indicados en el punto 1.  
+• 
+Puntos o áreas con presencia de especies clasificadas en categoría de conservación7. 
+• 
+Medidas de mitigación contra incendios forestales, cuando corresponda. 
+• 
+Todas las medidas de protección graficables del capítulo 7.  
+ 
+7.3. Plano de revegetación (cuando corresponda) 
+ 
+En este Plano, se debe representar gráficamente: 
+ 
+• 
+Límites del (de los) predio(s), norte magnético y grilla de coordenadas U.T.M. 
+• 
+Límite de las áreas a revegetar8  
+• 
+Caminos internos. 
+• 
+Red hidrográfica, definiendo un ID para cada uno de ellos. 
+• 
+Rangos de pendiente, de acuerdo a los siguientes intervalos (en porcentaje): 
+0-10%; 10-30%; 30-45%; 45% y más 
+• 
+Medidas de mitigación contra incendios forestales, cuando corresponda. 
+• 
+Todas las medidas de protección graficables del capítulo 7.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. 
+FIRMA DEL INTERESADO/A 
+ 
+ 
+ 
+ 
+ 
+Nombre del interesado/a 
+ 
+Firma 
+ 
+ 
+ 
+ 
+ 
+Nombre del representante legal 
+ 
+Firma 
+ 
+ 
+ 
+ 
+ 
+ 
+7 De acuerdo a los procesos de clasificación de especies del Ministerio del Medio Ambiente.  
+8 Corregido de la versión 1. 
+
+===== p.21 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 22 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Nombre del profesional autor/a del Plan de Trabajo9 
+ 
+Firma 
+ 
+ 
+ 
+Lugar y fecha: ________________________________ 
+ 
+ 
+ 
+Las personas firmantes declaran bajo juramento que los datos proporcionados en el presente Plan de 
+Trabajo son verdaderos. 
+ 
+ 
+ 
+ 
+9 Información voluntaria, sólo en caso que se desee dejar registro de ello, ya que este tipo de estudio no requiere de 
+patrocinio profesional. 
+
+===== p.22 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 23 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+PAUTA EXPLICATIVA  
+PARA LA ELABORACIÓN DEL PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL  
+PAS 151 
+ 
+ 
+ÁMBITO DE APLICACIÓN 
+ 
+El presente formulario, deberá ser utilizado exclusivamente para tramitar el permiso ambiental sectorial, 
+establecido en el artículo 151° del D.S. N° 40, de 2012, del Ministerio de Medio Ambiente, denominado 
+“Permiso para la corta, destrucción o descepado de formaciones xerofíticas”, cuando sea necesaria para 
+la ejecución de cualquier proyecto o actividad de las señaladas en el artículo 3° del referido decreto, con 
+excepción de los proyectos a que se refiere su literal m.1. Esto en concordancia con lo establecido en el 
+artículo 60° de la Ley N° 20.283, sobre Recuperación del Bosque Nativo y Fomento Forestal. 
+ 
+Para estos efectos, se deben tener en cuenta las siguientes definiciones: 
+ 
+Formación xerofítica10: formación vegetal, constituida por especies autóctonas, preferentemente 
+arbustivas o suculentas, de áreas de condiciones áridas o semiáridas ubicadas entre las Regiones I y VI, 
+incluidas la Metropolitana y la XV y en las depresiones interiores de las Regiones VII y VIII. 
+ 
+Formación xerofítica de alto valor ecológico11: Aquellas formaciones xerofíticas que presentan elevada 
+singularidad, o elevado valor de representatividad de los ecosistemas originales, o especies clasificadas en 
+las categorías señaladas en el numeral 4) del artículo 2° de la ley 20.283, o especies de elevado valor de 
+singularidad. 
+  
+Especie nativa o autóctona12: especie arbórea o arbustiva originaria del país, que ha sido reconocida 
+oficialmente como tal mediante decreto supremo expedido por intermedio del Ministerio de Agricultura. 
+ 
+Plan de trabajo13: Instrumento que regula la corta, destrucción o descepado de las formaciones xerofíticas 
+de un terreno determinado, dispuesta en el artículo 60 de la ley, procurando el resguardo de la calidad de 
+las aguas y evitando el deterioro de los suelos. 
+ 
+Para la identificación de una formación xerofítica, de acuerdo a lo que estipula la Ley N°20.283, se deben 
+considerar los siguientes criterios: 
+ 
+1. Debe constituir una formación vegetal, considerándose para este caso cualquier referencia 
+bibliográfica de publicaciones que cuente con registro de propiedad intelectual. 
+ 
+2. Las especies autóctonas corresponden a aquellas listadas en el D.S. N°68, de 2009, del Ministerio de 
+Agricultura. 
+ 
+3. El sector a intervenir debe encontrarse en áreas de condiciones áridas o semiáridas. En este contexto, 
+la definición legal establece la ubicación geográfica de estas áreas entre las regiones de Arica y 
+Parinacota y del Libertador Bernardo O’Higgins, incluida la Región Metropolitana. Cabe señalar que la 
+condición de aridez o semiaridez donde se encuentra la formación xerofítica se deberá evaluar caso a 
+caso, considerando las variables edafoclimáticas y biológicas correspondientes. 
+ 
+10 Artículo 2° numeral 14 de la Ley N° 20.283. Se debe tener en consideración las modificaciones introducidas por la 
+Ley N° 21.600, Ley N° 21.647 y las futuras modificaciones a la Ley N° 20.283 y sus reglamentos. 
+11 Artículo 1° literal d) del D.S. N°93, de 2008, del Ministerio de Agricultura. 
+12 Artículo 2° numeral 13 de la Ley N° 20.283. 
+13 Artículo 1° literal j, D.S. N° 93, de 2008 del Ministerio de Agricultura. 
+
+===== p.23 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 24 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+4. La depresión interior de las Regiones del Maule y Biobío se homologará a las áreas identificadas como 
+“depresión intermedia” de acuerdo a lo definido en el documento "Colección Geográfica de Chile, 
+Tomo II, Geomorfología" publicado en el año 1983 por el Instituto Geográfico Militar. De esta manera, 
+se considerarán exclusivamente el área de aquellas comunas que formen parte de la depresión 
+intermedia. 
+ 
+Tratándose de la corta, destrucción o descepado de formaciones xerofíticas, será obligatoria14 la 
+presentación y aprobación previa por la Corporación Nacional Forestal, de un plan de trabajo, cuando tales 
+formaciones reúnan la totalidad de las siguientes condiciones: 
+ 
+Ubicación geográfica15 
+Superficie 
+mínima (ha) 
+Ancho 
+mínimo (m) 
+Densidad 
+mínima 
+(ind./ha) 
+Desde el norte del río Elqui hasta el límite norte 
+del país 
+1 
+20 
+No aplica 
+Desde el sur del río Elqui hasta el límite norte de 
+la Región de Valparaíso 
+1 
+40 
+300 
+Desde la Región de Valparaíso hasta la Región del 
+Biobío, incluida la Región Metropolitana de 
+Santiago 
+1 
+40 
+500 
+ 
+En relación al cuadro anterior se debe considerar lo siguiente: 
+ 
+1. La superficie total de la formación xerofítica debe ser mayor o igual a una hectárea, pudiendo 
+intervenir (cortar, destruir o descepar) un área menor dentro de dicha formación.  
+ 
+2. Para superficie, ancho y densidad se considerarán los valores mínimos para determinar la 
+obligatoriedad de presentar plan de trabajo. 
+ 
+3. Las especies nativas de carácter xerofítico deberán ser determinadas en base a antecedentes 
+bibliográficos de publicaciones que cuenten con registro de propiedad intelectual. 
+ 
+4. Para el caso de las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama y Coquimbo (en 
+esta última región sólo al norte del río Elqui) no será exigible una densidad mínima para la formación, 
+sin embargo, se debe comprender que el área de intervención debe estar asociada a una formación 
+xerofítica, identificada de acuerdo a los parámetros estipulados en esta pauta explicativa.  
+ 
+5. Desde la región de Valparaíso hasta la región del Biobío, incluida la Región Metropolitana de Santiago, 
+los individuos en estado adulto deberán tener una altura mínima de un metro. 
+ 
+El Plan de Trabajo en su tramitación sectorial, debe ser presentado y firmado por el interesado/a e 
+ingresado a CONAF en conjunto con los siguientes documentos: 
+ 
+• 
+Solicitud relativa a la Ley N° 20.283 
+• 
+Antecedentes legales correspondientes 
+• 
+Planos y cartografía digital georreferenciada 
+• 
+Autorización de Ingreso al Predio o Centro de Acopio, cuando no existan autorizaciones anteriores en 
+poder de CONAF 
+ 
+ 
+14 De acuerdo al inciso 3° del artículo 3° del D.S. N° 93, de 2008, del Ministerio de Agricultura. 
+15 Cuadro corregido de la versión 1, en función de lo señalado en el artículo. 3° del D.S. N° 93, de 2008, del Ministerio 
+de Agricultura. 
+
+===== p.24 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 25 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Para la presentación de este permiso, se debe tener en cuenta la información contenida en la Guía de 
+Evaluación Ambiental de CONAF, las guías trámite del SEA y la normativa aplicable. 
+ 
+1. ANTECEDENTES DEL O LOS PREDIOS OBJETO DE INTERVENCIÓN 
+ 
+En la sección 1.1 se debe individualizar al interesado/a, señalando su nombre o razón social, datos de 
+contacto y tipo de interesado, que puede ser: 
+a) Propietario/a 
+b) Poseedor/a en proceso de saneamiento de título del predio 
+c) Titular de derechos, según inciso cuarto y quinto del artículo 7° de la Ley N° 20.283. 
+ 
+La sección 1.2 no se debe completar cuando el presente formulario se presente al Sistema de Evaluación 
+de Impacto Ambiental, de acuerdo a lo estipulado en la Ley N° 19.300.  
+ 
+Cuando se presente sectorialmente, una vez se cuente con Resolución de Calificación Ambiental (RCA) 
+aprobada, se deberá identificar el nombre del proyecto y señalar los antecedentes de la RCA, indicando su 
+número, fecha de aprobación, región o regiones para el caso de proyectos interregionales y el enlace a la 
+página web de donde dicha resolución se encuentra publicada.  
+ 
+En el punto 1.3 se debe señalar los antecedentes generales del/de los predio/s. En el caso que el plan de 
+trabajo considere más de un predio, en “Predio N°” se deberá asignar un número correlativo de predio, el 
+cual se deberá mantener en el formulario para individualizarlos. Asimismo, se deberán identificar todos 
+los antecedentes de cada predio y propietario respectivo, repitiendo cuantas veces sea necesario. 
+ 
+En “Punto de Referencia”, se debe indicar la coordenada geográfica (U.T.M.) del acceso al predio y otros 
+puntos o lugares identificables dentro del predio, tales como: casas, galpones u otros, los cuales deberán 
+quedar identificados en el plano. El Datum a utilizar debe ser el WGS 84, indicando el huso utilizado.  
+ 
+Además se deberá indicar resumidamente las vías de acceso al predio y datos de contacto necesarios para 
+poder acceder a él (por ejemplo en caso de administradores de predio). 
+ 
+2. DESCRIPCIÓN DE LAS OBRAS ASOCIADAS A LA INTERVENCIÓN 
+ 
+En la sección 2.1. se debe especificar las tipologías principal y secundaria del proyecto susceptible de 
+causar impacto ambiental, de acuerdo con el artículo 10° de la Ley N° 19.300 y el artículo 3° del D.S. N° 40, 
+de 2012, del Ministerio de Medio Ambiente. 
+ 
+En este marco, en la sección 2.2. se debe efectuar una descripción general de las obras o actividades 
+asociadas a dicho proyecto, dentro del cual se enmarca el PAS 151, indicando si son de carácter temporal 
+o permanente y la fase de ejecución del proyecto (construcción, operación y/o cierre). 
+ 
+3. DESCRIPCIÓN DEL ÁREA Y DE LA FORMACIÓN XEROFÍTICA A INTERVENIR 
+ 
+En los cuadros siguientes, se deberá describir los componentes ambientales dentro del área afecta al plan 
+de trabajo. 
+ 
+En el cuadro 3.1. se debe incorporar información de suelo, definiendo en primero lugar los sectores a 
+intervenir los que se deben numerar correlativamente, para cada uno de los predios numerados en la 
+sección 1 del presente formulario. Se debe definir la superficie en hectáreas, la que debe ser consistente 
+a la definida en la cartografía, considerando un máximo de dos decimales. 
+ 
+Para cada sector, se deberá señalar el rango de pendiente siendo éstos 0 - 10%, 10 - 30%, 30% - 45%, por 
+lo tanto, la variable pendiente se debe tomar en cuenta al momento de definir cada sector. El rango mayor 
+a 45% no se encuentra definido, dada las restricciones establecidas en el Art. 6°, del D.S. N° 82, de 2010, 
+
+===== p.25 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 26 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+del Ministerio de Agricultura. Se sugiere que esta información sea obtenida a través de imágenes 
+satelitales de Modelos Digitales de Elevación (DEM) o curvas de nivel. 
+ 
+De acuerdo a análisis de terreno, se debe señalar para cada sector, si los suelos son graníticos. Además 
+indicar el grado de erosión determinado en terreno, de conformidad a los parámetros establecidos en la 
+definición contenida en el artículo 2° letras i), j) y k), del D.S. N° 82, de 2010, Ministerio de Agricultura 
+(RSAH). 
+ 
+En caso que existan observaciones respecto de la determinación de los valores anteriores, se deberán 
+especificar en el cuadro correspondiente. 
+ 
+Además señalar los factores limitantes del suelo, los que deberán tener directa correlación con las medidas 
+de protección propuestas en el capítulo 7. 
+ 
+En la sección 3.2 se deberá identificar con un ID los humedales, cuerpos y cursos de agua presentes en el 
+predio, ID que debe ser consistente con la cartografía presentada. Se deberá señalar el tipo (ríos, esteros, 
+quebradas, lago, etc.), su temporalidad (permanente, temporal) y el rango de la sección de cauce que 
+corresponda, siendo éstas de <0,2 m2, entre 0,2 y 0,5 m2 o mayor a 0,5 m2, las que se relacionan a las zonas 
+de protección definidas en los literales p) y q) del artículo 2° del RSAH. 
+ 
+Es importante destacar que no sólo se debe identificar la red hidrográfica publicada por la Dirección 
+General de Aguas, sino que todas aquellas que también sean observadas en terreno. 
+ 
+Además, señalar la menor distancia a los sectores a intervenir. Importante indicar si esta hidrografía 
+presenta puntos de captación de agua, señalando en la descripción, el uso dado a ésta (por ejemplo, 
+potable, uso agrícola, ganadero, etc.).  
+ 
+A continuación, efectuar una breve descripción de la hidrografía descrita en el cuadro 3.2. 
+ 
+En la sección 3.3, se deberá identificar las especies de fauna clasificadas en categoría de conservación, 
+señalando la categoría respectiva y el número de Decreto Supremo del Ministerio de Medio Ambiente 
+(MMA) que declara dicha especie en la categoría. Indicar el o los predios con presencia de dichas especies. 
+Esta información debe ser concordante con la detallada en la línea base del proyecto para esta 
+componente. 
+ 
+Señalar la fuente que dé cuenta de la presencia de las especies en el o los predios, así como cualquier 
+observación que se estime necesaria.  
+ 
+Respecto de la formación xerofítica a intervenir con motivo de la tramitación del PAS 151, para el 
+levantamiento de la información proporcionada se debe señalar en la sección 3.4, letra a, la fecha del 
+muestreo, la descripción de la metodología de muestreo utilizada para la cuantificación de la formación 
+xerofítica y la justificación de la metodología utilizada, considerando criterio de suficiencia estadística del 
+muestreo. 
+ 
+En un archivo Excel, se deberá entregar la información relativa a las parcelas de inventario efectuadas, 
+considerando el tipo, número y tamaño de parcelas del inventario o dimensiones del transecto, con sus 
+coordenadas de inicio y final (o coordenada central) las que deben quedar señaladas en terreno con 
+pintura visible y permanente, representada en la cartografía. Además, incorporar en la planilla los 
+estadígrafos asociados al muestreo.  
+ 
+A continuación en la letra b), se deberá efectuar una descripción cualitativa de la formación xerofítica a 
+intervenir, consistente con la línea base del proyecto, detallando al menos la composición de especies 
+participantes, su estado sanitario, ubicación y continuidad dentro de la cuenca o microcuenca, usos locales 
+
+===== p.26 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 27 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+que posean especies identificadas, así como cualquier otro dato relevante que permita caracterizar la 
+formación xerofítica que se desea intervenir. 
+ 
+En la sección c) composición de especies por sector, con el propósito de caracterizar lo más detalladamente 
+la formación xerofítica y su funcionalidad ecológica, es que la Corporación solicitará la descripción para 
+cada sector solicitado, de las especies presentes, tanto aquellas que se encuentran incluidas en el actual 
+Nómina de Especies Arbóreas y Arbustivas originarias del país, D.S. 68/2009, de MINAGRI, como de 
+aquellas especies no incluidas en dicho decreto pero que si se encuentran en el sector. Además deberá 
+indicar si cada una de las especies intervenidas cuenta con documentación de métodos de propagación, 
+señalando la fuente bibliográfica.  
+ 
+En ambos casos, se deberá señalar el nombre científico de la especie, su hábito (árbol, arbusto, suculenta 
+o herbácea, de la especie, de acuerdo a fuente bibliográfica) y densidad relativa por especie dentro de 
+cada predio y sector. De esta forma, se deberá indicar la densidad y cobertura, según presencia en la 
+Nómina de Especies del MINAGRI, entendiendo por cobertura la “proyección vertical y uniforme de las 
+copas de árboles, arbustos y suculentas”. Finalmente, señalar la densidad y cobertura total de las especies 
+en el sector. 
+ 
+Este cuadro, deberá repetirse para cada uno de los sectores identificados en el punto 3.1. 
+ 
+En las Observaciones, deberá señalarse la fuente bibliográfica del hábito de cada especie identificada en 
+el cuadro c). 
+ 
+Para cada predio y sector a intervenir, se deberá indicar en la letra d), la presencia de flora singular, 
+representativa o clasificada en categoría de conservación, según Decreto Supremo del MMA. Se deben 
+incorporar todas las especies, independientemente de si éstas se encuentran incluidas en la Nómina de 
+Especies del MINAGRI. 
+ 
+Para identificar las especies singulares, se deberá utilizar la Guía de Evaluación Ambiental de CONAF. 
+Respecto de la representatividad, ésta deberá establecerse en directa relación con el contenido de la línea 
+base del proyecto. En ambos casos, se deberá fundamentar el valor otorgado en las observaciones 
+generales del mismo cuadro. 
+ 
+En el caso de las especies clasificadas en categoría de conservación, se deberá señalar la categoría vigente 
+al momento de la elaboración del estudio, indicando el número de Decreto del Ministerio de Medio 
+Ambiente que estableció dicha categoría para la especie en particular. 
+ 
+De conformidad a lo establecido en el artículo 8 del D.S. 40, de 2012, del MMA, en la letra e) se deberá 
+entregar información sobre la localización y valor ambiental del territorio, marcando con una X, si dentro 
+del área de influencia del proyecto, se encuentran poblaciones, recursos y áreas protegidas, sitios 
+prioritarios para la conservación, humedales protegidos y glaciares.  
+ 
+En tal caso, se deberá señalar la menor distancia a los sectores a intervenir, medida en kilómetros, con una 
+breve descripción de cada uno de los valores identificados. 
+ 
+Cuando corresponda, en la letra f) se deberá señalar si los sectores a intervenir, se encuentran emplazados 
+en alguna de las áreas de protección declaradas según decretos, de acuerdo a la Ley N° 18.37816. Mismo 
+caso, cuando se definan áreas de revegetación en el punto 5.  
+ 
+4. OBJETIVO Y CALENDARIO DE ACTIVIDADES 
+ 
+ 
+16 Áreas listadas en la página https://www.conaf.cl/nuestros-bosques/areas-de-proteccion-ley-n-18-378. Consulte 
+disponibilidad de cartografía digital georreferenciada en el sitio de SIT CONAF https://sit.conaf.cl. 
+
+===== p.27 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 28 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+Para los proyectos o actividades susceptibles de causar impacto ambiental definido en el artículo 10° de la 
+Ley N° 19.300 y el D.S. N° 40, de 2012, del MMA, en la sección 4.1 se deberá señalar el objetivo de la 
+intervención de manera detallada.  
+ 
+En la sección 4.2, se deberá señalar el calendario de actividades tanto para las obras de carácter temporal 
+en la letra a) y aquellas de carácter permanente, en la letra b). 
+ 
+Se debe detallar para cada obra, las actividades que la componen y una breve descripción, considerando 
+las etapas respectivas. Señalar qué sectores y predios están involucrados en cada actividad, la superficie 
+total a intervenir y el año de inicio y término de cada actividad. 
+ 
+En la descripción, incorporar la información que aporte antecedentes relevantes al programa de 
+actividades o que complemente el desarrollo de la intervención. 
+ 
+5. ACTIVIDADES DE REVEGETACIÓN DE ESPECIES NATIVAS 
+ 
+En caso que el proyecto considere actividades17 que impliquen establecer la revegetación de especies 
+nativas, se deberá completar este capítulo. Se debe tener presente que la revegetación deberá realizarse 
+preferentemente con las especies que componen la formación xerofítica a intervenir. 
+ 
+Estas áreas deberán localizarse preferentemente dentro de la cuenca en donde se emplaza el proyecto. 
+Del mismo modo, las áreas propuestas para la revegetación, podrán corresponder a terrenos que no 
+necesariamente sean de aptitud preferentemente forestal, requisito establecido sólo para bosques, en el 
+marco del artículo 33° del D.S. N° 193, de 2008, del Ministerio de Agricultura.  
+ 
+En la sección 5.1, cuando dichas medidas se realicen en un predio distinto al de la corta, se deberá 
+individualizar el/los predios/s, adjuntando a la presentación las autorizaciones de los propietarios/as de 
+dichos predios, documento notarial donde conste explícitamente que se otorga permiso para ejecutar las 
+actividades18 de revegetación. 
+ 
+En la sección 5.2, se deberá realizar una descripción cualitativa del área de revegetación propuesta, que 
+considere el uso actual, condición edafoclimática general, altitud, pluviometría, disponibilidad hídrica y 
+cualquier otra variable que sea relevante para dicha descripción.  
+ 
+En la sección 5.3, se deberá indicar para cada predio y área propuesta, la superficie en hectáreas, la clase 
+de capacidad de uso determinada en terreno (no aplican las clasificaciones de CIREN ni del Servicio de 
+Impuestos Internos), el rango de pendiente siendo éstos 0 - 10%, 10 - 30%, 30% - 45% o mayor a 45%. Se 
+sugiere que esta información sea obtenida a través de imágenes satelitales de Modelos Digitales de 
+Elevación (DEM) o curvas de nivel. 
+ 
+Además indicar el grado de erosión determinado en terreno, de conformidad a los parámetros 
+establecidos en la definición contenida en el artículo 2° letras i), j) y k), del D.S. N° 82, de 2010, Ministerio 
+de Agricultura (RSAH), al igual que la profundidad del suelo y la exposición predominante del área 
+propuesta. 
+ 
+Para asegurar el establecimiento y desarrollo de las especies nativas a utilizar en la actividad de 
+revegetación, se deberá señalar en la sección 5.4 los factores limitantes que presentan las áreas 
+propuestas, que pudiesen incidir en el éxito de esta actividad. Estos factores deberán tener directa 
+correlación con las actividades a realizar señaladas en la sección 5.5 y las medidas de protección de la 
+sección 6.4.3. Si no existiesen factores limitantes, esto deberá quedar señalado explícitamente en esta 
+sección. 
+ 
+17 Corregido de la versión 1 
+18 Corregido de la versión 1 
+
+===== p.28 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 29 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+En la sección 5.5 se deberán señalar todas las actividades relacionadas al establecimiento y desarrollo de 
+la revegetación, tales como, limpieza, preparación de suelo, hoyadura, instalación de mecanismos de 
+protección y sistemas de riego, obras de conservación de suelos y aguas, aplicación de fertilizantes, 
+replante, control fitosanitario y actividades de monitoreo, entre otros. Lo anterior señalando las áreas en 
+que dichas actividades se realizarán y el año calendario de ejecución de las mismas. 
+ 
+En la sección 5.6 se deberá establecer el calendario de la revegetación, es decir, cuando se efectuará la 
+plantación de los ejemplares nativos, señalando las especies a utilizar (nombre científico), la densidad y el 
+año calendario de ejecución. 
+ 
+6. EFECTO LOCAL DE LA INTERVENCIÓN 
+ 
+En relación al diagnóstico efectuado, tipo de proyecto a ejecutar y actividades propuestas, se deberá 
+analizar y señalar resumidamente, los efectos locales estimados sobre los humedales, cuerpos y cursos de 
+agua, suelos y diversidad biológica, en relación a la superficie solicitada. 
+ 
+Esta información deberá ser acorde con los efectos descritos en la Declaración o Estudio de Evaluación de 
+Impacto Ambiental y correlacionada a las medidas de protección ambiental propuestas en el presente 
+instrumento. 
+ 
+7. MEDIDAS DE PROTECCIÓN AMBIENTAL 
+ 
+Este capítulo está orientado a la descripción de las medidas a adoptar para la protección del medio 
+ambiente, en el desarrollo de las intervenciones de la formación xerofítica, acorde a las disposiciones de 
+la Ley N° 19.300, Ley N° 20.283 y en el RSAH. Estas medidas deben ser específicas para los sectores a 
+intervenir y las zonas aledañas que puedan verse afectadas con las actividades propuestas a través de 
+este Plan de Trabajo, describiendo claramente las acciones asociadas.  
+ 
+Las medidas adoptadas y sus obras asociadas deben quedar claramente definidas y dimensionadas, 
+indicando plazos y períodos de ejecución. Cuando se trate de medidas que implican obras o acciones 
+permanentes (por ejemplo, obras para la protección de suelos o de cauces, medidas de mitigación), indicar 
+la forma y periodo de mantención. Además, deben ser representadas en la cartografía. 
+ 
+Nota: En este capítulo, podrán adjuntarse anexos explicativos de las medidas propuestas, cuyo 
+contenido formará parte integrante del plan de trabajo.  
+ 
+En la sección 7.1 se deberán establecer las medidas de protección de humedales, masas y cursos de agua, 
+considerando una descripción básica del tipo de medida (obra, entubamiento o canalización, entre otras), 
+considerando la descripción entregada en el punto 3.2 de Hidrografía, las medidas señaladas en el RSAH y 
+la existencia de tomas de agua potable, especificando cuando corresponda: 
+ 
+• 
+Zonas de Protección. 
+• 
+Limitaciones a la intervención. 
+• 
+Limitaciones a la construcción de caminos. 
+• 
+Otros, indicar. 
+ 
+Para la proposición de estas medidas, es relevante considerar los posibles impactos que se produzcan 
+“aguas abajo”, a objeto de evitar la afectación en los caudales y la calidad de las aguas. 
+ 
+Se deberá indicar en la sección 7.2, las medidas de protección para los suelos, necesarias para prevenir 
+efectos no deseados tales como erosión, compactación, derrames, derrumbes, deslizamientos, aporte de 
+sedimentos, contaminación, u otros derivados de la ejecución de las obras, sean éstas de carácter temporal 
+o permanente. 
+
+===== p.29 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 30 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+Respecto de las medidas de prevención contra incendios forestales, en la letra a) de la sección 0 se deberá 
+señalar, para los sectores a intervenir y cuando corresponda, las áreas de revegetación, el nivel de riesgo 
+de cada uno de los sectores solicitados, diferenciado de la siguiente forma: 
+ 
+• 
+Regiones de Arica y Parinacota a Antofagasta: El riesgo se podrá estimar, de acuerdo a la amenaza 
+y vulnerabilidad del sector, según la información predial y de la zona, en términos de alto – medio 
+y bajo. 
+• 
+Regiones de Atacama al Sur: deberá remitirse a los niveles de riesgo publicados por CONAF19. 
+ 
+Además, deberán identificarse en cada sector las variables de riesgo potencial (VRP), considerando 
+elementos tales como:  
+• 
+Viviendas rurales. 
+• 
+Caminos públicos principales y secundarios. 
+• 
+Tendido eléctrico. 
+• 
+Líneas férreas en uso. 
+• 
+Otras VRP, tales como establecimientos de salud, de educación, unidades policiales y militares, 
+APRs u otras identificadas por el consultor/a forestal. 
+ 
+En la letra b) se deberán señalar las medidas de prevención contra incendios tales como letreros, cercos y 
+aquellas propias de las faenas de corta y el manejo de residuos.  
+ 
+En la letra c), se podrán establecer medidas de mitigación tales como fajas cortafuegos o fajas libres de 
+vegetación, señalando claramente su dimensión (ancho y longitud), actividades de mantención y 
+periodicidad. 
+ 
+Todas las medidas de la sección 0 deben ser incorporadas en la cartografía. 
+ 
+En la sección 7.4, se deberán señalar las medidas para asegurar la diversidad biológica del área remanente, 
+considerando aspectos de flora y fauna, en coherencia con las descripciones efectuadas en el diagnóstico 
+del plan de trabajo y teniendo presente el principio de pérdida neta cero o una ganancia neta de 
+biodiversidad.  
+ 
+En el punto 7.4.1, cuando se esté en presencia de fauna con problemas de conservación, que provenga de 
+revisión bibliográfica o detección en terreno, deberá considerar siempre medidas de protección atingente 
+a las especies individualizadas.  
+ 
+En el punto 7.4.2 se deberán proponer actividades o medidas, para la protección de la flora adyacente, 
+especificando parámetros de medición y prescripción técnica, tales como enriquecimiento ecológico, 
+manejo de la regeneración establecida, establecimiento de conexiones entre áreas de formaciones 
+xerofíticas de alto valor ecológico, recuperación de formaciones xerofíticas, entre otros, contemplando no 
+exceder la carga biológica por sobrepoblación en ese ecosistema. En este ítem deberán proponerse 
+actividades tales como recolección de semillas y almacenamiento de material genético, de rescate y 
+relocalización, de reproducción de especies, manejo o20 revegetación de acuerdo a las especies presentes 
+ 
+Adicionalmente, se podrán definir áreas de protección y mantención de comunidades vegetales o especies 
+que presentan relaciones interespecíficas positivas con poblaciones de fauna silvestre.  
+ 
+En el punto 7.4.3, deberán establecerse las medidas de protección para la revegetación, cuando esta 
+actividad sea propuesta por el titular del proyecto y que fue descrita en el capítulo 5.  
+ 
+19 
+Disponible 
+en 
+la 
+página 
+web 
+https://drive.google.com/drive/folders/1pUwCxN3yy7sCP-YgGYN2N_-
+yZWSX7WFJ?usp=sharing 
+20 Corregido de la versión 1. 
+
+===== p.30 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 31 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+Respecto de la sección 7.5, se podrán señalar otras actividades o medidas de protección ambiental, en 
+coherencia con lo solicitado en la descripción del sitio y la información general del predio sujeto a 
+intervención.  
+ 
+8. CARTOGRAFÍA DIGITAL GEORREFERENCIADA 
+ 
+a.- Cartografía digital georreferenciada:  
+ 
+Se deberá representar los elementos señalados en el punto 8 del plan de trabajo en formato shapefile, 
+sistema de referencia Datum WGS-84 y en el huso correspondiente. Las coberturas solicitadas deberán 
+remitirse en formato shapefile, incluyendo obligatoriamente los archivos con las siguientes extensiones: 
+SHP, SHX, DBF y PRJ. Lo anterior de acuerdo al Protocolo de Cartografía Digital Georreferenciada que 
+dispone CONAF para estos fines. 
+ 
+Todas las obras establecidas en este capítulo que sean posibles de representar en la cartografía propuesta 
+a una escala adecuada para su comprensión, deberán ser incorporadas en ella, señalando explícitamente 
+la dimensión o magnitud que alcanzan. 
+ 
+ 
+b.- Planos en formato físico (papel): 
+ 
+Se deben entregar dos originales de cada plano, con la identificación y firma en original del interesado/a, 
+el cual debe contar con las siguientes características: 
+ 
+● Representar los elementos solicitados en el punto 7 del plan de trabajo. 
+ 
+● Norte magnético: Ubicación libre dentro del mapa  
+ 
+● Grilla de coordenadas U.T.M.: Cruces o cuadrícula, con valores en el borde, cada 100 m o dependiendo 
+de la escala que se utilice. 
+ 
+● La escala a utilizar deberá ajustarse, de manera de permitir una adecuada representación y 
+visualización de los elementos contenidos en ella. Además, podrán presentarse planos impresos de 
+gran tamaño, los que deberán plegarse, ajustándose a tamaño Oficio. 
+ 
+● El plano debe contener adicionalmente, información en los siguientes recuadros: 
+ 
+ 
+
+===== p.31 =====
+ 
+PLAN DE TRABAJO  
+PARA LA EVALUACIÓN DEL PERMISO AMBIENTAL SECTORIAL PAS 151 
+ 
+Página: 32 de 32 
+Versión: 1.1 
+Fecha: Marzo de 2024 
+ 
+ 
+ 
+ 
+Recuadro N° 1: 
+Antecedentes prediales 
+Recuadro N° 2:  
+Antecedentes cartográficos 
+Recuadro N° 3:  
+Antecedentes técnicos 
+ 
+• 
+Nombre del 
+interesado/a 
+• 
+Nombre del predio. 
+• 
+Rol de avalúo. 
+• 
+Región, Provincia y 
+Comuna 
+• 
+Superficie predial 
+según plano (ha) 
+ 
+• 
+Base cartográfica 
+• 
+Escala del plano 
+ 
+Plano de diagnóstico 
+• 
+Superficie de sectores y áreas a 
+intervenir. 
+• 
+Superficie sectores con bosque nativo. 
+Plano de protección ambiental 
+• 
+Superficie y dimensión de medidas de 
+mitigación de incendios 
+• 
+Superficie y longitud zonas de 
+protección 
+Plano de revegetación. 
+Superficie y dimensión de revegetación. 
+Recuadro N° 4:  
+Simbología 
+Recuadro N° 5:  
+Antecedentes 
+administrativos 
+Recuadro N° 6:  
+Uso CONAF 
+• 
+Simbología utilizada 
+en la representación 
+cartográfica de los 
+contenidos del plan 
+de trabajo. 
+• 
+Nombre del 
+interesado/a 
+• 
+Firma del interesado/a 
+• 
+Fecha de elaboración del 
+plano. 
+• 
+Nombre y firma del 
+autor/a del plan de 
+trabajo (opcional) 
+● 
+Número de solicitud 
+● 
+Fecha de ingreso 
+● 
+Firma analista 
+● 
+Timbre CONAF 
+● 
+Aprobado/Denegado 
+  
+Cuando se proponga actividades de revegetación21 en un predio distinto a aquel que se efectuó la corta, 
+se deberán presentar ambos planos para dicho predio, en similar formato. 
+ 
+9. FIRMA DEL INTERESADO/A  
+ 
+En este capítulo, deberán registrarse el nombre completo y firma del interesado, que deberá ser 
+consistente con la solicitud relativa a la Ley N° 20.283, adjunta al presente estudio técnico. No corresponde 
+que la solicitud sea adicionalmente firmada por el propietario del predio donde se realice revegetación22. 
+ 
+Adicionalmente, se podrá entregar los datos del/de la profesional que apoyó técnicamente al interesado/a 
+en la confección del plan de trabajo. 
+ 
+21 Corregido de la versión 1 
+22 Corregido de la versión 1. 

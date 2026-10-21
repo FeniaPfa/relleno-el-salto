@@ -1,0 +1,500 @@
+
+===== p.0 =====
+ 
+ 
+ 
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+CAPÍTULO 6 
+PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y 
+COMPENSACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Julio 2026 
+ 
+ 
+
+===== p.1 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+1 
+ 
+Índice 
+6. 
+PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN AMBIENTAL ....... 2 
+6.1. 
+Introducción ............................................................................................................ 2 
+6.2. 
+Objetivo general ...................................................................................................... 2 
+6.3. 
+Metodología ............................................................................................................ 3 
+6.4. 
+Resultados ............................................................................................................... 5 
+6.4.1. 
+Medida de Mitigación ..................................................................................... 5 
+6.4.2. 
+Medida de reparación ..................................................................................... 9 
+6.4.3. 
+Medida de compensación ............................................................................. 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.2 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+2 
+ 
+6. PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN AMBIENTAL 
+6.1. 
+Introducción  
+ 
+El Proyecto “Centro Metropolitano de Gestión Integral de Residuos” contempla la 
+construcción, habilitación, operación y cierre de una instalación integral para la gestión de 
+residuos sólidos domiciliarios y asimilables, incorporando unidades de disposición final, 
+reciclaje, compostaje, tratamiento de lixiviados y tratamiento de biogás. El proyecto se 
+emplaza en la comuna de Viña del Mar, Región de Valparaíso. 
+En cumplimiento de lo establecido en la letra e) del artículo 12 de la Ley N° 19.300 sobre 
+Bases Generales del Medio Ambiente, modificada por la Ley N° N°21.660/2024, y en la letra 
+i) del artículo 18 del D.S. N° 40/12 del Ministerio del Medio Ambiente, que aprueba el 
+Reglamento del Sistema de Evaluación de Impacto Ambiental (RSEIA), modificado por el 
+Decreto Supremo N°30/2024, se presenta el presente Plan de Medidas de Mitigación, 
+Reparación y Compensación Ambiental. 
+El objetivo de este plan es describir, fundamentar y establecer las medidas destinadas a 
+evitar, minimizar, reparar, restaurar o compensar los efectos ambientales adversos 
+significativos identificados en los resultados del Capítulo 4 “Predicción y Evaluación de 
+Impactos Ambientales” del presente Estudio de Impacto Ambiental. 
+Las medidas propuestas han sido diseñadas considerando la caracterización del impacto 
+significativo identificado sobre el componente flora y vegetación, con el propósito de 
+asegurar la adecuada protección y recuperación de los atributos ecológicos afectados por la 
+ejecución del Proyecto. 
+ 
+6.2. 
+Objetivo general  
+ 
+Describir y justificar las medidas de mitigación, reparación y/o compensación ambiental que 
+serán implementadas para hacerse cargo de los impactos ambientales adversos de carácter 
+significativos identificados en el proyecto "Centro Metropolitano de Gestión Integral de 
+Residuos". 
+ 
+
+===== p.3 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+3 
+ 
+6.3. 
+Metodología 
+ 
+Para determinar las medidas necesarias para mitigar, reparar o compensar los impactos 
+ambientales significativos generados por el Proyecto, se consideró lo establecido en el Título 
+VI del D.S. N° 40/2012 del Ministerio del Medio Ambiente, Reglamento del Sistema de 
+Evaluación de Impacto Ambiental (RSEIA), modificado por el Decreto Supremo N°30/2024 
+el cual señala que el Plan de Medidas de Mitigación, Reparación y Compensación debe 
+contener, cuando corresponda, uno o más de los siguientes planes: 
+a) Medidas de mitigación ambiental: Las medidas de mitigación tienen por finalidad evitar 
+o disminuir los efectos adversos del proyecto o actividad, cualquiera sea su fase de 
+ejecución. Se expresarán en un Plan de Medidas de Mitigación Ambiental que deberá 
+considerar, al menos, una de las siguientes medidas (Artículo 98 D.S. N°40/12):  
+- Las que impidan o eviten completamente el efecto adverso significativo, mediante la no 
+ejecución de una obra o acción, o de alguna de sus partes.  
+- Las que minimizan o disminuyen el efecto adverso significativo, mediante una adecuada 
+limitación o reducción de la extensión, magnitud o duración de la obra o acción, o de alguna 
+de sus partes.  
+- Las que minimizan o disminuyen el efecto adverso significativo mediante medidas 
+tecnológicas y/o de gestión consideradas en el diseño.  
+b) Medidas de reparación ambiental: Las medidas de reparación tienen por finalidad 
+reponer uno o más de los componentes o elementos del medio ambiente a una calidad 
+similar a la que tenían con anterioridad al impacto sobre dicho componente o elemento o, 
+en caso de no ser ello posible, restablecer sus propiedades básicas. (Artículo 99 D.S. 
+N°40/12).  
+c) Medidas de compensación ambiental: Las medidas de compensación tienen por finalidad 
+producir o generar un efecto positivo alternativo y equivalente a un efecto adverso 
+identificado, que no sea posible mitigar o reparar. Dichas medidas incluirán, entre otras, la 
+sustitución de los recursos naturales o elementos del medio ambiente afectados por otros 
+de similares características, clase, naturaleza, calidad y función. (Artículo 100 D.S. N°40/12).   
+El Articulo 101 D.S N°40/12 agrega que las medidas de compensación se llevarán a cabo en 
+las áreas o lugares en que los impactos significativos se presenten o generen o, si no fuera 
+posible, en otras áreas o lugares en que resulten efectivas. 
+
+===== p.4 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+4 
+ 
+Considerando las definiciones, los antecedentes presentados en la línea de base y los 
+resultados de la predicción y evaluación de impactos ambientales contenidos en el Capítulo 
+4 del presente EIA, las medidas propuestas fueron diseñadas y estructuradas considerando 
+que el Plan deberá contener para cada fase del proyecto o actividad la indicación del 
+componente ambiental; el impacto ambiental asociado; el tipo de medida; nombre, 
+objetivo, descripción y justificación de la medida correspondiente, considerando la 
+adaptación al cambio climático; lugar, forma y oportunidad de implementación; y el 
+indicador de cumplimiento.” 
+La definición de las medidas considera criterios de factibilidad técnica, pertinencia 
+ambiental y proporcionalidad respecto de la magnitud de los impactos identificados, 
+buscando asegurar la adecuada protección, recuperación o compensación de los atributos 
+ecológicos afectados por la ejecución del Proyecto. 
+En la Tabla 6.1 se presenta el valor de la importancia del impacto (IM) para cada categoría 
+de impacto. Los valores fueron obtenidos a partir de la evaluación de un conjunto de 
+atributos cualitativos y semicuantitativos. Con base en los rangos de jerarquización 
+establecidos para la valoración de impactos ambientales, aquellos categorizados como 
+severos y críticos son determinados como impactos significativos, constituyendo la base 
+para la definición de las medidas de mitigación, reparación y/o compensaciones 
+desarrolladas en el presente capítulo. 
+Tabla 6.1 Rangos de jerarquización de impactos ambientales 
+VALOR DE 
+IMPORTANCIA  
+CATEGORÍAS 
+COMPRENDIDAS 
+CLASIFICACIÓN 
+SEGÚN 
+SIGNIFICANCIA 
+CRITERIO TÉCNICO 
+IM < 25 
+Irrelevante  
+Impacto no 
+significativo 
+Corresponde a impactos de baja o mediana 
+intensidad, de alcance limitado, reversibles o 
+recuperables, cuya recuperación no requiere 
+medidas ambientales intensivas. Estos impactos 
+pueden ser abordados mediante medidas de 
+manejo, 
+prevención, 
+control 
+ambiental 
+y/o 
+seguimiento propias de la correcta ejecución del 
+Proyecto. 
+25 ≤ IM < 50 
+Moderado 
+50 ≤ IM < 75 
+Severo  
+Impacto 
+significativo 
+Corresponde a impactos de mayor intensidad sobre 
+uno o más componentes ambientales u objetos de 
+protección. Su recuperación puede requerir 
+medidas específicas de mitigación, reparación y/o 
+compensación, pudiendo demandar un período 
+prolongado de recuperación o, en el caso de 
+impactos críticos, presentar baja o nula posibilidad 
+de recuperación. 
+IM ≥ 75 
+Crítico 
+
+===== p.5 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+5 
+ 
+6.4. 
+Resultados  
+ 
+De acuerdo con los resultados de la predicción y evaluación de impactos ambientales 
+presentados en el Capítulo 4 "Predicción y Evaluación del Impacto Ambiental del Proyecto", 
+se identificó un impacto ambiental significativo asociado al componente flora y vegetación 
+durante la fase de construcción del Proyecto, sin presentar este tipo de impactos en la fase 
+de operación y cierre. 
+Tal como se presenta en la Tabla 6.2, el impacto identificado en el componente de flora y 
+vegetación obtuvo un valor de importancia (IM) de -56, siendo clasificado en la categoría de 
+impacto severo. En consecuencia, este impacto requiere la implementación de medidas 
+específicas destinadas a mitigar, reparar y/o compensar sus efectos sobre el componente 
+flora y vegetación, de conformidad con lo establecido en el Título VI del D.S. N° 40/2012. 
+Esta categoría se explica por la intervención directa sobre tres especies clasificadas como 
+endémicas y en categoría de conservación de amenaza, identificadas en la línea de base del 
+Proyecto.  
+Tabla 6.2 Impactos significativos identificados.  
+Componente 
+Ambiental  
+Código de 
+impacto 
+Impacto Ambiental  
+IM 
+Clasificación Según 
+Significancia 
+Flora y 
+vegetación 
+FV-C-01 
+Pérdida de ejemplares 
+de flora en categoría 
+de conservación 
+-56 
+Impacto significativo 
+Fuente: Nothofagus 2026. Con base en el Capítulo 4 del presente Estudio de Impacto 
+Ambiental. 
+ 
+6.4.1. 
+Medida de Mitigación  
+De acuerdo con los resultados de la evaluación de impactos ambientales presentados en la 
+Tabla 6.2, y en relación con el impacto FV-C-01 identificado para el componente flora y 
+vegetación durante la fase de construcción del Proyecto, se proponen medidas de 
+mitigación específicas destinadas a reducir la afectación directa sobre individuos de especies 
+de flora clasificadas en categoría de conservación presentes dentro de las áreas de 
+intervención (ver Tabla 6.3). Adicionalmente se incorpora un Plan Biológico donde 
+desarrollan actividades que robustecen la medida de mitigación propuesta y busca reducir 
+la significancia del impacto residual asociado a la pérdida de ejemplares de flora nativa con 
+valor de conservación. 
+
+===== p.6 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+6 
+ 
+Tabla 6.3 Medida de mitigación flora vascular (MMFV-1): Rescate y relocalización de 
+individuos de Alstroemeria marticorenae, Chloraea cristata y Chloraea disoides. 
+N° 
+Elementos 
+Descripción o categorización 
+1 
+Fase del proyecto 
+Construcción  
+2 
+Componente 
+ambiental 
+afectado 
+Flora y vegetación  
+3 
+Impacto 
+ambiental 
+asociado 
+FV-C-01: Pérdida de ejemplares de flora en categoría de conservación 
+4 
+Tipo de medida 
+Mitigación  
+5 
+Nombre de la 
+medida 
+MMFV-1: Rescate y relocalización de las especies Alstroemeria 
+Marticorena, Chloraea cristata y Chloraea disoides. 
+6 
+Objetivo de la 
+medida 
+Reducir la afectación directa sobre ejemplares en categoría de 
+conservación de amenaza, por las actividades de despeje, desbroce, 
+habilitación de caminos, plataformas y obras permanentes.  
+7 
+Descripción de la 
+medida 
+La medida comenzará a implementarse de manera previa al inicio de las 
+actividades de despeje, desbroce y habilitación de las áreas de 
+intervención asociadas a la fase de construcción del Proyecto. Se 
+realizarán de dos a tres prospecciones específicas (microruteo) durante 
+la temporada de primavera-verano para identificar, marcar y 
+georreferenciar los ejemplares de Alstroemeria Marticorena, Chloraea 
+cristata y Chloraea disoides ya identificados en la línea de base (trece 
+ejemplares) y también para corroborar que no existan ejemplares sin 
+registro dentro del área de afectación, esto debido a que las especies 
+presentan un ciclo estacional y que la emergencia de su estructura aérea 
+dependen de las condiciones climáticas. 
+Posteriormente, los individuos identificados serán rescatados durante el 
+período de latencia de las especies, mediante procedimientos acordes a 
+los requerimientos biológicos de las especies, procurando minimizar el 
+daño a los órganos subterráneos de reserva. El órgano subterráneo será 
+recolectado en conjunto con una muestra de sustrato asociada a cada 
+individuo, con el propósito de evaluar la presencia potencial de 
+asociaciones micorrícicas. 
+Los ejemplares rescatados serán viverizados en sustratos artificiales y en 
+el caso de las especies del género Chloraea se conservará una fracción 
+del sustrato original adherido al órgano subterráneo y/o se incorporará 
+parte de este al contenedor. Luego de haber completado como mínimo 
+un ciclo vegetativo, encontrarse en estado de latencia y presentar una 
+condición sanitaria adecuada, serán trasladados al sitio receptor. 
+Como medida complementaria al rescate se recolectarán semillas de 
+ejemplares de Alstroemeria Marticorena identificados en el área de 
+intervención, con el objetivo de elaborar ensayos de propagación a 
+partir de semillas. Esta actividad está destinada a conservar la 
+
+===== p.7 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+7 
+ 
+variabilidad genética de las poblaciones afectadas y apoyar actividades 
+de propagación, incrementando las probabilidades de éxito de la 
+medida de mitigación. Asimismo, se realizarán ensayos de propagación 
+vegetativa con las tres especies, mediante los órganos subterráneos de 
+reserva, destinando una fracción del material vegetal rescatado que, de 
+acuerdo con su estado de conservación y viabilidad, pueda ser utilizada 
+sin comprometer el éxito del rescate de los ejemplares originales. 
+Los ejemplares serán relocalizados en un área previamente evaluada, 
+procurando mantener la mayor equivalencia ecológica posible al área de 
+origen de los ejemplares, ya que de sus características dependerá en 
+gran medida, el establecimiento y supervivencia de los ejemplares 
+rescatados.  
+La relocalización se realizará de manera gradual, priorizando en una 
+primera etapa los individuos rescatados y mantenidos en vivero por al 
+menos una temporada de crecimiento y posteriormente se incorporarán 
+los individuos obtenidos mediante propagación vegetativa y por 
+semillas, los cuales serán relocalizados de acuerdo con su desarrollo y 
+estado fisiológico, asegurando su adecuada preparación para el 
+establecimiento en terreno. 
+Se realizará un programa de seguimiento y monitoreo de los individuos 
+relocalizados por cinco años, permitiendo implementar medidas 
+correctivas en caso de ser necesarias, como ajustes técnicos que 
+permitan incrementar la efectividad de las medidas comprometidas. 
+El monitoreo considerará evaluaciones de supervivencia, funcionalidad 
+(floración, fructificación y producción de semillas) y estado fitosanitario 
+de los ejemplares relocalizados. Adicionalmente, se realizará un análisis 
+comparativo del desempeño de los ejemplares según su origen, 
+diferenciando aquellos provenientes del rescate directo, de propagación 
+vegetativa y de propagación por semillas. 
+Se mantendrá un sistema de codificación asignado a cada ejemplar, 
+asegurando su trazabilidad desde el rescate hasta el programa de 
+monitoreo. 
+ 
+Ver Anexo 6-1 Plan de Manejo Biológico. 
+8 
+Justificación de la 
+medida  
+Las actividades asociadas a la fase de construcción del Proyecto 
+generarán la intervención de sectores con presencia de Alstroemeria 
+marticorenae (EN), Chloraea cristata (VU), Chloraea disoides (CR), 
+especies herbácea endémica de Chile y clasificadas en las categorías En 
+Peligro (EN) y Vulnerable (VU).  
+En este contexto y considerando que no es posible trasladar las obras 
+para evitar su afectación, la implementación de medidas de rescate y 
+relocalización permitirá reducir la pérdida directa de ejemplares 
+producto de las actividades de despeje, desbroce y habilitación de 
+obras, disminuyendo la magnitud del impacto sobre las especies, 
+favoreciendo la conservación de los individuos potencialmente 
+
+===== p.8 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+8 
+ 
+afectados. Adicionalmente, los microruteos comprometidos en el plan 
+biológico, sumando a las actividades de propagación de especies 
+robustecen la medida de mitigación propuesta.    
+9 
+Lugar de la 
+medida 
+1.- Sitio de origen: Áreas de intervención del Proyecto afectado por las 
+actividades de despeje, desbroce, habilitación de caminos, plataformas 
+y obras permanentes y con presencia de los ejemplares en categoría de 
+conservación.  
+ 
+2.- Sitio receptor: Área de relocalización del Proyecto, el cual deberá 
+presentar condiciones ambientales similares a las del lugar de origen, 
+manteniendo la mayor equivalencia ecológica posible. En el sitio de 
+relocalización se evaluarán los siguientes criterios. 
+10 
+Forma y 
+oportunidad de 
+implementación 
+La forma de abarcar la medida será a través del rescate y relocalización 
+de los ejemplares identificados en el área de intervención.  
+
+===== p.9 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+9 
+ 
+Las actividades de identificación, marcaje, colecta de semillas y rescate 
+comenzaran previo a las actividades de despeje, desbroce y habilitación 
+de las áreas de intervención. En cuanto a las actividades de rescate se 
+realizará la extracción del órgano subterráneo durante el periodo de 
+latencia de las especies, es decir, durante la temporada de otoño y 
+mediante un cavado cuidadoso alrededor de la zona previamente 
+demarcada. 
+La viverización y propagación se realizará con un centro especializado 
+con la cual se firme el convenio. La viverización debe considerarse por 
+un mínimo de 24 meses.  
+La relocalización se realizará de manera gradual, priorizando en una 
+primera etapa los individuos rescatados y mantenidos en vivero por al 
+menos una temporada de crecimiento, y posteriormente aquellos que 
+hayan completado dos temporadas en dicha condición. Luego, en etapas 
+posteriores, se incorporarán los individuos obtenidos mediante 
+propagación vegetativa y por semillas.  
+Finalmente, el monitoreo se realizará por un total de 5 años 
+considerados desde los primeros ejemplares relocalizados, permitiendo 
+incorporar medidas de acción en el caso de ser necesario, tanto en las 
+actividades de viverización, como en la relocalización de especies.  
+ 
+Ver detalles en el Anexo 6-1 Plan de Manejo Biológico. 
+11 Indicadores de 
+cumplimiento 
+Para considerar que la medida fue exitosa se evaluaran los siguientes 
+puntos: 
+- 
+Al término del período de monitoreo, al menos el 70% de los 
+individuos efectivamente rescatados y relocalizados presentan 
+condición de supervivencia.  
+- 
+Al término del período de monitoreo, los individuos 
+relocalizados deberán evidenciar el restablecimiento de sus 
+funciones biológicas en el sitio receptor, lo que será evaluado 
+mediante la presencia de desarrollo vegetativo y reproductivo, 
+incluyendo la floración y la fructificación. 
+Fuente: Nothofagus 2026. 
+6.4.2. 
+Medida de reparación  
+De acuerdo con los resultados de la evaluación de impactos ambientales presentados en la 
+Tabla 6.2, y en relación con el impacto FV-C-01 identificado para el componente flora y 
+vegetación durante la fase de construcción del Proyecto, no se registran medidas de 
+reparación.  
+ 
+
+===== p.10 =====
+ 
+ 
+Estudio de Impacto Ambiental 
+ 
+ 
+10 
+ 
+6.4.3. 
+Medida de compensación  
+De acuerdo con los resultados de la evaluación de impactos ambientales presentados en la 
+Tabla 6.2, y en relación con el impacto FV-C-01 identificado para el componente flora y 
+vegetación durante la fase de construcción del Proyecto, no se registran medidas de 
+compensación.  
+ 
+ 
+ 

@@ -1,0 +1,329 @@
+
+===== p.0 =====
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,15 m
+Altura total = 1,15 m
+Volumen
+= 1.000 lts
+RH
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+Wc
+Lo
+ESTANQUE ACUMULACIÓN
+Diámetro= 1,3m
+Altura total= 1,38 m
+Volumen = 1.300 lts
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Wc
+Lo
+Wc
+Lo
+ESTANQUE ACUMULACIÓN
+Diámetro= 2,50 m
+Altura total= 2,10 m
+Volumen = 10.000 lts
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Lo
+Lo
+Lo
+Lo
+Lo
+Lo
+Lo
+Lo
+Lp
+Lp
+Ur
+Bll
+Bll
+Bll
+Bll
+Mlav
+Ur
+Ur
+Bll
+Bll
+Bll
+Bll
+Mlav
+Mlav
+Mlav
+Lv
+Lv
+Lv
+Lv
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,15 m
+Altura total = 1,15 m
+Volumen
+= 1.000 lts
+RH
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,8 m
+Altura total= 1,9 m
+Volumen = 3.400 lts
+RH
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+Wc Lo
+Wc
+Lo
+ESTANQUE ACUMULACIÓN
+Diámetro= 1,15 m
+Altura total= 1,15 m
+Volumen = 1.000 lts
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,15 m
+Altura total = 1,15 m
+Volumen
+= 1.000 lts
+RH
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,8 m
+Altura total = 1,9 m
+Volumen
+= 3.400 lts
+RH
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+Wc
+Lo
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,15 m
+Altura total = 1,15 m
+Volumen
+= 1.000 lts
+RH
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+Wc
+Lo
+Wc
+Lo
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,15 m
+Altura total = 1,15 m
+Volumen
+= 1.000 lts
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Llj
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,3m
+Altura total = 1,38 m
+Volumen
+= 1.300 lts
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Wc
+Lo
+Wc
+Lo
+Wc
+Wc
+Wc
+Lo
+Lo
+Lo
+Lo
+Lo
+Lo
+Lp
+Bll
+Mlav
+Mlav
+Mlav
+Mlav
+Lv
+Lv
+Lv
+Lv
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 2,50 m
+Altura total = 2,10 m
+Volumen
+= 10.000 lts
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Wc
+Lo
+Lo
+Lo
+Lo
+Lo
+Lo
+Lo
+Lo
+Lp
+Lp
+Ur
+Bll
+Bll
+Bll
+Bll
+Mlav
+Ur
+Ur
+Bll
+Bll
+Bll
+Bll
+Mlav
+Mlav
+Mlav
+Lv
+Lv
+Lv
+Lv
+Wc
+Lo
+SISTEMA DE IMPULSIÓN
+Clorador
+Declarador
+Bomba
+ESTANQUE ACUMULACIÓN
+Diámetro
+= 1,15 m
+Altura total = 1,15 m
+Volumen
+= 1.000 lts
+PLANTA EMPLAZAMIENTO
+Escala 1:10.000
+PLANTA AGUA POTABLE
+FECHA
+OBSERVACIÓN
+REV.
+A
+EMITIDO PARA REVISION INTERNA
+B
+EMITIDO PARA ENTREGA CLIENTE
+0
+EMITIDO PARA CONSTRUCCION
+REVISIONES
+CONTENIDO:
+ESTUDIO:
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS
+1
+REVISION
+APROBO:
+REVISO:
+PROYECTO:
+ESCALA: LAS INDICADAS
+FIRMA FECHANº ORDENNº PLANO:
+C.VEGA
+M. ESPARZA
+CMGIR-PS-01
+C. VEGA
+N
+MANTO
+OFICINA ECOTRINCHERAS
+Escala 1:100
+OFICINA PLANTA VALORIZACION
+Escala 1:100
+OFICINA PLANTA QUEMA BIOGAS
+Escala 1:100
+OFICINA PLANTA LIXIVIADOS
+Escala 1:150
+OFICINA CASETA DE CONTROL Y BASCULA
+Escala 1:250
+CAMARINES Y COMEDORES
+Escala 1:100
+N
+N
+N
+N
+N
+N
+267500.000
+268000.000
+268500.000
+269000.000
+267500.000
+268000.000
+268500.000
+269000.000
+6336500.000
+6337000.000
+6337500.000
+6336500.000
+6337000.000
+6337500.000
+OFICINA CASETA CAMINO ACCESO
+Escala 1:100
+N
+Jul-25
+Jul-25
+Jul-25
+Jul-25
+Jul-25
+1 DE 1

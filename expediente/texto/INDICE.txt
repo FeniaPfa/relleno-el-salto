@@ -1,0 +1,3013 @@
+
+===== p.0 =====
+ 
+ 
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ 
+ÍNDICE 
+ 
+ 
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Julio 2026 
+
+===== p.1 =====
+ 
+ 
+CAPÍTULO 1: DESCRIPCIÓN DEL PROYECTO  
+ 
+ÍNDICE DE CONTENIDO 
+1. 
+DESCRIPCIÓN DEL PROYECTO O ACTIVIDAD (TÍTULO III PÁRRAFO 2º ART. 18º) ____________ 1 
+1.1. 
+IDENTIFICACIÓN DEL TITULAR Y REPRESENTANTE LEGAL (ART. 18º C.1.) ____________ 1 
+1.2. 
+ANTECEDENTES GENERALES DEL PROYECTO (ART. 18º C.2.) ______________________ 1 
+1.2.1. 
+NOMBRE DEL PROYECTO O ACTIVIDAD (ART. 18º C.2.1.) ______________________ 1 
+1.2.2. 
+DESCRIPCIÓN BREVE DEL PROYECTO O ACTIVIDAD (ART. 18º C.2.2.) _____________ 2 
+1.2.3. 
+OBJETIVO GENERAL DEL PROYECTO O ACTIVIDAD (ART. 18º C.2.3.) ______________ 2 
+1.2.4. 
+TIPOLOGÍA DEL PROYECTO O ACTIVIDAD, ASÍ COMO LAS APLICABLES A SUS PARTES, 
+OBRAS O ACCIONES, DE ACUERDO AL ARTÍCULO 3º DEL REGLAMENTO (ART. 18º C.2.4.) ____ 2 
+1.2.5. 
+MONTO ESTIMADO DE LA INVERSIÓN (ART. 18º C.2.5.) _______________________ 3 
+1.2.6. 
+VIDA ÚTIL DEL PROYECTO Y DE SUS PARTES Y OBRAS (ART. 18º C.2.6.) ___________ 3 
+1.2.7. 
+PROYECTO O ACTIVIDAD DERIVA DE UN REQUERIMIENTO DE INGRESO AL SISTEMA DE 
+EVALUACIÓN DE IMPACTO AMBIENTAL O UN PROGRAMA DE CUMPLIMIENTO PROBADO POR 
+LA SUPERINTENDENCIA DEL MEDIO AMBIENTE, O DE UNA SENTENCIA JUDICIAL __________ 3 
+1.3. 
+LOCALIZACIÓN DEL PROYECTO (ART. 18º C.3) _________________________________ 3 
+1.3.1. 
+LOCALIZACIÓN POLÍTICO - ADMINISTRATIVA (ART. 18º C.3.1.) __________________ 4 
+1.3.2. 
+REPRESENTACIÓN CARTOGRÁFICA EN DATUM WGS 84 (ART. 18º C.3.2.) _________ 5 
+1.3.3. 
+SUPERFICIE DEL PROYECTO (ART. 18º C.3.3.) ________________________________ 6 
+1.3.4. 
+CAMINOS DE ACCESO (ART. 18º C.3.4.) ____________________________________ 7 
+1.3.5. 
+JUSTIFICACIÓN DE LA LOCALIZACIÓN (ART. 18º C.3.5.) ________________________ 8 
+1.3.6. 
+MODIFICACIÓN DE PROYECTO O ACTIVIDAD (ART. 12º) ______________________ 10 
+1.3.7. 
+RELACIÓN CON POLITICAS, PLANES Y PROGRAMAS DE DESARROLLO (ART. 13º) ___ 10 
+1.3.8. 
+RELACIÓN CON POLITICAS Y PLANES EVALUADOS ESTRATEGICAMENTE (ART. 15º) _ 10 
+1.3.9. 
+DESARROLLO DE PROYECTOS O ACTIVIDADES POR ETAPAS (ART. 14º) __________ 10 
+1.3.10. 
+INFORMACIÓN SOBRE NEGOCIACIONES (ART. 17º) _______________________ 10 
+1.3.11. 
+ESTABLECIMIENTO DEL INICIO DE EJECUCIÓN DEL PROYECTO (ART. 16º) ______ 10 
+1.3.12. 
+LA CONDICIÓN DE RIESGO CLIMÁTICO DE LA ZONA. _______________________ 10 
+1.4. 
+DESCRIPCIÓN DE LAS PARTES, ACCIONES Y OBRAS FÍSICAS QUE LO COMPONEN (ART. 18º 
+4.) 
+11 
+1.4.1. 
+DESCRIPCIÓN DE LAS PARTES, ACCIONES Y OBRAS FÍSICAS TEMPORALES ________ 11 
+1.4.2. 
+DESCRIPCIÓN DE LAS PARTES, ACCIONES Y OBRAS FÍSICAS PERMANENTES _______ 18 
+2. 
+DESCRIPCIÓN FASE DE CONSTRUCCIÓN (ART. 18º C.5.) ____________________________ 113 
+2.1. 
+PARTES, OBRAS Y ACCIONES DE LA FASE DE CONSTRUCCIÓN (ART. 18º C.5.1.) _____ 113 
+2.1.1. 
+INSTALACIÓN DE FAENAS _____________________________________________ 113 
+2.1.2. 
+MOVIMIENTOS DE TIERRA ____________________________________________ 116 
+
+===== p.2 =====
+ 
+ 
+2.1.3. 
+EJECUCIÓN DEL SISTEMA DE IMPERMEABILIZACIÓN ZONA DE DISPOSICIÓN DE 
+RESIDUOS ________________________________________________________________ 119 
+2.1.4. 
+PLANTA DE TRATAMIENTO DE LIXIVIADOS _______________________________ 121 
+2.1.5. 
+OBRAS DE MONITOREO DE OBSERVACIÓN SUBSUPERFICIAL. _________________ 122 
+2.1.6. 
+PLANTA DE QUEMA DE BIOGÁS ________________________________________ 122 
+2.1.7. 
+PLANTA DE RECICLAJE _______________________________________________ 122 
+2.1.8. 
+PLANTA DE COMPOSTAJE _____________________________________________ 123 
+2.2. 
+FECHA ESTIMADA PARA EL INICIO Y TÉRMINO DE LA FASE DE CONSTRUCCIÓN (ART. 18º 
+C.5.2.) 125 
+2.3. 
+FASE DE CONSTRUCCIÓN (ART 18º C.5.3.) CRONOGRAMA _____________________ 126 
+2.4. 
+MANO DE OBRA FASE DE CONSTRUCCIÓN (ART. 18º C.5.4.) ____________________ 128 
+2.5. 
+SUMINISTROS BÁSICOS FASE DE CONSTRUCCIÓN (ART. 18º C.5.5.) ______________ 128 
+2.6. 
+UBICACION Y CANTIDAD DE LOS RECURSOS NATURALES RENOVABLES A EXTRAER __ 130 
+2.7. 
+EMISIONES FASE DE CONSTRUCCION ______________________________________ 131 
+2.7.1. 
+EMISIONES ATMOSFERICAS Y GASES ____________________________________ 131 
+2.7.2. 
+EMISIONES GEI _____________________________________________________ 132 
+2.7.3. 
+EMISIONES DE RUIDO ________________________________________________ 134 
+2.7.4. 
+VIBRACIONES ______________________________________________________ 135 
+2.7.5. 
+GENERACIÓN DE OLORES _____________________________________________ 137 
+2.8. 
+RESIDUOS FASE DE CONSTRUCCIÓN (ART. 18º C.5.8.) _________________________ 137 
+2.8.1. 
+RESIDUOS LÍQUIDOS _________________________________________________ 137 
+2.8.1.2 
+Residuos líquidos Industriales. _______________________________________ 138 
+2.8.2. 
+MANEJO DE RESIDUOS SÓLIDOS _______________________________________ 138 
+3. 
+DESCRIPCIÓN FASE DE OPERACIÓN (ART. 18º C.6.) ________________________________ 141 
+3.1. 
+PARTES, OBRAS Y ACCIONES DE LA FASE DE OPERACIÓN, INCLUYENDO LOS PERÍODOS DE 
+PRUEBA O PUESTA EN MARCHA (ART. 18º C.6.1) ___________________________________ 141 
+3.1.1. 
+ZONA DE RECICLAJE _________________________________________________ 141 
+3.1.2. 
+ZONA DE COMPOSTAJE ______________________________________________ 143 
+3.1.3. 
+ZONA DE DISPOSICIÓN FINAL __________________________________________ 147 
+3.1.4. 
+FUNCIONAMIENTO DE LA LOSA DE LAVADO DE CAMIONES __________________ 151 
+3.1.5. 
+OBRAS DE MONITOREO DE OBSERVACIÓN SUBSUPERFICIAL. _________________ 152 
+3.1.6. 
+PLANTA DE TRATAMIENTO DE LIXIVIADO ________________________________ 152 
+3.1.7. 
+PLANTA DE QUEMA DE BIOGÁS ________________________________________ 153 
+3.1.8. 
+MEDIDAS DE PREVENCIÓN Y CONTROL DE OLORES Y AVES. __________________ 157 
+3.1.9. 
+PROGRAMA DE CONTROL DE PLAGAS ___________________________________ 158 
+
+===== p.3 =====
+ 
+ 
+3.1.10. 
+MEDIDAS DE MANTENCIÓN, PREVENCIÓN Y/O DE EMISIÓN DE MATERIAL 
+PARTICULADO_____________________________________________________________ 159 
+3.1.11. 
+MEDIDAS DE LIMPIEZA Y MANTENCIÓN GENERAL _______________________ 160 
+3.1.12. 
+MANTENCIÓN DE EQUIPOS _________________________________________ 160 
+3.1.13. 
+MANTENCIÓN DE MAQUINARIA _____________________________________ 160 
+3.2. 
+FECHA ESTIMADA PARA EL INICIO Y TÉRMINO DE LA FASE DE OPERACIÓN (ART. 18º C.6.2.)
+ 
+161 
+3.3. 
+CRONOGRAMA DE LAS PRINCIPALES PARTES, OBRAS Y ACCIONES ASOCIADAS A ESTA 
+FASE (ART. 18º C.6.3.) ________________________________________________________ 161 
+3.4. 
+MANO DE OBRA FASE DE OPERACIÓN (ART. 18º C.6.4.) _______________________ 161 
+3.5. 
+DESCRIPCIÓN DE LAS ACTIVIDADES DE MANTENCIÓN (ART. 18º C.6.5.) ___________ 163 
+3.5.1. 
+MANTENCIÓN DE INFRAESTRUCTURA PERIFÉRICA, INSTALACIONES DE APOYO Y 
+SUMINISTROS _______________________________________________________________ 163 
+3.5.2. 
+MANTENCION DE CAMINOS Y CONTROL DE EMISIONES _____________________ 164 
+3.5.3. 
+MANTENIMIENTOS OPERACIONALES EN LA ZONA DE DISPOSICIÓN ____________ 164 
+3.5.4. 
+MONITOREO AMBIENTAL E INSTALACIONES DE RIESGO Y SUMINISTROS _______ 164 
+3.6. 
+SUMINISTROS BÁSICOS FASE DE OPERACIÓN (ART. 18º C.6.6.) __________________ 165 
+3.7. 
+CUANTIFICACIÓN Y FORMA DE MANEJO DE LOS PRODUCTOS GENERADOS (ART. 18º 
+C.6.7.) 168 
+3.7.1. 
+CUANTIFICACIÓN Y MANEJO PRODUCTOS GENERADOS EN LA PLANTA DE RECICLAJE Y 
+COMPOSTAJE _____________________________________________________________ 168 
+3.8. 
+CANTIDAD DE RECURSOS NATURALES RENOVABLES A EXTRAER O EXPLOTAR POR EL 
+PROYECTO O ACTIVIDAD (ART. 18º a.6.8.) _________________________________________ 168 
+3.9. 
+EMISIONES DAFE DE OPERACIÓN (ART. 18º C.6.9.) ___________________________ 169 
+3.9.1. 
+EMISIONES ATMOSFÉRICAS Y GASES ____________________________________ 169 
+3.9.2. 
+RESULTADO DE EMISIONES GEI ________________________________________ 170 
+3.9.3. 
+RESULTADO DE EMISIONES DE RUIDO ___________________________________ 172 
+3.9.4. 
+RESULTADO DE VIBRACIONES _________________________________________ 173 
+3.9.5. 
+EMISION DE OLORES ________________________________________________ 174 
+3.10. 
+RESIDUOS FASE DE OPERACIÓN (ART. 18º C.6.10.) ___________________________ 175 
+3.10.1. 
+RESIDUOS LÍQUIDOS ______________________________________________ 175 
+3.10.2. 
+MANEJO DE RESIDUOS SÓLIDOS _____________________________________ 177 
+4. 
+DESCRIPCIÓN DE LA FASE DE CIERRE (ART.18 C.7) ________________________________ 181 
+4.1. 
+DESMANTELAMIENTO DE INFRAESTRUCTURA (ART.18. C.7.1.) __________________ 182 
+4.1.1. 
+CIERRE Y ABANDONO DEL RELLENO SANITARIO ___________________________ 183 
+4.1.2. 
+RESTAURACIÓN DE LA MORFOLOGÍA DE LAS ÁREAS INTERVENIDAS (ART.18. C.2.) 185 
+4.1.3. 
+RESTAURACIÓN DE LA MORFOLOGÍA DE LAS ÁREAS INTERVENIDAS ___________ 185 
+
+===== p.4 =====
+ 
+ 
+4.2. 
+MANO DE OBRA FASE DE CIERRE _________________________________________ 185 
+4.3. 
+MAQUINARIA Y VEHÍCULOS Y SUMINISTROS BASICOS. ________________________ 186 
+4.4. 
+EMISIONES DEL PROYECTO Y LAS FORMAS DE ABATIMIENTO Y CONTROL 
+CONTEMPLADAS EN LA ETAPA DE CIERRE _________________________________________ 188 
+4.4.1. 
+EMISIONES ATMOSFERICAS Y GASES ____________________________________ 188 
+4.4.2. 
+EMISIONES GEI _____________________________________________________ 189 
+4.4.3. 
+EMISIONES DE RUIDO ________________________________________________ 190 
+4.4.4. 
+EMISIONES DE VIBRACIONES __________________________________________ 191 
+4.4.5. 
+EMISION DE OLORES ________________________________________________ 192 
+4.4.6. 
+RESIDUOS LÍQUIDOS _________________________________________________ 192 
+4.4.7. 
+RESIDUOS SÓLIDOS __________________________________________________ 193 
+4.4.8. 
+MANEJO DE LODOS _________________________________________________ 195 
+4.4.8.1 
+LODOS DE AGUAS SERVIDAS ________________________________________ 195 
+4.4.8.2 
+LODO PLANTA DE LIXIVIADOS. _______________________________________ 195 
+4.5. 
+FECHA ESTIMADA PARA EL INICIO Y TÉRMINO DE LA FASE DE CIERRE ____________ 196 
+4.6. 
+CRONOGRAMA DE LAS PRINCIPALES PARTES, OBRAS Y ACCIONES ASOCIADAS A ESTA 
+FASE 
+197 
+ 
+INDICE DE TABLAS 
+Tabla 1: Identificación del Titular ........................................................................................................ 1 
+Tabla 2: Representante legal. .............................................................................................................. 1 
+Tabla 3: Coordenadas UTM de vértice (Datum WGS 84 Huso 19-H) .................................................. 6 
+Tabla 4: Superficies del Proyecto ........................................................................................................ 6 
+Tabla 5: Coordenadas UTM de vértice (Datum WGS 84 Huso 19-H) ................................................ 12 
+Tabla 6: Partes y Obras físicas del Proyecto ...................................................................................... 18 
+Tabla 7: Cuadro de superficies .......................................................................................................... 19 
+Tabla 8: Imagen Google Earth Extensión completa camino acceso .................................................. 22 
+Tabla 9: Movimientos de tierras Camino de acceso ......................................................................... 22 
+Tabla 10: Movimientos de tierras caminos interiores ...................................................................... 23 
+Tabla 11: Movimientos de tierra Plataformas .................................................................................. 25 
+Tabla 12: Coordenadas UTM de vértices cierres perimetrales (Datum WGS 84 Huso 19-H) ........... 26 
+Tabla 13: Coordenadas UTM de vértices caseta control acceso camino (Datum WGS 84 Huso 19-H)
+ ........................................................................................................................................................... 30 
+Tabla 14: Coordenadas UTM de vértices caseta control acceso al proyecto (Datum WGS 84 Huso 19-
+H) ....................................................................................................................................................... 30 
+Tabla 15: Coordenadas UTM de vértices oficinas administrativas y de operación (Datum WGS 84 
+Huso 19-H) ......................................................................................................................................... 32 
+Tabla 16: Coordenadas UTM de vértices  Comedores, camarines y servicios higiénicos (Datum WGS 
+84 Huso 19-H) .................................................................................................................................... 35 
+Tabla 17: Coordenadas UTM de vértices oficina y báscula de pesaje (Datum WGS 84 Huso 19-H) . 36 
+Tabla 18. Cálculo agua a tratar .......................................................................................................... 38 
+Tabla 19: Coordenadas UTM de vértices losa de lavado de camiones (Datum WGS 84 Huso 19-H) 40 
+
+===== p.5 =====
+ 
+ 
+Tabla 20: Coordenadas UTM de vértices Galpón de mantención y losa para estacionamiento (Datum 
+WGS 84 Huso 19-H). .......................................................................................................................... 42 
+Tabla 21: Coordenadas bodega RESPEL N°1 - galpón de mantención (Datum WGS 84 Huso 19-H). 44 
+Tabla 22: Emplazamiento bodega RESPEL N°2 - planta de tratamiento de lixiviados ...................... 44 
+Tabla 23: Personal del Proyecto ........................................................................................................ 45 
+Tabla 24: Coordenadas UTM de vértices Planta reciclaje (Datum WGS 84 Huso 19-H) ................... 49 
+Tabla 25: Coordenadas UTM de vértices de zona de compostaje (Datum WGS 84 Huso 19-H) ...... 58 
+Tabla 26: Condiciones de diseño ....................................................................................................... 60 
+Tabla 27: Determinación vida útil ..................................................................................................... 61 
+Tabla 28: Cálculo del volumen celda diaria ....................................................................................... 64 
+Tabla 29: Coordenadas UTM de vértices celda relleno sanitario (Datum WGS 84 Huso 19-H) ........ 65 
+Tabla 30: Diseño celda de residuos ................................................................................................... 66 
+Tabla 31: Movimientos de tierras bermas perimetrales ................................................................... 67 
+Tabla 32: Movimiento de tierras excavación .................................................................................... 69 
+Tabla 33: Coordenadas UTM de vértices muros de contención (Datum WGS 84 Huso 19-H) ......... 71 
+Tabla 34: Movimiento de tierras muros de contención .................................................................... 71 
+Tabla 35: Capacidades de recepción por cada etapa ........................................................................ 73 
+Tabla 36: Coordenadas UTM vértices impermeabilización (Datum WGS 84 Huso 19-H) ................. 76 
+Tabla 37: Coordenadas vértices inicio – fin de obras de canalización proyectadas ......................... 83 
+Tabla 38: Movimientos de tierra globales (balance general) ............................................................ 89 
+Tabla 39: Caracterización fisicoquímica líquidos percolados relleno sanitario urbano zona central 92 
+Tabla 40: Características de los perfiles utilizados en la simulación ................................................. 93 
+Tabla 41: Volumen anual y acumulado de lixiviados generados ...................................................... 94 
+Tabla 42: Balance hídrico .................................................................................................................. 95 
+Tabla 43: Coordenadas UTM vértices piscina de lixiviados (Datum WGS 84 Huso 19-H) ................. 98 
+Tabla 44: Movimiento de tierras piscinas ......................................................................................... 98 
+Tabla 
+45: 
+Coordenadas 
+UTM 
+vértices 
+bandejas 
+de 
+evaporación 
+permanentes                                   
+(Datum WGS 84 Huso 19-H) ............................................................................................................ 100 
+Tabla 46: Superficie bandejas de evaporación................................................................................ 101 
+Tabla 47: Datos del diseño de los pozos de recirculación ............................................................... 102 
+Tabla 
+48: 
+Coordenadas 
+UTM 
+de 
+vértices 
+zona 
+de 
+tratamiento 
+de 
+lixiviados                                   
+(Datum WGS 84 Huso 19-H) ............................................................................................................ 103 
+Tabla 49: Tabla de coordenadas pozos de observación .................................................................. 107 
+Tabla 50: Valores máximos según escenarios de proyecciones de flujo esperado de biogás. ....... 108 
+Tabla 51: Número de chimeneas y valores esperados de flujo de extracción de biogás según la etapa 
+del proyecto del Relleno Sanitario. ................................................................................................. 109 
+Tabla 52: Capacidad de flujo de extracción y tratamiento de biogás para cada etapa del proyecto del 
+Relleno Sanitario. ............................................................................................................................ 110 
+Tabla 53: Planta tratamiento biogás ............................................................................................... 111 
+Tabla 54: Coordenadas UTM de vértices planta tratamiento de biogás (Datum WGS 84 Huso 19-H)
+ ......................................................................................................................................................... 111 
+Tabla 55: Ubicación colector MPS ................................................................................................... 116 
+Tabla 56: Coordenadas de ubicación de obra de monitoreo .......................................................... 122 
+Tabla 57: Maquinaria y equipos fase de construcción .................................................................... 128 
+Tabla 58: Suministros fase de construcción .................................................................................... 128 
+Tabla 59: Resultado de Emisiones Atmosféricas y Gases ................................................................ 131 
+Tabla 60: Resultado de Emisiones GEI ............................................................................................ 133 
+Tabla 61: Emisiones de Ruido Fuentes Fijas .................................................................................... 134 
+
+===== p.6 =====
+ 
+ 
+Tabla 62: Emisiones de Ruido Fuentes Móviles .............................................................................. 135 
+Tabla 63: Resultado de Emisión de Vibraciones, daño estructural ................................................. 136 
+Tabla 64. Resultado de Emisión de Vibraciones, molestia las personas. ........................................ 137 
+Tabla 65: Generación Aguas Servidas Fase de Construcción .......................................................... 138 
+Tabla 66: Estimación de Residuos Sólidos Domésticos o asimilables en la fase de construcción .. 138 
+Tabla 67: Estimación Generación RSINP ......................................................................................... 139 
+Tabla 68: Generación residuos peligrosos - Fase Construcción ...................................................... 140 
+Tabla 69: Coordenadas de ubicación de obra de monitoreo .......................................................... 152 
+Tabla 70: Número de pozos y valores esperados de flujo de extracción de biogás según la etapa del 
+proyecto del Relleno Sanitario. ....................................................................................................... 154 
+Tabla 71: Capacidad de flujo de extracción y tratamiento de biogás para cada etapa del proyecto del 
+Relleno Sanitario. ............................................................................................................................ 155 
+Tabla 72: Personal requerido para la operación del proyecto ........................................................ 161 
+Tabla 73: Maquinaria y equipos fase de operación ........................................................................ 162 
+Tabla 74: Suministros básicos fase de operación ............................................................................ 165 
+Tabla 75: Cantidad y manejo de productos generados .................................................................. 168 
+Tabla 76: Resultado de Emisiones Atmosféricas y Gases ................................................................ 169 
+Tabla 77: Resultado de Emisiones GEI ............................................................................................ 170 
+Tabla 78: Emisiones de Ruido Fuentes fijas .................................................................................... 172 
+Tabla 79: Emisiones de Ruido Simultáneas Actividades de Construcción y Operación .................. 172 
+Tabla 80: Resultado de Emisiones de Vibraciones, daño estructural. ............................................ 173 
+Tabla 81: Resultado de Emisiones de Vibraciones, molestia a las personas .................................. 173 
+Tabla 82: Generación Aguas Servidas Fase de Operación .............................................................. 175 
+Tabla 83: Proyección generación lixiviados..................................................................................... 176 
+Tabla 84: Consumo agua lavado de camiones ................................................................................ 177 
+Tabla 85: Estimación Residuos Sólidos Domésticos o asimilables .................................................. 177 
+Tabla 86: Estimación total de Residuos Sólidos Domésticos o Asimilables .................................... 178 
+Tabla 87: Generación residuos peligrosos - Fase Operación .......................................................... 179 
+Tabla 88: Generación de lodos en instalaciones ............................................................................. 179 
+Tabla 89: Generación de lodos ........................................................................................................ 180 
+Tabla 90: Generación de lodos fase de Operación ......................................................................... 181 
+Tabla 91: Descripción de las Partes, Obras y Acciones asociadas ................................................... 182 
+Tabla 92: Maquinaria y Vehículos Fase de cierre ............................................................................ 186 
+Tabla 93: Suministros básicos en la fase de Cierre ......................................................................... 186 
+Tabla 94: Resultado de Emisiones Atmosféricas y Gases ................................................................ 188 
+Tabla 95: Resultado de Emisiones GEI ............................................................................................ 189 
+Tabla 96: Emisiones de Ruido Fuentes fijas .................................................................................... 190 
+Tabla 97: Emisión de Vibraciones, daño estructural ....................................................................... 191 
+Tabla 98: Emisión de Vibraciones, molestia a las personas ............................................................ 192 
+Tabla 99: Generación de aguas Servidas – Fase de Cierre .............................................................. 192 
+Tabla 100: Estimación semanal de Residuos Sólidos Domésticos y asimilables ............................. 193 
+Tabla 101: Estimación total de Residuos Sólidos Domésticos o Asimilables .................................. 193 
+Tabla 102: Estimación semanal de Residuos sólidos industriales no peligrosos (RSINP) ............... 194 
+Tabla 103: Generación de residuos peligrosos – Fase de obras de Cierre ...................................... 194 
+Tabla 104: Generación de lodos etapa de cierre ............................................................................ 195 
+Tabla 105: Generación de lodos fase de Cierre .............................................................................. 196 
+ 
+ 
+
+===== p.7 =====
+ 
+ 
+INDICE DE FIGURAS 
+Figura: 1: Cartografía división político-administrativa ........................................................................ 4 
+Figura: 2: Ubicación Centro Metropolitano de Gestión Integral de Residuos .................................... 5 
+Figura: 3: Superficies del Proyecto ...................................................................................................... 7 
+Figura: 4: Conexión acceso Ruta Troncal Sur. ..................................................................................... 8 
+Figura: 5: Generación RSDyA, SUBDERE. ............................................................................................. 9 
+Figura: 6: Distribución instalación de faenas .................................................................................... 12 
+Figura: 7 Emplazamiento zonas de acopio ........................................................................................ 17 
+Figura: 8 Layout general .................................................................................................................... 19 
+Figura: 9: Imagen Google Earth Ruta 60 - Troncal Sur ...................................................................... 21 
+Figura: 10: Camiones Interiores Operacionales ................................................................................ 23 
+Figura: 11: Emplazamiento Plataformas ........................................................................................... 25 
+Figura: 12: Ubicación de cierres perimetrales .................................................................................. 26 
+Figura: 13: Detalle cierre perimetral zona de disposición de residuos ............................................. 28 
+Figura: 14: Detalle cierre perimetral zona de compostaje, zona de reciclaje, zona de tratamiento de 
+lixiviados, zona de tratamiento de biogás y zona de instalaciones operacionales y administrativas
+ ........................................................................................................................................................... 28 
+Figura: 15: Detalle faja cortafuego .................................................................................................... 29 
+Figura: 16: Caseta control de acceso camino .................................................................................... 30 
+Figura: 17. Caseta control de acceso al proyecto.............................................................................. 30 
+Figura: 18. Detalle portón acceso ..................................................................................................... 31 
+Figura: 19: Planta oficinas administrativas y de operación ............................................................... 32 
+Figura: 20: Estación meteorológica tipo. .......................................................................................... 34 
+Figura: 21: Comedores, camarines y servicios higiénicos ................................................................. 35 
+Figura: 22: Emplazamiento oficina y báscula de pesaje .................................................................... 36 
+Figura: 23: Detalles báscula de pesaje .............................................................................................. 37 
+Figura: 24: Planta Losa de lavado de camiones ................................................................................ 39 
+Figura: 25: Elevación de losa de lavado de camiones ....................................................................... 39 
+Figura: 26: Emplazamiento losa lavado de camiones ....................................................................... 40 
+Figura: 27: Diseño galpón de mantención ........................................................................................ 41 
+Figura: 28: Galpón de mantención y losa para estacionamiento...................................................... 42 
+Figura: 29: Imagen referencial - Bodega modular RESPEL ................................................................ 43 
+Figura: 30: Emplazamiento general de bodegas de RESPEL. ............................................................ 44 
+Figura: 31: Emplazamiento planta reciclaje ...................................................................................... 49 
+Figura: 32: Tolva de recepción y cinta elevadora .............................................................................. 50 
+Figura: 33: Correa y plataforma de clasificación de materiales reciclables. ..................................... 51 
+Figura: 34: Cinta transportadora de material rechazo. ..................................................................... 51 
+Figura: 35: Tablero eléctrico e instalación eléctrica .......................................................................... 52 
+Figura: 36: Hidrolavadora. ................................................................................................................. 52 
+Figura: 37: Carros material seleccionado. ......................................................................................... 52 
+Figura: 38: Prensa vertical ................................................................................................................. 53 
+Figura: 39: Prensa Horizontal. ........................................................................................................... 53 
+Figura: 40: Pesa electrónica capacidad 600 Kg. ................................................................................ 53 
+Figura: 41: Pilas de fardos y elevador de fardos. .............................................................................. 54 
+Figura: 42: Tolva de alimentación kit de trituración de plásticos. .................................................... 54 
+Figura: 43: Cinta transportadora. ...................................................................................................... 54 
+Figura: 44: Imágenes referenciales ductos de aspiración ................................................................. 56 
+Figura: 45: Imagen referencial de biofiltro ....................................................................................... 56 
+
+===== p.8 =====
+ 
+ 
+Figura: 46: Imágenes referenciales trincheras .................................................................................. 57 
+Figura: 47: Emplazamiento Sistema de Abatimiento de olores en Planta de compostaje. .............. 58 
+Figura: 48: Celda Relleno Sanitario ................................................................................................... 65 
+Figura: 49: Bermas perimetrales ....................................................................................................... 67 
+Figura: 50: Diseño Excavación ........................................................................................................... 69 
+Figura: 51: Emplazamiento muros de contención ............................................................................ 70 
+Figura: 52: Ejemplo, Perfil Muro de contención 4 ............................................................................ 71 
+Figura: 53: Subdivisión del vaso por etapas ...................................................................................... 73 
+Figura: 54: Conformación del sello basal relleno sanitario ............................................................... 75 
+Figura: 55: Superficie a impermeabilizar........................................................................................... 75 
+Figura: 56: Resultado de generación total de metano, expresadas en m3/año y en ton/año ......... 77 
+Figura: 57: Resultado de generación total de biogás, expresadas en m3/año y ton/año ................ 78 
+Figura: 58: Detalle de chimenea de biogás en operación ................................................................. 79 
+Figura: 59: Ubicaciones de ventilaciones o captaciones de biogás en un relleno sanitario. ............ 80 
+Figura: 60: Distribución espacial de las chimeneas proyectadas. ..................................................... 81 
+Figura: 61: Vista en planta obras manejo aguas lluvias del proyecto: red de canales, puntos de 
+captación y descargas. ...................................................................................................................... 82 
+Figura: 62: Planta red de lixiviados ................................................................................................... 85 
+Figura: 63: Detalle cámara de conexión ............................................................................................ 86 
+Figura: 64: Planta y elevación pozos de captación de lixiviados ....................................................... 87 
+Figura: 65: Elementos del balance hidrológico del relleno sanitario ................................................ 93 
+Figura: 66: Diseño piscinas de lixiviados ........................................................................................... 97 
+Figura: 67: Perfil 4 Piscina de lixiviados 2 .......................................................................................... 98 
+Figura: 68: Sistema de impermeabilización y detección de fugas en las piscinas de almacenamiento 
+de lixiviados ....................................................................................................................................... 99 
+Figura: 69: Emplazamiento bandejas de evaporación permanentes .............................................. 100 
+Figura: 70: Emplazamiento zona de tratamiento de lixiviados ....................................................... 102 
+Figura: 71: Emplazamiento sistema abatimiento de olores planta de lixiviados. ........................... 105 
+Figura: 72: Emplazamiento sistema de abatimiento de olores piscinas y bandejas de lixiviados. . 105 
+Figura: 73: ubicación de pozos de observación .............................................................................. 106 
+Figura: 74: Proyección de generación y captura de biogás. ............................................................ 108 
+Figura: 75: Proyección de la geometría del relleno sanitario hasta su máxima capacidad y fases del 
+proyecto de habilitación de chimeneas y redes de extracción de biogás....................................... 109 
+Figura: 76: Proyección de captura de biogás versus capacidad de tratamiento. ........................... 111 
+Figura: 77: Movimientos de tierra Etapa N°1 .................................................................................. 118 
+Figura: 78: Ductos de aireación y blower – imagen referencial ...................................................... 124 
+Figura: 79: Arquitectura galpón de compostaje ............................................................................. 125 
+Figura: 80: Diagrama del proceso de tratamiento y recuperación ................................................. 142 
+Figura: 81: Diagrama del proceso ................................................................................................... 143 
+Figura: 82: Detalle conceptual operación en trinchera ................................................................... 145 
+Figura: 83: Detalle membrana. ........................................................................................................ 145 
+Figura: 84: Detalle panel de control ................................................................................................ 146 
+Figura: 85: Diagrama del proceso de ingreso al relleno sanitario ................................................... 147 
+Figura: 86: Movimientos de tierra Etapa N°2 .................................................................................. 150 
+Figura: 87: Movimientos de tierra Etapa N°3 .................................................................................. 151 
+Figura: 88: Proyección de captura de biogás versus capacidad de tratamiento. ........................... 155 
+ 
+ 
+
+===== p.9 =====
+ANEXO CAPÍTULO 1 
+ÍNDICE DE ANEXOS 
+1.1 
+Antecedentes Legales 
+1.2 
+Balance de Lixiviados 
+1.3 
+Mecánica de suelos 
+1.4 
+Plan de Crecimiento 
+1.5 
+Planos del Proyecto: 
+01. PLANOS GENERALES 
+1.1. Listado de planos — CMGIR-LP-01 
+1.2. Geología — CMGIR-GE-01 
+1.3. Lámina equipamiento — CMGIR-PE-01 
+02. INSTALACIONES GENERALES 
+2.1. Levantamiento topográfico — CMGIR-LT-01 
+2.2. Layout general — CMGIR-LG-01 
+2.2. Layout general — CMGIR-LG-02 
+2.3. Cierre perimetral — CMGIR-CP-01 
+2.4. Báscula de pesaje — CMGIR-BP-01 
+2.5. Losa de lavado — CMGIR-LL-01 
+2.5. Losa de lavado — CMGIR-LL-02 
+2.6. Bodega RESPEL — CMGIR-BR-01 
+03. MOVIMIENTOS DE TIERRA 
+3.1. Camino acceso — CMGIR-PG-01 
+3.2. Plataformas — CMGIR-PG-02 
+3.3. Caminos interiores — CMGIR-PG-03 
+3.4. Muros de contención — CMGIR-PG-04 
+3.5. Bermas — CMGIR-PG-05 
+3.6. Piscinas lixiviados — CMGIR-PG-06 
+3.7. Excavación general — CMGIR-PG-08 
+3.8. Manto general — CMGIR-PG-09 
+04. IMPERMEABILIZACIÓN 
+4. Planta impermeabilización — CMGIR-IP-01 
+05. RED DE LIXIVIADOS 
+5. Red de lixiviados — CMGIR-RL-05 
+06. MANEJO DE BIOGÁS 
+
+===== p.10 =====
+6. Manejo de biogás — CMGIR-MB-01 
+6. Manejo de biogás — CMGIR-MB-02 
+07. MANEJO DE AGUAS LLUVIAS 
+7. Manejo de aguas lluvias — CMGIR-ALL-01 
+08. PLAN DE CRECIMIENTO 
+8.1. Plan de crecimiento excavación etapa 1 — CMGIR-PC-01 
+8.2. Plan de crecimiento manto etapa 1 — CMGIR-PC-02 
+8.3. Plan de crecimiento excavación etapa 2 — CMGIR-PC-03 
+8.4. Plan de crecimiento manto etapa 2 — CMGIR-PC-04 
+8.5. Plan de crecimiento excavación etapa 3 — CMGIR-PC-05 
+8.6. Plan de crecimiento manto etapa 3 — CMGIR-PC-06 
+09. PLANTA DE TRATAMIENTO DE LIXIVIADOS 
+9. Planta tratamiento de lixiviados — CMGIR-TL-01 
+10. PLANTA DE BIOGÁS 
+10. Planta tratamiento de biogás — CMGIR-TB-01 
+11. ARQUITECTURA 
+11.1. Oficinas e instalaciones 
+Planos oficinas administrativas y operativas — CMGIR-AR-01  
+Planos oficinas administrativas y operativas — CMGIR-AR-02  
+Planos oficina planta lixiviados — CMGIR-AR-03  
+Planos caseta pesaje y caseta de guardia — CMGIR-AR-04  
+Planos oficinas planta de compostaje — CMGIR-AR-05  
+Planos oficinas planta de reciclaje — CMGIR-AR-06  
+Planos oficinas planta quema de biogás — CMGIR-AR-07  
+11.2. Losa de lavado 
+Planos losa de lavado — CMGIR-AR-10  
+11.3. Planta de compostaje 
+Planos planta de compostaje — CMGIR-AR-08  
+Planos planta de compostaje — CMGIR-AR-09  
+11.4. Galpón de reciclaje 
+
+===== p.11 =====
+Planos galpón reciclaje — CMGIR-AR-14  
+Planos galpón reciclaje — CMGIR-AR-15  
+11.5. Galpón de mantención 
+Planos galpón mantención — CMGIR-AR-11  
+Planos galpón mantención — CMGIR-AR-12  
+Planos galpón mantención — CMGIR-AR-13  
+11.6. Superficies 
+Cuadros de superficies — CMGIR-AR-16  
+12. PROYECTO SANITARIO 
+12.1. Planta agua potable — CMGIR-PS-01 
+12.2. Planta alcantarillado — CMGIR-PS-02 
+1.6 
+Planta Quema de Biogás 
+1.7 
+Proyección de Biogás 
+1.8 
+Condición de Riesgo Climático 
+ 
+
+===== p.12 =====
+ 
+ 
+ 
+CAPÍTULO 2: DETERMINACIÓN Y JUSTIFICACIÓN DEL ÁREA DE INFLUENCIA 
+ÍNDICE 
+2.1. 
+INTRODUCCIÓN.................................................................................................................. 6 
+2.2. 
+OBJETIVO ........................................................................................................................... 7 
+2.3. 
+METODOLOGÍA .................................................................................................................. 7 
+2.3.1. 
+ÁREA DE ESTUDIO Y ÁREA DE INFLUENCIA. .................................................................. 9 
+2.4. 
+DESCRIPCIÓN DEL PROYECTO: ........................................................................................... 9 
+2.4.1. 
+DESCRIPCIÓN DE LAS PARTES, ACCIONES Y OBRAS DEL PROYECTO. .......................... 12 
+2.4.2. 
+TIPOLOGÍA DEL PROYECTO O ACTIVIDAD, ASÍ COMO LAS APLICABLES A SUS PARTES, 
+OBRAS O ACCIONES, DE ACUERDO AL ARTÍCULO 3º DEL REGLAMENTO (ART. 18º C.2.4.) ...... 13 
+2.5. 
+FACTORES GENERADORES DE IMPACTO ......................................................................... 14 
+2.5.1. 
+FASE DE CONSTRUCCIÓN............................................................................................. 14 
+2.5.2. 
+FASE DE OPERACIÓN ................................................................................................... 17 
+2.5.3. 
+FASE DE CIERRE ........................................................................................................... 20 
+2.6. 
+SÍNTESIS DE LA IDENTIFICACIÓN DE ÁREAS DE ESTUDIO, ÁREAS DE INFLUENCIA Y 
+POTENCIAL SIGNIFICANCIA DE IMPACTOS .................................................................................... 22 
+2.6.1. 
+TABLA RESUMEN CARACTERIZACIÓN DE LAS ÁREAS DE ESTUDIO (AE) ...................... 22 
+2.6.2. 
+TABLA RESUMEN DETERMINACIÓN Y JUSTIFICACIÓN DEL AI E IMPACTOS 
+SIGNIFICATIVOS. ........................................................................................................................ 23 
+2.7. 
+ÁREA DE ESTUDIO PARA CADA COMPONENTE DEL MEDIO AMBIENTE .......................... 27 
+2.7.1. 
+CLIMA Y METEOROLOGÍA ............................................................................................ 27 
+2.7.2. 
+GEOLOGÍA .................................................................................................................... 28 
+2.7.3. 
+GEOMORFOLOGÍA Y RIESGOS NATURALES ................................................................. 29 
+2.7.4. 
+USO DEL TERRITORIO .................................................................................................. 30 
+2.7.5. 
+PROYECTOS CON RCA VIGENTE ................................................................................... 33 
+2.8. 
+ÁREA DE INFLUENCIA PARA CADA ELEMENTO DEL MEDIO AMBIENTE SUSCEPTIBLE DE SER 
+AFECTADO ..................................................................................................................................... 34 
+2.8.1. 
+CALIDAD DEL AIRE ....................................................................................................... 34 
+2.8.2. 
+OLORES ........................................................................................................................ 36 
+2.8.3. 
+RUIDO Y VIBRACIONES ................................................................................................ 37 
+2.8.4. 
+EDAFOLOGÍA ................................................................................................................ 39 
+
+===== p.13 =====
+ 
+ 
+ 
+2.8.5. 
+HIDROLOGÍA ................................................................................................................ 41 
+2.8.6. 
+HIDROGEOLOGÍA ......................................................................................................... 42 
+2.8.7. 
+FLORA Y VEGETACIÓN ................................................................................................. 43 
+2.8.8. 
+FLORA NO VASCULAR .................................................................................................. 45 
+2.8.9. 
+ FAUNA TERRESTRE...................................................................................................... 47 
+2.8.10. 
+ENTOMOFAUNA ...................................................................................................... 50 
+2.8.11. 
+MEDIO HUMANO .................................................................................................... 52 
+2.8.12. 
+PAISAJE Y TURISMO ................................................................................................. 53 
+2.8.13. 
+PATRIMONIO ARQUEOLÓGICO. .............................................................................. 55 
+2.8.14. 
+PATRIMONIO CULTURAL PALEONTOLÓGICO. ......................................................... 57 
+2.8.15. 
+ÁREAS PROTEGIDAS Y SITIOS PRIORITARIOS .......................................................... 59 
+2.9. 
+IDENTIFICACIÓN DE LOS COMPONENTES AMBIENTALES SUSCEPTIBLES DE VERSE 
+AFECTADOS POR CAMBIO CLIMÁTICO .......................................................................................... 61 
+2.10. 
+CONCLUSIÓN .................................................................................................................... 63 
+ 
+ 
+
+===== p.14 =====
+ 
+ 
+ 
+ÍNDICE DE FIGURAS 
+Figura 1: Esquema metodológico para la delimitación, justificación y descripción de las Áreas de 
+Influencia. ............................................................................................................................................ 8 
+Figura 2: Cartografía ubicación y localización político-administrativa del Proyecto. ....................... 10 
+Figura 3: Ubicación Centro Metropolitano de Gestión Integral de Residuos. .................................. 11 
+Figura 4: Layout general del proyecto............................................................................................... 13 
+Figura 5: Área de Estudio para el componente Climático y Meteorológico. .................................... 28 
+Figura 6: Área de Estudio para el componente Geológico del Proyecto. ......................................... 29 
+Figura 7: Área de Estudio para el componente Geomorfológico y de Riesgo Natural del Proyecto. 30 
+Figura 8: Área de Estudio para el Uso del Territorio del Proyecto. ................................................... 32 
+Figura 9: Área de Estudio para Proyectos con RCA cercanos al Proyecto......................................... 33 
+Figura 10: Área de influencia para el componente Calidad del Aire (MP y gases). .......................... 35 
+Figura 11: Área de influencia para el componente Calidad del Aire (MPS). ..................................... 35 
+Figura 12: Área de influencia asociada a olores y receptores evaluados. ........................................ 37 
+Figura 13: Área de influencia para el componente ruido y vibraciones. .......................................... 38 
+Figura 14: Área de influencia para el componente Edafológico/Suelo del Proyecto. ...................... 40 
+Figura 15: Área de influencia para el componente Hidrología. ........................................................ 41 
+Figura 16: Área de influencia para el componente Hidrogeológico del Proyecto. ........................... 42 
+Figura 17: Área de influencia para el componente Flora y Vegetación del Proyecto. ...................... 44 
+Figura 18: Área de influencia, componente Flora no vascular. ......................................................... 46 
+Figura 19: Área de influencia del proyecto, componente Fauna terrestre. ...................................... 49 
+Figura 20: Área de influencia del componente Entomofauna del Proyecto. .................................... 51 
+Figura 21: Área de influencia del proyecto, medio humano. ............................................................ 53 
+Figura 22: Área de influencia para el componente Paisaje y Turismo del Proyecto. ........................ 55 
+Figura 23: Área de influencia para el componente Patrimonio Arqueológico del Proyecto. ........... 56 
+Figura 24: Área de influencia para el componente Patrimonio Cultural Paleontológico. ................ 58 
+Figura 25: Área de influencia para el componente Áreas Protegidas y Sitios Prioritarios para la 
+conservación del Proyecto. ............................................................................................................... 60 
+ 
+ 
+ 
+
+===== p.15 =====
+ 
+ 
+ 
+ÍNDICE DE TABLAS 
+ 
+Tabla 1: Partes y obras físicas del Proyecto. ..................................................................................... 12 
+Tabla 2: Identificación de Factores Generadores de Impacto, fase de construcción. ...................... 15 
+Tabla 3:  Identificación de Factores Generadores de Impacto, fase de operación ........................... 18 
+Tabla 4: Identificación de Factores Generadores de Impacto, fase de cierre. .................................. 20 
+Tabla 5: Resumen caracterización de las Áreas de Estudio (AE). ...................................................... 22 
+Tabla 6: Resumen para la determinación y justificación del Área de Influencia e impactos 
+significativos ...................................................................................................................................... 23 
+Tabla 7: Cálculo de Niveles de Inmisión de Ruido AI Fauna. ............................................................. 47 
+Tabla 9: Interacción y sensibilidad de componentes ambientales frente al cambio climático. ....... 61 
+
+===== p.16 =====
+ANEXO CAPÍTULO 2 
+ÍNDICE DE ANEXOS 
+2.1 
+Areas de Influencia kmz CMGIR 
+
+===== p.17 =====
+CAPÍTULO 3: LÍNEA DE BASE AMBIENTAL 
+ÍNDICE 
+ 
+1. INTRODUCCIÓN .............................................................................................................................. 3 
+2. LÍNEAS DE BASE AMBIENTAL.......................................................................................................... 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.18 =====
+ANEXOS CAPÍTULO 3 
+ÍNDICE DE ANEXOS 
+3.1: Línea de Base de Clima y Meteorología 
+3.2: Línea de Base Calidad del Aire 
+3.3: Línea de Base Hidrológica 
+3.4: Línea de Base Hidrogeológica 
+3.5: Línea de Base Geológica 
+3.6: Línea de Base Geomorfológica y Riesgos Naturales 
+3.7: Línea de Base Edafología 
+3.8: Línea de Base y Estudio de Ruido y Vibraciones 
+3.9: Línea de Base Flora y Vegetación 
+3.10: Línea de Base Flora No Vascular 
+3.11: Línea de Base Fauna Terrestre 
+3.12: Línea de Base de Invertebrados Terrestres - Entomofauna 
+3.13: Línea de Base en Patrimonio Arqueológico 
+3.14: Línea de Base Paleontológica 
+3.15: Estudio de Paisaje y Turismo 
+3.16: Línea de Base Áreas Protegidas y Sitios Prioritarios 
+3.17: Línea de Base Uso del Territorio 
+3.18: Estudio de Impacto Vial 
+3.19: Línea de Base Medio Humano 
+3.20: Línea de Base Proyectos con RCA 
+ 
+ 
+
+===== p.19 =====
+ 
+ 
+CAPÍTULO 4: PREDICCIÓN Y EVALUACIÓN DE IMPACTOS 
+INDICE DE CONTENIDOS 
+ 
+4.1 INTRODUCCIÓN ............................................................................................................................. 8 
+4.2 METODOLOGÍA .............................................................................................................................. 9 
+4.2.1 IDENTIFICACIÓN DE FACTORES GENERADORES DE IMPACTO ............................................. 10 
+4.2.2 IDENTIFICACIÓN DE COMPONENTES AMBIENTALES SUSCEPTIBLES DE SER AFECTADOS ... 11 
+4.2.3 IDENTIFICACIÓN DE INTERACCIONES ENTRE FGI Y COMPONENTES AMBIENTALES ............ 11 
+4.2.4 IDENTIFICACIÓN Y CODIFICACIÓN DE IMPACTOS AMBIENTALES ........................................ 12 
+4.2.5 VALORIZACIÓN DE IMPACTOS AMBIENTALES MEDIANTE METODOLOGÍA CONESA ........... 13 
+4.2.6 JERARQUIZACIÓN DE IMPACTOS AMBIENTALES .................................................................. 18 
+4.3 IDENTIFICACIÓN DE FACTORES GENERADORES DE IMPACTO .................................................... 20 
+4.3.1 FASE DE CONSTRUCCIÓN ..................................................................................................... 20 
+4.3.2 FASE DE OPERACIÓN ............................................................................................................ 24 
+4.3.3 FASE DE CIERRE .................................................................................................................... 26 
+4.4 IDENTIFICACIÓN DE COMPONENTES AMBIENTALES SUSCEPTIBLES DE SER AFECTADOS .......... 29 
+4.5 IDENTIFICACIÓN DE IMPACTOS AMBIENTALES ........................................................................... 32 
+4.5.1 IDENTIFICACIÓN PRELIMINAR DE IMPACTOS AMBIENTALES POR COMPONENTE .............. 33 
+4.6 VALORIZACIÓN Y JERARQUIZACIÓN DE IMPACTOS AMBIENTALES ............................................ 37 
+4.7 RESULTADOS DE LA EVALUACIÓN DE IMPACTOS AMBIENTALES ............................................... 37 
+4.7.1 FASE DE CONSTRUCCIÓN ..................................................................................................... 38 
+4.7.1.1 Calidad del aire .............................................................................................................. 38 
+4.7.1.2 Ruido y Vibraciones ....................................................................................................... 40 
+4.7.1.3 Geomorfología y riesgos naturales ............................................................................... 41 
+4.7.1.4 Edafología / suelo .......................................................................................................... 44 
+4.7.1.5 Hidrología ...................................................................................................................... 45 
+4.7.1.6 Hidrogeología ................................................................................................................ 47 
+4.7.1.7 Alteración potencial de aguas subterráneas ................................................................. 48 
+4.7.1.8 Calidad de aguas ............................................................................................................ 50 
+4.7.1.9 Flora y vegetación ......................................................................................................... 52 
+4.7.1.10 Flora no vascular ......................................................................................................... 63 
+
+===== p.20 =====
+ 
+ 
+4.7.1.11 Fauna vertebrados terrestres...................................................................................... 64 
+4.7.1.12 Entomofauna ............................................................................................................... 66 
+4.7.1.13 Patrimonio arqueológico ............................................................................................. 67 
+4.7.1.14 Patrimonio paleontológico .......................................................................................... 69 
+4.7.1.15 Impacto vial ................................................................................................................. 70 
+4.7.1.16 Usos del territorio ....................................................................................................... 73 
+4.7.1.17 Medio humano ............................................................................................................ 74 
+4.7.1.18 Paisaje y Turismo ......................................................................................................... 76 
+4.7.2 FASE DE OPERACIÓN ............................................................................................................ 78 
+4.7.2.1 Calidad del aire .............................................................................................................. 78 
+4.7.2.2 Ruido y vibraciones ....................................................................................................... 80 
+4.7.2.3 Olores ............................................................................................................................ 81 
+4.7.2.4 Geomorfología y riesgos naturales ............................................................................... 82 
+4.7.2.5 Edafología / suelos ........................................................................................................ 85 
+4.7.2.6 Hidrología ...................................................................................................................... 86 
+4.7.2.7 Hidrogeología ................................................................................................................ 87 
+4.7.2.8 Calidad de aguas ............................................................................................................ 89 
+4.7.2.9 Flora y vegetación ......................................................................................................... 91 
+4.7.2.10 Flora no vascular ......................................................................................................... 94 
+4.7.2.11 Fauna vertebrados terrestres...................................................................................... 95 
+4.7.2.12 Entomofauna ............................................................................................................... 96 
+4.7.2.13 Impacto vial ................................................................................................................. 97 
+4.7.2.14 Usos del territorio ....................................................................................................... 98 
+4.7.2.15 Medio humano ............................................................................................................ 99 
+4.7.3 FASE DE CIERRE .................................................................................................................. 103 
+4.7.3.1 Calidad del aire ............................................................................................................ 103 
+4.7.3.2 Ruido y vibraciones ..................................................................................................... 104 
+4.7.3.3 Olores .......................................................................................................................... 105 
+4.7.3.4 Geomorfología y riesgos naturales ............................................................................. 106 
+4.7.3.5 Edafología / suelos ...................................................................................................... 108 
+4.7.3.6 Hidrología .................................................................................................................... 109 
+
+===== p.21 =====
+ 
+ 
+4.7.3.7 Hidrogeología .............................................................................................................. 110 
+4.7.3.8 Calidad de aguas .......................................................................................................... 112 
+4.7.3.9 Flora y vegetación ....................................................................................................... 114 
+4.7.3.10 Flora no vascular ....................................................................................................... 115 
+4.7.3.11 Fauna vertebrados terrestres.................................................................................... 116 
+4.7.3.12 Entomofauna ............................................................................................................. 118 
+4.7.3.13 Impacto vial ............................................................................................................... 119 
+4.7.3.14 Usos del territorio ..................................................................................................... 120 
+4.7.3.15 Medio humano .......................................................................................................... 121 
+4.7.4 RESUMEN CONSOLIDADO DE IMPACTOS AMBIENTALES NEGATIVOS MODERADOS, SEVEROS 
+Y CRÍTICOS ................................................................................................................................... 124 
+4.7.5 RESUMEN CONSOLIDADO DE IMPACTOS AMBIENTALES POSITIVOS MODERADOS, SEVEROS 
+Y CRÍTICOS ................................................................................................................................... 129 
+4.7.6 COMPONENTES EVALUADOS SIN IMPACTOS AMBIENTALES VALORIZABLES .................... 131 
+4.8 CONCLUSIONES ......................................................................................................................... 132 
+ 
+ 
+INDICE DE TABLAS 
+Tabla 1: Codificación Componentes Ambientales. 
+12 
+Tabla 2: Atributos de valorización de impactos ambientales según metodología CONESA. 
+14 
+Tabla 3: Matriz consolidada de impactos ambientales 
+16 
+Tabla 4: Rangos de jerarquización de impactos ambientales 
+17 
+Tabla 5: Criterio metodológico de clasificación de impactos ambientales negativos según 
+significancia. 
+19 
+Tabla 6: Identificación de Factores Generadores de Impacto, fase de construcción. 
+20 
+Tabla 7: Identificación de Factores Generadores de Impacto, fase de operación. 
+23 
+Tabla 8: Identificación de Factores Generadores de Impacto, fase de cierre. 
+26 
+Tabla 9: Componentes ambientales considerados para la identificación de impactos. 
+28 
+Tabla 10: Identificación preliminar de impactos ambientales asociados al Proyecto 
+32 
+Tabla 11: Valorización del impacto CA-C-01 Alteración de la calidad del aire, fase de construcción
+ 
+38 
+Tabla 12: Valorización del impacto RUV-C-01 Aumento de los niveles de presión sonora y 
+vibraciones, fase de construcción 
+40 
+Tabla 13: Valorización del impacto GM-C-01 Modificación geomorfológica, fase de construcción. 41 
+Tabla 14: Valorización del impacto GM-C-02 Alteración/control de riesgos naturales, fase de 
+construcción. 
+42 
+
+===== p.22 =====
+ 
+ 
+Tabla 15: Valorización del impacto SU-C-01 Alteración del suelo, fase de construcción. 
+43 
+Tabla 16: Valorización del impacto HI-C-01 Alteración de escorrentías superficiales, fase de 
+construcción. 
+45 
+Tabla 17: Valorización del impacto HI-C-02 Control de escorrentías superficiales, fase de 
+construcción 
+46 
+Tabla 18: Valorización del impacto HG-C-01 Alteración potencial de aguas subterráneas, fase de 
+construcción 
+47 
+Tabla 19: Valorización del impacto HG-C-02 Protección/control de aguas subterráneas, fase de 
+construcción. 
+48 
+Tabla 20: Valorización del impacto AG-C-01 Alteración potencial de la calidad de aguas, fase de 
+construcción. 
+50 
+Tabla 21: Valorización del impacto AG-C-02 Control de calidad de aguas, fase de construcción. 
+50 
+Tabla 22: Formaciones vegetales en el área de estudio del proyecto y superficie a intervenir. 
+51 
+Tabla 23: Superficie formaciones reguladas por Ley N° 20.283 en área de estudio y superficie a 
+intervenir. 
+52 
+Tabla 24: Especies en categoría de conservación registradas en el área de estudio 
+53 
+Tabla 25: Especies en categoría de conservación registradas en el área de intervención. 
+53 
+Tabla 26: Especies en categoría de conservación Amenazadas (CR, EN, VU) y Casi Amenazadas (NT) 
+registradas en el área de intervención del Proyecto. 
+54 
+Tabla 27: Formaciones vegetales en la superficie de efecto borde definida. 
+55 
+Tabla 27: Formaciones vegetales en la superficie de efecto borde definida. 
+55 
+Tabla 28: Valorización del impacto FV-C-01 Perdida de especies en categoría de conservación. 
+57 
+Tabla 29: Valorización del impacto FV-C-02 Perdida de superficie con vegetación nativa. 
+58 
+Tabla 30: Valorización del impacto FV-C-03 Alteración de superficie con vegetación nativa producto 
+del efecto borde de las obras. 
+59 
+Tabla 31: Relación de superficies de formaciones vegetales por tipo: área de estudio, intervención y 
+efecto borde. 
+60 
+Tabla 32: Valorización del impacto FV-C-04 Alteración de hábitat de especies de flora en categoría 
+de amenaza. 
+61 
+Tabla 33: Valorización del impacto FNV-C-01 Alteración de flora no vascular, fase de construcción
+ 
+62 
+Tabla 34: Valorización del impacto FT-C-01 Alteración de fauna vertebrados terrestres, fase de 
+construcción. 
+64 
+Tabla 35: Valorización del impacto ET-C-01 Alteración de entomofauna, fase de construcción. 
+65 
+Tabla 36: Valorización del impacto AQ-C-01 Afectación potencial de patrimonio arqueológico, fase 
+de construcción. 
+66 
+Tabla 37: Valorización del impacto PA-C-01 Afectación potencial de patrimonio paleontológico, fase 
+de construcción 
+68 
+Tabla 38: Valorización del impacto IV-C-01 Alteración de condiciones de tránsito, fase de 
+construcción. 
+69 
+
+===== p.23 =====
+ 
+ 
+Tabla 39: Valorización del impacto IV-C-02 Restricción temporal de la circulación vial por 
+construcción del empalme de acceso. 
+71 
+Tabla 40: Valorización del impacto UT-C-01 Alteración potencial de usos del territorio, fase de 
+construcción. 
+72 
+Tabla 41: Valorización del impacto MU-C-01 Alteración potencial del medio humano, fase de 
+construcción. 
+73 
+Tabla 42: Valorización del impacto MU-C-02 Efectos socioeconómicos locales, fase de construcción.
+ 
+74 
+Tabla 43: Valorización del impacto PT-C-01, Alteración baja de los atributos paisajísticos y de la 
+percepción visual del área por incorporación de obras e infraestructura del Proyecto. 
+75 
+Tabla 44: Valorización del impacto CA-O-01 Alteración de la calidad del aire, fase de operación 77 
+Tabla 45: Valorización del impacto RUV-O-01 Aumento de ruido y vibraciones, fase de operación 78 
+Tabla 46: Valorización del impacto OL-O-01 Generación de olores, fase de operación 
+79 
+Tabla 47: Valorización del impacto GM-O-01 Modificación geomorfológica progresiva, fase de 
+operación 
+81 
+Tabla 48: Valorización del impacto GM-O-02 Alteración/control de riesgos naturales, fase de 
+operación 
+82 
+Tabla 49: Valorización del impacto SU-O-01 Alteración del suelo, fase de operación. 
+83 
+Tabla 50: Valorización del impacto HI-O-01 Control de escorrentías superficiales, fase de operación
+ 
+84 
+Tabla 51: Valorización del impacto HG-O-01 Alteración potencial de aguas subterráneas, fase de 
+operación. 
+85 
+Tabla 52: Valorización del impacto HG-O-02 Control de aguas subterráneas, fase de operación. 86 
+Tabla 53: Valorización del impacto AG-O-01 Alteración potencial de la calidad de aguas, fase de 
+operación 
+87 
+Tabla 54: Valorización del impacto AG-O-02 Control de calidad de aguas, fase de operación. 
+88 
+Tabla 55: Receptores vegetales de palma chilena y canelo considerados en la modelación de MPS.
+ 
+89 
+Tabla 56: Resultados de MPS en receptores vegetales de palma chilena y canelo. 
+90 
+Tabla 57: Valorización del impacto FV-O-01 Acumulación de material particulado sedimentable 
+sobre la vegetación, fase de operación. 
+91 
+Tabla 59: Valorización del impacto FNV-O-01 Alteración de flora no vascular, fase de operación. 92 
+Tabla 60: Valorización del impacto FT-O-01 Alteración de fauna terrestre, fase de operación. 
+93 
+Tabla 61: Valorización del impacto ET-O-01 Alteración de entomofauna, fase de operación 
+94 
+Tabla 62: Valorización del impacto IV-O-01 Alteración de condiciones de tránsito, fase de operación
+ 
+95 
+Tabla 63: Valorización del impacto UT-O-01 Alteración potencial de usos del territorio, fase de 
+operación 
+96 
+Tabla 64: Valorización del impacto MU-O-01 Alteración potencial del medio humano, fase de 
+operación 
+98 
+Tabla 65: Valorización del impacto MU-O-02 Efectos socioeconómicos locales, fase de operación 99 
+
+===== p.24 =====
+ 
+ 
+Tabla 66: Valorización del impacto CA-CI-01 Alteración temporal de la calidad del aire, fase de cierre
+ 
+101 
+Tabla 67: Valorización del impacto RUV-CI-01 Aumento temporal de ruido y vibraciones, fase de 
+cierre. 
+102 
+Tabla 68: Valorización del impacto OL-CI-01 Generación potencial de olores en cierre, fase de cierre
+ 
+103 
+Tabla 69: Valorización del impacto GM-CI-01 Estabilización morfológica final, fase de cierre 
+104 
+Tabla 70: Valorización del impacto GM-CI-02 Control de riesgos en cierre y post cierre, fase de cierre.
+ 
+105 
+Tabla 71: Valorización del impacto SU-CI-01 Rescate y Reposición del recurso natural suelo, fase de 
+cierre. 
+106 
+Tabla 72: Valorización del impacto HI-CI-01 Control de escorrentías en cierre, fase de cierre. 
+107 
+Tabla 73: Valorización del impacto HG-CI-01 Alteración potencial de aguas subterráneas asociada a 
+lixiviados remanentes, fase de cierre. 
+108 
+Tabla 74: Valorización del impacto HG-CI-02 Seguimiento de aguas subterráneas, fase de cierre.
+ 
+109 
+Tabla 75: Valorización del impacto AG-CI-01 Alteración potencial de la calidad de aguas asociada a 
+lixiviados remanentes, fase de cierre. 
+110 
+Tabla 76: Valorización del impacto AG-CI-02 Seguimiento de calidad de aguas, fase de cierre. 
+110 
+Tabla 77: Valorización del impacto FV-CI-01 Recuperación de cobertura vegetal, fase de cierre. 111 
+Tabla 78: Valorización del impacto FNV-CI-01 Recuperación de microhábitats, fase de cierre. 
+113 
+Tabla 79: Valorización del impacto FT-CI-01 Perturbación temporal de fauna en cierre. 
+114 
+Tabla 80: Valorización del impacto FT-CI-02 Recuperación gradual de hábitat, fase de cierre. 
+115 
+Tabla 81: Valorización del impacto ET-CI-01 Recuperación de hábitat para entomofauna, fase de 
+cierre. 
+116 
+Tabla 82: Valorización del impacto IV-CI-01 Alteración temporal de tránsito en cierre. 
+117 
+Tabla 83: Valorización del impacto UT-CI-01 Modificación de uso territorial en cierre. 
+118 
+Tabla 84: Valorización del impacto MU-CI-01 Alteración potencial del medio humano en cierre. 119 
+Tabla 85: Valorización del impacto MU-CI-02 Efectos socioeconómicos por cierre. 
+120 
+Tabla 86: Resumen consolidado de impactos ambientales negativos moderados, severos y críticos.
+ 
+121 
+Tabla 87: Resumen consolidado de impactos ambientales positivos moderados, severos y críticos.
+ 
+126 
+Tabla 88: Componentes evaluados sin impactos ambientales valorizables. 
+128 
+ 
+ 
+ 
+ 
+ 
+
+===== p.25 =====
+ 
+ANEXO 4.1 ESTIMACIÓN DE EMISIONES ATMOSFÉRICAS  
+ÍNDICE DE CONTENIDO 
+1 
+INTRODUCCIÓN 
+12 
+1.1 
+ANTECEDENTES GENERALES DEL PROYECTO 
+12 
+1.2 
+CRONOGRAMA GENERAL 
+14 
+2 
+ESTIMACIÓN DE EMISIONES DEL PROYECTO 
+20 
+2.1 
+ECUACIÓN GENERAL PARA EL CÁLCULO DE EMISIONES 
+20 
+2.1.1 Factores de emisión ....................................................................................................... 21 
+2.2 
+ACTIVIDADES O FUENTES DE EMISIÓN 
+22 
+2.2.1 Fase de construcción ..................................................................................................... 22 
+2.2.2 Fase de operación .......................................................................................................... 25 
+2.2.3 Fase de cierre ................................................................................................................. 28 
+3 
+RESULTADOS FORZANTES CLIMÁTICOS DE VIDA CORTA (FCVC). 
+31 
+3.1 
+EMISIONES EN FASE DE CONSTRUCCIÓN 
+31 
+3.1.1 Excavaciones ................................................................................................................. 31 
+3.1.2 Compactación ................................................................................................................ 33 
+3.1.3 Nivelación ...................................................................................................................... 36 
+3.1.4 Erosión material en pila ................................................................................................. 38 
+3.1.5 Carguío y volteo de material ......................................................................................... 40 
+3.1.6 Tránsito de vehículos en vías no pavimentadas industriales ........................................ 49 
+3.1.7 Tránsito de vehículos en vías pavimentadas ................................................................. 58 
+3.1.8 Combustión de maquinaria fuera de ruta ..................................................................... 64 
+3.1.9 Combustión de vehículos ............................................................................................... 74 
+3.1.10 
+Combustión de grupos electrógenos ......................................................................... 80 
+3.2 
+EMISIONES EN FASE DE OPERACIÓN 
+82 
+3.2.1 Relleno sanitario ............................................................................................................ 82 
+3.2.2 Planta biogás ................................................................................................................. 87 
+3.2.3 Planta de tratamiento de lixiviados. ............................................................................. 91 
+3.2.4 Erosión material en pila ................................................................................................. 95 
+3.2.5 Carguío y volteo de material ......................................................................................... 96 
+3.2.6 Tránsito de vehículos en vías no pavimentadas industriales ...................................... 104 
+3.2.7 Tránsito de vehículos en vías pavimentadas ............................................................... 110 
+3.2.8 Combustión de vehículos ............................................................................................. 118 
+3.2.9 Combustión de maquinaria fuera de ruta ................................................................... 122 
+3.2.10 
+Combustión de grupos electrógenos ....................................................................... 125 
+3.3 
+EMISIONES FASE DE CIERRE 
+128 
+3.3.1 Compactación .............................................................................................................. 128 
+
+===== p.26 =====
+3.3.2 Nivelación .................................................................................................................... 129 
+3.3.3 Erosión material en pila ............................................................................................... 131 
+3.3.4 Carguío y volteo de material ....................................................................................... 132 
+3.3.5 Tránsito de vehículos en vías no pavimentadas .......................................................... 135 
+3.3.6 Tránsito de vehículos en vías pavimentadas ............................................................... 142 
+3.3.7 Combustión de maquinaria fuera de ruta ................................................................... 148 
+3.3.8 Combustión de vehículos ............................................................................................. 153 
+3.3.9 Combustión de grupos electrógenos ........................................................................... 157 
+4 
+RESULTADOS GASES DE EFECTO INVERNADERO (GEI). 
+160 
+4.1 
+EMISIONES EN FASE DE CONSTRUCCIÓN 
+162 
+4.1.1 Combustión estacionaria. ............................................................................................ 162 
+4.1.2 Combustión móvil ........................................................................................................ 163 
+4.1.3 Combustión de maquinaria fuera de ruta ................................................................... 166 
+4.2 
+EMISIONES EN FASE DE OPERACIÓN 
+180 
+4.2.1 Combustión estacionaria. ............................................................................................ 180 
+4.2.2 Combustión móvil ........................................................................................................ 184 
+4.2.3 Combustión de maquinaria fuera de ruta ................................................................... 189 
+4.2.4 Emisiones fugitivas ...................................................................................................... 191 
+4.3 
+EMISIONES EN FASE DE CIERRE 
+194 
+4.3.1 Combustión estacionaria. ............................................................................................ 194 
+4.3.2 Combustión móvil ........................................................................................................ 197 
+4.3.3 Combustión de maquinaria fuera de ruta ................................................................... 200 
+5 
+RESUMEN EMISIONES FORZANTES CLIMÁTICOS DE VIDA CORTA 
+204 
+5.1 
+RESUMEN DE LAS EMISIONES DE LA FASE DE CONSTRUCCIÓN, OPERACIÓN Y CIERRE DEL PROYECTO POR 
+ACTIVIDAD. 
+208 
+6 
+RESUMEN EMISIONES DE GASES EFECTO INVERNADERO (GEI) 
+209 
+7 
+ÁNALISIS NORMATIVO 
+214 
+8 
+CONCLUSIONES 
+215 
+9 
+BIBLIOGRAFÍA 
+218 
+ 
+ 
+
+===== p.27 =====
+ÍNDICE DE TABLAS 
+ 
+Tabla 1. Cronograma y año calendario estimado del proyecto ........................................................ 15 
+Tabla 2. Cronograma fase de construcción ....................................................................................... 16 
+Tabla 3. Cronograma fase de operación ........................................................................................... 18 
+Tabla 4. Cronograma fase de cierre .................................................................................................. 18 
+Tabla 5. Fuente bibliográfica de cada factor de emisión por contaminante .................................... 21 
+Tabla  6. Emisiones de contaminantes por actividad en fase de construcción ................................. 22 
+Tabla 7. Materiales y movimientos de tierra .................................................................................... 23 
+Tabla 8. Vehículos y tipos de viaje a realizar en fase de construcción .............................................. 24 
+Tabla 9. Rendimiento de maquinarias en fase de construcción ....................................................... 24 
+Tabla 10. Densidad del material en fase de construcción ................................................................ 25 
+Tabla 11. Emisiones de contaminantes por actividad en fase de operación .................................... 25 
+Tabla 12. Materiales de carga y descarga ......................................................................................... 26 
+Tabla 13. Vehículos y tipos de viaje a realizar en fase de operación ................................................ 27 
+Tabla 14. Densidad del material en fase de operación ..................................................................... 28 
+Tabla 15. Emisiones de contaminantes por actividad en fase de cierre ........................................... 29 
+Tabla 16. Movimientos de tierra ....................................................................................................... 30 
+Tabla 17. Vehículos y tipos de viaje a realizar en fase de cierre ....................................................... 30 
+Tabla 18. Rendimiento de maquinarias en fase de cierre ................................................................. 30 
+Tabla 19. Densidad del material en fase de cierre ............................................................................ 31 
+Tabla 20. Nivel de actividad y emisiones directas generadas por la excavación .............................. 33 
+Tabla 21. Nivel de actividad y emisiones directas generadas por la compactación ......................... 35 
+Tabla 22. Nivel de actividad y emisiones directas generadas por la nivelación ............................... 37 
+Tabla 23. Nivel de actividad y emisiones directas generadas por la erosión de pilas de acopio ...... 39 
+Tabla 24. Volúmenes de materiales y excavaciones considerando esponjamiento ......................... 41 
+Tabla 25. Material por cargar dentro del área del proyecto en la fase de construcción .................. 42 
+Tabla 26. Nivel de actividad y emisiones directas generadas por el carguío de material en la fase de 
+construcción ...................................................................................................................................... 43 
+Tabla 27. Material por descargar dentro del área del proyecto en la fase de construcción ............ 44 
+Tabla 28. Nivel de actividad y emisiones directas generadas por el volteo de material en la fase de 
+construcción ...................................................................................................................................... 45 
+
+===== p.28 =====
+Tabla 29. Material por cargar fuera del área del proyecto en la fase de construcción .................... 47 
+Tabla 30. Nivel de actividad y emisiones indirectas generadas por el carguío de material en la fase 
+de construcción ................................................................................................................................. 48 
+Tabla 31. Material por descargar fuera del área del proyecto en la fase de construcción .............. 48 
+Tabla 32. Nivel de actividad y emisiones indirectas generadas por el volteo de material en la fase 
+de construcción ................................................................................................................................. 48 
+Tabla 33. Peso ponderado de la flota directa en vías no pavimentadas en la fase de construcción 
+año 1 .................................................................................................................................................. 52 
+Tabla 34. Peso ponderado de la flota directa en vías no pavimentadas en la fase de construcción 
+año 2 .................................................................................................................................................. 52 
+Tabla 35. Factores de emisión por el tránsito en vías no pavimentadas dentro del área del proyecto
+ ........................................................................................................................................................... 53 
+Tabla 36. Número de viajes a realizar durante la fase de construcción ........................................... 55 
+Tabla 37. Nivel de actividad y emisión por el tránsito en vías no pavimentadas dentro del área del 
+proyecto en la fase de construcción ................................................................................................. 57 
+Tabla 38 Factores de emisión por el tránsito en vías no pavimentadas fuera del área del proyecto
+ ........................................................................................................................................................... 57 
+Tabla 39 Nivel de actividad y emisión por el tránsito en vías no pavimentadas fuera del área del 
+proyecto en la fase de construcción ................................................................................................. 58 
+Tabla 40 Nivel de actividad y emisión por el tránsito en vías pavimentadas dentro del área del 
+proyecto en la fase de construcción ................................................................................................. 61 
+Tabla 41. Factores de emisión por el tránsito en vías pavimentadas fuera del área del proyecto en 
+fase de construcción ......................................................................................................................... 62 
+Tabla 42. Número de viajes y distancias a recorrer por vías pavimentadas fuera del área del 
+proyecto en fase de construcción año 1 ........................................................................................... 62 
+Tabla 43 Número de viajes y distancias a recorrer por vías pavimentadas fuera del área del 
+proyecto en fase de construcción año 2 ........................................................................................... 63 
+Tabla 44. Nivel de actividad y emisiones generadas por el tránsito en vías pavimentadas fuera del 
+área del proyecto en la fase de construcción ................................................................................... 63 
+Tabla 45. Factores para la estimación de emisiones de la maquinaria ............................................. 66 
+Tabla 46. Factor de emisión para la maquinaria del proyecto .......................................................... 66 
+Tabla 47. Nivel de actividad de maquinaria fuera de ruta dentro del área del proyecto en fase de 
+
+===== p.29 =====
+construcción ...................................................................................................................................... 67 
+Tabla 48. Nivel de actividad y emisión generada por la combustión de maquinaria fuera de ruta 
+dentro del proyecto .......................................................................................................................... 68 
+Tabla 49. Factores de emisión de los vehículos considerados en el proyecto .................................. 74 
+Tabla 50. Nivel de actividad por tipo de viaje y vehículo dentro del área del proyecto en fase de 
+construcción ...................................................................................................................................... 76 
+Tabla 51. Nivel de actividad por subcategoría dentro del área del proyecto ................................... 76 
+Tabla 52. Emisión generada por la combustión del motor interno de vehículos en la fase de 
+construcción dentro del área del proyecto ....................................................................................... 76 
+Tabla 53 Número de viajes y distancia a recorrer por tipo de actividad fuera del área del proyecto
+ ........................................................................................................................................................... 78 
+Tabla 54. Nivel de actividad por combustión de vehículos diferenciado por subcategoría fuera del 
+área del proyecto .............................................................................................................................. 78 
+Tabla 55. Nivel de actividad y emisión generada por la combustión del motor interno de vehículos 
+en la fase de construcción fuera del área del proyecto .................................................................... 79 
+Tabla 56. Factores de emisión de grupo electrógeno a diésel .......................................................... 80 
+Tabla 57. Grupos electrógenos considerados durante la fase de construcción ............................... 80 
+Tabla 58 Emisiones generada por la combustión de grupos electrógenos en fase de construcción 81 
+Tabla 59. Parámetros utilizados para la estimación de emisiones del relleno sanitario. ................. 83 
+Tabla 60. Generación anual de metano del relleno sanitario. .......................................................... 85 
+Tabla 61. Resumen de emisiones directas del relleno sanitario. ...................................................... 86 
+Tabla 62. Factores de emisión para planta de biogás ....................................................................... 88 
+Tabla 63. Parámetros específicos para estimación de SO2 y HCl ...................................................... 88 
+Tabla 64. Etapas de captación de biogás consideradas para la planta. ............................................ 89 
+Tabla 65. Nivel de actividad utilizado para la estimación de emisiones por quema controlada de 
+biogás. ............................................................................................................................................... 89 
+Tabla 66. Emisiones directas generadas por la quema controlada de biogás .................................. 91 
+Tabla 67. Factores de emisión para planta de biogás ....................................................................... 92 
+Tabla 68. Nivel de actividad considerado para la planta de tratamiento de lixiviados .................... 93 
+Tabla 69. Emisiones directas generadas por la planta de tratamientos de lixiviados ...................... 94 
+Tabla 70. Factores de emisiones relleno sanitario y planta de reciclaje. .......................................... 98 
+Tabla 71. Nivel de actividad y emisiones directas generadas por el carguío de material en el relleno 
+
+===== p.30 =====
+sanitario en la fase de operación ...................................................................................................... 98 
+Tabla 72. Nivel de actividad y emisiones directas generadas por el carguío de material la planta de 
+reciclaje en la fase de operación ....................................................................................................... 99 
+Tabla 73. Nivel de actividad y emisiones directas generadas por el volteo de material en el relleno 
+sanitario en la fase de operación .................................................................................................... 100 
+Tabla 74. Nivel de actividad y emisiones directas generadas por el volteo de material en la planta 
+de reciclaje en la fase de operación ................................................................................................ 101 
+Tabla 75. Nivel de actividad y emisiones indirectas generadas por el carguío de material para el 
+relleno sanitarios en la fase de operación. ..................................................................................... 102 
+Tabla 76. Nivel de actividad y emisiones indirectas generadas por el carguío de material para la 
+planta de reciclaje en la fase de operación. .................................................................................... 103 
+Tabla 77. Fuentes, rutas y vehículos considerados para el transito no pavimentado directo en fase 
+de operación ................................................................................................................................... 107 
+Tabla 78. Número de viajes por fuente operacional durante la fase de operación ....................... 108 
+Tabla 79. Emisiones directas consolidadas por tránsito en vías no pavimentadas internas .......... 109 
+Tabla 80. Número de viajes por fuente operacional en vías pavimentadas durante la fase de 
+operación ........................................................................................................................................ 113 
+Tabla 81. Emisiones directas consolidadas por tránsito en vías no pavimentadas internas .......... 115 
+Tabla 82. Factores de emisión por tránsito en vías pavimentadas fuera del área del proyecto en 
+fase de operación ............................................................................................................................ 116 
+Tabla 83. Emisiones directas consolidadas por tránsito en vías no pavimentadas externas. ........ 117 
+Tabla 84. Factores de emisión por combustión de vehículos ......................................................... 118 
+Tabla 85. Emisión generada por la combustión del motor interno de vehículos en la fase de 
+operación dentro del área del proyecto ......................................................................................... 119 
+Tabla 86. Emisión generada por la combustión del motor interno de vehículos en la fase de 
+operación fuera del área del proyecto ............................................................................................ 121 
+Tabla 87. Maquinaria fuera de ruta considerada durante la fase de operación. ........................... 123 
+Tabla 88. Emisiones directas consolidadas por combustión de maquinaria fuera de ruta ............ 124 
+Tabla 89. Factores de emisión de grupo electrógeno a diésel ........................................................ 126 
+Tabla 90. Grupos electrógenos considerados durante la fase de operación .................................. 126 
+Tabla 91 Emisiones generada por la combustión de grupos electrógenos en fase de operación .. 127 
+Tabla 92. Nivel de actividad y emisiones directas generadas por la compactación ....................... 129 
+
+===== p.31 =====
+Tabla 93. Nivel de actividad y emisiones directas generadas por la nivelación ............................. 131 
+Tabla 94. Nivel de actividad y emisiones directas generadas por la erosión de pilas de acopio .... 132 
+Tabla 95. Volumen de movimiento de tierras considerando esponjamiento ................................ 134 
+Tabla 96. Nivel de actividad y emisiones directas generadas por el carguío de material en la fase de 
+cierre ............................................................................................................................................... 134 
+Tabla 97. Nivel de actividad y emisiones directas generadas por el volteo de material en la fase de 
+cierre ............................................................................................................................................... 135 
+Tabla 98. Peso ponderado de la flota directa en vías no pavimentadas en la fase de cierre año 28
+ ......................................................................................................................................................... 138 
+Tabla 99 Peso ponderado de la flota directa en vías no pavimentadas en la fase de cierre año 29-47
+ ......................................................................................................................................................... 139 
+Tabla 100. Factores de emisión por el tránsito en vías no pavimentadas dentro del área del 
+proyecto .......................................................................................................................................... 139 
+Tabla 101. Número de viajes a realizar durante la fase de cierre año 28 ....................................... 140 
+Tabla 102 Número de viajes a realizar durante la fase de cierre año 29-47................................... 141 
+Tabla 103. Nivel de actividad y emisión por el tránsito en vías no pavimentadas dentro del área del 
+proyecto en la fase de cierre ........................................................................................................... 141 
+Tabla 104 Factores de emisión por el tránsito en vías no pavimentadas fuera del área del proyecto
+ ......................................................................................................................................................... 142 
+Tabla 105 Nivel de actividad y emisión por el tránsito en vías no pavimentadas fuera del área del 
+proyecto en la fase de cierre ........................................................................................................... 142 
+Tabla 106 Nivel de actividad y emisión por el tránsito en vías pavimentadas dentro del área del 
+proyecto en la fase de cierre ........................................................................................................... 145 
+Tabla 107. Factores de emisión por el tránsito en vías pavimentadas fuera del área del proyecto en 
+fase de cierre ................................................................................................................................... 146 
+Tabla 108. Número de viajes y distancias a recorrer por vías pavimentadas fuera del área del 
+proyecto en fase de cierre año 28 .................................................................................................. 146 
+Tabla 109. Número de viajes y distancias a recorrer por vías pavimentadas fuera del área del 
+proyecto en fase de cierre año 29-47 ............................................................................................. 147 
+Tabla 110. Nivel de actividad y emisiones generadas por el tránsito en vías pavimentadas dentro 
+del área del proyecto en la fase de cierre ....................................................................................... 147 
+Tabla 111. Factores para la estimación de emisiones de la maquinaria......................................... 150 
+
+===== p.32 =====
+Tabla 112. Factor de emisión para la maquinaria del proyecto ...................................................... 150 
+Tabla 113Nivel de actividad de maquinaria fuera de ruta dentro del área del proyecto en fase de 
+cierre ............................................................................................................................................... 151 
+Tabla 114 Nivel de actividad y emisión generada por la combustión de maquinaria fuera de ruta 
+dentro del proyecto ........................................................................................................................ 151 
+Tabla 115. Factores de emisión por combustión de vehículos ....................................................... 153 
+Tabla 116. Nivel de actividad por tipo de viaje y vehículo dentro del área del proyecto en fase de 
+cierre ............................................................................................................................................... 153 
+Tabla 117. Nivel de actividad por subcategoría dentro del área del proyecto ............................... 154 
+Tabla 118. Emisión generada por la combustión del motor interno de vehículos en la fase de cierre 
+dentro del área del proyecto .......................................................................................................... 155 
+Tabla 119. Nivel de actividad por tipo de actividad fuera del área del proyecto ........................... 156 
+Tabla 120. Nivel de actividad por combustión de vehículos diferenciado por subcategoría fuera del 
+área del proyecto ............................................................................................................................ 156 
+Tabla 121. Nivel de actividad y emisión generada por la combustión del motor interno de vehículos 
+en la fase de cierre fuera del área del proyecto ............................................................................. 156 
+Tabla 122. Factores de emisión de grupo electrógeno a diésel ...................................................... 157 
+Tabla 123. Grupos electrógenos considerados durante la fase de cierre ....................................... 158 
+Tabla 124 Emisiones generada por la combustión de grupos electrógenos en fase de cierre ....... 159 
+Tabla 125. Parámetros para la conversión de unidades según los combustibles utilizados en el 
+proyecto. ......................................................................................................................................... 161 
+Tabla 126. Factores de emisión para los combustibles utilizados en el proyecto. ......................... 161 
+Tabla 127. Potenciales de calentamiento atmosféricos. ................................................................ 161 
+Tabla 128. Rendimiento y litros de combustible utilizado por el grupo electrógeno considerado 
+dentro del área proyecto. ............................................................................................................... 162 
+Tabla 129. Emisiones de combustión estacionaria, Gases Efecto Invernadero dentro del área del 
+proyecto .......................................................................................................................................... 163 
+Tabla 130. Emisiones de combustión estacionaria, Gases Efecto Invernadero dentro del área del 
+proyecto .......................................................................................................................................... 163 
+Tabla 131. Rendimiento y litros de combustible utilizados por los vehículos considerados dentro 
+del área proyecto. ........................................................................................................................... 164 
+Tabla 132. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 165 
+
+===== p.33 =====
+Tabla 133. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 165 
+Tabla 134. Rendimiento y litros de combustible utilizados por los vehículos considerados fuera del 
+área proyecto. ................................................................................................................................. 166 
+Tabla 135. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 166 
+Tabla 136. Emisiones de CO2 equivalente fuera del área del proyecto .......................................... 166 
+Tabla 137. Factores para la estimación de emisiones de la maquinaria......................................... 167 
+Tabla 138. Nivel de actividad para la maquinaria del proyecto ...................................................... 168 
+Tabla 139. Nivel de actividad de maquinaria fuera de ruta dentro del área del proyecto en fase de 
+construcción .................................................................................................................................... 171 
+Tabla 140. Emisiones de CO2 equivalente de maquinaria fuera de ruta dentro del área del proyecto 
+en fase de construcción .................................................................................................................. 176 
+Tabla 141. Rendimiento y horas al año utilizados por los grupos electrógenos considerados dentro 
+del área proyecto. ........................................................................................................................... 181 
+Tabla 142. Nivel de actividad y emisiones GEI por combustión de grupos electrógenos. .............. 182 
+Tabla 143 Emisiones GEI asociadas a la quema controlada de biogás en fase de operación ......... 184 
+Tabla 144. Emisiones de GEI por combustión móvil directa. .......................................................... 187 
+Tabla 145. Emisiones de Gases Efecto Invernadero fuera del área del proyecto ........................... 189 
+Tabla 146. Emisiones de GEI por combustión de maquinaria ......................................................... 191 
+Tabla 147 Emisiones GEI asociadas a la quema controlada de biogás en fase de operación ......... 192 
+Tabla 148. Rendimiento y horas al año utilizados por los grupos electrógenos considerados dentro 
+del área proyecto. ........................................................................................................................... 194 
+Tabla 149. Nivel de actividad de los grupos electrógenos considerados dentro del área proyecto 
+para el escenario 1. ......................................................................................................................... 195 
+Tabla 150. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 195 
+Tabla 151. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 196 
+Tabla 152. Emisiones de Gases de Efecto Invernadero dentro del área del proyecto ................... 196 
+Tabla 153. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 197 
+Tabla 154. Rendimiento y litros de combustible utilizados por los vehículos considerados dentro 
+del área proyecto. ........................................................................................................................... 198 
+Tabla 155. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 198 
+Tabla 156. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 199 
+Tabla 157. Rendimiento y litros de combustible utilizados por los vehículos considerados fuera del 
+
+===== p.34 =====
+área proyecto. ................................................................................................................................. 199 
+Tabla 158. Emisiones de Gases Efecto Invernadero dentro del área del proyecto ........................ 200 
+Tabla 159. Emisiones de CO2 equivalente fuera del área del proyecto .......................................... 200 
+Tabla 160. Factores para la estimación de emisiones de la maquinaria......................................... 202 
+Tabla 161. Nivel de actividad para la maquinaria del proyecto ...................................................... 202 
+Tabla 162. Nivel de actividad de maquinaria fuera de ruta dentro del área del ............................ 203 
+Tabla 163. Emisiones de CO2 equivalente de maquinaria fuera de ruta dentro del área del proyecto
+ ......................................................................................................................................................... 203 
+Tabla 164. Emisiones totales generadas por el proyecto (ton/año). .............................................. 205 
+Tabla 165. Emisiones totales en fase de construcción (ton/año). .................................................. 206 
+Tabla 166. Emisiones totales en fase de operación (ton/año)........................................................ 207 
+Tabla 167. Emisiones totales en fase de cierre (ton/año). ............................................................. 207 
+Tabla 168. Emisión de gases efecto invernadero para la fase de construcción del proyecto ........ 210 
+Tabla 169. Emisión de gases efecto invernadero para la fase de operación del proyecto ............. 211 
+Tabla 170. Emisión de gases efecto invernadero para la fase de cierre del proyecto .................... 213 
+ 
+ÍNDICE DE FIGURAS 
+Figura 1. Ubicación del Proyecto ....................................................................................................... 14 
+ 
+
+===== p.35 =====
+ANEXO 4.2: MODELACIÓN METEOROLÓGICA 
+ 
+ÍNDICE DE CONTENIDO 
+1 Introducción ..................................................................................................................................... 4 
+2 Objetivos .......................................................................................................................................... 5 
+2.1 General ...................................................................................................................................... 5 
+2.1.1 Objetivos Específicos .......................................................................................................... 5 
+3 Metodología ..................................................................................................................................... 6 
+3.1 Selección de las estaciones disponibles .................................................................................... 6 
+3.2 Modelación Meteorológica ....................................................................................................... 8 
+3.2.1 Modelo Weather Research and Forecast (WRF) ................................................................ 8 
+3.2.2 Dominio de modelación ..................................................................................................... 8 
+3.3 Presentación de datos meteorológicos modelados .................................................................. 9 
+3.3.1 Series de tiempo ................................................................................................................. 9 
+3.3.2 Ciclo diario ........................................................................................................................ 10 
+3.3.3 Ciclo mensual ................................................................................................................... 10 
+3.3.4 Rosas de los vientos ......................................................................................................... 10 
+3.4 Incertidumbre.......................................................................................................................... 11 
+3.4.1 Análisis cuantitativo ......................................................................................................... 11 
+3.4.2 Análisis cualitativo ............................................................................................................ 14 
+4 Resultados ...................................................................................................................................... 15 
+4.1 Definición del año de modelación meteorológica .................................................................. 15 
+4.1.1 Descripción de la estación y variables analizadas ............................................................ 15 
+4.2 Caracterización de variables meteorológicas.......................................................................... 17 
+4.2.1 Caracterización de la temperatura ................................................................................... 18 
+4.2.2 Caracterización de la velocidad y dirección del viento .................................................... 22 
+4.2.3 Caracterización de la precipitación .................................................................................. 33 
+4.2.4 Altura de la capa límite .................................................................................................... 35 
+4.3 Análisis de incertidumbre........................................................................................................ 39 
+4.3.1 Análisis cuantitativo ......................................................................................................... 39 
+4.3.2 Análisis cualitativo ............................................................................................................ 41 
+5 Conclusión ...................................................................................................................................... 70 
+6 Anexos ............................................................................................................................................ 71 
+ 
+
+===== p.36 =====
+ÍNDICE DE FIGURAS 
+Figura 1. Estaciones de calidad de aire y meteorológicas disponibles en las cercanías del Proyecto 6 
+Figura 2. Serie de tiempo de temperatura modelada ....................................................................... 18 
+Figura 3. Ciclo diario de la temperatura obtenido de los datos del modelo WRF 2025 ................... 19 
+Figura 4. Análisis del ciclo promedio diario y mensual de la temperatura modelado por WRF, para 
+el año 2025 ........................................................................................................................................ 21 
+Figura 5. Serie de tiempo modelada de la velocidad del viento ....................................................... 22 
+Figura 6. Serie de tiempo modelada de la dirección del viento ........................................................ 23 
+Figura 7. Ciclo diario del viento obtenido de los datos del modelo WRF 2025 ................................ 24 
+Figura 8. Ciclo de dirección del viento obtenido de los datos del modelo WRF 2025 ...................... 25 
+Figura 9. Análisis del ciclo promedio diario y mensual de la velocidad y dirección del viento 
+modelado por WRF, para el año 2025 .............................................................................................. 26 
+Figura 10. Serie de tiempo modelada de la precipitación, año 2025. .............................................. 33 
+Figura 11. Precipitación mensual para el año 2025, modelado por WRF ......................................... 34 
+Figura 12. Serie de tiempo de la altura de la capa ímite modelada por WRF, año 2025 .................. 35 
+Figura 13. Ciclo diario modelado de la altura de la capa límite, año 2025. ...................................... 36 
+Figura 14. Ciclo diario de altura de la capa límite ............................................................................. 38 
+ÍNDICE DE TABLAS 
+Tabla 1. Variables disponibles en las estaciones SINCA ...................................................................... 7 
+Tabla 2. Ubicación y porcentaje de datos disponibles en las estaciones de monitoreo utilizadas 
+para evaluar la incertidumbre del modelo.......................................................................................... 8 
+Tabla 3. Características del modelo .................................................................................................... 9 
+Tabla 4. Porcentaje de datos disponible por cada contaminante en la Estación SINCA Quilpué ..... 16 
+Tabla 5. Estadísticos calculados para cada variable a analizar durante el periodo 2023-2025 ........ 16 
+Tabla 6. Rosa y distribución de la velocidad del viento, modeladas por WRF .................................. 28 
+Tabla 7. Resultados estadísticos obtenidos por la modelación ........................................................ 39 
+Tabla 8. Temperatura modelada con WRF y observada en la estación Viña del Mar ...................... 41 
+Tabla 9. Velocidad del viento modelado por WRF y observado en la estación Viña del Mar .......... 44 
+Tabla 10. Temperatura modelada con WRF y observada en la estación Junta de Vecinos .............. 50 
+Tabla 11. Velocidad del viento modelado por WRF y observado en la estación Junta de Vecinos .. 54 
+Tabla 12. Temperatura modelada con WRF y observada en la estación Concón ............................. 60 
+Tabla 13. Velocidad del viento modelado por WRF y observado en la estación Concón ................. 64 
+ 
+ 
+
+===== p.37 =====
+ 
+ANEXO 4.3 MODELACIÓN DE EMISIONES ATMOSFÉRICAS 
+ÍNDICE DE CONTENIDOS 
+1 
+Introducción ................................................................................................................................ 6 
+2 
+Objetivos ..................................................................................................................................... 7 
+3 
+Marco regulatorio ........................................................................................................................ 8 
+3.1 
+Material Particulado Sedimentable ..................................................................................... 8 
+3.2 
+Material Particulado Respirable .......................................................................................... 8 
+3.3 
+Gases Criterio .................................................................................................................... 10 
+4 
+Estado de la Calidad .................................................................................................................. 11 
+5 
+Modelos utilizados .................................................................................................................... 13 
+5.1 
+Modelación Meteorológica – WRF .................................................................................... 13 
+5.2 
+Modelación de Dispersión de Contaminantes Atmosféricos – CALPUFF .......................... 13 
+6 
+Metodología .............................................................................................................................. 15 
+6.1 
+Modelación de Contaminantes Atmosféricos ................................................................... 15 
+6.1.1 
+Escenario de Modelación .......................................................................................... 16 
+6.1.2 
+Subgrilla ..................................................................................................................... 17 
+6.2 
+Receptores ......................................................................................................................... 19 
+6.3 
+Fuentes emisoras............................................................................................................... 22 
+7 
+Resultados ................................................................................................................................. 26 
+7.1 
+Concentraciones modeladas ............................................................................................. 26 
+7.1.1 
+Área de influencia del proyecto ................................................................................ 27 
+7.1.2 
+Dispersión de material particulado sedimentable, MPS ........................................... 29 
+
+===== p.38 =====
+ 
+7.1.3 
+Dispersión de material particulado respirable, MP10 ............................................... 31 
+7.1.4 
+Dispersión material particulado fino respirable, MP2,5............................................ 33 
+7.1.5 
+Dispersión Dióxido de Nitrógeno, NO2 ...................................................................... 35 
+7.1.6 
+Dispersión Dióxido de Azufre, SO2 ............................................................................. 39 
+7.1.7 
+Dispersión Monóxido de Carbono, CO ...................................................................... 42 
+7.1.8 
+Modelación discreta de las emisiones contaminantes .............................................. 44 
+8 
+Conclusión ................................................................................................................................. 55 
+9 
+Bibliografía................................................................................................................................. 59 
+10 
+Anexos ................................................................................................................................... 59 
+ 
+ 
+
+===== p.39 =====
+ 
+ÍNDICE DE TABLAS 
+Tabla 1. Límite normativo MPS ............................................................................................................ 8 
+Tabla 2. Valores normados para MP10 y MP2,5 en Chile .................................................................... 9 
+Tabla 3. Valores normados para NO2 y SO2 en Chile ......................................................................... 10 
+Tabla 4. Valores normados para CO en Chile ..................................................................................... 10 
+Tabla 5. Emisiones totales generadas por el proyecto (ton/año). ..................................................... 16 
+Tabla 6. Receptores MP y gases cercanos al proyecto ...................................................................... 19 
+Tabla 7. Receptores MPS cercanos al proyecto ................................................................................. 20 
+Tabla 8. Fuentes emisoras incluidas en el escenario de modelación: Rutas Internas ....................... 23 
+Tabla 9. Fuentes emisoras incluidas en el escenario de modelación: Rutas Externas ...................... 24 
+Tabla 10. Fuentes emisoras incluidas en el escenario de modelación: Trabajos año 27 .................. 24 
+Tabla 10. Resultados de MP10 diario en receptores discretos.......................................................... 46 
+Tabla 11. Resultados de MP10 anual en receptores discretos .......................................................... 47 
+Tabla 12. Resultados de MP2,5 diario en receptores discretos......................................................... 49 
+Tabla 13. Resultados de MP2,5 anual en receptores discretos ......................................................... 50 
+Tabla 14. Resultados de MPS en receptores discretos ..........................¡Error! Marcador no definido. 
+Tabla 15. Resultados de NO2 en receptores discretos ....................................................................... 51 
+Tabla 16. Resultados de SO2 en receptores discretos........................................................................ 53 
+Tabla 17. Resultados de CO en receptores discretos ......................................................................... 54 
+ 
+
+===== p.40 =====
+ 
+ÍNDICE DE FIGURAS 
+Figura 1. Subgrilla utilizada para la pluma de dispersión .................................................................. 18 
+Figura 2. Ubicación de los receptores discretos cercanos al proyecto MP y gases. .......................... 20 
+Figura 3. Ubicación de los receptores discretos cercanos al proyecto MPS...................................... 21 
+Figura 4. Fuentes emisoras incluidas en la modelación de dispersión de contaminantes ................ 22 
+Figura 5. Área de influencia de MP y gases. ...................................................................................... 28 
+Figura 6. Área de influencia de MPS. ................................................................................................. 29 
+Figura 7. Dispersión de la pluma de MP10 como concentración de 24 horas. ................................. 32 
+Figura 8. Dispersión de la pluma de MP10 como concentración promedio anual............................ 33 
+Figura 9. Dispersión de la pluma de MP2,5 como concentración promedio diaria. ......................... 34 
+Figura 10. Dispersión de la pluma de MP2,5 como concentración promedio anual. ....................... 35 
+Figura 11. Dispersión de la pluma de NO2 como concentración promedio anual. ........................... 36 
+Figura 12. Dispersión de la pluma de NO2 como concentración diaria. ........................................... 37 
+Figura 13. Dispersión de la pluma de NO2 como concentración horaria. ......................................... 38 
+Figura 14. Dispersión de la pluma de SO2 como concentración promedio anual. ........................... 40 
+Figura 15. Dispersión de la pluma de SO2 como concentración diaria. ............................................ 41 
+Figura 16. Dispersión de la pluma de SO2 como concentración horaria. ......................................... 41 
+Figura 17. Dispersión de la pluma de CO como norma horaria. ....................................................... 43 
+Figura 18. Dispersión de la pluma de CO como promedio móvil de 8 horas. ................................... 44 
+ 
+
+===== p.41 =====
+ 
+ANEXO 4.4: MODELACIÓN DE ODORANTES 
+ÍNDICE DE CONTENIDOS  
+1 
+Introducción 
+6 
+2 
+Objetivos ..................................................................................................................................... 8 
+3 
+Marco regulatorio de olores ........................................................................................................ 8 
+3.1 
+Justificación normativa de comparación ......................................................................... 10 
+4 
+Modelos utilizados .................................................................................................................... 13 
+4.1 
+Modelo CALPUFF ............................................................................................................. 13 
+4.2 
+Modelo Weather Research and Forecast (WRF) .............................................................. 15 
+5 
+Metodología .............................................................................................................................. 15 
+5.1 
+Subgrilla ........................................................................................................................... 17 
+5.2 
+Receptores ....................................................................................................................... 19 
+5.3 
+Escenario de modelación ................................................................................................. 21 
+5.4 
+Factores de emisión y referencia ..................................................................................... 25 
+5.5 
+Abatimiento ..................................................................................................................... 28 
+6 
+Estimación de emisiones de olor ............................................................................................... 30 
+7 
+Modelación meteorológica ....................................................................................................... 32 
+8 
+Modelación de olor ................................................................................................................... 32 
+8.1 
+Resultados de la dispersión de olor y análisis normativo ................................................ 33 
+8.2 
+Percepción de olor ........................................................................................................... 37 
+8.3 
+Caracterización del olor ................................................................................................... 39 
+8.3.1 
+Frecuencia ................................................................................................................... 39 
+
+===== p.42 =====
+ 
+8.3.2 
+Intensidad .................................................................................................................... 40 
+8.3.3 
+Duración ...................................................................................................................... 43 
+8.3.4 
+Ofensividad .................................................................................................................. 44 
+8.3.5 
+Localización .................................................................................................................. 45 
+9 
+Conclusión ................................................................................................................................. 46 
+10 
+Bibliografía ........................................................................................................................... 50 
+11 
+Anexos .................................................................................................................................. 51 
+ 
+ 
+
+===== p.43 =====
+ 
+ÍNDICE DE TABLAS 
+Tabla 1. Coordenadas UTM de vértices del proyecto (Datum WGS 84 Huso 19 H) ............................ 7 
+Tabla 2. Límite normativo .................................................................................................................. 12 
+Tabla 3. Receptores cercanos al proyecto ......................................................................................... 19 
+Tabla 4. Fuentes de olor modeladas del proyecto ............................................................................ 23 
+Tabla 5. Factores de emisión o referencia utilizados y su justificación ............................................. 26 
+Tabla 6. Estimación de emisiones odorantes .................................................................................... 30 
+Tabla 7. Ranking de las unidades generadoras de olor ..................................................................... 31 
+Tabla 8. Características de la pluma de dispersión ............................................................................ 34 
+Tabla 9. Análisis del cumplimiento normativo en los receptores ...................................................... 36 
+Tabla 10. Descriptores de efectos de olor propuestos para impactos predichos por modelación ... 37 
+Tabla 11. Percepción del olor en los receptores cercanos al proyecto ............................................. 38 
+Tabla 12. Tabla de frecuencias de eventos de olor ............................................................................ 39 
+Tabla 13. Intensidad y descripción del olor ....................................................................................... 40 
+Tabla 14. Concentración de olor ........................................................................................................ 41 
+Tabla 15. Intensidad del olor en los receptores. ............................................................................... 42 
+Tabla 16. Duración de los eventos de percepción de olor en los receptores .................................... 43 
+ 
+
+===== p.44 =====
+ 
+ÍNDICE DE FIGURAS 
+Figura 1. Ubicación del proyecto ......................................................................................................... 7 
+Figura 2. Subgrilla utilizada para la pluma de dispersión .................................................................. 18 
+Figura 3. Ubicación de los receptores discretos cercanos al proyecto .............................................. 20 
+Figura 4. Ubicación fuentes de olor................................................................................................... 21 
+Figura 5. Pluma de dispersión de odorantes e isodoras .................................................................... 34 
+Figura 6. Área de influencia del proyecto .......................................................................................... 35 
+Figura 7. Escala de intensidad de olor ............................................................................................... 41 
+Figura 8. Ubicación del proyecto y receptores .................................................................................. 46 
+ 
+
+===== p.45 =====
+ANEXO 4.5: EVALUACIÓN PAISAJÍSTICA 
+INDÍCE DE CONTENIDO 
+Predicción y evaluación de impactos sobre el valor paisajístico ..................................................... 3 
+1. 
+Análisis y evaluación de impactos ...................................................................................... 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.46 =====
+ 
+ 
+CAPÍTULO 5: DESCRIPCIÓN PORMENORIZADA DE LOS EFECTOS DEL 
+ARTÍCULO 11 LEY 19.300 
+ÍNDICE DE CONTENIDO 
+5.1. 
+INTRODUCCIÓN.................................................................................................................. 7 
+5.2. 
+TABLA RESUMEN DE EFECTOS, CARACTERÍSTICAS O CIRCUNSTANCIAS (ECC). ................. 8 
+5.3. 
+ANÁLISIS SEGÚN EL ARTÍCULO 5 DEL REGLAMENTO DEL SEIA. RIESGO PARA LA SALUD DE 
+LA POBLACIÓN ................................................................................................................................. 9 
+5.3.1. 
+ARTÍCULO 5 RSEIA, LETRA A) SUPERACIÓN DE NORMAS PRIMARIAS DE CALIDAD 
+AMBIENTAL ................................................................................................................................. 9 
+5.3.2. 
+ARTÍCULO 5 RSEIA, LETRA B) SUPERACIÓN DE LOS VALORES DE RUIDO ................ 18 
+5.3.3. 
+ARTÍCULO 5 RSEIA, LETRA C) EXPOSICIÓN A CONTAMINANTES POR EMISIONES Y 
+EFLUENTES SOBRE LOS RECURSOS NATURALES RENOVABLES ................................................. 21 
+5.3.4. 
+ARTÍCULO 5 RSEIA, LETRA D) EXPOSICIÓN A CONTAMINANTES POR EL MANEJO DE 
+RESIDUOS SOBRE LOS RECURSOS NATURALES RENOVABLES ................................................... 22 
+5.3.5. 
+CONCLUSIÓN DEL ARTÍCULO 5 ................................................................................ 27 
+5.4. 
+ANÁLISIS SEGÚN EL ARTÍCULO 6 DEL REGLAMENTO DEL SEIA. EFECTO ADVERSO 
+SIGNIFICATIVO SOBRE RECURSOS NATURALES RENOVABLES ...................................................... 28 
+5.4.1. 
+ARTÍCULO 6 RSEIA, LETRA A) SUELO ....................................................................... 28 
+5.4.2. 
+ARTÍCULO 6 RSEIA, LETRA B) SUPERFICIE INTERVENIDA ........................................ 33 
+5.4.3. 
+ARTÍCULO 6 RSEIA, LETRA C) MAGNITUD Y DURACIÓN SOBRE EL MEDIO FÍSICO: . 42 
+5.4.4. 
+ARTÍCULO 6 RSEIA, LETRA D) NORMAS SECUNDARIAS DE CALIDAD AMBIENTAL .. 44 
+5.4.5. 
+ARTÍCULO 6 RSEIA, LETRA E) RUIDO SOBRE FAUNA NATIVA .................................. 47 
+5.4.6. 
+ARTÍCULO 6 RSEIA, LETRA F) PRODUCTOS QUÍMICOS Y SUSTANCIAS .................... 48 
+5.4.7. 
+ARTÍCULO 6 RSEIA, LETRA G) RECURSOS HÍDRICOS Y GLACIARES: ......................... 49 
+5.4.8. 
+ARTÍCULO 6 RSEIA, LETRA H) ESPECIES EXÓTICAS: ................................................. 51 
+5.4.9. 
+ARTÍCULO 6 RSEIA, LETRA I) RESILIENCIA CLIMÁTICA ............................................. 52 
+5.4.10. 
+CONCLUSIÓN DEL ARTÍCULO 6 ................................................................................ 54 
+5.5. 
+ANÁLISIS SEGÚN EL ARTÍCULO 7 DEL REGLAMENTO DEL SEIA. REASENTAMIENTO DE 
+COMUNIDADES HUMANAS, O ALTERACIÓN SIGNIFICATIVA DE LOS SISTEMAS DE VIDA Y 
+COSTUMBRES DE GRUPOS HUMANOS. ........................................................................................ 55 
+5.5.1. 
+ARTÍCULO 7 RSEIA, LETRA A) RECURSOS DE SUSTENTO Y USOS TRADICIONALES: . 55 
+5.5.2. 
+ARTÍCULO 7 RSEIA, LETRA B) CONECTIVIDAD Y LIBRE CIRCULACIÓN. .................... 58 
+
+===== p.47 =====
+ 
+ 
+5.5.3. 
+ARTÍCULO 7 RSEIA, LETRA C) BIENES, SERVICIOS E INFRAESTRUCTURA: ................ 61 
+5.5.4. 
+ARTÍCULO 7 RSEIA, LETRA D) TRADICIONES, COHESIÓN SOCIAL Y ARRAIGO. ........ 65 
+5.5.5. 
+Conclusión del Artículo 7 ........................................................................................ 66 
+5.6. 
+ANÁLISIS SEGÚN EL ARTÍCULO 8 DEL REGLAMENTO DEL SEIA. LOCALIZACIÓN Y VALOR 
+AMBIENTAL DEL TERRITORIO. ....................................................................................................... 67 
+5.6.1. 
+CONCLUSIÓN DEL ARTÍCULO 8 ................................................................................ 75 
+5.7. 
+ANÁLISIS SEGÚN EL ARTÍCULO 9 DEL REGLAMENTO DEL SEIA. VALOR PAISAJÍSTICO O 
+TURÍSTICO. .................................................................................................................................... 76 
+5.7.1. 
+ARTÍCULO 9 RSEIA, LETRA A) OBSTRUCCIÓN DE VISIBILIDAD ................................. 76 
+5.7.2. 
+ARTÍCULO 9 RSEIA, LETRA B) ALTERACIÓN DE ATRIBUTOS. .................................... 79 
+5.7.3. 
+CONCLUSIÓN DEL ARTÍCULO 9 ................................................................................ 84 
+5.8. 
+ANÁLISIS SEGÚN EL ARTÍCULO 10. ALTERACIÓN DEL PATRIMONIO CULTURAL.............. 84 
+5.8.1. 
+ARTÍCULO 10 RSEIA, LETRA A) MONUMENTOS NACIONALES: ............................... 84 
+5.8.2. 
+ARTÍCULO 
+10 
+RSEIA, 
+LETRA 
+B) 
+BIENES 
+DEL 
+PATRIMONIO 
+CULTURAL 
+(HISTÓRICO/ANTROPOLÓGICO) ................................................................................................ 87 
+5.8.3. 
+ARTÍCULO 10 RSEIA, LETRA C) MANIFESTACIONES CULTURALES Y FOLCLORE ....... 91 
+5.8.4. 
+CONCLUSIÓN ARTÍCULO 10 ..................................................................................... 94 
+5.9. 
+CONCLUSIÓN .................................................................................................................... 95 
+ 
+ 
+
+===== p.48 =====
+ 
+ 
+INDICE DE FIGURAS 
+Figura 1: Cartografía ubicación del Proyecto. 
+7 
+Figura 2: Ubicación de los receptores discretos cercanos al proyecto MP y gases. 
+10 
+Figura 3: Pluma de dispersión de odorantes e isodoras. 
+24 
+Figura 4: Formaciones vegetales reguladas por Ley N°20.283. 
+36 
+Figura 5: Pluma de dispersión como concentración promedio anual de MPS. 
+43 
+Figura 6: Area de influencia para el componente Flora y Vegetación Pluma de dispersión MPS. 
+46 
+Figura 7: Área de influencia medio humano 
+67 
+Figura 8: Esquema de ruta de ingreso del proyecto 
+70 
+Figura 9:  Esquema de ruta de egreso del proyecto 
+70 
+Figura 10: Periodización día laboral del área de estudio 
+71 
+Figura 11: Ubicación de receptores discretos. 
+75 
+Figura 12: Ubicación del Proyecto respecto de áreas protegidas y sitios prioritarios a escala regional.
+ 
+80 
+Figura 13: Relación del Área de Influencia del Proyecto con el Santuario de la Naturaleza Palmar El 
+Salto y el Sitio Prioritario Palmar Las Siete Hermanas - El Salto. 
+83 
+Figura 14: Intersección del Área de Influencia del Proyecto con el Humedal Urbano Declarado HU-
+0053. 
+84 
+Figura 15: Intersección del Área de Influencia del Proyecto con Sitios Prioritarios de la Estrategia 
+Regional de Biodiversidad. 
+85 
+Figura 16: Área de intervisibilidad del Proyecto para el componente paisaje. 
+89 
+Figura 17 : Unidades de paisaje presentes en el área de influencia del Proyecto. 
+92 
+Figura 18: Sitios arqueológicos reportados en un radio de 10 km al Área de Influencia del Proyecto.
+ 
+97 
+Figura 19: Sitios arqueológicos reportados en un radio de 10 km al Área de Influencia del Proyecto.
+ 
+101 
+ 
+ 
+
+===== p.49 =====
+ 
+ 
+INDICE DE TABLAS 
+Tabla 1: Tabla resumen de ECC para cada articulo analizado 
+8 
+Tabla 2: Resultados de MP10 diario en receptores discretos — aporte máximo del Proyecto año 27 
+(escenario más desfavorable). 
+11 
+Tabla 3: Resultados de MP10 anual en receptores discretos — aporte máximo del Proyecto año 27 
+(escenario más desfavorable). 
+12 
+Tabla 4: Resultados de MP2,5 diario en receptores discretos 
+13 
+Tabla 5: Resultados de MP2,5 anual en receptores discretos 
+14 
+Tabla 6: Resultados de NO2 en receptores discretos 
+14 
+Tabla 7: Resultados de SO2 en receptores discretos 
+15 
+Tabla 8: Concentración de CO 
+16 
+Tabla 9: Ruido de fuentes fijas — cumplimiento D.S. 38/2011 (Fase de Operación, horario diurno).
+ 
+19 
+Tabla 10: Ruido combinado, cumplimiento D.S. N° 38/2011 (Escenario Simultáneo de Actividades de 
+Construcción y Operación). 
+19 
+Tabla 11: Estimación de emisiones odorantes 
+22 
+Tabla 12: Límite normativo. 
+23 
+Tabla 13: Análisis del cumplimiento normativo en los receptores 
+23 
+Tabla 14: Percepción del olor en los receptores cercanos al proyecto 
+25 
+Tabla 15:  Erosión actual por UHS en el Área de Influencia de suelo. 
+28 
+Tabla 16: Riesgo de erosión actual (REA) en el Área de Influencia de suelo. 
+29 
+Tabla 17: Riesgo de erosión potencial (REP) en el Área de Influencia de suelo. 
+29 
+Tabla 18: Comparación de superficies (Ha) entre el riesgo de erosión actual (REA) y el riesgo de 
+erosión potencial (REP) en el AI de suelo. 
+30 
+Tabla 19: Capacidad de sustentar biodiversidad (CSB) en el Área de Influencia de suelo. 
+31 
+Tabla 20: Especies en categoría de conservación registradas en el área de estudio 
+33 
+Tabla 21: Formaciones vegetales presentes en el área de estudio del proyecto 
+34 
+Tabla 22: Superficie formaciones vegetales reguladas por Ley N° 20.283 
+35 
+Tabla 23: Criterios de singularidad ambiental de la flora vascular aplicables 
+37 
+Tabla 24: Superficie del Área de Influencia del para Flora y vegetación según las distintas 
+componentes que la conforman 
+37 
+Tabla 25: Formaciones vegetales intervenidas por el Proyecto 
+38 
+Tabla 26: Formaciones reguladas por Ley Intervenidas por el proyecto 
+38 
+Tabla 27: Especies en categoría de conservación registradas en el área de intervención 
+39 
+Tabla 28: Especies en categoría de conservación Amenazadas (CR, EN, VU) y Casi Amenazadas (NT) 
+registradas en el área de intervención del Proyecto. 
+40 
+Tabla 29: Receptores vegetales de palma chilena y canelo considerados en la modelación de MPS.
+ 
+43 
+Tabla 30: Resultados de MPS en receptores vegetales de palma chilena y canelo. 
+44 
+Tabla 31: Riqueza de flora no vascular registrada en el Área de Influencia. 
+48 
+
+===== p.50 =====
+ 
+ 
+Tabla 32: Evaluación de singularidades ambientales del componente flora no vascular. 
+49 
+Tabla 33: Riqueza de fauna de vertebrados terrestres registrada en el Área de Influencia. 
+49 
+Tabla 34: Especies de fauna de vertebrados terrestres en categoría de conservación registradas en 
+el Área de Influencia. 
+49 
+Tabla 35: Evaluación de singularidades ambientales del componente fauna de vertebrados 
+terrestres. 
+50 
+Tabla 36: Origen biogeográfico de la entomofauna registrada en el Área de Influencia. 
+51 
+Tabla 37: Evaluación de singularidades ambientales del componente entomofauna. 
+51 
+Tabla 38: Corte de área de influencia para los contaminantes evaluados. 
+56 
+Tabla 39: Niveles límites y distancias para afectación conductual de fauna 
+58 
+Tabla 40: Análisis de los considerandos del artículo 6 letra g). 
+60 
+Tabla 41: Resumen de áreas bajo protección oficial, áreas protegidas y sitios prioritarios 
+identificados en relación con el Área de Influencia del Proyecto 
+81 
+Tabla 42: Síntesis de visibilidad desde puntos de observación 
+89 
+Tabla 43: síntesis de atributos que otorgan valor paisajístico en el área de emplazamiento. 
+92 
+Tabla 44: Síntesis de unidades de paisaje y relación con el Proyecto 
+93 
+Tabla 45: Síntesis de Monumentos Arqueológicos identificados en el entorno del Proyecto 
+97 
+Tabla 46: Síntesis de bienes del patrimonio cultural identificados en el entorno del Proyecto 
+100 
+Tabla 47: Síntesis de evaluación para el literal c) del artículo 10 
+104 
+ 
+
+===== p.51 =====
+CAPÍTULO 6: PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y 
+COMPENSACIÓN 
+ÍNDICE DE CONTENIDO 
+6. PLAN DE MEDIDAS DE MITIGACIÓN, REPARACIÓN Y COMPENSACIÓN AMBIENTAL ..................... 2 
+6.1. Introducción ................................................................................................................................ 2 
+6.2. Objetivo general ......................................................................................................................... 2 
+6.3. Metodología ............................................................................................................................... 3 
+6.4. Resultados .................................................................................................................................. 5 
+6.4.1. Medida de Mitigación .............................................................................................................. 5 
+6.4.2. Medida de reparación .............................................................................................................. 9 
+6.4.3. Medida de compensación ...................................................................................................... 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.52 =====
+ANEXO 6.1 PLAN DE MANEJO BIOLOGICO 
+ÍNDICE DE CONTENIDO 
+1. Introducción ................................................................................................................................... 2 
+2. Objetivo general ............................................................................................................................ 3 
+3. Plan de Manejo Biológico .............................................................................................................. 3 
+3.1. Especies objetivo ........................................................................................................................ 3 
+3.2. Identificación de los ejemplares a rescatar ................................................................................. 5 
+3.3. Metodología de Rescate ............................................................................................................. 7 
+3.3.1. Actividades previas al rescate .................................................................................................. 7 
+3.3.2. Rescate de individuos .............................................................................................................. 7 
+3.4. Metodología de Viverización ...................................................................................................... 9 
+3.4.1. Viverización .............................................................................................................................. 9 
+3.4.2. Propagación desde estructuras subterráneas ........................................................................ 10 
+3.4.3. Propagación por semillas ....................................................................................................... 11 
+3.5. Metodología de relocalización .................................................................................................. 11 
+3.5.1. Sitio receptor ......................................................................................................................... 11 
+3.5.2. Procedimiento de relocalización ............................................................................................ 12 
+3.6. Monitoreo ................................................................................................................................. 13 
+3.7. Bibliografía ................................................................................................................................ 15 
+
+===== p.53 =====
+2 
+ 
+CAPÍTULO 7 PLAN DE SEGUIMIENTO DE VARIABLES AMBIENTALES 
+ÍNDICE DE CONTENIDO 
+7.1 
+Introducción ....................................................................................................................... 3 
+7.2 
+Plan De Seguimiento .......................................................................................................... 3 
+7.2.1 
+Plan De Seguimiento. .................................................................................................... 4 
+ 
+ÍNDICE DE TABLAS 
+ 
+Tabla 1: Seguimiento N°1 .................................................................................................................... 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.54 =====
+ 
+CAPÍTULO 8: PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS 
+ÍNDICE DE CONTENIDO 
+8 
+PLAN DE PREVENCIÓN DE CONTINGENCIAS Y EMERGENCIAS ............................... 3 
+8.1 
+INTRODUCCIÓN .......................................................................................................... 3 
+8.2 
+Objetivo ...................................................................................................................... 3 
+8.2.1 Objetivo General ........................................................................................................ 3 
+8.2.2 Objetivo Especifico ..................................................................................................... 3 
+8.3 
+Alcance ....................................................................................................................... 4 
+8.4 
+glosario ....................................................................................................................... 4 
+8.5 
+responsables y responsabilidades .............................................................................. 5 
+8.6 
+Identificación de Riesgos ............................................................................................ 7 
+8.7 
+Plan de prevención de contingencias ......................................................................... 8 
+8.7.1 Riesgo Sismos ............................................................................................................. 8 
+8.7.2 Riesgo de Inundaciones por precipitaciones extremas .............................................. 9 
+8.7.3 Riesgo de Incendios Forestales ................................................................................... 9 
+8.7.4 Riesgos de incendios en instalaciones ...................................................................... 10 
+8.7.5 Riesgos de incendios en masa de basura ................................................................. 10 
+8.7.6 Riesgos de Accidentes laborales ............................................................................... 11 
+8.7.7 Riesgos por presencia de vectores comunes ............................................................ 13 
+8.7.8 Riesgos de deslizamiento de taludes de tierra o celdas ........................................... 14 
+8.7.9 Riesgos de derrames de sustancias peligrosas en el suelo....................................... 14 
+8.7.10 Riesgos Colision o volcamiento de camiones y/o maquinaria pesada ..................... 15 
+8.7.11 Riesgos Fugas y emisones de biogás ........................................................................ 16 
+8.7.12 Riesgos de falla en el sistema de bombeo de lixiviados ........................................... 17 
+8.7.13 Riesgos de taponamiento de los drenes de recolección de lixiviados. ..................... 17 
+8.7.14 Riesgos de Fuga de lixiviados. .................................................................................. 18 
+8.7.15 Riesgos de infiltración de lixiviado por falla o fisura del sistema de 
+impermeabilización .................................................................................................. 18 
+8.7.16 Riesgos ingreso de fauna silvestre al proyecto ........................................................ 19 
+8.7.17 Riesgos Caída de fauna silvestre a las piscinas ........................................................ 20 
+8.7.18 Imposibilidad de acceso al frente de trabajo ........................................................... 21 
+8.7.19 Generación de olores ............................................................................................... 22 
+8.7.20 Derrame o descarga accidental de fosas sépticas ................................................... 25 
+8.8 
+Plan de Emergencias ................................................................................................ 26 
+8.8.1 Clasificacion de emergencias ................................................................................... 26 
+8.8.2 Organización de emergencia .................................................................................... 26 
+8.8.3 Procedimiento General ante Emergencias ............................................................... 27 
+8.8.4 Procedimiento General ante Emergencias ............................................................... 30 
+8.8.4.1 Oportunidad y vias de comunicación a la superintendencia del medio ambiente ... 30 
+8.8.5 Procedimiento General ante Emergencias ............................................................... 31 
+8.8.6 Simulacro ante situaciones de emergencia. ............................................................. 31 
+8.8.7 Procedimiento Especificos ante situación de emergencia. ...................................... 31 
+
+===== p.55 =====
+ 
+8.8.7.1 Sismo ........................................................................................................................ 31 
+8.8.7.2 Lluvia intensas e inundaciones ................................................................................. 33 
+8.8.7.3 Incendio en instalaciones ......................................................................................... 33 
+8.8.7.4 Colision o volvamiento de camiones internos .......................................................... 35 
+8.8.7.5 Derrame de sustancias peligrosas en suelo ............................................................. 35 
+8.8.7.6 Deslizamiento de taludes de tierra o celdas ............................................................. 36 
+8.8.7.7 Incendios forestales. ................................................................................................. 37 
+8.8.7.8 Daño en sistema de bombeo de lixiviados. .............................................................. 38 
+8.8.7.9 Taponamiento de drenes de recolección de lixiviados. ............................................ 38 
+8.8.7.10 Fugas de lixiviados ................................................................................................. 39 
+8.8.7.11 Explocion por taponamientos de ductos de sistema de extracción de biogás ....... 41 
+8.8.7.12 Incendios en la masa de basura ............................................................................. 41 
+8.8.7.13 Infiltración de lixiviado por fallas o fisuras del sistema de impermeabilización .... 43 
+8.8.8 Oportunidad y vías de comunicación a la SMA de activación del plan de 
+emergencia ............................................................................................................... 43 
+8.8.9 Procedimiento Específicos ante situación de emergencia. ...................................... 43 
+8.8.10 Revisión del plan de emergencias. ........................................................................... 44 
+ 
+Índice de Tablas 
+Tabla 1: Responsabilidades de cada equipo de la organización 
+3 
+Tabla 2: Riegos identificados en las distintas fases del proyecto. 
+5 
+Tabla 3: Plan de prevención de contingencia – Riesgo Sismos 
+6 
+Tabla 4: Plan de prevención de contingencia – Inundaciones por precipitaciones extremas 
+6 
+Tabla 5: Plan de prevención de contingencia – Riesgo de Incendios Forestales 
+7 
+Tabla 6: Plan de prevención de contingencia – Riesgo de Incendios en Instalaciones 
+7 
+Tabla 7: Plan de prevención de contingencia – Riesgo de Incendios en Masa de Basura. 
+8 
+Tabla 8: Plan de prevención de contingencia – Accidentes laborales 
+9 
+Tabla 9: Plan de prevención de contingencia – Riesgo por presencia de vectores comunes 
+11 
+Tabla 10: Plan de prevención de contingencia – Deslizamiento de taludes de tierra o celdas 
+11 
+Tabla 11: Plan de prevención de contingencia – Riesgo de derrame de sustancias peligrosas en el 
+suelo 
+12 
+Tabla 12: Plan de prevención de contingencia – Colisión o Volcamiento de camiones y/o 
+maquinaria pesada internos 
+13 
+Tabla 13: Plan de prevención de contingencia – Fugas o emisiones de biogás 
+13 
+Tabla 14: Plan de prevención de contingencia – Riesgo de falla en el sistema de bombeo de 
+lixiviados. 
+14 
+Tabla 15: Plan de prevención de contingencia – Riesgo de taponamiento de los drenes de 
+recolección de lixiviados. 
+15 
+Tabla 16:Plan de prevención de contingencia – Riesgo de Fuga de lixiviados 
+15 
+Tabla 17: Plan de prevención de contingencia – Riesgo de infiltración de lixiviado por falla o fisura 
+del sistema de impermeabilización 
+16 
+Tabla 18: Plan de prevención de contingencia – Riesgo ingreso de fauna silvestre al proyecto 
+17 
+Tabla 19: Plan de prevención de contingencia – Riesgo de caída de fauna silvestre a las piscinas 
+18 
+
+===== p.56 =====
+ 
+Tabla 20: Plan de prevención de contingencia – Riesgo Imposibilidad de acceso al frente de 
+trabajo. 
+18 
+Tabla 21: Plan de prevención de contingencia – Generación de olores molestos. 
+19 
+Tabla 22: Plan de prevención de contingencia – Riesgo de derrame o descarga accidental de fosa 
+séptica 
+20 
+Tabla 23: Posibles emergencias identificadas en las distintas fases del proyecto. 
+21 
+Tabla 24: Plan de Emergencia – Sismos. 
+26 
+Tabla 25: Plan de Emergencia – Lluvias Intensas e inundaciones. 
+28 
+Tabla 26: Plan de Emergencia – Incendios en instalaciones. 
+28 
+Tabla 27: Plan de Emergencia – Colisión o volcamiento de camiones internos. 
+30 
+Tabla 28: Plan de Emergencia – Derrame de sustancias peligrosas en suelo 
+31 
+Tabla 29: Plan de Emergencia – Deslizamiento de taludes de tierra o celdas 
+31 
+Tabla 30: Plan de Emergencia – Incendios forestales 
+32 
+Tabla 31: Plan de Emergencia – Daños en el sistema de bombeo de lixiviados 
+33 
+Tabla 32: Plan de Emergencia – Taponamiento de drenes de recolección de lixiviados 
+34 
+Tabla 33: Plan de Emergencia – Fugas de lixiviados 
+35 
+Tabla 34: Plan de Emergencia – Explosión por taponamiento de ductos de sistema de extracción de 
+biogás 
+36 
+Tabla 35: Plan de Emergencia – Incendios en la masa de basura 
+37 
+Tabla 36: Plan de Emergencia – Infiltración de lixiviado por fallas o fisuras del sistema de 
+impermeabilización 
+38 
+Índice de figuras 
+Figura 1: Organización de emergencia 
+27 
+Figura 2: Diagrama de Flujo de procedimiento general de emergencia 
+28 
+
+===== p.57 =====
+ 
+ 
+ANEXO 8.1 PLAN DE GESTIÓN DE OLOR 
+ÍNDICE DE CONTENIDO 
+1 
+Introducción ................................................................................................................................ 5 
+2 
+Objetivos ..................................................................................................................................... 5 
+2.1 
+Objetivo General ................................................................................................................ 5 
+2.2 
+Objetivos específicos ......................................................................................................... 6 
+3 
+Alcance ........................................................................................................................................ 7 
+4 
+Diagnóstico .................................................................................................................................. 7 
+4.1 
+Antecedentes de la instalación .......................................................................................... 7 
+4.1.1 
+Identificación de la instalación ...................................................................................... 7 
+4.1.2 
+Identificación del tipo de operación y procesos de la instalación ................................. 8 
+4.1.3 
+Identificación de las principales emisiones ................................................................. 10 
+4.1.4 
+Identificación y caracterización de las fuentes emisoras ............................................ 11 
+4.1.5 
+Caracterización del olor ............................................................................................... 12 
+4.1.6 
+Identificación de la probabilidad de generar impacto de olor .................................... 19 
+4.2 
+Antecedentes entorno a la instalación ............................................................................ 20 
+4.2.1 
+Identificación de otras fuentes generadoras de olor ................................................... 20 
+4.2.2 
+Antecedentes de receptores cercanos ........................................................................ 21 
+4.2.3 
+Registro de denuncias por olores ................................................................................ 22 
+4.3 
+Antecedentes de emisiones de olor ................................................................................ 23 
+4.3.1 
+Herramienta diagnóstica ............................................................................................. 23 
+4.3.2 
+Alcance odorante ......................................................................................................... 23 
+4.3.3 
+Situación odorante ...................................................................................................... 25 
+5 
+Medidas a implementar ............................................................................................................ 26 
+5.1 
+Planes de trabajo ............................................................................................................. 26 
+
+===== p.58 =====
+ 
+ 
+5.2 
+Medidas específicas de abatimiento ............................................................................... 28 
+5.3 
+Comunicación con la comunidad ..................................................................................... 29 
+6 
+Programa de seguimiento y control .......................................................................................... 30 
+6.1 
+Descripción de las medidas adoptadas en cada etapa .................................................... 30 
+6.2 
+Ubicación de los puntos de control ................................................................................. 32 
+6.3 
+Definir herramientas de evaluación ................................................................................. 33 
+6.4 
+Definir frecuencia de control ........................................................................................... 34 
+6.5 
+Documentar el control y seguimiento ............................................................................. 35 
+6.6 
+Capacitación y competencias del personal en roles críticos ............................................ 36 
+7 
+Programa de contingencia ......................................................................................................... 36 
+7.1 
+Desviación de indicadores ............................................................................................... 36 
+7.2 
+Fallas operacionales ......................................................................................................... 37 
+7.3 
+Quejas de la comunidad .................................................................................................. 38 
+8 
+Revisión del plan de gestión de olor ......................................................................................... 39 
+ 
+ÍNDICE DE FIGURAS 
+Figura 1. Perímetro de delimitación del Proyecto ............................................................................... 8 
+Figura 2. Fuentes generadoras de olor de la situación proyectada .................................................... 9 
+Figura 3. Escala de intensidad de olor ............................................................................................... 14 
+Figura 4. Ubicación del proyecto y receptores .................................................................................. 19 
+Figura 5. Área de influencia del proyecto .......................................................................................... 20 
+Figura 6. Receptores cercanos al Proyecto ........................................................................................ 22 
+Figura 7. Pluma de dispersión de odorantes e isodoras .................................................................... 24 
+Figura 8. Niveles de olor y descripción .............................................................................................. 26 
+ 
+ÍNDICE DE TABLAS 
+Tabla 1. Punto representativo del proyecto ........................................................................................ 7 
+
+===== p.59 =====
+ 
+Tabla 2. Zonas asociadas a la emisión de olor y sus procesos ............................................................. 9 
+Tabla 3. Fuentes emisoras y sus emisiones de referencia ................................................................. 10 
+Tabla 4. Ranking fuentes emisoras .................................................................................................... 11 
+Tabla 5. Criterios FIDOL evaluados en el presente PGO .................................................................... 12 
+Tabla 6. Tabla de frecuencias de eventos de olor .............................................................................. 13 
+Tabla 7. Intensidad y descripción del olor ......................................................................................... 13 
+Tabla 8. Concentración de olor .......................................................................................................... 14 
+Tabla 9. Intensidad del olor en los receptores. ................................................................................. 15 
+Tabla 10. Duración de los eventos de percepción de olor en los receptores .................................... 16 
+Tabla 11. Coordenadas de receptores discretos ............................................................................... 21 
+Tabla 12. Límite normativo ................................................................................................................ 23 
+Tabla 13. Concentración de olores modelados en puntos discretos ................................................. 24 
+Tabla 14. Medidas preventivas y control para la generación de olores en la Planta. ....................... 27 
+Tabla 15. Medidas de abatimiento .................................................................................................... 28 
+Tabla 16. Registro de quejas .............................................................................................................. 29 
+Tabla 17. Puntos de control dentro del Proyecto .............................................................................. 32 
+Tabla 18. Herramientas de evaluación para el seguimiento ............................................................. 33 
+Tabla 19. Frecuencia de control de las actividades de seguimiento ................................................. 34 
+Tabla 20. Desviación de indicadores ................................................................................................. 36 
+Tabla 21. Medidas preventivas .......................................................................................................... 37 
+Tabla 22. Registro de quejas por olor ................................................................................................ 38 
+Tabla 23. Acciones por realizar para la revisión del PGO .................................................................. 39 
+ 
+
+===== p.60 =====
+2 
+ 
+CAPÍTULO 9: PLAN DE CUMPLIMIENTO DE LA LEGISLACIÓN AMBIENTAL 
+ 
+ÍNDICE DE CONTENIDOS 
+9. 
+PLAN DE CUMPLIMIENTO DE LA LEGISLACIÓN AMBIENTAL ................................................ 3 
+9.1. 
+NORMATIVA DE CARÁCTER GENERAL ................................................................................ 7 
+9.1.1. D.S. N°100/2005 MINSEGPRES ...................................................................................... 7 
+9.1.2. Ley N°19.300/1994 MINSEGPRES .................................................................................. 7 
+9.1.3. Ley N°21.455/2022 MMA .............................................................................................. 8 
+9.1.4. D.S. N° 40/2012 MMA ................................................................................................... 9 
+9.1.5. D.S N°1/2013 MMA ..................................................................................................... 10 
+9.1.6. RES. EX. N°1.518/2013 MMA ....................................................................................... 11 
+9.1.7. RES. EX. N°233/2015 MMA .......................................................................................... 11 
+9.1.8. RES. EX. N°1610/2018 MMA ........................................................................................ 12 
+9.1.9. LEY 20920 LEY REP ....................................................................................................... 14 
+9.2. 
+NORMA AMBIENTAL ESPECIFICA ..................................................................................... 14 
+9.2.1. Emisiones Atmosféricas ............................................................................................... 14 
+9.1.2. Emisiones acústicas ..................................................................................................... 26 
+9.1.3. Residuos Sólidos........................................................................................................... 27 
+9.1.4. Residuos líquidos ......................................................................................................... 31 
+9.1.5. Patrimonio arqueológico y cultural ............................................................................. 36 
+9.1.6. Flora y Vegetación ....................................................................................................... 37 
+9.1.7. Ordenamiento Territorial............................................................................................. 39 
+9.2. 
+PERMISOS Y PRONUNCIAMIENTOS AMBIENTALES SECTORIALES .................................................... 40 
+9.2.1. Identificación de Permisos Ambientales Sectoriales Aplicables .................................. 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.61 =====
+ANEXOS CAPÍTULO 9 
+INDICE DE ANEXOS 
+9.1. PAS 138 Aguas Servidas 
+9.2. PAS 139 Losa de Lavado 
+9.3. PAS 139 Planta de Lixiviados 
+9.4. PAS 140 Construcción Planta de Reciclaje 
+9.5. PAS 140 Construcción Planta de Compostaje 
+9.6. PAS 141Relleno Sanitario 
+9.7. PAS 142 Bodega de Residuos Peligrosos 
+9.8. PAS 148 Corta de Bosque Nativo 
+9.9. PAS 151 Corta de formaciones Xerofíticas 
+9.10. 
+PAS 156 Atraviesos de quebradas - Camino de Acceso 
+9.11. 
+PAS 157 Regularización de cauces - Área de Proyecto 
+9.12. 
+PAS 160 Construcción fuera de los límites urbanos 
+9.13. 
+PAS 146 Captura y relocalización 
+ 
+
+===== p.62 =====
+ 
+ 
+ 
+CAPITULO 10: COMPROMISOS AMBIENTALES VOLUNTARIOS 
+ÍNDICE DE CONTENIDO 
+10 
+COMPROMISOS AMBIENTALES VOLUNTARIOS. ...........................................................2 
+10.1 
+Presentación ..............................................................................................................2 
+10.2 
+Objetivo. ....................................................................................................................2 
+10.2.1 Compromiso 1 Implementación de Plan de Gestión Comunitaria ................................. 2 
+10.2.2 Compromiso 2 Restricción y gestión de luminarias para minimización de 
+contaminación lumínica.................................................................................................. 3 
+10.2.3 Compromiso 3 Formación ciudadana Aula Tierra Viva .................................................. 5 
+10.2.4 Compromiso 4 Contratación de Mano de Obra Local .................................................... 7 
+10.2.5 Plan de Perturbación Controlada ................................................................................... 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.63 =====
+CAPÍTULO 11: FICHA DE RESUMEN 
+ 
+ÍNDICE DE CONTENIDO 
+ 
+1 
+Antecedentes. ............................................................................................................................. 3 
+2 
+Parte, obras y acciones. .............................................................................................................. 5 
+3 
+Cronología y mano de obra ...................................................................................................... 11 
+4 
+Suministros ............................................................................................................................... 12 
+5 
+Recursos naturales ................................................................................................................... 14 
+6 
+Emisiones y residuos ................................................................................................................ 15 
+7 
+Productos generados y actividades de mantención. ................................................................ 30 
+8 
+Actividades de mantención ...................................................................................................... 30 
+9 
+Descripción pormenorizada de aquellos efectos, características o circunstancias del artículo 11 
+de la Ley que dan origen a la necesidad de elaborar un Estudio de Impacto Ambiental. ................ 31 
+9.1 
+Art. N°5: riesgo para la salud de la población ...................................................................... 31 
+9.2 
+Art. N°6: Efecto adverso significativo sobre recursos naturales renovables. ...................... 40 
+9.3 
+Art. N° 7 Reasentamiento de comunidades humanas, o alteración significativa de los 
+sistemas de vida y costumbre de grupos humanos ........................................................................ 53 
+9.4 
+Art. N°8 Localización y valor ambiental del territorio .......................................................... 56 
+9.5 
+Art. N°9 Valor paisajístico o turístico ................................................................................... 58 
+9.6 
+Articulo 10 Alteración del patrimonio cultural .................................................................... 61 
+10 
+Normativa Ambiental Aplicable al Proyecto ............................................................................ 65 
+10.1 
+Normativa de Carácter General ........................................................................................... 65 
+10.2 
+Normativa de Carácter Específico ........................................................................................ 69 
+11 
+Permisos Ambientales Sectoriales ............................................................................................ 82 
+12 
+Planes de contingencias y emergencias ................................................................................... 85 
+13 
+Predicción y Evaluación del Impacto Ambiental del Proyecto o Actividad .............................. 99 
+13.1 
+Predicción Fase de Construcción ......................................................................................... 99 
+13.2 
+Predicción Fase de Operación ............................................................................................ 107 
+13.3 
+Predicción Fase de Cierre ................................................................................................... 112 
+14 
+Plan de medidas de mitigación, reparación y compensación. ............................................... 117 
+15 
+Seguimiento de las Variables Ambientales Relevantes del Proyecto..................................... 119 
+16 
+Compromisos Ambientales Voluntarios ................................................................................. 120 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.64 =====
+ 
+CAPÍTULO 12: ACCIONES REALIZADAS PREVIAMENTE 
+ÍNDICE DE CONTENIDOS 
+12.1 DESCRIPCIÓN DE ACCIONES PREVIAS .......................................................................................... 3 
+ 
+ 
+
+===== p.65 =====
+ 
+CAPÍTULO 13: RELACIÓN DEL PROYECTO CON LAS POLÍTICAS, PLANES Y 
+PROGRAMAS DE DESARROLLO 
+ 
+ÍNDICE DE CONTENIDO 
+13. 
+RELACIÓN DEL PROYECTO CON POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO .......... 2 
+13.1. 
+INTRODUCCIÓN.................................................................................................................. 2 
+13.2. 
+OBJETIVO ........................................................................................................................... 2 
+13.3. 
+METODOLOGÍA .................................................................................................................. 3 
+13.4. 
+POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO REGIONAL O COMUNAL HALLADOS 3 
+13.4.1. 
+POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO REGIONAL .............................. 4 
+13.4.2. 
+POLÍTICAS, PLANES Y PROGRAMAS DE DESARROLLO COMUNAL ............................ 18 
+13.5. 
+CONCLUSIÓN .................................................................................................................... 22 
+13.6. 
+REFERENCIAS BIBLIOGRÁFICAS ........................................................................................ 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.66 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAPÍTULO 14: RELACIÓN CON POLÍTICAS Y PLANES EVALUADOS 
+ESTRATÉGICAMENTE 
+ÍNDICE DE CONTENIDO 
+14. 
+RELACIÓN CON LAS POLÍTICAS Y PLANES EVALUADOS ESTRATÉGICAMENTE .................... 3 
+14.1. INTRODUCCIÓN ................................................................................................................... 3 
+14.2. OBJETIVO ............................................................................................................................. 3 
+14.3. METODOLOGIA .................................................................................................................... 3 
+14.4. POLÍTICAS Y PLANES EVALUADOS ESTRATÉGICAMENTE HALLADOS ................................... 4 
+14.4.1. 
+POLÍTICAS Y PLANES EVALUADOS ESTRATÉGICAMENTE A NIVEL NACIONAL ............. 4 
+14.4.2. 
+POLÍTICAS Y PLANES EVALUADOS ESTRATÉGICAMENTE A NIVEL REGIONAL ........... 18 
+14.4.3. 
+POLÍTICAS Y PLANES EVALUADOS ESTRATÉGICAMENTE A NIVEL COMUNAL ........... 19 
+14.5. CONCLUSIÓN ..................................................................................................................... 21 
+14.6. REFERENCIAS BIBLIOGRÁFICAS ......................................................................................... 23 
+ 
+ 
+ 
+ 
+INDICE DE TABLAS 
+ 
+Tabla 1: Políticas o Planes Evaluados Estratégicamente Hallados. 
+2 
+Tabla 2: Análisis de Relación del Proyecto con Política Energética de Chile al 2050. 
+2 
+Tabla 3: Análisis del proyecto con relación a la Estrategia climática de largo plazo 2050. 
+4 
+Tabla 4: Análisis de Relación del Proyecto con Política Nacional de Ordenamiento Territorial (PNOT)
+ 
+10 
+Tabla 5: Relación del Proyecto con el Plan Regulador Metropolitano de Valparaíso (PREMVAL) 
+12 
+Tabla 6: Relación del Proyecto con los Plan Regulador Comunal de Viña del Mar. 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.67 =====
+CAPÍTULO 15: ESTABLECIMIENTO DEL INICIO DE EJECUCIÓN DEL PROYECTO 
+ÍNDICE DE CONTENIDO 
+15. 
+ESTABLECIMIENTO DE INICIO DE EJECUCIÓN DEL PROYECTO ............................................. 3 
+ 
+ 
+
+===== p.68 =====
+ 
+CAPÍTULO 16: INFORMACIÓN DE NEGOCIACIONES 
+ÍNDICE DE CONTENIDO 
+16 
+INFORMACIÓN DE NEGOCIONES ................................................................................................ 3 
+16.1 
+Resultado de negociaciones .............................................................................................. 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.69 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAPÍTULO 17: RESUMEN EJECUTIVO 
+ 
+ÍNDICE DE CONTENIDO 
+1 
+Descripción del proyecto ..................................................................................................... 1 
+2 
+Determinación del área de influencia.................................................................................. 3 
+3 
+Línea de base ....................................................................................................................... 4 
+4 
+Predicción y evaluación de impacto ambiental. .................................................................. 6 
+5 
+Efectos, características o circunstancias del articulo 11 ...................................................... 9 
+6 
+Riesgo para la salud de la población ..................................................................................11 
+7 
+plan de medidas de mitigación, reparación y compensación ...........................................11 
+8 
+Plan de prevención de contingencias y emergencias ........................................................11 
+9 
+Plan de seguimiento de las variables ambientales relevantes ..........................................13 
+10 
+Pan de cumplimiento de las legislación ambiental ............................................................13 
+11 
+Compromisos ambientales voluntarios .............................................................................14 
+ 
+ 
+ 
+
+===== p.70 =====
+ 
+1 
+ 
+CAPITULO 18: DESCRIPCIÓN CRONOLÓGICO DE LAS FASES 
+INDICE DE CONTENIDOS 
+18. 
+DESCRIPCIÓN CRONOLÓGICA DE SUS FASES ......................................................................................... 2 
+18.1 
+CRONOGRAMA - FASE DE CONSTRUCCIÓN ....................................................................................... 2 
+18.2 
+CRONOGRAMA - FASE DE OPERACIÓN .............................................................................................. 5 
+18.3 
+CRONOGRAMA - FASE DE CIERRE ...................................................................................................... 6 
+ 
+ 
+ÍNDICE DE TABLAS 
+Tabla 1 : Cronograma fase de construcción ........................................................................................ 3 
+Tabla 2 : Cronograma fase de operación ............................................................................................ 5 
+Tabla 3 : Cronograma fase de cierre ................................................................................................... 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.71 =====
+CAPÍTULO 19: MONITOREO PARTICIPATIVO 
+ 
+INDÍCE DE CONTENIDO 
+1 
+Monitoreo Participativo .............................................................................................................. 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.72 =====
+ 
+ 
+APÉNDICE: LISTADO DE PROFESIONALES 
+ÍNDICE DE CONTENIDO 
+1. 
+LISTADO DE PROFESIONALES QUE PARTICIPARON EN EL ESTUDIO DE IMPACTO AMBIENTAL
+ 
+………………………………………………………………………………………………………………………………………3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

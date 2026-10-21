@@ -1,0 +1,565 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ 
+RECOMENDACIONES CONSTRUCTIVAS 
+ 
+ 
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Julio 2025 
+ 
+ 
+
+===== p.1 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+i 
+ 
+ 
+ÍNDICE 
+ 
+ 
+1. 
+INTRODUCCIÓN ........................................................................................................... 1 
+1.1. 
+EXCAVACIONES ............................................................................................................ 1 
+1.2. 
+CAMINOS ..................................................................................................................... 1 
+ MATERIALES .................................................................................................................. 1 
+1.3. 
+FORMACIÓN Y COMPACTACIÓN DE TERRAPLENES ....................................................... 4 
+ TERRAPLENES ................................................................................................................ 4 
+ FUNDACIÓN EN TERRENOS INCLINADOS Y TRANSICIONES DE CORTE A TERRAPLÉN Y 
+VICEVERSA ..................................................................................................................... 5 
+ FUNDACIÓN EN TERRENO DE CUALQUIER NATURALEZA .............................................. 6 
+ FUNDACIÓN SOBRE SUPERFICIE ROCOSA ..................................................................... 7 
+ FORMACIÓN, ENSANCHE Y COMPACTACIÓN DE LOS TERRAPLENES ............................ 7 
+ COLOCACIÓN Y COMPACTACIÓN DEL MATERIAL ......................................................... 7 
+ HUMEDAD ..................................................................................................................... 8 
+ EQUIPO .......................................................................................................................... 8 
+ PROCEDIMIENTOS ......................................................................................................... 8 
+ COMPACTACIÓN ........................................................................................................... 8 
+ TALUDES ........................................................................................................................ 8 
+ TALUD DE CORTE UNIDADES DE DISPOSICIÓN .............................................................. 9 
+1.4. 
+SELLO DE LA EXCAVACIÓN Y SOLUCIÓN DE IMPERMEABILIZACIÓN ............................... 9 
+1.5. 
+RECOLECCIÓN DE AGUAS SUPERFICIALES ................................................................... 10 
+ 
+
+===== p.2 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+1 
+ 
+ 
+1. INTRODUCCIÓN 
+ 
+A continuación, se presentan recomendaciones constructivas y metodología de control de calidad 
+en terreno para la ejecución del proyecto. Se han incluido los caminos interiores; terraplenes; 
+taludes de corte, sello de la excavación y solución para su impermeabilización y la recolección de 
+aguas superficiales. 
+ 
+1.1. 
+EXCAVACIONES 
+ 
+Este punto se refiere a las excavaciones requeridas para conformar las unidades de disposición, la 
+plataforma del camino, así como cualquier otra excavación definida como tal en el Proyecto.  
+Quedan comprendidas, entre otras, las excavaciones necesarias para realizar la excavación de las 
+unidades de disposición, los escarpes, los cortes del camino y la remoción de materiales 
+inadecuados. 
+ 
+Sólo podrán llevarse a cabo las excavaciones estipuladas en el proyecto o aquellas expresamente 
+autorizadas por la ITO. 
+ 
+La excavación de escarpe consistirá en la extracción y retiro del estrato superficial del suelo natural, 
+constituido principalmente por el horizonte N°1 (cobertura vegetal), en aquellas áreas donde se 
+apoyarán nuevos terraplenes o ensanches de los existentes.  
+ 
+El sello de las excavaciones de escarpe, de los caminos proyectados, se perfilará superficialmente 
+de manera de obtener una superficie relativamente plana y paralela al eje del camino, y con una 
+pendiente transversal de 2% hacia el exterior de la excavación.  
+ 
+La compactación deberá alcanzar como mínimo el 90% de la D.M.C.S, cuando el sello se encuentre 
+a 0,90 m o más por debajo de la rasante proyectada.  En caso contrario, la densidad exigida será 
+como mínimo el 95% de la D.M.C.S.  
+ 
+Si el sello de la excavación se encuentra con un exceso de humedad debido a la presencia temporal 
+de aguas lluvia, derrames de canales u otras causas similares, se deberá secar dicho material, previo 
+a iniciar las faenas de compactación.  
+ 
+Cuando no sea factible alcanzar la densidad exigida en el sello de la excavación, utilizando métodos 
+normales de compactación, se podrá aumentar la excavación de escarpe, o se removerá el material. 
+ 
+1.2. 
+CAMINOS 
+ 
+ MATERIALES 
+ 
+Se presentan a continuación los requisitos de calidad y graduación de los materiales a emplear en 
+la construcción de la carpeta. 
+ 
+ 
+ 
+ 
+
+===== p.3 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+2 
+ 
+ 
+1.2.1.1 
+Requisitos Generales 
+ 
+• 
+Agregados gruesos, retenidos sobre el tamiz 5 mm (#4 Norma ASTM), deben ser partículas 
+resistentes, durables, constituidas de fragmentos de roca, grava o escorias. Materiales que se 
+quiebren con los ciclos hielo – deshielo y humedad – sequedad, no deben ser empleados. 
+• 
+Agregados finos, que pasen por el tamiz 5 mm (# 4), deben estar constituidos por arenas 
+naturales o trituradas y por partículas minerales que pasen por el tamiz de 0.08 mm (# 200 
+Norma ASTM). 
+• 
+Todo material debe estar libre de materias orgánicas y terrones de arcilla. 
+ 
+1.2.1.2 
+Requisitos Específicos 
+ 
+• 
+El material para utilizar debe tener un límite líquido no mayor a 35 % y un IP comprendido entre 
+4 – 9. 
+• 
+El material para carpetas granulares de rodadura debe tener un contenido mínimo de chancado 
+de 50 %, además el contenido de sales solubles no será superior a un 4 % y debe cumplir con la 
+siguiente banda granulométrica. 
+ 
+ 
+Banda granulométrica para carpeta de rodadura. 
+Tamiz (mm) 
+% que pasa 
+50 
+ 
+40 
+100 
+25 
+80 – 100 
+20 
+- 
+10 
+50 – 80 
+5 
+35 – 65 
+2.5 
+- 
+2 
+25 – 50 
+0.5 
+15 – 30 
+0.08 
+5 - 20 
+ 
+• 
+En lo que respecta a las propiedades mecánicas, el material deberá tener un poder de soporte 
+CBR > 60 %, determinado al 95 % de la DMCS del ensayo Proctor Modificado y una resistencia 
+al desgaste, medida a través del ensayo de Los Ángeles, no mayor a un 30 %. 
+ 
+ 
+ 
+1.2.1.3 
+Confección y Colocación 
+ 
+Los tramos de camino donde se coloquen materiales granulares de rodadura, deberán estacarse 
+emplazando puntos de referencia aritmética y de ubicación del eje y bordes, a distancias no 
+superiores a 20 m entre sí. Se recomienda que deberán estacarse, además, todos los puntos 
+singulares del trazado. En zonas de transición de peraltes, las estacas deberán colocarse a 10 m de 
+distancia entre sí, como máximo. 
+ 
+
+===== p.4 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+3 
+ 
+ 
+1.2.1.4 
+Confección 
+ 
+El material deberá ser acopiado en espacios especialmente habilitados para este efecto, de manera 
+que no se produzca contaminación ni segregación del material. 
+ 
+1.2.1.5 
+Colocación 
+ 
+El material debidamente preparado se extenderá sobre la plataforma del camino, incluyendo las 
+áreas de berma de este, mediante algún equipo autopropulsado (Motoniveladora), debiendo 
+quedar el material listo para ser compactado, sin necesidad de mayor manipulación para obtener, 
+espesor, ancho y bombeo deseado. 
+ 
+La carpeta granular deberá construirse por capas de espesor compactado no superior a 0,3 m ni 
+inferior a 0,12 m. En caso de que el proyecto requiera la colocación de un espesor superior a 0,3 m, 
+el material se extenderá y compactara en capas. El material extendido no deberá presentar bolsones 
+o nidos de materiales finos o gruesos. 
+ 
+1.2.1.6 
+Compactación 
+ 
+Extendido el material en la plataforma del camino, éste deberá ser compactado mediante rodillos 
+del tipo vibratorio, para terminar con rodillos lisos o neumáticos. La compactación se realizará de 
+manera gradual desde el punto más bajo de los costados hacia el centro de la vía en construcción, 
+traslapando cada pasada con la precedente en por lo menos la mitad del ancho del rodillo. 
+ 
+El material deberá compactarse hasta que se haya asentado y estabilizado completamente, 
+alcanzando un grado de densificación mínimo del 95 % de la DMCS. 
+ 
+En caso de existir lugares inaccesibles para los equipos usuales de compactación, el material deberá 
+compactarse con pisones mecánicos manuales u otro equipo hasta alcanzar el grado de 
+densificación mínimo exigido. 
+ 
+ 
+1.2.1.7 
+Terminación 
+ 
+Una vez terminada la compactación y perfiladura de la carpeta, ajustándose ésta a los perfiles 
+longitudinales y transversales del Proyecto, esta deberá presentar una superficie de aspecto 
+uniforme y sin variaciones en cota en ningún lugar, mayores que ± 1,5 cm, con respecto a las 
+establecidas en el proyecto. 
+ 
+Si se detectaran áreas a un nivel inferior a la tolerancia especificada, éstas deberán escarificarse en 
+un espesor mínimo de 10 cm para posteriormente agregar material, regar, recompactar y terminar 
+la superficie hasta dar cumplimiento a lo establecido en los apartados anteriores.  
+ 
+1.2.1.8 
+Control de la erosión 
+  
+Se deberá tomar todas las precauciones necesarias para evitar la erosión en los taludes y plataforma 
+del camino. 
+
+===== p.5 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+4 
+ 
+ 
+Para ello se debe construir tan pronto sea posible, los contrafosos y fosos especificados en el 
+Proyecto, proveer todos los medios para conducir las aguas hacia cursos naturales, evitar que 
+queden por períodos prolongados cordones o depresiones que sirvan para acumular o canalizar las 
+aguas en forma incontrolada, y en general proceder a la construcción de las obras provisorias o 
+permanentes que permitan controlar los escurrimientos. 
+ 
+En caso de que se produzcan aguas residuales al interior del proyecto que puedan contaminar flujos 
+naturales de agua o provocar algún prejuicio a instalaciones adyacentes se deberán construir diques 
+provisorios de decantación. 
+ 
+1.2.1.9 
+Transición de corte a terraplén y viceversa 
+ 
+Cuando se produzcan zonas de transición de corte a terraplén y viceversa, en el sentido longitudinal 
+del camino, se realizará en todo el ancho de la plataforma del camino, un corte de profundidad 
+variable, que irá entre 0,8 y 1,0 metro, por debajo de la cota de la subrasante. El corte se realizará 
+de manera tal que el lado más profundo quede hacia el terraplén, para así formar una cuña de 
+empalme en el sentido transversal del camino, en donde su sello se extenderá en un mínimo de 5,0 
+m hacia el interior del corte en todo el ancho de la plataforma.  
+ 
+En sectores de corte en roca, se procederá a la construcción de cuñas similares en las zonas de 
+transición de corte a terraplén y viceversa, pudiendo variar las dimensiones señaladas de 
+profundidad y largo en ± 25%. 
+ 
+ 
+1.3. 
+FORMACIÓN Y COMPACTACIÓN DE TERRAPLENES 
+ 
+ TERRAPLENES 
+ 
+Los terraplenes y ensanches de terraplenes existentes podrán construirse con el material de 
+empréstito existente en la zona de estudio o aquel que se remueva durante las excavaciones en la 
+construcción del relleno y obras complementarias. 
+ 
+Los suelos deberán ser inorgánicos, libres de materia vegetal, escombros, basuras, rellenos 
+antrópicos, terrones, trozos de roca o bolones degradables o deleznables o trozos cementados de 
+tamaño superior al especificado.  Salvo indicación contraria en el Proyecto, los materiales a emplear 
+en la construcción del cuerpo de los terraplenes deberán tener un poder de soporte no inferior al 
+10% CBR, determinado según el Método LNV 92, y medido al 95% de la D.M.C.S. referido al ensayo 
+Proctor modificado. El tamaño máximo del material será de 150 mm, aceptándose una tolerancia 
+de 5% entre 150 mm y 250 mm, pero en ningún caso podrá el sobre tamaño ser mayor que la mitad 
+del espesor de cada capa compactada. 
+ 
+
+===== p.6 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+5 
+ 
+ 
+ 
+ 
+Ensanche terraplén existente. 
+ 
+Asimismo, los 0,30 m superiores del coronamiento de los terraplenes deberán construirse con 
+suelos que se denominan "material de subrasante", cuyo poder de soporte no deberá ser inferior a 
+20% CBR, medido en las mismas condiciones estipuladas para el cuerpo del terraplén; el tamaño 
+máximo del material no será superior de 100 mm y el espesor compactado de la capa no será inferior 
+a 0,30 m. 
+ 
+ 
+ FUNDACIÓN EN TERRENOS INCLINADOS Y TRANSICIONES DE CORTE A TERRAPLÉN Y 
+VICEVERSA 
+ 
+Cuando un terraplén deba fundarse en una ladera, adosado a un terraplén existente o sobre un 
+terreno natural de cualquier naturaleza con una inclinación superior al 20%, se recomienda que las 
+áreas de apoyo se traten para formar, a medida que se construye el terraplén, una superficie 
+aserrada con escalones horizontales de por lo menos 1,50 m de ancho. El material excavado deberá 
+ser integrado a la construcción del terraplén adyacente. 
+
+===== p.7 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+6 
+ 
+ 
+ 
+ 
+ 
+Escalonamiento del terreno de fundación para terraplenes 
+ 
+El sello de los escalones será compactado y controlado por un laboratorio competente, a medida 
+que el material excavado sea integrado a la construcción del terraplén adyacente 
+ 
+ 
+ FUNDACIÓN EN TERRENO DE CUALQUIER NATURALEZA 
+ 
+Cuando en alguna situación no expuesta anteriormente, donde el terraplén deba fundarse sobre un 
+terreno de cualquier naturaleza, con una inclinación inferior al 20%, se exigirá a este último una 
+densidad igual o superior al 90% de la D.M.C.S., de acuerdo con el ensayo Proctor Modificado o el 
+70% de la Densidad Relativa, medida según el Método LNV 96, siempre que la superficie de 
+fundación esté a una profundidad superior a 0.90 m de la rasante.  En caso contrario, la 
+compactación mínima exigida será del 95% de la D.M.C.S. o el 80% de la D.R., determinadas según 
+el Método LNV 95 o LNV 96 respectivamente. Si la densidad del terreno natural estuviere bajo los 
+límites de compactación especificados, se deberá escarificar, regar y compactar hasta alcanzar la 
+densidad requerida en los 0,30 m superiores, como mínimo. 
+ 
+
+===== p.8 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+7 
+ 
+ 
+Cuando se trate de rellenos cuyo espesor compactado sea inferior a 0,20 m para alcanzar las cotas 
+de subrasante, la superficie sobre la cual se construirá dicho relleno será escarificada hasta una 
+profundidad mínima de 0,10 m, procediendo enseguida a su riego y compactación en conjunto con 
+el material de terraplén a colocar, hasta obtener la densidad mínima especificada más adelante, en 
+una profundidad no inferior a 0,30 m. 
+ 
+ FUNDACIÓN SOBRE SUPERFICIE ROCOSA 
+ 
+Cuando el terreno de fundación sea roca o terreno rocoso, se fundará el terraplén directamente 
+sobre él, en su estado natural. 
+ 
+ FORMACIÓN, ENSANCHE Y COMPACTACIÓN DE LOS TERRAPLENES 
+ 
+Se recomienda para este aspecto, ejecutar las obras con estacas espaciadas a no más de 20 m entre 
+sí que delimiten, el pie del terraplén, dejando puntos de referencia, tanto altimétricos como 
+planimétricos, que permitan en cualquier momento reponer las estacas que se pierdan o deterioren. 
+En el caso particular, en el que corresponda instalar tuberías de hormigón y metal corrugado o 
+construir cajones u otras obras de drenaje, cuyas claves queden por sobre la superficie del terreno 
+natural, se deberá construir primeramente el terraplén del camino o en su defecto prismas con 
+material de terraplén en las zonas de las estructuras.  Sólo una vez instaladas las obras de drenaje, 
+y después de asegurarse que tienen las sobrecargas de suelo mínimas admisibles y en todo caso, 
+compatibles con los pesos por eje de los vehículos que se pretende utilizar para el transporte de las 
+tierras, se podrá continuar con los trabajos de formación de terraplenes. Cuando los taludes de los 
+prismas acusen una inclinación superior a 20%, se deberá cumplir con la construcción de escalones 
+a medida que se construye el terraplén. 
+ 
+ 
+ COLOCACIÓN Y COMPACTACIÓN DEL MATERIAL 
+ 
+Los terraplenes para construir con material de la propia excavación o proveniente de zonas de 
+empréstito, se formarán mediante capas de espesor uniforme y sensiblemente paralelas a la rasante 
+del proyecto, cubriendo todo el ancho del perfil transversal y en longitudes compatibles con los 
+métodos empleados en la distribución, mezcla y compactación del material. El bombeo transversal 
+deberá mantenerse con una pendiente mínima que asegure el escurrimiento de agua durante la 
+construcción.  La colocación del material se efectuará mediante camiones de volteo u otros equipos 
+apropiados, debiéndose disponer de bulldozers, motoniveladoras u otros equipos adecuados para 
+asegurar capas de espesor uniforme. 
+ 
+Se recomienda para la construcción comenzar desde los puntos más bajos del perfil transversal y 
+proseguir por capas superpuestas hasta alcanzar todo el ancho del terraplén. Se colocará la siguiente 
+capa de material, sólo cuando la precedente se encuentre satisfactoriamente compactada y 
+aprobada. 
+ 
+El espesor compactado de las capas, incluyendo cualquier material subyacente que hubiera sido 
+escarificado, deberá ser en general de 0,30 m como máximo. Los terrones o conglomerados deberán 
+romperse enteramente por medio de rastras de discos u otros métodos aceptables, de manera de 
+cumplir con el tamaño máximo del material de 150 mm.  Lo precedente no se aplicará al 
+
+===== p.9 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+8 
+ 
+ 
+coronamiento del terraplén, donde el espesor de la capa compactada se limitará a 0,30 m y el 
+tamaño máximo del material no será superior a 100 mm, según lo expuesto en apartados anteriores. 
+La compactación del material deberá realizarse en las siguientes condiciones: 
+ 
+ HUMEDAD 
+ 
+Los materiales para compactar deberán estar homogéneamente húmedos y su contenido ser 
+cercano al óptimo, según se determina en el Método LNV 95.  Por lo tanto, de acuerdo con la 
+humedad natural del material, se deberá agregar agua o secar de manera de cumplir con lo 
+requerido.  
+ 
+  EQUIPO 
+ 
+Las capas deberán densificarse mediante equipos compactadores del tipo, rodillos lisos con o sin 
+aditamento vibrador, en su acabado y terminación con rodillo neumático. 
+ 
+ 
+  PROCEDIMIENTOS 
+ 
+El trabajo deberá realizarse comenzando desde los bordes del terraplén, avanzando hacia el centro 
+con pasadas paralelas traslapadas en, por lo menos, la mitad del ancho de la unidad compactadora. 
+En curvas peraltadas, la compactación deberá comenzar en la parte baja y avanzar hacia la más alta. 
+Toda la superficie deberá recibir el número suficiente de pasadas completas para obtener una 
+compactación uniforme en todo el ancho del terraplén. 
+ 
+ COMPACTACIÓN 
+ 
+Desde una profundidad mínima de 0,90 m por debajo de la rasante del proyecto y hasta alcanzar las 
+cotas de subrasante, los rellenos a efectuarse por capas deberán alcanzar una densidad mínima del 
+95% de la D.M.C.S., medida según el Método LNV 95 o el 80% de la Densidad Relativa, determinada 
+según el Método LNV 96.  Se exceptúa el borde exterior de cada capa, a uno o ambos lados de la 
+plataforma del terraplén según corresponda, en un ancho igual o inferior al del sobreancho de 
+compactación. (S.A.C.), donde la compactación deberá alcanzar una densidad mínima del 90% de la 
+D.M.C.S. o el 70% de la D.R., medidas según los Métodos LNV 95 o 96, respectivamente. 
+ 
+Para profundidades mayores a 0,90 m por debajo de la rasante del Proyecto, la exigencia de 
+compactación para cada capa en el ancho total de la plataforma del terraplén será de mínimo 90% 
+de la D.M.C.S. o el 70% de la D.R., medidas según los métodos señalados anteriormente. 
+ 
+ 
+ TALUDES 
+ 
+Los taludes de los terraplenes tendrán una inclinación uniforme, la que en general será de 3:2 (H.V), 
+salvo indicación distinta en el proyecto. El ancho de la plataforma del terraplén a nivel de subrasante 
+se ajustará a las dimensiones establecidas en los perfiles tipo del proyecto.  No obstante, se podrá 
+aceptar un sobreancho de hasta 0,15 m respecto a la línea teórica del talud, medido 
+perpendicularmente al plano de éste.  En el caso de terraplenes construidos con material rocoso, 
+
+===== p.10 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+9 
+ 
+ 
+dicho sobreancho podrá ser el doble del anteriormente señalado.  Cuando el tamaño máximo del 
+material rocoso no permita cumplir con lo anterior, se aceptará un sobreancho mayor a 0,30 m, 
+pero en ningún caso superior a 0,50 m. Los taludes terminados deberán quedar libres de 
+protuberancias y depresiones, debiendo presentar una superficie uniforme y estéticamente 
+aceptable, a plena satisfacción de la Inspección. 
+ 
+ 
+ TALUD DE CORTE UNIDADES DE DISPOSICIÓN 
+ 
+ 
+Figura 1. 
+Redondeo de Taludes 
+ 
+Los taludes se deben excavar de manera que el plano medio resultante se ajuste a la inclinación 
+señalada en el proyecto con una inclinación uniforme.   
+ 
+Los bordes superior e inferior del talud de corte se deben redondear para evitar zonas de 
+punzonamiento en la membrana impermeable. 
+ 
+Todos los taludes deben ser terminados prolijamente, evitando protuberancias y depresiones. Se 
+recomienda la utilización de un geotextil en los taludes interiores del relleno, para proteger la 
+membrana impermeabilizante.  
+ 
+ 
+1.4. 
+SELLO DE LA EXCAVACIÓN Y SOLUCIÓN DE IMPERMEABILIZACIÓN 
+ 
+Como suelo de fundación se utilizará el terreno natural encontrado, el sello de la excavación deberá 
+ser horizontal, compactando los últimos 0,3 m. al 90% de la D.M.C.S. según el método Proctor 
+Modificado o en su defecto 70% de la Densidad Relativa (D.R.). 
+ 
+Se recomienda utilizar una impermeabilización con geomembrana, por ejemplo, una HDPE, que 
+asegure la total impermeabilización del sello de fundación, de forma de evitar cualquier tipo de 
+infiltración de los líquidos lixiviados, hacia aguas subterráneas.  
+ 
+Para el caso del talud la impermeabilización se recomienda proteger con un geotextil para evitar la 
+rotura de esta o realizar una terminación superficial adecuada en los taludes. 
+ 
+Se deberá diseñar un plan de construcción del sistema de impermeabilización, en el que se 
+detallarán todos los procedimientos que se deberán seguir durante su construcción, de tal forma de 
+asegurar que se cumplirá el objetivo para el cual han sido diseñados 
+
+===== p.11 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+10 
+ 
+ 
+ 
+1.5. 
+RECOLECCIÓN DE AGUAS SUPERFICIALES 
+ 
+Para evitar la infiltración a las zonas del proyecto, se debe disponer de zanjas o contrafosos que 
+recolecten el agua de cerros y quebradas. 
+ 
+Los contrafosos son canales que se disponen por sobre la cota de coronamiento del corte, con el fin 
+de evitar la llegada de agua, a veces en cantidades importantes y casi siempre con arrastres, a los 
+taludes de corte, proveniente de superficies adyacentes que vierten hacia ella. 
+ 
+Se deben diseñar zanjas para la efectiva recolección de las aguas. Las zanjas pueden ser revestidas 
+o no y sus dimensiones dependerán del estudio hidráulico-hidrológico.  
+ 
+ 
+ 
+Obras tipo Contrafoso y fosos a diseñar 
+ 
+Para el caso de las zanjas no revestidas, los taludes y el fondo de las excavaciones de obras sin 
+revestimiento deberán presentar superficies parejas y estables, con pendientes uniformes entre las 
+deflexiones en alzado del sello de las excavaciones, que permitan un adecuado escurrimiento de las 
+aguas. No habrá exigencia de compactación del sello de estas excavaciones no revestidas.   
+ 
+Para el caso de una zanja revestida, el sello de las excavaciones de las obras a revestir se perfilará y 
+compactará hasta alcanzar como mínimo el 90% de la D.M.C.S., medida según el Método LNV 95, 
+en una profundidad mínima de 0,20 m. Cuando el fondo de dichas excavaciones esté compuesto 
+por suelos orgánicos, inestables o que no puedan ser compactados debido a su contenido de 
+humedad natural, la ITO podrá autorizar su retiro en un espesor mínimo de 0,12 m, para dar cabida 
+a una capa de material granular que servirá de apoyo al revestimiento.  Dicha capa deberá ser 
+compactada hasta alcanzar la mínima densidad antes establecida. Las superficies de los taludes 
+deberán quedar parejas y estables, sin protuberancias que afecten el espesor mínimo del 
+revestimiento a construir. 
+
+===== p.12 =====
+RECOMENDACIONES CONSTRUCTIVAS 
+CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ 
+ 
+ 
+ 

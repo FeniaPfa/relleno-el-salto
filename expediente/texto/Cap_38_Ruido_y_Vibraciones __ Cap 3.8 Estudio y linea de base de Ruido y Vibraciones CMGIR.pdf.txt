@@ -1,0 +1,8687 @@
+
+===== p.0 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CENTRO METROPOLITANO  
+DE GESTIÓN INTEGRAL DE RESIDUOS 
+ 
+ 
+ESTUDIO DE RUIDO Y VIBRACIONES 
+ 
+ 
+Documento Preparado por: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---junio 2026--- 
+ 
+ 
+
+===== p.1 =====
+ 
+ 
+ 
+ 
+Pá gin a  2  d e  13 2 
+ÍNDICE DE CONTENIDOS 
+
+===== p.2 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  3  d e  13 2 
+
+===== p.3 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  4  d e  13 2 
+
+===== p.4 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  5  d e  13 2 
+
+===== p.5 =====
+ 
+ 
+ 
+ 
+Pá gin a  6  d e  13 2 
+ 
+ 
+ÍNDICE DE FIGURAS 
+Figura 1: Ubicación General Centro Metropolitano de Gestión Integral de Residuos ............... 11 
+Figura 2: Layout General Centro Metropolitano de Gestión Integral de Residuos ..................... 12 
+Figura 3: Cronograma Fase Construcción ......................................................................................... 1 
+Figura 4: Cronograma Fase Operación ............................................................................................. 1 
+Figura 5: Cronograma Fase Cierre ...................................................................................................... 1 
+Figura 6: Layout del Proyecto en sus fases de Construcción y Operación .................................... 4 
+Figura 7: Ubicación Objetos de Protección Asentamientos Humanos (OP AH) .......................... 21 
+Figura 8: Ubicación Objetos de Protección Fauna (OP Fauna) .................................................... 22 
+Figura 9: Límites para afectación conductual de Fauna, Anfibios ............................................... 46 
+Figura 10: Límites para afectación conductual de Fauna, Reptiles ............................................. 48 
+Figura 11: Límites para afectación conductual de Fauna, Reptiles ............................................. 50 
+Figura 12: Área de Influencia (Ai)...................................................................................................... 56 
+Figura 13: PRC Viña del Mar en Zona de Emplazamiento del Proyecto....................................... 64 
+Figura 14: PREMVAL en Zona de Emplazamiento del Proyecto..................................................... 65 
+Figura 15: Corrección por Directividad ............................................................................................ 67 
+Figura 16: Altura media ...................................................................................................................... 69 
+Figura 17: Distancia recorrida sobre plantaciones .......................................................................... 70 
+Figura 18: Distancia recorrida sobre edificaciones ......................................................................... 71 
+Figura 19: Ejemplo de cálculo de barrera acústica según Makeawa.......................................... 71 
+Figura 20:  Cálculo de Lm25 .............................................................................................................. 72 
+Figura 21: Corrección por Velocidad ............................................................................................... 73 
+Figura 22: Corrección por Distancia ................................................................................................. 74 
+Figura 23. Ubicación puntos de medición de LBR/LBV de Asentamientos Humanos y Fauna .. 84 
+Figura 24: Comparación entre Niveles LBR en dBA horario diurno y nocturno ............................ 93 
+ 
+ÍNDICE DE TABLAS 
+Tabla 1: Base Legal, Normas y Directrices de Referencia ................................................................ 2 
+Tabla 2: Factores generadores de impacto FGI que se utilizarán en la Fase de construcción 
+del Proyecto, con sus respectivos espectro y nivel de emisión total de Potencia Acústica Lw .. 5 
+Tabla 3: Fuentes fijas Fase construcción Años 1 y 2 .......................................................................... 7 
+Tabla 4: Fuentes fijas Fase construcción Años 3 y 7 .......................................................................... 7 
+Tabla 5: Fuentes fijas Fase construcción Años 8 y 14 ........................................................................ 8 
+Tabla 6: Fuentes fijas Fase construcción Años 15 y 24 ...................................................................... 9 
+
+===== p.6 =====
+ 
+ 
+ 
+ 
+Pá gin a  7  d e  13 2 
+Tabla 7: Fuentes móviles Fase construcción Años 1 y 2 .................................................................... 9 
+Tabla 8: Fuentes móviles Fase construcción Años 3 y 7 .................................................................... 9 
+Tabla 9: Fuentes móviles Fase construcción Años 8 y 14 ................................................................ 10 
+Tabla 10: Fuentes móviles Fase construcción Años 15 y 24 ............................................................ 10 
+Tabla 11: Fuentes móviles Fase construcción que se desplazan por las vías de acceso al 
+Proyecto............................................................................................................................................... 10 
+Tabla 12: Maquinaria fase Operación Relleno Sanitario ................................................................ 12 
+Tabla 3-13: Maquinaria fase Operación Planta reciclaje .............................................................. 12 
+Tabla 3-14: Maquinaria fase Operación Planta compostaje......................................................... 13 
+Tabla 3-15: Maquinaria fase Operación Planta Lixiviados ............................................................. 13 
+Tabla 3-16: Maquinaria fase Operación Planta Biogás .................................................................. 13 
+Tabla 17: Vehículos Pesados VP Fase Operación que se desplazan por las vías de acceso al 
+Proyecto............................................................................................................................................... 14 
+Tabla 18: Vehículos Livianos VL Fase Operación que se desplazan por las vías de acceso al 
+Proyecto............................................................................................................................................... 14 
+Tabla 19: FGI Fase Cierre del Proyecto ............................................................................................. 15 
+Tabla 20: Vehículos Pesados VP Fase Cierre que se desplazan por las vías de acceso al 
+Proyecto............................................................................................................................................... 16 
+Tabla 21: Vehículos Livianos VL Fase Cierre que se desplazan por las vías de acceso al 
+Proyecto............................................................................................................................................... 17 
+Tabla 22: Ubicación OP AH ................................................................................................................ 19 
+Tabla 23: OP y Puntos de Medición asociados ............................................................................... 23 
+Tabla 24: Resultados de medición de LBR horario diurno - Asentamientos Humanos ................ 24 
+Tabla 25: Resultados de medición de LBR horario diurno - Fauna ................................................ 25 
+Tabla 26: Resultados de medición de LBR horario nocturno - Asentamientos Humanos ........... 26 
+Tabla 27: Resultados de medición de LBR horario nocturno - Fauna ........................................... 26 
+Tabla 28: Mediciones de LBV - Horario diurno ................................................................................. 27 
+Tabla 29: Mediciones de LBV - Horario nocturno ............................................................................ 28 
+Tabla 30: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+asociados a la construcción de instalaciones del Proyecto ......................................................... 30 
+Tabla 31: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+asociados a la construcción de caminos de acceso al Proyecto ............................................... 31 
+Tabla 32: Modelación de FGI móviles Fase de construcción ........................................................ 32 
+Tabla 33: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+Fase de Operación del Proyecto...................................................................................................... 34 
+Tabla 34: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+Fase Cierre del Proyecto .................................................................................................................... 36 
+Tabla 35: Resumen de evaluación de cumplimiento de norma en las Fases de Construcción, 
+Operación y Cierre del Proyecto ...................................................................................................... 37 
+Tabla 36: Evaluación de cumplimiento de norma con actividad simultánea en las Fases de 
+Construcción y Operación del Proyecto ......................................................................................... 38 
+Tabla 37: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la construcción de instalaciones del Proyecto. Criterio daño estructural ............. 39 
+
+===== p.7 =====
+ 
+ 
+ 
+ 
+Pá gin a  8  d e  13 2 
+Tabla 38: Modelación del nivel de velocidad peak de partículas en cada OP provocados por 
+FGI fijos asociados a la construcción de caminos del Proyecto. Criterio daño estructural ....... 39 
+Tabla 39: Modelación de niveles de inmisión vibratoria Lv en cada OP provocados por FGI 
+fijos asociados a la construcción de instalaciones del Proyecto. Criterio molestia personas.... 40 
+Tabla 40: Modelación del nivel de velocidad vibratoria Lv en cada OP provocados por FGI 
+fijos asociados a la construcción de caminos del Proyecto. Criterio molestia personas ........... 40 
+Tabla 41: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la fase operación del Proyecto. Criterio daño estructural....................................... 41 
+Tabla 42: Modelación de niveles de inmisión vibratoria Lv en cada OP provocados por FGI 
+fijos asociados a la operación del Proyecto. Criterio molestia personas ..................................... 41 
+Tabla 43: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la fase de cierre del Proyecto. Criterio daño estructural ......................................... 42 
+Tabla 44: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la fase de cierre del Proyecto. Criterio molestia ....................................................... 43 
+Tabla 45: Resumen de evaluación de cumplimiento de norma de vibraciones en las Fases de 
+Construcción, Operación y Cierre del Proyecto ............................................................................. 43 
+Tabla 46: Niveles límites y distancias para afectación conductual de Fauna ............................ 44 
+Tabla 47: Niveles y distancias límites para afectación conductual de Fauna Anfibios .............. 45 
+Tabla 48: Niveles y distancias límites para afectación conductual de Fauna Reptiles .............. 47 
+Tabla 49: Niveles y distancias límites para afectación conductual de Fauna 
+Avifauna/Mamíferos ........................................................................................................................... 49 
+Tabla 50: Cálculo de Niveles de Inmisión de Ruido Ai AH .............................................................. 52 
+Tabla 51: Cálculo de Niveles de Inmisión de Ruido Ai Fauna ........................................................ 54 
+Tabla 52: Zonificación y Límites. Niveles NPC máximos permitidos, según D.S. N°38/11 MMA ... 62 
+Tabla 53: Tipos de uso de suelo según la OGUC ............................................................................. 62 
+Tabla 54: Usos de suelo en las inmediaciones del proyecto y su homologación D.S. N°38/2011
+ .............................................................................................................................................................. 63 
+Tabla 55: Niveles máximos de Inmisión de ruido por tránsito vehicular, según Norma Suiza ..... 75 
+Tabla 56: Valores para evaluación de daño estructural por vibraciones .................................... 76 
+Tabla 57: Criterio Salud de las Personas. Niveles máximos permitidos de velocidad vibratoria 
+según uso de suelo ............................................................................................................................. 77 
+Tabla 58: Clasificación de tipo de eventos ..................................................................................... 77 
+Tabla 59: Niveles límites y distancias para afectación conductual de Fauna ............................ 78 
+Tabla 60. Ubicación puntos de medición LBR/LBV – Asentamientos humanos ........................... 85 
+Tabla 61: Ubicación Puntos de Medición LBR - Fauna ................................................................... 86 
+Tabla 62: Ubicación y Presentación Gráfica de Puntos de Medición LBR/LBV ........................... 86 
+Tabla 63: Resultados de medición de LBR horario diurno - Asentamientos Humanos ................ 91 
+Tabla 64: Resultados de medición de LBR horario diurno - Fauna ................................................ 91 
+Tabla 65: Resultados de medición de LBR horario nocturno - Asentamientos Humanos ........... 92 
+Tabla 66: Resultados de medición de LBR horario nocturno - Fauna ........................................... 92 
+Tabla 67: Mediciones de LBV - Horario diurno ................................................................................. 94 
+Tabla 68: Mediciones de LBV - Horario nocturno ............................................................................ 94 
+ 
+
+===== p.8 =====
+ 
+ 
+ 
+ 
+Pá gin a  9  d e  13 2 
+1 
+INTRODUCCIÓN 
+El presente informe contiene la modelación y evaluación de los niveles de inmisión de ruido y 
+de vibraciones provocados por los Factores Generadores de Impacto (FGI) del proyecto de 
+habilitación, operación y cierre de una infraestructura integral destinada al tratamiento, 
+valorización y disposición final de residuos sólidos domiciliarios y asimilables, emplazado en el 
+kilómetro 102,5 de la Ruta 60 - Troncal Sur, una vía concesionada que une las comunas de Viña 
+del Mar y Quilpué, en la Provincia y Región de Valparaíso, en los objetos de protección 
+ambiental (OP) más cercanos al proyecto, situados dentro del Área de Influencia (Ai) de este. 
+La evaluación de los componentes ruido y vibraciones se realiza respecto de los niveles de 
+inmisión de ruido máximos permitidos por el DS 38/11 MMA “Norma de Emisión de Ruido 
+Generados por Fuentes que Indica” y por la Guía Técnica de la Federal Transit Administration 
+FTA Transit noise and vibration impact assessment, respectivamente. 
+Es informe ha sido estructurado de acuerdo a los lineamientos establecidos en la nueva Guía 
+de Áreas de Influencia en el SEIA, publicada el 19 de febrero de 2026. 
+1.1 
+OBJETIVOS GENERALES 
+ 
+El presente estudio tiene como objetivo caracterizar y cuantificar las emisiones de ruido y de 
+vibraciones mecánicas asociadas a las distintas fases cronológicas del proyecto (construcción, 
+operación y cierre) y evaluar sus resultados respecto de los límites máximos permitidos por la 
+normativa de referencia. 
+1.2 
+OBJETIVOS ESPECÍFICOS 
+ 
+Para cumplir con el objetivo general, se consideran los siguientes objetivos específicos: 
+• 
+Identificación de los principales Factores Generadores de Impacto (FGI) de ruido y 
+vibraciones asociados a cada una de las fases que contempla el Proyecto; con sus 
+respectivos Niveles de emisión de Potencia Acústica Lw y Velocidad peak de 
+partículas PPV 
+• 
+Descripción de Objetos de Protección (OP) de receptores de Asentamientos 
+Humanos, Fauna, lugares de Interés Turístico, Áreas Protegidas y Patrimonio Cultural 
+potencialmente sensibles a emisiones de ruido y vibraciones 
+
+===== p.9 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 0 de  1 32 
+• 
+Establecimiento de una Línea Base de ruido (LBR) y vibraciones (LBV) representativa 
+de los OP identificados 
+• 
+Modelación y evaluación de cumplimiento normativo en los OP referidos a 
+Asentamientos Humanos, Fauna, lugares de Interés Turístico, Áreas Protegidas y 
+Patrimonio Cultural para las fases construcción operación y cierre del Proyecto; 
+• 
+Proposición de medidas de control para ruido y vibraciones en caso de que los 
+valores límites de referencia sean sobrepasados 
+1.3 
+DESCRIPCIÓN DE PROYECTO 
+ 
+El proyecto "Centro Metropolitano de Gestión Integral de Residuos" (CMGIR) consiste en el 
+diseño, construcción, operación y cierre de una infraestructura integral destinada al 
+tratamiento, valorización y disposición final de residuos sólidos domiciliarios y asimilables. Para 
+cumplir con una solución de largo plazo y una vida útil estimada de 25 años, el complejo 
+albergará una Zona de Instalaciones Operacionales, Zona de Compostaje, Zona de Reciclaje, 
+Relleno Sanitario, Planta de Tratamiento de Lixiviados y Planta de Quema de Biogás, entre sus 
+principales instalaciones.  
+El proyecto se emplaza en el kilómetro 102,5 de la Ruta 60 - Troncal Sur, una vía concesionada 
+que une las comunas de Viña del Mar y Quilpué, en la Provincia y Región de Valparaíso. La 
+obra utilizará una superficie directa de 63,1 hectáreas localizadas al interior de un predio mayor 
+de 206 hectáreas. El entorno geográfico e industrial directo está marcado por la topografía de 
+quebradas intermitentes y la conectividad vial con la autopista Troncal Sur. 
+Las actividades del proyecto se estructuran en tres fases sucesivas: la fase de construcción 
+abarca el despeje de terreno, masivos movimientos de tierra, habilitación del camino de 
+acceso y la ejecución de obras civiles e impermeabilización ; la fase de operación contempla 
+la recepción, pesaje, segregación y tratamiento de residuos en las plantas de reciclaje, 
+compostaje y celdas de disposición final; y la fase de cierre contempla el desmantelamiento 
+de las instalaciones auxiliares y el sellado definitivo con cobertura final del relleno.  
+ 
+ 
+ 
+
+===== p.10 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 1 de  1 32 
+1.4 
+UBICACIÓN DEL PROYECTO 
+ 
+A continuación, en las Figura 1 y Figura 2 se observa la ubicación y el layout general del CMGIR 
+respectivamente. 
+ 
+Figura 1: Ubicación General Centro Metropolitano de Gestión Integral de Residuos 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+
+===== p.11 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 2 de  1 32 
+Figura 2: Layout General Centro Metropolitano de Gestión Integral de Residuos 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+1.5 
+CRONOGRAMA 
+1.5.1 Cronograma Fase de Construcción 
+ 
+La Figura 3 siguiente presenta el cronograma de la fase de construcción, cuya duración se 
+divide principalmente en dos etapas. La primera corresponde a un período de 2 años 
+destinado exclusivamente a la ejecución de obras de habilitación, entre las que se consideran 
+el camino de acceso, las estructuras operacionales y el inicio de la habilitación de la Etapa 
+N°1 del relleno sanitario. 
+Por otra parte, durante los primeros 22 años de operación también se desarrollarán obras de 
+construcción asociadas al crecimiento y consolidación del proyecto, incluyendo la 
+construcción de la planta de lixiviados y biogás, planta de reciclaje, la planta de compostaje 
+y la habilitación progresiva de las Etapas N°2 y N°3. 
+
+===== p.12 =====
+ 
+ 
+Figura 3: Cronograma Fase Construcción 
+Fuente: Descripción de Proyecto 
+
+===== p.13 =====
+ 
+ 
+1.5.2 Cronograma Fase de Operación 
+La Figura 4 se presenta el cronograma de la fase de operación, para el cual se estima una 
+duración de 25 años. 
+Figura 4: Cronograma Fase Operación 
+Fuente: Descripción de Proyecto 
+1.5.3 Cronograma Fase de Cierre 
+En la Figura 5 a continuación, se puede observar el cronograma correspondiente a las fases 
+de cierre y post cierre del proyecto. La fase de cierre contempla una duración estimada de 
+12 meses, mientras que la fase de post cierre se extenderá por un período de 19 años. En 
+conjunto, ambas fases consideran un horizonte total de 20 años para el desarrollo de este 
+proceso. 
+Figura 5: Cronograma Fase Cierre 
+Fuente: Descripción de Proyecto 
+ 
+ 
+ 
+ 
+ 
+
+===== p.14 =====
+ 
+ 
+ 
+ 
+Pá gin a  2  d e  13 2 
+2 
+MARCO NORMATIVO. BASES LEGALES, NORMAS O DIRECTRICES DE 
+REFERENCIA 
+En el marco del presente estudio se han consultado los siguientes cuerpos legales, directrices, 
+normas, publicaciones oficiales, instructivos y/o criterios normalizados: 
+Tabla 1: Base Legal, Normas y Directrices de Referencia 
+Aplicación Legal 
+Descripción 
+D.S1. N°38/2011 MMA 
+Establece Norma de emisión de ruidos generados por 
+fuentes fijas Ministerio del Medioambiente. 
+D.E2 N°1092/2014 
+Decreto Exento 1092 del 03 de noviembre de 2014 de la 
+Subsecretaría de Salud Pública SSP. Modifica Norma 
+Técnica 165 sobre Certificado de Calibración Periódica 
+para Sonómetros integradores y Calibradores Acústicos. 
+R.E3 N°491/2016 
+Dicta instrucción de carácter general sobre criterios 
+para homologación de zonas del D.S N°38/2011 del 
+MMA 
+Ruido y Vibraciones. Guía 
+SEA para evaluación de 
+impactos MMA 2019 
+Guía para la predicción y evaluación de impactos por 
+ruido y vibraciones en el SEIA. Artículo 11 de Ley 19.300. 
+Guía de Ruido SEIA Para 
+Fauna Nativa MMA 2022 
+Criterio de Evaluación en el SEIA: Evaluación de 
+impactos por ruido sobre fauna nativa, abril 2022 
+Ruido, Modelación 
+VDI4 2720 
+Febrero 1991: Schallschutz durch Abschirmung im Freien 
+(Protección contra el ruido por medio de 
+apantallamiento en espacios libres) 
+Ruido, Modelación 
+VDI 2714 
+Enero de 1988: Schallausbreitung im Freien 
+(Propagación del sonido en espacios libres) 
+Ruido, Modelación 
+ISO5 9613-2 
+Septiembre de 1997: Acoustics – Attenuation of sound 
+during propagation outdoors – Part 2: General method 
+of calculation (ISO 9613-2: 1996) 
+Ruido, Fuentes Móviles 
+OPB 814.41 
+Anexo 3 de la Ordenanza sobre la Protección contra el 
+Ruido Nº 814.41 del 15.12.1986, revisada en enero de 
+1996, vigente en la Confederación Suiza, que 
+determina los Niveles de inmisión de ruido máximos 
+permitidos provocados por tráfico vehicular 
+Ruido, Modelación Fuentes 
+Móviles 
+Abril 1990. Guidelines for Noise Protection at Roads. 
+Método alemán RLS 90 (Richtlinien für den Lärmschutz 
+an Strassen) para la predicción del nivel de ruido 
+ 
+1 D.S.: Decreto Supremo 
+2 D.E.: Decreto Exento 
+3 R.E.: Resolución Exenta 
+4 VDI: Verein Deutscher Ingenieure (Asociación de Ingenieros alemanes) 
+5 ISO: International Standard Organization  
+
+===== p.15 =====
+ 
+ 
+ 
+ 
+Pá gin a  3  d e  13 2 
+Aplicación Legal 
+Descripción 
+RLS-90 
+producido por el tráfico vehicular. Ministerio Federal de 
+Transporte. Alemania 
+PRC Viña del Mar 
+Plan Regulador de la comuna de Viña del Mar 
+PRC Quilpué 
+Plan Regulador de la comuna de Quilpué 
+PREMVAL 
+Plan Regulador Metropolitano de Valparaíso 
+Vibraciones FTA 
+September 2018. Transit Noise and Vibration Impact 
+Assessment Manual. 
+Guía para homologación de 
+Zonas 
+SMA, 
+año 
+2017. Herramienta 
+para 
+facilitar 
+la 
+homologación de Zonas del D.S. Nº38/2011 MMA 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+En el Anexo A se encuentra el desglose de las normativas y regulaciones utilizadas. Cabe 
+señalar que la fusión de las normas VDI 2714 y 2720 dieron origen a la norma ISO 9613-2 de 
+propagación del ruido en exteriores. 
+3 
+IDENTIFICACIÓN DE FACTORES GENERADORES DE IMPACTO (FGI)  
+ 
+En este capítulo se presenta la identificación, análisis y caracterización técnica de las Fuentes 
+Generadoras de Impacto (FGI), asociadas a maquinarias, equipos y actividades constructivas 
+u operacionales, que constan en las tres fases de desarrollo del Proyecto: construcción, 
+operación y cierre. Con el objetivo de proveer los datos de entrada para las posteriores 
+modelaciones y evaluaciones ambientales, cada FGI ha sido cuantificada espectral y 
+globalmente mediante su respectivo Nivel de Potencia Acústica (Lw), así como también a 
+través de sus descriptores de vibración en términos de Velocidad Peak de Partículas PPV. Para 
+efectos metodológicos y de modelación, el análisis de estas FGI se estructuró diferenciando 
+entre fuentes fijas y fuentes móviles (flujos vehiculares y maquinarias en tránsito), estas últimas, 
+a su vez, se subdividen en Vehículos Pesados (VP) y Vehículos Livianos (VL). Este inventario 
+consolidado de fuentes constituye la base técnica para proyectar las emisiones e inmisiones 
+en el entorno de los Objetos de Protección (OP) previamente delimitados. 
+
+===== p.16 =====
+ 
+ 
+ 
+ 
+Pá gin a  4  d e  13 2 
+Figura 6: Layout del Proyecto en sus fases de Construcción y Operación 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+3.1 
+DESCRIPCIÓN FGI FASE CONSTRUCCIÓN 
+ 
+La fase de construcción se desarrollará entre los años 1 y 24 del Proyecto. Durante los primeros 
+dos años se ejecutará la construcción del camino de acceso y caminos internos del proyecto, 
+de las oficinas administrativas, del inicio del relleno sanitario en su fase 1 y planta en general. 
+Posteriormente, en el año 4 se implementará la planta de tratamiento de lixiviados, y en el año 
+5 se instalarán las plantas de biogás, reciclaje y compostaje. Finalmente, entre los años 3 y 24 
+se realizarán movimientos de tierra asociados a la preparación y habilitación progresiva de las 
+distintas etapas del relleno sanitario. De acuerdo al cronograma del Proyecto, la fase de 
+Construcción se divide en varias Etapas. 
+A continuación, se muestra el listado de equipos, maquinarias y vehículos que serán utilizados 
+durante la fase de construcción del Proyecto, con sus respectivos espectros. 
+
+===== p.17 =====
+ 
+ 
+ 
+ 
+Pá gin a  5  d e  13 2 
+Tabla 2: Factores generadores de impacto FGI que se utilizarán en la Fase de construcción 
+del Proyecto, con sus respectivos espectro y nivel de emisión total de Potencia Acústica Lw 
+Maquinaria Fase de 
+Construcción 
+Ref 6 
+Niveles de potencia dBA por Bandas de Octava 
+Lw TOTAL 
+dBA 
+63 
+125 
+250 
+500 
+1000 
+2000 
+4000 8000 
+Bulldozer 
+E112/04 
+83,9 
+95,1 
+97 
+100,1 99,1 
+97,3 
+92,3 
+85,5 
+105,4 
+Excavadora 
+E82/88 
+74,2 
+82,7 
+87 
+93,5 
+96,3 
+95,3 
+88,2 
+83,9 
+100,6 
+Motoniveladora 
+E20/88 
+78,8 
+83,8 
+93,8 
+95,2 
+95,3 
+95 
+91,3 
+81,8 
+101,5 
+Rodillo compactador 
+E58/04 
+83,6 
+91,7 
+92 
+99,2 
+101,3 
+100,5 
+94,6 
+88 
+106 
+Retroexcavadora 
+E9/04 
+79,9 
+85,5 
+89,4 
+91,1 
+91,4 
+91,2 
+88,2 
+81,9 
+97,9 
+Camión Aljibe 
+Tc.4 N°897 
+81 
+82 
+67 
+72 
+71 
+74 
+73 
+66 
+79 
+ 
+Camión pluma 
+E63/98 
+72,7 
+72,8 
+79,9 
+87,9 
+89,4 
+87,6 
+81 
+73,6 
+94 
+Grupo electrógeno 
+400 KVA insonorizado 
+https://www.schweizer-
+fn.de/ 
+97,9 
+94,9 
+92,9 
+88,9 
+85,9 
+80,9 
+75,9 
+67,9 
+94,9 
+Camión Tolva 
+(E67/88) 
+73,4 
+82,4 
+88,7 
+91,4 
+93,4 
+90,9 
+86,9 
+83,2 
+98,1 
+Camión mixer 8m3 
+E87/98 
+74,9 
+79,7 
+85,8 
+91,3 
+95,2 
+93,4 
+88,2 
+74,4 
+99,1 
+Cargador frontal  
+E43/04 
+84,4 
+83,9 
+91,1 
+94,6 
+98,2 94,688,9 80,2 
+68 
+101,8 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Durante los primeros dos años de construcción se desarrollará un programa de obras 
+caracterizado por la ejecución simultánea de múltiples frentes de trabajo operativos, logísticos 
+y de infraestructura vial. De manera concurrente, se realizarán las tareas de conectividad y 
+movimiento de tierras que incluyen el replanteo, trazado, limpieza, escarpe y la construcción 
+del camino de acceso principal con sus respectivos atraviesos, sumado a la conexión con la 
+Ruta Troncal Sur y la habilitación tanto de caminos internos transitorios como de los caminos 
+interiores 1, 2 y 3.  
+ 
+6 Referencia para Informe Técnico de Emisiones de ruido de Maquinaria de Construcción (Technischer Bericht zur Untersuchung 
+der Geräuschemissionen von Baumaschinen). Oficina Federal de Geología y Medioambiente del Estado de Hessen. Wiesbaden 
+2004, Alemania.  
+7 Ref. Code of Practice for Noise and Vibration Control on Construction and Open sites. BSI British Standards. BS 5228 – 1, 
+2009+A1:2014 
+
+===== p.18 =====
+ 
+ 
+ 
+ 
+Pá gin a  6  d e  13 2 
+En paralelo a la habilitación de estos accesos, se montará la instalación de faenas del 
+proyecto y se asegurará el predio mediante la construcción del cierre perimetral, al mismo 
+tiempo que se edifica la infraestructura esencial para el personal (oficinas, comedores y 
+camarines) junto con el galpón de mantención y estacionamiento de maquinaria y camiones. 
+Asimismo, coexistirán los trabajos de estructuras y soporte civil, tales como la construcción de 
+plataformas 1, 2 y 3, muros de contención 1 y 2, y bermas perimetrales 1 y 2, complementados 
+con la habilitación de la losa de lavado de camiones y la instalación de la báscula de pesaje. 
+Finalmente, de forma simultánea con algunos de los frentes anteriores, se desplegará la 
+infraestructura sanitaria y ambiental del proyecto, abarcando el inicio de la construcción e 
+impermeabilización de las piscinas de lixiviados 1 y de las bandejas de evaporación 1 y 2, así 
+como el inicio de las faenas de la Etapa 1, que integran la construcción e impermeabilización 
+del vaso, el tendido de su red de recolección de lixiviados y la habilitación de su sistema de 
+manejo de aguas lluvias. 
+Con el propósito de tener una buena representatividad técnica de la evaluación a lo largo 
+del tiempo, el análisis de las Fuentes Generadoras de Impacto (FGI) para la fase de 
+construcción fue dividido en cuatro etapas cronológicas diferenciadas. Cada una de estas 
+subfases responde a la configuración específica de maquinarias y frentes de trabajo previstos 
+para dichos periodos: 
+• 
+Periodo A: Año 1 y Año 2. 
+• 
+Periodo B: Del Año 3 al Año 7. 
+• 
+Periodo C: Del Año 8 al Año 14. 
+• 
+Periodo D: Del Año 15 al Año 24. 
+3.1.1 Fuentes Fijas (FGI fijos) 
+La Tabla 3 muestra la maquinaria y equipos que serán utilizados durante los dos primeros años 
+de construcción, con sus respectivos niveles de emisión de Potencia acústica Lw y valores de 
+velocidad peak de partículas PPV. 
+
+===== p.19 =====
+ 
+ 
+ 
+ 
+Pá gin a  7  d e  13 2 
+Tabla 3: Fuentes fijas Fase construcción Años 1 y 2 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+En la suma total de las emisiones de ruido y vibraciones se ha considerado solo una unidad por 
+tipo de equipo, esto, tomando en cuenta que máquinas del mismo tipo no intervendrán en 
+forma simultánea en un mismo frente de obras. 
+La Tabla 4 a continuación detalla la maquinaria y equipos que serán utilizados durante los años 
+3 y 7 construcción, con sus respectivos niveles de emisión de Potencia acústica Lw y valores de 
+velocidad peak de partículas PPV. 
+Tabla 4: Fuentes fijas Fase construcción Años 3 y 7 
+Maquinaria fuentes fijas fase 
+construcción - Año 3 y Año 
+7  
+(1 a 5 Operación) 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula 
+PPV 
+inch/sec 
+Zona 
+Bulldozer 
+1 
+105,4 
+0,089 
+Construcción de 
+caminos 
+interiores/plataformas
+/ Bermas/muros de 
+contención/ piscinas 
+etc.) 
+Excavadora 
+1 
+100,6 
+0,089 
+Motoniveladora 
+1 
+101,5 
+0,089 
+Rodillo 
+1 
+106 
+0,21 
+Retroexcavadora 
+1 
+97,9 
+0,089 
+Camión aljibe 
+1 
+79 
+0,076 
+Total Lw / PPV 
+ 
+111 
+0,642 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Este tramo marca la finalización de las obras base de la primera fase y da inicio a los ciclos 
+consecutivos de habilitación de nuevas áreas para la continuidad del proyecto. En los primeros 
+Maquinaria/Equipos 
+ fuentes fijas fase construcción 
+- Año 1 y Año 2 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula 
+PPV 
+inch/sec 
+Zona 
+Bulldozer 
+2 
+105,4 
+0,089 
+Camino de 
+acceso/caminos 
+interiores/plataformas/ 
+Bermas/muros de 
+contención/ piscinas 
+etc. 
+Excavadora 
+2 
+100,6 
+0,089 
+Motoniveladora 
+1 
+101,5 
+0,089 
+Rodillo 
+2 
+106 
+0,21 
+Retroexcavadora 
+1 
+97,9 
+0,089 
+Camión aljibe 
+2 
+79 
+0,076 
+Camión multipropósito (pluma) 
+1 
+94 
+0,076 
+Grupo electrógeno 
+1 
+94,9 
+ 
+Plataforma 
+Total Lw / PPV 
+ 
+111 
+0,718 
+ 
+
+===== p.20 =====
+ 
+ 
+ 
+ 
+Pá gin a  8  d e  13 2 
+meses de este periodo se concluyen los sistemas de impermeabilización y manejo de fluidos 
+pendientes de la Etapa 1, permitiendo la recepción inmediata de flujos, mientras que, de 
+forma paralela y anticipada, se activan los frentes de trabajo de la Etapa 2 para ejecutar los 
+movimientos de tierras, excavaciones y acondicionamientos necesarios antes de que la 
+primera etapa alcance su saturación. Hacia el final de este período, el proyecto experimenta 
+una nueva transición técnica con el inicio de las obras preliminares, despeje de terrenos y 
+adecuación de plataformas correspondientes a la Etapa 3. 
+La Tabla 5 a continuación contiene la maquinaria y equipos que serán utilizados durante los 
+años 8 y 14 construcción, con sus respectivos niveles de emisión de Potencia acústica Lw y 
+valores de velocidad peak de partículas PPV. 
+Tabla 5: Fuentes fijas Fase construcción Años 8 y 14 
+Maquinaria fuentes fijas fase 
+construcción - Año 8 a Año 14  
+(6 a 12 Operación) 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Excavadora 
+1 
+100,6 
+0,089 
+Construcción de 
+caminos interiores 
+/plataformas/ 
+Bermas/muros) 
+Rodillo 
+1 
+106 
+0,21 
+Retroexcavadora 
+1 
+97,9 
+0,089 
+Camión aljibe 
+1 
+79 
+0,076 
+Total Lw / PPV 
+ 
+108 
+0,464 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+En esta ventana temporal el proyecto entra en su etapa de maduración y estabilización de 
+procesos, donde la actividad principal se traslada a la operación continua de llenado y 
+compactación en los vasos previamente habilitados de las Etapas 2 y 3. Al mismo tiempo, se 
+ejecutan de manera diferida y secuencial los bloques horizontales de celdas y las plataformas 
+intermedias de la Etapa 3 para expandir la capacidad receptiva del sitio de forma gradual. 
+Asimismo, en este periodo comienzan a coexistir las tareas operativas con las primeras labores 
+de mantenimiento mayor y el sellado o cobertura intermedia de los sectores clausurados de 
+la Etapa 1, gestionando los asentamientos iniciales de la masa de residuos. 
+La Tabla 6 a continuación contiene la maquinaria y equipos que serán utilizados durante los 
+años 8 y 14 construcción, con sus respectivos niveles de emisión de Potencia acústica Lw y 
+valores de velocidad peak de partículas PPV. 
+
+===== p.21 =====
+ 
+ 
+ 
+ 
+Pá gin a  9  d e  13 2 
+Tabla 6: Fuentes fijas Fase construcción Años 15 y 24 
+Maquinaria fuentes fijas fase 
+construcción - Año 15 a Año 24  
+(13 a 22 Operación) 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Excavadora 
+1 
+100,6 
+0,089 
+Construcción de 
+caminos interiores 
+/plataformas/ 
+Bermas/muros) 
+Rodillo 
+1 
+106 
+0,21 
+Retroexcavadora 
+1 
+97,9 
+0,089 
+Camión aljibe 
+1 
+79 
+0,076 
+Total Lw / PPV 
+ 
+108 
+0,464 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+3.1.2 Fuentes Móviles (FGI móviles) 
+En forma análoga a los FGI de fuentes fijas, se presenta a continuación los FGI móviles que 
+intervendrán en los respectivos periodos de construcción, con sus respectivos niveles de 
+emisión de Potencia acústica Lw y valores de velocidad peak de partículas PPV. 
+Tabla 7: Fuentes móviles Fase construcción Años 1 y 2 
+Maquinaria/Equipos 
+ fuentes móviles fase 
+construcción - Año 1 y Año 2 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Camión Tolva 
+6 
+98,1 
+0,076 
+Camino de 
+acceso 
+Camión Mixer 
+1 
+99,1 
+0,076 
+Minibús 
+1 
+Camioneta 4x4 
+3 
+ 
+ 
+Total Lw / PPV 
+ 
+102 
+0,152 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Tabla 8: Fuentes móviles Fase construcción Años 3 y 7 
+Maquinaria fuentes móviles 
+fase construcción. Año 3-Año 7  
+(1 a 5 Operación) 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Camión Tolva 
+3 
+98,1 
+0,076 
+Camino de 
+acceso 
+Camión Mixer 
+1 
+99,1 
+0,076 
+Total Lw / PPV 
+ 
+102 
+0,152 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+
+===== p.22 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 0 de  1 32 
+ 
+Tabla 9: Fuentes móviles Fase construcción Años 8 y 14 
+Maquinaria fuentes móviles 
+fase construcción. Año 8-Año 
+14  
+(6 a 12 Operación) 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Camión Tolva 
+3 
+98,1 
+0,076 
+Camino de 
+acceso 
+Camión Mixer 
+1 
+99,1 
+0,076 
+Total Lw / PPV 
+ 
+102 
+0,152 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+Tabla 10: Fuentes móviles Fase construcción Años 15 y 24 
+Maquinaria fuentes móviles 
+fase construcción. Año 15 a 
+Año 24  
+(13 a 22 Operación) 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Camión Tolva 
+3 
+98,1 
+Camino de 
+acceso 
+Camión Mixer 
+1 
+99,1 
+Total Lw / PPV 
+ 
+102 
+0,152 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+La Tabla a continuación detalla la cantidad de vehículos que se desplazarán por las vías de 
+acceso al Proyecto. 
+Tabla 11: Fuentes móviles Fase construcción que se desplazan por las vías de acceso al 
+Proyecto 
+Flujo Vehicular Fase de Construcción 
+Móvil 
+Cantidad 
+Viaje Asociado a zona 
+N° Ingreso 
+máximo día 
+N° Salidas 
+máximas día 
+Camión Tolva 
+6 
+Camino de acceso y 
+construcción Proyecto 
+6 
+6 
+Camión aljibe 15 
+m3 
+2 
+Camino de acceso y 
+construcción Proyecto 
+2 
+2 
+Camión 
+multipropósito 
+(Pluma) 
+1 
+Camino de acceso y 
+construcción Proyecto 
+1 
+1 
+Camión Mixer 
+1 
+Camino de acceso y 
+construcción Proyecto 
+1 
+1 
+Minibús 
+1 
+Camino de acceso y 
+construcción Proyecto 
+3 
+3 
+Camioneta 4x4 
+3 
+Camino de acceso y 
+construcción Proyecto 
+3 
+3 
+
+===== p.23 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 1 de  1 32 
+Flujo Vehicular Fase de Construcción 
+Móvil 
+Cantidad 
+Viaje Asociado a zona 
+N° Ingreso 
+máximo día 
+N° Salidas 
+máximas día 
+Camión Surtidor 
+1 
+Camino de acceso y 
+construcción Proyecto 
+1 
+1 
+Camión Rampla 
+1 
+Camino de acceso y 
+construcción Proyecto 
+1 
+1 
+Total de 
+movimientos por 
+día 
+ 
+ 
+18 
+18 
+Total Vehículos 
+Livianos VL/h 
+ 
+ 
+33% 
+12 
+Total Vehículos 
+Pesados VP/h 
+ 
+ 
+67% 
+24 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Para efectos de modelación se asume que el desplazamiento de todos los vehículos ocurre en 
+un período de una hora, representando la situación más desfavorable para el Proyecto. 
+3.2 
+DESCRIPCIÓN FGI FASE OPERACIÓN 
+ 
+Para la fase de operación del Proyecto, cuyo inicio cronológico se encuentra programado a 
+partir del Año 3 del cronograma general, el análisis de las Fuentes Generadoras de Impacto 
+(FGI) se acotará de manera exclusiva a la evaluación de fuentes móviles. Lo anterior 
+comprende la caracterización de los flujos vehiculares, el transporte logístico y el tránsito de 
+maquinaria pesada tanto en los caminos de acceso externos como en las vías de circulación 
+interiores del emplazamiento. Al no contemplarse la instalación ni el funcionamiento de 
+infraestructuras o maquinarias estacionarias de carácter permanente para este componente, 
+la modelación y posterior evaluación de impactos acústicos y vibratorios para esta fase se 
+centrará estrictamente en la dinámica de las fuentes en ruta respecto a los Objetos de 
+Protección (OP) identificados. 
+3.2.1  Fuentes Fijas (FGI fijos) 
+La Fase de operación del Proyecto contempla actividad de FGI fijos, según las siguientes 
+instalaciones. La Tabla a continuación contiene el flujo total diario de vehículos pesados VP 
+durante la Fase de Operación del Proyecto 
+
+===== p.24 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 2 de  1 32 
+Tabla 12: Maquinaria fase Operación Relleno Sanitario 
+Maquinaria fase Operación Relleno Sanitario 
+Maquinaría 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Bulldozer 
+1 
+105,4 
+0,089 
+Frente trabajo 
+Excavadora 
+2 
+100,6 
+0,089 
+Frente trabajo 
+Motoniveladora 
+1 
+101,5 
+0,089 
+Mantención de 
+caminos 
+Rodillo  
+1 
+106 
+0,21 
+Mantención de 
+caminos 
+Camión Tolva 
+2 
+98,1 
+0,076 
+Trabajos varios 
+Camión aljibe 
+1 
+79 
+0,076 
+Humectación de 
+caminos 
+Retroexcavadora 
+1 
+97,9 
+0,089 
+Trabajos varios 
+Cargador frontal 
+1 
+101,8 
+0,089 
+Trabajos varios 
+Camioneta 4x4 
+6 
+79 
+0,016 
+Supervisión 
+Minibús 
+1 
+79 
+0,016 
+Traslado personal 
+Grupo electrógeno 80 kVA 
+1 
+94,9 
+  
+Oficinas 
+administración y 
+operación  
+Total  Lw/PPV 
+  
+112 
+0,839 
+  
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+Tabla 3-13: Maquinaria fase Operación Planta reciclaje 
+Maquinaria Planta reciclaje 
+Maquinaría 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Grúa Horquilla 
+1 
+97,9 
+0,089 
+Manejo de 
+Material 
+Retroexcavadora 
+1 
+97,9 
+0,089 
+Traslado de 
+material 
+Grupo electrógeno 144 KVA 
+1 
+94,9 
+ 
+Funcionamiento 
+de la planta  
+Régimen 8 hs/día 
+Total  Lw/PPV 
+ 
+102 
+0,178 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+ 
+ 
+
+===== p.25 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 3 de  1 32 
+Tabla 3-14: Maquinaria fase Operación Planta compostaje 
+Maquinaria Planta compostaje 
+Maquinaría 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Retroexcavadora 
+1 
+97,9 
+0,089 
+Manejo de 
+Material 
+Cargador frontal 
+1 
+101,8 
+0,089 
+Traslado de 
+material 
+Grupo electrógeno 400 KVA 
+1 
+94,9 
+ 
+Funcionamiento 
+de la planta  
+Régimen 8 hs/día 
+Total  Lw/PPV 
+ 
+104 
+0,178 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+Tabla 3-15: Maquinaria fase Operación Planta Lixiviados 
+Maquinaria Planta Lixiviados 
+Maquinaría 
+Cantidad 
+Nivel de 
+emisión de 
+Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Motobombas portátiles 
+2 
+78 
+0,025 
+Trasvasije lixiviados 
+Grupo electrógeno 350 KVA 
+1 
+94,9 
+ 
+Funcionamiento 
+de la planta  
+Régimen 8 hs/día 
+Total  Lw/PPV 
+ 
+95 
+0,025 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+Tabla 3-16: Maquinaria fase Operación Planta Biogás 
+Maquinaria Planta Biogás 
+Maquinaría 
+Cantidad 
+Nivel de emisión 
+de Potencia 
+Acústica  
+Lw en dBA 
+Velocidad 
+Peak de 
+Partícula PPV 
+inch/sec 
+Zona 
+Grupo electrógeno 
+350 KVA 
+1 
+94,9 
+ 
+Funcionamiento de 
+la planta  
+Régimen 8 hs/día 
+Total  Lw/PPV 
+ 
+95 
+0 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Para efectos de modelación se tomará como referencia la operación del Relleno Sanitario, 
+que representa el mayor Nivel de Potencia Acústica (Lw=112 dBA) y la menor distancia del 
+perímetro del proyecto respecto de los OP. 
+
+===== p.26 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 4 de  1 32 
+3.2.2 Fuentes Móviles 
+La Tabla 17 a continuación contiene el flujo total diario de vehículos pesados VP durante la 
+Fase de Operación del Proyecto.  
+Tabla 17: Vehículos Pesados VP Fase Operación que se desplazan por las vías de acceso al 
+Proyecto 
+Flujo Vehicular Fase de Operación 
+Vehículos pesados VP 
+Viaje Asociado a zona 
+N° Ingreso 
+máximo día 
+N° Salidas 
+máximas día 
+Camión Recolector 
+Relleno Sanitario 
+259 
+259 
+Camión Transferencia 
+Relleno Sanitario 
+29 
+29 
+Camión Recolector Reciclaje 
+Planta Reciclaje 
+23 
+23 
+Camión Recolector Compostaje 
+Planta Compostaje 
+21 
+21 
+Camión Carga Reciclaje 10 ton 
+Planta Reciclaje 
+6 
+6 
+Camión Carga Compostaje 10 ton 
+Planta Compostaje 
+17 
+17 
+Camión Aljibe 15 m3 
+Caminos Internos 
+2 
+2 
+Camión surtidor 
+Área mantención 
+1 
+1 
+Camión tolva 
+Transporte interno 
+2 
+2 
+Camión Mixer 
+Plataformas Proyecto 
+1 
+1 
+Movimiento total VP 
+ 
+361 
+361 
+Total VP diario 
+ 
+ 
+722 
+Total VP por hora 
+Movimiento ocurre en 
+8 horas 
+91% 
+90 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+La Tabla 18 a continuación contiene el flujo total diario de vehículos livianos VL durante la Fase 
+de Operación del Proyecto.  
+Tabla 18: Vehículos Livianos VL Fase Operación que se desplazan por las vías de acceso al 
+Proyecto 
+Flujo Vehicular Fase de Operación 
+Vehículos Livianos VL 
+Viaje Asociado a zona 
+N° Ingreso 
+máximo día 
+N° Salidas 
+máximas día 
+Camionetas 
+Transporte interno 
+6 
+6 
+Minibús 
+Transporte  a 
+estacionamiento 
+3 
+3 
+Movimiento total VL 
+ 
+9 
+9 
+Total VL diario 
+ 
+ 
+18 
+Total VL por hora 
+Movimiento ocurre en 2 
+horas 
+9% 
+9 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+
+===== p.27 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 5 de  1 32 
+3.3 
+DESCRIPCIÓN FGI FASE CIERRE 
+ 
+Las fases de cierre y postcierre del Proyecto se extenderán por un periodo de 20 años, 
+comprendido entre los Años 28 y 47 de la iniciativa. Durante el primer año (Año 28) se 
+ejecutarán las faenas de cierre general y desmantelamiento, etapa en la cual operará de 
+forma exclusiva y acotada el grupo electrógeno asociado a dicha unidad operacional, junto 
+a maquinaria pesada y herramientas de demolición. Posteriormente, las actividades se 
+enfocarán en el control de postcierre mediante la operación de fuentes fijas específicas: la 
+Planta de Tratamiento de Lixiviados, que se mantendrá activa hasta el Año 5 de esta fase (Año 
+32 del Proyecto), y la Planta de Tratamiento de Biogás, cuyas operaciones continuarán de 
+manera regular hasta el término definitivo del periodo en el Año 20 de esta fase (Año 47 
+global). Los correspondientes Niveles de Potencia Acústica (Lw) y descriptores de vibración 
+(PPV) han sido caracterizados para representar fielmente esta disminución progresiva de 
+fuentes frente a los Objetos de Protección (OP). 
+ 
+3.3.1  Fuentes Fijas 
+Tabla 19: FGI Fase Cierre del Proyecto 
+Maquinaria Cierre 
+Maquinaria/Equipos 
+Nivel de emisión 
+de Potencia 
+Acústica  
+Lw en dBA 
+Velocidad Peak 
+de Partícula PPV 
+inch/sec 
+Zona 
+Bulldozer 
+105,4 
+0,089 
+Obras de cierre 
+Excavadora 
+100,6 
+0,089 
+Cargador Frontal 
+101,5 
+0,089 
+Camión Tolva 
+98 
+0,076 
+Camión Aljibe 
+79 
+0,076 
+Retroexcavadora 
+97,9 
+0,089 
+Total Lw/PPV 
+109 
+0,508 
+ 
+Equipos 
+ 
+ 
+Zona 
+Grupo electrógeno 80 
+KVA 
+90 
+ 
+Administración 
+Grupo electrógeno 144  
+KVA 
+92 
+ 
+Planta de 
+Reciclaje 
+Grupo electrógeno 350 
+KVA 
+95 
+ 
+Planta Lixiviados 
+
+===== p.28 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 6 de  1 32 
+Maquinaria Cierre 
+Maquinaria/Equipos 
+Nivel de emisión 
+de Potencia 
+Acústica  
+Lw en dBA 
+Velocidad Peak 
+de Partícula PPV 
+inch/sec 
+Zona 
+Grupo electrógeno  400 
+KVA 
+95 
+ 
+Planta Biogás 
+TOTAL Lw 
+100 
+ 
+ 
+TOTAL Maquinarias y 
+Equipos 
+110 
+ 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Para efectos de modelación se ha considerado la emisión simultánea de toda la maquinaria 
+y equipos. 
+3.3.2 Fuentes Móviles 
+La Tabla 20 a continuación contiene el flujo total diario de vehículos pesados VP durante la 
+Fase de Cierre del Proyecto.  
+Tabla 20: Vehículos Pesados VP Fase Cierre que se desplazan por las vías de acceso al 
+Proyecto 
+Flujo Vehicular 
+Fase de Cierre 
+Vehículos pesados 
+VP 
+Cantidad 
+Viaje Asociado a 
+zona 
+N° Ingreso 
+máximo 
+día 
+N° 
+Salidas 
+máximas 
+día 
+Camión Tolva 
+2 
+Distintas unidades el 
+proyecto 
+2 
+2 
+Camión Rampla 
+1 
+Distintas unidades el 
+proyecto 
+1 
+1 
+Camión 3/4 
+1 
+Distintas unidades el 
+proyecto 
+1 
+1 
+Camión pluma 
+1 
+Distintas unidades el 
+proyecto 
+1 
+1 
+Camión Aljibe 
+15m3 
+1 
+Distintas unidades el 
+proyecto 
+1 
+1 
+Surtidor 
+1 
+Área mantención 
+1 
+1 
+Sub Total diario 
+ 
+ 
+7 
+7 
+Total VP/h 
+ 
+ 
+64% 
+14 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+
+===== p.29 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 7 de  1 32 
+La Tabla 21 a continuación contiene el flujo total diario de vehículos livianos VL durante la Fase 
+de Cierre del Proyecto 
+ 
+Tabla 21: Vehículos Livianos VL Fase Cierre que se desplazan por las vías de acceso al 
+Proyecto 
+Flujo Vehicular 
+Fase de Cierre 
+Vehículos Livianos 
+VL 
+Cantidad 
+Viaje Asociado a 
+zona 
+N° Ingreso 
+máximo 
+día 
+N° 
+Salidas 
+máximas 
+día 
+Camioneta 
+2 
+Distintas unidades el 
+proyecto 
+1 
+1 
+Minibús 
+1 
+Distintas unidades el 
+proyecto 
+3 
+3 
+Sub Total diario 
+ 
+ 
+4 
+4 
+Total VL/h 
+ 
+ 
+36% 
+8 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+4 
+DESCRIPCIÓN OBJETOS DE PROTECCIÓN (OP) - RECEPTORES 
+ 
+En este acápite se muestra el lugar donde se emplaza el Proyecto y se identifican, mediante 
+imágenes satelitales de Google Earth, los potenciales objetos de protección, tanto de 
+asentamientos humanos como de fauna, que podrían ser afectados por las emisiones de ruido 
+y vibraciones. 
+A partir de esta identificación, se determinaron los puntos de medición representativos para 
+caracterizar los ambientes sonoros donde se encuentran los receptores más cercanos al 
+proyecto. Estos puntos fueron ratificados en visita a terreno durante el levantamiento de la 
+Línea Base de Ruido LBR y Vibraciones LBV. El desglose, los criterios técnicos y la metodología 
+utilizada para la identificación y selección de estos puntos de medición, se encuentran 
+especificados en el Anexo B del presente informe. 
+4.1 
+DESCRIPCIÓN OBJETOS DE PROTECCIÓN ASENTAMIENTOS HUMANOS (OP 
+AH) 
+La identificación de los Objetos de Protección asociados a Asentamientos Humanos (OP AH), 
+correspondientes a viviendas y receptores residenciales, se realizó mediante un análisis de 
+imágenes satelitales del software Google Earth. A partir de este examen, se seleccionaron las 
+
+===== p.30 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 8 de  1 32 
+edificaciones más cercanas a las obras y partes del Proyecto, configurando el escenario de 
+máxima exposición. 
+4.1.1 Descripción Objetos de Protección Sitios de Fauna (OP Fauna) 
+A partir de la revisión del informe de Fauna del Proyecto, se identificaron lugares con presencia 
+de fauna silvestre nativa en las cercanías del área de emplazamiento. Estos sectores fueron 
+seleccionados bajo criterios biológicos de sensibilidad y proximidad a las fuentes emisoras de 
+ruido y vibraciones, estableciéndose como Objetos de Protección (OP Fauna). La ubicación 
+geográfica y las condiciones del hábitat de estos sitios fueron evaluadas y ratificadas en 
+terreno por especialistas, asegurando la representatividad de estos puntos para el posterior 
+análisis de impacto acústico sobre la fauna del sector. 
+4.1.2 Descripción Objetos de Protección Interés Turísticos Áreas Protegidas y 
+Patrimonio Cultural (OP IT, AP y PC) 
+En base a la consulta de las plataformas oficiales del Sistema de Información y Monitoreo de 
+Biodiversidad (SIMBIO), las Zonas de Interés Turístico (ZOIT) de la Subsecretaría de Turismo y los 
+registros del Consejo de Monumentos Nacionales (CMN), se verificó que el Proyecto no se 
+emplaza ni colinda con Áreas Protegidas (SNASPE), sitios prioritarios, atractivos turísticos 
+consolidados ni bienes del patrimonio cultural susceptibles de afectación acústica o 
+estructural. Al constatarse la ausencia absoluta de estos objetos de conservación en el área 
+de influencia preliminar de las obras, se determina que la evaluación de impactos sobre este 
+componente no aplica para el presente estudio. 
+4.2 
+OP (RECEPTORES) IDENTIFICADOS 
+En consistencia con la metodología y los criterios de proximidad y máxima exposición 
+detallados en los acápites precedentes, se procedió a realizar la selección de OP, tanto de 
+asentamientos humanos, como de fauna. 
+La siguiente tabla presenta el catastro de los Objetos de Protección (OP) de asentamientos 
+humanos identificados.  
+
+===== p.31 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 9 de  1 32 
+Tabla 22: Ubicación OP AH 
+ID de 
+OP 
+Coordenadas 
+de OP 
+UTM 
+Huso: 19 H 
+Distancia 
+al 
+Proyecto– 
+Camino 
+de 
+Acceso 
+m 
+Altura 
+aprox de 
+OP m 
+Descripción 
+Observaciones 
+acerca 
+Uso de Suelo 
+R1 
+N: 6.339.576 
+E: 267.067 
+2165 - 575 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+B-14c 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R1 A 
+N: 6.339.261 
+E: 267.276 
+1795 - 207 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+B-14c 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R2 
+N: 6.339.463 
+E: 267.322 
+1979 - 344 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+B-14c 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R3 
+N: 6.339.411 
+E: 267.709 
+1858 - 229 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+RE 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R4 
+N: 6.339.355 
+E: 268.063 
+1817 - 330 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+RE 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R5 
+N: 6.339.317 
+E: 268.382 
+1811 - 524 
+1,5 m 
+Cercano a 
+conjunto 
+de casas. 
+Uso de suelo: 
+RE 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R6 
+N: 6.337.893 
+E: 269.725 
+1226 - 
+1551 
+1,5 m 
+Cercano a 
+casa. 
+Fuera de IPT 
+
+===== p.32 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 0 de  1 32 
+ID de 
+OP 
+Coordenadas 
+de OP 
+UTM 
+Huso: 19 H 
+Distancia 
+al 
+Proyecto– 
+Camino 
+de 
+Acceso 
+m 
+Altura 
+aprox de 
+OP m 
+Descripción 
+Observaciones 
+acerca 
+Uso de Suelo 
+Zonificación 
+D.S N°38/2011: 
+Zona rural 
+R7 
+N: 6.338.247 
+E: 269.106 
+1039 - 991 
+1,5 m 
+Cercano a 
+casa. 
+Fuera de IPT 
+Zonificación 
+D.S N°38/2011: 
+Zona rural 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+En la Figura 7, a continuación, se puede observar ubicación de los objetos de protección 
+potencialmente sensibles al ruido y vibraciones que fueron detectados para asentamientos 
+humanos.  
+
+===== p.33 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 1 de  1 32 
+Figura 7: Ubicación Objetos de Protección Asentamientos Humanos (OP AH) 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Por otra parte, en la Figura 8, a continuación, se puede observar ubicación de los lugares 
+donde se detectó la presencia de fauna, según el estudio de fauna del Proyecto. 
+
+===== p.34 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 2 de  1 32 
+Figura 8: Ubicación Objetos de Protección Fauna (OP Fauna) 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+4.3 
+LÍNEA BASE DE RUIDO Y VIBRACIONES 
+ 
+En el Anexo B de Línea Base de Ruido del presente estudio se encuentra una completa 
+descripción acerca de la metodología aplicada y del marco legal tomado como referencia 
+para efectuar las mediciones. En este acápite sólo se presentan los resultados de las 
+mediciones practicadas para ruido y vibraciones. 
+Los receptores para el análisis y evaluación de las vibraciones corresponden a los mismos 
+considerados para el análisis y evaluación de los Niveles de inmisión de ruido. 
+
+===== p.35 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 3 de  1 32 
+La siguiente tabla presenta el catastro de los Objetos de Protección (OP) identificados y su 
+punto de medición asociados.  
+Tabla 23: OP y Puntos de Medición asociados 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+ID de 
+OP 
+Punto de 
+medición 
+asociado 
+Coordenadas 
+de OP 
+UTM 
+Huso: 19 H 
+Distancia 
+al 
+Proyecto– 
+Camino 
+de 
+Acceso 
+m 
+Altura 
+aprox de 
+OP m 
+Descripción 
+Observaciones 
+acerca 
+Uso de Suelo 
+R1 
+V4 
+N: 6.339.576 
+E: 267.067 
+2165 - 575 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+B-14c 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R1 A 
+N: 6.339.261 
+E: 267.276 
+1795 - 207 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+B-14c 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R2 
+N: 6.339.463 
+E: 267.322 
+1979 - 344 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+B-14c 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R3 
+V5 
+N: 6.339.411 
+E: 267.709 
+1858 - 229 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+RE 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R4 
+N: 6.339.355 
+E: 268.063 
+1817 - 330 
+1,5 m 
+Cercano a 
+conjunto 
+de casas 1 
+piso. 
+Uso de suelo: 
+RE 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R5 
+N: 6.339.317 
+E: 268.382 
+1811 - 524 
+1,5 m 
+Cercano a 
+conjunto 
+de casas. 
+Uso de suelo: 
+RE 
+
+===== p.36 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 4 de  1 32 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+ID de 
+OP 
+Punto de 
+medición 
+asociado 
+Coordenadas 
+de OP 
+UTM 
+Huso: 19 H 
+Distancia 
+al 
+Proyecto– 
+Camino 
+de 
+Acceso 
+m 
+Altura 
+aprox de 
+OP m 
+Descripción 
+Observaciones 
+acerca 
+Uso de Suelo 
+Zonificación 
+D.S N°38/2011: 
+Zona II 
+R6 
+V3 
+N: 6.337.893 
+E: 269.725 
+1226 - 
+1551 
+1,5 m 
+Cercano a 
+casa. 
+Fuera de IPT 
+Zonificación 
+D.S N°38/2011: 
+Zona rural 
+R7 
+V1 
+N: 6.338.247 
+E: 269.106 
+1039 - 991 
+1,5 m 
+Cercano a 
+casa. 
+Fuera de IPT 
+Zonificación 
+D.S N°38/2011: 
+Zona rural 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+4.3.1 Resultados mediciones de LBR 
+Las Tablas a continuación contienen los resultados obtenidos en las mediciones, indicando el 
+día y hora de medición, datos acerca de las condiciones climáticas imperantes durante las 
+mediciones, los Niveles Leqas, Lmáx, Lmín y observaciones. 
+Tabla 24: Resultados de medición de LBR horario diurno - Asentamientos Humanos 
+Martes 28/01/2025, entre 15:30 y 18:00 h 
+Parcial, T: 14°- 3º C, H: 40%, brisa suave: <0,1 m/s → <0,2 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+V1 
+32 
+46 
+29 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V2 
+41 
+47 
+39 
+Se percibe brisa sobre follaje, aves, vehículos 
+lejanos, ladridos y mugidos lejanos. 
+
+===== p.37 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 5 de  1 32 
+Martes 28/01/2025, entre 15:30 y 18:00 h 
+Parcial, T: 14°- 3º C, H: 40%, brisa suave: <0,1 m/s → <0,2 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+V3 
+42 
+49 
+39 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V4 
+62 
+69 
+51 
+Ruido determinado por flujo vehicular constante 
+desde Ruta-60, brisa y aves. 
+V5 
+48 
+52 
+45 
+Se percibe brisa sobre follaje, vehículos lejanos por 
+Ruta-60, aves y trabajos lejanos. 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+Tabla 25: Resultados de medición de LBR horario diurno - Fauna 
+Martes 28/01/2025, entre 15:30 y 18:00 h 
+Parcial, T: 14°- 3º C, H: 40%, brisa suave: <0,1 m/s → <0,2 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+F1 
+47 
+54 
+42 
+Se percibe brisa sobre follaje, aves y Ruta-60 a lo 
+lejos. 
+F2 
+44 
+48 
+43 
+Se percibe brisa sobre follaje, aves y Ruta-60 a lo 
+lejos. 
+F3 
+44 
+48 
+42 
+Se percibe brisa sobre follaje, aves, insectos y 
+curso de agua. 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+
+===== p.38 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 6 de  1 32 
+Tabla 26: Resultados de medición de LBR horario nocturno - Asentamientos Humanos 
+Martes 28/01/2025, entre 21:00 y 23:00 h 
+Parcial, T: 14°- 3º C, H: 60%, brisa suave: <0,2 m/s → 0,4 m/s 
+Punto Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+V1 
+30 
+41 
+28 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V2 
+38 
+42 
+37 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V3 
+41 
+44 
+38 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V4 
+51 
+59 
+48 
+Ruido determinado por flujo vehicular lejano 
+desde Ruta-60, brisa y aves. 
+V5 
+45 
+52 
+43 
+Se percibe brisa sobre follaje, vehículos 
+lejanos por Ruta-60 y aves. 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+Tabla 27: Resultados de medición de LBR horario nocturno - Fauna 
+Martes 28/01/2025, entre 15:30 y 18:00 h 
+Parcial, T: 14°- 3º C, H: 40%, brisa suave: <0,1 m/s → <0,2 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+F1 
+45 
+50 
+39 
+Se percibe brisa sobre follaje, aves y Ruta-60 a lo 
+lejos. 
+F2 
+44 
+49 
+42 
+Se percibe brisa sobre follaje, aves y Ruta-60 a lo 
+lejos. 
+F3 
+42 
+45 
+40 
+Se percibe brisa sobre follaje, aves, insectos y 
+curso de agua. 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+En las Tablas precedentes se observa que en horario diurno los Niveles de Línea Base de Ruido 
+registrados en los puntos medidos, fluctúan entre 62 dBA (Punto V4) y 41 dBA (Punto V2). Por su 
+parte, para el caso del horario nocturno, se observa que los Niveles de LBR registrados, fluctúan 
+
+===== p.39 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 7 de  1 32 
+entre 51 dBA (Punto V4) y 30 dBA (Punto V1). En ambos horarios el Nivel de ruido de fondo está 
+determinado por paso lejano de vehículos, brisa sobre follaje, insectos, aves y caudal de agua. 
+En la caracterización de los Niveles de ruido registrados durante las mediciones se hace 
+mención en las distintas fuentes que se perciben durante el desarrollo como una forma de 
+reproducir el paisaje acústico del lugar, por ejemplo, aves o vehículos lejanos. Es importante 
+destacar que en ningún caso estas fuentes fueron determinantes del Nivel de ruido basal 
+registrado, ya que cuando alguna de las fuentes antrópicas o naturales supera el Nivel basal, 
+esta es eliminada utilizando una función del instrumento que elimina los últimos segundos de 
+registro. 
+ 
+4.3.2  Resultados medición LBV 
+Las Tablas a continuación presentan los resultados de las mediciones de velocidad vibratoria 
+realizadas en los puntos identificados el martes 28 de enero del 2025, tanto en horario diurno 
+como nocturno. 
+Tabla 28: Mediciones de LBV - Horario diurno 
+Punto 
+Velocidad Peak en mm/s 
+X 
+Y 
+Z 
+V1 
+0,00032 
+0,00012 
+0,00021 
+V2 
+0,00154 
+0,00054 
+0,00038 
+V3 
+0,00079 
+0,00011 
+0,00086 
+V4 
+0,00093 
+0,00023 
+0,00034 
+V5 
+0,00055 
+0,00043 
+0,00051 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+
+===== p.40 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 8 de  1 32 
+Tabla 29: Mediciones de LBV - Horario nocturno 
+Punto 
+Velocidad Peak en mm/s en mm/s 
+X 
+Y 
+Z 
+V1 
+0,00029 
+0,00042 
+0,00031 
+V2 
+0,00063 
+0,00077 
+0,00074 
+V3 
+0,00032 
+0,00052 
+0,00069 
+V4 
+0,00081 
+0,00028 
+0,00012 
+V5 
+0,00096 
+0,00128 
+0,00074 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+En las Tablas precedentes se puede observar que los resultados obtenidos están bajo el criterio 
+de daño estructural y bajo el umbral de percepción humana. Respecto del origen de los 
+valores de velocidad vibratoria medidos, cabe señalar que todos estos corresponden a 
+vibraciones naturales del suelo en cada sector, no existiendo otras fuentes claramente 
+identificadas que puedan afectar los registros. 
+Se deja constancia que el levantamiento de la Línea de Base de Vibraciones (LBV) se ejecutó 
+exclusivamente en los Objetos de Protección asociados a Asentamientos Humanos (OP AH), 
+omitiéndose el monitoreo instrumental en los puntos correspondientes a OP Fauna. Esta 
+decisión metodológica responde a que las normativas y metodologías de referencia 
+internacional validadas por el Servicio de Evaluación Ambiental (tales como la norma 
+alemana DIN 4150-3 o la guía de la FTA) están diseñadas y calibradas para evaluar el confort 
+humano y el daño estructural en edificaciones, careciendo de descriptores o umbrales de 
+afectación aplicables a fauna silvestre en campo abierto. Por lo tanto, la caracterización basal 
+de vibraciones en estos puntos no genera antecedentes técnicamente vinculantes para la 
+evaluación de impactos de este componente. 
+ 
+ 
+
+===== p.41 =====
+ 
+ 
+ 
+ 
+Pá gin a  2 9 de  1 32 
+5 
+MODELACIÓN Y EVALUACIÓN DE CUMPLIMIENTO NORMATIVO SOBRE LOS OP 
+BAJO CONDICIONES MÁS DESFAVORABLES PARA EL PROYECTO 
+ 
+5.1 
+RUIDO 
+ 
+Para modelar los niveles de inmisión de ruido provocados por los FGI fijos durante la Fase de 
+construcción en cada uno de los OP identificados, se ha considerado la situación más 
+desfavorable para el Proyecto. Esto es, la actividad simultánea de los FGI que intervienen en 
+esta Fase. Esto se traduce en un nivel de emisión de Potencia acústica único de Lw= 111 dBA. 
+5.1.1  Modelación y evaluación de Niveles de emisión de Potencia Acústica 
+Lw de los FGI fijos, Fase Construcción para cada OP (Receptor) 
+Tomando en cuenta las distintas distancias a que se encuentran las obras de los receptores, se 
+han separado las actividades asociadas a la construcción de instalaciones y habilitación de 
+terrenos, de aquellas obras asociadas a la construcción de caminos de acceso al Proyecto. 
+En ambos casos se tomó como punto de emisión de ruido el perímetro más cercano a cada 
+OP.  
+Las Tablas de modelación programada a continuación contiene los niveles de inmisión 
+resultantes (Fila 21) en cada uno de los OP identificados. En la Fila 25 de cada Tabla se 
+encuentra la evaluación respecto del cumplimiento del DS 38/11 MMA. 
+ 
+ 
+
+===== p.42 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 0 de  1 32 
+Tabla 30: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+asociados a la construcción de instalaciones del Proyecto  
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+De acuerdo a los resultados obtenidos en la Fila 21 y a la evaluación contenida en la Fila 25, 
+se concluye que el Proyecto cumple con el DS 38/11 MMA durante la construcción de las 
+instalaciones y habilitaciones de terrenos, en todos los objetos de protección evaluados, sin 
+necesidad de implementar medidas de control sonoro. 
+ 
+Cálculo de Niveles de Inmisión de Ruido en 
+los OP identificados
+Etapa Construcción instalaciones del 
+Proyecto 
+FGI fijos
+OP R1
+OP R1 A
+OP R2 
+OP R3
+OP R4 
+OP R5
+OP R6
+OP R7
+Variable a Calcular
+Símbolo Unidad
+1
+Nivel de Potencia Acústica
+Lw 
+dBA
+111
+111
+111
+111
+111
+111
+111
+111
+2
+Altura de la fuente de ruido
+h0
+m
+1
+1
+1
+1
+1
+1
+1
+1
+3
+Altura del punto de inmisión
+hA
+m
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+4
+Altura media sobre el suelo 2023
+hm
+m
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+5
+Distancia
+sm
+m
+2165
+1795
+1979
+1858
+1817
+1811
+1226
+1039
+6
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+0
+0
+0
+0
+0
+0
+0
+7
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+0
+0
+0
+0
+0
+0
+0
+8
+Indice de Directividad
+DI
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+9
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+2
+2
+2
+2
+2
+2
+2
+10 Indice angular de propagación
+K 0
+dB
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+11 Indice de distancia
+Ds
+dB
+77,7
+76,1
+76,9
+76,4
+76,2
+76,2
+72,8
+71,3
+12 Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+13 Indice de absorción en el aire
+DL
+dB
+4,33
+3,59
+3,96
+3,72
+3,63
+3,62
+2,45
+2,08
+14 Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+15 Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+16 Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+17 Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+18 Indice de atenuación por efecto de edificios
+DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+19 Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+20 Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+21 Nivel de Presión Sonora en el Punto de inmisión
+Linm,A
+dBA
+27
+30
+28
+29
+29
+29
+34
+36
+22 Nivel de LBR medido horario diurno
+LBR
+dBA
+62
+62
+62
+48
+48
+48
+42
+32
+23 Tipo de Zona DS 38/11 MMA
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Rural
+Rural
+24 Nivel de inmisión máx permitido 
+NPC
+dBA
+60
+60
+60
+60
+60
+60
+52
+42
+25 Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+Nº
+T abla C o dificada A B I N °: 46022-1. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. C o nsultas 569 9243 55 73 info @abi.cl
+
+===== p.43 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 1 de  1 32 
+Tabla 31: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+asociados a la construcción de caminos de acceso al Proyecto 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+De acuerdo a los resultados obtenidos en la Fila 21 y a la evaluación contenida en la Fila 25 se 
+concluye que el Proyecto cumple con el DS 38/11 MMA durante la construcción y 
+habilitaciones de los caminos de acceso, en todos los objetos de protección evaluados, sin 
+necesidad de implementar medidas de control sonoro. 
+Cálculo de Niveles de Inmisión de Ruido en 
+los OP identificados
+Etapa Construcción caminos de acceso
+FGI fijos
+OP R1
+OP R1 A
+OP R2 
+OP R3
+OP R4 
+OP R5
+OP R6
+OP R7
+Variable a Calcular
+Símbolo Unidad
+1
+Nivel de Potencia Acústica
+Lw 
+dBA
+111
+111
+111
+111
+111
+111
+111
+111
+2
+Altura de la fuente de ruido
+h0
+m
+1
+1
+1
+1
+1
+1
+1
+1
+3
+Altura del punto de inmisión
+hA
+m
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+4
+Altura media sobre el suelo 2003
+hm
+m
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+5
+Distancia
+sm
+m
+575
+207
+344
+229
+330
+524
+1551
+991
+6
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+0
+0
+0
+0
+0
+0
+0
+7
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+0
+0
+0
+0
+0
+0
+0
+8
+Indice de Directividad
+DI
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+9
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+2
+2
+2
+2
+2
+2
+2
+10 Indice angular de propagación
+K 0
+dB
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+11 Indice de distancia
+Ds
+dB
+66,2
+57,3
+61,7
+58,2
+61,4
+65,4
+74,8
+70,9
+12 Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03 2,00E-03 2,00E-03 2,00E-03 2,00E-03 2,00E-03 2,00E-03 2,00E-03
+13 Indice de absorción en el aire
+DL
+dB
+1,15
+0,41
+0,69
+0,46
+0,66
+1,05
+3,10
+1,98
+14 Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+4,7
+4,6
+4,7
+4,6
+4,7
+4,7
+4,8
+4,8
+15 Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+16 Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+17 Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+18 Indice de atenuación por efecto de edificios
+DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+19 Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+20 Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+21 Nivel de Presión Sonora en el Punto de inmisión
+Linm,A
+dBA
+42
+52
+47
+51
+47
+43
+31
+36
+22 Nivel de LBR medido horario diurno
+LBR
+dBA
+62
+62
+62
+48
+48
+48
+42
+32
+23 Tipo de Zona DS 38/11 MMA
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Rural
+Rural
+24 Nivel de inmisión máx permitido 
+NPC
+dBA
+60
+60
+60
+60
+60
+60
+52
+42
+25 Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+Nº
+T abla C o dificada A B I N °: 46022-2. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. C o nsultas 569 9243 55 73 info @abi.cl
+
+===== p.44 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 2 de  1 32 
+5.1.2 Modelación y evaluación de Niveles de inmisión de ruido Linm 
+provocados por los FGI móviles, Fase Construcción para cada OP 
+(Receptor)  
+Para modelar los niveles de inmisión de ruido provocados por los FGI móviles durante la Fase 
+de construcción, en cada uno de los OP identificados, se ha considerado la situación más 
+desfavorable para el Proyecto. Esto es, que el desplazamiento de la totalidad de vehículos 
+diarios (36 vehículos/día) ocurre en una hora del día. De la totalidad de vehículos 67% 
+corresponden a vehículos pesados (24 VP/h) y 33% a vehículos livianos (12 VL/h). 
+Tabla 32: Modelación de FGI móviles Fase de construcción 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+RLS 90 
+Flujo 
+VL/h  
+Diurno 
+VP/h 
+Diurno 
+Lm25   
+Diurno 
+VLKW  
+día 
+Dv 
+Correc.  
+Veloc. 
+Distancia 
+s 
+emisión/ 
+inmisión 
+Lm,e 
+Diurno 
+Linmisión 
+resultante 
+Diurno 
+Norma 
+suiza 
+horario 
+diurno 
+Cumple 
+Norma 
+suiza 
+Diurno 
+Receptor 
+proyec 
+33% 
+67% 
+dBA 
+km/h 
+dBA 
+m 
+dBA 
+dBA 
+dBA 
+  
+R1 
+36 v/h 
+1,5 
+3,0 
+53 
+100 
+0,0 
+575 
+53 
+32 
+65 
+SÍ 
+Receptor 
+  
+33% 
+67% 
+  
+  
+  
+  
+  
+  
+  
+  
+R1A 
+36 v/h 
+11,9 
+24,1 
+53 
+100 
+0,0 
+207 
+53 
+40 
+65 
+SÍ 
+Receptor 
+  
+33% 
+67% 
+  
+  
+  
+  
+  
+  
+  
+  
+R2 
+36 v/h 
+11,9 
+24,1 
+53 
+100 
+0,0 
+344 
+53 
+36 
+65 
+SÍ 
+Receptor 
+  
+33% 
+67% 
+  
+  
+  
+  
+  
+  
+  
+  
+R3 
+36 v/h 
+11,9 
+24,1 
+53 
+100 
+0,0 
+229 
+53 
+39 
+65 
+SÍ 
+Receptor 
+  
+33% 
+67% 
+  
+  
+  
+  
+  
+  
+  
+  
+R4 
+36 v/h 
+11,9 
+24,1 
+53 
+100 
+0,0 
+330 
+53 
+37 
+65 
+SÍ 
+Receptor 
+  
+33% 
+67% 
+  
+  
+  
+  
+  
+  
+  
+  
+R5 
+36 v/h 
+11,9 
+24,1 
+53 
+100 
+0,0 
+524 
+53 
+33 
+65 
+SÍ 
+Receptor 
+  
+33% 
+67% 
+  
+  
+  
+  
+  
+  
+  
+  
+R6 
+36 v/h 
+11,9 
+24,1 
+53 
+100 
+0,0 
+1551 
+53 
+22 
+65 
+SÍ 
+Receptor 
+  
+33% 
+67% 
+  
+  
+  
+  
+  
+  
+  
+  
+R7 
+36 v/h 
+11,9 
+24,1 
+53 
+100 
+0,0 
+991 
+53 
+27 
+65 
+SÍ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+El Linmisión resultante de la columna 10 de la Tabla precedente indica que en todos los OP 
+identificados no se sobrepasa el nivel de inmisión máximo establecido en el Anexo 3 de la 
+Norma de la Confederación suiza 814.41 para el Grado de Sensibilidad 3 en horario diurno, 
+cumpliendo, por consiguiente, con dicha norma (Columna 12). 
+
+===== p.45 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 3 de  1 32 
+5.1.3 Modelación y evaluación de Niveles de emisión de Potencia Acústica 
+Lw de los FGI, Fase Operación para cada OP 
+Durante la Fase de Operación estarán en funcionamiento el Relleno Sanitario, la Planta de 
+reciclaje, la Planta de compostaje, la Planta de Lixiviados y la Planta Biogás. Para efectos de 
+modelación se ha considerado como referencia las emisiones sonoras provocadas por el 
+Relleno Sanitario, que corresponde al mayor nivel de emisión de Potencia Acústica con Lw = 
+112 dBA, bajo condición de operación simultánea de toda la maquinaria y equipos, siendo 
+representativo para la actividad de todas las actividades descritas para la Fase de Operación, 
+reflejando, de esta forma, la condición más desfavorable para el Proyecto. 
+La Tabla de modelación programada a continuación contiene los niveles de inmisión 
+resultantes (Fila 21) en cada uno de los OP identificados. En la Fila 25 de cada Tabla se 
+encuentra la evaluación respecto del cumplimiento del DS 38/11 MMA. 
+ 
+
+===== p.46 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 4 de  1 32 
+Tabla 33: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+Fase de Operación del Proyecto  
+ Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+De acuerdo a los resultados obtenidos en la Fila 21 y a la evaluación contenida en la Fila 25 se 
+concluye que el Proyecto cumple con el DS 38/11 MMA, durante la Fase de Operación, en 
+Cálculo de Niveles de Inmisión de Ruido en 
+los OP identificados
+Etapa Operación 
+FGI fijos
+OP R1
+OP R1 A
+OP R2 
+OP R3
+OP R4 
+OP R5
+OP R6
+OP R7
+Variable a Calcular
+Símbolo Unidad
+Nivel de Potencia Acústica
+Lw 
+dBA
+112
+112
+112
+112
+112
+112
+112
+112
+Altura de la fuente de ruido
+h0
+m
+1
+1
+1
+1
+1
+1
+1
+1
+Altura del punto de inmisión
+hA
+m
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+Altura media sobre el suelo 2023
+hm
+m
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+Distancia
+sm
+m
+2165
+1795
+1979
+1858
+1817
+1811
+1226
+1039
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+0
+0
+0
+0
+0
+0
+0
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+0
+0
+0
+0
+0
+0
+0
+Indice de Directividad
+DI
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+2
+2
+2
+2
+2
+2
+2
+Indice angular de propagación
+K 0
+dB
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+Indice de distancia
+Ds
+dB
+77,7
+76,1
+76,9
+76,4
+76,2
+76,2
+72,8
+71,3
+Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+Indice de absorción en el aire
+DL
+dB
+4,33
+3,59
+3,96
+3,72
+3,63
+3,62
+2,45
+2,08
+Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Indice de atenuación por efecto de edificios
+DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Nivel de Presión Sonora en el Punto de inmisión
+Linm,A
+dBA
+28
+31
+29
+30
+30
+30
+35
+37
+Nivel de LBR medido horario diurno
+LBR
+dBA
+62
+62
+62
+48
+48
+48
+42
+32
+Tipo de Zona DS 38/11 MMA
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Rural
+Rural
+Nivel de inmisión máx permitido 
+NPC
+dBA
+60
+60
+60
+60
+60
+60
+52
+42
+Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+T abla C o dificada A B I N °: 46022-3. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. C o nsultas 569 9243 55 73 info @abi.cl
+
+===== p.47 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 5 de  1 32 
+todos los objetos de protección evaluados, sin necesidad de implementar medidas de control 
+sonoro 
+5.1.4  Modelación y evaluación de Niveles de emisión de Potencia Acústica 
+Lw de los FGI Fase Cierre para cada OP 
+Para efectos de modelación se ha considerado la emisión simultánea de toda la maquinaria 
+y equipos, esto es, Lw = 110 dBA. 
+La Tabla de modelación programada a continuación contiene los niveles de inmisión 
+resultantes (Fila 21) en cada uno de los OP identificados. En la Fila 25 de cada Tabla se 
+encuentra la evaluación respecto del cumplimiento del DS 38/11 MMA. 
+ 
+
+===== p.48 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 6 de  1 32 
+Tabla 34: Modelación de Niveles de inmisión de ruido en cada OP provocados por FGI fijos 
+Fase Cierre del Proyecto 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+De acuerdo a los resultados obtenidos en la Fila 21 y a la evaluación contenida en la Fila 25 se 
+concluye que el Proyecto cumple con el DS 38/11 MMA, durante la Fase de Cierre, en todos 
+los objetos de protección evaluados, sin necesidad de implementar medidas de control 
+sonoro. 
+Cálculo de Niveles de Inmisión de Ruido en 
+los OP identificados
+Fase de Cierre  
+FGI fijos
+OP R1
+OP R1 A
+OP R2 
+OP R3
+OP R4 
+OP R5
+OP R6
+OP R7
+Variable a Calcular
+Símbolo Unidad
+Nivel de Potencia Acústica
+Lw 
+dBA
+110
+110
+110
+110
+110
+110
+110
+110
+Altura de la fuente de ruido
+h0
+m
+1
+1
+1
+1
+1
+1
+1
+1
+Altura del punto de inmisión
+hA
+m
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+Altura media sobre el suelo 2023
+hm
+m
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+Distancia
+sm
+m
+2165
+1795
+1979
+1858
+1817
+1811
+1226
+1039
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+0
+0
+0
+0
+0
+0
+0
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+0
+0
+0
+0
+0
+0
+0
+Indice de Directividad
+DI
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+2
+2
+2
+2
+2
+2
+2
+Indice angular de propagación
+K 0
+dB
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+3,0
+Indice de distancia
+Ds
+dB
+77,7
+76,1
+76,9
+76,4
+76,2
+76,2
+72,8
+71,3
+Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+2,00E-03
+Indice de absorción en el aire
+DL
+dB
+4,33
+3,59
+3,96
+3,72
+3,63
+3,62
+2,45
+2,08
+Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+4,8
+Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+0,05
+Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Indice de atenuación por efecto de edificios
+DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+0
+0
+0
+0
+0
+0
+0
+Nivel de Presión Sonora en el Punto de inmisión
+Linm,A
+dBA
+26
+29
+27
+28
+28
+28
+33
+35
+Nivel de LBR medido horario diurno
+LBR
+dBA
+62
+62
+62
+48
+48
+48
+42
+32
+Tipo de Zona DS 38/11 MMA
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Zona II
+Rural
+Rural
+Nivel de inmisión máx permitido 
+NPC
+dBA
+60
+60
+60
+60
+60
+60
+52
+42
+Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+T abla C o dificada A B I N °: 46022-4. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. C o nsultas 569 9243 55 73 info @abi.cl
+
+===== p.49 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 7 de  1 32 
+5.1.5 Resumen de evaluación de cumplimiento normativo en cada fase del 
+proyecto 
+ 
+La Tabla a continuación muestra un resumen de cumplimiento para las tres fases del Proyecto. 
+Se puede observar que en los tres casos se da cumplimiento con la normativa de referencia. 
+ 
+Tabla 35: Resumen de evaluación de cumplimiento de norma en las Fases de Construcción, 
+Operación y Cierre del Proyecto 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+5.1.6 Evaluación de cumplimiento normativo para actividad simultánea de 
+Fases de Construcción y Operación 
+ 
+Considerando que a partir del año 3 del Proyecto las actividades de Construcción se 
+desarrollarán en forma simultánea con la Fase de Operación. La Tabla siguiente contiene la 
+evaluación de ambas actividades en los OP identificados. 
+Resumen de cumplimiento normativo en 
+cada Fase del Proyecto
+OP R1
+OP R1 A
+OP R2 
+OP R3
+OP R4 
+OP R5
+OP R6
+OP R7
+Símbolo Unidad
+Linm en OP Fase de Construcción 
+Linm,A
+dBA
+27
+30
+28
+29
+29
+29
+34
+36
+Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+Linm en OP Fase de Operación 
+Linm,A
+dBA
+28
+31
+29
+30
+30
+30
+35
+37
+Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+Linm en OP Fase de Cierre 
+Linm,A
+dBA
+26
+29
+27
+28
+28
+28
+33
+35
+Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+
+===== p.50 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 8 de  1 32 
+Tabla 36: Evaluación de cumplimiento de norma con actividad simultánea en las Fases de 
+Construcción y Operación del Proyecto 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Se puede observar que en la actividad simultánea de las Fases Construcción y Operación no 
+sobrepasan el máximo permitido por el DS 38/11 MMA. 
+5.2 
+VIBRACIONES 
+5.2.1 Modelación y evaluación según criterios de daño estructural (PPV) y 
+molestia (Lv) de los FGI, Fase Construcción 
+ 
+De acuerdo con el criterio FTA para daño estructural, el Nivel PPV máximo permisible para 
+Categoría de Edificación III es de 0,2 inch/s o de 94 VdB. 
+Para efectos de modelación se ha tomado como referencia el valor PPV correspondiente a la 
+suma de toda la maquinaria que interviene en los años 1 y 2 de la Fase de Construcción, 
+representando de esta forma la situación más adversa para el Proyecto, ya que en los años 
+posteriores la suma de los valores PPV provocados por la maquinaria son menores. 
+ 
+ 
+ 
+Evaluación de cumplimiento normativo de 
+Fase de Construccción + Fase de operación
+OP R1
+OP R1 A
+OP R2 
+OP R3
+OP R4 
+OP R5
+OP R6
+OP R7
+Símbolo Unidad
+Linm en OP Fase de Construcción 
+Linm,A
+dBA
+27
+30
+28
+29
+29
+29
+34
+36
+Linm en OP Fase de Operación 
+Linm,A
+dBA
+28
+31
+29
+30
+30
+30
+35
+37
+Linm total Fase de Construcción+Fase 
+Operación
+31
+34
+32
+33
+33
+33
+38
+40
+Nivel de inmisión máx permitido 
+NPC
+dBA
+60
+60
+60
+60
+60
+60
+52
+42
+Cumple DS 38/11 MMA   SÍ/NO
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+SÍ
+
+===== p.51 =====
+ 
+ 
+ 
+ 
+Pá gin a  3 9 de  1 32 
+Tabla 37: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la construcción de instalaciones del Proyecto. Criterio daño estructural  
+Receptor 
+Distancia a 
+Proyecto 
+(m) 
+PPV 
+referencia 
+total 
+(in/s) 
+PPV por 
+maquinaria en 
+Receptor 
+(in/s) 
+Límite FTA 
+Categoría III 
+Daño 
+Estructural 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+2165 
+0,718 
+0,00015 
+0,2 
+SÍ 
+R1 A 
+1795 
+0,718 
+0,00020 
+0,2 
+SÍ 
+R2 
+1979 
+0,718 
+0,00017 
+0,2 
+SÍ 
+R3 
+1858 
+0,718 
+0,00019 
+0,2 
+SÍ 
+R4 
+1817 
+0,718 
+0,00020 
+0,2 
+SÍ 
+R5 
+1811 
+0,718 
+0,00020 
+0,2 
+SÍ 
+R6 
+1226 
+0,718 
+0,00035 
+0,2 
+SÍ 
+R7 
+1039 
+0,718 
+0,00045 
+0,2 
+SÍ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Tabla 38: Modelación del nivel de velocidad peak de partículas en cada OP provocados por 
+FGI fijos asociados a la construcción de caminos del Proyecto. Criterio daño estructural  
+Receptor 
+Distancia a 
+Proyecto 
+(m) 
+PPV 
+referencia 
+total 
+(in/s) 
+PPV por 
+maquinaria en 
+Receptor 
+(in/s) 
+Límite FTA 
+Categoría III 
+Daño 
+Estructural 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+575 
+0,718 
+0,00110 
+0,2 
+SÍ 
+R1 A 
+207 
+0,718 
+0,00507 
+0,2 
+SÍ 
+R2 
+344 
+0,718 
+0,00237 
+0,2 
+SÍ 
+R3 
+229 
+0,718 
+0,00436 
+0,2 
+SÍ 
+R4 
+330 
+0,718 
+0,00252 
+0,2 
+SÍ 
+R5 
+524 
+0,718 
+0,00126 
+0,2 
+SÍ 
+R6 
+1551 
+0,718 
+0,00025 
+0,2 
+SÍ 
+R7 
+991 
+0,718 
+0,00048 
+0,2 
+SÍ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+En la última columna de las Tablas precedentes se puede observar que se cumple con el 
+criterio de daño estructural en todos los OP evaluados durante toda la Fase de Construcción. 
+En el caso del criterio de molestia, el Nivel máximo permisible para residencias cercanas al 
+Proyecto se encuentran bajo la condición de eventos frecuentes, por lo que el límite normativo 
+para estas corresponde a 72 VdB en Categoría 2 de uso de suelo. 
+ 
+
+===== p.52 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 0 de  1 32 
+Tabla 39: Modelación de niveles de inmisión vibratoria Lv en cada OP provocados por FGI 
+fijos asociados a la construcción de instalaciones del Proyecto. Criterio molestia personas  
+Receptor 
+PPV @ 25 
+ft. in/seg 
+Total 
+Vrms 
+@ 25 
+ft. 
+in/seg 
+Lvref 
+VdB 
+D  
+en m 
+D  
+en 
+pies 
+30log(D/25) 
+Lv 
+vdB 
+Límite FTA 
+Categoría 
+3 Eventos 
+Frecuentes 
+Lv en VdB 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+0,718 
+0,508 
+114,1 
+2165 
+7103 
+73,6 
+41 
+72 
+SÍ 
+ 
+R1 A 
+0,718 
+0,508 
+114,1 
+1795 
+5889 
+71,2 
+43 
+72 
+SÍ 
+ 
+R2 
+0,718 
+0,508 
+114,1 
+1979 
+6493 
+72,4 
+42 
+72 
+SÍ 
+ 
+R3 
+0,718 
+0,508 
+114,1 
+1858 
+6096 
+71,6 
+42 
+72 
+SÍ 
+ 
+R4 
+0,718 
+0,508 
+114,1 
+1817 
+5961 
+71,3 
+43 
+72 
+SÍ 
+ 
+R5 
+0,718 
+0,508 
+114,1 
+1811 
+5942 
+71,3 
+43 
+72 
+SÍ 
+ 
+R6 
+0,718 
+0,508 
+114,1 
+1226 
+4022 
+66,2 
+48 
+72 
+SÍ 
+ 
+R7 
+0,718 
+0,508 
+114,1 
+1039 
+3409 
+64,0 
+50 
+72 
+SÍ 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Tabla 40: Modelación del nivel de velocidad vibratoria Lv en cada OP provocados por FGI 
+fijos asociados a la construcción de caminos del Proyecto. Criterio molestia personas  
+Receptor 
+PPV @ 25 
+ft. in/seg 
+Total 
+Vrms 
+@ 25 
+ft. 
+in/seg 
+Lvref 
+VdB 
+D  
+en m 
+D  
+en 
+pies 
+30log(D/25) 
+Lv 
+vdB 
+Límite FTA 
+Categoría 
+3 Eventos 
+Frecuentes 
+Lv en VdB 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+0,718 
+0,508 
+114,1 
+575 
+1886 
+56,3 
+58 
+72 
+SÍ 
+ 
+R1 A 
+0,718 
+0,508 
+114,1 
+207 
+679 
+43,0 
+71 
+72 
+SÍ 
+ 
+R2 
+0,718 
+0,508 
+114,1 
+344 
+1129 
+49,6 
+64 
+72 
+SÍ 
+ 
+R3 
+0,718 
+0,508 
+114,1 
+229 
+751 
+44,3 
+70 
+72 
+SÍ 
+ 
+R4 
+0,718 
+0,508 
+114,1 
+330 
+1083 
+49,1 
+65 
+72 
+SÍ 
+ 
+R5 
+0,718 
+0,508 
+114,1 
+524 
+1719 
+55,1 
+59 
+72 
+SÍ 
+ 
+R6 
+0,718 
+0,508 
+114,1 
+1551 
+5089 
+69,3 
+45 
+72 
+SÍ 
+ 
+R7 
+0,718 
+0,508 
+114,1 
+991 
+3251 
+63,4 
+51 
+72 
+SÍ 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+En la última columna de las Tablas precedentes se puede observar que se cumple con el 
+criterio de molestia para la salud de las personas en todos los OP evaluados durante toda la 
+Fase de Construcción. 
+
+===== p.53 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 1 de  1 32 
+5.2.2 Modelación y evaluación según criterios de daño estructural (PPV) y 
+molestia (Lv) de los FGI, Fase Operación   
+Según el criterio de la FTA para daño estructural, el nivel de PPV máximo permitido para la 
+Categoría de Edificación III es de 0,2 in/s (94 VdB). Para la modelación, se tomó como 
+referencia el PPV acumulado de toda la maquinaria que será utilizada durante la fase de 
+operación, representando el escenario más desfavorable para el proyecto. 
+ 
+Tabla 41: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la fase operación del Proyecto. Criterio daño estructural  
+Receptor 
+Distancia a 
+Proyecto 
+(m) 
+PPV 
+referencia 
+total 
+(in/s) 
+PPV por 
+maquinaria en 
+Receptor 
+(in/s) 
+Límite FTA 
+Categoría III 
+Daño 
+Estructural 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+2165 
+0,839 
+0,00018 
+0,2 
+SÍ 
+R1 A 
+1795 
+0,839 
+0,00023 
+0,2 
+SÍ 
+R2 
+1979 
+0,839 
+0,00020 
+0,2 
+SÍ 
+R3 
+1858 
+0,839 
+0,00022 
+0,2 
+SÍ 
+R4 
+1817 
+0,839 
+0,00023 
+0,2 
+SÍ 
+R5 
+1811 
+0,839 
+0,00023 
+0,2 
+SÍ 
+R6 
+1226 
+0,839 
+0,00041 
+0,2 
+SÍ 
+R7 
+1039 
+0,839 
+0,00053 
+0,2 
+SÍ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+La última columna de la tabla precedente demuestra que se cumple con el criterio de daño 
+estructural en todos los OP evaluados durante la fase de operación. En cuanto al criterio de 
+molestia, el límite máximo permitido para las residencias cercanas al proyecto corresponde a 
+72 VdB (Categoría 2 de uso de suelo), al estar expuestas a una condición de eventos 
+frecuentes. 
+Tabla 42: Modelación de niveles de inmisión vibratoria Lv en cada OP provocados por FGI fijos 
+asociados a la operación del Proyecto. Criterio molestia personas 
+Receptor PPV @ 25 
+ft. in/seg 
+Total 
+Vrms @ 
+25 ft. 
+in/seg 
+Lvref 
+VdB 
+D  
+en 
+m 
+D  
+en 
+pies 
+30log(D/25) 
+Lv 
+vdB 
+Límite FTA 
+Categoría 
+3 Eventos 
+Frecuentes 
+Lv en VdB 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+0,839 
+0,593 
+115,5 2165 
+7103 
+73,6 
+42 
+72 
+SÍ 
+ 
+R1 A 
+0,839 
+0,593 
+115,5 1795 
+5889 
+71,2 
+44 
+72 
+SÍ 
+ 
+R2 
+0,839 
+0,593 
+115,5 1979 
+6493 
+72,4 
+43 
+72 
+SÍ 
+ 
+R3 
+0,839 
+0,593 
+115,5 1858 
+6096 
+71,6 
+44 
+72 
+SÍ 
+ 
+
+===== p.54 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 2 de  1 32 
+Receptor PPV @ 25 
+ft. in/seg 
+Total 
+Vrms @ 
+25 ft. 
+in/seg 
+Lvref 
+VdB 
+D  
+en 
+m 
+D  
+en 
+pies 
+30log(D/25) 
+Lv 
+vdB 
+Límite FTA 
+Categoría 
+3 Eventos 
+Frecuentes 
+Lv en VdB 
+Cumple  
+Norma 
+ SÍ/NO 
+R4 
+0,839 
+0,593 
+115,5 1817 
+5961 
+71,3 
+44 
+72 
+SÍ 
+ 
+R5 
+0,839 
+0,593 
+115,5 1811 
+5942 
+71,3 
+44 
+72 
+SÍ 
+ 
+R6 
+0,839 
+0,593 
+115,5 1226 
+4022 
+66,2 
+49 
+72 
+SÍ 
+ 
+R7 
+0,839 
+0,593 
+115,5 1039 
+3409 
+64,0 
+51 
+72 
+SÍ 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+En la última columna de las Tabla anterior se puede observar que se cumple con el criterio de 
+molestia para la salud de las personas en todos los OP evaluados durante la Fase de 
+Operación. 
+5.2.3  Modelación y evaluación según criterios de daño estructural (PPV) y 
+molestia (Lv) de los FGI, Fase de Cierre  
+Tabla 43: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la fase de cierre del Proyecto. Criterio daño estructural 
+Receptor 
+Distancia a 
+Proyecto 
+(m) 
+PPV 
+referencia 
+total 
+(in/s) 
+PPV por 
+maquinaria en 
+Receptor 
+(in/s) 
+Límite FTA 
+Categoría III 
+Daño 
+Estructural 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+2165 
+0,508 
+0,00011 
+0,2 
+SÍ 
+R1 A 
+1795 
+0,508 
+0,00014 
+0,2 
+SÍ 
+R2 
+1979 
+0,508 
+0,00012 
+0,2 
+SÍ 
+R3 
+1858 
+0,508 
+0,00013 
+0,2 
+SÍ 
+R4 
+1817 
+0,508 
+0,00014 
+0,2 
+SÍ 
+R5 
+1811 
+0,508 
+0,00014 
+0,2 
+SÍ 
+R6 
+1226 
+0,508 
+0,00025 
+0,2 
+SÍ 
+R7 
+1039 
+0,508 
+0,00032 
+0,2 
+SÍ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Durante la fase de cierre del Proyecto no se sobrepasa el valor límite establecido por la FTA 
+para daño estructural. 
+ 
+ 
+ 
+ 
+
+===== p.55 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 3 de  1 32 
+Tabla 44: Modelación de velocidad peak de partículas en cada OP, provocados por FGI fijos 
+asociados a la fase de cierre del Proyecto. Criterio molestia 
+Receptor PPV @ 25 
+ft. in/seg 
+Total 
+Vrms @ 
+25 ft. 
+in/seg 
+Lvref 
+VdB 
+D  
+en 
+m 
+D  
+en 
+pies 
+30log(D/25) 
+Lv 
+vdB 
+Límite FTA 
+Categoría 
+3 Eventos 
+Frecuentes 
+Lv en VdB 
+Cumple  
+Norma 
+ SÍ/NO 
+R1 
+0,508 
+0,359 
+111,1 
+2165 
+7103 
+73,6 
+38 
+72 
+SÍ 
+ 
+R1 A 
+0,508 
+0,359 
+111,1 
+1795 
+5889 
+71,2 
+40 
+72 
+SÍ 
+ 
+R2 
+0,508 
+0,359 
+111,1 
+1979 
+6493 
+72,4 
+39 
+72 
+SÍ 
+ 
+R3 
+0,508 
+0,359 
+111,1 
+1858 
+6096 
+71,6 
+39 
+72 
+SÍ 
+ 
+R4 
+0,508 
+0,359 
+111,1 
+1817 
+5961 
+71,3 
+40 
+72 
+SÍ 
+ 
+R5 
+0,508 
+0,359 
+111,1 
+1811 
+5942 
+71,3 
+40 
+72 
+SÍ 
+ 
+R6 
+0,508 
+0,359 
+111,1 
+1226 
+4022 
+66,2 
+45 
+72 
+SÍ 
+ 
+R7 
+0,508 
+0,359 
+111,1 
+1039 
+3409 
+64,0 
+47 
+72 
+SÍ 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+Durante la fase de cierre del Proyecto no se sobrepasa el nivel de vibraciones límite 
+establecido por la FTA para evaluar el criterio de molestia. 
+5.2.4 Resumen de evaluación de cumplimiento normativo de vibraciones en 
+cada fase del proyecto 
+ 
+Tabla 45: Resumen de evaluación de cumplimiento de norma de vibraciones en las Fases de 
+Construcción, Operación y Cierre del Proyecto 
+Vibraciones 
+Fase 
+Cumple con criterio  FTA 
+daño estructural 
+Sí/No 
+Cumple con criterio FTA 
+de molestia 
+Sí/No 
+Fase de Construcción  
+Sí 
+Sí 
+Fase de Operación  
+Sí 
+Sí 
+Fase de Cierre  
+Sí 
+Sí 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+5.2.5  Resumen de medidas de control (propuestas) en cada fase del 
+proyecto 
+ 
+No es necesario la implementación de medidas de control para garantizar el cumplimiento 
+normativo de ruido y vibraciones del Proyecto. 
+
+===== p.56 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 4 de  1 32 
+5.3 
+FAUNA: DETERMINACIÓN ÁREA DE AFECTACIÓN CONDUCTUAL 
+Los límites considerados como referencia corresponden a los indicados o recomendados en 
+la Guía del SEA “Criterio de evaluación en el SEIA: Evaluación de impactos por ruido sobre 
+fauna nativa”. Según lo indicado en dicha Guía, estos umbrales han sido aplicados en otros 
+estudios y se consideran adecuados para evaluar la afectación conductual de distintas clases 
+taxonómicas, tanto frente a fuentes de ruido continuas como intermitentes. 
+ 
+Tabla 46: Niveles límites y distancias para afectación conductual de Fauna 
+Afectación Conductual 
+Especie 
+Descripción del 
+efecto 
+Nivel límite según 
+Guía Fauna SEA 
+Distancia a partir de la 
+cual se cumple con la 
+normativa 
+Anfibios 
+Reducción en 
+duración de cantos 
+en anuros machos 
+72 dBA 
+40 m 
+Reptiles 
+Cambios de 
+conducta general 
+72 dBZ 
+150 m 
+Avifauna 
+Disminución del 
+efecto reproductivo 
+68 dBA 
+59 m 
+Mamíferos 
+Reducción de 
+eficiencia 
+reproductiva 
+68 dBA 
+59 m 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+En las Tablas siguientes se encuentra el detalle de la determinación de la distancia a partir de 
+la cual los niveles máximos de inmisión de ruido permitidos para cada clase taxonómica no 
+son sobrepasados, situándose fuera del área de afectación conductual. En ellas se puede 
+distinguir que la mayor distancia desde el perímetro del Proyecto en la que se comienzan a 
+cumplir los límites de referencia corresponde a los reptiles, con una distancia de 150 metros. 
+ 
+ 
+
+===== p.57 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 5 de  1 32 
+Tabla 47: Niveles y distancias límites para afectación conductual de Fauna Anfibios 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+ 
+Límites para afectación conductual de Fauna 
+Anfibios
+Etapa 
+Operación 
+Relleno 
+Sanitario
+Variable a Calcular
+Símbolo
+Unidad
+F1
+1
+Nivel de Potencia Acústica
+Lw 
+dBA
+112
+2
+Altura de la fuente de ruido
+h0
+m
+2
+3
+Altura del punto de inmisión
+hA
+m
+1,5
+4
+Altura media sobre el suelo 2003
+hm
+m
+1,75
+5
+Distancia
+sm
+m
+42
+6
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+7
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+8
+Indice de Directividad
+DI
+dB
+0
+9
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+10 Indice angular de propagación
+K 0
+dB
+3,0
+11 Indice de distancia
+Ds
+dB
+40,5
+12 Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+13 Indice de absorción en el aire
+DL
+dB
+0,08
+14 Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+2,8
+15 Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+16 Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+17 Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+18 Indice de atenuación por efecto de edificios
+DG
+dB
+0
+19 Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+20 Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+21 Nivel de Presión Sonora en el Punto de inmisión
+Linm,A
+dBA
+72
+T abla C o dificada A B I N °: 46022-6. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. 
+C o nsultas 569 9243 5573 info @abi.cl
+Nº
+
+===== p.58 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 6 de  1 32 
+Figura 9: Límites para afectación conductual de Fauna, Anfibios 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+
+===== p.59 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 7 de  1 32 
+Tabla 48: Niveles y distancias límites para afectación conductual de Fauna Reptiles 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+ 
+Límites para afectación conductual de Fauna 
+Reptiles
+Etapa 
+Operación 
+Relleno 
+Sanitario
+Variable a Calcular
+Símbolo
+Unidad
+F1
+1
+Nivel de Potencia Acústica
+Lw 
+dBZ
+126
+2
+Altura de la fuente de ruido
+h0
+m
+1
+3
+Altura del punto de inmisión
+hA
+m
+1,5
+4
+Altura media sobre el suelo 2003
+hm
+m
+1,25
+5
+Distancia
+sm
+m
+160
+6
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+7
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+8
+Indice de Directividad
+DI
+dB
+0
+9
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+10 Indice angular de propagación
+K 0
+dB
+3,0
+11 Indice de distancia
+Ds
+dB
+52,1
+12 Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+13 Indice de absorción en el aire
+DL
+dB
+0,32
+14 Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+4,5
+15 Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+16 Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+17 Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+18 Indice de atenuación por efecto de edificios
+DG
+dB
+0
+19 Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+20 Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+21 Nivel de Presión Sonora en el Punto de inmisión
+Linm,Z
+dBZ
+72
+T abla C o dificada A B I N °: 46022-7. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. 
+C o nsultas 569 9243 5573 info @abi.cl
+Nº
+
+===== p.60 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 8 de  1 32 
+Figura 10: Límites para afectación conductual de Fauna, Reptiles 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+ 
+ 
+
+===== p.61 =====
+ 
+ 
+ 
+ 
+Pá gin a  4 9 de  1 32 
+Tabla 49: Niveles y distancias límites para afectación conductual de Fauna 
+Avifauna/Mamíferos 
+  
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+ 
+Límites para afectación conductual de Fauna 
+Avifauna/Mamíferos
+Etapa 
+Operación 
+Relleno 
+Sanitario
+Variable a Calcular
+Símbolo
+Unidad
+F1
+1
+Nivel de Potencia Acústica
+Lw 
+dBA
+112
+2
+Altura de la fuente de ruido
+h0
+m
+2
+3
+Altura del punto de inmisión
+hA
+m
+1,5
+4
+Altura media sobre el suelo 2003
+hm
+m
+1,75
+5
+Distancia
+sm
+m
+60
+6
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+7
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+8
+Indice de Directividad
+DI
+dB
+0
+9
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+10 Indice angular de propagación
+K 0
+dB
+3,0
+11 Indice de distancia
+Ds
+dB
+43,6
+12 Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+13 Indice de absorción en el aire
+DL
+dB
+0,12
+14 Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+3,5
+15 Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+16 Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+17 Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+18 Indice de atenuación por efecto de edificios
+DG
+dB
+0
+19 Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+20 Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+21 Nivel de Presión Sonora en el Punto de inmisión
+Linm,A
+dBA
+68
+Nº
+T abla C o dificada A B I N °: 46022-8. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. 
+C o nsultas 569 9243 5573 info @abi.cl
+
+===== p.62 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 0 de  1 32 
+Figura 11: Límites para afectación conductual de Fauna, Reptiles 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Las distancias obtenidas en la Fila 5 de la Tabla de Modelación Programada para Afectación 
+Conductual indican que, ante la presencia de fauna durante las fases de construcción, 
+operación y cierre del Proyecto, se deben conservar distancias mínimas respecto del FGI, 
+conforme al grupo taxonómico correspondiente: en el caso de los anfibios, no deben 
+encontrarse a menos de 40 m; para los reptiles, la distancia mínima es de 150 m; y tanto para 
+la avifauna como para los mamíferos, esta corresponde a 59 m. 
+En caso de que se detecte la presencia de ejemplares dentro de las respectivas zonas de 
+restricción, se deberán implementar medidas de control sonoro, que incluyan la delimitación 
+de dichas áreas como zonas de exclusión. Asimismo, todas las especies de baja movilidad 
+
+===== p.63 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 1 de  1 32 
+presentes dentro de dichas áreas deberán ser consideradas en un Plan de Rescate y 
+Relocalización o en acciones de perturbación controlada, según corresponda, conforme a los 
+lineamientos establecidos en la Guía SEIA para fauna terrestre. 
+ 
+Nota Metodológica Importante:  
+Dado que la afectación conductual de las especies exhibe una mayor sensibilidad y, por 
+ende, presenta umbrales de perturbación más restrictivos que la afectación fisiológica, el 
+análisis de impacto sobre la fauna en el presente Informe se centrará exclusivamente en la 
+evaluación de los efectos conductuales. Por consiguiente, las medidas de control a 
+implementar se establecerán con el objetivo de no superar los umbrales de afectación 
+conductual establecidos para cada taxón, con lo cual, en consecuencia, no serán superados 
+los umbrales de afectación fisiológica. 
+ 
+6 
+DETERMINACIÓN DE ÁREA DE INFLUENCIA PARA RUIDO (AI) 
+ 
+El Área de Influencia (AI) se define como el espacio geográfico en el cual los componentes 
+ambientales pueden experimentar alteraciones debido a las acciones y obras del proyecto. 
+Para el componente Ruido, esta área delimita el territorio donde las ondas sonoras y los niveles 
+de presión de vibración, generados en cualquiera de las fases del proyecto (construcción, 
+operación y cierre), presentan el potencial de propagarse y modificar las condiciones basales 
+del entorno, requiriendo su evaluación frente a los límites normativos y de susceptibilidad 
+ambiental aplicables. 
+6.1 
+ASENTAMIENTOS HUMANOS 
+ 
+Este apartado comprende la identificación y delimitación del área geográfica donde el ruido 
+y las vibraciones del proyecto interactúan con la comunidad, los receptores humanos de tipo 
+residencial, de equipamiento o comunitarios. Para los Asentamientos Humanos (AH), la 
+extensión de esta zona se fundamenta en la capacidad de propagación de los niveles de 
+presión sonora y el resguardo de la salud y calidad de vida de la población circundantes. 
+
+===== p.64 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 2 de  1 32 
+Tabla 50: Cálculo de Niveles de Inmisión de Ruido Ai AH 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+A partir del modelamiento acústico y las características operacionales del proyecto, se 
+determinó un radio de influencia de 1.600 metros en torno a las obras y partes del complejo. 
+La delimitación de este buffer se calculó utilizando el criterio más conservador (escenario más 
+desfavorable), considerando el nivel máximo de emisión de potencia acústica de todo el 
+proyecto, el cual corresponde a 112 dBA Lw, proveniente del Factor Generador de Impacto 
+Cálculo de Niveles de Inmisión de Ruido 
+Área de Influencia Asentamientos Humanos 
+Fase de 
+Construcción
+Variable a Calcular
+Símbolo
+Unidad
+F1
+1
+Nivel de Potencia Acústica
+Lw 
+dBA
+112
+2
+Altura de la fuente de ruido
+h0
+m
+1
+3
+Altura del punto de inmisión
+hA
+m
+1,5
+4
+Altura media sobre el suelo 2003
+hm
+m
+1,25
+5
+Distancia
+sm
+m
+1600
+6
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+7
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+8
+Indice de Directividad
+DI
+dB
+0
+9
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+10 Indice angular de propagación
+K 0
+dB
+3,0
+11 Indice de distancia
+Ds
+dB
+75,1
+12 Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+13 Indice de absorción en el aire
+DL
+dB
+3,20
+14 Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+4,8
+15 Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+16 Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+17 Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+18 Indice de atenuación por efecto de edificios
+DG
+dB
+0
+19 Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+20 Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+21 Nivel de Presión Sonora en el Punto de 
+inmisión; Nivel LBR medido en punto V1
+Linm,A
+dBA
+32
+Nº
+T abla C o dificada A B I N °: 46022-5. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. 
+C o nsultas 9 9243 5573 info @abi.cl
+
+===== p.65 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 3 de  1 32 
+(FGI) de la fase de operación del relleno sanitario. Asimismo, para evaluar el impacto sobre 
+estos receptores, se contrastó contra el menor valor medido de la Línea de Base de Ruido (LBR) 
+para Asentamientos Humanos, registrado en el punto V1 con un valor de 32 dBA. Este perímetro 
+asegura la cobertura total de los receptores sensibles habitacionales expuestos a posibles 
+incrementos en los niveles de ruido. 
+6.2 
+FAUNA  
+ 
+El análisis del área de influencia para la Fauna silvestre tiene por objeto definir el espacio en el 
+cual las emisiones sonoras y las vibraciones mecánicas pueden inducir cambios conductuales, 
+estrés, desplazamiento temporal o alteración en los patrones de reproducción y anidación de 
+las especies sensibles presentes en el entorno ecológico del proyecto. 
+
+===== p.66 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 4 de  1 32 
+Tabla 51: Cálculo de Niveles de Inmisión de Ruido Ai Fauna 
+ 
+Elaboración: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Considerando la susceptibilidad biológica ante perturbaciones acústicas y la atenuación 
+natural del terreno, se determinó un radio de influencia de 650 metros desde los límites de las 
+obras y frentes de trabajo. Al igual que para el componente humano, este radio se encuentra 
+asociado al nivel máximo de emisión de potencia acústica del proyecto de Lw=112 dBA 
+originado durante la fase de operación del relleno sanitario (FGI). El análisis para el Objeto de 
+Cálculo de Niveles de Inmisión de Ruido 
+Área de Influencia Fauna
+Fase de 
+Construcción
+Variable a Calcular
+Símbolo
+Unidad
+F1
+1
+Nivel de Potencia Acústica
+Lw 
+dBA
+112
+2
+Altura de la fuente de ruido
+h0
+m
+1
+3
+Altura del punto de inmisión
+hA
+m
+1,5
+4
+Altura media sobre el suelo 2003
+hm
+m
+1,25
+5
+Distancia
+sm
+m
+650
+6
+Distancia recorrida sobre plantaciones
+(< 200 m)
+sD
+m
+0
+7
+Distancia recorrida sobre edificaciones
+sG
+m
+0
+8
+Indice de Directividad
+DI
+dB
+0
+9
+Angulo en el espacio  (W x p)
+W
+Rad
+2
+10 Indice angular de propagación
+K 0
+dB
+3,0
+11 Indice de distancia
+Ds
+dB
+67,3
+12 Coeficiente de absorción sonora del aire
+aL
+dB/m
+2,00E-03
+13 Indice de absorción en el aire
+DL
+dB
+1,30
+14 Indice de atenuación por efectos meteorológicos y 
+suelo (Vers 2003)
+DBM 
+dB
+4,7
+15 Indice de atenuación por efecto de pantallas acústicas
+Dz
+dB
+0
+16 Coeficiente de atenuación por plantaciones
+aD
+dB/m
+0,05
+17 Indice de atenuación por efecto de matorrales y 
+plantaciones (<200m)
+DD
+dB
+0
+18 Indice de atenuación por efecto de edificios
+DG
+dB
+0
+19 Suma de DD + DG  (< 15 dB)
+DD + DG
+dB
+0
+20 Indice de Reducción Acústica del recinto donde se 
+encuentran las máquinas
+Rw
+dB
+0
+21 Nivel de Presión Sonora en el Punto de 
+inmisión; Nivel LBR medido en punto F2
+Linm,A
+dBA
+42
+Nº
+T abla C o dificada A B I N °: 44026-6. Uso  exclusivo  de A B I - Ingenierí a A cústica Ltda. 
+C o nsultas 9 9243 5573 info @abi.cl
+
+===== p.67 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 5 de  1 32 
+Protección (OP) de fauna se evaluó considerando el menor valor medido de la Línea de Base 
+de Ruido (LBR) en zonas naturales, correspondiente al punto F2 con un valor de 42 dBA. Dentro 
+de esta franja se evalúan y controlan los impactos potenciales sobre los componentes 
+ecológicos de la fauna nativa o en categoría de conservación que habitan los ecosistemas 
+colindantes. 
+6.3 
+ÁREA DE INFLUENCIA FINAL 
+ 
+En esta sección se integran y sintetizan cartográficamente las áreas de afectación espacial 
+definidas de manera independiente para cada objeto de protección. El mapa adjunto 
+plasma gráficamente la superposición de los radios de buffer adoptados bajo los criterios 
+técnicos y de máxima emisión descritos: el perímetro concéntrico de 1.600 metros para 
+Asentamientos Humanos (asociado al punto crítico LBR V1 de 32 dBA) y el de 650 metros para 
+Fauna (asociado al punto crítico LBR F2 de 42 dBA), tomando como eje emisor geométrico las 
+fuentes operacionales del relleno sanitario que alcanzan la potencia máxima de Lw=112 dBA. 
+Esta representación espacial consolidada constituye la base territorial para la ubicación de los 
+puntos de medición y la posterior evaluación de los impactos acústicos de la Declaración de 
+Impacto Ambiental (DIA). 
+
+===== p.68 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 6 de  1 32 
+Figura 12: Área de Influencia (Ai) 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+7 
+EFECTO SINÉRGICOS 
+ 
+Tras la revisión y análisis de la plataforma del Sistema de Evaluación de Impacto Ambiental 
+(SEIA-SEA), se constató la inexistencia de proyectos aledaños, vigentes o en proceso de 
+calificación, cuyas áreas de influencia se superpongan con la del presente proyecto. Por 
+consiguiente, ante la ausencia de fuentes de emisión concurrentes en el entorno inmediato 
+que puedan interactuar con las del proyecto en evaluación, se determina que no se 
+configuran las condiciones para la generación de efectos sinérgicos sobre los Receptores 
+Potenciales (OP). Debido a esto, la evaluación de este componente no resulta aplicable 
+para el presente estudio. 
+
+===== p.69 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 7 de  1 32 
+8 
+DETERMINACIÓN DE SIGNIFICANCIA DE IMPACTO PARA RUIDO Y VIBRACIONES 
+8.1 
+RUIDO 
+8.1.1  Asentamientos Humanos 
+Los resultados del presente estudio demuestran que los niveles de ruido provocados por los FGI 
+no generan impactos significativos en los asentamientos humanos situados dentro del área de 
+influencia. 
+La evaluación de los niveles de inmisión de ruido provocado por los FGI confirma que el 
+proyecto cumple con los límites exigidos por la normativa de referencia en todos los objetos 
+de protección identificados. 
+8.1.2  Fauna 
+La evaluación de los niveles de inmisión de ruido en la Fauna provocado por los FGI confirma 
+que las clases taxonómicas correspondientes a reptiles y aves se encuentran dentro del área 
+de afectación conductual, por lo que se considera un impacto significativo y hace necesario 
+tomar medidas de control, tales como relocalización o perturbación controlada de las 
+especies. 
+En lo que concierne a mamíferos y anfibios, no se genera un impacto significativo al 
+encontrarse estas especies fuera de su área de afectación conductual. No obstante, durante 
+las fases de construcción, operación y cierre del Proyecto, se deberá realizar un seguimiento 
+ambiental para dichas especies. 
+ 
+ 
+ 
+
+===== p.70 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 8 de  1 32 
+8.2 
+VIBRACIONES 
+8.2.1  Asentamientos Humanos 
+De acuerdo a los resultados obtenidos en el presente estudio, en la evaluación de los valores 
+de velocidad peak de partículas PPV o, en su defecto, por los niveles de inmisión de velocidad 
+vibratoria provocados por los FGI en los objetos de protección identificados, permiten aseverar 
+que el Proyecto en estudio no genera impactos significativos en los asentamientos humanos 
+situados dentro del Ai generados por vibraciones. 
+ 
+9 
+CONCLUSIONES 
+A partir de los antecedentes recopilados en la Línea de Base de Ruido (LBR) y Vibraciones 
+(LBV), el análisis de los Factores Generadores de Impacto (FGI) y los resultados obtenidos 
+mediante las modelaciones de propagación acústica y vibratoria para los escenarios más 
+desfavorables del proyecto, se concluye lo siguiente: 
+9.1 
+RUIDO 
+9.1.1  Asentamientos Humanos 
+El proyecto cumple con los niveles NPC máximos permitidos, exigidos por el D.S. N° 38/11 del 
+Ministerio del Medio Ambiente (MMA). El modelamiento predictivo fue ejecutado bajo el 
+escenario operacional más desfavorable, esto es, tomando como referencia el mayor nivel de 
+emisión de Potencia Acústica de Lw= 112 dBA, lo cual ocurre durante la Fase de Operación 
+del Relleno Sanitario. 
+Este cumplimiento se desglosa según el tipo de fuente evaluada: 
+• 
+Fuentes Fijas: Las emisiones provenientes de instalaciones operacionales fijas, 
+maquinaria estacionaria y grupos electrógenos se mantienen bajo los límites del D.S. N° 
+38/11 en todos los receptores. 
+• 
+Fuentes Móviles: Al realizar la comparativa directa con los criterios de evaluación de la 
+Norma Suiza (Anexo 3), el flujo proyectado de camiones de recolección y carga por 
+las vías de acceso internas y la Ruta 60 - Troncal Sur no genera una alteración 
+
+===== p.71 =====
+ 
+ 
+ 
+ 
+Pá gin a  5 9 de  1 32 
+significativa del ruido de fondo ni sobrepasa los umbrales de confort de la población 
+circundante. 
+Por lo tanto, se concluye que las faenas de construcción, operación y cierre del Centro 
+Metropolitano no generarán impactos significativos sobre la salud ni alterarán la calidad de 
+vida de los asentamientos humanos. 
+9.1.2 Fauna 
+Respecto al Objeto de Protección (OP) correspondiente a la fauna, las modelaciones 
+acústicas confirman que las clases taxonómicas correspondientes a mamíferos y anfibios se 
+encuentran fuera del área de afectación conductual respectiva, no siendo necesario 
+implementar medidas de control sonoro, limitándose solo a un seguimiento ambiental de estas 
+especies durante toda la existencia del Proyecto. 
+En el caso de las clases taxonómicas reptiles y avifauna, se constataron múltiples hallazgos 
+dentro de su área de afectación conductual, lo cual hace necesario implementar medidas 
+de control que se pueden traducir en relocalización o perturbación controlada de las 
+especies. 
+La evaluación se realizó en conformidad con la Guía del SEA "Criterio de evaluación en el SEIA: 
+Evaluación de impactos por ruido sobre fauna nativa". Tomando como base el escenario de 
+máxima emisión de Lw= 112 dBA. 
+9.2 
+VIBRACIONES 
+9.2.1  Asentamientos Humanos 
+En materia de vibraciones, las proyecciones asociadas al desarrollo del proyecto evidencian 
+el cumplimiento de los criterios de la norma internacional de referencia FTA (Federal Transit 
+Administration), tras evaluarse bajo el escenario más conservador de "Eventos Frecuentes": 
+• 
+Cumplimiento por Molestia Humana: Se asegura el resguardo del confort de la 
+población al verificar que las ondas generadas no superan el límite de 72 VdB 
+establecido para el periodo nocturno en zonas residenciales. Las vibraciones 
+
+===== p.72 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 0 de  1 32 
+provocadas por el funcionamiento de equipos fijos y el tránsito de la flota de camiones 
+se sitúan por debajo del umbral de percepción humana. 
+• 
+Cumplimiento por Daño Estructural: Las modelaciones predictivas confirman que los 
+niveles de PPV inducidos por el uso de maquinaria pesada y vibratoria durante los 
+frentes de trabajo, se mantienen por debajo de los límites máximos estipulados por la 
+FTA para la protección de la infraestructura. Con ello, se descarta el riesgo de daño 
+estructural o fisuras en las viviendas y edificaciones de los asentamientos humanos más 
+cercanos. 
+Tanto para las fuentes fijas (plantas operacionales y equipos estacionarios) como para las 
+fuentes móviles (paso transitorio de camiones de carga y maquinaria en movimiento), los 
+impactos provocados por las vibraciones se reducen a niveles insignificantes en los OP, por lo 
+que cumple con establecido para resguardar el bienestar de la comunidad y la integridad de 
+su entorno en todas las fases de ejecución del proyecto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.73 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 1 de  1 32 
+ANEXO A: BASE LEGAL, NORMAS O DIRECTRICES DE REFERENCIA 
+1 
+RUIDO: D.S. N°38/11 MMA 
+Los niveles de inmisión de ruido máximos permitidos en las distintas zonas indicadas en los 
+Instrumentos de Planificación Territorial (IPT) están determinados por el D.S. N°38/2011 MMA, 
+que regula las emisiones de ruido desde fuentes fijas que indica. Aquellas zonas que no están 
+reguladas por estos instrumentos y que se encuentren fuera del límite urbano, son consideradas 
+como Zona Rural. 
+El propósito fundamental de este reglamento es resguardar el bienestar sanitario de la 
+comunidad. Para este efecto, fija niveles máximos de inmisión sonora provenientes de sectores 
+comerciales, industriales, de servicios y recreación, así como de obras de construcción e 
+infraestructura. Quedan fuera de este límite únicamente aquellas fuentes que la propia norma 
+excluye específicamente en su artículo quinto. 
+Los límites de emisión de ruido, de acuerdo con el mencionado Decreto, son expresados en 
+términos del descriptor “Nivel de Presión Sonora Corregido” (NPC) en dBA (con filtro de 
+ponderación A). 
+Por otro lado, como indica el Artículo 7º los NPC que se obtengan de la emisión de una fuente 
+emisora de ruido, medidos en el lugar donde se encuentre el receptor, no podrán exceder los 
+valores expresados en la Tabla a continuación.  
+
+===== p.74 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 2 de  1 32 
+Tabla 52: Zonificación y Límites. Niveles NPC máximos permitidos, según D.S. N°38/11 MMA 
+Tipo 
+de Zona 
+D.S. N°38/ 11 
+Nivel Corregido 
+de inmisión de ruido 
+NPC en dBA 
+Uso de suelo permitido 
+Horario Diurno 
+7 a 21 h 
+Horario Nocturno 
+21 a 7 h 
+ZONA I 
+Habitacional, Salud, Educación, Áreas 
+Verdes (R + EP + AV) 
+55 
+45 
+ZONA II 
+Habitacional con Comercio, Servicios, 
+Equipamiento (R + EP + AV + Eq) 
+60 
+45 
+ZONA III 
+Talleres, Almacenamiento, Industrias no 
+molestas, Infraestructura 
+(R + EP + AV + Eq + AP y/o Inf) 
+65 
+50 
+ZONA IV 
+Sólo Actividades Productivas y/o de 
+Infraestructura (industrial exclusivo) 
+(AP y/o Inf) 
+70 
+70 
+Zona 
+Rural 
+Zona fuera de los Instrumento de 
+Planificación Territorial ITP respectivo 
+(Rural, Agrícola, etc.) 
+Menor Nivel entre NPC para Zona III y 
+Nivel de ruido de fondo + 10 dBA 
+Fuente: Decreto Supremo N°38/2011 MMA 
+ 
+2 
+USO DE SUELO 
+El D.S N°38/2011 MMA define los niveles máximos de inmisión de ruido en función del uso de 
+suelo asignado por los instrumentos de planificación territorial (IPT) al lugar donde se encuentra 
+los receptores sensibles al ruido. En resumen, la Ordenanza General de Urbanismo y 
+Construcción (OGUC) distingue los siguientes tipos de usos de suelo: 
+Tabla 53: Tipos de uso de suelo según la OGUC 
+Código 
+Tipo de Uso 
+Código 
+Tipo de Uso 
+R 
+Residencial 
+Inf 
+Infraestructura 
+Eq 
+Equipamiento 
+AV 
+Área Verde 
+AP 
+Actividades Productivas 
+EP 
+Espacio Público 
+Fuente: Ordenanza General de Urbanismo y Construcción 
+3 
+HOMOLOGACIÓN DE USO DE SUELO 
+Los usos de suelo y su respectiva homologación con respecto a la zonificación establecida en 
+el D.S. N°38/2011 se indican en la Tabla siguiente. 
+
+===== p.75 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 3 de  1 32 
+Tabla 54: Usos de suelo en las inmediaciones del proyecto y su homologación D.S. N°38/2011 
+Zonificación 
+Usos de suelo Permitidos 
+Zonificación 
+D.S N°38/2011 
+Residencial 
+Actividades 
+productivas 
+Infraestructura 
+Equipamiento 
+Espacios 
+públicos 
+Áreas verdes 
+RE (PRC Viña del 
+Mar) 
+ 
+ 
+ 
+ 
+ 
+ 
+Zona II 
+B-14c (PRC Viña del 
+Mar) 
+ 
+ 
+ 
+ 
+ 
+ 
+Zona II 
+ARNP - Rural 
+(PREMVAL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rural 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Conforme a los Instrumentos de Planificación Territorial (IPT) vigentes, el Proyecto y sus Objetos 
+de Protección ambiental (OP) se insertan en las zonas RE y B-14c del Plan Regulador Comunal 
+de Viña del Mar (homologadas a Zona II del D.S. N°38/11). Adicionalmente, otros OP se 
+localizan en la zona ARNP - Rural del Plan Regulador Metropolitano de Valparaíso (PREMVAL), 
+la cual se homologa como zona Rural. 
+
+===== p.76 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 4 de  1 32 
+Figura 13: PRC Viña del Mar en Zona de Emplazamiento del Proyecto 
+ 
+Fuente: PRC Viña del Mar 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.77 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 5 de  1 32 
+Figura 14: PREMVAL en Zona de Emplazamiento del Proyecto 
+ 
+Fuente: PREMVAL 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.78 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 6 de  1 32 
+4 
+ISO 9613-2: PREDICCIÓN DE NIVELES DE INMISIÓN DE RUIDO DESDE FUENTES 
+FIJAS 
+En este acápite se describe la metodología utilizada para determinar el Nivel de emisión de 
+Potencia Acústica de los principales FGI (Factores Generadores de Impacto) que intervienen 
+en el Proyecto. Estos factores, cuando las condiciones lo permiten, han sido agrupados en 
+bloques de emisión según las actividades de cada fase del Proyecto. Según corresponda, se 
+ha calculado un Nivel de emisión de Potencia Acústica Lw para cada Bloque de Emisión, el 
+cual corresponde a la suma energética de los Niveles de Potencia Acústica de las fuentes 
+individuales que componen dicho bloque. 
+Se procede también a describir la metodología empleada para la determinación del Nivel de 
+Inmisión de Ruido (Linm) resultante en cada Objeto de Protección OP (receptor) identificado. 
+Se ha considerado la operación secuencial o simultánea de las fuentes, según corresponda a 
+cada escenario específico. La modalidad de operación de las fuentes ya sea secuencial o 
+simultánea, se indica explícitamente en los resultados de la modelación, estableciendo así una 
+condición vinculante para la ejecución del Proyecto. 
+El procedimiento aplicado está basado en las directrices alemanas VDI 2571 y VDI 2714 (Verein 
+Deutsche Ingenieure, Asociación de Ingenieros Alemanes), las cuales dieron origen al estándar 
+internacional ISO 9613-2 Acústica: Atenuación del sonido durante su propagación al aire libre. 
+Parte 2: Método de ingeniería para la predicción de los niveles de presión sonora en exteriores. 
+De acuerdo de lo anterior, el Nivel de Presión Sonora en el Punto de inmisión (OP), situado a 
+una distancia sm del punto medio de la fuente emisora, se calcula según la siguiente expresión: 
+ 
+ 
+ 
+DI=  
+Índice de Directividad 
+El DI se aplica para estimar el apantallamiento propio de una edificación, en la que uno de 
+sus flancos (techo o paredes) constituye una fuente de emisión de ruido. Si la emisión se 
+
+===== p.79 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 7 de  1 32 
+produce por el techo, se estima una atenuación de 5 dB en todas las direcciones. Si la emisión 
+se produce por una pared lateral la atenuación varía entre 0 y 20 dB 
+  
+Figura 15: Corrección por Directividad 
+ 
+Fuente: VDI 2714 
+ 
+K0= 
+Índice angular de propagación 
+ 
+  𝐾0 = 10 ∙log (
+4𝜋
+𝛺)  𝑑𝐵  
+Se trata de una penalización que considera las reflexiones de la fuente de ruido en superficies 
+reflectantes, tales como piso, muros, etc. 
+.  
+K0=0 (Ω= 4π) si la fuente se encuentra libre en 
+el espacio o a gran altura sobre el suelo 
+ 
+
+===== p.80 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 8 de  1 32 
+K0=3 (Ω= 2π) si la fuente se encuentra dentro, 
+delante 
+o 
+sobre 
+una 
+superficie 
+dura 
+reflectante (techo, piso) 
+ 
+ 
+K0=6 (Ω= π) si la fuente se encuentra delante 
+de dos superficies perpendiculares (paredes 
+o muros) 
+ 
+K0=9 (Ω= π/2) si la fuente se encuentra 
+delante de tres superficies perpendiculares 
+ 
+NOTA: En caso de presencia de barreras acústicas K0=0 (Ω= 4π), por lo que no aplica la 
+penalización por reflexiones. 
+ 
+ 
+ 
+Ds=  
+Índice de distancia o de Divergencia 
+Esta atenuación considera la dispersión esférica en el campo libre de una fuente sonora 
+puntual y viene dada por: 
+ 
+ 
+
+===== p.81 =====
+ 
+ 
+ 
+ 
+Pá gin a  6 9 de  1 32 
+ 
+          Se considera emisión esférica (4π) para distancias sobre los 200 m.  
+          Para distancias menores se aplica emisión de media esfera (2π). En este último caso el  
+          Índice de distancia va a ser 3 dB menor. 
+ 
+DL=  
+Índice de absorción sonora en el aire 
+ 
+Es proporcional a la distancia entre Punto de emisión y Punto de inmisión 
+ 
+  
+𝐷𝐿= 𝛼𝐿∙𝑠𝑚 
+ 
+αL:  
+Coeficiente de absorción del aire. Para 500 Hz es igual a 0,002 dB/m 
+ 
+DBM= Índice de atenuación por efectos meteorológicos y suelo 
+Es considerada sólo para grandes distancias, donde debido a interferencias de las ondas 
+reflejadas en el suelo que provocan inversiones de fase, se producen disminuciones en el Nivel 
+de inmisión. 
+  
+𝐷𝐵𝑀= −4,8 ∙𝑒𝑥𝑝[−(
+ℎ𝑚
+𝑠⊥∙(8,5 +
+100
+𝑠⊥))
+1,3
+]   o 
+ 
+𝐷𝐵𝑀= [4,8 −2ℎ𝑚
+𝑠𝑚
+∙(17 + 300
+𝑠𝑚
+)]  𝑑𝐵> 0𝑑𝐵 
+ 
+Figura 16: Altura media 
+ 
+
+===== p.82 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 0 de  1 32 
+Fuente: VDI 2714 
+DD=  
+Índice de atenuación por efecto de matorrales y plantaciones 
+Sólo aplica en grandes distancias. Depende de la densidad de las plantaciones y es 
+proporcional a la distancia sD que recorre el sonido sobre estas. 
+Figura 17: Distancia recorrida sobre plantaciones 
+ 
+ 
+  
+𝐷𝐷= 𝛼𝐷∙𝑠𝐷 
+Para cálculos donde no se considera la dependencia de la frecuencia, se estima αD= 0,05 
+dB/m. 
+ 
+DG=  
+Índice de atenuación por efecto de construcciones u otros edificios. 
+Dependiendo del Punto de inmisión considerado, la atenuación sonora puede oscilar entre 1 
+a 20 dB por cada 100 m recorridos. 
+Nota: La acción conjunta de construcciones y plantaciones deben ser sumadas y no 
+sobrepasar una atenuación máxima de hasta 15 dB. 
+
+===== p.83 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 1 de  1 32 
+Figura 18: Distancia recorrida sobre edificaciones 
+ 
+ 
+Dz=  
+Índice de atenuación por efectos de pantallas acústicas 
+ 
+Esta variable se calcula para distintas distancias, según la fórmula: 
+  
+𝐷𝑧= 7 ∙𝑙𝑜𝑔[5 + (70 + 0,25 ∙𝑠⊥
+1 + 0,2 ∙𝑧⊥
+)] ∙𝑧⊥    𝑑𝐵 
+Figura 19: Ejemplo de cálculo de barrera acústica según Makeawa  
+ 
+ 
+
+===== p.84 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 2 de  1 32 
+5 
+RLS 90 DIRECTRIZ PARA RUIDO EMITIDO POR FUENTES MÓVILES  
+El cálculo del Nivel de inmisión de ruido provocado por fuentes móviles en los puntos sensibles 
+se realiza de acuerdo con la directriz alemana RLS 90, del Ministerio Federal de Transporte, 
+según las siguientes ecuaciones: 
+Lm(25) = 37,3+ 10∙log[M(1+0,082∙p)] 
+Figura 20:  Cálculo de Lm25 
+´ 
+Fuente: RLS 90 
+En donde: 
+p 
+% de vehículos pesados por hora (peso total > 2,8 toneladas) 
+M 
+Flujo Total de vehículos por hora 
+Linmisión = Lm(25) + DVelocidad + Dcarpeta + Dsuelo + Dpendiente + Ddistancia + Dreflexiones 
+DVelocidad 
+Corrección por velocidad 
+Dcarpeta 
+Corrección por tipo de carpeta  
+Dsuelo 
+Corrección por absorción en el suelo o efectos meteorológicos 
+Dpendiente 
+Corrección por la presencia de pendientes  
+Datos de entrada 
+Distancia: 
+25 
+m 
+del 
+centro de la calzada ms 
+próxima 
+Carpeta: Asfalto 
+Velocidad máx.:  
+100 km/h 
+
+===== p.85 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 3 de  1 32 
+Ddistancia 
+Corrección por distancia  
+Dreflexiones 
+Corrección por reflexiones  
+Figura 21: Corrección por Velocidad 
+ 
+Fuente: RLS 90 
+ 
+ 
+
+===== p.86 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 4 de  1 32 
+Figura 22: Corrección por Distancia 
+ 
+Fuente: RLS 90 
+ 
+6 
+NORMA SUIZA OPB 814.41 ANEXO 3 
+ 
+Para evaluar las emisiones sonoras desde fuentes móviles, se aplican los criterios establecidos 
+en el Anexo 3 de la Ordenanza sobre la Protección contra el Ruido Nº 814.41 del 15.12.1986, 
+revisada en enero de 1996, vigente en la Confederación suiza, que determina los Niveles de 
+inmisión de ruido máximos permitidos provocados por tránsito vehicular. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.87 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 5 de  1 32 
+Tabla 55: Niveles máximos de Inmisión de ruido por tránsito vehicular, según Norma Suiza 
+Grado de 
+Sensibilida
+d 
+Art. 43 
+Área 
+Leq A,F en dBA 
+Horario 
+diurno 
+(6 a 22 hs) 
+Leq A,F  en dBA 
+Horario nocturno 
+(22 a 6 hs) 
+I 
+Zonas que requieren ser protegidas contra 
+el ruido. 
+Equivalente a: Zona residencial exclusiva, 
+zona de Hospitales, escuelas, sanatorios o 
+Asilos de ancianos 
+55 
+45 
+II 
+Zonas en que no está permitido ningún tipo 
+de industrias molestas, especialmente en 
+zonas de viviendas o que están reservadas 
+a instalaciones públicas. 
+Equivalente a: Zona residencial y pequeñas 
+agrupaciones de casas con comercio 
+60 
+50 
+III 
+Zonas donde están permitidas industrias 
+medianamente molestas, especialmente 
+zonas mixtas y agrícolas. 
+Equivalente a: Zona mixta y rural con 
+industria inofensiva 
+65 
+55 
+IV 
+Zonas en que están permitidas industrias 
+molestas. 
+Equivalente a: Zona mixta con industria 
+molesta 
+70 
+60 
+Fuente: OPB Confederación suiza 
+7 
+VIBRACIONES: NORMATIVA FTA “TRANSIT NOISE AND VIBRAITON IMPACT 
+ASSESSMENT” 
+ 
+Considerando la ausencia en nuestro país de una norma que permita regular las vibraciones 
+en ambientes comunitarios y cumpliendo con lo establecido en el literal b) del artículo 5 del 
+Reglamento del SEIA, la evaluación del impacto vibratorio en el presente informe se basa en 
+los criterios de la Administración Federal de Tránsito FTA de USA.  
+Siguiendo esta metodología, se emplean dos métricas diferenciadas: la velocidad peak de 
+partículas PPV (Peak Particle Velocity), expresada en pulgadas/s, para determinar potenciales 
+efectos sobre la integridad física de las estructuras y el parámetro nivel de velocidad vibratoria 
+Lv, expresado en VdB, para dimensionar el grado de incomodidad o perturbación que dichas 
+vibraciones puedan causar a los potenciales receptores. 
+
+===== p.88 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 6 de  1 32 
+7.1 
+CRITERIO DE DAÑO ESTRUCTURAL 
+ 
+Para el criterio de daño estructural se utilizarán los valores establecidos en la Tabla siguiente 
+para categoría III, correspondientes a construcciones livianas de madera y edificios de 
+mampostería, el cual se considera como un escenario desfavorable.  
+Tabla 56: Valores para evaluación de daño estructural por vibraciones 
+Categoría de edificación 
+PPV 
+pulgadas/s 
+Lv aprox. 
+VdB 
+I 
+Hormigón armado, acero o madera 
+(sin yeso) 
+0,5 
+102 
+II 
+Ingeniería de hormigón y albañilería 
+(sin yeso) 
+0,3 
+98 
+III 
+Construcciones livianas de madera y 
+edificación de mampostería 
+0,2 
+94 
+IV 
+Edificios extremadamente susceptibles 
+a daño por vibración 
+0,12 
+90 
+Fuente: Norma FTA 
+ 
+De acuerdo con la Tabla precedente, el Nivel PPV máximo permisible para Categoría de 
+Edificación III es de 0,2 inch/s o de 94 VdB. 
+ 
+La estimación de la vibración sobre cada receptor se determina utilizando la siguiente 
+ecuación: 
+ 
+Donde:  
+PPV: Velocidad peak de partícula (pulgadas/s).  
+D: Distancia desde la fuente al receptor (ft).  
+PPVref: Velocidad de partícula de referencia a 25 ft. (pulgadas/s) 
+
+===== p.89 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 7 de  1 32 
+7.2 
+CRITERIO DE SALUD DE LAS PERSONAS 
+ 
+El criterio de salud de las personas está relacionado con los niveles de vibración transmitidos 
+por el suelo cuya influencia y percepción pueden generar niveles de molestia en receptores 
+humanos. La Tabla siguiente muestra limites según el tipo de uso de suelo, de acuerdo a la 
+norma FTA, considerando la cantidad de eventos vibratorios diarios, clasificándolos en eventos 
+frecuentes, ocasionales e infrecuentes. 
+ 
+Tabla 57: Criterio Salud de las Personas. Niveles máximos permitidos de velocidad vibratoria 
+según uso de suelo 
+Niveles de Impacto de Vibración Basal 
+(VdB Ref. 1  Inch/s) 
+Categoría de uso de suelo 
+Eventos 
+Frecuentes 
+Eventos 
+Ocasionales 
+Eventos 
+Infrecuentes 
+Categoría 1: Edificios donde la 
+vibración interferiría con las 
+operaciones interiores. 
+65 VdB 
+65 VdB 
+65 VdB 
+Categoría 2: Residencias y edificios 
+donde la gente normalmente duerme. 
+72 VdB 
+75 VdB 
+80 VdB 
+Categoría 3: 
+Usos de suelo institucionales con uso 
+principalmente diurno. 
+75 VdB 
+78 VdB 
+83 VdB 
+Fuente: Norma FTA 
+ 
+Tabla 58: Clasificación de tipo de eventos 
+ 
+ 
+ 
+ 
+ 
+Fuente: Norma FTA 
+ 
+De acuerdo con la tabla precedente, el Nivel máximo permisible para residencias cercanas al 
+Proyecto se encuentran bajo la condición de eventos frecuentes, por lo que el límite normativo 
+para estas corresponde a 72 VdB en Categoría II de uso de suelo.  
+El Nivel de velocidad vibratoria en decibeles VdB está definido como: 
+Categoría 
+Definición 
+Eventos Frecuentes 
+Más de 70 eventos por día 
+Eventos Ocasionales 
+Entre 30 y 70 eventos por día 
+Eventos Infrecuentes 
+Menos de 30 eventos por día 
+
+===== p.90 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 8 de  1 32 
+ 
+ 
+ 
+8 
+TRONADURAS 
+De acuerdo a la información contenida en la Descripción de Proyecto, durante las fases de 
+construcción, operación y cierre del presente proyecto no se considera la ejecución de faenas 
+de tronaduras ni el uso de explosivos para la habilitación de terrenos o excavaciones.  
+9 
+EVALUACIÓN DE NIVELES DE INMISIÓN DE RUIDO EN LA FAUNA 
+Para la evaluación del impacto acústico sobre la componente de fauna nativa, se ha 
+adoptado como referencia idónea la indicada en el documento técnico “Criterio de 
+Evaluación en el SEIA: Evaluación de Impactos por Ruido sobre Fauna Nativa” (abril, 2022), 
+emitido por el Servicio de Evaluación Ambiental (SEA). 
+Dicha guía establece límites máximos de inmisión de ruido diferenciados por grupos 
+taxonómicos. El propósito es determinar si la exposición al ruido derivado de la intervención en 
+el hábitat generará afectaciones significativas en los aspectos conductuales o fisiológicos de 
+las especies. Los niveles de inmisión máximos permitidos para cada grupo de especies se 
+encuentran detallados en la tabla adjunta. 
+ 
+Tabla 59: Niveles límites y distancias para afectación conductual de Fauna 
+Afectación Conductual 
+Especie 
+Nivel límite según 
+Guía Fauna SEA 
+Distancia a partir de 
+la cual se cumple 
+con la normativa 
+Referencia 
+Anfibios 
+72 dBA 
+40 m 
+Shannon et al., 2026 
+Reptiles 
+72 dBZ 
+150 m 
+Simmons & Narins, 2018 
+
+===== p.91 =====
+ 
+ 
+ 
+ 
+Pá gin a  7 9 de  1 32 
+Afectación Conductual 
+Especie 
+Nivel límite según 
+Guía Fauna SEA 
+Distancia a partir de 
+la cual se cumple 
+con la normativa 
+Referencia 
+Avifauna 
+68 dBA 
+59 m 
+Shannon et al., 2026 
+Mamíferos 
+68 dBA 
+59 m 
+Shannon et al., 2026 
+Fuente: ABI - Ingeniería Acústica Ltda. 2026 
+ 
+Para determinar los límites por especie se ha considerado la situación más desfavorable para 
+el Proyecto, esto es, Fase de Operación durante actividades en el relleno Sanitario, donde el 
+nivel de emisión de Potencia Acústica es Lw= 112 dBA, asumiendo que las actividades en cada 
+Fase del Proyecto se ejecutarán en forma simultánea.  
+Nota Metodológica Importante:  
+Dado que la afectación conductual de las especies exhibe una mayor sensibilidad y, por 
+ende, presenta umbrales de perturbación más restrictivos que la afectación fisiológica, el 
+análisis de impacto sobre la fauna en el presente Informe se centrará exclusivamente en la 
+evaluación de los efectos conductuales. Por consiguiente, las medidas de control a 
+implementar se establecerán con el objetivo de no superar los umbrales de afectación 
+conductual establecidos para cada taxón, con lo cual, en consecuencia, no serán superados 
+los umbrales de afectación fisiológica.  
+
+===== p.92 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 0 de  1 32 
+ANEXO B: LÍNEA BASE DE RUIDO Y VIBRACIONES 
+1 
+METODOLOGÍA PARA EL LEVANTAMIENTO DE LA LÍNEA BASE DE RUIDO Y 
+VIBRACIONES  
+El levantamiento de la línea de base de ruido (LBR) y vibraciones (LBV) para asentamientos 
+humanos y fauna se fundamenta con la definición del marco regulatorio y los estándares 
+vigentes, tanto de aplicación general como de los procedimientos de medición específicos 
+aplicados. Este esquema se ajusta a las directrices vigentes del Ministerio del Medio Ambiente 
+a través de la Guía para la predicción y evaluación de impactos por ruido y vibración en el 
+SEIA del año 2019 y del Criterio de Evaluación en el SEIA: Evaluación de Impactos por Ruido 
+sobre Fauna Nativa del año 2022. 
+2 
+IDENTIFICACIÓN DE RECEPTORES (OP) Y DETERMINACIÓN DE PUNTOS DE 
+MEDICIÓN 
+2.1 
+ASENTAMIENTOS HUMANOS 
+ 
+La Guía para la predicción y evaluación de impactos por ruido y vibración en el SEIA define 
+en su Anexo 2 como receptor como “toda persona, comunidad o vida silvestre que habite, 
+resida o permanezca en un recinto, que esté o pueda resultar expuesta al ruido o vibración 
+generados por una fuente emisora”. Los receptores fueron seleccionados, con la ayuda de 
+fotografías satelitales georreferenciadas del sistema Google Earth, tomando en cuenta la 
+ubicación donde se desarrollará el Proyecto.  
+Para el caso de la selección de los puntos de medición, en primera instancia se realizó en 
+gabinete 
+un 
+análisis 
+de 
+fotografías 
+satelitales 
+georreferenciadas 
+(Google 
+Earth). 
+Posteriormente, se realizó una verificación in situ para confirmar o ajustar estos puntos. Las 
+modificaciones fueron necesarias únicamente cuando las condiciones locales lo exigían, 
+como problemas de acceso (caminos bloqueados o sin autorización de ingreso) o situaciones 
+de riesgo para el equipo de medición. En tales eventualidades, la medición se ejecutó en 
+emplazamientos con características de ruido ambiental equivalentes a las de los receptores 
+originales, permitiendo la homologación de los registros obtenidos. 
+Por respeto al derecho a privacidad de las personas y también para evitar la influencia de 
+ruidos propios de la vida cotidiana de los habitantes y animales domésticos en los registros, las 
+
+===== p.93 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 1 de  1 32 
+mediciones se efectuaron fuera de la propiedad de los receptores, cuidando los aspectos de 
+caracterización acústica ambiental mencionados anteriormente. 
+Los horarios escogidos, tanto para horario diurno como nocturno, fueron determinados 
+después de observar in situ la actividad habitual de la población local, evitando las horas de 
+mayor movimiento en el sector. Al inicio de cada tabla de resumen de niveles medidos en la 
+LBR se encuentran registrados los horarios en que se efectuaron las mediciones, tanto para 
+horario diurno como nocturno. 
+En resumen, los criterios para la selección de puntos y horarios de medición fueron los 
+siguientes: 
+ 
+• 
+Ubicación del Proyecto 
+• 
+Cercanía a los receptores  
+• 
+Accesibilidad a los puntos de medición 
+• 
+Condiciones para homologación de lugares de medición 
+• 
+Actividad local 
+2.2 
+FAUNA 
+ 
+Según las directrices de la guía del SEIA “Evaluación de Impactos por Ruido sobre Fauna 
+Nativa” la localización de los puntos de muestreo de fauna priorizó las áreas identificadas 
+como hábitats críticos para actividades vitales como la nidificación, la reproducción o la 
+búsqueda de alimento. 
+En este caso específico, los puntos de medición de ruido basal de fauna han sido 
+determinados en función de los hallazgos de especies detallados en la línea de base de fauna 
+del Proyecto. 
+3 
+PROCEDIMIENTOS DE MEDICIÓN DE RUIDO 
+3.1 
+EQUIPOS DE MEDICIÓN 
+ 
+Las mediciones de ruido se efectuaron con un Sonómetro integrador de precisión Clase 1, 
+según la clasificación IEC 61672 (International Electrotechnical Commission), Modelo PRM-831 
+
+===== p.94 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 2 de  1 32 
+y Calibrador Modelo CAL200. Ambos equipos cuentan con Certificado de Calibración del 
+Laboratorio de Calibración de Instrumentos Acústicos del Instituto de Salud Pública ISP. 
+También se utilizó en un protector contra interferencias producidas por el viento. En el Anexo 
+D se presentan los certificados de calibración de cada equipo utilizado. 
+3.2 
+NIVELES DE RUIDO DE FONDO EN ASENTAMIENTOS HUMANOS Y FAUNA  
+ 
+Las mediciones se realizaron el martes 28 de enero del 2025 en horario diurno y nocturno. Se 
+consideraron en total 8 puntos de medición, 5 correspondientes a asentamientos humanos y 3 
+puntos a fauna. Se midió a una altura de 1,5 m del suelo y a una distancia superior a 3,5 m de 
+muros o superficies reflectantes.  
+Aparte del nivel de inmisión continuo equivalente Leq,A,S, se registró durante el tiempo de 
+muestreo el nivel efectivo máximo (Lmáx) y el nivel efectivo mínimo (Lmín). Estos descriptores 
+permiten caracterizar con mayor precisión la situación acústica en cada punto. El descriptor 
+Leq,A,S representa un promedio energético del nivel sonoro en el tiempo de observación.  
+Se midió el nivel continuo equivalente Leq en forma continua hasta que se estabilizó la lectura, 
+registrando el valor de Leq cada 5 minutos. Se entiende por estabilizada la lectura cuando la 
+diferencia aritmética entre dos registros consecutivos sea menor o igual a 2 dBA. En las tablas 
+de resultados se consideró el último de los niveles registrados. 
+A partir de los resultados obtenidos en la LBR se realiza un análisis, dando cuenta de los niveles 
+Leq, Lmáx y Lmín registrados. 
+4 
+PROCEDIMIENTOS DE MEDICIÓN DE VIBRACIONES 
+4.1 
+EQUIPOS DE MEDICIÓN 
+ 
+Los registros de Vibraciones se realizaron con un Analizador de Vibraciones marca 
+Convergence Instruments modelo vsew mk2 Vibration Datalogger, fabricado en Canadá, y 
+cumple con las normas EN 50081-2:1994; EN 50082-2:1995; EN 61010-1:1993. 
+
+===== p.95 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 3 de  1 32 
+4.2 
+MEDICIÓN BASAL DE VIBRACIONES EN ASENTAMIENTOS HUMANOS Y 
+FAUNA  
+ 
+Las mediciones de vibraciones tuvieron lugar el martes 28 de enero del 2025 en horario diurno 
+y nocturno. Al igual que en el caso del levantamiento de la LBR, se consideraron 8 Puntos de 
+medición.  
+Las mediciones se realizaron registrando Velocidad Vibratoria Peak (PPV, expresada en mm/s) 
+para los ejes coordenados (X, Y, Z), tomando como eje X, la dirección Norte indicada por el 
+GPS. 
+La metodología de medición de vibración basal consiste en realizar registros de vibraciones 
+durante un intervalo de 10 a 30 minutos. El instrumento es capaz de registrar el movimiento 
+oscilatorio del terreno entregando un valor de vibración mediante el descriptor Velocidad 
+Peak de Partícula (PPV, en inglés). El vibrómetro se fija al suelo mediante un imán o una 
+plataforma metálica o a una estaca que va enterrada entre 10 a 15 cm en el suelo, en las 
+cercanías del receptor. A partir de los resultados obtenidos en la LBV se realiza un análisis de 
+estos, dando cuenta de los valores de velocidad vibratoria máximos registrados. 
+5 
+IDENTIFICACIÓN Y UBICACIÓN DE PUNTOS DE MEDICIÓN 
+5.1 
+UBICACIÓN PUNTOS DE MEDICIÓN ASENTAMIENTOS HUMANOS Y FAUNA 
+IDENTIFICADOS 
+Se consideraron 5 puntos de medición correspondientes a receptores de Asentamientos 
+Humanos y 3 puntos correspondientes a fauna. Las figuras siguientes muestran la ubicación de 
+los puntos de medición, tanto de asentamientos humanos como de fauna, los cuales son 
+representativos para los receptores identificados.  
+
+===== p.96 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 4 de  1 32 
+Figura 23. Ubicación puntos de medición de LBR/LBV de Asentamientos Humanos y Fauna  
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+A continuación, se presenta la información detallada de la ubicación de cada punto de 
+medición en formato tabular. 
+ 
+ 
+ 
+
+===== p.97 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 5 de  1 32 
+Tabla 60. Ubicación puntos de medición LBR/LBV – Asentamientos humanos 
+ID de 
+Punto de 
+Medición 
+Coordenadas 
+UTM 
+Huso: 18 G 
+Distancia 
+al 
+Proyecto 
+(m) 
+Altura 
+aprox. de 
+receptores 
+(m) 
+Descripción 
+Observaciones 
+V1 
+N: 6.338.185 
+E: 269.100 
+979 
+1,5 m 
+Medición en 
+sector entre 
+cerros, frente a 
+vivienda. Sector 
+rural con casas y 
+vegetación. 
+Fuera de IPT 
+Zonificación D.S 
+N°38/2011: Zona 
+rural 
+V2 
+N: 6.338.218 
+E: 269.479 
+1242 
+1,5 m 
+Punto en camino 
+de tierra cercano 
+a R-60. 
+Fuera de IPT 
+Zonificación D.S 
+N°38/2011: Zona 
+rural 
+V3 
+N: 6.337.952 
+E: 269.703 
+1227 
+1,5 m 
+Medición en 
+sector entre 
+cerros, frente a 
+vivienda. Sector 
+rural con casas y 
+vegetación 
+Fuera de IPT 
+Zonificación D.S 
+N°38/2011: Zona 
+rural 
+V4 
+N: 6.339.498 
+E: 267.081 
+2107 
+1,5 m 
+Punto a orilla de 
+R-60, junto a 
+casas. 
+Uso de suelo: B-
+14c 
+Zonificación D.S 
+N°38/2011: Zona II 
+V5 
+N: 6.339.364 
+E: 267.793 
+1834 
+1,5 m 
+Punto en camino 
+de tierra ubicado 
+entre vía férrea y 
+R-60. Sector con 
+casas en medio 
+de vegetación, se 
+observa puente 
+Las Cucharas. 
+Uso de suelo: RE 
+Zonificación D.S 
+N°38/2011: Zona II 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+ 
+
+===== p.98 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 6 de  1 32 
+Tabla 61: Ubicación Puntos de Medición LBR - Fauna 
+ID de 
+Punto de 
+Medició
+n 
+Coordenada
+s UTM 
+Huso: 18 G 
+Distanci
+a al 
+Proyect
+o (m) 
+Altura 
+aprox. 
+de 
+recepto
+res (m) 
+Descripción 
+Observaciones 
+F1 
+N: 6.336.918 
+E: 268.417 
+0 
+1,5 m 
+Medición en 
+sector entre 
+cerros, con 
+vegetación. 
+Uso de selo Fuera de 
+IPT. Zonificación según 
+D.S 38: Zona rural. 
+F2 
+N: 6.337.116 
+E: 267.677 
+20 
+1,5 m 
+Medición en 
+sector entre cerros 
+con vegetación. 
+Uso de selo Fuera de 
+IPT. Zonificación según 
+D.S 38: Zona rural. 
+F3 
+N: 6.338.517 
+E: 267.849 
+663 
+1,5 m 
+Medición en 
+sector entre cerros 
+y caudal de 
+agua. 
+Uso de selo Fuera de 
+IPT. Zonificación según 
+D.S 38: Zona rural. 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+A continuación, se presentan fotografías de los puntos de medición, con una breve 
+descripción y datos de ubicación geográfica. 
+ 
+Tabla 62: Ubicación y Presentación Gráfica de Puntos de Medición LBR/LBV 
+Punto de Medición V 1 
+Medición en sector entre cerros, frente a vivienda. Sector rural con casas y vegetación  
+Uso de suelo: Fuera de IPT.  Zonificación D.S N°38/2011: Zona rural 
+Datum WGS84  Huso 19H   UTM   N: 6.338.185 E: 269.100 
+ 
+
+===== p.99 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 7 de  1 32 
+Punto de Medición V 2 
+Punto en camino de tierra cercano a R-60. 
+Uso de suelo: Fuera de IPT. Zonificación D.S N°38/2011: Zona rural 
+Datum WGS84  Huso 19H. UTM   N: 6.338.218 E: 269.479 
+ 
+ 
+Punto de Medición V 3 
+Medición en sector entre cerros, frente a vivienda. Sector rural con casas y vegetación  
+Uso de suelo: Fuera de IPT 
+Zonificación D.S N°38/2011: Zona rural 
+Datum WGS84  Huso 19H 
+UTM   N: 6.337.952  E: 269.703 
+ 
+ 
+ 
+
+===== p.100 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 8 de  1 32 
+Punto de Medición V 4 
+ Punto a orilla de R-60, junto a casas. 
+Uso de suelo: B-14c.   Zonificación D.S N°38/2011: Zona II 
+Datum WGS84  Huso 19H.  UTM   N: 6.339.498 E: 267.081 
+ 
+Punto de Medición V 5 
+Punto en camino de tierra ubicado entre vía férrea y R-60. Sector con casas en medio de vegetación, se 
+observa puente Las Cucharas. 
+Uso de suelo: RE.   Zonificación D.S N°38/2011: Zona II 
+Datum WGS84  Huso 19H.   UTM   N: 6.339.364 E: 267.793 
+ 
+
+===== p.101 =====
+ 
+ 
+ 
+ 
+Pá gin a  8 9 de  1 32 
+Punto de Medición F 1 
+ Medición en sector entre cerros, con vegetación. 
+Uso de suelo: Fuera de IPT.  Zonificación D.S N°38/2011: Zona Rural 
+Datum WGS84  Huso 19H.  UTM   N: 6.336.918 E: 268.417 
+ 
+ 
+Punto de Medición F 2 
+ Medición en sector entre cerros con vegetación. 
+Uso de suelo: Fuera de IPT.   Zonificación D.S N°38/2011: Zona Rural 
+Datum WGS84  Huso 18G.   UTM   N: 6.337.116 E: 267.677 
+ 
+
+===== p.102 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 0 de  1 32 
+Punto de Medición F 3 
+ Medición en sector entre cerros y caudal de agua. 
+Uso de suelo: Fuera de IPT.  Zonificación D.S N°38/2011: Zona Rural 
+Datum WGS84  Huso 19H.  UTM   N: 6.338.517 E: 267.849 
+ 
+ 
+6 
+RESULTADOS DE LAS MEDICIONES 
+6.1 
+NIVELES DE RUIDO LBR MEDIDOS EN RECEPTORES DE ASENTAMIENTOS 
+HUMANOS Y FAUNA  
+ 
+Las Tablas a continuación contienen los resultados obtenidos en las mediciones, indicando el 
+día y hora de medición, datos acerca de las condiciones climáticas imperantes durante las 
+mediciones, los Niveles LeqA,S, Lmáx, Lmín y observaciones. 
+ 
+
+===== p.103 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 1 de  1 32 
+Tabla 63: Resultados de medición de LBR horario diurno - Asentamientos Humanos 
+Martes 28/01/2025, entre 15:30 y 18:00 h 
+Parcial, T: 14°- 3º C, H: 40%, brisa suave: <0,1 m/s → <0,2 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+V1 
+32 
+46 
+29 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V2 
+41 
+47 
+39 
+Se percibe brisa sobre follaje, aves, vehículos 
+lejanos, ladridos y mugidos lejanos. 
+V3 
+42 
+49 
+39 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V4 
+62 
+69 
+51 
+Ruido determinado por flujo vehicular constante 
+desde Ruta-60, brisa y aves. 
+V5 
+48 
+52 
+45 
+Se percibe brisa sobre follaje, vehículos lejanos por 
+Ruta-60, aves y trabajos lejanos. 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+Tabla 64: Resultados de medición de LBR horario diurno - Fauna 
+Martes 28/01/2025, entre 15:30 y 18:00 h 
+Parcial, T: 14°- 3º C, H: 40%, brisa suave: <0,1 m/s → <0,2 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+F1 
+47 
+54 
+42 
+Se percibe brisa sobre follaje, aves y Ruta-60 
+a lo lejos. 
+F2 
+44 
+48 
+43 
+Se percibe brisa sobre follaje, aves y Ruta-60 
+a lo lejos. 
+F3 
+44 
+48 
+42 
+Se percibe brisa sobre follaje, aves, insectos y 
+curso de agua. 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+
+===== p.104 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 2 de  1 32 
+Tabla 65: Resultados de medición de LBR horario nocturno - Asentamientos Humanos 
+Martes 28/01/2025, entre 21:00 y 23:00 h 
+Parcial, T: 14°- 3º C, H: 60%, brisa suave: <0,2 m/s → 0,4 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+V1 
+30 
+41 
+28 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V2 
+38 
+42 
+37 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V3 
+41 
+44 
+38 
+Se percibe brisa sobre follaje, aves y vehículos 
+lejanos. 
+V4 
+51 
+59 
+48 
+Ruido determinado por flujo vehicular lejano 
+desde Ruta-60, brisa y aves. 
+V5 
+45 
+52 
+43 
+Se percibe brisa sobre follaje, vehículos 
+lejanos por Ruta-60 y aves. 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+Tabla 66: Resultados de medición de LBR horario nocturno - Fauna 
+Martes 28/01/2025, entre 15:30 y 18:00 h 
+Parcial, T: 14°- 3º C, H: 40%, brisa suave: <0,1 m/s → <0,2 m/s 
+Punto 
+Nº 
+Leq 
+dBA 
+Lmáx 
+dBA 
+Lmín 
+dBA 
+Observaciones 
+F1 
+45 
+50 
+39 
+Se percibe brisa sobre follaje, aves y Ruta-60 a 
+lo lejos. 
+F2 
+44 
+49 
+42 
+Se percibe brisa sobre follaje, aves y Ruta-60 a 
+lo lejos. 
+F3 
+42 
+45 
+40 
+Se percibe brisa sobre follaje, aves, insectos y 
+curso de agua. 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+ 
+
+===== p.105 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 3 de  1 32 
+La figura a continuación contiene comparación de las mediciones horario diurno vs 
+nocturno. 
+Figura 24: Comparación entre Niveles LBR en dBA horario diurno y nocturno 
+ 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+7 
+RESULTADOS VIBRACIONES  
+7.1 
+RECEPTORES ASENTAMIENTOS HUMANOS Y FAUNA IDENTIFICADOS 
+ 
+Los receptores para el análisis y evaluación de las vibraciones corresponden a los mismos 
+considerados para la componente ruido. Se consideraron 5 puntos de medición 
+correspondientes a receptores de asentamientos humanos. 
+Las Tablas a continuación presentan los resultados de las mediciones de velocidad peak de 
+partículas realizadas en los puntos identificados el martes 28 de enero del 2025, tanto en horario 
+diurno como nocturno. 
+30
+38
+41
+51
+45
+32
+41
+42
+62
+48
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+V1
+V2
+V3
+V4
+V5
+dBA
+Puntos de Medición
+Comparación Niveles Leq horario diurno y nocturno
+Leq diurno
+Leq nocturno
+
+===== p.106 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 4 de  1 32 
+Tabla 67: Mediciones de LBV - Horario diurno 
+Punto 
+Velocidad Peak en mm/s 
+X 
+Y 
+Z 
+V1 
+0,00032 
+0,00012 
+0,00021 
+V2 
+0,00154 
+0,00054 
+0,00038 
+V3 
+0,00079 
+0,00011 
+0,00086 
+V4 
+0,00093 
+0,00023 
+0,00034 
+V5 
+0,00055 
+0,00043 
+0,00051 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+Tabla 68: Mediciones de LBV - Horario nocturno 
+Punto 
+Velocidad Peak en mm/s en mm/s 
+X 
+Y 
+Z 
+V1 
+0,00029 
+0,00042 
+0,00031 
+V2 
+0,00063 
+0,00077 
+0,00074 
+V3 
+0,00032 
+0,00052 
+0,00069 
+V4 
+0,00081 
+0,00028 
+0,00012 
+V5 
+0,00096 
+0,00128 
+0,00074 
+Fuente: ABI - Ingeniería Acústica Ltda. 2025 
+ 
+En las Tablas precedentes se puede observar que los resultados obtenidos están bajo el criterio 
+de daño estructural y bajo el umbral de percepción humana. Respecto del origen de los 
+valores de velocidad vibratoria medidos, cabe señalar que todos estos corresponden a 
+vibraciones naturales del suelo en cada sector, no existiendo otras fuentes claramente 
+identificadas que puedan afectar los registros. 
+Se deja constancia que el levantamiento de la Línea de Base de Vibraciones (LBV) se ejecutó 
+exclusivamente en los Objetos de Protección asociados a Asentamientos Humanos (OP AH), 
+omitiéndose el monitoreo instrumental en los puntos correspondientes a OP Fauna. Esta 
+decisión metodológica responde a que las normativas y metodologías de referencia 
+
+===== p.107 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 5 de  1 32 
+internacional validadas por el Servicio de Evaluación Ambiental (tales como la norma 
+alemana DIN 4150-3 o la guía de la FTA) están diseñadas y calibradas para evaluar el confort 
+humano y el daño estructural en edificaciones, careciendo de descriptores o umbrales de 
+afectación aplicables a fauna silvestre en campo abierto. Por lo tanto, la caracterización basal 
+de vibraciones en estos puntos no genera antecedentes técnicamente vinculantes para la 
+evaluación de impactos de este componente. 
+8 
+CONCLUSIONES MEDICIÓN DE LÍNEA BASE DE RUIDO 
+De acuerdo con los resultados obtenidos en las mediciones tanto en horario diurno como 
+nocturno, es posible constatar que las principales fuentes de ruido percibidas corresponden a 
+fuentes naturales, tales como brisa suave, aves, curso de agua y ladridos.  
+Cabe destacar que en los casos en que se percibieron ruidos que pudiesen tergiversar el 
+registro, estos fueron filtrados, siendo descartados de la medición.   
+9 
+CONCLUSIONES MEDICIÓN DE LÍNEA BASE DE VIBRACIONES  
+Con respecto a las mediciones de vibraciones, los valores de velocidad vibratoria registrados 
+corresponden a valores muy por debajo del criterio de daño estructural y bajo el umbral de 
+percepción humana.  
+ 
+ 
+Santiago de Chile, 06 de junio de 2025. 
+ 
+Dipl. Ing. Milton González Urquiza 
+               ABI Ingeniería Acústica Ltda. 
+
+===== p.108 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 6 de  1 32 
+ANEXO C: INFORME TÉCNICO MEDICIONES DE LBR 
+1 
+FICHA DE INFORMACIÓN DE MEDICIÓN DE RUIDO 
+IDENTIFICACIÓN DE LA FUENTE EMISORA DE RUIDO 
+Nombre 
+o 
+razón 
+social 
+COSEMAR S A 
+RUT 
+96.827.370- 1 
+Dirección 
+13 NORTE 853 871 901 
+Comuna 
+Viña del Mar 
+Nombre de Zona de 
+emplazamiento 
+(según IPT vigente) 
+ 
+Datum 
+WGS 84 
+Huso 
+19  
+Coordenada Norte 
+ 
+Coordenada Este 
+ 
+CARACTERIZACIÓN DE LA FUENTE EMISORA DE RUIDO 
+Actividad 
+Productiva 
+ Industrial 
+ Agrícola 
+ Extracción 
+ Otro 
+Actividad Comercial  Restaurant 
+ Taller 
+Mecánico 
+ Local 
+Comercial 
+ Otro 
+Actividad 
+Esparcimiento 
+ Discoteca 
+ Recinto 
+Deportivo 
+ Cultura 
+ Otro 
+Actividad 
+de 
+Servicio 
+ Religioso 
+ Salud 
+ Comunitario 
+ Otro 
+Infraestructura 
+Transporte 
+ Terminal 
+ Taller de 
+Transporte 
+ Estación  
+   intermedia 
+ Otro 
+Infraestructura 
+Sanitaria 
+ Planta de 
+Tratamiento 
+✓ Relleno  
+Sanitario 
+ Instalación de  
+distribución 
+ Otro 
+Infraestructura 
+Energética 
+ Generadora 
+ Distribución  
+Eléctrica 
+ Comunicacion
+es 
+ Otro 
+Faena Constructiva 
+ Construcción 
+ Demolición 
+ Reparación 
+ Otro 
+Otro (Especificar) 
+ 
+
+===== p.109 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 7 de  1 32 
+INSTRUMENTAL DE MEDICIÓN 
+Identificación sonómetro 
+Marca 
+Larson Davis 
+Modelo 
+831 
+N° serie 
+3664 
+Fecha 
+de 
+emisión 
+Certificado 
+de 
+Calibración 
+12.07.2023 
+Número de Certificado de Calibración 
+SON20230062 
+Identificación calibrador 
+Marca 
+Larson Davis 
+Modelo 
+CAL 200 
+N° serie 
+9733 
+Fecha 
+de 
+emisión 
+Certificado 
+de 
+Calibración 
+12.07.2023 
+Número de Certificado de Calibración 
+CAL20230056 
+Ponderación en frecuencia 
+A 
+Ponderación temporal 
+Lenta 
+Verificación de Calibración en 
+Terreno 
+✓ 
+   Si 
+ 
+No 
+ 
+
+===== p.110 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 8 de  1 32 
+FICHA DE INFORMACIÓN DE MEDICIÓN DE RUIDO 
+IDENTIFICACIÓN DEL RECEPTOR  
+Receptor N° 
+V1 
+Calle 
+Sin nombre 
+Número 
+S/N 
+Comuna 
+Viña del Mar 
+Datum 
+WGS84 
+Huso 
+19 H 
+Coordenada Norte 
+6.338.185 
+Coordenada Este 
+269.100 
+Nombre de Zona de 
+emplazamiento (según 
+IPT vigente) 
+Fuera del Plano Regulador 
+N° de Certificado de 
+Informaciones Previas* 
+ 
+Zonificación 
+DS 
+N° 
+38/11 MMA  
+ 
+I 
+ 
+II 
+ 
+III 
+ 
+IV 
+✓ Rural 
+*Adjuntar Certificado de Informaciones Previas (Si corresponde, según consideraciones de 
+Art. 8°, D.S. N° 38/11 MMA) 
+CONDICIONES DE MEDICIÓN 
+Fecha medición 
+28/01/2025 
+Hora inicio medición 
+Diurno: 17:15 h.     Nocturno: 22:00 h.  
+Hora término medición 
+Diurno: 17:30 h.     Nocturno: 22:10 h. 
+Periodo de medición 
+ 
+7:00 a 21:00 h 
+ 
+21:00 a 7:00 h 
+Lugar de medición 
+ 
+Medición Interna 
+ 
+Medición Externa 
+Descripción del lugar 
+de medición 
+Medición en sector entre cerros, frente a vivienda. Sector rural 
+con casas y vegetación. 
+Condiciones 
+de 
+ventana (en caso de 
+medición interna) 
+ 
+Ventana Abierta 
+ 
+Ventana Cerrada 
+Identificación ruido de 
+fondo 
+Se percibe brisa sobre follaje, aves 
+Temperatura [°C] 
+14 – 3 ºC 
+Humedad 
+[%] 
+ 60% 
+Velocidad 
+de 
+viento 
+[m/s] 
+<0,1 - <0,2 
+ 
+Nombre 
+y 
+firma 
+profesional de terreno o 
+Inspector 
+Ambiental 
+(IA) 
+Hernán González U. 
+ 
+Institución, Empresa o 
+ETFA 
+ABI Ingeniería Acústica Ltda. 
+ 
+ 
+
+===== p.111 =====
+ 
+ 
+ 
+ 
+Pá gin a  9 9 de  1 32 
+FICHA DE INFORMACIÓN DE MEDICIÓN DE RUIDO 
+IDENTIFICACIÓN DEL RECEPTOR  
+Receptor N° 
+V2 
+Calle 
+Sin nombre 
+Número 
+S/N 
+Comuna 
+Viña del Mar 
+Datum 
+WGS84 
+Huso 
+19 H 
+Coordenada Norte 
+6.338.218 
+Coordenada Este 
+269.479 
+Nombre de Zona de 
+emplazamiento (según 
+IPT vigente) 
+Fuera del Plano Regulador 
+N° de Certificado de 
+Informaciones Previas* 
+ 
+Zonificación 
+DS 
+N° 
+38/11 MMA  
+ 
+I 
+ 
+II 
+ 
+III 
+ 
+IV 
+✓ Rural 
+*Adjuntar Certificado de Informaciones Previas (Si corresponde, según consideraciones de 
+Art. 8°, D.S. N° 38/11 MMA) 
+CONDICIONES DE MEDICIÓN 
+Fecha medición 
+28/01/2025 
+Hora inicio medición 
+Diurno: 18:00 h.     Nocturno: 22:20 h.  
+Hora término medición 
+Diurno: 18:15 h.     Nocturno: 22:30 h. 
+Periodo de medición 
+ 
+7:00 a 21:00 h 
+ 
+21:00 a 7:00 h 
+Lugar de medición 
+ 
+Medición Interna 
+ 
+Medición Externa 
+Descripción del lugar 
+de medición 
+Punto en camino de tierra cercano a R-60. 
+Condiciones 
+de 
+ventana (en caso de 
+medición interna) 
+ 
+Ventana Abierta 
+ 
+Ventana Cerrada 
+Identificación ruido de 
+fondo 
+Se percibe brisa sobre follaje, aves, vehículos lejanos, ladridos y 
+mugidos lejanos. 
+Temperatura [°C] 
+14 – 3 ºC 
+Humedad 
+[%] 
+ 60% 
+Velocidad 
+de 
+viento 
+[m/s] 
+<0,1 - <0,2 
+ 
+Nombre 
+y 
+firma 
+profesional de terreno o 
+Inspector 
+Ambiental 
+(IA) 
+Hernán González U. 
+ 
+Institución, Empresa o 
+ETFA 
+ABI Ingeniería Acústica Ltda. 
+ 
+
+===== p.112 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 00  d e 13 2 
+FICHA DE INFORMACIÓN DE MEDICIÓN DE RUIDO 
+IDENTIFICACIÓN DEL RECEPTOR  
+Receptor N° 
+V 3 
+Calle 
+Sin nombre 
+Número 
+S/N 
+Comuna 
+Viña del Mar 
+Datum 
+WGS84 
+Huso 
+19 H 
+Coordenada Norte 
+6.337.952 
+Coordenada Este 
+269.703 
+Nombre de Zona de 
+emplazamiento (según 
+IPT vigente) 
+Fuera del Plano Regulador 
+N° de Certificado de 
+Informaciones Previas* 
+ 
+Zonificación 
+DS 
+N° 
+38/11 MMA  
+ 
+I 
+ 
+II 
+ 
+III 
+ 
+IV 
+✓ Rural 
+*Adjuntar Certificado de Informaciones Previas (Si corresponde, según Art. 8°, D.S. N° 38/11) 
+CONDICIONES DE MEDICIÓN 
+Fecha medición 
+28/01/2025 
+Hora inicio medición 
+Diurno: 18:50 h.     Nocturno: 22:45 h.  
+Hora término medición 
+Diurno: 19:00 h.     Nocturno: 23:00 h. 
+Periodo de medición 
+ 
+7:00 a 21:00 h 
+ 
+21:00 a 7:00 h 
+Lugar de medición 
+ 
+Medición Interna 
+ 
+Medición Externa 
+Descripción del lugar 
+de medición 
+Medición en sector entre cerros, frente a vivienda. Sector rural con 
+casas y vegetación 
+Condiciones 
+de 
+ventana (en caso de 
+medición interna) 
+Ventana Abierta 
+Ventana Cerrada 
+Identificación ruido de 
+fondo 
+Se percibe brisa sobre follaje, aves y vehículos lejanos. 
+Temperatura [°C] 
+14 – 3 ºC 
+Humedad 
+[%] 
+ 60% 
+Vel. 
+de 
+viento [m/s] 
+<0,1 - <0,2 
+ 
+Nombre 
+y 
+firma 
+profesional de terreno o 
+Inspector Ambiental  
+Hernán González U. 
+ 
+Institución, Empresa o 
+ETFA 
+ABI Ingeniería Acústica Ltda. 
+ 
+
+===== p.113 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 01  d e 13 2 
+FICHA DE INFORMACIÓN DE MEDICIÓN DE RUIDO 
+IDENTIFICACIÓN DEL RECEPTOR  
+Receptor N° 
+V4 
+Calle 
+Sin nombre 
+Número 
+S/N 
+Comuna 
+Viña del Mar 
+Datum 
+WGS84 
+Huso 
+19 H 
+Coordenada Norte 
+6.339.498 
+Coordenada Este 
+267.081 
+Nombre de Zona de 
+emplazamiento (según 
+IPT vigente) 
+B-14c  
+N° de Certificado de 
+Informaciones Previas* 
+ 
+Zonificación 
+DS 
+N° 
+38/11 MMA  
+I 
+II 
+III 
+IV 
+Rural 
+*Adjuntar Certificado de Informaciones Previas (Si corresponde, según Art. 8°, D.S. N° 38/11) 
+CONDICIONES DE MEDICIÓN 
+Fecha medición 
+28/01/2025 
+Hora inicio medición 
+Diurno: 18:20 h.     Nocturno: 23:10 h.  
+Hora término medición 
+Diurno: 18:30 h.     Nocturno: 23:20 h. 
+Periodo de medición 
+7:00 a 21:00 h 
+21:00 a 7:00 h 
+Lugar de medición 
+Medición Interna 
+Medición Externa 
+Descripción del lugar 
+de medición 
+Punto a orilla de R-60, junto a casas. 
+Condiciones 
+de 
+ventana (en caso de 
+medición interna) 
+Ventana Abierta 
+Ventana Cerrada 
+Identificación ruido de 
+fondo 
+Ruido determinado por flujo vehicular constante desde Ruta-60, 
+brisa y aves. 
+Temperatura [°C] 
+14 – 3 ºC 
+Humedad 
+[%] 
+ 60% 
+Velocidad 
+de 
+viento 
+[m/s] 
+<0,1 - <0,2 
+ 
+Nombre 
+y 
+firma 
+profesional de terreno o 
+Inspector 
+Ambiental 
+(IA) 
+Hernán González U. 
+ 
+Institución, Empresa o 
+ETFA 
+ABI Ingeniería Acústica Ltda. 
+
+===== p.114 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 02  d e 13 2 
+FICHA DE INFORMACIÓN DE MEDICIÓN DE RUIDO 
+IDENTIFICACIÓN DEL RECEPTOR  
+Receptor N° 
+V5 
+Calle 
+Ruta K-610 
+Número 
+S/N 
+Comuna 
+Viña del Mar 
+Datum 
+WGS84 
+Huso 
+19 H 
+Coordenada Norte 
+6.339.364 
+Coordenada Este 
+267.793 
+Nombre de Zona de 
+emplazamiento (según 
+IPT vigente) 
+RE 
+N° de Certificado de 
+Informaciones Previas* 
+ 
+Zonificación 
+DS 
+N° 
+38/11 MMA  
+I 
+II 
+III 
+IV 
+Rural 
+*Adjuntar Certificado de Informaciones Previas (Si corresponde, según Art. 8°, D.S. N° 38/11) 
+CONDICIONES DE MEDICIÓN 
+Fecha medición 
+28/01/2025 
+Hora inicio medición 
+Diurno: 18:35 h.     Nocturno: 23:35 h.  
+Hora término medición 
+Diurno: 18:45 h.     Nocturno: 23:45 h. 
+Periodo de medición 
+7:00 a 21:00 h 
+21:00 a 7:00 h 
+Lugar de medición 
+Medición Interna 
+Medición Externa 
+Descripción del lugar 
+de medición 
+Punto en camino de tierra ubicado entre vía férrea y R-60. Sector 
+con casas en medio de vegetación, se observa puente Las 
+Cucharas. 
+Condiciones 
+de 
+ventana (en caso de 
+medición interna) 
+Ventana Abierta 
+Ventana Cerrada 
+Identificación ruido de 
+fondo 
+Se percibe brisa sobre follaje, vehículos lejanos por Ruta-60, aves 
+y trabajos lejanos. 
+Temperatura [°C] 
+14 – 3 ºC 
+Humedad 
+[%] 
+ 60% 
+Velocidad 
+de 
+viento 
+[m/s] 
+<0,1 - <0,2 
+Nombre 
+y 
+firma 
+profesional de terreno o 
+Inspector 
+Ambiental 
+(IA) 
+Hernán González U. 
+ 
+Institución, Empresa o 
+ETFA 
+ABI Ingeniería Acústica Ltda. 
+ 
+
+===== p.115 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 03  d e 13 2 
+2 
+FICHA DE GEORREFERENCIACIÓN DE MEDICIÓN DE RUIDO 
+FICHA DE GEORREFERENCIACIÓN DE MEDICIÓN DE RUIDO 
+ 
+Croquis 
+ 
+Imagen Satelital 
+ 
+Origen 
+de 
+la 
+imagen 
+Satelital 
+Google Earth 
+Escala 
+de 
+la 
+imagen 
+Satelital 
+1:6604 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.116 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 04  d e 13 2 
+LEYENDA DE CROQUIS O IMAGEN UTILIZADA 
+Datum 
+WGS84 
+Huso 
+19 H 
+Receptores 
+Receptores 
+Símbolo 
+Nombre 
+Coordenadas 
+Símbolo 
+Nombre 
+Coordenadas 
+ 
+V1 
+N 
+6.338.185 
+ 
+V2  
+N 
+6.338.218 
+E 
+269.100 
+E 
+269.479 
+ 
+V3 
+N 
+6.337.952 
+ 
+V4 
+N 
+6.339.498 
+E 
+269.703 
+E 
+267.081 
+ 
+V5 
+N 
+6.339.364 
+E 
+267.793 
+
+===== p.117 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 05  d e 13 2 
+3 
+FICHAS DE MEDICIÓN DE NIVELES DE RUIDO 
+ 
+FICHA DE MEDICIÓN DE NIVELES DE RUIDO 
+REGISTRO DE MEDICIÓN DE RUIDO DE FUENTE EMISORA 
+Identificación Receptor N° 
+V1 
+ 
+Medición Interna (tres puntos) 
+ 
+Medición Externa (un punto) 
+REGISTRO DE RUIDO DE FONDO 
+Ruido de fondo afecta la 
+medición 
+ 
+Si 
+ 
+No 
+Fecha: 
+28/01/2025 
+Hora: 
+Diurno: 17:15 -17:30 h    
+Nocturno: 22:00-22:10h 
+ 
+Leq: 
+ 
+ 
+Leq: 
+ 
+Observaciones: 
+Se percibe brisa sobre follaje, aves y vehículos lejanos. 
+ 
+5’ 
+ 
+10’ 
+ 
+15’ 
+ 
+20’ 
+ 
+25’ 
+ 
+30 
+min. 
+31 
+ 
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+ 
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.118 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 06  d e 13 2 
+REGISTRO DE MEDICIÓN DE RUIDO DE FUENTE EMISORA 
+Identificación Receptor N° 
+V2 
+ 
+Medición Interna (tres puntos) 
+ 
+Medición Externa (un punto) 
+REGISTRO DE RUIDO DE FONDO 
+Ruido de fondo afecta la 
+medición 
+ 
+Si 
+ 
+No 
+Fecha: 
+28/01/2025 
+Hora: 
+Diurno: 18:00 -18:15 h     
+Nocturno: 22:20-22:30 h  
+ 
+Leq: 
+ 
+ 
+Leq: 
+ 
+Observaciones: 
+Se percibe brisa sobre follaje, aves, vehículos lejanos, ladridos y mugidos lejanos. 
+ 
+5’ 
+ 
+10’ 
+ 
+15’ 
+ 
+20’ 
+ 
+25’ 
+ 
+30 
+min. 
+41 
+ 
+41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+ 
+38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.119 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 07  d e 13 2 
+FICHA DE MEDICIÓN DE NIVELES DE RUIDO 
+REGISTRO DE MEDICIÓN DE RUIDO DE FUENTE EMISORA 
+Identificación Receptor N° 
+V3 
+ 
+Medición Interna (tres puntos) 
+ 
+Medición Externa (un punto) 
+ 
+REGISTRO DE RUIDO DE FONDO 
+Ruido de fondo afecta la 
+medición 
+ 
+Si 
+ 
+No 
+Fecha: 
+28/01/2025 
+Hora: 
+Diurno: 18:50 -19:00 h.     
+Nocturno: 22:45 -23:00 h.  
+ 
+Leq: 
+ 
+ 
+Leq: 
+ 
+Se percibe aves 
+Se percibe brisa sobre follaje, aves y vehículos lejanos. 
+ 
+5’ 
+ 
+10’ 
+ 
+15’ 
+ 
+20’ 
+ 
+25’ 
+ 
+30 
+min. 
+41 
+ 
+42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+ 
+41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.120 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 08  d e 13 2 
+FICHA DE MEDICIÓN DE NIVELES DE RUIDO 
+REGISTRO DE MEDICIÓN DE RUIDO DE FUENTE EMISORA 
+Identificación Receptor N° 
+V4 
+ 
+Medición Interna (tres puntos) 
+ 
+Medición Externa (un punto) 
+REGISTRO DE RUIDO DE FONDO 
+Ruido de fondo afecta la 
+medición 
+ 
+Si 
+ 
+No 
+Fecha: 
+28/01/2025 
+Hora: 
+Diurno: 18:20 -18:30 h.     
+Nocturno: 23:10 -23:20 h.  
+ 
+Leq: 
+ 
+ 
+Leq: 
+ 
+Observaciones: 
+Ruido determinado por flujo vehicular constante desde Ruta-60, brisa y aves. 
+ 
+ 
+5’ 
+ 
+10’ 
+ 
+15’ 
+ 
+20’ 
+ 
+25’ 
+ 
+30 
+min. 
+60 
+ 
+62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ 
+51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.121 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 09  d e 13 2 
+FICHA DE MEDICIÓN DE NIVELES DE RUIDO 
+REGISTRO DE MEDICIÓN DE RUIDO DE FUENTE EMISORA 
+Identificación Receptor N° 
+V5 
+ 
+Medición Interna (tres puntos) 
+ 
+Medición Externa (un punto) 
+REGISTRO DE RUIDO DE FONDO 
+Ruido de fondo afecta la 
+medición 
+ 
+Si 
+ 
+No 
+Fecha: 
+28/01/2025 
+Hora: 
+Diurno: 18:35 -18:45 h.     
+Nocturno: 23:35 -23:45 h.  
+ 
+Leq: 
+ 
+ 
+Leq: 
+ 
+Observaciones: 
+Se percibe brisa sobre follaje, vehículos lejanos por Ruta-60, aves y trabajos lejanos. 
+  
+ 
+ 
+5’ 
+ 
+10’ 
+ 
+15’ 
+ 
+20’ 
+ 
+25’ 
+ 
+30 
+min. 
+47 
+ 
+48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44 
+ 
+45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.122 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 10  d e 13 2 
+ANEXO D: CERTIFICADOS DE CALIBRACIÓN DE INSTRUMENTOS  
+1 
+CERTIFICADO DE CALIBRACIÓN DE SONÓMETRO 
+ 
+
+===== p.123 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 11  d e 13 2 
+
+===== p.124 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 12  d e 13 2 
+
+===== p.125 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 13  d e 13 2 
+
+===== p.126 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 14  d e 13 2 
+
+===== p.127 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 15  d e 13 2 
+
+===== p.128 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 16  d e 13 2 
+ 
+
+===== p.129 =====
+ 
+ 
+ 
+ 
+Pá gin a  1 17  d e 13 2 
+2 
+CERTIFICADO DE CALIBRACIÓN DE CALIBRADOR 
+ 
+
+===== p.130 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 18  d e 13 2 
+
+===== p.131 · sin texto =====
+ 
+ 
+ 
+ 
+Pá gin a  1 19  d e 13 2 
+ 

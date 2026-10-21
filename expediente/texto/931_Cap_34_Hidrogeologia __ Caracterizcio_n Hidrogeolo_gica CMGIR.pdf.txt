@@ -1,0 +1,1339 @@
+
+===== p.0 =====
+ 
+En colaboración con: 
+ 
+ 
+ 
+ 
+ 
+CARACTERIZACIÓN HIDROGEOLÓGICA 
+Revisión 0 
+ 
+PROYECTO CENTRO METROPOLITANO DE GESTIÓN INTEGRAL DE RESIDUOS - 
+CMGIR
+ 
+Desarrollado para: 
+ 
+COSEMAR S.A. 
+ 
+ 
+21 de Octubre de 2025 
+ 
+ 
+
+===== p.1 =====
+ 
+ 
+2 
+Caracterización Hidrogeológica - CMGIR 
+1. 
+INTRODUCCIÓN 
+El presente informe tiene como objetivo dar a conocer la información base tanto 
+geológica como hidrogeológica en el área del “Proyecto Centro Metropolitano de Gestión 
+Integral de Residuos (CMGIR)”, ubicado en la provincia de Valparaíso, específicamente 
+al sureste de la ciudad de Viña del Mar en la V Región de Valparaíso (Figura 1.1).   
+Para poder cumplir con este objetivo, los capítulos posteriores presentan en detalle la 
+búsqueda de investigaciones previas, recopilación de información bibliográfica, contexto 
+geológico e hidrogeológico de la cuenca y estudios geofísicos realizados. 
+ 
+Figura 1.1: 
+Ubicación de las áreas de estudio con respecto a la ciudad de Valparaíso y Viña del Mar. 
+Se indica la carretera principal junto a los caminos pavimentados principales, además, 
+se agregan las zonas pobladas cercanas. 
+ 
+ 
+
+===== p.2 =====
+ 
+ 
+3 
+Caracterización Hidrogeológica - CMGIR 
+2. 
+RESUMEN 
+El área del proyecto se localiza en el sector sureste de Viña del Mar, dentro de la unidad 
+morfoestructural de la Cordillera de la Costa, compuesta por rocas ígneas intrusivas 
+jurásicas, principalmente tonalitas y granodioritas pertenecientes a la Unidad Limache 
+(Jlt). Estas se formaron por enfriamiento de magma a gran profundidad hace más de 145 
+millones de años y han intruido y alterado térmicamente unidades más antiguas como la 
+Formación Ajial (Ja), aunque esta última no ha sido reconocida con claridad en el área 
+del proyecto. 
+La información estratigráfica disponible proviene de pozos profundos ubicados hacia el 
+valle, donde se registran capas de maicillo, arenas y arcillas, con presencia de roca 
+cristalina desde los 50 m de profundidad. No obstante, estos antecedentes no 
+representan adecuadamente las condiciones del sitio, ya que se ubican a menor altitud 
+y podrían estar influenciados por la descarga del valle correspondiente al estero Viña del 
+Mar. 
+De forma particular para el área del proyecto, la geología local muestra un terreno 
+dominado por un manto de material disgregado tipo "maicillo", derivado de la 
+meteorización de los intrusivos granitoides. Las calicatas realizadas en el área confirman 
+esta cobertura homogénea, evidenciando dos niveles principales: una capa vegetal 
+superficial (hasta 1 m) y un segundo estrato de maicillo con escasos finos. En una de las 
+calicatas (n°19), se identificó roca de alta dureza a 1,6 m de profundidad, lo que sugiere 
+una meteorización y/o alteración diferencial en la zona, lo que se traduce en la aparición 
+de roca a distintas profundidades. 
+Los perfiles ERT muestran un aumento progresivo de resistividad con la profundidad, 
+permitiendo estimar espesores variables de la unidad meteorizada (“maicillo”) entre 15 y 
+40 m, que se dispone sobre un basamento rocoso compacto e impermeable. Esta 
+variación de la profundidad de la roca se debe principalmente a la meteorización 
+diferencial. 
+
+===== p.3 =====
+ 
+ 
+4 
+Caracterización Hidrogeológica - CMGIR 
+Respecto a la presencia de agua subterránea, los valores de resistividad obtenidos en 
+los perfiles ERT no evidencian la presencia de un acuífero en el sector. Sin embargo, la 
+permeabilidad obtenida en el ensayo Porchet, junto a la presencia puntual de agua en la 
+calicata 23, indican que las aguas lluvias podrían infiltrarse y almacenarse de forma 
+temporal en la zona meteorizada (“maicillo”). A su vez, que escurrirían aguas abajo hacia 
+zonas más deprimidas. Por último, la acumulación de aguas subterráneas estará 
+fuertemente condicionada a las precipitaciones y a los espesores de la capa de “maicillo” 
+de alta permeabilidad y la profundidad de la roca, adicionalmente, la presencia de capas 
+arcillosas disminuye la posibilidad de almacenamiento y podría favorecer el escurrimiento 
+superficial y subterráneo hacia zonas más bajas 
+ 
+
+===== p.4 =====
+ 
+ 
+5 
+Caracterización Hidrogeológica - CMGIR 
+3. 
+CONTEXTO GEOLÓGICO REGIONAL 
+3.1. Unidades Morfoestructurales 
+La geografía de la Región de Valparaíso es muy variada y se organiza en una especie 
+de franjas naturales, generalmente paralelas a la línea de costa, que va desde el mar 
+hasta la Cordillera de los Andes. Desde el oeste hacia el este, se pueden distinguir cuatro 
+grandes zonas: las Planicies litorales, la Cordillera de la Costa, la llamada Media 
+Montaña y, finalmente, la Cordillera de los Andes (Ortega et al, 2021). Además, entre 
+estas zonas hay varios valles que cruzan la región y que han sido modelados 
+principalmente por la acción erosiva de los ríos (Valles Transversales) a lo largo del 
+tiempo (Figura 3.1). 
+ 
+Figura 3.1: 
+Principales unidades morfoestructurales de la región de Valparaíso. Polígono morado 
+indica el área de estudio. Fuente: Modificado de Ortega et al, 2021. 
+
+===== p.5 =====
+ 
+ 
+6 
+Caracterización Hidrogeológica - CMGIR 
+De todas estas zonas, la Cordillera de la Costa es la más relevante para el proyecto, ya 
+que es ahí donde se encuentra el área de estudio. Esta cordillera corre de forma paralela 
+a la costa, formando una barrera natural que separa el mar, del interior. Aunque su altura 
+varía desde los 100 hasta los 2.000 metros sobre el nivel del mar (m s.n.m.), en promedio 
+alcanza unos 400 metros. Sus laderas son inclinadas (con pendientes medias de 15°) y 
+son cortadas por quebradas y ríos dando forma a los valles que cruzan la cordillera de 
+un lado a otro y que permiten un sentido de flujo general de este a oeste (Ortega et al, 
+2021). 
+Hacia el oeste de la Cordillera de la Costa se extienden las planicies litorales, que son 
+terrenos planos cercanos al mar. Estas zonas suelen estar entre los 10 y 160 m s.n.m. y 
+pueden adentrarse hasta 15 kilómetros tierra adentro. Se formaron por la acción del mar, 
+ya sea por erosión o por acumulación de sedimentos, y son comunes en áreas como al 
+norte de Valparaíso o en los alrededores de San Antonio (Ortega et al, 2021). 
+Por otro lado, al este de la Cordillera de la Costa se encuentran los valles transversales, 
+dispuestos en dirección este-oeste, como corredores naturales por donde fluyen los 
+principales ríos de la región, como el Petorca, La Ligua y el Aconcagua, los cuales 
+desembocan en el océano Pacífico. Estos valles se formaron a lo largo de miles de años, 
+principalmente por la acción constante del agua, que fue erosionando las laderas de los 
+cerros y transportando tierra, rocas y sedimentos desde las quebradas cercanas (Ortega 
+et al, 2021). Con el tiempo, este proceso modeló el paisaje, ensanchando los valles y 
+dando origen a terrazas y fondos planos con pendientes suaves, ideales para el 
+asentamiento humano y la actividad agrícola. 
+Más hacia el interior (este) se eleva la Media Montaña, una zona con cerros que alcanzan 
+entre 900 y 3.000 metros. Aunque no son tan altos como los Andes, sí tienen pendientes 
+pronunciadas y forman un paisaje abrupto. Finalmente, en el extremo oriental de la 
+región, se alza la Cordillera de los Andes, que marca la frontera natural con Argentina. 
+
+===== p.6 =====
+ 
+ 
+7 
+Caracterización Hidrogeológica - CMGIR 
+Aquí se encuentran las cumbres más altas de la región, como el cerro Juncal, que supera 
+los 5.700 metros (Ortega et al, 2021). 
+3.2. Geología Regional 
+La región de Valparaíso posee una amplia variedad de rocas y formaciones geológicas 
+que se han originado a lo largo de millones de años, principalmente debido al movimiento 
+de las placas tectónicas y la actividad volcánica. Estos procesos han generado 
+diferencias notables en el tipo de suelo y roca desde la costa hasta la Cordillera de los 
+Andes. 
+Para visualizar esta diversidad, el perfil geológico que corta de O-E la región (ver Figura 
+3.2) representan las distintas formaciones de roca presentes. Estas formaciones varían 
+desde rocas muy antiguas del período Carbonífero (de más de 300 millones de años) 
+hasta depósitos recientes del período actual, el Holoceno. En general, las rocas están 
+dispuestas en franjas que se orientan de norte a sur, y presentan un patrón en el que las 
+formaciones se vuelven más jóvenes a medida que se avanza hacia el este (ver Figuras 
+3.2 y 3.3).  
+Las rocas más antiguas en la región son de origen metamórfico (Complejo Metamórfico 
+Valparaíso) e ígneo intrusivo (Batolito de la Costa), y forman lo que se denomina el 
+basamento geológico: una especie de “capa base” sobre la que se depositaron otras 
+rocas más jóvenes con el paso del tiempo. Sobre este basamento, se fueron acumulando 
+capas de origen volcánico y sedimentario, tanto marinas como continentales (Ruiz et al., 
+1965; Aguirre et al., 1974; Moscoso, 1974, 1984, 1985; Moscoso et al., 1982; Kay et al., 
+1987; Mpodozis y Cornejo, 1988; Nasi et al., 1990; Gana, 1991; Rivano y Sepúlveda, 
+1991; Rivano et al., 1993 en Rivano, 1996; Charrier et al., 2007; Jara, 2013; Jara y 
+Charrier, 2014; Ortega et al., 2016). 
+El proyecto que se está estudiando se ubica en la zona este de la Cordillera de la Costa, 
+donde predominan rocas intrusivas formadas durante el período Jurásico (recuadros 
+morados en Figura 3.2 y unidad Jsg en Figura 3.3), las cuales, están cubiertas por capas 
+
+===== p.7 =====
+ 
+ 
+8 
+Caracterización Hidrogeológica - CMGIR 
+de sedimentos marinos antiguos (MP1m), terrazas marinas (PPl1m) y materiales 
+sedimentario reciente (Q1) compuesto comúnmente por una mezcla de gravas y arenas 
+(Figura 3.3). 
+ 
+
+===== p.8 =====
+ 
+ 
+9 
+Caracterización Hidrogeológica - CMGIR 
+Figura 3.2: 
+Secciones paleogeográficas desde el Jurásico al Cretácico temprano en el centro de 
+Chile (latitud entre 27° a 35°S). 1) Rocas volcánicas félsicas del Jurásico; 2) Plutones 
+granitoides; 3) Sedimentos continentales y marinos de la Plataforma de Aconcagua; 4) 
+Facies sedimentarias de la cuenca profunda; 5) Relleno volcánico del Cretácico 
+temprano (andesitas y basaltos) de la cuenca marginal “abortada” de Chile Central; 6) 
+Basamento plutónico-volcánico del Paleozoico tardío de la Cordillera Frontal; y 7) 
+Complejo acrecionario del Paleozoico tardío. Polígono morado representa el área del 
+proyecto. Fuente: Modificado de Mpodozis y Ramos, 1990. 
+  
+Figura 3.3: 
+Geología de la Región de Valparaíso. Modificado de Mapa geológico de Chile Escala 
+1:1.000.000 (SERNAGEOMIN, 2003). 
+Las sucesiones estratificadas del Jurásico presentes en la Cordillera de la Costa se 
+presentan en la columna estratigráfica generalizada de la Figura 3.4. De modo general, 
+estas sucesiones corresponden a rocas volcánicas bimodales, andesitas-basaltos y 
+riolitas, con intercalaciones de rocas sedimentarias marinas (Cancino et al., 1991; 
+Vergara et al., 1995; Rivano, 1996). 
+
+===== p.9 =====
+ 
+ 
+10 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 3.4: 
+Sucesión estratigráfica generalizada del Triásico Tardío al Cretácico para la Cordillera de 
+la Costa en Chile central, entre 32ºS y 34ºS. Fuente: Charrier, R. et al, 2007. 
+En el extremo sur del proyecto aflora la Formación Ajial (J2m en Figura 3.3), descrita por 
+Thomas (1958) y Piracés (1976). Tiene un espesor aproximado de 750 metros y está 
+compuesta principalmente por lavas volcánicas, tanto silícicas como básicas, además de 
+
+===== p.10 =====
+ 
+ 
+11 
+Caracterización Hidrogeológica - CMGIR 
+tobas, cenizas y otros materiales volcánicos. También presenta intercalaciones de capas 
+sedimentarias formadas en ambientes continentales, como ríos, y en ambientes marinos 
+poco profundos (Piracés 1976; Vergara et al. 1995; Rivano 1996). 
+Además de las formaciones volcánicas y sedimentarias, en la zona de estudio existe un 
+predominio de rocas intrusivas del Jurásico, definidas como masas de magma que no 
+llegaron a la superficie, sino que se enfriaron lentamente bajo tierra. Estas rocas 
+muestran un patrón de edades que disminuyen hacia el este, lo que indica cómo fue 
+avanzando la actividad magmática en esa dirección. Su forma alargada y los límites 
+definidos por fallas geológicas (fracturas profundas en la corteza terrestre) indican que 
+el magma aprovechó estas fracturas para ascender (Grocott et al., 1994; Gana y Tosdal, 
+1996; Creixell et al., 2011). 
+En cuanto a las estructuras geológicas, la Cordillera de la Costa se caracteriza por tener 
+fallas verticales a subverticales, que se orientan en dirección noroeste-sureste. Estas 
+fallas afectan tanto a las rocas antiguas como más recientes, y algunas de ellas han 
+tenido una historia compleja con varios episodios de movimiento y deformación (Gana et 
+al., 1996; Wall et al., 1996; Creixell et al., 2011). 
+La principal estructura geológica del área corresponde al Sistema de Fallas Marga-Marga 
+(Figura 3.5). Fue definida por Álvarez (1964) como una gran fractura que se extiende en 
+dirección sureste a noroeste (N40°W a N60°W) con una longitud aproximada de 50 km. 
+Ha sido interpretada principalmente como una falla de rumbo dextral (movimiento 
+horizontal hacia la derecha), desplazándose el bloque norte hacia el sureste con respecto 
+al bloque sur. También ha existido un movimiento vertical (falla inversa) que provoco el 
+alzamiento del bloque sur en relación con el bloque norte, evidenciado por el desnivel de 
+las terrazas al norte y sur del estero homónimo (Gana et al., 1996; Yáñez et al., 1998; 
+Thorson, 1999; Muñoz et al, 2012).  
+
+===== p.11 =====
+ 
+ 
+12 
+Caracterización Hidrogeológica - CMGIR 
+
+===== p.12 =====
+ 
+ 
+13 
+Caracterización Hidrogeológica - CMGIR 
+Figura 3.5: 
+Geología y estructuras principales de la Región de Valparaíso. El área de estudio se 
+indica en el polígono verde. Fuente: Modificado Ortega, R. et al, 2021. 
+ 
+3.3. Marco Geotectónico 
+La región de Valparaíso, ubicada entre los 32° y 34° S, ha sido moldeada por dos grandes 
+ciclos geológicos a lo largo del tiempo: el Ciclo Gondwánico y el Ciclo Andino. Ambos 
+están relacionados con el choque de placas tectónicas en el borde del océano Pacífico, 
+donde una de ellas se hunde bajo otra (subducción) (Mpodozis y Ramos, 1990). Estos 
+movimientos, que han cambiado a lo largo de millones de años (Figura 3.6), han 
+provocado deformaciones, levantamientos y hundimientos en el interior del continente. 
+
+===== p.13 =====
+ 
+ 
+14 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 3.6: 
+Geometría de las placas tectónicas durante el (a) Cretácico Inferior tardío, (b) Cretácico 
+tardío a Mioceno tardío y (c) Mioceno tardío al presente. Fuente: Charrier et al., 2007. 
+El Ciclo Tectónico Gondwánico ocurrió entre 300 a 250 millones de años. En ese periodo, 
+la subducción ocurría en dirección suroeste-noreste (Mpodozis y Ramos, 1990; Díaz 
+Alvarado et al., 2019), generando procesos como la formación de montañas, el 
+derretimiento de rocas por calor interno y el desplazamiento de grandes bloques. Esto 
+dio origen a rocas metamórficas (transformadas por alta presión y temperatura) y rocas 
+intrusivas (formadas por magma que se enfrió bajo tierra), hoy visibles especialmente en 
+la zona costera de Valparaíso. Las rocas metamórficas identificadas a lo largo del borde 
+costero (desde 32° a 42° S), es considerado parte del batolito costero paleozoico y 
+representa la raíz del arco magmático (área donde el magma se genera y acumula) 
+(Rivano, 1996; Gana et al., 1996; Wall et al., 1996; Willner et al., 2005, 2009; Parada et 
+al., 2007; Creixell et al., 2011; Deckart et al., 2014; Heredia et al., 2018). 
+El Ciclo Tectónico Andino comienza hace unos 230 millones de años y sigue hasta la 
+actualidad. En este período, la región pasó por tres grandes etapas, dependiendo de 
+cómo se movían las placas: 
+1. Del Triásico Superior al Cretácico Inferior (entre ~230 y ~140 millones de 
+años): 
+Aquí la placa oceánica se hundía bajo el continente con un ángulo muy inclinado 
+(subducción de tipo Mariana), provocando volcanismo y extensas zonas donde la 
+corteza terrestre se estiraba y extendía (régimen tectónico extensional y/o 
+transtensional) (Figura 3.7). Se formaron volcanes y cuencas que luego se 
+
+===== p.14 =====
+ 
+ 
+15 
+Caracterización Hidrogeológica - CMGIR 
+llenaron con sedimentos marinos y continentales (Mpodozis y Ramos, 1990; 
+Scheuber y González, 1999; Groccott y Taylor, 2002; Creixell et al., 2011; Coloma 
+et al., 2017; González et al., 2018). 
+ 
+Figura 3.7: 
+Esquema de las etapas extensionales entre el Triásico Superior al Cretácico Inferior en la 
+Región de Valparaíso. El polígono rojo representa el área donde se emplaza el proyecto. 
+Fuente: Modificado de Ortega, R. et al, 2021. 
+2. Del Cretácico Superior al Mioceno Medio (entre ~100 y ~15 millones de años): 
+La forma en que las placas chocaban cambió, pasando a una subducción de 
+menor inclinación (subducción de tipo Chileno). Esto generó una presión que 
+
+===== p.15 =====
+ 
+ 
+16 
+Caracterización Hidrogeológica - CMGIR 
+comprimió la corteza, levantó la Cordillera de la Costa y formó nuevas cadenas 
+montañosas (Figura 3.8) (Mpodozis y Ramos, 1990; Camus, 2003). Las antiguas 
+fallas cambiaron de dirección y comenzaron a comprimir en lugar de separar 
+(régimen tectónico pasa a ser compresional y/o transpresional) (Mpodozis y 
+Ramos, 1990; Arancibia, 2004). 
+3. Desde el Mioceno Superior hasta la actualidad (hace ~10 millones de años 
+en adelante):  
+La placa oceánica comenzó a hundirse casi de manera horizontal, un fenómeno 
+conocido como subducción plana (denominada Pampeana). Esto redujo la 
+actividad volcánica en la zona de Valparaíso, y la presión se trasladó hacia el 
+interior del continente, dando origen a nuevas montañas en Chile y Argentina, 
+como las Fajas Plegadas y Corridas del Aconcagua (Figura 3.8) (Jordan et al., 
+1983; Ramos y Aleman, 2000; Ramos, 2010). 
+
+===== p.16 =====
+ 
+ 
+17 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 3.8: 
+Esquema de las etapas extensionales entre el Cretácico Superior al Plioceno en la 
+Región de Valparaíso. El polígono rojo representa el área donde se emplaza el proyecto. 
+Fuente: Modificado de Ortega, R. et al, 2021. 
+
+===== p.17 =====
+ 
+ 
+18 
+Caracterización Hidrogeológica - CMGIR 
+ 
+ 
+4. 
+GEOLOGÍA LOCAL 
+La identificación y caracterización de las rocas y depósitos presentes en el área de 
+estudio es fundamental para conocer y entender la interacción del agua con el subsuelo, 
+ya que la formación de acuíferos está estrechamente relacionada con las características 
+químicas, físicas e hidráulicas de las rocas y los sedimentos. En este estudio, se utilizó 
+un mapa geológico detallado del sector entre Valparaíso y Curacaví (Gana et al., 1996) 
+para permitió identificar las distintas formaciones geológicas presentes al sureste de Viña 
+del Mar.  
+En general, el terreno estudiado se encuentra sobre la Cordillera de la Costa (explicada 
+y detallada en capítulo 2), compuesta principalmente por rocas granitoides que se 
+originaron en el periodo Jurásico, hace más de 145 millones de años.  
+La mayor parte del predio está formada por extensos afloramientos de rocas intrusivas 
+(magma que se enfrió bajo la superficie de la Tierra), de color gris claro y grano medio a 
+grueso. Estas rocas, denominadas unidad Limache (Jlt en la Figura 4.1) , están 
+compuestas principalmente por tonalitas y granodioritas (Gana et al., 1994). De manera 
+específica, en el margen sur del estero Marga-Marga (Viña del Mar), frente al puente Las 
+Cucharas (aproximadamente 2 km al noroeste del área del proyecto), el “Estudio de 
+Impacto Ambiental: Autopista Troncal Sur” (Rutas del Pacifico S.A., 1999), tomó una 
+muestra de la roca intrusiva que aflora en la zona, obteniendo una composición 
+granodiorítica con 21% de cuarzo y con inclusiones de plagioclasa, anfíbola y apatita, 
+indicando que la porción al sur del estero Marga-Marga está constituido íntegramente 
+por ese intrusivo. A lo largo de 55 km, entre Quilpué y Curacaví, estos intrusivos 
+atraviesan otras rocas más antiguas como las de la Formación Ajial, generando zonas 
+alteración hidrotermal (alteradas por fluidos con altas temperaturas) (Gana et al., 1996). 
+
+===== p.18 =====
+ 
+ 
+19 
+Caracterización Hidrogeológica - CMGIR 
+Tal como se revisó en el capítulo 2, estos magmas habrían utilizado las diversas fracturas 
+y fallas existentes para ascender (Grocott et al., 1994; Gana y Tosdal, 1996; Creixell et 
+al., 2011). 
+En el extremo sur del área, aflora la Formación Ajial (Ja en Figura 4.1) definida como 
+lavas andesíticas y tobas (rocas ígneas) con intercalaciones de areniscas y lutitas (rocas 
+sedimentarias) que se depositaron en ambientes continentales. Gran parte de esta 
+unidad se encuentra afectada por metamorfismo de contacto (alteradas producto de 
+elevadas temperaturas), causado por los intrusivos jurásicos (Jlt, Jllg y Jll). 
+Específicamente, el afloramiento existente en el área de estudio presenta una textura 
+totalmente obliterada (borrada la textura original), por lo que solamente se asocia a la 
+Formación Ajial por su ubicación geográfica (Gana et al., 1996). Estratigráficamente, la 
+Formación Ajial es sobreyacida en concordancia por la Formación Cerro Calera, sin 
+embargo, en el área de interés no se ha reconocido la aparición de dicha formación.  
+Fuera del área principal, hacia el norte y sur, también aparecen otros tipos de rocas 
+intrusivas del Jurásico, como monzogranitos de anfíbola-biotita (Jlg en Figura 4.1) y 
+tonalitas/granodioritas de hornblenda-biotita (Jp en Figura 4.1). 
+Finalmente, hacia el norte del predio, siguiendo el estero Viña del Mar, se encuentran 
+depósitos fluviales recientes (Qf en Figura 4.1). Estos sedimentos fueron arrastrados y 
+depositados por el agua, y están formados por material no consolidado de gravas y 
+bolones redondeados, arenas con capas planas o inclinadas, y algunos limos finamente 
+estratificados. Debido a la permeabilidad primaria que estos materiales presentan, son 
+importantes desde el punto de vista hidrogeológico debido a su capacidad de almacenar 
+y transmitir agua subterránea. 
+
+===== p.19 =====
+ 
+ 
+20 
+Caracterización Hidrogeológica - CMGIR 
+Figura 4.1: 
+Geología local del área de estudio. Modificado de Gana et al., 1996 
+4.1 
+Caracterización de calicatas 
+Aunque un mapa geológico entrega una visión general de las rocas y sedimentos 
+presentes en la superficie, así como su distribución en la zona de estudio, no siempre 
+permite conocer con detalle las condiciones del subsuelo. Por este motivo, es necesario 
+complementar esta información mediante la excavación de calicatas, que permiten 
+observar directamente los primeros metros bajo la superficie. Estas observaciones 
+ayudan a confirmar o ajustar la información del mapa geológico, especialmente en 
+sectores donde hay incertidumbre o transiciones entre distintas unidades. 
+Con este objetivo, el informe "Anexo Mecánica de Suelos" elaborado por Esparza & Vega 
+Ingenieros Consultores y Analytica Chañar (2025) incluye la excavación de 23 calicatas 
+distribuidas en distintos puntos del área del proyecto (Figura 4.2). Estas excavaciones 
+
+===== p.20 =====
+ 
+ 
+21 
+Caracterización Hidrogeológica - CMGIR 
+alcanzaron profundidades de entre 2 y 4 metros bajo el nivel del terreno (m b.n.t.), y sus 
+resultados se resumen en la Tabla 4.1. Además, durante la campaña de terreno se 
+recolectaron muestras del suelo para ser analizadas en el laboratorio INGEMARS, lo que 
+permite conocer en mayor detalle las características físicas y químicas del subsuelo. 
+Dado que el proyecto se encuentra en una zona de contacto entre la Formación Ajial (Ja) 
+y los intrusivos jurásicos (Jlt), el análisis de las calicatas será clave para confirmar la 
+existencia de dicho contacto y, en caso de que se reconozca, caracterizar las diferencias 
+entre ambas unidades dentro del predio.  
+Tabla 4.1: 
+Ubicación y características principales de las calicatas realizadas en el área del proyecto. 
+Fuente: Modificado de Esparza & Vega Ingenieros Consultores y Analytica Chañar, 2025. 
+CALICATA 
+ESTE 
+(m) 
+NORTE 
+(m) 
+PROF.  
+(m) 
+ESTRATO 1 
+ESPESOR 
+ESTRATO 
+1 (m) 
+ESTRATO 2 
+ESPESOR 
+ESTRATO 
+2 (m) 
+C1 
+267.847 6.337.502 
+3,1 
+Suelo, arena arcillosa seca 
+1 
+Maicillo seco 
+2,1 
+C2 
+267.812 6.337.392 
+2,8 
+Suelo, arena arcillosa seca 
+0,6 
+Maicillo seco 
+2,2 
+C3 
+267.866 6.33.7058 
+2,1 
+Suelo, arena arcillosa seca 
+0,7 
+Maicillo seco 
+1,4 
+C4 
+267.900 6.336.857 
+2,3 
+Suelo, arena arcillosa seca 
+0,6 
+Maicillo seco 
+1,7 
+C5 
+267.885 6.336.982 
+4 
+Suelo, arena arcillosa seca 
+0,8 
+Maicillo seco 
+3,2 
+C6 
+267.848 6.337.505 
+1,8 
+Suelo, arena arcillosa seca 
+0,8 
+Maicillo seco 
+1 
+C7 
+267.804 6.336.934 
+2,4 
+Suelo, arena arcillosa seca 
+1 
+Maicillo seco 
+1,4 
+C8 
+267.840 6.337.009 
+3,5 
+Suelo, arena arcillosa seca 
+0,9 
+Maicillo seco 
+2,6 
+C9 
+267.830 6.337.519 
+3,8 
+Suelo, arena arcillosa seca 
+1,2 
+Maicillo seco 
+2,6 
+C10 
+267.712 6.337.270 
+3,6 
+Suelo, arena arcillosa seca 
+1 
+Maicillo seco 
+2,6 
+C11 
+267.997 6.336.954 
+2,4 
+Suelo, arena arcillosa seca 
+0,9 
+Maicillo seco 
+1,5 
+C12 
+268.073 6.337.047 
+2,5 
+Suelo, arena arcillosa seca 
+0,8 
+Maicillo seco 
+1,7 
+C13 
+268.146 6.337.135 
+4 
+Suelo, arena arcillosa seca 
+1,1 
+Maicillo seco 
+2,9 
+C14 
+268.355 6.337.385 
+4,3 
+Suelo, arena arcillosa seca 
+0,8 
+Maicillo seco 
+3,5 
+C15 
+267.855 6.337.136 
+3,5 
+Suelo, arena arcillosa seca 
+0,8 
+Maicillo seco 
+2,7 
+C16 
+267.737 6.337.488 
+3,9 
+Suelo, arena arcillosa seca 
+1 
+Maicillo seco 
+2,9 
+C17 
+268.132 6.337.209 
+3 
+Suelo, arena arcillosa seca 
+1,3 
+Maicillo seco 
+1,7 
+C18 
+268.189 6.336.960 
+3,6 
+Suelo, arena arcillosa seca 
+0,9 
+Maicillo seco 
+2,7 
+C19 
+268.038 6.337.563 
+1,6 
+Cobertura Vegetal, húmedo 
+0,4 
+Arena arcillosa, seco. 
+Bajo este estrato se 
+detecta roca de alta 
+dureza y no es posible 
+seguir 
+1,2 
+C20 
+268.288 6.337.284 
+4 
+Suelo, arena arcillosa seca 
+1,4 
+Maicillo seco 
+2,6 
+C21 
+267.799 6.337.439 
+3,4 
+Suelo, arena arcillosa seca 
+0,9 
+Maicillo seco 
+2,5 
+C22 
+267.609 6.337.547 
+3,4 
+Suelo, arena arcillosa seca 
+1 
+Maicillo seco 
+2,4 
+
+===== p.21 =====
+ 
+ 
+22 
+Caracterización Hidrogeológica - CMGIR 
+C23 
+267.796 6.336.965 
+2,2 
+Cobertura Vegetal, húmedo 
+1 
+Material grueso, saturado 
+asociado a lluvia 
+1,2 
+Datum WGS 84 Huso 19H 
+ 
+Figura 4.2: 
+Mapa de ubicación de las calicatas realizadas según el informe "Anexo Mecánica 
+de Suelos". Se resalta la calicata 19 (marcada en negro), donde se encontró roca a 
+1,6 metros de profundidad. Por otro lado, la calicata 23 (marcada en celeste) fue la 
+única que mostró presencia de agua, la cual se relacionó con las lluvias registradas 
+en los días previos a su excavación. Fuente: Esparza & Vega Ingenieros 
+Consultores y Analytica Chañar, 2025. 
+Las observaciones hechas directamente en las calicatas mostraron que el suelo en el 
+área de estudio se compone en general de dos capas bien diferenciadas. La primera es 
+una cobertura vegetal, fácil de excavar, que alcanza aproximadamente 1 metro de 
+profundidad. Debajo de esta, se encuentra una segunda capa formada por maicillo, un 
+suelo suelto y granulado que proviene de la descomposición (meteorización) de rocas 
+granitoides (Esparza & Vega Ingenieros Consultores y Analytica Chañar, 2025). Estas 
+
+===== p.22 =====
+ 
+ 
+23 
+Caracterización Hidrogeológica - CMGIR 
+rocas corresponden a los intrusivos Jurásicos (Jlt en Figura 4.1) que componen la 
+Cordillera de la Costa.  
+En algunos puntos se observaron particularidades. Por ejemplo, en la calicata 19, bajo 
+un primer estrato de cobertura vegetal y material areno arcilloso (hasta los 1,6 m b.n.t.), 
+se detectó la aparición de roca muy dura que impidió continuar con la excavación. Esto 
+sugiere la presencia de un bloque compacto, probablemente asociado a una 
+meteorización diferencial de las rocas intrusivas presentes en el área.  
+Por otro lado, en la calicata 23, bajo el primer metro de suelo vegetal, se detectó material 
+grueso (compuesto en su mayoría por gravas) en estado de saturación, lo que se 
+relacionó con las lluvias registradas en los días previos a la excavación. 
+Adicionalmente, se enviaron 8 muestras al laboratorio para analizar distintas propiedades 
+del suelo, como la granulometría, los límites de consistencia y la humedad natural. Los 
+resultados obtenidos del análisis granulométrico permitieron conocer cómo están 
+distribuidos los tamaños de grano en estas muestras (Figura 4.4), confirmando una 
+notable homogeneidad entre ellas. En todos los casos, se identificaron suelos del tipo 
+SM (arenas limosas) y SP-SM (arenas limpias pobremente graduadas), con contenidos 
+de finos que varían entre un 9% y un 14%, lo cual concuerda con las observaciones 
+realizadas directamente en terreno (Esparza & Vega Ingenieros Consultores y Analytica 
+Chañar, 2025). 
+
+===== p.23 =====
+ 
+ 
+24 
+Caracterización Hidrogeológica - CMGIR 
+Figura 4.4: 
+Distribución Granulométrica y clasificación de suelos realizado a suelos provenientes de 
+calicatas. Fuente: Esparza & Vega Ingenieros Consultores y Analytica Chañar, 2025. 
+Ni los ensayos de laboratorio ni las calicatas realizadas lograron identificar el contacto 
+entre la Formación Ajial (Ja en Figura 4.1) y los intrusivos Jurásicos (Jlt en Figura 4.1). 
+Esto indicaría que toda el área del proyecto está cubierta por una capa de material suelto, 
+conocido como “maicillo”, que se formó por la descomposición y alteración diferencial de 
+las rocas granitoides del Jurásico. 
+ 
+ 
+
+===== p.24 =====
+ 
+ 
+25 
+Caracterización Hidrogeológica - CMGIR 
+5. 
+HIDROGEOLOGÍA 
+Con el objetivo de identificar el potencial hidrogeológico en el área del proyecto, se 
+correlaciona la información del mapa hidrogeológico nacional con las unidades 
+geológicas descritas en los capítulos previos, esto debido a que las unidades de roca y 
+los depósitos no consolidados poseen propiedades específicas y diferentes, que 
+determinan su comportamiento como elementos para almacenar y transmitir agua 
+subterránea. De forma general los depósitos no consolidados presentan una mayor 
+importancia hidrogeológica en cuanto a regular la presencia, cantidad, calidad y 
+disponibilidad de agua subterránea que en ellas albergan, sin embargo, existen 
+escenarios donde rocas altamente fracturadas permiten el flujo de aguas por medio de 
+sus fracturas, lo que es conocido como porosidad secundaria y en algunas ocasiones 
+vuelve viable la extracción del recurso hídrico en estas unidades. 
+Considerando lo anterior, el potencial hidrogeológico se determina en base a la 
+caracterización de las distintas unidades geológicas, la morfología, litología, grado de 
+alteración y/o fracturamiento, porosidad y permeabilidad, donde se incluye, además, 
+información de pozos y/o norias registradas para la identificación de la ubicación y 
+extensión de los distintos acuíferos en el sector (Hauser, 1990). 
+El Mapa Hidrogeológico de Chile (DGA, 1989) junto al Mapa Geológico Nacional 
+(SERNAGEOMIN, 2000), definen para el predio del proyecto (Figura 5.1), rocas 
+plutónicas e hipabisales, los cuales presentan una importancia hidrogeológica nula, 
+debido a que corresponden a intrusivos granitoides asociados a un basamento 
+impermeable. 
+
+===== p.25 =====
+ 
+ 
+26 
+Caracterización Hidrogeológica - CMGIR 
+ 
+ 
+Figura 5.1: 
+Mapa hidrogeológico nacional (Modificado de DGA, 1989). Se señala ubicación 
+aproximada del área de estudio (recuadro rojo).   
+5.1 
+Hidrogeología local 
+Para caracterizar las unidades hidrogeológicas locales, es fundamental contar con 
+información estratigráfica y datos sobre el nivel del agua. Por eso, para tener 
+antecedentes suficientes que permitan describir y relacionar la información geológica e 
+hidrogeológica del área, se recopila y analiza la información estratigráfica de captaciones 
+subterráneas cercanas, especialmente aquellas ubicadas en las mismas unidades 
+geológicas o hidrogeológicas que se estudian. El análisis de esta información ayuda a 
+entender de forma general la naturaleza, distribución, tamaño de partículas 
+(granulometría) y espesor de las capas de sedimentos presentes, así como su relación 
+con las napas subterráneas. Debido a las diferencias en el detalle, nomenclatura y 
+criterios usados para describir cada columna estratigráfica, esta información se analiza 
+con especial cuidado al momento de interpretar la estratigrafía de la zona. 
+
+===== p.26 =====
+ 
+ 
+27 
+Caracterización Hidrogeológica - CMGIR 
+La información estratigráfica proviene de la revisión de expedientes de captaciones 
+subterráneas en la zona (Figura 5.2). Al respecto, se observa una tendencia clara, los 
+pozos profundos se concentran en las zonas de valle (Quilpué y Villa Alemana), mientras 
+que en áreas dominadas por intrusivos (como el predio del proyecto) son casi 
+inexistentes.  
+Si bien no existe información detallada directamente en el área del proyecto, se cuenta 
+con antecedentes provenientes de captaciones cercanas al valle, las cuales permiten 
+obtener un contexto hidrogeológico general. Sin embargo, es importante señalar que 
+estos puntos no son representativos de las condiciones propias del área de estudio, ya 
+que se ubican a una cota topográfica más baja y en una posición más cercana al valle. 
+Esta ubicación sugiere que las captaciones podrían estar influenciadas por condiciones 
+hidrogeológicas distintas, con mayor interacción con aguas superficiales asociadas al 
+estero Viña del Mar. Por lo tanto, la información obtenida a partir de estos pozos (VPC-
+0505-467 y VPC-0505-468 en Figura 5.2) sirve para conocer las características de 
+meteorización del granitoide, pero a nivel de acuífero reflejaría las características propias 
+del entorno del valle. 
+
+===== p.27 =====
+ 
+ 
+28 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 5.2: 
+Mapa geológico con el área de estudio y ubicación de captaciones subterráneas cercanas 
+(en símbolos verde), los números representan sus respectivos caudales de explotación 
+en litros por segundo (l/s). Se incluye los expedientes de los pozos con información 
+estratigráfica. 
+Las columnas estratigráficas disponibles (Figura 5.3) muestran niveles estáticos de agua 
+a profundidades de aproximadamente 10 y 11 metros bajo el nivel del terreno (m b.n.t.), 
+dentro de unidades formadas por una mezcla de maicillos, arcillas y arenas. Bajo los 50 
+m de profundidad, ambos pozos detectan la aparición de roca cristalina que marca el 
+basamento impermeable del sistema. 
+
+===== p.28 =====
+ 
+ 
+29 
+Caracterización Hidrogeológica - CMGIR 
+Figura 5.3: 
+Columnas estratigráficas de las captaciones subterráneas disponibles en el registro de la 
+DGA. 
+Adicionalmente, es relevante considerar la normativa aplicable en relación con el 
+emplazamiento de rellenos sanitarios. El Decreto Supremo N.º 189, que establece el 
+reglamento sobre condiciones sanitarias y de seguridad básica en estas instalaciones, 
+se indica en su artículo 10 que el sitio de emplazamiento debe ubicarse a más de 600 
+metros de cualquier captación de agua existente. En este contexto, la Figura 5.4 presenta 
+la distribución de las captaciones superficiales y subterráneas registradas en el entorno 
+del área del proyecto, junto con un buffer de 600 m alrededor de su emplazamiento 
+(polígono amarillo en Fig. 5.4). Los resultados muestran que no existen captaciones 
+dentro de este radio de restricción, siendo la más cercana la correspondiente al 
+
+===== p.29 =====
+ 
+ 
+30 
+Caracterización Hidrogeológica - CMGIR 
+expediente NR-0505-1720, ubicada a más de 3 km de distancia del área de estudio (línea 
+blanca punteada). 
+Figura 5.4: 
+Área de protección decreto 189 (polígono amarillo), se indican captaciones subterráneas 
+(símbolos verdes) y superficiales (símbolos amarillos) cercanas, los números representan 
+sus respectivos caudales de explotación en litros por segundo (l/s). El área de estudio 
+(polígono rojo) corresponde al cerco de seguridad del proyecto. Se indica la captación 
+más cercana y su respectiva distancia (línea blanca punteada). 
+ 
+5.1.1. Ensayo de conductividad hidráulica.  
+Para evaluar el comportamiento hidrogeológico de manera local, se realizan ensayos de 
+conductividad hidráulica, los cuales, estiman la permeabilidad de los sedimentos, es 
+decir, la capacidad del suelo para permitir la infiltración del agua desde la superficie hacia 
+el subsuelo. 
+
+===== p.30 =====
+ 
+ 
+31 
+Caracterización Hidrogeológica - CMGIR 
+El informe “Anexo Mecánica de Suelos” elaborado por Esparza & Vega Ingenieros 
+Consultores y Analytica Chañar (2025), nos entrega información de la permeabilidad de 
+los sedimentos mediante un ensayo de infiltración tipo Porchet realizado al interior de la 
+calicata 1 (en los materiales descritos como maicillo en el subcapítulo 4.1). Dicho ensayo 
+permite evaluar la capacidad de infiltración del suelo, con lo cual, otorga información para 
+evaluar el comportamiento del terreno frente a precipitaciones o descargas de agua. 
+Este ensayo arroja una velocidad de infiltración de 127,07 mm/h. (Figura 5.4), el cual, se 
+corresponde con un suelo que presenta una infiltración moderadamente alta, 
+característico de materiales arenosos. Este resultado concuerda con lo observado en 
+terreno, donde en las calicatas predominan arenas, con un bajo contenido de finos 
+(menos del 9%) en el punto donde se realiza la medición (ubicación, estratigrafía y 
+análisis granulométrico de la calicata en la Tabla 4.1 y Figura 4.4). Sin embargo, 
+hidrogeológicamente, la infiltración de agua de lluvia podría ser menor debido al mayor 
+contenido de finos en la capa superior, donde los porcentajes de material fino varían 
+entre 20 y 60%. 
+Figura 5.4: 
+Resultados ensayo Porchet realizado en terreno. Fuente: Esparza & Vega Ingenieros 
+Consultores y Analytica Chañar, 2025. 
+5.2 
+Geofísica local 
+El término agua subterránea hace referencia al agua que se encuentra bajo la superficie 
+terrestre, alojada en zonas saturadas del subsuelo, por debajo del nivel freático. El 
+movimiento y almacenamiento de esta agua están fuertemente condicionados por la 
+configuración tridimensional de los depósitos geológicos que la contienen, lo que hace 
+fundamental interpretar correctamente la evidencia geológica disponible. Comprender 
+los procesos de sedimentación, la estratigrafía y la disposición de las formaciones 
+
+===== p.31 =====
+ 
+ 
+32 
+Caracterización Hidrogeológica - CMGIR 
+rocosas (ya sean volcánicas, plutónicas o metamórficas) resulta esencial para el análisis 
+hidrogeológico (Freeze & Cherry, 1979). 
+En base a lo anterior, la realización de estudios geofísicos permite caracterizar la 
+estructura del subsuelo a fin de poder reconstruir su geometría e identificar, a través de 
+la resistividad eléctrica, las unidades geológicas y posibles acuíferos existentes en la 
+zona. En la Figura 5.5 se presentan algunas resistividades típicas para distintos medios. 
+Cabe destacar que los factores de mayor influencia en el valor de la resistividad eléctrica 
+de las rocas son la constitución mineralógica, el grado de saturación y química del agua 
+que la satura, la porosidad, las unidades geológicas y el grado de compactación de los 
+sedimentos. Otros factores que también influyen son la temperatura, la presión y la 
+humedad (Reckmann & Maldonado, 2000). Por lo mismo, para la búsqueda de aguas 
+subterráneas 
+(frías, 
+termales 
+y 
+salobres), 
+los 
+métodos 
+idóneos 
+son 
+los 
+electromagnéticos, debido a que son más sensibles a la presencia de dichos fluidos, y 
+pueden delimitar de mejor manera su ubicación en el subsuelo. 
+ 
+Figura 5.5. 
+Resistividades (y conductividades) típicas de distintos medios físicos. Fuente: Aguirre 
+et al., 2022. 
+
+===== p.32 =====
+ 
+ 
+33 
+Caracterización Hidrogeológica - CMGIR 
+En base a lo anterior, la empresa Subterránea Consultores (2024), realiza una campaña 
+geofísica utilizando el método geofísico Tomografía de Resistividad Eléctrica (ERT) en 
+el área del proyecto, con el objetivo de caracterizar el subsuelo a partir de las condiciones 
+locales de resistividad. 
+El estudio contempla la realización de 11 perfiles geoeléctricos ERT (Figura 5.6), 
+ejecutados entre los días 23 y 30 de julio de 2024. Estos perfiles fueron distribuidos 
+considerando abarcar zonas representativas tanto desde el punto de vista geológico 
+como topográfico, extendiéndose de manera general, desde sectores elevados hasta 
+cotas más bajas. Esta disposición permite caracterizar la distribución espacial de 
+materiales con distinto comportamiento hidrogeológico, considerando posibles 
+transiciones litológicas, acumulaciones de sedimentos y zonas de drenaje. 
+S 
+e considera realizar 8 mediciones largas de entre 490 a 800 m de longitud, con 
+separación dipolar cada 10 m y 3 perfiles cortos de 145 m de longitud y una separación 
+dipolar de 5 m. 
+
+===== p.33 =====
+ 
+ 
+34 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 5.6: 
+Ubicación de los 11 perfiles ERT realizados en la zona de estudio. Modificado de 
+Subterránea Consultores, 2024. 
+En base a los reconocimientos en terreno (Gómez y Cáceres, 2023 en Subterránea 
+Consultores, 2024), se detecta que el área donde se desarrolla el proyecto está 
+compuesta en su totalidad por rocas ígneas intrusivas. A un nivel más detallado, se 
+observa la presencia de regolito (material suelto y alterado que cubre las rocas) y 
+sectores con arcillas formadas por alteración (material argilizado) en la superficie. 
+Los valores de resistividad obtenidos en todos los perfiles van desde los 37 Ohm.m hasta 
+más de 5.400 Ohm.m (ver Figuras 5.7 a 5.10). En general, estos datos muestran que la 
+resistividad del subsuelo tiende a aumentar con la profundidad, lo que se asociaría a una 
+transición desde una capa más superficial y porosa hacia un basamento rocoso más 
+profundo y compacto, que actúa como una barrera para el flujo del agua. A partir de estos 
+
+===== p.34 =====
+ 
+ 
+35 
+Caracterización Hidrogeológica - CMGIR 
+datos, Subterránea Consultores (2024) define cuatro unidades principales basadas en la 
+geología y los rangos típicos de resistividad de distintos materiales: 
+1. Basamento consolidado (> 1.000 Ohm.m): corresponde a roca cristalina, con 
+porosidad muy baja o nula. 
+2. Zona de transición (500 a 1.000 Ohm.m): representa un basamento ligeramente 
+más fracturado, con porosidad baja a muy baja. 
+3. Roca alterada (100 a 500 Ohm.m): incluye materiales más meteorizados y 
+alterados, posiblemente con mayor humedad. 
+4. Regolito y/o arcillas (30 a 100 Ohm.m): suelos más sueltos o finos, con mayor 
+proporción de materiales disgregados. 
+Desde el punto de vista geológico, los perfiles ERT no permiten diferenciar claramente 
+el contacto entre la Formación Ajial (Ja) y los intrusivos jurásicos (Jlt) mostrados en la 
+Figura 4.1, lo cual sugiere que el área de estudio presenta características geológicas 
+similares en todo el predio. No obstante, algunas variaciones en la profundidad de la 
+unidad más resistiva y ciertas anomalías detectadas podrían indicar una meteorización 
+diferencial de las rocas granitoides jurásicas que constituyen la zona. 
+Desde una perspectiva hidrogeológica, el análisis integrado de las calicatas, la 
+granulometría, el ensayo de infiltración tipo Porchet y la información geofísica permite 
+caracterizar la estratigrafía del área del proyecto, la cual es posible caracterizar de la 
+siguiente forma: 
+- 
+Se reconoce una primera capa de aproximadamente 1 metro de espesor, 
+asociada al suelo vegetal, compuesta por arenas arcillosas. Esta unidad es 
+seguida por un estrato de materiales arenosos y/o areno-limosos (según los 
+resultados granulométricos en Figura 4.4) que se extiende hasta una profundidad 
+máxima de 4,3 m b.n.t. (según las calicatas en Tabla 4.1), originado a partir de la 
+
+===== p.35 =====
+ 
+ 
+36 
+Caracterización Hidrogeológica - CMGIR 
+meteorización de las rocas granitoides jurásicas, denominadas “maicillo” de 
+acuerdo con el informe "Anexo Mecánica de Suelos" (Esparza & Vega Ingenieros 
+Consultores y Analytica Chañar, 2025). 
+- 
+La geofísica complementa esta caracterización, mostrando un incremento 
+progresivo en la resistividad con la profundidad, lo cual permite estimar espesores 
+variables para la capa de maicillo, posiblemente como resultado de una 
+meteorización diferencial. Los espesores interpretados son: 15 m (ERT-09, ERT-
+11), 15–25 m (ERT-03), 25 m (ERT-01, ERT-04, ERT-05, ERT-06), 25–30 m 
+(ERT-02), 30 m (ERT-10) y hasta 40 m (ERT-07 y ERT-08). Bajo esta unidad se 
+infiere la presencia del basamento rocoso compacto, con baja porosidad y 
+permeabilidad, que actúa como barrera hidráulica. 
+- 
+Respecto a la presencia de agua subterránea, los perfiles ERT no evidencian un 
+acuífero definido en el sector. Sin embargo, la permeabilidad obtenida en el 
+ensayo Porchet, junto a la presencia puntual de agua en la calicata 23, indican 
+que las aguas lluvias podrían infiltrarse y almacenarse de forma temporal en la 
+zona meteorizada. Esta acumulación sería de carácter estacional y dependiente 
+de la cantidad de precipitación y de las condiciones climáticas del periodo. 
+ 
+ 
+ 
+ 
+
+===== p.36 =====
+ 
+ 
+37 
+Caracterización Hidrogeológica - CMGIR 
+ 
+ 
+ 
+ 
+ 
+Figura 5.7: 
+Perfiles ERT-01 a ERT-03 con escala de colores homologada. Paleta de colores 
+indica los valores de resistividad utilizados en el perfil. Donde valores altos de 
+resistividad corresponden a roca sólida y valores bajos a acuíferos, arcillas y/o 
+arcillas saturadas en agua, entre otras posibilidades. Fuente: Subterránea 
+Consultores, 2024. 
+
+===== p.37 =====
+ 
+ 
+38 
+Caracterización Hidrogeológica - CMGIR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.38 =====
+ 
+ 
+39 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 5.8: 
+Perfiles ERT-04 a ERT-06 con escala de colores homologada. Paleta de colores indica 
+los valores de resistividad utilizados en el perfil. Donde valores altos de resistividad 
+corresponden a roca sólida y valores bajos a acuíferos, arcillas y/o arcillas saturadas en 
+agua, entre otras posibilidades. Fuente: Subterránea Consultores, 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.39 =====
+ 
+ 
+40 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 5.9: 
+Perfiles ERT-07 a ERT-09 con escala de colores homologada. Paleta de colores 
+indica los valores de resistividad utilizados en el perfil. Donde valores altos de 
+resistividad corresponden a roca sólida y valores bajos a acuíferos, arcillas y/o 
+arcillas saturadas en agua, entre otras posibilidades. Fuente: Subterránea 
+Consultores, 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== p.40 =====
+ 
+ 
+41 
+Caracterización Hidrogeológica - CMGIR 
+ 
+Figura 5.10: 
+Perfiles ERT-10 a ERT-11 con escala de colores homologada. Paleta de colores indica 
+los valores de resistividad utilizados en el perfil. Donde valores altos de resistividad 
+corresponden a roca sólida y valores bajos a acuíferos, arcillas y/o arcillas saturadas en 
+agua, entre otras posibilidades. Fuente: Subterránea Consultores, 2024. 
+ 
+ 
+
+===== p.41 =====
+ 
+ 
+42 
+Caracterización Hidrogeológica - CMGIR 
+6. 
+REFERENCIAS. 
+Aguirre, L.; Charrier, R.; Davidson, J.; Mpodozis, C.; Rivano, S.; Thiele, R.; Tidy, E.; 
+Vergara, M.; Vicente, J.C. 1974. Andean magmatism: its paleogeographic and structural 
+setting in the central part (30°-35° S) of the Southern Andes: Pacific. Geology 8: 1-38. 
+Aguirre, I., Maringue, J., Santibáñez, I., Yáñez, G. 2022. El rol de la exploración geofísica 
+en acuíferos profundos en ambientes semiurbanos y rurales en cuencas andinas de ante 
+arco:  caso de estudio en acuífero del río Ñuble, valle central de Chile. Andean Geology 
+49 (1): 18-54. Enero, 2022 doi: 10.5027/andgeoV49n1-3370. 
+Arancibia, G. 2004. Mid-Cretaceous crustal shortening: evidence from a regional- scale 
+ductile shear zone in the Coastal Range of central Chile (32° S). Journal of South 
+American Earth Sciences 17: 209-226. 
+Camus, F. 2003. Geología de los sistemas porfíricos en los Andes de Chile. Servicio 
+Nacional de Geología y Minería: 267 p. Santiago. 
+Cancino, A.; Vergara, M.; Levi, B.; López, L. 1991. Formaciones Ajial y Horqueta. 
+Características geoquímicas y geotectónicas del volcanismo jurásico de Chile central. In 
+Congreso Geológico Chileno, No. 6, Resúmenes expandidos: 611-614. Viña del Mar. 
+Cembrano, J.; Zentilli, M.; Grist, A.; Yáñez, G. 2003. Nuevas edades de trazas de fisión 
+para Chile Central (30°-34°S): implicancias en la exhumación y alzamiento de los Andes 
+desde el Cretácico. In Congreso Geológico Chileno, No. 10, Actas ST5: 5 p. Concepción. 
+Charrier, R.; Pinto, L.; Rodríguez, M.P. 2007. Tectono-stratigraphic evolution of the 
+Andean orogeny in Chile. In The Geology of Chile (Moreno, T.; Gibbons, W.; editors). 
+Geological Society, Special Publication: 21-114. Londres. 
+Charrier, R.; Farías, M.; Maksaev, V. 2009. Evolución tectónica, paleogeográfica y 
+metalogénica durante el Cenozoico en los Andes de Chile Norte y Central e implicaciones 
+para las regiones adyacentes de Bolivia y Argentina. Revista de la Asociación Geológica 
+Argentina 65 (1): 5-35. 
+
+===== p.42 =====
+ 
+ 
+43 
+Caracterización Hidrogeológica - CMGIR 
+Coloma, F.; Valin, X.; Oliveros, V.; Vásquez, P.; Creixell, C.; Salazar, E.; Ducea, M. 2017. 
+Geochemistry of Permian to Triassic igneous rocks from northern Chile (28º-30º15’S): 
+Implications on the dynamics of the proto-Andean margin. Andean Geology 44 (2): 147-
+178.  
+Creixell, C.; Parada, M.; Morata, D.; Vásquez, P.; Pérez de Arce, C.; Arriagada, C. 2011. 
+Middle-Late Jurassic to Early Cretaceous transtension and transpression during arc 
+building in Central Chile: evidence from mafic dike swarms. Andean Geology 38 (1): 37-
+63. doi: 10.5027/andgeoV38n1-a04. 
+Deckart, K.; Hervé, F.; Fanning, M.; Ramírez, V.; Calderón, M.; Godoy, E. 2014. U-Pb 
+geochronology and Hf-O isotopes of zircons from the pennsylvanian coastal batholith, 
+South-Central Chile. Andean Geology 41 
+DGA,1989, Mapa Hidrogeológico de Chile escala 1:1.000.000. 
+Díaz-Alvarado, J.; Galaz, G.; Oliveros, V.; Creixell, C.; Calderón, M. 2019. Fragments of 
+the late Paleozoic accretionary complex in central and northern Chile: similarities and 
+differences as a key to decipher the complexity of the late Paleozoic to Triassic early 
+Andean events (Horton, B.; Folguera, A.; editors), Elsevier, Andean Tectonics: 509-530. 
+Rutas del Pacifico S.A., 1999. Estudio de Impacto Ambiental, Proyecto Autopista Troncal 
+Sur elaborado por Dames & Moore Group Company. Anexo línea base geología. 
+Esparza & Vega Ingenieros Consultores y Analytica Chañar, 2025. Centro de tratamiento 
+integral de residuos Los Rincones. Anexo Informe Mecánica de Suelos. 
+Gana, P. 1991. Mapa Geológico de la Cordillera de la Costa entre La Serena y Quebrada 
+El Teniente, Región de Coquimbo. Servicio Nacional de Geología y Minería, Documento 
+de Trabajo 3, 1 mapa escala 1:100.000. Santiago. 
+
+===== p.43 =====
+ 
+ 
+44 
+Caracterización Hidrogeológica - CMGIR 
+Gana, P.; Wall, R.; Gutiérrez, A.; Yáñez, G. 1994a. Geología de la cordillera de la Costa, 
+regiones de Valparaíso y Metropolitana, al oeste de los 71°00´W. In Congreso Geológico 
+Chileno, No. 7, Actas 1: 43-46. Concepción.  
+Gana, P.; Yáñez, G.; Wall, R. 1994b. Evolución geotectónica de la cordillera de la Costa 
+de Chile Central (33-34°S): Control geológico y geofísico. In Congreso Geológico 
+Chileno, No. 7, Actas 1: 38-42. Concepción. 
+Gana, P.; Tosdal, R. 1996, Geocronología U-Pb y K-Ar en intrusivos del Paleozoico y 
+Mesozoico de la Cordillera de la Costa, Región de Valparaíso, Chile. Revista Geológica 
+de Chile 23 (2): 151-164.  
+Gana, P.; Wall, R.; Gutiérrez, A. 1996. Mapa Geológico del área de Valparaíso-Curacaví, 
+Regiones de Valparaíso y Metropolitana. Servicio Nacional de Geología y Minería, Mapas 
+Geológicos 1: 20 p., 1 mapa escala 1:100.000. Santiago. 
+Gana, P.; Zentilli, M. 2000. Historia termal y exhumación de intrusivos de la cordillera de 
+la Costa de Chile central. In Congreso Geológico Chileno, No. 9, Actas 2: 664-668. Puerto 
+Varas. 
+Gómez, M. y Cáceres, M. 2023. Reconocimiento geológico-estructural del complejo para 
+tratamiento y disposición de residuos sólidos urbanos Viña del Mar. 
+González, G.; Scheuber, E. 1997. La tectónica del arco magmático del Jurásico-
+Cretácico Inferior, cordillera de la Costa (22°-26°), norte de Chile: una historia de 
+deformación cortical en un límite de placas convergentes. In Congreso Geológico 
+Chileno, No. 8, Actas 3: 1635-1639. Antofagasta. 
+González, A. 2018. Mineralogía de alteración hidrotermal asociada a la Falla Pocuro 
+entre los 32°50’S y 33°00´S, región de los Andes. Memoria de Título (Inédito), 
+Universidad Andrés Bello: 113 p. Santiago. 
+
+===== p.44 =====
+ 
+ 
+45 
+Caracterización Hidrogeológica - CMGIR 
+Grocott, J.; Taylor, G.K. 2002. Magmatic arc fault systems, deformation partitioning and 
+emplacement of granitic complexes in the Coastal Cordillera, north Chilean Andes (25°30′ 
+S to 27°00′ S). Journal of the Geological Society of London 159 (4): 425-443. 
+Heredia, N.; García-Sansegundo, J.; Gallastegui, G.; Farías, P.; Giacosa, R.; Giambiagi, 
+L.; Busquets, P.; Colombo, F.; Charrier, R.; Cuesta., A.; Rubio-Ordóñez, A.; Ramos, V. 
+2018. Review of the geodynamic evolution of the SW margin of Gondwana preserved in 
+the Central Andes of Argentina and Chile (28°-38° S latitude). Journal of South American 
+Earth Sciences 87: 87-94. 
+Jara, P. 2013. Tectónica Meso-Cenozoica en la cordillera Principal de Chile Central entre 
+32° y 33° S. Análisis a partir de nuevos antecedentes de campo y modelamiento 
+analógico. Tesis de Doctorado (Inédito), Universidad de Chile, Departamento de 
+Geología: 249 p. Santiago.  
+Jara, P.; Charrier, R. 2014. Nuevos antecedentes estratigráficos y geocronológicos para 
+el Meso-Cenozoico de la Cordillera Principal de Chile entre 32° y 32°30’S: implicancias 
+estructurales y paleogeográficas. Andean Geology. 
+Jordan, T.E.; Isacks, B.; Allmendinger, R.; Brewer, V.; Ramos, V.; Ando, C. 1983. Andean 
+tectonics related to geometry of subducted Nazca plate. Geological Society of America 
+Bulletin 94: 341-361. 
+Kay, S.M.; Maksaev, V.; Moscoso, R.; Mpodozis, C.; Nasi, C. 1987. Probing the evolving 
+Andean lithosphere: Mid-Late Tertiary Magmatism in Chile (29°-30°30’S) over the modern 
+zone of subhorizontal subduction. Journal of Geophysical Research 92 (7): 6173-6187. 
+Kay, S.; Mpodozis, C.; Coira, B. 1999. Neogene magmatism, tectonism, and mineral 
+deposits of the central Andes (22° to 33°S Latitude). Chapter 2. In Geology and Ore 
+Deposits of the Central Andes (Skinner, B.J.; editor). Society of Economic Geologists, 
+Special Publications 7:27-59. 
+
+===== p.45 =====
+ 
+ 
+46 
+Caracterización Hidrogeológica - CMGIR 
+Kay, S.M.; Mpodozis, C. 2002. Magmatism as a probe to the Neogene shallowing of the 
+Nazca plate beneath the modern Chilean flat-slab. Journal of South American Earth 
+Sciences 15: 39-57. 
+Mackaman, C.; Horton, B.; Fuentes, F.; Constenius, K.; Stockli, D. 2019. Mesozoic to 
+Cenozoic retroarc basin evolution during changes in tectonic regime, southern Central 
+Andes (31-33°S): Insights from zircon U-Pb geochronology. Journal of South American 
+Earth Sciences 89: 299-318. 
+Moscoso, R. 1974. Geología del sector sur occidental del cuadrángulo Andacollo. Informe 
+Curso Proyecto II (Inédito), Instituto de Investigaciones Geológicas: 43 p. Santiago. 
+Moscoso, R. 1984. El Mesozoico Superior-Cenozoico Inferior del sector occidental de las 
+regiones de Atacama y Coquimbo (27°-30°S). In Seminario, Actualización de la geología 
+de Chile, apuntes. Servicio Nacional de Geología y Minería, Miscelánea 4: G1-G21. 
+Santiago.  
+Moscoso, R. 1985. Perfil geológico por los ríos Elqui y Turbio. In Simposio Geología de 
+los Andes y su relación con recursos minerales y energéticos. Servicio Nacional de 
+Geología y Minería: 14-15. Santiago.  
+Moscoso, R.; Padilla, H.; Rivano, S. 1982. Geología de la Hoja Los Andes, Región de 
+Valparaíso. Servicio Nacional de Geología y Minería, Serie Geología Básica 52: 67 p., 1 
+mapa escala 1:250.000. Santiago. 
+Mpodozis, C.; Cornejo, P. 1988. Hoja Pisco Elqui, IV Región de Coquimbo. Servicio 
+Nacional de Geología y Minería, Carta Geológica de Chile 68: 164 p., 1 mapa escala 
+1:250.000 (realizado por C. Mpodozis y P. Cornejo, 1986). Santiago. 
+Mpodozis, C.; Ramos, V.A. 1990. The Andes of Chile and Argentina. In Geology of the 
+Andes and its Relationship to Hydrocarbon and Mineral Resources (Ericksen, G.E; 
+Cañas, M.T.; Reinemund,J.A.; editors). Circum Pacific Council for Energy and Mineral 
+Resources, Earth Science Series 11: 59-90. 
+
+===== p.46 =====
+ 
+ 
+47 
+Caracterización Hidrogeológica - CMGIR 
+Mpodozis, C.; Ramos, V.A. 2008. Tectónica Jurásica e Argentina y Chile: extensión, 
+subducción oblicua, rifting, ¿deriva y colisiones? Revista de la Asociación Geológica 
+Argentina 63 (4): 481-497. 
+Mpodozis, C.; Cornejo, P. 2012. Cenozoic tectonics and porphyry copper systems of the 
+Chilean Andes. Society of Economic Geologists, Special Publication 16: 329-360. 
+Nasi, C.; Thiele, R. 1982. Estratigrafía del Jurásico y Cretácico de la cordillera de la costa, 
+al sur del rio Maipo, entre Melipilla y laguna de Acúleo (chile central). Revista Geológica 
+de Chile 0 (16). 
+Nasi, C.; Moscoso, R.; Maksaev, V. 1990. Hoja Guanta, Región Coquimbo. Servicio 
+Nacional de Geología y Minería, Carta Geológica de Chile 67: 140 p., 1 mapa escala 
+1:250.000 (realizado por C. Nasi, R. Moscoso y V. Maksaev, 1986). Santiago. 
+Ortega, R.; Moscoso, R.; Mateo, L.; Arredondo, C.; Carrasco, R.; Pantoja, G.; Ercilla, O. 
+2016. Recursos minerales de la Región de Valparaíso: estudio preliminar. Servicio 
+Nacional de Geología y Minería, Informe Registrado IR-16-62 (Inédito): 111 p. Santiago. 
+Ortega, R.; Moscoso, R.; Arredondo, C.; Águila, B.; Mateo, L.; Pantoja, G. 2021. 
+Depósitos metalíferos de la región de Valparaíso. Servicio Nacional de Geología y 
+Minería, Carta Geológica de Chile, Serie de Recursos Minerales y Energéticos 36: 219 
+p., 1 mapa escala 1:500.000. Santiago. 
+Parada, M.; López, L.; Oliveros, V.; Fuentes, F.; Morata, D.; Calderón, M.; Aguirre, L.; 
+Féraud, G.; Espinoza, F.; Moreno, H.; Figueroa, O.; Muñoz, J.; Troncoso, R.; Stern, C. 
+2007. Andean magmatism. In The Geology of Chile (Moreno, T.; Gibbons, W.; editors). 
+The Geological Society: 201-214. London. 
+Paskoff, R. 1970. Le Chili semi-aride. Recherches Geomorphologiques. Bizcaye Frères: 
+420 p. Bordeaux. 
+
+===== p.47 =====
+ 
+ 
+48 
+Caracterización Hidrogeológica - CMGIR 
+Piracés, R. 1976. Estratigrafía de la Cordillera de la Costa entre la Cuesta El Melón y 
+Limache, Provincia de Valparaíso, Chile. In Congreso Geológico Chileno, No. 1, Actas 1: 
+A65-A82. Santiago. 
+Ramos, V.A.; Aleman, A. 2000. Tectonic Evolution of the Andes. In Tectonic Evolution of 
+South America (Cordani, U.G.; Milani, E.J.; Thomaz Filho, A.; Campos, D.A.; editors), 
+International Geological Congress 31: 635-685. Río de Janeiro. 
+Ramos, V. 2010. The tectonic regime along the Andes: Present-day and Mesozoic 
+regimes. Geological Journal 45: 2-25. 
+Ring, U.; Wllner, A.; Layer, P.; Richter, P. 2012. Jurassic to Early Cretaceous 
+postaccretional sinistral transpression in north-central Chile (latitudes 31-32° S). 
+Cambridge University Press, Geological Magazine 149 (2): 208-220. 
+Rivano, S.; Sepúlveda, P. 1991. Hoja Illapel, Región de Coquimbo. Servicio Nacional de 
+Geología y Minería, Carta Geológica de Chile 69: 132 p. 1 mapa escala 1:250.000 
+(realizado por S. Rivano y P. Sepúlveda, 1986), 2 anexos. Santiago. 
+Rivano, S. 1996. Geología de las Hojas Quillota y Portillo. Servicio Nacional de Geología 
+y Minería (Inédito): 232 p., 1 mapa escala 1:250.000 (realizado por S. Rivano, P. 
+Sepúlveda, R. Boric y D. Espiñeira, 1993). Santiago. (*) 
+Rossel, P.; Oliveros, V.; Ducea, M.; Charrier, R.; Scaillet, S.; Retamal, L.; Figueroa, O. 
+2013. The early Andean subduction system as an analog to island arcs: Evidence from 
+across-arc geochemical variations in northern Chile. Lithos 179: 211-230. 
+Ruiz, C.; Aguirre, L.; Corvalán, J.; Klohn, C.; Klohn, E.; Levi, B. 1965. Geología y 
+yacimientos metalíferos de Chile. Informe (Inédito), Instituto de Investigaciones 
+Geológicas: 301 p. Santiago. (*) 
+Scheuber, E.; González, G. 1999. Tectonics of the Jurassic-Early Cretaceous magmatic 
+arc of the north Chilean Coastal Cordillera (22°-26° S): A story of crustal deformation 
+along a convergent plate boundary. Tectonics 18 (5): 895-910. 
+
+===== p.48 =====
+ 
+ 
+49 
+Caracterización Hidrogeológica - CMGIR 
+Sernageomin, 2003. Mapa Geológico de Chile escala 1:1.000.000. 
+Subterránea Consultores, 2024. Estudio Geofísico Mediante ERT Proyecto relleno 
+sanitario denominado Complejo de Tratamiento Integral de Residuos Los Rincones, 
+Sector Siete Hermanas, Región de Valparaíso. 
+Tikhonov, A. N., 1950, Determination of the electrical characteristics of the deep strata of 
+the earth's crust: Doklady Akadamia Nauk, 73, 295-297. Phys. Chem. Earth (C), Vol. 26, 
+No. 9, pp. 697-703. 
+Thomas, H. 1958. Geología de la cordillera de la Costa entre el valle de La Ligua y la 
+cuesta Barriga. Instituto de Investigaciones Geológicas, Boletín 2: 86 p. Santiago. (*) 
+Vergara, M.; Levi, B.; Nystrom, J.; Cancino, A. 1995. Jurassic and Early Cretaceous 
+island arc volcanism, extension and subsidence in the Coast Range of central Chile. 
+Geological Society of America Bulletin 107: 1427-1440. 
+Wall, R.; Gana, F.; Gutiérrez, A. 1996. Mapa Geológico del área de San Antonio-Melipilla, 
+Regiones de Valparaíso, Metropolitana y del Libertador General Bernardo O’Higgins. 
+Servicio Nacional de Geología y Minería, Mapas Geológicos 2: 20 p., 1 mapa escala 
+1:100.000. Santiago. 
+Willner, A.; Thomson, S.; Kroner, A.; Wartho, J.; Wijbrans, J.; Hervé, F. 2005. Time 
+markers for the evolution and exhumation history of a late Palaeozoic paired metamorphic 
+belt in central Chile (34°-35°30’ S).  
+Willner, A.; Massone, H.; Gerdes, A.; Hervé, F.; Sudo, M.; Thompson, S. 2009. The 
+contrasting evolution of collisional and coastal accretionary system between the latitudes 
+30°S and 35°S: evidence for existence of Chilenia microplate. In Congreso Geológico 
+Chileno, No. 12, Actas S9-099: 4 p. Santiago. 
+Yáñez, G.; Gana, P.; Fernández, R. 1998. Origen y significado geológico de la Anomalía 
+Melipilla, Chile central. Revista Geológica de Chile 25 (2): 175-198. Santiago.  
+
+===== p.49 =====
+ 
+ 
+50 
+Caracterización Hidrogeológica - CMGIR 
+Yáñez, G.; Ranero, C.; Von Huene, R.; Díaz, J. 2001. Magnetic anomaly interpretation 
+across the southern central Andes (32-34º S): the role of the Juan Fernández Ridge in 
+the Late Tertiary evolution of the margin. Journal of Geophysical Research 106: 6325-
+6345. 
+ 

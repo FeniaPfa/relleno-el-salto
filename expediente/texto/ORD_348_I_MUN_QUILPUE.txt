@@ -1,0 +1,398 @@
+
+===== p.0 =====
+ 
+ 
+ORD. N° ________ / 2026 
+ANT.: Ord. N° 202605102192, Servicio de 
+Evaluación Ambiental, Región de 
+Valparaíso. 
+MAT.: Pronunciamiento sobre el Estudio de 
+Impacto Ambiental “Centro Metropolitano 
+de Gestión Integral de Residuos” (CMGIR). 
+ 
+A: 
+SRA. ESTHER PARODI MUÑOZ 
+ 
+DIRECTORA (S) REGIONAL 
+ 
+SERVICIO DE EVALUACIÓN AMBIENTAL, REGIÓN DE VALPARAÍSO 
+DE: 
+SRA. CAROLINA CORTI BADÍA 
+ 
+DIRECCIÓN DE MEDIO AMBIENTE, ASEO Y ORNATO 
+ 
+ILUSTRE MUNICIPALIDAD DE QUILPUÉ 
+Junto con saludar, y en el marco del proceso de evaluación ambiental del proyecto 
+individualizado en la materia, se remiten las siguientes observaciones y solicitudes de 
+aclaración, rectificación y ampliación, conforme a lo dispuesto en la Ley N° 19.300 y en el 
+D.S. N° 40/2012 del Ministerio del Medio Ambiente. 
+1. Objeto y alcance 
+El presente pronunciamiento expone la posición técnica de la Ilustre Municipalidad de 
+Quilpué respecto del Estudio de Impacto Ambiental (EIA) del proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos” (CMGIR), presentado por COSEMAR SpA. 
+Su alcance se circunscribe deliberadamente a las materias que comprometen el territorio, 
+la población y los componentes ambientales de la comuna de Quilpué; los componentes 
+cuyo impacto se agota en el predio o en la comuna de emplazamiento no son objeto de 
+observación en este acto, sin perjuicio del pronunciamiento que corresponda a los demás 
+órganos con competencia ambiental. 
+La revisión se efectuó sobre los capítulos y anexos disponibles en el expediente electrónico 
+del Servicio de Evaluación Ambiental, privilegiando la contrastación cruzada entre líneas de 
+base y anexos técnicos. Cuando se señala que “no se identificó” determinada información, 
+debe entenderse referido a los antecedentes efectivamente revisados, sin perjuicio de que 
+el titular pueda acreditar su existencia en la respectiva Adenda. 
+2. El proyecto y su proximidad a Quilpué 
+El CMGIR contempla la construcción y operación, en el kilómetro 102,5 de la Ruta 60 – 
+Troncal Sur, de un relleno sanitario, planta de compostaje, planta de reciclaje, planta de 
+tratamiento de lixiviados y planta de biogás, en un predio de 206 ha (63,1 ha intervenidas), 
+con una vida útil de 25 años, una capacidad total de recepción de 30.741.988 toneladas y 
+una tasa inicial de 2.500 ton/día. 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+CAUR
+PAFF
+OF.ALC. 348/ 07 SEP 2026
+
+===== p.1 =====
+ 
+ 
+El proyecto se emplaza administrativamente en la comuna de Viña del Mar. Sin embargo, 
+según la propia Línea de Base de Uso del Territorio, se ubica a 2,0 km del entorno urbano 
+de Quilpué frente a 3,0 km del entorno urbano de Viña del Mar: está físicamente más cerca 
+del área urbana de Quilpué que del área urbana de la comuna que lo alberga. Esta asimetría 
+entre jurisdicción administrativa y proximidad territorial real es el fundamento de todas las 
+observaciones que siguen. 
+Quilpué ya es reconocida por el propio titular en tres líneas de base. Medio Humano 
+incorpora los sectores Las Lomas y El Calichero —Las Lomas concentra 1.245 de los 1.673 
+habitantes (74,4 %) del área de influencia, más población que el sector equivalente de Viña 
+del Mar (El Salto, 356 habitantes)—; Áreas Protegidas y Sitios Prioritarios incorpora el 
+Humedal Urbano Estero Quilpué (20,3 ha, declarado en 2021 a solicitud de esta 
+Municipalidad) por intersección con la pluma de material particulado sedimentable (5,541 
+ha); y Clima y Meteorología incluye a Quilpué en su área de estudio y en sus proyecciones 
+ARClim. En cambio, Calidad del Aire, Olores, Hidrología Superficial e Impactos Acumulativos 
+no delimitan un área de influencia que discuta la relación con Quilpué de forma explícita y 
+consistente. La observación central de esta Municipalidad es precisamente esa 
+incorporación parcial y desigual. 
+Consecuencia sobre el Plan de Seguimiento. De más de 80 registros de impacto valorizados 
+en el Capítulo 4, solo uno —la pérdida de flora en categoría de conservación durante la 
+construcción (FV-C-01, IM = –56)— fue calificado como significativo. Como resultado, los 
+Capítulos 6 y 7 contienen una sola medida y un solo compromiso de monitoreo en todo el 
+proyecto, ambos referidos al rescate de flora vascular. No existe compromiso vinculante 
+alguno de monitoreo de calidad del aire, olores, biogás, tránsito o aguas que permita a esta 
+Municipalidad y a la comunidad de Quilpué disponer de un mecanismo de alerta temprana. 
+3. Territorio comunal comprometido 
+3.1 Distancias y límite comunal 
+• 2,0 km al entorno urbano de Quilpué, según la Línea de Base de Uso del Territorio. 
+• 4 km al centro de la ciudad de Quilpué, según las Líneas de Base Geológica y 
+Geomorfológica y de Riesgos Naturales. Ambas cifras pueden ser correctas bajo 
+distintos puntos de referencia (borde urbano frente a centro urbano), pero el EIA no 
+las reconcilia expresamente en ningún documento revisado, lo que genera 
+ambigüedad sobre la distancia a utilizar en los análisis sectoriales. 
+• Límite comunal Viña del Mar / Quilpué: la Figura 2 del Capítulo 1 lo grafica muy 
+próximo a los vértices V2–V3 del polígono del proyecto (lado oriente), sin que se haya 
+identificado una distancia numérica exacta y georreferenciada entre el límite oficial y 
+el deslinde del predio. 
+La propia Línea de Base de Medio Humano confirma la colindancia entre ambas comunas, 
+situando el proyecto en las inmediaciones de esa frontera común. 
+ 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+
+===== p.2 =====
+ 
+ 
+3.2 Conectividad hidrológica hacia el Estero Quilpué 
+El sistema de manejo de aguas lluvias capta la escorrentía de nueve quebradas y la restituye, 
+mediante 10 canales abiertos, hacia los costados norte y este del predio. La Línea de Base 
+de Áreas Protegidas y Sitios Prioritarios señala expresamente que las quebradas de 
+exposición norte intervenidas tributan al Estero Marga-Marga aguas arriba de su 
+confluencia con el Estero Quilpué. 
+Existe, por tanto, una vía de conectividad hidrológica superficial documentada por el propio 
+titular entre el área intervenida y el curso de agua que da nombre y sustento al Humedal 
+Urbano Estero Quilpué. No se identificó una línea de base de hidrología superficial dedicada, 
+independiente de la caracterización hidrogeológica, ni una estimación de calidad de agua 
+aguas abajo de las quebradas intervenidas. 
+3.3 Régimen de vientos hacia los sectores poblados de Quilpué 
+El Informe de Modelación Meteorológica (Anexo 4.2, modelación WRF) concluye que las 
+direcciones predominantes del viento se concentran en el cuadrante sur, con mayores 
+frecuencias desde el sur y sur-suroeste durante todo el año. El Capítulo 3.1 (Clima y 
+Meteorología) reproduce esa conclusión de forma independiente y concordante, con 
+velocidad media de 5,73 m/s y dirección predominante del sector sur a sur-suroeste. 
+El viento sopla, en consecuencia, predominantemente hacia el norte-noreste, cuadrante 
+donde —según la propia Línea de Base de Medio Humano— se concentra la totalidad de la 
+población del área de influencia, incluidos los sectores Las Lomas y El Calichero de Quilpué. 
+Este hecho, sólidamente establecido en dos documentos del titular, es el que vuelve exigible 
+la aclaración de la inconsistencia con la pluma de olores analizada en la sección 4.2. 
+3.4 Intervisibilidad con Pompeya Sur 
+El Estudio de Paisaje y Turismo documenta fotográficamente puntos de observación con 
+intervisibilidad directa entre el proyecto y el sector de Pompeya Sur, comuna de Quilpué 
+(Figuras 14 y 16). El propio titular reconoce, por tanto, una relación visual directa entre las 
+obras y un sector poblado de esta comuna. 
+3.5 Dependencia vial del sector Las Lomas 
+El acceso al proyecto se realiza directamente desde la Ruta 60 – Troncal Sur, eje 
+estructurante de la conectividad entre Viña del Mar y Quilpué. El sector de Las Lomas 
+depende de un paso bajo nivel de esa misma ruta para conectarse con el resto de la trama 
+urbana comunal, y de una única vía local (calle Atacama) para su movilidad interna. Se trata 
+de una condición de vulnerabilidad vial documentada por el propio EIA, relevante ante la 
+superposición del tránsito de camiones del proyecto (ver sección 4.4). 
+ 
+ 
+ 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+
+===== p.3 =====
+ 
+ 
+ 
+4. Componentes con vía de impacto sobre Quilpué 
+4.1 Calidad del aire 
+La Línea de Base de Calidad del Aire (Capítulo 3.2) define su alcance mediante las estaciones 
+situadas dentro de un radio de 10 km del proyecto, radio que cubriría con holgura el área 
+urbana de Quilpué. Sin embargo, ese criterio es de representatividad de la línea de base 
+(dónde monitorear) y no de área de influencia del impacto en operación: el análisis de 
+dispersión (Anexo 4.3) se estructura sobre receptores discretos, sin que se haya identificado 
+una tabla de concentraciones modeladas para receptores ubicados en Quilpué. 
+Condición basal ya fuera de norma. La propia línea de base, construida sobre la estación 
+SINCA “Quilpué Gimnasio” (a 5,8–6 km del proyecto), registra que el percentil 98 de MP2,5 
+diario de 2024 alcanzó 52,5 µg/m³, superando en 5,0 % la norma diaria vigente de 50 µg/m³, 
+sin proyecto. El CMGIR se emplazaría sobre una cuenca atmosférica que ya no cumple la 
+norma de MP2,5, lo que obliga a cuantificar con especial rigor su aporte incremental. 
+4.2 Olores 
+El modelo de dispersión (Anexo 4.4) concluye que la isodora de 1 uoE/m³ cubre 
+aproximadamente 1.946 ha, proyectada principalmente hacia el suroeste y sur del 
+emplazamiento, alejándose de receptores que el propio informe reconoce ubicados 
+mayoritariamente hacia el norte. Ninguno de los receptores R1–R7 queda dentro de la 
+isodora; el más próximo (R1, a ~675 m) registra 0,58 uoE/m³. 
+Inconsistencia direccional que requiere aclaración expresa. Esta conclusión resulta difícil de 
+conciliar con el régimen de vientos del sur / sur-suroeste establecido en la sección 3.3, que 
+debería empujar la pluma hacia el norte y no hacia el sur, salvo que existan patrones locales 
+de drenaje o inversión térmica nocturna no explicitados, o diferencias metodológicas entre 
+los sets de datos meteorológicos empleados. El EIA no reconcilia esta contradicción, y su 
+resolución determina si los sectores poblados de Quilpué situados al norte quedan o no 
+dentro del área de afectación por olores. 
+4.3 Hidrología superficial y calidad de aguas 
+Conforme a la sección 3.2, existe una vía de conectividad superficial documentada entre el 
+área intervenida y el Estero Marga-Marga, aguas arriba de su confluencia con el Estero 
+Quilpué, sin línea de base hidrológica dedicada ni modelación de calidad de aguas aguas 
+abajo. Tampoco se encontró información sobre la dirección de flujo de agua subterránea 
+regional ni un balance hídrico subterráneo que permita descartar conectividad 
+hidrogeológica de mayor escala hacia el territorio comunal. 
+Esta Dirección solicita que el titular considere expresamente en su análisis la declaratoria 
+del Humedal Urbano Estero Quilpué y su plan de gestión, en tanto instrumento vigente 
+aplicable al cuerpo de agua receptor final de la cuenca intervenida. 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+
+===== p.4 =====
+ 
+ 
+4.4 Tránsito 
+El Estudio de Impacto Vial (Capítulo 3.18) es metodológicamente correcto y arroja 
+resultados favorables para el entorno inmediato del proyecto: 402 veh/día de tránsito 
+inducido, nivel de servicio LOS A y 31,6 % de saturación. No obstante, su único punto de 
+control se ubica en Ruta 60 con Camino El Olivar y no cubre el sector de Las Lomas ni su 
+paso bajo nivel de acceso, que es el punto de mayor sensibilidad vial identificado por la 
+propia Línea de Base de Medio Humano para Quilpué. 
+Cabe precisar que esta omisión es consistente con el área de influencia acotada que define 
+el D.S. N° 30 del Ministerio de Transportes y Telecomunicaciones para estudios de categoría 
+básica —el espacio contiguo al predio hasta la primera intersección—, por lo que no 
+constituye una irregularidad del EIV; pero deja sin verificación cuantitativa directa el punto 
+de mayor interés comunal, que debe complementarse. 
+4.5 Impactos acumulativos 
+El análisis de proyectos con Resolución de Calificación Ambiental vigente utilizó un buffer 
+de solo 1 km, identificó dos candidatos —uno descartado por error de ubicación geoespacial 
+y el otro inactivo desde aproximadamente 2005— y concluyó que no existen efectos 
+sinérgicos. 
+Ese radio es sustancialmente menor que el área de dispersión de olores (≈ 2,5 km de radio 
+equivalente) y que el buffer de 2.000 m del componente Medio Humano, y no alcanza al 
+entorno urbano de Quilpué, situado entre 2 y 4 km. En consecuencia, no captura el 
+crecimiento urbano de Las Lomas y El Calichero, ni las actividades emplazadas en territorio 
+comunal sobre la Ruta 60 o la cuenca del Estero Marga-Marga / Estero Quilpué, ni otras 
+fuentes regionales de emisiones que ya inciden en la condición basal descrita en la sección 
+4.1. 
+4.6 Biogás 
+La modelación emplea LandGEM 3.02 (USEPA) a 70 años, con 81 chimeneas, captación 
+pasiva en etapas tempranas y captación activa con quema en antorcha desde el año 3 de 
+operación. Los antecedentes revisados no permiten dimensionar su efecto sobre el 
+territorio de Quilpué: no se identificó modelación de dispersión de los productos de 
+combustión de la antorcha ni estimación de emisiones fugitivas ante falla del sistema de 
+captación, con sus respectivos receptores. Dado el régimen de vientos hacia el norte-
+noreste, la ampliación de este análisis resulta pertinente. 
+4.7 Componentes sin vía de impacto identificada sobre la comuna 
+Esta Dirección no formula observaciones respecto de gases de efecto invernadero (impacto 
+global, no diferenciado territorialmente), arqueología (sin hallazgos en el área de 
+influencia), ruido y vibraciones (dada la distancia mínima de 2 km al entorno urbano, un 
+impacto acústico perceptible sobre receptores humanos de Quilpué resulta a priori poco 
+plausible, aunque el EIA no aporta modelación referida a receptores humanos que lo 
+confirme) ni flora, vegetación y fauna, cuyo alcance se circunscribe al predio y su periferia 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+
+===== p.5 =====
+ 
+ 
+ecológica inmediata. Respecto de este último componente, se solicita únicamente aclarar 
+si los sitios receptores del rescate y relocalización de flora se ubican en territorio de Quilpué. 
+ 
+5. Riesgo de incendios y coordinación de emergencias 
+5.1 Riesgo de incendios de interfaz 
+El Capítulo 8 distingue tres riesgos de incendio: forestal en las inmediaciones del predio 
+(Tabla 5), en instalaciones (Tabla 6) y en la masa de residuos dispuesta en las celdas del 
+relleno sanitario (Tabla 7), este último propio de la fase de operación. 
+Desde la perspectiva de la Gestión del Riesgo de Desastres, el emplazamiento se sitúa en 
+un territorio con antecedentes concretos de incendios forestales de alta severidad y 
+características propias de una zona de interfaz urbano-forestal, en zona de transición de 
+reserva de biosfera con cobertura de matorral y bosque esclerófilo. Durante 2024 el sector 
+fue afectado por el incendio Complejo Las Tablas, evento de comportamiento extremo del 
+fuego que acredita que no se trata de una amenaza hipotética, sino de un peligro ya 
+materializado en las inmediaciones del área de emplazamiento y a corta distancia de 
+asentamientos poblacionales de esta comuna. 
+El riesgo es bidireccional. Por una parte, la acumulación y manejo de residuos, la presencia 
+de materiales combustibles, la generación de biogás y el tránsito permanente de vehículos 
+incorporan condiciones que pueden aumentar el riesgo existente frente a escenarios de 
+altas temperaturas, sequedad de la vegetación y vientos intensos. Por otra, un incendio 
+forestal originado en el entorno que alcance las instalaciones podría generar consecuencias 
+adicionales derivadas de la naturaleza de los residuos almacenados, dificultar las labores de 
+control y extinción y aumentar la complejidad de la emergencia. 
+No se identificó en los antecedentes revisados una modelación de dispersión de humo ante 
+un escenario de incendio no controlado de la masa de residuos, a diferencia de lo que sí 
+existe para la operación normal (Anexo 4.3). Considerando el régimen de vientos hacia el 
+norte-noreste, este vacío es especialmente relevante para los sectores poblados de 
+Quilpué. 
+5.2 Ausencia de la Municipalidad de Quilpué y de SENAPRED en los protocolos 
+El Capítulo 8 contempla protocolos detallados de coordinación con Bomberos, Carabineros, 
+SAMU, CONAF, SAG, la Policía de Investigaciones y la Superintendencia del Medio Ambiente 
+para escenarios de incendio en la masa de residuos, explosión por taponamiento de ductos 
+de biogás, fuga o infiltración de lixiviados y deslizamiento de taludes, pero no menciona en 
+ningún punto a la Ilustre Municipalidad de Quilpué ni a SENAPRED como parte de los 
+protocolos de información o coordinación. 
+Esta ausencia limita la capacidad de la autoridad comunal de recibir información oportuna 
+ante una emergencia con potencial de afectar a su territorio y a su población, y resulta 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+
+===== p.6 =====
+ 
+ 
+incompatible con las competencias municipales en materia de protección civil y gestión del 
+riesgo de desastres. 
+6. Cambio climático 
+La Ley N° 21.455 (Ley Marco de Cambio Climático) exige a los instrumentos de gestión 
+ambiental considerar tanto la mitigación de emisiones como la adaptación a los efectos del 
+cambio climático. El Capítulo 3.1 incorpora expresamente a Quilpué en su área de estudio 
+y presenta proyecciones ARClim bajo escenario SSP5-8.5 para la comuna, lo que esta 
+Dirección valora. 
+Se solicita complementar dicho análisis mediante la consideración expresa del Plan de 
+Acción Comunal de Cambio Climático (PACCC) de Quilpué, particularmente en lo relativo a 
+las medidas de adaptación frente a incendios forestales, olas de calor y estrés hídrico 
+aplicables al territorio de interfaz donde se emplaza el proyecto. 
+7. Observaciones y solicitudes al titular 
+En virtud de lo expuesto, esta Dirección solicita que el titular, en la respectiva Adenda, 
+aclare, rectifique o amplíe los siguientes puntos: 
+1. Indicar la distancia numérica exacta y georreferenciada, en coordenadas UTM 19S 
+WGS84, entre el límite comunal Viña del Mar / Quilpué y el deslinde más próximo del 
+predio, así como a los asentamientos poblacionales más cercanos de esta comuna; y 
+reconciliar expresamente las distancias declaradas a Quilpué en las distintas líneas de 
+base (2,0 km al entorno urbano y ~4 km al centro de la ciudad). Precisar asimismo el 
+kilometraje exacto de emplazamiento sobre la Ruta 60, dado que los antecedentes 
+revisados consignan referencias divergentes. 
+2. Presentar una síntesis territorial integrada, en un mapa único, que consolide las áreas 
+de influencia de todos los componentes ambientales evaluados, superpuesta a los 
+límites administrativos de la comuna de Quilpué. 
+3. Explicar el criterio utilizado para definir el radio de 10 km de la línea de base de calidad 
+del aire y su relación, o falta de ella, con el análisis de dispersión del proyecto en 
+operación. 
+4. Presentar modelación de contaminantes atmosféricos (MP10, MP2,5 y otros) en 
+receptores discretos ubicados dentro del territorio de Quilpué, e incorporar un 
+análisis del aporte incremental de MP2,5 del proyecto sobre la cuenca de aire 
+caracterizada por la estación “Quilpué Gimnasio”, considerando que dicha estación 
+registró en 2024 una superación de la norma diaria en condición basal, sin proyecto. 
+5. Aclarar expresamente la inconsistencia direccional entre el régimen de vientos 
+predominantes del sur / sur-suroeste —establecido de forma concordante en el 
+Anexo 4.2 y en el Capítulo 3.1— y la proyección de la isodora de olores de 1 uoE/m³ 
+hacia el sur y suroeste, precisando el set de datos meteorológicos empleado en cada 
+modelación. 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+
+===== p.7 =====
+ 
+ 
+6. Presentar una modelación o estimación de calidad de agua superficial aguas abajo de 
+las quebradas intervenidas, hasta su confluencia con el Estero Marga-Marga y, de ser 
+posible, hasta el Estero Quilpué, incorporando expresamente la declaratoria del 
+Humedal Urbano Estero Quilpué y su plan de gestión. 
+7. Indicar la dirección de flujo de agua subterránea regional y presentar un balance 
+hídrico subterráneo que permita descartar conectividad hidrogeológica de mayor 
+escala hacia el territorio de Quilpué. 
+8. Ampliar el análisis de dispersión del componente Biogás, incorporando los productos 
+de combustión de la antorcha y un escenario de emisiones fugitivas ante falla del 
+sistema de captación, con receptores ubicados en territorio de Quilpué. 
+9. Ampliar el análisis de impactos acumulativos utilizando un radio consistente con las 
+áreas de dispersión efectivamente modeladas (al menos 2,5 km), incorporando 
+proyectos y actividades emplazados en territorio de Quilpué. 
+10. Complementar el Estudio de Impacto Vial (Capítulo 3.18) con un punto de control 
+adicional específico en el sector de Las Lomas y/o en el paso bajo nivel de la Ruta 60 
+que le da acceso, e indicar la distribución horaria de los 182 viajes/día de camiones 
+recolectores proyectados para la fase de operación, contrastada con los horarios de 
+mayor flujo vehicular y escolar de dicho sector. 
+11. Aportar un análisis de dispersión de humo ante un escenario de incendio no 
+controlado de la masa de residuos dispuesta en las celdas del relleno sanitario, 
+incluyendo su eventual alcance sobre sectores poblados de Quilpué. 
+12. Indicar si se realizó o está prevista una evaluación de riesgo para la salud humana 
+(ERSA o metodología equivalente) que incorpore receptores sensibles ubicados en 
+Quilpué. 
+ 
+13. Justificar por qué el Plan de Seguimiento de Variables Ambientales Relevantes 
+(Capítulo 7) incorpora una única variable de seguimiento (flora en categoría de 
+conservación) y no incluye calidad del aire, olores, biogás ni calidad de agua superficial 
+o subterránea, conforme a lo exigido por el artículo 105 del D.S. N° 40/2012; e 
+incorporar puntos de monitoreo de dichas variables en territorio de Quilpué o en el 
+límite comunal. 
+14. Indicar si el Plan de Manejo Biológico (Anexo 6.1) y las medidas de rescate y 
+relocalización de flora consideran sitios receptores ubicados en territorio de Quilpué, 
+y de qué forma se coordinó dicha selección con la autoridad competente. 
+15. Incorporar expresamente a la Ilustre Municipalidad de Quilpué y a SENAPRED en los 
+protocolos de notificación, información y coordinación ante contingencias y 
+emergencias del Capítulo 8, para todos los escenarios de riesgo identificados. 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+
+===== p.8 =====
+ 
+ 
+16. Complementar el análisis de cambio climático y de riesgo de incendios de interfaz 
+mediante la consideración expresa del Plan de Acción Comunal de Cambio Climático 
+(PACCC) de la comuna de Quilpué. 
+8. Conclusión 
+Sobre la base de los antecedentes revisados, se concluye que el EIA del proyecto “Centro 
+Metropolitano de Gestión Integral de Residuos” no contiene información suficiente para 
+evaluar adecuadamente sus efectos sobre el territorio, la población y los componentes 
+ambientales de la comuna de Quilpué, pese a que el propio titular reconoce e incorpora a 
+la comuna en al menos tres de sus líneas de base y a que el proyecto se emplaza más cerca 
+del área urbana de Quilpué que del área urbana de su comuna de emplazamiento 
+administrativo. 
+En consecuencia, se solicita al Servicio de Evaluación Ambiental requerir del titular las 
+aclaraciones, rectificaciones y ampliaciones individualizadas en la sección 7, como condición 
+previa para que esta Municipalidad pueda emitir un pronunciamiento conforme respecto 
+de la suficiencia del Estudio. 
+Sin otro particular, saluda atentamente a usted, 
+Este documento ha sido firmado electrónicamente de acuerdo con la ley N° 19.799.
+Para verificar la integridad y autenticidad de este documento ingrese al siguiente link:
+https://doc.digital.gob.cl/validador/UJ0DSY-318
+CAUR
+PAFF
+Firmado por:
+María Carolina Blanca Marina Corti
+Badía
+Alcaldesa
+Fecha: 07-09-2026 09:24 CLT
+Municipalidad de Quilpué

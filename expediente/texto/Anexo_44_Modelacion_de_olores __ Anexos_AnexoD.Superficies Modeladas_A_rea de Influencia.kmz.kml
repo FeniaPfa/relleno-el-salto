@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Área de Influencia.kmz</name>
+	<StyleMap id="CALPOST Results 6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#CALPOST Results 60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#CALPOST Results 61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="CALPOST Results 60">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font size="+1" color="#000000">$[description]</font>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="CALPOST Results 61">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<font size="+1" color="#000000">$[description]</font>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Área de Influencia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<table width="300" border="0" cellspacing="3" cellpadding="3"><tr><td colspan="2"><div align="left"><font size="+2"><b>CALPOST Results: 1.0</b></font><hr/></div></td></tr><tr><td height="119" colspan="2"><table width="100%" border="0" align="center" cellpadding="3" cellspacing="4"><tr bgcolor="#DCE8EE"><td width="50%"><div align="right"><b>Level</b></div></td><td width="50%">1.0</td></tr></table></td></tr><tr><td width="100%"><a href="http://www.weblakes.com" target="_blank"><img src="http://www.weblakes.com/images/Lakes_Logo_Google.gif" alt="logo" border="0" /></a></td><td width="200"><p align="right"><font size="3" color="#666666">CALPUFF View 11.0.0<br><a href="http://www.webLakes.com">www.webLakes.com</a><br>Lakes Environmental Software</font></td></tr></table>]]></description>
+		<styleUrl>#CALPOST Results 6</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.522344,-33.076203,0 -71.522261,-33.075524,0 -71.521452,-33.075817,0 -71.518672,-33.076204,0 -71.516085,-33.076559,0 -71.515877,-33.076379,0 -71.510717,-33.076333,0 -71.510565,-33.07627,0 -71.510327,-33.076207,0 -71.510058,-33.075931,0 -71.507392,-33.073103,0 -71.505349,-33.072343,0 -71.505008,-33.071996,0 -71.503732,-33.071711,0 -71.50313199999999,-33.07132,0 -71.50266499999999,-33.071085,0 -71.501627,-33.070332,0 -71.49998100000001,-33.070246,0 -71.499442,-33.069915,0 -71.497624,-33.069463,0 -71.4975,-33.069294,0 -71.497297,-33.069122,0 -71.496324,-33.06803,0 -71.494614,-33.06894,0 -71.493837,-33.069464,0 -71.49193099999999,-33.070267,0 -71.49057999999999,-33.070596,0 -71.48924700000001,-33.070659,0 -71.486957,-33.071713,0 -71.486564,-33.071726,0 -71.48655100000001,-33.071724,0 -71.48528899999999,-33.071714,0 -71.48438299999999,-33.071292,0 -71.48388,-33.071186,0 -71.48169799999999,-33.071294,0 -71.48119699999999,-33.071329,0 -71.47852399999999,-33.071705,0 -71.47851300000001,-33.071705,0 -71.47846800000001,-33.071714,0 -71.47583,-33.072584,0 -71.475256,-33.073963,0 -71.47483800000001,-33.074793,0 -71.473879,-33.076211,0 -71.473146,-33.07676,0 -71.471104,-33.07846,0 -71.47134,-33.079973,0 -71.470831,-33.080709,0 -71.470646,-33.082803,0 -71.470508,-33.082957,0 -71.470462,-33.083572,0 -71.469407,-33.085206,0 -71.469431,-33.08607,0 -71.46898299999999,-33.087455,0 -71.467778,-33.08924,0 -71.467033,-33.089703,0 -71.46559600000001,-33.091531,0 -71.46546600000001,-33.091952,0 -71.465898,-33.093527,0 -71.467586,-33.094201,0 -71.46768899999999,-33.094275,0 -71.467777,-33.094325,0 -71.468395,-33.095932,0 -71.46865699999999,-33.09645,0 -71.468065,-33.098457,0 -71.468035,-33.098698,0 -71.468974,-33.101189,0 -71.46894899999999,-33.103196,0 -71.467776,-33.106019,0 -71.46662999999999,-33.107693,0 -71.46651300000001,-33.108751,0 -71.467776,-33.109786,0 -71.46957500000001,-33.110684,0 -71.473145,-33.111512,0 -71.473769,-33.111669,0 -71.476671,-33.112191,0 -71.478049,-33.112581,0 -71.478514,-33.112655,0 -71.48289200000001,-33.113022,0 -71.483884,-33.113071,0 -71.488671,-33.112678,0 -71.48925300000001,-33.112653,0 -71.4919,-33.11219,0 -71.494623,-33.111844,0 -71.495301,-33.111622,0 -71.49999200000001,-33.110417,0 -71.50510199999999,-33.107907,0 -71.50536,-33.107822,0 -71.505556,-33.10769,0 -71.50888999999999,-33.106149,0 -71.510728,-33.104209,0 -71.51193499999999,-33.103191,0 -71.514278,-33.101668,0 -71.51606,-33.098693,0 -71.516094,-33.098631,0 -71.518934,-33.094194,0 -71.520622,-33.090397,0 -71.521018,-33.089696,0 -71.521457,-33.087501,0 -71.522047,-33.085198,0 -71.522075,-33.084679,0 -71.52278,-33.0807,0 -71.522728,-33.079633,0 -71.522344,-33.076203,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Placemark>
+</Document>
+</kml>
