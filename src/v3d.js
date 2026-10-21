@@ -609,6 +609,7 @@ function sprite(cen,bor){
   var t=new THREE.CanvasTexture(c); t.minFilter=THREE.LinearFilter; return t;
 }
 var V=D.viento, ACC=45;                      /* tiempo acelerado 45× */
+var modoViento='pri';                        /* pri · sec · man */
 var vientoHacia=V.hacia, vientoVel=V.media;
 function dirViento(){
   var r=vientoHacia*Math.PI/180;
@@ -790,6 +791,8 @@ function rosaViento(){
   }
   sector(V.desde_min,V.desde_max,'#ffb067',.85);      /* de dónde viene */
   sector(V.sec_min,V.sec_max,'#ffb067',.26);
+  if(modoViento==='man')                            /* el supuesto del lector, en otro color */
+    sector((vientoHacia+145)%360,(vientoHacia+215)%360,'#8fb8d4',.30);
   var a=(vientoHacia-90)*Math.PI/180;
   var fl=E('path',{d:'M'+cx+' '+cy+'L'+(cx+Math.cos(a)*(R-4))+' '+(cy+Math.sin(a)*(R-4)),
     stroke:'#fff','stroke-width':1.6});
@@ -797,20 +800,106 @@ function rosaViento(){
   svg.appendChild(E('circle',{cx:cx+Math.cos(a)*(R-4),cy:cy+Math.sin(a)*(R-4),r:2.6,fill:'#fff'}));
   textoViento();
 }
+/* Todas las comunidades del catastro, una por nombre y quedándose con la más cercana.
+   OJO: aquí NO sirve D.rumbos. Esas son sólo las catorce más próximas, y están todas
+   al norte; contando sobre ellas el panel decía «ninguna población» mirando al este,
+   donde en realidad hay 44. Al oeste y al noroeste pasaba lo mismo con 6 y 19. */
+var COMUNIDADES=(function(){
+  var por={};
+  (D.barrios||[]).forEach(function(b){
+    if(!(b.n in por) || b.d<por[b.n].d) por[b.n]=b;
+  });
+  return Object.keys(por).map(function(k){return por[k]});
+})();
+
+/* Cuántas caen en la pluma de ±35° para un rumbo dado. El ancho es el mismo
+   supuesto que declara la sección «Quién queda a sotavento». */
+function aSotavento(rumbo){
+  var dentro=COMUNIDADES.filter(function(b){
+    var d=Math.abs(((b.rb-rumbo+540)%360)-180);   /* separación angular, 0..180 */
+    return d<=35;
+  });
+  dentro.sort(function(a,b){return a.d-b.d});
+  return dentro;
+}
+/* Pinta la lista completa. El botón conserva su estado abierto/cerrado entre
+   movimientos del deslizador, porque vive fuera del innerHTML que se reescribe. */
+function listaSotavento(li){
+  var bt=$('#w-mas'), ul=$('#vlist');
+  if(!bt||!ul) return;
+  /* Nada aquí puede cambiar el alto del panel: si lo cambia, el panel scrollea
+     y el deslizador salta bajo el dedo. Por eso el botón sigue presente aunque
+     no haya nadie (deshabilitado) y la lista conserva su caja aunque esté vacía. */
+  var n = li ? li.length : 0;
+  var abierta = bt.getAttribute('aria-expanded')==='true';
+  bt.hidden=false; bt.disabled = n===0;
+  bt.textContent = n===0 ? 'nadie a sotavento aquí'
+                 : abierta ? 'ocultar la lista' : 'ver las '+n+' completas';
+  ul.hidden = !abierta;
+  ul.innerHTML = n ? li.map(function(b){
+      return '<li>'+b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km</span></li>';
+    }).join('')
+    : '<li class="vacia">ninguna en este rumbo</li>';
+}
+$('#w-mas') && $('#w-mas').addEventListener('click',function(){
+  var abierta=this.getAttribute('aria-expanded')==='true';
+  this.setAttribute('aria-expanded',String(!abierta));
+  listaSotavento(aSotavento(vientoHacia));
+});
+
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
-  var pri = vientoHacia===V.hacia;
-  e.innerHTML = pri
+  var bt0=$('#w-mas'), ul0=$('#vlist');
+  if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
+  if(modoViento==='man'){
+    var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
+    /* Un dato por línea: junto en un párrafo, el ancho del rumbo (5° frente a
+       355°) hacía saltar el salto de línea y el bloque crecía 20 px. */
+    e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b><br><i>supuesto tuyo, no del expediente</i>'+
+      /* Sin la antesala de tres nombres: variaba de alto según lo largos que
+         fueran y movía los controles de abajo. Los nombres van en la lista.
+         Las dos frases van en paralelo —misma forma, mismo número de líneas—
+         porque si una ocupa más que la otra, el deslizador salta al cruzar un
+         rumbo donde el conteo cae a cero. */
+      '<br>A sotavento: <b>'+(n || 'ninguna')+'</b> de '+T+' comunidades' +
+      '<br><span class="vq">catastro abierto, radio de 6 km</span>';
+    listaSotavento(li);
+    return;
+  }
+  e.innerHTML = modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
     : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario';
 }
-$('#w-pri').addEventListener('click',function(){
-  vientoHacia=V.hacia; this.setAttribute('aria-pressed','true');
-  $('#w-sec').setAttribute('aria-pressed','false'); redibujarRosa();});
-$('#w-sec').addEventListener('click',function(){
-  vientoHacia=V.sec_hacia; this.setAttribute('aria-pressed','true');
-  $('#w-pri').setAttribute('aria-pressed','false'); redibujarRosa();});
+/* ojo: `modo` ya existe en este ámbito (el basemap carto/sat de más arriba);
+   los tres scripts se empalman en un solo IIFE y comparten variables. */
+function fijarViento(m,rumbo){
+  modoViento=m; vientoHacia=rumbo;
+  /* El deslizador sigue siempre al rumbo vigente: así «Manual» arranca donde
+     quedó lo último que se miró, en vez de saltar a un valor viejo. */
+  var sl=$('#w-dir'); if(sl && +sl.value!==rumbo) sl.value=rumbo;
+  /* El ancho depende del MODO, no de si hay alguien a sotavento: atado al
+     contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
+     reflui­a y el deslizador saltaba bajo el cursor. */
+  var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho', m==='man');
+  ['pri','sec','man'].forEach(function(k){
+    var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
+  });
+  var mv=$('#vman'); if(mv) mv.hidden = m!=='man';
+  redibujarRosa();
+}
+$('#w-pri').addEventListener('click',function(){ fijarViento('pri',V.hacia) });
+$('#w-sec').addEventListener('click',function(){ fijarViento('sec',V.sec_hacia) });
+$('#w-man').addEventListener('click',function(){
+  fijarViento('man', vientoHacia);   /* parte del rumbo que se está viendo */
+});
+(function(){
+  var sl=$('#w-dir'); if(!sl) return;
+  sl.addEventListener('input',function(){
+    if(modoViento!=='man') fijarViento('man',+this.value);
+    else { vientoHacia=+this.value; redibujarRosa(); }
+  });
+})();
 function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); }
 
 /* ---------- recorrido de cámara ---------- */

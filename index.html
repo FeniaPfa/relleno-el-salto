@@ -476,7 +476,11 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .marca.cerca .ln{background:#ff7a45}
 .marca.cerca .tx{color:#ffb9a4}
 .marca.cerca .km{color:#f0c3b2}
-.viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;background:rgba(13,16,20,.9);
+/* Con la lista de sotavento abierta el panel crecía hasta 745 px sobre un lienzo
+   de 706 y cortaba el deslizador: se limita al alto del mapa y scrollea. */
+.viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;
+  max-height:calc(100% - var(--barra3d,58px) - 24px);overflow-y:auto;
+  overscroll-behavior:contain;background:rgba(13,16,20,.9);
   border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .viento .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
   color:#9aa49c;margin-bottom:9px}
@@ -484,11 +488,48 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .rosa svg{width:92px;height:92px;display:block}
 .rosa svg text{font-family:var(--cart)}
 .vd{font-family:var(--cart);font-size:13px;color:#c6cec7;line-height:1.55;margin-top:9px}
+.vd i{color:#8fb8d4;font-style:normal;font-size:12px}
+.vd .vq{color:#9aa49c;font-size:12px}
+/* La lista completa de quién queda a sotavento. Va plegada para no comerse el
+   mapa, y su estado vive en el botón —no en el texto, que se reescribe entero
+   cada vez que se mueve el deslizador.
+   Va al FINAL del panel a propósito: encima del deslizador, cada vez que cambiaba
+   de largo empujaba el control que se estaba arrastrando. */
+.vmas{display:block;width:100%;margin-top:7px;padding:5px 6px;font-family:var(--cart);
+  font-size:12px;background:transparent;color:#8fb8d4;border:1px solid #3f4d57;
+  border-radius:2px;cursor:pointer;text-align:center}
+.vmas:hover{border-color:#8fb8d4}
+.vmas:focus-visible{outline:2px solid #8fb8d4;outline-offset:2px}
+@media(pointer:coarse){.vmas{min-height:38px}}
+.viento.ancho{width:238px}
+/* En modo manual el bloque de texto reserva su alto: si encoge o crece, todo lo
+   de abajo —incluido el deslizador que se está arrastrando— se mueve. En em,
+   no en px, para que aguante otro tamaño de letra. */
+.viento.ancho .vd{min-height:7.9em}
+.vlist{margin:6px 0 0;padding:0 0 0 2px;list-style:none;height:190px;overflow-y:auto;
+  font-family:var(--cart);font-size:12px;color:#b9c2ba;line-height:1.5;
+  border-top:1px solid #333c44;-webkit-overflow-scrolling:touch}
+.vlist li{display:flex;justify-content:space-between;gap:8px;padding:2px 6px 2px 0}
+.vlist li span{color:#8d9890;font-variant-numeric:tabular-nums;flex:none}
+.vlist li.vacia{color:#8d9890;font-style:italic;padding-top:6px}
+.vmas:disabled{color:#6d7a83;border-color:#333c44;cursor:default}
 .vd b{color:#f0b26a;font-weight:600}
-.vbtns{display:flex;gap:5px;margin-top:10px}
+/* Los dos del titular caben en una fila; «Manual» no (los tres piden 215 px en un
+   panel de 176) y además es de otra naturaleza: va en su propia fila, a lo ancho. */
+.vbtns{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}
 .vbtns .tg{flex:1;padding:6px 5px;font-size:12.5px;min-height:32px;
   border-color:#4a5450;color:#c6cec7;text-align:center}
 .vbtns .tg[aria-pressed="true"]{background:#f0b26a;color:#17120a;border-color:#f0b26a}
+/* el tercer modo: el lector fija el rumbo. Va con otro color para que no se
+   confunda con los dos que declara el titular. */
+.vbtns #w-man{flex:1 0 100%}
+.vbtns #w-man[aria-pressed="true"]{background:#8fb8d4;color:#0d1620;border-color:#8fb8d4}
+.vman{margin-top:9px}
+.vman label{display:block;font-family:var(--cart);font-size:11.5px;letter-spacing:.04em;
+  text-transform:uppercase;color:#8d9890;margin-bottom:5px}
+.vman input[type=range]{width:100%;accent-color:#8fb8d4;height:22px;cursor:ew-resize}
+.vman input[type=range]:focus-visible{outline:2px solid #8fb8d4;outline-offset:3px}
+@media(pointer:coarse){.vman input[type=range]{height:34px}}
 
 
 /* rosa independiente para móvil y para la sección de pluma */
@@ -1048,7 +1089,15 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <div class="vbtns">
           <button class="tg" id="w-pri" aria-pressed="true">Predominante</button>
           <button class="tg" id="w-sec" aria-pressed="false">Secundario</button>
+          <button class="tg" id="w-man" aria-pressed="false">Manual</button>
         </div>
+        <div class="vman" id="vman" hidden>
+          <label for="w-dir">Sopla hacia</label>
+          <input type="range" id="w-dir" min="0" max="355" step="5" value="10"
+                 aria-describedby="vtxt">
+        </div>
+        <button class="vmas" id="w-mas" hidden aria-expanded="false" aria-controls="vlist"></button>
+        <ol class="vlist" id="vlist" hidden></ol>
       </div>
     </details>
     <div class="tl">
@@ -4022,6 +4071,7 @@ function sprite(cen,bor){
   var t=new THREE.CanvasTexture(c); t.minFilter=THREE.LinearFilter; return t;
 }
 var V=D.viento, ACC=45;                      /* tiempo acelerado 45× */
+var modoViento='pri';                        /* pri · sec · man */
 var vientoHacia=V.hacia, vientoVel=V.media;
 function dirViento(){
   var r=vientoHacia*Math.PI/180;
@@ -4203,6 +4253,8 @@ function rosaViento(){
   }
   sector(V.desde_min,V.desde_max,'#ffb067',.85);      /* de dónde viene */
   sector(V.sec_min,V.sec_max,'#ffb067',.26);
+  if(modoViento==='man')                            /* el supuesto del lector, en otro color */
+    sector((vientoHacia+145)%360,(vientoHacia+215)%360,'#8fb8d4',.30);
   var a=(vientoHacia-90)*Math.PI/180;
   var fl=E('path',{d:'M'+cx+' '+cy+'L'+(cx+Math.cos(a)*(R-4))+' '+(cy+Math.sin(a)*(R-4)),
     stroke:'#fff','stroke-width':1.6});
@@ -4210,20 +4262,106 @@ function rosaViento(){
   svg.appendChild(E('circle',{cx:cx+Math.cos(a)*(R-4),cy:cy+Math.sin(a)*(R-4),r:2.6,fill:'#fff'}));
   textoViento();
 }
+/* Todas las comunidades del catastro, una por nombre y quedándose con la más cercana.
+   OJO: aquí NO sirve D.rumbos. Esas son sólo las catorce más próximas, y están todas
+   al norte; contando sobre ellas el panel decía «ninguna población» mirando al este,
+   donde en realidad hay 44. Al oeste y al noroeste pasaba lo mismo con 6 y 19. */
+var COMUNIDADES=(function(){
+  var por={};
+  (D.barrios||[]).forEach(function(b){
+    if(!(b.n in por) || b.d<por[b.n].d) por[b.n]=b;
+  });
+  return Object.keys(por).map(function(k){return por[k]});
+})();
+
+/* Cuántas caen en la pluma de ±35° para un rumbo dado. El ancho es el mismo
+   supuesto que declara la sección «Quién queda a sotavento». */
+function aSotavento(rumbo){
+  var dentro=COMUNIDADES.filter(function(b){
+    var d=Math.abs(((b.rb-rumbo+540)%360)-180);   /* separación angular, 0..180 */
+    return d<=35;
+  });
+  dentro.sort(function(a,b){return a.d-b.d});
+  return dentro;
+}
+/* Pinta la lista completa. El botón conserva su estado abierto/cerrado entre
+   movimientos del deslizador, porque vive fuera del innerHTML que se reescribe. */
+function listaSotavento(li){
+  var bt=$('#w-mas'), ul=$('#vlist');
+  if(!bt||!ul) return;
+  /* Nada aquí puede cambiar el alto del panel: si lo cambia, el panel scrollea
+     y el deslizador salta bajo el dedo. Por eso el botón sigue presente aunque
+     no haya nadie (deshabilitado) y la lista conserva su caja aunque esté vacía. */
+  var n = li ? li.length : 0;
+  var abierta = bt.getAttribute('aria-expanded')==='true';
+  bt.hidden=false; bt.disabled = n===0;
+  bt.textContent = n===0 ? 'nadie a sotavento aquí'
+                 : abierta ? 'ocultar la lista' : 'ver las '+n+' completas';
+  ul.hidden = !abierta;
+  ul.innerHTML = n ? li.map(function(b){
+      return '<li>'+b.n+'<span>'+b.d.toFixed(2).replace('.',',')+' km</span></li>';
+    }).join('')
+    : '<li class="vacia">ninguna en este rumbo</li>';
+}
+$('#w-mas') && $('#w-mas').addEventListener('click',function(){
+  var abierta=this.getAttribute('aria-expanded')==='true';
+  this.setAttribute('aria-expanded',String(!abierta));
+  listaSotavento(aSotavento(vientoHacia));
+});
+
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
-  var pri = vientoHacia===V.hacia;
-  e.innerHTML = pri
+  var bt0=$('#w-mas'), ul0=$('#vlist');
+  if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
+  if(modoViento==='man'){
+    var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
+    /* Un dato por línea: junto en un párrafo, el ancho del rumbo (5° frente a
+       355°) hacía saltar el salto de línea y el bloque crecía 20 px. */
+    e.innerHTML='Sopla hacia <b>'+vientoHacia+'°</b><br><i>supuesto tuyo, no del expediente</i>'+
+      /* Sin la antesala de tres nombres: variaba de alto según lo largos que
+         fueran y movía los controles de abajo. Los nombres van en la lista.
+         Las dos frases van en paralelo —misma forma, mismo número de líneas—
+         porque si una ocupa más que la otra, el deslizador salta al cruzar un
+         rumbo donde el conteo cae a cero. */
+      '<br>A sotavento: <b>'+(n || 'ninguna')+'</b> de '+T+' comunidades' +
+      '<br><span class="vq">catastro abierto, radio de 6 km</span>';
+    listaSotavento(li);
+    return;
+  }
+  e.innerHTML = modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
     : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario';
 }
-$('#w-pri').addEventListener('click',function(){
-  vientoHacia=V.hacia; this.setAttribute('aria-pressed','true');
-  $('#w-sec').setAttribute('aria-pressed','false'); redibujarRosa();});
-$('#w-sec').addEventListener('click',function(){
-  vientoHacia=V.sec_hacia; this.setAttribute('aria-pressed','true');
-  $('#w-pri').setAttribute('aria-pressed','false'); redibujarRosa();});
+/* ojo: `modo` ya existe en este ámbito (el basemap carto/sat de más arriba);
+   los tres scripts se empalman en un solo IIFE y comparten variables. */
+function fijarViento(m,rumbo){
+  modoViento=m; vientoHacia=rumbo;
+  /* El deslizador sigue siempre al rumbo vigente: así «Manual» arranca donde
+     quedó lo último que se miró, en vez de saltar a un valor viejo. */
+  var sl=$('#w-dir'); if(sl && +sl.value!==rumbo) sl.value=rumbo;
+  /* El ancho depende del MODO, no de si hay alguien a sotavento: atado al
+     contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
+     reflui­a y el deslizador saltaba bajo el cursor. */
+  var pn=$('#vbox'); if(pn) pn.classList.toggle('ancho', m==='man');
+  ['pri','sec','man'].forEach(function(k){
+    var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
+  });
+  var mv=$('#vman'); if(mv) mv.hidden = m!=='man';
+  redibujarRosa();
+}
+$('#w-pri').addEventListener('click',function(){ fijarViento('pri',V.hacia) });
+$('#w-sec').addEventListener('click',function(){ fijarViento('sec',V.sec_hacia) });
+$('#w-man').addEventListener('click',function(){
+  fijarViento('man', vientoHacia);   /* parte del rumbo que se está viendo */
+});
+(function(){
+  var sl=$('#w-dir'); if(!sl) return;
+  sl.addEventListener('input',function(){
+    if(modoViento!=='man') fijarViento('man',+this.value);
+    else { vientoHacia=+this.value; redibujarRosa(); }
+  });
+})();
 function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); }
 
 /* ---------- recorrido de cámara ---------- */
