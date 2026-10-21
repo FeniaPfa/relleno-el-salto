@@ -251,29 +251,37 @@ sc.add(new THREE.AmbientLight(0xffffff,.74));
 var dl=new THREE.DirectionalLight(0xfff2e2,.62); dl.position.set(-1,1.5,.7); sc.add(dl);
 
 /* ---------- marcas: un punto por comunidad, rótulo para las que quepan ---------- */
-var marcas=[], CUANTAS=16;
+var marcas=[], CERCANAS=16, CORREDOR=10;
+/* el corredor norte, 350°–20°, es el eje del viento que declara el titular:
+   ahí viven Paso Hondo, Estrella Polar y Angamos, lejos pero a sotavento directo */
+function enCorredor(rb){ return rb>=350 || rb<=20 }
 function construirMarcas(){
   var lista=(D.barrios||[]).slice().sort(function(a,b){return a.d-b.d});
-  var vistos={};
-  lista.forEach(function(b,orden){
-    if(marcas.length>=CUANTAS || vistos[b.n]) return;
+  var vistos={}, nCerca=0, nCorr=0;
+  lista.forEach(function(b){
+    if(vistos[b.n]) return;
     var p=uv(b.x,b.y);
-    if(p[0]<0.02||p[0]>0.98||p[1]<0.02||p[1]>0.98) return;
+    if(p[0]<0.03||p[0]>0.97||p[1]<0.03||p[1]>0.97) return;
+    var corr = b.rb!=null && enCorredor(b.rb);
+    if(nCerca<CERCANAS) nCerca++;              /* cupo por cercanía */
+    else if(corr && nCorr<CORREDOR) nCorr++;   /* cupo extra del eje del viento */
+    else return;
     vistos[b.n]=1;
+    var orden=marcas.length;
     var el=document.createElement('div');
-    el.className='marca'+(b.d<2.6?' cerca':'')+(marcas.length>=6?' lejos':'');
+    el.className='marca'+(b.d<2.6?' cerca':'')+(orden>=6?' lejos':'')+(corr?' eje':'');
     el.innerHTML='<i class="ln"></i><i class="pt"></i><span class="tx">'+b.n+
       ' <span class="km">'+b.d.toFixed(2).replace('.',',')+' km</span></span>';
     cv.appendChild(el);
-    marcas.push({el:el,u:p,d:b.d,n:b.n,orden:marcas.length,
+    marcas.push({el:el,u:p,d:b.d,n:b.n,orden:orden,corr:corr,
                  v3:new THREE.Vector3(), ln:el.querySelector('.ln')});
   });
 }
 /* cuántos rótulos caben: más cerca la cámara, más nombres */
 function cupoRotulos(w){
   var z=Math.max(0,Math.min(1,(S*0.62-rad)/(S*0.5)));   /* 0 lejos · 1 cerca */
-  var base=w<560?4:7;
-  return Math.round(base + z*(w<560?4:9));
+  var base=w<560?4:8;
+  return Math.round(base + z*(w<560?5:11));
 }
 function ubicarMarcas(){
   var w=cv.clientWidth,h=cv.clientHeight,on=chkOn('L-barrios');
@@ -304,7 +312,10 @@ function ubicarMarcas(){
   /* los rótulos: por cercanía, los que quepan y no choquen */
   var cupo=cupoRotulos(w);
   var cand=enPantalla.filter(function(m){ return m.x<w-reserva })
-                     .sort(function(a,b){return a.orden-b.orden}).slice(0,cupo);
+                     .sort(function(a,b){
+                       var pa=a.orden-(a.corr?6:0), pb=b.orden-(b.corr?6:0);
+                       return pa-pb;
+                     }).slice(0,cupo);
   cand.sort(function(a,b){return a.y-b.y});
   var alto=18, DERIVA=60, prev=-1e9;
   cand.forEach(function(it){ it.ty=Math.max(it.y,prev+alto); prev=it.ty });
