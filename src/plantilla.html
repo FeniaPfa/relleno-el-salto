@@ -2328,8 +2328,18 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var svg=document.getElementById('m5'); if(!svg||!D.terr) return;
   var W=980,H=620, T=D.terr;
   var bb=[180,90,-180,-90]; bboxOf(L.predio.g,bb);
-  var mx=(bb[2]-bb[0])*2.3, my=(bb[3]-bb[1])*2.3;
-  var P=fitter([bb[0]-mx,bb[1]-my,bb[2]+mx,bb[3]+my],W,H,10);
+  /* El encuadre se recorta a la ventana de D.terr, que es la única donde se calculó
+     la cuenca visual. Si se encuadra más ancho, cuenca.png no llega a los bordes y el
+     pardo aparece cortado en seco donde en realidad no hay dato, no «sin vista».
+     Se desplaza 0,010° al norte: el predio baja al tercio inferior y las dieciséis
+     comunidades, que están todas al norte, caben con aire para sus rótulos. */
+  var mY=function(la){return Math.log(Math.tan(Math.PI/4+la*Math.PI/360))},
+      mYi=function(y){return (Math.atan(Math.exp(y))-Math.PI/4)*360/Math.PI};
+  var hwM=(T.lon1-T.lon0)*Math.PI/360,      /* medio ancho en Mercator */
+      hhM=hwM/(W/H),                        /* medio alto que pide el lienzo */
+      cyM=mY((bb[1]+bb[3])/2+0.010);        /* centro, corrido al norte */
+  cyM=Math.max(mY(T.lat0)+hhM,Math.min(mY(T.lat1)-hhM,cyM));
+  var P=fitter([T.lon0,mYi(cyM-hhM),T.lon1,mYi(cyM+hhM)],W,H,0);
   if(D.fondo){
     var F=D.fondo, a=P(F.lon0,F.lat1), b=P(F.lon1,F.lat0);
     svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
@@ -2353,15 +2363,25 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     if(p[0]<70||p[0]>W-70||p[1]<24||p[1]>H-24) return;
     marcas.push({b:b,x:p[0],y:p[1],v:vis[b.n]});
   });
+  /* Desapilado vertical. El paso debe superar la altura de línea *ya escalada*: el
+     lienzo de 980 se dibuja a unos 760 px, así que 12,5 px de tipo piden ~19 unidades;
+     con 16 los rótulos se tocaban. Una sola columna: partirlo en dos las hace chocar,
+     porque el racimo es ancho y los rótulos largos se cruzan entre columnas. */
+  var PASO=19;
   marcas.sort(function(a,b){return a.y-b.y});
-  for(var i=1;i<marcas.length;i++)
-    if(marcas[i].y-marcas[i-1].y<16)
-      marcas[i].ty=(marcas[i-1].ty!=null?marcas[i-1].ty:marcas[i-1].y)+16;
+  for(var j=1;j<marcas.length;j++)
+    if(marcas[j].y-marcas[j-1].y<PASO)
+      marcas[j].ty=(marcas[j-1].ty!=null?marcas[j-1].ty:marcas[j-1].y)+PASO;
   marcas.forEach(function(m){
     var ty=m.ty!=null?m.ty:m.y, ve=m.v!=null&&m.v>=50;
+    var dir=1;
+    if(Math.abs(ty-m.y)>3)   /* la etiqueta se corrió: átala a su punto */
+      svg.appendChild(el('path',{d:'M'+(m.x+5*dir).toFixed(1)+' '+m.y.toFixed(1)+
+        'L'+(m.x+9*dir).toFixed(1)+' '+ty.toFixed(1),stroke:ve?'#ffb9a4':'#cfd6cf',
+        'stroke-width':1,'stroke-opacity':.55,fill:'none'}));
     svg.appendChild(el('circle',{cx:m.x.toFixed(1),cy:m.y.toFixed(1),r:4.5,
       fill:ve?'#ffb9a4':'#fbf7ec',stroke:'#14161a','stroke-width':1.4}));
-    var t=el('text',{x:(m.x+10).toFixed(1),y:(ty+4).toFixed(1),'font-size':12.5,
+    var t=el('text',{x:(m.x+10*dir).toFixed(1),y:(ty+4).toFixed(1),'font-size':12.5,
       'font-family':'var(--cart)','font-weight':600,fill:ve?'#ffb9a4':'#cfd6cf',
       'paint-order':'stroke',stroke:'#14161a','stroke-width':3.6,'stroke-linejoin':'round'});
     t.textContent=m.b.n+(m.v!=null?' · '+m.v.toFixed(0)+' %':'');
