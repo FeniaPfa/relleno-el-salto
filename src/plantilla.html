@@ -1,9 +1,25 @@
-<title>Expediente COSEMAR El Salto</title>
+<title>Relleno sanitario COSEMAR en El Salto, Viña del Mar: lo que dice el expediente</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&family=Spectral+SC:wght@500;600&family=Fira+Sans+Condensed:wght@400;500;600&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&display=swap">
+<link rel="preload" as="font" type="font/woff2" href="fonts/libre-franklin-400-normal.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="fonts/spectral-600-normal.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="fonts/fira-sans-condensed-400-normal.woff2" crossorigin>
+<link rel="preload" as="script" href="lib/three.r128.min.js">
+<style>
+/* fuentes autohospedadas (SIL OFL), subconjunto latino: sin CSS externo que bloquee el render */
+@font-face{font-family:'Spectral';font-style:normal;font-weight:300;font-display:swap;src:url(fonts/spectral-300-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/spectral-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/spectral-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:italic;font-weight:400;font-display:swap;src:url(fonts/spectral-400-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral';font-style:italic;font-weight:600;font-display:swap;src:url(fonts/spectral-600-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral SC';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/spectral-sc-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Spectral SC';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/spectral-sc-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/fira-sans-condensed-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/fira-sans-condensed-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/fira-sans-condensed-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Libre Franklin';font-style:normal;font-weight:400 700;font-display:swap;src:url(fonts/libre-franklin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Libre Franklin';font-style:italic;font-weight:400 700;font-display:swap;src:url(fonts/libre-franklin-400-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+</style>
 <style>
 /* ===================================================================
    Sistema: hoja topográfica. Papel cálido, tinta fría, carmín de plano.
@@ -26,7 +42,7 @@
 @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
   --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
   --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
-  --line:#30353a; --line2:#262a2e; --lctl:#5b646e;
+  --line:#30353a; --line2:#262a2e; --lctl:#8a949c;
   --acc:#e1676b; --acc-s:#e1676b22;
   --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
   --grid:#ffffff2e;
@@ -34,7 +50,7 @@
 :root[data-theme="dark"]{
   --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
   --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
-  --line:#30353a; --line2:#262a2e; --lctl:#5b646e;
+  --line:#30353a; --line2:#262a2e; --lctl:#8a949c;
   --acc:#e1676b; --acc-s:#e1676b22;
   --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
   --grid:#ffffff2e;
@@ -46,8 +62,9 @@ body{background:var(--bg);color:var(--ink);font-family:var(--txt);
 .wrap{max-width:1180px;margin:0 auto;padding:0 24px 96px}
 h1,h2,h3{font-family:var(--doc);margin:0;text-wrap:balance;font-variant-numeric:lining-nums}
 p{margin:0}
-a{color:var(--acc)}
-a:focus-visible,button:focus-visible,input:focus-visible,
+a{color:inherit;text-decoration-color:var(--bistre);text-underline-offset:3px;text-decoration-thickness:1px}
+a:hover{color:var(--acc);text-decoration-color:var(--acc)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,
 summary:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
 
 /* versalitas reales: reemplazan todo el uppercase+letter-spacing anterior */
@@ -71,20 +88,22 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
 .hd .sub .num{font-size:14.5px;color:var(--ink)}
 
 /* el plazo es la acción, no un adorno */
-.plazo{display:block;text-decoration:none;border:1px solid var(--acc);
-  background:var(--acc);color:var(--surf);padding:0 0 16px;min-width:208px;
+.plazo{display:block;text-decoration:none;border:1px solid #9c1f28;
+  background:#9c1f28;color:#fbf7ec;padding:0 0 16px;min-width:208px;
   overflow:hidden;
   transition:filter .15s}
 .plazo:hover{filter:brightness(1.12)}
 .plazo>*:not(.cinta){margin-left:20px;margin-right:20px}
 .plazo .d{margin-top:16px;font-family:var(--cifra);font-size:clamp(38px,5.4vw,50px);font-weight:600;
   line-height:.95;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums;
-  color:var(--surf)}
-.plazo .d span{font-size:.40em;font-weight:400;margin-left:.35em;opacity:.85}
+  color:#fbf7ec}
+.plazo .d span{font-size:.40em;font-weight:400;margin-left:.35em}
 .plazo .t{font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.02em;
-  margin-top:8px;color:var(--surf);opacity:.92}
+  margin-top:8px;color:#fbf7ec}
 .plazo .cta{font-family:var(--cart);font-size:14px;font-weight:600;margin-top:12px;
-  padding-top:10px;border-top:1px solid rgba(255,255,255,.3);color:var(--surf)}
+  padding-top:10px;border-top:1px solid rgba(255,255,255,.3);color:#fbf7ec}
+.plazo .cu{font-family:var(--cart);font-size:13px;margin-top:3px;color:#fbf7ec;opacity:.88}
+body.cerrado .plazo .cu{display:none}
 
 /* ---------- secciones: folio colgado, como un expediente ---------- */
 section{padding-top:64px;position:relative}
@@ -94,7 +113,7 @@ section{padding-top:64px;position:relative}
 .shd .n{position:absolute;left:-62px;top:-4px;width:46px;text-align:right;
   font-family:var(--doc);font-weight:300;font-size:30px;line-height:1;color:var(--ink3);
   font-variant-numeric:lining-nums}
-.shd .src{display:block;font-family:var(--sc);font-size:12.5px;font-weight:500;
+.shd .src{display:block;margin:0;font-family:var(--sc);font-size:12.5px;font-weight:500;
   letter-spacing:.02em;color:var(--ink3);margin-top:5px}
 @media(max-width:1180px){
   .shd .n{position:static;display:block;width:auto;text-align:left;font-size:17px;
@@ -117,17 +136,42 @@ section{padding-top:64px;position:relative}
 .find .k{margin-top:14px;font-size:16.5px;line-height:1.52}
 .find .k b{font-weight:600}
 .find .s{margin-top:10px;font-size:14.5px;color:var(--ink3);line-height:1.6}
+/* portada: tres arriba y dos abajo, sin huérfana; la cifra manda y el detalle se pliega */
+.find.portada{grid-template-columns:repeat(6,1fr);gap:22px 24px}
+.find.portada>div{grid-column:span 2;padding:24px 24px 18px}
+.find.portada>div:nth-last-child(-n+2){grid-column:span 3}
+.find.portada .v{font-size:clamp(46px,5.4vw,60px)}
+.find.portada .k{margin-top:10px;font-size:17px;line-height:1.42;font-weight:500;max-width:26ch;color:var(--ink)}
+.find.portada .k b{font-weight:700}
+.find.portada details.plegado{margin-top:12px;border-top:1px solid var(--line2);padding-top:2px}
+.find.portada details.plegado>summary{font-size:12.5px;padding:6px 0;min-height:30px;color:var(--ink3)}
+.find.portada .s{margin-top:4px;font-size:14px}
+@media(max-width:900px){
+  .find.portada{grid-template-columns:1fr 1fr}
+  .find.portada>div,.find.portada>div:nth-last-child(-n+2){grid-column:auto}
+  .find.portada>div:last-child{grid-column:1/-1}
+}
+@media(max-width:600px){
+  .find.portada{grid-template-columns:1fr;gap:10px}
+  .find.portada>div,.find.portada>div:last-child{grid-column:auto;display:grid;
+    grid-template-columns:5.2em 1fr;column-gap:14px;align-items:baseline;padding:16px 16px 10px}
+  .find.portada .v{font-size:38px;grid-row:1/2}
+  .find.portada .v .u{display:block;margin:4px 0 0;font-size:13px}
+  .find.portada .k{margin-top:0;font-size:15.5px;max-width:none}
+  .find.portada .umbral,.find.portada details{grid-column:1/-1}
+}
 .c-acc{color:var(--acc)} .c-blue{color:var(--blue)}
 .c-warn{color:var(--warn)} .c-green{color:var(--green)}
+.calc{margin-top:30px;font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.03em;color:var(--blue)}
 
 /* barra de umbral: un número solo no dice si 96,6 % es mucho */
 .umbral{margin-top:14px}
-.umbral .riel{position:relative;height:12px;background:var(--surf2);
-  border:1px solid var(--line)}
-.umbral .fill{position:absolute;inset:0 auto 0 0;background:var(--warn)}
+.umbral .riel{position:relative;height:12px;background:var(--sunk);
+  border:1px solid var(--lctl)}
+.umbral .fill{position:absolute;top:0;bottom:0;left:0;background:var(--warn)}
 .umbral .tope{position:absolute;top:-4px;bottom:-4px;right:0;width:2px;background:var(--acc)}
 .umbral .pie{display:flex;justify-content:space-between;margin-top:6px;
-  font-family:var(--cart);font-size:12.5px;color:var(--ink2)}
+  font-family:var(--cart);font-size:13px;color:var(--ink2)}
 
 /* ---------- mapas y visor ---------- */
 .mapbox{border:1px solid var(--line);background:var(--sunk);position:relative;overflow:hidden}
@@ -176,7 +220,7 @@ td b{font-weight:600}
 .mx .o{border-left-color:var(--acc)}
 .mx .c{border-left-color:var(--green)}
 .mx .m{border-left-color:var(--warn)}
-.mx .x{border-left-color:var(--line);opacity:.62}
+.mx .x{border-left-color:var(--line)}
 .mx .nm{font-size:15px;line-height:1.3;font-weight:600}
 .mx .fo{font-family:var(--cart);font-size:12.5px;color:var(--ink3)}
 details.plegado{margin-top:14px}
@@ -184,7 +228,13 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-weight:600;letter-spacing:.02em;color:var(--ink2);padding:8px 0;min-height:34px}
 .tally{display:flex;flex-wrap:wrap;gap:30px;margin-bottom:24px;align-items:baseline}
 .tally>span{display:flex;align-items:baseline;gap:9px;font-size:16px;color:var(--ink2)}
-.tally b{font-family:var(--cifra);font-size:38px;font-weight:600;line-height:1;
+.tally>span.mayor b{font-size:56px}
+.tally>span.mayor{color:var(--ink);font-size:17px;font-weight:600}
+.reparto{display:flex;gap:2px;height:14px;margin:-8px 0 22px}
+.reparto i{display:block}
+.reparto .o{background:var(--acc)} .reparto .c{background:var(--green)}
+.reparto .m{background:var(--warn)} .reparto .x{background:var(--line)}
+.tally b{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1;
   letter-spacing:-.01em;font-variant-numeric:lining-nums tabular-nums}
 
 /* ---------- gráficos ---------- */
@@ -226,24 +276,91 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-family:var(--doc);font-weight:300;font-size:30px;color:var(--ink3);
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
-.btn{display:inline-block;background:var(--acc);color:var(--surf);
+.pide{border-left:3px solid var(--acc);background:var(--surf);padding:16px 20px 16px 18px;margin-top:26px;
+  font-size:16px;line-height:1.62;color:var(--ink);max-width:68ch}
+.pide>b:first-child{display:block;font-family:var(--sc);font-size:13.5px;font-weight:600;
+  letter-spacing:.03em;color:var(--acc);margin-bottom:6px}
+.pide .usar{display:inline-block;margin-top:10px;font-family:var(--cart);font-size:14px;font-weight:600;
+  color:var(--ink);text-decoration:none;border-bottom:1px solid var(--acc)}
+.modh{font-family:var(--doc);font-size:21px;font-weight:600;margin:34px 0 8px}
+.modp{color:var(--ink2);font-size:16px;line-height:1.6;max-width:68ch;margin-bottom:18px}
+.modelos{display:grid;gap:18px;grid-template-columns:1fr}
+@media(min-width:900px){.modelos{grid-template-columns:1fr 1fr}}
+.modelo{margin:0;border:1px solid var(--line);background:var(--surf);padding:18px 20px 16px;display:flex;flex-direction:column}
+.modelo figcaption{font-family:var(--doc);font-size:17px;font-weight:600;margin-bottom:10px}
+.modelo figcaption .src{display:block;font-family:var(--sc);font-size:12.5px;font-weight:500;color:var(--ink3);margin-top:3px}
+.modelo blockquote{margin:0 0 14px;font-size:15.5px;line-height:1.6;color:var(--ink);flex:1}
+.copiar{align-self:flex-start;font-family:var(--cart);font-size:14px;font-weight:600;border:1px solid var(--lctl);
+  background:transparent;color:var(--ink);padding:9px 14px;min-height:40px;cursor:pointer;border-radius:2px}
+.copiar:hover{background:var(--surf2)}
+.copiar[data-ok]{border-color:var(--green);color:var(--green)}
+.fmt{font-family:var(--cart);font-size:.82em;font-weight:400;color:var(--ink3);letter-spacing:0}
+.btn{display:inline-block;background:#9c1f28;color:#fbf7ec;
   font-family:var(--cart);font-size:16px;font-weight:600;text-decoration:none;
   padding:13px 22px;margin-top:22px;min-height:48px;border-radius:2px}
 .btn:hover{filter:brightness(1.12)}
+.acciones{display:flex;flex-wrap:wrap;gap:12px 16px;align-items:center;margin-top:22px}
+.acciones .btn{margin-top:0}
+.btn2{display:inline-flex;align-items:center;min-height:48px;padding:12px 20px;border:1px solid var(--lctl);
+  border-radius:2px;font-family:var(--cart);font-size:16px;font-weight:600;color:var(--ink);text-decoration:none}
+.btn2:hover{background:var(--surf2);color:var(--ink)}
 
 footer{margin-top:76px;padding-top:30px;border-top:1px solid var(--bistre);
   font-size:15px;color:var(--ink2);line-height:1.75;max-width:70ch}
 footer b{color:var(--ink);font-weight:600}
 
+/* ---------- utilidades de accesibilidad ---------- */
+abbr[title]{text-decoration:underline dotted;text-underline-offset:3px;text-decoration-color:var(--lctl);cursor:help}
+.vh{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;padding:0;margin:-1px}
+.indice{margin:26px 0 0;font-family:var(--cart);font-size:14px;line-height:1.5}
+.indice .il{display:flex;flex-wrap:wrap;gap:6px 14px}
+.indice summary{display:none}
+.indice .ni{font-variant-numeric:tabular-nums;color:var(--ink3);margin-right:4px}
+@media(max-width:720px){
+  .indice summary{display:block;cursor:pointer;font-weight:600;color:var(--ink2);padding:8px 0;min-height:40px}
+  .indice .il{flex-direction:column;gap:2px;padding:4px 0 8px}
+  .indice .il a{padding:6px 0;border-bottom:0}
+}
+.indice a{color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--line)}
+.indice a:hover,.indice a:focus-visible{color:var(--acc);border-bottom-color:var(--acc)}
+.indice a b{color:var(--acc)}
+.aviso-js{margin:20px 0 0;padding:12px 16px;border:1px solid var(--warn);color:var(--ink2);font-size:15px}
+.plazo .d .ult{font-size:.5em;font-weight:600;margin:0}
+.firma{color:var(--ink)}
+footer .imprimir{display:inline-block;margin-top:10px}
+@media print{
+  :root,:root[data-theme="dark"]{--bg:#fff;--surf:#fff;--surf2:#f2f2f2;--sunk:#f2f2f2;--ink:#000;--ink2:#333;--ink3:#555;
+    --line:#999;--line2:#bbb;--acc:#8a1a22;--blue:#1f4f66;--green:#2f5a3a;--warn:#6a4a0a;color-scheme:light}
+  body{background:#fff;color:#000;font-size:11pt}
+  .v3,.cv,.panel,.viento,.plazo,.btn,.indice,.vhint,.tg,.toggles,.play,.tl,.ctrl,.imprimir,.aviso-js,.barra-cta{display:none!important}
+  a{color:#000}
+  a[href^="http"]::after{content:" (" attr(href) ")";font-size:8.5pt;color:#444;word-break:break-all}
+  section{break-inside:avoid-page}
+  .shd{break-after:avoid}
+}
+.orb{display:inline-flex;gap:4px}
+.orb .tg{min-width:40px;padding:8px 10px;font-size:16px;line-height:1}
+.v3 .cv canvas:focus-visible{outline:3px solid var(--blue);outline-offset:-3px}
 /* ---------- barra fija de acción en móvil ---------- */
-/* cinta de peligro: decorativa, nunca porta información */
-.cinta{display:block;height:5px;
-  background:repeating-linear-gradient(45deg,#f7be1d,#f7be1d 9px,#14161a 9px,#14161a 18px)}
+.barra-cta{display:none}
+@media(max-width:720px){
+  .barra-cta{display:flex;gap:8px;position:fixed;left:0;right:0;bottom:0;z-index:20;padding:10px 12px;
+    padding-bottom:max(10px,env(safe-area-inset-bottom));background:var(--surf);border-top:1px solid var(--line)}
+  .barra-cta a{flex:1;display:flex;align-items:center;justify-content:center;min-height:44px;font-family:var(--cart);
+    font-size:15px;font-weight:600;text-decoration:none;border-radius:2px}
+  .barra-cta .como{color:var(--ink);border:1px solid var(--lctl)}
+  .barra-cta .ir{background:#9c1f28;color:#fbf7ec}
+  body{padding-bottom:72px}
+}
+/* filete de alerta: decorativo, nunca porta información */
+.cinta{display:block;height:4px;background:var(--warn)}
 
 
 /* ---------- móvil ---------- */
 @media(max-width:720px){
   body{font-size:16.5px;line-height:1.62}
+  .vhint{max-width:calc(100% - 150px);font-size:12px;padding:5px 8px;line-height:1.35}
+  .vhint .ancho{display:none} .v3 .vhint .angosto{display:inline}
   .wrap{padding:0 18px 40px}
   section{padding-top:40px}
   .shd{margin-bottom:18px}
@@ -283,13 +400,14 @@ footer b{color:var(--ink);font-weight:600}
   padding:12px 16px;border-bottom:1px solid var(--line);background:var(--surf)}
 .ctrl>summary{display:none}
 .panel{position:absolute;top:calc(var(--barra3d,58px) + 12px);right:12px;width:210px;background:rgba(13,16,20,.9);
-  border:1px solid #39413c;padding:12px 13px;backdrop-filter:blur(6px);z-index:3}
+  border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .panel .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
   color:#9aa49c;margin-bottom:9px}
 .panel label{display:flex;align-items:center;gap:9px;font-family:var(--cart);
   font-size:14px;color:#e2e6e0;padding:5px 0;cursor:pointer;min-height:28px}
 .panel input{accent-color:#e1676b;width:15px;height:15px;margin:0;flex-shrink:0}
 .panel .sw{width:10px;height:10px;flex-shrink:0;border-radius:1px}
+.vhint .angosto{display:none}
 .vhint{position:absolute;left:12px;bottom:12px;max-width:calc(100% - 200px);font-family:var(--cart);
   font-size:13px;color:#aab4ac;background:rgba(13,16,20,.85);padding:7px 10px;border:1px solid #39413c;z-index:3}
 /* mobiliario cartográfico: norte que gira con la cámara, escala a la distancia del foco, atribución */
@@ -298,11 +416,11 @@ footer b{color:var(--ink);font-weight:600}
 .mob .fila{display:flex;align-items:flex-end;gap:12px}
 .mob .norte{width:40px;height:40px;display:block;filter:drop-shadow(0 0 2px #14161a) drop-shadow(0 0 1px #14161a)}
 .mob .norte text{font-family:var(--cart)}
-.escala{display:flex;flex-direction:column;align-items:flex-end;font-size:11.5px;line-height:1;
+.escala{display:flex;flex-direction:column;align-items:flex-end;font-size:12.5px;line-height:1;
   padding-bottom:4px;text-shadow:0 0 3px #14161a,0 0 3px #14161a}
 .escala .esb{height:6px;width:80px;border:1.5px solid #e2e6e0;border-top:0;margin-bottom:4px;
   filter:drop-shadow(0 0 1px #14161a)}
-.atrib{font-size:10.5px;color:#b4bcb3;letter-spacing:.01em;text-align:right;
+.atrib{font-size:12px;color:#d8dcd4;background:rgba(13,16,20,.6);padding:2px 6px;border-radius:2px;letter-spacing:.01em;text-align:right;
   text-shadow:0 0 3px #14161a,0 0 3px #14161a,0 0 5px #14161a}
 .marca{position:absolute;left:0;top:0;width:0;height:0;pointer-events:none;z-index:2;
   opacity:0;transition:opacity .18s;will-change:transform}
@@ -321,7 +439,7 @@ footer b{color:var(--ink);font-weight:600}
 .marca.cerca .tx{color:#ffb9a4}
 .marca.cerca .km{color:#f0c3b2}
 .viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;background:rgba(13,16,20,.9);
-  border:1px solid #39413c;padding:12px 13px;backdrop-filter:blur(6px);z-index:3}
+  border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .viento .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
   color:#9aa49c;margin-bottom:9px}
 .rosa{display:flex;justify-content:center}
@@ -346,15 +464,15 @@ footer b{color:var(--ink);font-weight:600}
 .tl{padding:16px 18px 18px;border-top:1px solid var(--line);background:var(--surf)}
 .tlh{display:flex;flex-wrap:wrap;gap:12px;align-items:baseline;justify-content:space-between;
   margin-bottom:12px}
-.tlh .yr{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1;color:var(--acc);
+.tlh .yr{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1;color:var(--ink);
   letter-spacing:-.01em;font-variant-numeric:lining-nums}
 .tlh .yl{font-size:14.5px;color:var(--ink2);margin-top:4px}
 input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .tlg{display:grid;grid-template-columns:repeat(auto-fit,minmax(132px,1fr));gap:16px;margin-top:15px}
 .tlg>div{border-left:1px solid var(--line);padding-left:12px}
-.tlg .n{font-family:var(--cart);font-size:19px;font-weight:600;line-height:1.15;
+.tlg .n{font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1.05;
   font-variant-numeric:lining-nums tabular-nums}
-.tlg .l{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
+.tlg .l{font-family:var(--cart);font-size:13.5px;font-weight:400;letter-spacing:0;
   color:var(--ink2);margin-top:4px;line-height:1.35}
 .play{font-family:var(--cart);font-size:14px;font-weight:600;
   border:1px solid var(--lctl);background:transparent;color:var(--ink);padding:9px 16px;
@@ -417,6 +535,11 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .polarleg .ley{margin-top:12px;font-size:14px;line-height:1.55;color:var(--ink2)}
 .polarleg .franja{display:inline-block;width:22px;height:10px;margin-right:8px;
   background:var(--warn);opacity:.55;vertical-align:-1px}
+.polarleg .franja.velo{opacity:.18}
+.polarleg .hueco{display:inline-block;width:10px;height:10px;border-radius:50%;border:2px solid var(--ink3);
+  margin:0 14px 0 6px;vertical-align:-1px}
+.polarleg li.fuera::before{background:transparent;border:2px solid var(--ink3);box-sizing:border-box}
+.polar .ptit{padding:20px 22px 0;font-family:var(--doc);font-size:19px;font-weight:600;margin:0}
 
 /* ---------- simulación de tránsito ---------- */
 .trafico{margin:30px 0 0;padding:0;background:var(--surf);border-top:2px solid var(--bistre)}
@@ -472,6 +595,19 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .filo figcaption b{color:var(--acc);font-weight:600}
 /* ---- corte del subsuelo ---- */
 .v3 .panel.p2{top:12px}
+.lista-cv{margin:0;padding:12px 16px 14px;border-top:1px solid var(--line2);font-family:var(--cart);
+  font-size:14px;line-height:1.6;color:var(--ink2)}
+.lista-cv b{color:var(--ink);font-weight:600}
+.pie.lee{display:flex;flex-wrap:wrap;gap:6px 22px;padding-top:0}
+.pie.lee span{display:inline-flex;gap:8px;align-items:baseline}
+.pie.lee .sw{display:inline-block;width:10px;height:10px;flex-shrink:0;border-radius:1px}
+.pie.lee .sw.ert{background:linear-gradient(90deg,#1f3fbf,#2fbf5a,#f2e33a,#e8492b,#7a1f7a)}
+/* en celular el panel del corte no puede tapar el bloque */
+@media(max-width:720px){
+  .v3 .panel.p2{top:8px;right:8px;width:auto;padding:8px 10px}
+  .v3 .panel.p2 .ph{display:none}
+  .v3 .panel.p2 label{font-size:12.5px;min-height:26px;padding:2px 0}
+}
 .v3 .pie{font-family:var(--cart);font-size:14px;color:#aab4ac;margin:0;
   padding:11px 16px;border-top:1px solid #39413c;background:#0d1014}
 .v3 .pie b{color:#fbf7ec;font-weight:600}
@@ -481,17 +617,21 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .corte,.membrana{margin:0}
 .corte h3,.membrana h3{font-family:var(--doc);font-size:21px;font-weight:600;
   margin:0 0 14px;color:var(--ink);letter-spacing:-.01em}
-.pila{display:flex;flex-direction:column;height:420px;border:1px solid var(--line);
+.pila{display:flex;flex-direction:column;height:440px;border:1px solid var(--line);
   overflow:hidden;background:var(--surf)}
 .seg{position:relative;display:flex;flex-direction:column;justify-content:center;
-  padding:10px 14px;color:#fbf7ec;overflow:hidden}
+  padding:10px 14px;color:#fbf7ec;overflow:visible}
 .seg b{font-family:var(--cifra);font-size:29px;font-weight:600;line-height:1.05;
   letter-spacing:-.01em;font-variant-numeric:tabular-nums}
 .seg i{font-family:var(--cart);font-size:13px;font-style:normal;line-height:1.3;
-  margin-top:5px;opacity:.9;max-width:30ch}
+  margin-top:5px;max-width:30ch}
 .seg.basura{background:repeating-linear-gradient(135deg,#b8431f,#b8431f 9px,#a93c1b 9px,#a93c1b 18px)}
-.seg.mai{background:#a8823f}
+.seg.mai{background:#8d6a2c}
 .seg.roca{background:#4f4b45}
+/* la lámina: una línea clara entre la basura y la capa permeable */
+.memb{position:relative;flex:0 0 3px;background:#fbf7ec;box-shadow:0 0 0 1px #14161a;z-index:2}
+.memb i{position:absolute;left:10px;right:10px;bottom:7px;font-family:var(--cart);font-size:12.5px;font-style:normal;
+  font-weight:600;line-height:1.3;color:#fbf7ec;background:rgba(20,22,26,.8);padding:3px 7px}
 .corte figcaption{font-family:var(--txt);font-size:14.5px;color:var(--ink2);
   line-height:1.6;margin-top:14px}
 .corte figcaption b{color:var(--ink);font-weight:600}
@@ -504,13 +644,13 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 #tbl-barrera td:first-child{color:var(--ink)}
 #tbl-barrera td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
 #tbl-barrera tr.clave td{background:var(--acc-s)}
-#tbl-barrera tr.clave td:first-child{font-weight:600;color:var(--acc)}
+#tbl-barrera tr.clave td:first-child{font-weight:600;color:var(--ink);box-shadow:inset 3px 0 0 var(--acc)}
 
 /* ---- fotomontaje ---- */
 .foto{margin:30px 0 0;border:1px solid var(--line);background:var(--surf)}
 .fwrap{position:relative;line-height:0;background:#0d1014}
 .fwrap img{display:block;width:100%;height:auto}
-.fwrap svg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.fwrap svg{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
 .fbtns{display:flex;flex-wrap:wrap;gap:10px;padding:12px 16px;border-top:1px solid var(--line)}
 .foto figcaption{padding:4px 16px 16px;display:grid;gap:7px}
 .foto .cit{font-family:var(--doc);font-size:17px;line-height:1.56;color:var(--ink);
@@ -521,6 +661,8 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 @media(min-width:720px){.faltan{grid-template-columns:1fr 1fr}}
 .falta{border-left:3px solid var(--acc);padding:12px 0 12px 15px}
 .falta .ft{font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
+.falta .fn{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;
+  background:#ff7a45;color:#0d1014;font-family:var(--cifra);font-size:13px;font-weight:600;margin-right:9px;vertical-align:1px}
 .falta .fd{font-family:var(--txt);font-size:14.5px;color:var(--ink2);line-height:1.55;margin-top:4px}
 .falta .fd b{color:var(--ink);font-weight:600}
 
@@ -539,14 +681,19 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
   grid-row:1/3;align-self:center}
 .rej .ld{font-family:var(--cart);font-size:13.5px;line-height:1.25;color:var(--ink)}
 .rej .lv{font-family:var(--cart);font-size:11.5px;letter-spacing:.02em;color:var(--ink3)}
-.rej .lit.sig{background:var(--acc);border-color:var(--acc)}
-.rej .lit.sig .le,.rej .lit.sig .ld{color:#fff}
-.rej .lit.sig .lv{color:#ffd9d4;font-weight:600}
+.rej .lit.sig{background:#9c1f28;border-color:#9c1f28}
+.rej .lit.sig .le,.rej .lit.sig .ld{color:#fff;font-weight:600}
+.rej .lit.sig .lv{color:#fff;font-weight:600}
 .cascada{display:grid;gap:12px;margin-top:26px}
 @media(min-width:800px){.cascada{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:799px){
+  .paso{display:grid;grid-template-columns:auto 1fr;column-gap:16px;padding:12px 0 12px 15px}
+  .paso .pn{grid-row:1/4;font-size:46px;margin:0}
+  .paso .pd{font-size:13.5px;margin-top:4px}
+}
 .paso{border-left:3px solid var(--acc);padding:14px 0 14px 17px;position:relative}
 .paso .pc{font-family:var(--sc);font-size:12.5px;letter-spacing:.03em;color:var(--ink3)}
-.paso .pn{font-family:var(--cifra);font-size:58px;font-weight:600;line-height:1;color:var(--acc);
+.paso .pn{font-family:var(--cifra);font-size:clamp(40px,5vw,52px);font-weight:600;line-height:1;color:var(--acc);
   margin:6px 0 2px;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums}
 .paso .pt{font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
 .paso .pd{font-family:var(--txt);font-size:14.5px;line-height:1.55;color:var(--ink2);margin-top:7px}
@@ -557,6 +704,11 @@ blockquote.cita{margin:26px 0 0;padding:18px 0 18px 22px;border-left:3px solid v
 blockquote.cita b{font-style:normal;font-weight:600}
 blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-style:normal;
   letter-spacing:.02em;color:var(--ink3);margin-top:11px}
+#tbl-quema td.num{white-space:nowrap}
+.bq{display:inline-block;width:110px;height:10px;background:var(--sunk);border:1px solid var(--line);
+  margin-left:10px;vertical-align:0;position:relative}
+.bq i{position:absolute;left:0;top:0;bottom:0;background:var(--acc)}
+@media(max-width:720px){.bq{display:none}}
 #tbl-fuego td.num{text-align:right;font-variant-numeric:tabular-nums;
   font-family:var(--cart);font-size:17px}
 #tbl-fuego tr.cero td{color:var(--acc)}
@@ -571,9 +723,13 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 .dn .k{font-family:var(--txt);font-size:16px;line-height:1.55;color:var(--ink);margin-top:12px;
   max-width:40ch}
 .dn .s{font-family:var(--sc);font-size:12.5px;letter-spacing:.02em;color:var(--ink3);margin-top:9px}
-.dvs{font-family:var(--sc);font-size:13px;letter-spacing:.04em;color:var(--ink3);
-  text-align:center;white-space:nowrap}
-@media(min-width:800px){.dvs{writing-mode:vertical-rl;transform:rotate(180deg);padding:0 4px}}
+.dn.dato .v{color:var(--ink)}
+.dvs{font-family:var(--doc);font-style:italic;font-size:19px;color:var(--ink2);
+  text-align:center;white-space:nowrap;display:flex;align-items:center;gap:12px}
+.dvs::before,.dvs::after{content:'';flex:1;height:1px;background:var(--line);min-width:24px}
+@media(min-width:800px){.dvs{flex-direction:column;height:100%;min-height:120px}
+  .dvs::before,.dvs::after{width:1px;height:auto;min-width:0;min-height:24px}}
+@media(max-width:799px){.duelo .dn:not(.dato){order:-1}.duelo .dvs{order:0}.duelo .dn.dato{order:1}}
 .busca{margin-top:22px;border:1px solid var(--line);background:var(--surf)}
 .bq{display:flex;align-items:center;gap:11px;padding:13px 16px;border-bottom:1px solid var(--line2);
   background:var(--sunk)}
@@ -595,7 +751,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
 /* enlaces a los documentos del expediente, en la línea de fuente */
 .src a{color:inherit;text-decoration:none;border-bottom:1px solid var(--lctl);
-  padding-bottom:1px;transition:color .12s,border-color .12s}
+  display:inline-block;padding:4px 0 2px;line-height:1.2;transition:color .12s,border-color .12s}
 .src a:hover{color:var(--acc);border-bottom-color:var(--acc)}
 .src a:focus-visible{outline:2px solid var(--acc);outline-offset:3px;border-radius:1px}
 @media(hover:none){.src a{border-bottom-color:var(--lctl)}}
@@ -632,67 +788,78 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="d" id="dias">—<span>días</span></div>
       <div class="t">para observar · cierra el 3 de noviembre</div>
       <div class="cta">Ingresar mi observación →</div>
+      <div class="cu">con tu ClaveÚnica · sin costo</div>
     </a>
   </div>
 </header>
 
-<div class="wrap">
+<main class="wrap">
 
-<section id="hallazgos" style="padding-top:38px">
-  <p class="intro">El propio titular ubica <b>21 unidades habitacionales</b> alrededor del predio
+<nav class="indice" aria-label="Contenido de la página"><details id="indice-d">
+  <summary>Contenido · 15 secciones</summary>
+  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
+</details></nav>
+<noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
+
+<section id="hallazgos" style="padding-top:38px" aria-labelledby="t-hallazgos">
+  <h2 id="t-hallazgos" class="vh">Lo esencial, en cinco cifras</h2>
+  <p class="intro">El propio <abbr title="La empresa que presenta el proyecto: Cosemar SpA">titular</abbr> ubica <b>21 unidades habitacionales</b> alrededor del predio
   para modelar sus olores. La más cercana queda a <b>676 metros</b> del perímetro. El viento sopla
   desde el relleno hacia ellas casi todo el año. Y <b>19 de los 25 organismos del Estado</b> que se
   pronunciaron sobre el estudio lo objetaron. El estudio, en cambio, reconoce <b>un solo impacto
   significativo</b> en veintitrés evaluados.</p>
   <p class="intro">Nada de esto es opinión de los vecinos: todo sale de la cartografía y las
   modelaciones que el propio titular presentó al expediente.</p>
-  <div class="find">
+  <div class="find portada">
     <div>
       <div class="v c-acc">676<span class="u">m</span></div>
-      <div class="k">Del perímetro del proyecto a la <b>unidad habitacional más cercana</b>, según la
-      tabla de receptores que el <b>propio titular</b> usó para modelar olores. Las 21 que lista están
-      entre 676 m y 2,1 km, y <b>todas al norte</b>: ninguna queda al otro lado del predio.</div>
-      <div class="s">Anexo 8.1 Plan de Gestión de Olor, Tabla 11 (dentro del
-      <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar">Capítulo 8</a>).
-      La cartografía abierta da 820 m al suelo residencial más cercano; recalculada contra el
-      deslinde, la tabla del titular cuadra dentro de 16 m.</div>
+      <div class="k">del perímetro a la <b>unidad habitacional más cercana</b>, según la tabla del propio titular.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">Las 21 unidades que lista el titular para modelar olores están entre 676 m y 2,1 km,
+        y <b>todas al norte</b>: ninguna queda al otro lado del predio. Anexo 8.1 Plan de Gestión de Olor,
+        Tabla 11 (dentro del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Capítulo 8</a>).
+        La cartografía abierta da 820 m al suelo residencial más cercano; recalculada contra el
+        deslinde, la tabla del titular cuadra dentro de 16 m.</p></details>
     </div>
     <div>
       <div class="v c-warn">96,6<span class="u">%</span></div>
-      <div class="k">Del límite legal de polvo fino respirable, según la modelación del <b>propio titular</b>. El aire ya está casi lleno.</div>
+      <div class="k">del <b>límite legal de polvo fino</b> respirable, según la modelación del propio titular.</div>
       <div class="umbral"><div class="riel"><div class="fill" style="width:96.6%"></div>
-        <div class="tope" title="Límite legal"></div></div>
+        <div class="tope"></div></div>
         <div class="pie"><span>aire ya ocupado</span><span>límite legal</span></div></div>
-      <div class="s">Capítulo 5, análisis del artículo 11.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a>, análisis del artículo 11.</p></details>
     </div>
     <div>
-      <div class="v c-acc">1<span class="u">/ 23</span></div>
-      <div class="k">De las veintitrés causales del Artículo 11 que el estudio evalúa,
-      <b>uno solo da efecto adverso significativo</b>: la pérdida de ejemplares de tres plantas.
-      Todo lo demás queda sin medida y sin seguimiento.</div>
-      <div class="s">Capítulos 5, 6 y 7 del EIA.</div>
+      <div class="v c-acc">1<span class="u">de 23</span></div>
+      <div class="k">causales del Artículo 11 con <b>efecto significativo</b>, según el propio estudio.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">La única es la pérdida de ejemplares de tres plantas. Todo lo demás queda sin medida
+        y sin seguimiento. Capítulos <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">5</a>, <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">6</a> y <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">7</a> del EIA.</p></details>
     </div>
     <div>
-      <div class="v c-acc">19<span class="u">/ 25</span></div>
-      <div class="k">Organismos del Estado que se pronunciaron <b>con observaciones</b> al EIA. Solo dos lo hicieron conformes.</div>
-      <div class="s">Oficios ingresados entre el 2 y el 15 de septiembre de 2026.</div>
+      <div class="v c-acc">19<span class="u">de 25</span></div>
+      <div class="k">organismos del Estado se pronunciaron <b>con observaciones</b>; solo dos, conformes.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">Oficios ingresados entre el 2 y el 15 de septiembre de 2026 · <a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>.
+        La lista completa, oficio por oficio, está en la sección 14.</p></details>
     </div>
     <div>
-      <div class="v c-acc">99,7<span class="u">%</span></div>
-      <div class="k">Del predio del proyecto <b>se quemó en el megaincendio de febrero de 2024</b>.
-      Ahí se proyectan 30,7 millones de toneladas de basura y 2,79 ha de cortafuegos.</div>
-      <div class="umbral"><div class="riel"><div class="fill" style="width:99.7%;background:var(--acc)"></div></div>
-        <div class="pie"><span>superficie quemada</span><span>predio completo</span></div></div>
-      <div class="s">Sentinel-2, índice dNBR, enero vs. febrero de 2024.</div>
+      <div class="v c-blue">99,7<span class="u">%</span></div>
+      <div class="k">del predio <b>se quemó</b> en el megaincendio de febrero de 2024.</div>
+      <details class="plegado"><summary>Detalle y fuente</summary>
+        <p class="s">Ahí se proyectan 30,7 millones de toneladas de basura y 2,79 ha de cortafuegos.
+        Medición de esta página: Sentinel-2, índice <abbr title="Comparación de dos imágenes satelitales, antes y después, que mide cuánto se quemó cada punto">dNBR</abbr>, enero vs. febrero de 2024 ·
+        <a href="https://github.com/FeniaPfa/seia-data/blob/main/docs/fuentes.md" target="_blank" rel="noopener">método y escenas</a>.</p></details>
     </div>
   </div>
 </section>
 
-<section id="admite">
+<section id="admite" aria-labelledby="t-admite">
   <div class="shd"><span class="n">1</span>
-    <h2>Veintitrés preguntas, una respuesta<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">Cap. 6</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Cap. 7</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Cap. 20</a></span></h2></div>
+    <h2 id="t-admite">Veintitrés preguntas, una respuesta</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">Cap. 6</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Cap. 7</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Cap. 20</a></p></div>
   <p class="intro">La ley obliga a encadenar tres cosas. Primero, el estudio debe revisar
-  <b>uno por uno los literales del Artículo 11</b> y decir en cuáles genera un efecto adverso
+  <b>uno por uno los <abbr title="Cada letra de la lista de efectos graves del Artículo 11 de la Ley 19.300">literales</abbr> del Artículo 11</b> y decir en cuáles genera un efecto adverso
   significativo. Después debe proponer una medida para cada uno de esos efectos. Y después debe
   comprometer un plan de seguimiento que verifique que la medida funcionó.</p>
   <p class="intro">Esa cadena, capítulo por capítulo. El Capítulo 5 evalúa
@@ -713,8 +880,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="intro" style="margin-top:30px">Es coherente consigo mismo, y por eso importa:
   <b>si nada es significativo, nada se mide</b>. Durante veinticinco años y treinta millones de
   toneladas, la única variable ambiental con seguimiento obligatorio son tres especies de flora. No hay
-  monitoreo comprometido de aire, de agua, de lixiviados, de biogás, de olor, de ruido, ni de la
-  integridad de la geomembrana de 1,5 mm.</p>
+  monitoreo comprometido de aire, de agua, de <abbr title="El líquido que escurre de la basura cuando se pudre o se moja">lixiviados</abbr>, de biogás, de olor, de ruido, ni de la
+  integridad de la <abbr title="Lámina de plástico de 1,5 mm, el espesor de una tarjeta de crédito, que separa la basura del suelo">geomembrana</abbr> de 1,5 mm.</p>
   <p class="intro">La frase que lo resume está en el propio Capítulo 5, justo después de declarar
   el único impacto significativo:</p>
   <blockquote class="cita">La pérdida de superficie física (<b>80,39 hectáreas</b>) sobre el
@@ -730,40 +897,54 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <div class="adm" style="margin-top:22px">
     <div><p class="q">El área de influencia <b>se superpone con el Humedal Urbano Estero Quilpué</b>,
       protegido por la Ley 21.202.</p>
-      <div class="src">Resumen Ejecutivo · análisis artículo 11</div></div>
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · análisis artículo 11</div></div>
     <div><p class="q">El proyecto afecta <b>3,85 ha del Sitio Prioritario</b> regional
       Palmar Las Siete Hermanas – El Salto.</p>
-      <div class="src">Resumen Ejecutivo · biodiversidad</div></div>
-    <div><p class="q">La <b>Falla Marga-Marga pasa a 600 m</b> al norte de las instalaciones,
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · biodiversidad</div></div>
+    <div><p class="q">La <b>Falla Marga-Marga pasa a 500 o 600 m</b> al norte de las instalaciones,
       donde se emplaza la zona de tratamiento de lixiviados sobre geomembrana.</p>
-      <div class="src">Anexo 9.6 PAS 141 · SERNAGEOMIN se pronunció con observaciones</div></div>
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6 <abbr title="Permiso Ambiental Sectorial 141: el permiso específico de rellenos sanitarios que se tramita dentro del estudio">PAS 141</abbr></a> · SERNAGEOMIN se pronunció con observaciones</div></div>
     <div><p class="q">Para olores se usó como referencia la <b>norma de la Región de Lombardía, Italia</b>,
       porque Chile no tiene norma de olor vigente.</p>
-      <div class="src">Resumen Ejecutivo · modelación de odorantes WRF-CALPUFF</div></div>
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · modelación de odorantes <abbr title="Programa que simula el viento del sitio y hacia dónde viaja lo que se emite">WRF</abbr>-CALPUFF</div></div>
     <div><p class="q">El área de influencia declarada cubre <b>El Salto, Las Lomas y El Belloto</b>
       — no incluye Botania, Canal Chacao, Cumbres ni Pompeya.</p>
-      <div class="src">Capítulo 2 · determinación del área de influencia</div></div>
+      <div class="src">Capítulo 2 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · determinación del área de influencia</div></div>
     <div><p class="q">La inversión declarada es de <b>USD 40 millones</b>. La ficha pública del SEIA
       muestra «40.000 millones de dólares» por un error de carga del sistema.</p>
-      <div class="src">Resumen Ejecutivo · antecedentes generales</div></div>
+      <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · antecedentes generales</div></div>
     <div><p class="q">El sitio prioritario <i>Palmar Las Siete Hermanas – El Salto</i>
       <b>se superpone con la superficie de intervención</b> del camino de acceso que
       construirá el proyecto.</p>
-      <div class="src">Cap. 5, p. 79 · el titular lo excluye del área de influencia porque los sitios
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf#page=79" target="_blank" rel="noopener">Cap. 5, p. 79</a> · el titular lo excluye del área de influencia porque los sitios
       prioritarios regionales no son una categoría reconocida por el <span class="sc">seia</span></div></div>
     <div><p class="q">El predio <b>se emplaza dentro de la zona de transición de la Reserva de
       la Biosfera La Campana – Peñuelas</b>, designación <span class="sc">unesco</span>.</p>
-      <div class="src">Cap. 3.16 · también excluido del área de influencia por el mismo argumento</div></div>
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · también excluido del área de influencia por el mismo argumento</div></div>
     <div><p class="q">El territorio está cubierto por el <b>Plan de Recuperación de las Ranitas
       de Darwin</b>, aprobado por Decreto 38/2026 del Ministerio del Medio Ambiente.</p>
-      <div class="src">Cap. 3.16 · <i>Rhinoderma darwinii</i> y <i>R. rufum</i>, ambas amenazadas</div></div>
+      <div class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · <i>Rhinoderma darwinii</i> y <i>R. rufum</i>, ambas amenazadas</div></div>
+    <div><p class="q">Por ruido, «reptiles y aves se encuentran dentro del área de afectación conductual,
+      <b>por lo que se considera un impacto significativo</b>».</p>
+      <div class="src">Cap. 3.8, 8.1.2 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · el Cap. 5 declara no significativo ese mismo literal:
+      serían dos impactos significativos, no uno</div></div>
+    <div><p class="q">El proyecto está «<b>fuera del Plan Regulador Metropolitano</b> de Valparaíso»,
+      «quedando únicamente el camino de acceso dentro de su cobertura. Esta condición <b>será evaluada
+      formalmente</b> mediante solicitud de informe a la SEREMI MINVU».</p>
+      <div class="src">Cap. 9 y Cap. 14 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · la compatibilidad territorial se ingresó sin resolver</div></div>
   </div>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que el titular explique por qué su Capítulo 3.8
+  califica como significativo el ruido sobre reptiles y aves y su Capítulo 5 declara no significativo ese
+  mismo literal; que informe el resultado de la consulta a la SEREMI MINVU sobre el Plan Regulador
+  Metropolitano antes de la calificación; y que comprometa un plan de monitoreo de aire, olor, ruido,
+  aguas y biogás con resultados públicos durante la operación y el post-cierre, porque hoy el
+  Capítulo 7 solo sigue tres especies de flora.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="terreno">
-  <div class="shd"><span class="n">2</span><h2>El relleno sobre el terreno real<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_15_Planos_11.rar" target="_blank" rel="noopener">Anexo 1.5 Planos</a></span></h2></div>
+<section id="terreno" aria-labelledby="t-terreno">
+  <div class="shd"><span class="n">2</span><h2 id="t-terreno">El relleno sobre el terreno real</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/13/Anexo_15_Planos_11.rar" target="_blank" rel="noopener">Anexo 1.5 Planos</a></p></div>
   <p class="intro">La basura se acumularía en una quebrada hasta coronar en la
-  <b>cota 350</b>. Sobre el espesor final, el propio expediente da dos cifras que no coinciden:
+  <b><abbr title="350 metros sobre el nivel del mar">cota 350</abbr></b>. Sobre el espesor final, el propio expediente da dos cifras que no coinciden:
   su Tabla 40 declara <b>80 metros de espesor promedio</b>, y dividir la capacidad que declara
   —24.331.032 m³— por la superficie que declara da <b>54 metros</b>. Mueve la línea de tiempo y
   míralo crecer.</p>
@@ -778,11 +959,18 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
         <button class="tg" id="b-curv" aria-pressed="true">Curvas</button>
         <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
-        <button class="tg" id="b-tour">▶ Recorrido</button>
+        <button class="tg" id="b-tour" aria-pressed="false"><span aria-hidden="true">▶</span> Recorrido</button>
+        <button class="tg" id="b-sim" aria-pressed="true"><span aria-hidden="true">❚❚</span> Pausar simulación</button>
+        <span class="orb" role="group" aria-label="Mover la cámara">
+          <button class="tg" data-orb="izq" aria-label="Girar a la izquierda">↺</button>
+          <button class="tg" data-orb="der" aria-label="Girar a la derecha">↻</button>
+          <button class="tg" data-orb="mas" aria-label="Acercar">+</button>
+          <button class="tg" data-orb="menos" aria-label="Alejar">−</button>
+        </span>
       </div>
     </div>
     <div class="cv" id="cv">
-      <div class="vhint">Arrastra para girar · acerca para ver más nombres · pasa el cursor por un punto</div>
+      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y − · toca un punto para ver su nombre</span><span class="angosto">Arrastra para girar · + y − acercan · toca un punto</span></div>
       <div class="mob" id="mob" aria-hidden="true">
         <div class="fila">
           <div class="escala"><div class="esb" id="esb"></div><span id="est">1 km</span></div>
@@ -829,14 +1017,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="tlh">
         <div><div class="yr" id="tl-yr">Año 25</div>
           <div class="yl">de 25 de vida útil · cierre y post-cierre</div></div>
-        <button class="play" id="tl-play">▶ Animar llenado</button>
+        <button class="play" id="tl-play"><span aria-hidden="true">▶</span> Animar llenado</button>
       </div>
       <input type="range" id="tl" min="0" max="25" value="25" step="1" aria-label="Año de operación">
       <div class="tlg">
         <div><div class="n" id="k-ton">—</div><div class="l">toneladas acumuladas</div></div>
         <div><div class="n" id="k-esp">—</div><div class="l">espesor medio de masa</div></div>
         <div><div class="n" id="k-ch4">—</div><div class="l">metano generado ese año</div></div>
-        <div><div class="n" id="k-cam">—</div><div class="l">viajes de camión al día</div></div>
+        <div><div class="n" id="k-cam">—</div><div class="l">viajes de camión al día · ida y vuelta, a 10 t por camión</div></div>
       </div>
     </div>
   </div>
@@ -848,10 +1036,11 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>La masa crece con espesor uniforme sobre toda la huella</b>: el expediente declara tres etapas
   de excavación pero no georreferencia la secuencia de llenado, así que no se simula un orden
   que el titular no publicó.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuál es el espesor y la cota final de la masa de residuos —80 m según la Tabla 40 o 54 m según la capacidad dividida por la superficie que declara—, y con qué secuencia de llenado georreferenciada, porque el Capítulo 1 declara tres etapas de excavación pero no dónde ni cuándo.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="mapa">
-  <div class="shd"><span class="n">3</span><h2>Dónde está y quién vive alrededor<span class="src">Cartografía WGS84 del expediente · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a></span></h2></div>
+<section id="mapa" aria-labelledby="t-mapa">
+  <div class="shd"><span class="n">3</span><h2 id="t-mapa">Dónde está y quién vive alrededor</h2><p class="src">Cartografía WGS84 del expediente · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a></p></div>
   <div class="maps">
     <div class="mapbox" id="box1">
       <div class="maptop">
@@ -870,22 +1059,22 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="leg">
         <span><i style="background:var(--acc)"></i>Zona de disposición</span>
         <span><i style="background:transparent;border:1px solid var(--ink2)"></i>Predio 206 ha</span>
-        <span><i style="background:var(--ink3);opacity:.45"></i>Suelo residencial</span>
+        <span><i style="background:var(--ink3);opacity:.45;border:1px solid var(--ink2)"></i>Suelo residencial</span>
         <span><i style="background:#6fd3f5;border-radius:50%"></i>Colegio o jardín infantil</span>
         <span><i style="background:#ffd166;border-radius:2px"></i>Centro de salud</span>
-        <span><i style="background:#7ad68a;opacity:.6"></i>Sitio Prioritario Palmar 7 Hermanas</span>
-        <span><i style="background:#b79cf0;opacity:.6"></i>Jardín Botánico Nacional</span>
-        <span><i style="background:#6fd3f5;opacity:.6"></i>Humedal urbano protegido</span>
-        <span><i style="background:#2fb7c4;opacity:.65"></i>Reserva Nacional Lago Peñuelas</span>
+        <span><i style="background:#8fbf8a;opacity:.6;border:1px solid var(--ink2)"></i>Sitio Prioritario Palmar 7 Hermanas</span>
+        <span><i style="background:#a497c2;opacity:.45;border:1px solid var(--ink2)"></i>Jardín Botánico Nacional</span>
+        <span><i style="background:#8fb3c1;opacity:.45;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
+        <span><i style="background:#6f8c99;opacity:.45;border:1px solid var(--ink2)"></i>Reserva Nacional Lago Peñuelas</span>
         <span><i style="border:2px dashed #ffd166;background:transparent"></i>Área de influencia declarada</span>
       </div>
       <div class="tip" id="tip1"></div>
     </div>
 
     <div class="mapbox" id="box2">
-      <div class="maptop"><span class="lbl">Partes y obras del proyecto</span></div>
+      <div class="maptop"><span class="lbl">Las obras entran en el Sitio Prioritario</span></div>
       <svg id="m2" viewBox="0 0 980 520" role="img"
-           aria-label="Detalle de las once capas de obras del proyecto dentro del predio"></svg>
+           aria-label="Las capas de obras del proyecto y el Sitio Prioritario Palmar Las Siete Hermanas. La zona de instalaciones sale del deslinde y 3,79 hectáreas de ella quedan dentro del Sitio Prioritario."></svg>
       <div class="leg" id="leg2"></div>
       <div class="tip" id="tip2"></div>
     </div>
@@ -911,14 +1100,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
   <h3 style="margin-top:38px">Las distancias, medidas</h3>
   <p class="intro" style="margin-top:10px">Cada cifra declara <b>cómo se obtuvo</b>, porque el
-  método decide si resiste una Adenda: medir de borde a borde no es lo mismo que medir al centro
+  método decide si resiste una <abbr title="El documento donde el titular responde, una por una, las observaciones del Estado y de las personas">Adenda</abbr>: medir de borde a borde no es lo mismo que medir al centro
   de un barrio.</p>
 <div class="tw" style="margin-top:22px">
     <table>
-      <thead><tr><th>Sector</th>
-        <th style="text-align:right">Al deslinde del predio</th>
-        <th style="text-align:right">A la zona de disposición</th>
-        <th>Cómo se midió</th></tr></thead>
+      <thead><tr><th scope="col">Sector</th>
+        <th scope="col" style="text-align:right">Al deslinde del predio</th>
+        <th scope="col" style="text-align:right">A la zona de disposición</th>
+        <th scope="col">Cómo se midió</th></tr></thead>
       <tbody id="tbl-dist"></tbody>
     </table>
   </div>
@@ -932,11 +1121,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   contra el punto de etiqueta de OpenStreetMap —el centro nominal, no la casa más cercana—, así que
   <b>la distancia real a la primera vivienda es menor</b>. Las marcadas
   <span class="flag f-ok">borde a borde</span> son las defendibles.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que el titular reconozca en el área de influencia la superposición con el Sitio Prioritario Palmar Las Siete Hermanas – El Salto que su propio Capítulo 5 admite en el camino de acceso, con sus medidas y seguimiento, en vez de excluirlo por no ser una categoría reconocida; y que toda distancia del expediente declare si se mide al deslinde o a la zona de disposición.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="incendio">
+<section id="incendio" aria-labelledby="t-incendio">
   <div class="shd"><span class="n">4</span>
-    <h2>Todo esto ya se quemó una vez<span class="src">Sentinel-2 · dNBR · ene–feb 2024 · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Cap. 8</a></span></h2></div>
+    <h2 id="t-incendio">Todo esto ya se quemó una vez</h2><p class="src">Sentinel-2 · dNBR · ene–feb 2024 · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Cap. 8</a></p></div>
   <p class="intro">El <b>99,7 % del predio</b> donde se proyecta el relleno ardió en el megaincendio
   de febrero de 2024. No una parte: prácticamente todo. Y donde iría la <b>zona de tratamiento de
   lixiviados</b> ardió el <b>100 %</b>, con severidad alta en el 74 % de esa superficie.</p>
@@ -970,8 +1160,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   del viento predominante que declara el Anexo 4.2 del expediente: desde el sitio hacia las casas.</p>
   <div class="tw" style="margin-top:28px">
     <table>
-      <thead><tr><th>Superficie</th><th style="text-align:right">Quemada</th>
-        <th style="text-align:right">Severidad moderada-alta o mayor</th></tr></thead>
+      <thead><tr><th scope="col">Superficie</th><th scope="col" style="text-align:right">Quemada</th>
+        <th scope="col" style="text-align:right">Severidad moderada-alta o mayor</th></tr></thead>
       <tbody id="tbl-quema"></tbody>
     </table>
   </div>
@@ -996,9 +1186,9 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   donde el titular declara con qué medios cuenta. Conteo de menciones en ambos:</p>
   <div class="tw" style="margin-top:22px">
     <table>
-      <thead><tr><th>Medio de extinción</th>
-        <th style="text-align:right">Menciones en el Cap. 1</th>
-        <th style="text-align:right">Menciones en el Cap. 8</th></tr></thead>
+      <thead><tr><th scope="col">Medio de extinción</th>
+        <th scope="col" style="text-align:right">Menciones en el Cap. 1</th>
+        <th scope="col" style="text-align:right">Menciones en el Cap. 8</th></tr></thead>
       <tbody id="tbl-fuego"></tbody>
     </table>
   </div>
@@ -1019,11 +1209,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   ambos capítulos. Un conteo en cero no prueba que la obra no vaya a tener ese elemento: prueba
   que <b>el expediente sometido a evaluación no lo compromete</b>. Si existe, debería aparecer
   en la Adenda.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024, y por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="subsuelo">
+<section id="subsuelo" aria-labelledby="t-subsuelo">
   <div class="shd"><span class="n">5</span>
-    <h2>Lo que hay debajo<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar" target="_blank" rel="noopener">Cap. 3.4 · Anexo 1 Estudio geofísico ERT</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a></span></h2></div>
+    <h2 id="t-subsuelo">Lo que hay debajo</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar" target="_blank" rel="noopener">Cap. 3.4 · Anexo 1 Estudio geofísico ERT</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a></p></div>
   <p class="intro">El expediente trae un estudio que nadie ha citado: <b>once tomografías de
   resistividad eléctrica</b>, 643 electrodos con coordenadas, que radiografían el subsuelo del
   predio en profundidad. Son las secciones de colores de abajo, y en el
@@ -1038,9 +1229,15 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <div class="v3bar">
       <span class="lbl">Bloque del predio · cotas reales · perfil geofísico</span>
       <div class="toggles" id="ert-btns"></div>
+      <span class="orb toggles" role="group" aria-label="Mover la cámara del corte">
+        <button class="tg" data-orb2="izq" aria-label="Girar a la izquierda">↺</button>
+        <button class="tg" data-orb2="der" aria-label="Girar a la derecha">↻</button>
+        <button class="tg" data-orb2="mas" aria-label="Acercar">+</button>
+        <button class="tg" data-orb2="menos" aria-label="Alejar">−</button>
+      </span>
     </div>
     <div class="cv" id="cv2">
-      <div class="vhint">Arrastra para girar · rueda para acercar</div>
+      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y −</span><span class="angosto">Arrastra para girar · + y − acercan</span></div>
       <div class="panel p2">
         <div class="ph">Capas</div>
         <label><input type="checkbox" id="L2-vaso" checked><span class="sw" style="background:#ff7a45"></span>Vaso del relleno</label>
@@ -1049,6 +1246,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       </div>
     </div>
     <p class="pie" id="ert-pie"></p>
+    <p class="pie lee"><span><i class="sw" style="background:#ffd166"></i>fondo del vaso, cota 200</span>
+      <span><i class="sw ert"></i>sección geofísica del titular: su escala de resistividad está en la imagen de abajo</span></p>
   </div>
 
   <div class="mapbox" style="margin-top:26px">
@@ -1060,9 +1259,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <figure class="corte">
       <h3>La obra, en vertical</h3>
       <div class="pila">
-        <span class="seg basura" style="height:58%"><b>cotas 200 a 350</b><i>el vaso, en once niveles de 10 m de plataforma</i></span>
-        <span class="seg mai" style="height:17%"><b>15 a 40 m</b><i>de maicillo permeable, por donde el titular dice que escurre el agua</i></span>
-        <span class="seg roca" style="height:25%"><b>roca</b><i>granito compacto, impermeable</i></span>
+        <span class="seg basura" style="flex:58 1 0"><b>cotas 200 a 350</b><i>24.331.032 m³ de residuos, en once niveles de 10 m</i></span>
+        <span class="memb"><i>geomembrana de 1,5 mm · aquí, unas 800 veces más gruesa de lo que mide</i></span>
+        <span class="seg mai" style="flex:17 1 0"><b>15 a 40 m</b><i>de maicillo permeable, por donde el titular dice que escurre el agua</i></span>
+        <span class="seg roca" style="flex:25 1 0"><b>roca</b><i>granito compacto, impermeable</i></span>
       </div>
       <figcaption>El vaso se desarrolla entre las cotas 200 y 350 m.s.n.m. El terreno natural
       dentro de la huella va de la <b>cota 219 a la 377</b>: se excava por debajo del punto más
@@ -1075,11 +1275,11 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <b>24.331.032 m³ de residuos</b> de los cuarenta metros de material permeable.
       En la barra de al lado mediría <b>la milésima parte de un píxel</b>.</div>
       <div class="tw" style="margin-top:18px">
-        <table><tbody id="tbl-barrera"></tbody></table>
+        <table><thead class="vh"><tr><th scope="col">Capa</th><th scope="col">Espesor</th><th scope="col">Permeabilidad</th></tr></thead><tbody id="tbl-barrera"></tbody></table>
       </div>
       <p class="note" style="margin-top:14px">Debe mantener su integridad los 25 años de
       operación y todo el post-cierre. El PAS 141 del propio expediente sitúa la
-      <b>falla Marga-Marga a 600 metros</b>.</p>
+      <b>falla Marga-Marga a 500 o 600 metros</b>, según la página que se lea.</p>
     </div>
   </div>
 
@@ -1090,11 +1290,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   2,7 metros</b>, lo que confirma a la vez la georreferencia y el modelo. El espesor del maicillo se dibuja como dos
   bandas —los primeros 15 m y la franja variable hasta los 40— porque el informe entrega un rango,
   no un mapa. La exageración vertical del bloque es ×1,8 y las secciones van a esa misma escala.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué monitoreo de aguas subterráneas compromete bajo el vaso —pozos, frecuencia y parámetros— dado que el informe hidrogeológico reconoce que el agua podría infiltrarse en 15 a 40 m de maicillo permeable y el Capítulo 7 no compromete ninguno.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="falla">
+<section id="falla" aria-labelledby="t-falla">
   <div class="shd"><span class="n">6</span>
-    <h2>La palabra que no aparece<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023 · Cap. 3.5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Cap. 4</a></span></h2></div>
+    <h2 id="t-falla">La palabra que no aparece</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023 · Cap. 3.5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Cap. 4</a></p></div>
   <p class="intro">En 2023, antes de presentar el estudio, el titular encargó un informe geológico
   a sus propios consultores. Esto es lo que le entregaron:</p>
   <blockquote class="cita">Se confirma la existencia de una <b>falla potencialmente activa</b> y
@@ -1113,15 +1314,15 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   al sello del relleno cuando el suelo se mueve a medio g.</p>
 
   <div class="duelo">
-    <div class="dn"><div class="v">1,5 <span>mm</span></div>
+    <div class="dn dato"><div class="v">1,5 <span>mm</span></div>
       <div class="k">El espesor de la geomembrana que contiene 24,3 millones de metros cúbicos
       de residuos.</div>
-      <div class="s">Capítulo 1 · sistema de impermeabilización basal</div></div>
+      <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> · sistema de impermeabilización basal</div></div>
     <div class="dvs">frente a</div>
     <div class="dn"><div class="v">0,495 <span>g</span></div>
       <div class="k">La aceleración que su propio informe atribuye a la Zona de Fallas
-      Marga-Marga. El PAS 141 y la línea de base geológica sitúan la traza a unos 600 metros.</div>
-      <div class="s">Informe geológico-estructural 2023, citando a Sabaj (2008)</div></div>
+      Marga-Marga. El PAS 141 y la línea de base geológica sitúan la traza a 500 o 600 metros.</div>
+      <div class="s"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023</a>, citando a Sabaj (2008)</div></div>
   </div>
 
   <h3 style="margin-top:42px">Las dos palabras, en el expediente</h3>
@@ -1139,14 +1340,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   activa que comprometía el perímetro. Ese mismo capítulo sitúa la traza a 600 m en una página y
   a 500 m en otra; el PAS 141 dice 600.</p>
   <p class="note"><b>Qué pediría una observación aquí</b>: que el expediente incorpore una
-  evaluación del comportamiento del sistema de impermeabilización basal —geomembrana, GCL y
+  evaluación del comportamiento del sistema de impermeabilización basal —geomembrana, <abbr title="Capa de arcilla entre dos telas, de unos 6 mm, que va bajo la geomembrana">GCL</abbr> y
   drenes— bajo la aceleración que el propio informe geológico del titular atribuye a la Zona de
   Fallas Marga-Marga, y que esa evaluación quede en el Capítulo 4 con su medida y su seguimiento.</p>
 </section>
 
-<section id="escorrentia">
+<section id="escorrentia" aria-labelledby="t-escorrentia">
   <div class="shd"><span class="n">7</span>
-    <h2>Dónde termina el agua<span class="src">Trazado D8 sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/214_Cap_33_Hidrologia.rar" target="_blank" rel="noopener">Cap. 3.3</a></span></h2></div>
+    <h2 id="t-escorrentia">Dónde termina el agua</h2><p class="src">Trazado D8 sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/214_Cap_33_Hidrologia.rar" target="_blank" rel="noopener">Cap. 3.3</a></p></div>
   <p class="intro">Si algo escurre del relleno, el terreno decide hacia dónde.
   <b>Ciento veinte recorridos</b> trazados desde la zona de disposición y las piscinas de
   lixiviados, siguiendo la máxima pendiente celda por celda. <b>Los 120 terminan en el mismo lugar</b>: el Estero
@@ -1165,23 +1366,21 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <svg id="m4" viewBox="0 0 980 600" role="img"
       aria-label="Recorridos de escorrentía superficial desde el relleno hasta el Estero Marga-Marga, pasando junto al Humedal Urbano Estero Quilpué."></svg>
     <div class="leg">
-      <span><i style="background:#5ad7f5"></i>Recorrido de escorrentía</span>
-      <span><i style="background:#2fb7c4"></i>Estero Marga-Marga y Quilpué</span>
-      <span><i style="background:#6fd3f5;opacity:.6"></i>Humedal urbano protegido</span>
+      <span><i style="background:#ff8a5c"></i>Recorrido de escorrentía desde el relleno</span>
+      <span><i style="background:#8fb3c1"></i>Estero Marga-Marga y Quilpué</span>
+      <span><i style="background:#8fb3c1;opacity:.6;border:1px solid var(--ink2)"></i>Humedal urbano protegido</span>
+      <span><i style="background:transparent;border:2px solid #fbf7ec;border-radius:50%"></i>Punto de contacto</span>
       <span><i style="background:var(--acc)"></i>Zona de disposición</span>
     </div>
   </div>
-  <div class="find" style="margin-top:30px">
+  <div class="calc">Cálculo de esta página sobre el modelo de elevación, no del titular</div>
+  <div class="find" style="margin-top:10px">
     <div><div class="v c-blue">1,5<span class="u">km</span></div>
       <div class="k">Separan el relleno del <b>Estero Marga-Marga</b> siguiendo el recorrido del agua, no la línea recta.</div>
       <div class="s">Las 120 rutas trazadas llegan al mismo cauce.</div></div>
-    <div><div class="v c-acc">90<span class="u">m</span></div>
+    <div><div class="v c-blue">90<span class="u">m</span></div>
       <div class="k">Es lo que separa el recorrido del <b>Estero Quilpué</b>. Hasta el humedal protegido, 120 metros.</div>
       <div class="s">Quilpué y Marga-Marga son el mismo sistema hídrico.</div></div>
-    <div><div class="v c-blue">12,4<span class="u">km</span></div>
-      <div class="k">Recorre en promedio cada ruta hasta su desembocadura, atravesando la cuenca del Marga-Marga.</div>
-      <div class="s">Cuenca acumulada aguas abajo: 200 km² dentro de la ventana del modelo
-      (18,4 km de lado). La cuenca real del Marga-Marga la excede.</div></div>
   </div>
   <p class="note"><b>Esto no es un modelo hidrogeológico.</b> Es el recorrido que seguiría el
   agua superficial por gravedad, calculado con el método D8 sobre un modelo de elevación de
@@ -1190,11 +1389,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   lo que habría que modelar, y está en los capítulos 3.3 y 3.4 del expediente.</p>
   <p class="note">Lo que sí establece es la <b>dirección</b>: cualquier escurrimiento desde el
   predio baja hacia el sistema Marga-Marga – Quilpué. No hacia otro lado.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la línea de base de calidad de agua incluya más de un día de muestreo, la estación húmeda y aguas subterráneas, y que el titular explique cómo capta y trata la escorrentía del predio antes de que llegue al Estero Marga-Marga, a 1,5 km cauce abajo, pasando a 90 m del Estero Quilpué y a 120 m del humedal protegido.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="vial">
+<section id="vial" aria-labelledby="t-vial">
   <div class="shd"><span class="n">8</span>
-    <h2>El tránsito que no se modeló<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18 Estudio de Impacto Vial</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a></span></h2></div>
+    <h2 id="t-vial">El tránsito que no se modeló</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18 Estudio de Impacto Vial</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a></p></div>
   <p class="intro">El estudio de impacto vial del proyecto modela <b>182 viajes de camión al día</b>
   y concluye que no hay impacto. Pero nunca dice <b>cuánto carga cada camión</b>, ni menciona que
   el relleno pasa de <b>2.466 toneladas diarias</b> el primer año a <b>4.460 en el año 25</b>,
@@ -1232,8 +1432,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   </figure>
 
   <figure class="tres">
-    <h3>Tres capítulos del mismo estudio, tres cifras distintas</h3>
-    <svg id="c-tres" viewBox="0 0 700 250"></svg>
+    <h3>Tres capítulos, tres cifras: 65, 91 y hasta 319 camiones al día</h3>
+    <svg id="c-tres" viewBox="0 0 700 300"></svg>
     <figcaption>El titular dimensionó la losa de lavado para <b>65 camiones diarios</b>, modeló
     el tránsito con <b>91</b>, y declaró un tonelaje que exige <b>entre 176 y 319</b>.
     Ninguna de las tres cifras conversa con las otras.</figcaption>
@@ -1263,13 +1463,14 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>46,6</b> si son ida y vuelta — muy por encima de lo que transporta un compactador recolector,
   que mueve entre 10 y 14 toneladas. <b>Esta es una inconsistencia entre dos capítulos del mismo
   estudio</b>, no un cálculo externo: el tonelaje sale del Capítulo 1 y los viajes del Capítulo 3.18.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado, porque el Capítulo 3.18 modela 182 viajes solo para 2027 y 2028 sin indicar la carga, y la losa de lavado del Anexo 9.6 está dimensionada para 65 camiones al día.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="pluma">
-  <div class="shd"><span class="n">9</span><h2>Quién queda a sotavento<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2 Modelación meteorológica</a></span></h2></div>
+<section id="pluma" aria-labelledby="t-pluma">
+  <div class="shd"><span class="n">9</span><h2 id="t-pluma">Quién queda a sotavento</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2 Modelación meteorológica</a></p></div>
   <p class="intro">Las catorce poblaciones más cercanas están <b>todas al norte o al noreste</b>
   del relleno: ninguna supera el rumbo 51,4° y ninguna baja del 359°. <b>Ninguna queda a
-  barlovento.</b> <i>Botania</i> está a 1,9° y <i>Cumbres de Quilpué</i> a 359°: sobre el eje
+  <abbr title="De donde viene el viento. Sotavento es hacia donde va.">barlovento</abbr>.</b> <i>Botania</i> está a 1,9° y <i>Cumbres de Quilpué</i> a 359°: sobre el eje
   mismo del viento. Y quien define ese eje es el propio titular.</p>
   <p class="intro">Su Anexo 4.2 modela el viento del sitio con WRF y concluye que la dirección
   predominante está entre 180° y 200° — del sur y sur-suroeste, con media de 5,73 m/s.
@@ -1278,14 +1479,17 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>dos</b> poblaciones; la franja ancha del diagrama es una pluma de ±35°, que es un
   supuesto de este análisis y no del expediente.</p>
   <figure class="polar">
+    <h3 class="ptit">Ninguna población queda a barlovento</h3>
     <div class="polargrid">
     <svg id="c-polar" viewBox="0 0 500 500" role="img"
       aria-label="Diagrama polar: el viento predominante proviene del sur-suroeste y sopla hacia el norte. Las comunidades más cercanas al relleno, ubicadas por su rumbo y distancia reales, se reparten entre los rumbos 2 y 51 grados, todas en el semicírculo norte."></svg>
       <div class="polarleg">
         <h3>Comunidades más cercanas</h3>
         <ol id="polarleg"></ol>
-        <p class="ley"><span class="franja"></span>pluma de ±35° en torno al eje<br>
-        el titular declara 180°–200°: sopla hacia 0°–20° · media 5,73 m/s</p>
+        <p class="ley"><span class="franja"></span>lo que declara el titular: viene de 180°–200°,
+        sopla hacia 0°–20° · media 5,73 m/s<br>
+        <span class="franja velo"></span>pluma de ±35°: supuesto de este análisis<br>
+        <span class="hueco"></span>fuera de la pluma de ±35°</p>
       </div>
     </div>
     <figcaption>Cada punto es una comunidad, ubicada por su <b>rumbo y distancia reales</b>
@@ -1300,26 +1504,27 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   rotado 180°. <b>Esto no reemplaza una modelación de dispersión</b>: la concentración real depende
   de estabilidad atmosférica, topografía y tasa de emisión, y está en el Anexo 4.3 y 4.4 del
   expediente. Lo que esta tabla muestra es la geometría del problema, que es condición necesaria.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué concentración de olor modela el Anexo 4.4 en cada una de las 21 unidades habitacionales de la Tabla 11 del Anexo 8.1, con qué norma de referencia, y qué resultado da en las poblaciones que quedan sobre el eje del viento predominante que el propio Anexo 4.2 declara.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="influencia">
+<section id="influencia" aria-labelledby="t-influencia">
   <div class="shd"><span class="n">10</span>
-    <h2>A quién reconoce el estudio<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a> · shapefile AI_MedioHumano del expediente</span></h2></div>
+    <h2 id="t-influencia">A quién reconoce el estudio</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a> · shapefile AI_MedioHumano del expediente</p></div>
   <p class="intro">El titular dibujó un <b>Área de Influencia del Medio Humano de 3.487 hectáreas</b>
   y la acompañó al expediente como archivo cartográfico. Cruzado ese polígono con las
   veintiséis poblaciones más cercanas: <b>dos quedan dentro. Veinticuatro quedan fuera.</b></p>
   <p class="intro">Estar dentro del área de influencia no es un detalle técnico: define quién es
   parte afectada reconocida y sobre quién deben evaluarse los impactos.</p>
   <figure class="filo">
-    <h3>Las excluidas por metros</h3>
-    <svg id="c-filo" viewBox="0 0 700 250"></svg>
+    <h3>El borde pasa a 72 metros de Botania</h3>
+    <svg id="c-filo" viewBox="0 0 700 500"></svg>
     <figcaption><i>Botania</i> queda <b>72 metros</b> fuera del límite. <i>Cumbres de Quilpué</i>,
     <b>77</b>. El borde del área de influencia pasa justo por delante de ellas.</figcaption>
   </figure>
   <div class="tw" style="margin-top:28px">
     <table>
-      <thead><tr><th>Población</th><th style="text-align:right">Distancia al botadero</th>
-        <th style="text-align:right">Distancia al borde del AI</th><th>¿La reconoce el estudio?</th></tr></thead>
+      <thead><tr><th scope="col">Población</th><th scope="col" style="text-align:right">Distancia a la zona de disposición</th>
+        <th scope="col" style="text-align:right">Distancia al borde del área de influencia</th><th scope="col">¿La reconoce el estudio?</th></tr></thead>
       <tbody id="tbl-ai"></tbody>
     </table>
   </div>
@@ -1333,10 +1538,11 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="note">Polígono oficial: <span class="sc">ai_mediohumano.shp</span>, Datum WGS84 UTM 19S,
   acompañado por el titular al Capítulo 3.19. Las poblaciones se evalúan por su punto de
   referencia; para las que tienen polígono residencial, por su borde.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que las poblaciones que quedan a menos de 150 m del borde del área de influencia —Botania, Cumbres de Quilpué, Nuevo Horizonte, Los Fundadores 2, Pompeya Norte y Pompeya Sur— se incluyan como parte afectada, y que los impactos del medio humano se evalúen también sobre ellas, con medidas y seguimiento.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="proyecciones">
-  <div class="shd"><span class="n">11</span><h2>El gas que sigue después del cierre<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · LandGEM v3.02 (US EPA)</span></h2></div>
+<section id="proyecciones" aria-labelledby="t-proyecciones">
+  <div class="shd"><span class="n">11</span><h2 id="t-proyecciones">El gas que sigue después del cierre</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · LandGEM v3.02 (US EPA)</p></div>
   <p class="intro">El relleno opera 25 años, pero <b>el gas sigue saliendo 35 años más</b>
   después del cierre. Nadie vive al lado de un relleno durante veinticinco años: vive al lado
   durante sesenta.</p>
@@ -1345,25 +1551,26 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   de biogás que el titular declara usar.</p>
   <div class="charts" style="margin-top:26px">
     <div class="chart">
-      <h3>El gas no se va cuando cierra el relleno</h3>
-      <div class="cs">LandGEM · k = 0,05 año⁻¹ · L₀ = 170 m³/Mg</div>
+      <h3>El gas sigue 35 años después de cerrar</h3>
+      <div class="cs">Millones de m³ de metano al año · LandGEM · k = 0,05 año⁻¹ · L₀ = 170 m³/Mg</div>
       <svg id="c-ch4" viewBox="0 0 460 260"></svg>
       <div class="cfoot" id="f-ch4"></div>
     </div>
     <div class="chart">
       <h3>Una montaña de 60 metros sobre la quebrada</h3>
-      <div class="cs">Sobre la huella de 51,34 ha · densidad compactada 1,0 t/m³</div>
+      <div class="cs">Espesor medio de la masa · huella de 51,34 ha · densidad 1,0 t/m³</div>
       <svg id="c-masa" viewBox="0 0 460 260"></svg>
       <div class="cfoot" id="f-masa"></div>
     </div>
   </div>
-  <div class="find" style="margin-top:28px">
+  <div class="calc">Cálculo de esta página con LandGEM y el tonelaje del titular</div>
+  <div class="find" style="margin-top:10px">
     <div><div class="v c-blue" id="v-esp">—</div>
       <div class="k">Espesor medio de masa de residuos al cierre, sobre la huella de disposición.</div>
-      <div class="s">No es altura sobre terreno natural: 45,02 ha se excavan antes de rellenar.</div></div>
-    <div><div class="v c-warn" id="v-pico">—</div>
+      <div class="s">No es altura sobre terreno natural: 45,02 ha se excavan antes de rellenar (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a>).</div></div>
+    <div><div class="v c-blue" id="v-pico">—</div>
       <div class="k">Generación bruta de metano en el año peak, equivalente a <b id="v-co2">—</b> de CO₂e si no se captara nada.</div>
-      <div class="s">El titular declara 81 chimeneas y antorcha con 99 % de destrucción.</div></div>
+      <div class="s">El titular declara 81 chimeneas y antorcha con 99 % de destrucción (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a>).</div></div>
   </div>
   <p class="note">Estas cifras son <b>generación, no emisión</b>, y <b>no son del titular</b>:
   están calculadas con LandGEM v3.02 de la US EPA usando sus parámetros por defecto
@@ -1386,9 +1593,9 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   post-cierre.</p>
 </section>
 
-<section id="paisaje">
+<section id="paisaje" aria-labelledby="t-paisaje">
   <div class="shd"><span class="n">12</span>
-    <h2>Lo que dibujaron que se verá<span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar" target="_blank" rel="noopener">Anexo 4.5 Evaluación Paisajística</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf" target="_blank" rel="noopener">Cap. 3.15</a></span></h2></div>
+    <h2 id="t-paisaje">Lo que dibujaron que se verá</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar" target="_blank" rel="noopener">Anexo 4.5 Evaluación Paisajística</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf" target="_blank" rel="noopener">Cap. 3.15</a></p></div>
   <p class="intro">Toda la evaluación de paisaje del proyecto se apoya en <b>un solo fotomontaje</b>,
   tomado desde Pompeya Sur. Es esta imagen, y es del titular.</p>
   <p class="intro">Mírala con el pie de foto delante: el escenario que dibujaron
@@ -1396,13 +1603,13 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
   <figure class="foto" id="fotobox">
     <div class="fwrap">
-      <img src="paisaje.jpg" id="fimg" loading="lazy"
+      <img src="paisaje.jpg" id="fimg" loading="lazy" width="1342" height="753"
         alt="Fotomontaje del titular: vista del relleno desde el sector Pompeya Sur, a unos 2 km. El macizo corona el cerro al fondo, tras las casas y el cerco del primer plano.">
       <svg id="fsvg" viewBox="0 0 1342 753" preserveAspectRatio="none" aria-hidden="true"></svg>
     </div>
     <div class="fbtns">
-      <button class="tg" id="f-lo" aria-pressed="true">Lo que muestra</button>
-      <button class="tg" id="f-no" aria-pressed="false">Lo que no muestra</button>
+      <button class="tg" id="f-no" aria-pressed="true">Lo que no muestra</button>
+      <button class="tg" id="f-lo" aria-pressed="false">Lo que muestra, según el titular</button>
     </div>
     <figcaption>
       <span class="cit">«El fotomontaje muestra el escenario durante la <b>etapa de cierro</b> <i>[sic]</i> con
@@ -1420,11 +1627,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   cierre. Las anotaciones de «lo que no muestra» son elementos del propio proyecto descritos en el
   Capítulo 1 y en los PAS, ubicados de forma aproximada sobre la foto: señalan qué falta, no dónde
   exactamente estará cada cosa.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Fotomontajes de la etapa de operación —años 5, 15 y 25— desde las poblaciones con línea de vista, y no solo el escenario posterior al cierre, para que la evaluación de paisaje del Capítulo 3.15 y la calificación del Capítulo 5 se apoyen en lo que se verá durante 25 años.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="cuenca">
+<section id="cuenca" aria-labelledby="t-cuenca">
   <div class="shd"><span class="n">13</span>
-    <h2>Desde dónde se va a ver<span class="src">Cuenca visual sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a></span></h2></div>
+    <h2 id="t-cuenca">Desde dónde se va a ver</h2><p class="src">Cuenca visual sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a></p></div>
   <p class="intro">De las dieciséis poblaciones más cercanas, <b>quince tienen línea de vista
   al macizo</b> desde sus calles. No es una metáfora: es geometría. Una masa de 60 metros sobre una loma de 278
   llega a los <b>338 metros de altura</b>, y en un relieve de quebradas eso se ve desde lejos.</p>
@@ -1444,11 +1652,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <svg id="m5" viewBox="0 0 980 620" role="img"
       aria-label="Cuenca visual del macizo de residuos: las laderas naranjas tienen línea de vista directa al relleno; las quebradas oscuras quedan tapadas por el relieve."></svg>
     <div class="leg">
-      <span><i style="background:#e8784a;opacity:.75"></i>Tiene vista directa al macizo</span>
+      <span><i style="background:#e8784a;opacity:.75;border:1px solid var(--ink2)"></i>Tiene vista directa al macizo</span>
       <span><i style="background:transparent;border:1px solid #fbf7ec"></i>Predio 206 ha</span>
       <span><i style="background:var(--acc)"></i>Zona de disposición</span>
       <span><i style="background:#fbf7ec;border-radius:50%"></i>Población</span>
     </div>
+    <p class="lista-cv" id="cuenca-parcial"></p>
   </div>
 
   <p class="note">Cuenca visual calculada por línea de vista sobre el modelo de elevación, desde
@@ -1456,35 +1665,37 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>Es una cota superior</b>: el modelo representa el terreno desnudo, así que no descuenta
   árboles ni edificios que puedan interponerse. El espesor de 60 m es el promedio sobre la
   huella; la forma final de la corona la define el Plan de Cierre, no analizado aquí.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la calificación «no obstruye vistas relevantes» del Capítulo 5 se fundamente con una cuenca visual calculada sobre el modelo de elevación con la cota final de la masa, y no con un único fotomontaje de la etapa de cierre.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="pronunciamientos">
-  <div class="shd"><span class="n">14</span><h2>Cómo se pronunció el Estado<span class="src"><a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">Expediente electrónico</a> · oficios 30 a 58</span></h2></div>
+<section id="pronunciamientos" aria-labelledby="t-pronunciamientos">
+  <div class="shd"><span class="n">14</span><h2 id="t-pronunciamientos">Cómo se pronunció el Estado</h2><p class="src"><a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">Expediente electrónico</a> · oficios 30 a 58</p></div>
   <p class="intro">Diecinueve servicios públicos objetaron el estudio. Solo dos lo aprobaron
   sin reparos. <b>Esto no lo dicen los vecinos: lo dice el Estado</b>, oficio por oficio,
   en el expediente electrónico.</p>
   <div class="tally" style="margin-top:24px">
-    <span><b class="c-acc">19</b>con observaciones</span>
-    <span><b class="c-green">2</b>conformes</span>
-    <span><b class="c-warn">1</b>pronunciamiento municipal</span>
-    <span><b style="color:var(--ink3)">3</b>no participan</span>
+    <span class="mayor"><b class="c-acc">19</b> con observaciones</span>
+    <span><b class="c-green">2</b> conformes</span>
+    <span><b class="c-warn">1</b> pronunciamiento municipal</span>
+    <span><b style="color:var(--ink3)">3</b> no participan</span>
   </div>
+  <div class="reparto" aria-hidden="true"><i class="o" style="flex:19"></i><i class="c" style="flex:2"></i><i class="m" style="flex:1"></i><i class="x" style="flex:3"></i></div>
   <div class="mx" id="mx"></div>
   <p class="note">El oficio 1337 de la Municipalidad de Viña del Mar figura como
   «Oficio pronunciamiento Municipalidad», sin la etiqueta «con observaciones» que llevan los
   otros diecinueve. Su contenido no fue verificado en este análisis: conviene leerlo antes de citarlo.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la Adenda responda una por una las observaciones de los diecinueve organismos y cite el oficio en cada respuesta; una observación ciudadana puede pedir expresamente que se acoja lo observado por un servicio, por ejemplo SERNAGEOMIN, la SEREMI de Salud o la Dirección General de Aguas.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
-<section id="observar">
+<section id="observar" aria-labelledby="t-observar">
   <div class="shd"><span class="n">15</span>
-    <h2>Cómo se ingresa una observación<span class="src">Ley 19.300 · D.S. 40/2012 · <a href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">formulario PAC</a></span></h2></div>
+    <h2 id="t-observar">Cómo se ingresa una observación</h2><p class="src">Ley 19.300 · D.S. 40/2012 · <a href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">formulario PAC</a></p></div>
   <p class="intro">El Artículo 29 de la Ley 19.300 habilita a <b>cualquier persona, natural o
   jurídica</b> —incluidas juntas de vecinos y organizaciones— a observar, sin costo; para hacerlo
   por el portal electrónico hace falta ClaveÚnica. La ley obliga a la <b>autoridad evaluadora</b>
   a hacerse cargo de cada observación y pronunciarse fundadamente sobre todas ellas en la
   Resolución de Calificación Ambiental, y esa respuesta
-  queda en el expediente — es lo que después permite reclamar.
-  <a href="que-puede-pasar.html">Ver qué pasa después, y en qué plazos →</a></p>
+  queda en el expediente — es lo que después permite reclamar.</p>
   <ol class="pasos">
     <li>Necesitas tu <b>ClaveÚnica</b>, la misma del Registro Civil.</li>
     <li>Entra al expediente <b class="num">2168892026</b> en el portal del <span class="sc">sea</span>.</li>
@@ -1492,7 +1703,39 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <li>Si puedes, <b>cita un dato de esta página</b>: la distancia, el viento, el oficio de un servicio.</li>
     <li><b>Descarga el comprobante.</b> Es tu constancia de que observaste dentro de plazo.</li>
   </ol>
-  <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación al SEA →</a>
+  <h3 class="modh">Cuatro observaciones listas para copiar</h3>
+  <p class="modp">Cada una cita solo lo que dice el propio expediente. Cópiala, cambia lo que va entre corchetes
+  y agrega con tus palabras por qué te afecta. El SEA debe responder cada observación en la Resolución de
+  Calificación Ambiental, y el titular, antes, en su Adenda.</p>
+  <div class="modelos">
+    <figure class="modelo">
+      <figcaption>La falla y la lámina de 1,5 mm <span class="src">Cap. 3.5 · Cap. 1 · Cap. 4</span></figcaption>
+      <blockquote>Soy vecina del sector [población]. El informe geológico-estructural de noviembre de 2023, encargado por el propio titular y acompañado en el Capítulo 3.5, dice que existe una «falla potencialmente activa» de la Zona de Fallas Marga-Marga «la cual compromete el cierre perimetral», con un sismo posible de magnitud 6,8 y una aceleración de 49,5 % de la gravedad. El Capítulo 1 describe como barrera una geomembrana HDPE de 1,5 mm, y el Capítulo 4, que evalúa los impactos, no menciona la falla, el sismo ni la geomembrana. Solicito que en la Adenda el titular evalúe cómo se comporta el sistema de impermeabilización basal bajo esa aceleración, y que esa evaluación tenga medida y plan de seguimiento en los Capítulos 6 y 7.</blockquote>
+      <button type="button" class="copiar">Copiar este texto</button>
+    </figure>
+    <figure class="modelo">
+      <figcaption>Un solo impacto y ningún monitoreo <span class="src">Cap. 5 · Cap. 7 · Cap. 20</span></figcaption>
+      <blockquote>El Capítulo 5 evalúa 23 causales del Artículo 11 y reconoce una sola como significativa: la pérdida de tres especies de flora. Por eso el Capítulo 7 compromete seguimiento solo de esas plantas, y el Capítulo 20 no compromete monitoreo participativo. El mismo Capítulo 5 califica perder «80,39 hectáreas» de ecosistema con su fauna como «moderado y no significativo». Durante 25 años de operación y 20 de post-cierre no habrá seguimiento obligatorio de aire, olor, ruido, lixiviados ni aguas. Solicito que el titular explique ese criterio y comprometa un plan de monitoreo de aire, olor, ruido, aguas superficiales y subterráneas y biogás, con resultados públicos, durante toda la operación y el post-cierre.</blockquote>
+      <button type="button" class="copiar">Copiar este texto</button>
+    </figure>
+    <figure class="modelo">
+      <figcaption>Los camiones que no cuadran <span class="src">Cap. 3.18 · Cap. 1 · Anexo 9.6</span></figcaption>
+      <blockquote>El Estudio de Impacto Vial (Capítulo 3.18) modela 182 viajes de camión al día, solo para 2027 y 2028, sin decir cuánto carga cada camión. La tabla de producción anual del Capítulo 1 (p. 71) declara de 2.466 a 4.460 toneladas por día. La losa de lavado del Anexo 9.6 (PAS 141, Tabla 55) se dimensionó para 65 camiones al día. Según el mismo estudio, los camiones entran por Agua Santa, Álvarez y Viana. Solicito que el titular informe cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos durante el viaje cargado, que el expediente no menciona.</blockquote>
+      <button type="button" class="copiar">Copiar este texto</button>
+    </figure>
+    <figure class="modelo">
+      <figcaption>Que me reconozcan como parte afectada <span class="src">Cap. 3.19 · Anexo 8.1 · Anexo 4.2</span></figcaption>
+      <blockquote>Vivo en [población]. El Área de Influencia del medio humano que el titular dibujó en el Capítulo 3.19 deja a mi población fuera por [metros] metros, según su propio archivo cartográfico. La Tabla 11 del Anexo 8.1, que el titular usa para modelar olores, ubica viviendas a 676 metros del proyecto, y su Anexo 4.2 declara un viento predominante del sur que sopla hacia el norte, donde vivimos. Solicito que se incluya a mi población en el área de influencia del medio humano y que los impactos de olor, ruido, polvo y tránsito se evalúen también sobre nosotros, con medidas y seguimiento.</blockquote>
+      <button type="button" class="copiar">Copiar este texto</button>
+    </figure>
+  </div>
+  <div class="acciones">
+    <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación al SEA →</a>
+    <a class="btn2" href="que-puede-pasar.html">Qué pasa después, y en qué plazos →</a>
+  </div>
+  <p class="note">Para ingresarla hace falta <b>ClaveÚnica</b>. El circuito es este: tu observación entra al expediente,
+  el SEA la incluye en su informe consolidado al titular, el titular debe responderla en su <b>Adenda</b>, y la autoridad
+  se pronuncia sobre ella en la <b>Resolución de Calificación Ambiental</b>. Sin observaciones, nada de eso ocurre.</p>
   <p class="note">El plazo cierra el <b>3 de noviembre de 2026</b>, según la ficha oficial del
   expediente, y no se amplía. Sí puede abrirse un <b>nuevo período</b> de participación si la
   Adenda modifica sustantivamente el proyecto.
@@ -1518,23 +1761,139 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   están marcados como tales. Las proyecciones usan parámetros por defecto de LandGEM, no los
   valores específicos del titular, que están en el Anexo 4 del expediente.<br>
   <b>Esta página es un análisis técnico independiente</b> construido sobre documentos públicos.
-  No representa al titular ni a ningún organismo del Estado.
+  No representa al titular ni a ningún organismo del Estado.<br>
+  <b>Quién firma.</b> <span class="firma">[nombre o colectivo · contacto]</span> ·
+  Publicado el 20 de octubre de 2026 · última actualización el <b>{fecha}</b> ·
+  Código, datos y método: <a href="https://github.com/FeniaPfa/seia-data" target="_blank" rel="noopener">github.com/FeniaPfa/seia-data</a> ·
+  Texto y mapas bajo licencia CC BY 4.0; datos de OpenStreetMap bajo ODbL ·
+  Sin cookies, analítica ni conexiones a terceros: fuentes, librería 3D y datos se sirven desde esta misma página.
+  <a class="imprimir" href="#" onclick="window.print();return false">Imprimir esta página</a>
 </footer>
+</main>
+<div class="barra-cta" role="region" aria-label="Ingresar una observación">
+  <a class="como" href="#observar">¿Cómo observar?</a>
+  <a class="ir" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación →</a>
 </div>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="lib/three.r128.min.js"></script>
 <script id="D" type="application/json">/*__DATOS__*/</script>
 <script>
 (function(){
 "use strict";
 var D = JSON.parse(document.getElementById('D').textContent);
 var $ = function(s){return document.querySelector(s)};
+/* WebP si el navegador lo decodifica; si no, el PNG/JPG original */
+var WEBP=(function(){try{var c=document.createElement('canvas');
+  return c.toDataURL('image/webp').indexOf('data:image/webp')===0}catch(e){return false}})();
+function ras(n){return WEBP?n.replace(/\.(png|jpg)$/,'.webp'):n}
+/* ejecuta fn cuando el elemento está a una pantalla de distancia */
+function difiere(e,fn){
+  if(!('IntersectionObserver' in window)){fn();return}
+  var io=new IntersectionObserver(function(es){ if(es[0].isIntersecting){io.disconnect();fn()} },{rootMargin:'500px'});
+  io.observe(e);
+}
+var RM=!!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches);
 
 /* ---- plazo ---- */
-var hoy=new Date(), fin=new Date(2026,10,3);
-var dd=Math.max(0,Math.ceil((fin-hoy)/864e5));
-$('#dias').innerHTML=dd+'<span>días</span>';
+/* el plazo cierra el 3 de noviembre inclusive: el límite es la medianoche del 4 */
+var hoy=new Date(), fin=new Date(2026,10,4);
+var dd=Math.ceil((fin-hoy)/864e5);
+if(dd>1) $('#dias').innerHTML=dd+'<span>días</span>';
+else if(dd===1){ $('#dias').innerHTML='<span class="ult">último día</span>';
+  $('.plazo .t').textContent='para observar · cierra hoy, 3 de noviembre'; }
+else { document.body.classList.add('cerrado');
+  $('#dias').innerHTML='<span class="ult">plazo cerrado</span>';
+  $('.plazo .t').textContent='la participación ciudadana cerró el 3 de noviembre';
+  $('.plazo .cta').textContent='Qué viene ahora →';
+  $('.plazo').href='que-puede-pasar.html'; $('.plazo').removeAttribute('target');
+  var bi=$('.barra-cta .ir'); if(bi){ bi.textContent='Qué viene ahora →'; bi.href='que-puede-pasar.html'; bi.removeAttribute('target'); }
+  var bo=$('#observar .btn'); if(bo){ bo.textContent='El plazo cerró: seguir el expediente en el SEA →';
+    bo.href='https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026'; }
+  var no=$('#observar .note'); if(no) no.innerHTML='<b>El plazo cerró el 3 de noviembre de 2026.</b> Las observaciones '+
+    'ingresadas se responden en la Adenda del titular y en la Resolución de Calificación Ambiental. Si la Adenda '+
+    'modifica sustantivamente el proyecto, se abre un nuevo período de participación (art. 92 del D.S. 40).'; }
+
+/* ---- índice: abierto en pantallas anchas, plegado en celular, numerado como las secciones ---- */
+(function(){
+  var d=document.getElementById('indice-d'); if(!d) return;
+  if(!(window.matchMedia&&matchMedia('(max-width:720px)').matches)) d.open=true;
+  Array.prototype.forEach.call(d.querySelectorAll('.il a'),function(a){
+    var sec=document.querySelector(a.getAttribute('href')), n=sec&&sec.querySelector('.shd .n');
+    if(n&&a.getAttribute('href')!=='#observar'){ var e=document.createElement('span'); e.className='ni';
+      e.textContent=n.textContent.trim(); a.insertBefore(e,a.firstChild); }
+  });
+})();
+
+/* ---- textos modelo: copiar al portapapeles ---- */
+Array.prototype.forEach.call(document.querySelectorAll('.copiar'),function(b){
+  b.addEventListener('click',function(){
+    var t=b.parentNode.querySelector('blockquote').textContent.replace(/\s+/g,' ').trim();
+    function listo(){ b.textContent='Copiado'; b.setAttribute('data-ok','1');
+      setTimeout(function(){ b.textContent='Copiar este texto'; b.removeAttribute('data-ok') },2200); }
+    if(navigator.clipboard&&navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(listo,function(){});
+    else { var r=document.createRange(); r.selectNodeContents(b.parentNode.querySelector('blockquote'));
+      var sel=getSelection(); sel.removeAllRanges(); sel.addRange(r); try{document.execCommand('copy');listo()}catch(e){} }
+  });
+});
+
+/* ---- enlaces a documentos: formato, peso y aviso de pestaña nueva ----
+   pesos medidos con curl el 21-10-2026; los .rar no se abren en celular */
+(function(){
+  var MB={'Anexo_15_Planos':94,'Cap_319_Medio_Humano':35,'Capitulo_8_PLAN':2.7,'Cap_34_Hidrogeologia':9.3,
+    'Cap_35_Geologia':49,'CAPITULO_4_PREDICCION':1.4,'Cap_33_Hidrologia':90,'Cap_318_Impacto_Vial':3.8,
+    'Anexo_45_Evaluacion':6.8,'CAPITULO_1_DESCRIPCION':20,'PAS_141':17,'CAPITULO_5_ANALISIS':3.5,
+    'Anexo_42_Informe':5.1,'Cap_315_Estudio':5,'Cap_316_Areas':1.6,'Capitulo_6_Plan':0.5,
+    'Capitulo_7_PLAN':0.3,'Cap_20_Monitoreo':0.2};
+  Array.prototype.forEach.call(document.querySelectorAll('main a[href]'),function(a){
+    var h=a.getAttribute('href'), ext=(h.match(/\.(rar|pdf)(\?|$)/i)||[])[1];
+    if(ext){
+      var mb=null; for(var k in MB) if(h.indexOf(k)>=0){ mb=MB[k]; break }
+      var txt=ext.toUpperCase()+(mb!=null?' · '+String(mb).replace('.',',')+' MB':'');
+      var sm=document.createElement('small'); sm.className='fmt'; sm.textContent=' ('+txt+')';
+      a.appendChild(sm);
+      if(ext==='rar') a.title='Archivo comprimido .rar: hay que descomprimirlo en un computador; en celular no se abre.';
+    }
+    if(a.target==='_blank'){
+      var v=document.createElement('span'); v.className='vh'; v.textContent=' (se abre en otra pestaña)'; a.appendChild(v);
+    }
+  });
+})();
+
+/* ---- rótulos legibles en pantallas chicas: ningún texto SVG bajo 12 px reales ----
+   Los SVG escalan con el viewBox; a 375 px un rótulo de 12 unidades mide 4,6 px.
+   Se guarda el tamaño original y se sube al mínimo cuando el lienzo es chico. */
+function escalaTexto(svg){
+  var vb=svg.viewBox&&svg.viewBox.baseVal, w=svg.clientWidth; if(!vb||!vb.width||!w) return;
+  var k=vb.width/w, MIN=12, subio=false;
+  var textos=Array.prototype.slice.call(svg.querySelectorAll('text'));
+  textos.forEach(function(t){
+    if(t.getAttribute('data-fijo')) return;
+    var fs=t.getAttribute('data-fs');
+    if(fs==null){ fs=t.getAttribute('font-size')||'16'; t.setAttribute('data-fs',fs) }
+    var real=parseFloat(fs)/k;
+    if(real<MIN){ t.setAttribute('font-size',(MIN*k).toFixed(2)); subio=true }
+    else t.setAttribute('font-size',fs);
+  });
+  /* al agrandar, los rótulos se pisan: se dejan los primeros que caben y se ocultan los que chocan */
+  var cajas=[];
+  textos.forEach(function(t){
+    if(t.getAttribute('data-fijo')) return;
+    if(!subio){ if(t.getAttribute('data-oc')){ t.style.visibility=''; t.removeAttribute('data-oc') } return }
+    var b; try{ b=t.getBBox() }catch(e){ return }
+    var choca=b.x+b.width>vb.x+vb.width||b.x<vb.x||
+      cajas.some(function(c){ return b.x<c.x+c.width+2&&b.x+b.width+2>c.x&&b.y<c.y+c.height+1&&b.y+b.height+1>c.y });
+    if(choca){ t.setAttribute('data-oc','1'); t.style.visibility='hidden' }
+    else { cajas.push(b); if(t.getAttribute('data-oc')){ t.style.visibility=''; t.removeAttribute('data-oc') } }
+  });
+}
+function escalaTodo(){
+  ['m1','m2','m3','m4','m5','c-tres','c-polar','c-filo','c-ch4','c-masa','fsvg'].forEach(function(id){
+    var e=document.getElementById(id); if(e) escalaTexto(e);
+  });
+}
+setTimeout(escalaTodo,0);
+addEventListener('resize',function(){clearTimeout(escalaTodo._t);escalaTodo._t=setTimeout(escalaTodo,120)});
 
 /* ---- proyección mercator ---- */
 function merc(lon,lat){
@@ -1618,7 +1977,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   /* fondo cartográfico, mismo lenguaje que el visor 3D */
   if(D.fondo){
     var F=D.fondo, tl2=P(F.lon0,F.lat1), br=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:tl2[0].toFixed(1), y:tl2[1].toFixed(1),
       width:(br[0]-tl2[0]).toFixed(1), height:(br[1]-tl2[1]).toFixed(1),
       preserveAspectRatio:'none'}));
@@ -1635,14 +1994,16 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       gAre=el('g',{id:'g-are'}), gLab=el('g',{});
 
   /* áreas protegidas oficiales */
-  var TONO={palmar:'#7ad68a',botanico:'#b79cf0',humedal:'#6fd3f5',penuelas:'#2fb7c4'};
+  /* áreas protegidas en tonos apagados: el sujeto saturado del mapa es el relleno */
+  var TONO={palmar:'#8fbf8a',botanico:'#a497c2',humedal:'#8fb3c1',penuelas:'#6f8c99'};
   (D.areas||[]).forEach(function(a){
     gAre.appendChild(el('path',{d:pathOf(a.g,P),fill:TONO[a.id]||'#7ad68a',
-      'fill-opacity':a.id==='penuelas'?.22:.28,stroke:TONO[a.id]||'#7ad68a',
+      'fill-opacity':a.id==='palmar'?.22:.14,stroke:TONO[a.id]||'#7ad68a',
       'stroke-opacity':1,'stroke-width':a.id==='penuelas'?2.2:1.8}));
     var bb3=bboxOf(a.g,[180,90,-180,-90]);
     var q=P((bb3[0]+bb3[2])/2,(bb3[1]+bb3[3])/2);
-    if(q[0]>40&&q[0]<W-40&&q[1]>20&&q[1]<H-20){
+    /* solo se rotula el Sitio Prioritario, que es el que el proyecto toca; los demás van en la leyenda */
+    if(a.id==='palmar'&&q[0]>40&&q[0]<W-40&&q[1]>20&&q[1]<H-20){
       var t2=el('text',{x:q[0].toFixed(1),y:q[1].toFixed(1),'font-size':12.5,
         'font-family':'var(--cart)','font-weight':600,fill:TONO[a.id]||'#8fe07a',
         'text-anchor':'middle','paint-order':'stroke',stroke:'#14161a','stroke-width':3.4,
@@ -1701,9 +2062,10 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   });
 
   /* etiquetas de barrios destacados */
-  var destacar=['Comunidad Alto Valencia','Población Esperanza','Nuevo Horizonte',
-    'Los Fundadores 2','Pompeya Sur','Pompeya Norte','Botania','Cumbres de Quilpué',
-    'Villa Humboldt','Canal Chacao','El Salto'];
+  /* seis rótulos: las cuatro poblaciones más cercanas y las dos que el área de influencia
+     deja a 72 y 77 m; las demás conservan su punto y su nombre al pasar el cursor */
+  var destacar=['Comunidad Alto Valencia','Población Esperanza','Los Fundadores 2',
+    'Nuevo Horizonte','Botania','Cumbres de Quilpué'];
   var marcas=[];
   D.barrios.forEach(function(b){
     if(destacar.indexOf(b.n)<0) return;
@@ -1727,7 +2089,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       'font-family':'var(--cart)','font-weight':600,
       fill:m.cerca?'#ffb9a4':'#fbf7ec','paint-order':'stroke',
       stroke:'#14161a','stroke-width':3.4,'stroke-linejoin':'round'});
-    t.textContent=m.b.n+' · '+m.b.d.toFixed(2).replace('.',',')+' km';
+    t.textContent=m.b.n.replace('Comunidad ','').replace('Población ','')+' · '+m.b.d.toFixed(2).replace('.',',')+' km';
     gLab.appendChild(t);
   });
 
@@ -1764,6 +2126,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
   bind($('#t-res'),gRes); bind($('#t-edu'),gEdu); bind($('#t-sal'),gSal);
   bind($('#t-ani'),gAni); bind($('#t-area'),gAre); bind($('#t-ai'),gAI);
+  /* arranca con lo esencial: equipamientos y área de influencia a un toque (esta última tiene su sección) */
+  ['#t-edu','#t-sal','#t-ai'].forEach(function(id){ var b=$(id); if(b) b.click() });
 })();
 
 /* ===== mapa de escorrentía hasta el Marga-Marga ===== */
@@ -1778,7 +2142,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 
   if(D.fondo){
     var F=D.fondo, a=P(F.lon0,F.lat1), b=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:a[0].toFixed(1),y:a[1].toFixed(1),width:(b[0]-a[0]).toFixed(1),
       height:(b[1]-a[1]).toFixed(1),preserveAspectRatio:'none'}));
     svg.appendChild(el('rect',{x:0,y:0,width:W,height:H,fill:'#0d1014','fill-opacity':.42}));
@@ -1786,25 +2150,24 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   /* humedal protegido */
   (D.areas||[]).forEach(function(ar){
     if(ar.id!=='humedal') return;
-    svg.appendChild(el('path',{d:pathOf(ar.g,P),fill:'#6fd3f5','fill-opacity':.45,
-      stroke:'#6fd3f5','stroke-width':2}));
+    svg.appendChild(el('path',{d:pathOf(ar.g,P),fill:'#8fb3c1','fill-opacity':.32,
+      stroke:'#8fb3c1','stroke-width':1.6}));
   });
   /* cauces nombrados */
   var gCau=el('g',{});
   Object.keys(E.cauces).forEach(function(k){
-    gCau.appendChild(el('path',{d:pathLinea(E.cauces[k],P),fill:'none',stroke:'#2fb7c4',
-      'stroke-width':3.2,'stroke-opacity':.9,'stroke-linecap':'round'}));
+    /* el agua, apagada: el sujeto es lo que sale del relleno */
+    gCau.appendChild(el('path',{d:pathLinea(E.cauces[k],P),fill:'none',stroke:'#8fb3c1',
+      'stroke-width':2.2,'stroke-opacity':.85,'stroke-linecap':'round'}));
   });
   svg.appendChild(gCau);
   /* recorridos */
   var gHil=el('g',{});
   (E.hilos||[]).forEach(function(hh){
-    gHil.appendChild(el('path',{d:pathLinea(hh.g,P),fill:'none',
-      stroke:hh.src==='lixiviados'?'#9ae6ff':'#5ad7f5',
-      'stroke-width':hh.src==='lixiviados'?1.8:1.3,'stroke-opacity':.55,
-      'stroke-linecap':'round'}));
+    gHil.appendChild(el('path',{d:pathLinea(hh.g,P),fill:'none',stroke:'#ff8a5c',
+      'stroke-width':1.2,'stroke-opacity':.4,'stroke-linecap':'round'}));
   });
-  gHil.appendChild(el('path',{d:pathLinea(E.troncal,P),fill:'none',stroke:'#5ad7f5',
+  gHil.appendChild(el('path',{d:pathLinea(E.troncal,P),fill:'none',stroke:'#ff8a5c',
     'stroke-width':3.4,'stroke-opacity':.95,'stroke-linecap':'round'}));
   svg.appendChild(gHil);
   /* el proyecto */
@@ -1821,17 +2184,26 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var bz=bboxOf(L.residuos.g,[180,90,-180,-90]);
   var pz=P((bz[0]+bz[2])/2,(bz[1]+bz[3])/2);
   rot(pz[0]+16,pz[1]+5,'relleno proyectado','#ffb9a4');
+  /* cotas: los puntos se calcularon con shapely sobre estas mismas geometrías */
+  function cota(ll,dx,dy,lineas,anc){
+    if(!ll) return; var q=P(ll[0],ll[1]);
+    svg.appendChild(el('circle',{cx:q[0].toFixed(1),cy:q[1].toFixed(1),r:7,fill:'none',
+      stroke:'#fbf7ec','stroke-width':2.2}));
+    svg.appendChild(el('line',{x1:q[0],y1:q[1],x2:q[0]+dx,y2:q[1]+dy-4,stroke:'#fbf7ec','stroke-width':1.2}));
+    lineas.forEach(function(l,i){
+      var t=rot(q[0]+dx+(anc==='end'?-4:4),q[1]+dy+i*19,l,'#fbf7ec',i?13:15);
+      if(anc) t.setAttribute('text-anchor',anc);
+    });
+  }
+  cota(E.p_quilpue,-60,-70,['a '+E.d_quilpue_m+' m del Estero Quilpué','y a '+E.d_humedal_m+' m del humedal'],'end');
+  cota(E.p_marga,40,-56,['llega al Marga-Marga','a '+String(Math.round(E.km_al_marga*10)/10).replace('.',',')+' km del deslinde']);
+  var tt=rot(24,40,'Los '+E.n_rutas+' recorridos terminan en el mismo estero','#fbf7ec',22);
   Object.keys(E.cauces).forEach(function(k){
     var cb=bboxLinea(E.cauces[k],[180,90,-180,-90]);
     var q=P((cb[0]+cb[2])/2,(cb[1]+cb[3])/2);
-    if(q[0]>70&&q[0]<W-70&&q[1]>24&&q[1]<H-24)
-      rot(q[0],q[1]-9,k.replace(' - Jardín Botánico',''),'#8fe3ec',12.5);
-  });
-  (D.areas||[]).forEach(function(ar){
-    if(ar.id!=='humedal') return;
-    var hb=bboxOf(ar.g,[180,90,-180,-90]);
-    var q=P((hb[0]+hb[2])/2,(hb[1]+hb[3])/2);
-    rot(q[0]+12,q[1]-6,'Humedal Urbano protegido','#bdeaff',12.5);
+    /* el Marga-Marga y el Quilpué los nombran las cotas; aquí solo los demás */
+    if(k!=='Estero Marga-Marga'&&k!=='Estero Quilpué'&&q[0]>70&&q[0]<W-70&&q[1]>24&&q[1]<H-24)
+      rot(q[0],q[1]-9,k.replace(' - Jardín Botánico',''),'#bcd3dc',12.5);
   });
   /* escala */
   (function(){
@@ -1871,19 +2243,24 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   /* fondo: relieve + cicatriz encima */
   var tl=P(T.lon0,T.lat1), br=P(T.lon1,T.lat0);
   function img(href,op,grupo){
-    var e=el('image',{href:href,'xlink:href':href,x:tl[0].toFixed(1),y:tl[1].toFixed(1),
+    var a={x:tl[0].toFixed(1),y:tl[1].toFixed(1),
       width:(br[0]-tl[0]).toFixed(1),height:(br[1]-tl[1]).toFixed(1),
-      preserveAspectRatio:'none',opacity:op});
+      preserveAspectRatio:'none',opacity:op};
+    if(href){a.href=href;a['xlink:href']=href}
+    var e=el('image',a);
     (grupo||svg).appendChild(e); return e;
   }
   if(D.fondo){
     var F=D.fondo, a=P(F.lon0,F.lat1), b=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:a[0].toFixed(1),y:a[1].toFixed(1),width:(b[0]-a[0]).toFixed(1),
       height:(b[1]-a[1]).toFixed(1),preserveAspectRatio:'none',opacity:.5}));
   }
   svg.appendChild(el('rect',{x:0,y:0,width:W,height:H,fill:'#0d1014','fill-opacity':.45}));
-  var gCic=el('g',{}); svg.appendChild(gCic); img('cicatriz.png',.95,gCic);
+  var gCic=el('g',{}); svg.appendChild(gCic);
+  /* la cicatriz se pide recién cuando el mapa se acerca a la pantalla */
+  var eCic=img(null,.95,gCic);
+  difiere(svg,function(){var h=ras('cicatriz.png');eCic.setAttribute('href',h);eCic.setAttribute('xlink:href',h)});
 
   /* obras */
   var gPr=el('g',{});
@@ -1923,6 +2300,18 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   tz.setAttribute('x',pz[0].toFixed(1)); tz.setAttribute('y',(pz[1]+4).toFixed(1));
   tz.textContent='zona de disposición · 51,34 ha';
   svg.appendChild(tz);
+  /* la cifra de la alarma, escrita sobre el mapa */
+  if(D.quema&&D.quema.obras&&D.quema.obras.predio){
+    var qp=D.quema.obras.predio.quemado.toFixed(1).replace('.',',');
+    /* el interlineado sigue a la escala real, para que en celular las líneas no se pisen */
+    var kk=Math.max(1,W/(svg.clientWidth||W)), alto=function(f){return Math.max(f,12*kk)};
+    var y1=56+alto(15)*1.3+2, y2=y1+alto(13)*1.3;
+    [[qp+' %',34,56,'#fbf7ec'],['del predio se quemó',15,y1,'#fbf7ec'],['febrero de 2024',13,y2,'#d8dcd4']].forEach(function(e){
+      var t=el('text',{x:24,y:e[2],'font-size':e[1],'font-family':'var(--cifra)','font-weight':600,fill:e[3],
+        'paint-order':'stroke',stroke:'#14161a','stroke-width':4,'stroke-linejoin':'round'});
+      t.textContent=e[0]; svg.appendChild(t);
+    });
+  }
 
   /* viento: desde el sitio hacia las poblaciones */
   var gV=el('g',{});
@@ -1936,7 +2325,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       'L'+(x1-Math.cos(r-0.42)*20).toFixed(1)+' '+(y1-Math.sin(r-0.42)*20).toFixed(1)+
       'L'+(x1-Math.cos(r+0.42)*20).toFixed(1)+' '+(y1-Math.sin(r+0.42)*20).toFixed(1)+'Z',
       fill:'#ffd166'}));
-    var t=el('text',{x:(x1+14).toFixed(1),y:(y1-6).toFixed(1),'font-size':13.5,
+    /* el rótulo va a la izquierda de la punta: a la derecha están las poblaciones */
+    var t=el('text',{x:(x1-16).toFixed(1),y:(y1+4).toFixed(1),'font-size':13.5,'text-anchor':'end',
       'font-family':'var(--cart)','font-weight':600,fill:'#ffd166','paint-order':'stroke',
       stroke:'#14161a','stroke-width':3.6,'stroke-linejoin':'round'});
     t.textContent='viento predominante';
@@ -1946,20 +2336,25 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 
   /* poblaciones dentro del encuadre */
   var gL=el('g',{}), marcas=[];
+  var rot4={}, rb=(D.rumbos||[]).slice().sort(function(a,b){return a.desvio-b.desvio});
+  D.barrios.slice(0,2).forEach(function(b){rot4[b.n]=1});
+  rb.slice(0,2).forEach(function(r){rot4[r.n]=1});
   D.barrios.slice(0,14).forEach(function(b){
     var p=P(b.x,b.y);
     if(p[0]<60||p[0]>W-60||p[1]<24||p[1]>H-24) return;
-    marcas.push({b:b,x:p[0],y:p[1]});
+    marcas.push({b:b,x:p[0],y:p[1],rot:!!rot4[b.n]});
   });
   marcas.sort(function(a,b){return a.y-b.y});
-  for(var i=1;i<marcas.length;i++)
-    if(marcas[i].y-marcas[i-1].y<16)
-      marcas[i].ty=(marcas[i-1].ty!=null?marcas[i-1].ty:marcas[i-1].y)+16;
+  var conR=marcas.filter(function(m){return m.rot});
+  for(var i=1;i<conR.length;i++)
+    if(conR[i].y-conR[i-1].y<18)
+      conR[i].ty=(conR[i-1].ty!=null?conR[i-1].ty:conR[i-1].y)+18;
   marcas.forEach(function(m){
     var ty=m.ty!=null?m.ty:m.y;
     gL.appendChild(el('circle',{cx:m.x.toFixed(1),cy:m.y.toFixed(1),r:4.5,
       fill:'#fbf7ec',stroke:'#14161a','stroke-width':1.4}));
-    var t=el('text',{x:(m.x+10).toFixed(1),y:(ty+4).toFixed(1),'font-size':12.5,
+    if(!m.rot) return;
+    var t=el('text',{x:(m.x+10).toFixed(1),y:(ty+4).toFixed(1),'font-size':13.5,
       'font-family':'var(--cart)','font-weight':600,fill:'#fbf7ec','paint-order':'stroke',
       stroke:'#14161a','stroke-width':3.6,'stroke-linejoin':'round'});
     t.textContent=m.b.n+' · '+m.b.d.toFixed(2).replace('.',',')+' km';
@@ -1995,7 +2390,21 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 (function(){
   var svg=$('#m2'), W=980,H=520;
   var bb=bboxOf(L.predio.g,[180,90,-180,-90]);
+  /* el encuadre incluye el solape con el Sitio Prioritario, que queda fuera del deslinde */
+  if(D.palmar_solape) bboxOf(D.palmar_solape.g,bb);
+  bboxOf(L.instalaciones.g,bb);
   var P=fitter(bb,W,H,26);
+  /* el Sitio Prioritario, como velo verde; se recorta solo al borde del lienzo */
+  var palm=(D.areas||[]).filter(function(a){return a.id==='palmar'})[0];
+  if(palm){
+    var defs=el('defs',{}), pat=el('pattern',{id:'achurado',width:9,height:9,patternUnits:'userSpaceOnUse',
+      patternTransform:'rotate(45)'});
+    pat.appendChild(el('rect',{width:9,height:9,fill:'var(--acc)','fill-opacity':.35}));
+    pat.appendChild(el('line',{x1:0,y1:0,x2:0,y2:9,stroke:'var(--acc)','stroke-width':4}));
+    defs.appendChild(pat); svg.appendChild(defs);
+    svg.appendChild(el('path',{d:pathOf(palm.g,P),fill:'var(--green)','fill-opacity':.14,
+      stroke:'var(--green)','stroke-width':1.6,'stroke-dasharray':'6 4'}));
+  }
   var tip=$('#tip2'), box=$('#box2');
   var estilo={
     predio:['none','var(--ink2)',1.3,null],
@@ -2025,6 +2434,20 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     p.addEventListener('mouseleave',function(){tip.style.opacity=0});
     svg.appendChild(p);
   });
+  /* el solape: las obras dentro del Sitio Prioritario, achuradas y rotuladas */
+  if(D.palmar_solape&&palm){
+    var so=D.palmar_solape;
+    svg.appendChild(el('path',{d:pathOf(so.g,P),fill:'url(#achurado)',stroke:'var(--acc)','stroke-width':1.6}));
+    var sb=bboxOf(so.g,[180,90,-180,-90]), c=P((sb[0]+sb[2])/2,(sb[1]+sb[3])/2), c2=P(sb[0],sb[1]);
+    var ha=String(so.ha_publicada).replace('.',',');
+    var lx=Math.max(24,Math.min(W-330,c2[0]-10)), ly=Math.min(H-40,Math.max(c[1],c2[1])+46);
+    svg.appendChild(el('line',{x1:c[0],y1:c[1],x2:lx+6,y2:ly-20,stroke:'var(--ink)','stroke-width':1.2}));
+    [[ha+' ha de obras dentro',18,0],['del Sitio Prioritario',14,20]].forEach(function(e){
+      var t=el('text',{x:lx,y:ly+e[2],'font-size':e[1],'font-family':'var(--cart)','font-weight':600,fill:'var(--ink)',
+        'paint-order':'stroke',stroke:'var(--sunk)','stroke-width':4,'stroke-linejoin':'round'});
+      t.textContent=e[0]; svg.appendChild(t);
+    });
+  }
   var leg=$('#leg2'); var mostrar=['residuos','excavacion','lixiviados','cortafuegos','biogas'];
   mostrar.forEach(function(id){
     var c=L[id],s=estilo[id];
@@ -2034,6 +2457,14 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       c.ha.toLocaleString('es-CL')+' ha';
     leg.appendChild(sp);
   });
+  if(palm){
+    var a=document.createElement('span');
+    a.innerHTML='<i style="background:var(--green);opacity:.4;border:1px dashed var(--green)"></i>Sitio Prioritario Palmar Las Siete Hermanas';
+    leg.appendChild(a);
+    var b=document.createElement('span');
+    b.innerHTML='<i style="background:repeating-linear-gradient(45deg,var(--acc) 0 3px,transparent 3px 6px);border:1px solid var(--acc)"></i>Obras dentro del Sitio Prioritario';
+    leg.appendChild(b);
+  }
 })();
 
 /* ================= tabla distancias ================= */
@@ -2068,23 +2499,31 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var p=D.proy;
   function linea(svgSel,xs,ys,opts){
     var svg=$(svgSel),W=460,H=260,ml=46,mr=12,mt=16,mb=34;
-    var maxy=Math.max.apply(null,ys), maxx=Math.max.apply(null,xs);
+    var maxx=Math.max.apply(null,xs), paso=opts.paso, maxy=Math.ceil(Math.max.apply(null,ys)/paso)*paso;
     var X=function(v){return ml+(W-ml-mr)*v/maxx};
     var Y=function(v){return mt+(H-mt-mb)*(1-v/maxy)};
-    [0,.25,.5,.75,1].forEach(function(f){
-      var y=Y(maxy*f);
+    /* franja posterior al cierre: la alarma del gráfico de metano */
+    if(opts.cierre){
+      svg.appendChild(el('rect',{x:X(opts.cierre),y:mt,width:X(maxx)-X(opts.cierre),height:Y(0)-mt,
+        fill:'var(--ink3)','fill-opacity':.12}));
+      var tc=el('text',{x:(X(opts.cierre)+X(maxx))/2,y:mt+16,'font-size':12.5,'font-weight':600,
+        'font-family':'var(--cart)',fill:'var(--ink)','text-anchor':'middle'});
+      tc.textContent=(maxx-opts.cierre)+' años después del cierre'; svg.appendChild(tc);
+    }
+    for(var v=0;v<=maxy+1e-9;v+=paso){
+      var y=Y(v);
       svg.appendChild(el('line',{x1:ml,x2:W-mr,y1:y,y2:y,stroke:'var(--grid)','stroke-width':1}));
-      var t=el('text',{x:ml-8,y:y+3.5,'font-size':10,'font-family':'var(--cart)',
+      var t=el('text',{x:ml-8,y:y+4,'font-size':12,'font-family':'var(--cart)',
         fill:'var(--ink3)','text-anchor':'end'});
-      t.textContent=opts.fmt(maxy*f); svg.appendChild(t);
-    });
+      t.textContent=opts.fmt(v); svg.appendChild(t);
+    }
     [1,10,20,25,40,60].forEach(function(v){
       if(v>maxx)return;
-      var t=el('text',{x:X(v),y:H-mb+16,'font-size':10,'font-family':'var(--cart)',
+      var t=el('text',{x:X(v),y:H-mb+16,'font-size':12,'font-family':'var(--cart)',
         fill:'var(--ink3)','text-anchor':'middle'});
       t.textContent=v; svg.appendChild(t);
     });
-    var tl=el('text',{x:X(maxx/2),y:H-mb+30,'font-size':10,'font-family':'var(--cart)',
+    var tl=el('text',{x:X(maxx/2),y:H-mb+31,'font-size':12,'font-family':'var(--cart)',
       fill:'var(--ink3)','text-anchor':'middle'}); tl.textContent='año de operación';
     svg.appendChild(tl);
     var d='',a='';
@@ -2095,14 +2534,20 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     svg.appendChild(el('path',{d:a,fill:opts.col,'fill-opacity':.13}));
     svg.appendChild(el('path',{d:d,fill:'none',stroke:opts.col,'stroke-width':1.8,
       'stroke-linejoin':'round'}));
+    if(opts.ref){
+      var yr=Y(opts.ref.v);
+      svg.appendChild(el('line',{x1:ml,x2:W-mr,y1:yr,y2:yr,stroke:'var(--ink2)','stroke-width':1.2,'stroke-dasharray':'5 4'}));
+      var tr=el('text',{x:ml+6,y:yr-6,'font-size':12.5,'font-family':'var(--cart)',fill:'var(--ink2)'});
+      tr.textContent=opts.ref.t; svg.appendChild(tr);
+    }
     if(opts.mark!=null){
       var mx=X(opts.mark), my=Y(ys[xs.indexOf(opts.mark)]);
       svg.appendChild(el('line',{x1:mx,x2:mx,y1:my,y2:Y(0),stroke:opts.col,
         'stroke-width':1,'stroke-dasharray':'3 3','stroke-opacity':.6}));
       svg.appendChild(el('circle',{cx:mx,cy:my,r:4,fill:opts.col,
         stroke:'var(--surf)','stroke-width':1.6}));
-      var tm=el('text',{x:Math.min(mx+8,W-mr-4),y:my-9,'font-size':11,'font-weight':600,
-        'font-family':'var(--doc)',fill:opts.col,
+      var tm=el('text',{x:Math.min(mx+8,W-mr-4),y:my-9,'font-size':14,'font-weight':600,
+        'font-family':'var(--cifra)',fill:opts.col,
         'text-anchor':mx>W*.7?'end':'start'});
       tm.textContent=opts.markLabel; svg.appendChild(tm);
     }
@@ -2110,23 +2555,26 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
 
   linea('#c-ch4', p.anios, p.ch4_m3_anio, {
-    col:'var(--warn)', mark:p.pico.anio,
-    markLabel:(p.pico.ch4_m3/1e6).toFixed(0)+' M m³',
-    fmt:function(v){return (v/1e6).toFixed(0)+'M'}
+    col:'var(--blue)', mark:p.pico.anio, paso:50e6, cierre:p.pico.anio,
+    markLabel:(p.pico.ch4_m3/1e6).toFixed(0)+' millones de m³ · cierre',
+    fmt:function(v){return (v/1e6).toFixed(0)}
   });
   $('#f-ch4').innerHTML='Millones de metros cúbicos de metano por año. El máximo llega en el '+
     'año <b>'+p.pico.anio+'</b>, justo al cerrar el relleno — y el gas sigue saliendo '+
-    '<b>35 años más</b> después de que el botadero deje de operar.';
+    '<b>35 años más</b> después de que el relleno deje de operar.';
   $('#c-ch4').setAttribute('role','img');
   $('#c-ch4').setAttribute('aria-label','Generación de metano a 60 años. Crece hasta el año 25, '+
     'cuando el relleno cierra, y sigue emitiendo durante 35 años más.');
 
   var anios25=p.anios.slice(0,25);
-  linea('#c-masa', anios25, p.acumulado_t.slice(0,25), {
-    col:'var(--acc)', mark:25, markLabel:'30,7 M t',
-    fmt:function(v){return (v/1e6).toFixed(0)+'M'}
+  /* la altura, no las toneladas: es la unidad que se ve desde la calle */
+  var hfin=p.altura_m[24];
+  linea('#c-masa', anios25, p.altura_m.slice(0,25), {
+    col:'var(--blue)', mark:25, paso:20, ref:{v:20*3,t:'edificio de 20 pisos · 60 m'},
+    markLabel:String(hfin).replace('.',',')+' m',
+    fmt:function(v){return v+' m'}
   });
-  $('#f-masa').innerHTML='Toneladas acumuladas. El espesor de basura sobre el terreno crece de <b>'+
+  $('#f-masa').innerHTML='Metros de espesor medio año a año. El espesor de basura sobre el terreno crece de <b>'+
     p.altura_m[0].toString().replace('.',',')+' m</b> en el año 1 a <b>'+
     p.espesor_m['1.0'].toString().replace('.',',')+' m</b> al cierre: el alto de un '+
     '<b>edificio de 20 pisos</b>, extendido sobre 51 hectáreas.';
@@ -2135,7 +2583,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     'millones de toneladas, con un espesor medio final de unos 60 metros.');
 
   $('#v-esp').innerHTML=p.espesor_m['1.0'].toString().replace('.',',')+'<span class="u">m</span>';
-  $('#v-pico').innerHTML=(p.pico.ch4_m3/1e6).toFixed(0)+'<span class="u">M m³/año</span>';
+  $('#v-pico').innerHTML=(p.pico.ch4_m3/1e6).toFixed(0)+'<span class="u">millones de m³ al año</span>';
   $('#v-co2').textContent=(p.co2e.bruto_t_anio/1e6).toFixed(1).replace('.',',')+' millones de t';
   $('#v-fuga').textContent=(p.co2e.fuga_t_co2e['75']/1e3).toFixed(0)+' mil t';
 })();
@@ -2162,25 +2610,44 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 (function(){
   var svg=document.getElementById('c-tres'); if(!svg||!D.vial||!D.vial.tres_cifras) return;
   var T=D.vial.tres_cifras, NS='http://www.w3.org/2000/svg';
-  var W=700,H=250,ml=230,mr=70,mt=12,mb=16;
   function E(t,a,x){var n=document.createElementNS(NS,t);for(var k in a)n.setAttribute(k,a[k]);
     if(x!=null)n.textContent=x;return n}
-  var max=Math.max.apply(null,T.map(function(t){return t.n}));
-  var bh=(H-mt-mb)/T.length;
   var tonos=['var(--blue)','var(--blue)','var(--acc)','var(--acc)'];
-  T.forEach(function(t,i){
-    var y=mt+i*bh+bh*.16, h2=bh*.42;
-    var w=(W-ml-mr)*t.n/max;
-    svg.appendChild(E('rect',{x:ml,y:y,width:(W-ml-mr),height:h2,fill:'var(--surf2)'}));
-    svg.appendChild(E('rect',{x:ml,y:y,width:w.toFixed(1),height:h2,fill:tonos[i],
-      'fill-opacity':i<2?.55:1}));
-    svg.appendChild(E('text',{x:ml-12,y:y+h2*.55,'font-size':13.5,'font-weight':600,
-      fill:'var(--ink)','text-anchor':'end'},t.cap));
-    svg.appendChild(E('text',{x:ml-12,y:y+h2*.55+16,'font-size':12.5,
-      fill:'var(--ink3)','text-anchor':'end'},t.nota));
-    svg.appendChild(E('text',{x:ml+w+9,y:y+h2*.72,'font-size':17,'font-weight':600,
-      fill:tonos[i]},t.n));
-  });
+  /* rótulo encima de cada barra: resiste el ancho de un celular sin ocultar nada */
+  function dibuja(){
+    while(svg.firstChild) svg.removeChild(svg.firstChild);
+    var ang=svg.clientWidth&&svg.clientWidth<560;
+    /* en angosto el viewBox se iguala al ancho real: el texto no necesita crecer */
+    var W=ang?Math.max(280,svg.clientWidth):700, x0=ang?2:16, x1=W-(ang?40:70), RH=ang?70:68, top=34;
+    var H=top+T.length*RH+34, MAX=Math.ceil(Math.max.apply(null,T.map(function(t){return t.n}))/50)*50;
+    svg.setAttribute('viewBox','0 0 '+W+' '+H);
+    var X=function(v){return x0+(x1-x0)*v/MAX};
+    for(var v=0;v<=MAX;v+=(MAX>300?100:50)){ if(v%100&&MAX>300) continue;
+      svg.appendChild(E('line',{x1:X(v),x2:X(v),y1:top-6,y2:top+T.length*RH-8,stroke:'var(--grid)','stroke-width':1}));
+      svg.appendChild(E('text',{x:X(v),y:top+T.length*RH+10,'font-size':12,fill:'var(--ink3)','text-anchor':'middle'},v));
+    }
+    if(!ang) svg.appendChild(E('text',{x:x1,y:top+T.length*RH+28,'font-size':12,fill:'var(--ink3)','text-anchor':'end'},'camiones al día'));
+    T.forEach(function(t,i){
+      var y=top+i*RH, yb=y+(ang?34:30), h2=ang?16:18;
+      svg.appendChild(E('text',{x:x0,y:y+6,'font-size':14,'font-weight':600,fill:'var(--ink)'},t.cap));
+      /* la nota de cálculo va en una segunda línea; en celular, abreviada */
+      var nota=ang?t.nota.replace(/ \(cálculo propio\)/,' *').replace(' por compactador',''):t.nota;
+      svg.appendChild(E('text',{x:x0,y:y+(ang?23:21),'font-size':12,fill:'var(--ink3)'},nota));
+      svg.appendChild(E('rect',{x:x0,y:yb,width:(X(t.n)-x0).toFixed(1),height:h2,fill:tonos[i],'fill-opacity':i<2?.6:1}));
+      svg.appendChild(E('text',{x:X(t.n)+8,y:yb+h2-3,'font-size':17,'font-weight':600,fill:tonos[i]},t.n));
+    });
+    /* referencia: lo que la losa puede lavar */
+    var l=T[0].n;
+    T.forEach(function(t,i){ var yb=top+i*RH+(ang?34:30);
+      svg.appendChild(E('line',{x1:X(l),x2:X(l),y1:yb-4,y2:yb+(ang?20:22),stroke:'var(--ink)','stroke-width':1.6,'stroke-dasharray':'3 3'})); });
+    svg.appendChild(E('text',{x:ang?x0:x1,y:top-18,'font-size':12.5,fill:'var(--ink2)','text-anchor':ang?'start':'end'},
+      ang?'┆ = la losa lava '+l+' al día':'┆ = lo que la losa de lavado da para lavar: '+l));
+    if(ang) svg.appendChild(E('text',{x:x0,y:H-4,'font-size':12,fill:'var(--ink3)'},'* cálculo propio, 14 t por camión'));
+  }
+  dibuja();
+  var anchoT=svg.clientWidth;
+  addEventListener('resize',function(){ if(Math.abs(svg.clientWidth-anchoT)>40){ anchoT=svg.clientWidth; dibuja();
+    if(typeof escalaTodo==='function') escalaTodo(); } });
   svg.setAttribute('role','img');
   svg.setAttribute('aria-label','Comparación de camiones diarios según tres capítulos del mismo '+
     'estudio: 65 para la losa de lavado, 91 para el estudio vial, y entre 176 y 319 según el '+
@@ -2190,6 +2657,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 /* ===== simulación de tránsito en la Ruta 60 ===== */
 (function(){
   var cv=document.getElementById('t-canvas'); if(!cv||!D.vial) return;
+  /* el lienzo mide 1000 px pero se muestra más chico: las fuentes se compensan */
+  function fk(){ return Math.max(1, cv.width/Math.max(1,cv.getBoundingClientRect().width)*0.75) }
   var V=D.vial, E=V.eiv, cx=cv.getContext('2d');
   var sel=document.getElementById('t-carga'), rng=document.getElementById('t-anio');
   V.cargas.forEach(function(c,i){
@@ -2234,12 +2703,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     cx.moveTo(0,y+34); cx.lineTo(W,y+34); cx.stroke();
     cx.setLineDash([16,16]); cx.strokeStyle=css('--line');
     cx.beginPath(); cx.moveTo(0,y+22); cx.lineTo(W,y+22); cx.stroke(); cx.setLineDash([]);
-    cx.fillStyle=css('--ink'); cx.font='600 16px '+css('--cart');
+    cx.fillStyle=css('--ink'); cx.font='600 '+Math.round(16*fk())+'px '+css('--cart');
     cx.fillText(etq,14,y-44);
-    cx.fillStyle=css('--ink2'); cx.font='15px '+css('--cart');
+    cx.fillStyle=css('--ink2'); cx.font=Math.round(15*fk())+'px '+css('--cart');
     cx.fillText(sub,14,y-26+54);
     cx.textAlign='right';
-    cx.fillStyle=tono; cx.font='600 26px '+css('--cart');
+    cx.fillStyle=tono; cx.font='600 '+Math.round(26*fk())+'px '+css('--cart');
     cx.fillText(n,W-14,y-40); cx.textAlign='left';
   }
   function dibujar(){
@@ -2257,7 +2726,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     document.getElementById('t-fac').textContent='×'+(s.real/s.eiv).toFixed(1).replace('.',',');
     document.getElementById('t-anio-v').textContent=s.anio;
   }
-  var corre=true, ult=performance.now(), visible=true;
+  var corre=!RM, ult=performance.now(), visible=true;
+  if(RM) document.getElementById('t-play').textContent='▶ Reanudar';
   function bucle(){
     requestAnimationFrame(bucle);
     var t=performance.now(), dt=Math.min((t-ult)/1000,.05); ult=t;
@@ -2285,26 +2755,69 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   function E(t,a,x){var n=document.createElementNS(NS,t);for(var k in a)n.setAttribute(k,a[k]);
     if(x!=null)n.textContent=x;return n}
   if(svg&&A.al_filo){
-    var W=700,H=250,ml=200,mr=96,mt=14,mb=28, L=A.al_filo;
-    var max=Math.max.apply(null,L.map(function(x){return x.borde}));
-    max=Math.ceil(max/50)*50;
-    var bh=(H-mt-mb)/L.length;
-    L.forEach(function(x,i){
-      var y=mt+i*bh+bh*.22, h2=bh*.44, w=(W-ml-mr)*x.borde/max;
-      svg.appendChild(E('rect',{x:ml,y:y,width:(W-ml-mr),height:h2,fill:'var(--surf2)'}));
-      svg.appendChild(E('rect',{x:ml,y:y,width:w.toFixed(1),height:h2,fill:'var(--acc)'}));
-      svg.appendChild(E('text',{x:ml-12,y:y+h2*.76,'font-size':14,'font-weight':600,
-        fill:'var(--ink)','text-anchor':'end'},x.n));
-      svg.appendChild(E('text',{x:ml+w+10,y:y+h2*.78,'font-size':15,'font-weight':600,
-        fill:'var(--acc)'},x.borde+' m'));
+    /* una regla en metros: el borde del área en cero, cada población en su fila.
+       El nombre va encima de su línea para que resista el ancho de un celular. */
+    var dentro=(A.detalle||[]).filter(function(x){return x.dentro});
+    var filas=dentro.map(function(x){return {n:x.n,dentro:true}})
+      .concat(A.al_filo.map(function(x){return {n:x.n,borde:x.borde}}));
+    /* en pantallas angostas el lienzo se dibuja más estrecho, para que el texto no tenga que crecer */
+    function dibujaFilo(){
+    while(svg.firstChild) svg.removeChild(svg.firstChild);
+    var ang=svg.clientWidth&&svg.clientWidth<560;
+    var W=ang?Math.max(280,svg.clientWidth):700, RH=ang?54:50, top=ang?86:58, bx=ang?80:170, x1=W-(ang?50:70), MAXM=150;
+    var H=top+filas.length*RH+44;
+    svg.setAttribute('viewBox','0 0 '+W+' '+H);
+    var X=function(m){return bx+(x1-bx)*m/MAXM};
+    var cerca=A.al_filo.filter(function(x){return x.borde<MAXM}).length;
+    var rojas=A.al_filo.slice().sort(function(a,b){return a.borde-b.borde}).slice(0,2)
+      .map(function(x){return x.n});
+    /* zona interior, rejilla y escala */
+    svg.appendChild(E('rect',{x:20,y:top-14,width:bx-20,height:filas.length*RH+10,
+      fill:'var(--green)','fill-opacity':.08}));
+    svg.appendChild(E('text',{x:bx-12,y:top-22,'font-size':12.5,fill:'var(--green)',
+      'text-anchor':'end','font-weight':600},ang?'dentro':'dentro del área'));
+    svg.appendChild(E('text',{x:bx+12,y:top-22,'font-size':12.5,fill:'var(--ink2)'},
+      ang?'fuera →':'fuera, a esta distancia del borde →'));
+    [0,50,100,150].forEach(function(m){
+      svg.appendChild(E('line',{x1:X(m),x2:X(m),y1:top-14,y2:top+filas.length*RH-4,
+        stroke:'var(--grid)','stroke-width':1}));
+      svg.appendChild(E('text',{x:X(m),y:top+filas.length*RH+16,'font-size':12.5,
+        fill:'var(--ink3)','text-anchor':'middle'},m+' m'));
     });
-    svg.appendChild(E('line',{x1:ml,x2:ml,y1:mt,y2:H-mb+4,stroke:'#ffd166',
-      'stroke-width':2.4,'stroke-dasharray':'8 5'}));
-    svg.appendChild(E('text',{x:ml,y:H-mb+20,'font-size':12.5,fill:'#c9a243',
-      'text-anchor':'middle'},'límite del área de influencia'));
+    svg.appendChild(E('line',{x1:bx,x2:bx,y1:top-14,y2:top+filas.length*RH,
+      stroke:'var(--warn)','stroke-width':2.4,'stroke-dasharray':'8 5'}));
+    svg.appendChild(E('text',{x:bx,y:top+filas.length*RH+34,'font-size':12.5,fill:'var(--warn)',
+      'text-anchor':'middle','font-weight':600},'borde del área de influencia'));
+    /* la cifra de la alarma, escrita en el gráfico */
+    if(ang){
+      svg.appendChild(E('text',{x:4,y:22,'font-size':17,'font-weight':600,fill:'var(--ink)'},cerca+' poblaciones a menos'));
+      svg.appendChild(E('text',{x:4,y:44,'font-size':17,'font-weight':600,fill:'var(--ink)'},'de '+MAXM+' m del borde'));
+    } else svg.appendChild(E('text',{x:W-20,y:24,'font-size':17,'font-weight':600,fill:'var(--ink)',
+      'text-anchor':'end'},cerca+' poblaciones a menos de '+MAXM+' m del borde'));
+    filas.forEach(function(f,i){
+      var y=top+i*RH, yl=y+22;
+      var col=f.dentro?'var(--green)':(rojas.indexOf(f.n)>=0?'var(--acc)':'var(--ink3)');
+      svg.appendChild(E('text',{x:f.dentro?(ang?20:bx-14):bx+12,y:(f.dentro&&!ang)?yl+5:y+6,
+        'text-anchor':(f.dentro&&!ang)?'end':'start','font-size':14,'font-weight':600,
+        fill:f.dentro?'var(--ink)':(rojas.indexOf(f.n)>=0?'var(--ink)':'var(--ink2)')},f.n));
+      if(f.dentro){
+        svg.appendChild(E('circle',{cx:bx,cy:yl,r:6,fill:col}));
+        return;
+      }
+      svg.appendChild(E('line',{x1:bx,x2:X(f.borde),y1:yl,y2:yl,stroke:col,'stroke-width':3}));
+      svg.appendChild(E('circle',{cx:X(f.borde),cy:yl,r:7,fill:col}));
+      svg.appendChild(E('text',{x:X(f.borde)+13,y:yl+5,'font-size':15,'font-weight':600,fill:col},
+        Math.round(f.borde)+' m'));
+    });
+    }
+    dibujaFilo();
+    var anchoFilo=svg.clientWidth;
+    addEventListener('resize',function(){ if(Math.abs(svg.clientWidth-anchoFilo)>40){
+      anchoFilo=svg.clientWidth; dibujaFilo(); if(typeof escalaTodo==='function') escalaTodo(); } });
     svg.setAttribute('role','img');
-    svg.setAttribute('aria-label','Metros que separan a cada población excluida del borde del '+
-      'área de influencia declarada. Botania queda a 72 metros, Cumbres de Quilpué a 77.');
+    svg.setAttribute('aria-label','Distancia de cada población al borde del área de influencia '+
+      'que declaró el titular. Dentro: '+dentro.map(function(x){return x.n}).join(' y ')+'. Fuera: '+
+      A.al_filo.map(function(x){return x.n+' a '+Math.round(x.borde)+' metros'}).join(', ')+'.');
   }
   var tb=document.getElementById('tbl-ai');
   /* solo las que están dentro y las seis que quedan al filo: el resto repite «excluida» */
@@ -2313,7 +2826,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   if(tb) mostrar.forEach(function(x){
     var tr=document.createElement('tr');
     tr.innerHTML='<td><b>'+x.n+'</b></td>'+
-      '<td class="num" data-th="Al botadero">'+x.d.toFixed(2).replace('.',',')+' km</td>'+
+      '<td class="num" data-th="A la zona de disposición">'+x.d.toFixed(2).replace('.',',')+' km</td>'+
       '<td class="num" data-th="Al borde del AI">'+(x.dentro?'—':x.borde+' m')+'</td>'+
       '<td data-th="¿La reconoce?"><span class="flag '+(x.dentro?'f-ok':'f-bad')+'">'+
       (x.dentro?'dentro':'excluida')+'</span></td>';
@@ -2345,26 +2858,30 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var P=fitter([T.lon0,mYi(cyM-hhM),T.lon1,mYi(cyM+hhM)],W,H,0);
   if(D.fondo){
     var F=D.fondo, a=P(F.lon0,F.lat1), b=P(F.lon1,F.lat0);
-    svg.appendChild(el('image',{href:'fondo.jpg','xlink:href':'fondo.jpg',
+    svg.appendChild(el('image',{href:ras('fondo.jpg'),'xlink:href':ras('fondo.jpg'),
       x:a[0].toFixed(1),y:a[1].toFixed(1),width:(b[0]-a[0]).toFixed(1),
       height:(b[1]-a[1]).toFixed(1),preserveAspectRatio:'none'}));
     svg.appendChild(el('rect',{x:0,y:0,width:W,height:H,fill:'#0d1014','fill-opacity':.5}));
   }
   var gC=el('g',{});
   var tl=P(T.lon0,T.lat1), br=P(T.lon1,T.lat0);
-  gC.appendChild(el('image',{href:'cuenca.png','xlink:href':'cuenca.png',
-    x:tl[0].toFixed(1),y:tl[1].toFixed(1),width:(br[0]-tl[0]).toFixed(1),
-    height:(br[1]-tl[1]).toFixed(1),preserveAspectRatio:'none',opacity:.95}));
+  var eCue=el('image',{x:tl[0].toFixed(1),y:tl[1].toFixed(1),width:(br[0]-tl[0]).toFixed(1),
+    height:(br[1]-tl[1]).toFixed(1),preserveAspectRatio:'none',opacity:.95});
+  gC.appendChild(eCue);
+  difiere(svg,function(){var h=ras('cuenca.png');eCue.setAttribute('href',h);eCue.setAttribute('xlink:href',h)});
   svg.appendChild(gC);
   svg.appendChild(el('path',{d:pathOf(L.predio.g,P),fill:'none',stroke:'#fbf7ec','stroke-width':1.8}));
   svg.appendChild(el('path',{d:pathOf(L.residuos.g,P),fill:'var(--acc)','fill-opacity':.9,
     stroke:'#fbf7ec','stroke-width':1}));
   var vis={}; (D.cuenca&&D.cuenca.comunidades||[]).forEach(function(c){vis[c.n]=c.vis});
-  var marcas=[];
+  var marcas=[], completas=0;
   D.barrios.slice(0,16).forEach(function(b){
     var p=P(b.x,b.y);
     if(p[0]<70||p[0]>W-70||p[1]<24||p[1]>H-24) return;
-    marcas.push({b:b,x:p[0],y:p[1],v:vis[b.n]});
+    /* las que ven el macizo desde toda su superficie son la regla: punto sin rótulo.
+       Se rotulan las de vista parcial, que son las que la lista no deja adivinar */
+    var v=vis[b.n]; if(v!=null&&v>=99.5){ completas++; }
+    marcas.push({b:b,x:p[0],y:p[1],v:v,rot:!(v!=null&&v>=99.5)});
   });
   /* Desapilado vertical. El paso debe superar la altura de línea *ya escalada*: el
      lienzo de 980 se dibuja a unos 760 px, así que 12,5 px de tipo piden ~19 unidades;
@@ -2372,24 +2889,49 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
      porque el racimo es ancho y los rótulos largos se cruzan entre columnas. */
   var PASO=19;
   marcas.sort(function(a,b){return a.y-b.y});
-  for(var j=1;j<marcas.length;j++)
-    if(marcas[j].y-marcas[j-1].y<PASO)
-      marcas[j].ty=(marcas[j-1].ty!=null?marcas[j-1].ty:marcas[j-1].y)+PASO;
+  var conR=marcas.filter(function(m){return m.rot});
+  for(var j=1;j<conR.length;j++)
+    if(conR[j].y-conR[j-1].y<PASO)
+      conR[j].ty=(conR[j-1].ty!=null?conR[j-1].ty:conR[j-1].y)+PASO;
   marcas.forEach(function(m){
     var ty=m.ty!=null?m.ty:m.y, ve=m.v!=null&&m.v>=50;
     var dir=1;
-    if(Math.abs(ty-m.y)>3)   /* la etiqueta se corrió: átala a su punto */
+    if(false&&Math.abs(ty-m.y)>3)   /* sin rótulos en el mapa, no hay guías */
       svg.appendChild(el('path',{d:'M'+(m.x+5*dir).toFixed(1)+' '+m.y.toFixed(1)+
         'L'+(m.x+9*dir).toFixed(1)+' '+ty.toFixed(1),stroke:ve?'#ffb9a4':'#cfd6cf',
         'stroke-width':1,'stroke-opacity':.55,fill:'none'}));
     svg.appendChild(el('circle',{cx:m.x.toFixed(1),cy:m.y.toFixed(1),r:4.5,
       fill:ve?'#ffb9a4':'#fbf7ec',stroke:'#14161a','stroke-width':1.4}));
+    /* los nombres van en la lista bajo el mapa: en el racimo del noreste se pisaban */
+    return;
     var t=el('text',{x:(m.x+10*dir).toFixed(1),y:(ty+4).toFixed(1),'font-size':12.5,
       'font-family':'var(--cart)','font-weight':600,fill:ve?'#ffb9a4':'#cfd6cf',
       'paint-order':'stroke',stroke:'#14161a','stroke-width':3.6,'stroke-linejoin':'round'});
-    t.textContent=m.b.n+(m.v!=null?' · '+m.v.toFixed(0)+' %':'');
+    t.textContent=m.b.n.replace('Comunidad ','').replace('Población ','')+(m.v!=null?' · '+m.v.toFixed(0)+' %':'');
     svg.appendChild(t);
   });
+  /* la cifra de la alarma, escrita en el mapa */
+  if(D.cuenca){
+    var C=D.cuenca;
+    /* lo_ven cuenta las que ven el macizo desde al menos la mitad de su superficie */
+    var todas=(C.comunidades||[]).filter(function(c){return c.vis>=99.5}).length;
+    var kk=Math.max(1,W/(svg.clientWidth||W)), al=function(f){return Math.max(f,12*kk)*1.3};
+    var y1=56+al(15)+2, y2=y1+al(13);
+    [[C.lo_ven+' de '+C.total,34,56,'#fbf7ec'],['poblaciones ven el macizo desde',15,y1,'#fbf7ec'],
+     ['más de la mitad de sus calles; '+todas+', desde todas',13,y2,'#d8dcd4']].forEach(function(e){
+      var t=el('text',{x:24,y:e[2],'font-size':e[1],'font-family':'var(--cifra)','font-weight':600,fill:e[3],
+        'paint-order':'stroke',stroke:'#14161a','stroke-width':4,'stroke-linejoin':'round'});
+      t.textContent=e[0]; svg.appendChild(t);
+    });
+    var lp=document.getElementById('cuenca-parcial');
+    if(lp){
+      var corto=function(n){return n.replace('Comunidad ','').replace('Población ','')};
+      var parc=(C.comunidades||[]).filter(function(c){return c.vis<99.5}).sort(function(a,b){return b.vis-a.vis});
+      lp.innerHTML='<b>Desde todas sus calles:</b> '+(C.comunidades||[]).filter(function(c){return c.vis>=99.5})
+        .map(function(c){return corto(c.n)}).join(', ')+'. <b>Desde parte de ellas:</b> '+
+        parc.map(function(c){return corto(c.n)+' '+c.vis.toFixed(0)+' %'}).join(' · ')+'.';
+    }
+  }
   (function(){
     var p0=P(bb[0],bb[1]), p1=P(bb[0],bb[3]);
     var kmpx=Math.abs(p1[1]-p0[1])/(111.32*(bb[3]-bb[1]));
@@ -2421,7 +2963,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   function fila(etq,q){
     var tr=document.createElement('tr');
     tr.innerHTML='<td>'+etq+'</td>'+
-      '<td class="num" data-th="Quemada"><b>'+q.quemado.toFixed(1).replace('.',',')+' %</b></td>'+
+      '<td class="num" data-th="Quemada"><b>'+q.quemado.toFixed(1).replace('.',',')+' %</b>'+
+      '<span class="bq" aria-hidden="true"><i style="width:'+q.quemado+'%"></i></span></td>'+
       '<td class="num" data-th="Severidad alta">'+q.severa.toFixed(1).replace('.',',')+' %</td>';
     tb.appendChild(tr);
   }
@@ -2442,19 +2985,35 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var a=(rumbo-90)*Math.PI/180, r=Math.min(km,DMAX)/DMAX*RMAX;
     return [CX+Math.cos(a)*r, CY+Math.sin(a)*r];
   }
-  /* corredor del viento: sectores finos, sin arcos */
-  for(var a=V.hacia-35;a<V.hacia+35;a+=2){
-    var q0=XY(a,DMAX), q1=XY(a+2,DMAX);
-    svg.appendChild(E('path',{d:'M'+CX+' '+CY+'L'+q0[0].toFixed(1)+' '+q0[1].toFixed(1)+
-      'L'+q1[0].toFixed(1)+' '+q1[1].toFixed(1)+'Z',fill:'var(--warn)','fill-opacity':.17}));
+  /* dos franjas: la que declara el titular (sopla hacia 0°–20°) en pleno,
+     y la pluma de ±35° de este análisis como velo, rotulada como supuesto propio */
+  function sector(a0,a1,op){
+    var d='M'+CX+' '+CY;
+    for(var a=a0;a<=a1;a+=1){ var q=XY(a,DMAX); d+='L'+q[0].toFixed(1)+' '+q[1].toFixed(1) }
+    svg.appendChild(E('path',{d:d+'Z',fill:'var(--warn)','fill-opacity':op}));
+  }
+  var h0=(V.desde_min+180)%360, h1=(V.desde_max+180)%360;
+  sector(V.hacia-35,V.hacia+35,.09);
+  sector(h0,h1,.34);
+  /* rótulos de las franjas en dos líneas, dentro del lienzo también en celular */
+  var et=XY(h1,DMAX), es=XY(V.hacia-35,DMAX), angosto=svg.clientWidth&&svg.clientWidth<560;
+  svg.appendChild(E('text',{x:(et[0]+10).toFixed(1),y:(et[1]+4).toFixed(1),'font-size':12.5,'font-weight':600,
+    fill:'var(--warn)'},angosto?'según el titular':'lo que declara'));
+  svg.appendChild(E('text',{x:(es[0]-8).toFixed(1),y:(es[1]+2).toFixed(1),'font-size':12,
+    fill:'var(--ink3)','text-anchor':'end'},'±35°: supuesto'));
+  if(!angosto){
+    svg.appendChild(E('text',{x:(et[0]+10).toFixed(1),y:(et[1]+22).toFixed(1),'font-size':12.5,'font-weight':600,
+      fill:'var(--warn)'},'el titular'));
+    svg.appendChild(E('text',{x:(es[0]-8).toFixed(1),y:(es[1]+20).toFixed(1),'font-size':12,
+      fill:'var(--ink3)','text-anchor':'end'},'de este análisis'));
   }
   [1,2,3,4,5].forEach(function(km){
     var r=km/DMAX*RMAX;
     svg.appendChild(E('circle',{cx:CX,cy:CY,r:r,fill:'none',stroke:'var(--line)',
       'stroke-width':km===5?1.2:1,'stroke-dasharray':km===5?'':'3 4'}));
-    var e=XY(242,km);
-    svg.appendChild(E('text',{x:(e[0]+6).toFixed(1),y:(e[1]-4).toFixed(1),
-      'font-size':11.5,fill:'var(--ink3)'},km+' km'));
+    if(km%2){ var e=XY(128,km);
+    svg.appendChild(E('text',{x:(e[0]+4).toFixed(1),y:(e[1]+12).toFixed(1),
+      'font-size':12,fill:'var(--ink3)'},km+' km')); }
   });
   [['N',0],['E',90],['S',180],['O',270]].forEach(function(d){
     var p=XY(d[1],DMAX);
@@ -2476,17 +3035,33 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   svg.appendChild(E('circle',{cx:CX,cy:CY,r:13,fill:'none',stroke:'var(--acc)',
     'stroke-width':1.4,'stroke-opacity':.5}));
   svg.appendChild(E('circle',{cx:CX,cy:CY,r:7,fill:'var(--acc)'}));
-  var lista=D.rumbos.slice(0,12);
+  var lista=D.rumbos.slice(0,14);
+  function enRango(rb){ return h0<=h1 ? (rb>=h0&&rb<=h1) : (rb>=h0||rb<=h1) }
+  function norte(rb){ return rb>=270||rb<=90 }
   lista.forEach(function(r){
-    var p=XY(r.rumbo,r.d);
-    svg.appendChild(E('circle',{cx:p[0].toFixed(1),cy:p[1].toFixed(1),r:6,
-      fill:r.desvio<=35?'var(--acc)':'var(--ink3)',stroke:'var(--surf)','stroke-width':1.6}));
+    var p=XY(r.rumbo,r.d), est=enRango(r.rumbo), en=r.desvio<=35;
+    svg.appendChild(E('circle',{cx:p[0].toFixed(1),cy:p[1].toFixed(1),r:est?8:6,
+      fill:en?'var(--acc)':'var(--surf)',stroke:en?'var(--surf)':'var(--ink3)',
+      'stroke-width':en?1.6:2}));
   });
+  /* rótulos directos: las dos dentro del rango del titular y Cumbres, a 1° de él */
+  var R={}; lista.forEach(function(r){R[r.n]=r});
+  [['Botania',0,-46,'middle'],['Argentina',14,5,'start'],['Cumbres de Quilpué',-14,5,'end']].forEach(function(x){
+    var r=R[x[0]]; if(!r) return; var p=XY(r.rumbo,r.d);
+    if(x[2]<-20) svg.appendChild(E('line',{x1:p[0],y1:p[1]-9,x2:p[0],y2:p[1]+x[2]+6,stroke:'var(--ink2)','stroke-width':1}));
+    svg.appendChild(E('text',{x:(p[0]+x[1]).toFixed(1),y:(p[1]+x[2]).toFixed(1),'font-size':13.5,'font-weight':600,
+      fill:'var(--ink)','text-anchor':x[3]},x[0]));
+  });
+  /* la cifra, en el cuadrante vacío: nadie a barlovento */
+  var nN=lista.filter(function(r){return norte(r.rumbo)}).length;
+  svg.appendChild(E('text',{x:22,y:392,'font-size':30,'font-weight':600,fill:'var(--acc)'},nN+' de '+lista.length));
+  svg.appendChild(E('text',{x:22,y:422,'font-size':14,'font-weight':600,fill:'var(--ink)'},'a sotavento'));
+  svg.appendChild(E('text',{x:22,y:448,'font-size':14,fill:'var(--ink2)'},(lista.length-nN)+' a barlovento'));
   var ol=document.getElementById('polarleg');
   if(ol) lista.forEach(function(r){
     var li=document.createElement('li');
     li.className = r.desvio<=35?'dentro':'fuera';
-    li.innerHTML='<span class="nm">'+r.n+'</span><span class="km">'+
+    li.innerHTML='<span class="nm">'+r.n+(r.desvio<=35?' <span class="vh">(dentro de la pluma)</span>':'')+'</span><span class="km">'+
       r.d.toFixed(2).replace('.',',')+' km</span>';
     ol.appendChild(li);
   });
@@ -2515,8 +3090,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   D.sub.barrera.forEach(function(c){
     var tr=document.createElement('tr');
     if(c.e==='1,5 mm') tr.className='clave';
-    tr.innerHTML='<td>'+c.n+'</td><td class="num">'+c.e+'</td>'+
-      '<td class="num">'+(c.k?'k = '+c.k:'')+'</td>';
+    tr.innerHTML='<td>'+c.n+'</td><td class="num" data-th="Espesor">'+c.e+'</td>'+
+      '<td class="num" data-th="Permeabilidad">'+(c.k?'k = '+c.k:'')+'</td>';
     tb.appendChild(tr);
   });
 })();
@@ -2563,6 +3138,28 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   gNo.appendChild(t(726,374,'antorcha de biogás','#ffd9c7','middle',15));
   gNo.appendChild(linea(1246,372,1246,440,'#ff7a45',2));
   gNo.appendChild(t(1246,462,'entre 65 y 319 camiones al día','#ffd9c7','middle',15));
+  /* marcadores numerados: los mismos números de la lista de abajo, legibles también en celular */
+  var gNum=el('g',{});
+  gNo.appendChild(gNum);
+  var MARCAS=[[1,560,283],[2,660,283],[3,500,322],[4,1246,396],[5,60,690],[6,726,316]];
+  function numeros(){
+    while(gNum.firstChild) gNum.removeChild(gNum.firstChild);
+    var k=W/Math.max(1,svg.clientWidth||W), r=Math.max(13,12*k);
+    /* en pantallas angostas los círculos crecen: se separan para no encimarse */
+    var ang=k>2.2;
+    var M=ang?[[1,470,200],[2,640,200],[3,470,400],[4,1246,396],[5,70,680],[6,790,390]]:MARCAS;
+    /* en angosto, los rótulos de texto de esta capa se apagan: la lista numerada los reemplaza */
+    Array.prototype.forEach.call(gNo.querySelectorAll('text:not([data-fijo]),line'),function(e){
+      e.style.display=ang?'none':''; });
+    M.forEach(function(m){
+      gNum.appendChild(el('circle',{cx:m[1],cy:m[2],r:r,fill:'#ff7a45',stroke:'#0d1014','stroke-width':Math.max(2,1.5*k)}));
+      var n=el('text',{x:m[1],y:m[2]+r*.36,'font-family':'var(--cifra)','font-size':r*1.05,'font-weight':600,
+        fill:'#0d1014','text-anchor':'middle'});
+      n.textContent=m[0]; n.setAttribute('data-fijo','1'); gNum.appendChild(n);
+    });
+  }
+  numeros();
+  addEventListener('resize',function(){ clearTimeout(numeros._t); numeros._t=setTimeout(numeros,150) });
   svg.appendChild(gNo);
 
   var si=document.getElementById('f-lo'), no=document.getElementById('f-no');
@@ -2588,11 +3185,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   if(c){
     F.forEach(function(f){
       var d=document.createElement('div'); d.className='falta';
-      d.innerHTML='<div class="ft">'+f[0]+'</div><div class="fd">'+f[1]+'</div>';
+      d.innerHTML='<div class="ft"><span class="fn">'+(F.indexOf(f)+1)+'</span>'+f[0]+'</div><div class="fd">'+f[1]+'</div>';
       c.appendChild(d);
     });
-    c.style.display='none';
   }
+  /* se abre en lo que el fotomontaje omite: la versión del titular queda a un toque */
+  modo(false);
 })();
 
 
@@ -2634,7 +3232,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var tr=document.createElement('tr');
     if(!f[1]&&!f[2]) tr.className='cero';
     tr.innerHTML='<td>'+f[0]+'</td>'+
-      '<td class="num">'+f[1]+'</td><td class="num">'+f[2]+'</td>';
+      '<td class="num" data-th="Menciones en el Cap. 1">'+f[1]+'</td>'+
+      '<td class="num" data-th="Menciones en el Cap. 8">'+f[2]+'</td>';
     tb.appendChild(tr);
   });
 })();

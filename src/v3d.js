@@ -1,8 +1,13 @@
 /* ================= visor 3D del terreno ================= */
 (function(){
-if(typeof THREE==='undefined'){ return; }
-var M=D.terr, S=M.ancho_m, N=M.n;
+/* sin Three.js o sin WebGL, el lienzo explica por qué está vacío y la página sigue */
+function sinWebGL(c){
+  c.innerHTML='<p class="sinwebgl">Tu navegador no puede mostrar el modelo 3D. '+
+    'Lo esencial está en el texto, en las cifras y en los mapas de esta página.</p>';
+}
 var cv=$('#cv');
+if(typeof THREE==='undefined'){ sinWebGL(cv); return; }
+var M=D.terr, S=M.ancho_m, N=M.n;
 var my=function(lat){return Math.log(Math.tan(Math.PI/4+lat*Math.PI/360))};
 var MY0=my(M.lat0), MY1=my(M.lat1);
 function uv(lon,lat){return [(lon-M.lon0)/(M.lon1-M.lon0),(my(lat)-MY0)/(MY1-MY0)]}
@@ -21,9 +26,16 @@ function hAt(u,v){
 function hWorld(x,z){return hAt(x/S+0.5,-z/S+0.5)}
 
 /* ---------- renderer ---------- */
-var ren=new THREE.WebGLRenderer({antialias:true});
+var ren;
+try { ren=new THREE.WebGLRenderer({antialias:true}); }
+catch(e){ sinWebGL(cv); return; }
 ren.setPixelRatio(Math.min(devicePixelRatio,2));
 cv.appendChild(ren.domElement);
+/* el lienzo tiene nombre, recibe foco y se mueve con teclado */
+ren.domElement.setAttribute('role','img'); ren.domElement.tabIndex=0;
+ren.domElement.setAttribute('aria-label','Maqueta 3D del relleno sobre el terreno de la quebrada de El Salto: '+
+  'la masa de residuos, el deslinde del predio y las comunidades más cercanas con su distancia. '+
+  'Las cifras del año elegido están debajo del visor.');
 var sc=new THREE.Scene();
 
 /* cielo en degradé: da horizonte y despega el terreno del fondo */
@@ -127,12 +139,12 @@ function construirTerreno(){
 
 /* ambas capas nacen apagadas: la imagen se pide recién al encenderlas */
 function cargaCic(){
-  if(!texCic){ texCic=tl.load('cicatriz.png');
+  if(!texCic){ texCic=tl.load(ras('cicatriz.png'));
     texCic.minFilter=THREE.LinearFilter; texCic.generateMipmaps=false }
   return texCic;
 }
 function cargaCue(){
-  if(!texCue){ texCue=tl.load('cuenca.png');
+  if(!texCue){ texCue=tl.load(ras('cuenca.png'));
     texCue.minFilter=THREE.LinearFilter; texCue.generateMipmaps=false }
   return texCue;
 }
@@ -353,7 +365,8 @@ function ubicarMarcas(){
     var q=m.v3.clone().project(cam);
     var x=(q.x*.5+.5)*w, y=(-q.y*.5+.5)*h;
     if(q.z>=1||x<8||x>w-8||y<10||y>h-10){ apaga(m); return }
-    m.x=x; m.y=y; m.izq = x > w-reserva-ANCHO;
+    /* el texto va al lado donde cabe; si no cabe en ninguno, al que tiene más espacio */
+    m.x=x; m.y=y; m.izq = (x > w-reserva-ANCHO) && (x-ANCHO > 0 || x > w/2);
     enPantalla.push(m);
   });
   if(!on) return;
@@ -475,7 +488,10 @@ var tl=new THREE.TextureLoader();
 function cargarSat(cb){
   if(texSat){cb&&cb();return}
   var b=$('#b-sat'); b.textContent='Cargando…';
-  texSat=tl.load('textura.jpg',function(){
+  /* en celular basta la mitad de resolución: 0,34 MB en vez de 1,78 */
+  var grande=cv.clientWidth*Math.min(devicePixelRatio||1,2)>1200;
+  var src=grande?'textura.jpg':(WEBP?'textura-1024.webp':'textura-1024.jpg');
+  texSat=tl.load(src,function(){
     b.textContent='Satélite';
     var an=ren.capabilities.getMaxAnisotropy?ren.capabilities.getMaxAnisotropy():1;
     texSat.generateMipmaps=true;
@@ -489,7 +505,7 @@ function arrancar(){
   construirTerreno(); prepararMasa(); construirCapas(); construirMarcas();
   target.set(wx(centroU[0]), hAt(centroU[0],centroU[1])*K()+40, wz(centroU[1]));
   aplicarAnio(+$('#tl').value);
-  crearPluma(); crearFlujo(); crearArcos(); rosaViento();
+  crearPluma(); crearFlujo(); crearArcos(); rosaViento(); aplicarSim();
   resize(); place(); animar();
 }
 
@@ -497,6 +513,7 @@ function arrancar(){
 var P3=D.proy;
 function aplicarAnio(y){
   $('#tl-yr').textContent=y===0?'Antes de operar':'Año '+y;
+  $('#tl').setAttribute('aria-valuetext',y===0?'Antes de operar':'Año '+y+' de 25');
   var ton=y?P3.acumulado_t[y-1]:0, esp=y?P3.altura_m[y-1]:0,
       ch4=y?P3.ch4_m3_anio[y-1]:0, cm=y?Math.round(P3.masa_anual_t[y-1]/3650)*2:0;
   $('#k-ton').textContent=ton?(ton/1e6).toFixed(1).replace('.',',')+' M t':'—';
@@ -520,7 +537,22 @@ $('#tl-play').addEventListener('click',function(){
 
 /* ---------- controles ---------- */
 var drag=false,lx=0,ly=0;
-var dom=ren.domElement; dom.style.touchAction='none'; dom.style.cursor='grab';
+var dom=ren.domElement; dom.style.touchAction='pan-y'; dom.style.cursor='grab';
+/* teclado y botones: girar con flechas, acercar con + y − */
+function orbita(q){
+  if(q==='izq') th+=0.12; if(q==='der') th-=0.12;
+  if(q==='mas') rad=Math.max(S*0.08,rad*0.85); if(q==='menos') rad=Math.min(S*1.1,rad*1.18);
+  place();
+}
+dom.addEventListener('keydown',function(e){
+  var m={ArrowLeft:'izq',ArrowRight:'der','+':'mas','=':'mas','-':'menos'}[e.key];
+  if(e.key==='ArrowUp'){ ph=Math.max(0.22,ph-0.06); place(); e.preventDefault(); return }
+  if(e.key==='ArrowDown'){ ph=Math.min(1.08,ph+0.06); place(); e.preventDefault(); return }
+  if(m){ orbita(m); e.preventDefault() }
+});
+Array.prototype.forEach.call(document.querySelectorAll('[data-orb]'),function(b){
+  b.addEventListener('click',function(){ orbita(b.getAttribute('data-orb')) });
+});
 dom.addEventListener('pointerdown',function(e){
   drag=true;lx=e.clientX;ly=e.clientY;dom.style.cursor='grabbing';
   dom.setPointerCapture(e.pointerId)});
@@ -811,12 +843,20 @@ function pasoTour(dt){
   }
 }
 
+/* pausa: detiene y oculta las partículas; con «reducir movimiento» del sistema arranca pausado */
+var simOn=!RM;
+function aplicarSim(){
+  if(pluma) pluma.visible=simOn&&chkOn('L-pluma');
+  if(flujo) flujo.visible=simOn&&chkOn('L-flujo');
+  if(arcos) arcos.visible=simOn&&chkOn('L-arcos');
+  var b=$('#b-sim'); if(b){ b.setAttribute('aria-pressed',simOn);
+    b.innerHTML=simOn?'<span aria-hidden="true">❚❚</span> Pausar simulación':'<span aria-hidden="true">▶</span> Reanudar simulación'; }
+}
+(function(){ var b=$('#b-sim'); if(b) b.addEventListener('click',function(){ simOn=!simOn; aplicarSim() }) })();
 ['L-pluma','L-flujo','L-arcos'].forEach(function(id){
   var e=document.getElementById(id);
   if(e) e.addEventListener('change',function(){
-    if(id==='L-pluma'&&pluma) pluma.visible=e.checked;
-    if(id==='L-flujo'&&flujo) flujo.visible=e.checked;
-    if(id==='L-arcos'&&arcos) arcos.visible=e.checked;
+    aplicarSim();
   });
 });
 
@@ -835,7 +875,8 @@ function animar(){
   requestAnimationFrame(animar);
   var ahora=performance.now(), dt=Math.min((ahora-ult)/1000,0.05); ult=ahora;
   if(!vis) return;
-  pasoTour(dt); pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt);
+  pasoTour(dt);
+  if(simOn){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
   ren.render(sc,cam); ubicarMarcas();
 }
 cargarAltura(function(){ cargarFlujo(arrancar) });

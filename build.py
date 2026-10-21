@@ -8,7 +8,7 @@ plantilla.html (en el marcador "})();\\n</script>"), inyecta
 datos.json en el marcador /*__DATOS__*/ y envuelve todo en un HTML completo.
 Valida la sintaxis del bloque <script> final si hay node disponible.
 """
-import io, os, re, shutil, subprocess, sys
+import io, os, re, shutil, subprocess, sys, datetime
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 SRC  = os.path.join(AQUI, 'src')
@@ -32,6 +32,8 @@ def main():
 
     assert pleno.count('/*__DATOS__*/') == 1
     pleno = pleno.replace('/*__DATOS__*/', leer('datos.json'))
+    assert pleno.count('{fecha}') == 1
+    pleno = pleno.replace('{fecha}', fecha())
 
     # el bloque <script> final, comprobado con node si está disponible
     bloque = re.findall(r'<script>(.*?)</script>', pleno, re.S)[-1]
@@ -65,15 +67,34 @@ def tokens(h):
     assert blo.count('{') == blo.count('}'), 'bloque de tokens descuadrado'
     return blo
 
+def fuentes(h):
+    """Los @font-face autohospedados de plantilla.html, para que la página secundaria
+    use las mismas fuentes locales y tampoco se conecte a terceros."""
+    i = h.index('<style>\n/* fuentes autohospedadas')
+    j = h.index('</style>', i) + len('</style>')
+    return h[i:j]
+
 def segunda(h):
     """que-puede-pasar.html: el recorrido del expediente y sus desenlaces.
     Es estática — no usa datos.json ni los visores 3D — así que sólo hereda los tokens."""
     pg = leer('plazos.html')
     assert pg.count('/*__TOKENS__*/') == 1, 'marcador de tokens ausente en plazos.html'
     pg = pg.replace('/*__TOKENS__*/', tokens(h))
+    assert pg.count('<!--__FUENTES__-->') == 1, 'marcador de fuentes ausente en plazos.html'
+    pg = pg.replace('<!--__FUENTES__-->', fuentes(h))
     destino = os.path.join(AQUI, 'que-puede-pasar.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('que-puede-pasar.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+
+def fecha():
+    """Fecha del último commit, en palabras; si no hay git, la de hoy."""
+    try:
+        iso = subprocess.run(['git','log','-1','--format=%cs'], capture_output=True, text=True, cwd=AQUI).stdout.strip()
+        d = datetime.date.fromisoformat(iso) if iso else datetime.date.today()
+    except Exception:
+        d = datetime.date.today()
+    meses = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre']
+    return '%d de %s de %d' % (d.day, meses[d.month-1], d.year)
 
 def envolver(s):
     """El fragmento se escribió para el envoltorio de los artifacts; aquí hay que ponerlo."""
@@ -84,7 +105,7 @@ def envolver(s):
              'html{-webkit-text-size-adjust:100%}\nbody{margin:0}\nimg{max-width:100%}\n'
              '[hidden]{display:none!important}\n</style>')
     social = io.open(os.path.join(SRC, 'social.html'), encoding='utf-8').read().replace('{url}', URL)
-    return ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
+    return ('<!DOCTYPE html>\n<html lang="es-CL">\n<head>\n<meta charset="utf-8">\n'
             + cabeza.strip() + '\n' + social + reset
             + '\n</head>\n<body>\n' + cuerpo.strip() + '\n</body>\n</html>\n')
 

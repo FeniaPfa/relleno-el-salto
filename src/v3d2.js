@@ -1,7 +1,11 @@
 /* ============ corte del subsuelo: las 11 secciones geofísicas ============ */
 (function(){
-if(typeof THREE==='undefined'||!D.sub||!D.terr) return;
-var cv=document.getElementById('cv2'); if(!cv) return;
+var cv=document.getElementById('cv2'); if(!cv||!D.sub||!D.terr) return;
+function sinWebGL(c){
+  c.innerHTML='<p class="sinwebgl">Tu navegador no puede mostrar el corte del subsuelo. '+
+    'La sección geofísica elegida se muestra más abajo como imagen.</p>';
+}
+if(typeof THREE==='undefined'){ sinWebGL(cv); return; }
 var S=D.sub, M=D.terr, N=M.n, EX=1.5, BASE=70;
 
 /* ---------- ventana: el predio con holgura ---------- */
@@ -31,12 +35,17 @@ function hUV(u,v){return hGlobal(bb[0]+u*(bb[2]-bb[0]),
   2*(Math.atan(Math.exp(Y0+v*(Y1-Y0)))-Math.PI/4)*180/Math.PI)}
 
 /* ---------- escena ---------- */
-var ren=new THREE.WebGLRenderer({antialias:true,alpha:false});
+var ren;
+try { ren=new THREE.WebGLRenderer({antialias:true,alpha:false}); }
+catch(e){ sinWebGL(cv); return; }
 ren.setPixelRatio(Math.min(devicePixelRatio,2));
 ren.localClippingEnabled=true;
 /* el bloque se abre justo en el perfil elegido */
 var corte=new THREE.Plane(new THREE.Vector3(1,0,0),1e6), CORTE=[corte];
 cv.appendChild(ren.domElement);
+ren.domElement.setAttribute('role','img'); ren.domElement.tabIndex=0;
+ren.domElement.setAttribute('aria-label','Bloque 3D del subsuelo del predio con el vaso del relleno, la capa de maicillo '+
+  'permeable, la roca y la sección geofísica elegida en su posición real. La misma sección se muestra como imagen más abajo.');
 var sc=new THREE.Scene();
 (function(){
   var c=document.createElement('canvas'); c.width=4; c.height=256;
@@ -200,7 +209,7 @@ function mostrarSeccion(id){
   }
   var L1=lineaERT(p), alto=(p.cal.et-p.cal.eb)*EX;
   var g=new THREE.PlaneGeometry(L1.largo,alto);
-  var tex=cargador.load(p.cal.png);
+  var tex=cargador.load(ras(p.cal.png));
   tex.minFilter=THREE.LinearFilter; tex.generateMipmaps=false;
   var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({map:tex,transparent:true,
     side:THREE.DoubleSide,depthWrite:false,depthTest:false,alphaTest:.04}));
@@ -293,7 +302,21 @@ function construirCara(){
 
 /* ---------- controles ---------- */
 var drag=false,lx=0,ly=0,dom=ren.domElement;
-dom.style.touchAction='none'; dom.style.cursor='grab';
+dom.style.touchAction='pan-y'; dom.style.cursor='grab';
+function orbita(q){
+  if(q==='izq') th+=0.12; if(q==='der') th-=0.12;
+  if(q==='mas') rad=Math.max(ANCHO*.15,rad*0.85); if(q==='menos') rad=Math.min(ANCHO*2.4,rad*1.18);
+  place();
+}
+dom.addEventListener('keydown',function(e){
+  var m={ArrowLeft:'izq',ArrowRight:'der','+':'mas','=':'mas','-':'menos'}[e.key];
+  if(e.key==='ArrowUp'){ ph=Math.max(.16,ph-0.06); place(); e.preventDefault(); return }
+  if(e.key==='ArrowDown'){ ph=Math.min(1.42,ph+0.06); place(); e.preventDefault(); return }
+  if(m){ orbita(m); e.preventDefault() }
+});
+Array.prototype.forEach.call(document.querySelectorAll('[data-orb2]'),function(b){
+  b.addEventListener('click',function(){ orbita(b.getAttribute('data-orb2')) });
+});
 dom.addEventListener('pointerdown',function(e){drag=true;lx=e.clientX;ly=e.clientY;
   dom.style.cursor='grabbing';dom.setPointerCapture(e.pointerId)});
 dom.addEventListener('pointermove',function(e){
@@ -331,13 +354,14 @@ function arrancar(){
   var p0=S.ert[0];
   target.set(0,hUV(.5,.5)*EX,0); place();
   resize();
-  if(p0&&p0.cal) mostrarSeccion(p0.id);
+  /* la primera sección (174 KB) se pide cuando el visor se acerca a la pantalla */
+  difiere(cv,function(){ if(p0&&p0.cal) mostrarSeccion(p0.id) });
   animar();
   /* botones de perfil */
   var cont=document.getElementById('ert-btns');
   if(cont) S.ert.forEach(function(p,i){
     var b=document.createElement('button');
-    b.className='tg'; b.textContent=p.id.replace('ERT-','');
+    b.className='tg'; b.textContent=p.id.replace('ERT-',''); b.setAttribute('aria-label','Perfil '+p.id+', '+p.L+' m de largo');
     b.setAttribute('aria-pressed',i===0?'true':'false');
     b.title=p.id+' · '+p.L+' m'+(p.rho?' · '+p.rho[0]+'–'+p.rho[1]+' Ω·m':'');
     b.addEventListener('click',function(){

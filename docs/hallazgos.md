@@ -30,8 +30,8 @@ error medio **2,7 m**.
 durante la **etapa de cierre**». No hay ninguna imagen de los 25 años de operación.
 
 **Otros publicados.** 99,7 % del predio quemado en feb-2024 (dNBR Sentinel-2); viento de 180°–200°
-con 13 de 14 poblaciones a sotavento; AI del medio humano de 3.487 ha que excluye a Botania por
-**72 m**; tres cifras de camiones incompatibles (65 / 91 / 179–303); los 120 recorridos de
+con las 14 poblaciones más cercanas en el semicírculo norte y 2 en el rango estricto 0°–20°; AI del medio humano de 3.487 ha que excluye a Botania por
+**72 m**; tres cifras de camiones incompatibles (65 / 91 / 176–319 a 14 t por camión); los 120 recorridos de
 escorrentía terminan en el Marga-Marga; 19 de 25 organismos con observaciones; y contra incendio
 el expediente no compromete red húmeda, red seca ni hidrantes — **cero menciones** en los Cap. 1 y 8.
 

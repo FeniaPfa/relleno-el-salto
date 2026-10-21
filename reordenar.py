@@ -2,7 +2,7 @@
    python3 reordenar.py terreno subsuelo incendio ...
 El id 'hallazgos' queda siempre primero y 'observar' siempre último."""
 import io,re,sys
-p='web/plantilla.html'; s=io.open(p,encoding='utf-8').read()
+p='src/plantilla.html'; s=io.open(p,encoding='utf-8').read()
 ini=s.index('<section id="hallazgos"')
 fin=s.rindex('</section>')+len('</section>')
 cabeza, cuerpo, cola = s[:ini], s[ini:fin], s[fin:]
