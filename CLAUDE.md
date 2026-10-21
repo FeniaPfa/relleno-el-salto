@@ -127,3 +127,21 @@ anual y está ahora escrita en `proyecciones.py`.
 
 **La lección común:** cuando una cifra agregada cuadra, no asumas que la serie que la produce
 cuadra. Verifica los extremos.
+
+## El archivo del expediente
+
+`expediente/` es una copia de todo lo que el SEIA publicaba del expediente 2168892026:
+60 documentos, 97 adjuntos, 4.335 páginas de PDF más 42 documentos que en el SEIA **sólo
+existen como página web**. Se archiva porque el expediente es un sitio que el servicio
+puede cambiar o retirar. Empieza por [`expediente/INDICE.md`](expediente/INDICE.md).
+
+Al repositorio va sólo el texto (29 MB). Los binarios (1,5 GB) no caben;
+`expediente/manifiesto.json` guarda URL, tamaño y SHA-256 de cada uno para rebajarlos y
+comprobar que son los mismos. Los scripts que lo reconstruyen están en `archivo/`, con
+las trampas documentadas en [`archivo/LEEME.md`](archivo/LEEME.md).
+
+**Hay un pendiente abierto:** 268 páginas son imágenes sin capa de texto y siguen sin
+extraer. Están señalizadas en el texto como `===== p.N · sin texto =====`, y
+[`expediente/PENDIENTE-OCR.md`](expediente/PENDIENTE-OCR.md) lista cuáles son, cuáles
+importan y cómo lanzarlo. Lo que más pesa ahí es `ORD_2132_SAG`, un pronunciamiento con
+observaciones que está entero en imagen.

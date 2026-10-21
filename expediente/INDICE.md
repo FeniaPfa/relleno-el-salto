@@ -22,7 +22,8 @@ y comprobar que son los mismos.
 > **Las páginas escaneadas salen vacías, y están marcadas así.** En `texto/` aparecen
 > como `===== p.N · sin texto =====`. Son imágenes: oficios de servicios firmados,
 > consentimientos de entrevistas, certificados, planos. El texto se puede recuperar con
-> OCR —`OCR=1 python3 archivo/extraer.py`— pero eso no está hecho todavía.
+> OCR, que está escrito pero apagado. **Qué falta exactamente y cómo lanzarlo:**
+> [`PENDIENTE-OCR.md`](PENDIENTE-OCR.md).
 
 ### Los más afectados
 
