@@ -8,7 +8,7 @@ plantilla.html (en el marcador "})();\\n</script>"), inyecta
 datos.json en el marcador /*__DATOS__*/ y envuelve todo en un HTML completo.
 Valida la sintaxis del bloque <script> final si hay node disponible.
 """
-import io, os, re, shutil, subprocess, sys, datetime
+import io, os, re, shutil, subprocess, sys, datetime, json, html as htmlmod
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 SRC  = os.path.join(AQUI, 'src')
@@ -55,6 +55,7 @@ def main():
     print('index.html  %.1f KB  ·  %d secciones' % (kb, pleno.count('<section id=')))
 
     segunda(h)
+    sitemap()
 
 def tokens(h):
     """El bloque de variables de color de plantilla.html: :root y sus dos variantes
@@ -79,12 +80,67 @@ def segunda(h):
     Es estática — no usa datos.json ni los visores 3D — así que sólo hereda los tokens."""
     pg = leer('plazos.html')
     assert pg.count('/*__TOKENS__*/') == 1, 'marcador de tokens ausente en plazos.html'
-    pg = pg.replace('/*__TOKENS__*/', tokens(h))
+    pg = pg.replace('/*__TOKENS__*/', tokens(h)).replace('{fecha_iso}', fecha_iso())
     assert pg.count('<!--__FUENTES__-->') == 1, 'marcador de fuentes ausente en plazos.html'
     pg = pg.replace('<!--__FUENTES__-->', fuentes(h))
     destino = os.path.join(AQUI, 'que-puede-pasar.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('que-puede-pasar.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+
+def fecha_iso():
+    try:
+        iso = subprocess.run(['git','log','-1','--format=%cs'], capture_output=True, text=True, cwd=AQUI).stdout.strip()
+        return iso or datetime.date.today().isoformat()
+    except Exception:
+        return datetime.date.today().isoformat()
+
+def texto(h):
+    """HTML a texto plano para los datos estructurados."""
+    return re.sub(r'\s+', ' ', htmlmod.unescape(re.sub(r'<[^>]+>', '', h))).strip()
+
+def ldjson(pleno):
+    """Datos estructurados de la principal. Las preguntas frecuentes se leen del HTML
+    visible, así que la versión para buscadores no puede divergir de la que se lee."""
+    faq = []
+    for q, a in re.findall(r'<details class="pf">\s*<summary>(.*?)</summary>\s*<div class="pr"><p>(.*?)</p>', pleno, re.S):
+        faq.append({'@type': 'Question', 'name': texto(q),
+                    'acceptedAnswer': {'@type': 'Answer', 'text': texto(a)}})
+    assert len(faq) >= 5, 'preguntas frecuentes no encontradas'
+    lugar = {'@type': 'Place', '@id': URL + '#lugar', 'name': 'El Salto, Viña del Mar',
+             'address': {'@type': 'PostalAddress', 'streetAddress': 'Ruta 60 Troncal Sur km 102,5',
+                         'addressLocality': 'Viña del Mar', 'addressRegion': 'Región de Valparaíso',
+                         'addressCountry': 'CL'},
+             'geo': {'@type': 'GeoCoordinates', 'latitude': -33.0811, 'longitude': -71.4842}}
+    g = [
+      {'@type': 'WebSite', '@id': URL + '#sitio', 'url': URL, 'name': 'Expediente COSEMAR El Salto',
+       'inLanguage': 'es-CL'},
+      {'@type': 'AnalysisNewsArticle', '@id': URL + '#analisis', 'url': URL, 'isPartOf': {'@id': URL + '#sitio'},
+       'headline': 'Lo que dice el expediente del relleno sanitario de El Salto',
+       'description': 'Análisis independiente del Estudio de Impacto Ambiental del relleno sanitario de Cosemar SpA '
+                      'en El Salto, Viña del Mar (expediente SEIA 2168892026), hecho sobre los documentos del propio titular.',
+       'inLanguage': 'es-CL', 'datePublished': '2026-10-20', 'dateModified': fecha_iso(),
+       'image': URL + 'social.jpg?v=2', 'license': 'https://creativecommons.org/licenses/by/4.0/',
+       'keywords': 'relleno sanitario, El Salto, Viña del Mar, Cosemar, SEIA 2168892026, participación ciudadana, '
+                   'Estudio de Impacto Ambiental, Región de Valparaíso',
+       'author': {'@type': 'Organization', 'name': 'Análisis geoespacial independiente',
+                  'url': 'https://github.com/FeniaPfa/seia-data'},
+       'spatialCoverage': {'@id': URL + '#lugar'},
+       'about': [{'@type': 'Thing', 'name': 'Centro Metropolitano de Gestión Integral de Residuos'},
+                 {'@type': 'Organization', 'name': 'Cosemar SpA'}],
+       'mentions': [{'@type': 'GovernmentOrganization', 'name': 'Servicio de Evaluación Ambiental',
+                     'url': 'https://www.sea.gob.cl'}],
+       'isBasedOn': ['https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026']},
+      lugar,
+      {'@type': 'FAQPage', '@id': URL + '#preguntas', 'url': URL + '#preguntas', 'inLanguage': 'es-CL',
+       'mainEntity': faq},
+    ]
+    return json.dumps({'@context': 'https://schema.org', '@graph': g}, ensure_ascii=False, separators=(',', ':'))
+
+def sitemap():
+    f = fecha_iso()
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'que-puede-pasar.html'))
+    io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
+        '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 
 def fecha():
     """Fecha del último commit, en palabras; si no hay git, la de hoy."""
@@ -104,7 +160,8 @@ def envolver(s):
     reset = ('<style>\n:root{color-scheme:light dark}\n*{box-sizing:border-box}\n'
              'html{-webkit-text-size-adjust:100%}\nbody{margin:0}\nimg{max-width:100%}\n'
              '[hidden]{display:none!important}\n</style>')
-    social = io.open(os.path.join(SRC, 'social.html'), encoding='utf-8').read().replace('{url}', URL)
+    social = io.open(os.path.join(SRC, 'social.html'), encoding='utf-8').read()
+    social = social.replace('{ldjson}', ldjson(s)).replace('{url}', URL)
     return ('<!DOCTYPE html>\n<html lang="es-CL">\n<head>\n<meta charset="utf-8">\n'
             + cabeza.strip() + '\n' + social + reset
             + '\n</head>\n<body>\n' + cuerpo.strip() + '\n</body>\n</html>\n')
