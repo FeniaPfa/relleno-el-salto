@@ -65,6 +65,16 @@ text{font-family:var(--cart);fill:var(--ink)}
 .d .pie{margin-top:auto;padding-top:9px;border-top:1px solid var(--line2);
   font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.02em;color:var(--ink3)}
 .volver{font-family:var(--cart);font-size:15px;margin:0 0 20px}
+.hoy{margin:30px 0 0;padding:16px 20px 16px 18px;background:var(--surf);border-left:3px solid var(--acc);max-width:72ch}
+.hoy p{margin:0;font-size:16px;line-height:1.6}
+.hoy .hoy-t{font-family:var(--sc);font-size:13.5px;font-weight:600;letter-spacing:.03em;color:var(--acc);margin-bottom:4px}
+.hoy a{font-family:var(--cart);font-weight:600;white-space:nowrap}
+.entexto{margin:14px 2px 0;max-width:78ch}
+.entexto summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;font-weight:600;letter-spacing:.02em;
+  color:var(--ink2);padding:8px 0;min-height:40px}
+.entexto ol{margin:6px 0 0;padding-left:22px;font-size:15px;line-height:1.6;color:var(--ink2)}
+.entexto li{margin-bottom:6px}
+.entexto b{color:var(--ink);font-weight:600}
 .volver a{color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--line)}
 .volver a:hover,.volver a:focus-visible{color:var(--ink);border-bottom-color:var(--ink2)}
 .volver-pie{margin:40px 0 0}
@@ -87,13 +97,21 @@ text{font-family:var(--cart);fill:var(--ink)}
 <b>Ninguna rama lleva probabilidad</b>: no existe ese dato y no se inventa. Lo único que se
 codifica es si algo está fijado por ley o depende de una decisión que aún no se toma.</p>
 
+<div class="hoy" id="hoy">
+  <p class="hoy-t">Hoy</p>
+  <p>La <b>participación ciudadana está abierta hasta el 3 de noviembre de 2026</b>. Es el único
+  tramo del recorrido en que cualquier persona puede intervenir, y lo que se observe ahora es el
+  material del que pueden salir las condiciones de una aprobación.
+  <a href="./#observar">Cómo se ingresa una observación →</a></p>
+</div>
+
 <h2 class="sec">El recorrido</h2>
 <p class="nota">Cada tramo mide lo mismo: la distancia aquí no es tiempo. Las fechas van en
 las estaciones.</p>
 
 <p class="desliza">Desliza el diagrama hacia el lado para ver los tres desenlaces →</p>
 <div class="lienzo">
-<svg viewBox="0 0 1320 560" role="img"
+<svg viewBox="0 0 1320 560" role="img" aria-describedby="rec-texto"
      aria-label="El procedimiento de evaluación ambiental como un mapa de metro, con estaciones, desvíos y tres destinos finales">
 
   <!-- ─────────── línea principal ─────────── -->
@@ -195,6 +213,26 @@ las estaciones.</p>
   <text class="t-pl" x="78" y="534" fill="var(--acc)">Hoy el expediente está entre el ingreso y el cierre de la participación ciudadana.</text>
 </svg>
 </div>
+
+<details class="entexto" id="rec-texto">
+  <summary>El recorrido, en texto</summary>
+  <ol>
+    <li><b>Ingreso del EIA</b> · 27 de julio de 2026.</li>
+    <li><b>Participación ciudadana</b> · hasta el 3 de noviembre de 2026 · 60 días hábiles (Art. 29). <i>Abierta ahora.</i></li>
+    <li><b>ICSARA y Adenda</b> · sin fecha: el SEA consolida las observaciones y el titular responde.</li>
+    <li><b>Nueva participación ciudadana</b>, solo si la Adenda trae cambios sustantivos · 30 días; suspende el plazo de pleno derecho (Art. 29).</li>
+    <li><b>Adenda complementaria</b> · solo si el SEA la pide.</li>
+    <li><b>Informe consolidado</b> · sin fecha. Si un servicio no responde en 15 días, su permiso se da por otorgado (Art. 15).</li>
+    <li><b>Calificación y RCA</b> · plazo al 15 de enero de 2027 · 120 días más 60 (Art. 15 y 16). Tres desenlaces:
+      aprobado, donde ningún organismo del Estado puede negar los permisos; aprobado con condiciones, que el titular
+      puede reclamar en 30 días; o rechazado, donde los servicios quedan obligados a denegar los permisos.</li>
+    <li><b>Si se aprueba</b>, la RCA caduca si las obras no empiezan en 5 años desde la notificación (Art. 25 ter).</li>
+    <li><b>Reclamaciones</b> · reclaman el titular, si lo rechazan o le ponen condiciones (Art. 20), y quien observó y no fue
+      considerado (Art. 29 inciso final). Primero ante el Comité de Ministros, que resuelve en 60 días fatales y debe pedir
+      informe a los servicios; luego ante el Tribunal Ambiental, en 30 días desde la notificación (Art. 20). Reclamar no
+      suspende la RCA: las obras pueden avanzar mientras tanto.</li>
+  </ol>
+</details>
 
 <div class="leyenda">
   <span><i class="ac"></i>abierto ahora</span>
@@ -299,3 +337,15 @@ efectos de la resolución).
 </p>
 
 </main>
+<script>
+/* el recuadro «Hoy» cambia cuando cierra la participación ciudadana (3 de noviembre inclusive) */
+(function(){
+  if(new Date()<new Date(2026,10,4)) return;
+  var h=document.getElementById('hoy'); if(!h) return;
+  h.querySelector('p:not(.hoy-t)').innerHTML='La <b>participación ciudadana cerró el 3 de noviembre de 2026</b>. '+
+    'Ahora el expediente está en manos del SEA y del titular: las observaciones ingresadas se responden en la Adenda '+
+    'y en la Resolución de Calificación. Si la Adenda cambia sustantivamente el proyecto, la participación se reabre '+
+    'por 30 días. <a href="https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&amp;id_expediente=2168892026" '+
+    'target="_blank" rel="noopener">Seguir el expediente →</a>';
+})();
+</script>
