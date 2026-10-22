@@ -36,9 +36,10 @@ function hUV(u,v){return hGlobal(bb[0]+u*(bb[2]-bb[0]),
 
 /* ---------- escena ---------- */
 var ren;
-try { ren=new THREE.WebGLRenderer({antialias:true,alpha:false}); }
+var DENSO=(window.matchMedia&&matchMedia('(pointer:coarse)').matches)&&(devicePixelRatio||1)>=2;
+try { ren=new THREE.WebGLRenderer({antialias:!DENSO,alpha:false}); }
 catch(e){ sinWebGL(cv); return; }
-ren.setPixelRatio(Math.min(devicePixelRatio,2));
+ren.setPixelRatio(Math.min(devicePixelRatio,DENSO?1.5:2));
 ren.localClippingEnabled=true;
 /* el bloque se abre justo en el perfil elegido */
 var corte=new THREE.Plane(new THREE.Vector3(1,0,0),1e6), CORTE=[corte];
@@ -342,10 +343,16 @@ var vis=false;
 if('IntersectionObserver' in window)
   new IntersectionObserver(function(es){vis=es[0].isIntersecting},{rootMargin:'250px'}).observe(cv);
 else vis=true;
+/* el bloque no tiene nada animado: se dibuja cuando la cámara o el corte cambian,
+   y a dos cuadros por segundo para las texturas que llegan tarde */
+var firma2='', ult2=0;
 function animar(){
   requestAnimationFrame(animar);
   if(!vis) return;
-  ren.render(sc,cam);
+  var p=cam.position, f=[p.x.toFixed(1),p.y.toFixed(1),p.z.toFixed(1),cv.clientWidth,cv.clientHeight,activo,
+      ['L2-vaso','L2-mai','L2-roca'].map(function(i){var e=document.getElementById(i);return e&&e.checked?1:0}).join('')].join('|'),
+      t=performance.now();
+  if(f!==firma2||t-ult2>500){ ren.render(sc,cam); firma2=f; ult2=t; }
 }
 
 /* ---------- arranque ---------- */
@@ -396,6 +403,17 @@ function pieSeccion(p){
 
 /* el modelo de elevación ya lo cargó el visor de arriba; si no, lo pide */
 function conAltura(cb){
+  /* si el visor del terreno ya lo decodificó, se usa ese; si lo está cargando, se espera */
+  if(D._H){ H=D._H; cb(); return }
+  if(document.getElementById('cv')&&D._Hcbs!==null){
+    (D._Hcbs=D._Hcbs||[]).push(function(){ H=D._H; cb() });
+    /* por si el visor del terreno no llega a cargarlo */
+    setTimeout(function(){ if(!H){ D._Hcbs=null; cargarPropio(cb) } },8000);
+    return;
+  }
+  cargarPropio(cb);
+}
+function cargarPropio(cb){
   var im=new Image();
   im.onload=function(){
     var c=document.createElement('canvas');c.width=N;c.height=N;

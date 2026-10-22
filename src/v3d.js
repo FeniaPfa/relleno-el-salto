@@ -27,9 +27,11 @@ function hWorld(x,z){return hAt(x/S+0.5,-z/S+0.5)}
 
 /* ---------- renderer ---------- */
 var ren;
-try { ren=new THREE.WebGLRenderer({antialias:true}); }
+/* en celulares de pantalla densa el antialias y la densidad 2 cuestan mucho y no se notan */
+var DENSO=(window.matchMedia&&matchMedia('(pointer:coarse)').matches)&&(devicePixelRatio||1)>=2;
+try { ren=new THREE.WebGLRenderer({antialias:!DENSO}); }
 catch(e){ sinWebGL(cv); return; }
-ren.setPixelRatio(Math.min(devicePixelRatio,2));
+ren.setPixelRatio(Math.min(devicePixelRatio,DENSO?1.5:2));
 cv.appendChild(ren.domElement);
 /* el lienzo tiene nombre, recibe foco y se mueve con teclado */
 ren.domElement.setAttribute('role','img'); ren.domElement.tabIndex=0;
@@ -548,6 +550,8 @@ function cargarAltura(cb){
       var q=(d[i*4]<<M.sh)|(d[i*4+1]>>(8-M.sh));
       H[i]=M.emin+(q/M.lv)*rg;
     }
+    /* el visor del subsuelo usa el mismo modelo: se decodifica una sola vez */
+    D._H=H; (D._Hcbs||[]).forEach(function(f){f()}); D._Hcbs=null;
     texAlt=new THREE.Texture(im);
     texAlt.minFilter=THREE.NearestFilter; texAlt.magFilter=THREE.NearestFilter;
     texAlt.generateMipmaps=false;
@@ -1096,14 +1100,28 @@ var vis=true;
 if('IntersectionObserver' in window)
   new IntersectionObserver(function(es){vis=es[0].isIntersecting},{rootMargin:'200px'}).observe(cv);
 
-var ult=performance.now();
+var ult=performance.now(), firmaAnt='', ultRender=0;
+/* Una firma barata del estado que mueve los rótulos. Con 168 comunidades, recolocarlos
+   en cada cuadro —proyectar, medir paneles, probar cajas, reescribir estilos— era el
+   mayor costo del visor; ahora solo se hace cuando algo cambió. */
+function firmaMarcas(){
+  var e=cam.matrixWorld.elements, vb=document.getElementById('vbox'), mb=document.getElementById('mob');
+  return [e[0].toFixed(4),e[2].toFixed(4),e[5].toFixed(4),e[12].toFixed(1),e[13].toFixed(1),e[14].toFixed(1),
+          cv.clientWidth,cv.clientHeight,chkOn('L-barrios'),vientoHacia,modoViento,marcas.length,
+          vb?vb.offsetHeight:0,mb?mb.style.bottom:''].join('|');
+}
 function animar(){
   requestAnimationFrame(animar);
   var ahora=performance.now(), dt=Math.min((ahora-ult)/1000,0.05); ult=ahora;
   if(!vis) return;
   pasoTour(dt);
-  if(simOn){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
-  ren.render(sc,cam); ubicarMarcas();
+  var anima=simOn&&((pluma&&pluma.visible)||(flujo&&flujo.visible)||(arcos&&arcos.visible));
+  if(anima){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
+  var f=firmaMarcas(), cambio=f!==firmaAnt;
+  /* quieto y sin simulación: dos cuadros por segundo bastan para que aparezcan las
+     texturas que llegan tarde (satélite, cicatriz) sin quemar batería */
+  if(anima||cambio||tourOn||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
+  if(cambio){ ubicarMarcas(); firmaAnt=f; }
 }
 cargarAltura(function(){ cargarFlujo(arrancar) });
 })();
