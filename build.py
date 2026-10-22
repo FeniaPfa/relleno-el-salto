@@ -120,11 +120,16 @@ def ldjson(pleno):
                       'en El Salto, Viña del Mar (expediente SEIA 2168892026), hecho sobre los documentos del propio titular.',
        'inLanguage': 'es-CL', 'datePublished': '2026-10-20', 'dateModified': fecha_iso(),
        'image': URL + 'social.jpg?v=2', 'license': 'https://creativecommons.org/licenses/by/4.0/',
-       'keywords': 'relleno sanitario, El Salto, Viña del Mar, Cosemar, SEIA 2168892026, participación ciudadana, '
+       'keywords': 'relleno sanitario, El Salto, Viña del Mar, Quilpué, Pompeya Sur, Pompeya Norte, Alto Valencia, '
+                   'Población Esperanza, Los Fundadores, Nuevo Horizonte, Botania, Cumbres de Quilpué, Las Lomas, '
+                   'El Calichero, Estero Quilpué, Cosemar, SEIA 2168892026, participación ciudadana, '
                    'Estudio de Impacto Ambiental, Región de Valparaíso',
        'author': {'@type': 'Organization', 'name': 'Análisis geoespacial independiente',
                   'url': 'https://github.com/FeniaPfa/seia-data'},
        'spatialCoverage': {'@id': URL + '#lugar'},
+       'contentLocation': [{'@type': 'Place', 'name': n, 'containedInPlace': {'@type': 'City', 'name': c}}
+                          for n, c in (('El Salto', 'Viña del Mar'), ('Las Lomas', 'Quilpué'), ('El Calichero', 'Quilpué'),
+                                       ('Pompeya Sur', 'Quilpué'))],
        'about': [{'@type': 'Thing', 'name': 'Centro Metropolitano de Gestión Integral de Residuos'},
                  {'@type': 'Organization', 'name': 'Cosemar SpA'}],
        'mentions': [{'@type': 'GovernmentOrganization', 'name': 'Servicio de Evaluación Ambiental',
