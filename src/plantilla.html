@@ -1312,7 +1312,59 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   ambos capítulos. Un conteo en cero no prueba que la obra no vaya a tener ese elemento: prueba
   que <b>el expediente sometido a evaluación no lo compromete</b>. Si existe, debería aparecer
   en la Adenda.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024, y por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <h3 style="margin-top:40px">Y cuánto tarda en llegar la ayuda</h3>
+  <p class="intro" style="margin-top:10px">El plan resuelve el incendio que no puede controlar
+  pidiendo apoyo externo. Hay <b id="b-n">46</b> cuarteles de bomberos en 25 km a la redonda, y el
+  más próximo es la <b id="b-cu">Segunda Compañía de Quilpué</b>.</p>
+  <div class="find" style="margin-top:20px">
+    <div>
+      <div class="v c-blue" id="b-min">6,1<span class="u">min</span></div>
+      <div class="k">De ese cuartel a la <b>entrada del camino de acceso</b>,
+      <b id="b-km">5,2 km</b> por carretera. <b>No es un tiempo de respuesta comprometido</b>:
+      es conducción en tráfico libre, sin el despacho ni los 1,3 km de camino interior.</div>
+      <div class="s">OpenStreetMap · ruteo OSRM</div>
+    </div>
+    <div>
+      <div class="v c-acc">0</div>
+      <div class="k">Veces que aparece la palabra <b>«minuto»</b> en las 46 páginas del
+      Capítulo 8. El plan no compromete <b>ningún plazo</b>, en ninguno de sus pasos.</div>
+      <div class="s">Contado sobre el PDF original; ninguna página escaneada.</div>
+    </div>
+  </div>
+  <p class="intro" style="margin-top:22px">Y el aviso a quien vive al lado no es un procedimiento,
+  es una evaluación. El plan dice que el Comando <b>«evalúa la necesidad de realizar la
+  comunicación a los vecinos»</b>, e informará a la comunidad <b>«si es necesario»</b>. Las medidas
+  para protegerlos tampoco están escritas de antemano:</p>
+  <blockquote class="cita">En caso de peligro potencial de afectación a la comunidad aledaña, se
+  deberá determinar <b>en conjunto con la autoridad sanitaria</b>, las medidas de protección
+  adecuadas.
+  <cite><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Capítulo 8</a> · procedimiento ante incendios</cite></blockquote>
+
+  <h3 style="margin-top:40px">Lo que el plan pone para prevenirlo</h3>
+  <p class="intro" style="margin-top:10px">Hay una tabla de prevención por cada tipo de incendio.
+  Juntas se leen solas: <b>la más detallada es la que cubre la superficie más pequeña</b>.</p>
+  <div class="tw" style="margin-top:20px">
+    <table>
+      <thead><tr><th scope="col">Riesgo</th><th scope="col">Lo que el plan declara para prevenirlo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Incendio en la masa de basura</b><br><span class="sc">tabla 7 · 30,7 Mt</span></td>
+          <td data-th="Medidas">Control de los residuos recibidos · cubrirlos «de manera permanente» ·
+          material de cobertura cerca del frente · <b>extintores</b> en un área señalizada ·
+          capacitación y simulacros</td></tr>
+        <tr><td><b>Incendio forestal</b><br><span class="sc">tabla 5 · ya ocurrió en 2024</span></td>
+          <td data-th="Medidas">Cierre perimetral · inspecciones periódicas del cierre y del
+          <b>cortafuegos</b> · señalética preventiva · extintores y capacitación</td></tr>
+        <tr><td><b>Incendio en instalaciones</b><br><span class="sc">tabla 6 · oficinas y bodegas</span></td>
+          <td data-th="Medidas">Prohibido fumar · soldadura con mantas ignífugas · extintores con
+          mantención periódica · inflamables en espacios habilitados · señalización de zonas sin chispas</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Para 30,7 millones de toneladas de residuos y 155 millones de m³ de metano al
+  año, la única herramienta de extinción que nombra la Tabla 7 es el extintor. Y el cortafuegos
+  que la Tabla 5 mandaría inspeccionar son las 2,79 ha en tres parches que ardieron al 100 % en
+  febrero de 2024.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024; por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes; <b>qué tiempo de respuesta compromete</b>, dado que la palabra «minuto» no aparece en las 46 páginas del Capítulo 8; y <b>en qué momento y por qué vía se avisa a los vecinos</b>, si hoy eso queda como una evaluación discrecional.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
 </section>
 
 <section id="subsuelo" aria-labelledby="t-subsuelo">
@@ -3327,6 +3379,17 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       '<div class="pd">'+x.d+'</div>';
     cas.appendChild(d);
   });
+})();
+
+/* ================= bomberos: el único plazo medible ================= */
+(function(){
+  var B=D.bomberos; if(!B) return;
+  var set=function(id,t){ var e=document.getElementById(id); if(e) e.textContent=t };
+  set('b-n',B.n_25km);
+  set('b-cu',B.corto||B.cuartel);
+  set('b-km',String(B.km).replace('.',',')+' km');
+  var e=document.getElementById('b-min');
+  if(e) e.innerHTML=String(B.min).replace('.',',')+'<span class="u">min</span>';
 })();
 
 /* ================= medios de extinción declarados ================= */
