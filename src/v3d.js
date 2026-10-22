@@ -580,6 +580,10 @@ function arrancar(){
   target.set(wx(centroU[0]), hAt(centroU[0],centroU[1])*K()+40, wz(centroU[1]));
   aplicarAnio(+$('#tl').value);
   crearPluma(); crearFlujo(); crearArcos(); rosaViento(); aplicarSim();
+  /* con las marcas ya construidas: antes el mando flotante se llenaba al cargar el
+     script, sin marcas, y decía «0 en el mapa»; y el resaltado de sotavento no se
+     aplicaba hasta tocar un modo */
+  marcarPluma(); ecoFlotante(); valorRumbo(vientoHacia); colocarMob();
   resize(); place(); animar();
 }
 
@@ -940,7 +944,7 @@ function textoViento(){
          rumbo donde el conteo cae a cero. */
       '<br>A sotavento: <b>'+(n || 'ninguna')+'</b> de '+T+' comunidades' +
       (fuera ? '<br><span class="vq">'+fuera+' quedan fuera del recuadro del mapa</span>' : '') +
-      '<br><span class="vq">catastro abierto, radio de 6 km</span>';
+      '<br><span class="vq">pluma de ±35°, supuesto de esta página · catastro abierto, radio de 6 km</span>';
     listaSotavento(li);
     return;
   }
@@ -956,6 +960,7 @@ function fijarViento(m,rumbo){
   /* El deslizador sigue siempre al rumbo vigente: así «Manual» arranca donde
      quedó lo último que se miró, en vez de saltar a un valor viejo. */
   var sl=$('#w-dir'); if(sl && +sl.value!==rumbo) sl.value=rumbo;
+  valorRumbo(rumbo);
   /* El ancho depende del MODO, no de si hay alguien a sotavento: atado al
      contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
      reflui­a y el deslizador saltaba bajo el cursor. */
@@ -968,7 +973,7 @@ function fijarViento(m,rumbo){
     var b=$('#w-'+k+'2'); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
   var s2=$('#w-dir2'); if(s2 && +s2.value!==rumbo) s2.value=rumbo;
-  marcarPluma(); ecoFlotante();
+  marcarPluma(); ecoFlotante(); colocarMob();
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
@@ -984,11 +989,27 @@ $('#w-man').addEventListener('click',function(){
   var sl=$('#w-dir'); if(!sl) return;
   sl.addEventListener('input',function(){
     if(modoViento!=='man') fijarViento('man',+this.value);
-    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); valorRumbo(vientoHacia); }
     var s2=$('#w-dir2'); if(s2) s2.value=this.value;
   });
 })();
 function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); ecoFlotante(); }
+/* el lector de pantalla oye el rumbo en palabras y cuántas quedan bajo la pluma */
+function valorRumbo(r){
+  var P=['norte','noreste','este','sureste','sur','suroeste','oeste','noroeste'], i=Math.round(((r%360)+360)%360/45)%8;
+  var n=(typeof aSotavento==='function')?aSotavento(r).length:0;
+  var t='sopla hacia '+r+' grados, '+P[i]+'; '+n+' comunidades a sotavento';
+  ['#w-dir','#w-dir2'].forEach(function(id){ var s=$(id); if(s) s.setAttribute('aria-valuetext',t) });
+}
+/* en celular el mando flotante ocupa el pie del lienzo: el norte, la escala y la
+   atribución de la imagen satelital, que es obligatoria, suben por encima de él */
+function colocarMob(){
+  var fl=$('#vflot'), mb=$('#mob'), hint=$('#cv .vhint'); if(!fl||!mb) return;
+  var visible=!fl.hidden&&fl.offsetHeight>0;
+  mb.style.bottom = visible ? (fl.offsetHeight+16)+'px' : '';
+  if(hint) hint.style.display = visible ? 'none' : '';
+}
+addEventListener('resize',function(){ clearTimeout(colocarMob._t); colocarMob._t=setTimeout(colocarMob,120) });
 (function(){ var fl=$('#vflot'); if(fl) fl.hidden=false; ecoFlotante(); })();
 /* el duplicado que flota sobre el mapa en pantallas estrechas */
 function ecoFlotante(){
@@ -1000,7 +1021,7 @@ function ecoFlotante(){
     nm.innerHTML = (li.length ? '<b>'+li.length+'</b> a sotavento'+
                                 (enMapa<li.length ? ' · '+enMapa+' en el mapa' : '')
                               : 'nadie a sotavento') +
-                   (modoViento==='man' ? ' · supuesto tuyo' : '');
+                   (modoViento==='man' ? ' · rumbo supuesto tuyo' : '')+' · pluma de ±35°, supuesto de esta página';
   }
 }
 (function(){
@@ -1014,7 +1035,7 @@ function ecoFlotante(){
   s2.addEventListener('input',function(){
     var sl=$('#w-dir'); if(sl) sl.value=this.value;
     if(modoViento!=='man') fijarViento('man',+this.value);
-    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); valorRumbo(vientoHacia); }
   });
 })();
 
