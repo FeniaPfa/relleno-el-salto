@@ -933,8 +933,8 @@ $('#w-mas') && $('#w-mas').addEventListener('click',function(){
 
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
-  var bt0=$('#w-mas'), ul0=$('#vlist');
-  if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
+  /* el título dice de quién es el rumbo: del titular, o de quien lee */
+  var tt=$('#vtit'); if(tt) tt.textContent = modoViento==='man' ? 'Viento · rumbo elegido por ti' : 'Viento · WRF del titular';
   if(modoViento==='man'){
     var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
     var fuera=li.filter(function(b){ return !tieneMarca(b.n) }).length;
@@ -952,10 +952,16 @@ function textoViento(){
     listaSotavento(li);
     return;
   }
-  e.innerHTML = modoViento==='pri'
+  /* la cifra que importa —cuántas quedan a sotavento— también en los modos del
+     titular, no solo en Manual; con su supuesto declarado y la lista a un toque */
+  var li2=aSotavento(vientoHacia);
+  e.innerHTML = (modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
-    : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario';
+    : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario')+
+    '<br>A sotavento: <b>'+(li2.length||'ninguna')+'</b> de '+COMUNIDADES.length+' comunidades'+
+    '<br><span class="vq">pluma de ±35°, supuesto de esta página</span>';
+  listaSotavento(li2);
 }
 /* ojo: `modo` ya existe en este ámbito (el basemap carto/sat de más arriba);
    los tres scripts se empalman en un solo IIFE y comparten variables. */

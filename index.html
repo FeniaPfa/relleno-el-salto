@@ -485,7 +485,7 @@ footer .imprimir{display:inline-block;margin-top:10px}
 /* Con la lista de sotavento abierta el panel crecía hasta 745 px sobre un lienzo
    de 706 y cortaba el deslizador: se limita al alto del mapa y scrollea. */
 .viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;
-  max-height:calc(100% - var(--barra3d,58px) - 24px);overflow-y:auto;
+  max-height:calc(100% - var(--barra3d,58px) - 76px);overflow-y:auto;
   overscroll-behavior:contain;background:rgba(13,16,20,.9);
   border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .viento .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
@@ -1091,7 +1091,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     </div>
     <div class="cv" id="cv">
       <div class="vflot" id="vflot" hidden>
-        <div class="fila modos">
+        <div class="fila modos" role="group" aria-label="Rumbo del viento">
           <button class="tg" id="w-pri2" aria-pressed="true">Predominante</button>
           <button class="tg" id="w-sec2" aria-pressed="false">Secundario</button>
           <button class="tg" id="w-man2" aria-pressed="false">Manual</button>
@@ -1137,10 +1137,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <label><input type="checkbox" id="L-arcos" checked><span class="sw" style="background:#ff9a6b"></span>Rumbo a comunidades</label>
       </div>
       <div class="viento" id="vbox">
-        <div class="ph">Viento · WRF del titular</div>
-        <div class="rosa"><svg viewBox="0 0 86 86" id="rosa"></svg></div>
+        <div class="ph" id="vtit">Viento · WRF del titular</div>
+        <div class="rosa" aria-hidden="true"><svg viewBox="0 0 86 86" id="rosa"></svg></div>
         <div class="vd" id="vtxt"></div>
-        <div class="vbtns">
+        <div class="vbtns" role="group" aria-label="Rumbo del viento">
           <button class="tg" id="w-pri" aria-pressed="true">Predominante</button>
           <button class="tg" id="w-sec" aria-pressed="false">Secundario</button>
           <button class="tg" id="w-man" aria-pressed="false">Manual</button>
@@ -4450,8 +4450,8 @@ $('#w-mas') && $('#w-mas').addEventListener('click',function(){
 
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
-  var bt0=$('#w-mas'), ul0=$('#vlist');
-  if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
+  /* el título dice de quién es el rumbo: del titular, o de quien lee */
+  var tt=$('#vtit'); if(tt) tt.textContent = modoViento==='man' ? 'Viento · rumbo elegido por ti' : 'Viento · WRF del titular';
   if(modoViento==='man'){
     var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
     var fuera=li.filter(function(b){ return !tieneMarca(b.n) }).length;
@@ -4469,10 +4469,16 @@ function textoViento(){
     listaSotavento(li);
     return;
   }
-  e.innerHTML = modoViento==='pri'
+  /* la cifra que importa —cuántas quedan a sotavento— también en los modos del
+     titular, no solo en Manual; con su supuesto declarado y la lista a un toque */
+  var li2=aSotavento(vientoHacia);
+  e.innerHTML = (modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
-    : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario';
+    : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario')+
+    '<br>A sotavento: <b>'+(li2.length||'ninguna')+'</b> de '+COMUNIDADES.length+' comunidades'+
+    '<br><span class="vq">pluma de ±35°, supuesto de esta página</span>';
+  listaSotavento(li2);
 }
 /* ojo: `modo` ya existe en este ámbito (el basemap carto/sat de más arriba);
    los tres scripts se empalman en un solo IIFE y comparten variables. */
