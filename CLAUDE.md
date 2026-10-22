@@ -104,6 +104,17 @@ afirmar «sin conexiones a terceros». Si se agrega un peso tipográfico nuevo, 
 woff2 de Google Fonts con un User-Agent moderno (devuelve woff2 por rangos unicode) y declararlo
 en el `@font-face` del `<head>`. Libre Franklin es variable: un archivo cubre 400 a 700.
 
+## SEO, buscadores con respuestas y motores generativos
+
+- Las **preguntas frecuentes** (`<aside class="faq">` antes del pie) son la fuente única: `build.py`
+  arma el `FAQPage` en JSON-LD leyendo ese HTML, así que lo que ve el buscador no puede divergir de
+  lo que se lee. Toda respuesta nueva usa solo cifras ya publicadas y verificadas.
+- El JSON-LD de la principal se arma en `ldjson()` de `build.py` (sitio, análisis, lugar con
+  coordenadas, preguntas); `dateModified` y el `sitemap.xml` salen de la fecha del último commit.
+- `llms.txt` resume los hechos con su fuente en el expediente; si cambia una cifra, cámbiala ahí.
+- **`robots.txt` no tiene efecto aquí:** el sitio vive en `/seia-data/` y los buscadores solo leen el
+  de la raíz del dominio. El sitemap hay que enviarlo a mano en Google Search Console.
+
 ## Imagen social
 
 `social.jpg` se genera desde `src/social-img.html`, no se edita a mano. Cuando cambie una cifra

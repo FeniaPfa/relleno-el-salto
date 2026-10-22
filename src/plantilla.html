@@ -1,4 +1,4 @@
-<title>Relleno sanitario COSEMAR en El Salto, Viña del Mar: lo que dice el expediente</title>
+<title>Relleno sanitario COSEMAR en El Salto, Viña del Mar, junto a Quilpué: lo que dice el expediente</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preload" as="font" type="font/woff2" href="fonts/libre-franklin-400-normal.woff2" crossorigin>
@@ -276,6 +276,16 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-family:var(--doc);font-weight:300;font-size:30px;color:var(--ink3);
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
+.faq{margin-top:64px;max-width:72ch}
+.faq h2{font-size:26px;line-height:1.2;font-weight:600;letter-spacing:-.01em;padding-bottom:10px;
+  border-bottom:1px solid var(--bistre);margin-bottom:10px}
+.pf{border-bottom:1px solid var(--line2)}
+.pf summary{cursor:pointer;font-family:var(--doc);font-size:19px;font-weight:600;line-height:1.35;padding:14px 0;
+  list-style-position:inside}
+.pf .pr{padding:0 0 16px}
+.pf .pr p{margin:0;font-size:16.5px;line-height:1.62;color:var(--ink)}
+.pf .pr b{font-weight:600}
+.pf .ver{margin-top:8px!important;font-family:var(--cart);font-size:15px}
 .pide{border-left:3px solid var(--acc);background:var(--surf);padding:16px 20px 16px 18px;margin-top:26px;
   font-size:16px;line-height:1.62;color:var(--ink);max-width:68ch}
 .pide>b:first-child{display:block;font-family:var(--sc);font-size:13.5px;font-weight:600;
@@ -447,7 +457,7 @@ footer .imprimir{display:inline-block;margin-top:10px}
 /* Con la lista de sotavento abierta el panel crecía hasta 745 px sobre un lienzo
    de 706 y cortaba el deslizador: se limita al alto del mapa y scrollea. */
 .viento{position:absolute;left:12px;top:calc(var(--barra3d,58px) + 12px);width:176px;
-  max-height:calc(100% - var(--barra3d,58px) - 24px);overflow-y:auto;
+  max-height:calc(100% - var(--barra3d,58px) - 76px);overflow-y:auto;
   overscroll-behavior:contain;background:rgba(13,16,20,.9);
   border:1px solid #39413c;padding:12px 13px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);z-index:3}
 .viento .ph{font-family:var(--sc);font-size:12.5px;font-weight:600;letter-spacing:.02em;
@@ -464,7 +474,7 @@ footer .imprimir{display:inline-block;margin-top:10px}
    Va al FINAL del panel a propósito: encima del deslizador, cada vez que cambiaba
    de largo empujaba el control que se estaba arrastrando. */
 .vmas{display:block;width:100%;margin-top:7px;padding:5px 6px;font-family:var(--cart);
-  font-size:12px;background:transparent;color:#8fb8d4;border:1px solid #3f4d57;
+  font-size:12.5px;background:transparent;color:#8fb8d4;border:1px solid #6b7f8c;
   border-radius:2px;cursor:pointer;text-align:center}
 .vmas:hover{border-color:#8fb8d4}
 .vmas:focus-visible{outline:2px solid #8fb8d4;outline-offset:2px}
@@ -482,7 +492,7 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .vlist li.vacia{color:#8d9890;font-style:italic;padding-top:6px}
 /* las que estan a sotavento pero caen fuera del recuadro del terreno dibujado */
 .vlist li.afuera{color:#8d9890}
-.vlist li.afuera span{color:#78827a}
+.vlist li.afuera span{color:#8d9890}
 .vmas:disabled{color:#6d7a83;border-color:#333c44;cursor:default}
 .vd b{color:#f0b26a;font-weight:600}
 /* Los dos del titular caben en una fila; «Manual» no (los tres piden 215 px en un
@@ -496,8 +506,8 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .vbtns #w-man{flex:1 0 100%}
 .vbtns #w-man[aria-pressed="true"]{background:#8fb8d4;color:#0d1620;border-color:#8fb8d4}
 .vman{margin-top:9px}
-.vman label{display:block;font-family:var(--cart);font-size:11.5px;letter-spacing:.04em;
-  text-transform:uppercase;color:#8d9890;margin-bottom:5px}
+.vman label{display:block;font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.03em;
+  color:#9aa49c;margin-bottom:5px}
 .vman input[type=range]{width:100%;accent-color:#8fb8d4;height:22px;cursor:ew-resize}
 .vman input[type=range]:focus-visible{outline:2px solid #8fb8d4;outline-offset:3px}
 @media(pointer:coarse){.vman input[type=range]{height:34px}}
@@ -559,7 +569,7 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
     padding:9px 10px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
   .vflot .fila{display:flex;align-items:center;gap:6px}
   .vflot .modos .tg{flex:1;min-width:0;padding:7px 4px;font-size:12.5px;min-height:36px;
-    color:#c6cec7;border-color:#4a5450;text-align:center;white-space:nowrap}
+    color:#c6cec7;border-color:#76827c;text-align:center;white-space:nowrap}
   .vflot .modos .tg[aria-pressed="true"]{background:#f0b26a;color:#17120a;border-color:#f0b26a}
   .vflot .modos #w-man2[aria-pressed="true"]{background:#8fb8d4;color:#0d1620;border-color:#8fb8d4}
   .vflot .et{font-family:var(--cart);font-size:14px;font-weight:600;color:#8fb8d4;
@@ -859,9 +869,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <div class="kicker">Servicio de Evaluación Ambiental · Región de Valparaíso</div>
       <h1>Centro Metropolitano de Gestión Integral de Residuos</h1>
       <p class="sub">
-        Expediente <b class="num">2168892026</b> · Titular <b>Cosemar SpA</b> ·
-        Estudio de Impacto Ambiental en calificación<br>
-        Viña del Mar, Ruta 60 Troncal Sur km 102,5 ·
+        <b>Relleno sanitario</b> en El Salto, Viña del Mar, a 2 km de Pompeya Sur, Quilpué ·
+        Titular <b>Cosemar SpA</b><br>
+        Expediente <b class="num">2168892026</b> · Estudio de Impacto Ambiental en calificación<br>
+        Ruta 60 Troncal Sur km 102,5 ·
         <span class="num">33°04′52″S 71°29′03″O</span>
       </p>
     </div>
@@ -879,7 +890,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
 <nav class="indice" aria-label="Contenido de la página"><details id="indice-d">
   <summary>Contenido · 15 secciones</summary>
-  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
+  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a> <a href="#preguntas">Preguntas frecuentes</a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
 </details></nav>
 <noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
 
@@ -989,8 +1000,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <div><p class="q">Para olores se usó como referencia la <b>norma de la Región de Lombardía, Italia</b>,
       porque Chile no tiene norma de olor vigente.</p>
       <div class="src">Resumen Ejecutivo (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · modelación de odorantes <abbr title="Programa que simula el viento del sitio y hacia dónde viaja lo que se emite">WRF</abbr>-CALPUFF</div></div>
-    <div><p class="q">El área de influencia declarada cubre <b>El Salto, Las Lomas y El Belloto</b>
-      — no incluye Botania, Canal Chacao, Cumbres ni Pompeya.</p>
+    <div><p class="q">El área de influencia declarada cubre <b>El Salto, Las Lomas y El Calichero</b>, «entre las
+      comunas de Viña del Mar y Quilpué» — no incluye Botania, Canal Chacao, Cumbres ni Pompeya.</p>
       <div class="src">Capítulo 2 (<a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026" target="_blank" rel="noopener">ver en el expediente</a>) · determinación del área de influencia</div></div>
     <div><p class="q">La inversión declarada es de <b>USD 40 millones</b>. La ficha pública del SEIA
       muestra «40.000 millones de dólares» por un error de carga del sistema.</p>
@@ -1053,7 +1064,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     </div>
     <div class="cv" id="cv">
       <div class="vflot" id="vflot" hidden>
-        <div class="fila modos">
+        <div class="fila modos" role="group" aria-label="Rumbo del viento">
           <button class="tg" id="w-pri2" aria-pressed="true">Predominante</button>
           <button class="tg" id="w-sec2" aria-pressed="false">Secundario</button>
           <button class="tg" id="w-man2" aria-pressed="false">Manual</button>
@@ -1099,10 +1110,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <label><input type="checkbox" id="L-arcos" checked><span class="sw" style="background:#ff9a6b"></span>Rumbo a comunidades</label>
       </div>
       <div class="viento" id="vbox">
-        <div class="ph">Viento · WRF del titular</div>
-        <div class="rosa"><svg viewBox="0 0 86 86" id="rosa"></svg></div>
+        <div class="ph" id="vtit">Viento · WRF del titular</div>
+        <div class="rosa" aria-hidden="true"><svg viewBox="0 0 86 86" id="rosa"></svg></div>
         <div class="vd" id="vtxt"></div>
-        <div class="vbtns">
+        <div class="vbtns" role="group" aria-label="Rumbo del viento">
           <button class="tg" id="w-pri" aria-pressed="true">Predominante</button>
           <button class="tg" id="w-sec" aria-pressed="false">Secundario</button>
           <button class="tg" id="w-man" aria-pressed="false">Manual</button>
@@ -1793,7 +1804,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 <section id="observar" aria-labelledby="t-observar">
   <div class="shd"><span class="n">15</span>
     <h2 id="t-observar">Cómo se ingresa una observación</h2><p class="src">Ley 19.300 · D.S. 40/2012 · <a href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">formulario PAC</a></p></div>
-  <p class="intro">El Artículo 29 de la Ley 19.300 habilita a <b>cualquier persona, natural o
+  <p class="intro">La <b>participación ciudadana</b> del proyecto está abierta hasta el
+  <b>3 de noviembre de 2026</b>. El Artículo 29 de la Ley 19.300 habilita a <b>cualquier persona, natural o
   jurídica</b> —incluidas juntas de vecinos y organizaciones— a observar, sin costo; para hacerlo
   por el portal electrónico hace falta ClaveÚnica. La ley obliga a la <b>autoridad evaluadora</b>
   a hacerse cargo de cada observación y pronunciarse fundadamente sobre todas ellas en la
@@ -1847,6 +1859,50 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   y el <a href="que-puede-pasar.html">recorrido completo del procedimiento</a> —con lo que
   obliga cada desenlace— en una vista aparte.</p>
 </section>
+
+<aside class="faq" id="preguntas" aria-labelledby="t-preguntas">
+  <h2 id="t-preguntas">Preguntas frecuentes</h2>
+  <details class="pf">
+    <summary>¿Qué es el proyecto y dónde está?</summary>
+    <div class="pr"><p>Es el <b>Centro Metropolitano de Gestión Integral de Residuos</b>, un relleno sanitario de Cosemar SpA en El Salto, Viña del Mar, Región de Valparaíso: Ruta 60 Troncal Sur km 102,5. Se evalúa en el expediente SEIA 2168892026 y proyecta 30,7 millones de toneladas de basura en 25 años de operación.</p>
+      <p class="ver"><a href="#terreno">El relleno sobre el terreno real →</a></p></div>
+  </details>
+  <details class="pf">
+    <summary>¿Hasta cuándo se puede presentar una observación?</summary>
+    <div class="pr"><p>Hasta el <b>3 de noviembre de 2026</b>. Puede observar cualquier persona, sin costo, con su ClaveÚnica, en el formulario de participación ciudadana del SEA. La autoridad debe pronunciarse sobre cada observación.</p>
+      <p class="ver"><a href="#observar">Cómo se ingresa una observación →</a></p></div>
+  </details>
+  <details class="pf">
+    <summary>¿A qué distancia quedan las casas más cercanas?</summary>
+    <div class="pr"><p>Según la tabla de receptores que el propio titular usó para modelar olores, la unidad habitacional más cercana queda a <b>676 metros</b> del perímetro. Las 21 que lista están todas al norte, hacia donde sopla el viento predominante que declara su Anexo 4.2. Las poblaciones más cercanas, medidas al deslinde del predio, son Alto Valencia (1,70 km), Población Esperanza (1,94 km), Los Fundadores 2 y Nuevo Horizonte (2,07 km) y Pompeya Sur (2,12 km); esta última, en la comuna de Quilpué según el Anexo 4.5.</p>
+      <p class="ver"><a href="#pluma">Quién queda a sotavento →</a></p></div>
+  </details>
+  <details class="pf">
+    <summary>¿Afecta a Quilpué?</summary>
+    <div class="pr"><p>Sí, según el propio titular: su área de influencia comprende los sectores de El Salto, Las Lomas y El Calichero, «entre las comunas de Viña del Mar y Quilpué». Su único fotomontaje se tomó desde Pompeya Sur, en Quilpué, a unos 2 km. Y la escorrentía del predio baja hacia el sistema del Estero Marga-Marga y el Estero Quilpué.</p>
+      <p class="ver"><a href="#influencia">Área de influencia →</a></p></div>
+  </details>
+  <details class="pf">
+    <summary>¿Qué impactos reconoce el estudio?</summary>
+    <div class="pr"><p>De veintitrés causales del Artículo 11 que evalúa, reconoce <b>un solo impacto significativo</b>: la pérdida de ejemplares de tres especies de flora. Diecinueve de los veinticinco organismos del Estado que se pronunciaron lo hicieron con observaciones.</p>
+      <p class="ver"><a href="#admite">Lo que el estudio admite →</a></p></div>
+  </details>
+  <details class="pf">
+    <summary>¿Hay riesgo sísmico en el sitio?</summary>
+    <div class="pr"><p>Un informe geológico-estructural de 2023 del propio titular describe una falla <b>potencialmente activa</b> que «compromete el cierre perimetral», con un sismo posible de magnitud 6,8. El Capítulo 4, que evalúa los impactos, no menciona la falla, el sismo ni la geomembrana de 1,5 mm que separa la basura del suelo.</p>
+      <p class="ver"><a href="#falla">La falla →</a></p></div>
+  </details>
+  <details class="pf">
+    <summary>¿Qué pasa después de la participación ciudadana?</summary>
+    <div class="pr"><p>El titular responde en una Adenda, el SEA emite su informe consolidado y el proyecto se califica, con plazo al 15 de enero de 2027. Puede aprobarlo, aprobarlo con condiciones o rechazarlo; las observaciones ciudadanas pesan sobre todo en las condiciones.</p>
+      <p class="ver"><a href="que-puede-pasar.html">Qué puede pasar →</a></p></div>
+  </details>
+  <details class="pf">
+    <summary>¿Quién hizo este análisis?</summary>
+    <div class="pr"><p>Es un análisis técnico independiente, construido sobre los documentos públicos del expediente. No representa al titular ni a ningún organismo del Estado. El código, los datos y el método son públicos.</p>
+      <p class="ver"><a href="https://github.com/FeniaPfa/seia-data" target="_blank" rel="noopener">Repositorio →</a></p></div>
+  </details>
+</aside>
 
 <footer>
   <b>Fuentes.</b> Cartografía oficial y documentos del expediente SEIA N° 2168892026

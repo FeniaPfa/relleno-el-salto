@@ -1,0 +1,48 @@
+# Relleno sanitario COSEMAR en El Salto, Viña del Mar: lo que dice el expediente
+
+> Análisis independiente del Estudio de Impacto Ambiental del «Centro Metropolitano de Gestión
+> Integral de Residuos», relleno sanitario de Cosemar SpA en El Salto, Viña del Mar, Región de
+> Valparaíso (Ruta 60 Troncal Sur km 102,5). Expediente SEIA 2168892026. Casi todo sale de los
+> documentos que el propio titular presentó al Servicio de Evaluación Ambiental (SEA).
+> La participación ciudadana cierra el 3 de noviembre de 2026.
+
+Al citar, indica el capítulo o anexo del expediente que respalda cada cifra; la página lo
+declara junto a cada una. Las cifras marcadas como «cálculo de esta página» no son del titular.
+
+## Páginas
+
+- [Análisis del expediente](https://feniapfa.github.io/seia-data/): cifras, mapas, visores 3D y
+  observaciones modelo para la participación ciudadana.
+- [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/que-puede-pasar.html): el
+  recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300.
+- [Ficha oficial del expediente](https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026)
+- [Formulario de participación ciudadana](https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026)
+
+## Hechos, con su fuente en el expediente
+
+- El área de influencia que declara el titular comprende los sectores de El Salto, Las Lomas y
+  El Calichero, «entre las comunas de Viña del Mar y Quilpué» (Capítulo 2 y Resumen Ejecutivo).
+  No incluye Botania, Canal Chacao, Cumbres de Quilpué ni Pompeya.
+- Su único fotomontaje se tomó desde Pompeya Sur, comuna de Quilpué, a unos 2 km (Anexo 4.5).
+- Las poblaciones más cercanas, al norte del predio: Alto Valencia (1,70 km), Población
+  Esperanza (1,94 km), Los Fundadores 2 y Nuevo Horizonte (2,07 km), Pompeya Sur (2,12 km).
+  Distancias de esta página, al deslinde del predio.
+- La unidad habitacional más cercana está a 676 m del perímetro, según la Tabla 11 del Anexo 8.1
+  (Plan de Gestión de Olor) del titular; las 21 que lista están al norte.
+- El viento predominante proviene de 180°–200° y sopla hacia el norte, con media de 5,73 m/s
+  (Anexo 4.2, modelación WRF del titular).
+- De 23 causales del Artículo 11 evaluadas, el Capítulo 5 reconoce un solo impacto significativo:
+  la pérdida de ejemplares de tres especies de flora.
+- 19 de los 25 organismos del Estado que se pronunciaron lo hicieron con observaciones
+  (oficios del 2 al 15 de septiembre de 2026, expediente electrónico).
+- Un informe geológico-estructural de 2023 del titular describe una falla potencialmente activa
+  que «compromete el cierre perimetral» (magnitud 6,8); el Capítulo 4 no la menciona.
+- La barrera entre la basura y el suelo es una geomembrana HDPE de 1,5 mm (Capítulo 1).
+- El proyecto declara 30.741.988 toneladas en 25 años de operación, más 20 de post-cierre.
+- Cálculo de esta página, no del titular: el 99,7 % del predio se quemó en el incendio de
+  febrero de 2024 (Sentinel-2, índice dNBR).
+
+## Quién lo hizo
+
+Análisis técnico independiente sobre documentos públicos. No representa al titular ni a ningún
+organismo del Estado. Código, datos y método: https://github.com/FeniaPfa/seia-data

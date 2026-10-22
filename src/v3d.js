@@ -27,9 +27,11 @@ function hWorld(x,z){return hAt(x/S+0.5,-z/S+0.5)}
 
 /* ---------- renderer ---------- */
 var ren;
-try { ren=new THREE.WebGLRenderer({antialias:true}); }
+/* en celulares de pantalla densa el antialias y la densidad 2 cuestan mucho y no se notan */
+var DENSO=(window.matchMedia&&matchMedia('(pointer:coarse)').matches)&&(devicePixelRatio||1)>=2;
+try { ren=new THREE.WebGLRenderer({antialias:!DENSO}); }
 catch(e){ sinWebGL(cv); return; }
-ren.setPixelRatio(Math.min(devicePixelRatio,2));
+ren.setPixelRatio(Math.min(devicePixelRatio,DENSO?1.5:2));
 cv.appendChild(ren.domElement);
 /* el lienzo tiene nombre, recibe foco y se mueve con teclado */
 ren.domElement.setAttribute('role','img'); ren.domElement.tabIndex=0;
@@ -548,6 +550,8 @@ function cargarAltura(cb){
       var q=(d[i*4]<<M.sh)|(d[i*4+1]>>(8-M.sh));
       H[i]=M.emin+(q/M.lv)*rg;
     }
+    /* el visor del subsuelo usa el mismo modelo: se decodifica una sola vez */
+    D._H=H; (D._Hcbs||[]).forEach(function(f){f()}); D._Hcbs=null;
     texAlt=new THREE.Texture(im);
     texAlt.minFilter=THREE.NearestFilter; texAlt.magFilter=THREE.NearestFilter;
     texAlt.generateMipmaps=false;
@@ -580,6 +584,10 @@ function arrancar(){
   target.set(wx(centroU[0]), hAt(centroU[0],centroU[1])*K()+40, wz(centroU[1]));
   aplicarAnio(+$('#tl').value);
   crearPluma(); crearFlujo(); crearArcos(); rosaViento(); aplicarSim();
+  /* con las marcas ya construidas: antes el mando flotante se llenaba al cargar el
+     script, sin marcas, y decía «0 en el mapa»; y el resaltado de sotavento no se
+     aplicaba hasta tocar un modo */
+  marcarPluma(); ecoFlotante(); valorRumbo(vientoHacia); colocarMob();
   resize(); place(); animar();
 }
 
@@ -925,8 +933,8 @@ $('#w-mas') && $('#w-mas').addEventListener('click',function(){
 
 function textoViento(){
   var e=$('#vtxt'); if(!e) return;
-  var bt0=$('#w-mas'), ul0=$('#vlist');
-  if(modoViento!=='man'){ if(bt0){bt0.hidden=true;bt0.disabled=false;} if(ul0) ul0.hidden=true; }
+  /* el título dice de quién es el rumbo: del titular, o de quien lee */
+  var tt=$('#vtit'); if(tt) tt.textContent = modoViento==='man' ? 'Viento · rumbo elegido por ti' : 'Viento · WRF del titular';
   if(modoViento==='man'){
     var li=aSotavento(vientoHacia), n=li.length, T=COMUNIDADES.length;
     var fuera=li.filter(function(b){ return !tieneMarca(b.n) }).length;
@@ -940,14 +948,20 @@ function textoViento(){
          rumbo donde el conteo cae a cero. */
       '<br>A sotavento: <b>'+(n || 'ninguna')+'</b> de '+T+' comunidades' +
       (fuera ? '<br><span class="vq">'+fuera+' quedan fuera del recuadro del mapa</span>' : '') +
-      '<br><span class="vq">catastro abierto, radio de 6 km</span>';
+      '<br><span class="vq">pluma de ±35°, supuesto de esta página · catastro abierto, radio de 6 km</span>';
     listaSotavento(li);
     return;
   }
-  e.innerHTML = modoViento==='pri'
+  /* la cifra que importa —cuántas quedan a sotavento— también en los modos del
+     titular, no solo en Manual; con su supuesto declarado y la lista a un toque */
+  var li2=aSotavento(vientoHacia);
+  e.innerHTML = (modoViento==='pri'
     ? 'Proviene de <b>'+V.desde_min+'°–'+V.desde_max+'°</b> (S–SSO)<br>sopla hacia <b>'+V.hacia+'°</b> · '+
       String(V.media).replace('.',',')+' m/s'
-    : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario';
+    : 'Proviene de <b>'+V.sec_min+'°–'+V.sec_max+'°</b> (NO)<br>sopla hacia <b>'+V.sec_hacia+'°</b> · secundario')+
+    '<br>A sotavento: <b>'+(li2.length||'ninguna')+'</b> de '+COMUNIDADES.length+' comunidades'+
+    '<br><span class="vq">pluma de ±35°, supuesto de esta página</span>';
+  listaSotavento(li2);
 }
 /* ojo: `modo` ya existe en este ámbito (el basemap carto/sat de más arriba);
    los tres scripts se empalman en un solo IIFE y comparten variables. */
@@ -956,6 +970,7 @@ function fijarViento(m,rumbo){
   /* El deslizador sigue siempre al rumbo vigente: así «Manual» arranca donde
      quedó lo último que se miró, en vez de saltar a un valor viejo. */
   var sl=$('#w-dir'); if(sl && +sl.value!==rumbo) sl.value=rumbo;
+  valorRumbo(rumbo);
   /* El ancho depende del MODO, no de si hay alguien a sotavento: atado al
      contenido, el panel se angostaba al cruzar un rumbo con cero, el texto
      reflui­a y el deslizador saltaba bajo el cursor. */
@@ -968,7 +983,7 @@ function fijarViento(m,rumbo){
     var b=$('#w-'+k+'2'); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
   var s2=$('#w-dir2'); if(s2 && +s2.value!==rumbo) s2.value=rumbo;
-  marcarPluma(); ecoFlotante();
+  marcarPluma(); ecoFlotante(); colocarMob();
   ['pri','sec','man'].forEach(function(k){
     var b=$('#w-'+k); if(b) b.setAttribute('aria-pressed',String(k===m));
   });
@@ -984,11 +999,27 @@ $('#w-man').addEventListener('click',function(){
   var sl=$('#w-dir'); if(!sl) return;
   sl.addEventListener('input',function(){
     if(modoViento!=='man') fijarViento('man',+this.value);
-    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); valorRumbo(vientoHacia); }
     var s2=$('#w-dir2'); if(s2) s2.value=this.value;
   });
 })();
 function redibujarRosa(){ $('#rosa').innerHTML=''; rosaViento(); ecoFlotante(); }
+/* el lector de pantalla oye el rumbo en palabras y cuántas quedan bajo la pluma */
+function valorRumbo(r){
+  var P=['norte','noreste','este','sureste','sur','suroeste','oeste','noroeste'], i=Math.round(((r%360)+360)%360/45)%8;
+  var n=(typeof aSotavento==='function')?aSotavento(r).length:0;
+  var t='sopla hacia '+r+' grados, '+P[i]+'; '+n+' comunidades a sotavento';
+  ['#w-dir','#w-dir2'].forEach(function(id){ var s=$(id); if(s) s.setAttribute('aria-valuetext',t) });
+}
+/* en celular el mando flotante ocupa el pie del lienzo: el norte, la escala y la
+   atribución de la imagen satelital, que es obligatoria, suben por encima de él */
+function colocarMob(){
+  var fl=$('#vflot'), mb=$('#mob'), hint=$('#cv .vhint'); if(!fl||!mb) return;
+  var visible=!fl.hidden&&fl.offsetHeight>0;
+  mb.style.bottom = visible ? (fl.offsetHeight+16)+'px' : '';
+  if(hint) hint.style.display = visible ? 'none' : '';
+}
+addEventListener('resize',function(){ clearTimeout(colocarMob._t); colocarMob._t=setTimeout(colocarMob,120) });
 (function(){ var fl=$('#vflot'); if(fl) fl.hidden=false; ecoFlotante(); })();
 /* el duplicado que flota sobre el mapa en pantallas estrechas */
 function ecoFlotante(){
@@ -1000,7 +1031,7 @@ function ecoFlotante(){
     nm.innerHTML = (li.length ? '<b>'+li.length+'</b> a sotavento'+
                                 (enMapa<li.length ? ' · '+enMapa+' en el mapa' : '')
                               : 'nadie a sotavento') +
-                   (modoViento==='man' ? ' · supuesto tuyo' : '');
+                   (modoViento==='man' ? ' · rumbo supuesto tuyo' : '')+' · pluma de ±35°, supuesto de esta página';
   }
 }
 (function(){
@@ -1014,7 +1045,7 @@ function ecoFlotante(){
   s2.addEventListener('input',function(){
     var sl=$('#w-dir'); if(sl) sl.value=this.value;
     if(modoViento!=='man') fijarViento('man',+this.value);
-    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); }
+    else { vientoHacia=+this.value; marcarPluma(); redibujarRosa(); valorRumbo(vientoHacia); }
   });
 })();
 
@@ -1075,14 +1106,28 @@ var vis=true;
 if('IntersectionObserver' in window)
   new IntersectionObserver(function(es){vis=es[0].isIntersecting},{rootMargin:'200px'}).observe(cv);
 
-var ult=performance.now();
+var ult=performance.now(), firmaAnt='', ultRender=0;
+/* Una firma barata del estado que mueve los rótulos. Con 168 comunidades, recolocarlos
+   en cada cuadro —proyectar, medir paneles, probar cajas, reescribir estilos— era el
+   mayor costo del visor; ahora solo se hace cuando algo cambió. */
+function firmaMarcas(){
+  var e=cam.matrixWorld.elements, vb=document.getElementById('vbox'), mb=document.getElementById('mob');
+  return [e[0].toFixed(4),e[2].toFixed(4),e[5].toFixed(4),e[12].toFixed(1),e[13].toFixed(1),e[14].toFixed(1),
+          cv.clientWidth,cv.clientHeight,chkOn('L-barrios'),vientoHacia,modoViento,marcas.length,
+          vb?vb.offsetHeight:0,mb?mb.style.bottom:''].join('|');
+}
 function animar(){
   requestAnimationFrame(animar);
   var ahora=performance.now(), dt=Math.min((ahora-ult)/1000,0.05); ult=ahora;
   if(!vis) return;
   pasoTour(dt);
-  if(simOn){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
-  ren.render(sc,cam); ubicarMarcas();
+  var anima=simOn&&((pluma&&pluma.visible)||(flujo&&flujo.visible)||(arcos&&arcos.visible));
+  if(anima){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
+  var f=firmaMarcas(), cambio=f!==firmaAnt;
+  /* quieto y sin simulación: dos cuadros por segundo bastan para que aparezcan las
+     texturas que llegan tarde (satélite, cicatriz) sin quemar batería */
+  if(anima||cambio||tourOn||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
+  if(cambio){ ubicarMarcas(); firmaAnt=f; }
 }
 cargarAltura(function(){ cargarFlujo(arrancar) });
 })();
