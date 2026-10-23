@@ -44,6 +44,17 @@ páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 | `src/plazos.html` | la vista «Qué puede pasar»: mapa del procedimiento y sus desenlaces |
 | `src/observaciones.html` | las observaciones fundadas: cita textual, documento y página PDF, contradicción y pedido; se eligen y se arma un solo texto. Cada `.pide` de la principal enlaza a su `#obs-…` y `build.py` falla si el ancla no existe |
 
+**`observaciones.html`, reglas que salieron del comité UX** (público: vecinos con poca experiencia
+digital, en celular, muchos desde el navegador interno de WhatsApp):
+- «Sumar a mi observación» y «Copiar» van **fuera** de todo `<details>`; estuvieron dentro y nadie
+  podía elegir nada sin abrir el desplegable. Las pruebas y el texto sí van plegados.
+- Copiar intenta primero `execCommand` (síncrono, dentro del toque: funciona en los WebView), después
+  `navigator.clipboard`, y si todo falla deja el texto **seleccionado** con instrucciones. Nunca
+  falla en silencio, y no copia si falta la población.
+- La selección se guarda en `localStorage` **y** en `?e=` (el WebView puede no persistir).
+- El conteo de observaciones aparece en la bajada, en la principal, en `plazos.html`, en `llms.txt` y
+  en el README: si agregas una, cámbialo en todos.
+
 `proyecciones.py` regenera las series de masa, metano y camiones desde la tabla de producción
 anual del Capítulo 1. **No está conectado al build**: escribe `data/proyecciones.json` y sus
 valores se copiaron a mano a las claves `proy` y `vial` de `src/datos.json`. Si lo vuelves a
