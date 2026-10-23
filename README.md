@@ -18,7 +18,7 @@ sitio que el servicio puede cambiar o retirar.
 | página | qué es |
 |---|---|
 | [`index.html`](https://feniapfa.github.io/seia-data/) | el análisis: cifras, mapas, dos visores 3D, preguntas frecuentes y observaciones modelo para ingresar en el SEA |
-| [`observaciones.html`](https://feniapfa.github.io/seia-data/observaciones.html) | diecinueve observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
+| [`observaciones.html`](https://feniapfa.github.io/seia-data/observaciones.html) | veintiuna observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
 | [`relato.html`](https://feniapfa.github.io/seia-data/relato.html) | el recorrido en 3D con scroll: la quebrada que se llena, el viento, el agua y la vista desde cada población |
 | [`que-puede-pasar.html`](https://feniapfa.github.io/seia-data/que-puede-pasar.html) | el recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300 y lo que obliga cada desenlace |
 

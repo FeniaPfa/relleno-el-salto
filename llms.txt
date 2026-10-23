@@ -14,7 +14,7 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - [Análisis del expediente](https://feniapfa.github.io/seia-data/): cifras, mapas, visores 3D y
   observaciones modelo para la participación ciudadana.
 - [Observaciones fundadas, listas para ingresar](https://feniapfa.github.io/seia-data/observaciones.html):
-  diecinueve observaciones ciudadanas, cada una con la cita textual, el documento y la página del
+  veintiuna observaciones ciudadanas, cada una con la cita textual, el documento y la página del
   expediente, y la pregunta que el titular debe responder en la Adenda.
 - [El recorrido en 3D](https://feniapfa.github.io/seia-data/relato.html): la historia contada
   sobre el terreno, con la vista desde cada población.
