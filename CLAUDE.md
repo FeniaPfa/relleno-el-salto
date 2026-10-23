@@ -159,6 +159,14 @@ En la principal nadie lo llama. Cada `<section class="etapa">` declara su cámar
 capas en atributos `data-`. **Ojo:** `.paso` ya es la cascada de la principal; por eso las etapas
 se llaman `.etapa`, porque el relato hereda todo el CSS.
 
+**Rótulos de la etapa 09 (`data-emis`):** lo que el plan de seguimiento no mide (gases, olores,
+lixiviados, agua subterránea, ruido, camiones), cada uno anclado en su lugar real (polígonos del
+proyecto y el pozo P-5 de la Tabla 49 del Cap. 1) y con una cifra del titular. Los puntos están a
+pocos cientos de metros entre sí y en pantalla se enciman, así que `anillo()` reparte los rótulos en
+una elipse alrededor del relleno (en celular, en dos columnas entre el botón y la tarjeta) y prueba
+las 720 asignaciones para quedarse con la de líneas más cortas, que no se cruzan. Si agregas un
+rótulo, son 5.040: sigue siendo barato, pero mide.
+
 ## SEO, buscadores con respuestas y motores generativos
 
 - Las **preguntas frecuentes** (`<aside class="faq">` antes del pie) son la fuente única: `build.py`
