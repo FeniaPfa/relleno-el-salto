@@ -19,8 +19,6 @@
 @font-face{font-family:'Spectral';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/spectral-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 @font-face{font-family:'Spectral';font-style:italic;font-weight:400;font-display:swap;src:url(fonts/spectral-400-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 @font-face{font-family:'Spectral';font-style:italic;font-weight:600;font-display:swap;src:url(fonts/spectral-600-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
-@font-face{font-family:'Spectral SC';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/spectral-sc-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
-@font-face{font-family:'Spectral SC';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/spectral-sc-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 @font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/fira-sans-condensed-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 @font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/fira-sans-condensed-500-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 @font-face{font-family:'Fira Sans Condensed';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/fira-sans-condensed-600-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
@@ -31,31 +29,30 @@
 <style>
 :root{
   --bg:#f3f1ec; --surf:#faf9f5; --surf2:#e9e6de; --sunk:#e4e0d6;
-  --ink:#171a1d; --ink2:#565b5e; --ink3:#646764;
-  --line:#cdc8bc; --line2:#e0dcd2; --lctl:#948a70;
-  --acc:#9c1f28; --acc-s:#9c1f2819;
-  --blue:#1f5f7a; --green:#3f6b4a; --warn:#866112; --bistre:#7a6242;
+  --ink:#15181b; --ink2:#474d50; --ink3:#595e59;
+  --line:#c9c3b6; --line2:#ddd8cd; --lctl:#857a61;
+  --acc:#a11422; --acc-s:#a114221c;
+  --blue:#125b81; --green:#2b683f; --warn:#815703; --bistre:#755b3c;
   --grid:#0000002e;
   --doc:'Spectral',Georgia,'Times New Roman',serif;     /* titulares y cifras */
   --txt:'Libre Franklin',system-ui,-apple-system,sans-serif; /* lectura */
-  --sc:'Spectral SC','Spectral',Georgia,serif;          /* versalitas reales */
   --cart:'Fira Sans Condensed','Helvetica Neue',Arial,sans-serif; /* datos y mapa */
   --cifra:'Fira Sans Condensed','Helvetica Neue',Arial,sans-serif; /* cifras de impacto */
 }
 @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
   --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
-  --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
-  --line:#30353a; --line2:#262a2e; --lctl:#8a949c;
-  --acc:#e1676b; --acc-s:#e1676b22;
-  --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
+  --ink:#efede6; --ink2:#b8b9b4; --ink3:#9d9f99;
+  --line:#383e44; --line2:#2a2f34; --lctl:#94a0a8;
+  --acc:#fb7478; --acc-s:#fb747826;
+  --blue:#5fc3eb; --green:#7acb6a; --warn:#f4ae2b; --bistre:#cba275;
   --grid:#ffffff2e;
 }}
 :root[data-theme="dark"]{
   --bg:#14161a; --surf:#1b1e22; --surf2:#23272c; --sunk:#0f1115;
-  --ink:#e8e6df; --ink2:#a0a39e; --ink3:#8b8e8b;
-  --line:#30353a; --line2:#262a2e; --lctl:#8a949c;
-  --acc:#e1676b; --acc-s:#e1676b22;
-  --blue:#6fb0cc; --green:#7fae72; --warn:#cf9f3e; --bistre:#b09272;
+  --ink:#efede6; --ink2:#b8b9b4; --ink3:#9d9f99;
+  --line:#383e44; --line2:#2a2f34; --lctl:#94a0a8;
+  --acc:#fb7478; --acc-s:#fb747826;
+  --blue:#5fc3eb; --green:#7acb6a; --warn:#f4ae2b; --bistre:#cba275;
   --grid:#ffffff2e;
 }
 *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--txt);
@@ -69,8 +66,8 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
    margin:0 0 10px;text-wrap:balance;letter-spacing:-.012em}
 .bajada{color:var(--ink2);font-size:17px;line-height:1.6;max-width:64ch;margin:0 0 6px}
 .bajada b{color:var(--ink)}
-h2.sec{font-family:var(--sc);font-weight:600;font-size:15px;letter-spacing:.07em;
-  margin:52px 0 4px;color:var(--ink)}
+h2.sec{font-family:var(--cart);font-weight:600;font-size:15px;
+  margin:52px 0 4px;color:var(--ink);text-transform:uppercase;letter-spacing:.06em}
 p.nota{margin:0 0 18px;font-size:15px;color:var(--ink2);max-width:72ch;line-height:1.55}
 .lienzo{overflow-x:auto;background:var(--sunk);border:1px solid var(--line2);border-radius:3px;padding:6px;
   -webkit-overflow-scrolling:touch}
@@ -97,24 +94,24 @@ text{font-family:var(--cart);fill:var(--ink)}
    border-radius:3px;padding:16px 17px 18px;display:flex;flex-direction:column;gap:11px}
 .d-ap{--c:var(--green)} .d-co{--c:var(--warn)} .d-re{--c:var(--acc)} .d-ca{--c:var(--bistre)}
 .d h3{margin:0;font-family:var(--doc);font-weight:600;font-size:19px;line-height:1.2;color:var(--c)}
-.d .vive{font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.03em;
-  color:var(--ink3);margin:-6px 0 0}
+.d .vive{font-family:var(--cart);font-size:13.5px;font-weight:600;
+  color:var(--ink3);margin:-6px 0 0;letter-spacing:.01em}
 .d blockquote{margin:0;padding:9px 0 9px 12px;border-left:2px solid var(--line);
-  font-family:var(--doc);font-style:italic;font-size:15.5px;line-height:1.5;color:var(--ink2)}
+  font-family:var(--doc);font-style:italic;font-size:16.5px;line-height:1.5;color:var(--ink2)}
 .d blockquote b{font-style:normal;color:var(--ink)}
 .d p{margin:0;font-size:15.5px;line-height:1.58;color:var(--ink)}
 .d ul{margin:0;padding-left:17px;font-size:15px;line-height:1.6;color:var(--ink2)}
 .d li::marker{color:var(--c)}
 .d .pie{margin-top:auto;padding-top:9px;border-top:1px solid var(--line2);
-  font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.02em;color:var(--ink3)}
+  font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--ink3);letter-spacing:.01em}
 .volver{font-family:var(--cart);font-size:15px;margin:0 0 20px}
 .hoy{margin:30px 0 0;padding:16px 20px 16px 18px;background:var(--surf);border-left:3px solid var(--acc);max-width:72ch}
 .hoy p{margin:0;font-size:16px;line-height:1.6}
-.hoy .hoy-t{font-family:var(--sc);font-size:13.5px;font-weight:600;letter-spacing:.03em;color:var(--acc);margin-bottom:4px}
+.hoy .hoy-t{font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--acc);margin-bottom:4px;text-transform:uppercase;letter-spacing:.06em}
 .hoy a{font-family:var(--cart);font-weight:600;white-space:nowrap}
 .entexto{margin:14px 2px 0;max-width:78ch}
-.entexto summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;font-weight:600;letter-spacing:.02em;
-  color:var(--ink2);padding:8px 0;min-height:40px}
+.entexto summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;font-weight:600;
+  color:var(--ink2);padding:8px 0;min-height:40px;letter-spacing:.01em}
 .entexto ol{margin:6px 0 0;padding-left:22px;font-size:15px;line-height:1.6;color:var(--ink2)}
 .entexto li{margin-bottom:6px}
 .entexto b{color:var(--ink);font-weight:600}
@@ -124,7 +121,7 @@ text{font-family:var(--cart);fill:var(--ink)}
 .fuentes{margin-top:26px;padding-top:18px;border-top:1px solid var(--line);
   font-size:14px;color:var(--ink3);line-height:1.65;max-width:78ch}
 .fuentes a{color:var(--ink2)}
-.btn{display:inline-block;background:#9c1f28;color:#fbf7ec;font-family:var(--cart);font-size:16px;font-weight:600;
+.btn{display:inline-block;background:#a11422;color:#fbf7ec;font-family:var(--cart);font-size:16px;font-weight:600;
   text-decoration:none;padding:13px 22px;min-height:48px;border-radius:2px}
 .btn:hover{color:#fbf7ec;filter:brightness(1.12)}
 .accion{display:flex;flex-wrap:wrap;gap:14px 22px;align-items:center;margin:40px 0 0}

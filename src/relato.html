@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="es-CL">
+<html lang="es-CL" data-theme="dark">
 <meta charset="utf-8">
 <title>El relleno de El Salto, contado desde el terreno</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -48,7 +48,7 @@ body.listo .escena{opacity:1}
 .carga{position:fixed;inset:0;z-index:20;display:flex;align-items:center;justify-content:center;flex-direction:column;
   background:#0b0d10;transition:opacity .9s ease,visibility .9s}
 body.listo .carga{opacity:0;visibility:hidden}
-.carga .k{font-family:var(--sc);font-size:14px;letter-spacing:.06em;color:#9aa49c;margin-bottom:18px}
+.carga .k{font-family:var(--cart);font-size:14px;color:#9aa49c;margin-bottom:18px;text-transform:uppercase;letter-spacing:.06em;font-weight:600}
 .carga .barra-c{width:min(280px,60vw);height:2px;background:#23272c;overflow:hidden}
 .carga .barra-c i{display:block;height:100%;width:40%;background:var(--acc);animation:carga 1.4s ease-in-out infinite}
 @keyframes carga{0%{transform:translateX(-100%)}100%{transform:translateX(260%)}}
@@ -63,14 +63,14 @@ body.listo .carga{opacity:0;visibility:hidden}
   -webkit-backdrop-filter:blur(8px) saturate(1.1);backdrop-filter:blur(8px) saturate(1.1);
   opacity:.28;transform:translateY(28px) scale(.985);transition:opacity .7s ease,transform .9s cubic-bezier(.2,.8,.2,1)}
 .etapa.activa .tarj{opacity:1;transform:none}
-.tarj .et{font-family:var(--sc);font-size:13.5px;font-weight:600;letter-spacing:.04em;color:var(--acc);margin:0 0 6px;
-  display:flex;gap:10px;align-items:baseline}
-.tarj .et .nro{font-family:var(--cifra);color:#7c837d;font-size:13px;letter-spacing:0}
+.tarj .et{font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--acc);margin:0 0 6px;
+  display:flex;gap:10px;align-items:baseline;text-transform:uppercase;letter-spacing:.06em}
+.tarj .et .nro{font-family:var(--cifra);color:#9a9f99;font-size:13px;letter-spacing:0}
 .tarj h2{font-family:var(--doc);font-size:clamp(25px,3vw,33px);line-height:1.14;font-weight:600;margin:0 0 12px;color:#f4f2eb}
 .tarj p{margin:0 0 10px;font-size:17px;line-height:1.58;color:#dad8d0}
 .tarj p:last-child{margin-bottom:0}
 .tarj b{color:#fff;font-weight:600}
-.tarj .fte,.tarj .calc{font-family:var(--sc);font-size:13px;letter-spacing:.02em;margin-top:12px}
+.tarj .fte,.tarj .calc{font-family:var(--cart);font-size:13.5px;margin-top:12px;letter-spacing:.01em}
 .tarj .fte{color:#a9aea6} .tarj .calc{color:#8fb8d4}
 .tarj a{color:inherit}
 .cifra{font-family:var(--cifra);font-size:clamp(52px,6.4vw,72px);font-weight:600;line-height:.92;color:var(--acc);
@@ -104,7 +104,7 @@ body.listo .portada .baj{opacity:1}
 .medidor{height:170px;position:relative;border-bottom:1px solid #6b7480;margin-top:20px}
 .medidor .ed{position:absolute;right:4px;bottom:0;width:30px;height:100%;
   background:repeating-linear-gradient(0deg,#3a4048 0 7.5px,#2a2f35 7.5px 8.5px);border:1px solid #6b7480}
-.medidor .ed::after{content:'20 pisos';position:absolute;top:-18px;right:-6px;font-family:var(--cart);font-size:11.5px;color:#a9aea6;white-space:nowrap}
+.medidor .ed::after{content:'20 pisos';position:absolute;top:-18px;right:-6px;font-family:var(--cart);font-size:12.5px;color:#a9aea6;white-space:nowrap}
 .medidor .ma{position:absolute;left:4px;bottom:0;width:38px;height:0;background:linear-gradient(#ff8a5c,#c84e25);
   transition:height .25s linear}
 .medidor .ma b{position:absolute;top:-19px;left:0;font-family:var(--cifra);font-size:13px;color:#ffb9a4;white-space:nowrap}
@@ -120,7 +120,7 @@ body.listo .portada .baj{opacity:1}
 
 /* ---- cierre ---- */
 .acciones{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}
-.btn{display:inline-flex;align-items:center;min-height:48px;padding:12px 20px;background:#9c1f28;color:#fbf7ec;
+.btn{display:inline-flex;align-items:center;min-height:48px;padding:12px 20px;background:#a11422;color:#fbf7ec;
   font-family:var(--cart);font-size:16px;font-weight:600;text-decoration:none;border-radius:2px}
 .btn:hover{filter:brightness(1.12)}
 .btn2{display:inline-flex;align-items:center;min-height:48px;padding:12px 18px;border:1px solid #6b7480;color:#e8e6df;
@@ -186,7 +186,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .portada h1{font-size:40px}
   .rot-huella{font-size:13.5px;padding:5px 9px}
   .areas li{font-size:14.5px}
-  .rot-area{font-size:12px;max-width:120px} .rot-area small{font-size:11.5px}
+  .rot-area{font-size:12px;max-width:120px} .rot-area small{font-size:12px}
   /* la portada cabe en la pantalla visible, con aire al pie para la indicación de bajar */
   .etapa.portada{min-height:100vh;min-height:100svh;padding-bottom:84px}
   .portada .tarj{padding:16px 16px 14px}
@@ -199,7 +199,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .riel{display:none}
   .prog{height:3px}
     .escena .mob{right:14px}
-  .atrib-r{right:12px;font-size:11px}
+  .atrib-r{right:12px;font-size:12px}
 }
 @media(prefers-reduced-motion:reduce){
   .pista i{animation:none}

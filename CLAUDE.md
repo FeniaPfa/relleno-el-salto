@@ -105,6 +105,18 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
 - **El pie tiene un placeholder de firma** (`.firma` en `plantilla.html`): nombre o colectivo y
   contacto van ahí antes de publicar. La fecha de actualización la inyecta `build.py` desde git.
 
+## Color y tipografía: las reglas
+
+- **Contraste medido, no a ojo.** Todo color de texto cumple 4,5:1 sobre los cuatro fondos de su modo
+  (`--bg`, `--surf`, `--surf2`, `--sunk`), y `--lctl` (bordes de controles) 3:1. Si cambias un token,
+  mídelo contra los cuatro: el que falla siempre es `--sunk` en claro y `--surf2` en oscuro.
+- **El relato fuerza la paleta oscura** (`data-theme="dark"` en su `<html>`): sus fondos son oscuros
+  fijos, y con la paleta clara el carmín quedaba a 2,3:1 sobre negro.
+- **Serif solo desde 16 px.** Spectral queda para titulares, cifras y citas. Bajo 16 px va la
+  condensada (`--cart`): rótulos cortos en mayúsculas con `letter-spacing:.06em`, líneas de fuente y
+  cálculo en caja normal y al menos 13,5 px. Las versalitas de Spectral SC a 12–13 px medían 8 px de
+  alto de letra: se retiraron, y con ellas el token `--sc` y sus dos woff2.
+
 ## Fuentes y Three.js, en el repo
 
 Las fuentes (`fonts/`, subconjunto latino, SIL OFL) y Three.js r128 (`lib/`) se sirven desde la
