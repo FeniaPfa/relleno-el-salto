@@ -57,6 +57,7 @@ def main():
     print('index.html  %.1f KB  ·  %d secciones' % (kb, pleno.count('<section id=')))
 
     segunda(h)
+    relato(h, v)
     sitemap()
 
 def tokens(h):
@@ -153,9 +154,38 @@ def ldjson(pleno):
     ]
     return json.dumps({'@context': 'https://schema.org', '@graph': g}, ensure_ascii=False, separators=(',', ':'))
 
+def bloque_div(h, inicio):
+    """Desde `inicio` hasta el </div> que lo cierra."""
+    i = h.index(inicio); prof = 0
+    for m in re.finditer(r'<div\b|</div>', h[i:]):
+        prof += 1 if m.group(0) != '</div>' else -1
+        if prof == 0:
+            return h[i:i + m.end()]
+    raise ValueError('bloque sin cerrar')
+
+def css_principal(h):
+    """El <style> principal de plantilla.html (el que trae los colores)."""
+    for m in re.finditer(r'<style>.*?</style>', h, re.S):
+        if ':root{' in m.group(0):
+            return m.group(0)
+    raise ValueError('sin CSS principal')
+
+def relato(h, visor_js):
+    """relato.html: el recorrido con scroll. Reutiliza el visor del terreno tal cual:
+    su marcado, su CSS, su código y los datos salen de las mismas fuentes que la principal."""
+    pg = leer('relato.html')
+    for marca, valor in (('<!--__FUENTES__-->', fuentes(h)), ('<!--__CSS__-->', css_principal(h)),
+                         ('<!--__VISOR_HTML__-->', bloque_div(h, '<div class="v3">')),
+                         ('/*__VISOR_JS__*/', visor_js), ('/*__DATOS__*/', leer('datos.json'))):
+        assert pg.count(marca) == 1, 'marcador ausente en relato.html: ' + marca
+        pg = pg.replace(marca, valor)
+    destino = os.path.join(AQUI, 'relato.html')
+    io.open(destino, 'w', encoding='utf-8').write(pg)
+    print('relato.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+
 def sitemap():
     f = fecha_iso()
-    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'que-puede-pasar.html'))
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'relato.html', 'que-puede-pasar.html'))
     io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 

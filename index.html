@@ -317,6 +317,18 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-family:var(--doc);font-weight:300;font-size:30px;color:var(--ink3);
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
+/* acceso al recorrido narrado */
+.relato-cta{display:grid;grid-template-columns:1fr auto;gap:4px 24px;align-items:center;margin:26px 0 0;padding:16px 20px;
+  text-decoration:none;color:#f1efe8;border-radius:2px;position:relative;overflow:hidden;
+  background:linear-gradient(90deg,rgba(14,16,20,.92) 0%,rgba(14,16,20,.7) 55%,rgba(14,16,20,.35) 100%),
+    url(textura-1024.jpg) center 42%/cover;border:1px solid #39413c}
+.relato-cta:hover{border-color:var(--acc)} .relato-cta:hover .rc-a{background:#b3252f}
+.rc-k{grid-column:1;font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.04em;color:#ff9a8a}
+.rc-t{grid-column:1;font-family:var(--doc);font-size:clamp(18px,2.2vw,22px);font-weight:600;line-height:1.3;color:#fbf9f2}
+.rc-a{grid-column:2;grid-row:1/3;font-family:var(--cart);font-size:15.5px;font-weight:600;background:#9c1f28;color:#fbf7ec;
+  padding:12px 18px;min-height:46px;display:flex;align-items:center;white-space:nowrap;border-radius:2px;transition:background .15s}
+@media(max-width:640px){ .relato-cta{grid-template-columns:1fr} .rc-a{grid-column:1;grid-row:auto;justify-self:start;margin-top:8px} }
+.tg-relato{text-decoration:none;display:inline-flex;align-items:center;gap:6px;border-color:var(--acc)!important}
 .faq{margin-top:64px;max-width:72ch}
 .faq h2{font-size:26px;line-height:1.2;font-weight:600;letter-spacing:-.01em;padding-bottom:10px;
   border-bottom:1px solid var(--bistre);margin-bottom:10px}
@@ -931,9 +943,15 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
 <nav class="indice" aria-label="Contenido de la página"><details id="indice-d">
   <summary>Contenido · 15 secciones</summary>
-  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a> <a href="#preguntas">Preguntas frecuentes</a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
+  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a> <a href="relato.html"><b>El recorrido en 3D</b></a> <a href="#preguntas">Preguntas frecuentes</a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
 </details></nav>
 <noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
+
+<a class="relato-cta" href="relato.html">
+  <span class="rc-k">Nuevo · el recorrido en 3D</span>
+  <span class="rc-t">Baja y mira cómo la quebrada se llena, hacia dónde va el viento y qué se verá desde tu población</span>
+  <span class="rc-a">Abrir el recorrido →</span>
+</a>
 
 <section id="hallazgos" style="padding-top:38px" aria-labelledby="t-hallazgos">
   <h2 id="t-hallazgos" class="vh">Lo esencial, en cinco cifras</h2>
@@ -1093,7 +1111,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
         <button class="tg" id="b-curv" aria-pressed="true">Curvas</button>
         <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
-        <button class="tg" id="b-tour" aria-pressed="false"><span aria-hidden="true">▶</span> Recorrido</button>
+        <a class="tg tg-relato" href="relato.html"><span aria-hidden="true">▶</span> Recorrido narrado</a>
         <button class="tg" id="b-sim" aria-pressed="true"><span aria-hidden="true">❚❚</span> Pausar simulación</button>
         <span class="orb" role="group" aria-label="Mover la cámara">
           <button class="tg" data-orb="izq" aria-label="Girar a la izquierda">↺</button>
@@ -3725,6 +3743,8 @@ function construirTerreno(){
   matC.uniforms.exag.value=k;
   terr=new THREE.Mesh(g, modo==='sat'&&texSat ? new THREE.MeshBasicMaterial({map:texSat}) : matC);
   sc.add(terr);
+  /* el relato puede vestir el terreno con su propio material; en la principal no hay gancho */
+  if(window.VISOR&&VISOR.alTerreno) VISOR.alTerreno(terr);
 
   /* falda vertical + base: el terreno lee como bloque, no como papel */
   var base=(M.emin-70)*k, fp=[];
@@ -4198,6 +4218,8 @@ function arrancar(){
      aplicaba hasta tocar un modo */
   marcarPluma(); ecoFlotante(); valorRumbo(vientoHacia); colocarMob();
   resize(); place(); animar();
+  VISOR.listo=true;
+  try{ window.dispatchEvent(new Event('visor-listo')) }catch(e){}
 }
 
 /* ---------- tiempo ---------- */
@@ -4667,7 +4689,10 @@ var TOUR=[
   {th:-0.78,ph:0.80,rad:0.42,d:4.0}
 ];
 var tourOn=false,tourI=0,tourT=0,tourDesde=null;
-$('#b-tour').addEventListener('click',function(){
+/* en la principal el botón de recorrido pasó a ser un enlace al relato: el recorrido interno
+   queda disponible solo si existe un botón #b-tour */
+var bTour=document.getElementById('b-tour');
+if(bTour&&bTour.tagName==='BUTTON') bTour.addEventListener('click',function(){
   tourOn=!tourOn; this.setAttribute('aria-pressed',tourOn);
   this.textContent=tourOn?'■ Detener':'▶ Recorrido';
   if(tourOn){ tourI=0; tourT=0; tourDesde={th:th,ph:ph,rad:rad/S}; }
@@ -4684,9 +4709,79 @@ function pasoTour(dt){
   if(f>=1){
     tourDesde={th:k.th,ph:k.ph,rad:k.rad}; tourT=0; tourI++;
     if(tourI>=TOUR.length){ tourOn=false;
-      var b=$('#b-tour'); b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; }
+      var b=$('#b-tour'); if(b){ b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; } }
   }
 }
+
+/* ---------- control externo ----------
+   Lo usa la página del relato (relato.html) para mover la cámara, el año y las capas
+   al bajar. En la principal nadie lo llama. Las posiciones van en las mismas unidades
+   que el recorrido: th y ph en radianes, rad en fracción del ancho del terreno, y el
+   centro desplazado (dx, dz) en fracción del ancho desde el centro del relleno. */
+var vuelo=null;
+function pasoVuelo(dt){
+  if(!vuelo) return;
+  /* tiempo real, no el dt con tope del bucle: en un equipo lento el vuelo dura lo mismo */
+  vuelo.t=(performance.now()-vuelo.t0)/1000;
+  var f=Math.min(vuelo.t/vuelo.d,1), e=f<.5?4*f*f*f:1-Math.pow(-2*f+2,3)/2, a=vuelo.a, b=vuelo.b;
+  th=a.th+(b.th-a.th)*e; ph=a.ph+(b.ph-a.ph)*e; rad=(a.rad+(b.rad-a.rad)*e)*S;
+  var tx=a.tx+(b.tx-a.tx)*e, tz=a.tz+(b.tz-a.tz)*e;
+  target.set(tx, hWorld(tx,tz)*K()+40, tz);
+  place();
+  if(f>=1) vuelo=null;
+}
+/* el recorrido principal de la escorrentía como un tubo sobre el terreno: a la distancia
+   del relato las partículas no se ven. Sólo lo enciende el relato. */
+var troncal=null;
+function crearTroncal(){
+  var E=D.escorrentia; if(!E||!E.troncal) return null;
+  var c=E.troncal.type==='LineString'?E.troncal.coordinates:[].concat.apply([],E.troncal.coordinates);
+  var pts=[], k=K();
+  c.forEach(function(q){ var u=uv(q[0],q[1]); if(u[0]<0.01||u[0]>0.99||u[1]<0.01||u[1]>0.99) return;
+    pts.push(new THREE.Vector3(wx(u[0]),hAt(u[0],u[1])*k+14,wz(u[1]))) });
+  if(pts.length<2) return null;
+  var g=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),pts.length*6,14,6,false);
+  var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({color:0x5ad7f5,transparent:true,opacity:.92,depthTest:false}));
+  m.renderOrder=7; sc.add(m); return m;
+}
+var VISOR=window.VISOR={
+  listo:false,
+  volar:function(k,seg){
+    var cx=wx(centroU[0]), cz=wz(centroU[1]);
+    /* el giro va por el camino corto */
+    var dth=k.th-th; while(dth>Math.PI) dth-=2*Math.PI; while(dth<-Math.PI) dth+=2*Math.PI;
+    tourOn=false;
+    vuelo={a:{th:th,ph:ph,rad:rad/S,tx:target.x,tz:target.z},
+           b:{th:th+dth,ph:k.ph,rad:k.rad,tx:cx+(k.dx||0)*S,tz:cz-(k.dz||0)*S},
+           t:0,t0:performance.now(),d:RM?0.001:(seg||2.4)};
+  },
+  anio:function(y){ var s=$('#tl'); if(s){ s.value=y } aplicarAnio(+y) },
+  capa:function(id,on){ var e=document.getElementById(id);
+    if(e&&e.checked!==on){ e.checked=on; e.dispatchEvent(new Event('change')) } },
+  viento:function(m){ var b=$('#w-'+m); if(b) b.click() },
+  /* corre la imagen sin achicar el lienzo: fx a la derecha, fy hacia arriba (fracción) */
+  volando:function(){ return !!vuelo },
+  /* acceso a los objetos del visor, para que el relato construya capas propias sobre la
+     misma escena. La principal no lo usa. */
+  internos:function(){ return {THREE:THREE,sc:sc,cam:cam,ren:ren,terr:terr,falda:falda,K:K,S:S,N:N,
+    hAt:hAt,hWorld:hWorld,uv:uv,wx:wx,wz:wz,M:M,G:G} },
+  malla:function(n){ if(n===G) return; G=n; construirTerreno(); construirCapas(); firmaAnt='' },
+  /* pone la cámara sin animar: el relato la interpola con el scroll */
+  poner:function(k){
+    vuelo=null; tourOn=false;
+    var cx=wx(centroU[0]), cz=wz(centroU[1]), tx=cx+(k.dx||0)*S, tz=cz-(k.dz||0)*S;
+    th=k.th; ph=k.ph; rad=k.rad*S; target.set(tx, hWorld(tx,tz)*K()+40, tz); place();
+  },
+  /* la cámara que mira el relleno desde un punto del terreno, a `alto` metros sobre el suelo */
+  ojo:function(lon,lat,alto){
+    var u=uv(lon,lat), x=wx(u[0]), z=wz(u[1]), cx=wx(centroU[0]), cz=wz(centroU[1]);
+    var ty=hWorld(cx,cz)*K()+40, cy=hAt(u[0],u[1])*K()+(alto||40)*K();
+    var dx=x-cx, dz=z-cz, hd=Math.hypot(dx,dz), dy=cy-ty;
+    return {th:Math.atan2(dx,dz), ph:Math.atan2(hd,dy), rad:Math.hypot(hd,dy)/S};
+  },
+  troncal:function(on){ if(on&&!troncal) troncal=crearTroncal(); if(troncal) troncal.visible=!!on; firmaAnt='' },
+  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' }
+};
 
 /* pausa: detiene y oculta las partículas; con «reducir movimiento» del sistema arranca pausado */
 var simOn=!RM;
@@ -4705,9 +4800,12 @@ function aplicarSim(){
   });
 });
 
+var corrX=0, corrY=0;   /* corrimiento del centro óptico, lo fija el relato */
 function resize(){
   var w=cv.clientWidth,h=cv.clientHeight; if(!w||!h)return;
-  ren.setSize(w,h,false);cam.aspect=w/h;cam.updateProjectionMatrix();
+  ren.setSize(w,h,false);cam.aspect=w/h;
+  if(corrX||corrY) cam.setViewOffset(w,h,-w*corrX,h*corrY,w,h); else cam.clearViewOffset();
+  cam.updateProjectionMatrix();
   escalaPluma(); mobiliario();
 }
 addEventListener('resize',resize);
@@ -4729,13 +4827,13 @@ function animar(){
   requestAnimationFrame(animar);
   var ahora=performance.now(), dt=Math.min((ahora-ult)/1000,0.05); ult=ahora;
   if(!vis) return;
-  pasoTour(dt);
+  pasoTour(dt); pasoVuelo(dt);
   var anima=simOn&&((pluma&&pluma.visible)||(flujo&&flujo.visible)||(arcos&&arcos.visible));
   if(anima){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
   var f=firmaMarcas(), cambio=f!==firmaAnt;
   /* quieto y sin simulación: dos cuadros por segundo bastan para que aparezcan las
      texturas que llegan tarde (satélite, cicatriz) sin quemar batería */
-  if(anima||cambio||tourOn||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
+  if(anima||cambio||tourOn||vuelo||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
   if(cambio){ ubicarMarcas(); firmaAnt=f; }
 }
 cargarAltura(function(){ cargarFlujo(arrancar) });

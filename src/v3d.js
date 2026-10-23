@@ -116,6 +116,8 @@ function construirTerreno(){
   matC.uniforms.exag.value=k;
   terr=new THREE.Mesh(g, modo==='sat'&&texSat ? new THREE.MeshBasicMaterial({map:texSat}) : matC);
   sc.add(terr);
+  /* el relato puede vestir el terreno con su propio material; en la principal no hay gancho */
+  if(window.VISOR&&VISOR.alTerreno) VISOR.alTerreno(terr);
 
   /* falda vertical + base: el terreno lee como bloque, no como papel */
   var base=(M.emin-70)*k, fp=[];
@@ -589,6 +591,8 @@ function arrancar(){
      aplicaba hasta tocar un modo */
   marcarPluma(); ecoFlotante(); valorRumbo(vientoHacia); colocarMob();
   resize(); place(); animar();
+  VISOR.listo=true;
+  try{ window.dispatchEvent(new Event('visor-listo')) }catch(e){}
 }
 
 /* ---------- tiempo ---------- */
@@ -1058,7 +1062,10 @@ var TOUR=[
   {th:-0.78,ph:0.80,rad:0.42,d:4.0}
 ];
 var tourOn=false,tourI=0,tourT=0,tourDesde=null;
-$('#b-tour').addEventListener('click',function(){
+/* en la principal el botón de recorrido pasó a ser un enlace al relato: el recorrido interno
+   queda disponible solo si existe un botón #b-tour */
+var bTour=document.getElementById('b-tour');
+if(bTour&&bTour.tagName==='BUTTON') bTour.addEventListener('click',function(){
   tourOn=!tourOn; this.setAttribute('aria-pressed',tourOn);
   this.textContent=tourOn?'■ Detener':'▶ Recorrido';
   if(tourOn){ tourI=0; tourT=0; tourDesde={th:th,ph:ph,rad:rad/S}; }
@@ -1075,9 +1082,79 @@ function pasoTour(dt){
   if(f>=1){
     tourDesde={th:k.th,ph:k.ph,rad:k.rad}; tourT=0; tourI++;
     if(tourI>=TOUR.length){ tourOn=false;
-      var b=$('#b-tour'); b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; }
+      var b=$('#b-tour'); if(b){ b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; } }
   }
 }
+
+/* ---------- control externo ----------
+   Lo usa la página del relato (relato.html) para mover la cámara, el año y las capas
+   al bajar. En la principal nadie lo llama. Las posiciones van en las mismas unidades
+   que el recorrido: th y ph en radianes, rad en fracción del ancho del terreno, y el
+   centro desplazado (dx, dz) en fracción del ancho desde el centro del relleno. */
+var vuelo=null;
+function pasoVuelo(dt){
+  if(!vuelo) return;
+  /* tiempo real, no el dt con tope del bucle: en un equipo lento el vuelo dura lo mismo */
+  vuelo.t=(performance.now()-vuelo.t0)/1000;
+  var f=Math.min(vuelo.t/vuelo.d,1), e=f<.5?4*f*f*f:1-Math.pow(-2*f+2,3)/2, a=vuelo.a, b=vuelo.b;
+  th=a.th+(b.th-a.th)*e; ph=a.ph+(b.ph-a.ph)*e; rad=(a.rad+(b.rad-a.rad)*e)*S;
+  var tx=a.tx+(b.tx-a.tx)*e, tz=a.tz+(b.tz-a.tz)*e;
+  target.set(tx, hWorld(tx,tz)*K()+40, tz);
+  place();
+  if(f>=1) vuelo=null;
+}
+/* el recorrido principal de la escorrentía como un tubo sobre el terreno: a la distancia
+   del relato las partículas no se ven. Sólo lo enciende el relato. */
+var troncal=null;
+function crearTroncal(){
+  var E=D.escorrentia; if(!E||!E.troncal) return null;
+  var c=E.troncal.type==='LineString'?E.troncal.coordinates:[].concat.apply([],E.troncal.coordinates);
+  var pts=[], k=K();
+  c.forEach(function(q){ var u=uv(q[0],q[1]); if(u[0]<0.01||u[0]>0.99||u[1]<0.01||u[1]>0.99) return;
+    pts.push(new THREE.Vector3(wx(u[0]),hAt(u[0],u[1])*k+14,wz(u[1]))) });
+  if(pts.length<2) return null;
+  var g=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),pts.length*6,14,6,false);
+  var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({color:0x5ad7f5,transparent:true,opacity:.92,depthTest:false}));
+  m.renderOrder=7; sc.add(m); return m;
+}
+var VISOR=window.VISOR={
+  listo:false,
+  volar:function(k,seg){
+    var cx=wx(centroU[0]), cz=wz(centroU[1]);
+    /* el giro va por el camino corto */
+    var dth=k.th-th; while(dth>Math.PI) dth-=2*Math.PI; while(dth<-Math.PI) dth+=2*Math.PI;
+    tourOn=false;
+    vuelo={a:{th:th,ph:ph,rad:rad/S,tx:target.x,tz:target.z},
+           b:{th:th+dth,ph:k.ph,rad:k.rad,tx:cx+(k.dx||0)*S,tz:cz-(k.dz||0)*S},
+           t:0,t0:performance.now(),d:RM?0.001:(seg||2.4)};
+  },
+  anio:function(y){ var s=$('#tl'); if(s){ s.value=y } aplicarAnio(+y) },
+  capa:function(id,on){ var e=document.getElementById(id);
+    if(e&&e.checked!==on){ e.checked=on; e.dispatchEvent(new Event('change')) } },
+  viento:function(m){ var b=$('#w-'+m); if(b) b.click() },
+  /* corre la imagen sin achicar el lienzo: fx a la derecha, fy hacia arriba (fracción) */
+  volando:function(){ return !!vuelo },
+  /* acceso a los objetos del visor, para que el relato construya capas propias sobre la
+     misma escena. La principal no lo usa. */
+  internos:function(){ return {THREE:THREE,sc:sc,cam:cam,ren:ren,terr:terr,falda:falda,K:K,S:S,N:N,
+    hAt:hAt,hWorld:hWorld,uv:uv,wx:wx,wz:wz,M:M,G:G} },
+  malla:function(n){ if(n===G) return; G=n; construirTerreno(); construirCapas(); firmaAnt='' },
+  /* pone la cámara sin animar: el relato la interpola con el scroll */
+  poner:function(k){
+    vuelo=null; tourOn=false;
+    var cx=wx(centroU[0]), cz=wz(centroU[1]), tx=cx+(k.dx||0)*S, tz=cz-(k.dz||0)*S;
+    th=k.th; ph=k.ph; rad=k.rad*S; target.set(tx, hWorld(tx,tz)*K()+40, tz); place();
+  },
+  /* la cámara que mira el relleno desde un punto del terreno, a `alto` metros sobre el suelo */
+  ojo:function(lon,lat,alto){
+    var u=uv(lon,lat), x=wx(u[0]), z=wz(u[1]), cx=wx(centroU[0]), cz=wz(centroU[1]);
+    var ty=hWorld(cx,cz)*K()+40, cy=hAt(u[0],u[1])*K()+(alto||40)*K();
+    var dx=x-cx, dz=z-cz, hd=Math.hypot(dx,dz), dy=cy-ty;
+    return {th:Math.atan2(dx,dz), ph:Math.atan2(hd,dy), rad:Math.hypot(hd,dy)/S};
+  },
+  troncal:function(on){ if(on&&!troncal) troncal=crearTroncal(); if(troncal) troncal.visible=!!on; firmaAnt='' },
+  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' }
+};
 
 /* pausa: detiene y oculta las partículas; con «reducir movimiento» del sistema arranca pausado */
 var simOn=!RM;
@@ -1096,9 +1173,12 @@ function aplicarSim(){
   });
 });
 
+var corrX=0, corrY=0;   /* corrimiento del centro óptico, lo fija el relato */
 function resize(){
   var w=cv.clientWidth,h=cv.clientHeight; if(!w||!h)return;
-  ren.setSize(w,h,false);cam.aspect=w/h;cam.updateProjectionMatrix();
+  ren.setSize(w,h,false);cam.aspect=w/h;
+  if(corrX||corrY) cam.setViewOffset(w,h,-w*corrX,h*corrY,w,h); else cam.clearViewOffset();
+  cam.updateProjectionMatrix();
   escalaPluma(); mobiliario();
 }
 addEventListener('resize',resize);
@@ -1120,13 +1200,13 @@ function animar(){
   requestAnimationFrame(animar);
   var ahora=performance.now(), dt=Math.min((ahora-ult)/1000,0.05); ult=ahora;
   if(!vis) return;
-  pasoTour(dt);
+  pasoTour(dt); pasoVuelo(dt);
   var anima=simOn&&((pluma&&pluma.visible)||(flujo&&flujo.visible)||(arcos&&arcos.visible));
   if(anima){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
   var f=firmaMarcas(), cambio=f!==firmaAnt;
   /* quieto y sin simulación: dos cuadros por segundo bastan para que aparezcan las
      texturas que llegan tarde (satélite, cicatriz) sin quemar batería */
-  if(anima||cambio||tourOn||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
+  if(anima||cambio||tourOn||vuelo||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
   if(cambio){ ubicarMarcas(); firmaAnt=f; }
 }
 cargarAltura(function(){ cargarFlujo(arrancar) });

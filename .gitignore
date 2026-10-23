@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 _sec.html
+_r.html
+_t.html
+_v.html
