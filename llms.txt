@@ -13,6 +13,8 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 
 - [Análisis del expediente](https://feniapfa.github.io/seia-data/): cifras, mapas, visores 3D y
   observaciones modelo para la participación ciudadana.
+- [El recorrido en 3D](https://feniapfa.github.io/seia-data/relato.html): la historia contada
+  sobre el terreno, con la vista desde cada población.
 - [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/que-puede-pasar.html): el
   recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300.
 - [Ficha oficial del expediente](https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026)

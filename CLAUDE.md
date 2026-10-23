@@ -106,7 +106,8 @@ en el `@font-face` del `<head>`. Libre Franklin es variable: un archivo cubre 40
 
 ## El relato con scroll (`relato.html`)
 
-Borrador para revisión, con `noindex` y fuera del sitemap. Sale de `src/relato.html`: el build le
+Publicada y enlazada desde la principal (acceso bajo el índice, botón «Recorrido narrado» del
+visor y entrada del índice). Sale de `src/relato.html`: el build le
 inyecta el CSS, las fuentes, el **marcado del visor** (el primer `<div class="v3">` de la
 plantilla), los datos y el código del visor, así que reutiliza el visor tal cual. El relato lo
 maneja con `window.VISOR` (definido en `v3d.js`): `poner` (cámara sin animar, la que usa el

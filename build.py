@@ -185,7 +185,7 @@ def relato(h, visor_js):
 
 def sitemap():
     f = fecha_iso()
-    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'que-puede-pasar.html'))
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'relato.html', 'que-puede-pasar.html'))
     io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 

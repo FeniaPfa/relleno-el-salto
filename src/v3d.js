@@ -1062,7 +1062,10 @@ var TOUR=[
   {th:-0.78,ph:0.80,rad:0.42,d:4.0}
 ];
 var tourOn=false,tourI=0,tourT=0,tourDesde=null;
-$('#b-tour').addEventListener('click',function(){
+/* en la principal el botón de recorrido pasó a ser un enlace al relato: el recorrido interno
+   queda disponible solo si existe un botón #b-tour */
+var bTour=document.getElementById('b-tour');
+if(bTour&&bTour.tagName==='BUTTON') bTour.addEventListener('click',function(){
   tourOn=!tourOn; this.setAttribute('aria-pressed',tourOn);
   this.textContent=tourOn?'■ Detener':'▶ Recorrido';
   if(tourOn){ tourI=0; tourT=0; tourDesde={th:th,ph:ph,rad:rad/S}; }
@@ -1079,7 +1082,7 @@ function pasoTour(dt){
   if(f>=1){
     tourDesde={th:k.th,ph:k.ph,rad:k.rad}; tourT=0; tourI++;
     if(tourI>=TOUR.length){ tourOn=false;
-      var b=$('#b-tour'); b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; }
+      var b=$('#b-tour'); if(b){ b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; } }
   }
 }
 

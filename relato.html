@@ -3,7 +3,16 @@
 <meta charset="utf-8">
 <title>El relleno de El Salto, contado desde el terreno</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://feniapfa.github.io/seia-data/relato.html">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="es_CL">
+<meta property="og:title" content="El relleno de El Salto, contado desde el terreno">
+<meta property="og:description" content="Un recorrido en 3D: la quebrada que se llena con 30,7 millones de toneladas, el viento hacia las casas y lo que se verá desde tu población. Con los documentos del propio titular.">
+<meta property="og:url" content="https://feniapfa.github.io/seia-data/relato.html">
+<meta property="og:image" content="https://feniapfa.github.io/seia-data/social.jpg?v=2">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="description" content="Un recorrido por el relleno sanitario proyectado en El Salto, Viña del Mar: la quebrada, la masa de basura año a año, el viento, el fuego, el agua y lo que se verá desde cada población. Todo con los documentos del propio titular.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9888;</text></svg>">
 <link rel="preload" as="script" href="lib/three.r128.min.js">
@@ -280,6 +289,18 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
   font-family:var(--doc);font-weight:300;font-size:30px;color:var(--ink3);
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
+/* acceso al recorrido narrado */
+.relato-cta{display:grid;grid-template-columns:1fr auto;gap:4px 24px;align-items:center;margin:26px 0 0;padding:16px 20px;
+  text-decoration:none;color:#f1efe8;border-radius:2px;position:relative;overflow:hidden;
+  background:linear-gradient(90deg,rgba(14,16,20,.92) 0%,rgba(14,16,20,.7) 55%,rgba(14,16,20,.35) 100%),
+    url(textura-1024.jpg) center 42%/cover;border:1px solid #39413c}
+.relato-cta:hover{border-color:var(--acc)} .relato-cta:hover .rc-a{background:#b3252f}
+.rc-k{grid-column:1;font-family:var(--sc);font-size:13px;font-weight:600;letter-spacing:.04em;color:#ff9a8a}
+.rc-t{grid-column:1;font-family:var(--doc);font-size:clamp(18px,2.2vw,22px);font-weight:600;line-height:1.3;color:#fbf9f2}
+.rc-a{grid-column:2;grid-row:1/3;font-family:var(--cart);font-size:15.5px;font-weight:600;background:#9c1f28;color:#fbf7ec;
+  padding:12px 18px;min-height:46px;display:flex;align-items:center;white-space:nowrap;border-radius:2px;transition:background .15s}
+@media(max-width:640px){ .relato-cta{grid-template-columns:1fr} .rc-a{grid-column:1;grid-row:auto;justify-self:start;margin-top:8px} }
+.tg-relato{text-decoration:none;display:inline-flex;align-items:center;gap:6px;border-color:var(--acc)!important}
 .faq{margin-top:64px;max-width:72ch}
 .faq h2{font-size:26px;line-height:1.2;font-weight:600;letter-spacing:-.01em;padding-bottom:10px;
   border-bottom:1px solid var(--bistre);margin-bottom:10px}
@@ -990,8 +1011,6 @@ body.listo .riel{opacity:1}
 .volver{position:fixed;top:12px;right:14px;z-index:7;font-family:var(--cart);font-size:14px;color:#e8e6df;
   background:rgba(16,18,22,.85);border:1px solid #39413c;padding:7px 11px;text-decoration:none;border-radius:2px}
 .volver:hover{background:#23272c}
-.revision{position:fixed;left:14px;top:12px;z-index:7;font-family:var(--cart);font-size:12.5px;color:#17120a;
-  background:#cf9f3e;padding:4px 9px;border-radius:2px}
 
 /* ---- áreas protegidas ---- */
 .areas{list-style:none;margin:4px 0 10px;padding:0;display:grid;gap:9px}
@@ -1046,8 +1065,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .medidor{height:110px}
   .riel{display:none}
   .prog{height:3px}
-  .revision{display:none}
-  .escena .mob{right:14px}
+    .escena .mob{right:14px}
   .atrib-r{right:12px;font-size:11px}
 }
 @media(prefers-reduced-motion:reduce){
@@ -1059,7 +1077,6 @@ body.bajo .pista{opacity:0;pointer-events:none}
 
 <div class="carga" aria-hidden="true"><p class="k">Cargando el terreno de El Salto</p><div class="barra-c"><i></i></div></div>
 <div class="prog" id="prog" aria-hidden="true"></div>
-<span class="revision">Borrador para revisión</span>
 <a class="volver" href="./">Análisis completo →</a>
 <p class="atrib-r" aria-label="Créditos de la imagen">Imagen: Esri, Maxar, Earthstar Geographics · Elevación: Mapzen</p>
 <nav class="riel" id="riel" aria-label="Capítulos del relato"></nav>
@@ -1075,7 +1092,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
         <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
         <button class="tg" id="b-curv" aria-pressed="true">Curvas</button>
         <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
-        <button class="tg" id="b-tour" aria-pressed="false"><span aria-hidden="true">▶</span> Recorrido</button>
+        <a class="tg tg-relato" href="relato.html"><span aria-hidden="true">▶</span> Recorrido narrado</a>
         <button class="tg" id="b-sim" aria-pressed="true"><span aria-hidden="true">❚❚</span> Pausar simulación</button>
         <span class="orb" role="group" aria-label="Mover la cámara">
           <button class="tg" data-orb="izq" aria-label="Girar a la izquierda">↺</button>
@@ -1221,7 +1238,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
     <p>Entran entre 900.000 y 1.627.853 toneladas por año, según la tabla de producción del
     <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a>.
     Al cierre, la masa corona en la cota 350: unos <b>60 metros</b> de basura, el alto de un edificio de 20 pisos.</p>
-    <p class="calc">Espesor: cálculo de esta página con el tonelaje y la huella que declara el titular</p>
+    <p class="calc">Espesor y forma: modelo de esta página con el tonelaje, la huella y los taludes de la Tabla 30 que declara el titular</p>
   </div>
 </section>
 
@@ -2527,7 +2544,10 @@ var TOUR=[
   {th:-0.78,ph:0.80,rad:0.42,d:4.0}
 ];
 var tourOn=false,tourI=0,tourT=0,tourDesde=null;
-$('#b-tour').addEventListener('click',function(){
+/* en la principal el botón de recorrido pasó a ser un enlace al relato: el recorrido interno
+   queda disponible solo si existe un botón #b-tour */
+var bTour=document.getElementById('b-tour');
+if(bTour&&bTour.tagName==='BUTTON') bTour.addEventListener('click',function(){
   tourOn=!tourOn; this.setAttribute('aria-pressed',tourOn);
   this.textContent=tourOn?'■ Detener':'▶ Recorrido';
   if(tourOn){ tourI=0; tourT=0; tourDesde={th:th,ph:ph,rad:rad/S}; }
@@ -2544,7 +2564,7 @@ function pasoTour(dt){
   if(f>=1){
     tourDesde={th:k.th,ph:k.ph,rad:k.rad}; tourT=0; tourI++;
     if(tourI>=TOUR.length){ tourOn=false;
-      var b=$('#b-tour'); b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; }
+      var b=$('#b-tour'); if(b){ b.setAttribute('aria-pressed','false'); b.textContent='▶ Recorrido'; } }
   }
 }
 
