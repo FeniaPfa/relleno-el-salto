@@ -57,6 +57,7 @@ def main():
     print('index.html  %.1f KB  ·  %d secciones' % (kb, pleno.count('<section id=')))
 
     segunda(h)
+    observaciones(h)
     relato(h, v)
     sitemap()
 
@@ -89,6 +90,34 @@ def segunda(h):
     destino = os.path.join(AQUI, 'que-puede-pasar.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('que-puede-pasar.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+
+def observaciones(h):
+    """observaciones.html: las observaciones fundadas, con cita y página, listas para copiar.
+    Estática como la segunda: hereda tokens y fuentes, y su script se valida con node."""
+    pg = leer('observaciones.html')
+    assert pg.count('/*__TOKENS__*/') == 1, 'marcador de tokens ausente en observaciones.html'
+    pg = pg.replace('/*__TOKENS__*/', tokens(h)).replace('{fecha_iso}', fecha_iso())
+    assert pg.count('<!--__FUENTES__-->') == 1, 'marcador de fuentes ausente en observaciones.html'
+    pg = pg.replace('<!--__FUENTES__-->', fuentes(h))
+    ids = re.findall(r'<article class="obs" id="(obs-[a-z-]+)"', pg)
+    assert len(ids) == len(set(ids)), 'id de observación duplicado'
+    # cada .pide de la principal que apunta aquí debe encontrar su observación
+    for ancla in re.findall(r'observaciones\.html#(obs-[a-z-]+)', h):
+        assert ancla in ids, 'la principal enlaza a una observación que no existe: ' + ancla
+    bloque = re.findall(r'<script>(.*?)</script>', pg, re.S)[-1]
+    tmp = os.path.join(AQUI, '.chk.js')
+    io.open(tmp, 'w', encoding='utf-8').write(bloque)
+    try:
+        r = subprocess.run(['node', '--check', tmp], capture_output=True, text=True)
+        if r.returncode:
+            print(r.stderr[:800]); os.remove(tmp); sys.exit(1)
+    except FileNotFoundError:
+        pass
+    finally:
+        if os.path.exists(tmp): os.remove(tmp)
+    destino = os.path.join(AQUI, 'observaciones.html')
+    io.open(destino, 'w', encoding='utf-8').write(pg)
+    print('observaciones.html  %.1f KB  ·  %d observaciones' % (os.path.getsize(destino) / 1024, len(ids)))
 
 def pesos():
     """Peso en MB de cada archivo del expediente, por nombre, desde el manifiesto del archivo:
@@ -185,7 +214,7 @@ def relato(h, visor_js):
 
 def sitemap():
     f = fecha_iso()
-    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'relato.html', 'que-puede-pasar.html'))
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones.html', 'relato.html', 'que-puede-pasar.html'))
     io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 
