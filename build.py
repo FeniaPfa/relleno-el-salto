@@ -58,6 +58,7 @@ def main():
 
     segunda(h)
     observaciones(h)
+    especies(h)
     relato(h, v)
     sitemap()
 
@@ -126,6 +127,22 @@ def observaciones(h):
     destino = os.path.join(AQUI, 'observaciones.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('observaciones.html  %.1f KB  ·  %d observaciones' % (os.path.getsize(destino) / 1024, len(ids)))
+
+def especies(h):
+    """especies.html: las especies que el expediente registra y lo que el proyecto les hace, con foto.
+    Estática: hereda tokens y fuentes. Cada foto debe existir y tener crédito en la página."""
+    pg = leer('especies.html')
+    for marca, valor in (('/*__TOKENS__*/', tokens(h)), ('<!--__FUENTES__-->', fuentes(h))):
+        assert pg.count(marca) == 1, 'marcador ausente en especies.html: ' + marca
+        pg = pg.replace(marca, valor)
+    pg = pg.replace('{fecha_iso}', fecha_iso())
+    fotos = re.findall(r'src="(especies/[^"]+)"', pg)
+    for foto in fotos:
+        assert os.path.exists(os.path.join(AQUI, foto)), 'falta la foto ' + foto
+    assert pg.count('class="cred"') >= len(set(fotos)), 'hay fotos sin crédito en especies.html'
+    destino = os.path.join(AQUI, 'especies.html')
+    io.open(destino, 'w', encoding='utf-8').write(pg)
+    print('especies.html  %.1f KB  ·  %d fotos' % (os.path.getsize(destino) / 1024, len(set(fotos))))
 
 def pesos():
     """Peso en MB de cada archivo del expediente, por nombre, desde el manifiesto del archivo:
@@ -238,7 +255,7 @@ def relato(h, visor_js):
 
 def sitemap():
     f = fecha_iso()
-    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones.html', 'relato.html', 'tramite.html'))
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones.html', 'especies.html', 'relato.html', 'tramite.html'))
     io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 

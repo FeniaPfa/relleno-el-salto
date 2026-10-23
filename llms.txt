@@ -16,6 +16,9 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - [Observaciones fundadas, listas para ingresar](https://feniapfa.github.io/seia-data/observaciones.html):
   veintiuna observaciones ciudadanas, cada una con la cita textual, el documento y la página del
   expediente, y la pregunta que el titular debe responder en la Adenda.
+- [Las especies afectadas](https://feniapfa.github.io/seia-data/especies.html): las trece plantas
+  y animales que el expediente registra en el área, con su categoría de conservación, lo que el
+  proyecto les hace y lo que el estudio no resuelve, cada dato con su página.
 - [El recorrido en 3D](https://feniapfa.github.io/seia-data/relato.html): la historia contada
   sobre el terreno, con la vista desde cada población.
 - [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/tramite.html): el
