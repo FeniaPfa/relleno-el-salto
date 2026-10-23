@@ -109,7 +109,12 @@ en el `@font-face` del `<head>`. Libre Franklin es variable: un archivo cubre 40
 Borrador para revisión, con `noindex` y fuera del sitemap. Sale de `src/relato.html`: el build le
 inyecta el CSS, las fuentes, el **marcado del visor** (el primer `<div class="v3">` de la
 plantilla), los datos y el código del visor, así que reutiliza el visor tal cual. El relato lo
-maneja con `window.VISOR` (definido en `v3d.js`): `volar`, `anio`, `capa`, `troncal`, `correr`.
+maneja con `window.VISOR` (definido en `v3d.js`): `poner` (cámara sin animar, la que usa el
+scroll), `volar`, `volando`, `ojo` (la cámara que mira el relleno desde una población), `anio`,
+`capa`, `troncal`, `correr` (desplaza el centro óptico para que la tarjeta no tape el sujeto).
+La cámara se **interpola con el scroll** entre etapas: quieta en la primera mitad de cada una y
+viajando a la siguiente en la segunda. Con la escena quieta el visor dibuja dos cuadros por
+segundo y no recalcula rótulos; solo la portada y el cierre, con deriva, dibujan cada cuadro.
 En la principal nadie lo llama. Cada `<section class="etapa">` declara su cámara, su año y sus
 capas en atributos `data-`. **Ojo:** `.paso` ya es la cascada de la principal; por eso las etapas
 se llaman `.etapa`, porque el relato hereda todo el CSS.

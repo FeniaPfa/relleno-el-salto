@@ -1127,6 +1127,20 @@ var VISOR=window.VISOR={
     if(e&&e.checked!==on){ e.checked=on; e.dispatchEvent(new Event('change')) } },
   viento:function(m){ var b=$('#w-'+m); if(b) b.click() },
   /* corre la imagen sin achicar el lienzo: fx a la derecha, fy hacia arriba (fracción) */
+  volando:function(){ return !!vuelo },
+  /* pone la cámara sin animar: el relato la interpola con el scroll */
+  poner:function(k){
+    vuelo=null; tourOn=false;
+    var cx=wx(centroU[0]), cz=wz(centroU[1]), tx=cx+(k.dx||0)*S, tz=cz-(k.dz||0)*S;
+    th=k.th; ph=k.ph; rad=k.rad*S; target.set(tx, hWorld(tx,tz)*K()+40, tz); place();
+  },
+  /* la cámara que mira el relleno desde un punto del terreno, a `alto` metros sobre el suelo */
+  ojo:function(lon,lat,alto){
+    var u=uv(lon,lat), x=wx(u[0]), z=wz(u[1]), cx=wx(centroU[0]), cz=wz(centroU[1]);
+    var ty=hWorld(cx,cz)*K()+40, cy=hAt(u[0],u[1])*K()+(alto||40)*K();
+    var dx=x-cx, dz=z-cz, hd=Math.hypot(dx,dz), dy=cy-ty;
+    return {th:Math.atan2(dx,dz), ph:Math.atan2(hd,dy), rad:Math.hypot(hd,dy)/S};
+  },
   troncal:function(on){ if(on&&!troncal) troncal=crearTroncal(); if(troncal) troncal.visible=!!on; firmaAnt='' },
   correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' }
 };
