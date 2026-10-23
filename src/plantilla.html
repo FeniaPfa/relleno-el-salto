@@ -287,6 +287,8 @@ details.plegado>summary{cursor:pointer;font-family:var(--sc);font-size:13.5px;
 .rc-a{grid-column:2;grid-row:1/3;font-family:var(--cart);font-size:15.5px;font-weight:600;background:#9c1f28;color:#fbf7ec;
   padding:12px 18px;min-height:46px;display:flex;align-items:center;white-space:nowrap;border-radius:2px;transition:background .15s}
 @media(max-width:640px){ .relato-cta{grid-template-columns:1fr} .rc-a{grid-column:1;grid-row:auto;justify-self:start;margin-top:8px} }
+.obs-cta{background:var(--surf);color:var(--ink);border:1px solid var(--line);border-left:3px solid var(--acc);margin:28px 0 6px}
+.obs-cta .rc-k{color:var(--acc)} .obs-cta .rc-t{color:var(--ink);font-size:clamp(17px,2vw,19px);font-weight:500;font-family:var(--txt);line-height:1.5}
 .tg-relato{text-decoration:none;display:inline-flex;align-items:center;gap:6px;border-color:var(--acc)!important}
 .faq{margin-top:64px;max-width:72ch}
 .faq h2{font-size:26px;line-height:1.2;font-weight:600;letter-spacing:-.01em;padding-bottom:10px;
@@ -902,7 +904,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
 <nav class="indice" aria-label="Contenido de la página"><details id="indice-d">
   <summary>Contenido · 15 secciones</summary>
-  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a> <a href="relato.html"><b>El recorrido en 3D</b></a> <a href="#preguntas">Preguntas frecuentes</a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
+  <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="observaciones.html"><b>Observaciones listas para copiar</b></a> <a href="que-puede-pasar.html"><b>Qué pasa después</b></a> <a href="relato.html"><b>El recorrido en 3D</b></a> <a href="#preguntas">Preguntas frecuentes</a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
 </details></nav>
 <noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
 
@@ -990,9 +992,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 
   <p class="intro" style="margin-top:30px">Es coherente consigo mismo, y por eso importa:
   <b>si nada es significativo, nada se mide</b>. Durante veinticinco años y treinta millones de
-  toneladas, la única variable ambiental con seguimiento obligatorio son tres especies de flora. No hay
-  monitoreo comprometido de aire, de agua, de <abbr title="El líquido que escurre de la basura cuando se pudre o se moja">lixiviados</abbr>, de biogás, de olor, de ruido, ni de la
-  integridad de la <abbr title="Lámina de plástico de 1,5 mm, el espesor de una tarjeta de crédito, que separa la basura del suelo">geomembrana</abbr> de 1,5 mm.</p>
+  toneladas, la única variable de su plan de seguimiento son tres especies de flora. Ese plan no
+  incluye aire, agua, <abbr title="El líquido que escurre de la basura cuando se pudre o se moja">lixiviados</abbr>, biogás, olor, ruido ni la
+  integridad de la <abbr title="Lámina de plástico de 1,5 mm, el espesor de una tarjeta de crédito, que separa la basura del suelo">geomembrana</abbr> de 1,5 mm; los cinco pozos que el <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=116" target="_blank" rel="noopener">Capítulo 1</a> anuncia para
+  detectar lixiviados no tienen parámetros, frecuencia ni umbrales.</p>
   <p class="intro">La frase que lo resume está en el propio <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a>, justo después de declarar
   el único impacto significativo:</p>
   <blockquote class="cita">La pérdida de superficie física (<b>80,39 hectáreas</b>) sobre el
@@ -1049,7 +1052,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   mismo literal; que informe el resultado de la consulta a la SEREMI MINVU sobre el Plan Regulador
   Metropolitano antes de la calificación; y que comprometa un plan de monitoreo de aire, olor, ruido,
   aguas y biogás con resultados públicos durante la operación y el post-cierre, porque hoy el
-  <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a> solo sigue tres especies de flora.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a> solo sigue tres especies de flora.<br><a class="usar" href="observaciones.html#obs-monitoreo">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="terreno" aria-labelledby="t-terreno">
@@ -1168,7 +1171,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>La masa crece con espesor uniforme sobre toda la huella</b>: el expediente declara tres etapas
   de excavación pero no georreferencia la secuencia de llenado, así que no se simula un orden
   que el titular no publicó.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuál es el espesor y la cota final de la masa de residuos —80 m según la <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Tabla 40</a> o 54 m según la capacidad dividida por la superficie que declara—, y con qué secuencia de llenado georreferenciada, porque el <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> declara tres etapas de excavación pero no dónde ni cuándo.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuál es el espesor y la cota final de la masa de residuos —80 m según la <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Tabla 40</a> o 54 m según la capacidad dividida por la superficie que declara—, y con qué secuencia de llenado georreferenciada, porque el <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> declara tres etapas de excavación pero no dónde ni cuándo.<br><a class="usar" href="observaciones.html#obs-espesor">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="mapa" aria-labelledby="t-mapa">
@@ -1253,7 +1256,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   contra el punto de etiqueta de OpenStreetMap —el centro nominal, no la casa más cercana—, así que
   <b>la distancia real a la primera vivienda es menor</b>. Las marcadas
   <span class="flag f-ok">borde a borde</span> son las defendibles.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Que el titular reconozca en el área de influencia la superposición con el Sitio Prioritario Palmar Las Siete Hermanas – El Salto que su propio <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> admite en el camino de acceso, con sus medidas y seguimiento, en vez de excluirlo por no ser una categoría reconocida; y que toda distancia del expediente declare si se mide al deslinde o a la zona de disposición.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que el titular reconozca en el área de influencia la superposición con el Sitio Prioritario Palmar Las Siete Hermanas – El Salto que su propio <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> admite en el camino de acceso, con sus medidas y seguimiento, en vez de excluirlo por no ser una categoría reconocida; y que toda distancia del expediente declare si se mide al deslinde o a la zona de disposición.<br><a class="usar" href="observaciones.html#obs-sitio">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="incendio" aria-labelledby="t-incendio">
@@ -1341,7 +1344,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   ambos capítulos. Un conteo en cero no prueba que la obra no vaya a tener ese elemento: prueba
   que <b>el expediente sometido a evaluación no lo compromete</b>. Si existe, debería aparecer
   en la Adenda.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024, y por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué red húmeda, reserva de agua, brigada y plan de evacuación compromete el proyecto para un predio que ardió en un 99,7 % en febrero de 2024, y por qué bastan 2,79 ha de cortafuegos en tres parches más una faja de 10 m, cuando los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes.<br><a class="usar" href="observaciones.html#obs-incendio">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="subsuelo" aria-labelledby="t-subsuelo">
@@ -1422,7 +1425,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   2,7 metros</b>, lo que confirma a la vez la georreferencia y el modelo. El espesor del maicillo se dibuja como dos
   bandas —los primeros 15 m y la franja variable hasta los 40— porque el informe entrega un rango,
   no un mapa. La exageración vertical del bloque es ×1,8 y las secciones van a esa misma escala.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué monitoreo de aguas subterráneas compromete bajo el vaso —pozos, frecuencia y parámetros— dado que el informe hidrogeológico reconoce que el agua podría infiltrarse en 15 a 40 m de maicillo permeable y el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a> no compromete ninguno.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué monitoreo de aguas subterráneas compromete bajo el vaso —pozos, frecuencia y parámetros— dado que el informe hidrogeológico reconoce que el agua podría infiltrarse en 15 a 40 m de maicillo permeable y los cinco pozos de observación del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=116" target="_blank" rel="noopener">Capítulo 1</a> no tienen parámetros ni frecuencia, ni están en el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a>.<br><a class="usar" href="observaciones.html#obs-pozos">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="falla" aria-labelledby="t-falla">
@@ -1474,7 +1477,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="note"><b>Qué pediría una observación aquí</b>: que el expediente incorpore una
   evaluación del comportamiento del sistema de impermeabilización basal —geomembrana, <abbr title="Capa de arcilla entre dos telas, de unos 6 mm, que va bajo la geomembrana">GCL</abbr> y
   drenes— bajo la aceleración que el propio <a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">informe geológico</a> del titular atribuye a la Zona de
-  Fallas Marga-Marga, y que esa evaluación quede en el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Capítulo 4</a> con su medida y su seguimiento.</p>
+  Fallas Marga-Marga, y que esa evaluación quede en el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Capítulo 4</a> con su medida y su seguimiento.<br><a class="usar" href="observaciones.html#obs-falla">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="escorrentia" aria-labelledby="t-escorrentia">
@@ -1521,7 +1524,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   lo que habría que modelar, y está en los capítulos 3.3 y 3.4 del expediente.</p>
   <p class="note">Lo que sí establece es la <b>dirección</b>: cualquier escurrimiento desde el
   predio baja hacia el sistema Marga-Marga – Quilpué. No hacia otro lado.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la línea de base de calidad de agua incluya más de un día de muestreo, la estación húmeda y aguas subterráneas, y que el titular explique cómo capta y trata la escorrentía del predio antes de que llegue al Estero Marga-Marga, a 1,5 km cauce abajo, pasando a 90 m del Estero Quilpué y a 120 m del humedal protegido.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la línea de base de calidad de agua incluya más de un día de muestreo, la estación húmeda y aguas subterráneas, y que el titular explique cómo capta y trata la escorrentía del predio antes de que llegue al Estero Marga-Marga, a 1,5 km cauce abajo, pasando a 90 m del Estero Quilpué y a 120 m del humedal protegido.<br><a class="usar" href="observaciones.html#obs-agua">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="vial" aria-labelledby="t-vial">
@@ -1595,7 +1598,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>46,6</b> si son ida y vuelta — muy por encima de lo que transporta un compactador recolector,
   que mueve entre 10 y 14 toneladas. <b>Esta es una inconsistencia entre dos capítulos del mismo
   estudio</b>, no un cálculo externo: el tonelaje sale del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> y los viajes del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a>.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado, porque el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a> modela 182 viajes solo para 2027 y 2028 sin indicar la carga, y la losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> está dimensionada para 65 camiones al día.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado, porque el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a> modela 182 viajes solo para 2027 y 2028 sin indicar la carga, y la losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> está dimensionada para 65 camiones al día.<br><a class="usar" href="observaciones.html#obs-camiones">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="pluma" aria-labelledby="t-pluma">
@@ -1636,7 +1639,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   rotado 180°. <b>Esto no reemplaza una modelación de dispersión</b>: la concentración real depende
   de estabilidad atmosférica, topografía y tasa de emisión, y está en el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_43_Modelacion_Emisiones_Atmosfericas.pdf" target="_blank" rel="noopener">Anexo 4.3</a> y 4.4 del
   expediente. Lo que esta tabla muestra es la geometría del problema, que es condición necesaria.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Qué concentración de olor modela el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_44_Modelacion_de_olores.rar" target="_blank" rel="noopener">Anexo 4.4</a> en cada una de las 21 unidades habitacionales de la Tabla 11 del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Anexo 8.1</a>, con qué norma de referencia, y qué resultado da en las poblaciones que quedan sobre el eje del viento predominante que el propio <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2</a> declara.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Las mediciones originales con que se estimó el olor del relleno y de los lixiviados: el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_44_Modelacion_de_olores.rar" target="_blank" rel="noopener">Anexo 4.4</a> no midió nada propio y tomó esos factores de la evaluación de otra planta, Ecobio, citados de segunda mano («Antecedentes SEIA indican…»); que demuestre que son comparables con 2.466 a 4.460 toneladas diarias, agregue receptores en cada población que queda sobre el eje del viento predominante del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2</a> y comprometa un seguimiento de olor durante la operación.<br><a class="usar" href="observaciones.html#obs-olor">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="influencia" aria-labelledby="t-influencia">
@@ -1670,7 +1673,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="note">Polígono oficial: <span class="sc">ai_mediohumano.shp</span>, Datum WGS84 UTM 19S,
   acompañado por el titular al <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Capítulo 3.19</a>. Las poblaciones se evalúan por su punto de
   referencia; para las que tienen polígono residencial, por su borde.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Que las poblaciones que quedan a menos de 150 m del borde del área de influencia —Botania, Cumbres de Quilpué, Nuevo Horizonte, Los Fundadores 2, Pompeya Norte y Pompeya Sur— se incluyan como parte afectada, y que los impactos del medio humano se evalúen también sobre ellas, con medidas y seguimiento.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que las poblaciones que quedan a menos de 150 m del borde del área de influencia —Botania, Cumbres de Quilpué, Nuevo Horizonte, Los Fundadores 2, Pompeya Norte y Pompeya Sur— se incluyan como parte afectada, y que los impactos del medio humano se evalúen también sobre ellas, con medidas y seguimiento.<br><a class="usar" href="observaciones.html#obs-influencia">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="proyecciones" aria-labelledby="t-proyecciones">
@@ -1759,7 +1762,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   cierre. Las anotaciones de «lo que no muestra» son elementos del propio proyecto descritos en el
   <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> y en los PAS, ubicados de forma aproximada sobre la foto: señalan qué falta, no dónde
   exactamente estará cada cosa.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Fotomontajes de la etapa de operación —años 5, 15 y 25— desde las poblaciones con línea de vista, y no solo el escenario posterior al cierre, para que la evaluación de paisaje del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf" target="_blank" rel="noopener">Capítulo 3.15</a> y la calificación del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> se apoyen en lo que se verá durante 25 años.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Fotomontajes de la etapa de operación —años 5, 15 y 25— desde las poblaciones con línea de vista, y no solo el escenario posterior al cierre, para que la evaluación de paisaje del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf" target="_blank" rel="noopener">Capítulo 3.15</a> y la calificación del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> se apoyen en lo que se verá durante 25 años.<br><a class="usar" href="observaciones.html#obs-paisaje">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="cuenca" aria-labelledby="t-cuenca">
@@ -1797,7 +1800,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <b>Es una cota superior</b>: el modelo representa el terreno desnudo, así que no descuenta
   árboles ni edificios que puedan interponerse. El espesor de 60 m es el promedio sobre la
   huella; la forma final de la corona la define el Plan de Cierre, no analizado aquí.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la calificación «no obstruye vistas relevantes» del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> se fundamente con una cuenca visual calculada sobre el modelo de elevación con la cota final de la masa, y no con un único fotomontaje de la etapa de cierre.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la calificación «no obstruye vistas relevantes» del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> se fundamente con una cuenca visual calculada sobre el modelo de elevación con la cota final de la masa, y no con un único fotomontaje de la etapa de cierre.<br><a class="usar" href="observaciones.html#obs-paisaje">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="pronunciamientos" aria-labelledby="t-pronunciamientos">
@@ -1816,7 +1819,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <p class="note">El oficio 1337 de la Municipalidad de Viña del Mar figura como
   «Oficio pronunciamiento Municipalidad», sin la etiqueta «con observaciones» que llevan los
   otros diecinueve. Su contenido no fue verificado en este análisis: conviene leerlo antes de citarlo.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la Adenda responda una por una las observaciones de los diecinueve organismos y cite el oficio en cada respuesta; una observación ciudadana puede pedir expresamente que se acoja lo observado por un servicio, por ejemplo SERNAGEOMIN, la SEREMI de Salud o la Dirección General de Aguas.<br><a class="usar" href="#observar">Cómo ingresarla →</a></p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Que la Adenda responda una por una las observaciones de los diecinueve organismos y cite el oficio en cada respuesta; una observación ciudadana puede pedir expresamente que se acoja lo observado por un servicio, por ejemplo SERNAGEOMIN, la SEREMI de Salud o la Dirección General de Aguas.<br><a class="usar" href="observaciones.html#obs-servicios">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="observar" aria-labelledby="t-observar">
@@ -1836,6 +1839,11 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     <li>Si puedes, <b>cita un dato de esta página</b>: la distancia, el viento, el oficio de un servicio.</li>
     <li><b>Descarga el comprobante.</b> Es tu constancia de que observaste dentro de plazo.</li>
   </ol>
+  <a class="relato-cta obs-cta" href="observaciones.html">
+    <span class="rc-k">Diecinueve observaciones fundadas</span>
+    <span class="rc-t">Cada una con la cita textual del expediente, el documento y la página. Elige las que te importan, escribe tu población y copia un solo texto.</span>
+    <span class="rc-a">Ver y armar la mía →</span>
+  </a>
   <h3 class="modh">Cuatro observaciones listas para copiar</h3>
   <p class="modp">Cada una cita solo lo que dice el propio expediente. Cópiala, cambia lo que va entre corchetes
   y agrega con tus palabras por qué te afecta. El SEA debe responder cada observación en la Resolución de
@@ -1848,12 +1856,12 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     </figure>
     <figure class="modelo">
       <figcaption>Un solo impacto y ningún monitoreo <span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Cap. 7</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Cap. 20</a></span></figcaption>
-      <blockquote>El <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> evalúa 23 causales del Artículo 11 y reconoce una sola como significativa: la pérdida de tres especies de flora. Por eso el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a> compromete seguimiento solo de esas plantas, y el <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Capítulo 20</a> no compromete monitoreo participativo. El mismo <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> califica perder «80,39 hectáreas» de ecosistema con su fauna como «moderado y no significativo». Durante 25 años de operación y 20 de post-cierre no habrá seguimiento obligatorio de aire, olor, ruido, lixiviados ni aguas. Solicito que el titular explique ese criterio y comprometa un plan de monitoreo de aire, olor, ruido, aguas superficiales y subterráneas y biogás, con resultados públicos, durante toda la operación y el post-cierre.</blockquote>
+      <blockquote>El <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> evalúa 23 causales del Artículo 11 y reconoce una sola como significativa: la pérdida de tres especies de flora. Por eso el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a> compromete seguimiento solo de esas plantas, y el <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Capítulo 20</a> no compromete monitoreo participativo. El mismo <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> califica perder «80,39 hectáreas» de ecosistema con su fauna como «moderado y no significativo». Durante 25 años de operación y 20 de post-cierre, el Plan de Seguimiento no incluye aire, olor, ruido, lixiviados ni aguas. Solicito que el titular explique ese criterio y comprometa un plan de monitoreo de aire, olor, ruido, aguas superficiales y subterráneas y biogás, con resultados públicos, durante toda la operación y el post-cierre.</blockquote>
       <button type="button" class="copiar">Copiar este texto</button>
     </figure>
     <figure class="modelo">
       <figcaption>Los camiones que no cuadran <span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a></span></figcaption>
-      <blockquote>El Estudio de Impacto Vial (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a>) modela 182 viajes de camión al día, solo para 2027 y 2028, sin decir cuánto carga cada camión. La tabla de producción anual del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> (p. 71) declara de 2.466 a 4.460 toneladas por día. La losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a>, Tabla 55) se dimensionó para 65 camiones al día. Según el mismo estudio, los camiones entran por Agua Santa, Álvarez y Viana. Solicito que el titular informe cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos durante el viaje cargado, que el expediente no menciona.</blockquote>
+      <blockquote>El Estudio de Impacto Vial (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a>) modela 182 viajes de camión al día, solo para 2027 y 2028, sin decir cuánto carga cada camión. La tabla de producción anual del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=72" target="_blank" rel="noopener">Capítulo 1</a> (p. 72) declara de 2.466 a 4.460 toneladas por día. La losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a>, Tabla 55) se dimensionó para 65 camiones al día. Según el mismo estudio, los camiones entran por Agua Santa, Álvarez y Viana. Solicito que el titular informe cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos durante el viaje cargado, que el expediente no menciona.</blockquote>
       <button type="button" class="copiar">Copiar este texto</button>
     </figure>
     <figure class="modelo">
@@ -1864,6 +1872,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   </div>
   <div class="acciones">
     <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación al SEA →</a>
+    <a class="btn2" href="observaciones.html">Las diecinueve observaciones →</a>
     <a class="btn2" href="que-puede-pasar.html">Qué pasa después, y en qué plazos →</a>
   </div>
   <p class="note">Para ingresarla hace falta <b>ClaveÚnica</b>. El circuito es este: tu observación entra al expediente,
@@ -1948,7 +1957,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
 </footer>
 </main>
 <div class="barra-cta" role="region" aria-label="Ingresar una observación">
-  <a class="como" href="#observar">¿Cómo observar?</a>
+  <a class="como" href="observaciones.html">Textos listos</a>
   <a class="ir" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación →</a>
 </div>
 

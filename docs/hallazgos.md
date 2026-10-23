@@ -38,8 +38,10 @@ el expediente no compromete red húmeda, red seca ni hidrantes — **cero mencio
 ## Verificado, sin publicar
 
 **El hueco bajo el umbral.** El Cap. 4 valoriza con CONESA, `IM = 3IN+2EX+MO+PE+RV+SI+AC+EF+PR+MC`,
-y fija: «el umbral de significancia metodológica […] igual o superior a 50». De los **143 registros
-valorizados**: 34 en 25–29, 10 en 30–34, 46 en 35–39, 45 en 40–44, **0 entre 45 y 55**, 8 en 56.
+y fija: «el umbral de significancia metodológica […] igual o superior a 50». En la **Tabla 86**
+(resumen consolidado, pp. 124–128) hay **90 impactos negativos**: 23 en 25–29, 8 en 30–34, 29 en 35–39,
+26 en 40–44, **0 entre 45 y 55**, 4 en 56–59; los cuatro significativos son pérdida de flora en categoría.
+(El conteo anterior de «143 registros» no se pudo reproducir sobre el texto: no citarlo.)
 Máximo no significativo **44**, mínimo significativo **56**. Se reprodujo la fórmula (28/28 filas
 legibles) y con los mismos valores de atributo **los once enteros del 45 al 55 son alcanzables**:
 no es artefacto de la metodología.
@@ -73,8 +75,9 @@ agua subterránea. Coliformes fecales contra norma NCh1333 de 1.000: Estero Quil
 Marga-Marga **23 aguas arriba → 490 aguas abajo**. Los tres informes llevan impreso
 «El presente Informe de Ensayo **no puede ser presentado ante la SMA**» y «Muestreo No Acreditado».
 
-**13 plantas a rescatar** (11 + 1 + 1) de **173 individuos amenazados** identificados en el AI;
-éxito = 70 % → 9. Sitio receptor: «preferentemente […] próximos al área de rescate», sin
+**13 plantas a rescatar** (11 + 1 + 1); los «173 individuos amenazados» en el AI **no se pudieron
+verificar** contra el texto: no citarlo. Éxito = 70 % de los «efectivamente rescatados» → **10 de 13**
+(9/13 = 69,2 % no alcanza): la meta se cumple aunque mueran las dos *Chloraea*. Sitio receptor: «preferentemente […] próximos al área de rescate», sin
 coordenada. **6 individuos de *Jubaea chilensis*** en las 325,44 ha del área de estudio — la
 campaña vecinal habla de «6.000+ palmas».
 

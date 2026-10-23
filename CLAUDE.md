@@ -23,7 +23,7 @@ propios documentos del titular. Cuidar eso vale más que cualquier cifra adicion
 python3 build.py        # src/ → index.html (valida sintaxis con node si está)
 ```
 
-`index.html` y `que-puede-pasar.html` son **generados**: no los edites a mano, se
+`index.html`, `observaciones.html`, `relato.html` y `que-puede-pasar.html` son **generados**: no los edites a mano, se
 sobreescriben. Edita `src/`.
 
 La segunda página —el recorrido del expediente y sus desenlaces— sale de `src/plazos.html`.
@@ -42,6 +42,7 @@ páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 | `src/social.html` | etiquetas Open Graph, Twitter y JSON-LD; `{url}` lo reemplaza build.py |
 | `src/social-img.html` | plantilla de `social.jpg` (1200×630). Se renderiza con Chrome headless, ver abajo |
 | `src/plazos.html` | la vista «Qué puede pasar»: mapa del procedimiento y sus desenlaces |
+| `src/observaciones.html` | las observaciones fundadas: cita textual, documento y página PDF, contradicción y pedido; se eligen y se arma un solo texto. Cada `.pide` de la principal enlaza a su `#obs-…` y `build.py` falla si el ancla no existe |
 
 `proyecciones.py` regenera las series de masa, metano y camiones desde la tabla de producción
 anual del Capítulo 1. **No está conectado al build**: escribe `data/proyecciones.json` y sus
@@ -222,6 +223,10 @@ del **Capítulo 1, p.71** declara **4.460** (y 2.466, no 2.500, en el año 1; la
 tasa de *diseño*). De ahí salían mal los camiones, los viajes/hora y el porcentaje de la losa de
 lavado, mientras el texto de al lado ya citaba el 4.460 correcto. La tabla real crece ~2,5 %
 anual y está ahora escrita en `proyecciones.py`.
+
+**3. Páginas de PDF.** Los marcadores `===== p.N =====` de `expediente/texto/` cuentan desde 0:
+la página del PDF (la de `#page=`) es N+1, y no coincide con el folio impreso (en el Capítulo 1 la
+tabla de producción está en el PDF p. 72, folio 62). `observaciones.html` cita siempre la del PDF.
 
 **La lección común:** cuando una cifra agregada cuadra, no asumas que la serie que la produce
 cuadra. Verifica los extremos.
