@@ -348,9 +348,20 @@ abbr[data-def]:focus-visible{outline:2px solid var(--blue)}
 .indice summary{display:none}
 .indice .ni{font-variant-numeric:tabular-nums;color:var(--ink3);margin-right:4px}
 @media(max-width:720px){
-  .indice summary{display:block;cursor:pointer;font-weight:600;color:var(--ink2);padding:8px 0;min-height:40px}
-  .indice .il{flex-direction:column;gap:2px;padding:4px 0 8px}
-  .indice .il a{padding:6px 0;border-bottom:0}
+  /* en celular el índice va plegado: recuadro tocable con flecha, como los desplegables del trámite */
+  .indice summary{list-style:none;display:flex;align-items:center;gap:10px;min-height:48px;padding:10px 14px;
+    border:1px solid var(--lctl);border-radius:3px;background:var(--surf);cursor:pointer;
+    font-size:15.5px;font-weight:600;color:var(--ink)}
+  .indice summary::-webkit-details-marker{display:none}
+  .indice summary::after{content:'';flex:0 0 auto;width:9px;height:9px;margin:0 4px 0 auto;border-right:2.5px solid var(--acc);
+    border-bottom:2.5px solid var(--acc);transform:rotate(45deg) translate(-2px,-2px);transition:transform .2s}
+  .indice details[open] summary::after{transform:rotate(-135deg) translate(-2px,-2px)}
+  .indice details[open] summary{border-bottom-left-radius:0;border-bottom-right-radius:0}
+  .indice summary .cnt{font-weight:400;color:var(--ink3)}
+  .indice .il{flex-direction:column;gap:0;padding:4px 14px 8px;border:1px solid var(--lctl);border-top:0;
+    border-radius:0 0 3px 3px;background:var(--surf)}
+  .indice .il a{padding:9px 0;border-bottom:1px solid var(--line)}
+  .indice .il a:last-child{border-bottom:0}
 }
 .indice a{color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--line)}
 .indice a:hover,.indice a:focus-visible{color:var(--acc);border-bottom-color:var(--acc)}
@@ -988,7 +999,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 <main class="wrap">
 
 <nav class="indice" aria-label="Contenido de la página"><details id="indice-d">
-  <summary>Contenido · 15 secciones</summary>
+  <summary>Contenido de la página <span class="cnt">15 secciones</span></summary>
   <div class="il"><a href="#observar"><b>Cómo ingresar una observación</b></a> <a href="observaciones.html"><b>Observaciones listas para copiar</b></a> <a href="tramite.html"><b>Qué pasa después</b></a> <a href="relato.html"><b>El recorrido en 3D</b></a> <a href="especies.html"><b>Las especies afectadas</b></a> <a href="#preguntas">Preguntas frecuentes</a>  <a href="#admite">Lo que el estudio admite</a> <a href="#terreno">El terreno</a> <a href="#mapa">Dónde está</a> <a href="#incendio">El incendio</a> <a href="#subsuelo">El subsuelo</a> <a href="#falla">La falla</a> <a href="#escorrentia">El agua</a> <a href="#vial">Los camiones</a> <a href="#pluma">El viento</a> <a href="#influencia">Área de influencia</a> <a href="#proyecciones">El gas</a> <a href="#paisaje">El paisaje</a> <a href="#cuenca">Desde dónde se verá</a> <a href="#pronunciamientos">El Estado</a></div>
 </details></nav>
 <noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
