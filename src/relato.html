@@ -14,6 +14,9 @@
 html,body{background:#0f1115}
 body{color:#e8e6df}
 .escena{position:fixed;inset:0;z-index:0}
+/* el visor es fondo: la cámara la mueve el scroll, así que no recibe rueda, arrastre ni toques.
+   Si los recibiera, su zoom con la rueda cancelaría el scroll de la página. */
+.escena,.escena *{pointer-events:none!important}
 .escena .v3{position:absolute;inset:0;margin:0;border:0;background:#0f1115}
 .escena .v3 .cv{position:absolute;inset:0;aspect-ratio:auto;min-height:0;height:100%}
 .escena .v3bar,.escena .ctrl,.escena .tl,.escena .vhint,.escena .vflot{display:none!important}
