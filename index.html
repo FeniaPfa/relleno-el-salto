@@ -3725,6 +3725,8 @@ function construirTerreno(){
   matC.uniforms.exag.value=k;
   terr=new THREE.Mesh(g, modo==='sat'&&texSat ? new THREE.MeshBasicMaterial({map:texSat}) : matC);
   sc.add(terr);
+  /* el relato puede vestir el terreno con su propio material; en la principal no hay gancho */
+  if(window.VISOR&&VISOR.alTerreno) VISOR.alTerreno(terr);
 
   /* falda vertical + base: el terreno lee como bloque, no como papel */
   var base=(M.emin-70)*k, fp=[];
@@ -4737,6 +4739,11 @@ var VISOR=window.VISOR={
   viento:function(m){ var b=$('#w-'+m); if(b) b.click() },
   /* corre la imagen sin achicar el lienzo: fx a la derecha, fy hacia arriba (fracción) */
   volando:function(){ return !!vuelo },
+  /* acceso a los objetos del visor, para que el relato construya capas propias sobre la
+     misma escena. La principal no lo usa. */
+  internos:function(){ return {THREE:THREE,sc:sc,cam:cam,ren:ren,terr:terr,falda:falda,K:K,S:S,N:N,
+    hAt:hAt,hWorld:hWorld,uv:uv,wx:wx,wz:wz,M:M,G:G} },
+  malla:function(n){ if(n===G) return; G=n; construirTerreno(); construirCapas(); firmaAnt='' },
   /* pone la cámara sin animar: el relato la interpola con el scroll */
   poner:function(k){
     vuelo=null; tourOn=false;

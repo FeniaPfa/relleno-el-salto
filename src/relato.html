@@ -25,7 +25,10 @@ body.listo .escena{opacity:1}
 .escena .v3{position:absolute;inset:0;margin:0;border:0;background:#0b0d10}
 .escena .v3 .cv{position:absolute;inset:0;aspect-ratio:auto;min-height:0;height:100%}
 .escena .v3bar,.escena .ctrl,.escena .tl,.escena .vhint,.escena .vflot{display:none!important}
-.escena .mob{bottom:14px;right:66px}
+.escena .mob{bottom:34px;right:66px}
+.escena .mob .atrib{display:none}
+.atrib-r{position:fixed;right:66px;bottom:10px;z-index:3;margin:0;font-family:var(--cart);font-size:12px;color:#d8dcd4;
+  background:rgba(13,16,20,.6);padding:2px 6px;border-radius:2px;pointer-events:none}
 /* viñeta y velo lateral: el texto se lee y el centro respira */
 .escena::after{content:'';position:absolute;inset:0;pointer-events:none;
   background:
@@ -153,6 +156,7 @@ body.listo .riel{opacity:1}
   .prog{height:3px}
   .revision{display:none}
   .escena .mob{right:14px}
+  .atrib-r{right:12px;font-size:11px}
 }
 @media(prefers-reduced-motion:reduce){
   .tarj,.portada h1 span,.escena,.carga,.riel,.medidor .ma{transition:none!important}
@@ -164,6 +168,7 @@ body.listo .riel{opacity:1}
 <div class="prog" id="prog" aria-hidden="true"></div>
 <span class="revision">Borrador para revisión</span>
 <a class="volver" href="./">Análisis completo →</a>
+<p class="atrib-r" aria-label="Créditos de la imagen">Imagen: Esri, Maxar, Earthstar Geographics · Elevación: Mapzen</p>
 <nav class="riel" id="riel" aria-label="Capítulos del relato"></nav>
 
 <div class="escena" aria-hidden="true">
@@ -405,7 +410,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var iLlen=etapas.indexOf(document.getElementById('e-llenado')), yAnt=-1;
   var ma=document.getElementById('r-ma'), mab=document.getElementById('r-mab'), HMAX=60;
   function anio(y){
-    if(y===yAnt) return; yAnt=y; VISOR.anio(y);
+    if(y===yAnt) return; yAnt=y; VISOR.anio(y); MEJOR.actualizarMasa(y);
     document.getElementById('r-anio').textContent=y?'Año '+y+' de 25':'Año 0 · antes de operar';
     var t=y?P.acumulado_t[y-1]/1e6:0, h=y?P.altura_m[y-1]:0;
     document.getElementById('r-ton').textContent=t.toFixed(1).replace('.',',');
@@ -467,10 +472,186 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     mostrar(sel.value);
   }
 
+
+  /* ===================== capas propias del relato =====================
+     Solo esta página: el visor de la principal no cambia. Terreno vestido con la imagen
+     satelital y relieve iluminado; el relleno con la forma que declara el titular en la
+     Tabla 30 del Capítulo 1 (11 niveles de 10 m, taludes 1V:3H, retranqueos de 5 m,
+     coronamiento en la cota 350); deslinde como cinta; piscinas de lixiviados como agua. */
+  var MEJOR={listo:false, actualizarMasa:function(){}};
+  function mejorarEscena(){
+    var I=VISOR.internos(), T=I.THREE, sc=I.sc, K=I.K, hAt=I.hAt, uv=I.uv, wx=I.wx, wz=I.wz;
+    var chico=angosto()||(devicePixelRatio||1)*Math.max(innerWidth,innerHeight)<1500;
+    /* sin las capas planas de la principal que esta página reemplaza */
+    ['L-masa','L-predio','L-lix','L-exca','L-corta'].forEach(function(id){ VISOR.capa(id,false) });
+    sc.add(new T.HemisphereLight(0xdfe7ee,0x3b3226,.28));
+
+    /* ---------- terreno satelital ---------- */
+    var VS=[
+      'attribute float ao; varying vec2 vUv; varying vec3 vN; varying vec3 vW; varying float vAo;',
+      'void main(){ vUv=uv; vN=normal; vW=(modelMatrix*vec4(position,1.0)).xyz; vAo=ao;',
+      '  gl_Position=projectionMatrix*viewMatrix*vec4(vW,1.0); }'].join('\n');
+    var FS=[
+      'uniform sampler2D map; uniform vec3 sol; uniform vec3 niebla; uniform float exag; uniform float lejos;',
+      'varying vec2 vUv; varying vec3 vN; varying vec3 vW; varying float vAo;',
+      'void main(){',
+      '  vec3 c=texture2D(map,vUv).rgb;',
+      '  float l=dot(c,vec3(.299,.587,.114)); c=mix(vec3(l),c,1.14); c=(c-.5)*1.1+.5;',
+      '  vec3 n=normalize(vN); float dif=max(dot(n,normalize(sol)),0.0); float hemi=.5+.5*n.y;',
+      '  c*=(.36*hemi+.86*dif)*vAo*1.12;',
+      '  float q=vW.y/exag/25.0; float f=abs(fract(q-.5)-.5); float w=fwidth(q);',
+      '  c=mix(c,c*.55,(1.0-smoothstep(0.0,w*1.4,f))*.28);',
+      '  float d=distance(vW,cameraPosition); c=mix(c,niebla,smoothstep(lejos*.22,lejos,d)*.6);',
+      '  gl_FragColor=vec4(clamp(c,0.0,1.0),1.0); }'].join('\n');
+    var matSat=null;
+    function vestir(terr){
+      if(!matSat||!terr) return;
+      var g=terr.geometry, p=g.attributes.position, n=Math.round(Math.sqrt(p.count));
+      if(!g.attributes.ao){
+        /* oclusión barata: cuánto más bajo está cada punto que su entorno (quebradas más oscuras) */
+        var ao=new Float32Array(p.count), R=Math.max(2,Math.round(n/85)), k=K();
+        for(var j=0;j<n;j++) for(var i=0;i<n;i++){
+          var s=0,c=0;
+          for(var dj=-R;dj<=R;dj+=R) for(var di=-R;di<=R;di+=R){
+            var ii=Math.min(n-1,Math.max(0,i+di)), jj=Math.min(n-1,Math.max(0,j+dj)); s+=p.getY(jj*n+ii); c++ }
+          var dlt=(p.getY(j*n+i)-s/c)/k;
+          ao[j*n+i]=Math.max(.62,Math.min(1.08,1+dlt*.012));
+        }
+        g.setAttribute('ao',new T.BufferAttribute(ao,1));
+      }
+      terr.material=matSat;
+    }
+    VISOR.alTerreno=vestir;
+    var src=chico?(WEBP?'textura-1024.webp':'textura-1024.jpg'):'textura.jpg';
+    new T.TextureLoader().load(src,function(tex){
+      tex.anisotropy=I.ren.capabilities.getMaxAnisotropy?I.ren.capabilities.getMaxAnisotropy():1;
+      tex.minFilter=T.LinearMipmapLinearFilter;
+      matSat=new T.ShaderMaterial({uniforms:{map:{value:tex},sol:{value:new T.Vector3(-1,1.5,.7)},
+        niebla:{value:new T.Color(0x7c8789)},exag:{value:K()},lejos:{value:I.S*1.6}},
+        vertexShader:VS,fragmentShader:FS,extensions:{derivatives:true}});
+      vestir(VISOR.internos().terr);
+      var fd=VISOR.internos().falda; if(fd) fd.material=new T.MeshLambertMaterial({color:0x2c2620,side:T.DoubleSide});
+      if(!chico) VISOR.malla(512);
+      document.body.classList.add('sat');
+    });
+
+    /* ---------- relleno escalonado ---------- */
+    var Rz=L.residuos.g, anillos=Rz.type==='Polygon'?[Rz.coordinates]:Rz.coordinates;
+    var polis=[], borde=[];
+    anillos.forEach(function(pl){ pl.forEach(function(ring,ri){
+      var pts=ring.map(function(c){ var u=uv(c[0],c[1]); return [wx(u[0]),wz(u[1]),u[0],u[1]] });
+      polis.push({ext:ri===0,p:pts});
+      for(var a=0;a<pts.length-1;a++){
+        var A=pts[a],B=pts[a+1],L0=Math.hypot(B[0]-A[0],B[1]-A[1]),m=Math.max(1,Math.ceil(L0/14));
+        for(var t=0;t<m;t++){ var f=t/m, u=A[2]+(B[2]-A[2])*f, v=A[3]+(B[3]-A[3])*f;
+          borde.push([A[0]+(B[0]-A[0])*f, A[1]+(B[1]-A[1])*f, hAt(u,v)]) }
+      }
+    }) });
+    function dentro(x,z){
+      var ins=false;
+      polis.forEach(function(P){ var pt=P.p;
+        for(var a=0,b=pt.length-1;a<pt.length;b=a++){
+          if(((pt[a][1]>z)!==(pt[b][1]>z))&&(x<(pt[b][0]-pt[a][0])*(z-pt[a][1])/(pt[b][1]-pt[a][1])+pt[a][0])) ins=!ins } });
+      return ins;
+    }
+    /* perfil del titular: cada nivel sube 10 m en 30 m de talud (1V:3H) y deja 5 m de retranqueo.
+       Se calcula una superficie continua a 1V:3,5H desde el borde (35 m por cada 10 m) y se escalona en
+       cotas absolutas: las plataformas quedan horizontales, a 200, 210, 220… como en un relleno real. */
+    /* (las plataformas se dibujan en el shader, como bermas cada 10 m de cota) */
+    var x0=1e9,x1=-1e9,z0=1e9,z1=-1e9;
+    borde.forEach(function(b){ x0=Math.min(x0,b[0]); x1=Math.max(x1,b[0]); z0=Math.min(z0,b[1]); z1=Math.max(z1,b[1]) });
+    var cs=chico?5:3, nx=Math.ceil((x1-x0)/cs)+3, nz=Math.ceil((z1-z0)/cs)+3;
+    x0-=cs; z0-=cs;
+    var NV=nx*nz, gro=new Float32Array(NV), sup=new Float32Array(NV), ins=new Uint8Array(NV);
+    var S=I.S;
+    for(var j=0;j<nz;j++) for(var i=0;i<nx;i++){
+      var x=x0+i*cs, z=z0+j*cs, id=j*nx+i, u=x/S+.5, v=-z/S+.5;
+      gro[id]=hAt(u,v);
+      if(!dentro(x,z)){ sup[id]=-1e9; continue }
+      ins[id]=1; var best=1e9;
+      for(var e=0;e<borde.length;e++){ var b=borde[e], h=b[2]+Math.hypot(x-b[0],z-b[1])/3.5; if(h<best) best=h }
+      sup[id]=best;
+    }
+    /* volumen sobre el terreno natural para cada cota de coronamiento: así cada año la
+       masa sube hasta la cota que reparte el tonelaje acumulado */
+    function vol(c){ var V=0; for(var q=0;q<NV;q++) if(ins[q]){ var t=Math.min(sup[q],c)-gro[q]; if(t>0) V+=t } return V*cs*cs }
+    var V350=vol(350), corona=[0];
+    for(var y=1;y<=25;y++){
+      var meta=V350*P.acumulado_t[y-1]/P.acumulado_t[24], lo=150, hi=350;
+      for(var it=0;it<22;it++){ var mid=(lo+hi)/2; if(vol(mid)<meta) lo=mid; else hi=mid }
+      corona.push(hi);
+    }
+    MEJOR.v350=V350;
+    var gm=new T.BufferGeometry(), pos=new Float32Array(NV*3), col=new Float32Array(NV*3), idx=[];
+    for(var q=0;q<NV;q++){ pos[q*3]=x0+(q%nx)*cs; pos[q*3+2]=z0+Math.floor(q/nx)*cs }
+    for(var j2=0;j2<nz-1;j2++) for(var i2=0;i2<nx-1;i2++){
+      var a=j2*nx+i2,b=a+1,c2=a+nx,d2=c2+1;
+      if(ins[a]||ins[b]||ins[c2]||ins[d2]) idx.push(a,c2,b, b,c2,d2);
+    }
+    gm.setAttribute('position',new T.BufferAttribute(pos,3));
+    gm.setAttribute('color',new T.BufferAttribute(col,3));
+    gm.setIndex(idx);
+    var matMasa=new T.ShaderMaterial({uniforms:{sol:{value:new T.Vector3(-1,1.5,.7)},niebla:{value:new T.Color(0x7c8789)},lejos:{value:S*1.6},exag:{value:K()}},
+      vertexShader:['varying vec3 vC; varying vec3 vN; varying vec3 vW;',
+        'void main(){ vC=color; vN=normal; vW=(modelMatrix*vec4(position,1.0)).xyz; gl_Position=projectionMatrix*viewMatrix*vec4(vW,1.0); }'].join('\n'),
+      fragmentShader:['uniform vec3 sol; uniform vec3 niebla; uniform float lejos; uniform float exag; varying vec3 vC; varying vec3 vN; varying vec3 vW;',
+        'void main(){ vec3 n=normalize(vN); float dif=max(dot(n,normalize(sol)),0.0); float hemi=.5+.5*n.y;',
+        '  vec3 c=vC*(.34*hemi+.9*dif);',
+        '  float z=(vW.y/exag-200.0)/10.0; float f=fract(z); float w=fwidth(z);',
+        '  c=mix(c,vec3(.86,.74,.6),(1.0-smoothstep(0.0,w*1.6+.035,f))*.75);',
+        '  c*=1.0-(smoothstep(.06,.06+w*1.6,f)*(1.0-smoothstep(.12,.12+w*1.6,f)))*.18;',
+        '  float d=distance(vW,cameraPosition); c=mix(c,niebla,smoothstep(lejos*.22,lejos,d)*.6);',
+        '  gl_FragColor=vec4(c,1.0); }'].join('\n'),
+      vertexColors:true,extensions:{derivatives:true},polygonOffset:true,polygonOffsetFactor:-2,polygonOffsetUnits:-2});
+    var masa=new T.Mesh(gm,matMasa);
+    masa.renderOrder=4; sc.add(masa);
+    var ruido=function(q){ var x=pos[q*3], z=pos[q*3+2]; var s=Math.sin(x*12.9898+z*78.233)*43758.5453; return s-Math.floor(s) };
+    MEJOR.actualizarMasa=function(yr){
+      var cy=corona[Math.max(0,Math.min(25,yr))], k=K();
+      masa.visible=yr>0;
+      if(!yr) return;
+      for(var q=0;q<NV;q++){
+        var top=ins[q]?Math.min(sup[q],cy):-1e9, h=top>gro[q]+.3?top:gro[q]-2.5;
+        pos[q*3+1]=h*k;
+      }
+      gm.attributes.position.needsUpdate=true; gm.computeVertexNormals();
+      var nr=gm.attributes.normal.array;
+      for(var q2=0;q2<NV;q2++){
+        var r=(ruido(q2)-.5)*.05, t=ins[q2]?Math.min(sup[q2],cy)-gro[q2]:0;
+        var cr, cg, cb;
+        if(Math.abs(Math.min(sup[q2],cy)-cy)<.6&&t>0){ cr=.6; cg=.44; cb=.34 }          /* coronamiento: frente de trabajo y cubierta */
+        else { cr=.8; cg=.43; cb=.25 }                                                    /* taludes: tierra y basura removida */
+        col[q2*3]=cr+r; col[q2*3+1]=cg+r*.8; col[q2*3+2]=cb+r*.6;
+      }
+      gm.attributes.color.needsUpdate=true;
+    };
+
+    /* ---------- deslinde: una cinta sobre el terreno ---------- */
+    var Pr=L.predio.g, rp=(Pr.type==='Polygon'?Pr.coordinates[0]:Pr.coordinates[0][0]);
+    var pts=rp.map(function(c){ var u=uv(c[0],c[1]); return new T.Vector3(wx(u[0]),hAt(u[0],u[1])*K()+5,wz(u[1])) });
+    var cinta=new T.Mesh(new T.TubeGeometry(new T.CatmullRomCurve3(pts,true),pts.length*4,3,5,true),
+      new T.MeshBasicMaterial({color:0xf6f3ea,transparent:true,opacity:.9}));
+    cinta.renderOrder=5; sc.add(cinta);
+
+    /* ---------- piscinas de lixiviados: agua a nivel ---------- */
+    var Lx=L.lixiviados&&L.lixiviados.g;
+    if(Lx){ (Lx.type==='Polygon'?[Lx.coordinates]:Lx.coordinates).forEach(function(pl){
+      var r0=pl[0], mn=1e9, sh=new T.Shape();
+      r0.forEach(function(c,ii){ var u=uv(c[0],c[1]); mn=Math.min(mn,hAt(u[0],u[1]));
+        if(ii) sh.lineTo(wx(u[0]),-wz(u[1])); else sh.moveTo(wx(u[0]),-wz(u[1])) });
+      var g=new T.ShapeGeometry(sh); g.rotateX(-Math.PI/2);
+      var m=new T.Mesh(g,new T.MeshLambertMaterial({color:0x1d4a5e,emissive:0x04121a,side:T.DoubleSide,
+        transparent:true,opacity:.92,polygonOffset:true,polygonOffsetFactor:-3}));
+      m.position.y=(mn+2)*K(); m.renderOrder=6; sc.add(m);
+    }) }
+    MEJOR.listo=true;
+  }
+
   /* --- arranque --- */
   function encuadre(){ if(angosto()) VISOR.correr(0,0.2); else VISOR.correr(0.17,0) }
   function inicio(){
-    encuadre(); medir(); actual=-1; cuadro();
+    try{ mejorarEscena() }catch(e){ VISOR.capa('L-masa',true); if(window.console) console.warn('capas del relato:',e) }
+    encuadre(); medir(); actual=-1; yAnt=-1; cuadro();
     requestAnimationFrame(function(){ document.body.classList.add('listo') });
   }
   addEventListener('scroll',pedir,{passive:true});
