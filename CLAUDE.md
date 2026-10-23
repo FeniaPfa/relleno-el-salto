@@ -71,7 +71,9 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   queda sin el visor del subsuelo y nada falla visiblemente** — ya pasó una vez.
 - **Colisión de clases CSS:** `.barra` fue usada a la vez para la barra fija de acción y para la
   barra estratigráfica del subsuelo; la segunda anulaba a la primera. La estratigráfica se llama
-  ahora `.pila`. Cuidado al nombrar clases nuevas.
+  ahora `.pila`. Cuidado al nombrar clases nuevas. Pasó otra vez con `.bq`: la barra de
+  quemado de la tabla del incendio (110 × 10 px) encogía el encabezado del buscador del
+  expediente, que ahora es `.bqh`. Antes de crear una clase, búscala con `grep -n "\.nombre\b"`.
 - **Colisión de nombres entre los tres scripts:** comparten un solo IIFE, así que una
   `function nueva(){}` que choque con un `var` ya existente se pierde en silencio —el `var`
   la pisa al asignarse— y sólo falla al pulsar el control. Pasó con `modo`, que ya era el

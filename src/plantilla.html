@@ -822,10 +822,10 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   .dvs::before,.dvs::after{width:1px;height:auto;min-width:0;min-height:24px}}
 @media(max-width:799px){.duelo .dn:not(.dato){order:-1}.duelo .dvs{order:0}.duelo .dn.dato{order:1}}
 .busca{margin-top:22px;border:1px solid var(--line);background:var(--surf)}
-.bq{display:flex;align-items:center;gap:11px;padding:13px 16px;border-bottom:1px solid var(--line2);
+.bqh{display:flex;align-items:center;gap:11px;padding:13px 16px;border-bottom:1px solid var(--line2);
   background:var(--sunk)}
-.bq .lb{font-family:var(--sc);font-size:12px;letter-spacing:.04em;color:var(--ink3)}
-.bq .tm{font-family:var(--cart);font-size:17px;font-weight:600;color:var(--ink)}
+.bqh .lb{font-family:var(--sc);font-size:12px;letter-spacing:.04em;color:var(--ink3)}
+.bqh .tm{font-family:var(--cart);font-size:17px;font-weight:600;color:var(--ink)}
 .bres{display:flex;justify-content:space-between;align-items:baseline;gap:16px;
   padding:11px 16px;border-bottom:1px solid var(--line2)}
 .bres .c{font-family:var(--cart);font-size:15px;color:var(--ink2)}
@@ -3433,7 +3433,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 (function(){
   var c=document.getElementById('busca'); if(!c||!D.falla) return;
   D.falla.busq.forEach(function(b){
-    var h=document.createElement('div'); h.className='bq';
+    var h=document.createElement('div'); h.className='bqh';
     h.innerHTML='<span class="lb">Buscar en el expediente</span><span class="tm">«'+b.q+'»</span>';
     c.appendChild(h);
     b.r.forEach(function(r){
