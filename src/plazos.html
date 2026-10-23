@@ -86,6 +86,26 @@ text{font-family:var(--cart);fill:var(--ink)}
   text-decoration:none;padding:13px 22px;min-height:48px;border-radius:2px}
 .btn:hover{color:#fbf7ec;filter:brightness(1.12)}
 .accion{display:flex;flex-wrap:wrap;gap:14px 22px;align-items:center;margin:40px 0 0}
+
+/* ── quién decide qué ── */
+.quien{list-style:none;margin:16px 0 0;padding:0;display:grid;gap:10px;max-width:78ch}
+.quien li{display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:start;background:var(--surf);
+  border:1px solid var(--line2);border-left:3px solid var(--line);border-radius:3px;padding:14px 16px}
+.quien li.tu{border-left-color:var(--acc)} .quien li.decide{border-left-color:var(--ink)}
+.quien .qn{width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+  font-family:var(--cifra);font-weight:600;font-size:15px;color:var(--ink);border:1.5px solid var(--lctl)}
+.quien li.tu .qn{background:var(--acc);border-color:var(--acc);color:#fbf7ec}
+.quien li.decide .qn{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.quien h3{margin:2px 0 4px;font-family:var(--doc);font-size:19px;font-weight:600;line-height:1.25}
+.quien p{margin:0 0 6px;font-size:16px;line-height:1.55;color:var(--ink)}
+.quien .pie{margin:0;font-family:var(--cart);font-size:13.5px;color:var(--ink3)}
+.regla{margin:22px 0 0;padding:18px 20px;max-width:78ch;background:var(--surf);border:1px solid var(--line);
+  border-left:4px solid var(--acc);border-radius:3px}
+.regla-t{margin:0 0 8px;font-family:var(--doc);font-size:21px;font-weight:600;color:var(--acc)}
+.regla p{margin:0 0 10px;font-size:16px;line-height:1.6}
+.regla ul{margin:0 0 14px;padding-left:20px;font-size:16px;line-height:1.6}
+.regla li{margin-bottom:6px} .regla li::marker{color:var(--acc)}
+@media(max-width:640px){ .quien li{padding:12px 13px;gap:10px} .regla{padding:16px 15px} }
 @media(max-width:640px){ .wrap{padding:24px 16px 60px} }
 </style>
 
@@ -243,6 +263,69 @@ las estaciones.</p>
 </div>
 
 
+<h2 class="sec" id="quien">Quién decide qué</h2>
+<p class="nota">Ocho actores, en el orden en que intervienen. Solo uno vota la aprobación; los demás
+informan, responden o revisan lo que ya se decidió.</p>
+
+<ol class="quien">
+  <li><span class="qn">1</span><div><h3>La empresa (el «titular»)</h3>
+    <p>Cosemar presenta el Estudio y responde en la <b>Adenda</b> las preguntas que le traslada el SEA. No decide nada.</p>
+    <p class="pie">Ley 19.300, art. 9</p></div></li>
+  <li><span class="qn">2</span><div><h3>Los servicios públicos</h3>
+    <p>Los organismos con competencia ambiental dan su opinión fundada, cada uno en su área. En este expediente,
+    <b>19 de los 25</b> que se pronunciaron lo hicieron con observaciones.</p>
+    <p class="pie">Ley 19.300, art. 9</p></div></li>
+  <li class="tu"><span class="qn">3</span><div><h3>Tú, o cualquier persona u organización</h3>
+    <p>Observa hasta el <b>3 de noviembre de 2026</b>. El SEA debe hacerse cargo de cada observación y
+    pronunciarse fundadamente sobre todas en la resolución; ese pronunciamiento debe publicarse en su sitio
+    <b>al menos cinco días antes</b> de la votación.</p>
+    <p class="pie">Ley 19.300, art. 29</p></div></li>
+  <li><span class="qn">4</span><div><h3>El SEA de Valparaíso</h3>
+    <p>Conduce la evaluación y redacta el <b>Informe Consolidado de Evaluación</b>: reúne los pronunciamientos de
+    los servicios, la evaluación técnica de las observaciones ciudadanas y una <b>recomendación</b> de aprobar o
+    rechazar.</p>
+    <p class="pie">Ley 19.300, art. 9 bis</p></div></li>
+  <li class="decide"><span class="qn">5</span><div><h3>La Comisión de Evaluación de Valparaíso: decide</h3>
+    <p>Vota si se aprueba, se aprueba con condiciones o se rechaza. La integran <b>diez secretarios regionales
+    ministeriales</b> —Medio Ambiente, Salud, Economía, Energía, Obras Públicas, Agricultura, Vivienda y Urbanismo,
+    Transportes, Minería y Desarrollo Social— y quien la preside; el director regional del SEA es su secretario.
+    En lo que regula la ley ambiental, solo puede decidir con base en el Informe Consolidado: hacerlo de otra forma
+    es un vicio esencial.</p>
+    <p class="pie">Ley 19.300, arts. 86 y 9 bis · la ley aún nombra «Intendente» a quien la preside, cargo que ya no existe</p></div></li>
+  <li><span class="qn">6</span><div><h3>El Comité de Ministros: revisa reclamos</h3>
+    <p>Los ministros de Medio Ambiente, que lo preside, Salud, Economía, Agricultura, Energía y Minería. Resuelve
+    en <b>60 días fatales</b> y debe pedir informe a los servicios que evaluaron.</p>
+    <p class="pie">Ley 19.300, art. 20</p></div></li>
+  <li><span class="qn">7</span><div><h3>El Segundo Tribunal Ambiental</h3>
+    <p>Con asiento en Santiago, es el que corresponde a la Región de Valparaíso. Revisa lo que resolvió el Comité
+    si alguien reclama dentro de <b>30 días</b> desde la notificación.</p>
+    <p class="pie">Ley 19.300, art. 20 · Ley 20.600, arts. 5 y 17</p></div></li>
+  <li><span class="qn">8</span><div><h3>La Corte Suprema</h3>
+    <p>Contra la sentencia del Tribunal solo procede el recurso de casación en el fondo: revisa si se aplicó bien
+    la ley, no vuelve a evaluar el proyecto.</p>
+    <p class="pie">Ley 20.600, art. 26</p></div></li>
+</ol>
+
+<div class="regla" id="solo-quien-observa">
+  <p class="regla-t">Solo quien observa puede reclamar después</p>
+  <p>El reclamo es para la persona «cuyas observaciones […] no hubieren sido debidamente consideradas en los
+  fundamentos de la resolución de calificación ambiental» (Ley 19.300, art. 29). Y ante el Tribunal Ambiental
+  solo pueden ser parte «las personas naturales y jurídicas que presentaron sus reclamaciones de conformidad a la
+  ley» (Ley 20.600, art. 18).</p>
+  <ul>
+    <li><b>Si no observas antes del 3 de noviembre, no podrás reclamar por esta vía</b>, ni ante el Comité de
+    Ministros ni ante el Tribunal.</li>
+    <li>Cada persona que quiera poder reclamar debe observar con su nombre: la observación de una junta de
+    vecinos le da ese derecho a la junta.</li>
+    <li>Una observación precisa obliga a una respuesta precisa. Si la respuesta es genérica o no toca lo que
+    preguntaste, eso es lo que se reclama.</li>
+    <li>Guarda el comprobante: es la prueba de que observaste dentro del plazo.</li>
+    <li>Quien no observó tiene un camino más estrecho: pedir la invalidación de la resolución y, si se la
+    niegan, reclamar al Tribunal (Ley 20.600, art. 17 N° 8).</li>
+  </ul>
+  <p><a class="btn" href="observaciones.html">Armar mi observación →</a></p>
+</div>
+
 <h2 class="sec">En qué termina cada camino</h2>
 <p class="nota">Lo entrecomillado es el texto de la Ley 19.300, no una interpretación.</p>
 
@@ -330,11 +413,12 @@ evaluación 15/01/2027. Plazos y efectos: texto oficial de la
 15 días se tiene por otorgado), <b>Art. 16</b> (ampliación por una sola vez hasta 60 días y
 suspensiones a petición del titular), <b>Art. 20</b> (quién reclama y ante quién: 30 días para
 interponer, 60 días fatales para resolver, 30 días para ir al Tribunal Ambiental),
-<b>Art. 24</b> (qué obliga cada desenlace a los organismos del Estado), <b>Art. 25 ter</b>
+<b>Art. 24</b> (qué obliga cada desenlace a los organismos del Estado), <b>Arts. 9, 9 bis y 86</b> (quién evalúa, el Informe Consolidado y la Comisión de Evaluación), <b>Art. 25 ter</b>
 (caducidad a los cinco años sin inicio de obras) y <b>Art. 29</b> (60 días de participación
 ciudadana; nueva etapa de 30 días si hay cambios sustantivos, que suspende de pleno derecho la
 tramitación; y el reclamo de quien observó sin ser debidamente considerado, que no suspende los
-efectos de la resolución).
+efectos de la resolución). Tribunal competente, partes y recursos: <a href="https://www.bcn.cl/leychile/navegar?idNorma=1041361">Ley 20.600</a>,
+<b>arts. 5, 17, 18 y 26</b>.
 </p>
 
 </main>
