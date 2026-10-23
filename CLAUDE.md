@@ -261,6 +261,11 @@ están en `docs/fuentes.md`.
 **Antes de publicar cualquier cifra nueva, verifícala contra el texto original, no contra un
 resumen.** Varias afirmaciones plausibles no sobrevivieron ese paso.
 
+**`expediente/` es solo el expediente 2168892026.** Precedentes de otros proyectos (el fallo de la
+Corte Suprema sobre el relleno Santa Inés de Alto Hospicio, rol 112.449-2020) y normas (D.S. 189/2005)
+se citan con su enlace en el texto que los usa, siempre atribuidos a su caso; **no se descargan dentro
+del repo**. Si hace falta leer uno, va a una carpeta temporal y se borra al terminar.
+
 ### Dos trampas que ya mordieron
 
 **1. Medir distancias vértice a vértice.** Varios polígonos del expediente y de la SMA son muy
