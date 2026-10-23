@@ -42,6 +42,21 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - Cálculo de esta página, no del titular: el 99,7 % del predio se quemó en el incendio de
   febrero de 2024 (Sentinel-2, índice dNBR).
 
+## Documentos citados
+
+- [Resumen Ejecutivo](https://seia.sea.gob.cl/archivos/2026/07/15/RESUMEN_EJECUTIVO.pdf)
+- [Capítulo 1 · Descripción del proyecto](https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf)
+- [Capítulo 2 · Áreas de influencia](https://seia.sea.gob.cl/archivos/2026/07/17/CAPITULO_2_Descripcion_y_Justificacion_de_las_areas_de_influencia.pdf)
+- [Capítulo 3.5 · Geología (incluye el informe geológico-estructural de 2023)](https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar)
+- [Capítulo 3.19 · Medio humano](https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar)
+- [Capítulo 4 · Predicción y evaluación de impactos](https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar)
+- [Capítulo 5 · Análisis del Artículo 11](https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf)
+- [Capítulo 7 · Plan de seguimiento](https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf)
+- [Capítulo 8 · Contingencias y emergencias (incluye el Anexo 8.1, Plan de Gestión de Olor)](https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar)
+- [Anexo 4.2 · Modelación meteorológica](https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf)
+- [Anexo 4.5 · Evaluación paisajística](https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar)
+- [Anexo 9.6 · PAS 141, relleno sanitario](https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf)
+
 ## Quién lo hizo
 
 Análisis técnico independiente sobre documentos públicos. No representa al titular ni a ningún
