@@ -1161,7 +1161,10 @@ body.bajo .pista{opacity:0;pointer-events:none}
 @media(max-width:760px){
   .escena::after{background:radial-gradient(120% 80% at 50% 30%,rgba(11,13,16,0) 40%,rgba(11,13,16,.5) 100%),
     linear-gradient(0deg,rgba(11,13,16,.85) 0%,rgba(11,13,16,.35) 42%,rgba(11,13,16,0) 62%)}
-  .etapa{align-items:flex-end;padding:0 12px 16px;min-height:105vh}
+  /* en celular las tarjetas ocupan casi toda la pantalla: la que sale se apaga del todo (a medias tapaba
+     el mapa) y entre etapas queda un tramo de mapa limpio */
+  .etapa{align-items:flex-end;padding:0 12px 16px;min-height:120vh}
+  .etapa:not(.activa) .tarj{opacity:0;pointer-events:none}
   .etapa.largo{align-items:flex-end;min-height:240vh}
   .etapa.largo .tarj{top:auto;bottom:16px}
   .tarj{max-width:none;width:100%;padding:16px 16px 14px}
