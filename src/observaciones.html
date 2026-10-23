@@ -151,6 +151,21 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 }
 
 /* ── comité UX: celular primero, para quien no se maneja con la tecnología ── */
+/* desplegables que se ven tocables: recuadro con borde, conteo y flecha que gira al abrir */
+.despl>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px;
+  min-height:48px;padding:10px 14px;border:1px solid var(--lctl);border-radius:3px;background:var(--surf);
+  cursor:pointer;font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
+.despl>summary::-webkit-details-marker{display:none}
+.despl>summary::before{content:none!important}
+.despl>summary::after{content:'';flex:0 0 auto;width:9px;height:9px;margin-right:4px;border-right:2.5px solid var(--acc);
+  border-bottom:2.5px solid var(--acc);transform:rotate(45deg) translate(-2px,-2px);transition:transform .2s}
+.despl[open]>summary::after{transform:rotate(-135deg) translate(-2px,-2px)}
+.despl>summary:hover{border-color:var(--ink2)}
+.despl[open]>summary{border-bottom-left-radius:0;border-bottom-right-radius:0}
+.despl .cnt{font-weight:400;color:var(--ink3);margin-left:-4px;margin-right:auto}
+.despl>dl{border:1px solid var(--lctl);border-top:0;border-radius:0 0 3px 3px;padding:12px 14px;margin:0!important}
+@media(prefers-reduced-motion:reduce){.despl>summary::after{transition:none}}
+
 html{scroll-padding-top:84px;scroll-padding-bottom:96px}
 .sr{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 .tema,.choque>b:first-child,.pide>b:first-child{font-size:14.5px}
@@ -218,8 +233,8 @@ propios documentos de la empresa, con el documento y la página.</p>
   <li><b>Envía y guarda el comprobante</b> (una captura de pantalla sirve). Te permite reclamar después si no te responden bien.</li>
 </ol>
 
-<details class="glosario">
-  <summary>Palabras que vas a encontrar</summary>
+<details class="glosario despl">
+  <summary>Palabras que vas a encontrar <span class="cnt">(12)</span></summary>
   <dl>
     <dt>Titular</dt><dd>La empresa que presenta el proyecto: Cosemar SpA.</dd>
     <dt>Expediente</dt><dd>Todos los documentos del proyecto que están publicados en el SEA.</dd>
