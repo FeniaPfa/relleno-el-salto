@@ -38,7 +38,7 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 ## Hechos, con su fuente en el expediente
 
 - El área de influencia que declara el titular comprende los sectores de El Salto, Las Lomas y
-  El Calichero, «entre las comunas de Viña del Mar y Quilpué» (Capítulo 2 y Resumen Ejecutivo).
+  El Calichero, «entre las comunas de Viña del Mar y Quilpué» (Capítulo 5, pp. 60 y 63).
   No incluye Botania, Canal Chacao, Cumbres de Quilpué ni Pompeya.
 - Su único fotomontaje se tomó desde Pompeya Sur, comuna de Quilpué, a unos 2 km (Anexo 4.5).
 - Las poblaciones más cercanas, al norte del predio: Alto Valencia (1,70 km), Población
@@ -46,16 +46,21 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
   Distancias de esta página, al deslinde del predio.
 - La unidad habitacional más cercana está a 676 m del perímetro, según la Tabla 11 del Anexo 8.1
   (Plan de Gestión de Olor) del titular; las 21 que lista están al norte.
-- El viento predominante proviene de 180°–200° y sopla hacia el norte, con media de 5,73 m/s
-  (Anexo 4.2, modelación WRF del titular).
-- De 23 causales del Artículo 11 evaluadas, el Capítulo 5 reconoce un solo impacto significativo:
+- El viento predominante proviene de 180°–200° y sopla hacia el norte, con una media modelada de
+  5,73 m/s (Anexo 4.2, modelación WRF del titular; el mismo anexo reconoce que el modelo sobreestima el
+  viento observado).
+- De 23 causales del Artículo 11 evaluadas, el Capítulo 5 reconoce un solo efecto significativo:
   la pérdida de ejemplares de tres especies de flora.
-- 19 de los 25 organismos del Estado que se pronunciaron lo hicieron con observaciones
-  (oficios del 2 al 15 de septiembre de 2026, expediente electrónico).
-- Un informe geológico-estructural de 2023 del titular describe una falla potencialmente activa
-  que «compromete el cierre perimetral» (magnitud 6,8); el Capítulo 4 no la menciona.
-- La barrera entre la basura y el suelo es una geomembrana HDPE de 1,5 mm (Capítulo 1).
-- El proyecto declara 30.741.988 toneladas en 25 años de operación, más 20 de post-cierre.
+- 20 de los 25 organismos del Estado consultados formularon observaciones: 19 oficios rotulados
+  «con observaciones» y el de la Municipalidad de Viña del Mar (oficios del 2 al 15 de septiembre de
+  2026, expediente electrónico); dos fueron conformes y tres no participaron.
+- Un informe geológico preliminar de 2023 que el titular acompaña describe una falla potencialmente
+  activa que «compromete el cierre perimetral» (magnitud 6,8) y recomienda retroceder el cierre unos
+  200 m; la línea de base de 2026 (Capítulo 3.5) concluye que no hay fallas activas en el Holoceno dentro
+  del proyecto, con un relevamiento de superficie. El Capítulo 4 no menciona la falla ni el sismo.
+- La impermeabilización basal es una geomembrana HDPE de 1,5 mm sobre una lámina de bentonita (GCL)
+  (Capítulo 1, p. 84).
+- El proyecto declara 30.741.988 toneladas en 25 años de operación, más cierre y post-cierre (unos 20 años).
 - Cálculo de esta página, no del titular: el 99,7 % del predio se quemó en el incendio de
   febrero de 2024 (Sentinel-2, índice dNBR).
 

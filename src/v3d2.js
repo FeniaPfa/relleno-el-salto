@@ -391,7 +391,7 @@ function arrancar(){
 }
 function pieSeccion(p){
   var e=document.getElementById('ert-pie'); if(!e) return;
-  e.innerHTML='<b>'+p.id+'</b> · '+p.L+' m de largo, rumbo '+
+  e.innerHTML='<b>'+p.id+'</b> · '+p.L+' m entre electrodos extremos, rumbo '+
     p.rb.toFixed(0).replace('.',',')+'°'+
     (p.rho?' · resistividad de <b>'+p.rho[0].toLocaleString('es-CL')+'</b> a <b>'+
       p.rho[1].toLocaleString('es-CL')+' Ω·m</b>':'')+
