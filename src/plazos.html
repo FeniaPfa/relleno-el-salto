@@ -69,7 +69,7 @@ text{font-family:var(--cart);fill:var(--ink)}
 .hoy{margin:30px 0 0;padding:16px 20px 16px 18px;background:var(--surf);border-left:3px solid var(--acc);max-width:72ch}
 .hoy p{margin:0;font-size:16px;line-height:1.6}
 .hoy .hoy-t{font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--acc);margin-bottom:4px;text-transform:uppercase;letter-spacing:.06em}
-.hoy a{font-family:var(--cart);font-weight:600;white-space:nowrap}
+.hoy a.hoy-mas{font-family:var(--cart);font-weight:600;display:inline-block;padding:12px 4px;margin-left:10px}
 .entexto{margin:14px 2px 0;max-width:78ch}
 .entexto summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;font-weight:600;
   color:var(--ink2);padding:8px 0;min-height:40px;letter-spacing:.01em}
@@ -106,32 +106,90 @@ text{font-family:var(--cart);fill:var(--ink)}
 .regla ul{margin:0 0 14px;padding-left:20px;font-size:16px;line-height:1.6}
 .regla li{margin-bottom:6px} .regla li::marker{color:var(--acc)}
 @media(max-width:640px){ .quien li{padding:12px 13px;gap:10px} .regla{padding:16px 15px} }
+
+/* ── auditoría UX mobile first ── */
+h2.sec{font-family:var(--doc);font-size:clamp(22px,3vw,26px);font-weight:600;letter-spacing:0;text-transform:none;margin:48px 0 6px}
+.hoy{margin-top:14px} .hoy .btn{margin-top:4px}
+.hoy-t #hoy-dias{color:var(--ink);font-weight:600}
+.bajada{margin-top:16px}
+.glos{margin:6px 0 0;max-width:72ch}
+.glos summary,.mini summary{cursor:pointer;font-family:var(--cart);font-weight:600;min-height:44px;display:flex;align-items:center;gap:8px}
+.glos summary{font-size:15.5px;color:var(--ink)}
+.glos dl{display:grid;grid-template-columns:max-content 1fr;gap:6px 14px;margin:6px 0 10px;font-size:15.5px;line-height:1.5}
+.glos dt{font-weight:600} .glos dd{margin:0;color:var(--ink2)}
+@media(max-width:520px){ .glos dl{grid-template-columns:1fr;gap:2px} .glos dd{margin-bottom:8px} }
+.mini summary{font-size:13.5px;color:var(--ink3);min-height:40px}
+.mini p{font-size:14px;color:var(--ink2);line-height:1.55;margin:4px 0 0}
+.parati{font-size:15px;line-height:1.55;margin:0;padding:8px 10px;background:var(--acc-s);border-radius:2px}
+.quien li.tu .qn{color:var(--bg)}
+.regla-t{margin:0 0 10px}
+.regla-ley{font-size:15px!important;color:var(--ink2)}
+.volver a{display:inline-block;padding:10px 0}
+.entexto summary{min-height:48px;font-size:15px}
+.btn-sec{background:transparent!important;color:var(--acc)!important;border:2px solid var(--acc);margin-left:0}
+.btn-sec:hover{filter:none;background:var(--acc-s)!important}
+.links{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:0 22px;width:100%}
+.links a{display:inline-block;padding:12px 0;font-family:var(--cart);font-size:15px;color:var(--ink2)}
+.vh{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+.lienzo:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.fuentes a{display:inline-block;padding:4px 0}
+/* en celular el recorrido es la lista, dibujada como una línea de metro vertical */
+@media(max-width:700px){
+  .lienzo,.desliza,.leyenda{display:none}
+  .entexto{margin-top:8px}
+  .entexto summary{display:none}
+  .entexto ol{list-style:none;padding:0 0 0 30px;margin:6px 0 0 10px;border-left:4px solid var(--ink2)}
+  .entexto li{position:relative;color:var(--ink);font-size:15.5px;line-height:1.55;margin:0 0 16px}
+  .entexto li::before{content:"";position:absolute;left:-41px;top:.3em;width:14px;height:14px;border-radius:50%;
+    background:var(--bg);border:3px solid var(--ink2)}
+  .entexto li:nth-child(-n+2)::before{border-color:var(--acc)}
+  .entexto li:nth-child(4)::before,.entexto li:nth-child(5)::before{border-style:dashed}
+  .accion .btn{width:100%;justify-content:center;text-align:center}
+}
 @media(max-width:640px){ .wrap{padding:24px 16px 60px} }
 </style>
 
 <main class="wrap">
 
-<p class="volver"><a href="./">← Volver al análisis del proyecto</a></p>
+<p class="volver"><a href="./"><span aria-hidden="true">←</span> Volver al análisis del proyecto</a></p>
 
 <h1>Qué puede pasar con el proyecto, y cuándo</h1>
-<p class="bajada">El recorrido completo del expediente, con los plazos que fija la ley.
-<b>Ninguna rama lleva probabilidad</b>: no existe ese dato y no se inventa. Lo único que se
-codifica es si algo está fijado por ley o depende de una decisión que aún no se toma.</p>
 
 <div class="hoy" id="hoy">
-  <p class="hoy-t">Hoy</p>
-  <p>La <b>participación ciudadana está abierta hasta el 3 de noviembre de 2026</b>. Es el único
-  tramo del recorrido en que cualquier persona puede intervenir, y lo que se observe ahora es el
-  material del que pueden salir las condiciones de una aprobación.
-  <a href="observaciones.html">Veintiuna observaciones listas para ingresar →</a></p>
+  <p class="hoy-t">Hoy<span id="hoy-dias"></span></p>
+  <p id="hoy-txt">La <b>participación ciudadana está abierta hasta el 3 de noviembre de 2026</b>. Es la única
+  etapa abierta a cualquier persona, y <b>solo quien observa ahora podrá reclamar después</b> si su
+  observación no es considerada.</p>
+  <p id="hoy-acc"><a class="btn" href="observaciones.html">Armar mi observación <span aria-hidden="true">→</span></a>
+  <a class="hoy-mas" href="#solo-quien-observa">Por qué ahora</a></p>
 </div>
+
+<p class="bajada">Qué pasa con el proyecto después de la participación ciudadana, quién decide y en qué
+plazos, según la Ley 19.300.</p>
+
+<details class="glos">
+  <summary>Palabras del trámite</summary>
+  <dl>
+    <dt>EIA</dt><dd>Estudio de Impacto Ambiental: el documento que presenta la empresa.</dd>
+    <dt>SEA</dt><dd>Servicio de Evaluación Ambiental: conduce el trámite.</dd>
+    <dt>ICSARA</dt><dd>El informe con las preguntas que el SEA le traslada a la empresa.</dd>
+    <dt>Adenda</dt><dd>Las respuestas de la empresa a esas preguntas.</dd>
+    <dt>RCA</dt><dd>Resolución de Calificación Ambiental: la decisión que aprueba, aprueba con condiciones o rechaza.</dd>
+    <dt>Días hábiles</dt><dd>De lunes a viernes, sin feriados. Así se cuentan los plazos, salvo donde la ley dice otra cosa.</dd>
+    <dt>Plazo fatal</dt><dd>Un plazo que no se puede extender.</dd>
+    <dt>De pleno derecho</dt><dd>Ocurre por sí solo, sin que nadie tenga que pedirlo.</dd>
+    <dt>Casación en el fondo</dt><dd>Pedir a la Corte Suprema que revise si se aplicó bien la ley; no vuelve a evaluar el proyecto.</dd>
+    <dt>Invalidación</dt><dd>Pedir a la autoridad que anule su propia resolución por ser ilegal.</dd>
+  </dl>
+</details>
 
 <h2 class="sec">El recorrido</h2>
 <p class="nota">Cada tramo mide lo mismo: la distancia aquí no es tiempo. Las fechas van en
-las estaciones.</p>
+las estaciones. <b>Ninguna rama lleva probabilidad</b>: no existe ese dato y no se inventa; solo se
+distingue lo que fija la ley de lo que depende de una decisión.</p>
 
 <p class="desliza">Desliza el diagrama hacia el lado para ver los tres desenlaces →</p>
-<div class="lienzo">
+<div class="lienzo" tabindex="0" role="region" aria-label="Diagrama del recorrido; desliza de lado para verlo entero">
 <svg viewBox="0 0 1320 560" role="img" aria-describedby="rec-texto"
      aria-label="El procedimiento de evaluación ambiental como un mapa de metro, con estaciones, desvíos y tres destinos finales">
 
@@ -231,15 +289,15 @@ las estaciones.</p>
   <!-- pie dentro del lienzo -->
   <text class="t-pl" x="78" y="496">Sólido = recorrido obligado.  Punteado = ocurre sólo si alguien decide que ocurra.</text>
   <text class="t-pl" x="78" y="512">Los días son hábiles salvo donde el texto de la ley dice otra cosa.</text>
-  <text class="t-pl" x="78" y="534" fill="var(--acc)">Hoy el expediente está entre el ingreso y el cierre de la participación ciudadana.</text>
+  <text class="t-pl" x="78" y="534" fill="var(--acc)" id="svg-hoy">Hoy el expediente está entre el ingreso y el cierre de la participación ciudadana.</text>
 </svg>
 </div>
 
-<details class="entexto" id="rec-texto">
+<details class="entexto" id="rec-texto" open>
   <summary>El recorrido, en texto</summary>
   <ol>
     <li><b>Ingreso del EIA</b> · 27 de julio de 2026.</li>
-    <li><b>Participación ciudadana</b> · hasta el 3 de noviembre de 2026 · 60 días hábiles (Art. 29). <i>Abierta ahora.</i></li>
+    <li><b>Participación ciudadana</b> · hasta el 3 de noviembre de 2026 · 60 días hábiles (Art. 29). <i id="li-hoy">Abierta ahora.</i></li>
     <li><b>ICSARA y Adenda</b> · sin fecha: el SEA consolida las observaciones y el titular responde.</li>
     <li><b>Nueva participación ciudadana</b>, solo si la Adenda trae cambios sustantivos · 30 días; suspende el plazo de pleno derecho (Art. 29).</li>
     <li><b>Adenda complementaria</b> · solo si el SEA la pide.</li>
@@ -256,7 +314,7 @@ las estaciones.</p>
 </details>
 
 <div class="leyenda">
-  <span><i class="ac"></i>abierto ahora</span>
+  <span><i class="ac"></i><span id="ley-hoy">abierto ahora</span></span>
   <span><i></i>recorrido obligado</span>
   <span><i class="pt bi"></i>desvío condicional</span>
   <span><i class="pt bl"></i>reclamaciones</span>
@@ -267,7 +325,7 @@ las estaciones.</p>
 <p class="nota">Ocho actores, en el orden en que intervienen. Solo uno vota la aprobación; los demás
 informan, responden o revisan lo que ya se decidió.</p>
 
-<ol class="quien">
+<ol class="quien" role="list">
   <li><span class="qn">1</span><div><h3>La empresa (el «titular»)</h3>
     <p>Cosemar presenta el Estudio y responde en la <b>Adenda</b> las preguntas que le traslada el SEA. No decide nada.</p>
     <p class="pie">Ley 19.300, art. 9</p></div></li>
@@ -292,10 +350,11 @@ informan, responden o revisan lo que ya se decidió.</p>
     regional del SEA es su secretario.
     En lo que regula la ley ambiental, solo puede decidir con base en el Informe Consolidado: hacerlo de otra forma
     es un vicio esencial.</p>
-    <p class="pie">Ley 19.300, arts. 86 y 9 bis · la ley aún dice «Intendente»; desde 2021 preside el delegado presidencial,
+    <p class="pie">Ley 19.300, arts. 86 y 9 bis</p>
+    <details class="mini"><summary>Por qué la ley dice «Intendente»</summary><p>La ley aún dice «Intendente», un cargo que ya no existe; desde 2021 preside el delegado presidencial,
     según un dictamen de la Contraloría citado por el director del SEA ante la
     <a href="https://www.camara.cl/cms/2021/08/26/establecen-que-sera-el-gobernador-regional-quien-presida-la-comision-de-evaluacion-ambiental/">Cámara de Diputados</a>. Un proyecto de ese año para dársela al gobernador regional
-    (boletín 14469) no llegó al texto de la ley.</p></div></li>
+    (boletín 14469) no llegó al texto de la ley.</p></details></div></li>
   <li><span class="qn">6</span><div><h3>El Comité de Ministros: revisa reclamos</h3>
     <p>Los ministros de Medio Ambiente, que lo preside, Salud, Economía, Agricultura, Energía y Minería. Resuelve
     en <b>60 días fatales</b> y debe pedir informe a los servicios que evaluaron.</p>
@@ -311,23 +370,23 @@ informan, responden o revisan lo que ya se decidió.</p>
 </ol>
 
 <div class="regla" id="solo-quien-observa">
-  <p class="regla-t">Solo quien observa puede reclamar después</p>
-  <p>El reclamo es para la persona «cuyas observaciones […] no hubieren sido debidamente consideradas en los
-  fundamentos de la resolución de calificación ambiental» (Ley 19.300, art. 29). Y ante el Tribunal Ambiental
-  solo pueden ser parte «las personas naturales y jurídicas que presentaron sus reclamaciones de conformidad a la
-  ley» (Ley 20.600, art. 18).</p>
+  <h2 class="regla-t">Solo quien observa puede reclamar después</h2>
   <ul>
     <li><b>Si no observas antes del 3 de noviembre, no podrás reclamar por esta vía</b>, ni ante el Comité de
     Ministros ni ante el Tribunal.</li>
     <li>Cada persona que quiera poder reclamar debe observar con su nombre: la observación de una junta de
-    vecinos le da ese derecho a la junta.</li>
+    vecinos le da ese derecho a la junta, no a cada vecino.</li>
     <li>Una observación precisa obliga a una respuesta precisa. Si la respuesta es genérica o no toca lo que
     preguntaste, eso es lo que se reclama.</li>
     <li>Guarda el comprobante: es la prueba de que observaste dentro del plazo.</li>
     <li>Quien no observó tiene un camino más estrecho: pedir la invalidación de la resolución y, si se la
     niegan, reclamar al Tribunal (Ley 20.600, art. 17 N° 8).</li>
   </ul>
-  <p><a class="btn" href="observaciones.html">Armar mi observación →</a></p>
+  <p class="regla-ley">Lo dice la ley: el reclamo es para la persona «cuyas observaciones […] no hubieren sido
+  debidamente consideradas en los fundamentos de la resolución de calificación ambiental» (Ley 19.300, art. 29),
+  y ante el Tribunal Ambiental solo pueden ser parte «las personas naturales y jurídicas que presentaron sus
+  reclamaciones de conformidad a la ley» (Ley 20.600, art. 18).</p>
+  <p><a class="btn" href="observaciones.html">Armar mi observación <span aria-hidden="true">→</span></a></p>
 </div>
 
 <h2 class="sec">En qué termina cada camino</h2>
@@ -349,12 +408,13 @@ informan, responden o revisan lo que ya se decidió.</p>
       <li>Fiscaliza la Superintendencia del Medio Ambiente</li>
       <li>Si no empiezan las obras en <b>5 años</b>, la RCA caduca</li>
     </ul>
+    <p class="parati"><b>Para ti:</b> si observaste y tu observación no fue debidamente considerada, puedes reclamar (Art. 29).</p>
     <p class="pie">Art. 24 · Art. 25 ter</p>
   </article>
 
   <article class="d d-co">
     <h3>Aprobado con condiciones</h3>
-    <p class="vive">El desenlace más probable en la práctica</p>
+    <p class="vive">Se aprueba, pero con exigencias añadidas</p>
     <blockquote>En contra de la resolución que <b>rechace o establezca condiciones o
       exigencias</b> a un Estudio de Impacto Ambiental, procederá la reclamación ante un
       comité integrado por los Ministros…</blockquote>
@@ -389,10 +449,10 @@ informan, responden o revisan lo que ya se decidió.</p>
     <h3>Lo que no termina</h3>
     <p class="vive">Por qué ningún camino cierra el asunto</p>
     <p>Reclamar <b>no suspende la RCA</b>: si se aprueba y alguien reclama, las obras pueden
-    avanzar mientras se tramita. Y el Comité de Ministros no tiene plazo de inicio, sólo de
-    resolución una vez interpuesto el recurso.</p>
+    avanzar mientras se tramita. Y el Comité de Ministros solo actúa si alguien reclama: desde que se interpone el
+    reclamo tiene 60 días para resolver.</p>
     <ul>
-      <li>La PAC puede reabrirse <b>30 días</b> si la Adenda cambia el proyecto</li>
+      <li>La participación ciudadana puede reabrirse <b>30 días</b> si la Adenda cambia el proyecto</li>
       <li>El plazo de evaluación se suspende cada vez que eso ocurre</li>
       <li>Un servicio que no responde en <b>15 días</b> otorga su permiso por silencio</li>
     </ul>
@@ -402,9 +462,12 @@ informan, responden o revisan lo que ya se decidió.</p>
 </div>
 
 <div class="accion">
-  <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación al SEA →</a>
-  <p class="volver" style="margin:0"><a href="observaciones.html">Observaciones fundadas, listas para copiar</a> · <a href="./#observar">Cómo se ingresa</a> ·
-  <a href="./">Volver al análisis del proyecto</a></p>
+  <a class="btn" href="observaciones.html">Armar mi observación <span aria-hidden="true">→</span></a>
+  <a class="btn btn-sec" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ir al formulario del SEA <span aria-hidden="true">→</span> <span class="vh">(se abre en el sitio del SEA)</span></a>
+  <ul class="links">
+    <li><a href="./#observar">Cómo se ingresa una observación</a></li>
+    <li><a href="./">Volver al análisis del proyecto</a></li>
+  </ul>
 </div>
 
 <p class="fuentes">
@@ -427,14 +490,22 @@ efectos de la resolución). Tribunal competente, partes y recursos: <a href="htt
 
 </main>
 <script>
-/* el recuadro «Hoy» cambia cuando cierra la participación ciudadana (3 de noviembre inclusive) */
+/* días que quedan, y el 4 de noviembre todo lo que dice «abierta ahora» cambia */
 (function(){
-  if(new Date()<new Date(2026,10,4)) return;
-  var h=document.getElementById('hoy'); if(!h) return;
-  h.querySelector('p:not(.hoy-t)').innerHTML='La <b>participación ciudadana cerró el 3 de noviembre de 2026</b>. '+
-    'Ahora el expediente está en manos del SEA y del titular: las observaciones ingresadas se responden en la Adenda '+
-    'y en la Resolución de Calificación. Si la Adenda cambia sustantivamente el proyecto, la participación se reabre '+
-    'por 30 días. <a href="https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&amp;id_expediente=2168892026" '+
-    'target="_blank" rel="noopener">Seguir el expediente →</a>';
+  var fin=new Date(2026,10,4), d=Math.ceil((fin-new Date())/864e5), $=function(x){return document.getElementById(x)};
+  /* el recorrido en texto viene abierto (celular, sin JS); en escritorio manda el diagrama */
+  if(window.matchMedia&&!matchMedia('(max-width:700px)').matches&&$('rec-texto')) $('rec-texto').open=false;
+  if(d>1&&$('hoy-dias')) $('hoy-dias').textContent=' · quedan '+d+' días';
+  else if(d===1&&$('hoy-dias')) $('hoy-dias').textContent=' · último día';
+  if(d>0) return;
+  $('hoy-txt').innerHTML='La <b>participación ciudadana cerró el 3 de noviembre de 2026</b>. Ahora el expediente '+
+    'está en manos del SEA y del titular: si el SEA traslada las observaciones al titular, este debe responderlas en '+
+    'su Adenda, y la autoridad debe pronunciarse sobre todas en la Resolución de Calificación. Si la Adenda cambia '+
+    'sustantivamente el proyecto, la participación se reabre por 30 días.';
+  $('hoy-acc').innerHTML='<a class="btn" href="https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&amp;id_expediente=2168892026" '+
+    'target="_blank" rel="noopener">Seguir el expediente <span aria-hidden="true">→</span></a>';
+  if($('svg-hoy')) $('svg-hoy').textContent='La participación ciudadana cerró el 3 de noviembre de 2026.';
+  if($('li-hoy')) $('li-hoy').textContent='Cerrada.';
+  if($('ley-hoy')) $('ley-hoy').textContent='participación ciudadana (cerrada)';
 })();
 </script>
