@@ -436,6 +436,26 @@ details.plegado>summary{min-height:44px;display:flex;align-items:center;font-siz
   .modelos-d>summary{font-size:16px}
 }
 @media(max-width:360px){ tbody td{grid-template-columns:minmax(0,8em) 1fr} }
+
+/* ---------- visor en pantalla completa ----------
+   modo propio (clase .full) para que funcione también en iPhone, donde Safari no permite la
+   pantalla completa real fuera de los videos; donde se puede, además se pide la real.
+   Aquí el lienzo captura todos los gestos: no hay página que desplazar. */
+body.con-full{overflow:hidden}
+.v3.full{position:fixed;inset:0;z-index:60;margin:0;border:0;display:flex;flex-direction:column;
+  background:#0b0d10;padding-top:env(safe-area-inset-top)}
+.v3.full .v3bar{flex:0 0 auto;padding:8px 10px}
+.v3.full .v3bar .lbl{display:none}
+.v3.full .toggles{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;width:100%}
+.v3.full .toggles::-webkit-scrollbar{display:none}
+.v3.full .toggles>*{flex:0 0 auto}
+.v3.full .cv{flex:1 1 auto;aspect-ratio:auto;min-height:0;height:auto;touch-action:none}
+.v3.full>.tl,.v3.full>.pie{display:none}
+@media(max-width:900px){ .v3.full>.ctrl{display:none} }
+.tg-full{white-space:nowrap}
+.v3.full .tg-full{order:-1;background:#fbf7ec;color:#14161a;border-color:#fbf7ec;font-weight:600;
+  min-height:44px;padding:8px 14px}
+.v3.full .vhint{display:none}
 /* ---------- barra fija de acción en móvil ---------- */
 .barra-cta{display:none}
 @media(max-width:720px){
@@ -2937,6 +2957,43 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 
 
 
+
+/* ---- visores en pantalla completa: botón, salir con «Salir», Escape o el botón atrás ---- */
+(function(){
+  Array.prototype.forEach.call(document.querySelectorAll('.v3'),function(v){
+    var cv=v.querySelector('.cv'), barra=v.querySelector('.v3bar .toggles')||v.querySelector('.v3bar');
+    if(!cv||!barra) return;
+    var b=document.createElement('button'); b.type='button'; b.className='tg tg-full';
+    var ENTRAR='<span aria-hidden="true">⛶</span> Pantalla completa', SALIR='<span aria-hidden="true">✕</span> Salir';
+    b.innerHTML=ENTRAR; b.setAttribute('aria-pressed','false'); barra.appendChild(b);
+    var abierto=false, conHist=false;
+    function gestos(ta){ var c=cv.querySelector('canvas'); if(c) c.style.touchAction=ta; }
+    function avisar(){ try{ dispatchEvent(new Event('resize')) }catch(e){} }
+    function abrir(){
+      if(abierto) return; abierto=true;
+      v.classList.add('full'); document.body.classList.add('con-full');
+      b.innerHTML=SALIR; b.setAttribute('aria-pressed','true'); b.setAttribute('aria-label','Salir de pantalla completa');
+      gestos('none');
+      try{ if(v.requestFullscreen&&!document.fullscreenElement){ var p=v.requestFullscreen(); if(p&&p.catch) p.catch(function(){}) } }catch(e){}
+      try{ history.pushState({visorCompleto:1},''); conHist=true }catch(e){}
+      avisar(); setTimeout(avisar,300); b.focus();
+    }
+    function cerrar(desdeHistorial){
+      if(!abierto) return; abierto=false;
+      v.classList.remove('full'); document.body.classList.remove('con-full');
+      b.innerHTML=ENTRAR; b.setAttribute('aria-pressed','false'); b.removeAttribute('aria-label');
+      gestos('pan-y pinch-zoom');
+      try{ if(document.fullscreenElement) document.exitFullscreen() }catch(e){}
+      if(conHist&&!desdeHistorial){ conHist=false; history.back() } conHist=false;
+      avisar(); setTimeout(avisar,300);
+      v.scrollIntoView({block:'center'}); b.focus();
+    }
+    b.addEventListener('click',function(){ abierto?cerrar():abrir() });
+    addEventListener('popstate',function(){ if(abierto) cerrar(true) });
+    document.addEventListener('fullscreenchange',function(){ if(!document.fullscreenElement&&abierto) cerrar() });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&abierto) cerrar() });
+  });
+})();
 
 /* el panel flotante arranca bajo la barra de botones del visor, no sobre ella */
 (function(){
