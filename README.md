@@ -107,6 +107,3 @@ CLAUDE.md             contexto completo para iterar con Claude Code
 Lee [`CLAUDE.md`](CLAUDE.md). Varias cosas que parecen arbitrarias resuelven un problema concreto:
 el orden de las secciones, la separación tipográfica entre cifras y voz, las trampas del build y
 de los visores, y la regla de verificar toda cifra nueva contra el texto original del expediente.
-
-Antes de publicar falta completar la **firma** en el pie de la página (`.firma` en
-`src/plantilla.html`).

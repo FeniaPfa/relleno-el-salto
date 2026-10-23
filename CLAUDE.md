@@ -119,8 +119,8 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   al mapear (x,y)→(x,·,y) se invierte el giro de cada triángulo y el renderer descarta la cara.
   La tapa de la masa de residuos estuvo invisible así durante semanas sin que nada fallara.
   Hay que invertir el índice (ver `dibujarMasa`) o usar `DoubleSide`.
-- **El pie tiene un placeholder de firma** (`.firma` en `plantilla.html`): nombre o colectivo y
-  contacto van ahí antes de publicar. La fecha de actualización la inyecta `build.py` desde git.
+- **El pie no lleva firma**: se quitó el marcador `[nombre o colectivo · contacto]`. La fecha de
+  actualización la inyecta `build.py` desde git.
 
 ## Color y tipografía: las reglas
 
