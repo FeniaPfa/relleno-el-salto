@@ -162,7 +162,8 @@ def ldjson(pleno):
                          'addressCountry': 'CL'},
              'geo': {'@type': 'GeoCoordinates', 'latitude': -33.0811, 'longitude': -71.4842}}
     g = [
-      {'@type': 'WebSite', '@id': URL + '#sitio', 'url': URL, 'name': 'Expediente COSEMAR El Salto',
+      {'@type': 'WebSite', '@id': URL + '#sitio', 'url': URL, 'name': 'Relleno de El Salto',
+       'alternateName': ['Expediente COSEMAR El Salto', 'Relleno sanitario El Salto, Viña del Mar'],
        'inLanguage': 'es-CL'},
       {'@type': 'AnalysisNewsArticle', '@id': URL + '#analisis', 'url': URL, 'isPartOf': {'@id': URL + '#sitio'},
        'headline': 'Lo que dice el expediente del relleno sanitario de El Salto',
@@ -186,6 +187,19 @@ def ldjson(pleno):
                      'url': 'https://www.sea.gob.cl'}],
        'isBasedOn': ['https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026']},
       lugar,
+      {'@type': 'Dataset', '@id': URL + '#archivo',
+       'name': 'Archivo en texto del expediente SEIA 2168892026, relleno sanitario de El Salto',
+       'description': ('Copia en texto plano de los documentos que el Servicio de Evaluación Ambiental publicó del '
+                       'expediente 2168892026 (Centro Metropolitano de Gestión Integral de Residuos, Cosemar SpA): '
+                       '60 documentos y 97 adjuntos, con un manifiesto de URL, tamaño y SHA-256 de cada original.'),
+       'url': 'https://github.com/FeniaPfa/seia-data/tree/main/expediente',
+       'isAccessibleForFree': True, 'inLanguage': 'es-CL',
+       'creator': {'@type': 'Organization', 'name': 'Análisis geoespacial independiente', 'url': 'https://github.com/FeniaPfa/seia-data'},
+       'isBasedOn': 'https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026',
+       'spatialCoverage': {'@id': URL + '#lugar'}, 'temporalCoverage': '2026',
+       'keywords': ['relleno sanitario', 'evaluación ambiental', 'SEIA', 'El Salto', 'Viña del Mar', 'Quilpué'],
+       'distribution': [{'@type': 'DataDownload', 'encodingFormat': 'text/plain',
+                         'contentUrl': 'https://github.com/FeniaPfa/seia-data/tree/main/expediente/texto'}]},
       {'@type': 'FAQPage', '@id': URL + '#preguntas', 'url': URL + '#preguntas', 'inLanguage': 'es-CL',
        'mainEntity': faq},
     ]
@@ -211,6 +225,8 @@ def relato(h, visor_js):
     """relato.html: el recorrido con scroll. Reutiliza el visor del terreno tal cual:
     su marcado, su CSS, su código y los datos salen de las mismas fuentes que la principal."""
     pg = leer('relato.html')
+    assert pg.count('{fecha_iso}') == 1, 'fecha ausente en el JSON-LD de relato.html'
+    pg = pg.replace('{fecha_iso}', fecha_iso())
     for marca, valor in (('<!--__FUENTES__-->', fuentes(h)), ('<!--__CSS__-->', css_principal(h)),
                          ('<!--__VISOR_HTML__-->', bloque_div(h, '<div class="v3">')),
                          ('/*__VISOR_JS__*/', visor_js), ('/*__DATOS__*/', leer('datos.json'))):
