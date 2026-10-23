@@ -166,6 +166,13 @@ se llaman `.etapa`, porque el relato hereda todo el CSS.
 - El JSON-LD de la principal se arma en `ldjson()` de `build.py` (sitio, análisis, lugar con
   coordenadas, preguntas); `dateModified` y el `sitemap.xml` salen de la fecha del último commit.
 - `llms.txt` resume los hechos con su fuente en el expediente; si cambia una cifra, cámbiala ahí.
+- **El nombre del sitio y el ícono que muestra Google salen de la raíz del dominio**
+  (`feniapfa.github.io`), que es un 404 de GitHub: por eso el resultado dice «GitHub Pages
+  documentation» con un globo, aunque el `WebSite` y los íconos de este repo estén bien. Solo se
+  arregla con el repo `FeniaPfa.github.io` o con un dominio propio; se decidió esperar (2026-10-23).
+- **Las FAQ no dan resultado enriquecido** (desde 2023 Google lo reserva a sitios de gobierno y de
+  salud). Se mantienen porque ayudan a leer y alimentan a los motores generativos.
+- Los `<title>` se mantienen bajo ~60 caracteres: con 95, Google reemplazó el título por el h1.
 - **`robots.txt` no tiene efecto aquí:** el sitio vive en `/seia-data/` y los buscadores solo leen el
   de la raíz del dominio. El sitemap hay que enviarlo a mano en Google Search Console.
 
