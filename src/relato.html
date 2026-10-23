@@ -138,6 +138,14 @@ body.listo .riel{opacity:1}
 .revision{position:fixed;left:14px;top:12px;z-index:7;font-family:var(--cart);font-size:12.5px;color:#17120a;
   background:#cf9f3e;padding:4px 9px;border-radius:2px}
 
+/* ---- rótulo de la huella ---- */
+.rot-huella{position:fixed;left:0;top:0;z-index:3;margin:0;pointer-events:none;transform:translate(-50%,-100%);
+  font-family:var(--cart);font-size:15px;font-weight:600;color:#fff;background:rgba(156,31,40,.92);padding:6px 11px;
+  border-radius:2px;white-space:nowrap;opacity:0;transition:opacity .5s ease;box-shadow:0 6px 20px rgba(0,0,0,.4)}
+.rot-huella b{font-weight:700}
+.rot-huella::after{content:'';position:absolute;left:50%;bottom:-7px;margin-left:-7px;border:7px solid transparent;
+  border-top-color:rgba(156,31,40,.92);border-bottom:0}
+.rot-huella.on{opacity:1}
 /* ---- indicación de bajar: fija al pie mientras se está en la portada ---- */
 .pista{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:8;display:flex;flex-direction:column;
   align-items:center;gap:6px;background:rgba(16,18,22,.82);color:#f1efe8;border:1px solid #5b646e;border-radius:22px;
@@ -159,6 +167,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .tarj{max-width:none;width:100%;padding:16px 16px 14px}
   .tarj p{font-size:15.5px}
   .portada h1{font-size:40px}
+  .rot-huella{font-size:13.5px;padding:5px 9px}
   /* la portada cabe en la pantalla visible, con aire al pie para la indicación de bajar */
   .etapa.portada{min-height:100vh;min-height:100svh;padding-bottom:84px}
   .portada .tarj{padding:16px 16px 14px}
@@ -189,6 +198,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
 <nav class="riel" id="riel" aria-label="Capítulos del relato"></nav>
 <button class="pista" id="pista" type="button">Baja para recorrerlo<i aria-hidden="true"></i></button>
 
+<p class="rot-huella" id="rot-huella" aria-hidden="true"><b>Aquí</b> irían 30,7 millones de toneladas de basura</p>
 <div class="escena" aria-hidden="true">
 <!--__VISOR_HTML__-->
 </div>
@@ -203,7 +213,6 @@ body.bajo .pista{opacity:0;pointer-events:none}
       <p>A unos 2 km de Pompeya Sur, en Quilpué, Cosemar SpA quiere enterrar
       <b>30,7 millones de toneladas de basura</b> durante 25 años.</p>
       <p>Esto es lo que dice su propio estudio, visto sobre el terreno real.</p>
-      <p class="baja"><i></i>Baja para recorrerlo</p>
     </div>
   </div>
 </section>
@@ -471,6 +480,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       if(etapas[i].getAttribute('data-deriva')&&!RM){ cam=Object.assign({},cam); cam.th+=Math.sin(performance.now()/9000)*0.18 }
       VISOR.poner(cam);
     }
+    var rh=document.getElementById('rot-huella');
+    if(MEJOR.centro&&i<=1){
+      var I2=VISOR.internos(), v=MEJOR.centro.clone().project(I2.cam), cvr=I2.ren.domElement.getBoundingClientRect();
+      rh.style.left=((v.x*.5+.5)*cvr.width+cvr.left).toFixed(0)+'px'; rh.style.top=((-v.y*.5+.5)*cvr.height+cvr.top-10).toFixed(0)+'px';
+      rh.classList.toggle('on',v.z<1); if(MEJOR.pulso) MEJOR.pulso(performance.now());
+    } else rh.classList.remove('on');
     var h=document.documentElement;
     document.getElementById('prog').style.width=(scrollY/Math.max(1,h.scrollHeight-innerHeight)*100).toFixed(2)+'%';
   }
@@ -478,7 +493,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   function pedir(){ if(pend) return; pend=true; requestAnimationFrame(function(){ pend=false; cuadro() }) }
   /* deriva lenta en la portada y el cierre: un cuadro por animación solo mientras se está ahí */
   (function deriva(){ requestAnimationFrame(deriva);
-    if(!RM&&actual>=0&&etapas[actual].getAttribute('data-deriva')&&!document.hidden) cuadro(); })();
+    if(!RM&&actual>=0&&(etapas[actual].getAttribute('data-deriva')||actual===1)&&!document.hidden) cuadro(); })();
 
   /* --- desde tu población --- */
   var sel=document.getElementById('sel-pob'), ficha=document.getElementById('ficha');
@@ -641,9 +656,25 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var masa=new T.Mesh(gm,matMasa);
     masa.renderOrder=4; sc.add(masa);
     var ruido=function(q){ var x=pos[q*3], z=pos[q*3+2]; var s=Math.sin(x*12.9898+z*78.233)*43758.5453; return s-Math.floor(s) };
+    /* ---------- la huella: dónde irá la basura, visible antes de que exista ---------- */
+    var hp=new Float32Array(NV*3), k0=K();
+    for(var qh=0;qh<NV;qh++){ hp[qh*3]=pos[qh*3]; hp[qh*3+1]=(gro[qh]+5)*k0; hp[qh*3+2]=pos[qh*3+2] }
+    var gh=new T.BufferGeometry(); gh.setAttribute('position',new T.BufferAttribute(hp,3)); gh.setIndex(idx);
+    var matH=new T.MeshBasicMaterial({color:0xff5a2a,transparent:true,opacity:.42,depthWrite:false,side:T.DoubleSide});
+    var huella=new T.Mesh(gh,matH); huella.renderOrder=3; sc.add(huella);
+    var contorno=new T.Group();
+    polis.forEach(function(P){ if(!P.ext) return;
+      var cp=P.p.map(function(q){ return new T.Vector3(q[0],hAt(q[2],q[3])*k0+7,q[1]) });
+      contorno.add(new T.Mesh(new T.TubeGeometry(new T.CatmullRomCurve3(cp,true),cp.length*3,4.5,5,true),
+        new T.MeshBasicMaterial({color:0xff6a3d,transparent:true,opacity:.95,depthWrite:false}))) });
+    contorno.renderOrder=6; sc.add(contorno);
+    var cx0=0,cz0=0,cn=0; for(var qc=0;qc<NV;qc++) if(ins[qc]){ cx0+=pos[qc*3]; cz0+=pos[qc*3+2]; cn++ }
+    MEJOR.centro=new T.Vector3(cx0/cn, 0, cz0/cn);
+    MEJOR.centro.y=(hAt(MEJOR.centro.x/S+.5,-MEJOR.centro.z/S+.5)+40)*k0;
+    MEJOR.pulso=function(t){ if(huella.visible) matH.opacity=.3+.18*(.5+.5*Math.sin(t/650)) };
     MEJOR.actualizarMasa=function(yr){
       var cy=corona[Math.max(0,Math.min(25,yr))], k=K();
-      masa.visible=yr>0;
+      masa.visible=yr>0; huella.visible=!yr;
       if(!yr) return;
       for(var q=0;q<NV;q++){
         var top=ins[q]?Math.min(sup[q],cy):-1e9, h=top>gro[q]+.3?top:gro[q]-2.5;
