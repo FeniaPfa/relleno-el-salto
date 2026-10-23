@@ -158,6 +158,19 @@ body.listo .riel{opacity:1}
   text-shadow:0 0 3px #0b0d10,0 0 3px #0b0d10,0 1px 6px #0b0d10;opacity:0;transition:opacity .5s ease;max-width:170px}
 .rot-area small{display:block;font-weight:500;font-size:12.5px;color:#e6e3da}
 .rot-area.on{opacity:1}
+/* ---- etapa 09: lo que el plan de seguimiento no mide, anclado donde ocurre ---- */
+.rot-emi{position:fixed;left:0;top:0;z-index:2;margin:0;pointer-events:none;
+  font-family:var(--cart);font-size:14px;font-weight:600;color:#fff;line-height:1.25;background:rgba(15,17,21,.86);
+  border-left:3px solid var(--acc);padding:5px 9px 6px;border-radius:2px;max-width:200px;opacity:0;
+  transition:opacity .5s ease;box-shadow:0 4px 14px rgba(0,0,0,.35)}
+.rot-emi.izq{border-left:0;border-right:3px solid var(--acc);text-align:right}
+.rot-emi small{display:block;font-weight:500;font-size:12.5px;color:#dad8d0}
+/* la línea une el rótulo con el punto exacto donde ocurre */
+.rot-emi-l{position:fixed;left:0;top:0;z-index:1;height:1px;background:rgba(255,255,255,.7);transform-origin:0 50%;
+  pointer-events:none;opacity:0;transition:opacity .5s ease}
+.rot-emi-p{position:fixed;left:0;top:0;z-index:3;width:7px;height:7px;margin:-3.5px 0 0 -3.5px;border-radius:50%;
+  background:#fff;box-shadow:0 0 0 2px rgba(15,17,21,.6);pointer-events:none;opacity:0;transition:opacity .5s ease}
+.rot-emi.on,.rot-emi-l.on,.rot-emi-p.on{opacity:1}
 /* ---- rótulo de la huella ---- */
 .rot-huella{position:fixed;left:0;top:0;z-index:3;margin:0;pointer-events:none;transform:translate(-50%,-100%);
   font-family:var(--cart);font-size:15px;font-weight:600;color:#fff;background:rgba(156,31,40,.92);padding:6px 11px;
@@ -190,6 +203,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .rot-huella{font-size:13.5px;padding:5px 9px}
   .areas li{font-size:14.5px}
   .rot-area{font-size:12px;max-width:120px} .rot-area small{font-size:12px}
+  .rot-emi{font-size:12.5px;max-width:124px;padding:4px 7px 5px} .rot-emi small{font-size:12px}
   /* la portada cabe en la pantalla visible, con aire al pie para la indicación de bajar */
   .etapa.portada{min-height:100vh;min-height:100svh;padding-bottom:84px}
   .portada .tarj{padding:16px 16px 14px}
@@ -343,16 +357,21 @@ body.bajo .pista{opacity:0;pointer-events:none}
   </div>
 </section>
 
-<section class="etapa" id="e-admite" data-titulo="Lo que admite" data-cam='{"th":2.2,"ph":0.52,"rad":0.74}' data-anio="25" data-capas="barrios">
+<section class="etapa" id="e-admite" data-titulo="Lo que admite" data-cam='{"th":2.2,"ph":0.62,"rad":0.42}' data-cam-m='{"th":2.2,"ph":0.6,"rad":0.8,"dz":-0.06,"dx":-0.03}' data-anio="25" data-capas="barrios" data-emis="1">
   <div class="tarj">
     <p class="et"><span class="nro">09</span>Lo que el estudio admite</p>
     <div class="cifra"><span data-cuenta="1">1</span><small>de 23</small></div>
     <h2>impactos significativos</h2>
     <p>De veintitrés causales que la ley obliga a revisar, el estudio reconoce una sola: la pérdida de
     ejemplares de tres especies de flora. Por eso su plan de seguimiento mide solo eso. Nada de aire,
-    olor, agua ni biogás durante 25 años de operación y 20 de post-cierre.</p>
+    olor, agua ni biogás durante 25 años de operación y 20 de post-cierre. Alrededor del relleno, lo que ese
+    plan no mide.</p>
     <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> ·
-    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a></p>
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a> ·
+    rótulos: <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=104" target="_blank" rel="noopener">Capítulo 1</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_38_Ruido_y_Vibraciones.rar" target="_blank" rel="noopener">Capítulo 3.8</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4.1</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/RESUMEN_EJECUTIVO.pdf#page=23" target="_blank" rel="noopener">Resumen Ejecutivo</a></p>
   </div>
 </section>
 
@@ -476,6 +495,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     VISOR.troncal(on.indexOf('troncal')>=0);
     [].forEach.call(e.querySelectorAll('[data-cuenta]'),contar);
     if(MEJOR.areas) MEJOR.areas(!!e.getAttribute('data-areas'));
+    if(MEJOR.emisVer) MEJOR.emisVer(!!e.getAttribute('data-emis'));
     if(esLibre(i)) entrarLibre();
   }
 
@@ -489,6 +509,72 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     document.getElementById('r-ton').textContent=t.toFixed(1).replace('.',',');
     document.getElementById('r-esp').textContent=Math.round(h);
     ma.style.height=Math.min(100,h/HMAX*100)+'%'; mab.textContent=h?Math.round(h)+' m':'';
+  }
+
+  /* --- rótulos anclados al terreno: fuera de la tarjeta y de los bordes; si chocan, bajan lo justo --- */
+  function colocar(lista,i){
+    var I3=VISOR.internos(), r3=I3.ren.domElement.getBoundingClientRect();
+    var tj=etapas[i].querySelector('.tarj').getBoundingClientRect(), puestos=[];
+    function ok(x,yv){ return x>60&&x<r3.width-60&&yv>50&&yv<r3.height-50&&
+      !(x>tj.left-70&&x<tj.right+70&&yv>tj.top-24&&yv<tj.bottom+24) }
+    lista.forEach(function(R){
+      var on=false, x, yv;
+      [R.p,R.p2].filter(Boolean).some(function(P){ var v=P.clone().project(I3.cam);
+        x=(v.x*.5+.5)*r3.width+r3.left; yv=(-v.y*.5+.5)*r3.height+r3.top; on=v.z<1&&ok(x,yv); return on });
+      /* si choca con un rótulo ya puesto, baja lo justo */
+      if(on){ var w=R.el.offsetWidth||140, h=(R.el.offsetHeight||34)+6;
+        for(var t=0;t<4;t++){ var c=puestos.filter(function(q){ return Math.abs(q[0]-x)<(q[2]+w)/2&&Math.abs(q[1]-yv)<h })[0];
+          if(!c) break; yv=c[1]+h }
+        puestos.push([x,yv,w]); }
+      R.el.style.left=(x||0).toFixed(0)+'px'; R.el.style.top=(yv||0).toFixed(0)+'px';
+      R.el.classList.toggle('on',on) });
+  }
+
+  /* --- rótulos en anillo alrededor del relleno, cada uno con una línea a su punto: los puntos reales
+     están a pocos cientos de metros entre sí y en pantalla se encimarían. Se prueban todas las formas de
+     asignar rótulos a los puestos del anillo y se queda la de líneas más cortas, que no se cruzan; solo se
+     cambia si la nueva es claramente mejor, para que los rótulos no salten mientras la cámara viaja. --- */
+  var perms=null, asign=null;
+  function permutar(n){ var r=[]; (function p(a,k){ if(k===n){ r.push(a.slice()); return }
+    for(var i=k;i<n;i++){ var t=a[k]; a[k]=a[i]; a[i]=t; p(a,k+1); t=a[k]; a[k]=a[i]; a[i]=t } })(
+    Array.apply(null,{length:n}).map(function(_,i){ return i }),0); return r }
+  function anillo(lista,i){
+    var I3=VISOR.internos(), r3=I3.ren.domElement.getBoundingClientRect();
+    var tj=etapas[i].querySelector('.tarj').getBoundingClientRect(), n=lista.length, PI2=Math.PI*2;
+    if(!perms) perms=permutar(n);
+    var pts=lista.map(function(R){ var v=R.p.clone().project(I3.cam);
+      return {R:R, x:(v.x*.5+.5)*r3.width+r3.left, y:(-v.y*.5+.5)*r3.height+r3.top, z:v.z} });
+    var cx=0, cy=0; pts.forEach(function(a){ cx+=a.x/n; cy+=a.y/n });
+    var lejos=0; pts.forEach(function(a){ lejos=Math.max(lejos,Math.hypot(a.x-cx,(a.y-cy)/.7)) });
+    var chico=r3.width<640, rx=Math.max(chico?95:150,lejos+(chico?45:95)), ry=rx*(chico?.62:.7);
+    var puestos=[], arriba=r3.top+60, abajo=Math.min(r3.bottom,tj.top)-10;
+    if(chico&&tj.top>r3.top+200){
+      /* celular, con la tarjeta abajo: dos columnas a los costados, en toda la franja libre */
+      var filas=Math.ceil(n/2);
+      for(var k=0;k<n;k++){ var col=k<filas?'izq':'der', f=k%filas;
+        puestos.push({col:col, x:0, y:arriba+(f+.5)*(abajo-arriba)/filas, der:col==='der'}) }
+      puestos.forEach(function(q){ q.x=q.col==='izq'?r3.left+70:r3.right-70 });
+    }
+    else for(var k=0;k<n;k++){ var ph=-Math.PI/2+(k+.5)*PI2/n;
+      puestos.push({x:cx+Math.cos(ph)*rx, y:cy+Math.sin(ph)*ry, der:Math.cos(ph)>=0}) }
+    function costo(P){ var c=0; for(var j=0;j<n;j++) c+=Math.hypot(puestos[P[j]].x-pts[j].x,puestos[P[j]].y-pts[j].y); return c }
+    var mejor=null, cm=1e12;
+    perms.forEach(function(P){ var c=costo(P); if(c<cm){ cm=c; mejor=P } });
+    if(!asign||costo(asign)>cm*1.08) asign=mejor;
+    pts.forEach(function(a,j){
+      var R=a.R, q=puestos[asign[j]], w=R.el.offsetWidth, h=R.el.offsetHeight;
+      R.el.classList.toggle('izq',!q.der);
+      var bx=q.col==='izq'?r3.left+8:q.col==='der'?r3.right-w-8:q.der?q.x:q.x-w, ly=q.y;
+      /* arriba queda libre la franja del botón «Análisis completo» */
+      bx=Math.max(r3.left+8,Math.min(r3.right-w-8,bx)); ly=Math.max(r3.top+h/2+60,Math.min(r3.bottom-h/2-8,ly));
+      var on=a.z<1&&!(bx<tj.right+8&&bx+w>tj.left-8&&ly+h/2>tj.top-8&&ly-h/2<tj.bottom+8);
+      R.el.style.left=bx.toFixed(0)+'px'; R.el.style.top=(ly-h/2).toFixed(0)+'px';
+      var ex=q.der?bx:bx+w, dx=ex-a.x, dy=ly-a.y;
+      R.ln.style.left=a.x.toFixed(1)+'px'; R.ln.style.top=a.y.toFixed(1)+'px';
+      R.ln.style.width=Math.hypot(dx,dy).toFixed(1)+'px'; R.ln.style.transform='rotate('+Math.atan2(dy,dx).toFixed(4)+'rad)';
+      R.pt.style.left=a.x.toFixed(1)+'px'; R.pt.style.top=a.y.toFixed(1)+'px';
+      [R.el,R.ln,R.pt].forEach(function(x){ x.classList.toggle('on',on) });
+    });
   }
 
   /* --- el motor: la posición del scroll decide la cámara, interpolada entre etapas --- */
@@ -515,23 +601,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       if(etapas[i].getAttribute('data-deriva')&&!RM){ cam=Object.assign({},cam); cam.th+=Math.sin(performance.now()/9000)*0.18 }
       VISOR.poner(cam);
     }
-    if(MEJOR.rotulos&&etapas[i].getAttribute('data-areas')){
-      var I3=VISOR.internos(), r3=I3.ren.domElement.getBoundingClientRect();
-      var tj=etapas[i].querySelector('.tarj').getBoundingClientRect(), puestos=[];
-      function ok(x,yv){ return x>60&&x<r3.width-60&&yv>50&&yv<r3.height-50&&
-        !(x>tj.left-70&&x<tj.right+70&&yv>tj.top-24&&yv<tj.bottom+24) }
-      MEJOR.rotulos.forEach(function(R){
-        var on=false, x, yv;
-        [R.p,R.p2].some(function(P){ var v=P.clone().project(I3.cam);
-          x=(v.x*.5+.5)*r3.width+r3.left; yv=(-v.y*.5+.5)*r3.height+r3.top; on=v.z<1&&ok(x,yv); return on });
-        /* si choca con un rótulo ya puesto, baja lo justo */
-        if(on){ var w=R.el.offsetWidth||140, h=(R.el.offsetHeight||34)+6;
-          for(var t=0;t<4;t++){ var c=puestos.filter(function(q){ return Math.abs(q[0]-x)<(q[2]+w)/2&&Math.abs(q[1]-yv)<h })[0];
-            if(!c) break; yv=c[1]+h }
-          puestos.push([x,yv,w]); }
-        R.el.style.left=(x||0).toFixed(0)+'px'; R.el.style.top=(yv||0).toFixed(0)+'px';
-        R.el.classList.toggle('on',on) });
-    }
+    if(MEJOR.rotulos&&etapas[i].getAttribute('data-areas')) colocar(MEJOR.rotulos,i);
+    if(MEJOR.emis&&etapas[i].getAttribute('data-emis')) anillo(MEJOR.emis,i);
     var rh=document.getElementById('rot-huella');
     if(MEJOR.centro&&i<=1){
       var I2=VISOR.internos(), v=MEJOR.centro.clone().project(I2.cam), cvr=I2.ren.domElement.getBoundingClientRect();
@@ -803,6 +874,25 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
                           p2:new T.Vector3(cx,(hAt(cx/S+.5,-cz/S+.5)+30)*k,cz)});
     });
     MEJOR.areas=function(on){ grupoAreas.visible=on; if(!on) MEJOR.rotulos.forEach(function(r){ r.el.classList.remove('on') }) };
+    /* ---------- etapa 09: lo que el plan de seguimiento no mide, en el lugar donde ocurre ----------
+       Cifras del titular: Cap. 1 pp. 104, 116-117 y 166-167 · Cap. 3.8 p. 70 · Anexo 4.1 (planilla del año 25)
+       · Resumen Ejecutivo p. 23. Anclas: polígonos del proyecto y el pozo P-5 de la Tabla 49 del Cap. 1. */
+    var EMIS=[
+      ['Gases del biogás','metano y ácido sulfhídrico',-71.48431,-33.08096,350],
+      ['Olores','evaluados con una norma de Lombardía, Italia',-71.48897,-33.07808],
+      ['Lixiviados','hasta 724 m³ en un día de lluvia',-71.48433,-33.07721],
+      ['Agua subterránea','5 pozos sin umbrales',-71.47994,-33.08256],
+      ['Ruido','significativo para reptiles y aves, según su estudio',-71.48655,-33.08223],
+      ['Camiones','294 al día en el año 25',-71.48706,-33.07692]];
+    MEJOR.emis=EMIS.map(function(E){
+      var u=uv(E[2],E[3]), x=wx(u[0]), z=wz(u[1]), y=Math.max(hAt(u[0],u[1]),E[4]||0);
+      var el=document.createElement('p'); el.className='rot-emi'; el.innerHTML=E[0]+'<small>'+E[1]+'</small>';
+      var ln=document.createElement('i'); ln.className='rot-emi-l';
+      var pt=document.createElement('i'); pt.className='rot-emi-p';
+      [el,ln,pt].forEach(function(x){ x.setAttribute('aria-hidden','true'); document.body.appendChild(x) });
+      return {el:el,ln:ln,pt:pt,p:new T.Vector3(x,(y+8)*K(),z)};
+    });
+    MEJOR.emisVer=function(on){ if(!on) MEJOR.emis.forEach(function(r){ [r.el,r.ln,r.pt].forEach(function(x){ x.classList.remove('on') }) }) };
     MEJOR.listo=true;
   }
 
