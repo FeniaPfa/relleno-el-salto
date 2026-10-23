@@ -23,7 +23,7 @@ propios documentos del titular. Cuidar eso vale más que cualquier cifra adicion
 python3 build.py        # src/ → index.html (valida sintaxis con node si está)
 ```
 
-`index.html`, `observaciones.html`, `relato.html` y `tramite.html` son **generados** (y `que-puede-pasar.html`, que solo redirige a `tramite.html`: fue el nombre anterior): no los edites a mano, se
+`index.html`, `observaciones.html`, `especies.html`, `relato.html` y `tramite.html` son **generados** (y `que-puede-pasar.html`, que solo redirige a `tramite.html`: fue el nombre anterior): no los edites a mano, se
 sobreescriben. Edita `src/`.
 
 La segunda página —el recorrido del expediente y sus desenlaces— sale de `src/plazos.html`.
@@ -42,6 +42,7 @@ páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 | `src/social.html` | etiquetas Open Graph, Twitter y JSON-LD; `{url}` lo reemplaza build.py |
 | `src/social-img.html` | plantilla de `social.jpg` (1200×630). Se renderiza con Chrome headless, ver abajo |
 | `src/plazos.html` | la vista «Qué puede pasar»: mapa del procedimiento y sus desenlaces |
+| `src/especies.html` | las especies afectadas, una tarjeta `.esp` por especie con foto en `especies/`. `build.py` falla si una foto no existe o si hay menos créditos (`.cred`) que fotos |
 | `src/observaciones.html` | las observaciones fundadas: cita textual, documento y página PDF, contradicción y pedido; se eligen y se arma un solo texto. Cada `.pide` de la principal enlaza a su `#obs-…` y `build.py` falla si el ancla no existe |
 
 **`observaciones.html`, reglas que salieron del comité UX** (público: vecinos con poca experiencia
@@ -314,3 +315,12 @@ extraer. Están señalizadas en el texto como `===== p.N · sin texto =====`, y
 [`expediente/PENDIENTE-OCR.md`](expediente/PENDIENTE-OCR.md) lista cuáles son, cuáles
 importan y cómo lanzarlo. Lo que más pesa ahí es `ORD_2132_SAG`, un pronunciamiento con
 observaciones que está entero en imagen.
+
+## Fotos de especies (`especies/`)
+
+Solo fotos con licencia **CC0, dominio público, CC BY o CC BY-SA**, verificada en la fuente de cada
+foto, no en la de la especie: en Commons, `extmetadata` de la API; en iNaturalist,
+`api.inaturalist.org/v1/observations/<id>` y el `license_code` de *esa* foto (una misma observación
+mezcla licencias, y muchas son NC o «todos los derechos»). El crédito va en el `figcaption.cred` con
+autor y licencia enlazados. Se convierten a WebP de ~900 px de ancho (`cwebp -q 58 -resize 900 0`)
+con `width` y `height` reales en el `<img>`, que va con `loading="lazy"`.

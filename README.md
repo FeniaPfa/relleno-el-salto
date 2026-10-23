@@ -19,15 +19,16 @@ sitio que el servicio puede cambiar o retirar.
 |---|---|
 | [`index.html`](https://feniapfa.github.io/seia-data/) | el análisis: cifras, mapas, dos visores 3D, preguntas frecuentes y observaciones modelo para ingresar en el SEA |
 | [`observaciones.html`](https://feniapfa.github.io/seia-data/observaciones.html) | veintiuna observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
+| [`especies.html`](https://feniapfa.github.io/seia-data/especies.html) | las trece especies que el expediente registra en el área, con foto de licencia libre, categoría, lo que el proyecto les hace y lo que el estudio no resuelve |
 | [`relato.html`](https://feniapfa.github.io/seia-data/relato.html) | el recorrido en 3D con scroll: la quebrada que se llena, el viento, el agua y la vista desde cada población |
 | [`tramite.html`](https://feniapfa.github.io/seia-data/tramite.html) | el recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300 y lo que obliga cada desenlace |
 
-Las cuatro son **generadas**: no se editan a mano.
+Las cinco son **generadas**: no se editan a mano.
 
 ## Construir
 
 ```bash
-python3 build.py        # src/ → index.html, observaciones.html, relato.html, tramite.html, sitemap.xml
+python3 build.py        # src/ → index.html, observaciones.html, especies.html, relato.html, tramite.html, sitemap.xml
 ```
 
 Sin dependencias ni sistema de build. Three.js y las fuentes van en el repo: la página no se
@@ -79,6 +80,7 @@ src/                  las fuentes de las páginas (ver CLAUDE.md)
   datos.json          los datos que se incrustan en la página
   plazos.html         la página «Qué puede pasar»
   observaciones.html  las observaciones fundadas, listas para copiar
+  especies.html       las especies afectadas, con foto (las fotos en especies/)
   social.html         Open Graph y datos estructurados
   social-img.html     plantilla de social.jpg
 build.py              arma las dos páginas, el JSON-LD y el sitemap
