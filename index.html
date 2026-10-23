@@ -853,7 +853,21 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .fwrap{position:relative;line-height:0;background:#0d1014}
 .fwrap img{display:block;width:100%;height:auto}
 .fwrap svg{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
-.fbtns{display:flex;flex-wrap:wrap;gap:10px;padding:12px 16px;border-top:1px solid var(--line)}
+.foto{display:flex;flex-direction:column}
+.fbtns{order:-1;display:flex;gap:0;padding:12px 16px;border-bottom:1px solid var(--line)}
+.fbtns .tg{flex:1 1 0;border-radius:0;justify-content:center;text-align:center}
+.fbtns .tg+.tg{margin-left:-1px}
+.fbtns .tg:first-child{border-radius:2px 0 0 2px} .fbtns .tg:last-child{border-radius:0 2px 2px 0}
+.fdet{display:grid;grid-template-columns:44px 1fr 44px;align-items:center;gap:6px;padding:10px 8px;
+  border-top:1px solid var(--line);background:var(--surf2)}
+.fdet[hidden]{display:none}
+.fdet button{min-height:44px;min-width:44px;font-size:22px;line-height:1;background:transparent;color:var(--ink);
+  border:1px solid var(--lctl);border-radius:2px;cursor:pointer}
+.fdtx{font-family:var(--txt);font-size:15.5px;line-height:1.5;color:var(--ink2)}
+.fdtx b{color:var(--ink);font-weight:600}
+.fdtx .fn{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;
+  background:#ff7a45;color:#0d1014;font-family:var(--cifra);font-weight:600;font-size:15px;margin-right:8px;vertical-align:1px}
+.fdtx .fcu{display:block;font-family:var(--cart);font-size:13px;color:var(--ink3);margin-top:4px}
 .foto figcaption{padding:4px 16px 16px;display:grid;gap:7px}
 .foto .cit{font-family:var(--doc);font-size:17px;line-height:1.56;color:var(--ink);
   font-style:italic;max-width:62ch}
@@ -861,6 +875,8 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .foto .fte{font-family:var(--cart);font-size:13.5px;color:var(--ink3);letter-spacing:.01em}
 .faltan{display:grid;gap:12px;margin-top:24px}
 @media(min-width:720px){.faltan{grid-template-columns:1fr 1fr}}
+/* en celular la ficha bajo la foto ya recorre los seis puntos: la lista repetida se omite */
+@media(max-width:719px){.faltan{display:none}}
 .falta{border-left:3px solid var(--acc);padding:12px 0 12px 15px}
 .falta .ft{font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
 .falta .fn{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;
@@ -1879,9 +1895,9 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
         alt="Fotomontaje del titular: vista del relleno desde el sector Pompeya Sur, a unos 2 km. El macizo corona el cerro al fondo, tras las casas y el cerco del primer plano.">
       <svg id="fsvg" viewBox="0 0 1342 753" preserveAspectRatio="none" aria-hidden="true"></svg>
     </div>
-    <div class="fbtns">
-      <button class="tg" id="f-no" aria-pressed="true">Lo que no muestra</button>
-      <button class="tg" id="f-lo" aria-pressed="false">Lo que muestra, según el titular</button>
+    <div class="fbtns" role="group" aria-label="Qué ver sobre la foto">
+      <button class="tg" id="f-no" aria-pressed="true">Lo que omite</button>
+      <button class="tg" id="f-lo" aria-pressed="false">Lo que muestra el titular</button>
     </div>
     <figcaption>
       <span class="cit">«El fotomontaje muestra el escenario durante la <b>etapa de cierro</b> <i>[sic]</i> con
@@ -3566,7 +3582,15 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   gNo.appendChild(t(726,374,'antorcha de biogás','#ffd9c7','middle',15));
   gNo.appendChild(linea(1246,372,1246,440,'#ff7a45',2));
   gNo.appendChild(t(1246,462,'de 182 a unos 400 camiones al día','#ffd9c7','middle',15));
-  /* marcadores numerados: los mismos números de la lista de abajo, legibles también en celular */
+  var F=[
+    ['Los 25 años de operación','El fotomontaje es del <b>escenario de cierre</b>. No existe en el expediente una imagen de la etapa en que el relleno funciona.'],
+    ['El frente de trabajo','El Capítulo 1 lo fija en <b>20 metros de ancho máximo</b>: basura descubierta recibiendo camiones durante toda la jornada.'],
+    ['Las piscinas de lixiviados','La zona de tratamiento ocupa <b>3,48 hectáreas</b> en la cartografía del titular, con sus piscinas y bandejas de evaporación. Son las fuentes de olor que el Anexo 4.4 modela con mayor emisión.'],
+    ['El tránsito','Su estudio vial modela <b>182 camiones al día</b>; para traer la basura del año 25 con la carga que el propio titular declara harían falta <b>unos 400</b>, subiendo ese mismo camino.'],
+    ['Un solo punto de vista','P.O.3, Pompeya Sur. Las otras quince poblaciones con línea de vista al macizo no tienen fotomontaje.'],
+    ['La antorcha','El Capítulo 1 contempla <b>tratamiento de biogás</b>; en la imagen de cierre no aparece ninguna instalación.']
+  ];
+  /* marcadores numerados: se tocan, y su explicación aparece justo bajo la foto */
   var gNum=el('g',{});
   gNo.appendChild(gNum);
   var MARCAS=[[1,560,283],[2,660,283],[3,500,322],[4,1246,396],[5,60,690],[6,726,316]];
@@ -3580,13 +3604,34 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     Array.prototype.forEach.call(gNo.querySelectorAll('text:not([data-fijo]),line'),function(e){
       e.style.display=ang?'none':''; });
     M.forEach(function(m){
-      gNum.appendChild(el('circle',{cx:m[1],cy:m[2],r:r,fill:'#ff7a45',stroke:'#0d1014','stroke-width':Math.max(2,1.5*k)}));
+      var g=el('g',{});
+      g.style.pointerEvents='all'; g.style.cursor='pointer';
+      g.addEventListener('click',function(){ ver(m[0]-1) });
+      gNum.appendChild(g);
+      g.appendChild(el('circle',{cx:m[1],cy:m[2],r:r*1.9,fill:'#000','fill-opacity':0}));
+      var elegido=m[0]-1===sel;
+      g.appendChild(el('circle',{cx:m[1],cy:m[2],r:r,fill:elegido?'#fbf7ec':'#ff7a45',stroke:elegido?'#ff7a45':'#0d1014',
+        'stroke-width':elegido?Math.max(3,2.4*k):Math.max(2,1.5*k)}));
       var n=el('text',{x:m[1],y:m[2]+r*.36,'font-family':'var(--cifra)','font-size':r*1.05,'font-weight':600,
         fill:'#0d1014','text-anchor':'middle'});
-      n.textContent=m[0]; n.setAttribute('data-fijo','1'); gNum.appendChild(n);
+      n.textContent=m[0]; n.setAttribute('data-fijo','1'); g.appendChild(n);
     });
   }
-  numeros();
+  /* ficha bajo la foto: el número elegido, su título y su explicación; ‹ › recorren los seis */
+  var sel=0, fdet=document.createElement('div'); fdet.className='fdet';
+  fdet.innerHTML='<button type="button" aria-label="Anterior">‹</button><div class="fdtx" aria-live="polite"></div>'+
+    '<button type="button" aria-label="Siguiente">›</button>';
+  var fw=svg.parentNode; fw.parentNode.insertBefore(fdet,fw.nextSibling);
+  var bts=fdet.querySelectorAll('button');
+  bts[0].addEventListener('click',function(){ ver(sel-1) });
+  bts[1].addEventListener('click',function(){ ver(sel+1) });
+  function ver(i){
+    sel=(i+F.length)%F.length;
+    fdet.querySelector('.fdtx').innerHTML='<span class="fn">'+(sel+1)+'</span><b>'+F[sel][0]+'.</b> '+F[sel][1]+
+      '<span class="fcu">'+(sel+1)+' de '+F.length+' · toca un número en la foto</span>';
+    numeros();
+  }
+  ver(0);
   addEventListener('resize',function(){ clearTimeout(numeros._t); numeros._t=setTimeout(numeros,150) });
   svg.appendChild(gNo);
 
@@ -3597,18 +3642,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     si.setAttribute('aria-pressed',ver); no.setAttribute('aria-pressed',!ver);
     var c=document.getElementById('faltan');
     if(c) c.style.display=ver?'none':'';
+    fdet.hidden=!!ver;
   }
   si.addEventListener('click',function(){modo(true)});
   no.addEventListener('click',function(){modo(false)});
 
-  var F=[
-    ['Los 25 años de operación','El fotomontaje es del <b>escenario de cierre</b>. No existe en el expediente una imagen de la etapa en que el relleno funciona.'],
-    ['El frente de trabajo','El Capítulo 1 lo fija en <b>20 metros de ancho máximo</b>: basura descubierta recibiendo camiones durante toda la jornada.'],
-    ['Las piscinas de lixiviados','La zona de tratamiento ocupa <b>3,48 hectáreas</b> en la cartografía del titular, con sus piscinas y bandejas de evaporación. Son las fuentes de olor que el Anexo 4.4 modela con mayor emisión.'],
-    ['El tránsito','Su estudio vial modela <b>182 camiones al día</b>; para traer la basura del año 25 con la carga que el propio titular declara harían falta <b>unos 400</b>, subiendo ese mismo camino.'],
-    ['Un solo punto de vista','P.O.3, Pompeya Sur. Las otras quince poblaciones con línea de vista al macizo no tienen fotomontaje.'],
-    ['La antorcha','El Capítulo 1 contempla <b>tratamiento de biogás</b>; en la imagen de cierre no aparece ninguna instalación.']
-  ];
+
   var c=document.getElementById('faltan');
   if(c){
     F.forEach(function(f){
