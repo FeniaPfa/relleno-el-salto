@@ -1,6 +1,5 @@
-# Este archivo vive en /relleno-el-salto/ y los buscadores solo leen el de la raíz del dominio
-# (feniapfa.github.io/robots.txt). Se deja como declaración de intención: la página se
-# hizo para circular, y se permite a buscadores y a asistentes de IA leerla y citarla.
+# El sitio vive en la raíz de su dominio, así que los buscadores sí leen este archivo.
+# La página se hizo para circular: se permite a buscadores y a asistentes de IA leerla y citarla.
 User-agent: *
 Allow: /
 
@@ -17,4 +16,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://feniapfa.github.io/relleno-el-salto/sitemap.xml
+Sitemap: https://relleno-el-salto.chacao.workers.dev/sitemap.xml
