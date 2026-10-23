@@ -623,7 +623,7 @@ $('#tl-play').addEventListener('click',function(){
 
 /* ---------- controles ---------- */
 var drag=false,lx=0,ly=0;
-var dom=ren.domElement; dom.style.touchAction='pan-y'; dom.style.cursor='grab';
+var dom=ren.domElement; dom.style.touchAction='pan-y pinch-zoom'; dom.style.cursor='grab';
 /* teclado y botones: girar con flechas, acercar con + y − */
 function orbita(q){
   if(q==='izq') th+=0.12; if(q==='der') th-=0.12;

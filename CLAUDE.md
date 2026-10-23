@@ -218,6 +218,23 @@ Los rótulos de los mapas y gráficos SVG se reescalan en pantallas chicas (`esc
 texto baja de 12 px reales, y los que al crecer chocan entre sí o se salen del lienzo se ocultan.
 En escritorio no interviene.
 
+## La principal en celular: decisiones del comité UX (2026-10-23)
+
+- **Un solo destino rojo: armar la observación.** El recuadro del plazo, el bloque tras los hallazgos,
+  el botón principal de «Cómo se ingresa» y la barra fija llevan a `observaciones.html`, no al
+  formulario del SEA: ir al SEA sin texto copiado termina en abandono. El SEA queda como botón
+  secundario, después de armar.
+- **La barra fija `.barra-cta`** tiene un solo botón y aparece solo cuando el recuadro del plazo ya
+  salió de pantalla; se esconde sobre `#observar` y el pie. Su alto real (`--barra-h`, por
+  `ResizeObserver`) reserva el espacio de abajo y el `scroll-padding`, porque con letra grande del
+  sistema llegó a medir 167 px.
+- **El acceso al relato** va después de los hallazgos, con botón de contorno, y su fondo es
+  `relato-cta.webp` (34 KB), no la textura de 605 KB.
+- **Pendientes que el comité dejó** (requieren reestructurar, van en otro PR): cargar Three.js y los
+  dos visores solo al acercarse (hoy el script síncrono retrasa ~10 s todo en 3G); crear el visor del
+  subsuelo con `difiere` y manejar `webglcontextlost`; plegar el desarrollo de cada sección en
+  celular; reencuadrar los mapas SVG a 4:5; póster estático del visor 3D en celular.
+
 ## Rendimiento: el pendiente más importante
 
 Antes del primer cuadro 3D el navegador baja unos **2,1 MB**. En celular con datos móviles eso
