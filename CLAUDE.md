@@ -6,6 +6,11 @@ Viña del Mar. Expediente SEIA **2168892026**. La participación ciudadana cierr
 
 Sitio estático publicado en Cloudflare Workers desde la rama `main`: <https://relleno-el-salto.chacao.workers.dev/>.
 Los PR van a `dev`; la dueña del repo pasa `dev` a `main` a mano, y eso es lo que se publica.
+GitHub Pages publica la rama `dev` en `feniapfa.github.io/relleno-el-salto/` como **copia de prueba**.
+Como las dos copias sirven los mismos archivos, `solo_produccion()` en `build.py` mete en cada página un
+script que, solo en `github.io`, marca la página `noindex,nofollow`; en producción no hace nada. Además, la
+canónica de la copia de prueba ya apunta a producción. No quites ninguna de las dos cosas: la copia de
+prueba ya llegó a estar indexada.
 
 **Cloudflare quita la extensión:** `/especies.html` responde con un 307 a `/especies`. Por eso las URL
 canónicas, `og:url`, el JSON-LD, el sitemap y `llms.txt` usan la forma sin `.html`, que es la final.
