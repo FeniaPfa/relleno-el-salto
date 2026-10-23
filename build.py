@@ -32,6 +32,8 @@ def main():
 
     assert pleno.count('/*__DATOS__*/') == 1
     pleno = pleno.replace('/*__DATOS__*/', leer('datos.json'))
+    assert pleno.count('/*__PESOS__*/') == 1
+    pleno = pleno.replace('/*__PESOS__*/', pesos())
     assert pleno.count('{fecha}') == 1
     pleno = pleno.replace('{fecha}', fecha())
 
@@ -86,6 +88,16 @@ def segunda(h):
     destino = os.path.join(AQUI, 'que-puede-pasar.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('que-puede-pasar.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+
+def pesos():
+    """Peso en MB de cada archivo del expediente, por nombre, desde el manifiesto del archivo:
+    así el «(PDF · 20 MB)» junto a cada enlace no se escribe a mano ni queda desactualizado."""
+    m = json.load(io.open(os.path.join(AQUI, 'expediente', 'manifiesto.json'), encoding='utf-8'))
+    d = {}
+    for x in m:
+        mb = x['bytes'] / 1e6
+        d[x['url'].rsplit('/', 1)[-1]] = round(mb, 1) if mb < 10 else round(mb)
+    return json.dumps(d, separators=(',', ':'))
 
 def fecha_iso():
     try:
