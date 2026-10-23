@@ -993,6 +993,17 @@ body.listo .riel{opacity:1}
 .revision{position:fixed;left:14px;top:12px;z-index:7;font-family:var(--cart);font-size:12.5px;color:#17120a;
   background:#cf9f3e;padding:4px 9px;border-radius:2px}
 
+/* ---- indicación de bajar: fija al pie mientras se está en la portada ---- */
+.pista{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:8;display:flex;flex-direction:column;
+  align-items:center;gap:6px;background:rgba(16,18,22,.82);color:#f1efe8;border:1px solid #5b646e;border-radius:22px;
+  padding:9px 18px 8px;font-family:var(--cart);font-size:14.5px;font-weight:600;cursor:pointer;
+  -webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);opacity:0;transition:opacity .6s ease}
+body.listo .pista{opacity:1}
+body.bajo .pista{opacity:0;pointer-events:none}
+.pista i{display:block;width:12px;height:12px;border-right:2px solid var(--acc);border-bottom:2px solid var(--acc);
+  transform:rotate(45deg);margin-top:-4px;animation:flecha 1.6s ease-in-out infinite}
+@keyframes flecha{0%,100%{transform:translateY(-2px) rotate(45deg);opacity:.5}50%{transform:translateY(4px) rotate(45deg);opacity:1}}
+.pista:focus-visible{outline:2px solid #8fb8d4;outline-offset:3px}
 /* ---- celular: el texto abajo, el terreno arriba ---- */
 @media(max-width:760px){
   .escena::after{background:radial-gradient(120% 80% at 50% 30%,rgba(11,13,16,0) 40%,rgba(11,13,16,.5) 100%),
@@ -1003,6 +1014,11 @@ body.listo .riel{opacity:1}
   .tarj{max-width:none;width:100%;padding:16px 16px 14px}
   .tarj p{font-size:15.5px}
   .portada h1{font-size:40px}
+  /* la portada cabe en la pantalla visible, con aire al pie para la indicación de bajar */
+  .etapa.portada{min-height:100vh;min-height:100svh;padding-bottom:84px}
+  .portada .tarj{padding:16px 16px 14px}
+  .portada .baja{display:none}
+  body:not(.bajo) .atrib-r,body:not(.bajo) .escena .mob{opacity:0}
   .cifra{font-size:46px}
   .contador .n{font-size:26px}
   .llen{grid-template-columns:1fr 74px}
@@ -1014,6 +1030,7 @@ body.listo .riel{opacity:1}
   .atrib-r{right:12px;font-size:11px}
 }
 @media(prefers-reduced-motion:reduce){
+  .pista i{animation:none}
   .tarj,.portada h1 span,.escena,.carga,.riel,.medidor .ma{transition:none!important}
   .baja i,.carga .barra-c i{animation:none}
 }
@@ -1025,6 +1042,7 @@ body.listo .riel{opacity:1}
 <a class="volver" href="./">Análisis completo →</a>
 <p class="atrib-r" aria-label="Créditos de la imagen">Imagen: Esri, Maxar, Earthstar Geographics · Elevación: Mapzen</p>
 <nav class="riel" id="riel" aria-label="Capítulos del relato"></nav>
+<button class="pista" id="pista" type="button">Baja para recorrerlo<i aria-hidden="true"></i></button>
 
 <div class="escena" aria-hidden="true">
 <div class="v3">
@@ -2942,6 +2960,9 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     requestAnimationFrame(function(){ document.body.classList.add('listo') });
   }
   addEventListener('scroll',pedir,{passive:true});
+  var pista=document.getElementById('pista');
+  addEventListener('scroll',function(){ document.body.classList.toggle('bajo',scrollY>60) },{passive:true});
+  pista.addEventListener('click',function(){ var e=etapas[1]; window.scrollTo({top:e.getBoundingClientRect().top+scrollY,behavior:RM?'auto':'smooth'}) });
   addEventListener('resize',function(){ encuadre(); leerCams(); medir(); pedir() });
   if(window.VISOR&&VISOR.listo) inicio(); else addEventListener('visor-listo',inicio);
   /* si el visor no carga, el relato igual se lee */
