@@ -80,16 +80,24 @@ def fuentes(h):
     return h[i:j]
 
 def segunda(h):
-    """que-puede-pasar.html: el recorrido del expediente y sus desenlaces.
+    """tramite.html (antes que-puede-pasar.html): el recorrido del expediente, quién decide y sus desenlaces.
     Es estática — no usa datos.json ni los visores 3D — así que sólo hereda los tokens."""
     pg = leer('plazos.html')
     assert pg.count('/*__TOKENS__*/') == 1, 'marcador de tokens ausente en plazos.html'
     pg = pg.replace('/*__TOKENS__*/', tokens(h)).replace('{fecha_iso}', fecha_iso())
     assert pg.count('<!--__FUENTES__-->') == 1, 'marcador de fuentes ausente en plazos.html'
     pg = pg.replace('<!--__FUENTES__-->', fuentes(h))
-    destino = os.path.join(AQUI, 'que-puede-pasar.html')
+    destino = os.path.join(AQUI, 'tramite.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
-    print('que-puede-pasar.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+    print('tramite.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+    # la dirección anterior ya circuló por WhatsApp y en buscadores: redirige, conservando el ancla
+    nueva = URL + 'tramite.html'
+    io.open(os.path.join(AQUI, 'que-puede-pasar.html'), 'w', encoding='utf-8').write(
+        '<!doctype html>\n<html lang="es-CL">\n<meta charset="utf-8">\n<title>El trámite del relleno de El Salto</title>\n'
+        '<meta name="viewport" content="width=device-width,initial-scale=1">\n<meta name="robots" content="noindex">\n'
+        '<link rel="canonical" href="%s">\n<meta http-equiv="refresh" content="0; url=tramite.html">\n'
+        '<script>location.replace("tramite.html"+location.search+location.hash)</script>\n'
+        '<p>Esta página ahora está en <a href="tramite.html">%s</a>.</p>\n' % (nueva, nueva))
 
 def observaciones(h):
     """observaciones.html: las observaciones fundadas, con cita y página, listas para copiar.
@@ -214,7 +222,7 @@ def relato(h, visor_js):
 
 def sitemap():
     f = fecha_iso()
-    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones.html', 'relato.html', 'que-puede-pasar.html'))
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones.html', 'relato.html', 'tramite.html'))
     io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 

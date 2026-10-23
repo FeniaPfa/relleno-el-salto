@@ -23,7 +23,7 @@ propios documentos del titular. Cuidar eso vale más que cualquier cifra adicion
 python3 build.py        # src/ → index.html (valida sintaxis con node si está)
 ```
 
-`index.html`, `observaciones.html`, `relato.html` y `que-puede-pasar.html` son **generados**: no los edites a mano, se
+`index.html`, `observaciones.html`, `relato.html` y `tramite.html` son **generados** (y `que-puede-pasar.html`, que solo redirige a `tramite.html`: fue el nombre anterior): no los edites a mano, se
 sobreescriben. Edita `src/`.
 
 La segunda página —el recorrido del expediente y sus desenlaces— sale de `src/plazos.html`.

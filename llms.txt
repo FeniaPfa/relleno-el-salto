@@ -18,7 +18,7 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
   expediente, y la pregunta que el titular debe responder en la Adenda.
 - [El recorrido en 3D](https://feniapfa.github.io/seia-data/relato.html): la historia contada
   sobre el terreno, con la vista desde cada población.
-- [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/que-puede-pasar.html): el
+- [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/tramite.html): el
   recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300.
 - [Ficha oficial del expediente](https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026)
 - [Formulario de participación ciudadana](https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026)
