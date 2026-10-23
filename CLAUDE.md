@@ -49,6 +49,12 @@ anual del Capítulo 1. **No está conectado al build**: escribe `data/proyeccion
 valores se copiaron a mano a las claves `proy` y `vial` de `src/datos.json`. Si lo vuelves a
 correr, propaga el resultado a esas dos claves o la página seguirá mostrando lo anterior.
 
+Los camiones **no se suponen**: salen de la flota que declara el titular en el Anexo 4.1 (carga por
+camión de la Tabla 13 y viajes por año de su calculadora «Anexo D», escritos en `proyecciones.py`).
+Ese script necesita la cartografía de `data/cartografia/`, que no está en el repo; el bloque de
+camiones se puede correr solo. Las planillas `.xlsx` de los anexos **no están en `expediente/texto/`**:
+para leerlas hay que bajar el `.rar` del SEIA (las URL están en `expediente/manifiesto.json`).
+
 `reordenar.py` cambia el orden de las secciones y renumera en una pasada:
 
 ```bash

@@ -601,7 +601,7 @@ function aplicarAnio(y){
   $('#tl-yr').textContent=y===0?'Antes de operar':'Año '+y;
   $('#tl').setAttribute('aria-valuetext',y===0?'Antes de operar':'Año '+y+' de 25');
   var ton=y?P3.acumulado_t[y-1]:0, esp=y?P3.altura_m[y-1]:0,
-      ch4=y?P3.ch4_m3_anio[y-1]:0, cm=y?Math.round(P3.masa_anual_t[y-1]/3650)*2:0;
+      ch4=y?P3.ch4_m3_anio[y-1]:0, cm=y&&D.vial&&D.vial.flota?D.vial.flota.necesarios_dia[y-1]:0;
   $('#k-ton').textContent=ton?(ton/1e6).toFixed(1).replace('.',',')+' M t':'—';
   $('#k-esp').textContent=esp?esp.toFixed(1).replace('.',',')+' m':'—';
   $('#k-ch4').textContent=ch4?(ch4/1e6).toFixed(0)+' M m³':'—';
