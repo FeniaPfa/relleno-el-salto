@@ -18,10 +18,19 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
   expediente, y la pregunta que el titular debe responder en la Adenda.
 - [El recorrido en 3D](https://feniapfa.github.io/seia-data/relato.html): la historia contada
   sobre el terreno, con la vista desde cada población.
-- [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/que-puede-pasar.html): el
+- [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/tramite.html): el
   recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300.
 - [Ficha oficial del expediente](https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026)
 - [Formulario de participación ciudadana](https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026)
+
+## Quién decide, y quién puede reclamar (Ley 19.300 y Ley 20.600)
+
+- Vota la aprobación la Comisión de Evaluación de la Región de Valparaíso: diez secretarios regionales
+  ministeriales, presidida por el delegado presidencial regional (la ley aún dice «Intendente»; así lo resolvió
+  un dictamen de la Contraloría), con base en el Informe Consolidado de Evaluación del SEA (arts. 86 y 9 bis).
+- Solo quien presentó observaciones en la participación ciudadana puede reclamar si no fueron debidamente
+  consideradas: primero ante el Comité de Ministros, luego ante el Segundo Tribunal Ambiental, con asiento en
+  Santiago (Ley 19.300, arts. 20 y 29; Ley 20.600, arts. 5, 17 y 18). El reclamo no suspende la resolución.
 
 ## Hechos, con su fuente en el expediente
 
