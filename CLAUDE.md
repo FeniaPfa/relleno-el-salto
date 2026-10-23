@@ -73,7 +73,7 @@ para leerlas hay que bajar el `.rar` del SEIA (las URL están en `expediente/man
 python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia vial pluma influencia proyecciones paisaje cuenca pronunciamientos
 ```
 
-`lee.py` extrae texto de un PDF con PyMuPDF.
+`lee.py` extrae texto de un PDF con PyMuPDF. `verifica_citas.py` coteja las citas del sitio con el expediente (ver «Revisión de fuentes antes de publicar»).
 
 ## Restricciones y trampas conocidas
 
@@ -308,6 +308,32 @@ larga como Vulnerable citando el Reglamento de la Ley de Caza (DS 5/1998 MINAGRI
 usan la clasificación oficial del RCE (DS 16/2016 MMA): Preocupación menor. Parecía una contradicción del
 expediente y no lo era. **La categoría de una especie es la del RCE**; antes de llamar «contradicción» a dos
 cifras distintas, mira qué norma cita cada una.
+
+**5. Afirmaciones de ausencia.** «El expediente no menciona X» se cae si X está en un PAS, en el Cap. 1
+o en otro anexo. Pasó con la red seca (PAS 140 y 141), los parámetros de los pozos (PAS 140 de
+compostaje), la secuencia de llenado (Anexo 1.4) y el monitoreo de biogás (Cap. 1). Antes de escribir una
+ausencia, búscala en **todo** `expediente/texto/` y en `expediente/paginas/`, y acótala a lo que de verdad
+falta: casi siempre es «no está en el plan de seguimiento (Cap. 7)», no «no existe».
+
+**6. Años del Anexo 4.1.** Sus tablas cuentan desde la construcción: el año 3 es el primero de operación y
+el 27 el último. Su «año 25» es el 23 de operación. Una comparación con el año 25 de operación tiene que
+usar su año 27.
+
+**7. El viento del modelo.** Los 5,73 m/s del sitio son del modelo WRF, y el mismo Anexo 4.2 (p. 44)
+reconoce que sobreestima el viento observado (2,91 contra 0,61 m/s en Viña del Mar). Escríbelo como
+«modelado», nunca como medido.
+
+**8. Normas: solo la fuente primaria.** Las citas de leyes se verifican contra el XML vigente de LeyChile
+(`obtxml?opt=7&idNorma=…`: Ley 19.300 = 30667, Ley 20.600 = 1041361, D.S. 40/2012 = 1053563,
+D.S. 189/2005 = 268137). Matices que ya se escaparon: la casación es en el fondo **y** en la forma (Ley
+20.600 art. 26); tras una RCA favorable los servicios no pueden negar los permisos **ambientales** (Ley
+19.300 art. 24); el silencio de 15 días solo opera si la Comisión requiere un permiso faltante (art. 15);
+quien responde las observaciones es la autoridad, y el titular solo lo que el SEA le traslade (art. 29).
+
+**Revisión de fuentes antes de publicar.** `python3 verifica_citas.py` coteja cada cita «…» del sitio
+contra el expediente, el documento enlazado y la página citada. En octubre de 2026 un comité de seis
+revisores contrastó además cada cifra y atribución, unas 600 afirmaciones: reportó 133 hallazgos y se
+corrigieron los verificados. Conviene repetirlo antes de cada publicación grande.
 
 **La lección común:** cuando una cifra agregada cuadra, no asumas que la serie que la produce
 cuadra. Verifica los extremos.
