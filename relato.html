@@ -1260,7 +1260,7 @@ body.listo .riel{opacity:1}
   </div>
 </section>
 
-<section class="etapa" id="e-turno" data-titulo="Tu turno" data-cam='{"th":2.7,"ph":0.62,"rad":0.98}' data-anio="25" data-capas="" data-deriva="1">
+<section class="etapa" id="e-turno" data-titulo="Tu turno" data-cam='{"th":-0.45,"ph":0.86,"rad":0.5,"dz":0.05}' data-anio="25" data-capas="barrios pluma arcos" data-deriva="1">
   <div class="tarj">
     <p class="et"><span class="nro">10</span>Tu turno</p>
     <h2>Tienes hasta el 3 de noviembre</h2>
@@ -2503,7 +2503,8 @@ function pasoTour(dt){
 var vuelo=null;
 function pasoVuelo(dt){
   if(!vuelo) return;
-  vuelo.t+=dt;
+  /* tiempo real, no el dt con tope del bucle: en un equipo lento el vuelo dura lo mismo */
+  vuelo.t=(performance.now()-vuelo.t0)/1000;
   var f=Math.min(vuelo.t/vuelo.d,1), e=f<.5?4*f*f*f:1-Math.pow(-2*f+2,3)/2, a=vuelo.a, b=vuelo.b;
   th=a.th+(b.th-a.th)*e; ph=a.ph+(b.ph-a.ph)*e; rad=(a.rad+(b.rad-a.rad)*e)*S;
   var tx=a.tx+(b.tx-a.tx)*e, tz=a.tz+(b.tz-a.tz)*e;
@@ -2534,7 +2535,7 @@ var VISOR=window.VISOR={
     tourOn=false;
     vuelo={a:{th:th,ph:ph,rad:rad/S,tx:target.x,tz:target.z},
            b:{th:th+dth,ph:k.ph,rad:k.rad,tx:cx+(k.dx||0)*S,tz:cz-(k.dz||0)*S},
-           t:0,d:RM?0.001:(seg||2.4)};
+           t:0,t0:performance.now(),d:RM?0.001:(seg||2.4)};
   },
   anio:function(y){ var s=$('#tl'); if(s){ s.value=y } aplicarAnio(+y) },
   capa:function(id,on){ var e=document.getElementById(id);
@@ -2697,7 +2698,13 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     var c=cajas[i], f=Math.max(0,Math.min(1,(y-c.top)/c.h));
     if(i===iLlen){ var g=Math.max(0,Math.min(1,(y-c.top-innerHeight*0.15)/(c.h-innerHeight*0.85))); anio(Math.round(g*25)) }
     else anio(i>iLlen?25:0);
-    if(esLibre(i)){ if(libreCam&&!VISOR.volando()) VISOR.poner(libreCam) }
+    if(esLibre(i)){
+      /* desde la población elegida, en la segunda mitad se viaja a la toma siguiente sin saltos */
+      var tl=f<0.55?0:suave((f-0.55)/0.45), sg=cams[i+1];
+      /* el scroll manda: si la persona ya baja hacia el cierre, se corta el vuelo en curso */
+      if(libreCam&&sg&&tl>0) VISOR.poner(mezcla(libreCam,cerca(sg,libreCam),tl));
+      else if(libreCam&&!VISOR.volando()) VISOR.poner(libreCam);
+    }
     else {
       /* la cámara se queda quieta en la primera mitad de la etapa y viaja a la siguiente en la segunda */
       var a=cams[i], sig=cams[i+1]||(esLibre(i+1)?libreCam:null), t=f<0.55?0:suave((f-0.55)/0.45);

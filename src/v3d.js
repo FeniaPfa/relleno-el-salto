@@ -1091,7 +1091,8 @@ function pasoTour(dt){
 var vuelo=null;
 function pasoVuelo(dt){
   if(!vuelo) return;
-  vuelo.t+=dt;
+  /* tiempo real, no el dt con tope del bucle: en un equipo lento el vuelo dura lo mismo */
+  vuelo.t=(performance.now()-vuelo.t0)/1000;
   var f=Math.min(vuelo.t/vuelo.d,1), e=f<.5?4*f*f*f:1-Math.pow(-2*f+2,3)/2, a=vuelo.a, b=vuelo.b;
   th=a.th+(b.th-a.th)*e; ph=a.ph+(b.ph-a.ph)*e; rad=(a.rad+(b.rad-a.rad)*e)*S;
   var tx=a.tx+(b.tx-a.tx)*e, tz=a.tz+(b.tz-a.tz)*e;
@@ -1122,7 +1123,7 @@ var VISOR=window.VISOR={
     tourOn=false;
     vuelo={a:{th:th,ph:ph,rad:rad/S,tx:target.x,tz:target.z},
            b:{th:th+dth,ph:k.ph,rad:k.rad,tx:cx+(k.dx||0)*S,tz:cz-(k.dz||0)*S},
-           t:0,d:RM?0.001:(seg||2.4)};
+           t:0,t0:performance.now(),d:RM?0.001:(seg||2.4)};
   },
   anio:function(y){ var s=$('#tl'); if(s){ s.value=y } aplicarAnio(+y) },
   capa:function(id,on){ var e=document.getElementById(id);
