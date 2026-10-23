@@ -334,7 +334,15 @@ footer{margin-top:76px;padding-top:30px;border-top:1px solid var(--bistre);
 footer b{color:var(--ink);font-weight:600}
 
 /* ---------- utilidades de accesibilidad ---------- */
-abbr[title]{text-decoration:underline dotted;text-underline-offset:3px;text-decoration-color:var(--lctl);cursor:help}
+abbr[title],abbr[data-def]{text-decoration:underline dotted;text-underline-offset:3px;text-decoration-color:var(--lctl);cursor:help}
+abbr[data-def]{border-radius:2px;outline-offset:2px}
+abbr[data-def]:hover,abbr[data-def][aria-expanded=true]{text-decoration-color:var(--acc);text-decoration-style:solid}
+abbr[data-def]:focus-visible{outline:2px solid var(--blue)}
+/* definición de una palabra del glosario: la abre el cursor, el toque o el teclado */
+.glosa{position:fixed;z-index:40;max-width:min(320px,calc(100vw - 24px));padding:9px 12px;border-radius:3px;
+  background:var(--ink);color:var(--bg);font-family:var(--txt);font-size:14.5px;font-weight:400;font-style:normal;
+  line-height:1.45;letter-spacing:0;text-transform:none;box-shadow:0 4px 16px #0000004d;pointer-events:none}
+.glosa[hidden]{display:none}
 .vh{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;padding:0;margin:-1px}
 .indice{margin:26px 0 0;font-family:var(--cart);font-size:14px;line-height:1.5}
 .indice .il{display:flex;flex-wrap:wrap;gap:6px 14px}
@@ -2009,6 +2017,48 @@ else { document.body.classList.add('cerrado');
     if(n&&a.getAttribute('href')!=='#observar'){ var e=document.createElement('span'); e.className='ni';
       e.textContent=n.textContent.trim(); a.insertBefore(e,a.firstChild); }
   });
+})();
+
+/* ---- glosario: las <abbr title> muestran su definición al pasar, tocar o enfocar ----
+   el title nativo tarda, no se ve en celular y no se alcanza con teclado */
+(function(){
+  var ab=document.querySelectorAll('abbr[title]'); if(!ab.length) return;
+  var g=document.createElement('div'); g.className='glosa'; g.id='glosa'; g.setAttribute('role','tooltip'); g.hidden=true;
+  document.body.appendChild(g);
+  var actual=null, fijo=false;
+  Array.prototype.forEach.call(ab,function(a){
+    a.setAttribute('data-def',a.getAttribute('title')); a.removeAttribute('title');
+    a.tabIndex=0; a.setAttribute('aria-expanded','false');
+  });
+  function abrir(a){
+    if(actual&&actual!==a) actual.setAttribute('aria-expanded','false');
+    actual=a; g.textContent=a.getAttribute('data-def'); g.hidden=false;
+    a.setAttribute('aria-expanded','true'); a.setAttribute('aria-describedby','glosa');
+    ubicar();
+  }
+  function ubicar(){
+    var r=actual.getBoundingClientRect(), w=g.offsetWidth, h=g.offsetHeight,
+        vw=document.documentElement.clientWidth, vh=document.documentElement.clientHeight;
+    if(r.bottom<0||r.top>vh){ cerrar(); return; }
+    var x=Math.max(12,Math.min(r.left+r.width/2-w/2,vw-w-12)), y=r.top-h-8;
+    if(y<8) y=r.bottom+8;
+    g.style.left=x+'px'; g.style.top=y+'px';
+  }
+  function cerrar(){ if(!actual) return; actual.setAttribute('aria-expanded','false'); actual.removeAttribute('aria-describedby');
+    actual=null; fijo=false; g.hidden=true; }
+  document.addEventListener('mouseover',function(e){ var a=e.target.closest&&e.target.closest('abbr[data-def]');
+    if(a&&!fijo) abrir(a); });
+  document.addEventListener('mouseout',function(e){ var a=e.target.closest&&e.target.closest('abbr[data-def]');
+    if(a&&!fijo&&!a.contains(e.relatedTarget)) cerrar(); });
+  document.addEventListener('focusin',function(e){ if(e.target.matches&&e.target.matches('abbr[data-def]')) abrir(e.target); });
+  document.addEventListener('focusout',function(e){ if(e.target===actual) cerrar(); });
+  /* el toque o el clic la deja abierta; otro toque fuera la cierra */
+  document.addEventListener('click',function(e){ var a=e.target.closest&&e.target.closest('abbr[data-def]');
+    if(a){ if(fijo&&actual===a){ cerrar(); return; } abrir(a); fijo=true; } else cerrar(); });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape') cerrar(); });
+  /* acompaña al desplazamiento; se cierra cuando la palabra sale de la pantalla */
+  window.addEventListener('scroll',function(){ if(actual) ubicar(); },{passive:true});
+  window.addEventListener('resize',function(){ if(actual) ubicar(); });
 })();
 
 /* ---- textos modelo: copiar al portapapeles ---- */
