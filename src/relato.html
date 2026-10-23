@@ -190,7 +190,7 @@ body.listo .riel{opacity:1}
   </div>
 </section>
 
-<section class="etapa" id="e-hoy" data-titulo="Hoy" data-cam='{"th":-0.62,"ph":0.8,"rad":0.42}' data-anio="0" data-capas="barrios">
+<section class="etapa" id="e-hoy" data-titulo="Hoy" data-cam='{"th":-0.62,"ph":0.8,"rad":0.42}' data-cam-m='{"th":-0.43,"ph":0.55,"rad":0.8,"dz":0.12,"dx":0.05}' data-anio="0" data-capas="barrios">
   <div class="tarj">
     <p class="et"><span class="nro">01</span>Hoy</p>
     <h2>Así está la quebrada</h2>
@@ -220,7 +220,7 @@ body.listo .riel{opacity:1}
   </div>
 </section>
 
-<section class="etapa" id="e-viento" data-titulo="El viento" data-cam='{"th":0.05,"ph":0.98,"rad":0.36,"dz":0.06}' data-anio="25" data-capas="barrios pluma arcos">
+<section class="etapa" id="e-viento" data-titulo="El viento" data-cam='{"th":0.05,"ph":0.98,"rad":0.36,"dz":0.06}' data-cam-m='{"th":-0.43,"ph":0.52,"rad":0.86,"dz":0.13,"dx":0.05}' data-anio="25" data-capas="barrios pluma arcos">
   <div class="tarj">
     <p class="et"><span class="nro">03</span>El viento</p>
     <h2>Sopla hacia las casas</h2>
@@ -308,7 +308,7 @@ body.listo .riel{opacity:1}
   </div>
 </section>
 
-<section class="etapa" id="e-turno" data-titulo="Tu turno" data-cam='{"th":-0.45,"ph":0.86,"rad":0.5,"dz":0.05}' data-anio="25" data-capas="barrios pluma arcos" data-deriva="1">
+<section class="etapa" id="e-turno" data-titulo="Tu turno" data-cam='{"th":-0.45,"ph":0.86,"rad":0.5,"dz":0.05}' data-cam-m='{"th":-0.43,"ph":0.52,"rad":0.9,"dz":0.13,"dx":0.05}' data-anio="25" data-capas="barrios pluma arcos" data-deriva="1">
   <div class="tarj">
     <p class="et"><span class="nro">10</span>Tu turno</p>
     <h2>Tienes hasta el 3 de noviembre</h2>
@@ -360,11 +360,22 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var esLibre=function(i){ return !!(etapas[i]&&etapas[i].getAttribute('data-libre')) };
 
   /* --- cámaras: se desenrollan los ángulos para que la interpolación tome el camino corto --- */
-  var cams=etapas.map(function(e){ var c=e.getAttribute('data-cam'); return c?JSON.parse(c):null });
-  var prev=null;
-  cams.forEach(function(c){ if(!c) return; c.dx=c.dx||0; c.dz=c.dz||0;
-    if(prev){ while(c.th-prev.th>Math.PI) c.th-=2*Math.PI; while(c.th-prev.th<-Math.PI) c.th+=2*Math.PI }
-    prev=c; });
+  /* en celular la pantalla es vertical y la tarjeta tapa la mitad de abajo: cada etapa puede
+     declarar su cámara para angosto (data-cam-m); si no, se aleja un poco y mira más al norte */
+  var cams=[];
+  function leerCams(){
+    var m=angosto();
+    cams=etapas.map(function(e){
+      var c=m&&e.getAttribute('data-cam-m')||e.getAttribute('data-cam'); if(!c) return null;
+      c=JSON.parse(c);
+      if(m&&!e.getAttribute('data-cam-m')){ c.rad*=1.18; c.dz=(c.dz||0)+0.03 }
+      return c });
+    var prev=null;
+    cams.forEach(function(c){ if(!c) return; c.dx=c.dx||0; c.dz=c.dz||0;
+      if(prev){ while(c.th-prev.th>Math.PI) c.th-=2*Math.PI; while(c.th-prev.th<-Math.PI) c.th+=2*Math.PI }
+      prev=c; });
+  }
+  leerCams();
   function cerca(b,a){ b=Object.assign({dx:0,dz:0},b);
     while(b.th-a.th>Math.PI) b.th-=2*Math.PI; while(b.th-a.th<-Math.PI) b.th+=2*Math.PI; return b }
   function mezcla(a,b,t){ return {th:a.th+(b.th-a.th)*t,ph:a.ph+(b.ph-a.ph)*t,rad:a.rad+(b.rad-a.rad)*t,
@@ -654,14 +665,14 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
 
   /* --- arranque --- */
-  function encuadre(){ if(angosto()) VISOR.correr(0,0.2); else VISOR.correr(0.17,0) }
+  function encuadre(){ if(angosto()) VISOR.correr(0,0.25); else VISOR.correr(0.17,0) }
   function inicio(){
     try{ mejorarEscena() }catch(e){ VISOR.capa('L-masa',true); if(window.console) console.warn('capas del relato:',e) }
     encuadre(); medir(); actual=-1; yAnt=-1; cuadro();
     requestAnimationFrame(function(){ document.body.classList.add('listo') });
   }
   addEventListener('scroll',pedir,{passive:true});
-  addEventListener('resize',function(){ encuadre(); medir(); pedir() });
+  addEventListener('resize',function(){ encuadre(); leerCams(); medir(); pedir() });
   if(window.VISOR&&VISOR.listo) inicio(); else addEventListener('visor-listo',inicio);
   /* si el visor no carga, el relato igual se lee */
   setTimeout(function(){ document.body.classList.add('listo') },9000);
