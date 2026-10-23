@@ -1162,8 +1162,12 @@ function aplicarSim(){
   if(pluma) pluma.visible=simOn&&chkOn('L-pluma');
   if(flujo) flujo.visible=simOn&&chkOn('L-flujo');
   if(arcos) arcos.visible=simOn&&chkOn('L-arcos');
-  var b=$('#b-sim'); if(b){ b.setAttribute('aria-pressed',simOn);
-    b.innerHTML=simOn?'<span aria-hidden="true">❚❚</span> Pausar simulación':'<span aria-hidden="true">▶</span> Reanudar simulación'; }
+  var b=$('#b-sim'); if(b){
+    var et=simOn?'Pausar la simulación del viento':'Reanudar la simulación del viento';
+    b.setAttribute('aria-label',et); b.title=et;
+    b.innerHTML='<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">'+(simOn?
+      '<rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/>':
+      '<path d="M7 5l12 7-12 7z" fill="currentColor"/>')+'</svg>'; }
 }
 (function(){ var b=$('#b-sim'); if(b) b.addEventListener('click',function(){ simOn=!simOn; aplicarSim() }) })();
 ['L-pluma','L-flujo','L-arcos'].forEach(function(id){

@@ -90,7 +90,8 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   barra estratigráfica del subsuelo; la segunda anulaba a la primera. La estratigráfica se llama
   ahora `.pila`. Cuidado al nombrar clases nuevas. Pasó otra vez con `.bq`: la barra de
   quemado de la tabla del incendio (110 × 10 px) encogía el encabezado del buscador del
-  expediente, que ahora es `.bqh`. Antes de crear una clase, búscala con `grep -n "\.nombre\b"`.
+  expediente, que ahora es `.bqh`. Antes de crear una clase, búscala con `grep -n "\.nombre\b"`. Y una tercera vez con `.seg` (segmento de la columna del
+  subsuelo contra el selector «Mapa | Satélite», que ahora es `.vseg`).
 - **Colisión de nombres entre los tres scripts:** comparten un solo IIFE, así que una
   `function nueva(){}` que choque con un `var` ya existente se pierde en silencio —el `var`
   la pisa al asignarse— y sólo falla al pulsar el control. Pasó con `modo`, que ya era el

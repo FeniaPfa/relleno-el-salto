@@ -437,6 +437,19 @@ details.plegado>summary{min-height:44px;display:flex;align-items:center;font-siz
 }
 @media(max-width:360px){ tbody td{grid-template-columns:minmax(0,8em) 1fr} }
 
+
+/* barra del visor: íconos solo donde el símbolo es universal; el resto, con texto */
+.tg.ic{min-width:40px;padding:0 9px;display:inline-flex;align-items:center;justify-content:center}
+.tg.ic svg{display:block}
+@media(pointer:coarse){ .tg.ic{min-width:44px;padding:0} }
+.vseg{display:inline-flex;flex-wrap:nowrap}
+.vseg .tg{border-radius:0}
+.vseg .tg:first-child{border-radius:2px 0 0 2px}
+.vseg .tg:last-child{border-radius:0 2px 2px 0;margin-left:-1px}
+.orb{flex-wrap:nowrap}
+.vista-b{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;grid-column:1/-1}
+.vista-b .tg{font-size:13px;padding:6px 10px;min-height:36px}
+@media(pointer:coarse){ .vista-b .tg{min-height:44px} }
 /* ---------- visor en pantalla completa ----------
    modo propio (clase .full) para que funcione también en iPhone, donde Safari no permite la
    pantalla completa real fuera de los videos; donde se puede, además se pide la real.
@@ -446,15 +459,16 @@ body.con-full{overflow:hidden}
   background:#0b0d10;padding-top:env(safe-area-inset-top)}
 .v3.full .v3bar{flex:0 0 auto;padding:8px 10px}
 .v3.full .v3bar .lbl{display:none}
-.v3.full .toggles{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;width:100%}
-.v3.full .toggles::-webkit-scrollbar{display:none}
+.v3.full .toggles{width:100%}
 .v3.full .toggles>*{flex:0 0 auto}
+.v3.full .tg-relato{display:none}
 .v3.full .cv{flex:1 1 auto;aspect-ratio:auto;min-height:0;height:auto;touch-action:none}
 .v3.full>.tl,.v3.full>.pie{display:none}
 @media(max-width:900px){ .v3.full>.ctrl{display:none} }
 .tg-full{white-space:nowrap}
-.v3.full .tg-full{order:-1;background:#fbf7ec;color:#14161a;border-color:#fbf7ec;font-weight:600;
-  min-height:44px;padding:8px 14px}
+.v3.full .v3bar{padding-right:104px}
+.v3.full .tg-full{position:absolute;top:calc(8px + env(safe-area-inset-top));right:8px;z-index:62;width:auto;
+  background:#fbf7ec;color:#14161a;border-color:#fbf7ec;font-weight:600;min-height:44px;padding:8px 14px}
 .v3.full .vhint{display:none}
 /* ---------- barra fija de acción en móvil ---------- */
 .barra-cta{display:none}
@@ -1174,17 +1188,17 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     <div class="v3bar">
       <span class="lbl">Quebrada de El Salto · distancias al deslinde del predio</span>
       <div class="toggles">
-        <button class="tg" id="b-rel" aria-pressed="true">Cartográfico</button>
-        <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
-        <button class="tg" id="b-curv" aria-pressed="true">Curvas</button>
-        <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
+        <span class="vseg" role="group" aria-label="Fondo del mapa">
+          <button class="tg" id="b-rel" aria-pressed="true">Mapa</button>
+          <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
+        </span>
         <a class="tg tg-relato" href="relato.html"><span aria-hidden="true">▶</span> Recorrido narrado</a>
-        <button class="tg" id="b-sim" aria-pressed="true"><span aria-hidden="true">❚❚</span> Pausar simulación</button>
-        <span class="orb" role="group" aria-label="Mover la cámara">
-          <button class="tg" data-orb="izq" aria-label="Girar a la izquierda">↺</button>
-          <button class="tg" data-orb="der" aria-label="Girar a la derecha">↻</button>
-          <button class="tg" data-orb="mas" aria-label="Acercar">+</button>
-          <button class="tg" data-orb="menos" aria-label="Alejar">−</button>
+        <span class="orb" role="group" aria-label="Simulación y cámara">
+          <button class="tg ic" id="b-sim" aria-label="Pausar la simulación del viento" title="Pausar la simulación del viento"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg></button>
+          <button class="tg ic" data-orb="izq" aria-label="Girar a la izquierda" title="Girar a la izquierda"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 12a8 8 0 1 0 2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <button class="tg ic" data-orb="der" aria-label="Girar a la derecha" title="Girar a la derecha"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M20 12a8 8 0 1 1-2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <button class="tg ic" data-orb="mas" aria-label="Acercar" title="Acercar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
+          <button class="tg ic" data-orb="menos" aria-label="Alejar" title="Alejar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
         </span>
       </div>
     </div>
@@ -1219,6 +1233,11 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     <details class="ctrl" id="ctrl3d" open>
       <summary>Capas, simulación y viento</summary>
       <div class="panel">
+        <div class="ph">Vista</div>
+        <div class="vista-b">
+          <button class="tg" id="b-curv" aria-pressed="true">Curvas de nivel</button>
+          <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
+        </div>
         <div class="ph">Capas</div>
         <label><input type="checkbox" id="L-masa" checked><span class="sw" style="background:#e0612e"></span>Masa de residuos</label>
         <label><input type="checkbox" id="L-predio" checked><span class="sw" style="background:#f2f5ef"></span>Deslinde 206 ha</label>
@@ -1269,7 +1288,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     </div>
   </div>
   <p class="note">Elevación: Terrain Tiles (Mapzen/AWS Open Data, 8 m/px), remuestreada a 512×512 con
-  cuantización de 11 bits (paso de 0,26 m). El modo <b>Cartográfico</b> es síntesis: colores y
+  cuantización de 11 bits (paso de 0,26 m). El modo <b>Mapa</b> es síntesis: colores y
   texturas derivados de la geometría del terreno, no una fotografía — sirve para leer el relieve,
   no como evidencia de cobertura. El modo <b>Satélite</b> sí es imagen real: Esri World Imagery
   (Esri, Maxar, Earthstar Geographics) a 2 m/px, y pesa 1,7 MB, por eso se carga solo al pedirlo.
@@ -1470,10 +1489,10 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
       <span class="lbl">Bloque del predio · cotas reales · perfil geofísico</span>
       <div class="toggles" id="ert-btns"></div>
       <span class="orb toggles" role="group" aria-label="Mover la cámara del corte">
-        <button class="tg" data-orb2="izq" aria-label="Girar a la izquierda">↺</button>
-        <button class="tg" data-orb2="der" aria-label="Girar a la derecha">↻</button>
-        <button class="tg" data-orb2="mas" aria-label="Acercar">+</button>
-        <button class="tg" data-orb2="menos" aria-label="Alejar">−</button>
+        <button class="tg ic" data-orb2="izq" aria-label="Girar a la izquierda" title="Girar a la izquierda"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 12a8 8 0 1 0 2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <button class="tg ic" data-orb2="der" aria-label="Girar a la derecha" title="Girar a la derecha"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M20 12a8 8 0 1 1-2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <button class="tg ic" data-orb2="mas" aria-label="Acercar" title="Acercar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
+        <button class="tg ic" data-orb2="menos" aria-label="Alejar" title="Alejar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
       </span>
     </div>
     <div class="cv" id="cv2">
@@ -2961,18 +2980,19 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 /* ---- visores en pantalla completa: botón, salir con «Salir», Escape o el botón atrás ---- */
 (function(){
   Array.prototype.forEach.call(document.querySelectorAll('.v3'),function(v){
-    var cv=v.querySelector('.cv'), barra=v.querySelector('.v3bar .toggles')||v.querySelector('.v3bar');
+    var cv=v.querySelector('.cv'), barra=v.querySelector('.v3bar .orb')||v.querySelector('.v3bar .toggles')||v.querySelector('.v3bar');
     if(!cv||!barra) return;
-    var b=document.createElement('button'); b.type='button'; b.className='tg tg-full';
-    var ENTRAR='<span aria-hidden="true">⛶</span> Pantalla completa', SALIR='<span aria-hidden="true">✕</span> Salir';
-    b.innerHTML=ENTRAR; b.setAttribute('aria-pressed','false'); barra.appendChild(b);
+    var b=document.createElement('button'); b.type='button'; b.className='tg ic tg-full';
+    var ENTRAR='<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+        SALIR='<span aria-hidden="true">✕</span> Salir';
+    b.innerHTML=ENTRAR; b.setAttribute('aria-label','Pantalla completa'); b.title='Pantalla completa'; barra.appendChild(b);
     var abierto=false, conHist=false;
     function gestos(ta){ var c=cv.querySelector('canvas'); if(c) c.style.touchAction=ta; }
     function avisar(){ try{ dispatchEvent(new Event('resize')) }catch(e){} }
     function abrir(){
       if(abierto) return; abierto=true;
       v.classList.add('full'); document.body.classList.add('con-full');
-      b.innerHTML=SALIR; b.setAttribute('aria-pressed','true'); b.setAttribute('aria-label','Salir de pantalla completa');
+      b.innerHTML=SALIR; b.setAttribute('aria-label','Salir de pantalla completa'); b.title='Salir de pantalla completa';
       gestos('none');
       try{ if(v.requestFullscreen&&!document.fullscreenElement){ var p=v.requestFullscreen(); if(p&&p.catch) p.catch(function(){}) } }catch(e){}
       try{ history.pushState({visorCompleto:1},''); conHist=true }catch(e){}
@@ -2981,7 +3001,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     function cerrar(desdeHistorial){
       if(!abierto) return; abierto=false;
       v.classList.remove('full'); document.body.classList.remove('con-full');
-      b.innerHTML=ENTRAR; b.setAttribute('aria-pressed','false'); b.removeAttribute('aria-label');
+      b.innerHTML=ENTRAR; b.setAttribute('aria-label','Pantalla completa'); b.title='Pantalla completa';
       gestos('pan-y pinch-zoom');
       try{ if(document.fullscreenElement) document.exitFullscreen() }catch(e){}
       if(conHist&&!desdeHistorial){ conHist=false; history.back() } conHist=false;
@@ -4978,8 +4998,12 @@ function aplicarSim(){
   if(pluma) pluma.visible=simOn&&chkOn('L-pluma');
   if(flujo) flujo.visible=simOn&&chkOn('L-flujo');
   if(arcos) arcos.visible=simOn&&chkOn('L-arcos');
-  var b=$('#b-sim'); if(b){ b.setAttribute('aria-pressed',simOn);
-    b.innerHTML=simOn?'<span aria-hidden="true">❚❚</span> Pausar simulación':'<span aria-hidden="true">▶</span> Reanudar simulación'; }
+  var b=$('#b-sim'); if(b){
+    var et=simOn?'Pausar la simulación del viento':'Reanudar la simulación del viento';
+    b.setAttribute('aria-label',et); b.title=et;
+    b.innerHTML='<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">'+(simOn?
+      '<rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/>':
+      '<path d="M7 5l12 7-12 7z" fill="currentColor"/>')+'</svg>'; }
 }
 (function(){ var b=$('#b-sim'); if(b) b.addEventListener('click',function(){ simOn=!simOn; aplicarSim() }) })();
 ['L-pluma','L-flujo','L-arcos'].forEach(function(id){
