@@ -90,7 +90,8 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   barra estratigráfica del subsuelo; la segunda anulaba a la primera. La estratigráfica se llama
   ahora `.pila`. Cuidado al nombrar clases nuevas. Pasó otra vez con `.bq`: la barra de
   quemado de la tabla del incendio (110 × 10 px) encogía el encabezado del buscador del
-  expediente, que ahora es `.bqh`. Antes de crear una clase, búscala con `grep -n "\.nombre\b"`.
+  expediente, que ahora es `.bqh`. Antes de crear una clase, búscala con `grep -n "\.nombre\b"`. Y una tercera vez con `.seg` (segmento de la columna del
+  subsuelo contra el selector «Mapa | Satélite», que ahora es `.vseg`).
 - **Colisión de nombres entre los tres scripts:** comparten un solo IIFE, así que una
   `function nueva(){}` que choque con un `var` ya existente se pierde en silencio —el `var`
   la pisa al asignarse— y sólo falla al pulsar el control. Pasó con `modo`, que ya era el
@@ -105,6 +106,11 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   mide una vez y se cachea; `sot` y `fondo` cambian el cuerpo de letra, así que sin
   invalidarlo la caja queda obsoleta y los textos se pisan. Y `ALTO_TX` es 23, no el
   cuerpo de letra: la caja real mide algo más y dos filas contiguas se tocaban por un píxel.
+- **Lo que flota sobre un visor 3D debe dejar pasar el toque** (`pointer-events:none`, salvo sus
+  botones), y el contenedor `.cv` lleva el mismo `touch-action` que el lienzo. Si no, un arrastre que
+  empieza cerca del borde cae sobre la ayuda o el panel de viento y mueve la página en vez del mapa.
+  Y vigila el desborde horizontal a 320 px: una grilla sin `minmax(0,1fr)` o una tabla de ancho fijo
+  bastan para que la página entera se deslice de lado.
 - **Variables de ámbito en `ubicarMarcas()`:** un `var` declarado dentro de un callback de
   `forEach` no existe en el siguiente. Ya rompió los rótulos del 3D una vez.
 - **Dos secciones remiten al visor del terreno** («actívalo como capa en el visor 3D del
@@ -113,8 +119,8 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   al mapear (x,y)→(x,·,y) se invierte el giro de cada triángulo y el renderer descarta la cara.
   La tapa de la masa de residuos estuvo invisible así durante semanas sin que nada fallara.
   Hay que invertir el índice (ver `dibujarMasa`) o usar `DoubleSide`.
-- **El pie tiene un placeholder de firma** (`.firma` en `plantilla.html`): nombre o colectivo y
-  contacto van ahí antes de publicar. La fecha de actualización la inyecta `build.py` desde git.
+- **El pie no lleva firma**: se quitó el marcador `[nombre o colectivo · contacto]`. La fecha de
+  actualización la inyecta `build.py` desde git.
 
 ## Color y tipografía: las reglas
 
@@ -218,6 +224,23 @@ Los rótulos de los mapas y gráficos SVG se reescalan en pantallas chicas (`esc
 texto baja de 12 px reales, y los que al crecer chocan entre sí o se salen del lienzo se ocultan.
 En escritorio no interviene.
 
+## La principal en celular: decisiones del comité UX (2026-10-23)
+
+- **Un solo destino rojo: armar la observación.** El recuadro del plazo, el bloque tras los hallazgos,
+  el botón principal de «Cómo se ingresa» y la barra fija llevan a `observaciones.html`, no al
+  formulario del SEA: ir al SEA sin texto copiado termina en abandono. El SEA queda como botón
+  secundario, después de armar.
+- **La barra fija `.barra-cta`** tiene un solo botón y aparece solo cuando el recuadro del plazo ya
+  salió de pantalla; se esconde sobre `#observar` y el pie. Su alto real (`--barra-h`, por
+  `ResizeObserver`) reserva el espacio de abajo y el `scroll-padding`, porque con letra grande del
+  sistema llegó a medir 167 px.
+- **El acceso al relato** va después de los hallazgos, con botón de contorno, y su fondo es
+  `relato-cta.webp` (34 KB), no la textura de 605 KB.
+- **Pendientes que el comité dejó** (requieren reestructurar, van en otro PR): cargar Three.js y los
+  dos visores solo al acercarse (hoy el script síncrono retrasa ~10 s todo en 3G); crear el visor del
+  subsuelo con `difiere` y manejar `webglcontextlost`; plegar el desarrollo de cada sección en
+  celular; reencuadrar los mapas SVG a 4:5; póster estático del visor 3D en celular.
+
 ## Rendimiento: el pendiente más importante
 
 Antes del primer cuadro 3D el navegador baja unos **2,1 MB**. En celular con datos móviles eso
@@ -237,6 +260,11 @@ están en `docs/fuentes.md`.
 
 **Antes de publicar cualquier cifra nueva, verifícala contra el texto original, no contra un
 resumen.** Varias afirmaciones plausibles no sobrevivieron ese paso.
+
+**`expediente/` es solo el expediente 2168892026.** Precedentes de otros proyectos (el fallo de la
+Corte Suprema sobre el relleno Santa Inés de Alto Hospicio, rol 112.449-2020) y normas (D.S. 189/2005)
+se citan con su enlace en el texto que los usa, siempre atribuidos a su caso; **no se descargan dentro
+del repo**. Si hace falta leer uno, va a una carpeta temporal y se borra al terminar.
 
 ### Dos trampas que ya mordieron
 

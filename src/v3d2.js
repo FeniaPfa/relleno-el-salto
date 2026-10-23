@@ -303,7 +303,7 @@ function construirCara(){
 
 /* ---------- controles ---------- */
 var drag=false,lx=0,ly=0,dom=ren.domElement;
-dom.style.touchAction='pan-y'; dom.style.cursor='grab';
+dom.style.touchAction='pan-y pinch-zoom'; dom.style.cursor='grab';
 function orbita(q){
   if(q==='izq') th+=0.12; if(q==='der') th-=0.12;
   if(q==='mas') rad=Math.max(ANCHO*.15,rad*0.85); if(q==='menos') rad=Math.min(ANCHO*2.4,rad*1.18);

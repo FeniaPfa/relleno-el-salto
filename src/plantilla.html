@@ -4,7 +4,6 @@
 <link rel="preload" as="font" type="font/woff2" href="fonts/libre-franklin-400-normal.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="fonts/spectral-600-normal.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="fonts/fira-sans-condensed-400-normal.woff2" crossorigin>
-<link rel="preload" as="script" href="lib/three.r128.min.js">
 <style>
 /* fuentes autohospedadas (SIL OFL), subconjunto latino: sin CSS externo que bloquee el render */
 @font-face{font-family:'Spectral';font-style:normal;font-weight:300;font-display:swap;src:url(fonts/spectral-300-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
@@ -278,8 +277,10 @@ details.plegado>summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;
 .relato-cta{display:grid;grid-template-columns:1fr auto;gap:4px 24px;align-items:center;margin:26px 0 0;padding:16px 20px;
   text-decoration:none;color:#f1efe8;border-radius:2px;position:relative;overflow:hidden;
   background:linear-gradient(90deg,rgba(14,16,20,.92) 0%,rgba(14,16,20,.7) 55%,rgba(14,16,20,.35) 100%),
-    url(textura-1024.jpg) center 42%/cover;border:1px solid #39413c}
+    url(relato-cta.webp) center/cover;border:1px solid #39413c}
 .relato-cta:hover{border-color:var(--acc)} .relato-cta:hover .rc-a{background:#bd1a2b}
+.relato-cta:not(.obs-cta) .rc-a{background:transparent;border:1px solid #fbf7ec}
+.relato-cta:not(.obs-cta):hover .rc-a{background:#fbf7ec;color:#14161a}
 .rc-k{grid-column:1;font-family:var(--cart);font-size:13px;font-weight:600;color:#ff9a8a;text-transform:uppercase;letter-spacing:.06em}
 .rc-t{grid-column:1;font-family:var(--doc);font-size:clamp(18px,2.2vw,22px);font-weight:600;line-height:1.3;color:#fbf9f2}
 .rc-a{grid-column:2;grid-row:1/3;font-family:var(--cart);font-size:15.5px;font-weight:600;background:#a11422;color:#fbf7ec;
@@ -356,7 +357,6 @@ abbr[data-def]:focus-visible{outline:2px solid var(--blue)}
 .indice a b{color:var(--acc)}
 .aviso-js{margin:20px 0 0;padding:12px 16px;border:1px solid var(--warn);color:var(--ink2);font-size:15px}
 .plazo .d .ult{font-size:.5em;font-weight:600;margin:0}
-.firma{color:var(--ink)}
 footer .imprimir{display:inline-block;margin-top:10px}
 @media print{
   :root,:root[data-theme="dark"]{--bg:#fff;--surf:#fff;--surf2:#f2f2f2;--sunk:#f2f2f2;--ink:#000;--ink2:#333;--ink3:#555;
@@ -371,16 +371,77 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .orb{display:inline-flex;gap:4px}
 .orb .tg{min-width:40px;padding:8px 10px;font-size:16px;line-height:1}
 .v3 .cv canvas:focus-visible{outline:3px solid var(--blue);outline-offset:-3px}
+
+/* ---------- comité UX, página principal en celular ---------- */
+/* el gesto sobre el visor: lo que flota encima (ayuda, panel de viento) deja pasar el toque al
+   lienzo, y el contenedor entero tiene la misma regla táctil que el lienzo. Sin esto, un arrastre
+   que empezaba cerca del borde caía sobre la ayuda o el panel y movía la página. */
+.v3 .cv{touch-action:pan-y pinch-zoom}
+.v3 .vhint,.v3 .vflot,.v3 .vflot .fila,.v3 .vflot .nm{pointer-events:none}
+.v3 .vflot .tg,.v3 .vflot input{pointer-events:auto}
+@media(pointer:coarse){
+  .vbtns .tg,.vflot .tg{min-height:44px}
+  [data-orb],[data-orb2]{min-width:44px;min-height:44px}
+  .vmas{min-height:44px}
+}
+details.plegado>summary{min-height:44px;display:flex;align-items:center;font-size:15px}
+.find.portada details.plegado>summary{font-size:14px;min-height:44px}
+.fmt{font-size:max(.82em,12px)}
+@media(max-width:720px){
+  .shd .src a{display:inline-block;padding:4px 0;margin:2px 0}
+  .leg{display:grid;grid-template-columns:1fr 1fr;gap:6px 12px;font-size:13px}
+  tbody td>*{min-width:0;overflow-wrap:anywhere}
+  .modelos-d>summary{font-size:16px}
+}
+@media(max-width:360px){ tbody td{grid-template-columns:minmax(0,8em) 1fr} }
+
+
+/* barra del visor: íconos solo donde el símbolo es universal; el resto, con texto */
+.tg.ic{min-width:40px;padding:0 9px;display:inline-flex;align-items:center;justify-content:center}
+.tg.ic svg{display:block}
+@media(pointer:coarse){ .tg.ic{min-width:44px;padding:0} }
+.vseg{display:inline-flex;flex-wrap:nowrap}
+.vseg .tg{border-radius:0}
+.vseg .tg:first-child{border-radius:2px 0 0 2px}
+.vseg .tg:last-child{border-radius:0 2px 2px 0;margin-left:-1px}
+.orb{flex-wrap:nowrap}
+.vista-b{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;grid-column:1/-1}
+.vista-b .tg{font-size:13px;padding:6px 10px;min-height:36px}
+@media(pointer:coarse){ .vista-b .tg{min-height:44px} }
+/* ---------- visor en pantalla completa ----------
+   modo propio (clase .full) para que funcione también en iPhone, donde Safari no permite la
+   pantalla completa real fuera de los videos; donde se puede, además se pide la real.
+   Aquí el lienzo captura todos los gestos: no hay página que desplazar. */
+body.con-full{overflow:hidden}
+.v3.full{position:fixed;inset:0;z-index:60;margin:0;border:0;display:flex;flex-direction:column;
+  background:#0b0d10;padding-top:env(safe-area-inset-top)}
+.v3.full .v3bar{flex:0 0 auto;padding:8px 10px}
+.v3.full .v3bar .lbl{display:none}
+.v3.full .toggles{width:100%}
+.v3.full .toggles>*{flex:0 0 auto}
+.v3.full .tg-relato{display:none}
+.v3.full .cv{flex:1 1 auto;aspect-ratio:auto;min-height:0;height:auto;touch-action:none}
+.v3.full>.tl,.v3.full>.pie{display:none}
+@media(max-width:900px){ .v3.full>.ctrl{display:none} }
+.tg-full{white-space:nowrap}
+.v3.full .v3bar{padding-right:104px}
+.v3.full .tg-full{position:absolute;top:calc(8px + env(safe-area-inset-top));right:8px;z-index:62;width:auto;
+  background:#fbf7ec;color:#14161a;border-color:#fbf7ec;font-weight:600;min-height:44px;padding:8px 14px}
+.v3.full .vhint{display:none}
 /* ---------- barra fija de acción en móvil ---------- */
 .barra-cta{display:none}
 @media(max-width:720px){
   .barra-cta{display:flex;gap:8px;position:fixed;left:0;right:0;bottom:0;z-index:20;padding:10px 12px;
-    padding-bottom:max(10px,env(safe-area-inset-bottom));background:var(--surf);border-top:1px solid var(--line)}
-  .barra-cta a{flex:1;display:flex;align-items:center;justify-content:center;min-height:44px;font-family:var(--cart);
-    font-size:15px;font-weight:600;text-decoration:none;border-radius:2px}
-  .barra-cta .como{color:var(--ink);border:1px solid var(--lctl)}
+    padding-bottom:max(10px,env(safe-area-inset-bottom));background:var(--surf);border-top:1px solid var(--line);
+    transform:translateY(110%);visibility:hidden;transition:transform .25s,visibility 0s .25s}
+  .barra-cta.on{transform:none;visibility:visible;transition-delay:0s}
+  .barra-cta .dias-b{font-weight:400;opacity:.9}
+  @media(prefers-reduced-motion:reduce){.barra-cta{transition:none}}
+  .barra-cta a{flex:1;display:flex;align-items:center;justify-content:center;min-height:48px;font-family:var(--cart);
+    font-size:16px;font-weight:600;text-decoration:none;border-radius:2px;text-align:center}
   .barra-cta .ir{background:#a11422;color:#fbf7ec}
-  body{padding-bottom:72px}
+  body{padding-bottom:calc(var(--barra-h,72px) + 8px)}
+  html{scroll-padding-bottom:calc(var(--barra-h,72px) + 8px)}
 }
 /* filete de alerta: decorativo, nunca porta información */
 .cinta{display:block;height:4px;background:var(--warn)}
@@ -709,9 +770,11 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
   padding:11px 16px;border-top:1px solid #39413c;background:#0d1014}
 .v3 .pie b{color:#fbf7ec;font-weight:600}
 .secimg{display:block;width:100%;height:auto;background:#fff}
-.cortes{display:grid;gap:26px;margin-top:34px}
+.cortes{display:grid;grid-template-columns:minmax(0,1fr);gap:26px;margin-top:34px}
 @media(min-width:860px){.cortes{grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:34px;align-items:start}}
-.corte,.membrana{margin:0}
+.corte,.membrana{margin:0;min-width:0}
+.membrana table{width:100%;table-layout:fixed}
+.membrana td,.membrana th{overflow-wrap:anywhere}
 .corte h3,.membrana h3{font-family:var(--doc);font-size:21px;font-weight:600;
   margin:0 0 14px;color:var(--ink);letter-spacing:-.01em}
 .pila{display:flex;flex-direction:column;height:440px;border:1px solid var(--line);
@@ -748,7 +811,21 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .fwrap{position:relative;line-height:0;background:#0d1014}
 .fwrap img{display:block;width:100%;height:auto}
 .fwrap svg{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
-.fbtns{display:flex;flex-wrap:wrap;gap:10px;padding:12px 16px;border-top:1px solid var(--line)}
+.foto{display:flex;flex-direction:column}
+.fbtns{order:-1;display:flex;gap:0;padding:12px 16px;border-bottom:1px solid var(--line)}
+.fbtns .tg{flex:1 1 0;border-radius:0;justify-content:center;text-align:center}
+.fbtns .tg+.tg{margin-left:-1px}
+.fbtns .tg:first-child{border-radius:2px 0 0 2px} .fbtns .tg:last-child{border-radius:0 2px 2px 0}
+.fdet{display:grid;grid-template-columns:44px 1fr 44px;align-items:center;gap:6px;padding:10px 8px;
+  border-top:1px solid var(--line);background:var(--surf2)}
+.fdet[hidden]{display:none}
+.fdet button{min-height:44px;min-width:44px;font-size:22px;line-height:1;background:transparent;color:var(--ink);
+  border:1px solid var(--lctl);border-radius:2px;cursor:pointer}
+.fdtx{font-family:var(--txt);font-size:15.5px;line-height:1.5;color:var(--ink2)}
+.fdtx b{color:var(--ink);font-weight:600}
+.fdtx .fn{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;
+  background:#ff7a45;color:#0d1014;font-family:var(--cifra);font-weight:600;font-size:15px;margin-right:8px;vertical-align:1px}
+.fdtx .fcu{display:block;font-family:var(--cart);font-size:13px;color:var(--ink3);margin-top:4px}
 .foto figcaption{padding:4px 16px 16px;display:grid;gap:7px}
 .foto .cit{font-family:var(--doc);font-size:17px;line-height:1.56;color:var(--ink);
   font-style:italic;max-width:62ch}
@@ -756,6 +833,8 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .foto .fte{font-family:var(--cart);font-size:13.5px;color:var(--ink3);letter-spacing:.01em}
 .faltan{display:grid;gap:12px;margin-top:24px}
 @media(min-width:720px){.faltan{grid-template-columns:1fr 1fr}}
+/* en celular la ficha bajo la foto ya recorre los seis puntos: la lista repetida se omite */
+@media(max-width:719px){.faltan{display:none}}
 .falta{border-left:3px solid var(--acc);padding:12px 0 12px 15px}
 .falta .ft{font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
 .falta .fn{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;
@@ -886,22 +965,22 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 <header>
   <div class="hd">
     <div>
-      <div class="kicker">Servicio de Evaluación Ambiental · Región de Valparaíso</div>
-      <h1>Centro Metropolitano de Gestión Integral de Residuos</h1>
+      <div class="kicker">Análisis independiente del expediente SEIA · Región de Valparaíso</div>
+      <h1>Un relleno para 30,7 millones de toneladas de basura, a 676 m de la vivienda más cercana</h1>
       <p class="sub">
-        <b>Relleno sanitario</b> en El Salto, Viña del Mar, a 2 km de Pompeya Sur, Quilpué ·
+        <b>Centro Metropolitano de Gestión Integral de Residuos</b>: relleno sanitario en El Salto, Viña del Mar, a 2 km de Pompeya Sur, Quilpué ·
         Titular <b>Cosemar SpA</b><br>
         Expediente <b class="num">2168892026</b> · Estudio de Impacto Ambiental en calificación<br>
         Ruta 60 Troncal Sur km 102,5 ·
         <span class="num">33°04′52″S 71°29′03″O</span>
       </p>
     </div>
-    <a class="plazo" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">
+    <a class="plazo" href="observaciones.html">
       <i class="cinta" aria-hidden="true"></i>
       <div class="d" id="dias">—<span>días</span></div>
       <div class="t">para observar · cierra el 3 de noviembre</div>
-      <div class="cta">Ingresar mi observación →</div>
-      <div class="cu">con tu ClaveÚnica · sin costo</div>
+      <div class="cta">Armar mi observación →</div>
+      <div class="cu">textos listos para copiar · luego la ingresas con ClaveÚnica</div>
     </a>
   </div>
 </header>
@@ -914,11 +993,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 </details></nav>
 <noscript><p class="aviso-js">Esta página necesita JavaScript para dibujar los mapas y los visores. El texto, las cifras y las tablas se leen igual sin él.</p></noscript>
 
-<a class="relato-cta" href="relato.html">
-  <span class="rc-k">Nuevo · el recorrido en 3D</span>
-  <span class="rc-t">Baja y mira cómo la quebrada se llena, hacia dónde va el viento y qué se verá desde tu población</span>
-  <span class="rc-a">Abrir el recorrido →</span>
-</a>
+
 
 <section id="hallazgos" style="padding-top:38px" aria-labelledby="t-hallazgos">
   <h2 id="t-hallazgos" class="vh">Lo esencial, en cinco cifras</h2>
@@ -973,10 +1048,22 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     </div>
   </div>
 </section>
+<a class="relato-cta obs-cta" href="observaciones.html">
+  <span class="rc-k">Lo que puedes hacer hasta el 3 de noviembre</span>
+  <span class="rc-t">¿Te preocupa alguno de estos puntos? Hay 21 observaciones listas para copiar, cada una con la página del expediente que la respalda.</span>
+  <span class="rc-a">Armar mi observación →</span>
+</a>
+
+<a class="relato-cta" href="relato.html">
+  <span class="rc-k">Nuevo · el recorrido en 3D</span>
+  <span class="rc-t">Baja y mira cómo la quebrada se llena, hacia dónde va el viento y qué se verá desde tu población</span>
+  <span class="rc-a">Abrir el recorrido →</span>
+</a>
+
 
 <section id="admite" aria-labelledby="t-admite">
   <div class="shd"><span class="n">1</span>
-    <h2 id="t-admite">Veintitrés preguntas, una respuesta</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">Cap. 6</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Cap. 7</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Cap. 20</a></p></div>
+    <h2 id="t-admite">El estudio reconoce un solo impacto grave de 23 y no vigila ni el aire ni el agua</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Cap. 5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Capitulo_6_Plan_de_Medidas_de_Mitigacion__Reparacion_y_Compensacion.pdf" target="_blank" rel="noopener">Cap. 6</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Cap. 7</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/Cap_20_Monitoreo_Participativo.pdf" target="_blank" rel="noopener">Cap. 20</a></p></div>
   <p class="intro">La ley obliga a encadenar tres cosas. Primero, el estudio debe revisar
   <b>uno por uno los <abbr title="Cada letra de la lista de efectos graves del Artículo 11 de la Ley 19.300">literales</abbr> del Artículo 11</b> y decir en cuáles genera un efecto adverso
   significativo. Después debe proponer una medida para cada uno de esos efectos. Y después debe
@@ -1075,17 +1162,17 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     <div class="v3bar">
       <span class="lbl">Quebrada de El Salto · distancias al deslinde del predio</span>
       <div class="toggles">
-        <button class="tg" id="b-rel" aria-pressed="true">Cartográfico</button>
-        <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
-        <button class="tg" id="b-curv" aria-pressed="true">Curvas</button>
-        <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
+        <span class="vseg" role="group" aria-label="Fondo del mapa">
+          <button class="tg" id="b-rel" aria-pressed="true">Mapa</button>
+          <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
+        </span>
         <a class="tg tg-relato" href="relato.html"><span aria-hidden="true">▶</span> Recorrido narrado</a>
-        <button class="tg" id="b-sim" aria-pressed="true"><span aria-hidden="true">❚❚</span> Pausar simulación</button>
-        <span class="orb" role="group" aria-label="Mover la cámara">
-          <button class="tg" data-orb="izq" aria-label="Girar a la izquierda">↺</button>
-          <button class="tg" data-orb="der" aria-label="Girar a la derecha">↻</button>
-          <button class="tg" data-orb="mas" aria-label="Acercar">+</button>
-          <button class="tg" data-orb="menos" aria-label="Alejar">−</button>
+        <span class="orb" role="group" aria-label="Simulación y cámara">
+          <button class="tg ic" id="b-sim" aria-label="Pausar la simulación del viento" title="Pausar la simulación del viento"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg></button>
+          <button class="tg ic" data-orb="izq" aria-label="Girar a la izquierda" title="Girar a la izquierda"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 12a8 8 0 1 0 2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <button class="tg ic" data-orb="der" aria-label="Girar a la derecha" title="Girar a la derecha"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M20 12a8 8 0 1 1-2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <button class="tg ic" data-orb="mas" aria-label="Acercar" title="Acercar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
+          <button class="tg ic" data-orb="menos" aria-label="Alejar" title="Alejar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
         </span>
       </div>
     </div>
@@ -1103,7 +1190,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
         </div>
         <div class="nm" id="vflot-n"></div>
       </div>
-      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y − · toca un punto para ver su nombre</span><span class="angosto">Arrastra para girar · + y − acercan · toca un punto</span></div>
+      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y − · toca un punto para ver su nombre</span><span class="angosto">Desliza de lado para girar · + y − acercan · toca un punto</span></div>
       <div class="mob" id="mob" aria-hidden="true">
         <div class="fila">
           <div class="escala"><div class="esb" id="esb"></div><span id="est">1 km</span></div>
@@ -1120,6 +1207,11 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     <details class="ctrl" id="ctrl3d" open>
       <summary>Capas, simulación y viento</summary>
       <div class="panel">
+        <div class="ph">Vista</div>
+        <div class="vista-b">
+          <button class="tg" id="b-curv" aria-pressed="true">Curvas de nivel</button>
+          <button class="tg" id="b-exa" aria-pressed="true">Exagerar ×1,6</button>
+        </div>
         <div class="ph">Capas</div>
         <label><input type="checkbox" id="L-masa" checked><span class="sw" style="background:#e0612e"></span>Masa de residuos</label>
         <label><input type="checkbox" id="L-predio" checked><span class="sw" style="background:#f2f5ef"></span>Deslinde 206 ha</label>
@@ -1161,7 +1253,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
         <button class="play" id="tl-play"><span aria-hidden="true">▶</span> Animar llenado</button>
       </div>
       <input type="range" id="tl" min="0" max="25" value="25" step="1" aria-label="Año de operación">
-      <div class="tlg">
+      <div class="tlg" aria-live="polite">
         <div><div class="n" id="k-ton">—</div><div class="l">toneladas acumuladas</div></div>
         <div><div class="n" id="k-esp">—</div><div class="l">espesor medio de masa</div></div>
         <div><div class="n" id="k-ch4">—</div><div class="l">metano generado ese año</div></div>
@@ -1170,7 +1262,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     </div>
   </div>
   <p class="note">Elevación: Terrain Tiles (Mapzen/AWS Open Data, 8 m/px), remuestreada a 512×512 con
-  cuantización de 11 bits (paso de 0,26 m). El modo <b>Cartográfico</b> es síntesis: colores y
+  cuantización de 11 bits (paso de 0,26 m). El modo <b>Mapa</b> es síntesis: colores y
   texturas derivados de la geometría del terreno, no una fotografía — sirve para leer el relieve,
   no como evidencia de cobertura. El modo <b>Satélite</b> sí es imagen real: Esri World Imagery
   (Esri, Maxar, Earthstar Geographics) a 2 m/px, y pesa 1,7 MB, por eso se carga solo al pedirlo.
@@ -1355,7 +1447,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 
 <section id="subsuelo" aria-labelledby="t-subsuelo">
   <div class="shd"><span class="n">5</span>
-    <h2 id="t-subsuelo">Lo que hay debajo</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar" target="_blank" rel="noopener">Cap. 3.4 · Anexo 1 Estudio geofísico ERT</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a></p></div>
+    <h2 id="t-subsuelo">Bajo la basura, entre 15 y 40 m de suelo permeable</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar" target="_blank" rel="noopener">Cap. 3.4 · Anexo 1 Estudio geofísico ERT</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a></p></div>
   <p class="intro">El expediente trae un estudio que nadie ha citado: <b>once tomografías de
   resistividad eléctrica</b>, 643 electrodos con coordenadas, que radiografían el subsuelo del
   predio en profundidad. Son las secciones de colores de abajo, y en el
@@ -1371,14 +1463,14 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
       <span class="lbl">Bloque del predio · cotas reales · perfil geofísico</span>
       <div class="toggles" id="ert-btns"></div>
       <span class="orb toggles" role="group" aria-label="Mover la cámara del corte">
-        <button class="tg" data-orb2="izq" aria-label="Girar a la izquierda">↺</button>
-        <button class="tg" data-orb2="der" aria-label="Girar a la derecha">↻</button>
-        <button class="tg" data-orb2="mas" aria-label="Acercar">+</button>
-        <button class="tg" data-orb2="menos" aria-label="Alejar">−</button>
+        <button class="tg ic" data-orb2="izq" aria-label="Girar a la izquierda" title="Girar a la izquierda"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 12a8 8 0 1 0 2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <button class="tg ic" data-orb2="der" aria-label="Girar a la derecha" title="Girar a la derecha"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M20 12a8 8 0 1 1-2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <button class="tg ic" data-orb2="mas" aria-label="Acercar" title="Acercar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
+        <button class="tg ic" data-orb2="menos" aria-label="Alejar" title="Alejar"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M5 12h14" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
       </span>
     </div>
     <div class="cv" id="cv2">
-      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y −</span><span class="angosto">Arrastra para girar · + y − acercan</span></div>
+      <div class="vhint"><span class="ancho">Arrastra o usa las flechas para girar · acerca con + y −</span><span class="angosto">Desliza de lado para girar · + y − acercan</span></div>
       <div class="panel p2">
         <div class="ph">Capas</div>
         <label><input type="checkbox" id="L2-vaso" checked><span class="sw" style="background:#ff7a45"></span>Vaso del relleno</label>
@@ -1436,7 +1528,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 
 <section id="falla" aria-labelledby="t-falla">
   <div class="shd"><span class="n">6</span>
-    <h2 id="t-falla">La palabra que no aparece</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023 · Cap. 3.5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Cap. 4</a></p></div>
+    <h2 id="t-falla">Una falla que el estudio de impactos no menciona</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Informe geológico-estructural 2023 · Cap. 3.5</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Cap. 4</a></p></div>
   <p class="intro">En 2023, antes de presentar el estudio, el titular encargó un <a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">informe geológico</a>
   a sus propios consultores. Esto es lo que le entregaron:</p>
   <blockquote class="cita">Se confirma la existencia de una <b>falla potencialmente activa</b> y
@@ -1488,7 +1580,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 
 <section id="escorrentia" aria-labelledby="t-escorrentia">
   <div class="shd"><span class="n">7</span>
-    <h2 id="t-escorrentia">Dónde termina el agua</h2><p class="src">Trazado D8 sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/214_Cap_33_Hidrologia.rar" target="_blank" rel="noopener">Cap. 3.3</a></p></div>
+    <h2 id="t-escorrentia">Lo que escurra del predio llega al Estero Marga-Marga</h2><p class="src">Trazado D8 sobre el modelo de elevación · <a href="https://seia.sea.gob.cl/archivos/2026/07/14/214_Cap_33_Hidrologia.rar" target="_blank" rel="noopener">Cap. 3.3</a></p></div>
   <p class="intro">Si algo escurre del relleno, el terreno decide hacia dónde.
   <b>Ciento veinte recorridos</b> trazados desde la zona de disposición y las piscinas de
   lixiviados, siguiendo la máxima pendiente celda por celda. <b>Los 120 terminan en el mismo lugar</b>: el Estero
@@ -1535,7 +1627,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 
 <section id="vial" aria-labelledby="t-vial">
   <div class="shd"><span class="n">8</span>
-    <h2 id="t-vial">El tránsito que no se modeló</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18 Estudio de Impacto Vial</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a></p></div>
+    <h2 id="t-vial">Los camiones que declara no alcanzan para la basura que declara</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18 Estudio de Impacto Vial</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a></p></div>
   <p class="intro">El estudio de impacto vial del proyecto modela <b>182 viajes de camión al día</b>
   y concluye que no hay impacto. No dice <b>cuánto carga cada camión</b>, ni menciona que
   el relleno pasa de <b>2.466 toneladas diarias</b> el primer año a <b>4.460 en el año 25</b>,
@@ -1563,7 +1655,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     </div>
     <canvas id="t-canvas" width="1000" height="300" role="img"
       aria-label="Comparación animada del flujo de camiones en la hora punta: el estudio de impacto vial modela 20 camiones por hora en 2028; con la carga que declara el propio titular, el tonelaje del año 25 exige unos 44."></canvas>
-    <div class="tpies">
+    <div class="tpies" aria-live="polite">
       <div><span class="tn" id="t-eiv">—</span>
         <span class="tl">camiones/hora según el <b>Estudio de Impacto Vial</b>, en 2028</span></div>
       <div><span class="tn c-acc" id="t-real">—</span>
@@ -1621,7 +1713,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 </section>
 
 <section id="pluma" aria-labelledby="t-pluma">
-  <div class="shd"><span class="n">9</span><h2 id="t-pluma">Quién queda a sotavento</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2 Modelación meteorológica</a></p></div>
+  <div class="shd"><span class="n">9</span><h2 id="t-pluma">El viento predominante sopla hacia las poblaciones</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2 Modelación meteorológica</a></p></div>
   <p class="intro">Las catorce poblaciones más cercanas están <b>todas al norte o al noreste</b>
   del relleno: ninguna supera el rumbo 51,4° y ninguna baja del 359°. <b>Ninguna queda a
   <abbr title="De donde viene el viento. Sotavento es hacia donde va.">barlovento</abbr>.</b> <i>Botania</i> está a 1,9° y <i>Cumbres de Quilpué</i> a 359°: sobre el eje
@@ -1663,7 +1755,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
 
 <section id="influencia" aria-labelledby="t-influencia">
   <div class="shd"><span class="n">10</span>
-    <h2 id="t-influencia">A quién reconoce el estudio</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a> · shapefile AI_MedioHumano del expediente</p></div>
+    <h2 id="t-influencia">Poblaciones que quedan fuera del área afectada por pocos metros</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_319_Medio_Humano.rar" target="_blank" rel="noopener">Cap. 3.19</a> · shapefile AI_MedioHumano del expediente</p></div>
   <p class="intro">El titular dibujó un <b>Área de Influencia del Medio Humano de 3.487 hectáreas</b>
   y la acompañó al expediente como archivo cartográfico. Cruzado ese polígono con las
   veintiséis poblaciones más cercanas: <b>dos quedan dentro. Veinticuatro quedan fuera.</b></p>
@@ -1761,9 +1853,9 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
         alt="Fotomontaje del titular: vista del relleno desde el sector Pompeya Sur, a unos 2 km. El macizo corona el cerro al fondo, tras las casas y el cerco del primer plano.">
       <svg id="fsvg" viewBox="0 0 1342 753" preserveAspectRatio="none" aria-hidden="true"></svg>
     </div>
-    <div class="fbtns">
-      <button class="tg" id="f-no" aria-pressed="true">Lo que no muestra</button>
-      <button class="tg" id="f-lo" aria-pressed="false">Lo que muestra, según el titular</button>
+    <div class="fbtns" role="group" aria-label="Qué ver sobre la foto">
+      <button class="tg" id="f-no" aria-pressed="true">Lo que omite</button>
+      <button class="tg" id="f-lo" aria-pressed="false">Lo que muestra el titular</button>
     </div>
     <figcaption>
       <span class="cit">«El fotomontaje muestra el escenario durante la <b>etapa de cierro</b> <i>[sic]</i> con
@@ -1851,18 +1943,21 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
   a hacerse cargo de cada observación y pronunciarse fundadamente sobre todas ellas en la
   Resolución de Calificación Ambiental, y esa respuesta
   queda en el expediente — es lo que después permite reclamar.</p>
-  <ol class="pasos">
-    <li>Necesitas tu <b>ClaveÚnica</b>, la misma del Registro Civil.</li>
-    <li>Entra al expediente <b class="num">2168892026</b> en el portal del <span class="sc">sea</span>.</li>
-    <li>Elige <b>«observación ciudadana»</b> y escribe lo que te preocupa, con tus palabras.</li>
-    <li>Si puedes, <b>cita un dato de esta página</b>: la distancia, el viento, el oficio de un servicio.</li>
-    <li><b>Descarga el comprobante.</b> Es tu constancia de que observaste dentro de plazo.</li>
-  </ol>
   <a class="relato-cta obs-cta" href="observaciones.html">
     <span class="rc-k">Veintiuna observaciones fundadas</span>
     <span class="rc-t">Cada una con la cita textual del expediente, el documento y la página. Elige las que te importan, escribe tu población y copia un solo texto.</span>
     <span class="rc-a">Ver y armar la mía →</span>
   </a>
+  <ol class="pasos">
+    <li>Necesitas tu <b>ClaveÚnica</b>, la misma del Registro Civil.</li>
+    <li>Entra al expediente <b class="num">2168892026</b> en el portal del <span class="sc">sea</span>.</li>
+    <li>Elige <b>«observación ciudadana»</b> y pega el texto que preparaste en las <a href="observaciones.html">observaciones listas</a>; agrega con tus palabras cómo te afecta.</li>
+    <li>Si puedes, <b>cita un dato de esta página</b>: la distancia, el viento, el oficio de un servicio.</li>
+    <li><b>Descarga el comprobante.</b> Es tu constancia de que observaste dentro de plazo.</li>
+  </ol>
+
+  <details class="plegado modelos-d">
+  <summary>Ver cuatro ejemplos aquí mismo</summary>
   <h3 class="modh">Cuatro observaciones listas para copiar</h3>
   <p class="modp">Cada una cita solo lo que dice el propio expediente. Cópiala, cambia lo que va entre corchetes
   y agrega con tus palabras por qué te afecta. El SEA debe responder cada observación en la Resolución de
@@ -1889,14 +1984,15 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
       <button type="button" class="copiar">Copiar este texto</button>
     </figure>
   </div>
+  </details>
   <div class="acciones">
-    <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación al SEA →</a>
-    <a class="btn2" href="observaciones.html">Las veintiuna observaciones →</a>
+    <a class="btn" href="observaciones.html">Armar mi observación →</a>
+    <a class="btn2" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ir al formulario del SEA →</a>
     <a class="btn2" href="que-puede-pasar.html">Qué pasa después, y en qué plazos →</a>
   </div>
-  <p class="note">Para ingresarla hace falta <b>ClaveÚnica</b>. El circuito es este: tu observación entra al expediente,
-  el SEA la incluye en su informe consolidado al titular, el titular debe responderla en su <b>Adenda</b>, y la autoridad
-  se pronuncia sobre ella en la <b>Resolución de Calificación Ambiental</b>. Sin observaciones, nada de eso ocurre.</p>
+  <p class="note">Para ingresarla hace falta <b>ClaveÚnica</b>. El circuito es este: tu observación entra al expediente;
+  si el SEA la traslada al titular en su informe de observaciones, el titular debe responderla en su <b>Adenda</b>; y la
+  autoridad debe pronunciarse fundadamente sobre ella en la <b>Resolución de Calificación Ambiental</b>. Sin observaciones, nada de eso ocurre.</p>
   <p class="note">El plazo cierra el <b>3 de noviembre de 2026</b>, según la ficha oficial del
   expediente, y no se amplía. Sí puede abrirse un <b>nuevo período</b> de participación si la
   Adenda modifica sustantivamente el proyecto.
@@ -1967,7 +2063,6 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
   valores específicos del titular, que están en el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4</a> del expediente.<br>
   <b>Esta página es un análisis técnico independiente</b> construido sobre documentos públicos.
   No representa al titular ni a ningún organismo del Estado.<br>
-  <b>Quién firma.</b> <span class="firma">[nombre o colectivo · contacto]</span> ·
   Publicado el 20 de octubre de 2026 · última actualización el <b>{fecha}</b> ·
   Código, datos y método: <a href="https://github.com/FeniaPfa/seia-data" target="_blank" rel="noopener">github.com/FeniaPfa/seia-data</a> ·
   Texto y mapas bajo licencia CC BY 4.0; datos de OpenStreetMap bajo ODbL ·
@@ -1975,9 +2070,8 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
   <a class="imprimir" href="#" onclick="window.print();return false">Imprimir esta página</a>
 </footer>
 </main>
-<div class="barra-cta" role="region" aria-label="Ingresar una observación">
-  <a class="como" href="observaciones.html">Textos listos</a>
-  <a class="ir" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación →</a>
+<div class="barra-cta" role="region" aria-label="Armar una observación">
+  <a class="ir" href="observaciones.html"><span>Armar mi observación<span class="dias-b"></span> →</span></a>
 </div>
 
 
@@ -2012,12 +2106,29 @@ else { document.body.classList.add('cerrado');
   $('.plazo .t').textContent='la participación ciudadana cerró el 3 de noviembre';
   $('.plazo .cta').textContent='Qué viene ahora →';
   $('.plazo').href='que-puede-pasar.html'; $('.plazo').removeAttribute('target');
-  var bi=$('.barra-cta .ir'); if(bi){ bi.textContent='Qué viene ahora →'; bi.href='que-puede-pasar.html'; bi.removeAttribute('target'); }
+  var bi=$('.barra-cta .ir'); if(bi){ bi.textContent='Qué viene ahora →'; bi.href='que-puede-pasar.html'; }
   var bo=$('#observar .btn'); if(bo){ bo.textContent='El plazo cerró: seguir el expediente en el SEA →';
     bo.href='https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026'; }
   var no=$('#observar .note'); if(no) no.innerHTML='<b>El plazo cerró el 3 de noviembre de 2026.</b> Las observaciones '+
     'ingresadas se responden en la Adenda del titular y en la Resolución de Calificación Ambiental. Si la Adenda '+
     'modifica sustantivamente el proyecto, se abre un nuevo período de participación (art. 92 del D.S. 40).'; }
+
+/* ---- barra fija en celular: un solo botón, solo cuando hace falta ----
+   aparece cuando el recuadro del plazo ya salió de la pantalla y se esconde donde ya hay botones
+   (la sección «Cómo se ingresa» y el pie); su alto real reserva el espacio de abajo */
+(function(){
+  var b=$('.barra-cta'); if(!b) return;
+  var db=$('.barra-cta .dias-b'); if(db&&dd>1) db.textContent=' · quedan '+dd+' días';
+  if(window.ResizeObserver) new ResizeObserver(function(){
+    document.documentElement.style.setProperty('--barra-h',b.offsetHeight+'px') }).observe(b);
+  if(!('IntersectionObserver' in window)){ b.classList.add('on'); return; }
+  var vis={}, obj=[$('header .plazo'),$('#observar'),$('footer')].filter(Boolean);
+  var io=new IntersectionObserver(function(es){
+    es.forEach(function(e){ vis[obj.indexOf(e.target)]=e.isIntersecting });
+    b.classList.toggle('on',!obj.some(function(o,i){ return vis[i] }));
+  });
+  obj.forEach(function(o){ io.observe(o) });
+})();
 
 /* ---- índice: abierto en pantallas anchas, plegado en celular, numerado como las secciones ---- */
 (function(){
@@ -2039,7 +2150,7 @@ else { document.body.classList.add('cerrado');
   var actual=null, fijo=false;
   Array.prototype.forEach.call(ab,function(a){
     a.setAttribute('data-def',a.getAttribute('title')); a.removeAttribute('title');
-    a.tabIndex=0; a.setAttribute('aria-expanded','false');
+    a.tabIndex=0; a.setAttribute('role','button'); a.setAttribute('aria-expanded','false');
   });
   function abrir(a){
     if(actual&&actual!==a) actual.setAttribute('aria-expanded','false');
@@ -2352,7 +2463,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var ts=el('text',{x:0,y:-6,'font-size':11,'font-family':'var(--cart)','font-weight':600,
     fill:'#fbf7ec','paint-order':'stroke',stroke:'#14161a','stroke-width':3,
     'stroke-linejoin':'round'});
-  ts.textContent='0        1        2 km'; g.appendChild(ts);
+  [[0,'0','start'],[2,'2 km','end']].forEach(function(r){ var c=ts.cloneNode(); c.setAttribute('x',r[0]*kmpx); c.setAttribute('text-anchor',r[2]); c.textContent=r[1]; g.appendChild(c); });
   svg.appendChild(g);
 
   /* norte */
@@ -2464,7 +2575,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var t=el('text',{x:0,y:-6,'font-size':11,'font-family':'var(--cart)','font-weight':600,
       fill:'#fbf7ec','paint-order':'stroke',stroke:'#14161a','stroke-width':3,
       'stroke-linejoin':'round'});
-    t.textContent='0        1        2 km'; g.appendChild(t); svg.appendChild(g);
+    [[0,'0','start'],[2,'2 km','end']].forEach(function(r){ var c=t.cloneNode(); c.setAttribute('x',r[0]*kmpx); c.setAttribute('text-anchor',r[2]); c.textContent=r[1]; g.appendChild(c); }); svg.appendChild(g);
   })();
   function alt(id,g){
     var b=document.getElementById(id); if(!b) return;
@@ -2621,7 +2732,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var t=el('text',{x:0,y:-6,'font-size':11,'font-family':'var(--cart)','font-weight':600,
       fill:'#fbf7ec','paint-order':'stroke',stroke:'#14161a','stroke-width':3,
       'stroke-linejoin':'round'});
-    t.textContent='0        1        2 km'; g.appendChild(t); svg.appendChild(g);
+    [[0,'0','start'],[2,'2 km','end']].forEach(function(r){ var c=t.cloneNode(); c.setAttribute('x',r[0]*kmpx); c.setAttribute('text-anchor',r[2]); c.textContent=r[1]; g.appendChild(c); }); svg.appendChild(g);
   })();
 
   function alterna(id,g){
@@ -2839,6 +2950,44 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
 
 
 
+/* ---- visores en pantalla completa: botón, salir con «Salir», Escape o el botón atrás ---- */
+(function(){
+  Array.prototype.forEach.call(document.querySelectorAll('.v3'),function(v){
+    var cv=v.querySelector('.cv'), barra=v.querySelector('.v3bar .orb')||v.querySelector('.v3bar .toggles')||v.querySelector('.v3bar');
+    if(!cv||!barra) return;
+    var b=document.createElement('button'); b.type='button'; b.className='tg ic tg-full';
+    var ENTRAR='<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+        SALIR='<span aria-hidden="true">✕</span> Salir';
+    b.innerHTML=ENTRAR; b.setAttribute('aria-label','Pantalla completa'); b.title='Pantalla completa'; barra.appendChild(b);
+    var abierto=false, conHist=false;
+    function gestos(ta){ var c=cv.querySelector('canvas'); if(c) c.style.touchAction=ta; }
+    function avisar(){ try{ dispatchEvent(new Event('resize')) }catch(e){} }
+    function abrir(){
+      if(abierto) return; abierto=true;
+      v.classList.add('full'); document.body.classList.add('con-full');
+      b.innerHTML=SALIR; b.setAttribute('aria-label','Salir de pantalla completa'); b.title='Salir de pantalla completa';
+      gestos('none');
+      try{ if(v.requestFullscreen&&!document.fullscreenElement){ var p=v.requestFullscreen(); if(p&&p.catch) p.catch(function(){}) } }catch(e){}
+      try{ history.pushState({visorCompleto:1},''); conHist=true }catch(e){}
+      avisar(); setTimeout(avisar,300); b.focus();
+    }
+    function cerrar(desdeHistorial){
+      if(!abierto) return; abierto=false;
+      v.classList.remove('full'); document.body.classList.remove('con-full');
+      b.innerHTML=ENTRAR; b.setAttribute('aria-label','Pantalla completa'); b.title='Pantalla completa';
+      gestos('pan-y pinch-zoom');
+      try{ if(document.fullscreenElement) document.exitFullscreen() }catch(e){}
+      if(conHist&&!desdeHistorial){ conHist=false; history.back() } conHist=false;
+      avisar(); setTimeout(avisar,300);
+      v.scrollIntoView({block:'center'}); b.focus();
+    }
+    b.addEventListener('click',function(){ abierto?cerrar():abrir() });
+    addEventListener('popstate',function(){ if(abierto) cerrar(true) });
+    document.addEventListener('fullscreenchange',function(){ if(!document.fullscreenElement&&abierto) cerrar() });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&abierto) cerrar() });
+  });
+})();
+
 /* el panel flotante arranca bajo la barra de botones del visor, no sobre ella */
 (function(){
   var b=document.querySelector('.v3bar'), v=document.querySelector('.v3');
@@ -2906,6 +3055,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var cv=document.getElementById('t-canvas'); if(!cv||!D.vial) return;
   /* el lienzo mide 1000 px pero se muestra más chico: las fuentes se compensan */
   function fk(){ return Math.max(1, cv.width/Math.max(1,cv.getBoundingClientRect().width)*0.75) }
+  if(cv.getBoundingClientRect().width<500) cv.width=600;
   var V=D.vial, E=V.eiv, cx=cv.getContext('2d');
   var sel=document.getElementById('t-carga'), rng=document.getElementById('t-anio');
   /* dos escenarios, ambos con datos del titular: lo que cuenta su planilla de emisiones y lo que
@@ -2933,7 +3083,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       while(k.t>=1){ k.t-=1; k.acum++;
         k.veh.push({x:-40,v:150+Math.random()*40,h:Math.random()<.5?0:1}); }
       k.veh.forEach(function(v){v.x+=v.v*dt});
-      k.veh=k.veh.filter(function(v){return v.x<1040});
+      k.veh=k.veh.filter(function(v){return v.x<cv.width+40});
     });
   }
   function camion(x,y,tono){
@@ -3193,7 +3343,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var t=el('text',{x:0,y:-6,'font-size':11,'font-family':'var(--cart)','font-weight':600,
       fill:'#fbf7ec','paint-order':'stroke',stroke:'#14161a','stroke-width':3,
       'stroke-linejoin':'round'});
-    t.textContent='0        1        2 km'; g.appendChild(t); svg.appendChild(g);
+    [[0,'0','start'],[2,'2 km','end']].forEach(function(r){ var c=t.cloneNode(); c.setAttribute('x',r[0]*kmpx); c.setAttribute('text-anchor',r[2]); c.textContent=r[1]; g.appendChild(c); }); svg.appendChild(g);
   })();
   var b2=document.getElementById('v-cue');
   if(b2) b2.addEventListener('click',function(){
@@ -3389,7 +3539,15 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   gNo.appendChild(t(726,374,'antorcha de biogás','#ffd9c7','middle',15));
   gNo.appendChild(linea(1246,372,1246,440,'#ff7a45',2));
   gNo.appendChild(t(1246,462,'de 182 a unos 400 camiones al día','#ffd9c7','middle',15));
-  /* marcadores numerados: los mismos números de la lista de abajo, legibles también en celular */
+  var F=[
+    ['Los 25 años de operación','El fotomontaje es del <b>escenario de cierre</b>. No existe en el expediente una imagen de la etapa en que el relleno funciona.'],
+    ['El frente de trabajo','El Capítulo 1 lo fija en <b>20 metros de ancho máximo</b>: basura descubierta recibiendo camiones durante toda la jornada.'],
+    ['Las piscinas de lixiviados','La zona de tratamiento ocupa <b>3,48 hectáreas</b> en la cartografía del titular, con sus piscinas y bandejas de evaporación. Son las fuentes de olor que el Anexo 4.4 modela con mayor emisión.'],
+    ['El tránsito','Su estudio vial modela <b>182 camiones al día</b>; para traer la basura del año 25 con la carga que el propio titular declara harían falta <b>unos 400</b>, subiendo ese mismo camino.'],
+    ['Un solo punto de vista','P.O.3, Pompeya Sur. Las otras quince poblaciones con línea de vista al macizo no tienen fotomontaje.'],
+    ['La antorcha','El Capítulo 1 contempla <b>tratamiento de biogás</b>; en la imagen de cierre no aparece ninguna instalación.']
+  ];
+  /* marcadores numerados: se tocan, y su explicación aparece justo bajo la foto */
   var gNum=el('g',{});
   gNo.appendChild(gNum);
   var MARCAS=[[1,560,283],[2,660,283],[3,500,322],[4,1246,396],[5,60,690],[6,726,316]];
@@ -3403,13 +3561,34 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     Array.prototype.forEach.call(gNo.querySelectorAll('text:not([data-fijo]),line'),function(e){
       e.style.display=ang?'none':''; });
     M.forEach(function(m){
-      gNum.appendChild(el('circle',{cx:m[1],cy:m[2],r:r,fill:'#ff7a45',stroke:'#0d1014','stroke-width':Math.max(2,1.5*k)}));
+      var g=el('g',{});
+      g.style.pointerEvents='all'; g.style.cursor='pointer';
+      g.addEventListener('click',function(){ ver(m[0]-1) });
+      gNum.appendChild(g);
+      g.appendChild(el('circle',{cx:m[1],cy:m[2],r:r*1.9,fill:'#000','fill-opacity':0}));
+      var elegido=m[0]-1===sel;
+      g.appendChild(el('circle',{cx:m[1],cy:m[2],r:r,fill:elegido?'#fbf7ec':'#ff7a45',stroke:elegido?'#ff7a45':'#0d1014',
+        'stroke-width':elegido?Math.max(3,2.4*k):Math.max(2,1.5*k)}));
       var n=el('text',{x:m[1],y:m[2]+r*.36,'font-family':'var(--cifra)','font-size':r*1.05,'font-weight':600,
         fill:'#0d1014','text-anchor':'middle'});
-      n.textContent=m[0]; n.setAttribute('data-fijo','1'); gNum.appendChild(n);
+      n.textContent=m[0]; n.setAttribute('data-fijo','1'); g.appendChild(n);
     });
   }
-  numeros();
+  /* ficha bajo la foto: el número elegido, su título y su explicación; ‹ › recorren los seis */
+  var sel=0, fdet=document.createElement('div'); fdet.className='fdet';
+  fdet.innerHTML='<button type="button" aria-label="Anterior">‹</button><div class="fdtx" aria-live="polite"></div>'+
+    '<button type="button" aria-label="Siguiente">›</button>';
+  var fw=svg.parentNode; fw.parentNode.insertBefore(fdet,fw.nextSibling);
+  var bts=fdet.querySelectorAll('button');
+  bts[0].addEventListener('click',function(){ ver(sel-1) });
+  bts[1].addEventListener('click',function(){ ver(sel+1) });
+  function ver(i){
+    sel=(i+F.length)%F.length;
+    fdet.querySelector('.fdtx').innerHTML='<span class="fn">'+(sel+1)+'</span><b>'+F[sel][0]+'.</b> '+F[sel][1]+
+      '<span class="fcu">'+(sel+1)+' de '+F.length+' · toca un número en la foto</span>';
+    numeros();
+  }
+  ver(0);
   addEventListener('resize',function(){ clearTimeout(numeros._t); numeros._t=setTimeout(numeros,150) });
   svg.appendChild(gNo);
 
@@ -3420,18 +3599,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     si.setAttribute('aria-pressed',ver); no.setAttribute('aria-pressed',!ver);
     var c=document.getElementById('faltan');
     if(c) c.style.display=ver?'none':'';
+    fdet.hidden=!!ver;
   }
   si.addEventListener('click',function(){modo(true)});
   no.addEventListener('click',function(){modo(false)});
 
-  var F=[
-    ['Los 25 años de operación','El fotomontaje es del <b>escenario de cierre</b>. No existe en el expediente una imagen de la etapa en que el relleno funciona.'],
-    ['El frente de trabajo','El Capítulo 1 lo fija en <b>20 metros de ancho máximo</b>: basura descubierta recibiendo camiones durante toda la jornada.'],
-    ['Las piscinas de lixiviados','La zona de tratamiento ocupa <b>3,48 hectáreas</b> en la cartografía del titular, con sus piscinas y bandejas de evaporación. Son las fuentes de olor que el Anexo 4.4 modela con mayor emisión.'],
-    ['El tránsito','Su estudio vial modela <b>182 camiones al día</b>; para traer la basura del año 25 con la carga que el propio titular declara harían falta <b>unos 400</b>, subiendo ese mismo camino.'],
-    ['Un solo punto de vista','P.O.3, Pompeya Sur. Las otras quince poblaciones con línea de vista al macizo no tienen fotomontaje.'],
-    ['La antorcha','El Capítulo 1 contempla <b>tratamiento de biogás</b>; en la imagen de cierre no aparece ninguna instalación.']
-  ];
+
   var c=document.getElementById('faltan');
   if(c){
     F.forEach(function(f){
