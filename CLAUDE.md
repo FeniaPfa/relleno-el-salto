@@ -274,7 +274,7 @@ Corte Suprema sobre el relleno Santa Inés de Alto Hospicio, rol 112.449-2020) y
 se citan con su enlace en el texto que los usa, siempre atribuidos a su caso; **no se descargan dentro
 del repo**. Si hace falta leer uno, va a una carpeta temporal y se borra al terminar.
 
-### Dos trampas que ya mordieron
+### Trampas que ya mordieron
 
 **1. Medir distancias vértice a vértice.** Varios polígonos del expediente y de la SMA son muy
 gruesos: el Sitio Prioritario trae **35 vértices** de origen, a escala 1:50.000. Comparar sólo
@@ -294,6 +294,12 @@ anual y está ahora escrita en `proyecciones.py`.
 **3. Páginas de PDF.** Los marcadores `===== p.N =====` de `expediente/texto/` cuentan desde 0:
 la página del PDF (la de `#page=`) es N+1, y no coincide con el folio impreso (en el Capítulo 1 la
 tabla de producción está en el PDF p. 72, folio 62). `observaciones.html` cita siempre la del PDF.
+
+**4. Dos clasificaciones de especies.** La línea de base de fauna (Cap. 3.11) pone a la culebra de cola
+larga como Vulnerable citando el Reglamento de la Ley de Caza (DS 5/1998 MINAGRI); el Capítulo 5 y los PAS
+usan la clasificación oficial del RCE (DS 16/2016 MMA): Preocupación menor. Parecía una contradicción del
+expediente y no lo era. **La categoría de una especie es la del RCE**; antes de llamar «contradicción» a dos
+cifras distintas, mira qué norma cita cada una.
 
 **La lección común:** cuando una cifra agregada cuadra, no asumas que la serie que la produce
 cuadra. Verifica los extremos.
