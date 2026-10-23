@@ -4,7 +4,12 @@ Análisis geoespacial independiente del EIA del relleno sanitario **COSEMAR** en
 Viña del Mar. Expediente SEIA **2168892026**. La participación ciudadana cierra el
 **3 de noviembre de 2026**.
 
-Sitio estático publicado en GitHub Pages: <https://feniapfa.github.io/relleno-el-salto/>
+Sitio estático publicado en Cloudflare Workers desde la rama `main`: <https://relleno-el-salto.chacao.workers.dev/>.
+Los PR van a `dev`; la dueña del repo pasa `dev` a `main` a mano, y eso es lo que se publica.
+
+**Cloudflare quita la extensión:** `/especies.html` responde con un 307 a `/especies`. Por eso las URL
+canónicas, `og:url`, el JSON-LD, el sitemap y `llms.txt` usan la forma sin `.html`, que es la final.
+Los enlaces internos siguen con `.html`: funcionan con la redirección y en el servidor local.
 
 ## Objetivo, y el criterio con el que se decide todo
 
@@ -175,15 +180,16 @@ rótulo, son 5.040: sigue siendo barato, pero mide.
 - El JSON-LD de la principal se arma en `ldjson()` de `build.py` (sitio, análisis, lugar con
   coordenadas, preguntas); `dateModified` y el `sitemap.xml` salen de la fecha del último commit.
 - `llms.txt` resume los hechos con su fuente en el expediente; si cambia una cifra, cámbiala ahí.
-- **El nombre del sitio y el ícono que muestra Google salen de la raíz del dominio**
-  (`feniapfa.github.io`), que es un 404 de GitHub: por eso el resultado dice «GitHub Pages
-  documentation» con un globo, aunque el `WebSite` y los íconos de este repo estén bien. Solo se
-  arregla con el repo `FeniaPfa.github.io` o con un dominio propio; se decidió esperar (2026-10-23).
+- **El nombre del sitio y el ícono que muestra Google salen de la raíz del dominio.** Mientras el
+  sitio vivió en `feniapfa.github.io/relleno-el-salto/`, la raíz era un 404 de GitHub y Google
+  mostraba «GitHub Pages documentation». En Cloudflare el sitio está en la raíz de su propio
+  subdominio, así que el `WebSite` y los íconos de este repo son los que cuentan.
 - **Las FAQ no dan resultado enriquecido** (desde 2023 Google lo reserva a sitios de gobierno y de
   salud). Se mantienen porque ayudan a leer y alimentan a los motores generativos.
 - Los `<title>` se mantienen bajo ~60 caracteres: con 95, Google reemplazó el título por el h1.
-- **`robots.txt` no tiene efecto aquí:** el sitio vive en `/relleno-el-salto/` y los buscadores solo leen el
-  de la raíz del dominio. El sitemap hay que enviarlo a mano en Google Search Console.
+- **`robots.txt` sí tiene efecto** desde que el sitio vive en la raíz del dominio, y declara el sitemap.
+  Igual conviene enviar el sitemap en Google Search Console, con una propiedad de prefijo de URL para
+  `https://relleno-el-salto.chacao.workers.dev/`.
 
 ## Imagen social
 

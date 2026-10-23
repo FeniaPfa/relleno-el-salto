@@ -4,7 +4,7 @@ Análisis geoespacial independiente del Estudio de Impacto Ambiental del relleno
 «Centro Metropolitano de Gestión Integral de Residuos» (Cosemar SpA), El Salto, Viña del Mar.
 Expediente SEIA **2168892026**. La participación ciudadana cierra el **3 de noviembre de 2026**.
 
-**→ <https://feniapfa.github.io/relleno-el-salto/>**
+**→ <https://relleno-el-salto.chacao.workers.dev/>**
 
 Todo sale de los documentos que el propio titular presentó al SEIA, de cartografía suya
 reproyectada desde EPSG:32719, de OpenStreetMap y de imágenes Sentinel-2. Cada sección declara
@@ -17,11 +17,11 @@ sitio que el servicio puede cambiar o retirar.
 
 | página | qué es |
 |---|---|
-| [`index.html`](https://feniapfa.github.io/relleno-el-salto/) | el análisis: cifras, mapas, dos visores 3D, preguntas frecuentes y observaciones modelo para ingresar en el SEA |
-| [`observaciones.html`](https://feniapfa.github.io/relleno-el-salto/observaciones.html) | veintiuna observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
-| [`especies.html`](https://feniapfa.github.io/relleno-el-salto/especies.html) | las trece especies que el expediente registra en el área, con foto de licencia libre, categoría, lo que el proyecto les hace y lo que el estudio no resuelve |
-| [`relato.html`](https://feniapfa.github.io/relleno-el-salto/relato.html) | el recorrido en 3D con scroll: la quebrada que se llena, el viento, el agua y la vista desde cada población |
-| [`tramite.html`](https://feniapfa.github.io/relleno-el-salto/tramite.html) | el recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300 y lo que obliga cada desenlace |
+| [`index.html`](https://relleno-el-salto.chacao.workers.dev/) | el análisis: cifras, mapas, dos visores 3D, preguntas frecuentes y observaciones modelo para ingresar en el SEA |
+| [`observaciones.html`](https://relleno-el-salto.chacao.workers.dev/observaciones) | veintiuna observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
+| [`especies.html`](https://relleno-el-salto.chacao.workers.dev/especies) | las trece especies que el expediente registra en el área, con foto de licencia libre, categoría, lo que el proyecto les hace y lo que el estudio no resuelve |
+| [`relato.html`](https://relleno-el-salto.chacao.workers.dev/relato) | el recorrido en 3D con scroll: la quebrada que se llena, el viento, el agua y la vista desde cada población |
+| [`tramite.html`](https://relleno-el-salto.chacao.workers.dev/tramite) | el recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300 y lo que obliga cada desenlace |
 
 Las cinco son **generadas**: no se editan a mano.
 

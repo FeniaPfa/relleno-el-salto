@@ -12,7 +12,7 @@ import io, os, re, shutil, subprocess, sys, datetime, json, html as htmlmod
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 SRC  = os.path.join(AQUI, 'src')
-URL  = 'https://feniapfa.github.io/relleno-el-salto/'
+URL  = 'https://relleno-el-salto.chacao.workers.dev/'
 
 def leer(n): return io.open(os.path.join(SRC, n), encoding='utf-8').read()
 
@@ -92,7 +92,7 @@ def segunda(h):
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('tramite.html  %.1f KB' % (os.path.getsize(destino) / 1024))
     # la dirección anterior ya circuló por WhatsApp y en buscadores: redirige, conservando el ancla
-    nueva = URL + 'tramite.html'
+    nueva = URL + 'tramite'
     io.open(os.path.join(AQUI, 'que-puede-pasar.html'), 'w', encoding='utf-8').write(
         '<!doctype html>\n<html lang="es-CL">\n<meta charset="utf-8">\n<title>El trámite del relleno de El Salto</title>\n'
         '<meta name="viewport" content="width=device-width,initial-scale=1">\n<meta name="robots" content="noindex">\n'
@@ -187,7 +187,7 @@ def ldjson(pleno):
        'description': 'Análisis independiente del Estudio de Impacto Ambiental del relleno sanitario de Cosemar SpA '
                       'en El Salto, Viña del Mar (expediente SEIA 2168892026), hecho sobre los documentos del propio titular.',
        'inLanguage': 'es-CL', 'datePublished': '2026-10-20', 'dateModified': fecha_iso(),
-       'image': URL + 'social.jpg?v=3', 'license': 'https://creativecommons.org/licenses/by/4.0/',
+       'image': URL + 'social.jpg?v=4', 'license': 'https://creativecommons.org/licenses/by/4.0/',
        'keywords': 'relleno sanitario, El Salto, Viña del Mar, Quilpué, Pompeya Sur, Pompeya Norte, Alto Valencia, '
                    'Población Esperanza, Los Fundadores, Nuevo Horizonte, Botania, Cumbres de Quilpué, Las Lomas, '
                    'El Calichero, Estero Quilpué, Cosemar, SEIA 2168892026, participación ciudadana, '
@@ -255,7 +255,7 @@ def relato(h, visor_js):
 
 def sitemap():
     f = fecha_iso()
-    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones.html', 'especies.html', 'relato.html', 'tramite.html'))
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones', 'especies', 'relato', 'tramite'))
     io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 
