@@ -31,9 +31,20 @@ durante la **etapa de cierre**». No hay ninguna imagen de los 25 años de opera
 
 **Otros publicados.** 99,7 % del predio quemado en feb-2024 (dNBR Sentinel-2); viento de 180°–200°
 con las 14 poblaciones más cercanas en el semicírculo norte y 2 en el rango estricto 0°–20°; AI del medio humano de 3.487 ha que excluye a Botania por
-**72 m**; tres cifras de camiones incompatibles (65 / 91 / 176–319 a 14 t por camión); los 120 recorridos de
+**72 m**; cuatro cifras de camiones incompatibles (65 losa / 182 estudio vial / 294 planilla del Anexo 4.1 / ~401 que exige el tonelaje con su propia carga — ver abajo); los 120 recorridos de
 escorrentía terminan en el Marga-Marga; 19 de 25 organismos con observaciones; y contra incendio
 el expediente no compromete red húmeda, red seca ni hidrantes — **cero menciones** en los Cap. 1 y 8.
+
+**Camiones (corregido el 2026-10-23).** La página decía «65, 91 y hasta 319». El 91 salía de suponer
+que los 182 viajes del Cap. 3.18 contaban ida y vuelta por separado, y el 319 de suponer 14 t por camión.
+Ninguna de las dos cosas la dice el titular. Lo que sí dice: Anexo 4.1, Tabla 13 (pp. 26-27), recolector
+**10,86 t**, semirremolque **14,6 t**; Tabla 78 (p. 107), **64.240** viajes al relleno el año 3 y **109.406**
+el año 27; su calculadora (Anexo D, xlsx dentro del .rar) cuenta los viajes por comuna con **365 días**
+—172 camiones de basura al día el año 1, 294 el año 25— y cada «viaje» es un camión (distancia de ida y
+vuelta), coherente con los 182 del Cap. 3.18 para 2028. Con esas cargas la flota trae **74–78 %** del
+tonelaje del Cap. 1; aun si los 109.406 fueran semirremolques: 1.597.328 t < 1.627.853 t. Traerlo todo:
+~222 → ~401 camiones/día (cálculo propio). **No hay horario de recepción** en el expediente: cualquier
+cifra por hora es supuesto; la página usa la proporción del propio Cap. 3.18 (20 de 182 en la punta).
 
 ## Verificado, sin publicar
 

@@ -1167,7 +1167,7 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
         <div><div class="n" id="k-ton">—</div><div class="l">toneladas acumuladas</div></div>
         <div><div class="n" id="k-esp">—</div><div class="l">espesor medio de masa</div></div>
         <div><div class="n" id="k-ch4">—</div><div class="l">metano generado ese año</div></div>
-        <div><div class="n" id="k-cam">—</div><div class="l">viajes de camión al día · ida y vuelta, a 10 t por camión</div></div>
+        <div><div class="n" id="k-cam">—</div><div class="l">camiones de basura al día · con la carga que declara el titular</div></div>
       </div>
     </div>
   </div>
@@ -1539,18 +1539,21 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
   <div class="shd"><span class="n">8</span>
     <h2 id="t-vial">El tránsito que no se modeló</h2><p class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18 Estudio de Impacto Vial</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a></p></div>
   <p class="intro">El estudio de impacto vial del proyecto modela <b>182 viajes de camión al día</b>
-  y concluye que no hay impacto. Pero nunca dice <b>cuánto carga cada camión</b>, ni menciona que
+  y concluye que no hay impacto. No dice <b>cuánto carga cada camión</b>, ni menciona que
   el relleno pasa de <b>2.466 toneladas diarias</b> el primer año a <b>4.460 en el año 25</b>,
   según la tabla de producción anual del propio <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> —la que suma las 30.741.988 t que
   declara—. Su tasa de diseño, la que sí repite en todo el expediente, es de 2.500 t/día.</p>
-  <p class="intro">Si se hace esa división, los números no cierran: con compactadores recolectores
-  —el vehículo que el propio estudio declara— harían falta <b>entre dos y cinco veces más
-  camiones</b> de los que modeló.</p>
+  <p class="intro">La carga sí está en otro documento del mismo expediente: el inventario de emisiones
+  del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4.1</a> fija <b>10,86 t por camión recolector</b> y 14,6 t por semirremolque, y su
+  planilla cuenta <b>172 camiones de basura al día el primer año y 294 en el año 25</b>, los 365 días
+  del año. Con esa misma carga, esos camiones traen solo <b>entre el 74 y el 78 %</b> de la basura que
+  el proyecto declara. Para traerla entera harían falta <b>unos 222 al día el primer año y unos 401
+  en el año 25</b>: más del doble de lo que modela el estudio vial.</p>
 
   <figure class="trafico">
     <div class="tcab">
       <div class="tctrl">
-        <label class="tlab" for="t-carga">Carga por camión</label>
+        <label class="tlab" for="t-carga">Escenario</label>
         <select id="t-carga"></select>
       </div>
       <div class="tctrl">
@@ -1561,25 +1564,30 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <button class="play" id="t-play">❚❚ Pausar</button>
     </div>
     <canvas id="t-canvas" width="1000" height="300" role="img"
-      aria-label="Comparación animada del flujo de camiones en la hora punta: el estudio de impacto vial modela 20 viajes por hora, mientras el tonelaje del proyecto implica entre 50 y 71."></canvas>
+      aria-label="Comparación animada del flujo de camiones en la hora punta: el estudio de impacto vial modela 20 camiones por hora en 2028; con la carga que declara el propio titular, el tonelaje del año 25 exige unos 44."></canvas>
     <div class="tpies">
       <div><span class="tn" id="t-eiv">—</span>
-        <span class="tl">viajes/hora según el <b>Estudio de Impacto Vial</b></span></div>
+        <span class="tl">camiones/hora según el <b>Estudio de Impacto Vial</b>, en 2028</span></div>
       <div><span class="tn c-acc" id="t-real">—</span>
-        <span class="tl">viajes/hora según el <b>tonelaje declarado</b></span></div>
+        <span class="tl">camiones/hora en el <b>escenario elegido</b></span></div>
       <div><span class="tn" id="t-fac">—</span>
-        <span class="tl">veces más camiones de los modelados</span></div>
+        <span class="tl">veces lo que modela el estudio vial</span></div>
     </div>
-    <figcaption>Hora punta de la tarde, 18:00–19:00, la misma que usa el estudio. Cada figura es
-    un camión real pasando por el acceso en la Ruta 60. El tiempo corre acelerado sesenta veces.</figcaption>
+    <figcaption>Hora punta de la tarde, 18:00–19:00, la misma que usa el estudio. El expediente no declara
+    un horario de recepción: la hora punta se calcula con la proporción del propio estudio vial, que
+    pone 20 de sus 182 viajes diarios en esa hora. Cada figura es un camión entrando por el acceso en la
+    Ruta 60; el tiempo corre acelerado sesenta veces. <span class="c-blue">Cálculo de esta página sobre
+    datos del titular.</span></figcaption>
   </figure>
 
   <figure class="tres">
-    <h3>Tres capítulos, tres cifras: 65, 91 y hasta 319 camiones al día</h3>
+    <h3>Un expediente, cuatro cifras: 65, 182, 294 y unos 401 camiones al día</h3>
     <svg id="c-tres" viewBox="0 0 700 300"></svg>
     <figcaption>El titular dimensionó la losa de lavado para <b>65 camiones diarios</b>, modeló
-    el tránsito con <b>91</b>, y declaró un tonelaje que exige <b>entre 176 y 319</b>.
-    Ninguna de las tres cifras conversa con las otras.</figcaption>
+    el tránsito con <b>182</b> en 2028, contó <b>294</b> en el año 25 para calcular sus emisiones, y
+    declaró un tonelaje que, con su propia carga por camión, exige <b>unos 401</b>. Ninguna de las
+    cuatro cifras conversa con las otras. <span class="c-blue">La última es cálculo de esta página: el
+    tonelaje del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=72" target="_blank" rel="noopener">Capítulo 1</a> dividido por la carga del Anexo 4.1.</span></figcaption>
   </figure>
 
   <div class="aviso" style="border-left-color:var(--acc)">
@@ -1592,21 +1600,26 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
     vial no menciona percolados, derrames ni limpieza: cero apariciones. No se exige carga
     sellada, ni cobertura, ni inspección al ingreso.</p>
     <p>Y ese viaje no es rural. Según el propio estudio, los camiones vienen de Valparaíso,
-    Viña del Mar, Concón, Quintero, Puchuncaví y Casablanca, y entran por
+    Viña del Mar, Concón, Quintero, Puchuncaví y Casablanca —el inventario de emisiones suma Quilpué,
+    Villa Alemana, Limache, Quillota, San Antonio y otras cinco comunas—, y entran por
     <b><i>Agua Santa</i>, <i>Álvarez</i>, <i>Viana</i></b> y Camino La Pólvora — avenidas
     urbanas, con casas, colegios y comercio a ambos lados, antes de tomar el Troncal Sur.</p>
     <p>A eso se suma que la losa de lavado está dimensionada para <b>65 camiones al día</b>:
-    el <b>20 %</b> del tránsito que el propio tonelaje exige en el año 25. Aun los camiones que
+    menos de un cuarto de los 294 que el propio titular cuenta para el año 25. Aun los camiones que
     sí se lavan, se lavan al llegar, no antes de cruzar la ciudad.</p>
   </div>
 
-  <p class="note">El estudio declara <b>182 viajes/día de camiones recolectores</b> sin indicar
-  capacidad de carga, y modela solo los años 2027 y 2028. Para que 182 viajes basten en el año 25,
-  cada camión tendría que cargar <b>23,3 toneladas</b> si los 182 son solo ingresos, o
-  <b>46,6</b> si son ida y vuelta — muy por encima de lo que transporta un compactador recolector,
-  que mueve entre 10 y 14 toneladas. <b>Esta es una inconsistencia entre dos capítulos del mismo
-  estudio</b>, no un cálculo externo: el tonelaje sale del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> y los viajes del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a>.</p>
-  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado, porque el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a> modela 182 viajes solo para 2027 y 2028 sin indicar la carga, y la losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> está dimensionada para 65 camiones al día.<br><a class="usar" href="observaciones.html#obs-camiones">El texto completo, con citas y páginas →</a></p>
+  <p class="note">El <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a> declara <b>182 viajes/día de camiones recolectores</b>
+  sin indicar su carga y modela solo los cortes 2027 y 2028. El <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4.1</a> sí la declara
+  (Tabla 13, pp. 26-27) y cuenta los viajes al relleno año a año: <b>64.240 el primer año de operación y
+  109.406 el último</b> (Tabla 78, p. 107). La comprobación no necesita supuestos: aunque cada uno de esos
+  109.406 viajes fuera un semirremolque de 14,6 t —el camión más grande que declara—, traerían
+  1.597.328 t, menos que las <b>1.627.853 t</b> que el <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=72" target="_blank" rel="noopener">Capítulo 1</a> declara para ese año. Con la
+  flota real de su planilla (365 días, 90 % recolectores), la capacidad cubre entre el 74 y el 78 % del
+  tonelaje todos los años. <b>Es una inconsistencia entre documentos del propio titular</b>: subestima
+  el tránsito y, con él, el polvo de caminos y las emisiones de los camiones. El expediente tampoco
+  declara un horario de recepción, del que depende cuántos camiones pasan por hora.</p>
+  <p class="note pide"><b>Qué pediría una observación aquí</b>Cuántos camiones ingresarán cada año, con qué carga y en qué horario, por qué calles urbanas, y qué medidas impiden derrames de líquidos en el viaje cargado; que rehaga el estudio vial y el inventario de emisiones con una flota que alcance a traer el tonelaje declarado, porque la del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4.1</a> trae solo entre el 74 y el 78 %, el <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a> modela 182 viajes solo para 2028, y la losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> está dimensionada para 65 camiones al día.<br><a class="usar" href="observaciones.html#obs-camiones">El texto completo, con citas y páginas →</a></p>
 </section>
 
 <section id="pluma" aria-labelledby="t-pluma">
@@ -1868,8 +1881,8 @@ blockquote.cita cite{display:block;font-family:var(--sc);font-size:12.5px;font-s
       <button type="button" class="copiar">Copiar este texto</button>
     </figure>
     <figure class="modelo">
-      <figcaption>Los camiones que no cuadran <span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a></span></figcaption>
-      <blockquote>El Estudio de Impacto Vial (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a>) modela 182 viajes de camión al día, solo para 2027 y 2028, sin decir cuánto carga cada camión. La tabla de producción anual del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=72" target="_blank" rel="noopener">Capítulo 1</a> (p. 72) declara de 2.466 a 4.460 toneladas por día. La losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a>, Tabla 55) se dimensionó para 65 camiones al día. Según el mismo estudio, los camiones entran por Agua Santa, Álvarez y Viana. Solicito que el titular informe cuántos camiones ingresarán cada año y con qué carga, por qué calles urbanas, y qué medidas impiden derrames de líquidos durante el viaje cargado, que el expediente no menciona.</blockquote>
+      <figcaption>Los camiones que no cuadran <span class="src"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Cap. 1</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> · <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4.1</a></span></figcaption>
+      <blockquote>El Estudio de Impacto Vial (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Capítulo 3.18</a>) modela 182 viajes de camión al día, solo para 2028, sin decir cuánto carga cada camión. El inventario de emisiones (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4.1</a>) sí lo dice —10,86 t el camión recolector y 14,6 t el semirremolque (Tabla 13)— y cuenta 64.240 viajes al relleno el primer año y 109.406 el último (Tabla 78). La tabla de producción anual del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=72" target="_blank" rel="noopener">Capítulo 1</a> (p. 72) declara de 2.466 a 4.460 toneladas por día: aunque todos esos viajes fueran semirremolques, el último año traerían 1.597.328 t de las 1.627.853 declaradas, y con la flota de su propia planilla solo entre el 74 y el 78 % del tonelaje. La losa de lavado del <a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">Anexo 9.6</a> (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf" target="_blank" rel="noopener">PAS 141</a>, Tabla 55) se dimensionó para 65 camiones al día. Según el mismo estudio, los camiones entran por Agua Santa, Álvarez y Viana. Solicito que el titular informe cuántos camiones ingresarán cada año, con qué carga y en qué horario, que rehaga el estudio vial y el inventario de emisiones con una flota que alcance a traer el tonelaje declarado, por qué calles urbanas circularán, y qué medidas impiden derrames de líquidos durante el viaje cargado, que el expediente no menciona.</blockquote>
       <button type="button" class="copiar">Copiar este texto</button>
     </figure>
     <figure class="modelo">
@@ -2843,13 +2856,13 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   if(d && matchMedia('(max-width:900px)').matches) d.removeAttribute('open');
 })();
 
-/* ===== las tres cifras de camiones ===== */
+/* ===== las cuatro cifras de camiones ===== */
 (function(){
-  var svg=document.getElementById('c-tres'); if(!svg||!D.vial||!D.vial.tres_cifras) return;
-  var T=D.vial.tres_cifras, NS='http://www.w3.org/2000/svg';
+  var svg=document.getElementById('c-tres'); if(!svg||!D.vial||!D.vial.cuatro_cifras) return;
+  var T=D.vial.cuatro_cifras, NS='http://www.w3.org/2000/svg';
   function E(t,a,x){var n=document.createElementNS(NS,t);for(var k in a)n.setAttribute(k,a[k]);
     if(x!=null)n.textContent=x;return n}
-  var tonos=['var(--blue)','var(--blue)','var(--acc)','var(--acc)'];
+  var tonos=['var(--blue)','var(--blue)','var(--blue)','var(--acc)'];
   /* rótulo encima de cada barra: resiste el ancho de un celular sin ocultar nada */
   function dibuja(){
     while(svg.firstChild) svg.removeChild(svg.firstChild);
@@ -2868,9 +2881,9 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       var y=top+i*RH, yb=y+(ang?34:30), h2=ang?16:18;
       svg.appendChild(E('text',{x:x0,y:y+6,'font-size':14,'font-weight':600,fill:'var(--ink)'},t.cap));
       /* la nota de cálculo va en una segunda línea; en celular, abreviada */
-      var nota=ang?t.nota.replace(/ \(cálculo propio\)/,' *').replace(' por compactador',''):t.nota;
+      var nota=ang?t.nota.replace(/ \(cálculo propio\)/,' *').replace('Con la carga que declara el Anexo 4.1','Con su propia carga por camión'):t.nota;
       svg.appendChild(E('text',{x:x0,y:y+(ang?23:21),'font-size':12,fill:'var(--ink3)'},nota));
-      svg.appendChild(E('rect',{x:x0,y:yb,width:(X(t.n)-x0).toFixed(1),height:h2,fill:tonos[i],'fill-opacity':i<2?.6:1}));
+      svg.appendChild(E('rect',{x:x0,y:yb,width:(X(t.n)-x0).toFixed(1),height:h2,fill:tonos[i],'fill-opacity':i<3?.6:1}));
       svg.appendChild(E('text',{x:X(t.n)+8,y:yb+h2-3,'font-size':17,'font-weight':600,fill:tonos[i]},t.n));
     });
     /* referencia: lo que la losa puede lavar */
@@ -2879,16 +2892,15 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       svg.appendChild(E('line',{x1:X(l),x2:X(l),y1:yb-4,y2:yb+(ang?20:22),stroke:'var(--ink)','stroke-width':1.6,'stroke-dasharray':'3 3'})); });
     svg.appendChild(E('text',{x:ang?x0:x1,y:top-18,'font-size':12.5,fill:'var(--ink2)','text-anchor':ang?'start':'end'},
       ang?'┆ = la losa lava '+l+' al día':'┆ = lo que la losa de lavado da para lavar: '+l));
-    if(ang) svg.appendChild(E('text',{x:x0,y:H-4,'font-size':12,fill:'var(--ink3)'},'* cálculo propio, 14 t por camión'));
+    if(ang) svg.appendChild(E('text',{x:x0,y:H-4,'font-size':12,fill:'var(--ink3)'},'* cálculo propio: tonelaje ÷ carga del Anexo 4.1'));
   }
   dibuja();
   var anchoT=svg.clientWidth;
   addEventListener('resize',function(){ if(Math.abs(svg.clientWidth-anchoT)>40){ anchoT=svg.clientWidth; dibuja();
     if(typeof escalaTodo==='function') escalaTodo(); } });
   svg.setAttribute('role','img');
-  svg.setAttribute('aria-label','Comparación de camiones diarios según tres capítulos del mismo '+
-    'estudio: 65 para la losa de lavado, 91 para el estudio vial, y entre 176 y 319 según el '+
-    'tonelaje declarado.');
+  svg.setAttribute('aria-label','Camiones al día según cuatro documentos del mismo expediente: '+
+    T.map(function(t){return t.n+', '+t.nota.replace(' (cálculo propio)','')}).join('; ')+'.');
 })();
 
 /* ===== simulación de tránsito en la Ruta 60 ===== */
@@ -2898,19 +2910,20 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   function fk(){ return Math.max(1, cv.width/Math.max(1,cv.getBoundingClientRect().width)*0.75) }
   var V=D.vial, E=V.eiv, cx=cv.getContext('2d');
   var sel=document.getElementById('t-carga'), rng=document.getElementById('t-anio');
-  V.cargas.forEach(function(c,i){
-    var o=document.createElement('option');
-    o.value=i; o.textContent=c.carga+' t · '+c.nombre;
-    if(c.carga===14) o.selected=true;
-    sel.appendChild(o);
+  /* dos escenarios, ambos con datos del titular: lo que cuenta su planilla de emisiones y lo que
+     exige su tonelaje con la carga por camión que él mismo declara. La hora punta usa la proporción
+     de su propio estudio vial: 20 de los 182 viajes diarios caen entre las 18:00 y las 19:00. */
+  var F=V.flota, ESC=[
+    {nombre:'Lo que exige el tonelaje con la carga que declara', etq:'Lo que exige el tonelaje que el proyecto declara', corta:'Lo que exige el tonelaje', s:F.necesarios_dia},
+    {nombre:'Lo que cuenta su inventario de emisiones', etq:'Lo que cuenta su propio inventario de emisiones', corta:'Su inventario de emisiones', s:F.planilla_dia}];
+  ESC.forEach(function(c,i){
+    var o=document.createElement('option'); o.value=i; o.textContent=c.nombre; sel.appendChild(o);
   });
   function css(v){return getComputedStyle(document.documentElement).getPropertyValue(v).trim()}
-  var HORAS=V.horas_op;
+  var PUNTA=E.viajes_hr/E.viajes_dia;
   function estado(){
-    var c=V.cargas[+sel.value], anio=+rng.value;
-    var ingresos=V.serie[String(c.carga)][anio-1];
-    return {carga:c, anio:anio, ingresos:ingresos,
-            real:Math.round(ingresos*2/HORAS), eiv:E.viajes_hr};
+    var c=ESC[+sel.value], anio=+rng.value, dia=c.s[anio-1];
+    return {esc:c, anio:anio, dia:dia, real:Math.round(dia*PUNTA), eiv:E.viajes_hr};
   }
   /* ---- vehículos ---- */
   var carriles=[{y:96,veh:[],acum:0,t:0},{y:214,veh:[],acum:0,t:0}];
@@ -2932,8 +2945,11 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     cx.fillStyle='rgba(0,0,0,.45)';
     cx.fillRect(x+4,y+7,7,5); cx.fillRect(x+24,y+7,7,5); cx.fillRect(x+34,y+7,7,5);
   }
-  function via(y,etq,sub,n,tono){
+  function via(y,etq,sub,n,tono,corta,ncorta){
     var W=cv.width;
+    cx.font='600 '+Math.round(16*fk())+'px '+css('--cart'); var we=cx.measureText(etq).width;
+    cx.font='600 '+Math.round(26*fk())+'px '+css('--cart'); var wn=cx.measureText(n).width;
+    if(14+we+24+wn+14>W){ if(corta) etq=corta; if(ncorta) n=ncorta; }
     cx.fillStyle=css('--surf2'); cx.fillRect(0,y-34,W,68);
     cx.strokeStyle=css('--line'); cx.lineWidth=1;
     cx.beginPath(); cx.moveTo(0,y-34); cx.lineTo(W,y-34);
@@ -2952,15 +2968,15 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var s=estado();
     cx.clearRect(0,0,cv.width,cv.height);
     via(carriles[0].y,'Lo que modela el Estudio de Impacto Vial',
-        carriles[0].acum+' camiones han pasado', s.eiv+' viajes/h', css('--ink2'));
+        carriles[0].acum+' camiones han pasado', s.eiv+' camiones/h', css('--ink2'),'El estudio vial',s.eiv+'/h');
     carriles[0].veh.forEach(function(v){camion(v.x,carriles[0].y+6,css('--ink3'))});
-    via(carriles[1].y,'Lo que implica el tonelaje que el proyecto declara',
-        carriles[1].acum+' camiones han pasado', s.real+' viajes/h', css('--acc'));
+    via(carriles[1].y,s.esc.etq+' · '+s.dia+' al día',
+        carriles[1].acum+' camiones han pasado', s.real+' camiones/h', css('--acc'),s.esc.corta+' · '+s.dia+'/día',s.real+'/h');
     carriles[1].veh.forEach(function(v){camion(v.x,carriles[1].y+6,
       v.h?css('--acc'):'#c04a2e')});
     document.getElementById('t-eiv').textContent=s.eiv;
     document.getElementById('t-real').textContent=s.real;
-    document.getElementById('t-fac').textContent='×'+(s.real/s.eiv).toFixed(1).replace('.',',');
+    document.getElementById('t-fac').textContent=(s.real/s.eiv>=1?'×'+(s.real/s.eiv).toFixed(1):'×'+(s.real/s.eiv).toFixed(2)).replace('.',',');
     document.getElementById('t-anio-v').textContent=s.anio;
   }
   var corre=!RM, ult=performance.now(), visible=true;
@@ -3374,7 +3390,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   gNo.appendChild(linea(726,292,726,352,'#ff7a45',2));
   gNo.appendChild(t(726,374,'antorcha de biogás','#ffd9c7','middle',15));
   gNo.appendChild(linea(1246,372,1246,440,'#ff7a45',2));
-  gNo.appendChild(t(1246,462,'entre 65 y 319 camiones al día','#ffd9c7','middle',15));
+  gNo.appendChild(t(1246,462,'de 182 a unos 400 camiones al día','#ffd9c7','middle',15));
   /* marcadores numerados: los mismos números de la lista de abajo, legibles también en celular */
   var gNum=el('g',{});
   gNo.appendChild(gNum);
@@ -3414,7 +3430,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     ['Los 25 años de operación','El fotomontaje es del <b>escenario de cierre</b>. No existe en el expediente una imagen de la etapa en que el relleno funciona.'],
     ['El frente de trabajo','El Capítulo 1 lo fija en <b>20 metros de ancho máximo</b>: basura descubierta recibiendo camiones durante toda la jornada.'],
     ['Las piscinas de lixiviados','La zona de tratamiento ocupa <b>3,48 hectáreas</b> en la cartografía del titular, con sus piscinas y bandejas de evaporación. Son las fuentes de olor que el Anexo 4.4 modela con mayor emisión.'],
-    ['El tránsito','Según el capítulo que se lea, entre <b>65 y 319 camiones al día</b> subiendo ese mismo camino.'],
+    ['El tránsito','Su estudio vial modela <b>182 camiones al día</b>; para traer la basura del año 25 con la carga que el propio titular declara harían falta <b>unos 400</b>, subiendo ese mismo camino.'],
     ['Un solo punto de vista','P.O.3, Pompeya Sur. Las otras quince poblaciones con línea de vista al macizo no tienen fotomontaje.'],
     ['La antorcha','El Capítulo 1 contempla <b>tratamiento de biogás</b>; en la imagen de cierre no aparece ninguna instalación.']
   ];
