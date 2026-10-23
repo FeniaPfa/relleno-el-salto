@@ -104,6 +104,16 @@ afirmar «sin conexiones a terceros». Si se agrega un peso tipográfico nuevo, 
 woff2 de Google Fonts con un User-Agent moderno (devuelve woff2 por rangos unicode) y declararlo
 en el `@font-face` del `<head>`. Libre Franklin es variable: un archivo cubre 400 a 700.
 
+## El relato con scroll (`relato.html`)
+
+Borrador para revisión, con `noindex` y fuera del sitemap. Sale de `src/relato.html`: el build le
+inyecta el CSS, las fuentes, el **marcado del visor** (el primer `<div class="v3">` de la
+plantilla), los datos y el código del visor, así que reutiliza el visor tal cual. El relato lo
+maneja con `window.VISOR` (definido en `v3d.js`): `volar`, `anio`, `capa`, `troncal`, `correr`.
+En la principal nadie lo llama. Cada `<section class="etapa">` declara su cámara, su año y sus
+capas en atributos `data-`. **Ojo:** `.paso` ya es la cascada de la principal; por eso las etapas
+se llaman `.etapa`, porque el relato hereda todo el CSS.
+
 ## SEO, buscadores con respuestas y motores generativos
 
 - Las **preguntas frecuentes** (`<aside class="faq">` antes del pie) son la fuente única: `build.py`

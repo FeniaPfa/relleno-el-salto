@@ -4198,6 +4198,8 @@ function arrancar(){
      aplicaba hasta tocar un modo */
   marcarPluma(); ecoFlotante(); valorRumbo(vientoHacia); colocarMob();
   resize(); place(); animar();
+  VISOR.listo=true;
+  try{ window.dispatchEvent(new Event('visor-listo')) }catch(e){}
 }
 
 /* ---------- tiempo ---------- */
@@ -4688,6 +4690,56 @@ function pasoTour(dt){
   }
 }
 
+/* ---------- control externo ----------
+   Lo usa la página del relato (relato.html) para mover la cámara, el año y las capas
+   al bajar. En la principal nadie lo llama. Las posiciones van en las mismas unidades
+   que el recorrido: th y ph en radianes, rad en fracción del ancho del terreno, y el
+   centro desplazado (dx, dz) en fracción del ancho desde el centro del relleno. */
+var vuelo=null;
+function pasoVuelo(dt){
+  if(!vuelo) return;
+  vuelo.t+=dt;
+  var f=Math.min(vuelo.t/vuelo.d,1), e=f<.5?4*f*f*f:1-Math.pow(-2*f+2,3)/2, a=vuelo.a, b=vuelo.b;
+  th=a.th+(b.th-a.th)*e; ph=a.ph+(b.ph-a.ph)*e; rad=(a.rad+(b.rad-a.rad)*e)*S;
+  var tx=a.tx+(b.tx-a.tx)*e, tz=a.tz+(b.tz-a.tz)*e;
+  target.set(tx, hWorld(tx,tz)*K()+40, tz);
+  place();
+  if(f>=1) vuelo=null;
+}
+/* el recorrido principal de la escorrentía como un tubo sobre el terreno: a la distancia
+   del relato las partículas no se ven. Sólo lo enciende el relato. */
+var troncal=null;
+function crearTroncal(){
+  var E=D.escorrentia; if(!E||!E.troncal) return null;
+  var c=E.troncal.type==='LineString'?E.troncal.coordinates:[].concat.apply([],E.troncal.coordinates);
+  var pts=[], k=K();
+  c.forEach(function(q){ var u=uv(q[0],q[1]); if(u[0]<0.01||u[0]>0.99||u[1]<0.01||u[1]>0.99) return;
+    pts.push(new THREE.Vector3(wx(u[0]),hAt(u[0],u[1])*k+14,wz(u[1]))) });
+  if(pts.length<2) return null;
+  var g=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),pts.length*6,14,6,false);
+  var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({color:0x5ad7f5,transparent:true,opacity:.92,depthTest:false}));
+  m.renderOrder=7; sc.add(m); return m;
+}
+var VISOR=window.VISOR={
+  listo:false,
+  volar:function(k,seg){
+    var cx=wx(centroU[0]), cz=wz(centroU[1]);
+    /* el giro va por el camino corto */
+    var dth=k.th-th; while(dth>Math.PI) dth-=2*Math.PI; while(dth<-Math.PI) dth+=2*Math.PI;
+    tourOn=false;
+    vuelo={a:{th:th,ph:ph,rad:rad/S,tx:target.x,tz:target.z},
+           b:{th:th+dth,ph:k.ph,rad:k.rad,tx:cx+(k.dx||0)*S,tz:cz-(k.dz||0)*S},
+           t:0,d:RM?0.001:(seg||2.4)};
+  },
+  anio:function(y){ var s=$('#tl'); if(s){ s.value=y } aplicarAnio(+y) },
+  capa:function(id,on){ var e=document.getElementById(id);
+    if(e&&e.checked!==on){ e.checked=on; e.dispatchEvent(new Event('change')) } },
+  viento:function(m){ var b=$('#w-'+m); if(b) b.click() },
+  /* corre la imagen sin achicar el lienzo: fx a la derecha, fy hacia arriba (fracción) */
+  troncal:function(on){ if(on&&!troncal) troncal=crearTroncal(); if(troncal) troncal.visible=!!on; firmaAnt='' },
+  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' }
+};
+
 /* pausa: detiene y oculta las partículas; con «reducir movimiento» del sistema arranca pausado */
 var simOn=!RM;
 function aplicarSim(){
@@ -4705,9 +4757,12 @@ function aplicarSim(){
   });
 });
 
+var corrX=0, corrY=0;   /* corrimiento del centro óptico, lo fija el relato */
 function resize(){
   var w=cv.clientWidth,h=cv.clientHeight; if(!w||!h)return;
-  ren.setSize(w,h,false);cam.aspect=w/h;cam.updateProjectionMatrix();
+  ren.setSize(w,h,false);cam.aspect=w/h;
+  if(corrX||corrY) cam.setViewOffset(w,h,-w*corrX,h*corrY,w,h); else cam.clearViewOffset();
+  cam.updateProjectionMatrix();
   escalaPluma(); mobiliario();
 }
 addEventListener('resize',resize);
@@ -4729,13 +4784,13 @@ function animar(){
   requestAnimationFrame(animar);
   var ahora=performance.now(), dt=Math.min((ahora-ult)/1000,0.05); ult=ahora;
   if(!vis) return;
-  pasoTour(dt);
+  pasoTour(dt); pasoVuelo(dt);
   var anima=simOn&&((pluma&&pluma.visible)||(flujo&&flujo.visible)||(arcos&&arcos.visible));
   if(anima){ pasoPluma(dt); pasoFlujo(dt); pasoArcos(dt); }
   var f=firmaMarcas(), cambio=f!==firmaAnt;
   /* quieto y sin simulación: dos cuadros por segundo bastan para que aparezcan las
      texturas que llegan tarde (satélite, cicatriz) sin quemar batería */
-  if(anima||cambio||tourOn||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
+  if(anima||cambio||tourOn||vuelo||ahora-ultRender>500){ ren.render(sc,cam); ultRender=ahora; }
   if(cambio){ ubicarMarcas(); firmaAnt=f; }
 }
 cargarAltura(function(){ cargarFlujo(arrancar) });

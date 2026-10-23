@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="es-CL">
+<meta charset="utf-8">
+<title>El relleno de El Salto, contado desde el terreno</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="description" content="Un recorrido por el relleno sanitario proyectado en El Salto, Viña del Mar: la quebrada, la masa de basura año a año, el viento, el fuego, el agua y lo que se verá. Todo con los documentos del propio titular.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#9888;</text></svg>">
+<link rel="preload" as="script" href="lib/three.r128.min.js">
+<!--__FUENTES__-->
+<!--__CSS__-->
+<style>
+/* ===== el relato: el visor queda fijo de fondo y el texto sube encima ===== */
+html,body{background:#0f1115}
+body{color:#e8e6df}
+.escena{position:fixed;inset:0;z-index:0}
+.escena .v3{position:absolute;inset:0;margin:0;border:0;background:#0f1115}
+.escena .v3 .cv{position:absolute;inset:0;aspect-ratio:auto;min-height:0;height:100%}
+.escena .v3bar,.escena .ctrl,.escena .tl,.escena .vhint,.escena .vflot{display:none!important}
+.escena .mob{bottom:14px}
+/* velo para que el texto se lea sobre cualquier parte del terreno */
+.escena::after{content:'';position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(90deg,rgba(15,17,21,.72) 0%,rgba(15,17,21,.35) 34%,rgba(15,17,21,0) 55%)}
+.relato{position:relative;z-index:2;pointer-events:none}
+.etapa{min-height:100vh;display:flex;align-items:center;padding:0 0 0 max(24px,5vw)}
+.etapa.corto{min-height:70vh}
+.etapa.largo{min-height:240vh;align-items:flex-start}
+.etapa.largo .tarj{position:sticky;top:18vh}
+.tarj{pointer-events:auto;max-width:430px;background:rgba(18,20,24,.9);border:1px solid #2f353b;
+  border-left:3px solid var(--acc);padding:22px 24px 20px;box-shadow:0 10px 40px rgba(0,0,0,.35);
+  -webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+.tarj .et{font-family:var(--sc);font-size:13.5px;font-weight:600;letter-spacing:.03em;color:var(--acc);margin:0 0 6px}
+.tarj h2{font-family:var(--doc);font-size:clamp(25px,3vw,32px);line-height:1.15;font-weight:600;margin:0 0 12px;color:#f3f1ea}
+.tarj p{margin:0 0 10px;font-size:17px;line-height:1.58;color:#dcdad2}
+.tarj p:last-child{margin-bottom:0}
+.tarj b{color:#fff;font-weight:600}
+.tarj .fte{font-family:var(--sc);font-size:13px;letter-spacing:.02em;color:#a9aea6;margin-top:12px}
+.tarj .calc{font-family:var(--sc);font-size:13px;letter-spacing:.02em;color:#8fb8d4;margin-top:12px}
+.tarj a{color:inherit}
+.cifra{font-family:var(--cifra);font-size:clamp(48px,6vw,66px);font-weight:600;line-height:.95;color:var(--acc);
+  letter-spacing:-.015em;margin:4px 0 8px;font-variant-numeric:tabular-nums}
+.cifra small{font-size:.36em;font-weight:400;color:#cfcdc5;margin-left:.2em}
+.cifra.azul{color:#8fb8d4}
+.contador{display:grid;grid-template-columns:auto 1fr;gap:4px 16px;align-items:baseline;margin:6px 0 12px}
+.contador .n{font-family:var(--cifra);font-size:34px;font-weight:600;color:#fff;font-variant-numeric:tabular-nums}
+.contador .l{font-family:var(--cart);font-size:14px;color:#b9bdb5}
+.anio{font-family:var(--cifra);font-size:15px;font-weight:600;color:var(--acc);letter-spacing:.02em}
+/* portada */
+.portada .tarj{max-width:560px;border-left-width:4px}
+.portada h1{font-family:var(--doc);font-size:clamp(34px,5vw,54px);line-height:1.06;font-weight:600;margin:0 0 14px;color:#f6f4ec}
+.baja{font-family:var(--cart);font-size:15px;color:#c9cdc6;margin-top:16px}
+.baja::after{content:' ↓'}
+/* cierre */
+.cierre .tarj{max-width:520px}
+.acciones{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}
+.btn{display:inline-flex;align-items:center;min-height:48px;padding:12px 20px;background:#9c1f28;color:#fbf7ec;
+  font-family:var(--cart);font-size:16px;font-weight:600;text-decoration:none;border-radius:2px}
+.btn:hover{filter:brightness(1.12)}
+.btn2{display:inline-flex;align-items:center;min-height:48px;padding:12px 18px;border:1px solid #6b7480;color:#e8e6df;
+  font-family:var(--cart);font-size:15px;font-weight:600;text-decoration:none;border-radius:2px}
+.btn2:hover{background:#23272c}
+.prog{position:fixed;left:0;top:0;height:3px;background:var(--acc);z-index:5;width:0}
+.volver{position:fixed;top:12px;right:14px;z-index:5;font-family:var(--cart);font-size:14px;color:#e8e6df;
+  background:rgba(18,20,24,.85);border:1px solid #39413c;padding:7px 11px;text-decoration:none;border-radius:2px}
+.volver:hover{background:#23272c}
+.revision{position:fixed;left:14px;top:12px;z-index:5;font-family:var(--cart);font-size:12.5px;color:#17120a;
+  background:#cf9f3e;padding:4px 9px;border-radius:2px}
+/* en celular el texto va abajo y el terreno arriba */
+@media(max-width:760px){
+  .escena::after{background:linear-gradient(0deg,rgba(15,17,21,.8) 0%,rgba(15,17,21,.3) 45%,rgba(15,17,21,0) 65%)}
+  .etapa{align-items:flex-end;padding:0 12px 18px}
+  .etapa.largo .tarj{top:auto;bottom:18px}
+  .etapa.largo{align-items:flex-end}
+  .tarj{max-width:none;width:100%;padding:16px 16px 14px}
+  .tarj p{font-size:15.5px}
+  .cifra{font-size:44px}
+  .contador .n{font-size:26px}
+  .revision{display:none}
+}
+@media(prefers-reduced-motion:reduce){ .prog{display:none} }
+</style>
+
+<div class="prog" id="prog" aria-hidden="true"></div>
+<span class="revision">Borrador para revisión</span>
+<a class="volver" href="./">Análisis completo →</a>
+
+<div class="escena" aria-hidden="true">
+<!--__VISOR_HTML__-->
+</div>
+
+<main class="relato">
+
+<section class="etapa portada" data-cam='{"th":2.5,"ph":0.68,"rad":0.85}' data-anio="0" data-capas="">
+  <div class="tarj">
+    <p class="et">Expediente SEIA 2168892026</p>
+    <h1>Una quebrada en El Salto</h1>
+    <p>A unos 2 km de Pompeya Sur, en Quilpué, Cosemar SpA quiere enterrar
+    <b>30,7 millones de toneladas de basura</b> durante 25 años.</p>
+    <p>Esto es lo que dice su propio estudio, visto sobre el terreno real.</p>
+    <p class="baja">Baja para recorrerlo</p>
+  </div>
+</section>
+
+<section class="etapa" data-cam='{"th":-0.6,"ph":0.78,"rad":0.42}' data-anio="0" data-capas="barrios">
+  <div class="tarj">
+    <p class="et">Hoy</p>
+    <h2>Así está la quebrada</h2>
+    <p>El predio mide <b>206 hectáreas</b>. Al norte están las poblaciones más cercanas:
+    Alto Valencia a 1,70 km, Población Esperanza a 1,94 km, Los Fundadores 2 y Nuevo Horizonte
+    a 2,07 km.</p>
+    <p class="fte">Cartografía del titular · distancias de esta página al deslinde del predio</p>
+  </div>
+</section>
+
+<section class="etapa largo" id="llenado" data-cam='{"th":-0.35,"ph":0.92,"rad":0.30}' data-capas="barrios">
+  <div class="tarj">
+    <p class="et">Veinticinco años</p>
+    <h2>La quebrada se llena</h2>
+    <p class="anio" id="r-anio">Año 0</p>
+    <div class="contador">
+      <span class="n" id="r-ton">0</span><span class="l">millones de toneladas acumuladas</span>
+      <span class="n" id="r-esp">0</span><span class="l">metros de espesor medio</span>
+    </div>
+    <p>Entran entre 900.000 y 1.627.853 toneladas por año, según la tabla de producción del
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a>.
+    Al cierre, la masa corona en la cota 350: unos <b>60 metros</b> de basura, el alto de un edificio de 20 pisos.</p>
+    <p class="calc">Espesor: cálculo de esta página con el tonelaje y la huella que declara el titular</p>
+  </div>
+</section>
+
+<section class="etapa" data-cam='{"th":0.05,"ph":0.98,"rad":0.36,"dz":0.06}' data-anio="25" data-capas="barrios pluma arcos">
+  <div class="tarj">
+    <p class="et">El viento</p>
+    <h2>Sopla hacia las casas</h2>
+    <p>El estudio del propio titular modela un viento que viene del sur y suroeste, de 180° a 200°,
+    con una media de <b>5,73 m/s</b>. Sopla hacia el norte.</p>
+    <p>Su tabla de receptores para modelar olores lista <b>21 unidades habitacionales</b>, entre 676 m
+    y 2,1 km. Las 21 están al norte. Ninguna queda al otro lado.</p>
+    <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2</a> ·
+    Tabla 11 del Anexo 8.1, dentro del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Capítulo 8</a></p>
+  </div>
+</section>
+
+<section class="etapa" data-cam='{"th":-0.9,"ph":0.42,"rad":0.62}' data-anio="25" data-capas="barrios cicatriz">
+  <div class="tarj">
+    <p class="et">El fuego</p>
+    <div class="cifra azul">99,7<small>%</small></div>
+    <h2>del predio se quemó en febrero de 2024</h2>
+    <p>Ahí se proyecta el relleno. El expediente no compromete red húmeda, red seca ni hidrantes:
+    cero menciones en los Capítulos 1 y 8.</p>
+    <p class="calc">Quema: cálculo de esta página con Sentinel-2, índice dNBR</p>
+  </div>
+</section>
+
+<section class="etapa" data-cam='{"th":-1.2,"ph":0.62,"rad":0.5,"dx":-0.07,"dz":0.07}' data-anio="25" data-capas="barrios flujo troncal">
+  <div class="tarj">
+    <p class="et">El agua</p>
+    <h2>Todo baja al mismo estero</h2>
+    <p>Lo que escurra por la superficie del predio baja, por gravedad, hacia el
+    <b>Estero Marga-Marga</b>. En el camino pasa a <b>90 m del Estero Quilpué</b> y a
+    <b>120 m del humedal urbano protegido</b>.</p>
+    <p class="calc">Recorridos: cálculo de esta página con el método D8 sobre el modelo de elevación</p>
+  </div>
+</section>
+
+<section class="etapa" data-cam='{"th":0.35,"ph":0.62,"rad":0.7,"dz":0.08}' data-anio="25" data-capas="barrios cuenca">
+  <div class="tarj">
+    <p class="et">Lo que se verá</p>
+    <div class="cifra azul">15<small>de 16</small></div>
+    <h2>poblaciones verán la montaña</h2>
+    <p>Desde más de la mitad de sus calles. El titular entregó <b>un solo fotomontaje</b>, y muestra
+    el relleno ya cerrado y cubierto de vegetación, no los 25 años en que funciona.</p>
+    <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar" target="_blank" rel="noopener">Anexo 4.5</a> ·
+    cuenca visual: cálculo de esta página</p>
+  </div>
+</section>
+
+<section class="etapa" data-cam='{"th":-0.78,"ph":1.0,"rad":0.2}' data-anio="25" data-capas="">
+  <div class="tarj">
+    <p class="et">Debajo</p>
+    <div class="cifra">1,5<small>mm</small></div>
+    <h2>entre la basura y el suelo</h2>
+    <p>Es el espesor de la geomembrana. Debajo hay entre 15 y 40 metros de maicillo permeable. Y un
+    informe de 2023 del propio titular describe una falla <b>«potencialmente activa»</b> que
+    «compromete el cierre perimetral». El capítulo que evalúa los impactos no menciona la falla, el
+    sismo ni la geomembrana.</p>
+    <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Capítulo 3.5</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Capítulo 4</a></p>
+  </div>
+</section>
+
+<section class="etapa" data-cam='{"th":2.2,"ph":0.5,"rad":0.75}' data-anio="25" data-capas="barrios">
+  <div class="tarj">
+    <p class="et">Lo que el estudio admite</p>
+    <div class="cifra">1<small>de 23</small></div>
+    <h2>impactos significativos</h2>
+    <p>De veintitrés causales que la ley obliga a revisar, el estudio reconoce una sola: la pérdida de
+    ejemplares de tres especies de flora. Por eso su plan de seguimiento mide solo eso. Nada de aire,
+    olor, agua ni biogás durante 25 años de operación y 20 de post-cierre.</p>
+    <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a></p>
+  </div>
+</section>
+
+<section class="etapa cierre" data-cam='{"th":2.6,"ph":0.6,"rad":1.0}' data-anio="25" data-capas="">
+  <div class="tarj">
+    <p class="et">Tu turno</p>
+    <h2>Tienes hasta el 3 de noviembre</h2>
+    <p>Cualquier persona puede presentar una observación, sin costo, con su ClaveÚnica. El titular
+    debe responderla en su Adenda, y la autoridad, en la resolución final.</p>
+    <div class="acciones">
+      <a class="btn" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ingresar mi observación →</a>
+      <a class="btn2" href="./#observar">Textos listos para copiar</a>
+      <a class="btn2" href="./">El análisis completo</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<script src="lib/three.r128.min.js"></script>
+<script id="D" type="application/json">/*__DATOS__*/</script>
+<script>
+(function(){
+"use strict";
+var D = JSON.parse(document.getElementById('D').textContent);
+var $ = function(s){return document.querySelector(s)};
+var WEBP=(function(){try{var c=document.createElement('canvas');
+  return c.toDataURL('image/webp').indexOf('data:image/webp')===0}catch(e){return false}})();
+function ras(n){return WEBP?n.replace(/\.(png|jpg)$/,'.webp'):n}
+var RM=!!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches);
+function bboxOf(geom,acc){
+  function pt(c){
+    if(!Array.isArray(c)) return;
+    if(typeof c[0]==='number'){
+      acc[0]=Math.min(acc[0],c[0]); acc[1]=Math.min(acc[1],c[1]);
+      acc[2]=Math.max(acc[2],c[0]); acc[3]=Math.max(acc[3],c[1]);
+      return;
+    }
+    c.forEach(pt);
+  }
+  pt(geom.coordinates);
+  return acc;
+}
+var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
+
+/*__VISOR_JS__*/
+
+/* ================= el relato ================= */
+(function(){
+  var pasos=[].slice.call(document.querySelectorAll('.etapa')), actual=-1;
+  var CAPAS={barrios:'L-barrios',pluma:'L-pluma',arcos:'L-arcos',flujo:'L-flujo',cicatriz:'L-cicatriz',cuenca:'L-cuenca'};
+  var P=D.proy;
+  function aplicar(i){
+    if(i===actual||!window.VISOR||!VISOR.listo) return;
+    actual=i;
+    var p=pasos[i], cam=JSON.parse(p.getAttribute('data-cam'));
+    VISOR.volar(cam, 2.6);
+    var anio=p.getAttribute('data-anio'); if(anio!=null) VISOR.anio(+anio);
+    var on=(p.getAttribute('data-capas')||'').split(/\s+/);
+    Object.keys(CAPAS).forEach(function(k){ VISOR.capa(CAPAS[k], on.indexOf(k)>=0) });
+    VISOR.troncal(on.indexOf('troncal')>=0);
+  }
+  /* el paso activo es el que cruza la mitad de la pantalla */
+  function cual(){
+    var mid=innerHeight*0.55, mejor=0;
+    pasos.forEach(function(p,i){ var r=p.getBoundingClientRect(); if(r.top<mid) mejor=i });
+    return mejor;
+  }
+  /* en el llenado, el año sigue al scroll dentro de la sección */
+  var llen=document.getElementById('llenado');
+  function llenado(){
+    var r=llen.getBoundingClientRect(), tot=r.height-innerHeight*0.6;
+    var f=Math.max(0,Math.min(1,(innerHeight*0.25-r.top)/Math.max(1,tot)));
+    var y=Math.round(f*25);
+    if(llenado.y===y) return; llenado.y=y;
+    VISOR.anio(y); contadores(y);
+  }
+  var iLlen=pasos.indexOf(llen);
+  function contadores(y){
+    document.getElementById('r-anio').textContent=y?'Año '+y+' de 25':'Año 0 · antes de operar';
+    document.getElementById('r-ton').textContent=y?(P.acumulado_t[y-1]/1e6).toFixed(1).replace('.',','):'0';
+    document.getElementById('r-esp').textContent=y?Math.round(P.altura_m[y-1]):'0';
+  }
+  function encuadre(){
+    if(!window.VISOR||!VISOR.correr) return;
+    /* la tarjeta ocupa la izquierda en escritorio y el pie en celular: el sujeto se corre al lado libre */
+    if(matchMedia('(max-width:760px)').matches) VISOR.correr(0,0.2); else VISOR.correr(0.17,0);
+  }
+  function scroll(){
+    var i=cual(); aplicar(i);
+    if(i===iLlen&&VISOR.listo) llenado();
+    else if(llenado.y!==(i>iLlen?25:0)){ llenado.y=(i>iLlen?25:0); contadores(llenado.y) }
+    var h=document.documentElement, f=h.scrollTop/(h.scrollHeight-innerHeight);
+    document.getElementById('prog').style.width=(f*100).toFixed(1)+'%';
+  }
+  var pend=false;
+  addEventListener('scroll',function(){ if(pend) return; pend=true; requestAnimationFrame(function(){ pend=false; scroll() }) },{passive:true});
+  addEventListener('resize',function(){ encuadre(); scroll() });
+  function inicio(){ encuadre(); actual=-1; scroll() }
+  if(window.VISOR&&VISOR.listo) inicio(); else addEventListener('visor-listo',inicio);
+})();
+})();
+</script>
+</html>
