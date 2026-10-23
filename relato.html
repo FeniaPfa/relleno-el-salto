@@ -388,6 +388,12 @@ footer .imprimir{display:inline-block;margin-top:10px}
 .v3 .cv canvas:focus-visible{outline:3px solid var(--blue);outline-offset:-3px}
 
 /* ---------- comité UX, página principal en celular ---------- */
+/* el gesto sobre el visor: lo que flota encima (ayuda, panel de viento) deja pasar el toque al
+   lienzo, y el contenedor entero tiene la misma regla táctil que el lienzo. Sin esto, un arrastre
+   que empezaba cerca del borde caía sobre la ayuda o el panel y movía la página. */
+.v3 .cv{touch-action:pan-y pinch-zoom}
+.v3 .vhint,.v3 .vflot,.v3 .vflot .fila,.v3 .vflot .nm{pointer-events:none}
+.v3 .vflot .tg,.v3 .vflot input{pointer-events:auto}
 @media(pointer:coarse){
   .vbtns .tg,.vflot .tg{min-height:44px}
   [data-orb],[data-orb2]{min-width:44px;min-height:44px}
@@ -745,9 +751,11 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
   padding:11px 16px;border-top:1px solid #39413c;background:#0d1014}
 .v3 .pie b{color:#fbf7ec;font-weight:600}
 .secimg{display:block;width:100%;height:auto;background:#fff}
-.cortes{display:grid;gap:26px;margin-top:34px}
+.cortes{display:grid;grid-template-columns:minmax(0,1fr);gap:26px;margin-top:34px}
 @media(min-width:860px){.cortes{grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:34px;align-items:start}}
-.corte,.membrana{margin:0}
+.corte,.membrana{margin:0;min-width:0}
+.membrana table{width:100%;table-layout:fixed}
+.membrana td,.membrana th{overflow-wrap:anywhere}
 .corte h3,.membrana h3{font-family:var(--doc);font-size:21px;font-weight:600;
   margin:0 0 14px;color:var(--ink);letter-spacing:-.01em}
 .pila{display:flex;flex-direction:column;height:440px;border:1px solid var(--line);

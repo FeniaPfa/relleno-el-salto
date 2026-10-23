@@ -105,6 +105,11 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
   mide una vez y se cachea; `sot` y `fondo` cambian el cuerpo de letra, así que sin
   invalidarlo la caja queda obsoleta y los textos se pisan. Y `ALTO_TX` es 23, no el
   cuerpo de letra: la caja real mide algo más y dos filas contiguas se tocaban por un píxel.
+- **Lo que flota sobre un visor 3D debe dejar pasar el toque** (`pointer-events:none`, salvo sus
+  botones), y el contenedor `.cv` lleva el mismo `touch-action` que el lienzo. Si no, un arrastre que
+  empieza cerca del borde cae sobre la ayuda o el panel de viento y mueve la página en vez del mapa.
+  Y vigila el desborde horizontal a 320 px: una grilla sin `minmax(0,1fr)` o una tabla de ancho fijo
+  bastan para que la página entera se deslice de lado.
 - **Variables de ámbito en `ubicarMarcas()`:** un `var` declarado dentro de un callback de
   `forEach` no existe en el siguiente. Ya rompió los rótulos del 3D una vez.
 - **Dos secciones remiten al visor del terreno** («actívalo como capa en el visor 3D del
