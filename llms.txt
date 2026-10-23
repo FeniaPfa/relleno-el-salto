@@ -11,17 +11,17 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 
 ## Páginas
 
-- [Análisis del expediente](https://feniapfa.github.io/seia-data/): cifras, mapas, visores 3D y
+- [Análisis del expediente](https://feniapfa.github.io/relleno-el-salto/): cifras, mapas, visores 3D y
   observaciones modelo para la participación ciudadana.
-- [Observaciones fundadas, listas para ingresar](https://feniapfa.github.io/seia-data/observaciones.html):
+- [Observaciones fundadas, listas para ingresar](https://feniapfa.github.io/relleno-el-salto/observaciones.html):
   veintiuna observaciones ciudadanas, cada una con la cita textual, el documento y la página del
   expediente, y la pregunta que el titular debe responder en la Adenda.
-- [Las especies afectadas](https://feniapfa.github.io/seia-data/especies.html): las trece plantas
+- [Las especies afectadas](https://feniapfa.github.io/relleno-el-salto/especies.html): las trece plantas
   y animales que el expediente registra en el área, con su categoría de conservación, lo que el
   proyecto les hace y lo que el estudio no resuelve, cada dato con su página.
-- [El recorrido en 3D](https://feniapfa.github.io/seia-data/relato.html): la historia contada
+- [El recorrido en 3D](https://feniapfa.github.io/relleno-el-salto/relato.html): la historia contada
   sobre el terreno, con la vista desde cada población.
-- [Qué puede pasar, y cuándo](https://feniapfa.github.io/seia-data/tramite.html): el
+- [Qué puede pasar, y cuándo](https://feniapfa.github.io/relleno-el-salto/tramite.html): el
   recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300.
 - [Ficha oficial del expediente](https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026)
 - [Formulario de participación ciudadana](https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026)
@@ -77,4 +77,4 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 ## Quién lo hizo
 
 Análisis técnico independiente sobre documentos públicos. No representa al titular ni a ningún
-organismo del Estado. Código, datos y método: https://github.com/FeniaPfa/seia-data
+organismo del Estado. Código, datos y método: https://github.com/FeniaPfa/relleno-el-salto

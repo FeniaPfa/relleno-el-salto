@@ -12,7 +12,7 @@ import io, os, re, shutil, subprocess, sys, datetime, json, html as htmlmod
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 SRC  = os.path.join(AQUI, 'src')
-URL  = 'https://feniapfa.github.io/seia-data/'
+URL  = 'https://feniapfa.github.io/relleno-el-salto/'
 
 def leer(n): return io.open(os.path.join(SRC, n), encoding='utf-8').read()
 
@@ -187,13 +187,13 @@ def ldjson(pleno):
        'description': 'Análisis independiente del Estudio de Impacto Ambiental del relleno sanitario de Cosemar SpA '
                       'en El Salto, Viña del Mar (expediente SEIA 2168892026), hecho sobre los documentos del propio titular.',
        'inLanguage': 'es-CL', 'datePublished': '2026-10-20', 'dateModified': fecha_iso(),
-       'image': URL + 'social.jpg?v=2', 'license': 'https://creativecommons.org/licenses/by/4.0/',
+       'image': URL + 'social.jpg?v=3', 'license': 'https://creativecommons.org/licenses/by/4.0/',
        'keywords': 'relleno sanitario, El Salto, Viña del Mar, Quilpué, Pompeya Sur, Pompeya Norte, Alto Valencia, '
                    'Población Esperanza, Los Fundadores, Nuevo Horizonte, Botania, Cumbres de Quilpué, Las Lomas, '
                    'El Calichero, Estero Quilpué, Cosemar, SEIA 2168892026, participación ciudadana, '
                    'Estudio de Impacto Ambiental, Región de Valparaíso',
        'author': {'@type': 'Organization', 'name': 'Análisis geoespacial independiente',
-                  'url': 'https://github.com/FeniaPfa/seia-data'},
+                  'url': 'https://github.com/FeniaPfa/relleno-el-salto'},
        'spatialCoverage': {'@id': URL + '#lugar'},
        'contentLocation': [{'@type': 'Place', 'name': n, 'containedInPlace': {'@type': 'City', 'name': c}}
                           for n, c in (('El Salto', 'Viña del Mar'), ('Las Lomas', 'Quilpué'), ('El Calichero', 'Quilpué'),
@@ -209,14 +209,14 @@ def ldjson(pleno):
        'description': ('Copia en texto plano de los documentos que el Servicio de Evaluación Ambiental publicó del '
                        'expediente 2168892026 (Centro Metropolitano de Gestión Integral de Residuos, Cosemar SpA): '
                        '60 documentos y 97 adjuntos, con un manifiesto de URL, tamaño y SHA-256 de cada original.'),
-       'url': 'https://github.com/FeniaPfa/seia-data/tree/main/expediente',
+       'url': 'https://github.com/FeniaPfa/relleno-el-salto/tree/main/expediente',
        'isAccessibleForFree': True, 'inLanguage': 'es-CL',
-       'creator': {'@type': 'Organization', 'name': 'Análisis geoespacial independiente', 'url': 'https://github.com/FeniaPfa/seia-data'},
+       'creator': {'@type': 'Organization', 'name': 'Análisis geoespacial independiente', 'url': 'https://github.com/FeniaPfa/relleno-el-salto'},
        'isBasedOn': 'https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026',
        'spatialCoverage': {'@id': URL + '#lugar'}, 'temporalCoverage': '2026',
        'keywords': ['relleno sanitario', 'evaluación ambiental', 'SEIA', 'El Salto', 'Viña del Mar', 'Quilpué'],
        'distribution': [{'@type': 'DataDownload', 'encodingFormat': 'text/plain',
-                         'contentUrl': 'https://github.com/FeniaPfa/seia-data/tree/main/expediente/texto'}]},
+                         'contentUrl': 'https://github.com/FeniaPfa/relleno-el-salto/tree/main/expediente/texto'}]},
       {'@type': 'FAQPage', '@id': URL + '#preguntas', 'url': URL + '#preguntas', 'inLanguage': 'es-CL',
        'mainEntity': faq},
     ]

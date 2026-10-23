@@ -4,7 +4,7 @@ Análisis geoespacial independiente del EIA del relleno sanitario **COSEMAR** en
 Viña del Mar. Expediente SEIA **2168892026**. La participación ciudadana cierra el
 **3 de noviembre de 2026**.
 
-Sitio estático publicado en GitHub Pages: <https://feniapfa.github.io/seia-data/>
+Sitio estático publicado en GitHub Pages: <https://feniapfa.github.io/relleno-el-salto/>
 
 ## Objetivo, y el criterio con el que se decide todo
 
@@ -174,7 +174,7 @@ se llaman `.etapa`, porque el relato hereda todo el CSS.
 - **Las FAQ no dan resultado enriquecido** (desde 2023 Google lo reserva a sitios de gobierno y de
   salud). Se mantienen porque ayudan a leer y alimentan a los motores generativos.
 - Los `<title>` se mantienen bajo ~60 caracteres: con 95, Google reemplazó el título por el h1.
-- **`robots.txt` no tiene efecto aquí:** el sitio vive en `/seia-data/` y los buscadores solo leen el
+- **`robots.txt` no tiene efecto aquí:** el sitio vive en `/relleno-el-salto/` y los buscadores solo leen el
   de la raíz del dominio. El sitemap hay que enviarlo a mano en Google Search Console.
 
 ## Imagen social
