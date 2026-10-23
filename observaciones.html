@@ -102,7 +102,7 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 .btn2{display:inline-flex;align-items:center;min-height:48px;padding:11px 18px;border:1px solid var(--lctl);background:transparent;
   border-radius:2px;font-family:var(--cart);font-size:15px;font-weight:600;color:var(--ink);text-decoration:none;cursor:pointer}
 .btn2:hover{background:var(--surf2);color:var(--ink)}
-.btn[data-ok],.btn2[data-ok]{background:var(--green);color:#fff;border-color:var(--green)}
+.btn[data-ok],.btn2[data-ok]{background:var(--green);color:var(--bg);border-color:var(--green)}
 .vista{margin-top:14px}
 .vista summary{cursor:pointer;font-family:var(--cart);font-size:14.5px;font-weight:600;color:var(--ink2);padding:6px 0;min-height:36px}
 .vista textarea{width:100%;min-height:260px;font:inherit;font-size:14.5px;line-height:1.55;color:var(--ink);background:var(--bg);
@@ -112,18 +112,19 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 .filtros{position:sticky;top:0;z-index:5;background:var(--bg);margin:34px -16px 0;padding:10px 16px;
   border-bottom:1px solid var(--line2);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .filtros .fl{font-family:var(--cart);font-size:13px;font-weight:600;color:var(--ink3);margin-right:4px;text-transform:uppercase;letter-spacing:.06em}
-.filtros button{font-family:var(--cart);font-size:14px;font-weight:600;color:var(--ink2);background:transparent;
-  border:1px solid var(--line);border-radius:20px;padding:6px 13px;min-height:36px;cursor:pointer}
+.filtros button{font-family:var(--cart);font-size:15px;font-weight:600;color:var(--ink2);background:transparent;
+  border:1px solid var(--lctl);border-radius:22px;padding:8px 15px;min-height:44px;cursor:pointer}
 .filtros button:hover{border-color:var(--lctl);color:var(--ink)}
 .filtros button[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
 .filtros button .c{font-family:var(--cifra);font-weight:400;opacity:.7;margin-left:4px}
-@media(max-width:640px){ .filtros{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+@media(max-width:640px){ .filtros{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;
+    -webkit-mask-image:linear-gradient(90deg,#000 82%,transparent);mask-image:linear-gradient(90deg,#000 82%,transparent);padding-right:48px}
   .filtros::-webkit-scrollbar{display:none} .filtros button{flex:0 0 auto} }
 
 /* ── cada observación ── */
 .lista{display:flex;flex-direction:column;gap:22px;margin-top:22px}
 .obs{background:var(--surf);border:1px solid var(--line2);border-left:3px solid var(--acc);border-radius:3px;
-  padding:20px 22px 20px;scroll-margin-top:70px}
+  padding:20px 22px 20px;scroll-margin-top:84px}
 .obs[hidden]{display:none}
 .obs:target{box-shadow:0 0 0 2px var(--acc-s),0 0 0 1px var(--acc)}
 .cab{display:flex;gap:12px;align-items:baseline;margin:0 0 4px}
@@ -133,13 +134,13 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 .tesis{margin:0 0 16px;font-size:16.5px;line-height:1.58;color:var(--ink);max-width:70ch}
 .pruebas{display:grid;gap:10px;margin:0 0 16px}
 @media(min-width:860px){.pruebas{grid-template-columns:1fr 1fr}}
-.cita{margin:0;padding:10px 14px 10px 14px;background:var(--bg);border:1px solid var(--line2);border-radius:2px;
+.cita{margin:0;padding:10px 14px 10px 14px;background:var(--surf2);border:0;border-left:3px solid var(--lctl);border-radius:2px;
   display:flex;flex-direction:column;gap:7px}
 .cita p{margin:0;font-family:var(--doc);font-size:16px;line-height:1.5;color:var(--ink)}
 .cita p b{font-weight:600;background:var(--acc-s)}
-.cita cite{font-style:normal;font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--ink3);margin-top:auto;letter-spacing:.01em}
+.cita cite{font-size:14.5px;line-height:1.4;font-style:normal;font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--ink3);margin-top:auto;letter-spacing:.01em}
 .cita cite a{color:var(--ink2)}
-.cita.calc{border-style:dashed;border-color:var(--blue)}
+.cita.calc{border-left:3px dashed var(--blue)}
 .cita.calc p{font-family:var(--txt);font-size:15px}
 .cita.calc cite{color:var(--blue)}
 .choque,.pide{margin:0 0 12px;font-size:15.5px;line-height:1.6;max-width:72ch;color:var(--ink)}
@@ -162,8 +163,6 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
   padding:9px 14px;min-height:44px;cursor:pointer;border-radius:2px}
 .copiar:hover{background:var(--surf2)}
 .copiar[data-ok]{border-color:var(--green);color:var(--green)}
-.ancla{font-family:var(--cart);font-size:13.5px;color:var(--ink3);text-decoration:none;margin-left:auto}
-.ancla:hover{color:var(--ink)}
 
 /* ── barra fija: lo elegido ── */
 .barra{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--surf);border-top:1px solid var(--line);
@@ -189,6 +188,54 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
   .obs{break-inside:avoid;border:1px solid #999;border-left:3px solid #8a1a22}
   .obs[hidden]{display:block} body{background:#fff}
 }
+
+/* ── comité UX: celular primero, para quien no se maneja con la tecnología ── */
+html{scroll-padding-top:84px;scroll-padding-bottom:96px}
+.sr{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.tema,.choque>b:first-child,.pide>b:first-child{font-size:14.5px}
+.uso li{font-size:16px}
+.glosario{margin:20px 0 0;max-width:70ch}
+.glosario summary,.evid summary,.texto summary,.vista summary{min-height:44px;display:flex;align-items:center;gap:8px;cursor:pointer;
+  font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
+.glosario summary::before,.evid summary::before,.texto summary::before,.vista summary::before{content:'▸';color:var(--acc);font-size:14px}
+.glosario[open] summary::before,.evid[open] summary::before,.texto[open] summary::before,.vista[open] summary::before{content:'▾'}
+.glosario summary::-webkit-details-marker,.evid summary::-webkit-details-marker,.texto summary::-webkit-details-marker,.vista summary::-webkit-details-marker{display:none}
+.glosario summary,.evid summary,.texto summary,.vista summary{list-style:none}
+.glosario dl{margin:8px 0 0;display:grid;grid-template-columns:max-content 1fr;gap:6px 14px;font-size:15.5px;line-height:1.5}
+.glosario dt{font-weight:600} .glosario dd{margin:0;color:var(--ink2)}
+@media(max-width:520px){ .glosario dl{grid-template-columns:1fr;gap:2px} .glosario dd{margin-bottom:8px} }
+.rapido{background:var(--acc-s);border-radius:3px;padding:12px 14px;margin:6px 0 16px}
+.rapido p{margin:0 0 10px;font-size:15.5px;line-height:1.55}
+.campo{flex-direction:column;align-items:stretch}
+.campo label{flex:1 1 auto;font-size:15.5px;color:var(--ink)}
+.campo .ay{margin:-4px 0 6px;font-size:14.5px}
+.opc{font-weight:400;color:var(--ink3)}
+.campo textarea{font:inherit;font-family:var(--txt);font-weight:400;font-size:16px;color:var(--ink);background:var(--bg);
+  border:1px solid var(--lctl);border-radius:2px;padding:10px 12px;width:100%;resize:vertical;min-height:84px}
+.cuenta{min-height:0;margin:12px 0 0}
+.btn2.chico{min-height:44px;font-size:14px}
+.aviso{display:none;margin:14px 0 0;padding:12px 14px;border-left:4px solid var(--green);background:var(--surf2);
+  font-size:16px;line-height:1.55;color:var(--ink)}
+.aviso.on{display:block} .aviso.error{border-left-color:var(--acc)}
+.aviso .btn{display:flex;justify-content:center;margin:10px 0 6px}
+.aviso small{display:block;font-size:14px;color:var(--ink2)}
+.vista textarea:focus-visible,.campo textarea:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.ops{margin:4px 0 14px}
+.elegir{min-height:48px;font-size:16px}
+.elegir input{width:22px;height:22px}
+.obs.sel{border-left-width:6px;background:linear-gradient(var(--acc-s),var(--acc-s)),var(--surf)}
+.obs.sel .elegir{background:var(--acc-s);border-color:var(--acc);color:var(--ink)}
+.obs.sel .num::after{content:' ✓ elegida';font-family:var(--cart);font-size:14px}
+.evid{margin:0 0 6px} .evid[open]{margin-bottom:14px}
+.evid .pruebas{margin-top:8px}
+.barra{visibility:hidden;transition:transform .25s,visibility 0s .25s;padding:10px 12px calc(10px + env(safe-area-inset-bottom))}
+.barra.on{visibility:visible;transition-delay:0s}
+.barra .btn,.barra .btn2{min-height:48px;white-space:nowrap;justify-content:center}
+@media(max-width:640px){
+  .botones{flex-direction:column;align-items:stretch} .botones .btn,.botones .btn2{justify-content:center;width:100%}
+  .rapido .btn2{width:100%;justify-content:center}
+}
+@media print{ .evid,.evid[open]{display:block} .ops,.rapido,.glosario{display:none!important} }
 </style>
 
 <main class="wrap">
@@ -196,42 +243,76 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 <p class="volver"><a href="./">← Volver al análisis del proyecto</a></p>
 
 <h1>Observaciones fundadas, listas para ingresar</h1>
-<p class="bajada">Veintiuna observaciones al Estudio de Impacto Ambiental del relleno de El Salto.
-<b>Cada una se apoya en una cita textual del propio expediente del titular, con documento y página</b>,
-muestra dónde no cuadra y termina en una pregunta concreta que el titular tiene que responder en
-su Adenda. Ninguna depende de una opinión.</p>
-<p class="bajada">La participación ciudadana cierra el <b>3 de noviembre de 2026</b>.</p>
+<p class="bajada">La empresa Cosemar pide permiso para construir un relleno sanitario en El Salto. Hasta el
+<b>3 de noviembre de 2026</b> cualquier persona puede enviar observaciones por escrito, y la empresa
+está obligada a responderlas. Aquí hay <b>21 observaciones ya redactadas</b>, cada una basada en los
+propios documentos de la empresa, con el documento y la página.</p>
+<p class="bajada" id="plazo">Te toma unos 10 minutos. Necesitas tu <b>ClaveÚnica</b>.</p>
 
 <ol class="uso">
-  <li><b>Elige</b> las que te importan: marca «Sumar a mi observación» en cada una, o filtra por tema.</li>
-  <li><b>Escribe dónde vives</b> o a quién representas. Se pone solo en el texto.</li>
-  <li><b>Copia</b> el texto armado y pégalo en el <a href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">formulario del SEA</a>, con tu ClaveÚnica. Agrega con tus palabras por qué te afecta.</li>
+  <li><b>Elige</b> una o varias observaciones: toca «Sumar a mi observación» en cada tarjeta, o usa las 3 recomendadas.</li>
+  <li><b>Escribe tu población.</b> Si quieres, cuenta en una línea cómo te afecta: eso la fortalece.</li>
+  <li><b>Copia</b> el texto con el botón rojo. Queda guardado en tu celular.</li>
+  <li><b>Abre el formulario del SEA</b>, entra con tu ClaveÚnica, mantén el dedo apretado en el cuadro de texto y elige <b>Pegar</b>.</li>
+  <li><b>Envía y guarda el comprobante</b> (una captura de pantalla sirve). Te permite reclamar después si no te responden bien.</li>
 </ol>
+
+<details class="glosario">
+  <summary>Palabras que vas a encontrar</summary>
+  <dl>
+    <dt>Titular</dt><dd>La empresa que presenta el proyecto: Cosemar SpA.</dd>
+    <dt>Expediente</dt><dd>Todos los documentos del proyecto que están publicados en el SEA.</dd>
+    <dt>Adenda</dt><dd>El documento en que la empresa responde las observaciones durante la evaluación.</dd>
+    <dt>RCA</dt><dd>La resolución final que aprueba o rechaza el proyecto.</dd>
+    <dt>Lixiviados</dt><dd>El líquido que escurre de la basura cuando se descompone o se moja.</dd>
+    <dt>Línea de base</dt><dd>La descripción de cómo está el lugar antes del proyecto.</dd>
+    <dt>Área de influencia</dt><dd>La zona que la empresa reconoce como afectada.</dd>
+    <dt>Plan de seguimiento</dt><dd>Lo que la empresa queda obligada a medir y reportar si se aprueba.</dd>
+    <dt>D.S. 189</dt><dd>El reglamento del Ministerio de Salud con las condiciones que debe cumplir todo relleno sanitario.</dd>
+    <dt>SERNAGEOMIN</dt><dd>El servicio geológico del Estado. Ya revisó el estudio y le hizo observaciones.</dd>
+    <dt>SMA</dt><dd>La Superintendencia del Medio Ambiente, que fiscaliza.</dd>
+    <dt>Maicillo</dt><dd>La capa de roca descompuesta, como arena gruesa, que cubre el cerro.</dd>
+  </dl>
+</details>
 
 <section class="armar" id="armar" aria-labelledby="t-armar">
   <h2 id="t-armar">Tu observación</h2>
-  <p class="ay">Las que marques se numeran en un solo texto, con una introducción y un cierre que piden
-  respuesta específica a cada punto. También puedes copiar cada una por separado.</p>
+  <div class="rapido">
+    <p><b>¿Poco tiempo?</b> Elige las 3 recomendadas: la falla geológica, el camino por una zona donde
+    el Plan Regulador prohíbe rellenos, y la falta de monitoreo. Las dos primeras son condiciones que el
+    proyecto debe cumplir para poder construirse.</p>
+    <button type="button" class="btn2" id="elegir-3">Elegir las 3 recomendadas</button>
+  </div>
   <div class="campo">
-    <label for="pob">Dónde vives o a quién representas
-      <input type="text" id="pob" autocomplete="off" placeholder="por ejemplo: Pompeya Sur, Quilpué">
+    <label for="pob">¿En qué población o sector vives?
+      <input type="text" id="pob" autocomplete="off" autocapitalize="words" enterkeyhint="next" spellcheck="false"
+        placeholder="por ejemplo: Pompeya Sur, Quilpué" aria-describedby="pob-ay">
     </label>
-    <p class="cuenta" aria-live="polite"><b id="n-sel">0</b> elegidas</p>
+    <p class="ay" id="pob-ay">Se pone sola en el texto. Sin ella la observación queda incompleta.</p>
+    <label for="org">¿Escribes por una organización? <span class="opc">(opcional)</span>
+      <input type="text" id="org" autocomplete="organization" autocapitalize="words" enterkeyhint="next"
+        placeholder="por ejemplo: Junta de Vecinos Las Lomas">
+    </label>
+    <label for="afecta">¿Cómo te afecta a ti? <span class="opc">(opcional, pero la fortalece)</span>
+      <textarea id="afecta" rows="3" placeholder="Cuenta solo lo que te consta: qué ves, hueles o temes, y desde dónde."></textarea>
+    </label>
   </div>
+  <p class="cuenta" aria-live="polite"><b id="n-sel">0</b> <span id="n-txt">elegidas</span></p>
   <div class="botones">
-    <button type="button" class="btn" id="copiar-todo" disabled>Copiar mi observación</button>
-    <button type="button" class="btn2" id="elegir-visibles">Marcar todas las visibles</button>
-    <button type="button" class="btn2" id="limpiar" hidden>Quitar todas</button>
-    <a class="btn2" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ir al formulario del SEA →</a>
+    <button type="button" class="btn" id="copiar-todo">Copiar mi observación</button>
+    <a class="btn2" id="ir-sea" href="https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026" target="_blank" rel="noopener">Ir al formulario del SEA →</a>
+    <button type="button" class="btn2 chico" id="limpiar" hidden>Quitar todas</button>
   </div>
+  <p class="aviso" id="aviso" role="status" aria-live="polite"></p>
   <details class="vista" id="vista">
     <summary>Ver el texto completo antes de copiarlo</summary>
-    <label for="previa" class="sc" style="position:absolute;left:-9999px">Texto armado</label>
+    <label for="previa" class="sr">Texto armado</label>
     <textarea id="previa" readonly></textarea>
   </details>
   <noscript><p class="nojs">Sin JavaScript no se puede armar el texto, pero cada observación de abajo se puede seleccionar y copiar a mano.</p></noscript>
 </section>
 
+<p class="sr" id="f-estado" role="status" aria-live="polite"></p>
 <nav class="filtros" aria-label="Filtrar por tema">
   <span class="fl">Tema</span>
   <button type="button" data-f="" aria-pressed="true">Todas</button>
@@ -346,7 +427,7 @@ su Adenda. Ninguna depende de una opinión.</p>
 
 <article class="obs" id="obs-cursos" data-tema="agua">
   <div class="cab"><span class="num">4</span><p class="tema">Agua</p></div>
-  <h2>La regla de los 60 metros a los cursos de agua: el titular acredita la mitad del artículo</h2>
+  <h2>La ley exige más de 60 m entre el relleno y los cursos de agua, y la empresa no lo demuestra</h2>
   <p class="tesis">El artículo 10 del D.S. 189 tiene dos exigencias de distancia. El estudio hidrogeológico
   acredita la primera, la de 600 m a captaciones de agua. La segunda —más de 60 m de todo curso de agua,
   medidos desde la crecida de 100 años— no aparece acreditada, y el propio SERNAGEOMIN dice que una de las
@@ -406,7 +487,7 @@ su Adenda. Ninguna depende de una opinión.</p>
 
 <article class="obs" id="obs-agua" data-tema="agua">
   <div class="cab"><span class="num">6</span><p class="tema">Agua</p></div>
-  <h2>La calidad del agua se midió un solo día, con informes que el laboratorio dice que no valen ante la SMA</h2>
+  <h2>La calidad del agua se midió un solo día, con informes que el propio laboratorio dice que no sirven ante la SMA</h2>
   <p class="tesis">Toda la línea de base de calidad de agua superficial es una campaña del 29 de diciembre
   de 2025, en pleno verano. Los propios informes de laboratorio advierten que el muestreo no está
   acreditado. Y en ese único día, el Estero Quilpué ya superaba la norma de riego en coliformes fecales.</p>
@@ -597,7 +678,7 @@ su Adenda. Ninguna depende de una opinión.</p>
 
 <article class="obs" id="obs-matriz" data-tema="seguimiento">
   <div class="cab"><span class="num">13</span><p class="tema">Seguimiento</p></div>
-  <h2>Noventa impactos negativos, cuatro significativos, y los cuatro son de flora</h2>
+  <h2>De 90 daños que reconoce, solo cuatro cuentan como graves, y los cuatro son de plantas</h2>
   <p class="tesis">La matriz del Capítulo 4 declara significativo todo impacto que llegue a 50 puntos. De 90
   impactos negativos, 86 quedan bajo ese umbral, y ninguno de olor, aire, ruido o agua lo alcanza.</p>
   <div class="pruebas">
@@ -766,7 +847,7 @@ su Adenda. Ninguna depende de una opinión.</p>
 
 <article class="obs" id="obs-paisaje" data-tema="paisaje">
   <div class="cab"><span class="num">19</span><p class="tema">Paisaje</p></div>
-  <h2>La etapa de evaluación de impactos del estudio de paisaje no existe</h2>
+  <h2>Nadie evaluó cómo se verá el relleno durante sus 25 años: falta esa parte del estudio</h2>
   <p class="tesis">La metodología del estudio de paisaje anuncia cuatro etapas. El índice remite a la cuarta
   —la que evalúa los impactos— con un marcador roto, y el texto salta de la tercera al capítulo de turismo.
   El único fotomontaje muestra el relleno ya cerrado y revegetado.</p>
@@ -857,112 +938,165 @@ su Adenda. Ninguna depende de una opinión.</p>
 </main>
 
 <div class="barra" id="barra" role="region" aria-label="Observaciones elegidas">
-  <span class="bc"><b id="n-bar">0</b> elegidas</span>
-  <button type="button" class="btn" id="copiar-bar">Copiar mi observación</button>
-  <a class="btn2" href="#armar">Revisar</a>
+  <button type="button" class="btn" id="copiar-bar">Copiar (<span id="n-bar">0</span>)</button>
+  <a class="btn2" id="bar-sig" href="#armar">Revisar</a>
 </div>
 
 <script>
 (function(){
 "use strict";
 var $=function(s,c){return (c||document).querySelector(s)}, $$=function(s,c){return Array.prototype.slice.call((c||document).querySelectorAll(s))};
-var obs=$$('.obs'), pob=$('#pob'), previa=$('#previa'), barra=$('#barra');
-var GUARDA='obs-sel', GPOB='obs-pob';
+var obs=$$('.obs'), pob=$('#pob'), org=$('#org'), afecta=$('#afecta'), previa=$('#previa'), vista=$('#vista'),
+    barra=$('#barra'), aviso=$('#aviso'), SEA=$('#ir-sea').href;
+var RECOMENDADAS=['obs-falla','obs-premval','obs-monitoreo'];
+var G={sel:'obs-sel',pob:'obs-pob',org:'obs-org',afecta:'obs-afecta'};
 function leer(k){ try{return localStorage.getItem(k)}catch(e){return null} }
 function guardar(k,v){ try{localStorage.setItem(k,v)}catch(e){} }
 
-/* el texto plano de una observación, con la población puesta */
-function plano(a){
-  return $$('.cuerpo p',a).map(function(p){ return p.textContent.replace(/\s+/g,' ').trim() }).join('\n\n');
-}
-function lugar(){ var v=(pob.value||'').trim(); return v||'[población]'; }
+/* ---- el texto ---- */
+function plano(a){ return $$('.cuerpo p',a).map(function(p){ return p.textContent.replace(/\s+/g,' ').trim() }).join('\n\n'); }
+function lugar(){ return (pob.value||'').trim()||'[población]'; }
 function armar(lista){
   var n=lista.length; if(!n) return '';
-  var cab='Vivo en '+lugar()+'. Presento '+(n>1?'las siguientes observaciones':'la siguiente observación')+
+  var o=(org.value||'').trim(), yo=(afecta.value||'').replace(/\s+/g,' ').trim();
+  var cab='Vivo en '+lugar()+'.'+(o?' Escribo también en representación de '+o+'.':'')+' Presento '+
+    (n>1?'las siguientes observaciones':'la siguiente observación')+
     ' al Estudio de Impacto Ambiental del proyecto «Centro Metropolitano de Gestión Integral de Residuos» '+
     '(expediente SEIA 2168892026). '+(n>1?'Cada una cita':'Cita')+' el documento y la página del expediente donde está el antecedente.';
   var cuerpo=lista.map(function(a,i){ return (n>1?(i+1)+'. ':'')+$('h2',a).textContent.trim()+'\n'+plano(a); }).join('\n\n');
+  var mio=yo?'Esto me afecta personalmente: '+yo+(/[.!?]$/.test(yo)?'':'.'):'';
   var fin='Solicito que '+(n>1?'cada una de estas observaciones sea respondida':'esta observación sea respondida')+
     ' de forma específica en la Adenda y considerada fundadamente en la Resolución de Calificación Ambiental.';
-  return cab+'\n\n'+cuerpo+'\n\n'+fin;
+  return cab+'\n\n'+cuerpo+'\n\n'+(mio?mio+'\n\n':'')+fin;
 }
 function elegidas(){ return obs.filter(function(a){ return $('.elegir input',a).checked }); }
 
-function copiar(t,b,rot){
-  function ok(){ var r=b.textContent; b.textContent='Copiado'; b.setAttribute('data-ok','1');
-    setTimeout(function(){ b.textContent=rot||r; b.removeAttribute('data-ok') },2200); }
-  if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(t).then(ok,function(){ respaldo(t)&&ok() }); }
-  else if(respaldo(t)) ok();
-}
-function respaldo(t){
-  var x=document.createElement('textarea'); x.value=t; x.setAttribute('readonly','');
-  x.style.position='fixed'; x.style.opacity='0'; document.body.appendChild(x); x.select();
-  var r=false; try{ r=document.execCommand('copy') }catch(e){} document.body.removeChild(x); return r;
+/* ---- avisos: persistentes y anunciados por el lector de pantalla ---- */
+var tAviso;
+function avisar(html,tipo){
+  aviso.innerHTML=html; aviso.className='aviso on'+(tipo?' '+tipo:'');
+  clearTimeout(tAviso); if(tipo!=='error') tAviso=setTimeout(function(){ aviso.className='aviso' },20000);
 }
 
-/* controles de cada tarjeta */
+/* ---- copiar: primero el método síncrono (funciona dentro de WhatsApp y Facebook),
+   después la API moderna, y si todo falla el texto queda seleccionado para copiarlo a mano ---- */
+function respaldo(t){
+  var foco=document.activeElement, x=document.createElement('textarea');
+  x.value=t; x.setAttribute('aria-hidden','true'); x.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0;font-size:16px';
+  document.body.appendChild(x); x.focus(); x.select(); try{ x.setSelectionRange(0,t.length) }catch(e){}
+  var r=false; try{ r=document.execCommand('copy') }catch(e){}
+  document.body.removeChild(x); if(foco&&foco.focus) foco.focus();
+  return r;
+}
+function manual(t){
+  vista.open=true; previa.value=t; previa.focus(); try{ previa.setSelectionRange(0,t.length) }catch(e){ previa.select() }
+  avisar('<b>No se pudo copiar solo.</b> El texto quedó marcado abajo: mantén el dedo encima y elige <b>Copiar</b>.','error');
+}
+function copiado(b,n){
+  var r=b.getAttribute('data-rot')||b.innerHTML; b.setAttribute('data-rot',r);
+  b.textContent='✓ Copiado'; b.setAttribute('data-ok','1');
+  setTimeout(function(){ b.innerHTML=r; b.removeAttribute('data-ok'); var nb=$('#n-bar'); if(nb) nb.textContent=elegidas().length; },4000);
+  avisar('<b>✓ Listo, quedó copiado'+(n>1?' ('+n+' observaciones)':'')+'.</b> Ahora abre el formulario, entra con tu ClaveÚnica, '+
+    'mantén el dedo en el cuadro de texto y elige <b>Pegar</b>. '+
+    '<a class="btn" href="'+SEA+'" target="_blank" rel="noopener">Ir al formulario del SEA →</a>'+
+    '<small>Si se te borra, vuelve a esta página y copia de nuevo: tu selección queda guardada.</small>');
+  $('#bar-sig').textContent='Ir al SEA →'; $('#bar-sig').href=SEA; $('#bar-sig').target='_blank';
+}
+function copiar(lista,b){
+  if(!lista.length){ avisar('Primero toca <b>Sumar a mi observación</b> en al menos una tarjeta, o elige las 3 recomendadas.','error'); return; }
+  if(!(pob.value||'').trim()){
+    avisar('<b>Falta tu población.</b> Escríbela arriba y vuelve a tocar Copiar.','error');
+    $('#armar').scrollIntoView({block:'start'}); pob.focus(); return;
+  }
+  var t=armar(lista);
+  if(respaldo(t)) return copiado(b,lista.length);
+  if(navigator.clipboard&&navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(function(){ copiado(b,lista.length) },function(){ manual(t) });
+  else manual(t);
+}
+
+/* ---- cada tarjeta: lo que hay que responder y los botones arriba; las pruebas, plegadas ---- */
 obs.forEach(function(a){
-  var d=$('.texto',a), ops=document.createElement('div'); ops.className='ops';
-  ops.innerHTML='<label class="elegir"><input type="checkbox"> Sumar a mi observación</label>'+
-    '<button type="button" class="copiar">Copiar sólo esta</button>'+
-    '<a class="ancla" href="#'+a.id+'" title="Enlace directo a esta observación">#'+(a.querySelector('.num').textContent)+'</a>';
-  d.appendChild(ops);
-  var cb=$('input',ops);
-  cb.setAttribute('aria-describedby',a.id+'-t');
+  var num=$('.num',a).textContent, tit=$('h2',a).textContent.trim();
   $('h2',a).id=a.id+'-t';
+  var pr=$('.pruebas',a), chs=$$('.choque',a), ch=chs[0], pide=$('.pide',a), tx=$('.texto',a);
+  var ev=document.createElement('details'); ev.className='evid';
+  var nc=$$('.cita',pr).length;
+  ev.innerHTML='<summary>Ver las '+nc+' pruebas del expediente'+(ch?' y por qué no cuadra':'')+'</summary>';
+  ev.appendChild(pr); chs.forEach(function(c){ ev.appendChild(c) });
+  var ops=document.createElement('div'); ops.className='ops';
+  ops.innerHTML='<label class="elegir"><input type="checkbox"> Sumar a mi observación</label>'+
+    '<button type="button" class="copiar">Copiar solo esta</button>';
+  $('input',ops).setAttribute('aria-label','Sumar la observación '+num+': '+tit);
+  $('.copiar',ops).setAttribute('aria-label','Copiar solo la observación '+num);
+  (pide||$('.tesis',a)).after(ops); ops.after(ev);
+  $('summary',tx).textContent='Ver el texto que se va a enviar';
+  var cb=$('input',ops);
   cb.addEventListener('change',function(){ a.classList.toggle('sel',cb.checked); refrescar(); });
-  var bc=$('.copiar',ops);
-  bc.addEventListener('click',function(){ copiar(armar([a]),bc,'Copiar sólo esta'); });
+  $('.copiar',ops).addEventListener('click',function(){ copiar([a],this); });
 });
 
+function marcar(a,v){ $('.elegir input',a).checked=v; a.classList.toggle('sel',v); }
 function refrescar(){
   var s=elegidas(), n=s.length;
-  $('#n-sel').textContent=n; $('#n-bar').textContent=n;
-  $('#copiar-todo').disabled=!n;
-  $('#copiar-todo').textContent=n>1?'Copiar mi observación ('+n+' puntos)':'Copiar mi observación';
+  $('#n-sel').textContent=n; $('#n-txt').textContent=n===1?'elegida':'elegidas'; $('#n-bar').textContent=n;
   $('#limpiar').hidden=!n;
   barra.classList.toggle('on',n>0);
-  previa.value=n?armar(s):'Marca «Sumar a mi observación» en las que quieras incluir.';
+  var t=n?armar(s):'';
+  previa.value=n?t:'Toca «Sumar a mi observación» en las que quieras incluir.';
+  $('#n-txt').textContent=(n===1?'elegida':'elegidas')+(n?' · '+t.length.toLocaleString('es-CL')+' caracteres':'');
   $$('.pob').forEach(function(p){ p.textContent=lugar(); });
-  guardar(GUARDA,s.map(function(a){return a.id}).join(','));
+  var ids=s.map(function(a){return a.id}).join(',');
+  guardar(G.sel,ids);
+  /* también en la dirección: dentro de WhatsApp el almacenamiento del navegador puede no persistir */
+  try{ var u=new URL(location.href); if(ids) u.searchParams.set('e',ids); else u.searchParams.delete('e'); history.replaceState(null,'',u) }catch(e){}
 }
-pob.addEventListener('input',function(){ guardar(GPOB,pob.value); refrescar(); });
-$('#copiar-todo').addEventListener('click',function(){ copiar(armar(elegidas()),this); });
-$('#copiar-bar').addEventListener('click',function(){ copiar(armar(elegidas()),this); });
-$('#limpiar').addEventListener('click',function(){ obs.forEach(function(a){ $('.elegir input',a).checked=false; a.classList.remove('sel'); }); refrescar(); });
-$('#elegir-visibles').addEventListener('click',function(){
-  obs.forEach(function(a){ if(!a.hidden){ $('.elegir input',a).checked=true; a.classList.add('sel'); } }); refrescar(); });
+[[pob,G.pob],[org,G.org],[afecta,G.afecta]].forEach(function(p){
+  p[0].addEventListener('input',function(){ guardar(p[1],p[0].value); refrescar(); });
+});
+$('#copiar-todo').addEventListener('click',function(){ copiar(elegidas(),this); });
+$('#copiar-bar').addEventListener('click',function(){ copiar(elegidas(),this); });
+$('#limpiar').addEventListener('click',function(){ obs.forEach(function(a){ marcar(a,false) }); refrescar(); });
+$('#elegir-3').addEventListener('click',function(){
+  RECOMENDADAS.forEach(function(id){ var a=document.getElementById(id); if(a) marcar(a,true); }); refrescar();
+  avisar('Elegiste las 3 recomendadas. Ahora escribe tu población y toca <b>Copiar mi observación</b>.');
+  if(!(pob.value||'').trim()) pob.focus();
+});
 
-/* filtros por tema, con conteo */
+/* ---- filtros por tema ---- */
 var bots=$$('.filtros button');
+function tiene(a,f){ return (' '+a.getAttribute('data-tema')+' ').indexOf(' '+f+' ')>-1 }
 bots.forEach(function(b){
-  var f=b.getAttribute('data-f'), n=f?obs.filter(function(a){ return (' '+a.getAttribute('data-tema')+' ').indexOf(' '+f+' ')>-1 }).length:obs.length;
+  var f=b.getAttribute('data-f'), n=f?obs.filter(function(a){ return tiene(a,f) }).length:obs.length;
   var c=document.createElement('span'); c.className='c'; c.textContent=n; b.appendChild(c);
   b.addEventListener('click',function(){
     bots.forEach(function(x){ x.setAttribute('aria-pressed',x===b?'true':'false') });
-    obs.forEach(function(a){ a.hidden=!!f&&(' '+a.getAttribute('data-tema')+' ').indexOf(' '+f+' ')<0; });
+    obs.forEach(function(a){ a.hidden=!!f&&!tiene(a,f); });
+    $('#f-estado').textContent=(f?n+' observaciones de '+b.firstChild.textContent.trim().toLowerCase():'Todas las observaciones')+'.';
+    try{ b.scrollIntoView({inline:'center',block:'nearest'}) }catch(e){}
+    $('#lista').scrollIntoView({block:'start'});
   });
 });
 
-/* lo que la persona ya había elegido y escrito, si el navegador lo guarda */
-var g=leer(GPOB); if(g) pob.value=g;
-var s=(leer(GUARDA)||'').split(',');
-obs.forEach(function(a){ if(s.indexOf(a.id)>-1){ $('.elegir input',a).checked=true; a.classList.add('sel'); } });
+/* ---- lo ya elegido y escrito: de la dirección o del navegador ---- */
+var q=null; try{ q=new URL(location.href).searchParams.get('e') }catch(e){}
+var s0=(q||leer(G.sel)||'').split(',');
+obs.forEach(function(a){ if(s0.indexOf(a.id)>-1) marcar(a,true); });
+[[pob,G.pob],[org,G.org],[afecta,G.afecta]].forEach(function(p){ var v=leer(p[1]); if(v) p[0].value=v; });
 
-/* si se llega con #obs-…, esa observación se abre y queda marcada */
+/* si se llega con #obs-…, esa observación se muestra con sus pruebas abiertas */
 function abrirAncla(){
   var h=location.hash&&document.getElementById(location.hash.slice(1));
-  if(h&&h.classList.contains('obs')){ h.hidden=false; $('.texto',h).open=true; }
+  if(h&&h.classList.contains('obs')){ h.hidden=false; var e=$('.evid',h); if(e) e.open=true; }
 }
 window.addEventListener('hashchange',abrirAncla); abrirAncla();
-/* al imprimir, todos los textos abiertos */
-window.addEventListener('beforeprint',function(){ $$('.texto').forEach(function(d){ d.open=true }); });
+/* al imprimir, todo abierto */
+window.addEventListener('beforeprint',function(){ $$('.texto,.evid').forEach(function(d){ d.open=true }); });
 refrescar();
 
 /* después del 3 de noviembre, el plazo cerró */
 if(new Date()>=new Date(2026,10,4)){
-  var b=$('.bajada:nth-of-type(2)'); if(b) b.innerHTML='La participación ciudadana <b>cerró el 3 de noviembre de 2026</b>. '+
-    'Estas observaciones quedan como referencia de lo que el titular debiera responder en su Adenda.';
+  var p=$('#plazo'); if(p) p.innerHTML='La participación ciudadana <b>cerró el 3 de noviembre de 2026</b>. '+
+    'Estas observaciones quedan como referencia de lo que la empresa debiera responder en su Adenda.';
 }
 })();
 </script>
