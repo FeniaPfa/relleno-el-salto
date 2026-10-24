@@ -85,7 +85,11 @@ python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia via
 
 `geometria_titular.py` reconstruye la superficie final del relleno a partir del plano 3.8 «Manto general»
 del Anexo 1.5 (los PDF no están en el repo: se bajan con la URL del manifiesto) y escribe `manto.json`, que
-el relato pide al cargar (40 KB, la principal no lo usa). La validación y las trampas están en su
+el relato pide al cargar (40 KB, la principal no lo usa). `geometria_obras.py` hace lo mismo con las obras (`obras.json`, 14 KB):
+edificios de los shapefiles del titular, piscinas del plano 3.6, antorchas del 10.2 y las 81 chimeneas del 10.1
+(una sola `InstancedMesh`, para no sumar llamadas de dibujo). Solo los galpones tienen altura declarada (8 m);
+el resto es esquemático y así se rotula. El terreno del visor no tiene excavaciones ni plataformas: las
+piscinas se dibujan a la cota de coronamiento y las superficies planas a la altura del punto más alto. La validación y las trampas están en su
 encabezado; si lo vuelves a correr, compara con los perfiles del plano antes de publicar.
 
 `lee.py` extrae texto de un PDF con PyMuPDF. `verifica_citas.py` coteja las citas del sitio con el expediente (ver «Revisión de fuentes antes de publicar»).

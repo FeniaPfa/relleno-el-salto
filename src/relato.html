@@ -306,7 +306,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
     <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a>.
     Al cierre, la masa corona en la cota 350. El titular declara un espesor promedio de 80 m; el modelo de
     esta página, más conservador, da unos <b>60 metros</b> de basura, el alto de un edificio de 20 pisos.</p>
-    <p class="calc llen-largo">Forma final: plano 3.8 «Manto general» del titular (Anexo 1.5), georreferenciado. Año a año, el tonelaje del Capítulo 1 repartido sobre esa forma; el espesor medio es estimación de esta página</p>
+    <p class="calc llen-largo">Forma final: plano 3.8 «Manto general» del titular (Anexo 1.5), georreferenciado. Año a año, el tonelaje del Capítulo 1 repartido sobre esa forma; el espesor medio es estimación de esta página. Edificios, piscinas, antorchas y chimeneas: cartografía y planos del titular (Anexo 1.5); alturas esquemáticas salvo los galpones, de 8 m declarados</p>
   </div>
 </section>
 
@@ -670,10 +670,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var MEJOR={listo:false, actualizarMasa:function(){}};
   /* superficie final del relleno según el titular: plano 3.8 «Manto general» del Anexo 1.5, georreferenciado
      por geometria_titular.py. La pide solo el relato (40 KB); si no llega, se usa la masa estimada. */
-  var MANTO=null, mantoListo=false, alManto=[];
+  /* y las obras (geometria_obras.py, 14 KB): edificios, piscinas, bandejas, antorchas y chimeneas */
+  var MANTO=null, OBRAS=null, mantoListo=false, alManto=[];
   function mantoHecho(){ mantoListo=true; alManto.splice(0).forEach(function(f){ f() }) }
-  try{ fetch('manto.json').then(function(r){ return r.ok?r.json():null })
-         .then(function(m){ MANTO=m; mantoHecho() },function(){ mantoHecho() }) }
+  function pedirJSON(u){ return fetch(u).then(function(r){ return r.ok?r.json():null }).catch(function(){ return null }) }
+  try{ Promise.all([pedirJSON('manto.json'),pedirJSON('obras.json')])
+         .then(function(a){ MANTO=a[0]; OBRAS=a[1]; mantoHecho() },function(){ mantoHecho() }) }
   catch(e){ mantoHecho() }
   function mejorarEscena(){
     var I=VISOR.internos(), T=I.THREE, sc=I.sc, K=I.K, hAt=I.hAt, uv=I.uv, wx=I.wx, wz=I.wz;
@@ -837,7 +839,12 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     MEJOR.actualizarMasa=function(yr){
       var cy=corona[Math.max(0,Math.min(25,yr))], k=K();
       masa.visible=yr>0; huella.visible=!yr;
+      if(MEJOR.obras) MEJOR.obras.visible=yr>0;
       if(!yr) return;
+      if(MEJOR.chim){ var C=MEJOR.chim, mt=new T.Matrix4(), ce=new T.Matrix4().makeScale(0,0,0);
+        C.p.forEach(function(q,i){ var sF=mantoAt(q.u,q.v);
+          if(sF!==null&&cy>=sF-.5){ mt.makeScale(1,k,1); mt.setPosition(q.x,(sF+3)*k,q.z); C.m.setMatrixAt(i,mt) } else C.m.setMatrixAt(i,ce) });
+        C.m.instanceMatrix.needsUpdate=true }
       for(var q=0;q<NV;q++){
         var top=ins[q]?Math.min(sup[q],cy):-1e9, h=top>gro[q]+.3?top:gro[q]-2.5;
         pos[q*3+1]=h*k;
@@ -862,7 +869,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     cinta.renderOrder=5; sc.add(cinta);
 
     /* ---------- piscinas de lixiviados: agua a nivel ---------- */
-    var Lx=L.lixiviados&&L.lixiviados.g;
+    var Lx=!OBRAS&&L.lixiviados&&L.lixiviados.g;
     if(Lx){ (Lx.type==='Polygon'?[Lx.coordinates]:Lx.coordinates).forEach(function(pl){
       var r0=pl[0], mn=1e9, sh=new T.Shape();
       r0.forEach(function(c,ii){ var u=uv(c[0],c[1]); mn=Math.min(mn,hAt(u[0],u[1]));
@@ -872,6 +879,55 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
         transparent:true,opacity:.92,polygonOffset:true,polygonOffsetFactor:-3}));
       m.position.y=(mn+2)*K(); m.renderOrder=6; sc.add(m);
     }) }
+    /* ---------- obras del titular (geometria_obras.py): aparecen con la operación ---------- */
+    var obras=new T.Group(); obras.visible=false; sc.add(obras); MEJOR.chim=null;
+    if(OBRAS){
+      var XZ=function(c){ var u=uv(c[0],c[1]); return {x:wx(u[0]),z:wz(u[1]),h:hAt(u[0],u[1])} };
+      /* piscinas: el borde de coronamiento del plano 3.6, con la cota de su tabla. El modelo de terreno no tiene
+         la excavación, así que se dibujan a la altura del coronamiento (el fondo, de 195 a 198 m, no se ve);
+         adentro, el polígono del fondo como lámina de agua */
+      var matAgua=new T.MeshLambertMaterial({color:0x1d4a5e,emissive:0x04121a,side:T.DoubleSide,polygonOffset:true,polygonOffsetFactor:-4});
+      OBRAS.piscinas.forEach(function(Pc){
+        var k=K(), zc=0, sh=new T.Shape(), anillo=[];
+        Pc.borde.forEach(function(c,ii){ var q=XZ(c); zc=Math.max(zc,c[2],q.h); anillo.push(q); if(ii) sh.lineTo(q.x,-q.z); else sh.moveTo(q.x,-q.z) });
+        var g=new T.ShapeGeometry(sh); g.rotateX(-Math.PI/2);
+        var m=new T.Mesh(g,new T.MeshLambertMaterial({color:0x2a2d31,side:T.DoubleSide,polygonOffset:true,polygonOffsetFactor:-3}));
+        m.position.y=(zc+1)*k; obras.add(m);
+        var sf=new T.Shape(); Pc.fondo.forEach(function(c,ii){ var q=XZ(c); if(ii) sf.lineTo(q.x,-q.z); else sf.moveTo(q.x,-q.z) });
+        var gf=new T.ShapeGeometry(sf); gf.rotateX(-Math.PI/2);
+        var mf=new T.Mesh(gf,matAgua); mf.position.y=(zc+1.4)*k; obras.add(mf);
+        var pts=anillo.map(function(q){ return new T.Vector3(q.x,(zc+1.6)*k,q.z) }); pts.push(pts[0].clone());
+        obras.add(new T.Line(new T.BufferGeometry().setFromPoints(pts),new T.LineBasicMaterial({color:0xe8e4da})));
+      });
+      /* bandejas de evaporación: agua a nivel del terreno */
+      OBRAS.bandejas.forEach(function(B){
+        var mn=-1e9, sh=new T.Shape();   /* a la altura del punto más alto: el terreno no tiene la plataforma */
+        B.forEach(function(c,ii){ var q=XZ(c); mn=Math.max(mn,q.h); if(ii) sh.lineTo(q.x,-q.z); else sh.moveTo(q.x,-q.z) });
+        var g=new T.ShapeGeometry(sh); g.rotateX(-Math.PI/2);
+        var m=new T.Mesh(g,new T.MeshLambertMaterial({color:0x2b6a80,emissive:0x061a22,side:T.DoubleSide,polygonOffset:true,polygonOffsetFactor:-3}));
+        m.position.y=(mn+1)*K(); obras.add(m);
+      });
+      /* edificios: la huella del shapefile, extruida. 8 m en los galpones con altura declarada; el resto, esquemático */
+      var matGalpon=new T.MeshLambertMaterial({color:0xd9dde0,side:T.DoubleSide}), matEsq=new T.MeshLambertMaterial({color:0xb9bec4,side:T.DoubleSide});
+      OBRAS.edificios.forEach(function(E){
+        var mn=1e9, sh=new T.Shape();
+        E.p.forEach(function(c,ii){ var q=XZ(c); mn=Math.min(mn,q.h); if(ii) sh.lineTo(q.x,-q.z); else sh.moveTo(q.x,-q.z) });
+        var g=new T.ExtrudeGeometry(sh,{depth:E.alto,bevelEnabled:false}); g.rotateX(-Math.PI/2);
+        var m=new T.Mesh(g,E.esq?matEsq:matGalpon); m.position.y=mn*K(); m.scale.y=K(); obras.add(m);
+      });
+      /* antorchas: cilindros de 2,3 m de diámetro y 8,2 m, medidos en la elevación del plano 10.2 */
+      var A=OBRAS.antorchas, matAnt=new T.MeshLambertMaterial({color:0x9aa1a8});
+      A.p.forEach(function(c){ var q=XZ(c);
+        var m=new T.Mesh(new T.CylinderGeometry(A.diam/2,A.diam/2,A.alto,16),matAnt);
+        m.scale.y=K(); m.position.set(q.x,(q.h+A.alto/2)*K(),q.z); obras.add(m) });
+      /* chimeneas: 81, una sola malla instanciada. Se dibujan de 6 m (el expediente no da la altura sobre la
+         cobertura) y aparecen cuando la masa llega a su cota final en ese punto */
+      var CH=OBRAS.chimeneas, ci=new T.InstancedMesh(new T.CylinderGeometry(.7,.7,6,8),new T.MeshLambertMaterial({color:0xe8e4da}),CH.length);
+      ci.instanceMatrix.setUsage(T.DynamicDrawUsage); obras.add(ci);
+      MEJOR.chim={m:ci,p:CH.map(function(c){ var u=uv(c[0],c[1]); return {x:wx(u[0]),z:wz(u[1]),u:u[0],v:u[1]} })};
+    }
+    MEJOR.obras=obras;
+
     /* ---------- áreas protegidas: pintadas sobre el terreno, con rótulo ---------- */
     var TONO={palmar:0x8fd18a,botanico:0xb9a8e0,humedal:0x8fc4d6,penuelas:0x7fa7b8};
     var NOM={palmar:'Sitio Prioritario<small>Palmar Las Siete Hermanas · 255 m</small>',humedal:'Humedal Estero Quilpué<small>1,43 km</small>',
