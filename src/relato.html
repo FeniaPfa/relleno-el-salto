@@ -99,6 +99,8 @@ body.listo .portada .baj{opacity:1}
 @keyframes baja{0%,100%{transform:translateY(-4px);opacity:.4}50%{transform:translateY(6px);opacity:1}}
 
 /* ---- llenado: medidor contra un edificio de 20 pisos ---- */
+/* el llenado en celular: la tarjeta queda fija abajo mientras la masa crece, así que va compacta */
+.llen-corto{display:none}
 .anio{font-family:var(--cifra);font-size:15px;font-weight:600;color:var(--acc);letter-spacing:.02em;margin-bottom:8px}
 .llen{display:grid;grid-template-columns:1fr 92px;gap:14px;align-items:end;margin-bottom:6px}
 .contador{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;align-items:baseline;margin:2px 0 12px}
@@ -216,6 +218,14 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .contador .n{font-size:26px}
   .llen{grid-template-columns:1fr 74px}
   .medidor{height:110px}
+  .etapa.largo .llen-largo{display:none}
+  .etapa.largo .llen-corto{display:block;font-size:14.5px;margin:0}
+  .etapa.largo .tarj h2{margin-bottom:6px}
+  .etapa.largo .contador{margin-bottom:6px}
+  .etapa.largo .medidor{height:84px;margin-top:14px}
+  /* aire al pie para que el crédito de la imagen satelital no se monte sobre la tarjeta */
+  .etapa{padding-bottom:34px}
+  .etapa.largo .tarj{bottom:34px}
   .riel{display:none}
   .prog{height:3px}
     .escena .mob{right:14px}
@@ -279,7 +289,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
   </div>
 </section>
 
-<section class="etapa largo" id="e-llenado" data-titulo="El llenado" data-cam='{"th":-0.32,"ph":0.92,"rad":0.29}' data-capas="barrios">
+<section class="etapa largo" id="e-llenado" data-titulo="El llenado" data-cam='{"th":-0.32,"ph":0.92,"rad":0.29}' data-cam-m='{"th":-0.32,"ph":0.82,"rad":0.42}' data-capas="barrios">
   <div class="tarj">
     <p class="et"><span class="nro">03</span>Veinticinco años</p>
     <h2>La quebrada se llena</h2>
@@ -291,11 +301,12 @@ body.bajo .pista{opacity:0;pointer-events:none}
       </div>
       <div class="medidor" aria-hidden="true"><div class="ed"></div><div class="ma" id="r-ma"><b id="r-mab"></b></div></div>
     </div>
-    <p>Entran entre 900.000 y 1.627.853 toneladas por año, según la tabla de producción del
+    <p class="llen-corto">El titular declara un espesor promedio de 80 m; este modelo, más conservador, da unos <b>60</b>.</p>
+    <p class="llen-largo">Entran entre 900.000 y 1.627.853 toneladas por año, según la tabla de producción del
     <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a>.
     Al cierre, la masa corona en la cota 350. El titular declara un espesor promedio de 80 m; el modelo de
     esta página, más conservador, da unos <b>60 metros</b> de basura, el alto de un edificio de 20 pisos.</p>
-    <p class="calc">Espesor y forma: modelo de esta página con el tonelaje, la huella y los taludes de la Tabla 30 que declara el titular</p>
+    <p class="calc llen-largo">Espesor y forma: modelo de esta página con el tonelaje, la huella y los taludes de la Tabla 30 que declara el titular</p>
   </div>
 </section>
 
