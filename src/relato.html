@@ -622,8 +622,13 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var rh=document.getElementById('rot-huella');
     if(MEJOR.centro&&i<=1){
       var I2=VISOR.internos(), v=MEJOR.centro.clone().project(I2.cam), cvr=I2.ren.domElement.getBoundingClientRect();
-      rh.style.left=((v.x*.5+.5)*cvr.width+cvr.left).toFixed(0)+'px'; rh.style.top=((-v.y*.5+.5)*cvr.height+cvr.top-10).toFixed(0)+'px';
-      rh.classList.toggle('on',v.z<1); if(MEJOR.pulso) MEJOR.pulso(performance.now());
+      var hx=(v.x*.5+.5)*cvr.width+cvr.left, hy=(-v.y*.5+.5)*cvr.height+cvr.top-10;
+      rh.style.left=hx.toFixed(0)+'px'; rh.style.top=hy.toFixed(0)+'px';
+      /* el rótulo se ancla abajo al centro; si choca con la tarjeta de la etapa, se esconde (en celular la
+         tarjeta ocupa casi todo el ancho y lo tapaba durante buena parte del scroll) */
+      var tr=etapas[i].querySelector('.tarj').getBoundingClientRect(), w2=rh.offsetWidth/2+8, h2=rh.offsetHeight+8;
+      var choca=hx+w2>tr.left&&hx-w2<tr.right&&hy>tr.top-8&&hy-h2<tr.bottom;
+      rh.classList.toggle('on',v.z<1&&!choca); if(MEJOR.pulso) MEJOR.pulso(performance.now());
     } else rh.classList.remove('on');
     var h=document.documentElement;
     document.getElementById('prog').style.width=(scrollY/Math.max(1,h.scrollHeight-innerHeight)*100).toFixed(2)+'%';
