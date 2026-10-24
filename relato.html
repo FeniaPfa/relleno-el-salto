@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="es-CL" data-theme="dark">
 <meta charset="utf-8">
+<script>/* copia de prueba en GitHub Pages (rama dev): que los buscadores no la indexen */if(/\.github\.io$/.test(location.hostname)){var m=document.createElement('meta');m.name='robots';m.content='noindex,nofollow';document.head.appendChild(m);addEventListener('DOMContentLoaded',function(){[].forEach.call(document.querySelectorAll('meta[name=robots]'),function(x){x.content='noindex,nofollow'})})}</script>
 <title>El relleno de El Salto, contado desde el terreno</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
@@ -1065,6 +1066,8 @@ body.listo .portada .baj{opacity:1}
 @keyframes baja{0%,100%{transform:translateY(-4px);opacity:.4}50%{transform:translateY(6px);opacity:1}}
 
 /* ---- llenado: medidor contra un edificio de 20 pisos ---- */
+/* el llenado en celular: la tarjeta queda fija abajo mientras la masa crece, así que va compacta */
+.llen-corto{display:none}
 .anio{font-family:var(--cifra);font-size:15px;font-weight:600;color:var(--acc);letter-spacing:.02em;margin-bottom:8px}
 .llen{display:grid;grid-template-columns:1fr 92px;gap:14px;align-items:end;margin-bottom:6px}
 .contador{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;align-items:baseline;margin:2px 0 12px}
@@ -1160,7 +1163,10 @@ body.bajo .pista{opacity:0;pointer-events:none}
 @media(max-width:760px){
   .escena::after{background:radial-gradient(120% 80% at 50% 30%,rgba(11,13,16,0) 40%,rgba(11,13,16,.5) 100%),
     linear-gradient(0deg,rgba(11,13,16,.85) 0%,rgba(11,13,16,.35) 42%,rgba(11,13,16,0) 62%)}
-  .etapa{align-items:flex-end;padding:0 12px 16px;min-height:105vh}
+  /* en celular las tarjetas ocupan casi toda la pantalla: la que sale se apaga del todo (a medias tapaba
+     el mapa) y entre etapas queda un tramo de mapa limpio */
+  .etapa{align-items:flex-end;padding:0 12px 16px;min-height:120vh}
+  .etapa:not(.activa) .tarj{opacity:0;pointer-events:none}
   .etapa.largo{align-items:flex-end;min-height:240vh}
   .etapa.largo .tarj{top:auto;bottom:16px}
   .tarj{max-width:none;width:100%;padding:16px 16px 14px}
@@ -1179,6 +1185,14 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .contador .n{font-size:26px}
   .llen{grid-template-columns:1fr 74px}
   .medidor{height:110px}
+  .etapa.largo .llen-largo{display:none}
+  .etapa.largo .llen-corto{display:block;font-size:14.5px;margin:0}
+  .etapa.largo .tarj h2{margin-bottom:6px}
+  .etapa.largo .contador{margin-bottom:6px}
+  .etapa.largo .medidor{height:84px;margin-top:14px}
+  /* aire al pie para que el crédito de la imagen satelital no se monte sobre la tarjeta */
+  .etapa{padding-bottom:34px}
+  .etapa.largo .tarj{bottom:34px}
   .riel{display:none}
   .prog{height:3px}
     .escena .mob{right:14px}
@@ -1344,7 +1358,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
   </div>
 </section>
 
-<section class="etapa largo" id="e-llenado" data-titulo="El llenado" data-cam='{"th":-0.32,"ph":0.92,"rad":0.29}' data-capas="barrios">
+<section class="etapa largo" id="e-llenado" data-titulo="El llenado" data-cam='{"th":-0.32,"ph":0.92,"rad":0.29}' data-cam-m='{"th":-0.32,"ph":0.82,"rad":0.42}' data-capas="barrios">
   <div class="tarj">
     <p class="et"><span class="nro">03</span>Veinticinco años</p>
     <h2>La quebrada se llena</h2>
@@ -1356,11 +1370,12 @@ body.bajo .pista{opacity:0;pointer-events:none}
       </div>
       <div class="medidor" aria-hidden="true"><div class="ed"></div><div class="ma" id="r-ma"><b id="r-mab"></b></div></div>
     </div>
-    <p>Entran entre 900.000 y 1.627.853 toneladas por año, según la tabla de producción del
+    <p class="llen-corto">El titular declara un espesor promedio de 80 m; este modelo, más conservador, da unos <b>60</b>.</p>
+    <p class="llen-largo">Entran entre 900.000 y 1.627.853 toneladas por año, según la tabla de producción del
     <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a>.
     Al cierre, la masa corona en la cota 350. El titular declara un espesor promedio de 80 m; el modelo de
     esta página, más conservador, da unos <b>60 metros</b> de basura, el alto de un edificio de 20 pisos.</p>
-    <p class="calc">Espesor y forma: modelo de esta página con el tonelaje, la huella y los taludes de la Tabla 30 que declara el titular</p>
+    <p class="calc llen-largo">Espesor y forma: modelo de esta página con el tonelaje, la huella y los taludes de la Tabla 30 que declara el titular</p>
   </div>
 </section>
 

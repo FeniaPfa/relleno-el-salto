@@ -61,6 +61,7 @@ def main():
     especies(h)
     relato(h, v)
     sitemap()
+    solo_produccion()
 
 def tokens(h):
     """El bloque de variables de color de plantilla.html: :root y sus dos variantes
@@ -252,6 +253,22 @@ def relato(h, visor_js):
     destino = os.path.join(AQUI, 'relato.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('relato.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+
+# GitHub Pages publica la rama dev como copia de prueba, y Cloudflare publica main. Los dos sirven
+# los mismos archivos, así que el «no indexar» se decide al cargar, según el dominio: en github.io
+# la página se marca noindex (y cualquier robots que traiga, también); en producción no hace nada.
+NO_INDEXAR_DEV = ('<script>/* copia de prueba en GitHub Pages (rama dev): que los buscadores no la indexen */'
+    "if(/\\.github\\.io$/.test(location.hostname)){var m=document.createElement('meta');m.name='robots';"
+    "m.content='noindex,nofollow';document.head.appendChild(m);addEventListener('DOMContentLoaded',function(){"
+    "[].forEach.call(document.querySelectorAll('meta[name=robots]'),function(x){x.content='noindex,nofollow'})})}</script>\n")
+
+def solo_produccion():
+    for n in ('index.html', 'observaciones.html', 'especies.html', 'relato.html', 'tramite.html', 'que-puede-pasar.html'):
+        ruta = os.path.join(AQUI, n)
+        pg = io.open(ruta, encoding='utf-8').read()
+        marca = '<meta charset="utf-8">\n'
+        assert pg.count(marca) == 1, 'falta <meta charset> en ' + n
+        io.open(ruta, 'w', encoding='utf-8').write(pg.replace(marca, marca + NO_INDEXAR_DEV))
 
 def sitemap():
     f = fecha_iso()
