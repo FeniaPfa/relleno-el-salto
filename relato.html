@@ -18,7 +18,7 @@
 <link rel="icon" href="icono.svg" type="image/svg+xml">
 <link rel="icon" href="icono-48.png" sizes="48x48" type="image/png">
 <link rel="apple-touch-icon" href="icono-180.png">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-10-23","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-10-24","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
 <link rel="preload" as="script" href="lib/three.r128.min.js">
 <link rel="preload" as="image" href="altura.png">
 <link rel="preload" as="image" href="flujo.png">
@@ -1116,6 +1116,13 @@ body.listo .riel{opacity:1}
 .volver{position:fixed;top:12px;right:14px;z-index:7;font-family:var(--cart);font-size:14px;color:#e8e6df;
   background:rgba(16,18,22,.85);border:1px solid #39413c;padding:7px 11px;text-decoration:none;border-radius:2px}
 .volver:hover{background:#23272c}
+/* volver al inicio del relato: un botón cuadrado a la izquierda de «Análisis completo», solo fuera de la portada */
+.subir{position:fixed;top:12px;right:14px;z-index:7;width:36px;height:36px;display:flex;align-items:center;justify-content:center;
+  background:rgba(16,18,22,.85);border:1px solid #39413c;border-radius:2px;color:#e8e6df;cursor:pointer;padding:0;
+  opacity:0;pointer-events:none;transition:opacity .3s ease}
+.subir:hover{background:#23272c}
+.subir:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+body.lejos-portada .subir{opacity:1;pointer-events:auto}
 
 /* ---- áreas protegidas ---- */
 .areas{list-style:none;margin:4px 0 10px;padding:0;display:grid;gap:9px}
@@ -1208,6 +1215,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
 <div class="carga" aria-hidden="true"><p class="k">Cargando el terreno de El Salto</p><div class="barra-c"><i></i></div></div>
 <div class="prog" id="prog" aria-hidden="true"></div>
 <a class="volver" href="./">Análisis completo →</a>
+<button type="button" class="subir" id="subir" aria-label="Volver al inicio del recorrido" title="Volver al inicio"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 13V3M3.5 7.5 8 3l4.5 4.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
 <p class="atrib-r" aria-label="Créditos de la imagen">Imagen: Esri, Maxar, Earthstar Geographics · Elevación: Mapzen</p>
 <nav class="riel" id="riel" aria-label="Capítulos del relato"></nav>
 <button class="pista" id="pista" type="button">Baja para recorrerlo<i aria-hidden="true"></i></button>
@@ -2898,6 +2906,7 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     if(i===actual) return; actual=i;
     var e=etapas[i];
     etapas.forEach(function(x,j){ x.classList.toggle('activa',j===i) });
+    document.body.classList.toggle('lejos-portada',i>0);
     puntos.forEach(function(p,j){ p.classList.toggle('on',j===i);
       if(j===i) p.setAttribute('aria-current','step'); else p.removeAttribute('aria-current') });
     var on=(e.getAttribute('data-capas')||'').split(/\s+/);
@@ -3501,6 +3510,13 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
   addEventListener('scroll',pedir,{passive:true});
   var pista=document.getElementById('pista');
   addEventListener('scroll',function(){ document.body.classList.toggle('bajo',scrollY>60) },{passive:true});
+  /* el botón ↑ queda junto a «Análisis completo», midiendo su ancho real (cambia con la letra del sistema) */
+  var subir=document.getElementById('subir'), volver=document.querySelector('.volver');
+  function ubicarSubir(){ var r=volver.getBoundingClientRect(); subir.style.right=(innerWidth-r.left+6)+'px';
+    subir.style.top=r.top+'px'; subir.style.height=subir.style.width=r.height+'px' }
+  ubicarSubir(); addEventListener('resize',ubicarSubir);
+  if(document.fonts&&document.fonts.ready) document.fonts.ready.then(ubicarSubir);
+  subir.addEventListener('click',function(){ window.scrollTo({top:0,behavior:RM?'auto':'smooth'}) });
   pista.addEventListener('click',function(){ var e=etapas[1]; window.scrollTo({top:e.getBoundingClientRect().top+scrollY,behavior:RM?'auto':'smooth'}) });
   addEventListener('resize',function(){ encuadre(); leerCams(); medir(); pedir() });
   if(window.VISOR&&VISOR.listo) inicio(); else addEventListener('visor-listo',inicio);
