@@ -1129,6 +1129,11 @@ body.lejos-portada .subir{opacity:1;pointer-events:auto}
 .areas li{display:flex;gap:10px;align-items:baseline;font-size:15.5px;line-height:1.45;color:#dad8d0}
 .areas li i{flex:none;width:11px;height:11px;border-radius:2px;transform:translateY(1px)}
 .areas b{color:#fff;font-weight:600}
+/* leyenda de «El agua»: el naranja es lo que sale del relleno, el celeste los esteros */
+.leyenda-agua{display:flex;flex-wrap:wrap;gap:6px 16px;font-family:var(--cart);font-size:14px;color:#dad8d0;margin:4px 0 8px}
+.leyenda-agua span{white-space:nowrap}
+.leyenda-agua i{display:inline-block;width:18px;height:4px;border-radius:2px;margin:0 7px 3px 0;vertical-align:middle}
+i.sal{background:#ff8a5c} i.cau{background:#5ad7f5;height:7px}
 .rot-area{position:fixed;left:0;top:0;z-index:1;margin:0;pointer-events:none;transform:translate(-50%,-50%);
   font-family:var(--cart);font-size:13.5px;font-weight:600;color:#fff;text-align:center;line-height:1.25;
   text-shadow:0 0 3px #0b0d10,0 0 3px #0b0d10,0 1px 6px #0b0d10;opacity:0;transition:opacity .5s ease;max-width:170px}
@@ -1411,13 +1416,14 @@ body.bajo .pista{opacity:0;pointer-events:none}
   </div>
 </section>
 
-<section class="etapa" id="e-agua" data-titulo="El agua" data-cam='{"th":-1.2,"ph":0.62,"rad":0.5,"dx":-0.07,"dz":0.07}' data-anio="25" data-capas="barrios flujo troncal">
+<section class="etapa" id="e-agua" data-titulo="El agua" data-cam='{"th":-1.2,"ph":0.62,"rad":0.5,"dx":-0.07,"dz":0.07}' data-cam-m='{"th":-0.6,"ph":0.6,"rad":0.75,"dz":0.06,"dx":-0.01}' data-anio="25" data-capas="barrios flujo troncal">
   <div class="tarj">
     <p class="et"><span class="nro">06</span>El agua</p>
     <h2>Todo baja al mismo estero</h2>
     <p>Lo que escurra por la superficie del predio baja, por gravedad, hacia el
-    <b>Estero Marga-Marga</b>. En el camino pasa a <b>90 m del Estero Quilpué</b> y a
+    <b>Estero Marga-Marga</b>, a 1,5 km del deslinde. Ya en el estero, pasa a <b>90 m del Estero Quilpué</b> y a
     <b>120 m del humedal urbano protegido</b>.</p>
+    <p class="leyenda-agua"><span><i class="sal"></i>recorrido desde el relleno</span><span><i class="cau"></i>esteros</span></p>
     <p class="calc">Recorridos: cálculo de esta página con el método D8 sobre el modelo de elevación</p>
   </div>
 </section>
@@ -2740,15 +2746,23 @@ function pasoVuelo(dt){
    del relato las partículas no se ven. Sólo lo enciende el relato. */
 var troncal=null;
 function crearTroncal(){
+  /* los esteros, en celeste, y encima, más delgado y en naranja como en el mapa de la principal, el recorrido
+     del agua que sale del relleno: así se lee que lo que escurre baja SOBRE los cauces, no que un estero
+     cruce el predio. Ambos van sobre todo (sin prueba de profundidad), para que los cerros no los corten */
   var E=D.escorrentia; if(!E||!E.troncal) return null;
-  var c=E.troncal.type==='LineString'?E.troncal.coordinates:[].concat.apply([],E.troncal.coordinates);
-  var pts=[], k=K();
-  c.forEach(function(q){ var u=uv(q[0],q[1]); if(u[0]<0.01||u[0]>0.99||u[1]<0.01||u[1]>0.99) return;
-    pts.push(new THREE.Vector3(wx(u[0]),hAt(u[0],u[1])*k+14,wz(u[1]))) });
-  if(pts.length<2) return null;
-  var g=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),pts.length*6,14,6,false);
-  var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({color:0x5ad7f5,transparent:true,opacity:.92,depthTest:false}));
-  m.renderOrder=7; sc.add(m); return m;
+  var gr=new THREE.Group(), k=K();
+  function tubo(geom,alto,radio,color,op,orden){
+    var partes=geom.type==='LineString'?[geom.coordinates]:geom.coordinates;
+    partes.forEach(function(c){
+      var pts=[]; c.forEach(function(q){ var u=uv(q[0],q[1]); if(u[0]<0.01||u[0]>0.99||u[1]<0.01||u[1]>0.99) return;
+        pts.push(new THREE.Vector3(wx(u[0]),hAt(u[0],u[1])*k+alto,wz(u[1]))) });
+      if(pts.length<2) return;
+      var g=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),pts.length*6,radio,6,false);
+      var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({color:color,transparent:true,opacity:op,depthTest:false}));
+      m.renderOrder=orden; gr.add(m) }) }
+  Object.keys(E.cauces||{}).forEach(function(n){ tubo(E.cauces[n],14,12,0x5ad7f5,.85,7) });
+  tubo(E.troncal,16,5.5,0xff8a5c,.97,8);
+  sc.add(gr); return gr;
 }
 var VISOR=window.VISOR={
   listo:false,
