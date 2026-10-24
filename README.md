@@ -85,6 +85,7 @@ src/                  las fuentes de las páginas (ver CLAUDE.md)
   social-img.html     plantilla de social.jpg
 build.py              arma las dos páginas, el JSON-LD y el sitemap
 proyecciones.py       series de masa, metano y camiones desde el Capítulo 1
+geometria_titular.py  superficie final del relleno desde el plano 3.8 del titular → manto.json
 reordenar.py          cambia el orden de las secciones y renumera
 lee.py                extrae texto de un PDF (PyMuPDF)
 archivo/              scripts que bajan y extraen el expediente

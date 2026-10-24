@@ -83,6 +83,11 @@ para leerlas hay que bajar el `.rar` del SEIA (las URL están en `expediente/man
 python3 reordenar.py admite terreno mapa incendio subsuelo falla escorrentia vial pluma influencia proyecciones paisaje cuenca pronunciamientos
 ```
 
+`geometria_titular.py` reconstruye la superficie final del relleno a partir del plano 3.8 «Manto general»
+del Anexo 1.5 (los PDF no están en el repo: se bajan con la URL del manifiesto) y escribe `manto.json`, que
+el relato pide al cargar (40 KB, la principal no lo usa). La validación y las trampas están en su
+encabezado; si lo vuelves a correr, compara con los perfiles del plano antes de publicar.
+
 `lee.py` extrae texto de un PDF con PyMuPDF. `verifica_citas.py` coteja las citas del sitio con el expediente (ver «Revisión de fuentes antes de publicar»).
 
 ## Restricciones y trampas conocidas

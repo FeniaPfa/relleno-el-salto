@@ -306,7 +306,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
     <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a>.
     Al cierre, la masa corona en la cota 350. El titular declara un espesor promedio de 80 m; el modelo de
     esta página, más conservador, da unos <b>60 metros</b> de basura, el alto de un edificio de 20 pisos.</p>
-    <p class="calc llen-largo">Espesor y forma: modelo de esta página con el tonelaje, la huella y los taludes de la Tabla 30 que declara el titular</p>
+    <p class="calc llen-largo">Forma final: plano 3.8 «Manto general» del titular (Anexo 1.5), georreferenciado. Año a año, el tonelaje del Capítulo 1 repartido sobre esa forma; el espesor medio es estimación de esta página</p>
   </div>
 </section>
 
@@ -668,6 +668,13 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
      Tabla 30 del Capítulo 1 (11 niveles de 10 m, taludes 1V:3H, retranqueos de 5 m,
      coronamiento en la cota 350); deslinde como cinta; piscinas de lixiviados como agua. */
   var MEJOR={listo:false, actualizarMasa:function(){}};
+  /* superficie final del relleno según el titular: plano 3.8 «Manto general» del Anexo 1.5, georreferenciado
+     por geometria_titular.py. La pide solo el relato (40 KB); si no llega, se usa la masa estimada. */
+  var MANTO=null, mantoListo=false, alManto=[];
+  function mantoHecho(){ mantoListo=true; alManto.splice(0).forEach(function(f){ f() }) }
+  try{ fetch('manto.json').then(function(r){ return r.ok?r.json():null })
+         .then(function(m){ MANTO=m; mantoHecho() },function(){ mantoHecho() }) }
+  catch(e){ mantoHecho() }
   function mejorarEscena(){
     var I=VISOR.internos(), T=I.THREE, sc=I.sc, K=I.K, hAt=I.hAt, uv=I.uv, wx=I.wx, wz=I.wz;
     var chico=angosto()||(devicePixelRatio||1)*Math.max(innerWidth,innerHeight)<1500;
@@ -736,6 +743,18 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
           borde.push([A[0]+(B[0]-A[0])*f, A[1]+(B[1]-A[1])*f, hAt(u,v)]) }
       }
     }) });
+    /* grilla del titular: un byte por celda (z0 + dz·valor), 255 = fuera de la huella */
+    var mz=null;
+    if(MANTO&&MANTO.z){ var bin=atob(MANTO.z); mz=new Uint8Array(bin.length); for(var q0=0;q0<bin.length;q0++) mz[q0]=bin.charCodeAt(q0) }
+    function mantoAt(u,v){
+      if(!mz) return null;
+      var c=(u-MANTO.u0)/(MANTO.u1-MANTO.u0)*(MANTO.nu-1), r=(v-MANTO.v0)/(MANTO.v1-MANTO.v0)*(MANTO.nv-1);
+      if(!(c>=0&&r>=0&&c<=MANTO.nu-1&&r<=MANTO.nv-1)) return null;
+      var c0=c|0,r0=r|0,c1=Math.min(MANTO.nu-1,c0+1),r1=Math.min(MANTO.nv-1,r0+1),fc=c-c0,fr=r-r0,n=MANTO.nu;
+      var a=mz[r0*n+c0],b=mz[r0*n+c1],d=mz[r1*n+c0],e=mz[r1*n+c1];
+      if(a===255||b===255||d===255||e===255) return null;
+      return MANTO.z0+MANTO.dz*((a*(1-fc)+b*fc)*(1-fr)+(d*(1-fc)+e*fc)*fr);
+    }
     function dentro(x,z){
       var ins=false;
       polis.forEach(function(P){ var pt=P.p;
@@ -743,7 +762,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
           if(((pt[a][1]>z)!==(pt[b][1]>z))&&(x<(pt[b][0]-pt[a][0])*(z-pt[a][1])/(pt[b][1]-pt[a][1])+pt[a][0])) ins=!ins } });
       return ins;
     }
-    /* perfil del titular: cada nivel sube 10 m en 30 m de talud (1V:3H) y deja 5 m de retranqueo.
+    /* forma final: la superficie del titular (mantoAt). Solo donde no hay grilla, o si no cargó, se estima:
+       perfil del titular: cada nivel sube 10 m en 30 m de talud (1V:3H) y deja 5 m de retranqueo.
        Se calcula una superficie continua a 1V:3,5H desde el borde (35 m por cada 10 m) y se escalona en
        cotas absolutas: las plataformas quedan horizontales, a 200, 210, 220… como en un relleno real. */
     /* (las plataformas se dibujan en el shader, como bermas cada 10 m de cota) */
@@ -757,7 +777,10 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       var x=x0+i*cs, z=z0+j*cs, id=j*nx+i, u=x/S+.5, v=-z/S+.5;
       gro[id]=hAt(u,v);
       if(!dentro(x,z)){ sup[id]=-1e9; continue }
-      ins[id]=1; var best=1e9;
+      ins[id]=1;
+      /* con la superficie del titular cargada, la masa va solo dentro de su borde (44 ha) */
+      if(mz){ var mt=mantoAt(u,v); if(mt!==null) sup[id]=mt; else { sup[id]=-1e9; ins[id]=0 } continue }
+      var best=1e9;
       for(var e=0;e<borde.length;e++){ var b=borde[e], h=b[2]+Math.hypot(x-b[0],z-b[1])/3.5; if(h<best) best=h }
       sup[id]=best;
     }
@@ -915,6 +938,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   /* --- arranque --- */
   function encuadre(){ if(angosto()) VISOR.correr(0,0.25); else VISOR.correr(0.17,0) }
   function inicio(){
+    if(!mantoListo){ alManto.push(inicio); return }
     try{ mejorarEscena() }catch(e){ VISOR.capa('L-masa',true); if(window.console) console.warn('capas del relato:',e) }
     encuadre(); medir(); actual=-1; yAnt=-1; cuadro();
     requestAnimationFrame(function(){ document.body.classList.add('listo') });
