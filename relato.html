@@ -3347,6 +3347,22 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
       A.p.forEach(function(c){ var q=XZ(c);
         var m=new T.Mesh(new T.CylinderGeometry(A.diam/2,A.diam/2,A.alto,20),matAnt);
         m.scale.y=K(); m.position.set(q.x,(q.h+A.alto/2)*K(),q.z); obras.add(m) });
+      /* gases de combustión: una pluma tenue y quieta que sale del remate y se inclina hacia donde sopla el
+         viento predominante del Anexo 4.2 (hacia el rumbo 10°). Es una antorcha cerrada: no tiene llama visible,
+         y lo que sale es gas caliente, por eso la pluma es apenas un velo. Es ilustrativa: el expediente no
+         modela su forma */
+      var lienzo=document.createElement('canvas'); lienzo.width=lienzo.height=64;
+      var cx2=lienzo.getContext('2d'), gr=cx2.createRadialGradient(32,32,0,32,32,32);
+      gr.addColorStop(0,'rgba(246,244,240,1)'); gr.addColorStop(.45,'rgba(232,229,224,.55)'); gr.addColorStop(1,'rgba(225,222,216,0)');
+      cx2.fillStyle=gr; cx2.fillRect(0,0,64,64);
+      var texHumo=new T.CanvasTexture(lienzo), rumbo=10*Math.PI/180, hx=Math.sin(rumbo), hz=-Math.cos(rumbo);
+      A.p.forEach(function(c,n){ var q=XZ(c), k=K();
+        for(var s3=0;s3<14;s3++){ var f=s3/13, d=f*f*90, sub=A.alto+1+f*55, tam=5+f*48;
+          var sp=new T.Sprite(new T.SpriteMaterial({map:texHumo,transparent:true,depthWrite:false,opacity:.62*(1-f*.8),
+            rotation:(n*1.7+s3)*.9}));
+          sp.scale.set(tam,tam*.8,1);
+          sp.position.set(q.x+hx*d+Math.sin(n+s3)*1.2,(q.h+sub)*k,q.z+hz*d+Math.cos(n*2+s3)*1.2);
+          sp.renderOrder=7; obras.add(sp) } });
       /* chimeneas: 81, una sola malla instanciada. Se dibujan de 6 m (el expediente no da la altura sobre la
          cobertura) y aparecen cuando la masa llega a su cota final en ese punto */
       var CH=OBRAS.chimeneas, ci=new T.InstancedMesh(new T.CylinderGeometry(.7,.7,6,8),new T.MeshLambertMaterial({color:0xe8e4da}),CH.length);
