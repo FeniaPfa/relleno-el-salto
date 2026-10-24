@@ -1107,15 +1107,23 @@ function pasoVuelo(dt){
    del relato las partículas no se ven. Sólo lo enciende el relato. */
 var troncal=null;
 function crearTroncal(){
+  /* los esteros, en celeste, y encima, más delgado y en naranja como en el mapa de la principal, el recorrido
+     del agua que sale del relleno: así se lee que lo que escurre baja SOBRE los cauces, no que un estero
+     cruce el predio. Ambos van sobre todo (sin prueba de profundidad), para que los cerros no los corten */
   var E=D.escorrentia; if(!E||!E.troncal) return null;
-  var c=E.troncal.type==='LineString'?E.troncal.coordinates:[].concat.apply([],E.troncal.coordinates);
-  var pts=[], k=K();
-  c.forEach(function(q){ var u=uv(q[0],q[1]); if(u[0]<0.01||u[0]>0.99||u[1]<0.01||u[1]>0.99) return;
-    pts.push(new THREE.Vector3(wx(u[0]),hAt(u[0],u[1])*k+14,wz(u[1]))) });
-  if(pts.length<2) return null;
-  var g=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),pts.length*6,14,6,false);
-  var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({color:0x5ad7f5,transparent:true,opacity:.92,depthTest:false}));
-  m.renderOrder=7; sc.add(m); return m;
+  var gr=new THREE.Group(), k=K();
+  function tubo(geom,alto,radio,color,op,orden){
+    var partes=geom.type==='LineString'?[geom.coordinates]:geom.coordinates;
+    partes.forEach(function(c){
+      var pts=[]; c.forEach(function(q){ var u=uv(q[0],q[1]); if(u[0]<0.01||u[0]>0.99||u[1]<0.01||u[1]>0.99) return;
+        pts.push(new THREE.Vector3(wx(u[0]),hAt(u[0],u[1])*k+alto,wz(u[1]))) });
+      if(pts.length<2) return;
+      var g=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),pts.length*6,radio,6,false);
+      var m=new THREE.Mesh(g,new THREE.MeshBasicMaterial({color:color,transparent:true,opacity:op,depthTest:false}));
+      m.renderOrder=orden; gr.add(m) }) }
+  Object.keys(E.cauces||{}).forEach(function(n){ tubo(E.cauces[n],14,12,0x5ad7f5,.85,7) });
+  tubo(E.troncal,16,5.5,0xff8a5c,.97,8);
+  sc.add(gr); return gr;
 }
 var VISOR=window.VISOR={
   listo:false,
