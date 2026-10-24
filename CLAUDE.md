@@ -89,7 +89,11 @@ el relato pide al cargar (40 KB, la principal no lo usa). `geometria_obras.py` h
 edificios de los shapefiles del titular, piscinas del plano 3.6, antorchas del 10.2 y las 81 chimeneas del 10.1
 (una sola `InstancedMesh`, para no sumar llamadas de dibujo). Solo los galpones tienen altura declarada (8 m);
 el resto es esquemático y así se rotula. El terreno del visor no tiene excavaciones ni plataformas: las
-piscinas se dibujan a la cota de coronamiento y las superficies planas a la altura del punto más alto. La validación y las trampas están en su
+piscinas se dibujan a la cota de coronamiento y las superficies planas a la altura del punto más alto.
+Caminos, plataformas y patios van en el mismo `obras.json` como mallas trianguladas con borde exacto (no
+grilla: daba escalones), apoyadas vértice a vértice en el relieve; en el relato reemplazan a la capa `L-inst`
+de la principal, que se apaga. El polígono de cada camino incluye cortes y terraplenes: la calzada es el
+«(sin remoción de masa)», de ~8,5 m (asfalto en el acceso, estabilizado en el interior, Cap. 1 pp. 169 y 174). La validación y las trampas están en su
 encabezado; si lo vuelves a correr, compara con los perfiles del plano antes de publicar.
 
 `lee.py` extrae texto de un PDF con PyMuPDF. `verifica_citas.py` coteja las citas del sitio con el expediente (ver «Revisión de fuentes antes de publicar»).

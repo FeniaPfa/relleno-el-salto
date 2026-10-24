@@ -681,7 +681,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var I=VISOR.internos(), T=I.THREE, sc=I.sc, K=I.K, hAt=I.hAt, uv=I.uv, wx=I.wx, wz=I.wz;
     var chico=angosto()||(devicePixelRatio||1)*Math.max(innerWidth,innerHeight)<1500;
     /* sin las capas planas de la principal que esta página reemplaza */
-    ['L-masa','L-predio','L-lix','L-exca','L-corta'].forEach(function(id){ VISOR.capa(id,false) });
+    ['L-masa','L-predio','L-lix','L-exca','L-corta'].concat(OBRAS?['L-inst']:[]).forEach(function(id){ VISOR.capa(id,false) });
     sc.add(new T.HemisphereLight(0xdfe7ee,0x3b3226,.28));
 
     /* ---------- terreno satelital ---------- */
@@ -907,18 +907,46 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
         var m=new T.Mesh(g,new T.MeshLambertMaterial({color:0x2b6a80,emissive:0x061a22,side:T.DoubleSide,polygonOffset:true,polygonOffsetFactor:-3}));
         m.position.y=(mn+1)*K(); obras.add(m);
       });
-      /* edificios: la huella del shapefile, extruida. 8 m en los galpones con altura declarada; el resto, esquemático */
-      var matGalpon=new T.MeshLambertMaterial({color:0xd9dde0,side:T.DoubleSide}), matEsq=new T.MeshLambertMaterial({color:0xb9bec4,side:T.DoubleSide});
+      /* superficies sobre el terreno, trianguladas con sus bordes exactos (geometria_obras.py): calzada asfaltada
+         del acceso y de estabilizado en el interior (Cap. 1, pp. 169 y 174), sus cortes y terraplenes, plataformas
+         y patios. Cada vértice se apoya en el relieve */
+      var COLOR={asfalto:0x3f4245,ripio:0xb1aa9b,talud:0x7a6b56,plataforma:0x8e8471,patio:0x9f9b91,tierra:0x6f5d48};
+      var ALTO={asfalto:1.8,ripio:1.6,talud:1.0,plataforma:1.2,patio:1.4,tierra:1.3};
+      var BORDE={asfalto:0xefe9dc,ripio:0xd9d0bd,plataforma:0x6e6455,patio:0x8a857b,tierra:0x5b4b39};
+      function apoyar(lon,lat,dh){ var u=uv(lon,lat); return [wx(u[0]),(hAt(u[0],u[1])+dh)*K(),wz(u[1])] }
+      OBRAS.superficies.forEach(function(S2){
+        var pos=[], idx=[], dh=ALTO[S2.t];
+        for(var q=0;q<S2.v.length;q+=2){ var X=S2.v[q],Y=S2.v[q+1];
+          var p=apoyar(S2.o[0]+S2.di[0]*X+S2.dj[0]*Y, S2.o[1]+S2.di[1]*X+S2.dj[1]*Y, dh); pos.push(p[0],p[1],p[2]) }
+        idx=S2.i;
+        /* un poco de variación de tono por vértice, para que la tierra compactada no se vea plástica */
+        var base=new T.Color(COLOR[S2.t]), cols=[];
+        for(var q2=0;q2<pos.length;q2+=3){ var r=Math.sin(pos[q2]*12.9898+pos[q2+2]*78.233)*43758.5453; r=(r-Math.floor(r)-.5)*(S2.t==='asfalto'?.04:.12);
+          cols.push(base.r*(1+r),base.g*(1+r),base.b*(1+r)) }
+        var g=new T.BufferGeometry(); g.setAttribute('position',new T.Float32BufferAttribute(pos,3)); g.setAttribute('color',new T.Float32BufferAttribute(cols,3));
+        g.setIndex(idx); g.computeVertexNormals();
+        var m=new T.Mesh(g,new T.MeshLambertMaterial({vertexColors:true,side:T.DoubleSide,polygonOffset:true,polygonOffsetFactor:-2,polygonOffsetUnits:-2}));
+        m.renderOrder=3; obras.add(m);
+        if(BORDE[S2.t]) (S2.b||[]).forEach(function(B){
+          var pts=B.map(function(c){ var p=apoyar(c[0],c[1],dh+.3); return new T.Vector3(p[0],p[1],p[2]) });
+          var ln=new T.Line(new T.BufferGeometry().setFromPoints(pts),new T.LineBasicMaterial({color:BORDE[S2.t],transparent:true,opacity:S2.t==='asfalto'?.95:.6}));
+          ln.renderOrder=4; obras.add(ln) });
+      });
+      /* edificios: la huella del shapefile, extruida, con techo y muros de distinto tono y aristas marcadas.
+         8 m en los galpones con altura declarada; el resto, esquemático */
+      var muro=new T.MeshLambertMaterial({color:0xe7e4dd}), techoG=new T.MeshLambertMaterial({color:0x8494a1}),
+          techoE=new T.MeshLambertMaterial({color:0xb5bcc3}), arista=new T.LineBasicMaterial({color:0x34383d,transparent:true,opacity:.55});
       OBRAS.edificios.forEach(function(E){
         var mn=1e9, sh=new T.Shape();
         E.p.forEach(function(c,ii){ var q=XZ(c); mn=Math.min(mn,q.h); if(ii) sh.lineTo(q.x,-q.z); else sh.moveTo(q.x,-q.z) });
-        var g=new T.ExtrudeGeometry(sh,{depth:E.alto,bevelEnabled:false}); g.rotateX(-Math.PI/2);
-        var m=new T.Mesh(g,E.esq?matEsq:matGalpon); m.position.y=mn*K(); m.scale.y=K(); obras.add(m);
+        var g=new T.ExtrudeGeometry(sh,{depth:E.alto+2,bevelEnabled:false}); g.rotateX(-Math.PI/2); g.translate(0,-2,0);
+        var m=new T.Mesh(g,[E.esq?techoE:techoG,muro]); m.position.y=mn*K(); m.scale.y=K(); obras.add(m);
+        var e=new T.LineSegments(new T.EdgesGeometry(g,30),arista); e.position.copy(m.position); e.scale.copy(m.scale); obras.add(e);
       });
       /* antorchas: cilindros de 2,3 m de diámetro y 8,2 m, medidos en la elevación del plano 10.2 */
-      var A=OBRAS.antorchas, matAnt=new T.MeshLambertMaterial({color:0x9aa1a8});
+      var A=OBRAS.antorchas, matAnt=[new T.MeshLambertMaterial({color:0xa2a9b0}),new T.MeshLambertMaterial({color:0x26282b}),new T.MeshLambertMaterial({color:0xa2a9b0})];
       A.p.forEach(function(c){ var q=XZ(c);
-        var m=new T.Mesh(new T.CylinderGeometry(A.diam/2,A.diam/2,A.alto,16),matAnt);
+        var m=new T.Mesh(new T.CylinderGeometry(A.diam/2,A.diam/2,A.alto,20),matAnt);
         m.scale.y=K(); m.position.set(q.x,(q.h+A.alto/2)*K(),q.z); obras.add(m) });
       /* chimeneas: 81, una sola malla instanciada. Se dibujan de 6 m (el expediente no da la altura sobre la
          cobertura) y aparecen cuando la masa llega a su cota final en ese punto */

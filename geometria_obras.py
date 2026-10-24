@@ -139,6 +139,60 @@ def chimeneas(carpeta):
     print('chimeneas: %d' % len(out))
     return out
 
+# superficies planas, para drapear sobre el terreno del visor (Cap. 1: acceso asfaltado, p. 169 y 208;
+# caminos interiores de «carpeta de estabilizado», p. 174)
+# El polígono de cada camino incluye sus cortes y terraplenes; el «(sin remoción de masa)», contenido en él y de
+# unos 8,5 m de ancho, es la calzada. Lo demás se dibuja como talud.
+TIPOS = {'Camino acceso desde ruta 60-Troncal Sur': 'talud', 'Camino de acceso (sin remoción de masa)': 'asfalto',
+         'Empalme de acceso': 'asfalto', 'Caminos interiores': 'talud', 'Caminos interiores (sin remoción de masa)': 'ripio',
+         'Estacionamientos': 'patio', 'Báscula de pesaje': 'patio', 'Cancha contenedores reciclaje': 'patio',
+         'Cancha acopio material estructurante': 'patio', 'Zona de trincheras': 'tierra', 'Zona de maduración': 'tierra'}
+
+def superficies(carpeta):
+    """Por tipo: una malla triangulada (vértices en decímetros UTM desde un origen) y los bordes. Para el visor se
+    da la transformación afín de UTM a (lon, lat), exacta a < 0,1 m en estos 4 km; los vértices van redondeados a 25 cm."""
+    from collections import defaultdict
+    grupos = defaultdict(list)
+    for shp in glob.glob(os.path.join(carpeta, '**', '*.shp'), recursive=True):
+        r = shapefile.Reader(shp)
+        for s, rec in zip(r.shapes(), r.records()):
+            t = 'plataforma' if rec[0].startswith('Plataforma ') else TIPOS.get(rec[0])
+            if t: grupos[t].append(shape(s.__geo_interface__).buffer(0))
+    calzadas = unary_union(grupos['asfalto'] + grupos['ripio'])
+    out = []
+    for t, gs in grupos.items():
+        u = unary_union(gs)
+        if t == 'talud': u = u.difference(calzadas.buffer(0.5))
+        # triangulación restringida con bordes densificados cada 5 m; en las superficies anchas, los triángulos se
+        # parten por la mitad del lado mayor hasta que ninguno pase de 22 m (la celda del modelo de terreno es de 20 m), para que sigan el relieve. Bordes exactos,
+        # sin escalones de grilla.
+        import shapely
+        vs, idx, ix = [], [], {}; ox, oy = u.bounds[0], u.bounds[1]
+        def v(q):
+            k = (round(q[0], 2), round(q[1], 2))
+            if k not in ix: ix[k] = len(vs) // 2; vs.extend([round((k[0] - ox) * 4), round((k[1] - oy) * 4)])
+            return ix[k]
+        def partir(a, b, c):
+            ls = [math.dist(a, b), math.dist(b, c), math.dist(c, a)]
+            if max(ls) <= 22 or t in ('asfalto', 'ripio'):
+                idx.extend([v(a), v(b), v(c)]); return
+            k = ls.index(max(ls)); a, b, c = [(a, b, c), (b, c, a), (c, a, b)][k]
+            m = ((a[0] + b[0]) / 2, (a[1] + b[1]) / 2)
+            partir(a, m, c); partir(m, b, c)
+        for g in getattr(u, 'geoms', [u]):
+            if g.area < 30: continue
+            g = shapely.segmentize(g.simplify(0.4), 5.0)
+            for tri in shapely.constrained_delaunay_triangles(g).geoms:
+                partir(*list(tri.exterior.coords)[:3])
+        bordes = [[geo(e, n) for e, n in g.exterior.simplify(0.8).coords] for g in getattr(u, 'geoms', [u]) if g.area > 30]
+        # vértices en cuartos de metro desde (ox, oy), con la afín de UTM a (lon, lat) por cuarto de metro
+        a, b2, c = geo(ox, oy), geo(ox + 1000, oy), geo(ox, oy + 1000)
+        out.append({'t': t, 'o': a, 'di': [(b2[0] - a[0]) / 4e3, (b2[1] - a[1]) / 4e3],
+                    'dj': [(c[0] - a[0]) / 4e3, (c[1] - a[1]) / 4e3], 'v': vs, 'i': idx,
+                    'b': [[[round(x, 6) for x in q] for q in B] for B in bordes] if t != 'talud' else []})
+        print('superficie %-10s %5.1f ha · %d triángulos' % (t, u.area / 1e4, len(idx) // 3))
+    return out
+
 if __name__ == '__main__':
     carpeta = sys.argv[1]
     bandejas = []
@@ -148,6 +202,6 @@ if __name__ == '__main__':
                      for s, rec in zip(r.shapes(), r.records()) if rec[0] == 'Bandejas evaporación']
     o = {'fuente': 'Shapefiles y planos 3.6, 10.1 y 10.2 del Anexo 1.5 del titular (geometria_obras.py)',
          'edificios': edificios(carpeta), 'piscinas': piscinas(carpeta), 'bandejas': bandejas,
-         'antorchas': antorchas(carpeta), 'chimeneas': chimeneas(carpeta)}
+         'antorchas': antorchas(carpeta), 'chimeneas': chimeneas(carpeta), 'superficies': superficies(carpeta)}
     json.dump(o, open('obras.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     print('obras.json · %d edificios · %.1f KB' % (len(o['edificios']), os.path.getsize('obras.json') / 1024))
