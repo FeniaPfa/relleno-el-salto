@@ -3078,9 +3078,9 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     {k:'deslinde',t:'Deslinde del predio (206 ha)',    c:'#f6f3ea', on:1, f:function(v){ if(MEJOR.cinta) MEJOR.cinta.visible=v }},
     {k:'urbano',  t:'Manchas urbanas',                 c:'#bfc9d6', on:1, f:function(v){ VISOR.capa('L-urbano',v) }},
     {k:'areas',   t:'Áreas protegidas',                c:'#8fd18a', on:0, f:function(v){ if(MEJOR.areas) MEJOR.areas(v) }},
-    {k:'pluma',   t:'Viento: gases que salen del relleno', c:'#e0612e', on:0, f:function(v){ VISOR.capa('L-pluma',v) }},
-    {k:'arcos',   t:'Viento: hacia las poblaciones',   c:'#ffb27a', on:0, f:function(v){ VISOR.capa('L-arcos',v) }},
-    {k:'agua',    t:'Esteros y recorrido del agua',    c:'#5ad7f5', on:0, f:function(v){ VISOR.troncal(v) }},
+    {k:'pluma',   t:'Viento: gases que salen del relleno', c:'#e0612e', on:1, f:function(v){ VISOR.capa('L-pluma',v) }},
+    {k:'arcos',   t:'Viento: hacia las poblaciones',   c:'#ffb27a', on:1, f:function(v){ VISOR.capa('L-arcos',v) }},
+    {k:'agua',    t:'Esteros y recorrido del agua',    c:'#5ad7f5', on:1, f:function(v){ VISOR.troncal(v) }},
     {k:'flujo',   t:'Escorrentía (partículas)',        c:'#4fc3f7', on:0, f:function(v){ VISOR.capa('L-flujo',v) }},
     {k:'cicatriz',t:'Quema de febrero de 2024',        c:'#d6562a', on:0, f:function(v){ VISOR.capa('L-cicatriz',v) }},
     {k:'cuenca',  t:'Desde dónde se verá',             c:'#e8784a', on:0, f:function(v){ VISOR.capa('L-cuenca',v) }}];
