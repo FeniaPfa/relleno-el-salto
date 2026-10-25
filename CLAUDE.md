@@ -318,6 +318,11 @@ En escritorio no interviene.
   salió de pantalla; se esconde sobre `#observar` y el pie. Su alto real (`--barra-h`, por
   `ResizeObserver`) reserva el espacio de abajo y el `scroll-padding`, porque con letra grande del
   sistema llegó a medir 167 px.
+- **Navegación (2026-10-25).** El índice va en tres grupos (Actuar, Ver, El análisis). Cuando el índice sale de
+  pantalla aparece arriba la barra `.ubic`: la sección actual, «Índice ▾» (abre `.pnl`, una copia del índice) y «↑».
+  En celular se esconde al bajar y vuelve al subir, para no sumar otra franja fija a la `.barra-cta`. Al final de cada
+  sección numerada va `.secfin` (↑ Índice · Siguiente). Barra y pies se arman en JS con el orden real de las
+  secciones, así que `reordenar.py` no los descuadra; el índice estático sí hay que reordenarlo a mano.
 - **El acceso al relato** va después de los hallazgos, con botón de contorno, y su fondo es
   `relato-cta.webp` (34 KB), no la textura de 605 KB.
 - **Pendientes que el comité dejó** (requieren reestructurar, van en otro PR): cargar Three.js y los
