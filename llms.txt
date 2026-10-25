@@ -14,7 +14,7 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - [Análisis del expediente](https://relleno-el-salto.chacao.workers.dev/): cifras, mapas, visores 3D y
   observaciones modelo para la participación ciudadana.
 - [Observaciones fundadas, listas para ingresar](https://relleno-el-salto.chacao.workers.dev/observaciones):
-  veintiuna observaciones ciudadanas, cada una con la cita textual, el documento y la página del
+  veintitrés observaciones ciudadanas, cada una con la cita textual, el documento y la página del
   expediente, y la pregunta que el titular debe responder en la Adenda.
 - [Las especies afectadas](https://relleno-el-salto.chacao.workers.dev/especies): las trece plantas
   y animales que el expediente registra en el área, con su categoría de conservación, lo que el
@@ -60,6 +60,14 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
   del proyecto, con un relevamiento de superficie. El Capítulo 4 no menciona la falla ni el sismo.
 - La impermeabilización basal es una geomembrana HDPE de 1,5 mm sobre una lámina de bentonita (GCL)
   (Capítulo 1, p. 84).
+- El D.S. 189/2005 (art. 20 a), que el propio PAS 141 transcribe, exige al menos 3 m entre el fondo y el
+  nivel freático más alto y una capa de suelo con conductividad no superior a 10-5 cm/s. El único ensayo de
+  infiltración del predio da 3,53E-03 cm/s, «Moderadamente Elevada» (Anexo 9.6, PAS 141, p. 25), y el
+  Capítulo 3.4 reconoce que «no existe información detallada directamente en el área del proyecto» sobre el
+  agua subterránea (p. 27).
+- El expediente no estima la concentración de ácido sulfhídrico en el aire de las viviendas: el Anexo 4.4
+  modela unidades de olor y el Capítulo 5 (p. 22) analiza la vía aire solo como olor. Las emisiones de
+  biogás suponen una captación del 75 % (Anexo 4.1, p. 85).
 - El proyecto declara 30.741.988 toneladas en 25 años de operación, más cierre y post-cierre (unos 20 años).
 - Cálculo de esta página, no del titular: el 99,7 % del predio se quemó en el incendio de
   febrero de 2024 (Sentinel-2, índice dNBR).
