@@ -78,8 +78,15 @@ body.sin-panel .panel-f{display:none}
 .panel-f .vistas button:hover,.panel-f .tam button:hover{background:#262b31}
 .panel-f .tam{display:flex;flex-wrap:wrap;gap:6px}
 .panel-f .tam button[aria-pressed=true]{border-color:#e8e6df;background:#2a3036}
+.panel-f .vrumbo{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.panel-f .vrumbo button{font-family:var(--cart);font-size:14px;color:#e8e6df;background:#1a1e23;border:1px solid #4a525b;border-radius:2px;
+  padding:6px 4px;min-height:44px;cursor:pointer;line-height:1.2}
+.panel-f .vrumbo button small{display:block;font-size:12.5px;color:#a9aea6}
+.panel-f .vrumbo button[aria-pressed=true]{border-color:#ffb27a;background:#2a3036}
+.panel-f .vrumbo button:hover{background:#262b31}
 .panel-f .tam small{display:block;font-size:12.5px;color:#a9aea6}
 .panel-f .fila{display:flex;align-items:center;gap:10px}
+.panel-f [hidden]{display:none!important}
 .panel-f input[type=range]{flex:1;accent-color:#d93a43;min-height:32px}
 .panel-f .val{font-variant-numeric:tabular-nums;min-width:3.2em;text-align:right;color:#cfcdc5}
 .panel-f .nota{font-size:13.5px;color:#a9aea6;line-height:1.4;margin:8px 0 0}
@@ -172,6 +179,15 @@ body.sin-panel .panel-f{display:none}
   <h2>Capas</h2>
   <div id="capas"></div>
 
+  <h2>Viento</h2>
+  <div class="vrumbo" id="vrumbo" role="group" aria-label="Rumbo del viento">
+    <button type="button" data-w="pri" aria-pressed="true">Predominante<small>del S-SSO</small></button>
+    <button type="button" data-w="sec" aria-pressed="false">Secundario<small>del O-NO</small></button>
+    <button type="button" data-w="man" aria-pressed="false">Manual<small id="w-man-v">elige</small></button>
+  </div>
+  <div class="fila" id="w-fila" hidden style="margin-top:8px"><label for="w-rumbo">Sopla hacia</label><input type="range" id="w-rumbo" min="0" max="355" step="5" value="10"><span class="val" id="w-rumbo-v">10°</span></div>
+  <p class="ayuda">Predominante y secundario: modelo meteorológico del titular (Anexo 4.2). Se ve con la capa de gases. Al cambiarlo, la pluma tarda unos segundos en girar.</p>
+
   <h2>Rótulos</h2>
   <div id="rotulos"></div>
 
@@ -237,7 +253,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     {k:'urbano',  t:'Manchas urbanas',                 c:'#bfc9d6', on:1, f:function(v){ VISOR.capa('L-urbano',v) }},
     {k:'areas',   t:'Áreas protegidas',                c:'#8fd18a', on:0, f:function(v){ if(MEJOR.areas) MEJOR.areas(v) }},
     {k:'pluma',   t:'Viento: gases que salen del relleno', c:'#e0612e', on:1, f:function(v){ VISOR.capa('L-pluma',v) }},
-    {k:'arcos',   t:'Viento: hacia las poblaciones',   c:'#ffb27a', on:1, f:function(v){ VISOR.capa('L-arcos',v) }},
+    {k:'arcos',   t:'Líneas a las 6 poblaciones más cercanas',   c:'#ffb27a', on:1, f:function(v){ VISOR.capa('L-arcos',v) }},
     {k:'agua',    t:'Esteros y recorrido del agua',    c:'#5ad7f5', on:1, f:function(v){ VISOR.troncal(v) }},
     {k:'flujo',   t:'Escorrentía (partículas)',        c:'#4fc3f7', on:0, f:function(v){ VISOR.capa('L-flujo',v) }},
     {k:'cicatriz',t:'Quema de febrero de 2024',        c:'#d6562a', on:0, f:function(v){ VISOR.capa('L-cicatriz',v) }},
@@ -252,7 +268,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     {t:'De cerca',              c:{th:-0.32,ph:0.92,rad:0.29}},
     {t:'Desde el sur, hacia las casas', c:{th:0.05,ph:0.98,rad:0.36,dz:0.06}},
     {t:'En planta',             c:{th:0,ph:0.04,rad:0.8}}];
-  var on={}, rot={};
+  var on={}, rot={}, viento={m:'pri',r:D.viento.hacia};
   CAPAS.forEach(function(c){ on[c.k]=!!c.on }); ROTS.forEach(function(r){ rot[r.k]=!!r.on });
   var camIni={th:-0.45,ph:0.86,rad:0.5,dx:0,dz:0.05}, fovIni=40;
 
@@ -262,6 +278,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       if(a.length>=5&&a.every(isFinite)){ camIni={th:a[0],ph:a[1],rad:a[2],dx:a[3],dz:a[4]}; if(a[5]) fovIni=Math.max(18,Math.min(75,a[5])) } }
     if(h.c!=null){ var cs=h.c.split('.'); CAPAS.forEach(function(c){ on[c.k]=cs.indexOf(c.k)>=0 }) }
     if(h.r!=null){ var rs=h.r.split('.'); ROTS.forEach(function(r){ rot[r.k]=rs.indexOf(r.k)>=0 }) }
+    if(h.w){ var w=h.w.split(':'); if(w[0]==='sec') viento={m:'sec',r:D.viento.sec_hacia};
+      else if(w[0]==='man'&&isFinite(+w[1])) viento={m:'man',r:((Math.round(+w[1]/5)*5)%360+360)%360} }
   }
   leerHash();
   var tHash=0;
@@ -271,7 +289,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       var e=VISOR.estado();
       var v=[e.th,e.ph,e.rad,e.dx,e.dz].map(function(x){ return x.toFixed(3) }).join(',')+','+Math.round(e.fov);
       var h='#v='+v+'&c='+CAPAS.filter(function(c){ return on[c.k] }).map(function(c){ return c.k }).join('.')+
-            '&r='+ROTS.filter(function(r){ return rot[r.k] }).map(function(r){ return r.k }).join('.');
+            '&r='+ROTS.filter(function(r){ return rot[r.k] }).map(function(r){ return r.k }).join('.')+
+            (viento.m==='pri'?'':'&w='+viento.m+(viento.m==='man'?':'+viento.r:''));
       try{ history.replaceState(null,'',h) }catch(e2){}
     },300);
   }
@@ -307,6 +326,20 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   function hoja(baja){ document.body.classList.toggle('hoja-baja',baja); asa.setAttribute('aria-expanded',!baja); pedirRot() }
   if(angosto()) hoja(true);
   asa.addEventListener('click',function(){ hoja(!document.body.classList.contains('hoja-baja')) });
+
+  /* --- viento: los mismos tres modos del visor de la principal --- */
+  var bw=[].slice.call(document.querySelectorAll('#vrumbo button')), wr=$('#w-rumbo');
+  function ponerViento(m,r){
+    viento={m:m,r:m==='pri'?D.viento.hacia:m==='sec'?D.viento.sec_hacia:r};
+    if(m==='man'){ var sl=$('#w-dir'); if(sl){ sl.value=viento.r; sl.dispatchEvent(new Event('input')) } }
+    else VISOR.viento(m);
+    bw.forEach(function(b){ b.setAttribute('aria-pressed',String(b.getAttribute('data-w')===m)) });
+    $('#w-fila').hidden=m!=='man'; wr.value=viento.r; $('#w-rumbo-v').textContent=viento.r+'°';
+    $('#w-man-v').textContent=m==='man'?'hacia '+viento.r+'°':'elige';
+    guardarHash(); pedirRot();
+  }
+  bw.forEach(function(b){ b.addEventListener('click',function(){ var m=b.getAttribute('data-w'); ponerViento(m,m==='man'?viento.r:0) }) });
+  wr.addEventListener('input',function(){ ponerViento('man',+this.value) });
 
   /* --- tamaño de la imagen: veces la resolución de la pantalla, sin pasar lo que la tarjeta gráfica acepta --- */
   var factor=2;
@@ -504,9 +537,17 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   var PIE1='Relleno sanitario proyectado en El Salto, Viña del Mar · año 25 de operación, simulado';
   var PIE2=['Modelo 3D, no fotografía','relieve exagerado ×1,6','forma del relleno y obras: planos del titular (EIA, expediente SEIA 2168892026, Anexo 1.5)',
             'imagen: Esri, Maxar, Earthstar Geographics','elevación: Mapzen','relleno-el-salto.chacao.workers.dev'];
+  /* si se ve el viento, el pie dice de dónde sale el rumbo: del modelo del titular o elegido a mano */
+  function pieViento(){
+    if(!on.pluma) return [];
+    return [viento.m==='pri'?'viento: rumbo predominante modelado por el titular (WRF, Anexo 4.2)':
+            viento.m==='sec'?'viento: rumbo secundario modelado por el titular (WRF, Anexo 4.2)':
+            'viento: rumbo elegido a mano, hacia '+viento.r+'°, no es del estudio',
+            'pluma ilustrativa, de ±35° (supuesto de esta página)'];
+  }
   function medirPie(c,W){
     c.save(); c.font=fuente(15); var l1=envolver(c,PIE1,W-36); c.font=fuente(12.5,500);
-    var l2=envolver(c,PIE2.join(' · '),W-36); c.restore();
+    var l2=envolver(c,PIE2.slice(0,3).concat(pieViento(),PIE2.slice(3)).join(' · '),W-36); c.restore();
     return {l1:l1,l2:l2,h:14+l1.length*19+l2.length*16+8};
   }
   function dibujarPie(c,s,W,H,p){
@@ -652,6 +693,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     VISOR.capa('L-barrios',false);   /* las poblaciones se rotulan en el lienzo, para que salgan en la foto */
     VISOR.anio(ANIO); MEJOR.actualizarMasa(ANIO);
     CAPAS.forEach(function(c){ c.f(on[c.k]) });
+    ponerViento(viento.m,viento.r);
     VISOR.fov(fovIni); fovIn.value=fovIni; $('#fov-v').textContent=fovIni+'°';
     poner(Object.assign({dx:0,dz:0},camIni));
     ajustarLienzo(); armarTam();

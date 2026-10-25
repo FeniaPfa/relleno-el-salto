@@ -124,7 +124,7 @@ encabezado; si lo vuelves a correr, compara con los perfiles del plano antes de 
   ahora `.pila`. Cuidado al nombrar clases nuevas. Pasó otra vez con `.bq`: la barra de
   quemado de la tabla del incendio (110 × 10 px) encogía el encabezado del buscador del
   expediente, que ahora es `.bqh`. Antes de crear una clase, búscala con `grep -n "\.nombre\b"`. Y una tercera vez con `.seg` (segmento de la columna del
-  subsuelo contra el selector «Mapa | Satélite», que ahora es `.vseg`).
+  subsuelo contra el selector «Mapa | Satélite», que ahora es `.vseg`). Y una cuarta con `.viento` (el panel de la rosa contra el selector de rumbo del modo foto, que es `.vrumbo`): las páginas que heredan el CSS de la plantilla, como el relato y el modo foto, también chocan.
 - **Colisión de nombres entre los tres scripts:** comparten un solo IIFE, así que una
   `function nueva(){}` que choque con un `var` ya existente se pierde en silencio —el `var`
   la pisa al asignarse— y sólo falla al pulsar el control. Pasó con `modo`, que ya era el
@@ -215,6 +215,7 @@ encuadre. Es `noindex` y no va al sitemap: es una herramienta, no contenido.
 - **El pie de la imagen no se puede quitar:** qué es (año 25 simulado, modelo 3D y no fotografía, relieve ×1,6),
   de dónde sale la forma (planos del titular, Anexo 1.5) y los créditos de Esri/Maxar y Mapzen. Una imagen que
   circule sin su fuente es justo lo que permite descartar el sitio como activismo.
+- **El viento:** predominante, secundario o manual, con los mismos botones ocultos del visor (`VISOR.viento`, `#w-dir`). Si la capa de gases está encendida, el pie dice de dónde sale el rumbo: del modelo del titular o elegido a mano, y que la pluma es ilustrativa.
 - `VISOR.estado()`, `VISOR.fov()`, `VISOR.captura()` y `VISOR.maxPixeles()` existen solo para esta página.
 - El relieve exagerado es fijo: la masa, las obras y las áreas se construyen con `K()` al armar la escena.
 - **Sin el borde del bloque:** alrededor del bloque de 10 km va un entorno real de 51 km (`entorno-altura.png`,
