@@ -18,7 +18,7 @@ sitio que el servicio puede cambiar o retirar.
 | página | qué es |
 |---|---|
 | [`index.html`](https://relleno-el-salto.chacao.workers.dev/) | el análisis: cifras, mapas, dos visores 3D, preguntas frecuentes y observaciones modelo para ingresar en el SEA |
-| [`observaciones.html`](https://relleno-el-salto.chacao.workers.dev/observaciones) | veintiuna observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
+| [`observaciones.html`](https://relleno-el-salto.chacao.workers.dev/observaciones) | veintitrés observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
 | [`especies.html`](https://relleno-el-salto.chacao.workers.dev/especies) | las trece especies que el expediente registra en el área, con foto de licencia libre, categoría, lo que el proyecto les hace y lo que el estudio no resuelve |
 | [`relato.html`](https://relleno-el-salto.chacao.workers.dev/relato) | el recorrido en 3D con scroll: la quebrada que se llena, el viento, el agua y la vista desde cada población |
 | [`foto.html`](https://relleno-el-salto.chacao.workers.dev/foto) | modo foto: la misma escena en el año 25, con cámara libre, capas y rótulos, y captura en alta resolución con sus créditos al pie |
