@@ -8,7 +8,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_CL">
 <meta property="og:title" content="Modo foto · relleno de El Salto en 3D">
-<meta property="og:description" content="El relleno proyectado en El Salto en su año 25, sobre el terreno real. Mueve la cámara, elige capas y rótulos y descarga la imagen con sus fuentes.">
+<meta property="og:description" content="El relleno proyectado en El Salto con sus 30,7 millones de toneladas de basura, sobre el terreno real. Mueve la cámara, elige capas y rótulos y descarga la imagen con sus fuentes.">
 <meta property="og:url" content="https://relleno-el-salto.chacao.workers.dev/foto">
 <meta property="og:image" content="https://relleno-el-salto.chacao.workers.dev/social.jpg?v=4">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
@@ -158,10 +158,10 @@ body.sin-panel .panel-f{display:none}
 <!--__VISOR_HTML__-->
 </div>
 <canvas id="rot" aria-hidden="true"></canvas>
-<div id="toque" tabindex="0" role="application" aria-label="Modelo 3D del relleno en el año 25. Arrastra para girar, con dos dedos o con clic derecho para desplazar, rueda o pellizco para acercar. Con teclado: flechas para girar, más y menos para acercar."></div>
+<div id="toque" tabindex="0" role="application" aria-label="Modelo 3D del relleno con 30,7 millones de toneladas de basura. Arrastra para girar, con dos dedos o con clic derecho para desplazar, rueda o pellizco para acercar. Con teclado: flechas para girar, más y menos para acercar."></div>
 
 <div class="arriba">
-  <span class="tit">Modo foto · año 25</span>
+  <span class="tit">Modo foto · 30,7 millones de toneladas de basura</span>
   <button type="button" id="b-panel" aria-pressed="true" aria-controls="panel">Ocultar panel</button>
   <a class="rel" href="relato.html">Recorrido narrado</a>
   <a href="./">Análisis completo →</a>
@@ -190,13 +190,12 @@ body.sin-panel .panel-f{display:none}
 
   <h2>Rótulos</h2>
   <div id="rotulos"></div>
-  <p class="ayuda">Distancia de cada población: en línea recta al <b>deslinde del predio</b> (206 ha), no a la masa de basura, que
-  está unos 450 m más adentro. Se mide borde a borde; las marcadas con <b>*</b>, al centro del barrio según OpenStreetMap,
+  <p class="ayuda">Distancia de cada población: en línea recta al <b>deslinde del predio</b> (206 ha). Se mide borde a borde; las marcadas con <b>*</b>, al centro del barrio según OpenStreetMap,
   así que la primera casa está más cerca.</p>
 
   <h2>Tamaño de la imagen</h2>
   <div class="tam" id="tam" role="group" aria-label="Tamaño de la imagen"></div>
-  <p class="nota">El relleno se muestra siempre en su <b>año 25</b>, con el relieve exagerado ×1,6. La imagen lleva al pie los créditos
+  <p class="nota">El relleno se muestra siempre con sus <b>30,7 millones de toneladas de basura</b>, con el relieve exagerado ×1,6. La imagen lleva al pie los créditos
   y la fuente; no se pueden quitar.</p>
 </aside>
 
@@ -204,7 +203,7 @@ body.sin-panel .panel-f{display:none}
 <p class="atrib-r">Imagen: Esri, Maxar, Earthstar Geographics · Elevación: Mapzen</p>
 
 <div class="lista" id="lista" hidden role="dialog" aria-modal="true" aria-label="Tu imagen">
-  <img id="lista-img" alt="Captura del modelo 3D del relleno de El Salto en su año 25">
+  <img id="lista-img" alt="Captura del modelo 3D del relleno de El Salto con 30,7 millones de toneladas de basura">
   <div class="acc">
     <a class="bajar" id="lista-bajar" download="relleno-el-salto.png">Descargar imagen</a>
     <button type="button" class="sec" id="lista-comp" hidden>Compartir</button>
@@ -537,7 +536,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
 
   /* el pie de la foto: qué es, de dónde sale y qué no es. No se puede quitar */
-  var PIE1='Relleno sanitario proyectado en El Salto, Viña del Mar · año 25 de operación, simulado';
+  var PIE1='Relleno sanitario proyectado en El Salto, Viña del Mar · 30,7 millones de toneladas de basura, simulado';
   var PIE2=['Modelo 3D, no fotografía','relieve exagerado ×1,6','forma del relleno y obras: planos del titular (EIA, expediente SEIA 2168892026, Anexo 1.5)',
             'imagen: Esri, Maxar, Earthstar Geographics','elevación: Mapzen','relleno-el-salto.chacao.workers.dev'];
   /* si se ve el viento, el pie dice de dónde sale el rumbo: del modelo del titular o elegido a mano */
@@ -606,7 +605,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
         var comp=$('#lista-comp'), f=null;
         try{ f=new File([b],nom,{type:'image/png'}) }catch(e){}
         comp.hidden=!(f&&navigator.canShare&&navigator.canShare({files:[f]}));
-        comp.onclick=function(){ navigator.share({files:[f],title:'Relleno de El Salto, año 25',
+        comp.onclick=function(){ navigator.share({files:[f],title:'Relleno de El Salto: 30,7 millones de toneladas de basura',
           text:'Modelo 3D del relleno proyectado en El Salto · '+location.origin+location.pathname}).catch(function(){}) };
         $('#lista').hidden=false; $('#lista-cerrar').focus();
       },'image/png');
