@@ -292,6 +292,31 @@ details.plegado>summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
 /* acceso al recorrido narrado */
+.maqueta{margin:34px 0 0;padding:16px 18px 14px;background:var(--surf);border:1px solid var(--line);border-radius:3px}
+.maq-k{margin:0 0 6px;font-family:var(--cart);font-size:13.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink3)}
+.mq{display:block;width:100%;height:auto}
+.mq-alto,.mq-lista{display:none}
+@media(max-width:600px){ .mq-ancho{display:none} .mq-alto{display:block} .mq-lista{display:block} .maqueta{padding:12px 12px 10px} }
+.mq-base{fill:var(--surf2);stroke:var(--line);stroke-width:1}
+.mq-base-l{fill:var(--sunk);stroke:var(--line);stroke-width:.6}
+.mq-agua{fill:#4fa9d6}
+.mq-agua-b{fill:var(--blue);fill-opacity:.3;stroke:var(--blue);stroke-width:1}
+.mq-ed-t,.mq-gal-t{fill:#e2ded3;stroke:#77736a;stroke-width:.5} .mq-gal-t{fill:#f6f3ec}
+.mq-ed-a,.mq-gal-a{fill:#9e998e} .mq-ed-b,.mq-gal-b{fill:#bdb8ad}
+.mq-ant{stroke:var(--ink);stroke-width:2.6;stroke-linecap:round} .mq-ant-c{fill:var(--warn)}
+.mq-chi{stroke:var(--ink);stroke-width:1.5;stroke-linecap:round}
+.mq-r{fill:var(--surf);stroke:var(--line);stroke-width:1}
+.mq-t{fill:var(--ink);font-family:var(--cart);font-weight:600}
+.mq-s{fill:var(--ink2);font-family:var(--cart);font-weight:500}
+.mq-l{stroke:var(--ink2);stroke-width:1} .mq-p{fill:var(--ink);stroke:var(--surf);stroke-width:1.5}
+.mq-n{fill:var(--ink)} .mq-esc{fill:none;stroke:var(--ink);stroke-width:1.6}
+.mq-nb{fill:var(--ink)} .mq-nt{fill:var(--surf);font-family:var(--cart);font-weight:700}
+.mq-lista{margin:10px 0 0;padding-left:22px;font-family:var(--cart);font-size:15px;line-height:1.5;color:var(--ink2)}
+.mq-lista b{color:var(--ink)}
+.maq-leg{display:flex;flex-wrap:wrap;gap:4px 16px;margin:10px 0 0;font-family:var(--cart);font-size:14px;color:var(--ink2)}
+.maq-leg i{display:inline-block;width:12px;height:12px;margin-right:6px;vertical-align:-1px;border-radius:2px}
+.maqueta figcaption{margin:10px 0 0;max-width:78ch;font-size:15px;line-height:1.55;color:var(--ink2)}
+.maqueta .maq-ir{display:inline-block;padding:4px 0;color:var(--acc);font-weight:600;white-space:nowrap}
 .relato-cta{display:grid;grid-template-columns:1fr auto;gap:4px 24px;align-items:center;margin:26px 0 0;padding:16px 20px;
   text-decoration:none;color:#f1efe8;border-radius:2px;position:relative;overflow:hidden;
   background:linear-gradient(90deg,rgba(14,16,20,.92) 0%,rgba(14,16,20,.7) 55%,rgba(14,16,20,.35) 100%),
@@ -3517,6 +3542,18 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
       var CH=OBRAS.chimeneas, ci=new T.InstancedMesh(new T.CylinderGeometry(.7,.7,6,8),new T.MeshLambertMaterial({color:0xe8e4da}),CH.length);
       ci.instanceMatrix.setUsage(T.DynamicDrawUsage); obras.add(ci);
       MEJOR.chim={m:ci,p:CH.map(function(c){ var u=uv(c[0],c[1]); return {x:wx(u[0]),z:wz(u[1]),u:u[0],v:u[1]} })};
+      /* anclas de los rótulos de las obras (modo foto): el centro de cada conjunto, sobre su punto más alto */
+      var cen=function(pts){ var x=0,z=0,h=0; pts.forEach(function(q){ x+=q.x; z+=q.z; h=Math.max(h,q.h) }); return {x:x/pts.length,z:z/pts.length,h:h} };
+      var V3=function(q,dy){ return new T.Vector3(q.x,(q.h+dy)*K(),q.z) };
+      /* las piscinas: en la más grande, para que el punto caiga sobre el agua y no entre las dos */
+      var pis=OBRAS.piscinas.slice().sort(function(a,b){ return b.borde.length-a.borde.length })[0].borde.map(function(c){ var q=XZ(c); q.h=Math.max(q.h,c[2]); return q });
+      var ptl=OBRAS.edificios.filter(function(E){ return /^Planta tratamiento lixiviados/.test(E.n) }).map(function(E){ return cen(E.p.map(XZ)) });
+      var gal=OBRAS.edificios.filter(function(E){ return !E.esq })[0];
+      MEJOR.anclasObras=[
+        {t:'Piscinas de lixiviados',s:'dos, del plano 3.6',p:V3(cen(pis),2)},
+        ptl.length?{t:'Planta de lixiviados',s:'edificios esquemáticos',p:V3(cen(ptl),5)}:null,
+        {t:'Antorchas de biogás',s:'cuatro, de 8,2 m (plano 10.2)',p:V3(cen(A.p.map(XZ)),9)},
+        gal?{t:gal.n,s:'8 m de alto, declarados',p:V3(cen(gal.p.map(XZ)),9)}:null].filter(Boolean);
     }
     MEJOR.obras=obras;
 

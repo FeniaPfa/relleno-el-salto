@@ -234,6 +234,13 @@ encuadre. Es `noindex` y no va al sitemap: es una herramienta, no contenido.
   iguala la bruma del satélite y de la masa. La pared del bloque (`falda`) se oculta. El entorno se pide solo aquí.
   `entorno.py` necesita pillow y numpy, y deja las teselas en una carpeta temporal.
 
+**La maqueta de la principal** (`#maqueta`, después de las cinco cifras) es un esquema oblicuo **sin relieve**: el predio
+como placa, las zonas del proyecto con la paleta del mapa de «Dónde está» y las obras de `obras.json` con su altura a la
+misma escala del plano (no hay exageración; solo el galpón de reciclaje tiene altura declarada). La genera `maqueta.py`
+en `src/maqueta.svg` —dos vistas: apaisada con rótulos y vertical con números y lista para celular— y `build.py` la
+inyecta en `<!--__MAQUETA__-->`. Va en línea para que siga el modo claro u oscuro. Si cambian las zonas o las obras, vuelve
+a correr `maqueta.py`. La vista «Maqueta: las obras» del modo foto es la versión 3D sobre el terreno.
+
 ## SEO, buscadores con respuestas y motores generativos
 
 - Las **preguntas frecuentes** (`<aside class="faq">` antes del pie) son la fuente única: `build.py`

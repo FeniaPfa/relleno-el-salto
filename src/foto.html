@@ -275,13 +275,17 @@ var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
   var ROTS=[
     {k:'pobs',  t:'Poblaciones y su distancia', on:1},
     {k:'nareas',t:'Nombres de las áreas protegidas (con su capa)', on:1},
+    {k:'nobras',t:'Nombres de las obras (con su capa)', on:0},
     {k:'emis',  t:'Lo que el plan de seguimiento no mide', on:0},
     {k:'norte', t:'Norte y escala', on:1}];
+  /* la maqueta: los mismos encuadres que la imagen de la principal (maqueta.webp y maqueta-m.webp) */
+  var MAQUETA=function(){ return angosto()?{th:-0.62,ph:0.78,rad:0.2,dx:0.001,dz:0.004}:{th:-0.62,ph:0.78,rad:0.165,dx:0.002,dz:0.012} };
   var VISTAS=[
     {t:'General',               c:{th:2.55,ph:0.7,rad:0.86}},
     {t:'De cerca',              c:{th:-0.32,ph:0.92,rad:0.29}},
     {t:'Desde el sur, hacia las casas', c:{th:0.05,ph:0.98,rad:0.36,dz:0.06}},
-    {t:'En planta',             c:{th:0,ph:0.04,rad:0.8}}];
+    {t:'En planta',             c:{th:0,ph:0.04,rad:0.8}},
+    {t:'Maqueta: las obras',    c:MAQUETA, r:['nobras'], o:['obras']}];
   var on={}, rot={}, viento={m:'pri',r:D.viento.hacia};
   CAPAS.forEach(function(c){ on[c.k]=!!c.on }); ROTS.forEach(function(r){ rot[r.k]=!!r.on });
   var camIni={th:-0.45,ph:0.86,rad:0.5,dx:0,dz:0.05}, fovIni=40;
@@ -311,7 +315,7 @@ var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
   /* --- panel --- */
   function casilla(cont,item,estado,alCambiar){
     var l=document.createElement('label'); l.className='op';
-    var i=document.createElement('input'); i.type='checkbox'; i.checked=estado[item.k];
+    var i=document.createElement('input'); i.type='checkbox'; i.checked=estado[item.k]; item.inp=i;
     i.addEventListener('change',function(){ estado[item.k]=i.checked; alCambiar(item,i.checked); guardarHash(); pedirRot() });
     l.appendChild(i);
     if(item.c){ var s=document.createElement('span'); s.className='sw'; s.style.background=item.c; l.appendChild(s) }
@@ -320,7 +324,11 @@ var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
   CAPAS.forEach(function(c){ casilla($('#capas'),c,on,function(it,v){ it.f(v) }) });
   ROTS.forEach(function(r){ casilla($('#rotulos'),r,rot,function(){}) });
   VISTAS.forEach(function(V){ var b=document.createElement('button'); b.type='button'; b.textContent=V.t;
-    b.addEventListener('click',function(){ $('#desde').value=''; VISOR.volar(V.c,RM?0.001:1.6) }); $('#vistas').appendChild(b) });
+    b.addEventListener('click',function(){ $('#desde').value='';
+      /* la maqueta enciende las obras y sus nombres */
+      (V.o||[]).forEach(function(k){ CAPAS.forEach(function(c){ if(c.k===k&&!on[k]){ on[k]=true; c.inp.checked=true; c.f(true) } }) });
+      (V.r||[]).forEach(function(k){ ROTS.forEach(function(r){ if(r.k===k&&!rot[k]){ rot[k]=true; r.inp.checked=true } }) });
+      VISOR.volar(typeof V.c==='function'?V.c():V.c,RM?0.001:1.6); guardarHash(); pedirRot() }); $('#vistas').appendChild(b) });
   var vis={}; (D.cuenca&&D.cuenca.comunidades||[]).forEach(function(c){ vis[c.n]=c.vis });
   var pobs=(D.barrios||[]).filter(function(b){ return vis[b.n]!=null }).sort(function(a,b){ return a.d-b.d });
   pobs.forEach(function(b){ var o=document.createElement('option'); o.value=b.n;
@@ -446,7 +454,7 @@ var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
 
   /* la disposición se calcula en píxeles CSS de la pantalla; dibujar() la escala */
   function disponer(W,H){
-    var I=VISOR.internos(), T=I.THREE, K=I.K(), S=I.S, out={pobs:[],areas:[],emis:[],norte:null};
+    var I=VISOR.internos(), T=I.THREE, K=I.K(), S=I.S, out={pobs:[],areas:[],emis:[],obras:[],norte:null};
     var reservas=[];   /* zonas ya ocupadas, en píxeles CSS */
     function libre(b){ for(var i=0;i<reservas.length;i++){ var r=reservas[i]; if(b[2]>r[0]&&b[0]<r[2]&&b[3]>r[1]&&b[1]<r[3]) return false } return true }
     ctx.save();
@@ -468,6 +476,24 @@ var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
         var q=puestos[mejor[j]], bx=q.der?q.x:q.x-a.w, by=q.y-a.h/2;
         bx=Math.max(8,Math.min(W-a.w-8,bx)); by=Math.max(8,Math.min(H-a.h-8,by));
         out.emis.push({a:a,bx:bx,by:by,der:q.der}); reservas.push([bx-4,by-4,bx+a.w+4,by+a.h+4]) });
+    }
+    /* obras: el rótulo arriba del punto, o donde quepa; las chimeneas, en la que queda más al centro de las visibles */
+    if(rot.nobras&&on.obras&&MEJOR.anclasObras){
+      var lista3=MEJOR.anclasObras.slice();
+      if(MEJOR.chim){ var M4=new T.Matrix4(), pv=new T.Vector3(), sv=new T.Vector3(), qv=new T.Quaternion(), mejorC=null, dc=1e12, cxs=0, czs=0;
+        MEJOR.chim.p.forEach(function(c){ cxs+=c.x; czs+=c.z }); cxs/=MEJOR.chim.p.length; czs/=MEJOR.chim.p.length;
+        for(var ic=0;ic<MEJOR.chim.p.length;ic++){ MEJOR.chim.m.getMatrixAt(ic,M4); M4.decompose(pv,qv,sv); if(sv.y<.01) continue;
+          var dd2=Math.hypot(pv.x-cxs,pv.z-czs); if(dd2<dc){ dc=dd2; mejorC=pv.clone() } }
+        if(mejorC) lista3.unshift({t:'81 chimeneas de biogás',s:'plano 10.1; alto esquemático',p:mejorC.add(new T.Vector3(0,4*K,0))}) }
+      lista3.forEach(function(O){
+        var q=proy(O.p,I,W,H); if(q.z>=1||q.x<10||q.x>W-10||q.y<10||q.y>H-10) return;
+        ctx.font=fuente(14); var w1=ctx.measureText(O.t).width; ctx.font=fuente(12.5,500); var w=Math.max(w1,ctx.measureText(O.s).width)+18, h=40;
+        /* primero arriba, después a los lados y abajo: la línea más corta que deje el rótulo libre */
+        var lw=w/2+16, OF=[[0,-56],[lw,-26],[-lw,-26],[lw,22],[-lw,22],[0,52],[0,-96],[lw*1.3,-70],[-lw*1.3,-70],[0,-140],[0,96]];
+        for(var k3=0;k3<OF.length;k3++){ var bx=q.x+OF[k3][0]-w/2, by=q.y+OF[k3][1]-h/2, bb=[bx-4,by-4,bx+w+4,by+h+4];
+          if(bx<8||by<8||bx+w>W-8||by+h>H-8||!libre(bb)) continue;
+          reservas.push(bb); out.obras.push({x:q.x,y:q.y,bx:bx,by:by,w:w,h:h,t:O.t,s:O.s}); return }
+      });
     }
     /* áreas protegidas: el centro del área si cae en pantalla; si no, su punto más cercano al relleno */
     if(rot.nareas&&on.areas&&MEJOR.rotulos){
@@ -527,6 +553,12 @@ var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
       c.font=fuente(14); c.fillStyle='#fff'; a.l1.forEach(function(t){ c.fillText(t,tx,y); y+=17 });
       c.font=fuente(12.5,500); c.fillStyle='#dad8d0'; y-=1.5; a.l2.forEach(function(t){ c.fillText(t,tx,y); y+=15.5 });
       c.beginPath(); c.arc(a.x,a.y,3.5,0,Math.PI*2); c.fillStyle='#fff'; c.fill(); c.lineWidth=2; c.strokeStyle='rgba(15,17,21,.6)'; c.stroke() });
+    d.obras.forEach(function(O){ var ly=O.by>O.y?O.by:O.by+O.h;
+      c.strokeStyle='rgba(255,255,255,.75)'; c.lineWidth=1; c.beginPath(); c.moveTo(O.x,O.y); c.lineTo(O.bx+O.w/2,ly); c.stroke();
+      c.fillStyle='rgba(15,17,21,.86)'; c.fillRect(O.bx,O.by,O.w,O.h); c.fillStyle='#b5bcc3'; c.fillRect(O.bx,O.by,3,O.h);
+      c.textAlign='left'; c.font=fuente(14); c.fillStyle='#fff'; c.fillText(O.t,O.bx+11,O.by+17);
+      c.font=fuente(12.5,500); c.fillStyle='#dad8d0'; c.fillText(O.s,O.bx+11,O.by+33);
+      c.beginPath(); c.arc(O.x,O.y,3.5,0,Math.PI*2); c.fillStyle='#fff'; c.fill(); c.lineWidth=2; c.strokeStyle='rgba(15,17,21,.6)'; c.stroke() });
     c.textAlign='center';
     d.areas.forEach(function(A){ c.font=fuente(14); halo(c,A.t[0],A.x,A.y-2,'#fff'); c.font=fuente(12.5,500); halo(c,A.t[1],A.x,A.y+13,'#e6e3da') });
     d.pobs.forEach(function(p){

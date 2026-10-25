@@ -30,6 +30,9 @@ def main():
     assert h.count(marca) == 1, 'marcador de empalme ausente o duplicado'
     pleno = h.replace(marca, v + "\n" + v2 + "\n" + marca)
 
+    # la maqueta de las obras (maqueta.py), en línea para que siga los colores del modo claro u oscuro
+    assert pleno.count('<!--__MAQUETA__-->') == 1, 'marcador de la maqueta ausente en plantilla.html'
+    pleno = pleno.replace('<!--__MAQUETA__-->', leer('maqueta.svg'))
     assert pleno.count('/*__DATOS__*/') == 1
     pleno = pleno.replace('/*__DATOS__*/', leer('datos.json'))
     assert pleno.count('/*__PESOS__*/') == 1
