@@ -78,9 +78,9 @@ body.sin-panel .panel-f{display:none}
 .panel-f .vistas button:hover,.panel-f .tam button:hover{background:#262b31}
 .panel-f .tam{display:flex;flex-wrap:wrap;gap:6px}
 .panel-f .tam button[aria-pressed=true]{border-color:#e8e6df;background:#2a3036}
-.panel-f .vrumbo{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.panel-f .vrumbo{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1.1fr) minmax(0,.9fr);gap:6px}
 .panel-f .vrumbo button{font-family:var(--cart);font-size:14px;color:#e8e6df;background:#1a1e23;border:1px solid #4a525b;border-radius:2px;
-  padding:6px 4px;min-height:44px;cursor:pointer;line-height:1.2}
+  padding:6px 4px;min-height:44px;cursor:pointer;line-height:1.2;overflow-wrap:anywhere}
 .panel-f .vrumbo button small{display:block;font-size:12.5px;color:#a9aea6}
 .panel-f .vrumbo button[aria-pressed=true]{border-color:#ffb27a;background:#2a3036}
 .panel-f .vrumbo button:hover{background:#262b31}
@@ -190,6 +190,9 @@ body.sin-panel .panel-f{display:none}
 
   <h2>Rótulos</h2>
   <div id="rotulos"></div>
+  <p class="ayuda">Distancia de cada población: en línea recta al <b>deslinde del predio</b> (206 ha), no a la masa de basura, que
+  está unos 450 m más adentro. Se mide borde a borde; las marcadas con <b>*</b>, al centro del barrio según OpenStreetMap,
+  así que la primera casa está más cerca.</p>
 
   <h2>Tamaño de la imagen</h2>
   <div class="tam" id="tam" role="group" aria-label="Tamaño de la imagen"></div>
@@ -470,7 +473,7 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
         var u=I.uv(b.x,b.y); if(u[0]<-EA||u[0]>1+EA||u[1]<-EA||u[1]>1+EA) return;
         v.set(I.wx(u[0]),I.hAt(u[0],u[1])*K+16,I.wz(u[1]));
         var p=proy(v,I,W,H); if(p.z>=1||p.x<6||p.x>W-6||p.y<6||p.y>H-6) return;
-        out.pobs.push({x:p.x,y:p.y,n:b.n.replace(/^Comunidad /,''),d:km(b.d),lab:null});
+        out.pobs.push({x:p.x,y:p.y,n:b.n.replace(/^Comunidad /,''),d:km(b.d)+(b.m==='punto'?'*':''),lab:null});
       });
       /* los puntos van primero: un nombre no tapa el punto de otra población */
       out.pobs.forEach(function(it){ reservas.push([it.x-4,it.y-4,it.x+4,it.y+4]) });
@@ -547,7 +550,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
   }
   function medirPie(c,W){
     c.save(); c.font=fuente(15); var l1=envolver(c,PIE1,W-36); c.font=fuente(12.5,500);
-    var l2=envolver(c,PIE2.slice(0,3).concat(pieViento(),PIE2.slice(3)).join(' · '),W-36); c.restore();
+    var dist=rot.pobs?['distancias en línea recta al deslinde del predio, borde a borde; con *, al centro del barrio (OpenStreetMap)']:[];
+    var l2=envolver(c,PIE2.slice(0,3).concat(dist,pieViento(),PIE2.slice(3)).join(' · '),W-36); c.restore();
     return {l1:l1,l2:l2,h:14+l1.length*19+l2.length*16+8};
   }
   function dibujarPie(c,s,W,H,p){
