@@ -551,30 +551,41 @@ var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
   }
 
   /* el pie de la foto: qué es, de dónde sale y qué no es. No se puede quitar */
-  var PIE1='Relleno sanitario proyectado en El Salto, Viña del Mar · 30,7 millones de toneladas de basura, simulado';
-  var PIE2=['Modelo 3D, no fotografía',EXAGERA?'relieve exagerado ×1,6':'relieve a escala real','forma del relleno y obras: planos del titular (EIA, expediente SEIA 2168892026, Anexo 1.5)',
-            'imagen: Esri, Maxar, Earthstar Geographics','elevación: Mapzen','relleno-el-salto.chacao.workers.dev'];
-  /* si se ve el viento, el pie dice de dónde sale el rumbo: del modelo del titular o elegido a mano */
-  function pieViento(){
-    if(!on.pluma) return [];
-    return [viento.m==='pri'?'viento: rumbo predominante modelado por el titular (WRF, Anexo 4.2)':
-            viento.m==='sec'?'viento: rumbo secundario modelado por el titular (WRF, Anexo 4.2)':
-            'viento: rumbo elegido a mano, hacia '+viento.r+'°, no es del estudio',
-            'pluma ilustrativa, de ±35° (supuesto de esta página)'];
+  /* el pie de la foto: qué es, de dónde sale y qué no es. No se puede quitar. En pantallas angostas va una versión
+     compacta, con letra más chica y frases cortas: a 390 px la completa ocupaba casi un cuarto de la imagen. Las dos
+     dicen lo mismo: modelo y no fotografía, la escala, los planos del titular, cómo se mide la distancia, de dónde sale
+     el viento y los créditos de Esri y Mapzen */
+  function pie(compacto){
+    var esc=EXAGERA?'relieve exagerado ×1,6':(compacto?'escala real':'relieve a escala real');
+    var t1=compacto?'Relleno proyectado en El Salto · 30,7 millones de toneladas de basura, simulado':
+                    'Relleno sanitario proyectado en El Salto, Viña del Mar · 30,7 millones de toneladas de basura, simulado';
+    var t2=['Modelo 3D, no fotografía',esc,
+      compacto?'relleno y obras: planos del titular (SEIA 2168892026)':'forma del relleno y obras: planos del titular (EIA, expediente SEIA 2168892026, Anexo 1.5)'];
+    if(rot.pobs) t2.push(compacto?'distancias al deslinde del predio; *, al centro del barrio':
+                                  'distancias en línea recta al deslinde del predio, borde a borde; con *, al centro del barrio (OpenStreetMap)');
+    if(on.pluma){
+      if(viento.m==='man') t2.push('viento: rumbo elegido a mano, hacia '+viento.r+'°, no es del estudio');
+      else t2.push(compacto?'viento '+(viento.m==='pri'?'predominante':'secundario')+' modelado por el titular (Anexo 4.2)':
+                            'viento: rumbo '+(viento.m==='pri'?'predominante':'secundario')+' modelado por el titular (WRF, Anexo 4.2)');
+      t2.push(compacto?'pluma ilustrativa':'pluma ilustrativa, de ±35° (supuesto de esta página)');
+    }
+    t2.push(compacto?'Esri, Maxar, Earthstar Geographics · Mapzen':'imagen: Esri, Maxar, Earthstar Geographics · elevación: Mapzen');
+    t2.push('relleno-el-salto.chacao.workers.dev');
+    return {t1:t1,t2:t2.join(' · '),f1:compacto?13:15,f2:compacto?10.5:12.5,a1:compacto?16:19,a2:compacto?13:16,m:compacto?12:18,pad:compacto?9:14};
   }
   function medirPie(c,W){
-    c.save(); c.font=fuente(15); var l1=envolver(c,PIE1,W-36); c.font=fuente(12.5,500);
-    var dist=rot.pobs?['distancias en línea recta al deslinde del predio, borde a borde; con *, al centro del barrio (OpenStreetMap)']:[];
-    var l2=envolver(c,PIE2.slice(0,3).concat(dist,pieViento(),PIE2.slice(3)).join(' · '),W-36); c.restore();
-    return {l1:l1,l2:l2,h:14+l1.length*19+l2.length*16+8};
+    var P=pie(W<600);
+    c.save(); c.font=fuente(P.f1); P.l1=envolver(c,P.t1,W-P.m*2); c.font=fuente(P.f2,500); P.l2=envolver(c,P.t2,W-P.m*2); c.restore();
+    P.h=P.pad+P.l1.length*P.a1+P.l2.length*P.a2+P.pad*.6;
+    return P;
   }
   function dibujarPie(c,s,W,H,p){
     c.save(); c.setTransform(s,0,0,s,0,0);
     c.fillStyle='rgba(11,13,16,.84)'; c.fillRect(0,H-p.h,W,p.h);
-    c.fillStyle=ACC; c.fillRect(0,H-p.h,4,p.h);
-    var y=H-p.h+14+13; c.textAlign='left';
-    c.font=fuente(15); c.fillStyle='#f4f2eb'; p.l1.forEach(function(t){ c.fillText(t,18,y); y+=19 });
-    c.font=fuente(12.5,500); c.fillStyle='#c9cdc6'; y-=2; p.l2.forEach(function(t){ c.fillText(t,18,y); y+=16 });
+    c.fillStyle=ACC; c.fillRect(0,H-p.h,p.m>12?4:3,p.h);
+    var y=H-p.h+p.pad+p.f1*.86; c.textAlign='left';
+    c.font=fuente(p.f1); c.fillStyle='#f4f2eb'; p.l1.forEach(function(t){ c.fillText(t,p.m,y); y+=p.a1 });
+    c.font=fuente(p.f2,500); c.fillStyle='#c9cdc6'; y-=2; p.l2.forEach(function(t){ c.fillText(t,p.m,y); y+=p.a2 });
     c.restore();
   }
 
