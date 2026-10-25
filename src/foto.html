@@ -1,0 +1,762 @@
+<!doctype html>
+<html lang="es-CL" data-theme="dark">
+<meta charset="utf-8">
+<title>Modo foto · relleno de El Salto en 3D</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="https://relleno-el-salto.chacao.workers.dev/foto">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_CL">
+<meta property="og:title" content="Modo foto · relleno de El Salto en 3D">
+<meta property="og:description" content="El relleno proyectado en El Salto con sus 30,7 millones de toneladas de basura, sobre el terreno real. Mueve la cámara, elige capas y rótulos y descarga la imagen con sus fuentes.">
+<meta property="og:url" content="https://relleno-el-salto.chacao.workers.dev/foto">
+<meta property="og:image" content="https://relleno-el-salto.chacao.workers.dev/social.jpg?v=4">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="description" content="Modo foto del modelo 3D del relleno sanitario proyectado en El Salto, Viña del Mar: cámara libre, capas y rótulos, y captura en alta resolución con sus créditos.">
+<link rel="icon" href="icono.svg" type="image/svg+xml">
+<link rel="icon" href="icono-48.png" sizes="48x48" type="image/png">
+<link rel="apple-touch-icon" href="icono-180.png">
+<link rel="preload" as="script" href="lib/three.r128.min.js">
+<link rel="preload" as="image" href="altura.png">
+<link rel="preload" as="image" href="flujo.png">
+<link rel="preload" as="image" href="entorno-altura.png">
+<!--__FUENTES__-->
+<!--__CSS__-->
+<style>
+/* ===================== modo foto: solo esta página ===================== */
+html,body{background:#0b0d10;height:100%;overflow:hidden}
+body{color:#e8e6df;overscroll-behavior:none}
+
+/* el visor ocupa toda la pantalla; los gestos los recibe la capa #toque, no el lienzo */
+.escena{position:fixed;inset:0;z-index:0}
+.escena,.escena *{pointer-events:none!important}
+.escena .v3{position:absolute;inset:0;margin:0;border:0;background:#0b0d10}
+.escena .v3 .cv{position:absolute;inset:0;aspect-ratio:auto;min-height:0;height:100%}
+.escena .v3bar,.escena .ctrl,.escena .tl,.escena .vhint,.escena .vflot,.escena .mob{display:none!important}
+/* los rótulos HTML que arma la escena compartida no se usan aquí: se dibujan en #rot, que es lo que sale en la foto */
+.rot-area,.rot-emi,.rot-emi-l,.rot-emi-p{display:none!important}
+#rot{position:fixed;inset:0;z-index:1;pointer-events:none;width:100%;height:100%}
+#toque{position:fixed;inset:0;z-index:2;touch-action:none;cursor:grab;outline:none}
+#toque.mueve{cursor:grabbing}
+#toque:focus-visible{box-shadow:inset 0 0 0 2px #8fb8d4}
+
+/* ---- carga ---- */
+.carga{position:fixed;inset:0;z-index:20;display:flex;align-items:center;justify-content:center;flex-direction:column;
+  background:#0b0d10;transition:opacity .9s ease,visibility .9s}
+body.listo .carga{opacity:0;visibility:hidden}
+.carga .k{font-family:var(--cart);font-size:14px;color:#9aa49c;margin-bottom:18px;text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+.carga .barra-c{width:min(280px,60vw);height:2px;background:#23272c;overflow:hidden}
+.carga .barra-c i{display:block;height:100%;width:40%;background:var(--acc);animation:carga 1.4s ease-in-out infinite}
+@keyframes carga{0%{transform:translateX(-100%)}100%{transform:translateX(260%)}}
+
+/* ---- barra de arriba ---- */
+.arriba{position:fixed;top:12px;left:14px;right:14px;z-index:6;display:flex;gap:8px;align-items:center;pointer-events:none}
+.arriba>*{pointer-events:auto}
+.arriba .tit{font-family:var(--cart);font-size:13.5px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:#e8e6df;
+  background:rgba(16,18,22,.85);border:1px solid #39413c;padding:7px 11px;border-radius:2px;margin-right:auto}
+.arriba a,.arriba button{font-family:var(--cart);font-size:14px;color:#e8e6df;background:rgba(16,18,22,.85);border:1px solid #39413c;
+  padding:7px 11px;text-decoration:none;border-radius:2px;cursor:pointer;min-height:36px}
+.arriba a:hover,.arriba button:hover{background:#23272c}
+.arriba :focus-visible{outline:2px solid #8fb8d4;outline-offset:2px}
+
+/* ---- panel ---- */
+.panel-f{position:fixed;z-index:5;top:60px;right:14px;width:290px;max-height:calc(100% - 150px);overflow:auto;
+  background:rgba(16,18,22,.9);border:1px solid #2c3238;border-radius:2px;padding:4px 16px 14px;
+  -webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);box-shadow:0 18px 50px rgba(0,0,0,.45);
+  font-family:var(--cart);font-size:15px;color:#e8e6df}
+body.sin-panel .panel-f{display:none}
+.panel-f h2{font-family:var(--cart);font-size:13.5px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:#a9aea6;margin:14px 0 6px}
+.panel-f label.op{display:flex;align-items:center;gap:10px;min-height:36px;cursor:pointer;line-height:1.25}
+.panel-f input[type=checkbox]{width:18px;height:18px;margin:0;accent-color:#d93a43;flex:none}
+.panel-f .sw{flex:none;width:12px;height:12px;border-radius:2px}
+.panel-f select{width:100%;min-height:40px;padding:8px 10px;font-family:var(--cart);font-size:15px;background:#0f1216;color:#f1efe8;
+  border:1px solid #6b7480;border-radius:2px}
+.panel-f .vistas{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:6px}
+.panel-f .vistas button,.panel-f .tam button{font-family:var(--cart);font-size:14px;color:#e8e6df;background:#1a1e23;border:1px solid #4a525b;
+  border-radius:2px;padding:7px 8px;min-height:38px;cursor:pointer;text-align:center;line-height:1.2}
+.panel-f .vistas button:hover,.panel-f .tam button:hover{background:#262b31}
+.panel-f .tam{display:flex;flex-wrap:wrap;gap:6px}
+.panel-f .tam button[aria-pressed=true]{border-color:#e8e6df;background:#2a3036}
+.panel-f .vrumbo{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1.1fr) minmax(0,.9fr);gap:6px}
+.panel-f .vrumbo button{font-family:var(--cart);font-size:14px;color:#e8e6df;background:#1a1e23;border:1px solid #4a525b;border-radius:2px;
+  padding:6px 4px;min-height:44px;cursor:pointer;line-height:1.2;overflow-wrap:anywhere}
+.panel-f .vrumbo button small{display:block;font-size:12.5px;color:#a9aea6}
+.panel-f .vrumbo button[aria-pressed=true]{border-color:#ffb27a;background:#2a3036}
+.panel-f .vrumbo button:hover{background:#262b31}
+.panel-f .tam small{display:block;font-size:12.5px;color:#a9aea6}
+.panel-f .fila{display:flex;align-items:center;gap:10px}
+.panel-f [hidden]{display:none!important}
+.panel-f input[type=range]{flex:1;accent-color:#d93a43;min-height:32px}
+.panel-f .val{font-variant-numeric:tabular-nums;min-width:3.2em;text-align:right;color:#cfcdc5}
+.panel-f .nota{font-size:13.5px;color:#a9aea6;line-height:1.4;margin:8px 0 0}
+.panel-f :focus-visible{outline:2px solid #8fb8d4;outline-offset:2px}
+.ayuda{font-size:13.5px;color:#a9aea6;line-height:1.4;margin:6px 0 0}
+
+/* ---- el disparador ---- */
+.disparar{position:fixed;z-index:6;right:14px;bottom:44px;display:flex;align-items:center;gap:10px;min-height:52px;padding:12px 22px;
+  background:#a11422;color:#fbf7ec;border:0;border-radius:2px;font-family:var(--cart);font-size:17px;font-weight:600;cursor:pointer;
+  box-shadow:0 8px 24px rgba(0,0,0,.45)}
+.disparar:hover{filter:brightness(1.12)}
+.disparar:disabled{opacity:.6;cursor:wait}
+.disparar:focus-visible{outline:2px solid #fbf7ec;outline-offset:3px}
+.atrib-r{position:fixed;left:14px;bottom:10px;z-index:3;margin:0;font-family:var(--cart);font-size:12px;color:#d8dcd4;
+  background:rgba(13,16,20,.6);padding:2px 6px;border-radius:2px;pointer-events:none}
+
+/* ---- la imagen lista ---- */
+.lista{position:fixed;inset:0;z-index:30;background:rgba(8,10,12,.92);display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:14px;padding:16px}
+.lista[hidden]{display:none}
+.lista img{max-width:100%;max-height:calc(100% - 130px);object-fit:contain;border:1px solid #39413c;background:#000}
+.lista .acc{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
+.lista .acc a,.lista .acc button{display:inline-flex;align-items:center;min-height:46px;padding:10px 18px;font-family:var(--cart);font-size:16px;
+  font-weight:600;border-radius:2px;cursor:pointer;text-decoration:none}
+.lista .bajar{background:#a11422;color:#fbf7ec;border:0}
+.lista .sec{background:transparent;color:#e8e6df;border:1px solid #6b7480}
+.lista p{margin:0;font-family:var(--cart);font-size:14px;color:#c9cdc6;text-align:center;max-width:560px;line-height:1.4}
+.lista :focus-visible{outline:2px solid #8fb8d4;outline-offset:2px}
+.lista textarea{width:min(100%,640px);flex:none;resize:none;font-family:var(--cart);font-size:14.5px;line-height:1.4;color:#e8e6df;
+  background:#14181c;border:1px solid #39413c;border-radius:2px;padding:8px 10px}
+.lista #lista-copiar.ok{border-color:#8fbf8a;color:#cfe8cb}
+
+/* ---- celular: el panel es una hoja que sube desde abajo ---- */
+@media(max-width:760px){
+  .arriba .tit,.arriba #b-panel,.arriba .rel{display:none}
+  .arriba{justify-content:flex-end}
+  .arriba a{white-space:nowrap}
+  /* abajo, un dock fijo con el botón a todo el ancho; la hoja sube por encima del dock y nunca queda debajo del botón */
+  body::after{content:'';position:fixed;left:0;right:0;bottom:0;z-index:6;height:calc(var(--dock) + env(safe-area-inset-bottom));
+    background:#101316;border-top:1px solid #2c3238}
+  body{--dock:72px}
+  .panel-f{top:auto;bottom:calc(var(--dock) + env(safe-area-inset-bottom));left:0;right:0;width:auto;max-height:calc(100% - var(--dock) - 120px);
+    max-height:min(56svh,calc(100svh - var(--dock) - 120px));border-radius:10px 10px 0 0;padding:0 16px 16px;
+    border-left:0;border-right:0;border-bottom:0;background:#101316;-webkit-backdrop-filter:none;backdrop-filter:none}
+  .panel-f .asa{position:sticky;top:0;z-index:1;display:flex;align-items:center;justify-content:space-between;width:100%;margin:0;
+    padding:20px 0 12px;background:#101316;border:0;min-height:48px;
+    color:#e8e6df;font-family:var(--cart);font-size:15px;font-weight:600;text-align:left;cursor:pointer}
+  .panel-f .asa::before{content:'';position:absolute;left:50%;top:8px;width:40px;height:4px;margin-left:-20px;border-radius:2px;background:#5b646e}
+  .panel-f .asa::after{content:'▴';font-size:16px;color:#a9aea6;transition:transform .2s}
+  body:not(.hoja-baja) .panel-f .asa::after{transform:rotate(180deg)}
+  body.hoja-baja .panel-f{max-height:none;overflow:hidden;padding-bottom:0}
+  body.hoja-baja .panel-f>:not(.asa){display:none}
+  .disparar{left:12px;right:12px;bottom:calc(10px + env(safe-area-inset-bottom));transform:none;justify-content:center;min-height:52px;z-index:7;box-shadow:none}
+  .atrib-r{left:auto;right:8px;font-size:12px}
+  body:not(.hoja-baja) .atrib-r{display:none}
+  body.hoja-baja .atrib-r{bottom:calc(var(--dock) + 62px + env(safe-area-inset-bottom))}
+  /* la foto lista: la imagen se achica para que los botones quepan siempre */
+  .lista{background:#0b0d10;justify-content:flex-start;padding:12px 12px calc(12px + env(safe-area-inset-bottom))}
+  .lista img{flex:1 1 auto;min-height:0;max-height:none;width:100%;border:0;background:transparent}
+  .lista .acc{width:100%;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px}
+  .lista .acc .bajar,.lista #lista-cerrar,.lista #lista-comp[hidden]+#lista-copiar{grid-column:1/-1}
+  .lista textarea{width:100%;font-size:14px}
+  .lista .acc a,.lista .acc button{justify-content:center}
+  .lista p{font-size:13.5px}
+}
+@media(min-width:761px){ .panel-f .asa,.ayuda .angosto{display:none} }
+@media(max-width:760px){ .ayuda .ancho{display:none} }
+@media(prefers-reduced-motion:reduce){ .carga{transition:none} .carga .barra-c i{animation:none} }
+</style>
+
+<div class="carga" aria-hidden="true"><p class="k">Cargando el terreno de El Salto</p><div class="barra-c"><i></i></div></div>
+<div class="escena" aria-hidden="true">
+<!--__VISOR_HTML__-->
+</div>
+<canvas id="rot" aria-hidden="true"></canvas>
+<div id="toque" tabindex="0" role="application" aria-label="Modelo 3D del relleno con 30,7 millones de toneladas de basura. Arrastra para girar, con dos dedos o con clic derecho para desplazar, rueda o pellizco para acercar. Con teclado: flechas para girar, más y menos para acercar."></div>
+
+<div class="arriba">
+  <span class="tit">Modo foto · 30,7 millones de toneladas de basura</span>
+  <button type="button" id="b-panel" aria-pressed="true" aria-controls="panel">Ocultar panel</button>
+  <a class="rel" href="relato.html">Recorrido narrado</a>
+  <a href="./">Análisis completo →</a>
+</div>
+
+<aside class="panel-f" id="panel" aria-label="Opciones del modo foto">
+  <button type="button" class="asa" id="asa" aria-expanded="true" aria-controls="panel">Capas, rótulos y cámara</button>
+  <h2>Vista</h2>
+  <div class="vistas" id="vistas"></div>
+  <label for="desde" class="vh">Mirar desde una población</label>
+  <select id="desde" style="margin-top:8px"><option value="">Mirar desde una población…</option></select>
+  <div class="fila" style="margin-top:8px"><label for="fov">Lente</label><input type="range" id="fov" min="18" max="75" step="1" value="40"><span class="val" id="fov-v">40°</span></div>
+  <label class="op"><input type="checkbox" id="exa">Exagerar el relieve ×1,6</label>
+  <p class="ayuda">A escala real la imagen es la que el titular no puede objetar. Exagerar ayuda a leer el relieve desde arriba; la foto lo dice en el pie.</p>
+  <p class="ayuda"><span class="ancho">Arrastra para girar. Desplaza con clic derecho o Mayús + arrastre. Acerca con la rueda.</span><span class="angosto">Un dedo gira; dos dedos desplazan y, al pellizcar, acercan.</span></p>
+
+  <h2>Capas</h2>
+  <div id="capas"></div>
+
+  <h2>Viento</h2>
+  <div class="vrumbo" id="vrumbo" role="group" aria-label="Rumbo del viento">
+    <button type="button" data-w="pri" aria-pressed="true">Predominante<small>del S-SSO</small></button>
+    <button type="button" data-w="sec" aria-pressed="false">Secundario<small>del O-NO</small></button>
+    <button type="button" data-w="man" aria-pressed="false">Manual<small id="w-man-v">elige</small></button>
+  </div>
+  <div class="fila" id="w-fila" hidden style="margin-top:8px"><label for="w-rumbo">Sopla hacia</label><input type="range" id="w-rumbo" min="0" max="355" step="5" value="10"><span class="val" id="w-rumbo-v">10°</span></div>
+  <p class="ayuda">Predominante y secundario: modelo meteorológico del titular (Anexo 4.2). Se ve con la capa de gases. Al cambiarlo, la pluma tarda unos segundos en girar.</p>
+
+  <h2>Rótulos</h2>
+  <div id="rotulos"></div>
+  <p class="ayuda">Distancia de cada población: en línea recta al <b>deslinde del predio</b> (206 ha). Se mide borde a borde; las marcadas con <b>*</b>, al centro del barrio según OpenStreetMap,
+  así que la primera casa está más cerca.</p>
+
+  <h2>Tamaño de la imagen</h2>
+  <div class="tam" id="tam" role="group" aria-label="Tamaño de la imagen"></div>
+  <p class="nota">El relleno se muestra siempre con sus <b>30,7 millones de toneladas de basura</b>. La imagen lleva al pie los créditos
+  y la fuente; no se pueden quitar.</p>
+</aside>
+
+<button type="button" class="disparar" id="disparar"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3v11H4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="13" r="3.6" fill="none" stroke="currentColor" stroke-width="2"/></svg>Sacar foto</button>
+<p class="atrib-r">Imagen: Esri, Maxar, Earthstar Geographics · Elevación: Mapzen</p>
+
+<div class="lista" id="lista" hidden role="dialog" aria-modal="true" aria-label="Tu imagen">
+  <img id="lista-img" alt="Captura del modelo 3D del relleno de El Salto con 30,7 millones de toneladas de basura">
+  <label for="lista-txt" class="vh">Texto para acompañar la imagen</label>
+  <textarea id="lista-txt" readonly rows="5"></textarea>
+  <div class="acc">
+    <a class="bajar" id="lista-bajar" download="relleno-el-salto.png">Descargar imagen</a>
+    <button type="button" class="sec" id="lista-comp" hidden>Compartir</button>
+    <button type="button" class="sec" id="lista-copiar">Copiar texto</button>
+    <button type="button" class="sec" id="lista-cerrar">Volver</button>
+  </div>
+  <p id="lista-nota">Si en tu celular no se descarga, mantén presionada la imagen y elige «Guardar imagen». El texto lleva el enlace a esta misma vista.</p>
+</div>
+
+<script src="lib/three.r128.min.js"></script>
+<script id="D" type="application/json">/*__DATOS__*/</script>
+<script>
+(function(){
+"use strict";
+var D = JSON.parse(document.getElementById('D').textContent);
+var $ = function(s){return document.querySelector(s)};
+var WEBP=(function(){try{var c=document.createElement('canvas');
+  return c.toDataURL('image/webp').indexOf('data:image/webp')===0}catch(e){return false}})();
+function ras(n){return WEBP?n.replace(/\.(png|jpg)$/,'.webp'):n}
+var RM=!!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches);
+function bboxOf(geom,acc){
+  function pt(c){
+    if(!Array.isArray(c)) return;
+    if(typeof c[0]==='number'){
+      acc[0]=Math.min(acc[0],c[0]); acc[1]=Math.min(acc[1],c[1]);
+      acc[2]=Math.max(acc[2],c[0]); acc[3]=Math.max(acc[3],c[1]);
+      return;
+    }
+    c.forEach(pt);
+  }
+  pt(geom.coordinates);
+  return acc;
+}
+var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
+/* escala real salvo que la dirección pida exagerar (&x=1): la masa, las obras y el entorno se arman con K() al cargar,
+   así que cambiarla recarga la página */
+var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
+
+/*__VISOR_JS__*/
+
+/* ===================== el modo foto ===================== */
+(function(){
+  var P=D.proy;
+  var angosto=function(){ return matchMedia('(max-width:760px)').matches };
+  var ANIO=25;
+
+  /*__ESCENA_JS__*/
+
+  /* --- estado: cámara, capas y rótulos; se guarda en la dirección para poder compartir el encuadre --- */
+  var CAPAS=[
+    {k:'obras',   t:'Obras del titular',               c:'#b5bcc3', on:1, f:function(v){ if(MEJOR.obras) MEJOR.obras.visible=v }},
+    {k:'deslinde',t:'Deslinde del predio (206 ha)',    c:'#f6f3ea', on:1, f:function(v){ if(MEJOR.cinta) MEJOR.cinta.visible=v }},
+    {k:'urbano',  t:'Manchas urbanas',                 c:'#bfc9d6', on:1, f:function(v){ VISOR.capa('L-urbano',v) }},
+    {k:'areas',   t:'Áreas protegidas',                c:'#8fd18a', on:1, f:function(v){ if(MEJOR.areas) MEJOR.areas(v) }},
+    {k:'pluma',   t:'Viento: gases que salen del relleno', c:'#e0612e', on:1, f:function(v){ VISOR.capa('L-pluma',v) }},
+    {k:'arcos',   t:'Líneas a las 6 poblaciones más cercanas',   c:'#ffb27a', on:1, f:function(v){ VISOR.capa('L-arcos',v) }},
+    {k:'agua',    t:'Esteros y recorrido del agua',    c:'#5ad7f5', on:1, f:function(v){ VISOR.troncal(v) }},
+    {k:'flujo',   t:'Escorrentía (partículas)',        c:'#4fc3f7', on:0, f:function(v){ VISOR.capa('L-flujo',v) }},
+    {k:'cicatriz',t:'Quema de febrero de 2024',        c:'#d6562a', on:0, f:function(v){ VISOR.capa('L-cicatriz',v) }},
+    {k:'cuenca',  t:'Desde dónde se verá',             c:'#e8784a', on:0, f:function(v){ VISOR.capa('L-cuenca',v) }}];
+  var ROTS=[
+    {k:'pobs',  t:'Poblaciones y su distancia', on:1},
+    {k:'nareas',t:'Nombres de las áreas protegidas (con su capa)', on:1},
+    {k:'emis',  t:'Lo que el plan de seguimiento no mide', on:0},
+    {k:'norte', t:'Norte y escala', on:1}];
+  var VISTAS=[
+    {t:'General',               c:{th:2.55,ph:0.7,rad:0.86}},
+    {t:'De cerca',              c:{th:-0.32,ph:0.92,rad:0.29}},
+    {t:'Desde el sur, hacia las casas', c:{th:0.05,ph:0.98,rad:0.36,dz:0.06}},
+    {t:'En planta',             c:{th:0,ph:0.04,rad:0.8}}];
+  var on={}, rot={}, viento={m:'pri',r:D.viento.hacia};
+  CAPAS.forEach(function(c){ on[c.k]=!!c.on }); ROTS.forEach(function(r){ rot[r.k]=!!r.on });
+  var camIni={th:-0.45,ph:0.86,rad:0.5,dx:0,dz:0.05}, fovIni=40;
+
+  function leerHash(){
+    var h={}; location.hash.replace(/^#/,'').split('&').forEach(function(p){ var i=p.indexOf('='); if(i>0) h[p.slice(0,i)]=decodeURIComponent(p.slice(i+1)) });
+    if(h.v){ var a=h.v.split(',').map(Number);
+      if(a.length>=5&&a.every(isFinite)){ camIni={th:a[0],ph:a[1],rad:a[2],dx:a[3],dz:a[4]}; if(a[5]) fovIni=Math.max(18,Math.min(75,a[5])) } }
+    if(h.c!=null){ var cs=h.c.split('.'); CAPAS.forEach(function(c){ on[c.k]=cs.indexOf(c.k)>=0 }) }
+    if(h.r!=null){ var rs=h.r.split('.'); ROTS.forEach(function(r){ rot[r.k]=rs.indexOf(r.k)>=0 }) }
+    if(h.w){ var w=h.w.split(':'); if(w[0]==='sec') viento={m:'sec',r:D.viento.sec_hacia};
+      else if(w[0]==='man'&&isFinite(+w[1])) viento={m:'man',r:((Math.round(+w[1]/5)*5)%360+360)%360} }
+  }
+  leerHash();
+  var tHash=0;
+  function hashActual(){
+    var e=VISOR.estado(), v=[e.th,e.ph,e.rad,e.dx,e.dz].map(function(x){ return x.toFixed(3) }).join(',')+','+Math.round(e.fov);
+    return '#v='+v+'&c='+CAPAS.filter(function(c){ return on[c.k] }).map(function(c){ return c.k }).join('.')+
+           '&r='+ROTS.filter(function(r){ return rot[r.k] }).map(function(r){ return r.k }).join('.')+
+           (viento.m==='pri'?'':'&w='+viento.m+(viento.m==='man'?':'+viento.r:''))+(EXAGERA?'&x=1':'');
+  }
+  function guardarHash(){
+    clearTimeout(tHash);
+    tHash=setTimeout(function(){ try{ history.replaceState(null,'',hashActual()) }catch(e2){} },300);
+  }
+
+  /* --- panel --- */
+  function casilla(cont,item,estado,alCambiar){
+    var l=document.createElement('label'); l.className='op';
+    var i=document.createElement('input'); i.type='checkbox'; i.checked=estado[item.k];
+    i.addEventListener('change',function(){ estado[item.k]=i.checked; alCambiar(item,i.checked); guardarHash(); pedirRot() });
+    l.appendChild(i);
+    if(item.c){ var s=document.createElement('span'); s.className='sw'; s.style.background=item.c; l.appendChild(s) }
+    l.appendChild(document.createTextNode(item.t)); cont.appendChild(l);
+  }
+  CAPAS.forEach(function(c){ casilla($('#capas'),c,on,function(it,v){ it.f(v) }) });
+  ROTS.forEach(function(r){ casilla($('#rotulos'),r,rot,function(){}) });
+  VISTAS.forEach(function(V){ var b=document.createElement('button'); b.type='button'; b.textContent=V.t;
+    b.addEventListener('click',function(){ $('#desde').value=''; VISOR.volar(V.c,RM?0.001:1.6) }); $('#vistas').appendChild(b) });
+  var vis={}; (D.cuenca&&D.cuenca.comunidades||[]).forEach(function(c){ vis[c.n]=c.vis });
+  var pobs=(D.barrios||[]).filter(function(b){ return vis[b.n]!=null }).sort(function(a,b){ return a.d-b.d });
+  pobs.forEach(function(b){ var o=document.createElement('option'); o.value=b.n;
+    o.textContent=b.n.replace('Comunidad ','')+' · '+km(b.d); $('#desde').appendChild(o) });
+  $('#desde').addEventListener('change',function(){
+    var b=pobs.filter(function(x){ return x.n===this.value },this)[0]; if(!b) return;
+    var c=VISOR.ojo(b.x,b.y,40); VISOR.volar(c,RM?0.001:2) });
+  var fovIn=$('#fov');
+  fovIn.addEventListener('input',function(){ VISOR.fov(+this.value); $('#fov-v').textContent=this.value+'°'; guardarHash(); pedirRot() });
+  var exa=$('#exa'); exa.checked=EXAGERA;
+  exa.addEventListener('change',function(){
+    clearTimeout(tHash); EXAGERA=exa.checked; var h=hashActual();
+    try{ history.replaceState(null,'',h) }catch(e){ location.hash=h } location.reload() });
+  function km(d){ return d.toFixed(2).replace('.',',')+' km' }
+
+  $('#b-panel').addEventListener('click',function(){
+    var oculto=document.body.classList.toggle('sin-panel');
+    this.setAttribute('aria-pressed',!oculto); this.textContent=oculto?'Mostrar panel':'Ocultar panel'; pedirRot() });
+  var asa=$('#asa');
+  function hoja(baja){ document.body.classList.toggle('hoja-baja',baja); asa.setAttribute('aria-expanded',!baja); pedirRot() }
+  if(angosto()) hoja(true);
+  asa.addEventListener('click',function(){ hoja(!document.body.classList.contains('hoja-baja')) });
+
+  /* --- viento: los mismos tres modos del visor de la principal --- */
+  var bw=[].slice.call(document.querySelectorAll('#vrumbo button')), wr=$('#w-rumbo');
+  function ponerViento(m,r){
+    viento={m:m,r:m==='pri'?D.viento.hacia:m==='sec'?D.viento.sec_hacia:r};
+    if(m==='man'){ var sl=$('#w-dir'); if(sl){ sl.value=viento.r; sl.dispatchEvent(new Event('input')) } }
+    else VISOR.viento(m);
+    bw.forEach(function(b){ b.setAttribute('aria-pressed',String(b.getAttribute('data-w')===m)) });
+    $('#w-fila').hidden=m!=='man'; wr.value=viento.r; $('#w-rumbo-v').textContent=viento.r+'°';
+    $('#w-man-v').textContent=m==='man'?'hacia '+viento.r+'°':'elige';
+    guardarHash(); pedirRot();
+  }
+  bw.forEach(function(b){ b.addEventListener('click',function(){ var m=b.getAttribute('data-w'); ponerViento(m,m==='man'?viento.r:0) }) });
+  wr.addEventListener('input',function(){ ponerViento('man',+this.value) });
+
+  /* --- tamaño de la imagen: veces la resolución de la pantalla, sin pasar lo que la tarjeta gráfica acepta --- */
+  var factor=2;
+  function armarTam(){
+    var w=innerWidth, h=innerHeight, tope=Math.min(VISOR.maxPixeles(), angosto()?4096:8192), cont=$('#tam');
+    cont.innerHTML='';
+    var fs=[1,2,3,4].filter(function(f){ return Math.max(w,h)*f<=tope });
+    if(fs.indexOf(factor)<0) factor=fs[fs.length-1]||1;
+    fs.forEach(function(f){ var b=document.createElement('button'); b.type='button';
+      b.setAttribute('aria-pressed',f===factor);
+      b.innerHTML=f+'×<small>'+Math.round(w*f)+' × '+Math.round(h*f)+'</small>';
+      b.addEventListener('click',function(){ factor=f; armarTam() }); cont.appendChild(b) });
+  }
+
+  /* --- cámara: orbitar, desplazar y acercar, con mouse, teclado y dedos --- */
+  var toque=$('#toque'), punteros={}, ult=null;
+  function cam(){ var e=VISOR.estado(); return {th:e.th,ph:e.ph,rad:e.rad,dx:e.dx,dz:e.dz} }
+  function poner(c){
+    c.ph=Math.max(0.02,Math.min(1.48,c.ph)); c.rad=Math.max(0.03,Math.min(1.6,c.rad));
+    c.dx=Math.max(-0.5,Math.min(0.5,c.dx)); c.dz=Math.max(-0.5,Math.min(0.5,c.dz));
+    VISOR.poner(c);
+    /* la cámara no se mete bajo el cerro: si queda bajo el terreno, se levanta */
+    var I=VISOR.internos(), p=I.cam.position;
+    for(var n=0;n<40;n++){ var u=p.x/I.S+.5, v=-p.z/I.S+.5;
+      if(p.y>(I.hAt(Math.max(0,Math.min(1,u)),Math.max(0,Math.min(1,v)))+12)*I.K()||c.ph<=0.03) break;
+      c.ph-=0.03; VISOR.poner(c); p=I.cam.position }
+    guardarHash(); pedirRot();
+  }
+  function orbitar(ddx,ddy){ var c=cam(); c.th-=ddx*0.005; c.ph-=ddy*0.005; poner(c) }
+  function desplazar(ddx,ddy){
+    var c=cam(), I=VISOR.internos(), h=toque.clientHeight||1;
+    var mpp=c.rad*I.S*2*Math.tan(I.cam.fov*Math.PI/360)/h;
+    /* derecha y adelante de la cámara, sobre el plano */
+    var rx=Math.cos(c.th), rz=-Math.sin(c.th), fx=-Math.sin(c.th), fz=-Math.cos(c.th);
+    var mx=(-ddx*rx+ddy*fx)*mpp, mz=(-ddx*rz+ddy*fz)*mpp;
+    c.dx+=mx/I.S; c.dz-=mz/I.S; poner(c);
+  }
+  function acercar(f){ var c=cam(); c.rad*=f; poner(c) }
+  function lista(){ return Object.keys(punteros).map(function(k){ return punteros[k] }) }
+  function medio(a){ var x=0,y=0; a.forEach(function(p){ x+=p.x/a.length; y+=p.y/a.length }); return {x:x,y:y} }
+  function separacion(a){ return Math.hypot(a[0].x-a[1].x,a[0].y-a[1].y) }
+  toque.addEventListener('pointerdown',function(e){
+    toque.focus({preventScroll:true});
+    try{ toque.setPointerCapture(e.pointerId) }catch(e2){}
+    punteros[e.pointerId]={x:e.clientX,y:e.clientY,b:e.button,s:e.shiftKey||e.ctrlKey||e.metaKey};
+    toque.classList.add('mueve'); ult=null;
+    if(angosto()&&!document.body.classList.contains('hoja-baja')) hoja(true);
+  });
+  toque.addEventListener('pointermove',function(e){
+    var p=punteros[e.pointerId]; if(!p) return;
+    var a=lista();
+    if(a.length===1){
+      var dx=e.clientX-p.x, dy=e.clientY-p.y;
+      if(p.b===2||p.b===1||p.s) desplazar(dx,dy); else orbitar(dx,dy);
+      p.x=e.clientX; p.y=e.clientY; return;
+    }
+    p.x=e.clientX; p.y=e.clientY;
+    var m=medio(a), s=separacion(a);
+    if(ult){ desplazar(m.x-ult.m.x,m.y-ult.m.y); if(s>10&&ult.s>10) acercar(ult.s/s) }
+    ult={m:m,s:s};
+  });
+  function soltar(e){ delete punteros[e.pointerId]; ult=null; if(!lista().length) toque.classList.remove('mueve') }
+  ['pointerup','pointercancel'].forEach(function(n){ toque.addEventListener(n,soltar) });
+  toque.addEventListener('contextmenu',function(e){ e.preventDefault() });
+  toque.addEventListener('wheel',function(e){ e.preventDefault();
+    acercar(Math.exp(Math.max(-1,Math.min(1,e.deltaY*(e.deltaMode?0.05:0.0022))))) },{passive:false});
+  toque.addEventListener('keydown',function(e){
+    var k=e.key, h=true;
+    if(k==='ArrowLeft') orbitar(-24,0); else if(k==='ArrowRight') orbitar(24,0);
+    else if(k==='ArrowUp') orbitar(0,-14); else if(k==='ArrowDown') orbitar(0,14);
+    else if(k==='+'||k==='=') acercar(0.88); else if(k==='-') acercar(1.14);
+    else h=false;
+    if(h) e.preventDefault();
+  });
+
+  /* ===================== rótulos: se dibujan en un lienzo, el mismo dibujo va a la foto ===================== */
+  var lz=$('#rot'), ctx=lz.getContext('2d'), FUENTE="'Fira Sans Condensed','Helvetica Neue',Arial,sans-serif";
+  var ACC='#fb7478';
+  function ajustarLienzo(){ var d=Math.min(devicePixelRatio||1,2); lz.width=Math.round(innerWidth*d); lz.height=Math.round(innerHeight*d) }
+  function proy(v,I,W,H){ var q=v.clone().project(I.cam); return {x:(q.x*.5+.5)*W, y:(-q.y*.5+.5)*H, z:q.z} }
+  function fuente(px,peso){ return (peso||600)+' '+px+'px '+FUENTE }
+  function partir(html){ var i=html.indexOf('<small>'); return i<0?[html,'']:[html.slice(0,i),html.slice(i+7).replace('</small>','')] }
+  /* un texto en varias líneas que no pasen de `max` */
+  function envolver(c,t,max){ var pal=t.split(' '), out=[], cur='';
+    pal.forEach(function(p){ var x=cur?cur+' '+p:p; if(c.measureText(x).width>max&&cur){ out.push(cur); cur=p } else cur=x }); if(cur) out.push(cur); return out }
+  function halo(c,t,x,y,col){ c.lineJoin='round'; c.strokeStyle='rgba(11,13,16,.9)'; c.lineWidth=4; c.strokeText(t,x,y); c.fillStyle=col; c.fillText(t,x,y) }
+
+  /* la disposición se calcula en píxeles CSS de la pantalla; dibujar() la escala */
+  function disponer(W,H){
+    var I=VISOR.internos(), T=I.THREE, K=I.K(), S=I.S, out={pobs:[],areas:[],emis:[],norte:null};
+    var reservas=[];   /* zonas ya ocupadas, en píxeles CSS */
+    function libre(b){ for(var i=0;i<reservas.length;i++){ var r=reservas[i]; if(b[2]>r[0]&&b[0]<r[2]&&b[3]>r[1]&&b[1]<r[3]) return false } return true }
+    ctx.save();
+    /* lo que no se mide: en anillo alrededor del relleno, con la asignación de líneas más cortas */
+    if(rot.emis&&MEJOR.emis){
+      var n=MEJOR.emis.length, pts=MEJOR.emis.map(function(R){ var p=proy(R.p,I,W,H), t=partir(R.el.innerHTML);
+        ctx.font=fuente(14); var l1=envolver(ctx,t[0],180); ctx.font=fuente(12.5,500); var l2=envolver(ctx,t[1],180);
+        var w=0; ctx.font=fuente(14); l1.forEach(function(s){ w=Math.max(w,ctx.measureText(s).width) });
+        ctx.font=fuente(12.5,500); l2.forEach(function(s){ w=Math.max(w,ctx.measureText(s).width) });
+        return {x:p.x,y:p.y,z:p.z,l1:l1,l2:l2,w:w+18,h:l1.length*17+l2.length*15.5+11} });
+      var cx=0,cy=0; pts.forEach(function(a){ cx+=a.x/n; cy+=a.y/n });
+      var lejos=0; pts.forEach(function(a){ lejos=Math.max(lejos,Math.hypot(a.x-cx,(a.y-cy)/.7)) });
+      var chico=W<640, rx=Math.max(chico?95:150,lejos+(chico?45:95)), ry=rx*(chico?.62:.7), puestos=[];
+      for(var k=0;k<n;k++){ var ph=-Math.PI/2+(k+.5)*Math.PI*2/n; puestos.push({x:cx+Math.cos(ph)*rx,y:cy+Math.sin(ph)*ry,der:Math.cos(ph)>=0}) }
+      if(!perms) perms=permutar(n);
+      var mejor=null, cm=1e12;
+      perms.forEach(function(Pm){ var c=0; for(var j=0;j<n;j++) c+=Math.hypot(puestos[Pm[j]].x-pts[j].x,puestos[Pm[j]].y-pts[j].y); if(c<cm){ cm=c; mejor=Pm } });
+      pts.forEach(function(a,j){ if(a.z>=1) return;
+        var q=puestos[mejor[j]], bx=q.der?q.x:q.x-a.w, by=q.y-a.h/2;
+        bx=Math.max(8,Math.min(W-a.w-8,bx)); by=Math.max(8,Math.min(H-a.h-8,by));
+        out.emis.push({a:a,bx:bx,by:by,der:q.der}); reservas.push([bx-4,by-4,bx+a.w+4,by+a.h+4]) });
+    }
+    /* áreas protegidas: el centro del área si cae en pantalla; si no, su punto más cercano al relleno */
+    if(rot.nareas&&on.areas&&MEJOR.rotulos){
+      MEJOR.rotulos.forEach(function(R){
+        var t=partir(R.el.innerHTML), q=null;
+        [R.p,R.p2].some(function(v){ var p=proy(v,I,W,H); if(p.z<1&&p.x>40&&p.x<W-40&&p.y>30&&p.y<H-30){ q=p; return true } });
+        if(!q) return;
+        ctx.font=fuente(14); var w=Math.max(ctx.measureText(t[0]).width,(ctx.font=fuente(12.5,500),ctx.measureText(t[1]).width));
+        var b=[q.x-w/2-4,q.y-18,q.x+w/2+4,q.y+18]; if(!libre(b)) return;
+        reservas.push(b); out.areas.push({x:q.x,y:q.y,t:t}) });
+    }
+    /* poblaciones: el punto siempre que esté en pantalla; el nombre, por cercanía, donde quepa */
+    if(rot.pobs){
+      var lista2=(D.barrios||[]).slice().sort(function(a,b){ return a.d-b.d }), v=new T.Vector3(), con=0;
+      var cupo=W<560?12:26;
+      lista2.forEach(function(b){
+        var u=I.uv(b.x,b.y); if(u[0]<-EA||u[0]>1+EA||u[1]<-EA||u[1]>1+EA) return;
+        v.set(I.wx(u[0]),I.hAt(u[0],u[1])*K+16,I.wz(u[1]));
+        var p=proy(v,I,W,H); if(p.z>=1||p.x<6||p.x>W-6||p.y<6||p.y>H-6) return;
+        out.pobs.push({x:p.x,y:p.y,n:b.n.replace(/^Comunidad /,''),d:km(b.d)+(b.m==='punto'?'*':''),lab:null});
+      });
+      /* los puntos van primero: un nombre no tapa el punto de otra población */
+      out.pobs.forEach(function(it){ reservas.push([it.x-4,it.y-4,it.x+4,it.y+4]) });
+      out.pobs.forEach(function(it){
+        if(con>=cupo) return;
+        var p=it;
+        ctx.font=fuente(13.5); var w1=ctx.measureText(it.n).width; ctx.font=fuente(12.5,500); var w=w1+6+ctx.measureText(it.d).width;
+        var lados=p.x>W*.6?[true,false]:[false,true], DY=[0,-16,16,-30,30];
+        for(var li=0;li<2&&!it.lab;li++) for(var k2=0;k2<DY.length;k2++){
+          var iz=lados[li], x0=iz?p.x-10-w:p.x+10, y0=p.y+DY[k2]-10, bb=[x0-3,y0,x0+w+3,y0+21];
+          if(bb[0]<4||bb[2]>W-4||bb[1]<4||bb[3]>H-4||!libre(bb)) continue;
+          reservas.push(bb); it.lab={x:x0,y:y0+15,w1:w1,w:w,dy:DY[k2],iz:iz}; con++; break }
+      });
+    }
+    ctx.restore();
+    if(rot.norte){
+      var e=VISOR.estado(), o=e.target.clone(), pn=proy(o.clone().add(new T.Vector3(0,0,-1000)),I,W,H), pe=proy(o.clone().add(new T.Vector3(1000,0,0)),I,W,H), po=proy(o,I,W,H);
+      var ang=Math.atan2(pn.x-po.x,-(pn.y-po.y)), px=Math.hypot(pe.x-po.x,pe.y-po.y), mpp=1000/(px||1), Lm=100;
+      [100,200,500,1000,2000,5000].forEach(function(o2){ if(o2/mpp<=130) Lm=o2 });
+      out.norte={ang:ang,largo:Lm/mpp,txt:Lm>=1000?(Lm/1000)+' km':Lm+' m'};
+    }
+    return out;
+  }
+  var perms=null;
+  function permutar(n){ var r=[]; (function p(a,k){ if(k===n){ r.push(a.slice()); return }
+    for(var i=k;i<n;i++){ var t=a[k]; a[k]=a[i]; a[i]=t; p(a,k+1); t=a[k]; a[k]=a[i]; a[i]=t } })(
+    Array.apply(null,{length:n}).map(function(_,i){ return i }),0); return r }
+
+  /* dibuja la disposición `d` en `c`, a `s` píxeles por píxel CSS. `pieH` reserva el pie de la foto */
+  function dibujar(c,d,s,W,H,pieH){
+    c.save(); c.setTransform(s,0,0,s,0,0); c.textBaseline='alphabetic';
+    d.emis.forEach(function(E){ var a=E.a, ex=E.der?E.bx:E.bx+a.w, ly=E.by+a.h/2;
+      c.strokeStyle='rgba(255,255,255,.7)'; c.lineWidth=1; c.beginPath(); c.moveTo(a.x,a.y); c.lineTo(ex,ly); c.stroke();
+      c.fillStyle='rgba(15,17,21,.86)'; c.fillRect(E.bx,E.by,a.w,a.h);
+      c.fillStyle=ACC; c.fillRect(E.der?E.bx:E.bx+a.w-3,E.by,3,a.h);
+      c.textAlign=E.der?'left':'right'; var tx=E.der?E.bx+11:E.bx+a.w-11, y=E.by+16;
+      c.font=fuente(14); c.fillStyle='#fff'; a.l1.forEach(function(t){ c.fillText(t,tx,y); y+=17 });
+      c.font=fuente(12.5,500); c.fillStyle='#dad8d0'; y-=1.5; a.l2.forEach(function(t){ c.fillText(t,tx,y); y+=15.5 });
+      c.beginPath(); c.arc(a.x,a.y,3.5,0,Math.PI*2); c.fillStyle='#fff'; c.fill(); c.lineWidth=2; c.strokeStyle='rgba(15,17,21,.6)'; c.stroke() });
+    c.textAlign='center';
+    d.areas.forEach(function(A){ c.font=fuente(14); halo(c,A.t[0],A.x,A.y-2,'#fff'); c.font=fuente(12.5,500); halo(c,A.t[1],A.x,A.y+13,'#e6e3da') });
+    d.pobs.forEach(function(p){
+      c.beginPath(); c.arc(p.x,p.y,3.2,0,Math.PI*2); c.fillStyle='#fff'; c.fill(); c.lineWidth=1.5; c.strokeStyle='rgba(11,13,16,.85)'; c.stroke() });
+    d.pobs.forEach(function(p){
+      var l=p.lab; if(!l) return;
+      if(l.dy){ c.strokeStyle='rgba(255,255,255,.55)'; c.lineWidth=1; c.beginPath(); c.moveTo(p.x,p.y); c.lineTo(l.iz?l.x+l.w+2:l.x-2,l.y-5); c.stroke() }
+      c.textAlign='left'; c.font=fuente(13.5); halo(c,p.n,l.x,l.y,'#fff');
+      c.font=fuente(12.5,500); halo(c,p.d,l.x+l.w1+6,l.y,'#d8dcd4') });
+    if(d.norte){ var N=d.norte, bx=18, by=H-(pieH||0)-24;
+      /* escala */
+      c.fillStyle='rgba(13,16,20,.6)'; c.fillRect(bx-6,by-22,Math.max(N.largo,40)+60,32);
+      c.strokeStyle='#fbf7ec'; c.lineWidth=2; c.beginPath(); c.moveTo(bx,by-6); c.lineTo(bx,by); c.lineTo(bx+N.largo,by); c.lineTo(bx+N.largo,by-6); c.stroke();
+      c.textAlign='left'; c.font=fuente(12.5,500); c.fillStyle='#fbf7ec'; c.fillText(N.txt,bx+N.largo+8,by);
+      /* norte */
+      var nx=bx+16, ny=by-48; c.save(); c.translate(nx,ny); c.rotate(N.ang);
+      c.beginPath(); c.arc(0,0,15,0,Math.PI*2); c.fillStyle='rgba(13,16,20,.6)'; c.fill(); c.strokeStyle='rgba(251,247,236,.35)'; c.lineWidth=1; c.stroke();
+      c.beginPath(); c.moveTo(0,-10); c.lineTo(4.5,4); c.lineTo(0,1.5); c.lineTo(-4.5,4); c.closePath(); c.fillStyle='#fbf7ec'; c.fill();
+      c.beginPath(); c.moveTo(0,1.5); c.lineTo(4.5,4); c.lineTo(0,12); c.lineTo(-4.5,4); c.closePath(); c.fillStyle='rgba(251,247,236,.32)'; c.fill();
+      c.restore(); c.textAlign='center'; c.font=fuente(11); halo(c,'N',nx+Math.sin(N.ang)*22,ny-Math.cos(N.ang)*22+4,'#fbf7ec') }
+    c.restore();
+  }
+
+  /* el pie de la foto: qué es, de dónde sale y qué no es. No se puede quitar */
+  /* el pie de la foto: qué es, de dónde sale y qué no es. No se puede quitar. En pantallas angostas va una versión
+     compacta, con letra más chica y frases cortas: a 390 px la completa ocupaba casi un cuarto de la imagen. Las dos
+     dicen lo mismo: modelo y no fotografía, la escala, los planos del titular, cómo se mide la distancia, de dónde sale
+     el viento y los créditos de Esri y Mapzen */
+  function pie(compacto){
+    var esc=EXAGERA?'relieve exagerado ×1,6':(compacto?'escala real':'relieve a escala real');
+    var t1=compacto?'Relleno proyectado en El Salto · 30,7 millones de toneladas de basura, simulado':
+                    'Relleno sanitario proyectado en El Salto, Viña del Mar · 30,7 millones de toneladas de basura, simulado';
+    var t2=['Modelo 3D, no fotografía',esc,
+      compacto?'relleno y obras: planos del titular (SEIA 2168892026)':'forma del relleno y obras: planos del titular (EIA, expediente SEIA 2168892026, Anexo 1.5)'];
+    if(rot.pobs) t2.push(compacto?'distancias al deslinde del predio; *, al centro del barrio':
+                                  'distancias en línea recta al deslinde del predio, borde a borde; con *, al centro del barrio (OpenStreetMap)');
+    if(on.pluma){
+      if(viento.m==='man') t2.push('viento: rumbo elegido a mano, hacia '+viento.r+'°, no es del estudio');
+      else t2.push(compacto?'viento '+(viento.m==='pri'?'predominante':'secundario')+' modelado por el titular (Anexo 4.2)':
+                            'viento: rumbo '+(viento.m==='pri'?'predominante':'secundario')+' modelado por el titular (WRF, Anexo 4.2)');
+      t2.push(compacto?'pluma ilustrativa':'pluma ilustrativa, de ±35° (supuesto de esta página)');
+    }
+    t2.push(compacto?'Esri, Maxar, Earthstar Geographics · Mapzen':'imagen: Esri, Maxar, Earthstar Geographics · elevación: Mapzen');
+    t2.push('relleno-el-salto.chacao.workers.dev');
+    return {t1:t1,t2:t2.join(' · '),f1:compacto?13:15,f2:compacto?10.5:12.5,a1:compacto?16:19,a2:compacto?13:16,m:compacto?12:18,pad:compacto?9:14};
+  }
+  function medirPie(c,W){
+    var P=pie(W<600);
+    c.save(); c.font=fuente(P.f1); P.l1=envolver(c,P.t1,W-P.m*2); c.font=fuente(P.f2,500); P.l2=envolver(c,P.t2,W-P.m*2); c.restore();
+    P.h=P.pad+P.l1.length*P.a1+P.l2.length*P.a2+P.pad*.6;
+    return P;
+  }
+  function dibujarPie(c,s,W,H,p){
+    c.save(); c.setTransform(s,0,0,s,0,0);
+    c.fillStyle='rgba(11,13,16,.84)'; c.fillRect(0,H-p.h,W,p.h);
+    c.fillStyle=ACC; c.fillRect(0,H-p.h,p.m>12?4:3,p.h);
+    var y=H-p.h+p.pad+p.f1*.86; c.textAlign='left';
+    c.font=fuente(p.f1); c.fillStyle='#f4f2eb'; p.l1.forEach(function(t){ c.fillText(t,p.m,y); y+=p.a1 });
+    c.font=fuente(p.f2,500); c.fillStyle='#c9cdc6'; y-=2; p.l2.forEach(function(t){ c.fillText(t,p.m,y); y+=p.a2 });
+    c.restore();
+  }
+
+  /* en pantalla, el norte y la escala van sobre el crédito de la imagen y, en celular, sobre la hoja del panel */
+  function margenAbajo(H){
+    var t=H, a=$('.atrib-r').getBoundingClientRect(); if(a.height) t=Math.min(t,a.top);
+    if(angosto()&&!document.body.classList.contains('sin-panel')) t=Math.min(t,$('#panel').getBoundingClientRect().top);
+    return H-t+4;
+  }
+  /* --- el lienzo de rótulos se redibuja solo cuando algo cambió --- */
+  var firma='', pend=false;
+  function pedirRot(){ firma='' }
+  (function bucle(){ requestAnimationFrame(bucle);
+    if(!MEJOR.listo) return;
+    var fd=VISOR.internos().falda; if(fd&&fd.visible) fd.visible=false;   /* la pared del bloque: el entorno la reemplaza */
+    var e=VISOR.estado(), f=[e.th.toFixed(4),e.ph.toFixed(4),e.rad.toFixed(4),e.dx.toFixed(4),e.dz.toFixed(4),e.fov,innerWidth,innerHeight].join('|');
+    if(f===firma) return; firma=f; guardarHash();
+    var W=innerWidth, H=innerHeight, s=lz.width/W;
+    ctx.setTransform(1,0,0,1,0,0); ctx.clearRect(0,0,lz.width,lz.height);
+    dibujar(ctx,disponer(W,H),s,W,H,margenAbajo(H));
+  })();
+
+  /* --- la foto --- */
+  var disp=$('#disparar'), urlFoto=null, blobFoto=null;
+  function sacar(){
+    if(!MEJOR.listo) return;
+    disp.disabled=true;
+    /* dos cuadros para que el botón muestre que trabaja antes de bloquear el hilo */
+    requestAnimationFrame(function(){ requestAnimationFrame(function(){
+      var W=innerWidth, H=innerHeight, r;
+      try{ r=VISOR.captura(factor) }catch(e){ disp.disabled=false; alert('No se pudo generar la imagen en este equipo. Prueba con un tamaño menor.'); return }
+      var c=r.lienzo, x=c.getContext('2d'), s=r.escala;
+      x.font=fuente(15); var pie=medirPie(x,W);
+      dibujar(x,disponer(W,H),s,W,H,pie.h);
+      dibujarPie(x,s,W,H,pie);
+      c.toBlob(function(b){
+        disp.disabled=false;
+        if(!b){ alert('No se pudo generar la imagen en este equipo. Prueba con un tamaño menor.'); return }
+        if(urlFoto) URL.revokeObjectURL(urlFoto);
+        blobFoto=b; urlFoto=URL.createObjectURL(b);
+        $('#lista-img').src=urlFoto; $('#lista-bajar').href=urlFoto;
+        var nom='relleno-el-salto-'+new Date().toISOString().slice(0,10)+'.png'; $('#lista-bajar').download=nom;
+        var comp=$('#lista-comp'), f=null;
+        try{ f=new File([b],nom,{type:'image/png'}) }catch(e){}
+        comp.hidden=!(f&&navigator.canShare&&navigator.canShare({files:[f]}));
+        var txt=textoCompartir(); $('#lista-txt').value=txt; $('#lista-copiar').classList.remove('ok'); $('#lista-copiar').textContent='Copiar texto';
+        comp.onclick=function(){ navigator.share({files:[f],title:'Relleno de El Salto: 30,7 millones de toneladas de basura',
+          text:txt}).catch(function(){}) };
+        $('#lista').hidden=false; $('#lista-cerrar').focus();
+      },'image/png');
+    }) });
+  }
+  disp.addEventListener('click',sacar);
+  /* el texto que acompaña la imagen: qué es, de dónde sale y el enlace a esta misma vista. Sin él, en WhatsApp la
+     imagen circula suelta y quien la recibe no llega a la fuente ni a la observación */
+  var SITIO='https://relleno-el-salto.chacao.workers.dev/';
+  function textoCompartir(){
+    var h=hashActual();
+    var t=['Así se vería el relleno sanitario proyectado en El Salto, Viña del Mar, con sus 30,7 millones de toneladas de basura. '+
+           'Es un modelo 3D hecho con los planos del propio titular (EIA, expediente SEIA 2168892026)'+(EXAGERA?', con el relieve exagerado ×1,6.':', a escala real.'),
+           'Mira esta vista: '+SITIO+'foto'+h];
+    /* el plazo de la participación ciudadana cierra el 3 de noviembre de 2026 */
+    if(new Date()<new Date(2026,10,4)) t.push('Hasta el 3 de noviembre puedes ingresar una observación: '+SITIO+'observaciones');
+    return t.join('\n\n');
+  }
+  /* copiar: primero execCommand (síncrono, dentro del toque: funciona en los WebView), después el portapapeles;
+     si nada funciona, el texto queda seleccionado con instrucciones. Nunca falla en silencio */
+  $('#lista-copiar').addEventListener('click',function(){
+    var ta=$('#lista-txt'), b=this, ok=false;
+    function listo(){ b.classList.add('ok'); b.textContent='Copiado ✓' }
+    ta.focus(); ta.select(); try{ ta.setSelectionRange(0,ta.value.length) }catch(e){}
+    try{ ok=document.execCommand('copy') }catch(e){}
+    if(ok){ listo(); return }
+    if(navigator.clipboard&&navigator.clipboard.writeText) navigator.clipboard.writeText(ta.value).then(listo,function(){ b.textContent='Mantén presionado el texto y copia' });
+    else b.textContent='Mantén presionado el texto y copia';
+  });
+  $('#lista-cerrar').addEventListener('click',function(){ $('#lista').hidden=true; disp.focus() });
+  addEventListener('keydown',function(e){ if(e.key==='Escape'&&!$('#lista').hidden){ $('#lista').hidden=true; disp.focus() } });
+
+  /* ===================== cielo y entorno: que no se vea el borde del bloque =====================
+     Solo esta página. Alrededor del bloque de 10 km, un terreno real más grueso (entorno.py: relieve de Mapzen e
+     imagen de Esri, las mismas fuentes), que se funde en la bruma del horizonte; y un cielo que acompaña a la
+     cámara, con el horizonte siempre en su lugar. */
+  var CIELO={cenit:0x4a7fb8, medio:0x92b8d8, bruma:0xc9d6dc};
+  var EA=2, EN=321;   /* entorno.py: 2 bloques a cada lado, 321 × 321 muestras */
+  function cielo(){
+    var I=VISOR.internos(), T=I.THREE;
+    I.sc.background=new T.Color(CIELO.bruma);
+    var m=new T.Mesh(new T.SphereGeometry(I.S*4.5,32,16),new T.ShaderMaterial({side:T.BackSide,depthWrite:false,depthTest:false,
+      uniforms:{cenit:{value:new T.Color(CIELO.cenit)},medio:{value:new T.Color(CIELO.medio)},bruma:{value:new T.Color(CIELO.bruma)}},
+      vertexShader:'varying vec3 vD; void main(){ vD=position; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.0); }',
+      fragmentShader:['uniform vec3 cenit; uniform vec3 medio; uniform vec3 bruma; varying vec3 vD;',
+        'void main(){ float y=normalize(vD).y;',
+        '  vec3 c=mix(bruma,medio,smoothstep(0.0,0.12,y)); c=mix(c,cenit,smoothstep(0.12,0.6,y));',
+        '  gl_FragColor=vec4(c,1.0); }'].join('\n')}));
+    m.renderOrder=-10; m.frustumCulled=false;
+    m.onBeforeRender=function(r,sc,cam){ m.position.copy(cam.position); m.updateMatrixWorld() };
+    I.sc.add(m);
+    if(MEJOR.niebla) MEJOR.niebla(CIELO.bruma,I.S*2.6);
+  }
+  function entorno(listo){
+    var im=new Image();
+    im.onerror=function(){ listo() };
+    im.onload=function(){
+      var I=VISOR.internos(), T=I.THREE, S=I.S, K=I.K();
+      var c=document.createElement('canvas'); c.width=c.height=EN; var x=c.getContext('2d'); x.drawImage(im,0,0);
+      var d=x.getImageData(0,0,EN,EN).data, E=new Float32Array(EN*EN);
+      for(var q=0;q<EN*EN;q++) E[q]=(d[q*4]*256+d[q*4+1])/16-50;
+      var ext=2*EA+1;
+      /* la altura fuera del bloque, bilineal; dentro manda el modelo del visor */
+      VISOR.fuera(function(u,v){
+        var cc=Math.min(EN-1,Math.max(0,(u+EA)*64)), rr=Math.min(EN-1,Math.max(0,(1+EA-v)*64));
+        var c0=cc|0, r0=rr|0, c1=Math.min(EN-1,c0+1), r1=Math.min(EN-1,r0+1), fc=cc-c0, fr=rr-r0;
+        return (E[r0*EN+c0]*(1-fc)+E[r0*EN+c1]*fc)*(1-fr)+(E[r1*EN+c0]*(1-fc)+E[r1*EN+c1]*fc)*fr });
+      var pos=new Float32Array(EN*EN*3), uvs=new Float32Array(EN*EN*2), idx=[];
+      for(var j=0;j<EN;j++) for(var i=0;i<EN;i++){
+        var k=j*EN+i, u=-EA+i/64, v=1+EA-j/64, h=I.hAt(u,v);
+        /* bajo el bloque, el entorno se hunde: en el borde coincide con el visor y no deja rendijas */
+        var dentro=i>128&&i<192&&j>128&&j<192;
+        pos[k*3]=I.wx(u); pos[k*3+1]=(dentro?h-40:h)*K; pos[k*3+2]=I.wz(v);
+        uvs[k*2]=(u+EA)/ext; uvs[k*2+1]=(v+EA)/ext;
+      }
+      for(var j2=0;j2<EN-1;j2++) for(var i2=0;i2<EN-1;i2++){
+        if(i2>129&&i2<190&&j2>129&&j2<190) continue;   /* bajo el bloque solo queda un anillo de dos celdas */
+        var a=j2*EN+i2, b=a+1, c2=a+EN, d2=c2+1; idx.push(a,c2,b, b,c2,d2) }
+      var g=new T.BufferGeometry(); g.setAttribute('position',new T.BufferAttribute(pos,3)); g.setAttribute('uv',new T.BufferAttribute(uvs,2));
+      g.setIndex(idx); g.computeVertexNormals();
+      var mat=new T.ShaderMaterial({uniforms:{map:{value:null},sol:{value:new T.Vector3(-1,1.5,.7)},bruma:{value:new T.Color(CIELO.bruma)},
+          lejos:{value:S*2.6},borde:{value:S*(EA+.5)}},
+        vertexShader:'varying vec2 vUv; varying vec3 vN; varying vec3 vW; void main(){ vUv=uv; vN=normal; vW=(modelMatrix*vec4(position,1.0)).xyz; gl_Position=projectionMatrix*viewMatrix*vec4(vW,1.0); }',
+        fragmentShader:['uniform sampler2D map; uniform vec3 sol; uniform vec3 bruma; uniform float lejos; uniform float borde;',
+          'varying vec2 vUv; varying vec3 vN; varying vec3 vW;',
+          'void main(){ vec3 c=texture2D(map,vUv).rgb;',
+          '  float l=dot(c,vec3(.299,.587,.114)); c=mix(vec3(l),c,1.14); c=(c-.5)*1.1+.5;',
+          '  vec3 n=normalize(vN); float dif=max(dot(n,normalize(sol)),0.0); float hemi=.5+.5*n.y; c*=(.36*hemi+.86*dif)*1.12;',
+          '  float d=distance(vW,cameraPosition); float f=smoothstep(lejos*.22,lejos,d)*.6;',
+          /* hacia el borde del entorno, todo bruma: el cuadrado grande tampoco se ve */
+          '  f=max(f,smoothstep(borde*.62,borde*.97,max(abs(vW.x),abs(vW.z))));',
+          '  gl_FragColor=vec4(mix(clamp(c,0.0,1.0),bruma,f),1.0); }'].join('\n')});
+      var m=new T.Mesh(g,mat); m.renderOrder=-1; I.sc.add(m);
+      var src=angosto()||(devicePixelRatio||1)*Math.max(innerWidth,innerHeight)<1500?(WEBP?'entorno-1024.webp':'entorno-1024.jpg'):'entorno.jpg';
+      new T.TextureLoader().load(src,function(tex){
+        tex.anisotropy=I.ren.capabilities.getMaxAnisotropy?I.ren.capabilities.getMaxAnisotropy():1;
+        tex.minFilter=T.LinearMipmapLinearFilter; mat.uniforms.map.value=tex; pedirRot() });
+      listo();
+    };
+    im.src='entorno-altura.png';
+  }
+
+  /* --- arranque --- */
+  function inicio(){
+    if(!mantoListo){ alManto.push(inicio); return }
+    try{ mejorarEscena() }catch(e){ VISOR.capa('L-masa',true); if(window.console) console.warn('capas del modo foto:',e) }
+    cielo();
+    entorno(seguir);
+  }
+  function seguir(){
+    VISOR.capa('L-barrios',false);   /* las poblaciones se rotulan en el lienzo, para que salgan en la foto */
+    VISOR.anio(ANIO); MEJOR.actualizarMasa(ANIO);
+    CAPAS.forEach(function(c){ c.f(on[c.k]) });
+    ponerViento(viento.m,viento.r);
+    VISOR.fov(fovIni); fovIn.value=fovIni; $('#fov-v').textContent=fovIni+'°';
+    poner(Object.assign({dx:0,dz:0},camIni));
+    ajustarLienzo(); armarTam();
+    var fuentes=document.fonts&&document.fonts.load?Promise.all([fuente(14),fuente(12.5,500),fuente(11)].map(function(f){ return document.fonts.load(f) })):Promise.resolve();
+    fuentes.then(pedirRot,pedirRot);
+    requestAnimationFrame(function(){ document.body.classList.add('listo') });
+  }
+  addEventListener('resize',function(){ ajustarLienzo(); armarTam(); pedirRot() });
+  if(window.VISOR&&VISOR.listo) inicio(); else addEventListener('visor-listo',inicio);
+  setTimeout(function(){ document.body.classList.add('listo') },9000);
+})();
+})();
+</script>

@@ -33,7 +33,7 @@ propios documentos del titular. Cuidar eso vale más que cualquier cifra adicion
 python3 build.py        # src/ → index.html (valida sintaxis con node si está)
 ```
 
-`index.html`, `observaciones.html`, `especies.html`, `relato.html` y `tramite.html` son **generados** (y `que-puede-pasar.html`, que solo redirige a `tramite.html`: fue el nombre anterior): no los edites a mano, se
+`index.html`, `observaciones.html`, `especies.html`, `relato.html`, `foto.html` y `tramite.html` son **generados** (y `que-puede-pasar.html`, que solo redirige a `tramite.html`: fue el nombre anterior): no los edites a mano, se
 sobreescriben. Edita `src/`.
 
 La segunda página —el recorrido del expediente y sus desenlaces— sale de `src/plazos.html`.
@@ -51,6 +51,8 @@ páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 | `src/datos.json` | el bundle completo (~255 KB), se inyecta en el marcador |
 | `src/social.html` | etiquetas Open Graph, Twitter y JSON-LD; `{url}` lo reemplaza build.py |
 | `src/social-img.html` | plantilla de `social.jpg` (1200×630). Se renderiza con Chrome headless, ver abajo |
+| `src/escena.js` | la escena «vestida» que comparten el relato y el modo foto: satélite, masa escalonada, obras, áreas protegidas y rótulos. Se empalma en el marcador `/*__ESCENA_JS__*/` dentro del IIFE de cada página, y usa `P`, `WEBP` y `angosto` de su ámbito |
+| `src/foto.html` | el modo foto, ver abajo |
 | `src/plazos.html` | la vista «Qué puede pasar»: mapa del procedimiento y sus desenlaces |
 | `src/especies.html` | las especies afectadas, una tarjeta `.esp` por especie con foto en `especies/`. `build.py` falla si una foto no existe o si hay menos créditos (`.cred`) que fotos |
 | `src/observaciones.html` | las observaciones fundadas: cita textual, documento y página PDF, contradicción y pedido; se eligen y se arma un solo texto. Cada `.pide` de la principal enlaza a su `#obs-…` y `build.py` falla si el ancla no existe |
@@ -122,7 +124,7 @@ encabezado; si lo vuelves a correr, compara con los perfiles del plano antes de 
   ahora `.pila`. Cuidado al nombrar clases nuevas. Pasó otra vez con `.bq`: la barra de
   quemado de la tabla del incendio (110 × 10 px) encogía el encabezado del buscador del
   expediente, que ahora es `.bqh`. Antes de crear una clase, búscala con `grep -n "\.nombre\b"`. Y una tercera vez con `.seg` (segmento de la columna del
-  subsuelo contra el selector «Mapa | Satélite», que ahora es `.vseg`).
+  subsuelo contra el selector «Mapa | Satélite», que ahora es `.vseg`). Y una cuarta con `.viento` (el panel de la rosa contra el selector de rumbo del modo foto, que es `.vrumbo`): las páginas que heredan el CSS de la plantilla, como el relato y el modo foto, también chocan.
 - **Colisión de nombres entre los tres scripts:** comparten un solo IIFE, así que una
   `function nueva(){}` que choque con un `var` ya existente se pierde en silencio —el `var`
   la pisa al asignarse— y sólo falla al pulsar el control. Pasó con `modo`, que ya era el
@@ -196,6 +198,41 @@ pocos cientos de metros entre sí y en pantalla se enciman, así que `anillo()` 
 una elipse alrededor del relleno (en celular, en dos columnas entre el botón y la tarjeta) y prueba
 las 720 asignaciones para quedarse con la de líneas más cortas, que no se cruzan. Si agregas un
 rótulo, son 5.040: sigue siendo barato, pero mide.
+
+## El modo foto (`foto.html`)
+
+La escena del relato a pantalla completa, **siempre en el año 25** (sin la animación del llenado: eso queda
+solo en el relato), con cámara libre (girar, desplazar con dos dedos, clic derecho o Mayús, acercar con rueda
+o pellizco), vistas prefijadas, «mirar desde una población» (`VISOR.ojo`), lente, capas y rótulos, y un botón
+que descarga un PNG de 1× a 4× la pantalla. El estado va en la dirección (`#v=…&c=…&r=…`) para compartir un
+encuadre. Es `noindex` y no va al sitemap: es una herramienta, no contenido.
+
+- **Los rótulos no son HTML:** se dibujan en un lienzo 2D (`#rot`) con la misma función que después pinta la
+  foto, así lo que se ve es lo que sale. Los rótulos HTML que crea `escena.js` se ocultan con CSS en esta página.
+- **La captura** (`VISOR.captura(f)`) sube la densidad del renderer, dibuja un cuadro, lo copia a un lienzo 2D y
+  restaura: el tamaño en CSS no cambia, así que la proyección y la posición de cada rótulo son las de la
+  pantalla. El tope es `VISOR.maxPixeles()` (y 4.096 px en celular).
+- **El pie de la imagen no se puede quitar:** qué es (año 25 simulado, modelo 3D y no fotografía, relieve ×1,6),
+  de dónde sale la forma (planos del titular, Anexo 1.5) y los créditos de Esri/Maxar y Mapzen. Una imagen que
+  circule sin su fuente es justo lo que permite descartar el sitio como activismo.
+- **El viento:** predominante, secundario o manual, con los mismos botones ocultos del visor (`VISOR.viento`, `#w-dir`). Si la capa de gases está encendida, el pie dice de dónde sale el rumbo: del modelo del titular o elegido a mano, y que la pluma es ilustrativa.
+- `VISOR.estado()`, `VISOR.fov()`, `VISOR.captura()` y `VISOR.maxPixeles()` existen solo para esta página.
+- **Escala real por defecto.** Una imagen con el relieve exagerado es lo primero que el titular puede descalificar.
+  «Exagerar el relieve ×1,6» agrega `&x=1` a la dirección y **recarga**: la masa, las obras y el entorno se arman con
+  `K()` al cargar, así que no se puede cambiar en caliente. `window.VISOR_EXAGERA=false` (antes del visor) es lo que
+  hace arrancar a `v3d.js` en escala real; la principal y el relato no lo definen y siguen en ×1,6. El pie de la foto
+  dice cuál de las dos es.
+- **Texto para compartir:** junto a la foto lista va un texto (qué es, que sale de los planos del titular, la escala,
+  el enlace a esa misma vista y, hasta el 3 de noviembre, el enlace a las observaciones). Se copia con las mismas
+  reglas que `observaciones.html`: `execCommand`, luego el portapapeles, y si nada funciona queda seleccionado con
+  instrucciones. También va en «Compartir».
+- **Sin el borde del bloque:** alrededor del bloque de 10 km va un entorno real de 51 km (`entorno-altura.png`,
+  `entorno.jpg` y sus variantes de 1024 px), hecho por `entorno.py` con las mismas fuentes (Mapzen z12, Esri z13) y el
+  mismo marco u, v del visor (u de −2 a 3). Bajo el bloque se hunde 40 m y en su borde toma la altura del visor, así que
+  no deja rendijas; hacia afuera se funde en la bruma, del mismo color que el horizonte del cielo (una esfera que sigue
+  a la cámara). `VISOR.fuera(f)` hace que `hAt` use el entorno fuera del bloque y rehace las capas; `MEJOR.niebla`
+  iguala la bruma del satélite y de la masa. La pared del bloque (`falda`) se oculta. El entorno se pide solo aquí.
+  `entorno.py` necesita pillow y numpy, y deja las teselas en una carpeta temporal.
 
 ## SEO, buscadores con respuestas y motores generativos
 

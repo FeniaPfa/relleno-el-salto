@@ -14,9 +14,11 @@ function uv(lon,lat){return [(lon-M.lon0)/(M.lon1-M.lon0),(my(lat)-MY0)/(MY1-MY0
 function wx(u){return (u-0.5)*S}
 function wz(v){return -(v-0.5)*S}
 
-var EX=1.6, exOn=true, K=function(){return exOn?EX:1};
-var H=null;
+/* el modo foto puede arrancar a escala real (window.VISOR_EXAGERA=false); la principal y el relato no lo tocan */
+var EX=1.6, exOn=window.VISOR_EXAGERA!==false, K=function(){return exOn?EX:1};
+var H=null, HF=null;   /* HF: la altura fuera del bloque; solo la pone el modo foto */
 function hAt(u,v){
+  if(HF&&(u<0||u>1||v<0||v>1)) return HF(u,v);
   if(!H) return 0;
   var c=Math.min(N-1,Math.max(0,u*(N-1))), r=Math.min(N-1,Math.max(0,(1-v)*(N-1)));
   var c0=c|0,r0=r|0,c1=Math.min(N-1,c0+1),r1=Math.min(N-1,r0+1),fc=c-c0,fr=r-r0;
@@ -1161,7 +1163,26 @@ var VISOR=window.VISOR={
     return {th:Math.atan2(dx,dz), ph:Math.atan2(hd,dy), rad:Math.hypot(hd,dy)/S};
   },
   troncal:function(on){ if(on&&!troncal) troncal=crearTroncal(); if(troncal) troncal.visible=!!on; firmaAnt='' },
-  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' }
+  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' },
+  /* --- solo el modo foto --- */
+  /* la cámara actual, en los mismos términos que poner(); y el punto que mira, para la escala */
+  estado:function(){ var cx=wx(centroU[0]), cz=wz(centroU[1]);
+    return {th:th, ph:ph, rad:rad/S, dx:(target.x-cx)/S, dz:-(target.z-cz)/S, fov:cam.fov, target:target.clone()} },
+  fov:function(v){ cam.fov=v; cam.updateProjectionMatrix(); firmaAnt='' },
+  /* dibuja un cuadro a `f` veces la densidad de la pantalla y lo devuelve en un lienzo 2D. El tamaño en CSS no
+     cambia: la proyección, y por lo tanto dónde cae cada rótulo, es la misma que se ve */
+  captura:function(f){
+    var pr=ren.getPixelRatio(), w=cv.clientWidth, h=cv.clientHeight;
+    ren.setPixelRatio(f); resize();
+    ren.render(sc,cam);
+    var c=document.createElement('canvas'); c.width=ren.domElement.width; c.height=ren.domElement.height;
+    c.getContext('2d').drawImage(ren.domElement,0,0);
+    ren.setPixelRatio(pr); resize(); ren.render(sc,cam); firmaAnt='';
+    return {lienzo:c, escala:c.width/w, w:w, h:h};
+  },
+  /* la altura fuera del bloque (el entorno del modo foto): las capas se rehacen para apoyarse en ella */
+  fuera:function(f){ HF=f; construirCapas(); firmaAnt='' },
+  maxPixeles:function(){ var g=ren.getContext(); return Math.min(g.getParameter(g.MAX_RENDERBUFFER_SIZE),g.getParameter(g.MAX_TEXTURE_SIZE)) }
 };
 
 /* pausa: detiene y oculta las partículas; con «reducir movimiento» del sistema arranca pausado */
