@@ -234,6 +234,13 @@ encuadre. Es `noindex` y no va al sitemap: es una herramienta, no contenido.
   iguala la bruma del satélite y de la masa. La pared del bloque (`falda`) se oculta. El entorno se pide solo aquí.
   `entorno.py` necesita pillow y numpy, y deja las teselas en una carpeta temporal.
 
+**La maqueta de la principal** (`#maqueta`, después de las cinco cifras) es un esquema oblicuo **sin relieve**: el predio
+como placa, las zonas del proyecto con la paleta del mapa de «Dónde está» y las obras de `obras.json` con su altura a la
+misma escala del plano (no hay exageración; solo el galpón de reciclaje tiene altura declarada). La genera `maqueta.py`
+en `src/maqueta.svg` —dos vistas: apaisada con rótulos y vertical con números y lista para celular— y `build.py` la
+inyecta en `<!--__MAQUETA__-->`. Va en línea para que siga el modo claro u oscuro. Si cambian las zonas o las obras, vuelve
+a correr `maqueta.py`. La vista «Maqueta: las obras» del modo foto es la versión 3D sobre el terreno.
+
 ## SEO, buscadores con respuestas y motores generativos
 
 - Las **preguntas frecuentes** (`<aside class="faq">` antes del pie) son la fuente única: `build.py`
@@ -265,6 +272,13 @@ de la portada o el estado del plazo, hay que regenerarla y **cambiar la versión
   "file://$PWD/src/social-img.html"
 sips -s format jpeg -s formatOptions 82 /tmp/social.png --out social.jpg
 ```
+
+**Cada página tiene su imagen** (con su propio `?v=N` en su `og:image` y `twitter:image`): `social-observaciones.jpg`,
+`social-tramite.jpg` y `social-especies.jpg` salen de la misma plantilla con `?p=observaciones`, `?p=tramite` o
+`?p=especies` en la dirección del comando de arriba. `social-3d.jpg` (relato y modo foto) es una foto del modo foto a
+1200 × 630 con la vista «Maqueta», `#v=-0.620,0.780,0.165,0.002,0.012,40&c=obras.deslinde.areas&r=nobras.norte`, y lleva su
+pie. La de observaciones dice el conteo («23 observaciones»): si cambia, regenérala y sube su versión. La foto de especies
+lleva el crédito y la licencia dentro de la imagen, porque al compartirla se separa de la página.
 
 ## Rásters: variantes WebP
 
@@ -318,6 +332,11 @@ En escritorio no interviene.
   salió de pantalla; se esconde sobre `#observar` y el pie. Su alto real (`--barra-h`, por
   `ResizeObserver`) reserva el espacio de abajo y el `scroll-padding`, porque con letra grande del
   sistema llegó a medir 167 px.
+- **Navegación (2026-10-25).** El índice va en tres grupos (Actuar, Ver, El análisis). Cuando el índice sale de
+  pantalla aparece arriba la barra `.ubic`: la sección actual, «Índice ▾» (abre `.pnl`, una copia del índice) y «↑».
+  En celular se esconde al bajar y vuelve al subir, para no sumar otra franja fija a la `.barra-cta`. Al final de cada
+  sección numerada va `.secfin` (↑ Índice · Siguiente). Barra y pies se arman en JS con el orden real de las
+  secciones, así que `reordenar.py` no los descuadra; el índice estático sí hay que reordenarlo a mano.
 - **El acceso al relato** va después de los hallazgos, con botón de contorno, y su fondo es
   `relato-cta.webp` (34 KB), no la textura de 605 KB.
 - **Pendientes que el comité dejó** (requieren reestructurar, van en otro PR): cargar Three.js y los

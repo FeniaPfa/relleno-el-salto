@@ -1,7 +1,8 @@
 <!doctype html><html lang="es"><head><meta charset="utf-8">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@600&family=Libre+Franklin:wght@400;600&display=swap">
 <style>
-/* Plantilla de la imagen social (1200×630). Se renderiza con Chrome headless; ver CLAUDE.md. */
+/* Plantilla de las imágenes sociales (1200×630). Se renderiza con Chrome headless; ver CLAUDE.md.
+   Sin parámetro es la de la principal (social.jpg); ?p=observaciones, ?p=tramite y ?p=especies dan las de esas páginas. */
 html,body{margin:0;width:1200px;height:630px;overflow:hidden;background:#14161a}
 .f{position:absolute;inset:0;background:url(../paisaje.jpg) center 40%/cover}
 .v{position:absolute;inset:0;background:linear-gradient(90deg,rgba(14,16,20,.86) 0%,rgba(14,16,20,.72) 60%,rgba(14,16,20,.55) 100%)}
@@ -11,9 +12,56 @@ p{position:absolute;left:64px;top:290px;margin:0;font:400 29px/1.45 'Libre Frank
 .k{position:absolute;left:64px;top:462px;border-left:5px solid #e1676b;padding-left:18px}
 .k b{display:block;font:600 19px/1.3 'Libre Franklin',system-ui,sans-serif;color:#e1676b;letter-spacing:.04em;text-transform:uppercase}
 .k span{display:block;font:400 19px/1.5 'Libre Franklin',system-ui,sans-serif;color:#b9b7af}
+.metro{position:absolute;left:64px;top:300px;width:1070px;height:120px}
+.metro .ln{position:absolute;left:10px;right:10px;top:20px;height:6px;background:#8c8f94}
+.metro .ln i{position:absolute;left:0;top:0;bottom:0;width:30%;background:#e1676b}
+.metro .st{position:absolute;top:8px;width:250px;margin-left:-12px}
+.metro .st::before{content:"";display:block;width:22px;height:22px;border-radius:50%;background:#14161a;border:5px solid #8c8f94;box-sizing:border-box;margin-bottom:12px}
+.metro .st.hoy::before{border-color:#e1676b;background:#e1676b}
+.metro .st b{display:block;font:600 17px/1.3 'Libre Franklin',system-ui,sans-serif;color:#b9b7af;letter-spacing:.04em;text-transform:uppercase}
+.metro .st span{display:block;font:600 24px/1.25 'Libre Franklin',system-ui,sans-serif;color:#f5f1e6}
+.metro .st.hoy b{color:#e1676b}
+.foto{position:absolute;right:0;top:0;bottom:0;width:520px;background-size:cover;background-position:center}
+.foto .cr{position:absolute;left:0;right:0;bottom:0;padding:12px 16px;background:rgba(14,16,20,.82);font:400 16px/1.4 'Libre Franklin',system-ui,sans-serif;color:#d8d6cf}
+.foto .cr b{color:#f5f1e6;font-weight:600}
 </style></head><body>
 <div class="f"></div><div class="v"></div><div class="c"></div>
 <h1>Lo que dice el expediente del relleno de El Salto</h1>
 <p>El titular ubica casas a 676 metros, hacia donde sopla el viento predominante. De 23 causales, reconoce un solo efecto significativo.</p>
 <div class="k"><b>Plazo para observar · 3 de noviembre de 2026</b><span>Expediente SEIA 2168892026 · Análisis geoespacial independiente</span></div>
+<script>
+/* variantes por página: se cambia el texto, y en especies la foto ocupa la derecha */
+(function(){
+  var p=new URLSearchParams(location.search).get('p'), $=function(s){return document.querySelector(s)};
+  if(p==='observaciones'){
+    $('h1').textContent='23 observaciones fundadas, listas para copiar';
+    $('p').textContent='Cada una cita el expediente del propio titular, con documento y página, y termina en lo que el titular tiene que responder en la Adenda.';
+    $('.k span').textContent='Elige, agrega tu población y cópiala · Expediente SEIA 2168892026';
+  }
+  if(p==='tramite'){
+    $('h1').textContent='Qué puede pasar con el relleno, y cuándo';
+    $('p').remove();
+    var m=document.createElement('div'); m.className='metro';
+    m.innerHTML='<div class="ln"><i></i></div>'+
+      '<div class="st" style="left:0"><b>27 jul 2026</b><span>Ingreso</span></div>'+
+      '<div class="st hoy" style="left:30%"><b>Hasta el 3 nov</b><span>Participación ciudadana</span></div>'+
+      '<div class="st" style="left:58%"><b>Sin fecha</b><span>Preguntas y Adenda</span></div>'+
+      '<div class="st" style="left:84%"><b>Después</b><span>Vota la Comisión</span></div>';
+    document.body.appendChild(m);
+    $('.k b').textContent='Solo quien observa puede reclamar después';
+    $('.k span').textContent='Ley 19.300, art. 29 · Expediente SEIA 2168892026';
+  }
+  if(p==='especies'){
+    $('.f').style.background='#14161a';
+    $('.v').style.background='none';
+    $('h1').textContent='Las especies que el relleno afectaría'; $('h1').style.width='600px'; $('h1').style.fontSize='64px';
+    $('p').textContent='Orquídeas en peligro crítico, palma chilena, zorro culpeo y reptiles: lo que el propio estudio registra donde irían las obras.';
+    $('p').style.width='560px'; $('p').style.top='300px'; $('p').style.fontSize='26px';
+    $('.k').style.top='478px'; $('.k span').style.width='560px';
+    var f=document.createElement('div'); f.className='foto'; f.style.backgroundImage='url(../especies/chloraea-disoides.webp)';
+    f.innerHTML='<div class="cr"><b>Orquídea del género Chloraea</b> · En Peligro Crítico<br>Foto: David Gutiérrez, CC BY 4.0 (iNaturalist)</div>';
+    document.body.appendChild(f);
+  }
+})();
+</script>
 </body></html>
