@@ -239,6 +239,11 @@ def css_principal(h):
             return m.group(0)
     raise ValueError('sin CSS principal')
 
+def escena_js():
+    """La escena «vestida» (satélite, masa escalonada, obras, rótulos) que comparten el relato y el modo foto.
+    Se empalma dentro del IIFE de cada página: usa D, L, VISOR, P, WEBP y angosto de su ámbito."""
+    return leer('escena.js').rstrip('\n')
+
 def relato(h, visor_js):
     """relato.html: el recorrido con scroll. Reutiliza el visor del terreno tal cual:
     su marcado, su CSS, su código y los datos salen de las mismas fuentes que la principal."""
@@ -247,7 +252,8 @@ def relato(h, visor_js):
     pg = pg.replace('{fecha_iso}', fecha_iso())
     for marca, valor in (('<!--__FUENTES__-->', fuentes(h)), ('<!--__CSS__-->', css_principal(h)),
                          ('<!--__VISOR_HTML__-->', bloque_div(h, '<div class="v3">')),
-                         ('/*__VISOR_JS__*/', visor_js), ('/*__DATOS__*/', leer('datos.json'))):
+                         ('/*__VISOR_JS__*/', visor_js), ('  /*__ESCENA_JS__*/', escena_js()),
+                         ('/*__DATOS__*/', leer('datos.json'))):
         assert pg.count(marca) == 1, 'marcador ausente en relato.html: ' + marca
         pg = pg.replace(marca, valor)
     destino = os.path.join(AQUI, 'relato.html')
