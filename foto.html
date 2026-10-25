@@ -1083,6 +1083,9 @@ body.sin-panel .panel-f{display:none}
 .lista .sec{background:transparent;color:#e8e6df;border:1px solid #6b7480}
 .lista p{margin:0;font-family:var(--cart);font-size:14px;color:#c9cdc6;text-align:center;max-width:560px;line-height:1.4}
 .lista :focus-visible{outline:2px solid #8fb8d4;outline-offset:2px}
+.lista textarea{width:min(100%,640px);flex:none;resize:none;font-family:var(--cart);font-size:14.5px;line-height:1.4;color:#e8e6df;
+  background:#14181c;border:1px solid #39413c;border-radius:2px;padding:8px 10px}
+.lista #lista-copiar.ok{border-color:#8fbf8a;color:#cfe8cb}
 
 /* ---- celular: el panel es una hoja que sube desde abajo ---- */
 @media(max-width:760px){
@@ -1112,7 +1115,8 @@ body.sin-panel .panel-f{display:none}
   .lista{background:#0b0d10;justify-content:flex-start;padding:12px 12px calc(12px + env(safe-area-inset-bottom))}
   .lista img{flex:1 1 auto;min-height:0;max-height:none;width:100%;border:0;background:transparent}
   .lista .acc{width:100%;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px}
-  .lista .acc .bajar,.lista #lista-comp[hidden]+#lista-cerrar{grid-column:1/-1}
+  .lista .acc .bajar,.lista #lista-cerrar,.lista #lista-comp[hidden]+#lista-copiar{grid-column:1/-1}
+  .lista textarea{width:100%;font-size:14px}
   .lista .acc a,.lista .acc button{justify-content:center}
   .lista p{font-size:13.5px}
 }
@@ -1245,6 +1249,8 @@ body.sin-panel .panel-f{display:none}
   <label for="desde" class="vh">Mirar desde una población</label>
   <select id="desde" style="margin-top:8px"><option value="">Mirar desde una población…</option></select>
   <div class="fila" style="margin-top:8px"><label for="fov">Lente</label><input type="range" id="fov" min="18" max="75" step="1" value="40"><span class="val" id="fov-v">40°</span></div>
+  <label class="op"><input type="checkbox" id="exa">Exagerar el relieve ×1,6</label>
+  <p class="ayuda">A escala real la imagen es la que el titular no puede objetar. Exagerar ayuda a leer el relieve desde arriba; la foto lo dice en el pie.</p>
   <p class="ayuda"><span class="ancho">Arrastra para girar. Desplaza con clic derecho o Mayús + arrastre. Acerca con la rueda.</span><span class="angosto">Un dedo gira; dos dedos desplazan y, al pellizcar, acercan.</span></p>
 
   <h2>Capas</h2>
@@ -1266,7 +1272,7 @@ body.sin-panel .panel-f{display:none}
 
   <h2>Tamaño de la imagen</h2>
   <div class="tam" id="tam" role="group" aria-label="Tamaño de la imagen"></div>
-  <p class="nota">El relleno se muestra siempre con sus <b>30,7 millones de toneladas de basura</b>, con el relieve exagerado ×1,6. La imagen lleva al pie los créditos
+  <p class="nota">El relleno se muestra siempre con sus <b>30,7 millones de toneladas de basura</b>. La imagen lleva al pie los créditos
   y la fuente; no se pueden quitar.</p>
 </aside>
 
@@ -1275,12 +1281,15 @@ body.sin-panel .panel-f{display:none}
 
 <div class="lista" id="lista" hidden role="dialog" aria-modal="true" aria-label="Tu imagen">
   <img id="lista-img" alt="Captura del modelo 3D del relleno de El Salto con 30,7 millones de toneladas de basura">
+  <label for="lista-txt" class="vh">Texto para acompañar la imagen</label>
+  <textarea id="lista-txt" readonly rows="5"></textarea>
   <div class="acc">
     <a class="bajar" id="lista-bajar" download="relleno-el-salto.png">Descargar imagen</a>
     <button type="button" class="sec" id="lista-comp" hidden>Compartir</button>
+    <button type="button" class="sec" id="lista-copiar">Copiar texto</button>
     <button type="button" class="sec" id="lista-cerrar">Volver</button>
   </div>
-  <p id="lista-nota">Si en tu celular no se descarga, mantén presionada la imagen y elige «Guardar imagen».</p>
+  <p id="lista-nota">Si en tu celular no se descarga, mantén presionada la imagen y elige «Guardar imagen». El texto lleva el enlace a esta misma vista.</p>
 </div>
 
 <script src="lib/three.r128.min.js"></script>
@@ -1308,6 +1317,9 @@ function bboxOf(geom,acc){
   return acc;
 }
 var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
+/* escala real salvo que la dirección pida exagerar (&x=1): la masa, las obras y el entorno se arman con K() al cargar,
+   así que cambiarla recarga la página */
+var EXAGERA=/[#&]x=1(&|$)/.test(location.hash); window.VISOR_EXAGERA=EXAGERA;
 
 /* ================= visor 3D del terreno ================= */
 (function(){
@@ -1325,7 +1337,8 @@ function uv(lon,lat){return [(lon-M.lon0)/(M.lon1-M.lon0),(my(lat)-MY0)/(MY1-MY0
 function wx(u){return (u-0.5)*S}
 function wz(v){return -(v-0.5)*S}
 
-var EX=1.6, exOn=true, K=function(){return exOn?EX:1};
+/* el modo foto puede arrancar a escala real (window.VISOR_EXAGERA=false); la principal y el relato no lo tocan */
+var EX=1.6, exOn=window.VISOR_EXAGERA!==false, K=function(){return exOn?EX:1};
 var H=null, HF=null;   /* HF: la altura fuera del bloque; solo la pone el modo foto */
 function hAt(u,v){
   if(HF&&(u<0||u>1||v<0||v>1)) return HF(u,v);
@@ -3142,16 +3155,15 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
   }
   leerHash();
   var tHash=0;
+  function hashActual(){
+    var e=VISOR.estado(), v=[e.th,e.ph,e.rad,e.dx,e.dz].map(function(x){ return x.toFixed(3) }).join(',')+','+Math.round(e.fov);
+    return '#v='+v+'&c='+CAPAS.filter(function(c){ return on[c.k] }).map(function(c){ return c.k }).join('.')+
+           '&r='+ROTS.filter(function(r){ return rot[r.k] }).map(function(r){ return r.k }).join('.')+
+           (viento.m==='pri'?'':'&w='+viento.m+(viento.m==='man'?':'+viento.r:''))+(EXAGERA?'&x=1':'');
+  }
   function guardarHash(){
     clearTimeout(tHash);
-    tHash=setTimeout(function(){
-      var e=VISOR.estado();
-      var v=[e.th,e.ph,e.rad,e.dx,e.dz].map(function(x){ return x.toFixed(3) }).join(',')+','+Math.round(e.fov);
-      var h='#v='+v+'&c='+CAPAS.filter(function(c){ return on[c.k] }).map(function(c){ return c.k }).join('.')+
-            '&r='+ROTS.filter(function(r){ return rot[r.k] }).map(function(r){ return r.k }).join('.')+
-            (viento.m==='pri'?'':'&w='+viento.m+(viento.m==='man'?':'+viento.r:''));
-      try{ history.replaceState(null,'',h) }catch(e2){}
-    },300);
+    tHash=setTimeout(function(){ try{ history.replaceState(null,'',hashActual()) }catch(e2){} },300);
   }
 
   /* --- panel --- */
@@ -3176,6 +3188,10 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     var c=VISOR.ojo(b.x,b.y,40); VISOR.volar(c,RM?0.001:2) });
   var fovIn=$('#fov');
   fovIn.addEventListener('input',function(){ VISOR.fov(+this.value); $('#fov-v').textContent=this.value+'°'; guardarHash(); pedirRot() });
+  var exa=$('#exa'); exa.checked=EXAGERA;
+  exa.addEventListener('change',function(){
+    clearTimeout(tHash); EXAGERA=exa.checked; var h=hashActual();
+    try{ history.replaceState(null,'',h) }catch(e){ location.hash=h } location.reload() });
   function km(d){ return d.toFixed(2).replace('.',',')+' km' }
 
   $('#b-panel').addEventListener('click',function(){
@@ -3394,7 +3410,7 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
 
   /* el pie de la foto: qué es, de dónde sale y qué no es. No se puede quitar */
   var PIE1='Relleno sanitario proyectado en El Salto, Viña del Mar · 30,7 millones de toneladas de basura, simulado';
-  var PIE2=['Modelo 3D, no fotografía','relieve exagerado ×1,6','forma del relleno y obras: planos del titular (EIA, expediente SEIA 2168892026, Anexo 1.5)',
+  var PIE2=['Modelo 3D, no fotografía',EXAGERA?'relieve exagerado ×1,6':'relieve a escala real','forma del relleno y obras: planos del titular (EIA, expediente SEIA 2168892026, Anexo 1.5)',
             'imagen: Esri, Maxar, Earthstar Geographics','elevación: Mapzen','relleno-el-salto.chacao.workers.dev'];
   /* si se ve el viento, el pie dice de dónde sale el rumbo: del modelo del titular o elegido a mano */
   function pieViento(){
@@ -3462,13 +3478,37 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
         var comp=$('#lista-comp'), f=null;
         try{ f=new File([b],nom,{type:'image/png'}) }catch(e){}
         comp.hidden=!(f&&navigator.canShare&&navigator.canShare({files:[f]}));
+        var txt=textoCompartir(); $('#lista-txt').value=txt; $('#lista-copiar').classList.remove('ok'); $('#lista-copiar').textContent='Copiar texto';
         comp.onclick=function(){ navigator.share({files:[f],title:'Relleno de El Salto: 30,7 millones de toneladas de basura',
-          text:'Modelo 3D del relleno proyectado en El Salto · '+location.origin+location.pathname}).catch(function(){}) };
+          text:txt}).catch(function(){}) };
         $('#lista').hidden=false; $('#lista-cerrar').focus();
       },'image/png');
     }) });
   }
   disp.addEventListener('click',sacar);
+  /* el texto que acompaña la imagen: qué es, de dónde sale y el enlace a esta misma vista. Sin él, en WhatsApp la
+     imagen circula suelta y quien la recibe no llega a la fuente ni a la observación */
+  var SITIO='https://relleno-el-salto.chacao.workers.dev/';
+  function textoCompartir(){
+    var h=hashActual();
+    var t=['Así se vería el relleno sanitario proyectado en El Salto, Viña del Mar, con sus 30,7 millones de toneladas de basura. '+
+           'Es un modelo 3D hecho con los planos del propio titular (EIA, expediente SEIA 2168892026)'+(EXAGERA?', con el relieve exagerado ×1,6.':', a escala real.'),
+           'Mira esta vista: '+SITIO+'foto'+h];
+    /* el plazo de la participación ciudadana cierra el 3 de noviembre de 2026 */
+    if(new Date()<new Date(2026,10,4)) t.push('Hasta el 3 de noviembre puedes ingresar una observación: '+SITIO+'observaciones');
+    return t.join('\n\n');
+  }
+  /* copiar: primero execCommand (síncrono, dentro del toque: funciona en los WebView), después el portapapeles;
+     si nada funciona, el texto queda seleccionado con instrucciones. Nunca falla en silencio */
+  $('#lista-copiar').addEventListener('click',function(){
+    var ta=$('#lista-txt'), b=this, ok=false;
+    function listo(){ b.classList.add('ok'); b.textContent='Copiado ✓' }
+    ta.focus(); ta.select(); try{ ta.setSelectionRange(0,ta.value.length) }catch(e){}
+    try{ ok=document.execCommand('copy') }catch(e){}
+    if(ok){ listo(); return }
+    if(navigator.clipboard&&navigator.clipboard.writeText) navigator.clipboard.writeText(ta.value).then(listo,function(){ b.textContent='Mantén presionado el texto y copia' });
+    else b.textContent='Mantén presionado el texto y copia';
+  });
   $('#lista-cerrar').addEventListener('click',function(){ $('#lista').hidden=true; disp.focus() });
   addEventListener('keydown',function(e){ if(e.key==='Escape'&&!$('#lista').hidden){ $('#lista').hidden=true; disp.focus() } });
 

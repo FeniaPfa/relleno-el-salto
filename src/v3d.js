@@ -14,7 +14,8 @@ function uv(lon,lat){return [(lon-M.lon0)/(M.lon1-M.lon0),(my(lat)-MY0)/(MY1-MY0
 function wx(u){return (u-0.5)*S}
 function wz(v){return -(v-0.5)*S}
 
-var EX=1.6, exOn=true, K=function(){return exOn?EX:1};
+/* el modo foto puede arrancar a escala real (window.VISOR_EXAGERA=false); la principal y el relato no lo tocan */
+var EX=1.6, exOn=window.VISOR_EXAGERA!==false, K=function(){return exOn?EX:1};
 var H=null, HF=null;   /* HF: la altura fuera del bloque; solo la pone el modo foto */
 function hAt(u,v){
   if(HF&&(u<0||u>1||v<0||v>1)) return HF(u,v);

@@ -217,7 +217,15 @@ encuadre. Es `noindex` y no va al sitemap: es una herramienta, no contenido.
   circule sin su fuente es justo lo que permite descartar el sitio como activismo.
 - **El viento:** predominante, secundario o manual, con los mismos botones ocultos del visor (`VISOR.viento`, `#w-dir`). Si la capa de gases está encendida, el pie dice de dónde sale el rumbo: del modelo del titular o elegido a mano, y que la pluma es ilustrativa.
 - `VISOR.estado()`, `VISOR.fov()`, `VISOR.captura()` y `VISOR.maxPixeles()` existen solo para esta página.
-- El relieve exagerado es fijo: la masa, las obras y las áreas se construyen con `K()` al armar la escena.
+- **Escala real por defecto.** Una imagen con el relieve exagerado es lo primero que el titular puede descalificar.
+  «Exagerar el relieve ×1,6» agrega `&x=1` a la dirección y **recarga**: la masa, las obras y el entorno se arman con
+  `K()` al cargar, así que no se puede cambiar en caliente. `window.VISOR_EXAGERA=false` (antes del visor) es lo que
+  hace arrancar a `v3d.js` en escala real; la principal y el relato no lo definen y siguen en ×1,6. El pie de la foto
+  dice cuál de las dos es.
+- **Texto para compartir:** junto a la foto lista va un texto (qué es, que sale de los planos del titular, la escala,
+  el enlace a esa misma vista y, hasta el 3 de noviembre, el enlace a las observaciones). Se copia con las mismas
+  reglas que `observaciones.html`: `execCommand`, luego el portapapeles, y si nada funciona queda seleccionado con
+  instrucciones. También va en «Compartir».
 - **Sin el borde del bloque:** alrededor del bloque de 10 km va un entorno real de 51 km (`entorno-altura.png`,
   `entorno.jpg` y sus variantes de 1024 px), hecho por `entorno.py` con las mismas fuentes (Mapzen z12, Esri z13) y el
   mismo marco u, v del visor (u de −2 a 3). Bajo el bloque se hunde 40 m y en su borde toma la altura del visor, así que
