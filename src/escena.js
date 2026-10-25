@@ -367,6 +367,18 @@
       var CH=OBRAS.chimeneas, ci=new T.InstancedMesh(new T.CylinderGeometry(.7,.7,6,8),new T.MeshLambertMaterial({color:0xe8e4da}),CH.length);
       ci.instanceMatrix.setUsage(T.DynamicDrawUsage); obras.add(ci);
       MEJOR.chim={m:ci,p:CH.map(function(c){ var u=uv(c[0],c[1]); return {x:wx(u[0]),z:wz(u[1]),u:u[0],v:u[1]} })};
+      /* anclas de los rótulos de las obras (modo foto): el centro de cada conjunto, sobre su punto más alto */
+      var cen=function(pts){ var x=0,z=0,h=0; pts.forEach(function(q){ x+=q.x; z+=q.z; h=Math.max(h,q.h) }); return {x:x/pts.length,z:z/pts.length,h:h} };
+      var V3=function(q,dy){ return new T.Vector3(q.x,(q.h+dy)*K(),q.z) };
+      /* las piscinas: en la más grande, para que el punto caiga sobre el agua y no entre las dos */
+      var pis=OBRAS.piscinas.slice().sort(function(a,b){ return b.borde.length-a.borde.length })[0].borde.map(function(c){ var q=XZ(c); q.h=Math.max(q.h,c[2]); return q });
+      var ptl=OBRAS.edificios.filter(function(E){ return /^Planta tratamiento lixiviados/.test(E.n) }).map(function(E){ return cen(E.p.map(XZ)) });
+      var gal=OBRAS.edificios.filter(function(E){ return !E.esq })[0];
+      MEJOR.anclasObras=[
+        {t:'Piscinas de lixiviados',s:'dos, del plano 3.6',p:V3(cen(pis),2)},
+        ptl.length?{t:'Planta de lixiviados',s:'edificios esquemáticos',p:V3(cen(ptl),5)}:null,
+        {t:'Antorchas de biogás',s:'cuatro, de 8,2 m (plano 10.2)',p:V3(cen(A.p.map(XZ)),9)},
+        gal?{t:gal.n,s:'8 m de alto, declarados',p:V3(cen(gal.p.map(XZ)),9)}:null].filter(Boolean);
     }
     MEJOR.obras=obras;
 

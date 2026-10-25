@@ -274,6 +274,31 @@ details.plegado>summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;
   font-variant-numeric:lining-nums}
 .pasos b{font-weight:600}
 /* acceso al recorrido narrado */
+.maqueta{margin:34px 0 0;padding:16px 18px 14px;background:var(--surf);border:1px solid var(--line);border-radius:3px}
+.maq-k{margin:0 0 6px;font-family:var(--cart);font-size:13.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink3)}
+.mq{display:block;width:100%;height:auto}
+.mq-alto,.mq-lista{display:none}
+@media(max-width:600px){ .mq-ancho{display:none} .mq-alto{display:block} .mq-lista{display:block} .maqueta{padding:12px 12px 10px} }
+.mq-base{fill:var(--surf2);stroke:var(--line);stroke-width:1}
+.mq-base-l{fill:var(--sunk);stroke:var(--line);stroke-width:.6}
+.mq-agua{fill:#4fa9d6}
+.mq-agua-b{fill:var(--blue);fill-opacity:.3;stroke:var(--blue);stroke-width:1}
+.mq-ed-t,.mq-gal-t{fill:#e2ded3;stroke:#77736a;stroke-width:.5} .mq-gal-t{fill:#f6f3ec}
+.mq-ed-a,.mq-gal-a{fill:#9e998e} .mq-ed-b,.mq-gal-b{fill:#bdb8ad}
+.mq-ant{stroke:var(--ink);stroke-width:2.6;stroke-linecap:round} .mq-ant-c{fill:var(--warn)}
+.mq-chi{stroke:var(--ink);stroke-width:1.5;stroke-linecap:round}
+.mq-r{fill:var(--surf);stroke:var(--line);stroke-width:1}
+.mq-t{fill:var(--ink);font-family:var(--cart);font-weight:600}
+.mq-s{fill:var(--ink2);font-family:var(--cart);font-weight:500}
+.mq-l{stroke:var(--ink2);stroke-width:1} .mq-p{fill:var(--ink);stroke:var(--surf);stroke-width:1.5}
+.mq-n{fill:var(--ink)} .mq-esc{fill:none;stroke:var(--ink);stroke-width:1.6}
+.mq-nb{fill:var(--ink)} .mq-nt{fill:var(--surf);font-family:var(--cart);font-weight:700}
+.mq-lista{margin:10px 0 0;padding-left:22px;font-family:var(--cart);font-size:15px;line-height:1.5;color:var(--ink2)}
+.mq-lista b{color:var(--ink)}
+.maq-leg{display:flex;flex-wrap:wrap;gap:4px 16px;margin:10px 0 0;font-family:var(--cart);font-size:14px;color:var(--ink2)}
+.maq-leg i{display:inline-block;width:12px;height:12px;margin-right:6px;vertical-align:-1px;border-radius:2px}
+.maqueta figcaption{margin:10px 0 0;max-width:78ch;font-size:15px;line-height:1.55;color:var(--ink2)}
+.maqueta .maq-ir{display:inline-block;padding:4px 0;color:var(--acc);font-weight:600;white-space:nowrap}
 .relato-cta{display:grid;grid-template-columns:1fr auto;gap:4px 24px;align-items:center;margin:26px 0 0;padding:16px 20px;
   text-decoration:none;color:#f1efe8;border-radius:2px;position:relative;overflow:hidden;
   background:linear-gradient(90deg,rgba(14,16,20,.92) 0%,rgba(14,16,20,.7) 55%,rgba(14,16,20,.35) 100%),
@@ -1110,6 +1135,25 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
   <span class="rc-t">¿Te preocupa alguno de estos puntos? Hay 23 observaciones listas para copiar, cada una con la página del expediente que la respalda.</span>
   <span class="rc-a">Armar mi observación →</span>
 </a>
+
+<figure class="maqueta" id="maqueta">
+  <p class="maq-k">Lo que se construiría · esquema sin relieve</p>
+  <!--__MAQUETA__-->
+  <div class="maq-leg">
+    <span><i style="background:var(--acc);opacity:.55"></i>Disposición de residuos · 51,34 ha</span>
+    <span><i style="background:var(--ink2);opacity:.4"></i>Instalaciones · 12,69 ha</span>
+    <span><i style="background:var(--ink3);opacity:.35"></i>Plataformas · 11,99 ha</span>
+    <span><i style="background:var(--blue);opacity:.8"></i>Tratamiento de lixiviados · 3,48 ha</span>
+    <span><i style="background:var(--green);opacity:.7"></i>Cortafuego · 2,79 ha</span>
+    <span><i style="background:var(--green);opacity:.5"></i>Compostaje · 1,19 ha</span>
+    <span><i style="background:var(--ink);opacity:.5"></i>Reciclaje · 0,39 ha</span>
+    <span><i style="background:var(--warn);opacity:.85"></i>Biogás · 0,25 ha</span>
+  </div>
+  <figcaption>Las zonas y las obras del proyecto, con los polígonos y planos del titular (Anexo 1.5: piscinas en el plano 3.6,
+  chimeneas en el 10.1 y antorchas en el 10.2), sobre el predio de 206 ha. Las alturas van a la misma escala que el plano:
+  solo el galpón de reciclaje tiene altura declarada (8 m); el resto es esquemático. No muestra el relieve ni la masa de
+  residuos, que al año 25 llega a la cota 350. <a href="foto.html#v=-0.620,0.780,0.165,0.002,0.012,40&amp;c=obras.deslinde.areas&amp;r=nobras.norte" class="maq-ir">Verla en 3D sobre el terreno →</a></figcaption>
+</figure>
 
 <a class="relato-cta" href="relato.html">
   <span class="rc-k">Nuevo · el recorrido en 3D</span>
