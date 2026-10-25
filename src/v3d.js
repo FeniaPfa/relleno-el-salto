@@ -1161,7 +1161,24 @@ var VISOR=window.VISOR={
     return {th:Math.atan2(dx,dz), ph:Math.atan2(hd,dy), rad:Math.hypot(hd,dy)/S};
   },
   troncal:function(on){ if(on&&!troncal) troncal=crearTroncal(); if(troncal) troncal.visible=!!on; firmaAnt='' },
-  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' }
+  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' },
+  /* --- solo el modo foto --- */
+  /* la cámara actual, en los mismos términos que poner(); y el punto que mira, para la escala */
+  estado:function(){ var cx=wx(centroU[0]), cz=wz(centroU[1]);
+    return {th:th, ph:ph, rad:rad/S, dx:(target.x-cx)/S, dz:-(target.z-cz)/S, fov:cam.fov, target:target.clone()} },
+  fov:function(v){ cam.fov=v; cam.updateProjectionMatrix(); firmaAnt='' },
+  /* dibuja un cuadro a `f` veces la densidad de la pantalla y lo devuelve en un lienzo 2D. El tamaño en CSS no
+     cambia: la proyección, y por lo tanto dónde cae cada rótulo, es la misma que se ve */
+  captura:function(f){
+    var pr=ren.getPixelRatio(), w=cv.clientWidth, h=cv.clientHeight;
+    ren.setPixelRatio(f); resize();
+    ren.render(sc,cam);
+    var c=document.createElement('canvas'); c.width=ren.domElement.width; c.height=ren.domElement.height;
+    c.getContext('2d').drawImage(ren.domElement,0,0);
+    ren.setPixelRatio(pr); resize(); ren.render(sc,cam); firmaAnt='';
+    return {lienzo:c, escala:c.width/w, w:w, h:h};
+  },
+  maxPixeles:function(){ var g=ren.getContext(); return Math.min(g.getParameter(g.MAX_RENDERBUFFER_SIZE),g.getParameter(g.MAX_TEXTURE_SIZE)) }
 };
 
 /* pausa: detiene y oculta las partículas; con «reducir movimiento» del sistema arranca pausado */

@@ -60,6 +60,7 @@ def main():
     observaciones(h)
     especies(h)
     relato(h, v)
+    foto(h, v)
     sitemap()
     solo_produccion()
 
@@ -244,21 +245,31 @@ def escena_js():
     Se empalma dentro del IIFE de cada página: usa D, L, VISOR, P, WEBP y angosto de su ámbito."""
     return leer('escena.js').rstrip('\n')
 
-def relato(h, visor_js):
-    """relato.html: el recorrido con scroll. Reutiliza el visor del terreno tal cual:
-    su marcado, su CSS, su código y los datos salen de las mismas fuentes que la principal."""
-    pg = leer('relato.html')
-    assert pg.count('{fecha_iso}') == 1, 'fecha ausente en el JSON-LD de relato.html'
-    pg = pg.replace('{fecha_iso}', fecha_iso())
+def con_visor(n, h, visor_js):
+    """Las páginas que reutilizan el visor del terreno tal cual (relato.html y foto.html): su marcado, su CSS,
+    su código, la escena vestida y los datos salen de las mismas fuentes que la principal."""
+    pg = leer(n)
     for marca, valor in (('<!--__FUENTES__-->', fuentes(h)), ('<!--__CSS__-->', css_principal(h)),
                          ('<!--__VISOR_HTML__-->', bloque_div(h, '<div class="v3">')),
                          ('/*__VISOR_JS__*/', visor_js), ('  /*__ESCENA_JS__*/', escena_js()),
                          ('/*__DATOS__*/', leer('datos.json'))):
-        assert pg.count(marca) == 1, 'marcador ausente en relato.html: ' + marca
+        assert pg.count(marca) == 1, 'marcador ausente en %s: %s' % (n, marca)
         pg = pg.replace(marca, valor)
-    destino = os.path.join(AQUI, 'relato.html')
+    destino = os.path.join(AQUI, n)
     io.open(destino, 'w', encoding='utf-8').write(pg)
-    print('relato.html  %.1f KB' % (os.path.getsize(destino) / 1024))
+    print('%s  %.1f KB' % (n, os.path.getsize(destino) / 1024))
+
+def relato(h, visor_js):
+    """relato.html: el recorrido con scroll."""
+    assert leer('relato.html').count('{fecha_iso}') == 1, 'fecha ausente en el JSON-LD de relato.html'
+    con_visor('relato.html', h, visor_js)
+    destino = os.path.join(AQUI, 'relato.html')
+    pg = io.open(destino, encoding='utf-8').read()
+    io.open(destino, 'w', encoding='utf-8').write(pg.replace('{fecha_iso}', fecha_iso(), 1))
+
+def foto(h, visor_js):
+    """foto.html: el modo foto. La misma escena del relato, en el año 25, con cámara libre y captura."""
+    con_visor('foto.html', h, visor_js)
 
 # GitHub Pages publica la rama dev como copia de prueba, y Cloudflare publica main. Los dos sirven
 # los mismos archivos, así que el «no indexar» se decide al cargar, según el dominio: en github.io
@@ -269,7 +280,7 @@ NO_INDEXAR_DEV = ('<script>/* copia de prueba en GitHub Pages (rama dev): que lo
     "[].forEach.call(document.querySelectorAll('meta[name=robots]'),function(x){x.content='noindex,nofollow'})})}</script>\n")
 
 def solo_produccion():
-    for n in ('index.html', 'observaciones.html', 'especies.html', 'relato.html', 'tramite.html', 'que-puede-pasar.html'):
+    for n in ('index.html', 'observaciones.html', 'especies.html', 'relato.html', 'foto.html', 'tramite.html', 'que-puede-pasar.html'):
         ruta = os.path.join(AQUI, n)
         pg = io.open(ruta, encoding='utf-8').read()
         marca = '<meta charset="utf-8">\n'

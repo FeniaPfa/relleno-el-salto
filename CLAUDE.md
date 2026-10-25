@@ -33,7 +33,7 @@ propios documentos del titular. Cuidar eso vale más que cualquier cifra adicion
 python3 build.py        # src/ → index.html (valida sintaxis con node si está)
 ```
 
-`index.html`, `observaciones.html`, `especies.html`, `relato.html` y `tramite.html` son **generados** (y `que-puede-pasar.html`, que solo redirige a `tramite.html`: fue el nombre anterior): no los edites a mano, se
+`index.html`, `observaciones.html`, `especies.html`, `relato.html`, `foto.html` y `tramite.html` son **generados** (y `que-puede-pasar.html`, que solo redirige a `tramite.html`: fue el nombre anterior): no los edites a mano, se
 sobreescriben. Edita `src/`.
 
 La segunda página —el recorrido del expediente y sus desenlaces— sale de `src/plazos.html`.
@@ -51,6 +51,8 @@ páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 | `src/datos.json` | el bundle completo (~255 KB), se inyecta en el marcador |
 | `src/social.html` | etiquetas Open Graph, Twitter y JSON-LD; `{url}` lo reemplaza build.py |
 | `src/social-img.html` | plantilla de `social.jpg` (1200×630). Se renderiza con Chrome headless, ver abajo |
+| `src/escena.js` | la escena «vestida» que comparten el relato y el modo foto: satélite, masa escalonada, obras, áreas protegidas y rótulos. Se empalma en el marcador `/*__ESCENA_JS__*/` dentro del IIFE de cada página, y usa `P`, `WEBP` y `angosto` de su ámbito |
+| `src/foto.html` | el modo foto, ver abajo |
 | `src/plazos.html` | la vista «Qué puede pasar»: mapa del procedimiento y sus desenlaces |
 | `src/especies.html` | las especies afectadas, una tarjeta `.esp` por especie con foto en `especies/`. `build.py` falla si una foto no existe o si hay menos créditos (`.cred`) que fotos |
 | `src/observaciones.html` | las observaciones fundadas: cita textual, documento y página PDF, contradicción y pedido; se eligen y se arma un solo texto. Cada `.pide` de la principal enlaza a su `#obs-…` y `build.py` falla si el ancla no existe |
@@ -196,6 +198,25 @@ pocos cientos de metros entre sí y en pantalla se enciman, así que `anillo()` 
 una elipse alrededor del relleno (en celular, en dos columnas entre el botón y la tarjeta) y prueba
 las 720 asignaciones para quedarse con la de líneas más cortas, que no se cruzan. Si agregas un
 rótulo, son 5.040: sigue siendo barato, pero mide.
+
+## El modo foto (`foto.html`)
+
+La escena del relato a pantalla completa, **siempre en el año 25** (sin la animación del llenado: eso queda
+solo en el relato), con cámara libre (girar, desplazar con dos dedos, clic derecho o Mayús, acercar con rueda
+o pellizco), vistas prefijadas, «mirar desde una población» (`VISOR.ojo`), lente, capas y rótulos, y un botón
+que descarga un PNG de 1× a 4× la pantalla. El estado va en la dirección (`#v=…&c=…&r=…`) para compartir un
+encuadre. Es `noindex` y no va al sitemap: es una herramienta, no contenido.
+
+- **Los rótulos no son HTML:** se dibujan en un lienzo 2D (`#rot`) con la misma función que después pinta la
+  foto, así lo que se ve es lo que sale. Los rótulos HTML que crea `escena.js` se ocultan con CSS en esta página.
+- **La captura** (`VISOR.captura(f)`) sube la densidad del renderer, dibuja un cuadro, lo copia a un lienzo 2D y
+  restaura: el tamaño en CSS no cambia, así que la proyección y la posición de cada rótulo son las de la
+  pantalla. El tope es `VISOR.maxPixeles()` (y 4.096 px en celular).
+- **El pie de la imagen no se puede quitar:** qué es (año 25 simulado, modelo 3D y no fotografía, relieve ×1,6),
+  de dónde sale la forma (planos del titular, Anexo 1.5) y los créditos de Esri/Maxar y Mapzen. Una imagen que
+  circule sin su fuente es justo lo que permite descartar el sitio como activismo.
+- `VISOR.estado()`, `VISOR.fov()`, `VISOR.captura()` y `VISOR.maxPixeles()` existen solo para esta página.
+- El relieve exagerado es fijo: la masa, las obras y las áreas se construyen con `K()` al armar la escena.
 
 ## SEO, buscadores con respuestas y motores generativos
 

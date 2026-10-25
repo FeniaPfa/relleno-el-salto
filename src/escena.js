@@ -208,6 +208,7 @@
     var cinta=new T.Mesh(new T.TubeGeometry(new T.CatmullRomCurve3(pts,true),pts.length*4,3,5,true),
       new T.MeshBasicMaterial({color:0xf6f3ea,transparent:true,opacity:.9}));
     cinta.renderOrder=5; sc.add(cinta);
+    MEJOR.cinta=cinta;
 
     /* ---------- piscinas de lixiviados: agua a nivel ---------- */
     var Lx=!OBRAS&&L.lixiviados&&L.lixiviados.g;

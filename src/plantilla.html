@@ -289,6 +289,7 @@ details.plegado>summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;
 .obs-cta{background:var(--surf);color:var(--ink);border:1px solid var(--line);border-left:3px solid var(--acc);margin:28px 0 6px}
 .obs-cta .rc-k{color:var(--acc)} .obs-cta .rc-t{color:var(--ink);font-size:clamp(17px,2vw,19px);font-weight:500;font-family:var(--txt);line-height:1.5}
 .tg-relato{text-decoration:none;display:inline-flex;align-items:center;gap:6px;border-color:var(--acc)!important}
+.tg-foto{text-decoration:none;display:inline-flex;align-items:center}
 .faq{margin-top:64px;max-width:72ch}
 .faq h2{font-size:26px;line-height:1.2;font-weight:600;letter-spacing:-.01em;padding-bottom:10px;
   border-bottom:1px solid var(--bistre);margin-bottom:10px}
@@ -430,7 +431,7 @@ body.con-full{overflow:hidden}
 .v3.full .v3bar .lbl{display:none}
 .v3.full .toggles{width:100%}
 .v3.full .toggles>*{flex:0 0 auto}
-.v3.full .tg-relato{display:none}
+.v3.full .tg-relato,.v3.full .tg-foto{display:none}
 .v3.full .cv{flex:1 1 auto;aspect-ratio:auto;min-height:0;height:auto;touch-action:none}
 .v3.full>.tl,.v3.full>.pie{display:none}
 @media(max-width:900px){ .v3.full>.ctrl{display:none} }
@@ -1180,6 +1181,7 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
           <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
         </span>
         <a class="tg tg-relato" href="relato.html"><span aria-hidden="true">▶</span> Recorrido narrado</a>
+        <a class="tg tg-foto" href="foto.html">Modo foto</a>
         <span class="orb" role="group" aria-label="Simulación y cámara">
           <button class="tg ic" id="b-sim" aria-label="Pausar la simulación del viento" title="Pausar la simulación del viento"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg></button>
           <button class="tg ic" data-orb="izq" aria-label="Girar a la izquierda" title="Girar a la izquierda"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 12a8 8 0 1 0 2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>

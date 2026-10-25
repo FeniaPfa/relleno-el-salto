@@ -18,7 +18,7 @@
 <link rel="icon" href="icono.svg" type="image/svg+xml">
 <link rel="icon" href="icono-48.png" sizes="48x48" type="image/png">
 <link rel="apple-touch-icon" href="icono-180.png">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-10-24","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-10-25","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
 <link rel="preload" as="script" href="lib/three.r128.min.js">
 <link rel="preload" as="image" href="altura.png">
 <link rel="preload" as="image" href="flujo.png">
@@ -307,6 +307,7 @@ details.plegado>summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;
 .obs-cta{background:var(--surf);color:var(--ink);border:1px solid var(--line);border-left:3px solid var(--acc);margin:28px 0 6px}
 .obs-cta .rc-k{color:var(--acc)} .obs-cta .rc-t{color:var(--ink);font-size:clamp(17px,2vw,19px);font-weight:500;font-family:var(--txt);line-height:1.5}
 .tg-relato{text-decoration:none;display:inline-flex;align-items:center;gap:6px;border-color:var(--acc)!important}
+.tg-foto{text-decoration:none;display:inline-flex;align-items:center}
 .faq{margin-top:64px;max-width:72ch}
 .faq h2{font-size:26px;line-height:1.2;font-weight:600;letter-spacing:-.01em;padding-bottom:10px;
   border-bottom:1px solid var(--bistre);margin-bottom:10px}
@@ -448,7 +449,7 @@ body.con-full{overflow:hidden}
 .v3.full .v3bar .lbl{display:none}
 .v3.full .toggles{width:100%}
 .v3.full .toggles>*{flex:0 0 auto}
-.v3.full .tg-relato{display:none}
+.v3.full .tg-relato,.v3.full .tg-foto{display:none}
 .v3.full .cv{flex:1 1 auto;aspect-ratio:auto;min-height:0;height:auto;touch-action:none}
 .v3.full>.tl,.v3.full>.pie{display:none}
 @media(max-width:900px){ .v3.full>.ctrl{display:none} }
@@ -1236,6 +1237,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
           <button class="tg" id="b-sat" aria-pressed="false">Satélite</button>
         </span>
         <a class="tg tg-relato" href="relato.html"><span aria-hidden="true">▶</span> Recorrido narrado</a>
+        <a class="tg tg-foto" href="foto.html">Modo foto</a>
         <span class="orb" role="group" aria-label="Simulación y cámara">
           <button class="tg ic" id="b-sim" aria-label="Pausar la simulación del viento" title="Pausar la simulación del viento"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg></button>
           <button class="tg ic" data-orb="izq" aria-label="Girar a la izquierda" title="Girar a la izquierda"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M4 12a8 8 0 1 0 2.3-5.6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M4 4v5h5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
@@ -2800,7 +2802,24 @@ var VISOR=window.VISOR={
     return {th:Math.atan2(dx,dz), ph:Math.atan2(hd,dy), rad:Math.hypot(hd,dy)/S};
   },
   troncal:function(on){ if(on&&!troncal) troncal=crearTroncal(); if(troncal) troncal.visible=!!on; firmaAnt='' },
-  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' }
+  correr:function(fx,fy){ corrX=fx||0; corrY=fy||0; resize(); firmaAnt='' },
+  /* --- solo el modo foto --- */
+  /* la cámara actual, en los mismos términos que poner(); y el punto que mira, para la escala */
+  estado:function(){ var cx=wx(centroU[0]), cz=wz(centroU[1]);
+    return {th:th, ph:ph, rad:rad/S, dx:(target.x-cx)/S, dz:-(target.z-cz)/S, fov:cam.fov, target:target.clone()} },
+  fov:function(v){ cam.fov=v; cam.updateProjectionMatrix(); firmaAnt='' },
+  /* dibuja un cuadro a `f` veces la densidad de la pantalla y lo devuelve en un lienzo 2D. El tamaño en CSS no
+     cambia: la proyección, y por lo tanto dónde cae cada rótulo, es la misma que se ve */
+  captura:function(f){
+    var pr=ren.getPixelRatio(), w=cv.clientWidth, h=cv.clientHeight;
+    ren.setPixelRatio(f); resize();
+    ren.render(sc,cam);
+    var c=document.createElement('canvas'); c.width=ren.domElement.width; c.height=ren.domElement.height;
+    c.getContext('2d').drawImage(ren.domElement,0,0);
+    ren.setPixelRatio(pr); resize(); ren.render(sc,cam); firmaAnt='';
+    return {lienzo:c, escala:c.width/w, w:w, h:h};
+  },
+  maxPixeles:function(){ var g=ren.getContext(); return Math.min(g.getParameter(g.MAX_RENDERBUFFER_SIZE),g.getParameter(g.MAX_TEXTURE_SIZE)) }
 };
 
 /* pausa: detiene y oculta las partículas; con «reducir movimiento» del sistema arranca pausado */
@@ -3294,6 +3313,7 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     var cinta=new T.Mesh(new T.TubeGeometry(new T.CatmullRomCurve3(pts,true),pts.length*4,3,5,true),
       new T.MeshBasicMaterial({color:0xf6f3ea,transparent:true,opacity:.9}));
     cinta.renderOrder=5; sc.add(cinta);
+    MEJOR.cinta=cinta;
 
     /* ---------- piscinas de lixiviados: agua a nivel ---------- */
     var Lx=!OBRAS&&L.lixiviados&&L.lixiviados.g;
