@@ -273,6 +273,13 @@ de la portada o el estado del plazo, hay que regenerarla y **cambiar la versión
 sips -s format jpeg -s formatOptions 82 /tmp/social.png --out social.jpg
 ```
 
+**Cada página tiene su imagen** (con su propio `?v=N` en su `og:image` y `twitter:image`): `social-observaciones.jpg`,
+`social-tramite.jpg` y `social-especies.jpg` salen de la misma plantilla con `?p=observaciones`, `?p=tramite` o
+`?p=especies` en la dirección del comando de arriba. `social-3d.jpg` (relato y modo foto) es una foto del modo foto a
+1200 × 630 con la vista «Maqueta», `#v=-0.620,0.780,0.165,0.002,0.012,40&c=obras.deslinde.areas&r=nobras.norte`, y lleva su
+pie. La de observaciones dice el conteo («23 observaciones»): si cambia, regenérala y sube su versión. La foto de especies
+lleva el crédito y la licencia dentro de la imagen, porque al compartirla se separa de la página.
+
 ## Rásters: variantes WebP
 
 `build.py` no las genera; se hacen con `cwebp` (Homebrew) y se versionan. El script elige WebP
