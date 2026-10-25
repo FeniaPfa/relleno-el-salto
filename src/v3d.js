@@ -15,8 +15,9 @@ function wx(u){return (u-0.5)*S}
 function wz(v){return -(v-0.5)*S}
 
 var EX=1.6, exOn=true, K=function(){return exOn?EX:1};
-var H=null;
+var H=null, HF=null;   /* HF: la altura fuera del bloque; solo la pone el modo foto */
 function hAt(u,v){
+  if(HF&&(u<0||u>1||v<0||v>1)) return HF(u,v);
   if(!H) return 0;
   var c=Math.min(N-1,Math.max(0,u*(N-1))), r=Math.min(N-1,Math.max(0,(1-v)*(N-1)));
   var c0=c|0,r0=r|0,c1=Math.min(N-1,c0+1),r1=Math.min(N-1,r0+1),fc=c-c0,fr=r-r0;
@@ -1178,6 +1179,8 @@ var VISOR=window.VISOR={
     ren.setPixelRatio(pr); resize(); ren.render(sc,cam); firmaAnt='';
     return {lienzo:c, escala:c.width/w, w:w, h:h};
   },
+  /* la altura fuera del bloque (el entorno del modo foto): las capas se rehacen para apoyarse en ella */
+  fuera:function(f){ HF=f; construirCapas(); firmaAnt='' },
   maxPixeles:function(){ var g=ren.getContext(); return Math.min(g.getParameter(g.MAX_RENDERBUFFER_SIZE),g.getParameter(g.MAX_TEXTURE_SIZE)) }
 };
 

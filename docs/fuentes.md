@@ -38,6 +38,8 @@ bloqueado por PEP 668: hace falta un venv.
   `s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png` · z14, x 4934–4942 / y 9784–9792
 - **Ortoimagen** — Esri World Imagery, atribución obligatoria «Esri, Maxar, Earthstar Geographics»:
   `server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}` · z16
+- **Entorno del modo foto** — las mismas dos fuentes, más gruesas, en un cuadrado de 5 bloques: elevación z12 e imagen
+  z13. Lo arma `entorno.py`
 - **Cicatriz del incendio (dNBR)** — Earth Search STAC, `sentinel-2-l2a`, escenas
   `S2B_19HBD_20240118` (previa) y `S2A_19HBD_20240212` (posterior), bandas B8A y B12,
   umbrales de severidad USGS

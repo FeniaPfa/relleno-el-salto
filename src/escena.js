@@ -63,6 +63,7 @@
       matSat=new T.ShaderMaterial({uniforms:{map:{value:tex},sol:{value:new T.Vector3(-1,1.5,.7)},
         niebla:{value:new T.Color(0x7c8789)},exag:{value:K()},lejos:{value:I.S*1.6}},
         vertexShader:VS,fragmentShader:FS,extensions:{derivatives:true}});
+      if(MEJOR.nieblaPend) MEJOR.niebla.apply(null,MEJOR.nieblaPend);
       vestir(VISOR.internos().terr);
       var fd=VISOR.internos().falda; if(fd) fd.material=new T.MeshLambertMaterial({color:0x2c2620,side:T.DoubleSide});
       if(!chico) VISOR.malla(512);
@@ -137,6 +138,10 @@
       corona.push(hi);
     }
     MEJOR.v350=V350;
+    /* el color y la distancia de la bruma (el modo foto la iguala a su cielo) */
+    MEJOR.niebla=function(color,lejos){
+      [matSat,matMasa].forEach(function(m){ if(!m) return; m.uniforms.niebla.value.set(color); m.uniforms.lejos.value=lejos });
+      MEJOR.nieblaPend=matSat?null:[color,lejos] };
     var gm=new T.BufferGeometry(), pos=new Float32Array(NV*3), col=new Float32Array(NV*3), idx=[];
     for(var q=0;q<NV;q++){ pos[q*3]=x0+(q%nx)*cs; pos[q*3+2]=z0+Math.floor(q/nx)*cs }
     for(var j2=0;j2<nz-1;j2++) for(var i2=0;i2<nx-1;i2++){

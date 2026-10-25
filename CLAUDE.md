@@ -217,6 +217,13 @@ encuadre. Es `noindex` y no va al sitemap: es una herramienta, no contenido.
   circule sin su fuente es justo lo que permite descartar el sitio como activismo.
 - `VISOR.estado()`, `VISOR.fov()`, `VISOR.captura()` y `VISOR.maxPixeles()` existen solo para esta página.
 - El relieve exagerado es fijo: la masa, las obras y las áreas se construyen con `K()` al armar la escena.
+- **Sin el borde del bloque:** alrededor del bloque de 10 km va un entorno real de 51 km (`entorno-altura.png`,
+  `entorno.jpg` y sus variantes de 1024 px), hecho por `entorno.py` con las mismas fuentes (Mapzen z12, Esri z13) y el
+  mismo marco u, v del visor (u de −2 a 3). Bajo el bloque se hunde 40 m y en su borde toma la altura del visor, así que
+  no deja rendijas; hacia afuera se funde en la bruma, del mismo color que el horizonte del cielo (una esfera que sigue
+  a la cámara). `VISOR.fuera(f)` hace que `hAt` use el entorno fuera del bloque y rehace las capas; `MEJOR.niebla`
+  iguala la bruma del satélite y de la masa. La pared del bloque (`falda`) se oculta. El entorno se pide solo aquí.
+  `entorno.py` necesita pillow y numpy, y deja las teselas en una carpeta temporal.
 
 ## SEO, buscadores con respuestas y motores generativos
 

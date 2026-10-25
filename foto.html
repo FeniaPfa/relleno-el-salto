@@ -21,6 +21,7 @@
 <link rel="preload" as="script" href="lib/three.r128.min.js">
 <link rel="preload" as="image" href="altura.png">
 <link rel="preload" as="image" href="flujo.png">
+<link rel="preload" as="image" href="entorno-altura.png">
 <style>
 /* fuentes autohospedadas (SIL OFL), subconjunto latino: sin CSS externo que bloquee el render */
 @font-face{font-family:'Spectral';font-style:normal;font-weight:300;font-display:swap;src:url(fonts/spectral-300-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
@@ -1292,8 +1293,9 @@ function wx(u){return (u-0.5)*S}
 function wz(v){return -(v-0.5)*S}
 
 var EX=1.6, exOn=true, K=function(){return exOn?EX:1};
-var H=null;
+var H=null, HF=null;   /* HF: la altura fuera del bloque; solo la pone el modo foto */
 function hAt(u,v){
+  if(HF&&(u<0||u>1||v<0||v>1)) return HF(u,v);
   if(!H) return 0;
   var c=Math.min(N-1,Math.max(0,u*(N-1))), r=Math.min(N-1,Math.max(0,(1-v)*(N-1)));
   var c0=c|0,r0=r|0,c1=Math.min(N-1,c0+1),r1=Math.min(N-1,r0+1),fc=c-c0,fr=r-r0;
@@ -2563,6 +2565,8 @@ var VISOR=window.VISOR={
     ren.setPixelRatio(pr); resize(); ren.render(sc,cam); firmaAnt='';
     return {lienzo:c, escala:c.width/w, w:w, h:h};
   },
+  /* la altura fuera del bloque (el entorno del modo foto): las capas se rehacen para apoyarse en ella */
+  fuera:function(f){ HF=f; construirCapas(); firmaAnt='' },
   maxPixeles:function(){ var g=ren.getContext(); return Math.min(g.getParameter(g.MAX_RENDERBUFFER_SIZE),g.getParameter(g.MAX_TEXTURE_SIZE)) }
 };
 
@@ -2698,6 +2702,7 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
       matSat=new T.ShaderMaterial({uniforms:{map:{value:tex},sol:{value:new T.Vector3(-1,1.5,.7)},
         niebla:{value:new T.Color(0x7c8789)},exag:{value:K()},lejos:{value:I.S*1.6}},
         vertexShader:VS,fragmentShader:FS,extensions:{derivatives:true}});
+      if(MEJOR.nieblaPend) MEJOR.niebla.apply(null,MEJOR.nieblaPend);
       vestir(VISOR.internos().terr);
       var fd=VISOR.internos().falda; if(fd) fd.material=new T.MeshLambertMaterial({color:0x2c2620,side:T.DoubleSide});
       if(!chico) VISOR.malla(512);
@@ -2772,6 +2777,10 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
       corona.push(hi);
     }
     MEJOR.v350=V350;
+    /* el color y la distancia de la bruma (el modo foto la iguala a su cielo) */
+    MEJOR.niebla=function(color,lejos){
+      [matSat,matMasa].forEach(function(m){ if(!m) return; m.uniforms.niebla.value.set(color); m.uniforms.lejos.value=lejos });
+      MEJOR.nieblaPend=matSat?null:[color,lejos] };
     var gm=new T.BufferGeometry(), pos=new Float32Array(NV*3), col=new Float32Array(NV*3), idx=[];
     for(var q=0;q<NV;q++){ pos[q*3]=x0+(q%nx)*cs; pos[q*3+2]=z0+Math.floor(q/nx)*cs }
     for(var j2=0;j2<nz-1;j2++) for(var i2=0;i2<nx-1;i2++){
@@ -3267,7 +3276,7 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
       var lista2=(D.barrios||[]).slice().sort(function(a,b){ return a.d-b.d }), v=new T.Vector3(), con=0;
       var cupo=W<560?12:26;
       lista2.forEach(function(b){
-        var u=I.uv(b.x,b.y); if(u[0]<0||u[0]>1||u[1]<0||u[1]>1) return;
+        var u=I.uv(b.x,b.y); if(u[0]<-EA||u[0]>1+EA||u[1]<-EA||u[1]>1+EA) return;
         v.set(I.wx(u[0]),I.hAt(u[0],u[1])*K+16,I.wz(u[1]));
         var p=proy(v,I,W,H); if(p.z>=1||p.x<6||p.x>W-6||p.y<6||p.y>H-6) return;
         out.pobs.push({x:p.x,y:p.y,n:b.n.replace(/^Comunidad /,''),d:km(b.d),lab:null});
@@ -3363,6 +3372,7 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
   function pedirRot(){ firma='' }
   (function bucle(){ requestAnimationFrame(bucle);
     if(!MEJOR.listo) return;
+    var fd=VISOR.internos().falda; if(fd&&fd.visible) fd.visible=false;   /* la pared del bloque: el entorno la reemplaza */
     var e=VISOR.estado(), f=[e.th.toFixed(4),e.ph.toFixed(4),e.rad.toFixed(4),e.dx.toFixed(4),e.dz.toFixed(4),e.fov,innerWidth,innerHeight].join('|');
     if(f===firma) return; firma=f; guardarHash();
     var W=innerWidth, H=innerHeight, s=lz.width/W;
@@ -3403,10 +3413,84 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
   $('#lista-cerrar').addEventListener('click',function(){ $('#lista').hidden=true; disp.focus() });
   addEventListener('keydown',function(e){ if(e.key==='Escape'&&!$('#lista').hidden){ $('#lista').hidden=true; disp.focus() } });
 
+  /* ===================== cielo y entorno: que no se vea el borde del bloque =====================
+     Solo esta página. Alrededor del bloque de 10 km, un terreno real más grueso (entorno.py: relieve de Mapzen e
+     imagen de Esri, las mismas fuentes), que se funde en la bruma del horizonte; y un cielo que acompaña a la
+     cámara, con el horizonte siempre en su lugar. */
+  var CIELO={cenit:0x4a7fb8, medio:0x92b8d8, bruma:0xc9d6dc};
+  var EA=2, EN=321;   /* entorno.py: 2 bloques a cada lado, 321 × 321 muestras */
+  function cielo(){
+    var I=VISOR.internos(), T=I.THREE;
+    I.sc.background=new T.Color(CIELO.bruma);
+    var m=new T.Mesh(new T.SphereGeometry(I.S*4.5,32,16),new T.ShaderMaterial({side:T.BackSide,depthWrite:false,depthTest:false,
+      uniforms:{cenit:{value:new T.Color(CIELO.cenit)},medio:{value:new T.Color(CIELO.medio)},bruma:{value:new T.Color(CIELO.bruma)}},
+      vertexShader:'varying vec3 vD; void main(){ vD=position; gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.0); }',
+      fragmentShader:['uniform vec3 cenit; uniform vec3 medio; uniform vec3 bruma; varying vec3 vD;',
+        'void main(){ float y=normalize(vD).y;',
+        '  vec3 c=mix(bruma,medio,smoothstep(0.0,0.12,y)); c=mix(c,cenit,smoothstep(0.12,0.6,y));',
+        '  gl_FragColor=vec4(c,1.0); }'].join('\n')}));
+    m.renderOrder=-10; m.frustumCulled=false;
+    m.onBeforeRender=function(r,sc,cam){ m.position.copy(cam.position); m.updateMatrixWorld() };
+    I.sc.add(m);
+    if(MEJOR.niebla) MEJOR.niebla(CIELO.bruma,I.S*2.6);
+  }
+  function entorno(listo){
+    var im=new Image();
+    im.onerror=function(){ listo() };
+    im.onload=function(){
+      var I=VISOR.internos(), T=I.THREE, S=I.S, K=I.K();
+      var c=document.createElement('canvas'); c.width=c.height=EN; var x=c.getContext('2d'); x.drawImage(im,0,0);
+      var d=x.getImageData(0,0,EN,EN).data, E=new Float32Array(EN*EN);
+      for(var q=0;q<EN*EN;q++) E[q]=(d[q*4]*256+d[q*4+1])/16-50;
+      var ext=2*EA+1;
+      /* la altura fuera del bloque, bilineal; dentro manda el modelo del visor */
+      VISOR.fuera(function(u,v){
+        var cc=Math.min(EN-1,Math.max(0,(u+EA)*64)), rr=Math.min(EN-1,Math.max(0,(1+EA-v)*64));
+        var c0=cc|0, r0=rr|0, c1=Math.min(EN-1,c0+1), r1=Math.min(EN-1,r0+1), fc=cc-c0, fr=rr-r0;
+        return (E[r0*EN+c0]*(1-fc)+E[r0*EN+c1]*fc)*(1-fr)+(E[r1*EN+c0]*(1-fc)+E[r1*EN+c1]*fc)*fr });
+      var pos=new Float32Array(EN*EN*3), uvs=new Float32Array(EN*EN*2), idx=[];
+      for(var j=0;j<EN;j++) for(var i=0;i<EN;i++){
+        var k=j*EN+i, u=-EA+i/64, v=1+EA-j/64, h=I.hAt(u,v);
+        /* bajo el bloque, el entorno se hunde: en el borde coincide con el visor y no deja rendijas */
+        var dentro=i>128&&i<192&&j>128&&j<192;
+        pos[k*3]=I.wx(u); pos[k*3+1]=(dentro?h-40:h)*K; pos[k*3+2]=I.wz(v);
+        uvs[k*2]=(u+EA)/ext; uvs[k*2+1]=(v+EA)/ext;
+      }
+      for(var j2=0;j2<EN-1;j2++) for(var i2=0;i2<EN-1;i2++){
+        if(i2>129&&i2<190&&j2>129&&j2<190) continue;   /* bajo el bloque solo queda un anillo de dos celdas */
+        var a=j2*EN+i2, b=a+1, c2=a+EN, d2=c2+1; idx.push(a,c2,b, b,c2,d2) }
+      var g=new T.BufferGeometry(); g.setAttribute('position',new T.BufferAttribute(pos,3)); g.setAttribute('uv',new T.BufferAttribute(uvs,2));
+      g.setIndex(idx); g.computeVertexNormals();
+      var mat=new T.ShaderMaterial({uniforms:{map:{value:null},sol:{value:new T.Vector3(-1,1.5,.7)},bruma:{value:new T.Color(CIELO.bruma)},
+          lejos:{value:S*2.6},borde:{value:S*(EA+.5)}},
+        vertexShader:'varying vec2 vUv; varying vec3 vN; varying vec3 vW; void main(){ vUv=uv; vN=normal; vW=(modelMatrix*vec4(position,1.0)).xyz; gl_Position=projectionMatrix*viewMatrix*vec4(vW,1.0); }',
+        fragmentShader:['uniform sampler2D map; uniform vec3 sol; uniform vec3 bruma; uniform float lejos; uniform float borde;',
+          'varying vec2 vUv; varying vec3 vN; varying vec3 vW;',
+          'void main(){ vec3 c=texture2D(map,vUv).rgb;',
+          '  float l=dot(c,vec3(.299,.587,.114)); c=mix(vec3(l),c,1.14); c=(c-.5)*1.1+.5;',
+          '  vec3 n=normalize(vN); float dif=max(dot(n,normalize(sol)),0.0); float hemi=.5+.5*n.y; c*=(.36*hemi+.86*dif)*1.12;',
+          '  float d=distance(vW,cameraPosition); float f=smoothstep(lejos*.22,lejos,d)*.6;',
+          /* hacia el borde del entorno, todo bruma: el cuadrado grande tampoco se ve */
+          '  f=max(f,smoothstep(borde*.62,borde*.97,max(abs(vW.x),abs(vW.z))));',
+          '  gl_FragColor=vec4(mix(clamp(c,0.0,1.0),bruma,f),1.0); }'].join('\n')});
+      var m=new T.Mesh(g,mat); m.renderOrder=-1; I.sc.add(m);
+      var src=angosto()||(devicePixelRatio||1)*Math.max(innerWidth,innerHeight)<1500?(WEBP?'entorno-1024.webp':'entorno-1024.jpg'):'entorno.jpg';
+      new T.TextureLoader().load(src,function(tex){
+        tex.anisotropy=I.ren.capabilities.getMaxAnisotropy?I.ren.capabilities.getMaxAnisotropy():1;
+        tex.minFilter=T.LinearMipmapLinearFilter; mat.uniforms.map.value=tex; pedirRot() });
+      listo();
+    };
+    im.src='entorno-altura.png';
+  }
+
   /* --- arranque --- */
   function inicio(){
     if(!mantoListo){ alManto.push(inicio); return }
     try{ mejorarEscena() }catch(e){ VISOR.capa('L-masa',true); if(window.console) console.warn('capas del modo foto:',e) }
+    cielo();
+    entorno(seguir);
+  }
+  function seguir(){
     VISOR.capa('L-barrios',false);   /* las poblaciones se rotulan en el lienzo, para que salgan en la foto */
     VISOR.anio(ANIO); MEJOR.actualizarMasa(ANIO);
     CAPAS.forEach(function(c){ c.f(on[c.k]) });
