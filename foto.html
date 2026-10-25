@@ -1082,20 +1082,35 @@ body.sin-panel .panel-f{display:none}
   .arriba .tit,.arriba #b-panel,.arriba .rel{display:none}
   .arriba{justify-content:flex-end}
   .arriba a{white-space:nowrap}
-  .panel-f{top:auto;bottom:0;left:0;right:0;width:auto;max-height:52vh;max-height:52svh;border-radius:10px 10px 0 0;padding:0 16px 96px;
-    border-left:0;border-right:0;border-bottom:0}
-  .panel-f .asa{position:sticky;top:0;z-index:1;display:block;width:100%;margin:0;padding:12px 0 10px;background:rgba(16,18,22,.98);border:0;
+  /* abajo, un dock fijo con el botón a todo el ancho; la hoja sube por encima del dock y nunca queda debajo del botón */
+  body::after{content:'';position:fixed;left:0;right:0;bottom:0;z-index:6;height:calc(var(--dock) + env(safe-area-inset-bottom));
+    background:#101316;border-top:1px solid #2c3238}
+  body{--dock:72px}
+  .panel-f{top:auto;bottom:calc(var(--dock) + env(safe-area-inset-bottom));left:0;right:0;width:auto;max-height:calc(100% - var(--dock) - 120px);
+    max-height:min(56svh,calc(100svh - var(--dock) - 120px));border-radius:10px 10px 0 0;padding:0 16px 16px;
+    border-left:0;border-right:0;border-bottom:0;background:#101316;-webkit-backdrop-filter:none;backdrop-filter:none}
+  .panel-f .asa{position:sticky;top:0;z-index:1;display:flex;align-items:center;justify-content:space-between;width:100%;margin:0;
+    padding:20px 0 12px;background:#101316;border:0;min-height:48px;
     color:#e8e6df;font-family:var(--cart);font-size:15px;font-weight:600;text-align:left;cursor:pointer}
-  .panel-f .asa::before{content:'';display:block;width:40px;height:4px;border-radius:2px;background:#5b646e;margin:0 auto 10px}
+  .panel-f .asa::before{content:'';position:absolute;left:50%;top:8px;width:40px;height:4px;margin-left:-20px;border-radius:2px;background:#5b646e}
+  .panel-f .asa::after{content:'▴';font-size:16px;color:#a9aea6;transition:transform .2s}
+  body:not(.hoja-baja) .panel-f .asa::after{transform:rotate(180deg)}
   body.hoja-baja .panel-f{max-height:none;overflow:hidden;padding-bottom:0}
   body.hoja-baja .panel-f>:not(.asa){display:none}
-  body.hoja-baja .panel-f .asa{padding-bottom:calc(12px + env(safe-area-inset-bottom))}
-  .disparar{left:50%;right:auto;transform:translateX(-50%);bottom:calc(14px + env(safe-area-inset-bottom));z-index:7}
-  body.hoja-baja .disparar{bottom:calc(64px + env(safe-area-inset-bottom))}
+  .disparar{left:12px;right:12px;bottom:calc(10px + env(safe-area-inset-bottom));transform:none;justify-content:center;min-height:52px;z-index:7;box-shadow:none}
+  .atrib-r{left:auto;right:8px;font-size:12px}
   body:not(.hoja-baja) .atrib-r{display:none}
-  body.hoja-baja .atrib-r{bottom:calc(122px + env(safe-area-inset-bottom))}
+  body.hoja-baja .atrib-r{bottom:calc(var(--dock) + 62px + env(safe-area-inset-bottom))}
+  /* la foto lista: la imagen se achica para que los botones quepan siempre */
+  .lista{background:#0b0d10;justify-content:flex-start;padding:12px 12px calc(12px + env(safe-area-inset-bottom))}
+  .lista img{flex:1 1 auto;min-height:0;max-height:none;width:100%;border:0;background:transparent}
+  .lista .acc{width:100%;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px}
+  .lista .acc .bajar,.lista #lista-comp[hidden]+#lista-cerrar{grid-column:1/-1}
+  .lista .acc a,.lista .acc button{justify-content:center}
+  .lista p{font-size:13.5px}
 }
-@media(min-width:761px){ .panel-f .asa{display:none} }
+@media(min-width:761px){ .panel-f .asa,.ayuda .angosto{display:none} }
+@media(max-width:760px){ .ayuda .ancho{display:none} }
 @media(prefers-reduced-motion:reduce){ .carga{transition:none} .carga .barra-c i{animation:none} }
 </style>
 
@@ -1223,7 +1238,7 @@ body.sin-panel .panel-f{display:none}
   <label for="desde" class="vh">Mirar desde una población</label>
   <select id="desde" style="margin-top:8px"><option value="">Mirar desde una población…</option></select>
   <div class="fila" style="margin-top:8px"><label for="fov">Lente</label><input type="range" id="fov" min="18" max="75" step="1" value="40"><span class="val" id="fov-v">40°</span></div>
-  <p class="ayuda">Arrastra para girar. Desplaza con dos dedos, clic derecho o Mayús + arrastre. Acerca con la rueda o pellizcando.</p>
+  <p class="ayuda"><span class="ancho">Arrastra para girar. Desplaza con clic derecho o Mayús + arrastre. Acerca con la rueda.</span><span class="angosto">Un dedo gira; dos dedos desplazan y, al pellizcar, acercan.</span></p>
 
   <h2>Capas</h2>
   <div id="capas"></div>
