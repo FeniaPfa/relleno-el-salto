@@ -481,11 +481,18 @@ html{scroll-padding-top:calc(var(--ubic-h,52px) + 8px)}
 .yo-box{margin:4px 0 18px;padding:14px 16px;max-width:78ch;background:var(--surf);border:1px solid var(--line);
   border-left:3px solid var(--blue);border-radius:3px}
 .yo-t{margin:0 0 10px;font-size:15.5px;line-height:1.5;color:var(--ink2)} .yo-t b{color:var(--ink)}
-.yo-btns{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-.yo-btns select{min-height:48px;max-width:100%;padding:0 10px;font-family:var(--txt);font-size:15px;color:var(--ink);
-  background:var(--bg);border:1px solid var(--lctl);border-radius:2px}
+.yo-btns{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:flex-end}
 .yo-btns .btn2{background:var(--bg);color:var(--ink);font-family:var(--cart);font-size:15px;font-weight:600;cursor:pointer}
-.yo-btns .btn2[aria-pressed="true"]{border-color:var(--blue);background:var(--surf2)}
+.yo-gps{border-color:var(--blue)!important}
+.yo-alt{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;font-family:var(--cart);font-size:14.5px;color:var(--ink2)}
+.yo-alt label{flex-basis:100%}
+.yo-alt select{-webkit-appearance:none;appearance:none;min-height:44px;max-width:100%;padding:0 38px 0 12px;
+  font-family:var(--txt);font-size:15px;color:var(--ink);border:1px solid var(--lctl);border-radius:2px;background-color:var(--bg);
+  background-image:linear-gradient(45deg,transparent 50%,var(--ink2) 50%),linear-gradient(135deg,var(--ink2) 50%,transparent 50%);
+  background-position:calc(100% - 18px) 50%,calc(100% - 12px) 50%;background-size:6px 6px,6px 6px;background-repeat:no-repeat}
+.yo-link{background:none;border:0;padding:8px 0;min-height:44px;font:inherit;color:var(--ink2);text-decoration:underline;
+  text-underline-offset:3px;cursor:pointer}
+.yo-link[aria-pressed="true"]{color:var(--blue);font-weight:600}
 .yo-res{margin:12px 0 0;font-size:16.5px;line-height:1.55;color:var(--ink)}
 .yo-res small{display:block;margin-top:4px;font-family:var(--cart);font-size:13.5px;color:var(--ink3)}
 #m1.yo-marcando{cursor:crosshair}
@@ -493,9 +500,10 @@ html{scroll-padding-top:calc(var(--ubic-h,52px) + 8px)}
 @media(max-width:600px){
   .yo-box{padding:12px 12px 12px 13px;margin-bottom:12px}
   .yo-t{margin-bottom:8px} .yo-larga{display:none} .yo-corta{display:inline}
-  .yo-btns{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px}
-  .yo-btns .btn2{min-height:44px;padding:8px 6px;justify-content:center;text-align:center;font-size:14.5px}
-  .yo-btns select{grid-column:1/-1;min-height:44px}
+  .yo-btns{display:block}
+  .yo-gps{width:100%;justify-content:center;min-height:46px}
+  .yo-alt{margin-top:10px}
+  .yo-alt select{flex:1 1 100%;width:100%}
   /* en celular el resultado va bajo el mapa: primero se ve el pin, después el texto */
   .mapbox .yo-res{margin:10px 12px 4px}
   /* las capas en una fila con desplazamiento lateral, en vez de tres filas */
@@ -1454,10 +1462,12 @@ blockquote.cita cite{display:block;font-family:var(--cart);font-size:13.5px;font
     <p class="yo-t"><b>¿A qué distancia estás tú?</b> <span class="yo-larga">Tu ubicación se calcula solo en tu teléfono: no
     se envía a ninguna parte ni se guarda.</span><span class="yo-corta">Tu ubicación no sale de tu teléfono.</span></p>
     <div class="yo-btns">
-      <button type="button" class="btn2" id="yo-gps">Usar mi ubicación</button>
-      <button type="button" class="btn2" id="yo-tap" aria-pressed="false">Marcarla en el mapa</button>
-      <label class="vh" for="yo-sel">O elige tu población</label>
-      <select id="yo-sel"><option value="">O elige tu población…</option></select>
+      <button type="button" class="btn2 yo-gps" id="yo-gps">Usar mi ubicación</button>
+      <div class="yo-alt">
+        <label for="yo-sel">¿Sin GPS? Elige tu población</label>
+        <select id="yo-sel"><option value="">Elegir…</option></select>
+        <button type="button" class="yo-link" id="yo-tap" aria-pressed="false">o elige un punto en el mapa</button>
+      </div>
     </div>
     <p class="yo-res" id="yo-res" aria-live="polite" hidden></p>
   </div>
@@ -2812,23 +2822,24 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       if(precision&&precision>300) nota+=' Tu GPS indica un margen de ±'+dist(precision)+'.';
       if(!enMapa) nota+=' El punto queda fuera del mapa.';
       res.innerHTML=txt+'<small>'+nota+'</small>'; res.hidden=false;
+      bTap.textContent='Ajustar el punto en el mapa';
       if(angostoYo()){ if(res.parentNode!==box) box.insertBefore(res,svg.nextSibling);
         svg.scrollIntoView({block:'start',behavior:RM?'auto':'smooth'}) }
     }
     function angostoYo(){ return window.matchMedia&&matchMedia('(max-width:600px)').matches }
     var TU={cap:'Estás',cap2:'Quedas'}, PUNTO={cap:'Este punto está',cap2:'Queda'};
     bGps.addEventListener('click',function(){
-      if(!navigator.geolocation){ res.innerHTML='Tu navegador no entrega la ubicación. Márcala en el mapa o elige tu población.'; res.hidden=false; return }
+      if(!navigator.geolocation){ res.innerHTML='Tu navegador no entrega la ubicación. Elige tu población o un punto en el mapa.'; res.hidden=false; return }
       bGps.disabled=true; res.innerHTML='Buscando tu ubicación…'; res.hidden=false;
       navigator.geolocation.getCurrentPosition(function(pos){ bGps.disabled=false;
         calcular(pos.coords.longitude,pos.coords.latitude,TU,pos.coords.accuracy) },
         function(){ bGps.disabled=false;
-          res.innerHTML='No pudimos leer tu ubicación (a veces pasa dentro de WhatsApp o si no diste permiso). Márcala en el mapa o elige tu población.' },
+          res.innerHTML='No pudimos leer tu ubicación (a veces pasa dentro de WhatsApp o si no diste permiso). Elige tu población o un punto en el mapa.' },
         {enableHighAccuracy:true,timeout:15000,maximumAge:60000});
     });
     bTap.addEventListener('click',function(){
       var on=bTap.getAttribute('aria-pressed')!=='true'; bTap.setAttribute('aria-pressed',on); svg.classList.toggle('yo-marcando',on);
-      if(on){ res.innerHTML='Toca el mapa donde vives.'; res.hidden=false; svg.scrollIntoView({block:'nearest',behavior:RM?'auto':'smooth'}) }
+      if(on){ res.innerHTML='Toca el mapa en el punto que quieras medir.'; res.hidden=false; svg.scrollIntoView({block:'nearest',behavior:RM?'auto':'smooth'}) }
     });
     svg.addEventListener('click',function(e){
       if(bTap.getAttribute('aria-pressed')!=='true') return;
