@@ -2694,9 +2694,11 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       polys.forEach(function(pl){ pl.forEach(function(r){ out.push(r.map(function(c){ return xy(c[0],c[1]) })) }) }); return out }
     function dentro(p,rings){ var c=false; rings.forEach(function(r){ for(var i=0,j=r.length-1;i<r.length;j=i++){
       var a=r[i],b=r[j]; if(((a[1]>p[1])!==(b[1]>p[1]))&&(p[0]<(b[0]-a[0])*(p[1]-a[1])/(b[1]-a[1])+a[0])) c=!c } }); return c }
+    var cerca=null;   /* el punto del borde más cercano, para dibujar la línea */
     function aBorde(p,rings){ var m=1e12; rings.forEach(function(r){ for(var i=1;i<r.length;i++){
       var a=r[i-1],b=r[i],dx=b[0]-a[0],dy=b[1]-a[1],t=((p[0]-a[0])*dx+(p[1]-a[1])*dy)/(dx*dx+dy*dy||1);
-      t=Math.max(0,Math.min(1,t)); m=Math.min(m,Math.hypot(p[0]-a[0]-t*dx,p[1]-a[1]-t*dy)) } }); return m }
+      t=Math.max(0,Math.min(1,t)); var d=Math.hypot(p[0]-a[0]-t*dx,p[1]-a[1]-t*dy);
+      if(d<m){ m=d; cerca=[a[0]+t*dx,a[1]+t*dy] } } }); return m }
     var RP=anillos(L.predio.g), RR=anillos(L.residuos.g), RA=D.ai_humano&&D.ai_humano.g?anillos(D.ai_humano.g):null;
     var cx=0,cy=0,n=0; RR[0].forEach(function(q){ cx+=q[0]; cy+=q[1]; n++ }); cx/=n; cy/=n;
     function dist(m,dec){ return m<1000?Math.round(m/10)*10+' m':(m/1000).toFixed(dec||1).replace('.',',')+' km' }
@@ -2707,14 +2709,26 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
     var sx=(pB[0]-pA[0])/(mB[0]-mA[0]), sy=(pB[1]-pA[1])/(mB[1]-mA[1]);
     function lonlat(x,y){ var mx=mA[0]+(x-pA[0])/sx, my=mA[1]+(y-pA[1])/sy;
       return [mx*180/Math.PI,(2*Math.atan(Math.exp(my))-Math.PI/2)*180/Math.PI] }
-    function marcar(lon,lat,precision){
+    function marcar(lon,lat,precision,borde,txtBorde){
       while(gYo.firstChild) gYo.removeChild(gYo.firstChild);
       var q=P(lon,lat); if(q[0]<0||q[0]>W||q[1]<0||q[1]>H) return false;
-      if(precision) gYo.appendChild(el('circle',{cx:q[0].toFixed(1),cy:q[1].toFixed(1),r:Math.min(200,precision/1000*kmpx).toFixed(1),
-        fill:'#4fc3f7','fill-opacity':.18,stroke:'#4fc3f7','stroke-width':1}));
-      gYo.appendChild(el('circle',{cx:q[0].toFixed(1),cy:q[1].toFixed(1),r:6.5,fill:'#4fc3f7',stroke:'#14161a','stroke-width':2}));
-      var t=el('text',{x:(q[0]+10).toFixed(1),y:(q[1]-8).toFixed(1),'font-size':13,'font-family':'var(--cart)','font-weight':700,
-        fill:'#4fc3f7','paint-order':'stroke',stroke:'#14161a','stroke-width':3.4,'stroke-linejoin':'round'});
+      var X=q[0].toFixed(1), Y=q[1].toFixed(1);
+      if(precision) gYo.appendChild(el('circle',{cx:X,cy:Y,r:Math.min(200,precision/1000*kmpx).toFixed(1),
+        fill:'#ffffff','fill-opacity':.14,stroke:'#ffffff','stroke-width':1.2,'stroke-dasharray':'3 3'}));
+      /* la línea al punto más cercano del deslinde, con la distancia a media línea */
+      if(borde){ var qb=P(borde[0]/KX+LON0,borde[1]/KY+LAT0);
+        gYo.appendChild(el('line',{x1:X,y1:Y,x2:qb[0].toFixed(1),y2:qb[1].toFixed(1),stroke:'#14161a','stroke-width':5,'stroke-linecap':'round'}));
+        gYo.appendChild(el('line',{x1:X,y1:Y,x2:qb[0].toFixed(1),y2:qb[1].toFixed(1),stroke:'#ffffff','stroke-width':2.4,'stroke-dasharray':'7 5','stroke-linecap':'round'}));
+        var tm=el('text',{x:((q[0]+qb[0])/2+8).toFixed(1),y:((q[1]+qb[1])/2).toFixed(1),'font-size':15,'font-family':'var(--cart)','font-weight':700,
+          fill:'#ffffff','paint-order':'stroke',stroke:'#14161a','stroke-width':4,'stroke-linejoin':'round','data-fijo':'1'});
+        tm.textContent=txtBorde; gYo.appendChild(tm) }
+      /* pin en forma de gota: blanco con borde negro, distinto de todo lo demás del mapa */
+      gYo.appendChild(el('path',{d:'M'+X+' '+Y+'c-3.5-6-11-11.5-11-18.5a11 11 0 0 1 22 0c0 7-7.5 12.5-11 18.5z',
+        fill:'#ffffff',stroke:'#14161a','stroke-width':2.4,'stroke-linejoin':'round'}));
+      gYo.appendChild(el('circle',{cx:X,cy:(q[1]-18.5).toFixed(1),r:4.2,fill:'#14161a'}));
+      var tx=q[0]+15, ty=q[1]-30;
+      gYo.appendChild(el('rect',{x:(tx-4).toFixed(1),y:(ty-16).toFixed(1),width:34,height:22,rx:3,fill:'#14161a','fill-opacity':.9,stroke:'#ffffff','stroke-width':1.2}));
+      var t=el('text',{x:tx.toFixed(1),y:ty.toFixed(1),'font-size':16,'font-family':'var(--cart)','font-weight':700,fill:'#ffffff','data-fijo':'1'});
       t.textContent='Tú'; gYo.appendChild(t); return true }
     function calcular(lon,lat,quien,precision,pub){
       var p=xy(lon,lat), enPredio=dentro(p,RP), dP=enPredio?0:aBorde(p,RP), dR=dentro(p,RR)?0:aBorde(p,RR);
@@ -2722,7 +2736,8 @@ var L={}; D.proyecto.forEach(function(c){L[c.id]=c});
       if(pub){ dP=pub.d*1000; dR=pub.dres*1000 }
       var ang=(Math.atan2(p[0]-cx,p[1]-cy)*180/Math.PI+360)%360, rumbo=RUMBO[Math.round(ang/45)%8];
       var aViento=Math.abs(((ang-D.viento.hacia)+540)%360-180)<=45;
-      var enMapa=marcar(lon,lat,precision), txt;
+      aBorde(p,RP); var bordeCerca=enPredio?null:cerca;
+      var enMapa=marcar(lon,lat,precision,bordeCerca,dist(dP,pub?2:1)), txt;
       var dec=pub?2:1;
       if(enPredio) txt=quien.cap+(dR===0?' dentro de la zona donde iría la basura.':' dentro del predio del proyecto, a '+dist(dR)+' de la zona donde iría la basura.');
       else txt=quien.cap+' a <b>'+dist(dP,dec)+'</b> del deslinde del predio y a <b>'+dist(dR,dec)+'</b> de la zona donde iría la basura, '+
