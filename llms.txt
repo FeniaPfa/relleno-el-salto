@@ -14,7 +14,7 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - [Análisis del expediente](https://relleno-el-salto.chacao.workers.dev/): cifras, mapas, visores 3D y
   observaciones modelo para la participación ciudadana.
 - [Observaciones fundadas, listas para ingresar](https://relleno-el-salto.chacao.workers.dev/observaciones):
-  veintitrés observaciones ciudadanas, cada una con la cita textual, el documento y la página del
+  veinticinco observaciones ciudadanas, cada una con la cita textual, el documento y la página del
   expediente, y la pregunta que el titular debe responder en la Adenda.
 - [Las especies afectadas](https://relleno-el-salto.chacao.workers.dev/especies): las trece plantas
   y animales que el expediente registra en el área, con su categoría de conservación, lo que el
@@ -37,12 +37,18 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - El criterio de la decisión lo fija la ley: el Estudio «será aprobado si cumple con la normativa de carácter
   ambiental y, haciéndose cargo de los efectos, características o circunstancias establecidos en el artículo 11,
   propone medidas de mitigación, compensación o reparación apropiadas. En caso contrario, será rechazado»
-  (Ley 19.300, art. 16). Los puntos donde una norma exige algo que el expediente no demuestra: la distancia de
+  (Ley 19.300, art. 16). Los puntos donde una norma exige algo que el expediente no demuestra: la franja de protección de
+  300 m dentro del predio (D.S. 189/2005, art. 9), la distancia de
   60 m a cursos de agua (D.S. 189/2005, art. 10), los 3 m sobre la napa y el suelo de baja permeabilidad
   (D.S. 189/2005, art. 20), el riesgo para la salud por emisiones (Ley 19.300, art. 11 a), las medidas contra
   pavesas que CONAF califica de «inviables» (ORD 284) y una falla potencialmente activa que el Capítulo 4 no evalúa.
 - Registro de lobby (InfoLobby, Ley 20.730): al 25 de octubre de 2026, COSEMAR no registra audiencias con los
   secretarios regionales que integran la Comisión de Evaluación ni con el delegado presidencial.
+
+- El 23 de octubre de 2026 el SEA emitió el ICSARA (documento 2169926495 del expediente): 343 preguntas que el
+  titular debe responder en la Adenda. En su sección XVIII explica, en 27 casos, por qué dejó fuera pedidos de los servicios. Con eso, el plazo
+  referencial de evaluación que muestra el SEIA pasó al 2 de abril de 2027 (consultado el 31 de octubre de 2026).
+- Al 31 de octubre de 2026 el expediente registraba 668 observaciones ciudadanas, de 409 remitentes distintos.
 
 ## Hechos, con su fuente en el expediente
 
@@ -66,9 +72,20 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - Un informe geológico preliminar de 2023 que el titular acompaña describe una falla potencialmente
   activa que «compromete el cierre perimetral» (magnitud 6,8) y recomienda retroceder el cierre unos
   200 m; la línea de base de 2026 (Capítulo 3.5) concluye que no hay fallas activas en el Holoceno dentro
-  del proyecto, con un relevamiento de superficie. El Capítulo 4 no menciona la falla ni el sismo.
+  del proyecto, con cuatro días de terreno de observación de superficie (31 de enero a 3 de febrero de 2025, p. 5) y
+  sin estudio paleosismológico. El D.S. 189/2005 (art. 11 a) exige acreditar que el sitio no está expuesto a fallas
+  con desplazamiento en el Holoceno; el Capítulo 3.5 lo reformula como «no deben situarse sobre la traza de fallas
+  activas» (p. 3). El Capítulo 4 no menciona la falla ni el sismo.
 - La impermeabilización basal es una geomembrana HDPE de 1,5 mm sobre una lámina de bentonita (GCL)
   (Capítulo 1, p. 84).
+- El D.S. 189/2005 (art. 9) exige una zona de protección de 300 m al interior del predio, medida desde la zona de
+  residuos y desde las instalaciones que generan olores, como el pesaje y el lavado de camiones. Con los polígonos y
+  shapefiles del titular, el pesaje queda a 199 m del deslinde, el lavado de camiones a 237 m y la zona de residuos a
+  268 m (cálculo de esta página). La SEREMI de Salud pidió trazar esa franja (ORD. 068, punto 8).
+- Con el proyecto, la crecida de 100 años a la salida de las quebradas Q1 y Q2, que desembocan en el estero
+  Marga-Marga, sube de 10,56 a 11,36 m³/s y de 8,31 a 9,17 m³/s (Anexo 9.11, PAS 157, Tabla 2-42, p. 91). El
+  recorrido del agua desde el relleno hasta el mar pasa a menos de 300 m de 32 puntos de inundación por desborde de
+  cauce del catastro de invierno 2026 de SENAPRED (cálculo de esta página).
 - El D.S. 189/2005 (art. 20 a), que el propio PAS 141 transcribe, exige al menos 3 m entre el fondo y el
   nivel freático más alto y una capa de suelo con conductividad no superior a 10-5 cm/s. El único ensayo de
   infiltración del predio da 3,53E-03 cm/s, «Moderadamente Elevada» (Anexo 9.6, PAS 141, p. 25), y el
