@@ -45,6 +45,11 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - Registro de lobby (InfoLobby, Ley 20.730): al 25 de octubre de 2026, COSEMAR no registra audiencias con los
   secretarios regionales que integran la Comisión de Evaluación ni con el delegado presidencial.
 
+- El 23 de octubre de 2026 el SEA emitió el ICSARA (documento 2169926495 del expediente): 343 preguntas que el
+  titular debe responder en la Adenda. En su sección XVIII explica, en 27 casos, por qué dejó fuera pedidos de los servicios. Con eso, el plazo
+  referencial de evaluación que muestra el SEIA pasó al 2 de abril de 2027 (consultado el 31 de octubre de 2026).
+- Al 31 de octubre de 2026 el expediente registraba 668 observaciones ciudadanas, de 409 remitentes distintos.
+
 ## Hechos, con su fuente en el expediente
 
 - El área de influencia que declara el titular comprende los sectores de El Salto, Las Lomas y

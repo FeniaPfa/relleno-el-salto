@@ -33,7 +33,7 @@
 @font-face{font-family:'Libre Franklin';font-style:normal;font-weight:400 700;font-display:swap;src:url(fonts/libre-franklin-400-normal.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 @font-face{font-family:'Libre Franklin';font-style:italic;font-weight:400 700;font-display:swap;src:url(fonts/libre-franklin-400-italic.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 </style>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/tramite#articulo","url":"https://relleno-el-salto.chacao.workers.dev/tramite","headline":"El trámite del relleno de El Salto: quién decide y cuándo","description":"El recorrido del expediente SEIA 2168892026 después de la participación ciudadana: plazos de la Ley 19.300 y lo que obliga cada desenlace.","inLanguage":"es-CL","datePublished":"2026-10-21","dateModified":"2026-11-01","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"about":{"@type":"Legislation","name":"Ley 19.300 sobre Bases Generales del Medio Ambiente","legislationJurisdiction":"CL"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El trámite: quién decide y cuándo","item":"https://relleno-el-salto.chacao.workers.dev/tramite"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/tramite#articulo","url":"https://relleno-el-salto.chacao.workers.dev/tramite","headline":"El trámite del relleno de El Salto: quién decide y cuándo","description":"El recorrido del expediente SEIA 2168892026 después de la participación ciudadana: plazos de la Ley 19.300 y lo que obliga cada desenlace.","inLanguage":"es-CL","datePublished":"2026-10-21","dateModified":"2026-10-31","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"about":{"@type":"Legislation","name":"Ley 19.300 sobre Bases Generales del Medio Ambiente","legislationJurisdiction":"CL"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El trámite: quién decide y cuándo","item":"https://relleno-el-salto.chacao.workers.dev/tramite"}]}]}</script>
 <style>
 :root{
   --bg:#f3f1ec; --surf:#faf9f5; --surf2:#e9e6de; --sunk:#e4e0d6;
@@ -221,6 +221,8 @@ h2.sec{font-family:var(--doc);font-size:clamp(22px,3vw,26px);font-weight:600;let
   .accion .btn{width:100%;justify-content:center;text-align:center}
 }
 @media(max-width:640px){ .wrap{padding:24px 16px 60px} }
+.hoy-nota{margin:8px 0 0;font-size:15px;line-height:1.5;color:var(--ink2)}
+.hoy-nota a{color:inherit}
 </style>
 
 <main class="wrap">
@@ -234,6 +236,8 @@ h2.sec{font-family:var(--doc);font-size:clamp(22px,3vw,26px);font-weight:600;let
   <p id="hoy-txt">La <b>participación ciudadana está abierta hasta el 3 de noviembre de 2026</b>. Es la única
   etapa abierta con seguridad a cualquier persona —otra se abre solo si la Adenda cambia sustantivamente el
   proyecto—, y <b>solo quien observa podrá reclamar después</b> si su observación no es considerada.</p>
+  <p class="hoy-nota">El 23 de octubre el SEA ya envió al titular sus 343 preguntas (el <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495">ICSARA</a>), y al 31 de
+  octubre había más de 650 observaciones ciudadanas ingresadas en el expediente.</p>
   <p id="hoy-acc"><a class="btn" href="observaciones.html">Armar mi observación <span aria-hidden="true">→</span></a>
   <a class="hoy-mas" href="#solo-quien-observa">Por qué ahora</a></p>
 </div>
@@ -285,13 +289,13 @@ distingue lo que fija la ley de lo que depende de una decisión.</p>
   <text class="t-est" x="78"  y="97"  text-anchor="middle">Ingreso del EIA</text>
   <text class="t-fec" x="236" y="80"  text-anchor="middle">HASTA EL 3 NOV 2026</text>
   <text class="t-est" x="236" y="97"  text-anchor="middle" fill="var(--acc)">Participación ciudadana</text>
-  <text class="t-fec" x="420" y="80"  text-anchor="middle">SIN FECHA</text>
+  <text class="t-fec" x="420" y="80"  text-anchor="middle">ICSARA 23 OCT 2026</text>
   <text class="t-est" x="420" y="97"  text-anchor="middle">ICSARA · Adenda</text>
   <text class="t-fec" x="600" y="80"  text-anchor="middle">SI EL SEA LO PIDE</text>
   <text class="t-est" x="600" y="97"  text-anchor="middle">Adenda complementaria</text>
   <text class="t-fec" x="742" y="80"  text-anchor="middle">SIN FECHA</text>
   <text class="t-est" x="742" y="97"  text-anchor="middle">Informe consolidado</text>
-  <text class="t-fec" x="886" y="80"  text-anchor="end">PLAZO ≈ 15 ENE 2027</text>
+  <text class="t-fec" x="886" y="80"  text-anchor="end">PLAZO ≈ 2 ABR 2027</text>
   <text class="t-est" x="886" y="97"  text-anchor="end">Calificación</text>
 
   <text class="t-pl" x="157" y="140" text-anchor="middle">60 días hábiles · Art. 29</text>
@@ -373,11 +377,11 @@ distingue lo que fija la ley de lo que depende de una decisión.</p>
   <ol>
     <li><b>Ingreso del EIA</b> · 27 de julio de 2026.</li>
     <li><b>Participación ciudadana</b> · hasta el 3 de noviembre de 2026 · 60 días hábiles (Art. 29). <i id="li-hoy">Abierta ahora.</i></li>
-    <li><b>ICSARA y Adenda</b> · sin fecha: el SEA consolida las observaciones y el titular responde.</li>
+    <li><b>ICSARA y Adenda</b> · el SEA emitió el ICSARA el 23 de octubre de 2026, con 343 preguntas; el titular responde en la Adenda, sin fecha fija.</li>
     <li><b>Nueva participación ciudadana</b>, solo si la Adenda trae cambios sustantivos · 30 días; suspende el plazo de pleno derecho (Art. 29).</li>
     <li><b>Adenda complementaria</b> · solo si el SEA la pide.</li>
     <li><b>Informe consolidado</b> · sin fecha. Si al calificar falta el permiso de un servicio, se le requiere, y si no lo emite en 15 días se tiene por otorgado (Art. 15).</li>
-    <li><b>Calificación y RCA</b> · plazo referencial del SEA al 15 de enero de 2027, que se corre mientras el titular prepara cada Adenda · 120 días más 60 (Art. 15 y 16). Tres desenlaces:
+    <li><b>Calificación y RCA</b> · plazo referencial del SEA al 2 de abril de 2027, que se corre mientras el titular prepara cada Adenda · 120 días más 60 (Art. 15 y 16). Tres desenlaces:
       aprobado, donde ningún organismo del Estado puede negar los permisos ambientales; aprobado con condiciones, que el titular
       puede reclamar en 30 días; o rechazado, donde los servicios quedan obligados a denegar los permisos.</li>
     <li><b>Si se aprueba</b>, la RCA caduca si las obras no empiezan en 5 años desde la notificación (Art. 25 ter).</li>
@@ -620,8 +624,9 @@ se tome con el expediente a la vista.</p>
 <p class="fuentes">
 <b>De dónde sale cada dato.</b> Fechas del proyecto: ficha de plazos del
 <a href="https://seia.sea.gob.cl/expediente/expedientesEvaluacion.php?modo=ficha&amp;id_expediente=2168892026">expediente 2168892026</a>
-del SEIA — ingreso 27/07/2026, cierre de participación ciudadana 03/11/2026, plazo de
-evaluación 15/01/2027. Plazos y efectos: texto oficial de la
+del SEIA — ingreso 27/07/2026, cierre de participación ciudadana 03/11/2026, plazo referencial de
+evaluación 02/04/2027 (consultado el 31/10/2026) — y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495">ICSARA</a> del 23/10/2026. El conteo de observaciones
+ciudadanas sale del listado público del expediente al 31/10/2026. Plazos y efectos: texto oficial de la
 <a href="https://www.bcn.cl/leychile/navegar?idNorma=30667">Ley 19.300</a> —
 <b>Art. 15</b> (120 días para calificar un EIA; si al calificar falta un permiso, el servicio
 requerido tiene 15 días para emitirlo o se tiene por otorgado), <b>Art. 16</b> (el plazo se suspende de
