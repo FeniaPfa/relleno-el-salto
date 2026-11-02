@@ -72,7 +72,10 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - Un informe geológico preliminar de 2023 que el titular acompaña describe una falla potencialmente
   activa que «compromete el cierre perimetral» (magnitud 6,8) y recomienda retroceder el cierre unos
   200 m; la línea de base de 2026 (Capítulo 3.5) concluye que no hay fallas activas en el Holoceno dentro
-  del proyecto, con un relevamiento de superficie. El Capítulo 4 no menciona la falla ni el sismo.
+  del proyecto, con cuatro días de terreno de observación de superficie (31 de enero a 3 de febrero de 2025, p. 5) y
+  sin estudio paleosismológico. El D.S. 189/2005 (art. 11 a) exige acreditar que el sitio no está expuesto a fallas
+  con desplazamiento en el Holoceno; el Capítulo 3.5 lo reformula como «no deben situarse sobre la traza de fallas
+  activas» (p. 3). El Capítulo 4 no menciona la falla ni el sismo.
 - La impermeabilización basal es una geomembrana HDPE de 1,5 mm sobre una lámina de bentonita (GCL)
   (Capítulo 1, p. 84).
 - El D.S. 189/2005 (art. 9) exige una zona de protección de 300 m al interior del predio, medida desde la zona de
