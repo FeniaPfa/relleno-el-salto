@@ -4,7 +4,7 @@
 > Integral de Residuos», relleno sanitario de Cosemar SpA en El Salto, Viña del Mar, Región de
 > Valparaíso (Ruta 60 Troncal Sur km 102,5). Expediente SEIA 2168892026. Casi todo sale de los
 > documentos que el propio titular presentó al Servicio de Evaluación Ambiental (SEA).
-> La participación ciudadana cierra el 3 de noviembre de 2026.
+> La participación ciudadana cerró el 3 de noviembre de 2026; el expediente espera la Adenda del titular.
 
 Al citar, indica el capítulo o anexo del expediente que respalda cada cifra; la página lo
 declara junto a cada una. Las cifras marcadas como «cálculo de esta página» no son del titular.
@@ -12,8 +12,8 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 ## Páginas
 
 - [Análisis del expediente](https://relleno-el-salto.chacao.workers.dev/): cifras, mapas, visores 3D y
-  observaciones modelo para la participación ciudadana.
-- [Observaciones fundadas, listas para ingresar](https://relleno-el-salto.chacao.workers.dev/observaciones):
+  y observaciones modelo de la participación ciudadana.
+- [Observaciones fundadas](https://relleno-el-salto.chacao.workers.dev/observaciones):
   veinticinco observaciones ciudadanas, cada una con la cita textual, el documento y la página del
   expediente, y la pregunta que el titular debe responder en la Adenda.
 - [Las especies afectadas](https://relleno-el-salto.chacao.workers.dev/especies): las trece plantas
@@ -24,7 +24,6 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - [Qué puede pasar, y cuándo](https://relleno-el-salto.chacao.workers.dev/tramite): el
   recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300.
 - [Ficha oficial del expediente](https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026)
-- [Formulario de participación ciudadana](https://seia.sea.gob.cl/pacEia/publico/solicitarPacEia.php?id_expediente=2168892026)
 
 ## Quién decide, y quién puede reclamar (Ley 19.300 y Ley 20.600)
 
@@ -49,6 +48,7 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
   titular debe responder en la Adenda. En su sección XVIII explica, en 27 casos, por qué dejó fuera pedidos de los servicios. Con eso, el plazo
   referencial de evaluación que muestra el SEIA pasó al 2 de abril de 2027 (consultado el 31 de octubre de 2026).
 - Al 31 de octubre de 2026 el expediente registraba 668 observaciones ciudadanas, de 409 remitentes distintos.
+- El 2 de noviembre de 2026, un día antes del cierre, la lista pública del expediente registraba 705 observaciones ciudadanas.
 
 ## Hechos, con su fuente en el expediente
 
