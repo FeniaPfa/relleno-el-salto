@@ -2,7 +2,7 @@
 
 Análisis geoespacial independiente del Estudio de Impacto Ambiental del relleno sanitario
 «Centro Metropolitano de Gestión Integral de Residuos» (Cosemar SpA), El Salto, Viña del Mar.
-Expediente SEIA **2168892026**. La participación ciudadana cierra el **3 de noviembre de 2026**.
+Expediente SEIA **2168892026**. La participación ciudadana cerró el **3 de noviembre de 2026**; el expediente espera la Adenda del titular.
 
 **→ <https://relleno-el-salto.chacao.workers.dev/>**
 
@@ -17,7 +17,7 @@ sitio que el servicio puede cambiar o retirar.
 
 | página | qué es |
 |---|---|
-| [`index.html`](https://relleno-el-salto.chacao.workers.dev/) | el análisis: cifras, mapas, dos visores 3D, preguntas frecuentes y observaciones modelo para ingresar en el SEA |
+| [`index.html`](https://relleno-el-salto.chacao.workers.dev/) | el análisis: cifras, mapas, dos visores 3D, preguntas frecuentes y observaciones modelo de la participación ciudadana |
 | [`observaciones.html`](https://relleno-el-salto.chacao.workers.dev/observaciones) | veinticinco observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
 | [`especies.html`](https://relleno-el-salto.chacao.workers.dev/especies) | las trece especies que el expediente registra en el área, con foto de licencia libre, categoría, lo que el proyecto les hace y lo que el estudio no resuelve |
 | [`relato.html`](https://relleno-el-salto.chacao.workers.dev/relato) | el recorrido en 3D con scroll: la quebrada que se llena, el viento, el agua y la vista desde cada población |
