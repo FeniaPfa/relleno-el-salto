@@ -90,7 +90,7 @@ def revisar(ruta):
         if par is None: continue
         cont = par
         # el texto del elemento (sin partir las citas que cruzan <b>, <i>)
-        for a in par.parents:
+        for a in [par] + list(par.parents):
             if a.name in BLOQUES: cont = a; break
         texto = H.unescape(cont.get_text(''))
         for m in re.finditer(r'«([^»]{4,})»', texto):

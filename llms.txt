@@ -92,8 +92,20 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
   Capítulo 3.4 reconoce que «no existe información detallada directamente en el área del proyecto» sobre el
   agua subterránea (p. 27).
 - El expediente no estima la concentración de ácido sulfhídrico en el aire de las viviendas: el Anexo 4.4
-  modela unidades de olor y el Capítulo 5 (p. 22) analiza la vía aire solo como olor. Las emisiones de
-  biogás suponen una captación del 75 % (Anexo 4.1, p. 85).
+  modela unidades de olor y el Capítulo 5 (p. 22) analiza la vía aire solo como olor.
+- Captación de biogás: el Anexo 4.1 calcula las emisiones con una captación del 75 % (p. 85), y de ahí sale la
+  Tabla 77 de gases de efecto invernadero del Capítulo 1; el mismo titular declara 50 % en el Capítulo 1 (p. 117),
+  el PAS 141 (p. 84) y el Anexo 1.8 (p. 8). Con 50 %, la fracción que escapa es el doble de la que usan los cálculos.
+- Metano: el Anexo 4.1 lo convierte a CO₂ equivalente con un factor de 28 (p. 191), el valor a 100 años del
+  quinto informe del IPCC; a 20 años, el IPCC estima unas 80 veces el efecto del CO₂. El titular proyecta la
+  generación de gas hasta el año 70 y compromete unos 20 años de post-cierre.
+- El D.S. 189/2005 (art. 49) exige un Plan de Monitoreo de biogás con puntos definidos según la geología y las
+  vías de migración, y prohíbe superar el 25 % del límite inferior de explosividad del metano fuera de los límites
+  del relleno. En el texto del expediente no aparece ese plan: el Capítulo 1 (p. 175) prevé medir metano «desde
+  las chimeneas».
+- Los 600 m a captaciones de agua del D.S. 189/2005 (art. 10) se acreditaron revisando solo las captaciones
+  registradas en la DGA (Capítulo 3.4, pp. 29-30), en un sector que la propia línea de base describe con
+  abastecimiento por camión aljibe (Capítulo 3.19).
 - El proyecto declara 30.741.988 toneladas en 25 años de operación, más cierre y post-cierre (unos 20 años).
 - Cálculo de esta página, no del titular: el 99,7 % del predio se quemó en el incendio de
   febrero de 2024 (Sentinel-2, índice dNBR).
@@ -109,6 +121,8 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
 - [Capítulo 5 · Análisis del Artículo 11](https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf)
 - [Capítulo 7 · Plan de seguimiento](https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf)
 - [Capítulo 8 · Contingencias y emergencias (incluye el Anexo 8.1, Plan de Gestión de Olor)](https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar)
+- [Capítulo 3.4 · Hidrogeología](https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar)
+- [Anexo 4.1 · Estimación de emisiones](https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar)
 - [Anexo 4.2 · Modelación meteorológica](https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf)
 - [Anexo 4.5 · Evaluación paisajística](https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar)
 - [Anexo 9.6 · PAS 141, relleno sanitario](https://seia.sea.gob.cl/archivos/2026/07/17/934_Anexo_96_PAS_141_Relleno_Sanitario.pdf)
