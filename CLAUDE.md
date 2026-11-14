@@ -59,8 +59,16 @@ páginas**: si cambias un color, cámbialo sólo en `plantilla.html`.
 
 **`observaciones.html`, reglas que salieron del comité UX** (público: vecinos con poca experiencia
 digital, en celular, muchos desde el navegador interno de WhatsApp):
-- «Sumar a mi observación» y «Copiar» van **fuera** de todo `<details>`; estuvieron dentro y nadie
-  podía elegir nada sin abrir el desplegable. Las pruebas y el texto sí van plegados.
+- «Sumar a mi observación» y «Copiar» van **fuera** de todo `<details>` de la tarjeta; estuvieron dentro y
+  nadie podía elegir nada sin abrir el desplegable. Las pruebas y el texto sí van plegados.
+- **Con la participación cerrada (decisión de la dueña, 2026-11):** la herramienta de armar (`#armar`) es un
+  `<details>` plegado, «Si se abre una nueva participación». Mientras está cerrado, `body` no lleva la clase
+  `armando` y se ocultan los `.ops` de cada tarjeta y la barra fija; abrirlo los muestra, y se abre sola si hay
+  una selección guardada (`?e=` o `localStorage`) o si se llega con `#armar`. Si se reabre la participación,
+  basta con dejarlo abierto (`open`) y devolverle el plazo a la bajada.
+- **«Cuando llegue la Adenda»** (`#adenda`): la tabla la arma `tabla_adenda()` de `build.py` leyendo cada
+  tarjeta (número, `h2` y su `p.ics`), en el marcador `<!--__ADENDA__-->`. Cuando se publique la Adenda, la
+  columna «Adenda» es la que hay que llenar; `build.py` falla si una tarjeta no tiene estado en el ICSARA.
 - Copiar intenta primero `execCommand` (síncrono, dentro del toque: funciona en los WebView), después
   `navigator.clipboard`, y si todo falla deja el texto **seleccionado** con instrucciones. Nunca
   falla en silencio, y no copia si falta la población.

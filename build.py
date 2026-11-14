@@ -106,6 +106,33 @@ def segunda(h):
         '<script>location.replace("tramite.html"+location.search+location.hash)</script>\n'
         '<p>Esta página ahora está en <a href="tramite.html">%s</a>.</p>\n' % (nueva, nueva))
 
+ESTADO_ICSARA = {'si': 'Sí', 'parte': 'En parte', 'no': 'No'}
+
+def tabla_adenda(pg):
+    """La lista para revisar la Adenda: una fila por observación, leída de las propias tarjetas
+    (número, título y estado en el ICSARA), así que no puede divergir de ellas."""
+    filas = []
+    for art in re.findall(r'<article class="obs".*?</article>', pg, re.S):
+        oid = re.search(r'id="(obs-[a-z-]+)"', art).group(1)
+        num = re.search(r'<span class="num">(\d+)</span>', art).group(1)
+        tit = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', re.search(r'<h2>(.*?)</h2>', art, re.S).group(1))).strip()
+        est = re.search(r'<p class="ics ics-(si|parte|no)"', art)
+        assert est, 'observación sin estado en el ICSARA: ' + oid
+        e = est.group(1)
+        filas.append('<tr><td class="n">%s</td><td><a href="#%s">%s</a></td>'
+                     '<td class="e e-%s"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-%s"/></svg>%s</td>'
+                     '<td class="r">Pendiente</td></tr>' % (num, oid, tit, e, e, ESTADO_ICSARA[e]))
+    return ('<details class="adenda despl" id="adenda">\n'
+            '  <summary>Cuando llegue la Adenda: qué revisar <span class="cnt">(%d)</span></summary>\n'
+            '  <div class="ad-c">\n'
+            '  <p>Para cada observación: si el SEA ya se la preguntó al titular en el ICSARA y si la Adenda la responde. '
+            'Mientras la Adenda no se publique, todas están pendientes. Las que no están en el ICSARA solo llegan a la '
+            'evaluación por las observaciones ciudadanas.</p>\n'
+            '  <table class="ad-t">\n    <thead><tr><th class="n" scope="col">N.º</th><th scope="col">Observación</th>'
+            '<th class="e" scope="col">ICSARA</th><th class="r" scope="col">Adenda</th></tr></thead>\n'
+            '    <tbody>\n    %s\n    </tbody>\n  </table>\n  </div>\n</details>'
+            % (len(filas), '\n    '.join(filas)))
+
 def observaciones(h):
     """observaciones.html: las observaciones fundadas, con cita y página, listas para copiar.
     Estática como la segunda: hereda tokens y fuentes, y su script se valida con node."""
@@ -114,6 +141,8 @@ def observaciones(h):
     pg = pg.replace('/*__TOKENS__*/', tokens(h)).replace('{fecha_iso}', fecha_iso())
     assert pg.count('<!--__FUENTES__-->') == 1, 'marcador de fuentes ausente en observaciones.html'
     pg = pg.replace('<!--__FUENTES__-->', fuentes(h))
+    assert pg.count('<!--__ADENDA__-->') == 1, 'marcador de la tabla de la Adenda ausente en observaciones.html'
+    pg = pg.replace('<!--__ADENDA__-->', tabla_adenda(pg))
     ids = re.findall(r'<article class="obs" id="(obs-[a-z-]+)"', pg)
     assert len(ids) == len(set(ids)), 'id de observación duplicado'
     # cada .pide de la principal que apunta aquí debe encontrar su observación

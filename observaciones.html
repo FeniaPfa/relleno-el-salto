@@ -92,7 +92,17 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 /* ── el armador ── */
 .armar{margin:30px 0 0;background:var(--surf);border:1px solid var(--line);border-top:3px solid var(--acc);
   border-radius:3px;padding:18px 20px 20px}
-.armar h2{margin:0 0 4px;font-family:var(--doc);font-size:21px;font-weight:600}
+.armar>summary{list-style:none;cursor:pointer;display:flex;flex-direction:column;gap:4px;padding-right:28px;position:relative;min-height:44px}
+.armar>summary::-webkit-details-marker{display:none}
+.armar>summary::after{content:'';position:absolute;right:4px;top:8px;width:9px;height:9px;border-right:2.5px solid var(--acc);
+  border-bottom:2.5px solid var(--acc);transform:rotate(45deg);transition:transform .2s}
+.armar[open]>summary::after{transform:rotate(-135deg);top:12px}
+.armar[open]>summary{margin-bottom:14px}
+.as-t{font-family:var(--doc);font-size:21px;font-weight:600;color:var(--ink)}
+.as-d{font-size:15px;color:var(--ink2);line-height:1.5;max-width:70ch}
+/* la herramienta de armar está plegada: sin ella abierta, las tarjetas no ofrecen elegir ni copiar */
+body:not(.armando) .ops,body:not(.armando) .barra{display:none}
+@media(prefers-reduced-motion:reduce){.armar>summary::after{transition:none}}
 .armar .ay{margin:0 0 14px;font-size:15px;color:var(--ink2);line-height:1.55;max-width:70ch}
 .campo{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:flex-end}
 .campo label{display:flex;flex-direction:column;gap:5px;font-family:var(--cart);font-size:14px;font-weight:600;color:var(--ink2);
@@ -131,7 +141,7 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 
 /* ── cada observación ── */
 .lista{display:flex;flex-direction:column;gap:22px;margin-top:22px}
-.obs{background:var(--surf);border:1px solid var(--line2);border-left:3px solid var(--acc);border-radius:3px;
+.obs{background:var(--surf);border:1px solid var(--line2);border-left:3px solid var(--line);border-radius:3px;
   padding:20px 22px 20px;scroll-margin-top:84px}
 .obs[hidden]{display:none}
 .obs:target{box-shadow:0 0 0 2px var(--acc-s),0 0 0 1px var(--acc)}
@@ -161,13 +171,15 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 .cita{margin:0;padding:10px 14px 10px 14px;background:var(--surf2);border:0;border-left:3px solid var(--lctl);border-radius:2px;
   display:flex;flex-direction:column;gap:7px}
 .cita p{margin:0;font-family:var(--doc);font-size:16px;line-height:1.5;color:var(--ink)}
-.cita p b{font-weight:600;background:var(--acc-s)}
+.cita p b{font-weight:600;background:var(--sunk)}
 .cita cite{font-size:14.5px;line-height:1.4;font-style:normal;font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--ink3);margin-top:auto;letter-spacing:.01em}
 .cita cite a{color:var(--ink2)}
 .cita.calc{border-left:3px dashed var(--blue)}
 .cita.calc p{font-family:var(--txt);font-size:15px}
 .cita.calc cite{color:var(--blue)}
 .choque,.pide{margin:0 0 12px;font-size:15.5px;line-height:1.6;max-width:72ch;color:var(--ink)}
+/* el pedido es el texto que más importa de cada tarjeta: no va más chico que la tesis */
+.pide{font-size:16.5px}
 .choque>b:first-child,.pide>b:first-child{display:block;font-family:var(--cart);font-size:13.5px;font-weight:600;margin-bottom:2px;text-transform:uppercase;letter-spacing:.06em}
 .choque>b:first-child{color:var(--ink2)}
 .pide>b:first-child{color:var(--acc)}
@@ -226,6 +238,17 @@ h1{font-family:var(--doc);font-weight:600;font-size:clamp(27px,4.2vw,40px);line-
 .despl>summary:hover{border-color:var(--ink2)}
 .despl[open]>summary{border-bottom-left-radius:0;border-bottom-right-radius:0}
 .despl .cnt{font-weight:400;color:var(--ink3);margin-left:-4px;margin-right:auto}
+.adenda{margin:34px 0 0}
+.adenda>.ad-c{border:1px solid var(--lctl);border-top:0;border-radius:0 0 3px 3px;padding:12px 14px}
+.ad-c>p{margin:0 0 12px;font-size:15px;line-height:1.55;color:var(--ink2);max-width:70ch}
+.ad-t{width:100%;border-collapse:collapse;table-layout:fixed;font-family:var(--cart);font-size:14.5px;line-height:1.4}
+.ad-t th{text-align:left;font-weight:600;color:var(--ink2);font-size:13.5px;text-transform:uppercase;letter-spacing:.06em;padding:6px 6px 8px;border-bottom:1px solid var(--line)}
+.ad-t td{padding:8px 6px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--ink)}
+.ad-t .n{width:2.4em;font-family:var(--cifra);color:var(--ink3)} .ad-t .e{width:6.2em} .ad-t .r{width:6.4em;color:var(--ink3)}
+.ad-t td a{color:inherit;text-decoration-color:var(--lctl)}
+.ad-t .e .ico{width:14px;height:14px;vertical-align:-2px;margin-right:4px}
+.ad-t .e-si .ico{color:var(--green)} .ad-t .e-parte .ico{color:var(--warn)} .ad-t .e-no .ico{color:var(--acc)}
+@media(max-width:400px){ .ad-t .e{width:5.4em} .ad-t .r{width:5.6em} .ad-t{font-size:14px} }
 .despl>dl{border:1px solid var(--lctl);border-top:0;border-radius:0 0 3px 3px;padding:12px 14px;margin:0!important}
 @media(prefers-reduced-motion:reduce){.despl>summary::after{transition:none}}
 
@@ -238,7 +261,7 @@ html{scroll-padding-top:84px;scroll-padding-bottom:96px}
 .glosario{margin:20px 0 0;max-width:70ch}
 .glosario summary,.evid summary,.texto summary,.vista summary{min-height:44px;display:flex;align-items:center;gap:8px;cursor:pointer;
   font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
-.glosario summary::before,.evid summary::before,.texto summary::before,.vista summary::before{content:'▸';color:var(--acc);font-size:14px}
+.glosario summary::before,.evid summary::before,.texto summary::before,.vista summary::before{content:'▸';color:var(--ink3);font-size:14px}
 .glosario[open] summary::before,.evid[open] summary::before,.texto[open] summary::before,.vista[open] summary::before{content:'▾'}
 .glosario summary::-webkit-details-marker,.evid summary::-webkit-details-marker,.texto summary::-webkit-details-marker,.vista summary::-webkit-details-marker{display:none}
 .glosario summary,.evid summary,.texto summary,.vista summary{list-style:none}
@@ -264,7 +287,7 @@ html{scroll-padding-top:84px;scroll-padding-bottom:96px}
 .ops{margin:4px 0 14px}
 .elegir{min-height:48px;font-size:16px}
 .elegir input{width:22px;height:22px}
-.obs.sel{border-left-width:6px;background:linear-gradient(var(--acc-s),var(--acc-s)),var(--surf)}
+.obs.sel{border-left-color:var(--acc);border-left-width:6px;background:linear-gradient(var(--acc-s),var(--acc-s)),var(--surf)}
 .obs.sel .elegir{background:var(--acc-s);border-color:var(--acc);color:var(--ink)}
 .obs.sel .num::after{content:' ✓ elegida';font-family:var(--cart);font-size:14px}
 .evid{margin:0 0 6px} .evid[open]{margin-bottom:14px}
@@ -311,8 +334,8 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 
 <ol class="uso">
   <li><b>Si observaste,</b> guarda el comprobante: solo quien observó puede reclamar si su observación no fue debidamente considerada.</li>
-  <li><b>Cuando se publique la Adenda,</b> compara lo que pide cada tarjeta con lo que responde el titular.</li>
-  <li><b>Si se abre una nueva participación,</b> elige las observaciones, escribe tu población y copia el texto, como antes.</li>
+  <li><b>Cuando se publique la Adenda,</b> compara lo que pide cada tarjeta con lo que responde el titular: <a href="#adenda">la lista para revisarla</a> está al final.</li>
+  <li><b>Si se abre una nueva participación,</b> <a href="#armar">abre la herramienta</a>: elige las observaciones, escribe tu población y copia el texto, como antes.</li>
 </ol>
 
 <details class="glosario despl">
@@ -333,8 +356,10 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   </dl>
 </details>
 
-<section class="armar" id="armar" aria-labelledby="t-armar">
-  <h2 id="t-armar">Tu observación</h2>
+<details class="armar" id="armar">
+  <summary><span class="as-t" id="t-armar">Si se abre una nueva participación</span>
+  <span class="as-d">Para armar el texto si la Adenda trae cambios sustantivos y el SEA abre otro plazo de 30 días.
+  Hoy no hay plazo abierto.</span></summary>
   <div class="rapido">
     <p><b>¿Poco tiempo?</b> Elige las 3 recomendadas: la falla geológica, el camino por una zona donde
     el Plan Regulador prohíbe rellenos, y la falta de monitoreo. Las dos primeras son condiciones que el
@@ -368,7 +393,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
     <textarea id="previa" readonly></textarea>
   </details>
   <noscript><p class="nojs">Sin JavaScript no se puede armar el texto, pero cada observación de abajo se puede seleccionar y copiar a mano.</p></noscript>
-</section>
+</details>
 
 <p class="sr" id="f-estado" role="status" aria-live="polite"></p>
 <nav class="filtros" aria-label="Filtrar por tema">
@@ -393,7 +418,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-falla" data-tema="suelo">
   <div class="cab"><span class="num">1</span><p class="tema">Suelo y sismo</p></div>
   <h2>El reglamento le exige acreditar que el sitio no está expuesto a fallas activas, y el estudio lo descarta con cuatro días de terreno</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó por el diseño y la integridad de las obras ante la falla (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=42" target="_blank" rel="noopener">131</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=134" target="_blank" rel="noopener">279</a>), pero no que se acredite que no se movió en el Holoceno, que es lo que exige el reglamento. Esta observación pide eso.</span></p>
   <p class="tesis">El reglamento de rellenos prohíbe emplazar uno en un sitio expuesto a fallas activas (las que se
   movieron en los últimos unos 12.000 años) y pone en el titular la carga de acreditarlo. Su propio informe geológico
   describe una falla potencialmente activa capaz de un sismo de magnitud 6,8, y SERNAGEOMIN señala una falla dentro
@@ -428,6 +452,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   que cortan; geofísica para ubicarlas bajo el maicillo; el peligro sísmico del sitio con esa falla como fuente; y el
   análisis dinámico de la masa y de la impermeabilización. Una nueva campaña de superficie no basta: con ese método, el
   informe de 2023 del propio titular concluyó que la falla es potencialmente activa. Si alguna resulta activa, el sitio no puede usarse.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó por el diseño y la integridad de las obras ante la falla (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=42" target="_blank" rel="noopener">131</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=134" target="_blank" rel="noopener">279</a>), pero no que se acredite que no se movió en el Holoceno, que es lo que exige el reglamento. Esta observación pide eso.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El artículo 11 del D.S. 189/2005 del Ministerio de Salud prohíbe emplazar rellenos sanitarios en suelos que puedan afectar su estabilidad estructural, «debiendo acreditarse que el sitio: a) No se encuentra expuesto a fallas geológicas activas, entendiéndose por tales a aquellas en las cuales ha ocurrido un desplazamiento durante el período holoceno». La carga de acreditarlo es del titular, y se trata de una condición de emplazamiento, no de un impacto mitigable.</p><p>El Capítulo 3.5 reformula esa norma de forma más estrecha: «Dicho reglamento establece que los rellenos sanitarios no deben situarse sobre la traza de fallas activas» (p. 3), cuando el reglamento exige que el sitio no esté expuesto a ellas. Su trabajo de terreno fueron cuatro días, «31 de enero, 1 2 y 3 de febrero de 2025» (p. 5), y con esa observación de superficie concluye «la ausencia de fallas con actividad durante el Holoceno dentro de los confines del Proyecto» (p. 18). El mismo capítulo reconoce que la Zona de Falla Marga-Marga está «descrita como potencialmente activa en la literatura técnica» (p. 9) y que «no existe un total consenso sobre la posición y la movilidad de esta falla» (p. 14). El informe geológico-estructural de noviembre de 2023 que acompaña el titular afirma: «Se confirma la existencia de una falla potencialmente activa y perteneciente a la Zona de Fallas Marga Marga en el extremo norte del complejo, la cual compromete el cierre perimetral» (p. 2), capaz de un sismo de magnitud 6,8 con aceleraciones de 49,5 % de la gravedad (p. 15), y con «una zona de daño que puede alcanzar cerca de 140 m» (p. 12). El Apéndice 1 describe además, en el punto G19, una «fractura potencialmente activa» con «jaboncillo de falla y espejos de fricción» (p. 15), y SERNAGEOMIN, en su ORD. 1511, señala «una “falla observada” en el interior del Relleno Sanitario». En el texto del expediente no hay ningún estudio paleosismológico, y el ICSARA (preguntas 131, 176 y 279) pide evaluar el diseño y la integridad de las obras frente a la falla, pero no acreditar la condición del artículo 11.</p><p>Solicito que el titular acredite el cumplimiento del artículo 11 letra a) del D.S. 189 mediante un estudio paleosismológico: trincheras perpendiculares a cada estructura identificada (la falla potencialmente activa del informe de 2023, la «falla observada» al interior del relleno, la fractura del punto G19 y la traza de la Zona de Falla Marga-Marga), con dataciones de los depósitos que intersectan, que permitan afirmar si hubo desplazamiento durante el Holoceno; geofísica de alta resolución para ubicar esas estructuras bajo el maicillo; un análisis de peligro sísmico específico del sitio que considere la Zona de Falla Marga-Marga como fuente; y un análisis dinámico de la masa de residuos y del sistema de impermeabilización basal (geomembrana, GCL y drenes), cuyos resultados se incorporen al Capítulo 4, con medidas en el Capítulo 6 y seguimiento en el Capítulo 7. Una nueva campaña de observación de superficie no permite acreditarlo: con ese mismo método, el informe de 2023 que acompaña el titular concluyó que existe una falla potencialmente activa que compromete el cierre perimetral, y la línea de base de 2025 concluyó lo contrario. Si no puede acreditarse que el sitio no está expuesto a fallas activas, solicito que el proyecto se califique desfavorablemente.</p></div>
@@ -437,7 +462,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-espesor" data-tema="suelo">
   <div class="cab"><span class="num">2</span><p class="tema">Suelo y sismo</p></div>
   <h2>¿80 o 54 metros de basura? El mismo capítulo da dos alturas</h2>
-  <p class="ics ics-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg><span><b>No está en el ICSARA</b> · El SEA no se lo preguntó al titular: solo llega a la evaluación si alguien lo observa.</span></p>
   <p class="tesis">El balance de lixiviados del Capítulo 1 se modeló con un espesor promedio de 80 m. La
   capacidad y la superficie que declara el mismo capítulo dan 54 m.</p>
   <div class="pruebas">
@@ -453,6 +477,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   dimensionamiento de las piscinas y de la planta de tratamiento descansa sobre otra masa de residuos.</p>
   <p class="pide"><b>Qué tiene que responder</b>Cuál es el espesor y la cota final real; rehacer el balance
   de lixiviados con la geometría declarada; y presentar la secuencia de llenado georreferenciada, año a año.</p>
+  <p class="ics ics-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg><span><b>No está en el ICSARA</b> · El SEA no se lo preguntó al titular: solo llega a la evaluación si alguien lo observa.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>La Tabla 40 del Capítulo 1 (p. 103), con los parámetros de la simulación del balance de lixiviados, usa un «Espesor promedio (m) 80» para una capacidad de 24.331.032 m³. La Tabla 30 del mismo capítulo (p. 76) declara esa misma capacidad sobre una superficie de intervención de 449.951 m², lo que da un espesor promedio de 54 m. Son dos geometrías distintas para la misma masa de residuos.</p><p>Solicito que el titular aclare cuál es el espesor promedio y la cota final de la masa de residuos; que rehaga el balance de lixiviados con la geometría efectivamente proyectada y muestre cómo cambia el dimensionamiento de las piscinas y de la planta de tratamiento; y que presente la secuencia de llenado georreferenciada, año a año, durante los 25 años de operación.</p></div>
@@ -462,7 +487,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-remocion" data-tema="suelo">
   <div class="cab"><span class="num">3</span><p class="tema">Suelo y sismo</p></div>
   <h2>Caída de rocas y flujos por las quebradas: su propio estudio pide investigar los flujos, y no se investigaron</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=42" target="_blank" rel="noopener">129</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El D.S. 189 exige acreditar que el sitio no está expuesto a remociones en masa. El estudio
   de riesgos naturales del titular concluye que el lugar «es seguro respecto a movimientos en masa», pero encontró
   caída de rocas en el escarpe norte y advierte que las ondas de choque en los flujos de las quebradas «debería ser
@@ -484,6 +508,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>El análisis de susceptibilidad y de peligro por remoción en
   masa que pide SERNAGEOMIN, para toda el área de influencia, incluido el camino de acceso, y la investigación de los flujos de las
   quebradas que su propio estudio dejó pendiente.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=42" target="_blank" rel="noopener">129</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El artículo 11 del D.S. 189/2005 exige acreditar que el sitio de un relleno sanitario «No se encuentra expuesto a remociones en masa tales como flujos de barro o detrito» y «Se encuentra en terrenos estables no expuestos a deslizamientos o derrumbes». La línea de base de geomorfología y riesgos naturales (Capítulo 3.6) identifica «procesos de caída de rocas asociados al escarpe norte del área» y concluye que constituyen «un proceso que debe ser considerado en el diseño y ejecución de las obras proyectadas» (p. 16), y advierte que «sería posible el desarrollo de ondas de choque en los flujos emergentes de las quebradas principales, tema que debería ser investigado en mayor detalle» (pp. 4-5). SERNAGEOMIN, en su ORD. 1511, solicita un análisis de susceptibilidad ante remoción en masa para caída de rocas, flujos y deslizamientos en toda el área de influencia, incluido el camino de acceso.</p><p>Solicito que el titular presente ese análisis de susceptibilidad y la evaluación de peligro para las unidades de susceptibilidad alta o muy alta; que investigue los flujos de las quebradas que su propio estudio dejó pendientes, considerando el cambio en la escorrentía que producirán las obras; que justifique la ubicación de los acopios de excedentes de excavación frente a ese peligro; y que, con esos resultados, acredite el cumplimiento del artículo 11 del D.S. 189 antes de la calificación.</p></div>
@@ -493,7 +518,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-cursos" data-tema="agua">
   <div class="cab"><span class="num">4</span><p class="tema">Agua</p></div>
   <h2>El reglamento de rellenos exige más de 60 m entre el relleno y los cursos de agua, y la empresa no lo demuestra</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=64" target="_blank" rel="noopener">166</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El artículo 10 del D.S. 189 tiene dos exigencias de distancia. La primera, 600 m de toda
   captación de agua existente, el estudio hidrogeológico la da por cumplida revisando solo las captaciones
   registradas, en un sector donde su propia línea de base describe agua por camión aljibe. La segunda (más de 60 m de todo curso de agua,
@@ -521,6 +545,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   sitio, inscritos o no, porque el reglamento dice «toda captación de agua existente»; y la línea de máxima crecida de 100 años
   de las quebradas Q1, Q2 y Q3 y del Estero Marga-Marga, con la distancia de cada obra del relleno a esa línea,
   medida como manda el reglamento.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=64" target="_blank" rel="noopener">166</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El artículo 10 del D.S. 189/2005 exige que un relleno sanitario se ubique «a más de 600 metros de toda captación de agua existente, y a más de 60 metros de todo curso o masa de agua superficial, considerando dicho distanciamiento desde la ribera generada por la máxima crecida en un período de retorno de 100 años». El Capítulo 3.4 (pp. 29-30) da por cumplida la primera exigencia revisando solo «las captaciones superficiales y subterráneas registradas», es decir, los expedientes de la DGA, aunque el reglamento se refiere a toda captación existente, inscrita o no. Su propia línea de base de medio humano describe el sector El Salto Rural, «en el entorno del estero Marga Marga», con «un acceso más limitado a servicios urbanos tradicionales» (Capítulo 3.19, p. 38), y en sus entrevistas los vecinos de Las Lomas señalan que el agua «hay que comprarla mediante camión aljibe» y que «las personas de aquí hacia arriba no tienen acceso a agua, solamente acceso a comprarla» (Apéndice A, p. 1). En un sector sin red pública, los pozos, norias y vertientes de uso doméstico o para animales no tienen por qué estar inscritos. El PAS 157 (Anexo 9.11, p. 47) modela la crecida de 100 años de los cauces intervenidos, pero ningún documento informa la distancia entre esa ribera y las obras. Por el contrario, el Análisis de Aplicabilidad PAS 156/157 del Capítulo 3.3 declara que «el relleno sanitario consiste en la disposición de material sobre quebradas naturales» (p. 13), y su Tabla 3-3 (p. 15) pone el relleno sobre las quebradas Q1, Q2 y sus tributarios, y las piscinas de lixiviados sobre las quebradas Q2.1.9 y Q2.1.6. SERNAGEOMIN, en su ORD. 1511, señala además que la cuenca de la quebrada Q1 cruza el tramo suroriental del perímetro del proyecto.</p><p>Solicito que el titular acredite la primera exigencia del artículo 10 con un catastro en terreno de todas las captaciones de agua existentes (pozos, norias, vertientes y tomas) en un radio de 600 metros del sitio, estén o no inscritas en la Dirección General de Aguas, consultando a los vecinos de El Salto Rural, Las Lomas y El Calichero. Solicito además que acredite el cumplimiento de la segunda exigencia del artículo 10 del D.S. 189: que determine la ribera de máxima crecida con período de retorno de 100 años de las quebradas Q1, Q2 y Q3 y del Estero Marga-Marga, y que informe la distancia desde esa ribera a la zona de disposición de residuos y a cada instalación anexa (piscinas de lixiviados, planta de tratamiento, losa de lavado y zona de pesaje), medida como indica el inciso segundo del artículo 9 del mismo reglamento; y que, si dispone residuos sobre cauces, explique cómo cumple el artículo 10 o si pretende acogerse a la excepción que ese artículo permite con un estudio de riesgos aprobado por la SEREMI de Salud.</p></div>
@@ -533,7 +558,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-pozos" data-tema="agua">
   <div class="cab"><span class="num">5</span><p class="tema">Agua</p></div>
   <h2>Cinco pozos de control fuera del plan de seguimiento, sin umbrales y con su línea de base al final</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=37" target="_blank" rel="noopener">125</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=40" target="_blank" rel="noopener">127</a>); esta observación pide lo que falta. Además, un servicio pidió pozos aguas arriba y aguas abajo, y el SEA lo dejó fuera.</span></p>
   <p class="tesis">El estudio hidrogeológico reconoce que el agua podría infiltrarse en el maicillo y
   escurrir aguas abajo. El Capítulo 1 anuncia cinco pozos para detectar lixiviados. Qué se mide y cada
   cuánto aparece solo en el permiso de la planta de compostaje, sin umbrales ni acciones; la línea de base se
@@ -556,6 +580,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Incorporar los cinco pozos al Capítulo 7 con parámetros, frecuencia,
   una línea de base previa a la operación que incluya invierno, umbrales de alerta, acciones si se superan y
   reporte público, hasta el fin del post-cierre.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=37" target="_blank" rel="noopener">125</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=40" target="_blank" rel="noopener">127</a>); esta observación pide lo que falta. Además, un servicio pidió pozos aguas arriba y aguas abajo, y el SEA lo dejó fuera.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El estudio hidrogeológico del Capítulo 3.4 reconoce que «las aguas lluvias podrían infiltrarse y almacenarse de forma temporal en la zona meteorizada (“maicillo”). A su vez, que escurrirían aguas abajo hacia zonas más deprimidas» (p. 4), en un maicillo de 15 a 40 m de espesor (p. 3). El Capítulo 1 (§1.4.2.10, p. 116) anuncia una red de cinco pozos de observación para detectar infiltraciones de lixiviados. Solo el PAS 140 de la planta de compostaje (Anexo 9.5, p. 93) indica que «Los parámetros a monitorear corresponderán a los señalados en la Tabla N°1 de la NCh N°1.333, con una frecuencia de muestreo y entrega de informes semestral», sin umbrales ni acciones, y que la caracterización basal se hará «una vez construidos los pozos», el último en el año 15 de su cronograma (Capítulo 1, Tabla 49, p. 117). El Capítulo 7, Plan de Seguimiento de las Variables Ambientales Relevantes, no los incluye: su única ficha es el rescate de flora.</p><p>Solicito que los cinco pozos se incorporen al Plan de Seguimiento con los parámetros indicadores de lixiviado que se medirán, su frecuencia, una línea de base previa a la operación que incluya la temporada de lluvias, umbrales de alerta, las acciones que se adoptarán si se superan y la forma de reporte público, durante la operación, el cierre y todo el post-cierre.</p></div>
@@ -567,7 +592,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-impermeabilizacion" data-tema="agua">
   <div class="cab"><span class="num">6</span><p class="tema">Agua</p></div>
   <h2>El reglamento exige un suelo poco permeable y 3 metros sobre la napa; el único ensayo del predio da un suelo 350 veces más permeable, y la napa no se midió</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=37" target="_blank" rel="noopener">123</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El permiso del relleno transcribe el artículo del reglamento sanitario que fija cómo debe quedar
   aislado el fondo. Pide 3 metros hasta el nivel freático más alto y una capa de suelo de baja permeabilidad. El único
   ensayo de infiltración, hecho fuera de la huella del relleno, da un suelo unas 350 veces más permeable que ese
@@ -603,6 +627,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   freático más alto medido con piezómetros en la huella del relleno durante al menos un año hidrológico completo, con su invierno; cómo cumple el artículo 20 del
   D.S. 189/2005; detección de fugas bajo la masa, como la que ya proyecta para las piscinas; y pozos de control aguas
   abajo de las zanjas donde infiltra sus aguas servidas.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=37" target="_blank" rel="noopener">123</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El PAS 141 (Anexo 9.6, p. 48) transcribe el artículo 20 letra a) del D.S. 189/2005, que para poblaciones servidas superiores a 100.000 habitantes exige que «La distancia desde el fondo hasta el nivel freático más alto no deberá ser inferior a 3 metros, debiendo existir una capa de suelo con un coeficiente de conductividad hidráulica equivalente no superior a 10-5 cm/s». Sin embargo, el único ensayo de infiltración del predio, en la calicata C1, arroja una permeabilidad de 3,53E-03 cm/s, clasificada como «Moderadamente Elevada» (PAS 141, Tabla 3, p. 25), unas 350 veces el máximo. El Capítulo 3.4 reconoce que «no existe información detallada directamente en el área del proyecto» sobre el agua subterránea y que los pozos del valle que utiliza «no son representativos de las condiciones propias del área de estudio» (p. 27), por lo que el expediente no demuestra la separación de 3 metros al nivel freático más alto. Para el fondo del relleno proyecta una geomembrana de HDPE «de 1,5 mm» sobre una lámina de bentonita (pp. 48-49), mientras el reglamento exige un espesor que «no deberá ser inferior a 1,52 mm» sobre 60 cm de arcilla o un sistema de doble capa que garantice condiciones iguales o superiores, sin que encuentre en el expediente la demostración de esa equivalencia. Las piscinas de lixiviados tienen una «doble capa de impermeabilización, que permita detectar a tiempo fugas» (p. 64), pero el fondo del relleno no, y el plan de contingencia propone, ante una contaminación del agua subterránea, la «revisión de la carpeta de impermeabilización de la zona del relleno» (p. 154), que estará cubierta por decenas de metros de residuos. La SEREMI de Salud de Valparaíso, en su ORD. 068 (punto 8), observó que el ensayo está ubicado «fuera de la celda de vertido» y que «Al presentar el suelo natural una permeabilidad de 10-3 cm/s (dos órdenes de magnitud más permeable que lo tolerado), no se acredita la capacidad de amortiguación natural ante fallas de la geomembrana».</p><p>Solicito que el titular demuestre el cumplimiento del artículo 20 letra a) del D.S. 189/2005: con ensayos de conductividad hidráulica distribuidos en toda la huella del relleno y no en un solo punto; con el nivel freático más alto medido mediante una red de piezómetros en la huella del relleno durante al menos un año hidrológico completo, que incluya el invierno, porque el artículo 46 del mismo reglamento exige que los pozos se definan con estudios que caractericen las «variaciones estacionales del flujo», y la única calicata con agua, la 23, la tuvo tras lluvias (Capítulo 3.4, p. 22); con el espesor certificado de la geomembrana y la demostración de que el sistema propuesto equivale a la capa de arcilla que exige el reglamento. Solicito además que incorpore bajo la masa de residuos una capa de detección de fugas como la que proyecta para las piscinas, y ensayos de localización de fugas en la geomembrana antes de cubrirla. Por último, como el PAS 138 (Anexo 9.1, p. 18) dispone infiltrar en ese mismo suelo los efluentes de las fosas sépticas, con una «Infiltración promedio = 0,0035 cm/seg», y la SEREMI de Salud observó que «No se acredita la profundidad de la napa freática más desfavorable (en época invernal) bajo el fondo de las zanjas filtrantes» (ORD. 068, punto 4), solicito que acredite esa profundidad e instale pozos de control aguas abajo de las zonas de infiltración.</p></div>
@@ -613,7 +638,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-agua" data-tema="agua">
   <div class="cab"><span class="num">7</span><p class="tema">Agua</p></div>
   <h2>La calidad del agua se midió un solo día, con informes que el propio laboratorio dice que no sirven ante la SMA</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=37" target="_blank" rel="noopener">125</a>); esta observación pide lo que falta.</span></p>
   <p class="tesis">Toda la línea de base de calidad de agua superficial es una campaña del 29 de diciembre
   de 2025, en pleno verano. Los propios informes de laboratorio advierten que el muestreo no está
   acreditado. Y en ese único día, el Estero Quilpué ya superaba la norma de riego en coliformes fecales.</p>
@@ -631,6 +655,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Una línea de base de al menos un año hidrológico, con
   muestreo acreditado, que incluya la temporada de lluvias y aguas subterráneas; y cómo se capta y trata la
   escorrentía del predio antes de llegar al Estero Marga-Marga, al que drenan sus quebradas.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=37" target="_blank" rel="noopener">125</a>); esta observación pide lo que falta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 3.3 (p. 39) declara que la caracterización de calidad del agua consistió en «una campaña de muestreo el día 29 de diciembre de 2025, considerando tres puntos». Los informes de laboratorio del Apéndice D (A9481, A9482 y A9483) indican «El presente Informe de Ensayo no puede ser presentado ante la SMA» y «Muestreo No Acreditado». En ese único muestreo, el Estero Quilpué registró 2.400 NMP/100 ml de coliformes fecales, sobre el límite de 1.000 de la NCh 1333 (informe A9481, p. 3).</p><p>Solicito que el titular presente una línea de base de calidad de aguas superficiales y subterráneas de al menos un año hidrológico, que incluya la temporada de lluvias, con muestreo y análisis acreditados; y que explique cómo captará y tratará la escorrentía de contacto del predio para no aumentar la carga sobre el Estero Marga-Marga, al que drenan las quebradas del predio, con un seguimiento de calidad de aguas aguas arriba y aguas abajo incorporado al Capítulo 7.</p></div>
@@ -640,7 +665,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-caudal" data-tema="agua">
   <div class="cab"><span class="num">8</span><p class="tema">Agua</p></div>
   <h2>Con el proyecto baja más agua hacia el estero Marga-Marga; aguas abajo, en Viña del Mar, hay 32 puntos de inundación que el estudio no mira</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=90" target="_blank" rel="noopener">182</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=129" target="_blank" rel="noopener">269</a>); esta observación pide lo que falta. Además, el desborde histórico del estero de Viña lo planteó la Municipalidad y el SEA lo dejó fuera.</span></p>
   <p class="tesis">El propio titular calcula que, con el proyecto, crece la crecida de 100 años en la salida de las quebradas
   Q1 y Q2, que desembocan directo en el estero Marga-Marga, y que una tercera quebrada se desborda. Solo evalúa ese cambio
   dentro del predio. El agua sigue 13,5 km por el estero hasta el mar, y en ese recorrido SENAPRED tiene identificados 32
@@ -666,6 +690,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>El efecto del aumento de caudal y de sedimentos en el estero Marga-Marga
   y el estero de Viña hasta su desembocadura, frente a los puntos de inundación identificados; y el balance de lixiviados
   día a día para una tormenta de 24 horas de 209,6 mm y para el evento del 7 de octubre de 2026.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=90" target="_blank" rel="noopener">182</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=129" target="_blank" rel="noopener">269</a>); esta observación pide lo que falta. Además, el desborde histórico del estero de Viña lo planteó la Municipalidad y el SEA lo dejó fuera.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>Según la Tabla 2-42 del PAS 157 (Anexo 9.11, p. 91), con el proyecto la crecida de 100 años a la salida de la quebrada Q1 aumenta de 10,56 a 11,36 m³/s y la de la quebrada Q2 de 8,31 a 9,17 m³/s, y el mismo anexo reconoce que el aumento de caudal en la quebrada Q2.1.9, de 1,30 a 3,06 m³/s, se refleja en «el desborde de la quebrada Q2.1.9 unos 25 m antes de su empalme con Q2». El Capítulo 3.3 (análisis de aplicabilidad PAS 156/157, p. 7) indica que las quebradas Q1, Q2 y Q3 «drenan sus aguas directamente en el Estero Marga Marga». La Municipalidad de Viña del Mar recuerda que su ordenanza reconoce el estero Marga-Marga, en su tramo rural, como Área de Riesgo Inundable AR-1 (ORD. 1337, p. 4). Aguas abajo, en el recorrido del estero hasta el mar, el catastro de puntos críticos de invierno 2026 de SENAPRED identifica 32 puntos de inundación por desborde de cauce, entre ellos el propio estero Marga-Marga y el estero de Viña. No encuentro en el estudio una evaluación del efecto del aumento de caudal en el estero. Además, el balance de lixiviados (Anexo 1.2) usa series diarias sintéticas generadas desde promedios mensuales, con 35,98 mm en todo el octubre de su año más lluvioso, mientras que el 7 de octubre de 2026 la Dirección Meteorológica de Chile registró 125,2 mm en 24 horas en la estación Rodelillo; la Municipalidad ya advirtió que el peak de 724 m³/día de lixiviados supera la capacidad de tratamiento declarada.</p><p>Solicito que el titular evalúe el efecto del aumento de caudal y de sedimentos de las quebradas intervenidas sobre el estero Marga-Marga y el estero de Viña hasta su desembocadura, considerando los puntos de inundación identificados por SENAPRED; que presente el balance de lixiviados día a día para una tormenta de 24 horas de 209,6 mm, el valor de 25 años de su propia Tabla 2-21 del PAS 157, y para el evento observado el 7 de octubre de 2026, indicando cuánto se genera, dónde se almacena y en cuántos días se trata; y que describa qué ocurre y cómo se responde si los lixiviados rebalsan y alcanzan el estero.</p></div>
@@ -677,7 +702,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-viento" data-tema="aire">
   <div class="cab"><span class="num">9</span><p class="tema">Aire y olor</p></div>
   <h2>El polvo se calculó con el viento más bajo y se dispersó con el más alto</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=28" target="_blank" rel="noopener">91</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=108" target="_blank" rel="noopener">212</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">Para estimar cuánto polvo se levanta, el inventario de emisiones usa una estación de Viña
   del Mar con viento medio de 0,43 m/s y concluye que la erosión de las pilas es cero. Para dispersar ese
   polvo, el estudio meteorológico usa un modelo que da 5,73 m/s en el sitio, y que el propio titular reconoce
@@ -699,6 +723,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Usar un mismo viento, representativo del sitio y validado con
   mediciones en el lugar, para estimar las emisiones y para modelar su dispersión, y rehacer con él el inventario
   y la modelación de calidad del aire.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=28" target="_blank" rel="noopener">91</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=108" target="_blank" rel="noopener">212</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Anexo 4.1, Informe de Estimación de Emisiones, calcula el polvo con datos de la estación Jardín Botánico de Viña del Mar (INIA), con una velocidad media anual del viento de 0,43 m/s (pp. 39 y 46), y concluye que el viento «sobrepasó el umbral de 5,4 m/s en 0 ocasiones», por lo que «las emisiones directas generadas por erosión de pilas de acopio son 0,00 en todos sus contaminantes y todos sus años» (p. 38). Para la dispersión, en cambio, el Anexo 4.2, Informe de Modelación Meteorológica, usa un viento modelado para el sitio de 5,73 m/s de media, con máximos cercanos a 14 m/s (p. 23), y el mismo anexo reconoce «una sobreestimación sistemática de la velocidad del viento por parte del modelo»: en la estación Viña del Mar, la media observada fue de 0,61 m/s y la modelada de 2,91 m/s (p. 44). Con el viento del modelo, el umbral de erosión se supera y el factor de carguío del Anexo 4.1 (AP-42, sección 13.2.4, que crece con la velocidad del viento elevada a 1,3) sería del orden de 29 veces el calculado; con el viento de la estación, la dispersión sería mucho menor que la modelada. El expediente usa, para cada cálculo, el viento que da el menor impacto.</p><p>Solicito que el titular use un mismo viento, representativo del sitio y validado con mediciones en el lugar, tanto para estimar las emisiones como para modelar su dispersión; que justifique cuál es ese viento; que rehaga con él el inventario de emisiones atmosféricas y la modelación de calidad del aire; que, con los resultados corregidos, reevalúe el impacto sobre las poblaciones cercanas; y que incorpore al Capítulo 7 un seguimiento de material particulado (MP10 y MP2,5, no solo sedimentable).</p></div>
@@ -708,7 +733,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-olor" data-tema="aire">
   <div class="cab"><span class="num">10</span><p class="tema">Aire y olor</p></div>
   <h2>El olor del relleno se estimó con mediciones de otro proyecto y se comparó con una norma italiana</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=105" target="_blank" rel="noopener">206</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=112" target="_blank" rel="noopener">217</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=116" target="_blank" rel="noopener">229</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=116" target="_blank" rel="noopener">230</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">Para el relleno y los lixiviados, el modelo de olor no usa mediciones propias sino
   factores tomados de la evaluación de otra planta, el de lixiviados citado de segunda mano y ninguno con
   la medición original adjunta. Y el resultado se declara
@@ -732,6 +756,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   tonelaje y operación, por qué son comparables con 2.466 a 4.460 t/día, un análisis de sensibilidad con
   factores mayores, los receptores que exige su propia norma (el consultorio, las escuelas y los jardines más
   cercanos, y uno en cada población a menos de 3 km), y un seguimiento de olor en operación.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=105" target="_blank" rel="noopener">206</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=112" target="_blank" rel="noopener">217</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=116" target="_blank" rel="noopener">229</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=116" target="_blank" rel="noopener">230</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Anexo 4.4, Modelación de Olores, reconoce que, por ser una instalación nueva, el proyecto «no dispone de información empírica directa para la totalidad de sus fuentes emisoras» (p. 16), y declara que «para las fuentes correspondientes al relleno sanitario y al manejo de lixiviados, se han empleado emisiones de referencia basadas en el proyecto Ecobio Volta» (p. 17). La Tabla 5 (pp. 26-27) justifica el factor de lixiviados así: «Antecedentes SEIA indican que en Ecobio se realizaron mediciones olfatométricas en piscinas de lixiviado (…) ver referencia», y el del frente de trabajo activo con un anexo de la Adenda Complementaria de ese otro proyecto. El Capítulo 11 (p. 39) concluye que los olores cumplen «la Norma de Lombardía». Esa misma norma, que el titular adjunta como Anexo A del Anexo 4.4, exige en su numeral 7 (p. 11) que entre los receptores sensibles esté «il locale ad uso collettivo (scuola, ospedale, ecc.) più prossimo all’impianto», y que haya al menos uno en cada centro poblado «entro 3 km dall’impianto». Los 21 receptores del Anexo 4.4 (Tabla 3, p. 19) son 20 unidades habitacionales y la autopista, y el propio informe reconoce que «se ubican mayoritariamente al norte del emplazamiento» (p. 33).</p><p>Solicito que el titular acompañe las mediciones olfatométricas originales en que se basan los factores del relleno y de los lixiviados, indicando la instalación, su tonelaje diario, el tipo de residuo y la superficie del frente de trabajo; que demuestre que son comparables con un relleno que recibirá entre 2.466 y 4.460 toneladas diarias; que presente un análisis de sensibilidad con factores de emisión mayores y con el área del frente de trabajo de cada año; que agregue los receptores que exige la norma que eligió, incluidos el consultorio y los establecimientos educacionales más cercanos y al menos uno en cada población a menos de 3 km; y que comprometa en el Capítulo 7 un seguimiento de olor durante la operación, con un procedimiento de reclamos de la comunidad.</p></div>
@@ -743,7 +768,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-gases" data-tema="aire">
   <div class="cab"><span class="num">11</span><p class="tema">Aire y olor</p></div>
   <h2>Los gases del relleno se evalúan solo como olor: el ácido sulfhídrico no se estima, y la captación de biogás que supone no la respaldan las mediciones</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=27" target="_blank" rel="noopener">85</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=27" target="_blank" rel="noopener">90</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=28" target="_blank" rel="noopener">91</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El estudio reconoce que el ácido sulfhídrico se genera con los lixiviados y promete abatirlo,
   pero en ningún documento estima cuánto llegará al aire de las viviendas. El análisis de salud trata los gases solo
   como una molestia por olor. Y todas las emisiones de biogás parten de suponer que se capta el 75 %, cuando el
@@ -772,6 +796,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   emisiones del Anexo 4.1, la Tabla 77 y la modelación de olores; una estimación de la concentración de ácido sulfhídrico en las 21
   viviendas de su tabla de receptores, con una sensibilidad a captaciones menores; su evaluación de riesgo
   para la salud; y medición de gases en el perímetro y en las poblaciones durante la operación.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=27" target="_blank" rel="noopener">85</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=27" target="_blank" rel="noopener">90</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=28" target="_blank" rel="noopener">91</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 1 reconoce que los lixiviados generan «compuestos volátiles característicos de la degradación de lixiviados (tales como el ácido sulfhídrico y diversos mercaptanos)» (p. 114) y atribuye a un neutralizador una «eficiencia de abatimiento comprobada de hasta un 95% para compuestos críticos como el ácido sulfhídrico (H2S)» (p. 65). Sin embargo, ningún documento del expediente estima la concentración de ácido sulfhídrico en el aire de las viviendas: la modelación del Anexo 4.4 calcula unidades de olor, y el Capítulo 5 (p. 22) analiza la vía aire solo como olor, porque considera que «la principal emisión con potencial de generar molestias por la vía aire corresponde a los olores», para concluir que «el Proyecto no genera riesgo para la salud de la población». Además, las emisiones de biogás del Anexo 4.1 suponen que «se consideró una eficiencia de captura de 75%, por lo que las emisiones directas corresponden al 25% del gas generado» (p. 85), y de ese anexo sale la Tabla 77 de gases de efecto invernadero del Capítulo 1 (p. 182). Pero el propio titular declara otra cifra en tres documentos: el Capítulo 1 dice que la planta «ha sido configurada para lograr una eficiencia de captura del 50% de las emisiones generadas en el vaso» (p. 117), el PAS 141 que «considera una eficiencia de captura de 50%» (p. 84) y el Anexo 1.8 un «estándar de eficiencia de captura del orden del 50%» (p. 8). Con un 50 % captado, la fracción que escapa a la atmósfera es la mitad del biogás generado, no el 25 % con que se calcularon las emisiones. Estudios revisados por pares han asociado la exposición al ácido sulfhídrico proveniente de rellenos con mortalidad por cáncer de pulmón y enfermedades respiratorias en la población residente a menos de 5 km (Mataloni y otros, International Journal of Epidemiology, 2016, doi:10.1093/ije/dyw052), y mediciones satelitales han encontrado emisiones de metano de rellenos mayores que las informadas a la autoridad (Nesser y otros, Atmospheric Chemistry and Physics, 2024, doi:10.5194/acp-24-5069-2024). La SEREMI de Salud de Valparaíso, en su ORD. 068 (puntos 13, 21 y 22), observó que con frentes abiertos «la eficiencia real de captación suele ser inferior al 40-50%», que la modelación de olores «ignora las emisiones odorantes del 25% de biogás fugitivo» y que «el titular debía incorporar una Evaluación de Riesgo para la Salud de la Población bajo la metodología USEPA / OMS».</p><p>Solicito que el titular aclare cuál es la eficiencia de captación del proyecto y rehaga con ella las emisiones del Anexo 4.1, la Tabla 77 del Capítulo 1 y la modelación de olores del Anexo 4.4; que estime la concentración de ácido sulfhídrico y de los demás gases del relleno en las 21 unidades habitacionales de su tabla de receptores, incluyendo un análisis de sensibilidad con eficiencias de captación menores; que evalúe con esos resultados el riesgo para la salud de la población conforme al artículo 11 letra a) de la Ley 19.300; y que comprometa en el plan de seguimiento la medición continua de ácido sulfhídrico y metano en el perímetro del predio y en las poblaciones más cercanas, con umbrales y acciones si se superan.</p></div>
@@ -784,7 +809,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-ruido-fauna" data-tema="bio">
   <div class="cab"><span class="num">12</span><p class="tema">Flora y fauna</p></div>
   <h2>Un impacto significativo que desaparece entre un capítulo y otro</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=97" target="_blank" rel="noopener">192</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=140" target="_blank" rel="noopener">302</a>); esta observación pide lo que falta.</span></p>
   <p class="tesis">El estudio de ruido concluye que el ruido sobre reptiles y aves es un impacto significativo,
   y exige seguir a mamíferos y anfibios durante todo el proyecto. El capítulo que decide si el proyecto tiene
   efectos significativos dice que no, y el plan de seguimiento no incluye a ningún animal: tampoco al zorro
@@ -813,6 +837,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   umbrales; y, si vale la del Capítulo 3.8, declarar el efecto en el Capítulo 5 con sus medidas en el 6 y su
   seguimiento en el 7. En cualquier caso, incorporar al Capítulo 7 el seguimiento de mamíferos y anfibios
   que exige el Capítulo 3.8, y una medida para el zorro culpeo o la justificación de por qué no la requiere.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=97" target="_blank" rel="noopener">192</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=140" target="_blank" rel="noopener">302</a>); esta observación pide lo que falta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El estudio de ruido y vibraciones del Capítulo 3.8 concluye (p. 70) que «reptiles y aves se encuentran dentro del área de afectación conductual, por lo que se considera un impacto significativo y hace necesario tomar medidas de control». El Capítulo 5 (p. 8), en cambio, afirma que «los niveles estimados de ruido se encuentran por debajo de los umbrales de afectación conductual y fisiológica de la fauna nativa» y no lo declara significativo; y el Capítulo 4 (Tabla 86) califica la perturbación de fauna terrestre como «Moderado» y «NO SIGNIFICATIVO».</p><p>El mismo Capítulo 3.8 (p. 70) señala que, para mamíferos y anfibios, «durante las fases de construcción, operación y cierre del Proyecto, se deberá realizar un seguimiento ambiental para dichas especies». Sin embargo, el Capítulo 7 contiene una sola ficha de seguimiento, la de flora y vegetación, y ninguno de los compromisos voluntarios del Capítulo 10 se ocupa de mamíferos ni de anfibios. La línea de base de fauna (Cap. 3.11, pp. 34-35) registra siete ejemplares de zorro culpeo, clasificado Vulnerable, y señala que estas especies «representan los principales objetos de protección del componente fauna terrestre y representan la base para la evaluación de impactos y la definición de medidas de manejo ambiental del proyecto»; no obstante, el zorro culpeo no tiene ninguna medida asociada.</p><p>Solicito que el titular explique esta contradicción indicando los niveles de ruido, los umbrales y las especies consideradas en cada capítulo; y que, si se sostiene la conclusión del Capítulo 3.8, declare el efecto como significativo en el Capítulo 5, con medidas de mitigación en el Capítulo 6 y seguimiento de la fauna afectada en el Capítulo 7. Solicito además que, en cualquier caso, incorpore al Capítulo 7 el seguimiento de mamíferos y anfibios que exige el Capítulo 3.8, con puntos de control, parámetros y frecuencia; y que proponga una medida para el zorro culpeo o justifique por qué no la requiere pese a su categoría de conservación.</p></div>
@@ -822,7 +847,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-flora" data-tema="bio">
   <div class="cab"><span class="num">13</span><p class="tema">Flora y fauna</p></div>
   <h2>Trece plantas, y una meta que se cumple aunque desaparezcan las dos orquídeas</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=141" target="_blank" rel="noopener">304</a>); esta observación pide lo que falta.</span></p>
   <p class="tesis">La única ficha del plan de seguimiento (Capítulo 7) es el rescate de 13 plantas de tres especies.
   La meta es que sobreviva el 70 %: se cumple con 10 de 13, aunque mueran los dos únicos ejemplares de
   orquídea.</p>
@@ -841,6 +865,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Una meta por especie, la ubicación georreferenciada y la
   protección del sitio receptor, metas verificables para la propagación que ya anuncia y qué medida se activa
   si la meta no se cumple.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=141" target="_blank" rel="noopener">304</a>); esta observación pide lo que falta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Plan de Manejo Biológico (Anexo 6.1, p. 6) identifica «13 individuos pertenecientes a tres especies» en categoría de conservación: 11 Alstroemeria marticorenae, 1 Chloraea cristata y 1 Chloraea disoides (Capítulo 11, p. 14). El Capítulo 7 (p. 4) fija como meta que «al menos el 70% de los individuos efectivamente rescatados y relocalizados presentan condición de supervivencia». El 70 % de 13 se cumple con 10 sobrevivientes, de modo que la meta se da por cumplida aunque mueran los dos únicos ejemplares de Chloraea. Además, la base son los individuos «efectivamente rescatados», no los identificados, y el sitio receptor «preferentemente» se ubicará cerca del área de rescate (Anexo 6.1, p. 13), sin coordenadas.</p><p>Solicito que el titular fije una meta de supervivencia por especie, con 100 % para las especies representadas por un solo individuo; que georreferencie el sitio receptor y explique cómo se protegerá durante 25 años de operación; que la recolección de semillas y los ensayos de propagación que anuncia el Anexo 6.1 se traduzcan en una meta verificable, con número de individuos por especie, incluidas las dos Chloraea; que indique qué medida se activa si la meta no se cumple; y que el seguimiento se extienda más allá de cinco años.</p></div>
@@ -850,7 +875,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-sitio" data-tema="bio territorio">
   <div class="cab"><span class="num">14</span><p class="tema">Flora y fauna · Territorio</p></div>
   <h2>El camino de acceso corta un Sitio Prioritario, y el titular lo excluye del componente Áreas Protegidas</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=62" target="_blank" rel="noopener">162</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=96" target="_blank" rel="noopener">190</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El titular admite que el camino interviene 3,85 ha del Sitio Prioritario Palmar Las Siete
   Hermanas–El Salto, que contiene una parte relevante del Santuario de la Naturaleza Palmar El Salto. Y lo deja fuera del área de
   influencia del componente Áreas Protegidas porque no sería objeto de protección para efectos del SEIA: solo
@@ -870,6 +894,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   categoría no hace desaparecer lo que el camino destruye.</p>
   <p class="pide"><b>Qué tiene que responder</b>Medidas de compensación y seguimiento específicas para las
   3,85 ha del Sitio Prioritario, y alternativas de trazado del camino.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=62" target="_blank" rel="noopener">162</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=96" target="_blank" rel="noopener">190</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 5 reconoce que «la intervención directa recae exclusivamente en una sección de 3,85 hectáreas del Sitio Prioritario Palmar Las Siete Hermanas-El Salto, producto de la construcción del camino de acceso» (p. 38), que el área de influencia intersecta 14,7 ha de ese sitio (p. 33) y que dentro de él «se localiza una proporción relevante del Santuario de la Naturaleza Palmar El Salto» (p. 79). Sin embargo, concluye que estas designaciones no son objeto de protección para efectos del SEIA, «por lo que no integran el Área de Influencia del componente Áreas Protegidas» (p. 79).</p><p>Solicito que el titular evalúe como componente propio, y no solo como criterio de singularidad de la flora, los efectos del camino de acceso sobre los atributos que motivan la designación del Sitio Prioritario (flora nativa y endémica, especies en categoría de conservación y bosque y matorral esclerófilo), que proponga medidas de mitigación y compensación con seguimiento, y que presente alternativas de trazado que eviten el sitio, justificando la elegida.</p></div>
@@ -881,7 +906,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-monitoreo" data-tema="seguimiento">
   <div class="cab"><span class="num">15</span><p class="tema">Seguimiento</p></div>
   <h2>El plan de seguimiento no incluye aire, olor, ruido ni agua</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=140" target="_blank" rel="noopener">303</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=141" target="_blank" rel="noopener">304</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=157" target="_blank" rel="noopener">338</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El plan de seguimiento solo cubre lo que el titular calificó como significativo: el rescate
   de flora. Y el capítulo de monitoreo participativo rechaza incluir a la comunidad remitiéndose a ese mismo plan.</p>
   <div class="pruebas">
@@ -909,6 +933,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   y subterráneas, biogás y estabilidad de la masa, con frecuencia, umbrales y reporte público; un monitoreo de
   roedores y moscas en el perímetro y en las poblaciones cercanas, desde antes de operar, y un registro de la fauna
   encontrada muerta con análisis de rodenticidas; y un monitoreo participativo.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=140" target="_blank" rel="noopener">303</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=141" target="_blank" rel="noopener">304</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=157" target="_blank" rel="noopener">338</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 7 declara que «se ha estructurado el monitoreo para aquellas variables con valorización significativa» (p. 3), y su única ficha de seguimiento es el rescate de tres especies de flora. El Capítulo 20 (p. 2) declara que el proyecto «no contempla la incorporación de monitoreo participativo con la comunidad» y lo fundamenta en que existiría «un sistema integral de control y monitoreo, conformado tanto por el Plan de Seguimiento de Variables Ambientales Relevantes» y otros instrumentos. El argumento es circular: el monitoreo participativo se descarta por un plan que no sigue ninguna variable que afecte a la población. El Capítulo 1 menciona cinco pozos de observación (p. 116), la medición continua del biogás captado (pp. 166-167) y tres estaciones de material particulado sedimentable durante la construcción (p. 126), pero ninguno tiene en el Plan de Seguimiento parámetros, umbrales ni acciones ante superación. Tampoco hay seguimiento de plagas: el Capítulo 1 (p. 169) prevé «desratización instalando cebos en todas las instalaciones» cada mes y «cambiar el ingrediente activo del rodenticida e insecticida cada dos meses», mientras la línea de base de fauna (Cap. 3.11, pp. 6 y 31) registra en el predio al zorro culpeo, al aguilucho, al peuco, al tiuque y al halcón peregrino, que se alimentan de roedores. El ICSARA (pregunta 338) ya pidió acreditar que el control «no genere riesgo de envenenamiento secundario sobre fauna nativa o endémica del área», pero el Capítulo 7 no mide ni la proliferación de roedores y moscas hacia las viviendas ni la fauna afectada.</p><p>Solicito que el titular incorpore al Capítulo 7 el seguimiento de calidad del aire (MP10 y MP2,5), olor, ruido, aguas superficiales y subterráneas, captación y emisiones de biogás y estabilidad de la masa de residuos, cada uno con su frecuencia, umbrales, acciones ante superación y reporte público, durante la construcción, la operación, el cierre y el post-cierre; que incorpore un monitoreo de roedores y moscas en el perímetro del predio y en las poblaciones más cercanas, con una línea de base anterior a la operación, y un protocolo de registro y análisis de rodenticidas en la fauna silvestre encontrada muerta en el predio y su entorno; y que incorpore un monitoreo participativo con las juntas de vecinos de las poblaciones cercanas.</p></div>
@@ -918,7 +943,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-matriz" data-tema="seguimiento">
   <div class="cab"><span class="num">16</span><p class="tema">Seguimiento</p></div>
   <h2>De 90 registros de daño que valora, solo uno cuenta como grave: la pérdida de plantas</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=105" target="_blank" rel="noopener">206</a>); esta observación pide lo que falta.</span></p>
   <p class="tesis">La matriz del Capítulo 4 declara significativo todo impacto que llegue a 50 puntos. De los 90
   registros de impactos negativos de su Tabla 86 (cada impacto por cada actividad que lo genera), 86 quedan bajo
   ese umbral; los 4 restantes son un solo impacto, la pérdida de plantas, y ninguno de olor, aire, ruido o agua
@@ -937,6 +961,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   de continua durante toda la operación, y el resultado queda en −42, a ocho puntos del umbral.</p>
   <p class="pide"><b>Qué tiene que responder</b>El fundamento de la intensidad y de los demás atributos que dejan
   bajo 50 los impactos de olor, aire, ruido, fauna y aguas, y qué cambio en un atributo los llevaría sobre ese umbral.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=105" target="_blank" rel="noopener">206</a>); esta observación pide lo que falta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 4 establece que un impacto es significativo cuando su valor de importancia ambiental es «igual o superior a 50» (p. 19). En su Tabla 86, de 90 registros de impactos negativos (cada impacto por cada actividad que lo genera), 86 se califican «Moderado» y «NO SIGNIFICATIVO» y solo 4 «Severo» y «SIGNIFICATIVO», los cuatro correspondientes a un mismo impacto, FV-C-01, la pérdida de ejemplares de flora en categoría de conservación (p. 133). La alteración de la calidad odorante en operación se califica con −42, y ningún impacto sobre olor, aire, ruido, fauna o aguas alcanza el umbral. Esa calificación deja a todas esas variables fuera del Plan de Seguimiento.</p><p>Solicito que el titular justifique técnicamente la intensidad asignada al olor en la Tabla 46 (p. 82), un valor de 4 para una fuente que el mismo capítulo califica de continua durante toda la operación, y los atributos de la fórmula de importancia (intensidad, extensión, momento, persistencia, reversibilidad, recuperabilidad, sinergia, acumulación, efecto y periodicidad) de cada impacto de calidad del aire, ruido, fauna y aguas; y que presente un análisis de sensibilidad que indique qué cambio en esos atributos llevaría cada impacto sobre el umbral de 50.</p></div>
@@ -946,7 +971,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-duracion" data-tema="seguimiento">
   <div class="cab"><span class="num">17</span><p class="tema">Seguimiento</p></div>
   <h2>Casi medio siglo de proyecto, y un post-cierre sin parámetros ni umbrales</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=21" target="_blank" rel="noopener">66</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=27" target="_blank" rel="noopener">85</a>); esta observación pide lo que falta.</span></p>
   <p class="tesis">Entre construcción, operación, cierre y post-cierre, el proyecto dura 47 o 48 años, según el
   capítulo que se lea. Las emisiones que siguen después del cierre (biogás y lixiviados) no tienen parámetros,
   frecuencia ni umbrales en el plan de seguimiento.</p>
@@ -968,6 +992,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Qué se mide durante el post-cierre, con qué frecuencia y
   umbrales; qué se hace con los lixiviados después del quinto año; quién responde si el titular deja de existir,
   y qué garantía financiera lo respalda.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=21" target="_blank" rel="noopener">66</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=27" target="_blank" rel="noopener">85</a>); esta observación pide lo que falta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>Según el Capítulo 18, el proyecto tiene 25 años de operación (p. 6), un cierre de 12 meses y un «monitoreo post cierre» de 20 años (p. 7), y durante los primeros 22 años de operación seguirá habiendo obras de construcción (p. 3). Con los dos años de construcción, son 48 años; el Capítulo 1 (p. 207), en cambio, suma cierre y post-cierre en 20 años en total. El Capítulo 1 (p. 195) enumera tareas de mantención post-cierre, pero sin parámetros ni umbrales, y prevé operar la planta de tratamiento de lixiviados solo durante los primeros 5 años del post-cierre (p. 205). Nada de eso está en el Capítulo 7, que solo comprende el rescate de flora.</p><p>Solicito que el titular detalle qué variables se medirán durante el post-cierre (al menos biogás, lixiviados, aguas subterráneas y estabilidad de taludes), con qué frecuencia, umbrales y forma de reporte; cómo se tratarán los lixiviados después del quinto año de post-cierre y qué ocurre si la generación de biogás o lixiviados continúa al término de ese período; quién responde por esas obligaciones si el titular deja de operar; y qué garantía financiera respalda el cierre y el post-cierre.</p></div>
@@ -979,7 +1004,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-influencia" data-tema="territorio">
   <div class="cab"><span class="num">18</span><p class="tema">Territorio</p></div>
   <h2>Un área de influencia que deja fuera, por metros, a las poblaciones vecinas</h2>
-  <p class="ics ics-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg><span><b>No está en el ICSARA</b> · El SEA no se lo preguntó al titular: solo llega a la evaluación si alguien lo observa.</span></p>
   <p class="tesis">El área de influencia del medio humano parte de las plumas modeladas, pero el titular la
   recorta a los sectores poblados ubicados «a menos de 2.000 metros» del proyecto. Poblaciones enteras quedan
   fuera por pocos metros.</p>
@@ -996,6 +1020,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Justificar el corte en 2.000 m frente al alcance de las plumas
   modeladas, trazar el área de influencia del medio humano con la pluma completa (olor, material particulado y
   ruido) e incluir las poblaciones colindantes.</p>
+  <p class="ics ics-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg><span><b>No está en el ICSARA</b> · El SEA no se lo preguntó al titular: solo llega a la evaluación si alguien lo observa.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 2 (p. 51) declara que el área de dispersión de las plumas «no constituye por sí misma el Área de Influencia del componente» y que el área de influencia del medio humano se delimitó «considerando los sectores poblados más consolidados ubicados a menos de 2.000 metros de las líneas perimetrales del Proyecto». Medido sobre el archivo cartográfico del propio titular, desde el punto que ubica a cada población en el mapa, poblaciones como Botania y Cumbres de Quilpué quedan a 72 y 77 metros del borde del área de influencia, y Nuevo Horizonte, Los Fundadores 2, Pompeya Norte y Pompeya Sur a menos de 150 metros.</p><p>Solicito que el titular justifique el corte en 2.000 metros frente al alcance de las plumas modeladas, y que el área de influencia del medio humano se defina con la extensión completa de las plumas de olor, material particulado y ruido; que se incluya a <span class="pob">[población]</span> y a las demás poblaciones colindantes; y que los impactos sobre el medio humano se evalúen también sobre ellas, con medidas y seguimiento.</p></div>
@@ -1005,7 +1030,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-premval" data-tema="territorio">
   <div class="cab"><span class="num">19</span><p class="tema">Territorio</p></div>
   <h2>El camino de acceso cruza una zona donde el Plan Regulador prohíbe los rellenos sanitarios</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=147" target="_blank" rel="noopener">317</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=148" target="_blank" rel="noopener">318</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=148" target="_blank" rel="noopener">319</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">Un capítulo dice que el proyecto está fuera del Plan Regulador Metropolitano. La línea de
   base de uso del territorio dice que el camino cruza una zona donde los rellenos sanitarios están
   prohibidos expresamente, que choca con una vía reservada y que hay sectores del proyecto en área de riesgo.</p>
@@ -1027,6 +1051,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Corregir el Capítulo 9 y responder el oficio 521, en que la SEREMI
   MINVU informa que el proyecto está dentro del área rural normada por el PREMVAL y en áreas de riesgo; cómo es compatible con la ZEU 2 un camino cuyo único fin es servir a un relleno; y cómo resuelve el choque con
   la VE-2v y el área de riesgo.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=147" target="_blank" rel="noopener">317</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=148" target="_blank" rel="noopener">318</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=148" target="_blank" rel="noopener">319</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 9 (p. 39) declara que el proyecto está «Fuera del Plan Regulador Metropolitano de Valparaíso». Sin embargo, la línea de base de uso del territorio (Capítulo 3.17, p. 10) señala que «el trazado del camino de acceso intersecta la Zona de Extensión Urbana 2 (ZEU 2) del PREMVAL», cuyos usos prohibidos son «todos los no indicados precedentemente y, en particular, las actividades productivas e infraestructura sanitaria destinadas a plantas de tratamiento de residuos sólidos y rellenos sanitarios»; que ese trazado «se contrapone con la faja reservada para la VE-2v»; y que «sobre sectores del área de Proyecto se reconoce el Área de Riesgo Natural por Pendientes (AR NP) del PREMVAL». El Capítulo 14 (p. 19) reconoce que esta condición «será evaluada formalmente mediante solicitud de informe a la SEREMI MINVU».</p><p>Solicito que el titular corrija el Capítulo 9 a la luz del oficio 521 de la SEREMI MINVU, que informa que el proyecto está «al interior del área rural normada por el Plan Regulador Metropolitano de Valparaíso (PREMVAL)» y afecto a las áreas de riesgo AR 1 y AR NP, y que responda sus observaciones antes de la calificación; que explique cómo un camino destinado exclusivamente a servir a un relleno sanitario es compatible con una zona que prohíbe esa actividad; cómo resuelve la superposición con la faja de la vía VE-2v; y qué estudios exige el PREMVAL para los sectores en Área de Riesgo Natural por Pendientes y cómo los cumple.</p></div>
@@ -1036,7 +1061,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-franja" data-tema="territorio">
   <div class="cab"><span class="num">20</span><p class="tema">Territorio</p></div>
   <h2>El reglamento exige 300 m de protección dentro del predio; el pesaje queda a 199 m del deslinde y la basura a 268 m</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El reglamento sanitario de rellenos obliga a dejar una franja de protección de 300 metros al interior
   del predio, medida desde la zona de residuos y desde cada instalación que pueda generar olores; el propio artículo nombra
   el pesaje y el lavado de camiones. Con los polígonos y los planos del titular, las tres quedan más cerca del deslinde. La
@@ -1055,6 +1079,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>El plano de la franja de 300 m medida como manda el artículo 9, desde la
   zona de residuos y desde cada instalación que genere olores; y, para las que no cumplan, la solicitud fundada a la SEREMI
   con las barreras que propone, o su reubicación.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El artículo 9 del D.S. 189/2005 exige que el relleno sanitario asegure «una zona de protección de 300 metros al interior del sitio», medida «a partir del menor perímetro del área que comprenda el sector en donde se dispongan los residuos y de toda instalación anexa al Relleno Sanitario capaz de generar olores ofensivos para la comunidad, tales como plantas de tratamiento y lagunas de almacenamiento de líquidos lixiviados, zona de lavados de camiones y zona de pesaje». Medidas sobre el deslinde, los polígonos del proyecto y los edificios de los shapefiles del propio titular, la caseta de pesaje queda a 199 m del deslinde, el galpón de lavado de camiones a 237 m, la zona de disposición de residuos a 268 m y una bandeja de evaporación de lixiviados a 292 m. La SEREMI de Salud, en su ORD. 068 (punto 8, sobre el PAS 141), ya observó que el titular «no traza la curva envolvente de 300 metros en torno a todo el perímetro del relleno ni acredita qué usos de suelo existen al interior de dicha franja». El mismo artículo 9 permite distancias inferiores solo con aprobación fundada de la SEREMI, cuando existan barreras que controlen los olores, y nunca bajo 150 metros; no encuentro esa solicitud en el expediente.</p><p>Solicito que el titular presente el plano de la zona de protección de 300 metros medida como indica el artículo 9 del D.S. 189, desde la zona de disposición de residuos y desde cada instalación anexa capaz de generar olores (planta y piscinas de lixiviados, bandejas de evaporación, lavado de camiones y pesaje); que informe la distancia de cada una al deslinde del predio; y que, para las que no alcancen los 300 metros, presente la solicitud fundada a la SEREMI de Salud con las barreras naturales o artificiales que propone, o las reubique.</p></div>
@@ -1066,7 +1091,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-incendio" data-tema="fuego">
   <div class="cab"><span class="num">21</span><p class="tema">Incendio</p></div>
   <h2>Un predio que ardió en 2024, calificado de riesgo «medio-bajo» un mes después</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=131" target="_blank" rel="noopener">272</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=135" target="_blank" rel="noopener">282</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El propio expediente reconoce que la vegetación del predio se quemó en el verano de 2024.
   El plan de trabajo forestal, fechado en marzo de 2024, califica el riesgo de incendio como «medio-bajo».
   Ante un fuego en la basura, el plan de emergencias responde con «tierra o extintor», y ante las pavesas de un
@@ -1099,6 +1123,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Por qué el riesgo es «medio-bajo» en un predio que acababa de
   quemarse; qué red de agua, reserva, brigada y tiempos de respuesta compromete; con qué sistema reemplaza el
   combate de pavesas con tierra, como pide CONAF; y un plan de evacuación coordinado con las poblaciones.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=81" target="_blank" rel="noopener">176</a>, <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=131" target="_blank" rel="noopener">272</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=135" target="_blank" rel="noopener">282</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El expediente reconoce que la vegetación del predio «fue afectada por un incendio forestal el verano del año 2024» (Anexo 9.8, PAS 148, p. 10). Aun así, el plan de trabajo del PAS 151, fechado en marzo de 2024, califica el riesgo de incendio forestal de los sectores intervenidos como «Medio - bajo» (Anexo 9.9.1, p. 16). Ante un incendio en la masa de residuos, el Capítulo 8 (p. 44) dispone apagar los desechos «utilizando tierra o extintor» y, «en caso de ser necesario», pedir apoyo a bomberos; y si un incendio forestal alcanza el predio, dispone que las «Pavesas que puedan ingresar deberán ser extinguidas inmediatamente por personal de Brigada con tierra» (Capítulo 8, p. 39). CONAF, en su oficio ORD 284 al SEA (p. 12), califica esa medida de inviable y solicita «reemplazar las medidas reactivas inviables como la mitigación manual de pavesas, por sistemas de protección como, cortinas de agua u otro sistema de enfriamiento», además de «indicar expresamente el ancho del cortafuego». Los Capítulos 1 y 8 no mencionan red húmeda, red seca ni hidrantes; para el relleno, el PAS 141 (Anexo 9.6, p. 137) solo se compromete a «Evaluar la implementación de Red Seca», con «estanques o similares» para el primer combate; y la faja cortafuego es de 10 metros (Capítulo 1, p. 39).</p><p>La Municipalidad de Quilpué describe el sitio con «características propias de una zona de interfaz urbano-forestal» (ORD. 348, p. 6), y según la capa de interfaz urbano-forestal 2020 de Sarricolea et al. (Science of the Total Environment, 2020), 69,5 de las 206 hectáreas del predio están en esa interfaz, continua con poblaciones vecinas como Alto Valencia, Población Esperanza y Nuevo Horizonte.</p><p>Solicito que el titular justifique la calificación de riesgo «medio-bajo» para un predio que se quemó en el verano de 2024; que comprometa una red de agua contra incendios con su reserva dedicada y caudal, una brigada profesional dedicada, monitoreo de temperatura y de biogás en la masa, y tiempos de respuesta acordados con bomberos; que reemplace el combate manual de pavesas por cortinas de agua u otro sistema de enfriamiento, como solicita CONAF; que justifique el ancho de 10 m de la faja cortafuego según la pendiente y la vegetación del terreno, e indique su frecuencia de mantención; que defina una zona de confinamiento segura para el personal en caso de que el único camino de acceso quede cortado; y que presente un plan de evacuación coordinado con las poblaciones cercanas y con la autoridad de emergencias.</p></div>
@@ -1110,7 +1135,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-camiones" data-tema="vial">
   <div class="cab"><span class="num">22</span><p class="tema">Camiones</p></div>
   <h2>Los camiones que declara no alcanzan a traer la basura que declara</h2>
-  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=9" target="_blank" rel="noopener">32</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=95" target="_blank" rel="noopener">186</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <p class="tesis">El inventario de emisiones del titular fija cuánto carga cada camión y cuántos viajes hace
   al año. Multiplicados, traen solo entre el 74 y el 78 % del tonelaje que el mismo proyecto declara. El
   estudio vial, en tanto, modela un solo año, 2028 (el año en que, según el Capítulo 1, empieza la
@@ -1136,6 +1160,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>Cuántos camiones entran cada año, de qué tipo y con qué carga,
   en qué horario; un estudio vial del año de mayor flujo; un inventario de emisiones con una flota que alcance
   a traer el tonelaje declarado; y qué impide los derrames de líquidos en el viaje.</p>
+  <p class="ics ics-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg><span><b>Ya en el ICSARA</b> · El SEA ya se lo preguntó al titular (preguntas <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=9" target="_blank" rel="noopener">32</a> y <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=95" target="_blank" rel="noopener">186</a>). Observarlo igual te da derecho a reclamar si la respuesta no basta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El inventario de emisiones (Anexo 4.1) declara una capacidad de 10,86 toneladas por camión recolector y de 14,6 por semirremolque (Tabla 13, pp. 26-27), y cuenta 64.240 viajes al relleno en el primer año de operación y 109.406 en el último (Tabla 78). El Capítulo 1 (Tabla 27, pp. 71-72) declara 900.000 toneladas el primer año y 1.627.853 el año 25. Aunque todos los viajes del último año fueran semirremolques, traerían 1.597.328 toneladas, menos que las declaradas; con la flota de su propia calculadora, que supone 365 días de operación y nueve de cada diez viajes en camión recolector, la capacidad cubre solo entre el 74 y el 78 % del tonelaje todos los años. Traer el tonelaje declarado con esas cargas exige unos 222 camiones diarios el primer año y unos 401 el último. Por su parte, el Estudio de Impacto Vial (Capítulo 3.18) modela 182 viajes diarios solo para el corte 2028 y no modela el cierre «dado que el corte temporal es muy lejano» (p. 21), y la losa de lavado del PAS 141 (Anexo 9.6, Tabla 55, p. 115) se dimensionó para 65 camiones al día.</p><p>Solicito que el titular informe cuántos camiones ingresarán cada año, de qué tipo y con qué carga, y en qué horario se recibirán los residuos; que rehaga el inventario de emisiones y el estudio vial con una flota que alcance a transportar el tonelaje declarado, modelando el año de mayor flujo; que indique por qué calles urbanas circularán; que explique la diferencia entre los 65 camiones de la losa de lavado, los 182 viajes del estudio vial y los 294 de su inventario de emisiones; y que comprometa medidas para impedir el derrame de líquidos durante el transporte.</p></div>
@@ -1147,7 +1172,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-paisaje" data-tema="paisaje">
   <div class="cab"><span class="num">23</span><p class="tema">Paisaje</p></div>
   <h2>El estudio de paisaje no tiene la etapa que predice el impacto, y el único fotomontaje muestra el relleno ya cerrado</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=104" target="_blank" rel="noopener">204</a>); esta observación pide lo que falta.</span></p>
   <p class="tesis">La metodología del estudio de paisaje anuncia cuatro etapas. El índice remite a la cuarta
   (la que evalúa los impactos) con un marcador roto, y el texto salta de la tercera al capítulo de turismo.
   El único fotomontaje muestra la etapa de cierre, con el relleno ya revegetado.</p>
@@ -1166,6 +1190,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   <p class="pide"><b>Qué tiene que responder</b>La Etapa 4 completa; fotomontajes de los años 5, 15 y 25 desde
   sus seis puntos de observación y desde cada población con línea de vista, no solo desde Pompeya Sur; y una cuenca
   visual con la cota final de la masa.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA preguntó una parte (pregunta <a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=104" target="_blank" rel="noopener">204</a>); esta observación pide lo que falta.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Estudio de Paisaje (Capítulo 3.15) define en su metodología una «Etapa 4: Predicción y Evaluación de Impactos», pero su índice remite a ella con «¡Error! Marcador no definido.» (p. 3) y el texto pasa de la sección 6.3.3 directamente a «7. Turismo»: no existe la sección 6.4 que evalúa los impactos sobre el valor paisajístico. El único fotomontaje del Anexo 4.5 (p. 2), tomado desde Pompeya Sur, muestra el escenario «durante la etapa de cierro con una cobertura vegetal típica», es decir, el relleno ya cerrado y revegetado. El mismo estudio define seis puntos de observación (Tabla 4, pp. 21-24) y reconoce «las agrupaciones residenciales en la colina del frente como el sector con mayor dominio visual para el observador» (p. 20), pero presenta un solo fotomontaje, desde el punto P.O.3.</p><p>Solicito que el titular complete la Etapa 4 del estudio de paisaje; que presente fotomontajes de la etapa de operación en los años 5, 15 y 25 desde cada uno de los seis puntos de observación de su línea de base y desde cada población con línea de vista hacia el proyecto, incluida <span class="pob">[población]</span>; y que calcule la cuenca visual sobre un modelo de elevación con la cota final de la masa de residuos, para fundamentar la calificación del Capítulo 5.</p></div>
@@ -1177,7 +1202,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-empleo" data-tema="social">
   <div class="cab"><span class="num">24</span><p class="tema">Empleo y Estado</p></div>
   <h2>El empleo local se verifica en Papudo y La Ligua, que no son de la provincia comprometida</h2>
-  <p class="ics ics-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg><span><b>No está en el ICSARA</b> · El SEA no se lo preguntó al titular: solo llega a la evaluación si alguien lo observa.</span></p>
   <p class="tesis">El compromiso voluntario reserva el 20 % de los puestos para la provincia de Valparaíso. Su
   forma de control son correos a las oficinas de empleo de Papudo y La Ligua, de la provincia de Petorca. Y
   Quilpué, comuna del área de influencia, pertenece a la provincia de Marga Marga.</p>
@@ -1194,6 +1218,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   provincia.</p>
   <p class="pide"><b>Qué tiene que responder</b>Corregir el compromiso para las comunas del área de influencia,
   Viña del Mar y Quilpué, con verificación en sus OMIL y un indicador anual reportado.</p>
+  <p class="ics ics-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg><span><b>No está en el ICSARA</b> · El SEA no se lo preguntó al titular: solo llega a la evaluación si alguien lo observa.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>El Capítulo 10 compromete «un mínimo del 20% de los puestos de trabajo para la provincia de Valparaíso», a implementarse en las «Municipalidades de la provincia de Valparaíso, en OMIL» (p. 8). Pero su forma de control son comunicaciones «hacia las OMIL de Papudo y La Ligua» (p. 9), comunas de la provincia de Petorca. Además, Quilpué, una de las dos comunas del área de influencia, pertenece a la provincia de Marga Marga, por lo que quedaría excluida del compromiso.</p><p>Solicito que el titular corrija el compromiso para que se refiera a las comunas del área de influencia, Viña del Mar y Quilpué, que su verificación se haga ante las OMIL de esas comunas y que se reporte anualmente el porcentaje efectivo de contratación local.</p></div>
@@ -1203,7 +1228,6 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 <article class="obs" id="obs-servicios" data-tema="social">
   <div class="cab"><span class="num">25</span><p class="tema">Empleo y Estado</p></div>
   <h2>Que se acoja lo que ya observaron los servicios públicos</h2>
-  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA trasladó al titular 343 preguntas, y en 27 casos explica por qué dejó fuera pedidos de los servicios (<a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=158" target="_blank" rel="noopener">sección XVIII</a>). Esta observación pide que se acojan.</span></p>
   <p class="tesis">De los 25 organismos del Estado consultados, 3 declinaron participar y 2 se dieron por
   conformes: los otros 20 formulan observaciones. Una observación ciudadana puede pedir expresamente que se acojan.</p>
   <div class="pruebas">
@@ -1212,6 +1236,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   </div>
   <p class="pide"><b>Qué tiene que responder</b>Una respuesta en la Adenda a cada observación de cada servicio,
   citando el oficio, y no una respuesta genérica.</p>
+  <p class="ics ics-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg><span><b>En parte en el ICSARA</b> · El SEA trasladó al titular 343 preguntas, y en 27 casos explica por qué dejó fuera pedidos de los servicios (<a href="https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2169926495#page=158" target="_blank" rel="noopener">sección XVIII</a>). Esta observación pide que se acojan.</span></p>
   <details class="texto">
     <summary>Texto para el formulario</summary>
     <div class="cuerpo"><p>De los 25 organismos consultados sobre este Estudio, 20 formulan observaciones: SERNAGEOMIN Zona Central (oficio 1511, 02/09/2026); Subsecretaría de Pesca y Acuicultura (oficio 402, 03/09/2026); SEREMI Desarrollo Social y Familia (oficio 613, 03/09/2026); SEREMI de Energía (oficio 73, 04/09/2026); I. Municipalidad de Quilpué (oficio 348, 07/09/2026); CONAF Valparaíso (oficio 87-EA/2026, n.º 284, 07/09/2026); SERNATUR Valparaíso (oficio 141, 07/09/2026); Superintendencia de Servicios Sanitarios (oficio 272, 07/09/2026); SEREMI del Medio Ambiente (oficio 5614, 07/09/2026); Dirección General de Aguas (oficio 852, 07/09/2026); SEREMI de Agricultura (oficio 194, 07/09/2026); Servicio de Biodiversidad y Áreas Protegidas (oficio DRVA-01529/2026, 07/09/2026); Servicio Agrícola y Ganadero (oficio 2132, 08/09/2026); Dirección de Obras Hidráulicas (oficio 1106, 08/09/2026); SEREMI de Transportes y Telecom. (oficio 28959/2026, 10/09/2026); SEREMI de Salud (oficio 068, 11/09/2026); Gobierno Regional de Valparaíso (oficio 31/3/2358, 14/09/2026); SEREMI de Obras Públicas (oficio 470, 14/09/2026); SEREMI de Vivienda y Urbanismo (oficio 521, 15/09/2026); e I. Municipalidad de Viña del Mar (oficio 1337, 08/09/2026). Las fechas son las de ingreso al expediente.</p><p>Hago mías esas observaciones y solicito que el titular responda en la Adenda cada una de ellas de forma específica, citando el oficio y el organismo correspondiente, y que la autoridad no califique el proyecto mientras alguna quede sin respuesta fundada.</p></div>
@@ -1219,6 +1244,43 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 </article>
 
 </div>
+
+<details class="adenda despl" id="adenda">
+  <summary>Cuando llegue la Adenda: qué revisar <span class="cnt">(25)</span></summary>
+  <div class="ad-c">
+  <p>Para cada observación: si el SEA ya se la preguntó al titular en el ICSARA y si la Adenda la responde. Mientras la Adenda no se publique, todas están pendientes. Las que no están en el ICSARA solo llegan a la evaluación por las observaciones ciudadanas.</p>
+  <table class="ad-t">
+    <thead><tr><th class="n" scope="col">N.º</th><th scope="col">Observación</th><th class="e" scope="col">ICSARA</th><th class="r" scope="col">Adenda</th></tr></thead>
+    <tbody>
+    <tr><td class="n">1</td><td><a href="#obs-falla">El reglamento le exige acreditar que el sitio no está expuesto a fallas activas, y el estudio lo descarta con cuatro días de terreno</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">2</td><td><a href="#obs-espesor">¿80 o 54 metros de basura? El mismo capítulo da dos alturas</a></td><td class="e e-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg>No</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">3</td><td><a href="#obs-remocion">Caída de rocas y flujos por las quebradas: su propio estudio pide investigar los flujos, y no se investigaron</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">4</td><td><a href="#obs-cursos">El reglamento de rellenos exige más de 60 m entre el relleno y los cursos de agua, y la empresa no lo demuestra</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">5</td><td><a href="#obs-pozos">Cinco pozos de control fuera del plan de seguimiento, sin umbrales y con su línea de base al final</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">6</td><td><a href="#obs-impermeabilizacion">El reglamento exige un suelo poco permeable y 3 metros sobre la napa; el único ensayo del predio da un suelo 350 veces más permeable, y la napa no se midió</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">7</td><td><a href="#obs-agua">La calidad del agua se midió un solo día, con informes que el propio laboratorio dice que no sirven ante la SMA</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">8</td><td><a href="#obs-caudal">Con el proyecto baja más agua hacia el estero Marga-Marga; aguas abajo, en Viña del Mar, hay 32 puntos de inundación que el estudio no mira</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">9</td><td><a href="#obs-viento">El polvo se calculó con el viento más bajo y se dispersó con el más alto</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">10</td><td><a href="#obs-olor">El olor del relleno se estimó con mediciones de otro proyecto y se comparó con una norma italiana</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">11</td><td><a href="#obs-gases">Los gases del relleno se evalúan solo como olor: el ácido sulfhídrico no se estima, y la captación de biogás que supone no la respaldan las mediciones</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">12</td><td><a href="#obs-ruido-fauna">Un impacto significativo que desaparece entre un capítulo y otro</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">13</td><td><a href="#obs-flora">Trece plantas, y una meta que se cumple aunque desaparezcan las dos orquídeas</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">14</td><td><a href="#obs-sitio">El camino de acceso corta un Sitio Prioritario, y el titular lo excluye del componente Áreas Protegidas</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">15</td><td><a href="#obs-monitoreo">El plan de seguimiento no incluye aire, olor, ruido ni agua</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">16</td><td><a href="#obs-matriz">De 90 registros de daño que valora, solo uno cuenta como grave: la pérdida de plantas</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">17</td><td><a href="#obs-duracion">Casi medio siglo de proyecto, y un post-cierre sin parámetros ni umbrales</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">18</td><td><a href="#obs-influencia">Un área de influencia que deja fuera, por metros, a las poblaciones vecinas</a></td><td class="e e-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg>No</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">19</td><td><a href="#obs-premval">El camino de acceso cruza una zona donde el Plan Regulador prohíbe los rellenos sanitarios</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">20</td><td><a href="#obs-franja">El reglamento exige 300 m de protección dentro del predio; el pesaje queda a 199 m del deslinde y la basura a 268 m</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">21</td><td><a href="#obs-incendio">Un predio que ardió en 2024, calificado de riesgo «medio-bajo» un mes después</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">22</td><td><a href="#obs-camiones">Los camiones que declara no alcanzan a traer la basura que declara</a></td><td class="e e-si"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-si"/></svg>Sí</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">23</td><td><a href="#obs-paisaje">El estudio de paisaje no tiene la etapa que predice el impacto, y el único fotomontaje muestra el relleno ya cerrado</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">24</td><td><a href="#obs-empleo">El empleo local se verifica en Papudo y La Ligua, que no son de la provincia comprometida</a></td><td class="e e-no"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-no"/></svg>No</td><td class="r">Pendiente</td></tr>
+    <tr><td class="n">25</td><td><a href="#obs-servicios">Que se acoja lo que ya observaron los servicios públicos</a></td><td class="e e-parte"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-parte"/></svg>En parte</td><td class="r">Pendiente</td></tr>
+    </tbody>
+  </table>
+  </div>
+</details>
 
 <div class="accion">
   <a class="btn" href="tramite.html">Qué viene ahora →</a>
@@ -1237,7 +1299,7 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
   texto de todo el expediente está en el <a href="https://github.com/FeniaPfa/relleno-el-salto/tree/main/expediente" target="_blank" rel="noopener">repositorio público</a>.</p>
   <p>Escribir con tus palabras por qué una observación te afecta la fortalece: la ley obliga a responder
   cada observación ciudadana, y la que describe una afectación concreta es más difícil de contestar con una
-  fórmula. Se pueden ingresar varias observaciones por separado.</p>
+  fórmula.</p>
   <p><b>Solo quien observa puede reclamar después</b> si la respuesta no considera debidamente su observación:
   lo dicen la Ley 19.300 (art. 29) y la Ley 20.600 (art. 18). <a href="tramite.html#quien">Quién decide qué, y cómo se reclama →</a></p>
 </section>
@@ -1254,7 +1316,10 @@ responder el titular. Si la Adenda trae cambios que afecten sustantivamente el p
 "use strict";
 var $=function(s,c){return (c||document).querySelector(s)}, $$=function(s,c){return Array.prototype.slice.call((c||document).querySelectorAll(s))};
 var obs=$$('.obs'), pob=$('#pob'), org=$('#org'), afecta=$('#afecta'), previa=$('#previa'), vista=$('#vista'),
-    barra=$('#barra'), aviso=$('#aviso'), SEA=$('#ir-sea').href;
+    barra=$('#barra'), aviso=$('#aviso'), SEA=$('#ir-sea').href, armarEl=$('#armar');
+/* abrir la herramienta muestra en cada tarjeta «Sumar» y «Copiar», y la barra de lo elegido */
+function armando(){ document.body.classList.toggle('armando',armarEl.open); }
+armarEl.addEventListener('toggle',armando);
 var RECOMENDADAS=['obs-falla','obs-premval','obs-monitoreo'];
 var G={sel:'obs-sel',pob:'obs-pob',org:'obs-org',afecta:'obs-afecta'};
 function leer(k){ try{return localStorage.getItem(k)}catch(e){return null} }
@@ -1313,7 +1378,7 @@ function copiar(lista,b){
   if(!lista.length){ avisar('Primero toca <b>Sumar a mi observación</b> en al menos una tarjeta, o elige las 3 recomendadas.','error'); return; }
   if(!(pob.value||'').trim()){
     avisar('<b>Falta tu población.</b> Escríbela arriba y vuelve a tocar Copiar.','error');
-    $('#armar').scrollIntoView({block:'start'}); pob.focus(); return;
+    armarEl.open=true; armarEl.scrollIntoView({block:'start'}); pob.focus(); return;
   }
   var t=armar(lista);
   if(respaldo(t)) return copiado(b,lista.length);
@@ -1335,8 +1400,8 @@ obs.forEach(function(a){
     '<button type="button" class="copiar">Copiar solo esta</button>';
   $('input',ops).setAttribute('aria-label','Sumar la observación '+num+': '+tit);
   $('.copiar',ops).setAttribute('aria-label','Copiar solo la observación '+num);
-  (pide||$('.tesis',a)).after(ops); ops.after(ev);
-  $('summary',tx).textContent='Ver el texto que se va a enviar';
+  ($('.ics',a)||pide||$('.tesis',a)).after(ops); ops.after(ev);
+  $('summary',tx).textContent='Ver el texto para el formulario';
   var cb=$('input',ops);
   cb.addEventListener('change',function(){ a.classList.toggle('sel',cb.checked); refrescar(); });
   $('.copiar',ops).addEventListener('click',function(){ copiar([a],this); });
@@ -1406,17 +1471,19 @@ bots.forEach(function(b){ b.addEventListener('click',function(){ $$('.fsea').for
 var q=null; try{ q=new URL(location.href).searchParams.get('e') }catch(e){}
 var s0=(q||leer(G.sel)||'').split(',');
 obs.forEach(function(a){ if(s0.indexOf(a.id)>-1) marcar(a,true); });
+if(elegidas().length) armarEl.open=true;
 [[pob,G.pob],[org,G.org],[afecta,G.afecta]].forEach(function(p){ var v=leer(p[1]); if(v) p[0].value=v; });
 
 /* si se llega con #obs-…, esa observación se muestra con sus pruebas abiertas */
 function abrirAncla(){
   var h=location.hash&&document.getElementById(location.hash.slice(1));
   if(h&&h.classList.contains('obs')){ h.hidden=false; var e=$('.evid',h); if(e) e.open=true; }
+  if(h&&h.tagName==='DETAILS') h.open=true;
 }
 window.addEventListener('hashchange',abrirAncla); abrirAncla();
 /* al imprimir, todo abierto */
 window.addEventListener('beforeprint',function(){ $$('.texto,.evid').forEach(function(d){ d.open=true }); });
-refrescar();
+refrescar(); armando();
 
 })();
 </script>
