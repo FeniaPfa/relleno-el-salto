@@ -17,11 +17,11 @@
 <meta property="og:image:alt" content="Modelo 3D del relleno al año 25 sobre la imagen satelital de El Salto, con las piscinas, las antorchas, las chimeneas y el galpón rotulados, y su pie: modelo, no fotografía, con los planos del titular.">
 <meta name="twitter:image" content="https://relleno-el-salto.chacao.workers.dev/social-3d.jpg?v=1">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="description" content="Un recorrido por el relleno sanitario proyectado en El Salto, Viña del Mar: la quebrada, la masa de basura año a año, el viento, el fuego, el agua y lo que se verá desde cada población. Con los documentos del propio titular y cálculos propios rotulados.">
+<meta name="description" content="Recorrido en 3D por el relleno proyectado en El Salto, Viña del Mar: la basura año a año, el viento, el fuego, el agua y lo que se verá desde cada población.">
 <link rel="icon" href="icono.svg" type="image/svg+xml">
 <link rel="icon" href="icono-48.png" sizes="48x48" type="image/png">
 <link rel="apple-touch-icon" href="icono-180.png">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-11-12","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-11-13","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
 <link rel="preload" as="script" href="lib/three.r128.min.js">
 <link rel="preload" as="image" href="altura.png">
 <link rel="preload" as="image" href="flujo.png">
@@ -106,11 +106,12 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
 .hd .sub .num{font-size:14.5px;color:var(--ink)}
 
 /* el plazo es la acción, no un adorno */
-.plazo{display:block;text-decoration:none;border:1px solid #a11422;
+.plazo{display:block;border:1px solid #a11422;
   background:#a11422;color:#fbf7ec;padding:0 0 16px;min-width:208px;
   overflow:hidden;
   transition:filter .15s}
-.plazo:hover{filter:brightness(1.12)}
+.plazo a{display:block;text-decoration:none}
+.plazo a:hover{text-decoration:underline;text-underline-offset:3px}
 .plazo>*:not(.cinta){margin-left:20px;margin-right:20px}
 .plazo .d{margin-top:16px;font-family:var(--cifra);font-size:clamp(38px,5.4vw,50px);font-weight:600;
   line-height:.95;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums;
@@ -120,7 +121,7 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
   margin-top:8px;color:#fbf7ec;text-transform:uppercase;letter-spacing:.06em}
 .plazo .cta{font-family:var(--cart);font-size:14px;font-weight:600;margin-top:12px;
   padding-top:10px;border-top:1px solid rgba(255,255,255,.3);color:#fbf7ec}
-.plazo .cu{font-family:var(--cart);font-size:13px;margin-top:3px;color:#fbf7ec;opacity:.88}
+.plazo .cu{font-family:var(--cart);font-size:13.5px;margin-top:8px;color:#fbf7ec;opacity:.9;line-height:1.35}
 
 /* ---------- secciones: folio colgado, como un expediente ---------- */
 section{padding-top:64px;position:relative}

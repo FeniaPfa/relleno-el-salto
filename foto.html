@@ -106,11 +106,12 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
 .hd .sub .num{font-size:14.5px;color:var(--ink)}
 
 /* el plazo es la acción, no un adorno */
-.plazo{display:block;text-decoration:none;border:1px solid #a11422;
+.plazo{display:block;border:1px solid #a11422;
   background:#a11422;color:#fbf7ec;padding:0 0 16px;min-width:208px;
   overflow:hidden;
   transition:filter .15s}
-.plazo:hover{filter:brightness(1.12)}
+.plazo a{display:block;text-decoration:none}
+.plazo a:hover{text-decoration:underline;text-underline-offset:3px}
 .plazo>*:not(.cinta){margin-left:20px;margin-right:20px}
 .plazo .d{margin-top:16px;font-family:var(--cifra);font-size:clamp(38px,5.4vw,50px);font-weight:600;
   line-height:.95;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums;
@@ -120,7 +121,7 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
   margin-top:8px;color:#fbf7ec;text-transform:uppercase;letter-spacing:.06em}
 .plazo .cta{font-family:var(--cart);font-size:14px;font-weight:600;margin-top:12px;
   padding-top:10px;border-top:1px solid rgba(255,255,255,.3);color:#fbf7ec}
-.plazo .cu{font-family:var(--cart);font-size:13px;margin-top:3px;color:#fbf7ec;opacity:.88}
+.plazo .cu{font-family:var(--cart);font-size:13.5px;margin-top:8px;color:#fbf7ec;opacity:.9;line-height:1.35}
 
 /* ---------- secciones: folio colgado, como un expediente ---------- */
 section{padding-top:64px;position:relative}
