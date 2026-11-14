@@ -66,6 +66,7 @@ def main():
     foto(h, v)
     sitemap()
     solo_produccion()
+    marcar_descargas()
 
 def tokens(h):
     """El bloque de variables de color de plantilla.html: :root y sus dos variantes
@@ -289,6 +290,37 @@ def solo_produccion():
         marca = '<meta charset="utf-8">\n'
         assert pg.count(marca) == 1, 'falta <meta charset> en ' + n
         io.open(ruta, 'w', encoding='utf-8').write(pg.replace(marca, marca + NO_INDEXAR_DEV))
+
+ARCH_CSS = ('<style>/* enlaces que descargan un archivo comprimido: en el celular no se abren, mejor avisar */'
+    'a[data-arch]::after{content:" \\2193\\00a0" attr(data-arch);font-family:var(--cart);font-size:.8em;'
+    'font-weight:400;letter-spacing:.02em;color:var(--ink3);white-space:nowrap}</style>\n')
+
+def marcar_descargas():
+    """A cada enlace a un .rar o .zip del SEIA le agrega el formato y el peso, tomados del manifiesto:
+    en el navegador de WhatsApp tocar «Cap. 3.5» baja un RAR que el celular no abre."""
+    peso = {}
+    for d in json.load(io.open(os.path.join(AQUI, 'expediente', 'manifiesto.json'), encoding='utf-8')):
+        if d.get('url') and d.get('bytes'): peso[d['url']] = d['bytes']
+    def mb(b):
+        return ('%.1f' % (b / 1e6)).replace('.', ',') + '\u00a0MB' if b < 1e8 else '%d\u00a0MB' % round(b / 1e6)
+    def poner(m):
+        tag, url, ext = m.group(0), m.group(1), m.group(2).upper()
+        if 'data-arch=' in tag: return tag
+        txt = ext + (' · ' + mb(peso[url]) if url in peso else '')
+        return tag[:-1] + ' data-arch="%s" title="Descarga un archivo %s">' % (txt, txt)
+    for n in ('index.html', 'observaciones.html', 'especies.html', 'relato.html', 'tramite.html'):
+        ruta = os.path.join(AQUI, n)
+        pg = io.open(ruta, encoding='utf-8').read()
+        pg = re.sub(r'<a [^>]*href="(https://seia\.sea\.gob\.cl/archivos/[^"#]+\.(rar|zip))"[^>]*>', poner, pg)
+        # las páginas secundarias no cierran <head>: el estilo va tras el último <style> del encabezado
+        ancla = '</head>' if '</head>' in pg else '</style>'
+        assert ancla in pg, 'sin ancla para el estilo en ' + n
+        if ancla == '</head>': pg = pg.replace(ancla, ARCH_CSS + ancla, 1)
+        else:
+            k = pg.index('<main') if '<main' in pg else len(pg)
+            k = pg.rindex('</style>', 0, k) + len('</style>')
+            pg = pg[:k] + '\n' + ARCH_CSS + pg[k:]
+        io.open(ruta, 'w', encoding='utf-8').write(pg)
 
 def sitemap():
     f = fecha_iso()
