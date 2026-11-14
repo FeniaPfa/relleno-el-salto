@@ -17,11 +17,11 @@
 <meta property="og:image:alt" content="Modelo 3D del relleno al año 25 sobre la imagen satelital de El Salto, con las piscinas, las antorchas, las chimeneas y el galpón rotulados, y su pie: modelo, no fotografía, con los planos del titular.">
 <meta name="twitter:image" content="https://relleno-el-salto.chacao.workers.dev/social-3d.jpg?v=1">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="description" content="Un recorrido por el relleno sanitario proyectado en El Salto, Viña del Mar: la quebrada, la masa de basura año a año, el viento, el fuego, el agua y lo que se verá desde cada población. Con los documentos del propio titular y cálculos propios rotulados.">
+<meta name="description" content="Recorrido en 3D por el relleno proyectado en El Salto, Viña del Mar: la basura año a año, el viento, el fuego, el agua y lo que se verá desde cada población.">
 <link rel="icon" href="icono.svg" type="image/svg+xml">
 <link rel="icon" href="icono-48.png" sizes="48x48" type="image/png">
 <link rel="apple-touch-icon" href="icono-180.png">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-11-12","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/relato#articulo","url":"https://relleno-el-salto.chacao.workers.dev/relato","headline":"El relleno de El Salto, contado desde el terreno","inLanguage":"es-CL","dateModified":"2026-11-14","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"El recorrido en 3D","item":"https://relleno-el-salto.chacao.workers.dev/relato"}]}]}</script>
 <link rel="preload" as="script" href="lib/three.r128.min.js">
 <link rel="preload" as="image" href="altura.png">
 <link rel="preload" as="image" href="flujo.png">
@@ -106,11 +106,12 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
 .hd .sub .num{font-size:14.5px;color:var(--ink)}
 
 /* el plazo es la acción, no un adorno */
-.plazo{display:block;text-decoration:none;border:1px solid #a11422;
+.plazo{display:block;border:1px solid #a11422;
   background:#a11422;color:#fbf7ec;padding:0 0 16px;min-width:208px;
   overflow:hidden;
   transition:filter .15s}
-.plazo:hover{filter:brightness(1.12)}
+.plazo a{display:block;text-decoration:none}
+.plazo a:hover{text-decoration:underline;text-underline-offset:3px}
 .plazo>*:not(.cinta){margin-left:20px;margin-right:20px}
 .plazo .d{margin-top:16px;font-family:var(--cifra);font-size:clamp(38px,5.4vw,50px);font-weight:600;
   line-height:.95;letter-spacing:-.012em;font-variant-numeric:lining-nums tabular-nums;
@@ -120,7 +121,7 @@ header{border-bottom:1px solid var(--bistre);background:var(--surf)}
   margin-top:8px;color:#fbf7ec;text-transform:uppercase;letter-spacing:.06em}
 .plazo .cta{font-family:var(--cart);font-size:14px;font-weight:600;margin-top:12px;
   padding-top:10px;border-top:1px solid rgba(255,255,255,.3);color:#fbf7ec}
-.plazo .cu{font-family:var(--cart);font-size:13px;margin-top:3px;color:#fbf7ec;opacity:.88}
+.plazo .cu{font-family:var(--cart);font-size:13.5px;margin-top:8px;color:#fbf7ec;opacity:.9;line-height:1.35}
 
 /* ---------- secciones: folio colgado, como un expediente ---------- */
 section{padding-top:64px;position:relative}
@@ -181,7 +182,7 @@ section{padding-top:64px;position:relative}
 .c-warn{color:var(--warn)} .c-green{color:var(--green)}
 .calc{margin-top:30px;font-family:var(--cart);font-size:13.5px;font-weight:600;color:var(--blue);letter-spacing:.01em}
 
-/* barra de umbral: un número solo no dice si 96,6 % es mucho */
+/* barra de umbral: un número solo no dice si 96,6 % es mucho */
 .umbral{margin-top:14px}
 .umbral .riel{position:relative;height:12px;background:var(--sunk);
   border:1px solid var(--lctl)}
@@ -239,7 +240,7 @@ td b{font-weight:600}
 .mx .m{border-left-color:var(--warn)}
 .mx .x{border-left-color:var(--line)}
 .mx .nm{font-size:15px;line-height:1.3;font-weight:600}
-.mx .fo{font-family:var(--cart);font-size:12.5px;color:var(--ink3)}
+.mx .fo{font-family:var(--cart);font-size:13.5px;color:var(--ink3)}
 details.plegado{margin-top:14px}
 details.plegado>summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;
   font-weight:600;color:var(--ink2);padding:8px 0;min-height:34px;letter-spacing:.01em}
@@ -351,18 +352,6 @@ details.plegado>summary{cursor:pointer;font-family:var(--cart);font-size:13.5px;
   color:var(--acc);margin-bottom:6px;text-transform:uppercase;letter-spacing:.06em}
 .pide .usar{display:inline-block;margin-top:10px;font-family:var(--cart);font-size:14px;font-weight:600;
   color:var(--ink);text-decoration:none;border-bottom:1px solid var(--acc)}
-.modh{font-family:var(--doc);font-size:21px;font-weight:600;margin:34px 0 8px}
-.modp{color:var(--ink2);font-size:16px;line-height:1.6;max-width:68ch;margin-bottom:18px}
-.modelos{display:grid;gap:18px;grid-template-columns:1fr}
-@media(min-width:900px){.modelos{grid-template-columns:1fr 1fr}}
-.modelo{margin:0;border:1px solid var(--line);background:var(--surf);padding:18px 20px 16px;display:flex;flex-direction:column}
-.modelo figcaption{font-family:var(--doc);font-size:17px;font-weight:600;margin-bottom:10px}
-.modelo figcaption .src{display:block;font-family:var(--cart);font-size:13.5px;font-weight:500;color:var(--ink3);margin-top:3px;letter-spacing:.01em}
-.modelo blockquote{margin:0 0 14px;font-size:15.5px;line-height:1.6;color:var(--ink);flex:1}
-.copiar{align-self:flex-start;font-family:var(--cart);font-size:14px;font-weight:600;border:1px solid var(--lctl);
-  background:transparent;color:var(--ink);padding:9px 14px;min-height:40px;cursor:pointer;border-radius:2px}
-.copiar:hover{background:var(--surf2)}
-.copiar[data-ok]{border-color:var(--green);color:var(--green)}
 .fmt{font-family:var(--cart);font-size:.82em;font-weight:400;color:var(--ink3);letter-spacing:0}
 .btn{display:inline-block;background:#a11422;color:#fbf7ec;
   font-family:var(--cart);font-size:16px;font-weight:600;text-decoration:none;
@@ -415,7 +404,7 @@ abbr[data-def]:focus-visible{outline:2px solid var(--blue)}
 /* índice en tres grupos: actuar, ver y el análisis */
 .indice .il{flex-direction:column;flex-wrap:nowrap;gap:8px}
 .indice .ig{display:grid;grid-template-columns:96px minmax(0,1fr);gap:4px 14px;align-items:baseline}
-.indice .igt{margin:0;font-size:12.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink3)}
+.indice .igt{margin:0;font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink3)}
 .indice .ig .igl{display:flex;flex-wrap:wrap;gap:6px 14px}
 .indice a.aqui{color:var(--ink);border-bottom:2px solid var(--acc);font-weight:600}
 @media(max-width:720px){
@@ -522,7 +511,6 @@ details.plegado>summary{min-height:44px;display:flex;align-items:center;font-siz
   .shd .src a{display:inline-block;padding:4px 0;margin:2px 0}
   .leg{display:grid;grid-template-columns:1fr 1fr;gap:6px 12px;font-size:13px}
   tbody td>*{min-width:0;overflow-wrap:anywhere}
-  .modelos-d>summary{font-size:16px}
 }
 @media(max-width:360px){ tbody td{grid-template-columns:minmax(0,8em) 1fr} }
 
@@ -612,6 +600,8 @@ body.con-full{overflow:hidden}
   .mx .nm{font-size:13.5px}
   .mx>div{padding:8px 10px}
 }
+/* a 390 px dos columnas dejan los oficios en tres líneas */
+@media(max-width:480px){ .mx{grid-template-columns:1fr} }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 
 /* ---------- visor 3D: panel oscuro propio, no sigue el tema ---------- */
@@ -987,7 +977,7 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .rej .le{font-family:var(--doc);font-size:16px;font-weight:600;color:var(--ink3);
   grid-row:1/3;align-self:center}
 .rej .ld{font-family:var(--cart);font-size:13.5px;line-height:1.25;color:var(--ink)}
-.rej .lv{font-family:var(--cart);font-size:12.5px;letter-spacing:.02em;color:var(--ink3)}
+.rej .lv{font-family:var(--cart);font-size:13.5px;letter-spacing:.02em;color:var(--ink3)}
 .rej .lit.sig{background:#a11422;border-color:#a11422}
 .rej .lit.sig .le,.rej .lit.sig .ld{color:#fff;font-weight:600}
 .rej .lit.sig .lv{color:#fff;font-weight:600}
@@ -1005,7 +995,7 @@ input[type=range]{width:100%;accent-color:var(--acc);height:34px;margin:0}
 .paso .pt{font-family:var(--cart);font-size:15.5px;font-weight:600;color:var(--ink)}
 .paso .pd{font-family:var(--txt);font-size:14.5px;line-height:1.55;color:var(--ink2);margin-top:7px}
 .paso .pd b{color:var(--ink);font-weight:600}
-blockquote.cita{margin:26px 0 0;padding:18px 0 18px 22px;border-left:3px solid var(--lctl);
+blockquote.cita{margin:26px 0 22px;padding:18px 0 18px 22px;border-left:3px solid var(--lctl);
   font-family:var(--doc);font-size:19px;line-height:1.56;color:var(--ink);font-style:italic;
   max-width:62ch}
 blockquote.cita b{font-style:normal;font-weight:600}
@@ -1320,6 +1310,8 @@ body.bajo .pista{opacity:0;pointer-events:none}
   .baja i,.carga .barra-c i{animation:none}
 }
 </style>
+<style>/* enlaces que descargan un archivo comprimido: en el celular no se abren, mejor avisar */a[data-arch]::after{content:" \2193\00a0" attr(data-arch);font-family:var(--cart);font-size:.8em;font-weight:400;letter-spacing:.02em;color:var(--ink3);white-space:nowrap}</style>
+
 
 <div class="carga" aria-hidden="true"><p class="k">Cargando el terreno de El Salto</p><div class="barra-c"><i></i></div></div>
 <div class="prog" id="prog" aria-hidden="true"></div>
@@ -1506,7 +1498,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
     <p>Su tabla de receptores para modelar olores lista <b>21 unidades habitacionales</b>, entre 676 m
     y 2,1 km. Las 21 están al norte. Ninguna queda al otro lado.</p>
     <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_42_Informe_Modelacion_Meteorologica.pdf" target="_blank" rel="noopener">Anexo 4.2</a> ·
-    Tabla 11 del Anexo 8.1, dentro del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Capítulo 8</a></p>
+    Tabla 11 del Anexo 8.1, dentro del <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener" data-arch="RAR · 2,8 MB" title="Descarga un archivo RAR · 2,8 MB">Capítulo 8</a></p>
   </div>
 </section>
 
@@ -1540,7 +1532,7 @@ body.bajo .pista{opacity:0;pointer-events:none}
     <h2>poblaciones verán la montaña</h2>
     <p>Desde más de la mitad de sus calles. El titular entregó <b>un solo fotomontaje</b>, y muestra
     el relleno ya cerrado y cubierto de vegetación, no los 25 años en que funciona.</p>
-    <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar" target="_blank" rel="noopener">Anexo 4.5</a> ·
+    <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/84d_Anexo_45_Evaluacion_Paisajistica.rar" target="_blank" rel="noopener" data-arch="RAR · 7,1 MB" title="Descarga un archivo RAR · 7,1 MB">Anexo 4.5</a> ·
     cuenca visual: cálculo de esta página</p>
   </div>
 </section>
@@ -1555,8 +1547,8 @@ body.bajo .pista{opacity:0;pointer-events:none}
     activa»</b> que «compromete el cierre perimetral»; la línea de base de 2026 la descarta con un
     relevamiento de superficie. El capítulo que evalúa los impactos no menciona la falla ni el sismo.</p>
     <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf" target="_blank" rel="noopener">Capítulo 1</a> ·
-    <a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener">Capítulo 3.5</a> ·
-    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener">Capítulo 4</a></p>
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/17/d8d_Cap_35_Geologia.rar" target="_blank" rel="noopener" data-arch="RAR · 51,6 MB" title="Descarga un archivo RAR · 51,6 MB">Capítulo 3.5</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_4_PREDICCION_Y_EVALUACION_DE_IMPACTOS.rar" target="_blank" rel="noopener" data-arch="RAR · 1,5 MB" title="Descarga un archivo RAR · 1,5 MB">Capítulo 4</a></p>
   </div>
 </section>
 
@@ -1572,8 +1564,8 @@ body.bajo .pista{opacity:0;pointer-events:none}
     <p class="fte"><a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf" target="_blank" rel="noopener">Capítulo 5</a> ·
     <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_7_PLAN_DE_SEGUIMIENTO_DE_VARIABLES_AMBIENTALES_RELEVANTES.pdf" target="_blank" rel="noopener">Capítulo 7</a> ·
     rótulos: <a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=104" target="_blank" rel="noopener">Capítulo 1</a> ·
-    <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_38_Ruido_y_Vibraciones.rar" target="_blank" rel="noopener">Capítulo 3.8</a> ·
-    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener">Anexo 4.1</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_38_Ruido_y_Vibraciones.rar" target="_blank" rel="noopener" data-arch="RAR · 7,6 MB" title="Descarga un archivo RAR · 7,6 MB">Capítulo 3.8</a> ·
+    <a href="https://seia.sea.gob.cl/archivos/2026/07/15/Anexo_41_Informe_de_Estimacion_de_emisiones.rar" target="_blank" rel="noopener" data-arch="RAR · 6,9 MB" title="Descarga un archivo RAR · 6,9 MB">Anexo 4.1</a> ·
     <a href="https://seia.sea.gob.cl/archivos/2026/07/15/RESUMEN_EJECUTIVO.pdf#page=23" target="_blank" rel="noopener">Resumen Ejecutivo</a></p>
   </div>
 </section>

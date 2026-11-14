@@ -79,7 +79,7 @@ src/                  las fuentes de las páginas (ver CLAUDE.md)
   v3d.js · v3d2.js    visores 3D del terreno y del subsuelo
   shader.js           GLSL del terreno
   datos.json          los datos que se incrustan en la página
-  plazos.html         la página «Qué puede pasar»
+  plazos.html         la página «Qué viene ahora»
   observaciones.html  las observaciones fundadas, listas para copiar
   especies.html       las especies afectadas, con foto (las fotos en especies/)
   social.html         Open Graph y datos estructurados

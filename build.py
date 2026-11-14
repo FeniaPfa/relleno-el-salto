@@ -66,6 +66,7 @@ def main():
     foto(h, v)
     sitemap()
     solo_produccion()
+    marcar_descargas()
 
 def tokens(h):
     """El bloque de variables de color de plantilla.html: :root y sus dos variantes
@@ -105,6 +106,33 @@ def segunda(h):
         '<script>location.replace("tramite.html"+location.search+location.hash)</script>\n'
         '<p>Esta página ahora está en <a href="tramite.html">%s</a>.</p>\n' % (nueva, nueva))
 
+ESTADO_ICSARA = {'si': 'Sí', 'parte': 'En parte', 'no': 'No'}
+
+def tabla_adenda(pg):
+    """La lista para revisar la Adenda: una fila por observación, leída de las propias tarjetas
+    (número, título y estado en el ICSARA), así que no puede divergir de ellas."""
+    filas = []
+    for art in re.findall(r'<article class="obs".*?</article>', pg, re.S):
+        oid = re.search(r'id="(obs-[a-z-]+)"', art).group(1)
+        num = re.search(r'<span class="num">(\d+)</span>', art).group(1)
+        tit = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', re.search(r'<h2>(.*?)</h2>', art, re.S).group(1))).strip()
+        est = re.search(r'<p class="ics ics-(si|parte|no)"', art)
+        assert est, 'observación sin estado en el ICSARA: ' + oid
+        e = est.group(1)
+        filas.append('<tr><td class="n">%s</td><td><a href="#%s">%s</a></td>'
+                     '<td class="e e-%s"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-%s"/></svg>%s</td>'
+                     '<td class="r">Pendiente</td></tr>' % (num, oid, tit, e, e, ESTADO_ICSARA[e]))
+    return ('<details class="adenda despl" id="adenda">\n'
+            '  <summary>Cuando llegue la Adenda: qué revisar <span class="cnt">(%d)</span></summary>\n'
+            '  <div class="ad-c">\n'
+            '  <p>Para cada observación: si el SEA ya se la preguntó al titular en el ICSARA y si la Adenda la responde. '
+            'Mientras la Adenda no se publique, todas están pendientes. Las que no están en el ICSARA solo llegan a la '
+            'evaluación por las observaciones ciudadanas.</p>\n'
+            '  <table class="ad-t">\n    <thead><tr><th class="n" scope="col">N.º</th><th scope="col">Observación</th>'
+            '<th class="e" scope="col">ICSARA</th><th class="r" scope="col">Adenda</th></tr></thead>\n'
+            '    <tbody>\n    %s\n    </tbody>\n  </table>\n  </div>\n</details>'
+            % (len(filas), '\n    '.join(filas)))
+
 def observaciones(h):
     """observaciones.html: las observaciones fundadas, con cita y página, listas para copiar.
     Estática como la segunda: hereda tokens y fuentes, y su script se valida con node."""
@@ -113,6 +141,8 @@ def observaciones(h):
     pg = pg.replace('/*__TOKENS__*/', tokens(h)).replace('{fecha_iso}', fecha_iso())
     assert pg.count('<!--__FUENTES__-->') == 1, 'marcador de fuentes ausente en observaciones.html'
     pg = pg.replace('<!--__FUENTES__-->', fuentes(h))
+    assert pg.count('<!--__ADENDA__-->') == 1, 'marcador de la tabla de la Adenda ausente en observaciones.html'
+    pg = pg.replace('<!--__ADENDA__-->', tabla_adenda(pg))
     ids = re.findall(r'<article class="obs" id="(obs-[a-z-]+)"', pg)
     assert len(ids) == len(set(ids)), 'id de observación duplicado'
     # cada .pide de la principal que apunta aquí debe encontrar su observación
@@ -289,6 +319,37 @@ def solo_produccion():
         marca = '<meta charset="utf-8">\n'
         assert pg.count(marca) == 1, 'falta <meta charset> en ' + n
         io.open(ruta, 'w', encoding='utf-8').write(pg.replace(marca, marca + NO_INDEXAR_DEV))
+
+ARCH_CSS = ('<style>/* enlaces que descargan un archivo comprimido: en el celular no se abren, mejor avisar */'
+    'a[data-arch]::after{content:" \\2193\\00a0" attr(data-arch);font-family:var(--cart);font-size:.8em;'
+    'font-weight:400;letter-spacing:.02em;color:var(--ink3);white-space:nowrap}</style>\n')
+
+def marcar_descargas():
+    """A cada enlace a un .rar o .zip del SEIA le agrega el formato y el peso, tomados del manifiesto:
+    en el navegador de WhatsApp tocar «Cap. 3.5» baja un RAR que el celular no abre."""
+    peso = {}
+    for d in json.load(io.open(os.path.join(AQUI, 'expediente', 'manifiesto.json'), encoding='utf-8')):
+        if d.get('url') and d.get('bytes'): peso[d['url']] = d['bytes']
+    def mb(b):
+        return ('%.1f' % (b / 1e6)).replace('.', ',') + '\u00a0MB' if b < 1e8 else '%d\u00a0MB' % round(b / 1e6)
+    def poner(m):
+        tag, url, ext = m.group(0), m.group(1), m.group(2).upper()
+        if 'data-arch=' in tag: return tag
+        txt = ext + (' · ' + mb(peso[url]) if url in peso else '')
+        return tag[:-1] + ' data-arch="%s" title="Descarga un archivo %s">' % (txt, txt)
+    for n in ('index.html', 'observaciones.html', 'especies.html', 'relato.html', 'tramite.html'):
+        ruta = os.path.join(AQUI, n)
+        pg = io.open(ruta, encoding='utf-8').read()
+        pg = re.sub(r'<a [^>]*href="(https://seia\.sea\.gob\.cl/archivos/[^"#]+\.(rar|zip))"[^>]*>', poner, pg)
+        # las páginas secundarias no cierran <head>: el estilo va tras el último <style> del encabezado
+        ancla = '</head>' if '</head>' in pg else '</style>'
+        assert ancla in pg, 'sin ancla para el estilo en ' + n
+        if ancla == '</head>': pg = pg.replace(ancla, ARCH_CSS + ancla, 1)
+        else:
+            k = pg.index('<main') if '<main' in pg else len(pg)
+            k = pg.rindex('</style>', 0, k) + len('</style>')
+            pg = pg[:k] + '\n' + ARCH_CSS + pg[k:]
+        io.open(ruta, 'w', encoding='utf-8').write(pg)
 
 def sitemap():
     f = fecha_iso()
