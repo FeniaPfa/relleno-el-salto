@@ -131,6 +131,9 @@ mira el relleno desde ese punto a 1,6 m del suelo).
 - Las poblaciones usan las mismas distancias que publica la principal (`d`, `dres` de `datos.json`), no las recalcula.
 - Es propiedad privada: ningún texto puede invitar a entrar. El P.O.1 del titular está dentro del predio y su tarjeta
   no ofrece «Cómo llegar».
+- **El predio hoy no está cercado** (lo dijo la dueña, que conoce el lugar). El «cerco perimetral» del Cap. 3.15 es el cierre
+  que el proyecto construiría. No escribas «cerco» como si existiera: la frase es «aunque no esté cercado, para entrar se
+  necesita permiso del dueño».
 
 `lee.py` extrae texto de un PDF con PyMuPDF. `verifica_citas.py` coteja las citas del sitio con el expediente (ver «Revisión de fuentes antes de publicar»).
 
