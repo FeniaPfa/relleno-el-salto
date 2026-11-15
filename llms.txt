@@ -21,6 +21,10 @@ declara junto a cada una. Las cifras marcadas como «cálculo de esta página» 
   proyecto les hace y lo que el estudio no resuelve, cada dato con su página.
 - [El recorrido en 3D](https://relleno-el-salto.chacao.workers.dev/relato): la historia contada
   sobre el terreno, con la vista desde cada población.
+- [Ir a ver el terreno](https://relleno-el-salto.chacao.workers.dev/visita): dónde está el predio (Ruta 60,
+  Troncal Sur, kilómetro 102,5; Capítulo 1), a qué distancia está quien la consulta, los seis puntos desde los
+  que el titular evaluó el paisaje (Capítulo 3.15, Tabla 4) y qué mirar y registrar en terreno. Es propiedad
+  privada: se mira desde lugares públicos.
 - [Qué viene ahora](https://relleno-el-salto.chacao.workers.dev/tramite): el
   recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300.
 - [Ficha oficial del expediente](https://seia.sea.gob.cl/expediente/ficha/fichaPrincipal.php?modo=ficha&id_expediente=2168892026)

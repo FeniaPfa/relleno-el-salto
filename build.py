@@ -62,6 +62,7 @@ def main():
     segunda(h)
     observaciones(h)
     especies(h)
+    visita(h)
     relato(h, v)
     foto(h, v)
     sitemap()
@@ -178,6 +179,46 @@ def especies(h):
     destino = os.path.join(AQUI, 'especies.html')
     io.open(destino, 'w', encoding='utf-8').write(pg)
     print('especies.html  %.1f KB  ·  %d fotos' % (os.path.getsize(destino) / 1024, len(set(fotos))))
+
+def visita(h):
+    """visita.html: la guía para ir a ver el terreno. Estática como las secundarias, con sus datos en línea para que
+    funcione sin señal una vez cargada: visita.json (calles de OpenStreetMap, cuenca visual en bits y los puntos de
+    observación del titular, de visita.py) y, de datos.json, el predio, la zona de residuos, el área de influencia,
+    el Sitio Prioritario, las poblaciones y el rumbo del viento."""
+    pg = leer('visita.html')
+    for marca, valor in (('/*__TOKENS__*/', tokens(h)), ('<!--__FUENTES__-->', fuentes(h))):
+        assert pg.count(marca) == 1, 'marcador ausente en visita.html: ' + marca
+        pg = pg.replace(marca, valor)
+    d = json.loads(leer('datos.json'))
+    v = json.load(io.open(os.path.join(AQUI, 'visita.json'), encoding='utf-8'))
+    geo = {p['id']: p['g'] for p in d['proyecto']}
+    vis = {c['n']: c['vis'] for c in d['cuenca']['comunidades']}
+    v['predio'], v['residuos'] = geo['predio'], geo['residuos']
+    v['ai'] = d['ai_humano'].get('g')
+    v['palmar'] = next(a['g'] for a in d['areas'] if a['id'] == 'palmar')
+    v['viento'] = d['viento']['hacia']
+    v['barrios'] = [dict({k: b[k] for k in ('n', 'x', 'y', 'd', 'dres', 'm')}, **({'vis': vis[b['n']]} if b['n'] in vis else {}))
+                    for b in d['barrios']]
+    assert len(v['po']) == 6, 'faltan puntos de observación en visita.json'
+    for p in v['po']:
+        assert 'id="po-%d"' % p['n'] in pg, 'falta la tarjeta del punto %d en visita.html' % p['n']
+    assert pg.count('/*__VISITA__*/') == 1, 'marcador de datos ausente en visita.html'
+    pg = pg.replace('/*__VISITA__*/', json.dumps(v, ensure_ascii=False, separators=(',', ':')))
+    pg = pg.replace('{fecha_iso}', fecha_iso())
+    bloque = re.findall(r'<script>(.*?)</script>', pg, re.S)[-1]
+    tmp = os.path.join(AQUI, '.chk.js')
+    io.open(tmp, 'w', encoding='utf-8').write(bloque)
+    try:
+        r = subprocess.run(['node', '--check', tmp], capture_output=True, text=True)
+        if r.returncode:
+            print(r.stderr[:800]); os.remove(tmp); sys.exit(1)
+    except FileNotFoundError:
+        pass
+    finally:
+        if os.path.exists(tmp): os.remove(tmp)
+    destino = os.path.join(AQUI, 'visita.html')
+    io.open(destino, 'w', encoding='utf-8').write(pg)
+    print('visita.html  %.1f KB' % (os.path.getsize(destino) / 1024))
 
 def pesos():
     """Peso en MB de cada archivo del expediente, por nombre, desde el manifiesto del archivo:
@@ -313,7 +354,7 @@ NO_INDEXAR_DEV = ('<script>/* copia de prueba en GitHub Pages (rama dev): que lo
     "[].forEach.call(document.querySelectorAll('meta[name=robots]'),function(x){x.content='noindex,nofollow'})})}</script>\n")
 
 def solo_produccion():
-    for n in ('index.html', 'observaciones.html', 'especies.html', 'relato.html', 'foto.html', 'tramite.html', 'que-puede-pasar.html'):
+    for n in ('index.html', 'observaciones.html', 'especies.html', 'visita.html', 'relato.html', 'foto.html', 'tramite.html', 'que-puede-pasar.html'):
         ruta = os.path.join(AQUI, n)
         pg = io.open(ruta, encoding='utf-8').read()
         marca = '<meta charset="utf-8">\n'
@@ -337,7 +378,7 @@ def marcar_descargas():
         if 'data-arch=' in tag: return tag
         txt = ext + (' · ' + mb(peso[url]) if url in peso else '')
         return tag[:-1] + ' data-arch="%s" title="Descarga un archivo %s">' % (txt, txt)
-    for n in ('index.html', 'observaciones.html', 'especies.html', 'relato.html', 'tramite.html'):
+    for n in ('index.html', 'observaciones.html', 'especies.html', 'visita.html', 'relato.html', 'tramite.html'):
         ruta = os.path.join(AQUI, n)
         pg = io.open(ruta, encoding='utf-8').read()
         pg = re.sub(r'<a [^>]*href="(https://seia\.sea\.gob\.cl/archivos/[^"#]+\.(rar|zip))"[^>]*>', poner, pg)
@@ -353,7 +394,7 @@ def marcar_descargas():
 
 def sitemap():
     f = fecha_iso()
-    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones', 'especies', 'relato', 'tramite'))
+    xs = ''.join('  <url><loc>%s</loc><lastmod>%s</lastmod></url>\n' % (URL + p, f) for p in ('', 'observaciones', 'especies', 'visita', 'relato', 'tramite'))
     io.open(os.path.join(AQUI, 'sitemap.xml'), 'w', encoding='utf-8').write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + xs + '</urlset>\n')
 

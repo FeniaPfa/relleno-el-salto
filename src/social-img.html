@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@600&family=Libre+Franklin:wght@400;600&display=swap">
 <style>
 /* Plantilla de las imágenes sociales (1200×630). Se renderiza con Chrome headless; ver CLAUDE.md.
-   Sin parámetro es la de la principal (social.jpg); ?p=observaciones, ?p=tramite y ?p=especies dan las de esas páginas. */
+   Sin parámetro es la de la principal (social.jpg); ?p=observaciones, ?p=tramite, ?p=especies y ?p=visita dan las de esas páginas. */
 html,body{margin:0;width:1200px;height:630px;overflow:hidden;background:#14161a}
 .f{position:absolute;inset:0;background:url(../paisaje.jpg) center 40%/cover}
 .v{position:absolute;inset:0;background:linear-gradient(90deg,rgba(14,16,20,.86) 0%,rgba(14,16,20,.72) 60%,rgba(14,16,20,.55) 100%)}
@@ -50,6 +50,15 @@ p{position:absolute;left:64px;top:290px;margin:0;font:400 29px/1.45 'Libre Frank
     document.body.appendChild(m);
     $('.k b').textContent='Solo quien observó puede reclamar después';
     $('.k span').textContent='Ley 19.300, art. 29 · Expediente SEIA 2168892026';
+  }
+  if(p==='visita'){
+    $('h1').textContent='Ir a ver el terreno del relleno de El Salto';
+    $('p').textContent='Dónde está, a cuánta distancia estás tú, desde dónde se ve y qué mirar. Una vez cargada, funciona sin señal.';
+    $('.k b').textContent='Ruta 60, Troncal Sur, kilómetro 102,5';
+    $('.k span').textContent='Es propiedad privada: se mira desde lugares públicos';
+    /* el fondo es el fotomontaje del titular desde el P.O.3: dicho dentro de la imagen, que al compartirse pierde la página */
+    var cr=document.createElement('div'); cr.style.cssText='position:absolute;right:24px;bottom:18px;font:400 16px/1.4 "Libre Franklin",system-ui,sans-serif;color:#d8d6cf;background:rgba(14,16,20,.75);padding:6px 10px';
+    cr.textContent='Fondo: fotomontaje del titular desde Pompeya Sur (P.O.3), Anexo 4.5'; document.body.appendChild(cr);
   }
   if(p==='especies'){
     $('.f').style.background='#14161a';

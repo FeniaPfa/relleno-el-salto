@@ -459,6 +459,8 @@ html{scroll-padding-top:calc(var(--ubic-h,52px) + 8px)}
   text-underline-offset:3px;cursor:pointer}
 .yo-link[aria-pressed="true"]{color:var(--blue);font-weight:600}
 .yo-res{margin:12px 0 0;font-size:16.5px;line-height:1.55;color:var(--ink)}
+.yo-mas{margin:10px 0 0;font-family:var(--cart);font-size:15px;font-weight:600}
+.yo-mas a{display:inline-block;padding:6px 0}
 .yo-res small{display:block;margin-top:4px;font-family:var(--cart);font-size:13.5px;color:var(--ink3)}
 #m1.yo-marcando{cursor:crosshair}
 .yo-corta{display:none}
@@ -3249,12 +3251,14 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     {t:'Maqueta: las obras',    c:MAQUETA, r:['nobras'], o:['obras']}];
   var on={}, rot={}, viento={m:'pri',r:D.viento.hacia};
   CAPAS.forEach(function(c){ on[c.k]=!!c.on }); ROTS.forEach(function(r){ rot[r.k]=!!r.on });
-  var camIni={th:-0.45,ph:0.86,rad:0.5,dx:0,dz:0.05}, fovIni=40;
+  var camIni={th:-0.45,ph:0.86,rad:0.5,dx:0,dz:0.05}, fovIni=40, ojoIni=null;
 
   function leerHash(){
     var h={}; location.hash.replace(/^#/,'').split('&').forEach(function(p){ var i=p.indexOf('='); if(i>0) h[p.slice(0,i)]=decodeURIComponent(p.slice(i+1)) });
     if(h.v){ var a=h.v.split(',').map(Number);
       if(a.length>=5&&a.every(isFinite)){ camIni={th:a[0],ph:a[1],rad:a[2],dx:a[3],dz:a[4]}; if(a[5]) fovIni=Math.max(18,Math.min(75,a[5])) } }
+    /* #o=lon,lat (desde la guía de terreno): mirar el relleno desde ese punto, a la altura de los ojos */
+    if(h.o){ var o=h.o.split(',').map(Number); if(o.length===2&&o.every(isFinite)) ojoIni=o }
     if(h.c!=null){ var cs=h.c.split('.'); CAPAS.forEach(function(c){ on[c.k]=cs.indexOf(c.k)>=0 }) }
     if(h.r!=null){ var rs=h.r.split('.'); ROTS.forEach(function(r){ rot[r.k]=rs.indexOf(r.k)>=0 }) }
     if(h.w){ var w=h.w.split(':'); if(w[0]==='sec') viento={m:'sec',r:D.viento.sec_hacia};
@@ -3344,7 +3348,9 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
   var toque=$('#toque'), punteros={}, ult=null;
   function cam(){ var e=VISOR.estado(); return {th:e.th,ph:e.ph,rad:e.rad,dx:e.dx,dz:e.dz} }
   function poner(c){
-    c.ph=Math.max(0.02,Math.min(1.48,c.ph)); c.rad=Math.max(0.03,Math.min(1.6,c.rad));
+    /* hasta 1,75: desde una población más baja que la cima se mira hacia arriba (ph > π/2). Lo que impide meterse
+       bajo el cerro es el ciclo de abajo, no este tope */
+    c.ph=Math.max(0.02,Math.min(1.75,c.ph)); c.rad=Math.max(0.03,Math.min(1.6,c.rad));
     c.dx=Math.max(-0.5,Math.min(0.5,c.dx)); c.dz=Math.max(-0.5,Math.min(0.5,c.dz));
     VISOR.poner(c);
     /* la cámara no se mete bajo el cerro: si queda bajo el terreno, se levanta */
@@ -3741,7 +3747,7 @@ cargarAltura(function(){ cargarFlujo(arrancar) });
     CAPAS.forEach(function(c){ c.f(on[c.k]) });
     ponerViento(viento.m,viento.r);
     VISOR.fov(fovIni); fovIn.value=fovIni; $('#fov-v').textContent=fovIni+'°';
-    poner(Object.assign({dx:0,dz:0},camIni));
+    poner(Object.assign({dx:0,dz:0},ojoIni?VISOR.ojo(ojoIni[0],ojoIni[1],1.6):camIni));
     ajustarLienzo(); armarTam();
     var fuentes=document.fonts&&document.fonts.load?Promise.all([fuente(14),fuente(12.5,500),fuente(11)].map(function(f){ return document.fonts.load(f) })):Promise.resolve();
     fuentes.then(pedirRot,pedirRot);
