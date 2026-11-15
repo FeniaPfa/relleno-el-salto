@@ -113,6 +113,25 @@ mismo resultado, comprobado con una huella numérica de celdas, alturas y cotas 
 de escritorio se queda en JPEG: en WebP pesa lo mismo con igual calidad. La validación y las trampas están en su
 encabezado; si lo vuelves a correr, compara con los perfiles del plano antes de publicar.
 
+## La guía de terreno (`visita.html`)
+
+Para quien va a ver el predio: «¿A cuánto estás?» (GPS o una lista de lugares), un mapa propio, los seis puntos de
+observación del paisaje del titular y qué mirar y registrar. Sale de `src/visita.html`; el build le inyecta
+`visita.json` y, de `datos.json`, el predio, la zona de residuos, el área de influencia, el Sitio Prioritario, las
+poblaciones y el rumbo del viento. **Todo va en línea** para que funcione sin señal una vez cargada: no pide nada
+después del primer cuadro, y no carga el visor 3D (el botón «Ver desde aquí en 3D» lleva a `foto.html#o=lon,lat`, que
+mira el relleno desde ese punto a 1,6 m del suelo).
+- `visita.py` arma `visita.json`: calles y cursos de agua de OpenStreetMap (Overpass, ODbL, atribuido en la página),
+  simplificados a 4 m; la cuenca visual de `cuenca.png` como 256 × 256 bits, para responder «¿desde aquí hay línea de
+  vista?»; y los seis P.O. del Cap. 3.15 (Tabla 4, coordenadas UTM 19S). **No está conectado al build.** Comprobación
+  de la conversión: el P.O.1 cae dentro del predio («dentro del cerco perimetral») y el P.O.2 a 1.087 m («aproximadamente
+  1 km»); y la cuenca visual coincide con el titular en que desde el P.O.2 y el P.O.6 no se ve (p. 30).
+- Las tarjetas de los seis puntos están escritas en `src/visita.html` (así `verifica_citas.py` coteja sus citas); el
+  build falla si falta alguna. Las distancias, la línea de vista y los enlaces de navegación los agrega el script.
+- Las poblaciones usan las mismas distancias que publica la principal (`d`, `dres` de `datos.json`), no las recalcula.
+- Es propiedad privada: ningún texto puede invitar a entrar. El P.O.1 del titular está dentro del predio y su tarjeta
+  no ofrece «Cómo llegar».
+
 `lee.py` extrae texto de un PDF con PyMuPDF. `verifica_citas.py` coteja las citas del sitio con el expediente (ver «Revisión de fuentes antes de publicar»).
 
 ## Restricciones y trampas conocidas
@@ -282,8 +301,8 @@ sips -s format jpeg -s formatOptions 82 /tmp/social.png --out social.jpg
 ```
 
 **Cada página tiene su imagen** (con su propio `?v=N` en su `og:image` y `twitter:image`): `social-observaciones.jpg`,
-`social-tramite.jpg` y `social-especies.jpg` salen de la misma plantilla con `?p=observaciones`, `?p=tramite` o
-`?p=especies` en la dirección del comando de arriba. `social-3d.jpg` (relato y modo foto) es una foto del modo foto a
+`social-tramite.jpg`, `social-especies.jpg` y `social-visita.jpg` salen de la misma plantilla con `?p=observaciones`,
+`?p=tramite`, `?p=especies` o `?p=visita` en la dirección del comando de arriba. `social-3d.jpg` (relato y modo foto) es una foto del modo foto a
 1200 × 630 con la vista «Maqueta», `#v=-0.620,0.780,0.165,0.002,0.012,40&c=obras.deslinde.areas&r=nobras.norte`, y lleva su
 pie. La de observaciones dice el conteo («23 observaciones»): si cambia, regenérala y sube su versión. La foto de especies
 lleva el crédito y la licencia dentro de la imagen, porque al compartirla se separa de la página.

@@ -1,0 +1,626 @@
+<!doctype html>
+<html lang="es-CL">
+<meta charset="utf-8">
+<title>Ir a ver el terreno del relleno de El Salto</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Dónde está el predio del relleno de El Salto, a cuánta distancia estás tú, desde dónde se ve y qué mirar y registrar en terreno. Funciona sin señal una vez cargada.">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="es_CL">
+<meta property="og:site_name" content="Relleno de El Salto">
+<meta property="og:title" content="Ir a ver el terreno del relleno de El Salto">
+<meta property="og:description" content="Dónde está, a cuánta distancia estás tú, desde dónde se ve y qué mirar en terreno.">
+<meta property="og:image" content="https://relleno-el-salto.chacao.workers.dev/social-visita.jpg?v=1">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Ir a ver el terreno del relleno de El Salto: Ruta 60, Troncal Sur, kilómetro 102,5. Es propiedad privada: se mira desde lugares públicos.">
+<meta name="twitter:image" content="https://relleno-el-salto.chacao.workers.dev/social-visita.jpg?v=1">
+<meta property="og:url" content="https://relleno-el-salto.chacao.workers.dev/visita">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://relleno-el-salto.chacao.workers.dev/visita">
+<link rel="icon" href="icono.svg" type="image/svg+xml">
+<link rel="icon" href="icono-48.png" sizes="48x48" type="image/png">
+<link rel="apple-touch-icon" href="icono-180.png">
+<!--__FUENTES__-->
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://relleno-el-salto.chacao.workers.dev/visita#articulo","url":"https://relleno-el-salto.chacao.workers.dev/visita","headline":"Ir a ver el terreno del relleno de El Salto","description":"Dónde está el predio del relleno de El Salto, a cuánta distancia estás, desde qué lugares públicos se ve y qué mirar y registrar en terreno.","inLanguage":"es-CL","datePublished":"2026-11-15","dateModified":"{fecha_iso}","isPartOf":{"@id":"https://relleno-el-salto.chacao.workers.dev/#sitio"},"about":{"@id":"https://relleno-el-salto.chacao.workers.dev/visita#predio"},"author":{"@type":"Organization","name":"Análisis geoespacial independiente","url":"https://github.com/FeniaPfa/relleno-el-salto"},"license":"https://creativecommons.org/licenses/by/4.0/"},{"@type":"Place","@id":"https://relleno-el-salto.chacao.workers.dev/visita#predio","name":"Predio del proyecto de relleno sanitario de El Salto","description":"Predio de 206 hectáreas junto a la Ruta 60 (Troncal Sur), kilómetro 102,5, en El Salto, Viña del Mar. Propiedad privada.","geo":{"@type":"GeoCoordinates","latitude":-33.0747,"longitude":-71.4841},"address":{"@type":"PostalAddress","addressLocality":"Viña del Mar","addressRegion":"Región de Valparaíso","addressCountry":"CL"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Relleno sanitario de El Salto: lo que dice el expediente","item":"https://relleno-el-salto.chacao.workers.dev/"},{"@type":"ListItem","position":2,"name":"Ir a ver el terreno","item":"https://relleno-el-salto.chacao.workers.dev/visita"}]}]}</script>
+<style>
+/*__TOKENS__*/
+*{box-sizing:border-box} [hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--txt);-webkit-text-size-adjust:100%}
+:root{color-scheme:light dark}
+a{color:inherit;text-decoration-color:var(--bistre);text-underline-offset:3px;text-decoration-thickness:1px}
+a:hover{color:var(--acc);text-decoration-color:var(--acc)}
+a:focus-visible,button:focus-visible,select:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.wrap{max-width:860px;margin:0 auto;padding:24px 16px 80px}
+.volver a{display:inline-block;padding:10px 0;font-family:var(--cart);font-size:15px;color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--line)}
+h1{font-family:var(--doc);font-weight:600;font-size:clamp(30px,5vw,44px);line-height:1.1;margin:10px 0 14px;text-wrap:balance}
+h2{font-family:var(--doc);font-weight:600;font-size:clamp(23px,3.4vw,28px);line-height:1.2;margin:44px 0 10px;text-wrap:balance}
+p{margin:0 0 12px}
+.bajada{font-size:17.5px;line-height:1.6;color:var(--ink2);max-width:64ch}
+.bajada b{color:var(--ink)}
+.intro{font-size:16.5px;line-height:1.6;color:var(--ink2);max-width:66ch}
+.src{font-family:var(--cart);font-size:13.5px;color:var(--ink3);line-height:1.45}
+.src a{color:var(--ink2)}
+.ico{width:20px;height:20px;flex:0 0 auto;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+/* aviso de uso sin señal */
+.sinsenal{display:flex;gap:10px;align-items:flex-start;margin:16px 0 0;padding:10px 14px;background:var(--surf2);border-radius:3px;
+  font-size:15.5px;line-height:1.5;color:var(--ink2);max-width:66ch}
+.sinsenal .ico{color:var(--blue);margin-top:1px}
+.sinsenal b{color:var(--ink)}
+
+/* ── ¿a cuánto estás? ── */
+.yo{margin:22px 0 0;background:var(--surf);border:1px solid var(--line);border-top:3px solid var(--blue);border-radius:3px;padding:16px 18px 18px}
+.yo h2{margin:0 0 4px;font-size:22px}
+.yo .ay{font-size:15px;color:var(--ink2);margin:0 0 12px}
+.yo-btns{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:flex-end}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font-family:var(--cart);font-size:16px;font-weight:600;
+  min-height:48px;padding:10px 18px;border-radius:3px;cursor:pointer;text-decoration:none;border:1px solid transparent}
+.btn.gps{background:var(--blue);color:#fff;border-color:var(--blue)}
+:root[data-theme=dark] .btn.gps{color:#0f1115}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) .btn.gps{color:#0f1115}}
+.btn.gps:hover{filter:brightness(1.1);color:#fff}
+.btn.sec{background:transparent;color:var(--ink);border-color:var(--lctl)}
+.btn.sec:hover{background:var(--surf2);color:var(--ink)}
+.btn[disabled]{opacity:.6;cursor:progress}
+.elige{display:flex;flex-direction:column;gap:5px;font-family:var(--cart);font-size:14px;font-weight:600;color:var(--ink2);flex:1 1 220px;min-width:0}
+.elige select{font:inherit;font-family:var(--txt);font-weight:400;font-size:16px;color:var(--ink);background:var(--bg);
+  border:1px solid var(--lctl);border-radius:3px;min-height:48px;padding:8px 10px;width:100%;max-width:100%}
+.res{margin:16px 0 0;border-top:1px solid var(--line2);padding-top:14px}
+.res-cab{display:flex;gap:14px;align-items:center}
+.brujula{flex:0 0 auto;width:64px;height:64px}
+.brujula .aguja{transition:transform .4s}
+@media(prefers-reduced-motion:reduce){.brujula .aguja{transition:none}}
+.res-cifras{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 16px;flex:1;min-width:0}
+.res-cifras b{display:block;font-family:var(--cifra);font-size:30px;font-weight:600;line-height:1.05;color:var(--ink)}
+.res-cifras span{font-family:var(--cart);font-size:14px;color:var(--ink2);line-height:1.3}
+.res-txt{margin:12px 0 0;font-size:16.5px;line-height:1.55}
+.vista{display:flex;gap:8px;align-items:flex-start;margin:10px 0 0;padding:9px 12px;border-radius:3px;font-size:16px;line-height:1.5;background:var(--surf2)}
+.vista .ico{margin-top:2px}
+.vista.si .ico{color:var(--acc)} .vista.no .ico{color:var(--green)}
+.res-nota{margin:8px 0 0;font-family:var(--cart);font-size:13.5px;color:var(--ink3);line-height:1.45}
+.res-acc{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0 0}
+.msg{margin:12px 0 0;font-size:16px;line-height:1.5;color:var(--ink)}
+.msg.error{color:var(--acc)}
+
+/* ── mapa ── */
+.mapa{margin:22px auto 0;position:relative;max-width:720px}
+.mapa svg{display:block;width:100%;height:auto;aspect-ratio:1/1;background:var(--sunk);border:1px solid var(--line);border-radius:3px;touch-action:manipulation}
+.zoom{position:absolute;right:10px;top:10px;display:flex;flex-direction:column;gap:6px}
+.zoom button{width:44px;height:44px;font-family:var(--cart);font-size:22px;font-weight:600;line-height:1;color:var(--ink);background:var(--surf);
+  border:1px solid var(--lctl);border-radius:3px;cursor:pointer}
+.zoom button.chico{font-size:12.5px;letter-spacing:.02em}
+.zoom button[disabled]{display:none}
+.leyenda{display:flex;flex-wrap:wrap;gap:6px 16px;margin:10px 0 0;font-family:var(--cart);font-size:14px;color:var(--ink2)}
+.leyenda span{display:inline-flex;align-items:center;gap:6px}
+.leyenda i{display:inline-block;width:16px;height:12px;border-radius:2px}
+.mapa figcaption{margin-top:8px}
+.po-pin{cursor:pointer}
+
+/* ── miradores ── */
+.pos{display:grid;gap:14px;margin:16px 0 0;padding:0;list-style:none}
+.po{background:var(--surf);border:1px solid var(--line2);border-radius:4px;padding:14px 16px 16px;scroll-margin-top:16px}
+.po:target,.po.foco{box-shadow:0 0 0 2px var(--blue)}
+.po-cab{display:flex;gap:12px;align-items:flex-start}
+.po-n{flex:0 0 auto;width:34px;height:34px;border-radius:50%;background:var(--blue);color:var(--bg);font-family:var(--cifra);font-size:17px;font-weight:600;
+  display:flex;align-items:center;justify-content:center}
+.po h3{margin:2px 0 0;font-family:var(--doc);font-size:20px;font-weight:600;line-height:1.25}
+.po-d{font-family:var(--cart);font-size:14.5px;color:var(--ink2);margin:2px 0 0}
+.po-cita{margin:10px 0 0;font-size:15.5px;line-height:1.55;color:var(--ink2)}
+.po-cita b{color:var(--ink);font-weight:600}
+.po-acceso{display:flex;gap:8px;align-items:flex-start;margin:10px 0 0;font-size:15.5px;line-height:1.5}
+.po-acceso .ico{color:var(--warn);margin-top:1px}
+.po-acc{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 0}
+.po-acc .btn{min-height:44px;padding:8px 14px;font-size:15px}
+.pobl{margin:12px 0 0;padding:0;list-style:none;display:grid;gap:8px}
+.pobl li{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center;justify-content:space-between;background:var(--surf);border:1px solid var(--line2);
+  border-radius:3px;padding:10px 14px}
+.pobl b{font-weight:600}
+.pobl span{font-family:var(--cart);font-size:14.5px;color:var(--ink2)}
+.pobl a{font-family:var(--cart);font-size:15px;font-weight:600;padding:8px 0}
+
+/* ── qué mirar ── */
+.mirar{margin:16px 0 0;padding:0;list-style:none;display:grid;gap:12px}
+.mirar li{display:grid;grid-template-columns:40px minmax(0,1fr);gap:4px 12px;background:var(--surf);border:1px solid var(--line2);border-radius:4px;padding:14px 16px}
+.mirar .ic{width:40px;height:40px;border-radius:50%;background:var(--surf2);display:flex;align-items:center;justify-content:center;color:var(--ink)}
+.mirar h3{margin:6px 0 4px;font-family:var(--txt);font-size:17.5px;font-weight:700;line-height:1.3}
+.mirar p{grid-column:2;margin:0 0 6px;font-size:15.5px;line-height:1.55;color:var(--ink2)}
+.mirar p.reg{color:var(--ink)}
+.mirar p.reg b{font-family:var(--cart);font-size:13.5px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--blue);margin-right:4px}
+.mirar .ver{grid-column:2;font-family:var(--cart);font-size:15px;font-weight:600;padding:4px 0}
+.lista{margin:12px 0 0;padding:0;list-style:none;display:grid;gap:10px;max-width:68ch}
+.lista li{display:flex;gap:10px;align-items:flex-start;font-size:16px;line-height:1.55}
+.lista .ico{margin-top:2px;color:var(--ink2)}
+.lista.alerta .ico{color:var(--warn)}
+.fuentes{margin:44px 0 0;border-top:1px solid var(--line);padding-top:16px}
+.fuentes p{font-size:14.5px;line-height:1.55;color:var(--ink2);max-width:72ch}
+.pie-acc{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 0}
+@media(max-width:480px){
+  .res-cifras b{font-size:26px}
+  .brujula{width:56px;height:56px}
+  .yo{padding:14px 14px 16px}
+  .btn.gps{width:100%}
+}
+@media print{ .zoom,.yo-btns,.po-acc,.pie-acc{display:none!important} }
+</style>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <symbol id="i-gps" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="8"/></symbol>
+  <symbol id="i-ojo" viewBox="0 0 24 24"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></symbol>
+  <symbol id="i-ojo-no" viewBox="0 0 24 24"><path d="M3 3l18 18M10.6 5.1A10.8 10.8 0 0 1 12 5c6.4 0 10 7 10 7a17.6 17.6 0 0 1-3.2 4.2M6.5 6.6C3.8 8.4 2 12 2 12s3.6 7 10 7a9.7 9.7 0 0 0 5.4-1.6M9.9 9.9a3 3 0 0 0 4.2 4.2"/></symbol>
+  <symbol id="i-gota" viewBox="0 0 24 24"><path d="M12 3s6 6.7 6 11a6 6 0 0 1-12 0c0-4.3 6-11 6-11z"/></symbol>
+  <symbol id="i-quebrada" viewBox="0 0 24 24"><path d="M3 18c3 0 3-2 6-2s3 2 6 2 3-2 6-2M3 13c3 0 3-2 6-2s3 2 6 2 3-2 6-2M8 4l4 4 4-4"/></symbol>
+  <symbol id="i-casa" viewBox="0 0 24 24"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-6h4v6"/></symbol>
+  <symbol id="i-fuego" viewBox="0 0 24 24"><path d="M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5 .3 1.6 1 2.5 2 3 0-3 .5-5.5.5-8z"/></symbol>
+  <symbol id="i-palma" viewBox="0 0 24 24"><path d="M12 22V10M12 10c-1.5-3-5-4-8-3M12 10c1.5-3 5-4 8-3M12 10c-3-.5-6 1-7 4M12 10c3-.5 6 1 7 4M12 10c0-3-1.5-5.5-3.5-7M12 10c0-3 1.5-5.5 3.5-7"/></symbol>
+  <symbol id="i-camion" viewBox="0 0 24 24"><path d="M2 6h11v10H2zM13 10h4l3 3v3h-7"/><circle cx="6" cy="17.5" r="1.8"/><circle cx="16.5" cy="17.5" r="1.8"/></symbol>
+  <symbol id="i-alerta" viewBox="0 0 24 24"><path d="M12 3l10 18H2L12 3z"/><path d="M12 10v5M12 18v.01"/></symbol>
+  <symbol id="i-camara" viewBox="0 0 24 24"><path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/></symbol>
+  <symbol id="i-senal" viewBox="0 0 24 24"><path d="M4 20v-3M9 20v-7M14 20V9M19 20V5"/></symbol>
+  <symbol id="i-candado" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="10" rx="1"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></symbol>
+  <symbol id="i-auto" viewBox="0 0 24 24"><path d="M5 16V11l2-5h10l2 5v5M3 16h18v3H3zM5 11h14"/></symbol>
+  <symbol id="i-persona" viewBox="0 0 24 24"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="9" r="2.4"/><path d="M3 20c0-3.5 2.7-6 6-6s6 2.5 6 6M14.5 14.5c3.5-.5 6.5 1.5 6.5 5"/></symbol>
+</svg>
+
+<main class="wrap">
+<p class="volver"><a href="./">← El análisis del expediente</a></p>
+<h1>Ir a ver el terreno</h1>
+<p class="bajada">El predio donde COSEMAR proyecta el relleno sanitario está en El Salto, Viña del Mar, junto a la
+<b>Ruta 60 (Troncal Sur), en el kilómetro 102,5</b>, entre el puente Las Cucharas y el viaducto Marga-Marga
+(<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=30" target="_blank" rel="noopener">Cap. 1</a>, p. 30).
+Son 206 hectáreas de propiedad privada: <b>se mira desde lugares públicos, sin entrar</b>.</p>
+<p class="sinsenal"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-senal"/></svg><span><b>Ábrela antes de salir.</b>
+Una vez cargada, esta página funciona sin señal: el mapa va incluido y la ubicación la da el GPS del teléfono.</span></p>
+
+<section class="yo" id="donde" aria-labelledby="t-donde">
+  <h2 id="t-donde">¿A cuánto estás?</h2>
+  <p class="ay">Tu ubicación se calcula solo en tu teléfono: no se envía a ninguna parte ni se guarda.</p>
+  <div class="yo-btns">
+    <button type="button" class="btn gps" id="b-gps"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-gps"/></svg>Usar mi ubicación</button>
+    <label class="elige" for="sel-lugar">O elige un lugar
+      <select id="sel-lugar"><option value="">Elegir…</option></select>
+    </label>
+  </div>
+  <p class="msg" id="msg" role="status" aria-live="polite" hidden></p>
+  <div class="res" id="res" hidden aria-live="polite">
+    <div class="res-cab">
+      <svg class="brujula" viewBox="-32 -32 64 64" role="img" aria-labelledby="t-rumbo">
+        <title id="t-rumbo">Dirección hacia el relleno</title>
+        <circle r="29" fill="none" stroke="var(--lctl)" stroke-width="2"/>
+        <text y="-19" text-anchor="middle" font-family="var(--cart)" font-size="10" font-weight="600" fill="var(--ink3)">N</text>
+        <g class="aguja" id="aguja"><path d="M0-24 7 6 0 1-7 6z" fill="var(--acc)"/><circle r="3" fill="var(--ink)"/></g>
+      </svg>
+      <div class="res-cifras">
+        <div><b id="r-pred">–</b><span>al deslinde del predio</span></div>
+        <div><b id="r-bas">–</b><span>a donde iría la basura</span></div>
+      </div>
+    </div>
+    <p class="res-txt" id="r-txt"></p>
+    <p class="vista" id="r-vista"></p>
+    <p class="res-nota" id="r-nota"></p>
+    <div class="res-acc" id="r-acc"></div>
+  </div>
+</section>
+
+<figure class="mapa" id="mapa">
+  <svg id="m" viewBox="0 0 1000 1000" role="img" aria-labelledby="t-mapa">
+    <title id="t-mapa">Mapa del predio del proyecto, la zona donde iría la basura, las calles y quebradas del entorno, las poblaciones cercanas y los seis puntos desde los que el titular evaluó el paisaje.</title>
+  </svg>
+  <div class="zoom">
+    <button type="button" id="z-mas" aria-label="Acercar">+</button>
+    <button type="button" id="z-menos" aria-label="Alejar">−</button>
+    <button type="button" id="z-todo" class="chico" aria-label="Ver todo el mapa">TODO</button>
+  </div>
+  <div class="leyenda" aria-hidden="true">
+    <span><i style="background:var(--acc-s);border:2px solid var(--acc)"></i>Predio (privado)</span>
+    <span><i style="background:var(--acc)"></i>Donde iría la basura</span>
+    <span><i style="background:var(--blue);border-radius:50%;width:14px;height:14px"></i>Punto de observación del titular</span>
+    <span><i style="background:transparent;border:2px dashed var(--green)"></i>Sitio Prioritario Palmar</span>
+  </div>
+  <figcaption class="src" id="m-fuente">Predio y zonas: shapefiles del titular. Puntos de observación: Cap. 3.15, Tabla 4.
+  Calles y cursos de agua: © colaboradores de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> (ODbL).</figcaption>
+</figure>
+
+<section id="miradores" aria-labelledby="t-mir">
+  <h2 id="t-mir">Desde dónde mirarlo</h2>
+  <p class="intro">El titular evaluó el paisaje desde estos seis puntos (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf#page=21" target="_blank" rel="noopener">Cap. 3.15</a>,
+  Tabla 4, pp. 21-24) y concluyó cuánto se ve el proyecto desde cada uno (p. 30). Ir a esos mismos puntos permite
+  comparar lo que tú ves con lo que él concluyó. Junto a cada punto va también si hay línea de vista a la cima del
+  relleno terminado, según la cuenca visual de este sitio.</p>
+  <ol class="pos" id="pos">
+    <li class="po" id="po-1" data-n="1">
+      <div class="po-cab"><span class="po-n" aria-hidden="true">1</span><div><h3>Portón de acceso del proyecto</h3><p class="po-d" data-d></p></div></div>
+      <p class="po-cita">El titular lo ubica <b>«donde se ubicará el portón de acceso en el cierre perimetral»</b>
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf#page=21" target="_blank" rel="noopener">Cap. 3.15</a>, p. 21),
+      y dice que <b>«se encuentra dentro del cerco perimetral»</b> (p. 30).</p>
+      <p class="po-acceso"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-candado"/></svg><span>Está dentro del predio: es propiedad privada y no se puede entrar.</span></p>
+      <div class="po-acc"></div>
+    </li>
+    <li class="po" id="po-2" data-n="2">
+      <div class="po-cab"><span class="po-n" aria-hidden="true">2</span><div><h3>Viaducto Marga-Marga, Ruta 60</h3><p class="po-d" data-d></p></div></div>
+      <p class="po-cita">El titular lo describe como <b>«vista hacia área del proyecto desde viaducto Marga-Marga, Ruta 60»</b>
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf#page=22" target="_blank" rel="noopener">Cap. 3.15</a>, p. 22),
+      y concluye que <b>«no presenta visibilidad alguna»</b> del proyecto (p. 30).</p>
+      <p class="po-acceso"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-alerta"/></svg><span>Está sobre la autopista: no te detengas en el viaducto ni en la berma.</span></p>
+      <div class="po-acc"></div>
+    </li>
+    <li class="po" id="po-3" data-n="3">
+      <div class="po-cab"><span class="po-n" aria-hidden="true">3</span><div><h3>Poblaciones de las colinas del norte</h3><p class="po-d" data-d></p></div></div>
+      <p class="po-cita">El titular lo describe como <b>«vista hacia el área de proyecto desde áreas pobladas en las colinas del frente norte»</b>
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf#page=22" target="_blank" rel="noopener">Cap. 3.15</a>, p. 22),
+      y lo cuenta entre los que <b>«presentan una visibilidad media o baja hacia una zona del terreno»</b> (p. 30).</p>
+      <p class="po-acceso"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-persona"/></svg><span>Calle de población: se puede mirar desde la vereda.</span></p>
+      <div class="po-acc"></div>
+    </li>
+    <li class="po" id="po-4" data-n="4">
+      <div class="po-cab"><span class="po-n" aria-hidden="true">4</span><div><h3>Peaje Troncal Sur</h3><p class="po-d" data-d></p></div></div>
+      <p class="po-cita">El titular lo describe como <b>«vista hacia el área de proyecto desde el Peaje Troncal Sur»</b>
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf#page=23" target="_blank" rel="noopener">Cap. 3.15</a>, p. 23),
+      y lo cuenta entre los que <b>«presentan una visibilidad media o baja hacia una zona del terreno»</b> (p. 30).</p>
+      <p class="po-acceso"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-alerta"/></svg><span>Está en la autopista: no te detengas en la plaza de peaje ni en la berma.</span></p>
+      <div class="po-acc"></div>
+    </li>
+    <li class="po" id="po-5" data-n="5">
+      <div class="po-cab"><span class="po-n" aria-hidden="true">5</span><div><h3>Argentina Alto, Quilpué</h3><p class="po-d" data-d></p></div></div>
+      <p class="po-cita">El titular lo describe como <b>«vista desde el punto más lejano, ubicado en los centros poblados de Argentina Alto en la comuna de Quilpué»</b>
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf#page=23" target="_blank" rel="noopener">Cap. 3.15</a>, p. 23),
+      y lo cuenta entre los que <b>«presentan una visibilidad media o baja hacia una zona del terreno»</b> (p. 30).</p>
+      <p class="po-acceso"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-persona"/></svg><span>Calle de población: se puede mirar desde la vereda.</span></p>
+      <div class="po-acc"></div>
+    </li>
+    <li class="po" id="po-6" data-n="6">
+      <div class="po-cab"><span class="po-n" aria-hidden="true">6</span><div><h3>Acceso al Jardín Botánico</h3><p class="po-d" data-d></p></div></div>
+      <p class="po-cita">El titular lo describe como <b>«desde el acceso hacia el Jardín Botánico mirando hacia el área del proyecto»</b>
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_315_Estudio_de_Paisaje_y_Turismo.pdf#page=24" target="_blank" rel="noopener">Cap. 3.15</a>, p. 24),
+      y concluye que estar rodeado por quebradas <b>«imposibilita la visibilidad hacia el área del proyecto»</b> (p. 30).</p>
+      <p class="po-acceso"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-auto"/></svg><span>Camino de acceso al Jardín Botánico: estaciona fuera de la calzada.</span></p>
+      <div class="po-acc"></div>
+    </li>
+  </ol>
+
+  <h3 style="font-family:var(--doc);font-size:21px;font-weight:600;margin:30px 0 4px">Y desde las poblaciones más cercanas</h3>
+  <p class="intro">Las más cercanas al predio, todas al norte. Las distancias son las mismas que publica el análisis, y la línea de vista,
+  el porcentaje de cada población que la tiene.</p>
+  <ul class="pobl" id="pobl"></ul>
+</section>
+
+<section id="mirar-t" aria-labelledby="t-mirar">
+  <h2 id="t-mirar">Qué mirar y cómo registrarlo</h2>
+  <p class="intro">Cada punto sale de una observación fundada. Lo que se registra en terreno sirve si se abre una nueva
+  participación ciudadana, para un reclamo o para la prensa (<a href="tramite.html">qué viene ahora</a>).</p>
+  <ul class="mirar">
+    <li><span class="ic"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-gota"/></svg></span>
+      <h3>Pozos, norias, vertientes y estanques</h3>
+      <p>El reglamento prohíbe un relleno a menos de 600 m de una captación de agua (D.S. 189, art. 10). El titular lo
+      acreditó revisando solo las captaciones registradas en la DGA (<a href="https://seia.sea.gob.cl/archivos/2026/07/13/931_Cap_34_Hidrogeologia.rar" target="_blank" rel="noopener">Cap. 3.4</a>, pp. 29-30).</p>
+      <p class="reg"><b>Registra</b>si un vecino usa un pozo, una noria o una vertiente: desde cuándo y para qué. Pregunta; no entres a propiedades.</p>
+      <a class="ver" href="observaciones.html#obs-cursos">La observación →</a></li>
+    <li><span class="ic"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-quebrada"/></svg></span>
+      <h3>Quebradas con agua</h3>
+      <p>Las quebradas del predio bajan al estero Marga-Marga, y el reglamento exige 60 m entre el relleno y los cursos de agua (D.S. 189, art. 10).</p>
+      <p class="reg"><b>Registra</b>si corre agua, con foto y fecha: muestra que el curso existe y en qué meses.</p>
+      <a class="ver" href="observaciones.html#obs-caudal">La observación →</a></li>
+    <li><span class="ic"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-casa"/></svg></span>
+      <h3>Casas, colegios y jardines con el cerro de fondo</h3>
+      <p>La vivienda más cercana que lista el titular está a 676 m del perímetro (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Capitulo_8_PLAN_DE_PREVENCION_DE_CONTINGENCIAS_Y_EMERGENCIAS.rar" target="_blank" rel="noopener">Anexo 8.1</a>, Tabla 11),
+      y su área de influencia del medio humano no incluye Botania, Canal Chacao, Cumbres de Quilpué ni Pompeya
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/CAPITULO_5_ANALISIS_DEL_ART_11.pdf#page=60" target="_blank" rel="noopener">Cap. 5</a>, pp. 60 y 63).</p>
+      <p class="reg"><b>Registra</b>desde la calle, lo que tenga el predio a la vista: una foto amplia y el nombre de la calle.</p>
+      <a class="ver" href="observaciones.html#obs-influencia">La observación →</a></li>
+    <li><span class="ic"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fuego"/></svg></span>
+      <h3>La huella del incendio</h3>
+      <p>El 99,7 % del predio se quemó en febrero de 2024 (cálculo de este sitio con imágenes Sentinel-2), y el titular
+      declara una faja cortafuego de 10 m (<a href="https://seia.sea.gob.cl/archivos/2026/07/17/a44_CAPITULO_1_DESCRIPCION_DEL_PROYECTO_CMGIR.pdf#page=39" target="_blank" rel="noopener">Cap. 1</a>, p. 39).</p>
+      <p class="reg"><b>Registra</b>cómo está hoy la vegetación y qué tan cerca llegan las casas al matorral.</p>
+      <a class="ver" href="observaciones.html#obs-incendio">La observación →</a></li>
+    <li><span class="ic"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-palma"/></svg></span>
+      <h3>Palmas chilenas</h3>
+      <p>El Sitio Prioritario Palmar Las Siete Hermanas – El Salto queda a 255 m del deslinde del predio (cálculo de este
+      sitio sobre la cartografía del <a href="https://seia.sea.gob.cl/archivos/2026/07/14/Cap_316_Areas_Protegidas_y_Sitios_Prioritarios.pdf" target="_blank" rel="noopener">Cap. 3.16</a>).</p>
+      <p class="reg"><b>Registra</b>las palmas que se vean desde el camino, con foto y ubicación.</p>
+      <a class="ver" href="observaciones.html#obs-sitio">La observación →</a></li>
+    <li><span class="ic"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-camion"/></svg></span>
+      <h3>El tránsito en la Ruta 60</h3>
+      <p>El estudio vial modela 182 viajes de camión al día, solo para el año 2028, con la hora punta de 18:00 a 19:00
+      (<a href="https://seia.sea.gob.cl/archivos/2026/07/15/Cap_318_Impacto_Vial.rar" target="_blank" rel="noopener">Cap. 3.18</a>).</p>
+      <p class="reg"><b>Registra</b>el tránsito a esa hora, con fecha y hora: cuánto se demora pasar por el sector.</p>
+      <a class="ver" href="observaciones.html#obs-camiones">La observación →</a></li>
+  </ul>
+
+  <h3 style="font-family:var(--doc);font-size:21px;font-weight:600;margin:30px 0 4px">Para que tu registro sirva</h3>
+  <ul class="lista">
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-camara"/></svg><span>Activa la ubicación de la cámara: la foto guarda dónde y cuándo se tomó.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-camara"/></svg><span>Toma una foto amplia, con algo que se reconozca, y otra de detalle.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-camara"/></svg><span>Anota la fecha, la hora y hacia dónde mirabas.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-camara"/></svg><span>Guarda los originales. Al mandarlas por WhatsApp se pierden la fecha y la ubicación de la foto.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-persona"/></svg><span>No fotografíes caras, patentes ni el interior de casas ajenas.</span></li>
+  </ul>
+</section>
+
+<section id="antes" aria-labelledby="t-antes">
+  <h2 id="t-antes">Antes de ir</h2>
+  <ul class="lista alerta">
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-candado"/></svg><span><b>El predio es privado.</b> No entres ni cruces cercos: todo lo de esta página se ve desde lugares públicos.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-alerta"/></svg><span><b>No te detengas en la autopista</b>, en el viaducto ni en la plaza de peaje.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-fuego"/></svg><span><b>No hagas fuego</b> ni botes colillas: el sector se quemó en 2024.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-senal"/></svg><span><b>Puede que no tengas señal.</b> Carga esta página antes de salir y avisa a alguien adónde vas.</span></li>
+    <li><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-persona"/></svg><span>Ve con alguien, con agua y protección para el sol.</span></li>
+  </ul>
+  <div class="pie-acc">
+    <a class="btn sec" href="observaciones.html">Las 25 observaciones fundadas →</a>
+    <a class="btn sec" href="foto.html">Modo foto: el relleno terminado en 3D →</a>
+  </div>
+</section>
+
+<footer class="fuentes">
+  <p>El predio, la zona donde iría la basura y el área de influencia salen de los shapefiles del titular; los seis puntos de
+  observación, de la Tabla 4 del Cap. 3.15 (coordenadas UTM 19S convertidas a latitud y longitud). Las distancias son en línea
+  recta y borde a borde. La <b>línea de vista</b> es la cuenca visual de este sitio: desde cinco puntos de la cima del relleno
+  terminado, con altura de ojo de 1,6 m, sobre un modelo de elevación del terreno desnudo. Es una cota superior: no descuenta
+  árboles ni edificios.</p>
+  <p id="f-osm">Calles y cursos de agua: © colaboradores de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>, licencia ODbL.</p>
+  <p><a href="./">← Volver al análisis del expediente</a> · Actualizado el {fecha_iso}.</p>
+</footer>
+</main>
+
+<script>
+(function(){
+"use strict";
+var V=/*__VISITA__*/;
+var $=function(s,c){return (c||document).querySelector(s)}, $$=function(s,c){return Array.prototype.slice.call((c||document).querySelectorAll(s))};
+var NS='http://www.w3.org/2000/svg';
+function el(t,a){ var e=document.createElementNS(NS,t); for(var k in a) e.setAttribute(k,a[k]); return e }
+var RM=window.matchMedia&&matchMedia('(prefers-reduced-motion:reduce)').matches;
+
+/* ---- geometría: una proyección local plana, en metros (a estas distancias el error es menor que el del GPS) ---- */
+var W=V.ventana, LON0=W[0], LAT0=W[1], LON1=W[2], LAT1=W[3];
+var KX=Math.cos((LAT0+LAT1)/2*Math.PI/180)*111320, KY=110540;
+function xy(lon,lat){ return [(lon-LON0)*KX,(lat-LAT0)*KY] }
+var ANCHO=(LON1-LON0)*KX, ALTO=(LAT1-LAT0)*KY;
+/* el lienzo: 1 unidad = 1 m, y la y crece hacia el sur */
+function sv(lon,lat){ var p=xy(lon,lat); return [p[0],ALTO-p[1]] }
+function anillos(g){ var out=[], polys=g.type==='Polygon'?[g.coordinates]:g.coordinates;
+  polys.forEach(function(pl){ pl.forEach(function(r){ out.push(r.map(function(c){ return xy(c[0],c[1]) })) }) }); return out }
+function dentro(p,rings){ var c=false; rings.forEach(function(r){ for(var i=0,j=r.length-1;i<r.length;j=i++){
+  var a=r[i],b=r[j]; if(((a[1]>p[1])!==(b[1]>p[1]))&&(p[0]<(b[0]-a[0])*(p[1]-a[1])/(b[1]-a[1])+a[0])) c=!c } }); return c }
+var cerca=null;
+function aBorde(p,rings){ var m=1e12; rings.forEach(function(r){ for(var i=1;i<r.length;i++){
+  var a=r[i-1],b=r[i],dx=b[0]-a[0],dy=b[1]-a[1],t=((p[0]-a[0])*dx+(p[1]-a[1])*dy)/(dx*dx+dy*dy||1);
+  t=Math.max(0,Math.min(1,t)); var d=Math.hypot(p[0]-a[0]-t*dx,p[1]-a[1]-t*dy);
+  if(d<m){ m=d; cerca=[a[0]+t*dx,a[1]+t*dy] } } }); return m }
+var RP=anillos(V.predio), RR=anillos(V.residuos), RA=V.ai?anillos(V.ai):null;
+var CX=0,CY=0,NC=0; RR[0].forEach(function(q){ CX+=q[0]; CY+=q[1]; NC++ }); CX/=NC; CY/=NC;
+function dist(m,dec){ return m<1000?Math.round(m/10)*10+' m':(m/1000).toFixed(dec||1).replace('.',',')+' km' }
+var RUMBO=['norte','noreste','este','sureste','sur','suroeste','oeste','noroeste'];
+
+/* ---- la cuenca visual: máscara de bits sobre la ventana de cuenca.png, filas en Mercator ---- */
+var CU=V.cuenca, BITS=(function(){ var s=atob(CU.bits), a=new Uint8Array(s.length); for(var i=0;i<s.length;i++) a[i]=s.charCodeAt(i); return a })();
+function mY(la){ return Math.log(Math.tan(Math.PI/4+la*Math.PI/360)) }
+function lineaDeVista(lon,lat){
+  var n=CU.n, c=Math.floor((lon-CU.lon0)/(CU.lon1-CU.lon0)*n), r=Math.floor((mY(CU.lat1)-mY(lat))/(mY(CU.lat1)-mY(CU.lat0))*n);
+  if(c<0||r<0||c>=n||r>=n) return null;
+  var k=r*n+c; return !!((BITS[k>>3]>>(7-(k&7)))&1);
+}
+
+/* ---- el mapa ---- */
+var svg=$('#m'), gBase=el('g',{}), gYo=el('g',{}), gRot=el('g',{}), gPO=el('g',{});
+svg.appendChild(gBase); svg.appendChild(gYo); svg.appendChild(gPO); svg.appendChild(gRot);
+function camino(seq){ var x=seq[0], y=seq[1], d='', p;
+  for(var i=0;i<seq.length;i+=2){ if(i){ x+=seq[i]; y+=seq[i+1] } p=sv(LON0+x/V.q,LAT0+y/V.q); d+=(i?'L':'M')+p[0].toFixed(0)+' '+p[1].toFixed(0) }
+  return d }
+function poligono(rings){ return rings.map(function(r){ return r.map(function(q,i){ return (i?'L':'M')+q[0].toFixed(0)+' '+(ALTO-q[1]).toFixed(0) }).join('')+'Z' }).join('') }
+var ESTILO={ r:{s:'var(--line)',w:1}, c:{s:'var(--line)',w:1,da:'4 3'}, t:{s:'var(--ink3)',w:1.4}, p:{s:'var(--ink2)',w:2.2}, m:{s:'var(--warn)',w:3.4},
+             q:{s:'var(--blue)',w:1,o:.45}, e:{s:'var(--blue)',w:2,o:.7} };
+function capaLineas(lista,orden){
+  orden.forEach(function(k){ var d=''; lista.forEach(function(l){ if(l[0]===k) d+=camino(l[2]) });
+    if(!d) return; var E=ESTILO[k];
+    var a={d:d,fill:'none',stroke:E.s,'stroke-width':E.w,'stroke-linecap':'round','stroke-linejoin':'round','vector-effect':'non-scaling-stroke'};
+    if(E.da) a['stroke-dasharray']=E.da; if(E.o) a['stroke-opacity']=E.o;
+    gBase.appendChild(el('path',a)) });
+}
+gBase.appendChild(el('rect',{x:0,y:0,width:ANCHO,height:ALTO,fill:'var(--sunk)'}));
+if(V.palmar) gBase.appendChild(el('path',{d:poligono(anillos(V.palmar)),fill:'var(--green)','fill-opacity':.07,stroke:'var(--green)','stroke-width':1.6,
+  'stroke-dasharray':'6 4','vector-effect':'non-scaling-stroke'}));
+capaLineas(V.agua,['q','e']);
+capaLineas(V.calles,['c','r','t','p','m']);
+gBase.appendChild(el('path',{d:poligono(RP),fill:'var(--acc)','fill-opacity':.12,stroke:'var(--acc)','stroke-width':2.4,'vector-effect':'non-scaling-stroke'}));
+gBase.appendChild(el('path',{d:poligono(RR),fill:'var(--acc)','fill-opacity':.55,stroke:'none'}));
+
+/* la vista: un cuadrado en metros, que se acerca por niveles */
+var vb={cx:ANCHO/2,cy:ALTO/2,w:Math.max(ANCHO,ALTO)}, NIV=[1,2,4,8], niv=0, YO=null;
+function aplicar(){
+  var w=Math.max(ANCHO,ALTO)/NIV[niv]; vb.w=w;
+  vb.cx=Math.max(w/2,Math.min(ANCHO-w/2,vb.cx)); vb.cy=Math.max(w/2,Math.min(ALTO-w/2,vb.cy));
+  svg.setAttribute('viewBox',(vb.cx-w/2).toFixed(0)+' '+(vb.cy-w/2).toFixed(0)+' '+w.toFixed(0)+' '+w.toFixed(0));
+  $('#z-mas').disabled=niv===NIV.length-1; $('#z-menos').disabled=niv===0; $('#z-todo').disabled=niv===0;
+  rotular();
+}
+function centrar(p){ vb.cx=p[0]; vb.cy=p[1] }
+$('#z-mas').addEventListener('click',function(){ if(niv<NIV.length-1){ niv++; if(YO) centrar(YO.s); aplicar() } });
+$('#z-menos').addEventListener('click',function(){ if(niv>0){ niv--; aplicar() } });
+$('#z-todo').addEventListener('click',function(){ niv=0; vb.cx=ANCHO/2; vb.cy=ALTO/2; aplicar() });
+
+/* rótulos: tamaño fijo en pantalla, colocados por cajas para que no se pisen */
+function k(){ return vb.w/Math.max(1,svg.clientWidth||1000) }
+var NOMBRES={'Autopista Troncal Sur':'Ruta 60 · Troncal Sur','Estero Marga-Marga':'Estero Marga-Marga','Camino Troncal':'Camino Troncal'};
+var rotCalles=(function(){
+  /* para cada nombre, el punto medio del tramo más largo y su ángulo */
+  var mejor={};
+  V.calles.concat(V.agua).forEach(function(l){ if(!NOMBRES[l[1]]) return; var s=l[2], x=s[0], y=s[1], pts=[];
+    for(var i=0;i<s.length;i+=2){ if(i){ x+=s[i]; y+=s[i+1] } pts.push(sv(LON0+x/V.q,LAT0+y/V.q)) }
+    var L=0; for(var j=1;j<pts.length;j++) L+=Math.hypot(pts[j][0]-pts[j-1][0],pts[j][1]-pts[j-1][1]);
+    if(!mejor[l[1]]||L>mejor[l[1]].L) mejor[l[1]]={L:L,pts:pts} });
+  return Object.keys(mejor).map(function(n){ var p=mejor[n].pts, L=mejor[n].L, acc=0, i=1;
+    for(;i<p.length;i++){ var d=Math.hypot(p[i][0]-p[i-1][0],p[i][1]-p[i-1][1]); if(acc+d>=L/2) break; acc+=d }
+    var a=p[i-1], b=p[Math.min(i,p.length-1)], ang=Math.atan2(b[1]-a[1],b[0]-a[0])*180/Math.PI;
+    if(ang>90) ang-=180; if(ang<-90) ang+=180;
+    return {t:NOMBRES[n],x:(a[0]+b[0])/2,y:(a[1]+b[1])/2,ang:ang,agua:/Estero/.test(n)} });
+})();
+function rotular(){
+  while(gRot.firstChild) gRot.removeChild(gRot.firstChild);
+  while(gPO.firstChild) gPO.removeChild(gPO.firstChild);
+  dibujarYo();
+  var K=k(), cajas=[];
+  function libre(x,y,w,h){ for(var i=0;i<cajas.length;i++){ var c=cajas[i];
+    if(x<c[0]+c[2]&&x+w>c[0]&&y<c[1]+c[3]&&y+h>c[1]) return false } cajas.push([x,y,w,h]); return true }
+  function texto(t,x,y,o){ o=o||{}; var fs=(o.fs||13.5)*K, w=t.length*fs*.52, h=fs*1.2, ax=o.centro?x-w/2:x;
+    /* lo que no cabe entero en la vista no se rotula: un nombre cortado en el borde confunde más que ninguno */
+    if(!o.forzar&&(ax<vb.cx-vb.w/2||ax+w>vb.cx+vb.w/2||y-h<vb.cy-vb.w/2||y>vb.cy+vb.w/2||!libre(ax,y-h*.85,w,h))) return null;
+    var e=el('text',{x:x.toFixed(0),y:y.toFixed(0),'font-size':fs.toFixed(1),'font-family':'var(--cart)','font-weight':o.peso||600,
+      fill:o.color||'var(--ink)','paint-order':'stroke',stroke:'var(--sunk)','stroke-width':(3.5*K).toFixed(1),'stroke-linejoin':'round'});
+    if(o.centro) e.setAttribute('text-anchor','middle'); if(o.rot!=null) e.setAttribute('transform','rotate('+o.rot.toFixed(1)+' '+x.toFixed(0)+' '+y.toFixed(0)+')');
+    e.textContent=t; gRot.appendChild(e); return e }
+  /* los botones de zoom tapan la esquina superior derecha */
+  cajas.push([vb.cx+vb.w/2-60*K,vb.cy-vb.w/2,60*K,160*K]);
+  /* el usuario y los puntos primero: son lo que más importa */
+  if(YO){ var s=YO.s; cajas.push([s[0]-14*K,s[1]-30*K,28*K,32*K]) }
+  V.po.forEach(function(p){ var q=sv(p.lon,p.lat), r=12*K;
+    var g=el('g',{'class':'po-pin',tabindex:'0',role:'link','aria-label':'Punto de observación '+p.n+': '+p.nombre});
+    g.appendChild(el('circle',{cx:q[0].toFixed(0),cy:q[1].toFixed(0),r:r.toFixed(1),fill:'var(--blue)',stroke:'var(--sunk)','stroke-width':(2.5*K).toFixed(1)}));
+    var t=el('text',{x:q[0].toFixed(0),y:(q[1]+r*.42).toFixed(0),'text-anchor':'middle','font-size':(13.5*K).toFixed(1),'font-family':'var(--cart)','font-weight':700,fill:'var(--sunk)'});
+    t.textContent=p.n; g.appendChild(t);
+    function ir(){ var c=document.getElementById('po-'+p.n); if(!c) return; c.scrollIntoView({block:'start',behavior:RM?'auto':'smooth'});
+      $$('.po.foco').forEach(function(x){ x.classList.remove('foco') }); c.classList.add('foco') }
+    g.addEventListener('click',ir); g.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); ir() } });
+    gPO.appendChild(g); cajas.push([q[0]-r,q[1]-r,2*r,2*r]) });
+  /* el predio y la basura */
+  var cp=[0,0], n=0; RP[0].forEach(function(q){ cp[0]+=q[0]; cp[1]+=q[1]; n++ });
+  texto('PREDIO (PRIVADO)',cp[0]/n,ALTO-cp[1]/n-40*K,{centro:1,fs:13,color:'var(--acc)',forzar:1});
+  texto('Iría la basura',CX,ALTO-CY+5*K,{centro:1,fs:13,peso:700,color:'var(--ink)'});
+  rotCalles.forEach(function(r){ texto(r.t,r.x,r.y-4*K,{centro:1,fs:13,rot:r.ang,color:r.agua?'var(--blue)':'var(--ink2)'}) });
+  /* poblaciones: punto siempre, nombre donde quepa, de la más cercana a la más lejana */
+  V.barrios.filter(function(b){ return b.vis!=null }).sort(function(a,b){ return a.d-b.d }).forEach(function(b){
+    var q=sv(b.x,b.y); if(q[0]<0||q[1]<0||q[0]>ANCHO||q[1]>ALTO) return;
+    gRot.appendChild(el('circle',{cx:q[0].toFixed(0),cy:q[1].toFixed(0),r:(3.2*K).toFixed(1),fill:'var(--ink)'}));
+    texto(b.n.replace(/^Comunidad |^Población /,''),q[0]+6*K,q[1]+4*K,{fs:12.5,peso:500,color:'var(--ink2)'}) });
+  /* escala y norte */
+  var esc=vb.w>4000?1000:vb.w>1800?500:200, x0=vb.cx-vb.w/2+14*K, y0=vb.cy+vb.w/2-16*K;
+  gRot.appendChild(el('path',{d:'M'+x0+' '+(y0-5*K)+'V'+y0+'H'+(x0+esc)+'V'+(y0-5*K),fill:'none',stroke:'var(--ink)','stroke-width':1.6,'vector-effect':'non-scaling-stroke'}));
+  texto(esc>=1000?'1 km':esc+' m',x0+esc/2,y0-8*K,{centro:1,fs:12.5,forzar:1});
+  var nx=vb.cx-vb.w/2+24*K, ny=vb.cy-vb.w/2+30*K;
+  gRot.appendChild(el('path',{d:'M'+nx+' '+(ny-16*K)+'l'+(6*K)+' '+(14*K)+'h'+(-12*K)+'z',fill:'var(--ink)'}));
+  texto('N',nx,ny+12*K,{centro:1,fs:12.5,forzar:1});
+}
+
+/* ---- el punto del usuario ---- */
+function marcar(lon,lat,precision){
+  var s=sv(lon,lat);
+  YO=(s[0]<0||s[1]<0||s[0]>ANCHO||s[1]>ALTO)?null:{s:s,lon:lon,lat:lat,precision:precision};
+  return !!YO;
+}
+function dibujarYo(){
+  while(gYo.firstChild) gYo.removeChild(gYo.firstChild);
+  if(!YO) return;
+  var s=YO.s, lon=YO.lon, lat=YO.lat, precision=YO.precision, K=k();
+  if(precision&&precision>15) gYo.appendChild(el('circle',{cx:s[0].toFixed(0),cy:s[1].toFixed(0),r:Math.min(800,precision).toFixed(0),
+    fill:'var(--blue)','fill-opacity':.12,stroke:'var(--blue)','stroke-width':1,'vector-effect':'non-scaling-stroke'}));
+  var p=xy(lon,lat); if(!dentro(p,RP)){ aBorde(p,RP);
+    gYo.appendChild(el('line',{x1:s[0].toFixed(0),y1:s[1].toFixed(0),x2:cerca[0].toFixed(0),y2:(ALTO-cerca[1]).toFixed(0),stroke:'var(--ink)',
+      'stroke-width':2,'stroke-dasharray':'6 5','vector-effect':'non-scaling-stroke'})) }
+  gYo.appendChild(el('circle',{cx:s[0].toFixed(0),cy:s[1].toFixed(0),r:(9*K).toFixed(1),fill:'var(--blue)',stroke:'#fff','stroke-width':(3*K).toFixed(1)}));
+}
+
+/* ---- el resultado ---- */
+var res=$('#res'), msg=$('#msg');
+function aviso(t,err){ msg.innerHTML=t; msg.className='msg'+(err?' error':''); msg.hidden=!t }
+function enlaces(lon,lat,ver3d){
+  var h='';
+  /* el modo foto mira el relleno terminado desde este punto, solo con las obras y el deslinde */
+  if(ver3d) h+='<a class="btn sec" href="foto.html#o='+lon.toFixed(5)+','+lat.toFixed(5)+'&amp;c=obras.deslinde&amp;r=norte">Ver desde aquí en 3D, terminado →</a>';
+  return h;
+}
+function calcular(lon,lat,o){
+  o=o||{};
+  var p=xy(lon,lat), enP=dentro(p,RP), dP=enP?0:aBorde(p,RP), dR=dentro(p,RR)?0:aBorde(p,RR);
+  if(o.pub){ dP=o.pub.d*1000; dR=o.pub.dres*1000 }
+  var dec=o.pub?2:1;
+  /* rumbo: desde donde estás hacia el centro de la zona de basura, para la brújula; y al revés, para el texto */
+  var hacia=(Math.atan2(CX-p[0],CY-p[1])*180/Math.PI+360)%360, desde=(hacia+180)%360;
+  $('#aguja').style.transform='rotate('+hacia.toFixed(0)+'deg)';
+  $('#r-pred').textContent=enP?'Dentro':dist(dP,dec); $('#r-bas').textContent=dR===0?'Dentro':dist(dR,dec);
+  var quien=o.quien||'Estás', txt;
+  if(enP) txt='<b>'+quien+' dentro del predio del proyecto.</b> Es propiedad privada.';
+  else txt=quien+' al <b>'+RUMBO[Math.round(desde/45)%8]+'</b> del relleno: para verlo, mira hacia el <b>'+RUMBO[Math.round(hacia/45)%8]+'</b>.';
+  if(!enP&&dP<25000){
+    if(Math.abs(((desde-V.viento)+540)%360-180)<=45) txt+=' Es la dirección hacia donde sopla el viento predominante que modela el titular.';
+    if(RA) txt+=dentro(p,RA)?' Queda dentro del área de influencia del medio humano que definió el titular.'
+      :' Queda <b>fuera del área de influencia</b> del medio humano que definió el titular.';
+  }
+  $('#r-txt').innerHTML=txt;
+  var v=o.vis!=null?o.vis:lineaDeVista(lon,lat), rv=$('#r-vista');
+  if(v===null){ rv.className='vista'; rv.innerHTML='<span>Este punto queda fuera del área donde se calculó la línea de vista.</span>' }
+  else if(typeof v==='number'){ rv.className='vista '+(v>0?'si':'no');
+    rv.innerHTML='<svg class="ico" aria-hidden="true"><use href="#i-ojo"/></svg><span>El <b>'+v+' %</b> de esta población tendría línea de vista a la cima del relleno terminado.</span>' }
+  else { rv.className='vista '+(v?'si':'no');
+    rv.innerHTML='<svg class="ico" aria-hidden="true"><use href="#i-'+(v?'ojo':'ojo-no')+'"/></svg><span>'+(v
+      ?'Desde aquí <b>habría línea de vista</b> a la cima del relleno terminado.'
+      :'Desde aquí el relieve <b>taparía</b> la cima del relleno terminado.')+'</span>' }
+  var nota=o.pub?(o.pub.m==='borde'?'Distancias en línea recta desde el borde de la población más cercano':'Distancias en línea recta')+', las mismas que publica el análisis.'
+    :'Distancias en línea recta, borde a borde, sobre la cartografía del titular.';
+  nota+=' La línea de vista es un cálculo de este sitio y una cota superior: no descuenta árboles ni edificios.';
+  if(o.precision&&o.precision>100) nota+=' Tu GPS indica un margen de ±'+dist(o.precision)+'.';
+  var enMapa=marcar(lon,lat,o.precision);
+  if(!enMapa) nota+=' El punto queda fuera del mapa.';
+  $('#r-nota').textContent=nota;
+  $('#r-acc').innerHTML=enlaces(lon,lat,!enP&&dP<15000);
+  res.hidden=false; aviso('');
+  if(enMapa){ if(niv<1) niv=1; centrar(YO.s) } aplicar();
+}
+
+/* GPS: una lectura cada vez que se pide; en terreno se puede volver a tocar al moverse */
+var bGps=$('#b-gps');
+bGps.addEventListener('click',function(){
+  if(!navigator.geolocation){ aviso('Tu navegador no entrega la ubicación. Elige un lugar de la lista.',1); return }
+  bGps.disabled=true; aviso('Buscando tu ubicación…');
+  navigator.geolocation.getCurrentPosition(function(pos){
+    bGps.disabled=false; bGps.lastChild.textContent='Actualizar mi ubicación'; $('#sel-lugar').value='';
+    calcular(pos.coords.longitude,pos.coords.latitude,{precision:pos.coords.accuracy}) },
+  function(e){ bGps.disabled=false;
+    aviso(e&&e.code===1
+      ?'<b>No diste permiso de ubicación.</b> Actívalo en los ajustes del navegador, o elige un lugar de la lista.'
+      :'<b>No pudimos leer tu ubicación.</b> Dentro de WhatsApp o Facebook a veces no funciona: abre la página en Chrome o Safari (menú ⋮ o ···, «Abrir en el navegador»), o elige un lugar de la lista.',1) },
+  {enableHighAccuracy:true,timeout:20000,maximumAge:30000});
+});
+
+/* la lista: los seis puntos del titular y las poblaciones */
+var sel=$('#sel-lugar'), og1=document.createElement('optgroup'), og2=document.createElement('optgroup');
+og1.label='Puntos de observación del titular'; og2.label='Poblaciones';
+V.po.forEach(function(p){ var o=document.createElement('option'); o.value='po'+p.n; o.textContent=p.n+'. '+p.nombre; og1.appendChild(o) });
+V.barrios.slice().sort(function(a,b){ return a.n.localeCompare(b.n,'es') }).forEach(function(b,i){
+  var o=document.createElement('option'); o.value='b'+V.barrios.indexOf(b); o.textContent=b.n.replace(/^Comunidad /,''); og2.appendChild(o) });
+sel.appendChild(og1); sel.appendChild(og2);
+sel.addEventListener('change',function(){ var v=sel.value; if(!v) return;
+  if(v.slice(0,2)==='po'){ var p=V.po[+v.slice(2)-1]; calcular(p.lon,p.lat,{quien:'El punto '+p.n+' está'}) }
+  else { var b=V.barrios[+v.slice(1)]; calcular(b.x,b.y,{quien:b.n.replace(/^Comunidad /,'')+' está',pub:b,vis:b.vis}) } });
+
+/* ---- las tarjetas de los puntos: distancia, línea de vista y cómo llegar ---- */
+function nav(lat,lon){ return '<a class="btn sec" href="https://www.google.com/maps/dir/?api=1&amp;destination='+lat.toFixed(5)+','+lon.toFixed(5)+'" target="_blank" rel="noopener">Cómo llegar · Google Maps</a>'+
+  '<a class="btn sec" href="https://waze.com/ul?ll='+lat.toFixed(5)+','+lon.toFixed(5)+'&amp;navigate=yes" target="_blank" rel="noopener">Waze</a>' }
+V.po.forEach(function(p){
+  var c=document.getElementById('po-'+p.n); if(!c) return;
+  var q=xy(p.lon,p.lat), enP=dentro(q,RP), d=enP?0:aBorde(q,RP);
+  $('[data-d]',c).textContent=(enP?'Dentro del predio':'A '+dist(d)+' del predio')+' · '+(p.vista===true?'con línea de vista al relleno terminado':p.vista===false?'sin línea de vista al relleno terminado':'');
+  var acc=$('.po-acc',c), h='';
+  if(!enP) h+=nav(p.lat,p.lon);
+  h+='<button type="button" class="btn sec" data-ver="'+p.n+'">Ver en el mapa</button>';
+  acc.innerHTML=h;
+  $('[data-ver]',acc).addEventListener('click',function(){ sel.value='po'+p.n; calcular(p.lon,p.lat,{quien:'El punto '+p.n+' está'});
+    $('#mapa').scrollIntoView({block:'start',behavior:RM?'auto':'smooth'}) });
+});
+/* las poblaciones más cercanas, con la línea de vista que publica el análisis */
+var pobl=$('#pobl');
+V.barrios.filter(function(b){ return b.vis!=null }).sort(function(a,b){ return a.d-b.d }).slice(0,6).forEach(function(b){
+  var li=document.createElement('li');
+  li.innerHTML='<div><b>'+b.n.replace(/^Comunidad /,'')+'</b><br><span>'+dist(b.d*1000,2)+' del predio · línea de vista en el '+b.vis+' %</span></div>'+
+    '<a href="https://www.google.com/maps/dir/?api=1&amp;destination='+b.y.toFixed(5)+','+b.x.toFixed(5)+'" target="_blank" rel="noopener">Cómo llegar →</a>';
+  pobl.appendChild(li) });
+
+if(V.osm) $('#f-osm').innerHTML='Calles y cursos de agua: © colaboradores de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>, licencia ODbL, datos del '+
+  V.osm.split('-').reverse().join('-')+'.';
+
+/* si se llega con #po-N, se marca esa tarjeta */
+function ancla(){ var h=location.hash.match(/^#po-(\d)$/); if(h){ var c=document.getElementById('po-'+h[1]); if(c) c.classList.add('foco') } }
+addEventListener('hashchange',ancla); ancla();
+var tR; addEventListener('resize',function(){ clearTimeout(tR); tR=setTimeout(rotular,150) });
+aplicar();
+})();
+</script>

@@ -127,7 +127,7 @@ def revisar(ruta):
     return filas
 
 if __name__ == '__main__':
-    rutas = sys.argv[1:] or ['src/plantilla.html', 'src/observaciones.html', 'src/plazos.html', 'src/relato.html', 'src/especies.html', 'llms.txt']
+    rutas = sys.argv[1:] or ['src/plantilla.html', 'src/observaciones.html', 'src/plazos.html', 'src/relato.html', 'src/especies.html', 'src/visita.html', 'llms.txt']
     tot = {}
     for r in rutas:
         if r.endswith('.txt'):

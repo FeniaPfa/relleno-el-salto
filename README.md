@@ -21,6 +21,7 @@ sitio que el servicio puede cambiar o retirar.
 | [`observaciones.html`](https://relleno-el-salto.chacao.workers.dev/observaciones) | veinticinco observaciones fundadas, cada una con cita, documento y página del expediente; se eligen, se arma un solo texto y se copia |
 | [`especies.html`](https://relleno-el-salto.chacao.workers.dev/especies) | las trece especies que el expediente registra en el área, con foto de licencia libre, categoría, lo que el proyecto les hace y lo que el estudio no resuelve |
 | [`relato.html`](https://relleno-el-salto.chacao.workers.dev/relato) | el recorrido en 3D con scroll: la quebrada que se llena, el viento, el agua y la vista desde cada población |
+| [`visita.html`](https://relleno-el-salto.chacao.workers.dev/visita) | ir a ver el terreno: a cuánto estás, los seis puntos de observación del titular, la línea de vista y qué registrar; funciona sin señal una vez cargada |
 | [`foto.html`](https://relleno-el-salto.chacao.workers.dev/foto) | modo foto: la misma escena en el año 25, con cámara libre, capas y rótulos, y captura en alta resolución con sus créditos al pie |
 | [`tramite.html`](https://relleno-el-salto.chacao.workers.dev/tramite) | el recorrido del expediente después de la participación ciudadana, con los plazos de la Ley 19.300 y lo que obliga cada desenlace |
 
@@ -29,7 +30,7 @@ Las cinco son **generadas**: no se editan a mano.
 ## Construir
 
 ```bash
-python3 build.py        # src/ → index.html, observaciones.html, especies.html, relato.html, foto.html, tramite.html, sitemap.xml
+python3 build.py        # src/ → index.html, observaciones.html, especies.html, visita.html, relato.html, foto.html, tramite.html, sitemap.xml
 ```
 
 Sin dependencias ni sistema de build. Three.js y las fuentes van en el repo: la página no se
@@ -82,12 +83,14 @@ src/                  las fuentes de las páginas (ver CLAUDE.md)
   plazos.html         la página «Qué viene ahora»
   observaciones.html  las observaciones fundadas, listas para copiar
   especies.html       las especies afectadas, con foto (las fotos en especies/)
+  visita.html         la guía para ir a ver el terreno
   social.html         Open Graph y datos estructurados
   social-img.html     plantilla de social.jpg
 build.py              arma las dos páginas, el JSON-LD y el sitemap
 proyecciones.py       series de masa, metano y camiones desde el Capítulo 1
 geometria_titular.py  superficie final del relleno desde el plano 3.8 del titular → manto.json
 geometria_obras.py    edificios, piscinas, antorchas y chimeneas del titular → obras.json
+visita.py             calles de OpenStreetMap, cuenca visual en bits y puntos de observación → visita.json
 reordenar.py          cambia el orden de las secciones y renumera
 lee.py                extrae texto de un PDF (PyMuPDF)
 archivo/              scripts que bajan y extraen el expediente
